@@ -1,3 +1,5 @@
+home_team = "HomeTeam"
+away_team = "AwayTeam"
 stats = {"Div": "League Division",
          "Date": "Match Date (dd/mm/yy)",
          "Time": "Time of match kick off",

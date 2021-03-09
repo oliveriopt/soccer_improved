@@ -1,0 +1,8 @@
+league = "EPL"
+csv = ".csv"
+stats = "stats_"
+odds = "odds_"
+raw = "/input/" + league + "/01_raw/"
+teams_path = "/input/" + league + "/teams/"
+teams = "teams"
+odds_stats = "/input/" + league + "/02_odds_stats/"

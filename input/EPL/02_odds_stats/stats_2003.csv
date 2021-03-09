@@ -1,0 +1,381 @@
+,AC,FTAG,AwayTeam,HomeTeam,Div,HS,AST,HST,HC,AF,HTAG,Referee,AS,FTHG,FTR,HTHG,AR,HTR,HF,AY,HR,Date,HY,idGame
+0,9,1,Everton,Arsenal,E0,11,7,5,6,15,0,M Halsey,13,2,H,1,1,H,8,3,1,16/08/2003,1,Arsenal_Everton_2003
+1,4,0,Tottenham,Birmingham,E0,10,7,5,1,27,0,R Styles,15,1,H,1,0,H,20,5,0,16/08/2003,3,Birmingham_Tottenham_2003
+2,2,1,Wolves,Blackburn,E0,25,5,13,6,14,0,J Winter,8,5,H,2,0,H,8,1,0,16/08/2003,1,Blackburn_Wolves_2003
+3,6,2,Middlesbrough,Fulham,E0,17,5,9,7,16,1,G Poll,8,3,H,1,0,D,18,1,0,16/08/2003,1,Fulham_Middlesbrough_2003
+4,7,2,Southampton,Leicester,E0,12,10,7,2,15,0,M Riley,13,2,D,2,0,H,27,1,0,16/08/2003,3,Leicester_Southampton_2003
+5,4,0,Bolton,Man United,E0,13,5,6,8,8,0,P Durkin,15,4,H,1,0,H,12,4,0,16/08/2003,0,Man United_Bolton_2003
+6,9,1,Aston Villa,Portsmouth,E0,4,5,3,7,22,0,G Barber,9,2,H,1,1,H,18,1,0,16/08/2003,2,Portsmouth_Aston Villa_2003
+7,7,3,Man City,Charlton,E0,10,8,5,4,16,2,M Dean,14,0,A,0,0,A,12,1,1,17/08/2003,2,Charlton_Man City_2003
+8,8,2,Newcastle,Leeds,E0,8,10,3,4,16,1,R Martin,19,2,D,1,0,D,19,2,0,17/08/2003,4,Leeds_Newcastle_2003
+9,6,2,Chelsea,Liverpool,E0,12,6,7,8,12,1,S Bennett,10,1,A,0,0,A,13,1,0,17/08/2003,3,Liverpool_Chelsea_2003
+10,2,2,Blackburn,Bolton,E0,16,5,10,9,15,0,A D'Urso,10,2,D,2,1,H,11,4,0,23/08/2003,2,Bolton_Blackburn_2003
+11,2,1,Leicester,Chelsea,E0,17,1,7,7,18,1,R Styles,5,2,H,2,2,H,12,3,1,23/08/2003,0,Chelsea_Leicester_2003
+12,10,1,Fulham,Everton,E0,10,15,8,4,14,0,N Barry,23,3,H,3,0,H,15,4,0,23/08/2003,2,Everton_Fulham_2003
+13,7,1,Portsmouth,Man City,E0,21,2,11,11,22,1,M Messias,4,1,D,0,0,A,8,3,0,23/08/2003,2,Man City_Portsmouth_2003
+14,4,2,Man United,Newcastle,E0,7,8,5,2,14,0,U Rennie,11,1,A,1,0,H,18,2,0,23/08/2003,2,Newcastle_Man United_2003
+15,7,0,Birmingham,Southampton,E0,14,5,7,2,19,0,Graham Barber,12,0,D,0,0,D,15,1,0,23/08/2003,3,Southampton_Birmingham_2003
+16,0,1,Leeds,Tottenham,E0,20,2,4,6,14,1,S Dunn,5,2,H,1,0,D,14,2,0,23/08/2003,1,Tottenham_Leeds_2003
+17,2,4,Charlton,Wolves,E0,10,6,4,5,7,4,P Dowd,8,0,A,0,1,A,11,1,0,23/08/2003,2,Wolves_Charlton_2003
+18,9,0,Liverpool,Aston Villa,E0,14,9,9,8,7,0,P Durkin,15,0,D,0,0,D,16,1,0,24/08/2003,0,Aston Villa_Liverpool_2003
+19,5,4,Arsenal,Middlesbrough,E0,10,10,4,3,7,3,D Gallagher,14,0,A,0,0,A,11,0,0,24/08/2003,1,Middlesbrough_Arsenal_2003
+20,0,3,Man City,Blackburn,E0,14,5,10,9,10,1,A Wiley,13,2,A,1,0,D,14,1,0,25/08/2003,2,Blackburn_Man City_2003
+21,8,2,Everton,Charlton,E0,10,4,4,6,8,1,S Dunn,13,2,D,1,0,D,8,1,0,26/08/2003,1,Charlton_Everton_2003
+22,10,0,Southampton,Leeds,E0,15,8,6,6,11,0,P Durkin,14,0,D,0,0,D,10,3,0,26/08/2003,2,Leeds_Southampton_2003
+23,4,0,Middlesbrough,Leicester,E0,12,3,4,6,16,0,G Barber,13,0,D,0,0,D,17,2,0,26/08/2003,3,Leicester_Middlesbrough_2003
+24,4,0,Bolton,Portsmouth,E0,13,4,8,0,14,0,D Gallagher,13,4,H,0,0,D,12,4,0,26/08/2003,2,Portsmouth_Bolton_2003
+25,6,0,Aston Villa,Arsenal,E0,14,3,6,2,16,0,M Dean,6,2,H,0,0,D,16,4,0,27/08/2003,3,Arsenal_Aston Villa_2003
+26,5,0,Tottenham,Liverpool,E0,22,4,10,8,27,0,U Rennie,9,0,D,0,0,D,20,5,0,27/08/2003,2,Liverpool_Tottenham_2003
+27,2,0,Wolves,Man United,E0,14,2,5,10,12,0,G Poll,12,1,H,0,0,D,6,2,0,27/08/2003,2,Man United_Wolves_2003
+28,1,1,Leicester,Aston Villa,E0,10,4,8,11,17,0,S Bennett,5,3,H,3,1,H,18,2,0,30/08/2003,1,Aston Villa_Leicester_2003
+29,3,0,Charlton,Bolton,E0,13,1,9,12,16,0,A Wiley,7,0,D,0,0,D,18,2,0,30/08/2003,4,Bolton_Charlton_2003
+30,4,2,Blackburn,Chelsea,E0,12,4,5,3,19,1,M Dean,7,2,D,1,0,D,11,4,0,30/08/2003,0,Chelsea_Blackburn_2003
+31,5,3,Liverpool,Everton,E0,11,11,5,9,17,1,M Riley,18,0,A,0,0,A,22,3,0,30/08/2003,3,Everton_Liverpool_2003
+32,3,3,Leeds,Middlesbrough,E0,27,4,16,6,21,1,N Barry,8,2,A,0,0,A,17,3,0,30/08/2003,2,Middlesbrough_Leeds_2003
+33,6,1,Birmingham,Newcastle,E0,19,3,10,9,15,0,M Messias,7,0,A,0,0,D,15,1,0,30/08/2003,2,Newcastle_Birmingham_2003
+34,4,3,Fulham,Tottenham,E0,18,5,6,9,13,1,J Winter,9,0,A,0,0,A,15,2,0,30/08/2003,0,Tottenham_Fulham_2003
+35,6,0,Portsmouth,Wolves,E0,11,2,2,4,16,0,A D'Urso,9,0,D,0,0,D,15,5,0,30/08/2003,3,Wolves_Portsmouth_2003
+36,5,2,Arsenal,Man City,E0,11,5,7,5,11,0,G Poll,10,1,A,1,0,H,12,3,0,31/08/2003,4,Man City_Arsenal_2003
+37,5,0,Man United,Southampton,E0,12,9,5,9,10,0,M Halsey,10,1,H,0,0,D,8,0,0,31/08/2003,1,Southampton_Man United_2003
+38,1,1,Portsmouth,Arsenal,E0,12,2,7,7,19,1,A Wiley,8,1,D,1,0,D,11,3,0,13/09/2003,2,Arsenal_Portsmouth_2003
+39,10,3,Liverpool,Blackburn,E0,8,14,5,5,11,1,N Barry,21,1,A,1,0,D,13,2,1,13/09/2003,2,Blackburn_Liverpool_2003
+40,1,0,Middlesbrough,Bolton,E0,13,6,8,10,14,0,P Dowd,7,2,H,1,0,H,17,3,0,13/09/2003,3,Bolton_Middlesbrough_2003
+41,3,2,Man United,Charlton,E0,8,9,3,3,18,0,M Riley,14,0,A,0,0,D,19,2,1,13/09/2003,2,Charlton_Man United_2003
+42,3,2,Tottenham,Chelsea,E0,12,3,6,10,20,1,G Poll,9,4,H,2,0,H,16,4,0,13/09/2003,1,Chelsea_Tottenham_2003
+43,3,2,Newcastle,Everton,E0,9,2,7,6,21,0,R Styles,4,2,D,0,1,D,20,5,1,13/09/2003,5,Everton_Newcastle_2003
+44,3,0,Wolves,Southampton,E0,15,3,10,7,20,0,U Rennie,10,2,H,1,0,H,16,5,0,13/09/2003,3,Southampton_Wolves_2003
+45,1,2,Fulham,Birmingham,E0,15,6,9,8,21,1,S Dunn,8,2,D,1,1,D,16,4,1,14/09/2003,1,Birmingham_Fulham_2003
+46,3,1,Aston Villa,Man City,E0,17,4,9,4,11,1,M Halsey,8,4,H,0,0,A,11,1,0,14/09/2003,0,Man City_Aston Villa_2003
+47,5,0,Leeds,Leicester,E0,19,2,11,9,10,0,J Winter,14,4,H,2,0,H,10,2,0,15/09/2003,0,Leicester_Leeds_2003
+48,2,1,Charlton,Aston Villa,E0,15,3,6,10,13,0,C Foy,8,2,H,1,0,H,13,2,0,20/09/2003,3,Aston Villa_Charlton_2003
+49,4,2,Man City,Fulham,E0,13,6,9,2,19,0,P Dowd,7,2,D,0,0,D,14,5,0,20/09/2003,2,Fulham_Man City_2003
+50,1,2,Birmingham,Leeds,E0,12,3,6,6,14,0,D Gallagher,7,0,A,0,0,D,15,2,1,20/09/2003,4,Leeds_Birmingham_2003
+51,4,1,Leicester,Liverpool,E0,19,3,8,4,9,0,M Halsey,9,2,H,1,0,H,10,0,0,20/09/2003,0,Liverpool_Leicester_2003
+52,5,0,Bolton,Newcastle,E0,14,6,7,7,12,0,Graham Barber,8,0,D,0,0,D,15,1,0,20/09/2003,1,Newcastle_Bolton_2003
+53,6,2,Blackburn,Portsmouth,E0,9,10,6,7,18,2,P Durkin,12,1,A,0,0,A,17,3,0,20/09/2003,2,Portsmouth_Blackburn_2003
+54,7,3,Southampton,Tottenham,E0,13,10,6,4,14,2,A D'Urso,12,1,A,0,0,A,15,1,0,20/09/2003,1,Tottenham_Southampton_2003
+55,3,5,Chelsea,Wolves,E0,8,8,4,1,15,2,M Messias,14,0,A,0,0,A,15,3,0,20/09/2003,2,Wolves_Chelsea_2003
+56,3,0,Arsenal,Man United,E0,9,1,7,4,15,0,S Bennett,6,0,D,0,1,D,11,3,0,21/09/2003,4,Man United_Arsenal_2003
+57,6,0,Everton,Middlesbrough,E0,9,5,4,4,14,0,A Wiley,9,1,H,1,0,H,12,3,0,21/09/2003,2,Middlesbrough_Everton_2003
+58,4,2,Newcastle,Arsenal,E0,11,4,7,3,17,1,M Riley,5,3,H,1,0,D,13,1,0,26/09/2003,0,Arsenal_Newcastle_2003
+59,4,0,Portsmouth,Birmingham,E0,7,5,5,4,16,0,S Bennett,10,2,H,1,0,H,10,3,0,27/09/2003,1,Birmingham_Portsmouth_2003
+60,3,1,Wolves,Bolton,E0,22,4,14,12,4,1,M Dean,8,1,D,0,0,A,16,0,0,27/09/2003,2,Bolton_Wolves_2003
+61,5,0,Aston Villa,Chelsea,E0,10,1,5,6,9,0,J Winter,7,1,H,1,0,H,7,2,0,27/09/2003,0,Chelsea_Aston Villa_2003
+62,3,4,Man United,Leicester,E0,10,9,4,7,11,3,G Poll,11,1,A,0,0,A,7,0,0,27/09/2003,0,Leicester_Man United_2003
+63,4,1,Middlesbrough,Southampton,E0,10,9,6,4,19,1,B Knight,12,0,A,0,0,A,12,3,1,27/09/2003,4,Southampton_Middlesbrough_2003
+64,5,2,Fulham,Blackburn,E0,6,2,0,5,11,1,M Messias,7,0,A,0,0,A,14,4,0,28/09/2003,2,Blackburn_Fulham_2003
+65,5,2,Liverpool,Charlton,E0,14,9,5,7,9,1,R Styles,17,3,H,2,0,H,11,1,0,28/09/2003,2,Charlton_Liverpool_2003
+66,4,0,Leeds,Everton,E0,20,2,9,11,15,0,P Durkin,6,4,H,3,0,H,11,2,0,28/09/2003,0,Everton_Leeds_2003
+67,6,0,Tottenham,Man City,E0,21,2,10,6,15,0,N Barry,4,0,D,0,0,D,7,1,0,28/09/2003,2,Man City_Tottenham_2003
+68,4,0,Leicester,Fulham,E0,16,4,8,4,10,0,C Foy,8,2,H,1,0,H,14,1,0,04/10/2003,2,Fulham_Leicester_2003
+69,5,1,Blackburn,Leeds,E0,15,9,5,2,20,0,U Rennie,17,2,H,2,0,H,18,1,0,04/10/2003,3,Leeds_Blackburn_2003
+70,3,2,Arsenal,Liverpool,E0,13,8,7,11,20,1,G Barber,12,1,A,1,0,D,12,2,0,04/10/2003,2,Liverpool_Arsenal_2003
+71,1,0,Birmingham,Man United,E0,10,2,8,5,11,0,M Dean,5,3,H,1,1,H,13,1,0,04/10/2003,0,Man United_Birmingham_2003
+72,4,0,Southampton,Newcastle,E0,14,4,9,8,10,0,P Dowd,7,1,H,1,0,H,14,2,0,04/10/2003,3,Newcastle_Southampton_2003
+73,9,2,Charlton,Portsmouth,E0,16,6,8,6,14,0,G Poll,11,1,A,1,0,H,20,2,0,04/10/2003,3,Portsmouth_Charlton_2003
+74,6,0,Everton,Tottenham,E0,13,4,7,2,14,0,D Gallagher,12,3,H,1,0,H,15,2,0,04/10/2003,2,Tottenham_Everton_2003
+75,10,0,Man City,Wolves,E0,8,5,4,3,7,0,J Winter,9,1,H,0,0,D,13,2,0,04/10/2003,3,Wolves_Man City_2003
+76,5,1,Bolton,Aston Villa,E0,14,5,8,9,16,0,R Styles,15,1,D,0,0,D,14,5,0,05/10/2003,1,Aston Villa_Bolton_2003
+77,8,2,Chelsea,Middlesbrough,E0,15,6,6,2,18,1,M Halsey,10,1,A,0,0,A,14,2,0,05/10/2003,1,Middlesbrough_Chelsea_2003
+78,18,0,Chelsea,Birmingham,E0,6,8,2,2,14,0,N Barry,13,0,D,0,0,D,10,4,0,14/10/2003,2,Birmingham_Chelsea_2003
+79,3,1,Chelsea,Arsenal,E0,13,3,9,6,13,1,P Durkin,7,2,H,1,0,D,11,2,0,18/10/2003,1,Arsenal_Chelsea_2003
+80,11,0,Wolves,Fulham,E0,9,6,4,4,11,0,H Webb,14,0,D,0,0,D,12,2,0,18/10/2003,2,Fulham_Wolves_2003
+81,2,1,Man United,Leeds,E0,3,10,2,7,8,0,G Poll,18,0,A,0,0,D,19,1,0,18/10/2003,4,Leeds_Man United_2003
+82,4,2,Bolton,Man City,E0,16,8,13,7,8,1,S Bennett,12,6,H,1,0,D,11,1,1,18/10/2003,1,Man City_Bolton_2003
+83,2,1,Newcastle,Middlesbrough,E0,11,3,7,8,12,1,A Wiley,4,0,A,0,0,A,17,3,0,18/10/2003,3,Middlesbrough_Newcastle_2003
+84,3,0,Liverpool,Portsmouth,E0,10,7,6,5,10,0,S Dunn,13,1,H,1,0,H,22,2,0,18/10/2003,2,Portsmouth_Liverpool_2003
+85,4,0,Aston Villa,Birmingham,E0,4,1,3,3,20,0,M Riley,2,0,D,0,0,D,16,1,0,19/10/2003,2,Birmingham_Aston Villa_2003
+86,6,0,Southampton,Everton,E0,13,7,6,8,6,0,M Messias,19,0,D,0,0,D,11,2,0,19/10/2003,1,Everton_Southampton_2003
+87,1,2,Tottenham,Leicester,E0,22,4,15,5,19,0,A D'Urso,7,1,A,1,0,H,12,3,0,19/10/2003,3,Leicester_Tottenham_2003
+88,3,1,Charlton,Blackburn,E0,15,5,6,5,12,1,G Barber,10,0,A,0,0,A,17,0,0,20/10/2003,3,Blackburn_Charlton_2003
+89,8,3,Newcastle,Fulham,E0,4,7,4,4,16,1,B Knight,11,2,A,2,0,H,14,2,0,21/10/2003,2,Fulham_Newcastle_2003
+90,3,0,Everton,Aston Villa,E0,16,2,6,9,12,0,A D'Urso,8,0,D,0,0,D,11,1,0,25/10/2003,0,Aston Villa_Everton_2003
+91,3,1,Birmingham,Bolton,E0,16,3,7,7,16,1,C Foy,7,0,A,0,0,A,14,2,0,25/10/2003,1,Bolton_Birmingham_2003
+92,5,0,Man City,Chelsea,E0,7,6,4,1,8,0,P Dowd,9,1,H,1,0,H,8,0,0,25/10/2003,0,Chelsea_Man City_2003
+93,3,1,Leeds,Liverpool,E0,20,5,9,9,13,1,J Winter,7,3,H,1,0,D,11,2,0,25/10/2003,0,Liverpool_Leeds_2003
+94,2,3,Fulham,Man United,E0,17,7,9,10,14,1,M Riley,12,1,A,1,0,D,10,2,0,25/10/2003,4,Man United_Fulham_2003
+95,6,0,Portsmouth,Newcastle,E0,10,4,8,6,14,0,P Durkin,9,3,H,2,0,H,12,1,0,25/10/2003,0,Newcastle_Portsmouth_2003
+96,3,0,Blackburn,Southampton,E0,22,3,15,5,14,0,S Bennett,6,2,H,0,1,D,17,1,0,25/10/2003,0,Southampton_Blackburn_2003
+97,6,3,Leicester,Wolves,E0,12,5,8,2,13,3,P Walton,7,4,H,0,0,A,6,2,0,25/10/2003,0,Wolves_Leicester_2003
+98,5,1,Arsenal,Charlton,E0,6,6,4,7,13,1,S Dunn,11,1,D,1,0,D,15,1,0,26/10/2003,1,Charlton_Arsenal_2003
+99,5,0,Middlesbrough,Tottenham,E0,12,10,8,8,10,0,M Dean,16,0,D,0,0,D,14,2,0,26/10/2003,3,Tottenham_Middlesbrough_2003
+100,1,1,Chelsea,Everton,E0,12,7,4,3,11,0,J Winter,17,0,A,0,0,D,5,0,0,01/11/2003,0,Everton_Chelsea_2003
+101,3,4,Arsenal,Leeds,E0,9,9,5,4,11,3,M Dean,13,1,A,0,0,A,12,0,0,01/11/2003,1,Leeds_Arsenal_2003
+102,3,0,Portsmouth,Man United,E0,10,3,4,3,12,0,N Barry,9,3,H,1,0,H,13,3,0,01/11/2003,0,Man United_Portsmouth_2003
+103,3,0,Wolves,Middlesbrough,E0,14,2,11,7,12,0,S Dunn,9,2,H,0,1,D,8,2,0,01/11/2003,1,Middlesbrough_Wolves_2003
+104,3,1,Aston Villa,Newcastle,E0,22,6,13,15,17,1,M Messias,11,1,D,1,1,D,9,3,0,01/11/2003,2,Newcastle_Aston Villa_2003
+105,6,2,Man City,Southampton,E0,8,9,5,4,16,1,A Wiley,13,0,A,0,0,A,10,1,0,01/11/2003,1,Southampton_Man City_2003
+106,5,1,Bolton,Tottenham,E0,10,15,6,7,6,0,U Rennie,25,0,A,0,0,D,18,0,0,01/11/2003,3,Tottenham_Bolton_2003
+107,8,2,Liverpool,Fulham,E0,10,6,6,4,10,1,R Styles,10,1,A,1,0,D,13,1,1,02/11/2003,1,Fulham_Liverpool_2003
+108,6,0,Blackburn,Leicester,E0,4,2,3,2,11,0,D Gallagher,10,2,H,0,0,D,11,1,0,02/11/2003,2,Leicester_Blackburn_2003
+109,8,2,Charlton,Birmingham,E0,14,9,13,15,18,1,P Dowd,13,1,A,0,0,A,14,1,0,03/11/2003,1,Birmingham_Charlton_2003
+110,5,1,Tottenham,Arsenal,E0,9,2,3,9,22,1,M Halsey,5,2,H,0,0,A,8,4,0,08/11/2003,1,Arsenal_Tottenham_2003
+111,2,2,Middlesbrough,Aston Villa,E0,12,3,4,5,16,1,D Gallagher,8,0,A,0,0,A,19,2,0,08/11/2003,1,Aston Villa_Middlesbrough_2003
+112,6,0,Southampton,Bolton,E0,18,5,11,8,14,0,H Webb,8,0,D,0,1,D,10,1,0,08/11/2003,2,Bolton_Southampton_2003
+113,5,1,Fulham,Charlton,E0,12,7,7,1,12,0,A D'Urso,11,3,H,1,0,H,10,2,0,08/11/2003,1,Charlton_Fulham_2003
+114,2,1,Leeds,Portsmouth,E0,14,5,6,3,11,1,C Foy,6,6,H,2,0,H,9,4,0,08/11/2003,1,Portsmouth_Leeds_2003
+115,1,1,Birmingham,Wolves,E0,11,2,4,8,12,0,G Barber,4,1,D,0,0,D,13,1,0,08/11/2003,2,Wolves_Birmingham_2003
+116,0,0,Newcastle,Chelsea,E0,15,3,8,2,5,0,P Durkin,4,5,H,3,1,H,13,0,0,09/11/2003,0,Chelsea_Newcastle_2003
+117,6,2,Man United,Liverpool,E0,10,4,4,2,9,0,G Poll,6,1,A,0,0,D,16,2,0,09/11/2003,1,Liverpool_Man United_2003
+118,3,3,Leicester,Man City,E0,14,3,4,12,12,1,M Riley,6,0,A,0,0,A,7,2,0,09/11/2003,2,Man City_Leicester_2003
+119,3,1,Everton,Blackburn,E0,18,2,12,12,9,0,P Dowd,8,2,H,2,0,H,16,2,0,10/11/2003,3,Blackburn_Everton_2003
+120,6,3,Arsenal,Birmingham,E0,7,6,1,8,11,1,P Durkin,9,0,A,0,0,A,8,2,0,22/11/2003,1,Birmingham_Arsenal_2003
+121,3,0,Wolves,Everton,E0,23,4,15,8,23,0,M Riley,8,2,H,2,0,H,7,2,0,22/11/2003,2,Everton_Wolves_2003
+122,2,2,Bolton,Leeds,E0,13,5,10,8,11,2,G Poll,10,0,A,0,0,A,15,0,0,22/11/2003,1,Leeds_Bolton_2003
+123,3,1,Charlton,Leicester,E0,13,4,7,3,15,0,G Barber,7,1,D,1,0,H,15,1,0,22/11/2003,2,Leicester_Charlton_2003
+124,4,1,Blackburn,Man United,E0,14,6,8,7,15,0,M Halsey,13,2,H,2,0,H,6,1,0,22/11/2003,0,Man United_Blackburn_2003
+125,4,0,Liverpool,Middlesbrough,E0,8,1,3,3,15,0,P Dowd,8,0,D,0,0,D,16,2,0,22/11/2003,2,Middlesbrough_Liverpool_2003
+126,2,0,Man City,Newcastle,E0,17,1,10,4,16,0,N Barry,5,3,H,0,0,D,13,2,0,22/11/2003,1,Newcastle_Man City_2003
+127,3,1,Chelsea,Southampton,E0,13,4,3,3,13,0,D Gallagher,8,0,A,0,0,D,7,1,0,22/11/2003,0,Southampton_Chelsea_2003
+128,3,1,Aston Villa,Tottenham,E0,10,6,5,3,15,0,J Winter,13,2,H,0,0,D,14,1,0,23/11/2003,0,Tottenham_Aston Villa_2003
+129,11,0,Portsmouth,Fulham,E0,8,6,4,2,16,0,A Wiley,12,2,H,2,1,H,9,3,0,24/11/2003,0,Fulham_Portsmouth_2003
+130,4,0,Southampton,Aston Villa,E0,22,3,12,9,13,0,M Messias,7,1,H,1,0,H,13,1,0,29/11/2003,0,Aston Villa_Southampton_2003
+131,6,0,Tottenham,Blackburn,E0,18,3,12,9,13,0,G Poll,9,1,H,0,0,D,10,1,0,29/11/2003,0,Blackburn_Tottenham_2003
+132,7,0,Everton,Bolton,E0,13,3,6,7,18,0,P Durkin,7,2,H,1,0,H,11,2,0,29/11/2003,0,Bolton_Everton_2003
+133,4,1,Leeds,Charlton,E0,13,6,6,3,17,1,M Halsey,12,0,A,0,0,A,11,1,0,29/11/2003,2,Charlton_Leeds_2003
+134,4,2,Leicester,Portsmouth,E0,12,3,7,11,14,1,M Dean,7,0,A,0,0,A,12,1,0,29/11/2003,5,Portsmouth_Leicester_2003
+135,3,1,Newcastle,Wolves,E0,10,4,4,5,14,1,S Bennett,7,1,D,1,0,D,14,1,0,29/11/2003,2,Wolves_Newcastle_2003
+136,0,0,Fulham,Arsenal,E0,22,1,14,9,11,0,G Barber,7,0,D,0,0,D,13,1,0,30/11/2003,1,Arsenal_Fulham_2003
+137,4,0,Man United,Chelsea,E0,12,3,4,2,12,0,A Wiley,5,1,H,1,0,H,11,1,0,30/11/2003,4,Chelsea_Man United_2003
+138,4,1,Birmingham,Liverpool,E0,10,4,7,6,17,1,N Barry,7,3,H,1,0,D,24,1,0,30/11/2003,2,Liverpool_Birmingham_2003
+139,0,1,Middlesbrough,Man City,E0,24,0,14,12,12,1,M Riley,2,0,A,0,0,A,15,0,0,30/11/2003,0,Man City_Middlesbrough_2003
+140,7,4,Blackburn,Birmingham,E0,6,7,2,10,15,0,G Barber,11,0,A,0,0,D,23,1,1,06/12/2003,1,Birmingham_Blackburn_2003
+141,2,1,Bolton,Fulham,E0,10,5,3,3,11,0,A D'Urso,10,2,H,0,0,D,15,2,0,06/12/2003,0,Fulham_Bolton_2003
+142,8,1,Chelsea,Leeds,E0,8,10,4,2,11,0,M Dean,19,1,D,1,0,H,14,2,0,06/12/2003,3,Leeds_Chelsea_2003
+143,5,1,Arsenal,Leicester,E0,4,5,1,7,12,0,R Styles,8,1,D,0,1,D,13,1,0,06/12/2003,1,Leicester_Arsenal_2003
+144,5,0,Aston Villa,Man United,E0,12,3,8,6,11,0,S Dunn,10,4,H,2,0,H,6,1,0,06/12/2003,0,Man United_Aston Villa_2003
+145,5,0,Portsmouth,Middlesbrough,E0,5,2,3,6,20,0,S Bennett,6,0,D,0,1,D,17,3,0,06/12/2003,2,Middlesbrough_Portsmouth_2003
+146,1,1,Liverpool,Newcastle,E0,13,3,6,8,13,1,G Poll,7,1,D,0,0,A,13,4,0,06/12/2003,1,Newcastle_Liverpool_2003
+147,5,2,Wolves,Tottenham,E0,12,8,10,4,8,1,U Rennie,16,5,H,1,0,D,14,0,0,06/12/2003,2,Tottenham_Wolves_2003
+148,5,0,Man City,Everton,E0,9,7,2,3,13,0,J Winter,15,0,D,0,0,D,11,1,0,07/12/2003,1,Everton_Man City_2003
+149,9,2,Charlton,Southampton,E0,18,14,14,8,12,0,P Walton,20,3,H,2,0,H,12,0,0,07/12/2003,0,Southampton_Charlton_2003
+150,3,2,Bolton,Chelsea,E0,9,2,5,8,11,1,M Messias,4,1,A,1,0,D,13,2,0,13/12/2003,2,Chelsea_Bolton_2003
+151,7,2,Birmingham,Leicester,E0,8,4,5,6,16,1,M Riley,9,0,A,0,0,A,19,2,2,13/12/2003,2,Leicester_Birmingham_2003
+152,5,2,Southampton,Liverpool,E0,18,4,10,9,8,1,P Durkin,8,1,A,0,0,A,6,0,0,13/12/2003,0,Liverpool_Southampton_2003
+153,5,1,Man City,Man United,E0,10,9,7,2,10,0,M Halsey,12,3,H,2,0,H,8,2,0,13/12/2003,0,Man United_Man City_2003
+154,7,0,Charlton,Middlesbrough,E0,12,3,6,3,11,0,H Webb,10,0,D,0,0,D,13,1,0,13/12/2003,1,Middlesbrough_Charlton_2003
+155,7,0,Tottenham,Newcastle,E0,19,4,11,11,12,0,A Wiley,4,4,H,1,0,H,10,2,0,13/12/2003,2,Newcastle_Tottenham_2003
+156,10,2,Everton,Portsmouth,E0,12,4,10,7,13,2,U Rennie,9,1,A,1,0,A,13,1,0,13/12/2003,1,Portsmouth_Everton_2003
+157,6,0,Blackburn,Arsenal,E0,11,1,7,5,14,0,A D'Urso,5,1,H,1,0,H,14,4,0,14/12/2003,2,Arsenal_Blackburn_2003
+158,6,2,Wolves,Aston Villa,E0,11,5,8,4,14,1,G Poll,8,3,H,2,0,H,12,4,0,14/12/2003,3,Aston Villa_Wolves_2003
+159,5,2,Fulham,Leeds,E0,14,7,11,6,11,0,N Barry,10,3,H,1,0,H,17,1,0,14/12/2003,2,Leeds_Fulham_2003
+160,1,2,Aston Villa,Blackburn,E0,12,7,5,9,11,0,D Gallagher,15,0,A,0,0,D,7,0,0,20/12/2003,1,Blackburn_Aston Villa_2003
+161,1,1,Arsenal,Bolton,E0,19,4,13,8,13,0,G Poll,9,1,D,0,0,D,11,2,0,20/12/2003,2,Bolton_Arsenal_2003
+162,9,0,Newcastle,Charlton,E0,18,5,10,7,9,0,S Bennett,11,0,D,0,0,D,11,0,0,20/12/2003,0,Charlton_Newcastle_2003
+163,7,2,Leicester,Everton,E0,15,4,8,11,18,1,P Dowd,6,3,H,1,0,D,13,3,0,20/12/2003,2,Everton_Leicester_2003
+164,8,1,Chelsea,Fulham,E0,7,9,2,2,10,0,M Riley,11,0,A,0,0,D,11,3,0,20/12/2003,2,Fulham_Chelsea_2003
+165,5,0,Portsmouth,Southampton,E0,12,7,7,8,21,0,J Winter,11,3,H,1,0,H,7,3,0,21/12/2003,0,Southampton_Portsmouth_2003
+166,8,2,Man United,Tottenham,E0,14,7,8,7,8,2,R Styles,12,1,A,0,0,A,12,2,0,21/12/2003,2,Tottenham_Man United_2003
+167,5,1,Leeds,Man City,E0,19,4,11,8,8,1,G Barber,6,1,D,0,0,A,7,3,0,22/12/2003,0,Man City_Leeds_2003
+168,3,0,Wolves,Arsenal,E0,15,1,10,14,17,0,P Dowd,5,3,H,2,0,H,15,5,0,26/12/2003,2,Arsenal_Wolves_2003
+169,3,1,Man City,Birmingham,E0,5,5,3,9,14,1,U Rennie,9,2,H,0,0,A,18,1,0,26/12/2003,2,Birmingham_Man City_2003
+170,1,2,Middlesbrough,Blackburn,E0,13,3,10,14,10,1,A Wiley,5,2,D,1,0,D,11,1,0,26/12/2003,2,Blackburn_Middlesbrough_2003
+171,6,2,Chelsea,Charlton,E0,8,8,4,8,10,1,G Poll,15,4,H,2,0,H,14,1,0,26/12/2003,1,Charlton_Chelsea_2003
+172,5,0,Southampton,Fulham,E0,14,2,7,11,12,0,D Gallagher,6,2,H,1,0,H,13,2,0,26/12/2003,0,Fulham_Southampton_2003
+173,5,0,Aston Villa,Leeds,E0,6,4,3,7,13,0,S Bennett,13,0,D,0,0,D,15,2,0,26/12/2003,0,Leeds_Aston Villa_2003
+174,7,1,Newcastle,Leicester,E0,6,6,5,6,10,0,C Foy,12,1,D,0,0,D,11,0,0,26/12/2003,0,Leicester_Newcastle_2003
+175,1,1,Bolton,Liverpool,E0,13,2,8,7,18,0,J Winter,7,3,H,1,0,H,10,2,0,26/12/2003,0,Liverpool_Bolton_2003
+176,2,2,Everton,Man United,E0,19,6,11,7,10,1,M Dean,10,3,H,2,0,H,8,2,0,26/12/2003,0,Man United_Everton_2003
+177,6,0,Tottenham,Portsmouth,E0,10,3,8,3,10,0,S Dunn,5,2,H,0,0,D,10,1,0,26/12/2003,1,Portsmouth_Tottenham_2003
+178,3,0,Fulham,Aston Villa,E0,12,3,8,8,7,0,B Knight,9,3,H,1,0,H,17,0,0,28/12/2003,0,Aston Villa_Fulham_2003
+179,7,2,Leicester,Bolton,E0,15,6,8,3,17,1,N Barry,7,2,D,1,0,D,16,2,0,28/12/2003,1,Bolton_Leicester_2003
+180,1,0,Portsmouth,Chelsea,E0,15,3,8,7,14,0,G Barber,7,3,H,0,0,D,8,0,0,28/12/2003,0,Chelsea_Portsmouth_2003
+181,2,0,Birmingham,Everton,E0,16,2,6,5,13,0,R Styles,5,1,H,0,0,D,7,0,0,28/12/2003,0,Everton_Birmingham_2003
+182,7,2,Liverpool,Man City,E0,16,9,8,7,14,0,M Riley,11,2,D,1,0,H,6,2,0,28/12/2003,1,Man City_Liverpool_2003
+183,2,1,Man United,Middlesbrough,E0,11,6,2,4,15,1,M Messias,10,0,A,0,1,A,11,2,0,28/12/2003,3,Middlesbrough_Man United_2003
+184,8,1,Blackburn,Newcastle,E0,15,3,11,8,13,0,M Halsey,11,0,A,0,0,D,6,1,0,28/12/2003,0,Newcastle_Blackburn_2003
+185,11,1,Charlton,Tottenham,E0,18,8,9,11,13,0,P Durkin,10,0,A,0,0,D,8,0,0,28/12/2003,1,Tottenham_Charlton_2003
+186,10,1,Leeds,Wolves,E0,11,4,4,6,14,1,A D'Urso,9,3,H,1,1,D,11,4,0,28/12/2003,1,Wolves_Leeds_2003
+187,3,1,Arsenal,Southampton,E0,6,9,3,2,10,1,S Dunn,17,0,A,0,0,A,14,0,0,29/12/2003,1,Southampton_Arsenal_2003
+188,6,1,Portsmouth,Aston Villa,E0,18,4,13,9,14,0,J Winter,11,2,H,1,0,H,17,0,0,06/01/2004,0,Aston Villa_Portsmouth_2003
+189,6,2,Man United,Bolton,E0,15,7,5,10,8,2,D Gallagher,11,1,A,0,0,A,4,0,0,07/01/2004,2,Bolton_Man United_2003
+190,3,1,Liverpool,Chelsea,E0,9,1,2,8,9,1,S Dunn,4,0,A,0,1,A,15,2,0,07/01/2004,0,Chelsea_Liverpool_2003
+191,4,1,Arsenal,Everton,E0,8,5,4,5,16,1,A Wiley,9,1,D,0,0,A,13,3,0,07/01/2004,0,Everton_Arsenal_2003
+192,2,1,Charlton,Man City,E0,18,4,10,2,11,0,P Walton,9,1,D,1,0,H,9,0,0,07/01/2004,0,Man City_Charlton_2003
+193,1,1,Fulham,Middlesbrough,E0,10,4,5,9,17,0,P Durkin,9,2,H,1,0,H,14,2,0,07/01/2004,1,Middlesbrough_Fulham_2003
+194,3,0,Leeds,Newcastle,E0,13,5,6,5,17,0,P Dowd,9,1,H,1,0,H,14,1,0,07/01/2004,0,Newcastle_Leeds_2003
+195,5,0,Leicester,Southampton,E0,14,8,14,4,15,0,H Webb,9,0,D,0,0,D,12,1,0,07/01/2004,2,Southampton_Leicester_2003
+196,6,1,Birmingham,Tottenham,E0,11,3,7,1,6,0,B Knight,9,4,H,3,0,H,15,0,0,07/01/2004,0,Tottenham_Birmingham_2003
+197,7,2,Blackburn,Wolves,E0,10,5,5,2,20,1,N Barry,9,2,D,0,0,A,13,1,0,07/01/2004,1,Wolves_Blackburn_2003
+198,3,1,Middlesbrough,Arsenal,E0,20,4,13,7,21,0,A D'Urso,5,4,H,2,0,H,12,1,0,10/01/2004,1,Arsenal_Middlesbrough_2003
+199,10,1,Southampton,Birmingham,E0,11,6,6,7,23,1,S Bennett,9,2,H,1,1,D,14,1,0,10/01/2004,0,Birmingham_Southampton_2003
+200,7,4,Bolton,Blackburn,E0,8,10,3,4,13,2,S Dunn,16,3,A,3,0,H,15,3,0,10/01/2004,2,Blackburn_Bolton_2003
+201,5,0,Wolves,Charlton,E0,10,4,4,6,12,0,R Styles,7,2,H,1,0,H,6,3,0,10/01/2004,1,Charlton_Wolves_2003
+202,7,1,Everton,Fulham,E0,14,5,10,5,9,0,G Poll,11,2,H,1,0,H,19,0,0,10/01/2004,0,Fulham_Everton_2003
+203,5,1,Tottenham,Leeds,E0,7,8,1,4,13,0,M Halsey,15,0,A,0,0,D,17,1,0,10/01/2004,0,Leeds_Tottenham_2003
+204,6,0,Aston Villa,Liverpool,E0,12,2,4,3,15,0,G Barber,8,1,H,1,0,H,14,2,0,10/01/2004,3,Liverpool_Aston Villa_2003
+205,7,2,Man City,Portsmouth,E0,11,6,8,2,8,2,M Messias,15,4,H,1,0,A,7,2,0,10/01/2004,0,Portsmouth_Man City_2003
+206,2,4,Chelsea,Leicester,E0,6,6,3,6,7,2,U Rennie,11,0,A,0,0,A,17,1,0,11/01/2004,0,Leicester_Chelsea_2003
+207,3,0,Newcastle,Man United,E0,12,3,7,2,11,0,P Durkin,7,0,D,0,0,D,13,0,0,11/01/2004,2,Man United_Newcastle_2003
+208,2,0,Portsmouth,Bolton,E0,13,3,6,2,13,0,P Dowd,8,1,H,0,1,D,9,1,0,17/01/2004,1,Bolton_Portsmouth_2003
+209,5,1,Charlton,Everton,E0,17,4,7,10,14,1,M Riley,7,0,A,0,0,A,6,2,0,17/01/2004,4,Everton_Charlton_2003
+210,2,1,Blackburn,Man City,E0,10,3,7,4,13,0,M Dean,6,1,D,0,0,D,7,1,0,17/01/2004,2,Man City_Blackburn_2003
+211,6,3,Leicester,Middlesbrough,E0,13,8,7,6,12,0,B Knight,14,3,D,1,0,H,15,5,0,17/01/2004,2,Middlesbrough_Leicester_2003
+212,6,1,Leeds,Southampton,E0,18,6,6,1,8,0,A Wiley,11,2,H,2,0,H,16,1,0,17/01/2004,1,Southampton_Leeds_2003
+213,6,1,Liverpool,Tottenham,E0,7,4,3,5,9,0,U Rennie,10,2,H,1,0,H,18,1,0,17/01/2004,1,Tottenham_Liverpool_2003
+214,12,0,Man United,Wolves,E0,11,6,6,4,5,0,A D'Urso,15,1,H,0,0,D,13,0,0,17/01/2004,2,Wolves_Man United_2003
+215,2,2,Arsenal,Aston Villa,E0,12,9,5,3,21,1,M Halsey,13,0,A,0,0,A,17,1,0,18/01/2004,4,Aston Villa_Arsenal_2003
+216,2,0,Birmingham,Chelsea,E0,16,1,9,6,8,0,J Winter,2,0,D,0,0,D,13,2,0,18/01/2004,2,Chelsea_Birmingham_2003
+217,4,1,Fulham,Newcastle,E0,10,6,9,7,8,0,N Barry,13,3,H,2,0,H,10,1,0,19/01/2004,0,Newcastle_Fulham_2003
+218,5,1,Liverpool,Wolves,E0,9,10,6,7,16,1,B Knight,14,1,D,0,0,A,14,1,0,21/01/2004,2,Wolves_Liverpool_2003
+219,3,1,Newcastle,Birmingham,E0,15,2,5,2,11,1,R Styles,4,1,D,0,0,A,13,3,0,31/01/2004,1,Birmingham_Newcastle_2003
+220,6,2,Bolton,Charlton,E0,14,10,7,5,9,1,A D'Urso,14,1,A,1,0,D,9,0,0,31/01/2004,0,Charlton_Bolton_2003
+221,13,1,Tottenham,Fulham,E0,16,4,10,10,12,1,M Messias,4,2,H,1,0,D,6,1,0,31/01/2004,1,Fulham_Tottenham_2003
+222,6,3,Middlesbrough,Leeds,E0,8,6,4,7,6,0,G Poll,15,0,A,0,0,D,14,1,1,31/01/2004,1,Leeds_Middlesbrough_2003
+223,9,5,Aston Villa,Leicester,E0,13,10,9,5,7,0,J Winter,14,0,A,0,0,D,12,1,0,31/01/2004,0,Leicester_Aston Villa_2003
+224,3,0,Everton,Liverpool,E0,21,4,9,8,11,0,S Bennett,6,0,D,0,0,D,7,1,0,31/01/2004,0,Liverpool_Everton_2003
+225,10,2,Southampton,Man United,E0,12,11,7,1,11,1,G Barber,17,3,H,2,0,H,9,2,0,31/01/2004,0,Man United_Southampton_2003
+226,6,0,Wolves,Portsmouth,E0,17,4,10,6,6,0,H Webb,8,0,D,0,0,D,9,1,0,31/01/2004,0,Portsmouth_Wolves_2003
+227,4,1,Man City,Arsenal,E0,11,8,9,5,13,0,A Wiley,9,2,H,1,1,H,13,2,0,01/02/2004,2,Arsenal_Man City_2003
+228,6,3,Chelsea,Blackburn,E0,13,9,7,5,14,2,D Gallagher,17,2,A,1,0,A,9,0,0,01/02/2004,2,Blackburn_Chelsea_2003
+229,10,0,Leeds,Aston Villa,E0,15,4,7,3,16,0,U Rennie,7,2,H,1,0,H,15,2,0,07/02/2004,2,Aston Villa_Leeds_2003
+230,5,2,Liverpool,Bolton,E0,12,6,6,3,15,0,A Wiley,11,2,D,1,0,H,15,2,0,07/02/2004,3,Bolton_Liverpool_2003
+231,7,4,Man United,Everton,E0,12,9,8,7,14,3,N Barry,19,3,A,0,0,A,11,0,0,07/02/2004,1,Everton_Man United_2003
+232,3,1,Blackburn,Middlesbrough,E0,15,2,7,8,12,1,R Styles,6,0,A,0,0,A,6,1,0,07/02/2004,0,Middlesbrough_Blackburn_2003
+233,1,1,Leicester,Newcastle,E0,15,3,9,9,11,0,S Dunn,7,3,H,2,0,H,17,2,0,07/02/2004,1,Newcastle_Leicester_2003
+234,3,0,Fulham,Southampton,E0,11,8,6,17,18,0,A D'Urso,11,0,D,0,0,D,12,2,0,07/02/2004,1,Southampton_Fulham_2003
+235,5,3,Portsmouth,Tottenham,E0,15,9,13,6,13,1,P Walton,16,4,H,2,0,H,16,0,0,07/02/2004,1,Tottenham_Portsmouth_2003
+236,4,3,Arsenal,Wolves,E0,12,7,5,6,18,1,P Dowd,10,1,A,1,0,D,18,1,0,07/02/2004,2,Wolves_Arsenal_2003
+237,3,0,Charlton,Chelsea,E0,16,0,6,4,17,0,S Bennett,5,1,H,1,0,H,9,0,0,08/02/2004,2,Chelsea_Charlton_2003
+238,5,0,Birmingham,Man City,E0,21,2,12,11,10,0,P Durkin,7,0,D,0,0,D,11,1,0,08/02/2004,0,Man City_Birmingham_2003
+239,9,0,Southampton,Arsenal,E0,11,6,6,5,12,0,N Barry,10,2,H,1,0,H,13,3,0,10/02/2004,2,Arsenal_Southampton_2003
+240,3,1,Wolves,Leeds,E0,20,5,8,4,14,1,M Dean,11,4,H,2,0,H,15,2,0,10/02/2004,1,Leeds_Wolves_2003
+241,7,1,Bolton,Leicester,E0,15,9,15,8,13,1,U Rennie,9,1,D,1,0,D,16,2,0,10/02/2004,1,Leicester_Bolton_2003
+242,11,0,Everton,Birmingham,E0,15,3,11,8,14,0,M Halsey,5,3,H,2,0,H,10,0,0,11/02/2004,1,Birmingham_Everton_2003
+243,6,1,Newcastle,Blackburn,E0,17,7,7,8,10,0,M Messias,14,1,D,0,0,D,12,0,0,11/02/2004,0,Blackburn_Newcastle_2003
+244,4,4,Tottenham,Charlton,E0,18,10,14,10,14,2,G Barber,12,2,A,0,0,A,13,0,0,11/02/2004,3,Charlton_Tottenham_2003
+245,5,2,Aston Villa,Fulham,E0,13,3,6,6,17,2,B Knight,10,1,A,1,0,A,16,1,1,11/02/2004,2,Fulham_Aston Villa_2003
+246,3,1,Man City,Liverpool,E0,12,3,7,6,8,0,M Riley,6,2,H,1,0,H,7,0,0,11/02/2004,0,Liverpool_Man City_2003
+247,5,3,Middlesbrough,Man United,E0,23,8,13,10,17,2,P Durkin,12,2,A,1,0,A,13,1,0,11/02/2004,1,Man United_Middlesbrough_2003
+248,10,2,Chelsea,Portsmouth,E0,11,4,5,9,13,1,G Poll,10,0,A,0,0,A,8,2,0,11/02/2004,1,Portsmouth_Chelsea_2003
+249,11,3,Man City,Bolton,E0,16,13,11,12,10,2,S Dunn,17,1,A,1,0,A,9,2,0,21/02/2004,0,Bolton_Man City_2003
+250,12,2,Blackburn,Charlton,E0,11,12,7,8,6,0,U Rennie,18,3,H,2,0,H,7,0,0,21/02/2004,0,Charlton_Blackburn_2003
+251,5,2,Arsenal,Chelsea,E0,10,7,4,11,18,2,M Riley,9,1,A,1,0,A,16,2,1,21/02/2004,4,Chelsea_Arsenal_2003
+252,7,1,Leeds,Man United,E0,24,3,7,12,17,0,M Halsey,7,1,D,0,0,D,12,2,0,21/02/2004,1,Man United_Leeds_2003
+253,3,1,Middlesbrough,Newcastle,E0,16,4,9,7,21,1,G Poll,8,2,H,0,0,A,20,3,0,21/02/2004,0,Newcastle_Middlesbrough_2003
+254,5,3,Everton,Southampton,E0,9,6,5,6,19,2,P Dowd,12,3,D,0,0,A,14,0,0,21/02/2004,1,Southampton_Everton_2003
+255,6,1,Fulham,Wolves,E0,12,5,10,8,16,0,H Webb,9,2,H,1,0,H,13,0,0,21/02/2004,1,Wolves_Fulham_2003
+256,5,2,Birmingham,Aston Villa,E0,11,9,8,7,14,0,J Winter,13,2,D,1,0,H,15,1,0,22/02/2004,0,Aston Villa_Birmingham_2003
+257,3,4,Leicester,Tottenham,E0,10,7,9,4,14,1,N Barry,14,4,D,3,1,H,9,2,0,22/02/2004,0,Tottenham_Leicester_2003
+258,3,1,Charlton,Arsenal,E0,21,3,11,12,10,0,G Barber,6,2,H,2,0,H,8,0,0,28/02/2004,0,Arsenal_Charlton_2003
+259,9,1,Southampton,Blackburn,E0,16,6,7,6,8,1,M Dean,10,1,D,0,0,A,10,1,0,28/02/2004,1,Blackburn_Southampton_2003
+260,11,0,Aston Villa,Everton,E0,15,8,7,5,18,0,M Messias,12,2,H,0,0,D,13,2,0,28/02/2004,4,Everton_Aston Villa_2003
+261,3,1,Man United,Fulham,E0,7,7,3,4,19,1,A Wiley,13,1,D,0,0,A,13,3,0,28/02/2004,1,Fulham_Man United_2003
+262,3,0,Wolves,Leicester,E0,10,3,6,6,9,0,J Winter,6,0,D,0,0,D,7,1,0,28/02/2004,0,Leicester_Wolves_2003
+263,1,1,Chelsea,Man City,E0,14,4,4,7,11,0,R Styles,9,0,A,0,0,D,8,1,0,28/02/2004,0,Man City_Chelsea_2003
+264,8,2,Liverpool,Leeds,E0,12,13,6,6,11,2,P Durkin,22,2,D,2,0,D,13,1,0,29/02/2004,0,Leeds_Liverpool_2003
+265,6,1,Newcastle,Portsmouth,E0,18,2,8,8,9,1,A D'Urso,5,1,D,0,0,A,9,2,0,29/02/2004,2,Portsmouth_Newcastle_2003
+266,5,1,Middlesbrough,Birmingham,E0,9,6,5,4,20,0,R Styles,8,3,H,1,1,H,13,4,0,03/03/2004,3,Birmingham_Middlesbrough_2003
+267,5,0,Bolton,Birmingham,E0,10,2,6,3,15,0,A D'Urso,10,2,H,1,0,H,10,1,0,06/03/2004,1,Birmingham_Bolton_2003
+268,5,0,Tottenham,Middlesbrough,E0,10,2,6,3,15,0,A D'Urso,10,1,H,0,0,D,10,1,0,09/03/2004,1,Middlesbrough_Tottenham_2003
+269,6,1,Leicester,Birmingham,E0,6,2,4,8,26,0,M Messias,4,0,A,0,0,D,12,2,0,13/03/2004,1,Birmingham_Leicester_2003
+270,3,2,Arsenal,Blackburn,E0,10,5,5,8,11,0,A Wiley,14,0,A,0,0,D,12,1,0,13/03/2004,1,Blackburn_Arsenal_2003
+271,6,2,Chelsea,Bolton,E0,20,8,11,8,13,0,G Poll,12,0,A,0,0,D,8,0,0,13/03/2004,1,Bolton_Chelsea_2003
+272,7,0,Middlesbrough,Charlton,E0,14,9,7,4,9,0,M Dean,15,1,H,1,0,H,13,0,0,13/03/2004,0,Charlton_Middlesbrough_2003
+273,4,0,Portsmouth,Everton,E0,13,3,6,6,12,0,N Barry,5,1,H,0,0,D,10,2,0,13/03/2004,0,Everton_Portsmouth_2003
+274,7,0,Leeds,Fulham,E0,19,6,10,4,13,0,S Dunn,9,2,H,0,0,D,14,3,0,13/03/2004,4,Fulham_Leeds_2003
+275,4,1,Man United,Man City,E0,17,9,11,7,14,1,S Bennett,17,4,H,2,0,H,18,2,0,14/03/2004,1,Man City_Man United_2003
+276,7,0,Liverpool,Southampton,E0,7,12,3,1,8,0,D Gallagher,18,2,H,0,0,D,20,1,0,14/03/2004,3,Southampton_Liverpool_2003
+277,12,0,Newcastle,Tottenham,E0,11,4,4,3,13,0,H Webb,6,1,H,0,0,D,13,0,0,14/03/2004,0,Tottenham_Newcastle_2003
+278,13,4,Aston Villa,Wolves,E0,9,7,1,8,14,3,P Durkin,15,0,A,0,0,A,10,2,0,14/03/2004,1,Wolves_Aston Villa_2003
+279,8,0,Portsmouth,Liverpool,E0,20,4,13,10,20,0,B Knight,4,3,H,2,0,H,9,1,0,17/03/2004,0,Liverpool_Portsmouth_2003
+280,1,1,Bolton,Arsenal,E0,11,2,8,6,14,1,G Barber,8,2,H,2,0,H,12,2,0,20/03/2004,1,Arsenal_Bolton_2003
+281,6,2,Blackburn,Aston Villa,E0,10,7,7,4,14,2,A D'Urso,16,0,A,0,0,A,11,2,0,20/03/2004,0,Aston Villa_Blackburn_2003
+282,1,1,Fulham,Chelsea,E0,13,1,8,9,13,1,N Barry,5,2,H,2,0,H,12,2,0,20/03/2004,1,Chelsea_Fulham_2003
+283,2,1,Everton,Leicester,E0,10,3,4,9,21,0,B Knight,7,1,D,0,1,D,12,5,0,20/03/2004,1,Leicester_Everton_2003
+284,4,0,Wolves,Liverpool,E0,12,6,4,14,12,0,R Styles,8,1,H,0,0,D,5,1,0,20/03/2004,0,Liverpool_Wolves_2003
+285,2,0,Tottenham,Man United,E0,11,3,6,4,10,0,D Gallagher,8,3,H,1,0,H,14,1,0,20/03/2004,1,Man United_Tottenham_2003
+286,4,3,Birmingham,Middlesbrough,E0,13,12,9,4,13,2,U Rennie,18,5,H,4,0,H,11,0,0,20/03/2004,2,Middlesbrough_Birmingham_2003
+287,6,1,Charlton,Newcastle,E0,15,2,10,6,12,0,M Riley,6,3,H,2,0,H,11,2,0,20/03/2004,0,Newcastle_Charlton_2003
+288,4,0,Southampton,Portsmouth,E0,16,8,8,6,12,0,M Halsey,13,1,H,0,0,D,16,2,0,21/03/2004,0,Portsmouth_Southampton_2003
+289,5,1,Man City,Leeds,E0,4,14,3,4,14,1,A Wiley,21,2,H,1,1,D,13,1,0,22/03/2004,2,Leeds_Man City_2003
+290,7,1,Leeds,Birmingham,E0,17,7,7,7,18,1,M Halsey,11,4,H,1,0,D,11,1,0,27/03/2004,0,Birmingham_Leeds_2003
+291,3,2,Portsmouth,Blackburn,E0,14,4,9,5,10,1,P Durkin,8,1,A,1,0,D,11,0,0,27/03/2004,0,Blackburn_Portsmouth_2003
+292,12,2,Aston Villa,Charlton,E0,11,11,9,3,14,1,B Knight,19,1,A,1,0,D,11,1,0,27/03/2004,1,Charlton_Aston Villa_2003
+293,4,2,Wolves,Chelsea,E0,15,4,10,7,12,1,G Barber,9,5,H,1,0,D,6,2,0,27/03/2004,0,Chelsea_Wolves_2003
+294,4,1,Middlesbrough,Everton,E0,14,5,7,8,13,0,S Bennett,10,1,D,0,0,D,16,2,0,27/03/2004,0,Everton_Middlesbrough_2003
+295,1,0,Fulham,Man City,E0,12,2,4,3,10,0,J Winter,5,0,D,0,0,D,12,0,0,27/03/2004,1,Man City_Fulham_2003
+296,6,0,Tottenham,Southampton,E0,18,9,11,10,16,0,C Foy,15,1,H,0,0,D,8,2,0,27/03/2004,0,Southampton_Tottenham_2003
+297,7,1,Man United,Arsenal,E0,17,8,10,8,18,0,G Poll,13,1,D,0,0,D,15,1,0,28/03/2004,1,Arsenal_Man United_2003
+298,7,0,Newcastle,Bolton,E0,20,7,12,7,10,0,M Dean,15,1,H,1,0,H,11,2,0,28/03/2004,1,Bolton_Newcastle_2003
+299,10,0,Liverpool,Leicester,E0,13,12,9,7,20,0,P Dowd,19,0,D,0,0,D,15,3,0,28/03/2004,4,Leicester_Liverpool_2003
+300,2,0,Birmingham,Fulham,E0,6,1,5,4,22,0,M Riley,6,0,D,0,0,D,24,2,0,03/04/2004,4,Fulham_Birmingham_2003
+301,8,0,Bolton,Middlesbrough,E0,10,8,6,7,15,0,N Barry,13,2,H,1,0,H,13,2,0,03/04/2004,2,Middlesbrough_Bolton_2003
+302,9,2,Everton,Newcastle,E0,12,6,8,5,7,1,D Gallagher,13,4,H,2,0,H,11,0,0,03/04/2004,0,Newcastle_Everton_2003
+303,4,1,Chelsea,Tottenham,E0,12,7,7,5,10,1,S Bennett,10,0,A,0,0,A,10,0,0,03/04/2004,2,Tottenham_Chelsea_2003
+304,6,4,Southampton,Wolves,E0,8,10,3,3,8,1,M Halsey,13,1,A,0,0,A,12,1,0,03/04/2004,2,Wolves_Southampton_2003
+305,4,1,Man City,Aston Villa,E0,6,4,3,5,13,0,U Rennie,7,1,D,1,0,H,13,2,0,04/04/2004,1,Aston Villa_Man City_2003
+306,4,0,Blackburn,Liverpool,E0,24,2,11,6,10,0,J Winter,9,4,H,3,0,H,8,1,0,04/04/2004,0,Liverpool_Blackburn_2003
+307,11,2,Leicester,Leeds,E0,15,9,10,7,14,0,M Dean,14,3,H,2,0,H,19,1,1,05/04/2004,2,Leeds_Leicester_2003
+308,8,2,Liverpool,Arsenal,E0,12,5,7,2,9,2,A Wiley,12,4,H,1,0,A,16,1,0,09/04/2004,3,Arsenal_Liverpool_2003
+309,4,1,Tottenham,Everton,E0,13,7,10,8,14,0,R Styles,12,3,H,3,1,H,9,3,0,09/04/2004,0,Everton_Tottenham_2003
+310,3,2,Man United,Birmingham,E0,11,6,8,0,10,0,D Gallagher,10,1,A,1,0,H,11,0,0,10/04/2004,0,Birmingham_Man United_2003
+311,4,2,Leeds,Blackburn,E0,9,3,7,6,13,1,S Dunn,8,1,A,0,0,A,14,2,0,10/04/2004,2,Blackburn_Leeds_2003
+312,4,2,Aston Villa,Bolton,E0,16,3,7,6,12,1,M Messias,7,2,D,0,0,A,10,3,0,10/04/2004,1,Bolton_Aston Villa_2003
+313,2,1,Portsmouth,Charlton,E0,9,8,3,6,8,0,A D'Urso,10,1,D,1,0,H,14,1,0,10/04/2004,1,Charlton_Portsmouth_2003
+314,2,0,Middlesbrough,Chelsea,E0,19,5,9,6,8,0,M Halsey,9,0,D,0,0,D,10,1,0,10/04/2004,1,Chelsea_Middlesbrough_2003
+315,4,2,Fulham,Leicester,E0,10,4,7,15,15,0,P Walton,9,0,A,0,0,D,13,0,0,10/04/2004,2,Leicester_Fulham_2003
+316,6,3,Wolves,Man City,E0,14,9,8,5,12,2,J Winter,15,3,D,2,0,D,9,1,0,10/04/2004,0,Man City_Wolves_2003
+317,4,0,Arsenal,Newcastle,E0,9,5,5,5,12,0,P Durkin,11,0,D,0,0,D,14,1,0,11/04/2004,0,Newcastle_Arsenal_2003
+318,2,2,Chelsea,Aston Villa,E0,5,2,3,7,14,1,J Winter,6,3,H,1,0,D,8,1,0,12/04/2004,0,Aston Villa_Chelsea_2003
+319,1,4,Blackburn,Fulham,E0,10,7,7,6,14,1,M Dean,11,3,A,2,0,H,12,0,0,12/04/2004,0,Fulham_Blackburn_2003
+320,4,1,Charlton,Liverpool,E0,25,3,16,7,17,0,P Dowd,6,0,A,0,0,D,12,0,0,12/04/2004,1,Liverpool_Charlton_2003
+321,3,1,Southampton,Middlesbrough,E0,25,8,18,6,14,0,D Gallagher,16,3,H,2,0,H,11,0,0,12/04/2004,0,Middlesbrough_Southampton_2003
+322,4,1,Birmingham,Portsmouth,E0,12,2,6,4,11,0,B Knight,6,3,H,1,1,H,19,2,0,12/04/2004,1,Portsmouth_Birmingham_2003
+323,3,1,Man City,Tottenham,E0,15,8,10,4,21,1,C Foy,9,1,D,0,0,A,10,1,0,12/04/2004,1,Tottenham_Man City_2003
+324,9,2,Bolton,Wolves,E0,8,4,3,6,11,1,U Rennie,13,1,A,1,0,D,12,1,0,12/04/2004,2,Wolves_Bolton_2003
+325,5,1,Everton,Leeds,E0,14,4,7,10,12,1,P Durkin,8,1,D,0,0,A,12,1,0,13/04/2004,2,Leeds_Everton_2003
+326,4,0,Leicester,Man United,E0,16,5,12,7,11,0,M Halsey,12,1,H,0,0,D,11,3,0,13/04/2004,0,Man United_Leicester_2003
+327,8,0,Leeds,Arsenal,E0,15,2,8,3,10,0,D Gallagher,7,5,H,3,0,H,10,0,0,16/04/2004,0,Arsenal_Leeds_2003
+328,4,0,Leicester,Blackburn,E0,12,4,4,2,14,0,R Styles,8,1,H,1,0,H,16,1,0,17/04/2004,2,Blackburn_Leicester_2003
+329,5,0,Tottenham,Bolton,E0,15,0,10,11,21,0,J Winter,4,2,H,1,0,H,18,2,0,17/04/2004,1,Bolton_Tottenham_2003
+330,3,1,Birmingham,Charlton,E0,12,4,5,9,9,0,C Foy,7,1,D,0,0,D,14,0,0,17/04/2004,1,Charlton_Birmingham_2003
+331,4,0,Everton,Chelsea,E0,16,4,6,8,10,0,G Poll,5,0,D,0,0,D,11,0,0,17/04/2004,0,Chelsea_Everton_2003
+332,7,0,Fulham,Liverpool,E0,18,7,10,14,10,0,S Bennett,11,0,D,0,0,D,16,3,0,17/04/2004,0,Liverpool_Fulham_2003
+333,3,3,Southampton,Man City,E0,15,5,7,6,9,1,G Barber,9,1,A,0,0,A,11,1,0,17/04/2004,1,Man City_Southampton_2003
+334,13,0,Man United,Portsmouth,E0,9,12,4,3,8,0,N Barry,19,1,H,1,0,H,14,1,0,17/04/2004,2,Portsmouth_Man United_2003
+335,8,0,Middlesbrough,Wolves,E0,12,10,8,6,10,0,A D'Urso,16,2,H,1,0,H,10,2,0,17/04/2004,1,Wolves_Middlesbrough_2003
+336,3,0,Newcastle,Aston Villa,E0,10,4,1,7,13,0,B Knight,5,0,D,0,1,D,17,4,0,18/04/2004,1,Aston Villa_Newcastle_2003
+337,3,0,Charlton,Man United,E0,10,0,6,8,8,0,S Dunn,5,2,H,1,0,H,10,1,0,20/04/2004,0,Man United_Charlton_2003
+338,5,1,Blackburn,Everton,E0,16,7,9,8,22,0,P Dowd,10,0,A,0,0,D,8,4,0,24/04/2004,0,Everton_Blackburn_2003
+339,7,0,Charlton,Fulham,E0,8,3,6,4,13,0,M Messias,8,2,H,1,0,H,15,1,0,24/04/2004,1,Fulham_Charlton_2003
+340,2,1,Man City,Leicester,E0,12,5,5,4,14,1,A D'Urso,11,1,D,0,0,A,13,1,0,24/04/2004,1,Leicester_Man City_2003
+341,4,1,Liverpool,Man United,E0,11,4,4,3,15,0,M Riley,9,0,A,0,0,D,19,1,0,24/04/2004,2,Man United_Liverpool_2003
+342,8,2,Aston Villa,Middlesbrough,E0,31,9,21,12,15,1,G Barber,12,1,A,1,1,D,12,1,0,24/04/2004,0,Middlesbrough_Aston Villa_2003
+343,2,2,Bolton,Southampton,E0,9,8,3,2,16,0,S Dunn,11,1,A,1,0,H,13,3,0,24/04/2004,4,Southampton_Bolton_2003
+344,2,2,Wolves,Birmingham,E0,14,7,9,9,13,1,M Dean,11,2,D,2,0,H,11,0,0,25/04/2004,1,Birmingham_Wolves_2003
+345,2,2,Portsmouth,Leeds,E0,14,5,6,9,21,1,U Rennie,7,1,A,0,0,A,9,2,0,25/04/2004,2,Leeds_Portsmouth_2003
+346,5,1,Chelsea,Newcastle,E0,21,6,12,7,12,1,R Styles,17,2,H,1,0,D,12,2,0,25/04/2004,1,Newcastle_Chelsea_2003
+347,4,2,Arsenal,Tottenham,E0,13,7,7,7,15,2,M Halsey,9,2,D,0,0,A,14,1,0,25/04/2004,1,Tottenham_Arsenal_2003
+348,3,0,Birmingham,Arsenal,E0,7,3,1,2,16,0,G Poll,3,0,D,0,0,D,13,2,0,01/05/2004,0,Arsenal_Birmingham_2003
+349,4,0,Man United,Blackburn,E0,12,5,8,5,10,0,M Dean,9,1,H,0,0,D,11,1,0,01/05/2004,2,Blackburn_Man United_2003
+350,4,2,Leicester,Charlton,E0,8,5,7,5,7,1,R Styles,10,2,D,0,1,A,15,0,0,01/05/2004,1,Charlton_Leicester_2003
+351,3,0,Southampton,Chelsea,E0,12,3,7,12,5,0,P Durkin,5,4,H,0,0,D,6,0,0,01/05/2004,0,Chelsea_Southampton_2003
+352,5,0,Newcastle,Man City,E0,7,6,3,7,9,0,M Halsey,7,1,H,0,0,D,7,1,0,01/05/2004,1,Man City_Newcastle_2003
+353,3,1,Fulham,Portsmouth,E0,14,7,7,10,13,0,S Dunn,11,1,D,0,0,D,14,4,0,01/05/2004,1,Portsmouth_Fulham_2003
+354,7,1,Everton,Wolves,E0,20,6,11,12,12,1,M Riley,10,2,H,0,0,A,7,1,0,01/05/2004,0,Wolves_Everton_2003
+355,5,0,Tottenham,Aston Villa,E0,11,5,6,5,20,0,N Barry,10,1,H,1,0,H,15,1,0,02/05/2004,2,Aston Villa_Tottenham_2003
+356,3,1,Leeds,Bolton,E0,21,4,14,9,20,1,S Bennett,6,4,H,0,1,A,14,2,0,02/05/2004,3,Bolton_Leeds_2003
+357,3,0,Middlesbrough,Liverpool,E0,15,6,8,7,14,0,A D'Urso,12,2,H,0,0,D,12,1,0,02/05/2004,1,Liverpool_Middlesbrough_2003
+358,12,1,Arsenal,Portsmouth,E0,11,9,6,5,10,0,M Riley,20,1,D,1,0,H,13,2,0,04/05/2004,0,Portsmouth_Arsenal_2003
+359,5,3,Liverpool,Birmingham,E0,3,8,2,3,12,1,S Dunn,15,0,A,0,0,A,11,0,1,08/05/2004,2,Birmingham_Liverpool_2003
+360,3,2,Bolton,Everton,E0,16,3,9,7,9,1,P Durkin,10,1,A,0,0,A,14,0,0,08/05/2004,2,Everton_Bolton_2003
+361,2,3,Charlton,Leeds,E0,13,6,7,3,9,1,M Halsey,12,3,D,2,0,H,12,0,0,08/05/2004,0,Leeds_Charlton_2003
+362,3,1,Portsmouth,Leicester,E0,13,7,9,8,15,0,G Poll,14,3,H,2,0,H,11,2,0,08/05/2004,0,Leicester_Portsmouth_2003
+363,2,1,Chelsea,Man United,E0,12,7,7,6,19,1,S Bennett,11,1,D,0,1,A,9,2,0,08/05/2004,3,Man United_Chelsea_2003
+364,4,1,Man City,Middlesbrough,E0,12,6,7,5,14,1,M Riley,14,2,H,2,0,H,9,1,0,08/05/2004,1,Middlesbrough_Man City_2003
+365,4,1,Aston Villa,Southampton,E0,18,7,10,4,13,1,H Webb,14,1,D,1,0,D,10,0,0,08/05/2004,1,Southampton_Aston Villa_2003
+366,7,0,Blackburn,Tottenham,E0,16,2,13,7,17,0,A D'Urso,14,1,H,1,0,H,9,2,0,08/05/2004,0,Tottenham_Blackburn_2003
+367,7,1,Arsenal,Fulham,E0,12,5,5,6,19,1,M Dean,7,0,A,0,0,A,13,3,0,09/05/2004,1,Fulham_Arsenal_2003
+368,3,1,Wolves,Newcastle,E0,19,7,8,13,11,0,M Messias,15,1,D,1,0,H,13,2,0,09/05/2004,1,Newcastle_Wolves_2003
+369,5,3,Newcastle,Southampton,E0,15,12,12,3,16,2,G Poll,22,3,D,2,0,D,13,2,0,12/05/2004,1,Southampton_Newcastle_2003
+370,5,1,Leicester,Arsenal,E0,17,1,10,7,13,1,P Durkin,2,2,H,0,0,A,15,1,0,15/05/2004,0,Arsenal_Leicester_2003
+371,4,2,Man United,Aston Villa,E0,16,8,8,9,15,2,R Styles,12,0,A,0,2,A,21,3,0,15/05/2004,4,Aston Villa_Man United_2003
+372,8,1,Birmingham,Blackburn,E0,10,5,5,6,12,0,D Gallagher,9,1,D,1,0,H,11,0,0,15/05/2004,0,Blackburn_Birmingham_2003
+373,3,2,Fulham,Bolton,E0,17,6,9,11,14,1,G Barber,10,0,A,0,0,A,9,1,0,15/05/2004,1,Bolton_Fulham_2003
+374,10,1,Southampton,Charlton,E0,10,4,5,7,10,0,J Winter,12,2,H,1,0,H,13,1,0,15/05/2004,0,Charlton_Southampton_2003
+375,2,0,Leeds,Chelsea,E0,19,0,9,9,9,0,M Dean,4,1,H,1,0,H,5,0,0,15/05/2004,0,Chelsea_Leeds_2003
+376,1,1,Newcastle,Liverpool,E0,8,5,4,8,17,1,M Riley,6,1,D,0,0,A,11,1,0,15/05/2004,1,Liverpool_Newcastle_2003
+377,3,1,Everton,Man City,E0,13,0,11,7,8,0,S Dunn,2,5,H,3,0,H,5,1,0,15/05/2004,1,Man City_Everton_2003
+378,2,1,Middlesbrough,Portsmouth,E0,16,4,10,7,8,1,M Halsey,19,5,H,3,0,H,12,0,0,15/05/2004,0,Portsmouth_Middlesbrough_2003
+379,3,2,Tottenham,Wolves,E0,18,12,10,5,11,1,S Bennett,14,0,A,0,0,A,6,1,1,15/05/2004,1,Wolves_Tottenham_2003

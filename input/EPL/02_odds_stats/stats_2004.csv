@@ -1,0 +1,381 @@
+,AC,FTAG,AwayTeam,HomeTeam,Div,HS,AST,HST,HC,AF,HTAG,Referee,AS,FTHG,FTR,HTHG,AR,HTR,HF,AY,HR,Date,HY,idGame
+0,6,0,Southampton,Aston Villa,E0,14,2,5,12,9,0,U Rennie,6,2,H,2,0,H,14,0,0,14/08/2004,0,Aston Villa_Southampton_2004
+1,5,1,West Brom,Blackburn,E0,12,2,4,4,17,1,C Foy,4,1,D,0,0,A,15,0,0,14/08/2004,1,Blackburn_West Brom_2004
+2,5,1,Charlton,Bolton,E0,21,5,11,9,12,0,P Dowd,9,4,H,2,0,H,10,1,0,14/08/2004,1,Bolton_Charlton_2004
+3,4,1,Fulham,Man City,E0,12,2,5,9,12,0,M Messias,4,1,D,1,0,H,14,2,0,14/08/2004,0,Man City_Fulham_2004
+4,7,2,Newcastle,Middlesbrough,E0,15,4,8,6,13,1,S Bennett,11,2,D,0,0,A,16,1,0,14/08/2004,3,Middlesbrough_Newcastle_2004
+5,11,1,Crystal Palace,Norwich,E0,14,8,10,6,16,0,P Walton,14,1,D,1,0,H,14,1,0,14/08/2004,0,Norwich_Crystal Palace_2004
+6,4,1,Birmingham,Portsmouth,E0,14,11,8,8,16,1,H Webb,16,1,D,1,0,D,13,4,0,14/08/2004,2,Portsmouth_Birmingham_2004
+7,8,1,Liverpool,Tottenham,E0,14,8,7,3,11,1,D Gallagher,16,1,D,0,0,A,17,1,0,14/08/2004,3,Tottenham_Liverpool_2004
+8,3,0,Man United,Chelsea,E0,8,3,5,2,8,0,G Poll,11,1,H,1,0,H,17,0,0,15/08/2004,0,Chelsea_Man United_2004
+9,7,4,Arsenal,Everton,E0,9,14,5,0,19,2,M Riley,18,1,A,0,0,A,14,1,0,15/08/2004,2,Everton_Arsenal_2004
+10,2,1,Chelsea,Birmingham,E0,9,3,3,8,16,0,B Knight,7,0,A,0,0,D,10,0,0,21/08/2004,0,Birmingham_Chelsea_2004
+11,6,1,Portsmouth,Charlton,E0,18,6,14,5,11,0,A Wiley,10,2,H,1,0,H,9,1,0,21/08/2004,0,Charlton_Portsmouth_2004
+12,6,3,Everton,Crystal Palace,E0,15,7,9,6,18,1,M Clattenburg,14,1,A,1,1,D,6,1,0,21/08/2004,1,Crystal Palace_Everton_2004
+13,4,0,Bolton,Fulham,E0,23,4,12,8,13,0,R Styles,10,2,H,1,0,H,11,0,0,21/08/2004,0,Fulham_Bolton_2004
+14,3,1,Man City,Liverpool,E0,15,4,10,8,17,1,G Poll,7,2,H,0,1,A,9,3,0,21/08/2004,1,Liverpool_Man City_2004
+15,5,1,Norwich,Man United,E0,17,2,7,11,23,0,N Barry,7,2,H,1,0,H,8,1,0,21/08/2004,0,Man United_Norwich_2004
+16,3,1,Tottenham,Newcastle,E0,13,8,6,13,12,0,M Dean,15,0,A,0,0,D,10,2,0,21/08/2004,1,Newcastle_Tottenham_2004
+17,6,2,Blackburn,Southampton,E0,13,6,7,3,18,0,A D'Urso,10,3,H,1,0,H,12,3,0,21/08/2004,0,Southampton_Blackburn_2004
+18,5,3,Middlesbrough,Arsenal,E0,16,5,11,7,14,1,S Dunn,9,5,H,1,0,D,8,1,0,22/08/2004,1,Arsenal_Middlesbrough_2004
+19,4,1,Aston Villa,West Brom,E0,14,4,5,12,20,1,M Halsey,9,1,D,1,0,D,12,2,0,22/08/2004,2,West Brom_Aston Villa_2004
+20,5,0,Man City,Birmingham,E0,6,1,2,2,13,0,P Dowd,4,1,H,1,0,H,20,1,0,24/08/2004,1,Birmingham_Man City_2004
+21,6,2,Chelsea,Crystal Palace,E0,7,10,4,1,12,1,C Foy,16,0,A,0,0,A,9,1,0,24/08/2004,1,Crystal Palace_Chelsea_2004
+22,5,0,Blackburn,Arsenal,E0,15,0,9,6,18,0,N Barry,3,3,H,0,0,D,11,4,0,25/08/2004,2,Arsenal_Blackburn_2004
+23,12,0,Aston Villa,Charlton,E0,7,4,5,4,7,0,H Webb,9,3,H,2,0,H,6,1,0,25/08/2004,0,Charlton_Aston Villa_2004
+24,6,2,Middlesbrough,Fulham,E0,6,5,2,1,8,0,D Gallagher,10,0,A,0,0,D,10,1,0,25/08/2004,0,Fulham_Middlesbrough_2004
+25,6,2,Norwich,Newcastle,E0,23,5,15,12,10,0,M Halsey,13,2,D,1,0,H,17,1,0,25/08/2004,0,Newcastle_Norwich_2004
+26,6,2,Bolton,Southampton,E0,10,5,6,9,8,2,S Dunn,9,1,A,0,0,A,9,1,0,25/08/2004,1,Southampton_Bolton_2004
+27,5,1,Tottenham,West Brom,E0,4,6,2,4,10,1,B Knight,12,1,D,1,0,D,13,0,0,25/08/2004,0,West Brom_Tottenham_2004
+28,4,2,Newcastle,Aston Villa,E0,16,10,13,9,11,2,M Riley,12,4,H,1,0,A,23,1,0,28/08/2004,3,Aston Villa_Newcastle_2004
+29,14,1,Man United,Blackburn,E0,8,15,4,4,17,0,A Wiley,24,1,D,1,0,H,25,1,1,28/08/2004,3,Blackburn_Man United_2004
+30,0,1,Southampton,Chelsea,E0,16,2,7,9,12,1,S Bennett,6,2,H,2,0,H,11,4,0,28/08/2004,0,Chelsea_Southampton_2004
+31,6,1,West Brom,Everton,E0,16,8,10,7,16,1,P Walton,12,2,H,1,0,D,11,1,0,28/08/2004,0,Everton_West Brom_2004
+32,4,0,Charlton,Man City,E0,16,3,10,6,8,0,M Halsey,6,4,H,2,0,H,11,1,0,28/08/2004,0,Man City_Charlton_2004
+33,2,1,Crystal Palace,Middlesbrough,E0,24,2,15,4,16,0,M Dean,6,2,H,0,0,D,16,2,0,28/08/2004,1,Middlesbrough_Crystal Palace_2004
+34,10,4,Arsenal,Norwich,E0,5,15,5,4,5,3,G Poll,18,1,A,0,0,A,15,1,0,28/08/2004,1,Norwich_Arsenal_2004
+35,8,0,Birmingham,Tottenham,E0,6,2,3,2,5,0,M Clattenburg,10,1,H,1,0,H,15,1,0,28/08/2004,4,Tottenham_Birmingham_2004
+36,2,0,Liverpool,Bolton,E0,10,2,8,5,14,0,U Rennie,7,1,H,1,0,H,15,0,0,29/08/2004,2,Bolton_Liverpool_2004
+37,2,0,Everton,Man United,E0,14,2,6,8,13,0,D Gallagher,7,0,D,0,0,D,8,2,0,30/08/2004,0,Man United_Everton_2004
+38,8,3,Fulham,Portsmouth,E0,21,10,13,6,12,2,B Knight,18,4,H,3,0,H,12,2,0,30/08/2004,0,Portsmouth_Fulham_2004
+39,9,0,Chelsea,Aston Villa,E0,11,10,5,2,12,0,R Styles,18,0,D,0,0,D,9,1,0,11/09/2004,0,Aston Villa_Chelsea_2004
+40,7,2,Man United,Bolton,E0,12,7,7,4,15,1,M Messias,12,2,D,0,0,A,22,1,0,11/09/2004,2,Bolton_Man United_2004
+41,4,3,Arsenal,Fulham,E0,9,7,7,9,10,0,M Halsey,12,0,A,0,0,D,16,2,0,11/09/2004,2,Fulham_Arsenal_2004
+42,6,0,West Brom,Liverpool,E0,16,5,9,8,11,0,S Dunn,9,3,H,2,0,H,9,0,0,11/09/2004,0,Liverpool_West Brom_2004
+43,6,1,Everton,Man City,E0,13,5,4,9,9,0,S Bennett,6,0,A,0,1,D,14,3,0,11/09/2004,1,Man City_Everton_2004
+44,3,1,Birmingham,Middlesbrough,E0,14,3,6,6,19,1,G Poll,5,2,H,1,0,D,16,3,0,11/09/2004,2,Middlesbrough_Birmingham_2004
+45,5,0,Blackburn,Newcastle,E0,7,1,4,8,19,0,D Gallagher,5,3,H,2,0,H,10,1,0,11/09/2004,2,Newcastle_Blackburn_2004
+46,7,1,Crystal Palace,Portsmouth,E0,16,3,7,8,21,1,P Dowd,6,3,H,1,0,D,14,2,0,11/09/2004,0,Portsmouth_Crystal Palace_2004
+47,5,0,Norwich,Tottenham,E0,15,2,7,13,9,0,H Webb,7,0,D,0,0,D,17,1,0,12/09/2004,2,Tottenham_Norwich_2004
+48,10,0,Southampton,Charlton,E0,8,7,4,9,13,0,N Barry,12,0,D,0,0,D,12,1,0,13/09/2004,0,Charlton_Southampton_2004
+49,8,2,Bolton,Arsenal,E0,11,5,6,3,17,0,P Dowd,8,2,D,1,0,H,13,3,0,18/09/2004,1,Arsenal_Bolton_2004
+50,3,1,Charlton,Birmingham,E0,7,1,5,12,16,0,U Rennie,2,1,D,0,0,D,12,2,1,18/09/2004,3,Birmingham_Charlton_2004
+51,4,0,Portsmouth,Blackburn,E0,13,2,3,13,15,0,M Clattenburg,6,1,H,0,0,D,13,3,0,18/09/2004,0,Blackburn_Portsmouth_2004
+52,7,2,Man City,Crystal Palace,E0,3,10,1,2,15,0,M Atkinson,14,1,A,0,0,D,14,2,0,18/09/2004,2,Crystal Palace_Man City_2004
+53,6,0,Aston Villa,Norwich,E0,14,9,3,1,13,0,B Knight,18,0,D,0,0,D,10,1,0,18/09/2004,1,Norwich_Aston Villa_2004
+54,9,1,Fulham,West Brom,E0,8,3,5,11,6,0,M Dean,9,1,D,0,2,D,11,5,1,18/09/2004,2,West Brom_Fulham_2004
+55,6,0,Tottenham,Chelsea,E0,20,3,8,9,13,0,M Riley,6,0,D,0,0,D,16,2,0,19/09/2004,1,Chelsea_Tottenham_2004
+56,3,0,Middlesbrough,Everton,E0,11,11,9,6,12,0,H Webb,16,1,H,0,0,D,13,4,0,19/09/2004,1,Everton_Middlesbrough_2004
+57,6,2,Newcastle,Southampton,E0,11,3,6,7,11,1,C Foy,9,1,A,0,0,A,15,3,0,19/09/2004,0,Southampton_Newcastle_2004
+58,2,1,Liverpool,Man United,E0,14,3,9,7,15,0,G Poll,6,2,H,1,0,H,22,2,0,20/09/2004,1,Man United_Liverpool_2004
+59,8,1,Crystal Palace,Aston Villa,E0,10,8,5,5,15,1,M Clattenburg,13,1,D,1,0,D,10,1,0,25/09/2004,2,Aston Villa_Crystal Palace_2004
+60,2,1,Birmingham,Bolton,E0,16,2,12,7,18,0,R Styles,6,1,D,1,0,H,7,1,0,25/09/2004,2,Bolton_Birmingham_2004
+61,4,0,Southampton,Fulham,E0,11,5,6,5,19,0,G Poll,15,1,H,1,0,H,11,1,0,25/09/2004,0,Fulham_Southampton_2004
+62,2,0,Norwich,Liverpool,E0,20,1,12,4,12,0,A Wiley,2,3,H,2,0,H,10,0,0,25/09/2004,1,Liverpool_Norwich_2004
+63,1,1,Arsenal,Man City,E0,11,9,7,8,8,1,N Barry,12,0,A,0,0,A,16,0,0,25/09/2004,1,Man City_Arsenal_2004
+64,7,1,Chelsea,Middlesbrough,E0,8,12,4,3,15,0,M Halsey,17,0,A,0,0,D,10,1,0,25/09/2004,0,Middlesbrough_Chelsea_2004
+65,3,1,West Brom,Newcastle,E0,31,3,10,8,15,0,M Riley,7,3,H,0,1,D,15,2,0,25/09/2004,3,Newcastle_West Brom_2004
+66,3,1,Man United,Tottenham,E0,11,4,5,3,10,1,P Walton,6,0,A,0,0,A,9,0,0,25/09/2004,1,Tottenham_Man United_2004
+67,6,1,Everton,Portsmouth,E0,11,2,6,3,16,0,D Gallagher,9,0,A,0,0,D,12,1,0,26/09/2004,1,Portsmouth_Everton_2004
+68,10,0,Blackburn,Charlton,E0,6,7,3,6,14,0,S Dunn,12,1,H,0,0,D,18,1,0,27/09/2004,1,Charlton_Blackburn_2004
+69,1,0,Charlton,Arsenal,E0,15,0,9,6,15,0,M Dean,4,4,H,1,0,H,13,1,0,02/10/2004,3,Arsenal_Charlton_2004
+70,8,2,Aston Villa,Blackburn,E0,13,9,7,5,17,1,P Walton,15,2,D,1,0,D,14,2,0,02/10/2004,2,Blackburn_Aston Villa_2004
+71,2,1,Tottenham,Everton,E0,10,2,4,11,13,0,G Poll,8,0,A,0,0,D,9,2,0,02/10/2004,1,Everton_Tottenham_2004
+72,2,2,Portsmouth,Norwich,E0,17,5,9,8,7,1,M Messias,13,2,D,0,0,A,13,4,0,02/10/2004,1,Norwich_Portsmouth_2004
+73,14,0,Man City,Southampton,E0,16,11,11,6,11,0,U Rennie,21,0,D,0,0,D,13,0,0,02/10/2004,0,Southampton_Man City_2004
+74,5,1,Bolton,West Brom,E0,13,7,7,6,15,0,M Clattenburg,16,2,H,0,0,D,18,0,0,02/10/2004,0,West Brom_Bolton_2004
+75,5,2,Newcastle,Birmingham,E0,10,3,6,6,14,1,H Webb,6,2,D,1,0,D,17,2,0,03/10/2004,3,Birmingham_Newcastle_2004
+76,2,0,Liverpool,Chelsea,E0,13,3,5,11,20,0,P Dowd,5,1,H,0,0,D,14,1,0,03/10/2004,0,Chelsea_Liverpool_2004
+77,2,1,Middlesbrough,Man United,E0,22,9,10,10,13,1,R Styles,13,1,D,0,0,A,8,3,0,03/10/2004,1,Man United_Middlesbrough_2004
+78,3,0,Fulham,Crystal Palace,E0,20,5,10,10,10,0,M Riley,8,2,H,0,1,D,10,1,0,04/10/2004,1,Crystal Palace_Fulham_2004
+79,3,1,Aston Villa,Arsenal,E0,18,2,15,6,22,1,G Poll,5,3,H,2,0,H,11,4,0,16/10/2004,2,Arsenal_Aston Villa_2004
+80,3,0,Man United,Birmingham,E0,14,7,6,3,11,0,M Halsey,12,0,D,0,0,D,16,0,0,16/10/2004,1,Birmingham_Man United_2004
+81,10,4,Middlesbrough,Blackburn,E0,12,10,5,2,14,0,M Riley,16,0,A,0,0,D,12,1,1,16/10/2004,2,Blackburn_Middlesbrough_2004
+82,3,0,Crystal Palace,Bolton,E0,21,2,7,7,14,0,N Barry,7,1,H,1,0,H,19,1,0,16/10/2004,1,Bolton_Crystal Palace_2004
+83,6,0,Southampton,Everton,E0,14,4,5,5,14,0,B Knight,8,1,H,0,0,D,5,0,0,16/10/2004,0,Everton_Southampton_2004
+84,6,4,Liverpool,Fulham,E0,5,3,3,3,14,0,S Bennett,10,2,A,2,1,H,12,3,0,16/10/2004,1,Fulham_Liverpool_2004
+85,12,0,Chelsea,Man City,E0,4,3,1,0,7,0,H Webb,9,1,H,1,0,H,6,2,0,16/10/2004,1,Man City_Chelsea_2004
+86,3,0,Norwich,West Brom,E0,9,5,2,2,21,0,P Crossley,12,0,D,0,0,D,13,2,0,16/10/2004,2,West Brom_Norwich_2004
+87,9,1,Newcastle,Charlton,E0,11,8,6,8,7,1,P Walton,15,1,D,0,0,A,15,1,0,17/10/2004,1,Charlton_Newcastle_2004
+88,5,0,Tottenham,Portsmouth,E0,11,7,6,3,11,0,U Rennie,16,1,H,0,0,D,12,0,0,18/10/2004,0,Portsmouth_Tottenham_2004
+89,4,0,Fulham,Aston Villa,E0,11,1,5,8,14,0,P Dowd,7,2,H,1,0,H,21,1,0,23/10/2004,0,Aston Villa_Fulham_2004
+90,3,0,Blackburn,Chelsea,E0,17,4,13,12,11,0,G Poll,7,4,H,2,0,H,11,2,0,23/10/2004,1,Chelsea_Blackburn_2004
+91,10,0,West Brom,Crystal Palace,E0,11,6,4,7,15,0,M Messias,11,3,H,2,0,H,11,3,0,23/10/2004,1,Crystal Palace_West Brom_2004
+92,0,0,Charlton,Liverpool,E0,17,1,7,12,11,0,A D'Urso,3,2,H,0,0,D,9,1,0,23/10/2004,0,Liverpool_Charlton_2004
+93,4,3,Everton,Norwich,E0,22,9,10,11,11,2,M Clattenburg,13,2,A,0,0,A,8,2,0,23/10/2004,0,Norwich_Everton_2004
+94,3,2,Bolton,Tottenham,E0,8,4,5,2,17,1,C Foy,6,1,A,1,0,D,14,0,0,23/10/2004,0,Tottenham_Bolton_2004
+95,3,0,Arsenal,Man United,E0,11,6,5,3,23,0,M Riley,12,2,H,0,0,D,20,3,0,24/10/2004,2,Man United_Arsenal_2004
+96,0,1,Portsmouth,Middlesbrough,E0,26,1,11,9,5,1,M Atkinson,3,1,D,0,0,A,5,2,0,24/10/2004,0,Middlesbrough_Portsmouth_2004
+97,5,3,Man City,Newcastle,E0,16,6,11,7,14,0,S Dunn,11,4,H,0,0,D,13,3,0,24/10/2004,2,Newcastle_Man City_2004
+98,4,0,Birmingham,Southampton,E0,6,2,1,4,11,0,M Dean,8,0,D,0,0,D,11,1,0,24/10/2004,0,Southampton_Birmingham_2004
+99,7,2,Southampton,Arsenal,E0,14,4,9,7,21,0,M Messias,7,2,D,0,0,D,8,4,0,30/10/2004,1,Arsenal_Southampton_2004
+100,3,1,Crystal Palace,Birmingham,E0,16,1,11,11,14,1,D Gallagher,4,0,A,0,0,A,8,1,0,30/10/2004,1,Birmingham_Crystal Palace_2004
+101,6,2,Liverpool,Blackburn,E0,8,9,7,6,11,1,R Styles,13,2,D,2,0,H,14,1,0,30/10/2004,2,Blackburn_Liverpool_2004
+102,4,2,Middlesbrough,Charlton,E0,8,7,7,3,8,1,M Halsey,11,1,A,0,0,A,14,0,0,30/10/2004,3,Charlton_Middlesbrough_2004
+103,3,1,Aston Villa,Everton,E0,20,5,8,8,19,1,S Dunn,9,1,D,1,0,D,10,1,0,30/10/2004,1,Everton_Aston Villa_2004
+104,4,0,Tottenham,Fulham,E0,8,1,4,5,9,0,A Wiley,5,2,H,1,0,H,11,1,0,30/10/2004,0,Fulham_Tottenham_2004
+105,9,0,Man United,Portsmouth,E0,11,9,7,3,9,0,N Barry,20,2,H,0,0,D,19,2,0,30/10/2004,0,Portsmouth_Man United_2004
+106,6,4,Chelsea,West Brom,E0,12,9,9,2,8,1,B Knight,19,1,A,0,0,A,12,0,0,30/10/2004,1,West Brom_Chelsea_2004
+107,5,1,Newcastle,Bolton,E0,17,4,11,4,11,0,G Poll,5,2,H,0,0,D,14,1,0,31/10/2004,1,Bolton_Newcastle_2004
+108,4,1,Norwich,Man City,E0,19,5,11,9,13,0,S Bennett,10,1,D,1,0,H,10,0,0,01/11/2004,1,Man City_Norwich_2004
+109,4,0,Portsmouth,Aston Villa,E0,10,2,9,6,13,0,M Halsey,7,3,H,3,0,H,8,1,0,06/11/2004,1,Aston Villa_Portsmouth_2004
+110,3,0,Everton,Chelsea,E0,12,1,3,16,15,0,M Riley,3,1,H,0,0,D,10,3,0,06/11/2004,1,Chelsea_Everton_2004
+111,8,1,Arsenal,Crystal Palace,E0,3,13,1,1,8,0,M Dean,19,1,D,0,0,D,10,1,0,06/11/2004,0,Crystal Palace_Arsenal_2004
+112,5,1,Birmingham,Liverpool,E0,17,1,8,4,17,0,U Rennie,6,0,A,0,0,D,19,1,0,06/11/2004,3,Liverpool_Birmingham_2004
+113,4,1,Blackburn,Norwich,E0,12,9,5,7,12,0,S Dunn,15,1,D,0,1,D,18,0,0,06/11/2004,1,Norwich_Blackburn_2004
+114,1,2,West Brom,Southampton,E0,11,5,6,5,14,2,S Bennett,10,2,D,1,0,A,13,0,0,06/11/2004,2,Southampton_West Brom_2004
+115,1,3,Charlton,Tottenham,E0,19,3,11,5,13,2,N Barry,3,2,A,0,1,A,6,2,0,06/11/2004,0,Tottenham_Charlton_2004
+116,1,0,Man City,Man United,E0,15,1,10,16,10,0,G Poll,3,0,D,0,0,D,10,2,1,07/11/2004,2,Man United_Man City_2004
+117,3,1,Bolton,Middlesbrough,E0,14,4,5,3,12,0,P Walton,7,1,D,0,1,D,13,3,0,07/11/2004,1,Middlesbrough_Bolton_2004
+118,0,4,Fulham,Newcastle,E0,26,7,20,19,16,1,H Webb,11,1,A,0,0,A,12,1,0,07/11/2004,1,Newcastle_Fulham_2004
+119,3,1,Everton,Birmingham,E0,15,8,4,5,12,0,R Styles,9,0,A,0,0,D,13,1,1,13/11/2004,0,Birmingham_Everton_2004
+120,5,2,Aston Villa,Bolton,E0,15,5,7,9,17,1,A D'Urso,10,1,A,1,0,D,10,1,0,13/11/2004,1,Bolton_Aston Villa_2004
+121,5,0,Norwich,Charlton,E0,16,4,11,1,11,0,A Marriner,8,4,H,2,0,H,14,3,0,13/11/2004,0,Charlton_Norwich_2004
+122,5,4,Chelsea,Fulham,E0,7,11,2,1,13,1,U Rennie,16,1,A,0,0,A,13,2,0,13/11/2004,0,Fulham_Chelsea_2004
+123,1,2,Crystal Palace,Liverpool,E0,18,4,5,7,17,1,P Dowd,4,3,H,2,0,H,13,3,0,13/11/2004,1,Liverpool_Crystal Palace_2004
+124,5,1,Blackburn,Man City,E0,8,2,7,3,13,0,M Clattenburg,11,1,D,1,0,H,19,3,1,13/11/2004,1,Man City_Blackburn_2004
+125,8,1,Portsmouth,Southampton,E0,11,6,5,4,15,1,G Poll,13,2,H,1,0,D,14,3,0,13/11/2004,1,Southampton_Portsmouth_2004
+126,4,5,Arsenal,Tottenham,E0,10,6,7,3,9,1,S Bennett,10,4,A,1,0,D,20,0,0,13/11/2004,3,Tottenham_Arsenal_2004
+127,7,3,Man United,Newcastle,E0,13,7,7,2,16,1,M Dean,12,1,A,0,0,A,11,0,0,14/11/2004,2,Newcastle_Man United_2004
+128,10,2,Middlesbrough,West Brom,E0,16,7,6,7,14,1,S Dunn,11,1,A,1,0,D,14,0,0,14/11/2004,0,West Brom_Middlesbrough_2004
+129,3,1,West Brom,Arsenal,E0,11,2,4,12,12,0,H Webb,4,1,D,0,0,D,9,1,0,20/11/2004,0,Arsenal_West Brom_2004
+130,2,2,Bolton,Chelsea,E0,17,5,11,9,11,0,D Gallagher,10,2,D,1,0,H,18,0,0,20/11/2004,1,Chelsea_Bolton_2004
+131,5,2,Newcastle,Crystal Palace,E0,7,9,5,3,10,0,M Halsey,17,0,A,0,0,D,13,3,0,20/11/2004,1,Crystal Palace_Newcastle_2004
+132,7,0,Fulham,Everton,E0,13,4,7,12,24,0,G Poll,6,1,H,0,0,D,11,1,0,20/11/2004,0,Everton_Fulham_2004
+133,3,0,Charlton,Man United,E0,20,2,11,6,13,0,R Styles,5,2,H,1,0,H,8,0,0,20/11/2004,0,Man United_Charlton_2004
+134,5,0,Liverpool,Middlesbrough,E0,14,10,6,3,10,0,S Bennett,17,2,H,1,0,H,14,2,0,20/11/2004,3,Middlesbrough_Liverpool_2004
+135,6,1,Southampton,Norwich,E0,9,7,8,4,14,1,M Riley,14,2,H,1,0,D,19,1,0,20/11/2004,1,Norwich_Southampton_2004
+136,11,3,Man City,Portsmouth,E0,9,13,7,8,14,1,M Messias,18,1,A,1,0,D,8,0,0,20/11/2004,3,Portsmouth_Man City_2004
+137,9,3,Birmingham,Blackburn,E0,15,5,10,6,9,3,N Barry,8,3,D,1,0,A,12,1,0,21/11/2004,1,Blackburn_Birmingham_2004
+138,5,0,Tottenham,Aston Villa,E0,9,6,5,5,11,0,C Foy,11,1,H,0,0,D,17,0,0,22/11/2004,0,Aston Villa_Tottenham_2004
+139,1,1,Norwich,Birmingham,E0,16,3,10,6,12,0,G Poll,7,1,D,1,0,H,14,1,0,27/11/2004,2,Birmingham_Norwich_2004
+140,6,1,Portsmouth,Bolton,E0,19,4,10,7,14,1,S Dunn,8,0,A,0,0,A,13,1,0,27/11/2004,0,Bolton_Portsmouth_2004
+141,10,4,Chelsea,Charlton,E0,8,12,4,7,11,1,M Clattenburg,16,0,A,0,0,A,13,1,0,27/11/2004,0,Charlton_Chelsea_2004
+142,6,2,Blackburn,Fulham,E0,12,4,6,6,13,1,R Styles,17,0,A,0,0,A,9,1,1,27/11/2004,2,Fulham_Blackburn_2004
+143,8,0,Aston Villa,Man City,E0,11,3,6,8,19,0,M Riley,7,2,H,2,1,H,14,1,0,27/11/2004,1,Man City_Aston Villa_2004
+144,8,2,Crystal Palace,Southampton,E0,15,8,8,4,11,0,P Walton,11,2,D,0,0,D,7,3,0,27/11/2004,0,Southampton_Crystal Palace_2004
+145,8,3,Man United,West Brom,E0,3,9,2,1,11,0,S Bennett,18,0,A,0,0,D,13,0,0,27/11/2004,0,West Brom_Man United_2004
+146,0,1,Arsenal,Liverpool,E0,11,2,7,6,16,0,A Wiley,3,2,H,1,0,H,6,2,0,28/11/2004,0,Liverpool_Arsenal_2004
+147,4,1,Everton,Newcastle,E0,19,3,9,8,19,0,N Barry,7,1,D,1,0,H,14,3,0,28/11/2004,1,Newcastle_Everton_2004
+148,7,0,Middlesbrough,Tottenham,E0,14,3,9,5,13,0,P Dowd,8,2,H,0,1,D,11,2,0,28/11/2004,1,Tottenham_Middlesbrough_2004
+149,2,0,Birmingham,Arsenal,E0,7,1,4,4,15,0,D Gallagher,2,3,H,1,0,H,7,1,0,04/12/2004,0,Arsenal_Birmingham_2004
+150,9,1,Liverpool,Aston Villa,E0,3,7,2,3,10,1,M Halsey,12,1,D,1,0,D,10,0,0,04/12/2004,1,Aston Villa_Liverpool_2004
+151,5,1,Tottenham,Blackburn,E0,12,8,7,7,11,0,M Dean,10,0,A,0,0,D,11,1,0,04/12/2004,3,Blackburn_Tottenham_2004
+152,2,0,Newcastle,Chelsea,E0,14,5,9,3,15,0,R Styles,9,4,H,0,0,D,12,2,0,04/12/2004,1,Chelsea_Newcastle_2004
+153,4,2,Bolton,Everton,E0,12,6,3,4,18,1,H Webb,10,3,H,1,0,D,14,3,0,04/12/2004,0,Everton_Bolton_2004
+154,2,0,Southampton,Man United,E0,34,0,14,16,10,0,B Knight,4,3,H,0,0,D,5,1,0,04/12/2004,0,Man United_Southampton_2004
+155,4,1,Fulham,Norwich,E0,10,9,4,5,22,1,A Wiley,15,0,A,0,0,A,22,3,0,04/12/2004,1,Norwich_Fulham_2004
+156,3,2,West Brom,Portsmouth,E0,14,4,10,8,14,2,P Walton,10,3,H,1,0,A,14,2,0,04/12/2004,0,Portsmouth_West Brom_2004
+157,3,1,Charlton,Crystal Palace,E0,5,7,3,5,14,0,M Messias,11,0,A,0,0,D,16,3,0,05/12/2004,2,Crystal Palace_Charlton_2004
+158,4,2,Man City,Middlesbrough,E0,11,6,7,6,18,1,G Poll,9,3,H,1,0,D,14,3,0,06/12/2004,0,Middlesbrough_Man City_2004
+159,1,0,Blackburn,Crystal Palace,E0,8,8,1,2,20,0,A Wiley,16,0,D,0,1,D,19,3,0,11/12/2004,3,Crystal Palace_Blackburn_2004
+160,7,0,Liverpool,Everton,E0,6,5,2,2,14,0,S Bennett,16,1,H,0,0,D,12,3,0,11/12/2004,2,Everton_Liverpool_2004
+161,2,1,Tottenham,Man City,E0,8,2,3,6,9,0,D Gallagher,5,0,A,0,0,D,8,2,0,11/12/2004,1,Man City_Tottenham_2004
+162,2,1,Portsmouth,Newcastle,E0,15,3,2,6,15,1,M Riley,6,1,D,1,0,D,12,2,0,11/12/2004,1,Newcastle_Portsmouth_2004
+163,4,2,Bolton,Norwich,E0,9,3,4,4,26,2,B Knight,4,3,H,1,0,A,10,3,0,11/12/2004,1,Norwich_Bolton_2004
+164,6,2,Middlesbrough,Southampton,E0,16,7,5,4,12,0,N Barry,15,2,D,1,0,H,11,1,0,11/12/2004,1,Southampton_Middlesbrough_2004
+165,6,1,Charlton,West Brom,E0,7,2,4,6,13,1,C Foy,8,0,A,0,0,A,16,0,0,11/12/2004,0,West Brom_Charlton_2004
+166,6,2,Chelsea,Arsenal,E0,10,5,5,4,17,1,G Poll,10,2,D,2,0,H,11,3,0,12/12/2004,1,Arsenal_Chelsea_2004
+167,0,2,Birmingham,Aston Villa,E0,9,5,3,6,28,2,S Dunn,9,1,A,0,0,A,9,4,0,12/12/2004,2,Aston Villa_Birmingham_2004
+168,7,1,Man United,Fulham,E0,7,6,3,6,11,1,P Dowd,14,1,D,0,0,A,15,1,0,13/12/2004,2,Fulham_Man United_2004
+169,4,1,Portsmouth,Liverpool,E0,12,4,7,6,9,0,M Clattenburg,7,1,D,0,0,D,6,0,0,14/12/2004,0,Liverpool_Portsmouth_2004
+170,2,0,West Brom,Birmingham,E0,7,9,5,2,20,0,M Riley,11,4,H,3,0,H,14,4,0,18/12/2004,0,Birmingham_West Brom_2004
+171,3,0,Everton,Blackburn,E0,13,2,9,7,21,0,M Halsey,5,0,D,0,0,D,25,2,0,18/12/2004,1,Blackburn_Everton_2004
+172,1,1,Man City,Bolton,E0,14,2,6,8,12,0,U Rennie,6,0,A,0,0,D,17,0,0,18/12/2004,0,Bolton_Man City_2004
+173,3,0,Norwich,Chelsea,E0,12,0,8,7,11,0,M Dean,1,4,H,3,0,H,12,0,0,18/12/2004,0,Chelsea_Norwich_2004
+174,3,2,Crystal Palace,Man United,E0,19,3,14,15,8,1,S Dunn,4,5,H,2,0,H,12,1,0,18/12/2004,0,Man United_Crystal Palace_2004
+175,6,0,Aston Villa,Middlesbrough,E0,9,6,8,5,18,0,A D'Urso,14,3,H,1,0,H,6,1,0,18/12/2004,0,Middlesbrough_Aston Villa_2004
+176,3,1,Southampton,Tottenham,E0,18,4,12,6,13,0,P Dowd,7,5,H,3,0,H,9,2,0,18/12/2004,0,Tottenham_Southampton_2004
+177,5,1,Newcastle,Liverpool,E0,15,3,5,5,19,1,G Poll,7,3,H,2,1,H,12,3,0,19/12/2004,0,Liverpool_Newcastle_2004
+178,7,1,Arsenal,Portsmouth,E0,11,5,5,5,9,0,H Webb,13,0,A,0,0,D,13,1,0,19/12/2004,0,Portsmouth_Arsenal_2004
+179,3,1,Fulham,Charlton,E0,8,4,5,5,16,0,S Bennett,6,2,H,1,0,H,14,2,0,20/12/2004,1,Charlton_Fulham_2004
+180,6,0,Fulham,Arsenal,E0,11,1,8,7,9,0,B Knight,2,2,H,1,0,H,12,2,0,26/12/2004,1,Arsenal_Fulham_2004
+181,3,0,Middlesbrough,Birmingham,E0,11,6,10,5,9,0,S Bennett,9,2,H,2,0,H,17,0,0,26/12/2004,1,Birmingham_Middlesbrough_2004
+182,5,2,Newcastle,Blackburn,E0,21,3,11,7,19,2,M Messias,5,2,D,1,0,A,18,2,0,26/12/2004,1,Blackburn_Newcastle_2004
+183,3,0,Aston Villa,Chelsea,E0,14,7,7,6,13,0,P Walton,9,1,H,1,0,H,12,3,0,26/12/2004,3,Chelsea_Aston Villa_2004
+184,7,1,Portsmouth,Crystal Palace,E0,18,6,10,9,14,0,N Barry,11,0,A,0,0,D,10,2,0,26/12/2004,0,Crystal Palace_Portsmouth_2004
+185,4,1,Man City,Everton,E0,9,6,6,4,21,1,P Dowd,10,2,H,1,1,D,14,2,0,26/12/2004,1,Everton_Man City_2004
+186,0,0,Bolton,Man United,E0,14,1,7,9,14,0,D Gallagher,8,2,H,1,0,H,12,0,0,26/12/2004,0,Man United_Bolton_2004
+187,8,2,Tottenham,Norwich,E0,13,9,8,10,9,0,M Riley,16,0,A,0,0,D,11,0,0,26/12/2004,1,Norwich_Tottenham_2004
+188,11,0,Charlton,Southampton,E0,12,5,4,5,12,0,S Dunn,15,0,D,0,0,D,7,0,0,26/12/2004,1,Southampton_Charlton_2004
+189,11,5,Liverpool,West Brom,E0,2,8,1,4,13,1,R Styles,16,0,A,0,0,A,12,0,1,26/12/2004,0,West Brom_Liverpool_2004
+190,9,1,Man United,Aston Villa,E0,8,7,6,6,10,1,G Poll,15,0,A,0,0,A,14,3,0,28/12/2004,0,Aston Villa_Man United_2004
+191,1,1,Blackburn,Bolton,E0,13,5,5,5,10,1,R Styles,7,0,A,0,0,A,13,2,0,28/12/2004,2,Bolton_Blackburn_2004
+192,2,0,Everton,Charlton,E0,12,3,8,8,11,0,M Riley,5,2,H,0,1,D,13,0,0,28/12/2004,0,Charlton_Everton_2004
+193,3,3,Birmingham,Fulham,E0,10,5,7,7,13,2,M Clattenburg,6,2,A,1,0,A,9,0,0,28/12/2004,1,Fulham_Birmingham_2004
+194,3,0,Southampton,Liverpool,E0,19,2,11,7,12,0,M Halsey,3,1,H,1,0,H,6,3,0,28/12/2004,0,Liverpool_Southampton_2004
+195,0,1,West Brom,Man City,E0,11,0,4,11,10,0,A D'Urso,0,1,D,1,1,H,7,0,0,28/12/2004,0,Man City_West Brom_2004
+196,4,0,Norwich,Middlesbrough,E0,17,2,11,8,10,0,H Webb,10,2,H,0,0,D,13,1,0,28/12/2004,1,Middlesbrough_Norwich_2004
+197,4,2,Chelsea,Portsmouth,E0,4,9,2,5,15,0,A Wiley,12,0,A,0,0,D,12,3,0,28/12/2004,1,Portsmouth_Chelsea_2004
+198,6,1,Crystal Palace,Tottenham,E0,17,7,14,5,15,0,U Rennie,11,1,D,0,0,D,10,0,0,28/12/2004,1,Tottenham_Crystal Palace_2004
+199,8,1,Arsenal,Newcastle,E0,9,6,5,4,21,1,S Bennett,13,0,A,0,0,A,10,4,0,29/12/2004,1,Newcastle_Arsenal_2004
+200,7,0,Blackburn,Aston Villa,E0,11,4,3,6,9,0,H Webb,9,1,H,0,0,D,9,0,0,01/01/2005,1,Aston Villa_Blackburn_2004
+201,3,1,West Brom,Bolton,E0,25,7,15,7,15,1,M Dean,11,1,D,0,0,A,13,1,0,01/01/2005,0,Bolton_West Brom_2004
+202,2,3,Arsenal,Charlton,E0,7,5,4,1,15,1,M Halsey,8,1,A,1,0,D,13,1,0,01/01/2005,1,Charlton_Arsenal_2004
+203,2,1,Crystal Palace,Fulham,E0,12,3,6,4,18,1,D Gallagher,7,3,H,1,0,D,11,3,0,01/01/2005,1,Fulham_Crystal Palace_2004
+204,2,1,Chelsea,Liverpool,E0,14,7,7,3,16,0,M Riley,8,0,A,0,0,D,14,2,0,01/01/2005,2,Liverpool_Chelsea_2004
+205,8,1,Southampton,Man City,E0,15,1,8,9,9,0,C Foy,6,2,H,2,0,H,12,0,0,01/01/2005,0,Man City_Southampton_2004
+206,4,2,Man United,Middlesbrough,E0,6,7,2,10,9,1,A Wiley,13,0,A,0,0,A,13,0,0,01/01/2005,1,Middlesbrough_Man United_2004
+207,5,1,Birmingham,Newcastle,E0,8,8,4,6,14,0,R Styles,10,2,H,2,0,H,8,2,0,01/01/2005,1,Newcastle_Birmingham_2004
+208,5,1,Norwich,Portsmouth,E0,14,5,6,7,6,1,P Dowd,6,1,D,0,1,A,13,0,0,01/01/2005,3,Portsmouth_Norwich_2004
+209,4,2,Everton,Tottenham,E0,14,3,12,6,13,1,S Dunn,6,5,H,2,0,H,8,0,0,01/01/2005,0,Tottenham_Everton_2004
+210,8,0,Charlton,Blackburn,E0,16,6,11,6,14,0,A Wiley,9,1,H,1,0,H,11,3,0,03/01/2005,2,Blackburn_Charlton_2004
+211,7,0,Aston Villa,Crystal Palace,E0,14,6,9,7,14,0,A D'Urso,12,2,H,1,0,H,8,3,0,03/01/2005,2,Crystal Palace_Aston Villa_2004
+212,2,2,Liverpool,Norwich,E0,7,6,4,5,19,0,H Webb,11,1,A,0,0,D,16,3,0,03/01/2005,2,Norwich_Liverpool_2004
+213,6,0,Newcastle,West Brom,E0,8,7,5,1,7,0,N Barry,12,0,D,0,0,D,9,0,0,03/01/2005,2,West Brom_Newcastle_2004
+214,5,1,Man City,Arsenal,E0,13,4,9,12,13,1,R Styles,5,1,D,0,0,A,10,3,0,04/01/2005,3,Arsenal_Man City_2004
+215,5,2,Bolton,Birmingham,E0,14,6,8,6,12,1,U Rennie,11,1,A,0,0,A,12,2,0,04/01/2005,2,Birmingham_Bolton_2004
+216,3,0,Middlesbrough,Chelsea,E0,14,1,10,4,9,0,S Bennett,2,2,H,2,0,H,15,1,0,04/01/2005,2,Chelsea_Middlesbrough_2004
+217,1,1,Portsmouth,Everton,E0,17,6,7,8,9,1,P Walton,9,2,H,1,0,D,5,0,0,04/01/2005,0,Everton_Portsmouth_2004
+218,2,0,Tottenham,Man United,E0,23,5,16,8,13,0,M Clattenburg,7,0,D,0,0,D,11,2,0,04/01/2005,1,Man United_Tottenham_2004
+219,10,3,Fulham,Southampton,E0,8,7,5,2,16,2,G Poll,12,3,D,2,0,D,16,2,0,05/01/2005,2,Southampton_Fulham_2004
+220,5,0,Norwich,Aston Villa,E0,22,1,10,7,12,0,M Riley,7,3,H,2,0,H,15,0,0,15/01/2005,0,Aston Villa_Norwich_2004
+221,7,0,Arsenal,Bolton,E0,9,7,3,8,8,0,M Clattenburg,11,1,H,1,0,H,8,1,0,15/01/2005,2,Bolton_Arsenal_2004
+222,4,1,Birmingham,Charlton,E0,10,6,6,4,10,0,C Foy,10,3,H,1,0,H,11,2,0,15/01/2005,0,Charlton_Birmingham_2004
+223,4,1,Man United,Liverpool,E0,13,2,5,9,25,1,S Bennett,5,0,A,0,1,A,12,4,0,15/01/2005,2,Liverpool_Man United_2004
+224,7,1,Crystal Palace,Man City,E0,16,2,9,7,11,1,A Marriner,7,3,H,2,0,H,10,1,0,15/01/2005,2,Man City_Crystal Palace_2004
+225,4,1,Southampton,Newcastle,E0,22,6,17,14,20,1,U Rennie,9,2,H,2,0,H,12,2,0,15/01/2005,0,Newcastle_Southampton_2004
+226,6,1,Blackburn,Portsmouth,E0,11,6,1,5,23,0,A D'Urso,14,0,A,0,0,D,13,6,2,15/01/2005,2,Portsmouth_Blackburn_2004
+227,7,2,Chelsea,Tottenham,E0,12,5,4,4,12,1,G Poll,12,0,A,0,0,A,14,4,0,15/01/2005,2,Tottenham_Chelsea_2004
+228,5,0,West Brom,Fulham,E0,8,6,4,7,12,0,P Walton,7,1,H,0,0,D,12,1,0,16/01/2005,3,Fulham_West Brom_2004
+229,6,1,Everton,Middlesbrough,E0,18,5,12,9,10,0,D Gallagher,13,1,D,1,0,H,12,2,0,16/01/2005,1,Middlesbrough_Everton_2004
+230,3,2,Fulham,Birmingham,E0,8,3,5,5,11,0,P Dowd,6,1,A,0,0,D,16,3,0,22/01/2005,1,Birmingham_Fulham_2004
+231,3,0,Portsmouth,Chelsea,E0,14,5,9,2,9,0,M Riley,9,3,H,3,0,H,2,0,0,22/01/2005,0,Chelsea_Portsmouth_2004
+232,4,0,Tottenham,Crystal Palace,E0,8,6,7,5,14,0,C Foy,12,3,H,0,0,D,9,2,0,22/01/2005,1,Crystal Palace_Tottenham_2004
+233,5,1,Charlton,Everton,E0,12,3,7,9,10,1,H Webb,4,0,A,0,0,A,13,2,0,22/01/2005,1,Everton_Charlton_2004
+234,2,1,Aston Villa,Man United,E0,18,6,11,4,21,0,M Halsey,10,3,H,1,0,H,11,5,0,22/01/2005,2,Man United_Aston Villa_2004
+235,8,4,Middlesbrough,Norwich,E0,17,15,9,5,16,1,M Messias,22,4,D,1,0,D,11,3,0,22/01/2005,0,Norwich_Middlesbrough_2004
+236,3,0,Liverpool,Southampton,E0,11,2,7,6,12,0,A Wiley,11,2,H,2,0,H,10,2,0,22/01/2005,1,Southampton_Liverpool_2004
+237,11,0,Man City,West Brom,E0,13,5,6,3,12,0,G Poll,11,2,H,1,0,H,9,0,0,22/01/2005,2,West Brom_Man City_2004
+238,1,0,Newcastle,Arsenal,E0,13,1,8,11,19,0,S Dunn,4,1,H,1,0,H,17,3,0,23/01/2005,2,Arsenal_Newcastle_2004
+239,7,1,Bolton,Blackburn,E0,9,3,4,7,19,0,S Bennett,6,0,A,0,0,D,16,4,0,24/01/2005,1,Blackburn_Bolton_2004
+240,7,4,Man United,Arsenal,E0,11,9,10,6,16,1,G Poll,10,2,A,2,1,H,20,4,0,01/02/2005,2,Arsenal_Man United_2004
+241,6,1,Tottenham,Bolton,E0,15,5,9,4,17,0,M Dean,11,3,H,0,1,D,9,2,0,01/02/2005,0,Bolton_Tottenham_2004
+242,7,2,Liverpool,Charlton,E0,4,7,3,3,15,0,N Barry,19,1,A,1,0,H,11,0,0,01/02/2005,0,Charlton_Liverpool_2004
+243,5,1,Middlesbrough,Portsmouth,E0,14,2,5,9,8,1,P Crossley,9,2,H,1,0,D,9,2,0,01/02/2005,1,Portsmouth_Middlesbrough_2004
+244,4,2,Crystal Palace,West Brom,E0,12,4,7,8,11,0,D Gallagher,4,2,D,0,1,D,17,0,0,01/02/2005,1,West Brom_Crystal Palace_2004
+245,1,1,Southampton,Birmingham,E0,12,3,4,8,18,0,P Walton,6,2,H,2,0,H,11,2,0,02/02/2005,0,Birmingham_Southampton_2004
+246,4,1,Chelsea,Blackburn,E0,11,3,2,4,15,1,U Rennie,6,0,A,0,0,A,24,2,0,02/02/2005,2,Blackburn_Chelsea_2004
+247,3,0,Norwich,Everton,E0,18,6,4,3,16,0,A Wiley,11,1,H,0,0,D,12,0,0,02/02/2005,1,Everton_Norwich_2004
+248,8,1,Aston Villa,Fulham,E0,12,2,3,4,17,0,C Foy,12,1,D,0,0,D,12,3,0,02/02/2005,1,Fulham_Aston Villa_2004
+249,1,1,Newcastle,Man City,E0,5,1,1,3,18,1,A D'Urso,3,1,D,0,0,A,11,3,0,02/02/2005,2,Man City_Newcastle_2004
+250,2,3,Arsenal,Aston Villa,E0,5,6,1,5,11,3,S Bennett,15,1,A,0,0,A,13,0,0,05/02/2005,2,Aston Villa_Arsenal_2004
+251,4,1,Bolton,Crystal Palace,E0,17,6,7,6,10,1,G Poll,9,0,A,0,0,A,16,1,0,05/02/2005,0,Crystal Palace_Bolton_2004
+252,3,1,Fulham,Liverpool,E0,10,2,7,4,13,1,R Styles,6,3,H,1,0,D,12,4,0,05/02/2005,1,Liverpool_Fulham_2004
+253,2,0,Birmingham,Man United,E0,17,1,11,5,16,0,D Gallagher,7,2,H,0,0,D,10,3,0,05/02/2005,1,Man United_Birmingham_2004
+254,10,0,Blackburn,Middlesbrough,E0,13,3,7,8,10,0,M Riley,6,1,H,1,0,H,14,2,1,05/02/2005,1,Middlesbrough_Blackburn_2004
+255,2,1,Charlton,Newcastle,E0,21,2,10,7,12,0,M Halsey,8,1,D,0,0,D,10,1,0,05/02/2005,1,Newcastle_Charlton_2004
+256,3,2,West Brom,Norwich,E0,13,8,7,3,13,1,C Foy,15,3,H,1,0,D,18,3,0,05/02/2005,0,Norwich_West Brom_2004
+257,2,1,Portsmouth,Tottenham,E0,18,3,10,9,8,1,S Dunn,6,3,H,1,0,D,10,0,0,05/02/2005,0,Tottenham_Portsmouth_2004
+258,1,0,Man City,Chelsea,E0,11,2,8,7,11,0,H Webb,5,0,D,0,0,D,9,1,0,06/02/2005,2,Chelsea_Man City_2004
+259,3,2,Everton,Southampton,E0,21,4,9,8,11,1,A D'Urso,8,2,D,1,0,D,15,2,0,06/02/2005,0,Southampton_Everton_2004
+260,4,0,Liverpool,Birmingham,E0,5,2,3,10,10,0,H Webb,6,2,H,2,0,H,16,0,0,12/02/2005,2,Birmingham_Liverpool_2004
+261,3,0,Norwich,Blackburn,E0,18,6,13,12,14,0,S Dunn,9,3,H,2,0,H,15,1,0,12/02/2005,2,Blackburn_Norwich_2004
+262,2,0,Middlesbrough,Bolton,E0,13,2,8,3,15,0,A Wiley,5,0,D,0,0,D,11,1,0,12/02/2005,0,Bolton_Middlesbrough_2004
+263,9,1,Chelsea,Everton,E0,4,11,2,3,9,0,M Riley,25,0,A,0,0,D,14,2,1,12/02/2005,1,Everton_Chelsea_2004
+264,3,2,Aston Villa,Portsmouth,E0,9,4,3,6,22,1,D Gallagher,6,1,A,1,0,D,14,1,0,12/02/2005,2,Portsmouth_Aston Villa_2004
+265,6,2,Man United,Man City,E0,9,3,3,4,14,0,S Bennett,10,0,A,0,0,D,9,3,0,13/02/2005,2,Man City_Man United_2004
+266,1,1,Crystal Palace,Arsenal,E0,17,3,12,5,17,0,R Styles,6,5,H,3,0,H,8,2,0,14/02/2005,1,Arsenal_Crystal Palace_2004
+267,3,0,Southampton,West Brom,E0,9,7,4,7,15,0,M Riley,11,0,D,0,0,D,15,3,0,22/02/2005,2,West Brom_Southampton_2004
+268,7,3,Everton,Aston Villa,E0,9,9,6,3,17,1,G Poll,15,1,A,0,0,A,22,0,0,26/02/2005,3,Aston Villa_Everton_2004
+269,7,0,Birmingham,Crystal Palace,E0,8,5,2,4,15,0,P Dowd,9,2,H,1,0,H,23,3,0,26/02/2005,3,Crystal Palace_Birmingham_2004
+270,3,1,Portsmouth,Man United,E0,13,4,6,4,15,0,M Halsey,8,2,H,1,0,H,15,2,0,26/02/2005,1,Man United_Portsmouth_2004
+271,5,1,Arsenal,Southampton,E0,10,12,3,3,13,1,A Wiley,17,1,D,0,1,A,9,1,1,26/02/2005,1,Southampton_Arsenal_2004
+272,2,0,Fulham,Tottenham,E0,18,5,8,13,13,0,N Barry,8,2,H,0,0,D,6,1,0,26/02/2005,0,Tottenham_Fulham_2004
+273,1,2,Charlton,Middlesbrough,E0,21,2,18,10,15,1,M Riley,5,2,D,0,0,A,10,3,0,27/02/2005,0,Middlesbrough_Charlton_2004
+274,3,1,Bolton,Newcastle,E0,14,2,9,6,19,1,S Dunn,4,2,H,1,0,D,12,2,0,27/02/2005,0,Newcastle_Bolton_2004
+275,12,3,Man City,Norwich,E0,5,10,4,3,7,2,R Styles,17,2,A,2,0,D,12,2,1,28/02/2005,2,Norwich_Man City_2004
+276,3,0,Portsmouth,Arsenal,E0,11,2,6,7,15,0,C Foy,5,3,H,1,0,H,12,2,0,05/03/2005,0,Arsenal_Portsmouth_2004
+277,4,0,Middlesbrough,Aston Villa,E0,8,1,4,5,6,0,R Styles,5,2,H,0,0,D,8,2,0,05/03/2005,1,Aston Villa_Middlesbrough_2004
+278,7,0,Man United,Crystal Palace,E0,2,9,1,2,9,0,M Clattenburg,16,0,D,0,0,D,12,4,1,05/03/2005,5,Crystal Palace_Man United_2004
+279,5,0,Charlton,Fulham,E0,10,6,5,5,12,0,S Bennett,9,0,D,0,0,D,9,2,0,05/03/2005,3,Fulham_Charlton_2004
+280,4,0,Liverpool,Newcastle,E0,13,3,4,5,16,0,H Webb,6,1,H,0,0,D,11,2,0,05/03/2005,2,Newcastle_Liverpool_2004
+281,7,3,Chelsea,Norwich,E0,8,13,5,7,15,1,M Halsey,23,1,A,0,0,A,14,2,0,05/03/2005,1,Norwich_Chelsea_2004
+282,10,0,Tottenham,Southampton,E0,9,8,4,4,11,0,P Walton,13,1,H,0,0,D,7,2,0,05/03/2005,1,Southampton_Tottenham_2004
+283,3,1,Blackburn,Everton,E0,12,5,4,6,20,0,P Dowd,11,0,A,0,0,D,15,2,0,06/03/2005,3,Everton_Blackburn_2004
+284,3,0,Birmingham,West Brom,E0,12,0,7,13,18,0,S Dunn,7,2,H,0,0,D,16,1,0,06/03/2005,1,West Brom_Birmingham_2004
+285,5,1,Bolton,Man City,E0,8,3,3,5,21,1,A Wiley,11,0,A,0,0,A,10,2,0,07/03/2005,1,Man City_Bolton_2004
+286,3,0,West Brom,Chelsea,E0,23,4,11,8,9,0,N Barry,7,1,H,1,0,H,13,1,0,15/03/2005,0,Chelsea_West Brom_2004
+287,2,0,Tottenham,Charlton,E0,5,4,2,5,16,0,C Foy,7,2,H,1,0,H,15,4,0,16/03/2005,1,Charlton_Tottenham_2004
+288,3,0,Blackburn,Liverpool,E0,7,2,2,11,13,0,B Knight,5,0,D,0,0,D,12,1,0,16/03/2005,1,Liverpool_Blackburn_2004
+289,6,1,Arsenal,Blackburn,E0,9,8,2,4,8,1,G Poll,10,0,A,0,0,A,21,1,0,19/03/2005,3,Blackburn_Arsenal_2004
+290,6,0,Norwich,Bolton,E0,16,2,10,7,16,0,P Walton,6,1,H,1,0,H,20,1,0,19/03/2005,3,Bolton_Norwich_2004
+291,9,4,West Brom,Charlton,E0,8,9,5,3,8,1,M Halsey,14,1,A,1,0,D,11,0,1,19/03/2005,0,Charlton_West Brom_2004
+292,4,1,Crystal Palace,Chelsea,E0,20,3,13,10,16,1,P Dowd,6,4,H,1,0,D,13,0,0,19/03/2005,1,Chelsea_Crystal Palace_2004
+293,3,0,Fulham,Man United,E0,19,6,12,18,11,0,A D'Urso,10,1,H,1,0,H,7,1,0,19/03/2005,0,Man United_Fulham_2004
+294,3,1,Newcastle,Portsmouth,E0,13,6,6,4,19,1,M Messias,11,1,D,1,0,D,15,4,0,19/03/2005,5,Portsmouth_Newcastle_2004
+295,4,1,Man City,Tottenham,E0,12,7,9,6,13,1,B Knight,11,2,H,1,0,D,13,3,0,19/03/2005,2,Tottenham_Man City_2004
+296,3,0,Aston Villa,Birmingham,E0,10,4,4,2,20,0,M Riley,5,2,H,0,0,D,12,3,0,20/03/2005,3,Birmingham_Aston Villa_2004
+297,1,1,Everton,Liverpool,E0,15,2,8,5,15,0,R Styles,4,2,H,2,0,H,13,4,1,20/03/2005,1,Liverpool_Everton_2004
+298,6,3,Southampton,Middlesbrough,E0,14,7,8,3,17,1,U Rennie,12,1,A,1,0,D,20,0,0,20/03/2005,0,Middlesbrough_Southampton_2004
+299,3,1,Norwich,Arsenal,E0,21,1,15,10,11,1,A Wiley,3,4,H,2,0,H,8,0,0,02/04/2005,1,Arsenal_Norwich_2004
+300,3,1,Tottenham,Birmingham,E0,14,5,7,3,10,0,H Webb,9,1,D,0,0,D,6,1,0,02/04/2005,0,Birmingham_Tottenham_2004
+301,7,2,Man City,Charlton,E0,9,8,3,6,8,2,R Styles,16,2,D,1,0,A,6,0,0,02/04/2005,1,Charlton_Man City_2004
+302,3,1,Middlesbrough,Crystal Palace,E0,23,5,13,8,19,1,S Dunn,7,0,A,0,0,A,6,4,0,02/04/2005,0,Crystal Palace_Middlesbrough_2004
+303,12,0,Bolton,Liverpool,E0,10,5,7,4,13,0,S Bennett,13,1,H,0,0,D,6,3,0,02/04/2005,1,Liverpool_Bolton_2004
+304,3,0,Blackburn,Man United,E0,23,3,9,9,18,0,M Riley,9,0,D,0,0,D,21,2,0,02/04/2005,3,Man United_Blackburn_2004
+305,6,3,Aston Villa,Newcastle,E0,20,5,12,8,24,1,B Knight,8,0,A,0,0,A,14,2,3,02/04/2005,1,Newcastle_Aston Villa_2004
+306,3,3,Chelsea,Southampton,E0,4,8,3,4,10,2,M Halsey,12,1,A,0,0,A,11,2,0,02/04/2005,0,Southampton_Chelsea_2004
+307,5,1,Portsmouth,Fulham,E0,12,4,7,5,10,1,M Clattenburg,8,3,H,0,0,A,14,3,0,03/04/2005,3,Fulham_Portsmouth_2004
+308,7,0,Everton,West Brom,E0,8,2,4,7,20,0,G Poll,8,1,H,0,0,D,15,2,0,03/04/2005,1,West Brom_Everton_2004
+309,2,0,Southampton,Blackburn,E0,15,3,8,4,14,0,N Barry,9,3,H,1,0,H,19,1,0,09/04/2005,2,Blackburn_Southampton_2004
+310,6,1,Fulham,Bolton,E0,15,4,10,4,14,0,D Gallagher,7,3,H,2,1,H,6,2,0,09/04/2005,0,Bolton_Fulham_2004
+311,5,1,Birmingham,Chelsea,E0,19,1,12,8,12,0,C Foy,2,1,D,0,0,D,17,2,0,09/04/2005,2,Chelsea_Birmingham_2004
+312,2,0,Liverpool,Man City,E0,11,1,8,5,11,0,M Riley,6,1,H,0,0,D,8,1,0,09/04/2005,1,Man City_Liverpool_2004
+313,3,1,Arsenal,Middlesbrough,E0,9,1,6,5,9,0,P Dowd,7,0,A,0,0,D,11,1,0,09/04/2005,1,Middlesbrough_Arsenal_2004
+314,4,0,Man United,Norwich,E0,7,8,5,3,18,0,H Webb,16,2,H,0,0,D,19,2,0,09/04/2005,2,Norwich_Man United_2004
+315,4,2,Charlton,Portsmouth,E0,13,4,9,5,14,2,G Poll,8,4,H,2,0,D,11,3,0,09/04/2005,1,Portsmouth_Charlton_2004
+316,5,1,West Brom,Aston Villa,E0,14,5,7,5,10,0,R Styles,7,1,D,1,1,H,6,2,1,10/04/2005,1,Aston Villa_West Brom_2004
+317,9,0,Crystal Palace,Everton,E0,13,3,8,4,14,0,U Rennie,11,4,H,1,0,H,10,1,0,10/04/2005,1,Everton_Crystal Palace_2004
+318,7,0,Newcastle,Tottenham,E0,19,3,6,4,15,0,S Bennett,6,1,H,1,0,H,9,2,0,10/04/2005,2,Tottenham_Newcastle_2004
+319,5,0,Portsmouth,Birmingham,E0,9,4,4,7,12,0,P Walton,5,0,D,0,0,D,16,2,0,16/04/2005,1,Birmingham_Portsmouth_2004
+320,2,2,Bolton,Charlton,E0,18,5,10,8,14,1,A Wiley,11,1,A,1,0,D,10,1,0,16/04/2005,0,Charlton_Bolton_2004
+321,3,3,Norwich,Crystal Palace,E0,12,8,10,7,21,1,R Styles,12,3,D,1,0,D,17,2,0,16/04/2005,2,Crystal Palace_Norwich_2004
+322,8,1,Man City,Fulham,E0,8,3,3,6,19,1,N Barry,7,1,D,0,0,A,9,1,0,16/04/2005,0,Fulham_Man City_2004
+323,3,2,Tottenham,Liverpool,E0,18,6,7,12,7,1,M Halsey,9,2,D,1,0,D,5,0,0,16/04/2005,0,Liverpool_Tottenham_2004
+324,8,3,Aston Villa,Southampton,E0,16,7,8,5,17,0,A D'Urso,11,2,A,2,0,H,10,2,0,16/04/2005,1,Southampton_Aston Villa_2004
+325,2,1,Southampton,Bolton,E0,22,4,16,5,9,0,M Clattenburg,5,1,D,1,0,H,9,0,0,19/04/2005,2,Bolton_Southampton_2004
+326,6,1,Fulham,Middlesbrough,E0,8,2,4,2,12,0,R Styles,7,1,D,0,0,D,11,0,0,19/04/2005,1,Middlesbrough_Fulham_2004
+327,5,0,Charlton,Aston Villa,E0,13,3,5,6,9,0,B Knight,12,0,D,0,0,D,14,1,0,20/04/2005,0,Aston Villa_Charlton_2004
+328,6,0,Crystal Palace,Blackburn,E0,18,3,7,11,19,0,P Walton,4,1,H,1,0,H,11,2,0,20/04/2005,3,Blackburn_Crystal Palace_2004
+329,2,0,Arsenal,Chelsea,E0,9,4,3,2,16,0,S Bennett,6,0,D,0,0,D,10,3,0,20/04/2005,1,Chelsea_Arsenal_2004
+330,5,0,Man United,Everton,E0,7,11,3,4,17,0,P Dowd,16,1,H,0,2,D,18,2,0,20/04/2005,3,Everton_Man United_2004
+331,3,0,Birmingham,Man City,E0,8,1,4,8,9,0,M Atkinson,5,3,H,0,0,D,11,1,0,20/04/2005,0,Man City_Birmingham_2004
+332,6,1,Newcastle,Norwich,E0,15,10,8,6,11,0,A Marriner,24,2,H,0,0,D,12,0,0,20/04/2005,0,Norwich_Newcastle_2004
+333,4,2,Liverpool,Portsmouth,E0,8,12,6,5,8,2,H Webb,19,1,A,1,0,A,10,0,0,20/04/2005,1,Portsmouth_Liverpool_2004
+334,3,1,West Brom,Tottenham,E0,15,4,5,7,12,1,C Foy,10,1,D,0,0,A,12,0,0,20/04/2005,2,Tottenham_West Brom_2004
+335,5,1,Bolton,Aston Villa,E0,13,6,10,7,13,0, U Rennie,12,1,D,1,0,H,17,2,0,23/04/2005,0,Aston Villa_Bolton_2004
+336,2,0,Man City,Blackburn,E0,11,1,5,6,17,0, C Foy,7,0,D,0,0,D,20,0,0,23/04/2005,0,Blackburn_Man City_2004
+337,6,1,Fulham,Chelsea,E0,12,4,7,4,11,1, A Wiley,10,3,H,1,0,D,7,1,0,23/04/2005,1,Chelsea_Fulham_2004
+338,1,0,Liverpool,Crystal Palace,E0,6,7,3,4,14,0, D Gallagher,9,1,H,1,0,H,19,5,0,23/04/2005,2,Crystal Palace_Liverpool_2004
+339,5,1,Birmingham,Everton,E0,11,4,6,9,18,1, A D'Urso,9,1,D,0,0,A,18,3,0,23/04/2005,2,Everton_Birmingham_2004
+340,4,0,West Brom,Middlesbrough,E0,12,9,8,1,12,0, H Webb,15,4,H,3,0,H,12,1,0,23/04/2005,1,Middlesbrough_West Brom_2004
+341,8,0,Charlton,Norwich,E0,13,6,6,7,9,0, M Atkinson,11,1,H,0,0,D,8,1,0,23/04/2005,1,Norwich_Charlton_2004
+342,4,1,Newcastle,Man United,E0,18,5,10,9,20,1, N Barry,11,2,H,0,0,A,8,0,0,24/04/2005,1,Man United_Newcastle_2004
+343,7,1,Southampton,Portsmouth,E0,18,8,8,4,11,1, S Dunn,11,4,H,4,0,H,15,1,0,24/04/2005,2,Portsmouth_Southampton_2004
+344,7,0,Tottenham,Arsenal,E0,12,1,3,4,15,0,M Riley,7,1,H,1,0,H,17,4,0,25/04/2005,0,Arsenal_Tottenham_2004
+345,4,1,Blackburn,West Brom,E0,9,7,3,6,15,0,S Bennett,14,1,D,1,0,H,13,4,0,26/04/2005,3,West Brom_Blackburn_2004
+346,1,0,Middlesbrough,Newcastle,E0,11,3,5,7,9,0,M Halsey,5,0,D,0,0,D,8,2,0,27/04/2005,1,Newcastle_Middlesbrough_2004
+347,1,1,Blackburn,Birmingham,E0,10,1,6,6,16,1,B Knight,5,2,H,0,0,A,15,1,0,30/04/2005,2,Birmingham_Blackburn_2004
+348,2,2,Chelsea,Bolton,E0,14,5,6,7,14,0,S Dunn,8,0,A,0,0,D,17,1,0,30/04/2005,4,Bolton_Chelsea_2004
+349,7,0,Everton,Fulham,E0,11,4,6,3,16,0,S Bennett,11,2,H,2,0,H,18,3,1,30/04/2005,1,Fulham_Everton_2004
+350,4,1,Middlesbrough,Liverpool,E0,12,3,6,7,20,1,P Dowd,6,1,D,0,0,A,10,3,0,30/04/2005,2,Liverpool_Middlesbrough_2004
+351,5,0,Portsmouth,Man City,E0,13,3,7,7,6,0,A Marriner,7,2,H,2,0,H,14,1,0,30/04/2005,0,Man City_Portsmouth_2004
+352,2,0,Crystal Palace,Newcastle,E0,16,3,9,5,15,0,A Wiley,7,0,D,0,0,D,16,1,0,30/04/2005,1,Newcastle_Crystal Palace_2004
+353,8,3,Norwich,Southampton,E0,15,7,9,6,13,3,G Poll,14,4,H,3,0,D,18,2,0,30/04/2005,3,Southampton_Norwich_2004
+354,7,4,Man United,Charlton,E0,6,12,4,1,15,2,D Gallagher,18,0,A,0,0,A,6,2,1,01/05/2005,0,Charlton_Man United_2004
+355,3,1,Aston Villa,Tottenham,E0,20,3,14,9,17,1,M Clattenburg,4,5,H,3,0,H,13,2,0,01/05/2005,1,Tottenham_Aston Villa_2004
+356,0,2,Arsenal,West Brom,E0,7,5,3,9,11,0,N Barry,8,0,A,0,0,D,12,0,0,02/05/2005,0,West Brom_Arsenal_2004
+357,2,3,Newcastle,Fulham,E0,6,3,3,1,13,1,G Poll,4,1,A,0,0,A,11,1,0,04/05/2005,1,Fulham_Newcastle_2004
+358,2,2,Man City,Aston Villa,E0,15,4,8,6,18,2,R Beeby,10,1,A,0,0,A,8,1,0,07/05/2005,1,Aston Villa_Man City_2004
+359,5,3,Fulham,Blackburn,E0,13,6,6,8,23,1,P Dowd,8,1,A,1,1,D,11,2,1,07/05/2005,2,Blackburn_Fulham_2004
+360,5,0,Charlton,Chelsea,E0,15,3,6,2,13,0,M Riley,6,1,H,0,0,D,7,0,0,07/05/2005,0,Chelsea_Charlton_2004
+361,2,2,Southampton,Crystal Palace,E0,14,3,6,5,18,1,H Webb,7,2,D,1,1,D,16,1,1,07/05/2005,3,Crystal Palace_Southampton_2004
+362,2,0,Newcastle,Everton,E0,8,4,6,3,11,0,B Knight,9,2,H,1,1,H,22,1,0,07/05/2005,3,Everton_Newcastle_2004
+363,0,1,West Brom,Man United,E0,27,0,14,12,13,0,M Halsey,2,1,D,1,0,H,10,0,0,07/05/2005,1,Man United_West Brom_2004
+364,3,0,Tottenham,Middlesbrough,E0,16,2,8,4,10,0,D Gallagher,5,1,H,1,0,H,14,3,0,07/05/2005,1,Middlesbrough_Tottenham_2004
+365,7,0,Birmingham,Norwich,E0,8,9,4,1,10,0,S Bennett,22,1,H,1,1,H,20,5,0,07/05/2005,1,Norwich_Birmingham_2004
+366,9,1,Bolton,Portsmouth,E0,9,4,4,2,23,1,M Messias,12,1,D,0,0,A,12,2,0,07/05/2005,0,Portsmouth_Bolton_2004
+367,4,1,Liverpool,Arsenal,E0,11,6,8,1,10,0,G Poll,11,3,H,2,0,H,13,2,0,08/05/2005,0,Arsenal_Liverpool_2004
+368,0,3,Chelsea,Man United,E0,15,6,9,7,14,1,G Poll,7,1,A,1,0,D,11,3,0,10/05/2005,2,Man United_Chelsea_2004
+369,2,0,Everton,Arsenal,E0,19,3,12,4,12,0,A Wiley,7,7,H,3,0,H,9,0,0,11/05/2005,2,Arsenal_Everton_2004
+370,2,1,Arsenal,Birmingham,E0,9,5,4,3,8,0,D Gallagher,11,2,H,0,0,D,10,0,0,15/05/2005,1,Birmingham_Arsenal_2004
+371,6,2,Everton,Bolton,E0,16,5,9,5,17,1,N Barry,10,3,H,0,0,A,12,1,1,15/05/2005,2,Bolton_Everton_2004
+372,8,2,Crystal Palace,Charlton,E0,8,6,5,3,14,0,M Clattenburg,9,2,D,1,0,H,14,2,0,15/05/2005,2,Charlton_Crystal Palace_2004
+373,13,0,Norwich,Fulham,E0,13,0,9,4,12,0,S Dunn,2,6,H,2,0,H,11,1,0,15/05/2005,0,Fulham_Norwich_2004
+374,5,1,Aston Villa,Liverpool,E0,15,4,7,9,16,0,B Knight,13,2,H,2,0,H,10,0,0,15/05/2005,0,Liverpool_Aston Villa_2004
+375,3,1,Middlesbrough,Man City,E0,10,3,5,10,15,1,R Styles,4,1,D,0,0,A,12,4,0,15/05/2005,2,Man City_Middlesbrough_2004
+376,4,1,Chelsea,Newcastle,E0,8,7,4,6,17,1,H Webb,12,1,D,1,0,D,11,4,0,15/05/2005,4,Newcastle_Chelsea_2004
+377,3,2,Man United,Southampton,E0,11,8,3,5,13,1,S Bennett,16,1,A,1,0,D,14,2,0,15/05/2005,1,Southampton_Man United_2004
+378,7,0,Blackburn,Tottenham,E0,11,8,7,5,14,0,A Wiley,12,0,D,0,0,D,10,2,0,15/05/2005,2,Tottenham_Blackburn_2004
+379,1,0,Portsmouth,West Brom,E0,9,2,5,6,13,0,M Riley,8,2,H,0,0,D,12,1,0,15/05/2005,0,West Brom_Portsmouth_2004

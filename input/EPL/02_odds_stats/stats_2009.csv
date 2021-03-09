@@ -1,0 +1,381 @@
+,AC,FTAG,AwayTeam,HomeTeam,Div,HS,AST,HST,HC,AF,HTAG,Referee,AS,FTHG,FTR,HTHG,AR,HTR,HF,AY,HR,Date,HY,idGame
+0,6,2,Wigan,Aston Villa,E0,11,7,5,4,14,1,M Clattenburg,14,0,A,0,0,A,15,2,0,15/08/2009,2,Aston Villa_Wigan_2009
+1,4,2,Man City,Blackburn,E0,17,5,9,5,9,1,M Dean,8,0,A,0,0,A,12,1,0,15/08/2009,2,Blackburn_Man City_2009
+2,7,1,Sunderland,Bolton,E0,11,13,3,4,10,1,A Marriner,20,0,A,0,0,A,16,1,0,15/08/2009,2,Bolton_Sunderland_2009
+3,4,1,Hull,Chelsea,E0,26,3,12,12,15,1,A Wiley,7,2,H,1,0,D,13,2,0,15/08/2009,1,Chelsea_Hull_2009
+4,9,6,Arsenal,Everton,E0,8,9,5,4,13,3,M Halsey,15,1,A,0,0,A,11,0,0,15/08/2009,0,Everton_Arsenal_2009
+5,4,1,Fulham,Portsmouth,E0,16,3,4,6,18,1,M Atkinson,9,0,A,0,0,A,11,2,0,15/08/2009,3,Portsmouth_Fulham_2009
+6,6,0,Burnley,Stoke,E0,12,5,5,3,10,0,S Bennett,9,2,H,2,0,H,15,2,0,15/08/2009,2,Stoke_Burnley_2009
+7,6,2,West Ham,Wolves,E0,19,13,11,8,5,1,C Foy,16,0,A,0,0,A,9,0,0,15/08/2009,0,Wolves_West Ham_2009
+8,2,0,Birmingham,Man United,E0,26,4,17,13,7,0,L Mason,6,1,H,1,0,H,13,1,0,16/08/2009,1,Man United_Birmingham_2009
+9,5,1,Liverpool,Tottenham,E0,17,3,11,6,16,0,P Dowd,6,2,H,1,0,H,14,3,0,16/08/2009,3,Tottenham_Liverpool_2009
+10,14,3,Chelsea,Sunderland,E0,4,9,3,1,10,0,S Bennett,20,1,A,1,0,H,14,2,0,18/08/2009,2,Sunderland_Chelsea_2009
+11,4,1,Wolves,Wigan,E0,18,3,5,4,21,1,M Jones,9,0,A,0,0,A,8,3,0,18/08/2009,0,Wigan_Wolves_2009
+12,5,0,Portsmouth,Birmingham,E0,9,4,5,4,20,0,L Probert,9,1,H,0,0,D,11,5,0,19/08/2009,0,Birmingham_Portsmouth_2009
+13,12,0,Man United,Burnley,E0,8,9,2,1,12,0,A Wiley,18,1,H,1,0,H,8,1,0,19/08/2009,2,Burnley_Man United_2009
+14,5,5,Tottenham,Hull,E0,9,12,7,6,13,3,C Foy,18,1,A,1,0,A,23,2,0,19/08/2009,3,Hull_Tottenham_2009
+15,5,0,Stoke,Liverpool,E0,18,3,13,11,9,0,P Walton,6,4,H,2,0,H,10,1,0,19/08/2009,0,Liverpool_Stoke_2009
+16,4,1,Portsmouth,Arsenal,E0,19,4,16,8,10,1,S Bennett,9,4,H,2,0,H,9,0,0,22/08/2009,1,Arsenal_Portsmouth_2009
+17,3,0,Stoke,Birmingham,E0,8,3,6,3,13,0,C Foy,13,0,D,0,0,D,8,3,0,22/08/2009,0,Birmingham_Stoke_2009
+18,12,0,Bolton,Hull,E0,12,10,5,4,19,0,M Jones,20,1,H,0,0,D,19,2,0,22/08/2009,3,Hull_Bolton_2009
+19,6,0,Wolves,Man City,E0,16,2,11,5,11,0,L Mason,10,1,H,1,0,H,7,1,0,22/08/2009,0,Man City_Wolves_2009
+20,10,1,Blackburn,Sunderland,E0,8,5,5,0,14,1,A Wiley,18,2,H,1,0,D,12,1,0,22/08/2009,2,Sunderland_Blackburn_2009
+21,5,5,Man United,Wigan,E0,16,13,7,3,8,0,H Webb,16,0,A,0,0,D,11,2,0,22/08/2009,2,Wigan_Man United_2009
+22,7,0,Everton,Burnley,E0,8,11,4,3,13,0,P Dowd,17,1,H,1,0,H,11,0,0,23/08/2009,1,Burnley_Everton_2009
+23,7,2,Chelsea,Fulham,E0,4,4,1,4,10,1,A Marriner,12,0,A,0,0,A,11,0,0,23/08/2009,0,Fulham_Chelsea_2009
+24,8,2,Tottenham,West Ham,E0,17,10,8,4,11,0,M Clattenburg,17,1,A,0,0,D,13,1,0,23/08/2009,2,West Ham_Tottenham_2009
+25,4,3,Aston Villa,Liverpool,E0,21,4,12,10,11,2,M Atkinson,7,1,A,0,0,A,15,2,0,24/08/2009,3,Liverpool_Aston Villa_2009
+26,2,0,West Ham,Blackburn,E0,19,5,9,5,18,0,P Dowd,11,0,D,0,0,D,13,3,0,29/08/2009,1,Blackburn_West Ham_2009
+27,11,3,Liverpool,Bolton,E0,8,14,5,5,7,1,A Wiley,26,2,A,1,0,D,14,1,1,29/08/2009,3,Bolton_Liverpool_2009
+28,1,0,Burnley,Chelsea,E0,27,0,17,10,5,0,M Clattenburg,3,3,H,1,0,H,7,1,0,29/08/2009,0,Chelsea_Burnley_2009
+29,5,1,Arsenal,Man United,E0,10,3,4,6,15,1,M Dean,9,2,H,0,0,A,21,6,0,29/08/2009,3,Man United_Arsenal_2009
+30,10,0,Sunderland,Stoke,E0,13,6,7,10,8,0,M Jones,9,1,H,1,0,H,9,2,0,29/08/2009,0,Stoke_Sunderland_2009
+31,3,1,Birmingham,Tottenham,E0,20,6,14,7,10,0,P Walton,11,2,H,0,0,D,12,2,0,29/08/2009,2,Tottenham_Birmingham_2009
+32,2,1,Hull,Wolves,E0,24,4,17,8,15,1,S Attwell,5,1,D,0,0,A,11,2,0,29/08/2009,0,Wolves_Hull_2009
+33,4,0,Fulham,Aston Villa,E0,9,3,4,9,9,0,S Bennett,6,2,H,1,0,H,9,2,0,30/08/2009,1,Aston Villa_Fulham_2009
+34,5,1,Wigan,Everton,E0,26,7,14,12,24,0,L Probert,12,2,H,0,0,D,11,5,0,30/08/2009,1,Everton_Wigan_2009
+35,11,1,Man City,Portsmouth,E0,11,8,6,3,7,1,H Webb,12,0,A,0,0,A,12,1,0,30/08/2009,2,Portsmouth_Man City_2009
+36,6,1,Wolves,Blackburn,E0,13,5,10,10,16,0,S Bennett,9,3,H,1,0,H,13,2,0,12/09/2009,1,Blackburn_Wolves_2009
+37,5,0,Burnley,Liverpool,E0,27,3,16,7,10,0,L Mason,6,4,H,2,0,H,8,2,0,12/09/2009,0,Liverpool_Burnley_2009
+38,12,2,Arsenal,Man City,E0,10,9,6,3,12,0,M Clattenburg,19,4,H,1,0,H,13,2,0,12/09/2009,3,Man City_Arsenal_2009
+39,5,3,Bolton,Portsmouth,E0,21,6,11,7,17,2,C Foy,14,2,A,1,0,A,17,0,0,12/09/2009,2,Portsmouth_Bolton_2009
+40,14,2,Chelsea,Stoke,E0,4,10,2,4,11,1,M Dean,18,1,A,1,0,D,13,3,0,12/09/2009,3,Stoke_Chelsea_2009
+41,8,1,Hull,Sunderland,E0,7,5,4,7,15,1,M Atkinson,6,4,H,1,0,D,18,2,0,12/09/2009,2,Sunderland_Hull_2009
+42,9,3,Man United,Tottenham,E0,11,13,7,3,13,2,A Marriner,17,1,A,1,1,A,16,2,0,12/09/2009,3,Tottenham_Man United_2009
+43,7,0,West Ham,Wigan,E0,12,5,6,6,11,0,A Wiley,12,1,H,0,0,D,13,1,0,12/09/2009,2,Wigan_West Ham_2009
+44,1,1,Aston Villa,Birmingham,E0,11,5,7,7,20,0,H Webb,12,0,A,0,0,D,10,2,0,13/09/2009,1,Birmingham_Aston Villa_2009
+45,3,1,Everton,Fulham,E0,14,6,8,5,10,1,P Walton,6,2,H,0,0,A,6,0,0,13/09/2009,1,Fulham_Everton_2009
+46,4,0,Wigan,Arsenal,E0,23,5,11,6,18,0,M Jones,8,4,H,1,0,H,6,2,0,19/09/2009,2,Arsenal_Wigan_2009
+47,5,0,Portsmouth,Aston Villa,E0,7,12,5,7,12,0,S Attwell,17,2,H,2,0,H,17,0,0,19/09/2009,2,Aston Villa_Portsmouth_2009
+48,6,1,Stoke,Bolton,E0,11,6,5,4,11,0,M Clattenburg,10,1,D,0,0,D,6,2,0,19/09/2009,2,Bolton_Stoke_2009
+49,4,1,Sunderland,Burnley,E0,10,5,3,4,15,1,C Foy,8,3,H,1,0,D,4,3,0,19/09/2009,0,Burnley_Sunderland_2009
+50,8,1,Birmingham,Hull,E0,16,9,11,10,13,0,P Dowd,14,0,A,0,0,D,15,2,0,19/09/2009,0,Hull_Birmingham_2009
+51,4,3,Liverpool,West Ham,E0,8,15,5,4,17,2,A Marriner,19,2,A,2,0,D,13,3,0,19/09/2009,3,West Ham_Liverpool_2009
+52,3,0,Tottenham,Chelsea,E0,25,4,15,11,9,0,H Webb,9,3,H,1,0,H,7,2,0,20/09/2009,0,Chelsea_Tottenham_2009
+53,2,0,Blackburn,Everton,E0,18,4,11,6,18,0,L Mason,7,3,H,1,0,H,15,2,0,20/09/2009,1,Everton_Blackburn_2009
+54,1,3,Man City,Man United,E0,21,6,11,11,14,1,M Atkinson,10,4,H,1,0,D,15,2,0,20/09/2009,2,Man United_Man City_2009
+55,3,1,Fulham,Wolves,E0,12,1,4,3,11,0,K Friend,3,2,H,1,0,H,14,1,0,20/09/2009,1,Wolves_Fulham_2009
+56,4,2,Bolton,Birmingham,E0,12,4,6,8,17,1,S Bennett,10,1,A,0,0,A,9,1,0,26/09/2009,2,Birmingham_Bolton_2009
+57,5,1,Aston Villa,Blackburn,E0,15,5,7,6,11,1,M Clattenburg,10,2,H,1,0,D,14,3,1,26/09/2009,2,Blackburn_Aston Villa_2009
+58,6,1,Arsenal,Fulham,E0,18,4,12,4,11,0,M Atkinson,14,0,A,0,0,D,14,0,0,26/09/2009,4,Fulham_Arsenal_2009
+59,2,1,Hull,Liverpool,E0,22,3,14,13,3,1,P Walton,7,6,H,2,0,H,10,4,0,26/09/2009,1,Liverpool_Hull_2009
+60,6,1,Everton,Portsmouth,E0,16,8,12,5,17,1,A Wiley,12,0,A,0,0,A,14,3,0,26/09/2009,0,Portsmouth_Everton_2009
+61,7,2,Man United,Stoke,E0,2,7,1,2,8,0,H Webb,13,0,A,0,0,D,9,1,0,26/09/2009,1,Stoke_Man United_2009
+62,7,0,Burnley,Tottenham,E0,18,7,12,2,14,0,M Dean,10,5,H,2,0,H,10,1,0,26/09/2009,1,Tottenham_Burnley_2009
+63,7,1,Chelsea,Wigan,E0,15,8,9,4,11,0,P Dowd,14,3,H,1,1,H,11,2,0,26/09/2009,1,Wigan_Chelsea_2009
+64,8,2,Wolves,Sunderland,E0,10,11,8,7,11,0,L Mason,15,5,H,1,0,H,18,3,0,27/09/2009,1,Sunderland_Wolves_2009
+65,5,1,West Ham,Man City,E0,20,8,12,11,14,1,C Foy,12,3,H,2,0,H,18,1,0,28/09/2009,1,Man City_West Ham_2009
+66,6,2,Tottenham,Bolton,E0,12,9,9,5,16,1,M Jones,17,2,D,1,0,D,15,1,0,03/10/2009,2,Bolton_Tottenham_2009
+67,4,1,Birmingham,Burnley,E0,15,6,13,8,11,0,K Friend,10,2,H,0,0,D,17,3,0,03/10/2009,0,Burnley_Birmingham_2009
+68,2,1,Wigan,Hull,E0,11,5,6,4,8,0,M Clattenburg,13,2,H,0,0,D,14,2,0,03/10/2009,0,Hull_Wigan_2009
+69,1,2,Sunderland,Man United,E0,17,3,9,14,15,1,A Wiley,4,2,D,0,1,A,11,3,0,03/10/2009,2,Man United_Sunderland_2009
+70,6,1,Portsmouth,Wolves,E0,11,8,5,8,12,1,H Webb,12,0,A,0,0,A,8,2,0,03/10/2009,1,Wolves_Portsmouth_2009
+71,1,2,Blackburn,Arsenal,E0,24,7,18,8,10,2,P Walton,7,6,H,3,0,H,9,1,0,04/10/2009,1,Arsenal_Blackburn_2009
+72,8,0,Liverpool,Chelsea,E0,12,3,8,5,17,0,M Atkinson,12,2,H,0,0,D,14,1,0,04/10/2009,1,Chelsea_Liverpool_2009
+73,4,1,Stoke,Everton,E0,24,6,17,11,15,0,A Marriner,8,1,D,0,0,D,5,3,0,04/10/2009,1,Everton_Stoke_2009
+74,4,2,Fulham,West Ham,E0,20,6,10,8,9,0,P Dowd,10,2,D,1,1,H,12,2,0,04/10/2009,3,West Ham_Fulham_2009
+75,6,1,Man City,Aston Villa,E0,12,7,6,6,8,0,M Dean,9,1,D,1,0,H,10,2,0,05/10/2009,1,Aston Villa_Man City_2009
+76,3,1,Birmingham,Arsenal,E0,20,2,12,7,16,1,L Probert,3,3,H,2,0,H,8,2,0,17/10/2009,1,Arsenal_Birmingham_2009
+77,9,1,Chelsea,Aston Villa,E0,7,13,5,6,13,1,K Friend,21,2,H,1,0,D,19,1,0,17/10/2009,2,Aston Villa_Chelsea_2009
+78,5,1,Wolves,Everton,E0,13,6,5,6,15,0,S Attwell,12,1,D,0,1,D,6,3,0,17/10/2009,1,Everton_Wolves_2009
+79,1,1,Bolton,Man United,E0,13,7,7,13,8,0,M Clattenburg,15,2,H,2,0,H,15,1,0,17/10/2009,0,Man United_Bolton_2009
+80,9,2,Tottenham,Portsmouth,E0,23,4,13,10,13,2,P Dowd,9,1,A,0,1,A,14,3,1,17/10/2009,3,Portsmouth_Tottenham_2009
+81,6,1,West Ham,Stoke,E0,11,11,4,5,13,1,M Atkinson,12,2,H,1,0,D,16,3,0,17/10/2009,3,Stoke_West Ham_2009
+82,7,0,Liverpool,Sunderland,E0,13,6,7,1,17,0,M Jones,15,1,H,1,0,H,20,1,0,17/10/2009,2,Sunderland_Liverpool_2009
+83,2,2,Burnley,Blackburn,E0,12,5,6,3,14,1,C Foy,9,3,H,3,0,H,18,3,0,18/10/2009,3,Blackburn_Burnley_2009
+84,6,1,Man City,Wigan,E0,13,4,7,6,11,0,A Wiley,5,1,D,1,1,H,15,1,0,18/10/2009,2,Wigan_Man City_2009
+85,4,0,Hull,Fulham,E0,17,2,11,7,15,0,A Marriner,5,2,H,1,0,H,13,1,0,19/10/2009,1,Fulham_Hull_2009
+86,8,1,Sunderland,Birmingham,E0,19,6,13,6,14,0,M Atkinson,14,2,H,1,0,H,9,1,0,24/10/2009,3,Birmingham_Sunderland_2009
+87,4,3,Wigan,Burnley,E0,12,8,9,7,11,1,L Mason,13,1,A,1,0,D,12,0,0,24/10/2009,2,Burnley_Wigan_2009
+88,0,0,Blackburn,Chelsea,E0,26,2,15,8,10,0,A Wiley,5,5,H,1,0,H,8,1,0,24/10/2009,0,Chelsea_Blackburn_2009
+89,6,0,Portsmouth,Hull,E0,7,2,3,6,23,0,S Attwell,8,0,D,0,0,D,16,1,0,24/10/2009,2,Hull_Portsmouth_2009
+90,1,1,Stoke,Tottenham,E0,22,2,12,7,18,0,L Probert,8,0,A,0,0,D,8,3,0,24/10/2009,0,Tottenham_Stoke_2009
+91,3,1,Aston Villa,Wolves,E0,8,8,4,8,16,0,P Walton,12,1,D,0,0,D,10,2,0,24/10/2009,1,Wolves_Aston Villa_2009
+92,4,2,Everton,Bolton,E0,12,12,8,4,15,1,P Dowd,17,3,H,2,0,H,14,1,0,25/10/2009,3,Bolton_Everton_2009
+93,1,0,Man United,Liverpool,E0,11,5,6,5,11,0,A Marriner,7,2,H,0,1,D,20,3,1,25/10/2009,2,Liverpool_Man United_2009
+94,2,2,Fulham,Man City,E0,20,5,7,14,12,0,K Friend,11,2,D,0,0,D,11,2,0,25/10/2009,0,Man City_Fulham_2009
+95,8,2,Arsenal,West Ham,E0,15,10,9,6,15,2,C Foy,15,2,D,0,0,A,17,2,1,25/10/2009,3,West Ham_Arsenal_2009
+96,2,0,Tottenham,Arsenal,E0,18,5,12,6,10,0,M Clattenburg,7,3,H,2,0,H,10,1,0,31/10/2009,1,Arsenal_Tottenham_2009
+97,10,4,Chelsea,Bolton,E0,15,17,6,8,7,1,P Walton,27,0,A,0,0,A,9,1,1,31/10/2009,1,Bolton_Chelsea_2009
+98,1,0,Hull,Burnley,E0,11,6,5,8,13,0,M Jones,8,2,H,1,1,H,12,4,0,31/10/2009,1,Burnley_Hull_2009
+99,4,1,Aston Villa,Everton,E0,9,8,4,3,16,0,L Probert,13,1,D,1,1,H,15,3,1,31/10/2009,1,Everton_Aston Villa_2009
+100,2,1,Liverpool,Fulham,E0,10,3,6,2,13,1,L Mason,6,3,H,1,2,D,10,0,0,31/10/2009,1,Fulham_Liverpool_2009
+101,2,0,Blackburn,Man United,E0,20,1,11,7,21,0,P Dowd,2,2,H,0,0,D,10,2,0,31/10/2009,0,Man United_Blackburn_2009
+102,4,0,Wigan,Portsmouth,E0,21,3,11,7,10,0,A Wiley,8,4,H,2,0,H,11,1,0,31/10/2009,0,Portsmouth_Wigan_2009
+103,3,2,Wolves,Stoke,E0,10,7,5,4,15,0,C Foy,11,2,D,2,0,H,13,3,0,31/10/2009,0,Stoke_Wolves_2009
+104,3,2,West Ham,Sunderland,E0,17,9,7,7,16,2,A Marriner,15,2,D,1,1,A,12,3,1,31/10/2009,3,Sunderland_West Ham_2009
+105,8,0,Man City,Birmingham,E0,7,6,4,4,8,0,M Dean,14,0,D,0,0,D,9,1,1,01/11/2009,3,Birmingham_Man City_2009
+106,14,1,Aston Villa,West Ham,E0,14,10,7,6,12,0,S Bennett,13,2,H,1,1,H,11,4,0,04/11/2009,2,West Ham_Aston Villa_2009
+107,1,1,Bolton,Aston Villa,E0,19,9,13,8,16,1,M Clattenburg,13,5,H,2,0,H,17,4,0,07/11/2009,1,Aston Villa_Bolton_2009
+108,5,1,Portsmouth,Blackburn,E0,10,3,6,8,18,1,A Marriner,9,3,H,0,0,A,12,3,0,07/11/2009,3,Blackburn_Portsmouth_2009
+109,3,3,Burnley,Man City,E0,13,4,8,8,11,2,S Attwell,6,3,D,1,0,A,10,3,0,07/11/2009,1,Man City_Burnley_2009
+110,4,0,Sunderland,Tottenham,E0,10,6,8,4,19,0,K Friend,14,2,H,1,0,H,10,2,0,07/11/2009,1,Tottenham_Sunderland_2009
+111,4,4,Arsenal,Wolves,E0,8,6,6,4,15,3,St Bennett,11,1,A,0,0,A,9,3,0,07/11/2009,2,Wolves_Arsenal_2009
+112,7,0,Man United,Chelsea,E0,12,10,9,0,15,0,Mn Atkinson,21,1,H,0,0,D,13,3,0,08/11/2009,3,Chelsea_Man United_2009
+113,2,1,Stoke,Hull,E0,16,4,8,4,14,1,M Dean,7,2,H,0,1,A,12,4,0,08/11/2009,1,Hull_Stoke_2009
+114,4,2,Everton,West Ham,E0,16,6,7,5,18,1,A Wiley,9,1,A,0,0,A,12,5,0,08/11/2009,0,West Ham_Everton_2009
+115,6,1,Fulham,Wigan,E0,19,3,12,10,16,1,P Dowd,7,1,D,1,0,D,15,1,0,08/11/2009,2,Wigan_Fulham_2009
+116,1,2,Birmingham,Liverpool,E0,27,2,14,11,9,2,P Walton,5,2,D,1,0,A,7,2,0,09/11/2009,1,Liverpool_Birmingham_2009
+117,7,0,Fulham,Birmingham,E0,3,5,2,0,9,0,C Foy,12,1,H,1,0,H,7,0,0,21/11/2009,1,Birmingham_Fulham_2009
+118,8,1,Aston Villa,Burnley,E0,11,6,6,6,12,0,H Webb,10,1,D,1,0,H,6,3,0,21/11/2009,0,Burnley_Aston Villa_2009
+119,6,0,Wolves,Chelsea,E0,23,3,14,5,14,0,L Mason,4,4,H,3,0,H,4,2,0,21/11/2009,0,Chelsea_Wolves_2009
+120,3,3,West Ham,Hull,E0,12,10,8,5,17,2,M Clattenburg,16,3,D,3,0,H,9,4,1,21/11/2009,0,Hull_West Ham_2009
+121,3,2,Man City,Liverpool,E0,10,6,6,7,13,0,P Dowd,9,2,D,0,0,D,9,0,0,21/11/2009,2,Liverpool_Man City_2009
+122,4,0,Everton,Man United,E0,18,5,11,13,6,0,S Bennett,11,3,H,1,0,H,4,2,0,21/11/2009,2,Man United_Everton_2009
+123,6,0,Arsenal,Sunderland,E0,5,3,1,2,10,0,A Wiley,9,1,H,0,0,D,10,1,0,21/11/2009,2,Sunderland_Arsenal_2009
+124,7,2,Blackburn,Bolton,E0,15,11,8,7,12,1,M Dean,15,0,A,0,0,A,13,1,0,22/11/2009,3,Bolton_Blackburn_2009
+125,4,0,Portsmouth,Stoke,E0,9,7,3,4,13,0,K Friend,14,1,H,0,0,D,15,2,0,22/11/2009,1,Stoke_Portsmouth_2009
+126,5,1,Wigan,Tottenham,E0,28,5,16,10,11,0,P Walton,11,9,H,1,0,H,9,0,0,22/11/2009,1,Tottenham_Wigan_2009
+127,3,0,Blackburn,Fulham,E0,8,3,4,3,13,0,S Attwell,7,3,H,1,0,H,7,0,0,25/11/2009,0,Fulham_Blackburn_2009
+128,4,2,Everton,Hull,E0,8,3,7,3,23,0,M Atkinson,5,3,H,3,0,H,18,4,0,25/11/2009,1,Hull_Everton_2009
+129,9,1,Tottenham,Aston Villa,E0,12,17,4,7,8,0,P Dowd,23,1,D,1,0,H,10,1,0,28/11/2009,0,Aston Villa_Tottenham_2009
+130,2,0,Stoke,Blackburn,E0,11,4,4,9,11,0,H Webb,7,0,D,0,0,D,12,2,0,28/11/2009,1,Blackburn_Stoke_2009
+131,5,1,Bolton,Fulham,E0,12,2,7,8,21,1,S Bennett,4,1,D,0,0,A,7,6,0,28/11/2009,1,Fulham_Bolton_2009
+132,2,1,Hull,Man City,E0,17,3,7,8,12,0,L Probert,8,1,D,1,0,H,14,3,0,28/11/2009,1,Man City_Hull_2009
+133,8,4,Man United,Portsmouth,E0,20,8,12,4,10,1,M Dean,12,1,A,1,0,D,16,3,0,28/11/2009,4,Portsmouth_Man United_2009
+134,7,3,Burnley,West Ham,E0,9,10,5,1,15,0,C Foy,16,5,H,3,1,H,10,1,0,28/11/2009,2,West Ham_Burnley_2009
+135,8,0,Sunderland,Wigan,E0,16,4,10,5,14,0,Mn Atkinson,9,1,H,0,0,D,12,3,0,28/11/2009,0,Wigan_Sunderland_2009
+136,3,3,Chelsea,Arsenal,E0,5,5,3,4,12,2,A Marriner,7,0,A,0,0,A,17,2,0,29/11/2009,2,Arsenal_Chelsea_2009
+137,4,2,Liverpool,Everton,E0,12,7,8,6,12,1,A Wiley,9,0,A,0,0,A,15,0,0,29/11/2009,1,Everton_Liverpool_2009
+138,5,1,Birmingham,Wolves,E0,8,7,2,6,8,1,M Clattenburg,13,0,A,0,0,A,14,1,0,29/11/2009,2,Wolves_Birmingham_2009
+139,2,0,Stoke,Arsenal,E0,12,4,8,10,7,0,M Clattenburg,5,2,H,1,0,H,3,0,0,05/12/2009,0,Arsenal_Stoke_2009
+140,3,0,Hull,Aston Villa,E0,13,1,6,9,15,0,S Attwell,5,3,H,2,0,H,15,3,0,05/12/2009,4,Aston Villa_Hull_2009
+141,8,0,Liverpool,Blackburn,E0,9,11,3,1,9,0,M Atkinson,15,0,D,0,0,D,15,0,0,05/12/2009,1,Blackburn_Liverpool_2009
+142,6,1,Chelsea,Man City,E0,13,6,8,9,17,1,H Webb,10,2,H,1,0,D,12,6,0,05/12/2009,1,Man City_Chelsea_2009
+143,5,0,Burnley,Portsmouth,E0,9,8,4,5,14,0,P Dowd,14,2,H,0,0,D,16,2,0,05/12/2009,4,Portsmouth_Burnley_2009
+144,8,4,Man United,West Ham,E0,11,11,7,2,16,1,P Walton,18,0,A,0,0,A,8,1,0,05/12/2009,0,West Ham_Man United_2009
+145,2,3,Birmingham,Wigan,E0,18,9,7,2,8,0,L Probert,10,2,A,1,0,H,14,0,0,05/12/2009,2,Wigan_Birmingham_2009
+146,10,1,Bolton,Wolves,E0,12,10,11,11,16,0,C Foy,17,2,H,1,0,H,9,1,0,05/12/2009,2,Wolves_Bolton_2009
+147,6,2,Tottenham,Everton,E0,15,11,6,1,18,0,A Marriner,19,2,D,0,0,D,11,4,0,06/12/2009,4,Everton_Tottenham_2009
+148,8,0,Sunderland,Fulham,E0,16,5,5,4,12,0,M Dean,8,1,H,1,0,H,9,2,0,06/12/2009,1,Fulham_Sunderland_2009
+149,7,0,West Ham,Birmingham,E0,16,7,9,11,13,0,L Mason,14,1,H,0,1,D,12,4,0,12/12/2009,3,Birmingham_West Ham_2009
+150,9,3,Man City,Bolton,E0,12,6,8,5,9,2,M Clattenburg,14,3,D,2,1,D,11,3,0,12/12/2009,3,Bolton_Man City_2009
+151,4,1,Fulham,Burnley,E0,10,6,8,7,8,0,M Jones,12,1,D,0,0,D,12,2,0,12/12/2009,0,Burnley_Fulham_2009
+152,1,3,Everton,Chelsea,E0,25,7,13,7,17,2,P Dowd,10,3,D,2,0,D,13,1,0,12/12/2009,0,Chelsea_Everton_2009
+153,4,0,Blackburn,Hull,E0,9,9,7,3,19,0,C Foy,14,0,D,0,0,D,14,2,0,12/12/2009,1,Hull_Blackburn_2009
+154,4,1,Aston Villa,Man United,E0,16,5,9,9,14,1,M Atkinson,8,0,A,0,0,A,4,1,0,12/12/2009,1,Man United_Aston Villa_2009
+155,3,2,Wigan,Stoke,E0,14,8,5,5,8,1,M Dean,11,2,D,1,0,D,19,1,0,12/12/2009,5,Stoke_Wigan_2009
+156,6,1,Portsmouth,Sunderland,E0,16,6,9,9,14,0,S Bennett,9,1,D,1,1,H,12,3,0,12/12/2009,4,Sunderland_Portsmouth_2009
+157,5,1,Wolves,Tottenham,E0,18,3,10,1,13,1,S Attwell,3,0,A,0,0,A,8,5,0,12/12/2009,0,Tottenham_Wolves_2009
+158,4,2,Arsenal,Liverpool,E0,6,5,3,3,16,0,H Webb,7,1,A,1,0,H,19,3,0,13/12/2009,3,Liverpool_Arsenal_2009
+159,7,1,Blackburn,Birmingham,E0,13,4,6,6,16,0,M Jones,8,2,H,1,0,H,8,2,0,15/12/2009,2,Birmingham_Blackburn_2009
+160,4,1,West Ham,Bolton,E0,23,6,12,8,7,0,A Marriner,9,3,H,0,0,D,10,1,0,15/12/2009,4,Bolton_West Ham_2009
+161,3,0,Wolves,Man United,E0,12,1,9,8,11,0,S Bennett,4,3,H,2,0,H,11,1,0,15/12/2009,1,Man United_Wolves_2009
+162,1,2,Aston Villa,Sunderland,E0,15,4,5,7,14,1,K Friend,11,0,A,0,0,A,16,2,1,15/12/2009,2,Sunderland_Aston Villa_2009
+163,6,1,Arsenal,Burnley,E0,8,9,3,3,11,1,M Dean,17,1,D,1,0,D,11,0,0,16/12/2009,2,Burnley_Arsenal_2009
+164,2,1,Portsmouth,Chelsea,E0,21,3,8,11,11,0,M Clattenburg,7,2,H,1,0,H,11,0,0,16/12/2009,0,Chelsea_Portsmouth_2009
+165,0,1,Wigan,Liverpool,E0,12,5,7,13,11,0,P Dowd,8,2,H,1,0,H,12,1,0,16/12/2009,1,Liverpool_Wigan_2009
+166,6,0,Man City,Tottenham,E0,19,5,7,5,8,0,A Wiley,9,3,H,1,0,H,10,3,0,16/12/2009,2,Tottenham_Man City_2009
+167,0,0,Hull,Arsenal,E0,18,2,9,8,14,0,S Bennett,6,3,H,1,0,H,9,5,0,19/12/2009,1,Arsenal_Hull_2009
+168,4,0,Stoke,Aston Villa,E0,17,5,8,3,12,0,L Probert,13,1,H,0,0,D,9,1,0,19/12/2009,0,Aston Villa_Stoke_2009
+169,0,2,Tottenham,Blackburn,E0,13,2,9,5,6,1,P Walton,7,0,A,0,0,A,7,1,0,19/12/2009,0,Blackburn_Tottenham_2009
+170,2,0,Man United,Fulham,E0,10,4,7,5,9,0,H Webb,16,3,H,1,0,H,10,1,0,19/12/2009,0,Fulham_Man United_2009
+171,4,3,Sunderland,Man City,E0,11,5,5,6,8,2,A Marriner,7,4,H,3,1,H,13,2,0,19/12/2009,2,Man City_Sunderland_2009
+172,10,0,Liverpool,Portsmouth,E0,14,3,6,8,12,0,L Mason,7,2,H,1,1,H,7,3,0,19/12/2009,3,Portsmouth_Liverpool_2009
+173,4,1,Birmingham,Everton,E0,19,1,7,6,9,1,S Attwell,2,1,D,1,0,D,8,3,0,20/12/2009,0,Everton_Birmingham_2009
+174,5,1,Chelsea,West Ham,E0,6,6,5,5,16,0,M Dean,20,1,D,1,0,H,17,3,0,20/12/2009,4,West Ham_Chelsea_2009
+175,5,0,Burnley,Wolves,E0,12,6,12,5,9,0,M Atkinson,10,2,H,1,0,H,17,1,0,20/12/2009,2,Wolves_Burnley_2009
+176,11,0,Chelsea,Birmingham,E0,11,12,4,7,17,0,P Walton,27,0,D,0,1,D,6,2,0,26/12/2009,1,Birmingham_Chelsea_2009
+177,2,1,Bolton,Burnley,E0,15,5,7,8,12,1,C Foy,11,1,D,0,0,A,11,0,0,26/12/2009,0,Burnley_Bolton_2009
+178,2,0,Tottenham,Fulham,E0,15,1,6,4,12,0,S Bennett,6,0,D,0,0,D,19,0,0,26/12/2009,1,Fulham_Tottenham_2009
+179,1,0,Wolves,Liverpool,E0,14,2,10,7,10,0,A Marriner,6,2,H,0,1,D,9,1,0,26/12/2009,0,Liverpool_Wolves_2009
+180,6,0,Stoke,Man City,E0,12,3,6,7,10,0,L Mason,7,2,H,2,0,H,13,2,0,26/12/2009,0,Man City_Stoke_2009
+181,12,1,Everton,Sunderland,E0,10,4,6,4,16,0,M Atkinson,12,1,D,1,0,H,17,3,0,26/12/2009,1,Sunderland_Everton_2009
+182,4,0,Portsmouth,West Ham,E0,13,7,5,6,19,0,L Probert,11,2,H,1,0,H,10,3,0,26/12/2009,0,West Ham_Portsmouth_2009
+183,2,1,Blackburn,Wigan,E0,14,3,8,6,18,1,M Clattenburg,8,1,D,0,0,A,10,4,0,26/12/2009,1,Wigan_Blackburn_2009
+184,4,0,Aston Villa,Arsenal,E0,19,3,12,10,18,0,P Dowd,7,3,H,0,0,D,14,3,0,27/12/2009,1,Arsenal_Aston Villa_2009
+185,6,3,Man United,Hull,E0,12,11,6,5,17,1,A Wiley,19,1,A,0,0,A,13,2,0,27/12/2009,0,Hull_Man United_2009
+186,4,2,Sunderland,Blackburn,E0,21,8,11,4,20,0,M Dean,13,2,D,0,0,D,6,4,0,28/12/2009,1,Blackburn_Sunderland_2009
+187,6,1,Fulham,Chelsea,E0,18,3,11,10,13,1,A Marriner,3,2,H,0,0,A,9,1,0,28/12/2009,1,Chelsea_Fulham_2009
+188,6,0,Burnley,Everton,E0,24,9,16,10,18,0,H Webb,12,2,H,0,1,D,7,5,0,28/12/2009,1,Everton_Burnley_2009
+189,7,1,Birmingham,Stoke,E0,12,5,6,10,13,0,M Atkinson,9,0,A,0,0,D,15,3,0,28/12/2009,2,Stoke_Birmingham_2009
+190,3,0,West Ham,Tottenham,E0,21,2,9,9,14,0,C Foy,3,2,H,1,0,H,9,3,0,28/12/2009,2,Tottenham_West Ham_2009
+191,3,3,Man City,Wolves,E0,11,5,6,8,11,1,M Jones,12,0,A,0,0,A,16,2,0,28/12/2009,3,Wolves_Man City_2009
+192,10,1,Liverpool,Aston Villa,E0,11,9,7,8,11,0,L Probert,12,0,A,0,0,D,13,1,0,29/12/2009,1,Aston Villa_Liverpool_2009
+193,8,2,Hull,Bolton,E0,16,7,6,8,18,0,P Dowd,12,2,D,1,0,H,14,2,0,29/12/2009,1,Bolton_Hull_2009
+194,3,0,Wigan,Man United,E0,23,6,16,7,11,0,L Mason,11,5,H,3,0,H,6,1,0,30/12/2009,0,Man United_Wigan_2009
+195,10,4,Arsenal,Portsmouth,E0,10,10,6,2,3,2,A Wiley,14,1,A,0,0,A,14,0,0,30/12/2009,2,Portsmouth_Arsenal_2009
+196,10,2,Fulham,Stoke,E0,11,7,9,8,7,0,M Clattenburg,14,3,H,3,0,H,13,0,0,05/01/2010,1,Stoke_Fulham_2009
+197,8,2,Everton,Arsenal,E0,6,5,5,6,11,1,P Walton,9,2,D,1,0,D,10,1,0,09/01/2010,1,Arsenal_Everton_2009
+198,12,1,Man United,Birmingham,E0,6,10,5,2,13,0,M Clattenburg,14,1,D,1,1,H,10,1,0,09/01/2010,2,Birmingham_Man United_2009
+199,3,1,Blackburn,Man City,E0,12,3,6,4,10,0,C Foy,8,4,H,2,0,H,6,1,0,11/01/2010,1,Man City_Blackburn_2009
+200,1,2,Sunderland,Chelsea,E0,23,3,13,15,10,0,C Foy,7,7,H,4,0,H,4,1,0,16/01/2010,0,Chelsea_Sunderland_2009
+201,3,0,Man City,Everton,E0,13,4,6,11,14,0,A Marriner,8,2,H,2,0,H,14,0,0,16/01/2010,0,Everton_Man City_2009
+202,1,0,Burnley,Man United,E0,24,5,11,7,7,0,L Probert,11,3,H,0,0,D,12,0,0,16/01/2010,0,Man United_Burnley_2009
+203,0,1,Liverpool,Stoke,E0,6,3,5,10,10,0,L Mason,4,1,D,0,0,D,14,2,0,16/01/2010,1,Stoke_Liverpool_2009
+204,1,0,Hull,Tottenham,E0,25,2,18,14,11,0,M Atkinson,8,0,D,0,0,D,14,2,0,16/01/2010,4,Tottenham_Hull_2009
+205,3,2,Wigan,Wolves,E0,9,14,4,4,16,0,H Webb,20,0,A,0,1,D,14,3,1,16/01/2010,4,Wolves_Wigan_2009
+206,4,0,West Ham,Aston Villa,E0,17,3,10,16,12,0,M Jones,8,0,D,0,0,D,7,3,0,17/01/2010,1,Aston Villa_West Ham_2009
+207,6,0,Fulham,Blackburn,E0,11,9,7,3,9,0,K Friend,14,2,H,1,0,H,14,3,0,17/01/2010,1,Blackburn_Fulham_2009
+208,4,2,Arsenal,Bolton,E0,12,9,6,2,5,1,P Dowd,14,0,A,0,0,A,13,2,0,17/01/2010,1,Bolton_Arsenal_2009
+209,3,2,Bolton,Arsenal,E0,20,4,14,9,17,2,A Wiley,7,4,H,1,0,A,16,2,0,20/01/2010,1,Arsenal_Bolton_2009
+210,3,0,Tottenham,Liverpool,E0,13,5,5,2,17,0,H Webb,7,2,H,1,0,H,11,3,0,20/01/2010,2,Liverpool_Tottenham_2009
+211,8,0,Hull,Man United,E0,25,4,15,12,10,0,S Bennett,8,4,H,1,0,H,6,1,0,23/01/2010,1,Man United_Hull_2009
+212,7,0,Burnley,Bolton,E0,14,5,6,4,11,0,M Atkinson,10,1,H,1,0,H,12,2,0,26/01/2010,3,Bolton_Burnley_2009
+213,4,1,West Ham,Portsmouth,E0,14,4,8,6,9,0,A Marriner,12,1,D,0,0,D,16,1,0,26/01/2010,3,Portsmouth_West Ham_2009
+214,3,0,Fulham,Tottenham,E0,13,6,7,11,16,0,M Dean,9,2,H,1,0,H,11,1,0,26/01/2010,1,Tottenham_Fulham_2009
+215,7,0,Liverpool,Wolves,E0,6,3,4,0,11,0,P Walton,6,0,D,0,0,D,10,1,0,26/01/2010,0,Wolves_Liverpool_2009
+216,7,0,Arsenal,Aston Villa,E0,8,8,2,7,15,0,L Probert,12,0,D,0,0,D,16,2,0,27/01/2010,2,Aston Villa_Arsenal_2009
+217,6,1,Wigan,Blackburn,E0,13,8,7,5,13,0,L Mason,13,2,H,1,0,H,20,1,0,27/01/2010,3,Blackburn_Wigan_2009
+218,3,0,Birmingham,Chelsea,E0,25,3,17,8,8,0,S Bennett,5,3,H,2,0,H,11,0,0,27/01/2010,0,Chelsea_Birmingham_2009
+219,8,0,Sunderland,Everton,E0,11,3,7,3,19,0,P Dowd,5,2,H,2,0,H,10,1,0,27/01/2010,0,Everton_Sunderland_2009
+220,8,1,Tottenham,Birmingham,E0,12,12,6,5,8,0,S Attwell,21,1,D,0,0,D,12,2,0,30/01/2010,4,Birmingham_Tottenham_2009
+221,9,2,Chelsea,Burnley,E0,5,9,3,2,12,1,P Dowd,16,1,A,0,0,A,12,1,0,30/01/2010,1,Burnley_Chelsea_2009
+222,3,2,Aston Villa,Fulham,E0,15,6,8,9,15,2,L Mason,9,0,A,0,0,A,10,2,0,30/01/2010,0,Fulham_Aston Villa_2009
+223,7,2,Wolves,Hull,E0,8,4,4,4,10,0,M Dean,13,2,D,1,0,H,15,0,0,30/01/2010,2,Hull_Wolves_2009
+224,3,0,Bolton,Liverpool,E0,13,1,6,11,10,0,S Bennett,4,2,H,1,0,H,12,3,0,30/01/2010,1,Liverpool_Bolton_2009
+225,7,0,Blackburn,West Ham,E0,7,4,6,10,13,0,P Walton,8,0,D,0,0,D,17,1,0,30/01/2010,0,West Ham_Blackburn_2009
+226,7,1,Everton,Wigan,E0,10,7,4,4,10,0,L Probert,10,0,A,0,0,D,19,2,0,30/01/2010,0,Wigan_Everton_2009
+227,5,3,Man United,Arsenal,E0,18,5,7,8,12,2,C Foy,11,1,A,0,0,A,9,0,0,31/01/2010,1,Arsenal_Man United_2009
+228,7,0,Portsmouth,Man City,E0,13,4,6,10,14,0,M Atkinson,10,2,H,2,0,H,9,3,0,31/01/2010,1,Man City_Portsmouth_2009
+229,3,0,Stoke,Sunderland,E0,6,3,5,7,16,0,H Webb,4,0,D,0,0,D,7,3,0,01/02/2010,2,Sunderland_Stoke_2009
+230,8,1,Chelsea,Hull,E0,7,11,3,6,12,1,M Clattenburg,21,1,D,1,0,D,9,3,0,02/02/2010,1,Hull_Chelsea_2009
+231,5,0,Portsmouth,Fulham,E0,14,8,9,5,12,0,A Taylor,12,1,H,0,0,D,12,1,0,03/02/2010,0,Fulham_Portsmouth_2009
+232,5,0,Fulham,Bolton,E0,16,4,11,2,12,0,M Clattenburg,7,0,D,0,0,D,8,0,0,06/02/2010,0,Bolton_Fulham_2009
+233,5,1,West Ham,Burnley,E0,8,11,4,3,13,0,H Webb,20,2,H,1,0,H,15,1,0,06/02/2010,2,Burnley_West Ham_2009
+234,8,1,Man City,Hull,E0,8,11,4,4,14,0,P Dowd,17,2,H,1,0,H,14,4,0,06/02/2010,2,Hull_Man City_2009
+235,8,0,Everton,Liverpool,E0,9,3,4,8,23,0,M Atkinson,6,1,H,0,1,D,11,3,1,06/02/2010,3,Liverpool_Everton_2009
+236,1,0,Portsmouth,Man United,E0,21,5,8,12,11,0,L Mason,7,5,H,2,0,H,9,4,0,06/02/2010,1,Man United_Portsmouth_2009
+237,7,0,Blackburn,Stoke,E0,15,4,11,12,20,0,S Bennett,9,3,H,2,1,H,13,3,0,06/02/2010,2,Stoke_Blackburn_2009
+238,3,1,Wigan,Sunderland,E0,11,6,8,2,14,1,S Attwell,14,1,D,0,0,A,12,5,0,06/02/2010,4,Sunderland_Wigan_2009
+239,4,0,Aston Villa,Tottenham,E0,28,5,15,12,13,0,C Foy,10,0,D,0,0,D,10,0,0,06/02/2010,0,Tottenham_Aston Villa_2009
+240,4,1,Wolves,Birmingham,E0,15,5,10,11,18,1,L Probert,12,2,H,0,0,A,12,3,0,07/02/2010,5,Birmingham_Wolves_2009
+241,8,0,Arsenal,Chelsea,E0,9,6,3,4,14,0,M Dean,14,2,H,2,0,H,11,2,0,07/02/2010,2,Chelsea_Arsenal_2009
+242,2,0,Burnley,Fulham,E0,16,3,12,6,9,0,C Foy,10,3,H,2,0,H,9,0,0,09/02/2010,1,Fulham_Burnley_2009
+243,3,0,Bolton,Man City,E0,8,5,4,6,18,0,M Jones,11,2,H,1,0,H,8,2,0,09/02/2010,0,Man City_Bolton_2009
+244,4,1,Sunderland,Portsmouth,E0,12,2,6,8,15,1,K Friend,7,1,D,0,2,A,10,1,1,09/02/2010,3,Portsmouth_Sunderland_2009
+245,5,1,Stoke,Wigan,E0,16,6,11,9,7,0,A Marriner,10,1,D,1,0,H,12,3,0,09/02/2010,2,Wigan_Stoke_2009
+246,6,0,Liverpool,Arsenal,E0,11,7,6,3,13,0,H Webb,9,1,H,0,0,D,19,2,0,10/02/2010,3,Arsenal_Liverpool_2009
+247,7,1,Man United,Aston Villa,E0,10,6,6,1,10,1,P Walton,12,1,D,1,1,D,9,1,0,10/02/2010,0,Aston Villa_Man United_2009
+248,6,0,Hull,Blackburn,E0,20,4,10,6,13,0,L Probert,7,1,H,1,1,H,14,3,0,10/02/2010,1,Blackburn_Hull_2009
+249,6,1,Chelsea,Everton,E0,7,5,5,5,15,1,A Wiley,14,2,H,1,0,D,13,2,0,10/02/2010,1,Everton_Chelsea_2009
+250,6,0,Birmingham,West Ham,E0,13,4,10,3,9,0,M Dean,9,2,H,1,0,H,12,2,0,10/02/2010,1,West Ham_Birmingham_2009
+251,7,0,Tottenham,Wolves,E0,8,4,4,5,10,0,M Clattenburg,10,1,H,1,0,H,15,1,0,10/02/2010,2,Wolves_Tottenham_2009
+252,3,1,Man City,Stoke,E0,8,3,5,3,14,0,A Wiley,9,1,D,0,0,D,21,3,1,16/02/2010,3,Stoke_Man City_2009
+253,9,0,Bolton,Wigan,E0,10,0,1,4,9,0,H Webb,8,0,D,0,0,D,6,1,0,17/02/2010,0,Wigan_Bolton_2009
+254,1,0,Sunderland,Arsenal,E0,16,4,10,7,10,0,S Bennett,6,2,H,1,0,H,8,5,0,20/02/2010,1,Arsenal_Sunderland_2009
+255,12,1,Man United,Everton,E0,11,5,7,4,10,1,H Webb,11,3,H,1,0,D,12,1,0,20/02/2010,5,Everton_Man United_2009
+256,7,2,Stoke,Portsmouth,E0,15,7,12,7,10,0,M Dean,14,1,A,1,1,H,10,1,0,20/02/2010,2,Portsmouth_Stoke_2009
+257,2,0,Hull,West Ham,E0,20,3,12,9,12,0,M Atkinson,7,3,H,1,1,H,13,1,0,20/02/2010,1,West Ham_Hull_2009
+258,5,2,Chelsea,Wolves,E0,11,2,7,1,14,1,K Friend,7,0,A,0,0,A,12,1,0,20/02/2010,0,Wolves_Chelsea_2009
+259,5,2,Burnley,Aston Villa,E0,15,10,8,9,12,1,S Attwell,13,5,H,1,0,D,5,3,0,21/02/2010,0,Aston Villa_Burnley_2009
+260,3,0,Bolton,Blackburn,E0,12,7,7,8,12,0,C Foy,10,3,H,1,0,H,15,1,0,21/02/2010,0,Blackburn_Bolton_2009
+261,1,1,Birmingham,Fulham,E0,11,6,6,3,16,1,P Dowd,9,2,H,0,0,A,9,1,0,21/02/2010,1,Fulham_Birmingham_2009
+262,5,0,Liverpool,Man City,E0,4,2,1,8,15,0,P Walton,6,0,D,0,0,D,7,6,0,21/02/2010,1,Man City_Liverpool_2009
+263,2,3,Tottenham,Wigan,E0,8,12,7,3,13,1,A Wiley,13,0,A,0,0,A,17,4,0,21/02/2010,3,Wigan_Tottenham_2009
+264,7,0,West Ham,Man United,E0,12,4,9,6,12,0,A Wiley,10,3,H,1,0,H,10,1,0,23/02/2010,0,Man United_West Ham_2009
+265,7,0,Wigan,Birmingham,E0,10,2,5,2,18,0,A Taylor,11,1,H,1,0,H,16,3,0,27/02/2010,1,Birmingham_Wigan_2009
+266,11,0,Wolves,Bolton,E0,16,4,9,7,6,0,A Marriner,6,1,H,1,0,H,10,2,0,27/02/2010,0,Bolton_Wolves_2009
+267,3,2,Portsmouth,Burnley,E0,14,5,8,4,13,1,M Clattenburg,13,1,A,1,1,D,12,2,0,27/02/2010,1,Burnley_Portsmouth_2009
+268,2,4,Man City,Chelsea,E0,23,6,13,3,12,1,M Dean,8,2,A,1,0,D,21,1,2,27/02/2010,3,Chelsea_Man City_2009
+269,6,3,Arsenal,Stoke,E0,4,11,3,3,7,1,P Walton,17,1,A,1,0,D,12,1,1,27/02/2010,0,Stoke_Arsenal_2009
+270,5,1,Blackburn,Liverpool,E0,12,7,6,4,22,1,A Wiley,12,2,H,2,0,H,10,5,0,28/02/2010,1,Liverpool_Blackburn_2009
+271,2,0,Fulham,Sunderland,E0,12,1,5,2,16,0,M Atkinson,3,0,D,0,0,D,15,3,0,28/02/2010,3,Sunderland_Fulham_2009
+272,9,1,Everton,Tottenham,E0,13,10,9,6,18,0,S Bennett,14,2,H,2,0,H,9,4,0,28/02/2010,1,Tottenham_Everton_2009
+273,2,1,Burnley,Arsenal,E0,20,5,11,8,12,0,C Foy,8,3,H,1,0,H,5,4,0,06/03/2010,0,Arsenal_Burnley_2009
+274,3,2,Bolton,West Ham,E0,18,7,8,6,21,2,L Probert,15,1,A,0,1,A,13,5,0,06/03/2010,2,West Ham_Bolton_2009
+275,4,1,Man United,Wolves,E0,12,6,6,2,8,0,P Walton,15,0,A,0,0,D,9,1,0,06/03/2010,2,Wolves_Man United_2009
+276,1,1,Hull,Everton,E0,18,4,10,4,21,1,L Mason,7,5,H,2,0,H,12,1,0,07/03/2010,0,Everton_Hull_2009
+277,7,0,Liverpool,Wigan,E0,12,3,4,4,14,0,A Marriner,11,1,H,1,0,H,15,5,0,08/03/2010,1,Wigan_Liverpool_2009
+278,6,2,Birmingham,Portsmouth,E0,11,6,8,5,13,2,M Jones,10,1,A,0,0,A,12,2,0,09/03/2010,1,Portsmouth_Birmingham_2009
+279,7,0,Bolton,Sunderland,E0,12,2,7,2,10,0,S Bennett,7,4,H,1,1,H,14,2,0,09/03/2010,2,Sunderland_Bolton_2009
+280,4,1,Stoke,Burnley,E0,10,3,3,4,10,1,H Webb,8,1,D,0,0,A,12,0,0,10/03/2010,2,Burnley_Stoke_2009
+281,4,2,Everton,Birmingham,E0,7,11,4,5,11,2,L Probert,13,2,D,1,0,A,10,1,0,13/03/2010,1,Birmingham_Everton_2009
+282,6,0,Wigan,Bolton,E0,8,7,6,3,13,0,M Dean,13,4,H,1,0,H,20,2,0,13/03/2010,1,Bolton_Wigan_2009
+283,6,2,Wolves,Burnley,E0,22,3,11,11,21,1,S Bennett,7,1,A,0,0,A,10,4,0,13/03/2010,1,Burnley_Wolves_2009
+284,1,1,West Ham,Chelsea,E0,22,2,15,11,10,1,M Clattenburg,4,4,H,1,0,D,13,1,0,13/03/2010,0,Chelsea_West Ham_2009
+285,8,2,Arsenal,Hull,E0,7,9,2,2,13,1,A Marriner,18,1,A,1,0,D,16,2,1,13/03/2010,2,Hull_Arsenal_2009
+286,6,0,Aston Villa,Stoke,E0,13,5,6,8,6,0,K Friend,10,0,D,0,0,D,6,4,0,13/03/2010,0,Stoke_Aston Villa_2009
+287,6,1,Blackburn,Tottenham,E0,14,7,7,5,7,0,H Webb,10,3,H,1,0,H,12,0,0,13/03/2010,0,Tottenham_Blackburn_2009
+288,1,0,Fulham,Man United,E0,33,5,19,11,11,0,M Jones,8,3,H,0,0,D,7,1,0,14/03/2010,1,Man United_Fulham_2009
+289,7,1,Man City,Sunderland,E0,12,9,7,3,10,0,C Foy,13,1,D,1,0,H,12,4,0,14/03/2010,2,Sunderland_Man City_2009
+290,4,1,Portsmouth,Liverpool,E0,23,3,12,8,15,0,S Attwell,7,4,H,3,0,H,10,2,0,15/03/2010,0,Liverpool_Portsmouth_2009
+291,8,2,Aston Villa,Wigan,E0,10,10,6,7,14,1,S Bennett,18,1,A,1,0,D,10,1,0,16/03/2010,2,Wigan_Aston Villa_2009
+292,2,0,West Ham,Arsenal,E0,9,4,5,4,24,0,M Atkinson,8,2,H,1,0,H,7,4,1,20/03/2010,1,Arsenal_West Ham_2009
+293,5,2,Wolves,Aston Villa,E0,11,4,3,7,12,2,M Clattenburg,7,2,D,1,0,A,10,2,0,20/03/2010,1,Aston Villa_Wolves_2009
+294,3,0,Bolton,Everton,E0,18,4,11,6,17,0,A Wiley,6,2,H,0,1,D,12,1,0,20/03/2010,1,Everton_Bolton_2009
+295,1,2,Hull,Portsmouth,E0,18,5,10,11,8,1,P Dowd,9,3,H,1,0,D,7,0,0,20/03/2010,1,Portsmouth_Hull_2009
+296,7,2,Tottenham,Stoke,E0,8,9,4,6,9,0,M Dean,16,1,A,0,0,D,7,2,1,20/03/2010,2,Stoke_Tottenham_2009
+297,10,1,Birmingham,Sunderland,E0,11,14,9,7,8,0,P Walton,21,3,H,2,0,H,8,1,0,20/03/2010,0,Sunderland_Birmingham_2009
+298,3,0,Burnley,Wigan,E0,21,8,11,5,15,0,M Jones,13,1,H,0,0,D,10,3,0,20/03/2010,1,Wigan_Burnley_2009
+299,11,1,Chelsea,Blackburn,E0,8,8,4,3,9,1,S Bennett,14,1,D,0,0,A,10,1,0,21/03/2010,0,Blackburn_Chelsea_2009
+300,2,2,Man City,Fulham,E0,10,9,4,4,9,2,L Probert,14,1,A,0,0,A,8,0,0,21/03/2010,0,Fulham_Man City_2009
+301,2,1,Liverpool,Man United,E0,10,2,5,1,15,1,H Webb,4,2,H,1,0,D,10,3,0,21/03/2010,2,Man United_Liverpool_2009
+302,5,3,Wolves,West Ham,E0,17,4,10,8,24,1,P Dowd,5,1,A,0,0,A,9,2,0,23/03/2010,0,West Ham_Wolves_2009
+303,7,1,Sunderland,Aston Villa,E0,11,5,4,6,7,1,M Dean,10,1,D,1,0,D,5,0,0,24/03/2010,0,Aston Villa_Sunderland_2009
+304,6,1,Birmingham,Blackburn,E0,9,5,7,5,10,0,M Clattenburg,8,2,H,1,0,H,18,1,0,24/03/2010,2,Blackburn_Birmingham_2009
+305,4,2,Everton,Man City,E0,12,7,5,7,10,1,P Walton,10,0,A,0,0,A,11,2,0,24/03/2010,3,Man City_Everton_2009
+306,6,5,Chelsea,Portsmouth,E0,10,11,6,1,11,1,L Mason,20,0,A,0,0,A,11,2,0,24/03/2010,3,Portsmouth_Chelsea_2009
+307,6,1,Arsenal,Birmingham,E0,7,8,3,3,13,0,H Webb,13,1,D,0,0,D,13,2,0,27/03/2010,3,Birmingham_Arsenal_2009
+308,6,4,Man United,Bolton,E0,14,8,10,11,15,1,M Atkinson,13,0,A,0,0,A,14,0,0,27/03/2010,0,Bolton_Man United_2009
+309,6,1,Aston Villa,Chelsea,E0,13,5,11,8,5,1,P Walton,7,7,H,2,0,H,12,2,0,27/03/2010,3,Chelsea_Aston Villa_2009
+310,8,0,Fulham,Hull,E0,7,9,4,6,15,0,C Foy,12,2,H,1,0,H,11,4,0,27/03/2010,2,Hull_Fulham_2009
+311,2,0,Portsmouth,Tottenham,E0,16,3,8,11,9,0,K Friend,8,2,H,2,0,H,5,1,0,27/03/2010,0,Tottenham_Portsmouth_2009
+312,7,1,Stoke,West Ham,E0,17,7,7,6,17,0,A Marriner,12,0,A,0,0,D,14,2,0,27/03/2010,0,West Ham_Stoke_2009
+313,7,0,Everton,Wolves,E0,9,13,2,3,12,0,M Jones,22,0,D,0,0,D,14,1,0,27/03/2010,1,Wolves_Everton_2009
+314,2,1,Blackburn,Burnley,E0,7,5,3,7,12,1,M Dean,12,0,A,0,0,A,15,2,0,28/03/2010,3,Burnley_Blackburn_2009
+315,2,0,Sunderland,Liverpool,E0,25,2,16,9,9,0,P Dowd,7,3,H,2,0,H,11,1,0,28/03/2010,0,Liverpool_Sunderland_2009
+316,4,0,Wigan,Man City,E0,10,3,8,3,13,0,S Attwell,9,3,H,0,1,D,12,2,0,29/03/2010,3,Man City_Wigan_2009
+317,4,0,Wolves,Arsenal,E0,23,2,13,10,13,0,A Marriner,3,1,H,0,1,D,10,2,0,03/04/2010,0,Arsenal_Wolves_2009
+318,8,1,Aston Villa,Bolton,E0,14,9,10,6,14,1,M Jones,13,0,A,0,0,A,13,0,0,03/04/2010,2,Bolton_Aston Villa_2009
+319,7,6,Man City,Burnley,E0,14,14,7,6,8,5,A Wiley,20,1,A,0,0,A,5,0,0,03/04/2010,0,Burnley_Man City_2009
+320,3,2,Chelsea,Man United,E0,9,5,3,3,11,1,M Dean,11,1,A,0,0,A,14,1,0,03/04/2010,3,Man United_Chelsea_2009
+321,9,0,Blackburn,Portsmouth,E0,6,8,3,1,10,0,S Bennett,16,0,D,0,0,D,11,1,1,03/04/2010,2,Portsmouth_Blackburn_2009
+322,2,0,Hull,Stoke,E0,9,3,3,3,12,0,L Probert,5,2,H,1,0,H,12,2,0,03/04/2010,3,Stoke_Hull_2009
+323,6,1,Tottenham,Sunderland,E0,11,9,10,6,15,0,L Mason,12,3,H,2,0,H,16,0,0,03/04/2010,2,Sunderland_Tottenham_2009
+324,4,1,Liverpool,Birmingham,E0,8,8,3,5,9,0,M Atkinson,16,1,D,0,0,D,14,1,0,04/04/2010,2,Birmingham_Liverpool_2009
+325,8,2,West Ham,Everton,E0,10,5,5,2,17,0,H Webb,10,2,D,1,0,H,7,3,0,04/04/2010,2,Everton_West Ham_2009
+326,3,1,Wigan,Fulham,E0,7,7,5,6,10,1,M Clattenburg,12,2,H,0,0,A,11,2,0,04/04/2010,1,Fulham_Wigan_2009
+327,1,4,Burnley,Hull,E0,11,7,4,6,14,1,M Atkinson,9,1,A,1,0,D,19,1,0,10/04/2010,5,Hull_Burnley_2009
+328,7,0,Sunderland,West Ham,E0,10,7,6,2,20,0,M Jones,9,1,H,0,0,D,12,3,0,10/04/2010,1,West Ham_Sunderland_2009
+329,7,0,Man United,Blackburn,E0,8,6,7,1,12,0,P Walton,13,0,D,0,0,D,14,2,0,11/04/2010,1,Blackburn_Man United_2009
+330,1,0,Fulham,Liverpool,E0,18,2,9,10,16,0,A Marriner,2,0,D,0,0,D,6,3,0,11/04/2010,1,Liverpool_Fulham_2009
+331,4,1,Birmingham,Man City,E0,17,3,8,8,9,1,P Dowd,5,5,H,3,0,H,12,3,0,11/04/2010,0,Man City_Birmingham_2009
+332,6,0,Stoke,Wolves,E0,10,1,8,7,4,0,C Foy,9,0,D,0,0,D,7,0,0,11/04/2010,0,Wolves_Stoke_2009
+333,2,0,Bolton,Chelsea,E0,18,2,8,5,22,0,L Probert,7,1,H,1,0,H,13,4,0,13/04/2010,1,Chelsea_Bolton_2009
+334,6,2,Everton,Aston Villa,E0,10,10,7,7,9,1,M Atkinson,13,2,D,0,0,A,11,2,0,14/04/2010,2,Aston Villa_Everton_2009
+335,6,1,Arsenal,Tottenham,E0,13,11,10,4,10,0,M Clattenburg,19,2,H,1,0,H,13,1,0,14/04/2010,3,Tottenham_Arsenal_2009
+336,3,0,Portsmouth,Wigan,E0,24,2,14,10,9,0,M Dean,6,0,D,0,0,D,16,1,0,14/04/2010,2,Wigan_Portsmouth_2009
+337,1,0,Hull,Birmingham,E0,10,4,7,8,12,0,M Clattenburg,11,0,D,0,0,D,11,0,0,17/04/2010,0,Birmingham_Hull_2009
+338,2,3,Everton,Blackburn,E0,15,4,10,4,10,1,A Marriner,11,2,A,0,0,A,15,2,0,17/04/2010,3,Blackburn_Everton_2009
+339,9,0,Wolves,Fulham,E0,11,1,4,5,11,0,M Dean,5,0,D,0,0,D,9,0,0,17/04/2010,1,Fulham_Wolves_2009
+340,5,1,Man United,Man City,E0,8,3,5,7,12,0,M Atkinson,13,0,A,0,0,D,8,1,0,17/04/2010,2,Man City_Man United_2009
+341,1,2,Bolton,Stoke,E0,11,8,5,5,5,0,S Attwell,13,1,A,1,0,H,10,2,0,17/04/2010,1,Stoke_Bolton_2009
+342,3,1,Burnley,Sunderland,E0,16,4,11,3,17,0,H Webb,9,2,H,2,0,H,14,2,0,17/04/2010,3,Sunderland_Burnley_2009
+343,4,1,Chelsea,Tottenham,E0,20,6,10,13,14,0,P Dowd,9,2,H,2,1,H,7,4,0,17/04/2010,2,Tottenham_Chelsea_2009
+344,6,2,Aston Villa,Portsmouth,E0,16,9,12,7,10,1,L Probert,12,1,A,1,0,D,5,0,0,18/04/2010,0,Portsmouth_Aston Villa_2009
+345,3,2,Arsenal,Wigan,E0,16,8,11,8,13,1,L Mason,11,3,H,0,0,A,15,1,0,18/04/2010,2,Wigan_Arsenal_2009
+346,2,0,West Ham,Liverpool,E0,17,2,8,9,12,0,P Walton,6,3,H,2,0,H,8,2,0,19/04/2010,0,Liverpool_West Ham_2009
+347,9,2,Aston Villa,Hull,E0,14,5,10,11,7,1,M Dean,11,0,A,0,0,A,8,2,0,21/04/2010,2,Hull_Aston Villa_2009
+348,1,0,Man City,Arsenal,E0,9,2,4,5,14,0,M Dean,3,0,D,0,0,D,13,2,0,24/04/2010,4,Arsenal_Man City_2009
+349,5,2,Portsmouth,Bolton,E0,14,6,10,12,13,0,H Webb,13,2,D,2,0,H,16,1,0,24/04/2010,1,Bolton_Portsmouth_2009
+350,6,1,Sunderland,Hull,E0,14,5,8,3,17,1,L Probert,10,0,A,0,1,A,12,3,1,24/04/2010,1,Hull_Sunderland_2009
+351,4,1,Tottenham,Man United,E0,15,3,8,4,10,0,A Marriner,9,3,H,0,0,D,13,0,0,24/04/2010,1,Man United_Tottenham_2009
+352,5,2,Wigan,West Ham,E0,9,10,7,4,10,1,A Wiley,12,3,H,2,0,H,9,2,0,24/04/2010,1,West Ham_Wigan_2009
+353,4,1,Blackburn,Wolves,E0,14,8,5,4,8,1,M Clattenburg,12,1,D,0,0,A,9,1,0,24/04/2010,0,Wolves_Blackburn_2009
+354,5,0,Birmingham,Aston Villa,E0,10,14,6,7,16,0,M Atkinson,16,1,H,0,0,D,12,4,0,25/04/2010,1,Aston Villa_Birmingham_2009
+355,5,4,Liverpool,Burnley,E0,12,10,6,4,11,0,P Dowd,12,0,A,0,0,D,13,1,0,25/04/2010,2,Burnley_Liverpool_2009
+356,0,0,Stoke,Chelsea,E0,29,2,18,7,12,0,S Bennett,3,7,H,3,0,H,14,3,0,25/04/2010,0,Chelsea_Stoke_2009
+357,3,1,Fulham,Everton,E0,15,6,9,9,12,1,L Mason,8,2,H,0,0,A,7,1,0,25/04/2010,0,Everton_Fulham_2009
+358,8,1,Burnley,Birmingham,E0,13,7,4,6,10,0,P Walton,12,2,H,2,0,H,11,1,0,01/05/2010,2,Birmingham_Burnley_2009
+359,5,1,Aston Villa,Man City,E0,17,6,12,13,9,1,M Clattenburg,10,3,H,2,0,H,6,2,0,01/05/2010,1,Man City_Aston Villa_2009
+360,9,1,Wolves,Portsmouth,E0,12,11,8,7,13,1,M Jones,18,3,H,2,0,H,10,1,0,01/05/2010,0,Portsmouth_Wolves_2009
+361,5,0,Everton,Stoke,E0,12,9,6,6,10,0,H Webb,11,0,D,0,0,D,10,0,0,01/05/2010,0,Stoke_Everton_2009
+362,7,0,Bolton,Tottenham,E0,25,7,12,11,10,0,C Foy,11,1,H,1,0,H,11,3,0,01/05/2010,0,Tottenham_Bolton_2009
+363,3,2,West Ham,Fulham,E0,5,5,3,9,14,0,A Marriner,7,3,H,1,0,H,10,0,0,02/05/2010,0,Fulham_West Ham_2009
+364,5,2,Chelsea,Liverpool,E0,7,11,2,9,7,1,A Wiley,15,0,A,0,0,A,7,2,0,02/05/2010,1,Liverpool_Chelsea_2009
+365,4,1,Man United,Sunderland,E0,10,9,2,9,9,1,S Bennett,14,0,A,0,0,A,10,2,0,02/05/2010,3,Sunderland_Man United_2009
+366,8,1,Arsenal,Blackburn,E0,11,4,7,5,15,1,M Atkinson,6,2,H,1,0,D,19,2,0,03/05/2010,2,Blackburn_Arsenal_2009
+367,1,2,Hull,Wigan,E0,13,3,7,8,14,1,P Dowd,6,2,D,1,0,D,11,0,0,03/05/2010,2,Wigan_Hull_2009
+368,3,1,Stoke,Fulham,E0,12,2,6,8,6,0,P Walton,5,0,A,0,0,D,7,3,0,05/05/2010,1,Fulham_Stoke_2009
+369,7,1,Tottenham,Man City,E0,10,6,5,9,14,0,S Bennett,10,0,A,0,0,D,12,3,0,05/05/2010,0,Man City_Tottenham_2009
+370,2,0,Fulham,Arsenal,E0,16,2,11,5,10,0,M Jones,5,4,H,3,0,H,11,2,0,09/05/2010,2,Arsenal_Fulham_2009
+371,5,1,Blackburn,Aston Villa,E0,16,3,12,11,12,0,S Bennett,9,0,A,0,0,D,14,1,0,09/05/2010,2,Aston Villa_Blackburn_2009
+372,6,1,Birmingham,Bolton,E0,14,5,8,3,17,0,K Friend,10,2,H,1,0,H,14,5,0,09/05/2010,2,Bolton_Birmingham_2009
+373,6,2,Tottenham,Burnley,E0,16,11,12,5,8,2,M Dean,16,4,H,1,0,A,9,0,0,09/05/2010,0,Burnley_Tottenham_2009
+374,3,0,Wigan,Chelsea,E0,17,3,10,2,9,0,M Atkinson,4,8,H,2,1,H,14,2,0,09/05/2010,2,Chelsea_Wigan_2009
+375,1,0,Portsmouth,Everton,E0,21,4,13,14,11,0,P Walton,10,1,H,0,0,D,12,0,0,09/05/2010,0,Everton_Portsmouth_2009
+376,6,0,Liverpool,Hull,E0,11,7,6,2,11,0,A Marriner,19,0,D,0,0,D,15,0,0,09/05/2010,1,Hull_Liverpool_2009
+377,2,0,Stoke,Man United,E0,18,4,13,10,4,0,M Clattenburg,4,4,H,2,0,H,10,0,0,09/05/2010,2,Man United_Stoke_2009
+378,3,1,Man City,West Ham,E0,12,6,8,4,7,1,H Webb,17,1,D,1,0,D,12,0,0,09/05/2010,2,West Ham_Man City_2009
+379,1,1,Sunderland,Wolves,E0,14,5,7,4,19,1,L Mason,11,2,H,1,2,D,11,2,0,09/05/2010,1,Wolves_Sunderland_2009
