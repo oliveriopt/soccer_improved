@@ -1,5 +1,24 @@
 home_team = "HomeTeam"
 away_team = "AwayTeam"
+type_rating = ["static_ft_total", "static_ft_home", "static_ft_away", "static_ft_total_g>15", "static_ft_total_g>25",
+                "static_ft_total_g>35", "static_ft_total_g>15", "static_ft_total_g>25",
+                "static_ft_total_g>35", "static_ft_home_g>15", "static_ft_home_g>25",
+                "static_ft_home_g>35", "static_ft_away_g>15", "static_ft_away_g>25",
+                "static_ft_away_g>35","static_ft_total_g<15", "static_ft_total_g<25",
+                "static_ft_total_g<35", "static_ft_total_g<15", "static_ft_total_g<25",
+                "static_ft_total_g<35", "static_ft_home_g<15", "static_ft_home_g<25",
+                "static_ft_home_g<35", "static_ft_away_g<15", "static_ft_away_g<25",
+                "static_ft_away_g<35","static_ht_total", "static_ht_home", "static_ht_away", "static_ht_total_g>15", "static_ht_total_g>25",
+                "static_ht_total_g>35", "static_ht_total_g>15", "static_ht_total_g>25",
+                "static_ht_total_g>35", "static_ht_home_g>15", "static_ht_home_g>25",
+                "static_ht_home_g>35", "static_ht_away_g>15", "static_ht_away_g>25",
+                "static_ht_away_g>35","static_ht_total_g<15", "static_ht_total_g<25",
+                "static_ht_total_g<35", "static_ht_total_g<15", "static_ht_total_g<25",
+                "static_ht_total_g<35", "static_ht_home_g<15", "static_ht_home_g<25",
+                "static_ht_home_g<35", "static_ht_away_g<15", "static_ht_away_g<25",
+                "static_ht_away_g<35"]
+columns_rating = ["year", "team", "type_rating", "value_rating"]
+
 stats = {"Div": "League Division",
          "Date": "Match Date (dd/mm/yy)",
          "Time": "Time of match kick off",
