@@ -53,7 +53,7 @@ class SplitOddsStatsFile:
         SPLIT FILES FROM 01_RAW FOR STATS AND ODDS FILE
         :return:
         """
-        for year in list(range(2003, 2020)):
+        for year in list(range(2003, 2021)):
             self.__read_select_columns(year=year)
             self.__write_stats_odds(year=year)
 

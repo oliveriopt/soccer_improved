@@ -1,0 +1,274 @@
+,Time,HC,HR,FTAG,HTHG,AST,AR,Div,HTR,Referee,AwayTeam,HST,HY,HomeTeam,HF,AS,HS,HTAG,FTHG,AC,AF,AY,Date,FTR,idGame
+0,12:30,2,0,3,0,6,0,E0,A,C Kavanagh,Arsenal,2,2,Fulham,12,13,5,1,0,3,12,2,12/09/2020,A,Fulham_Arsenal_2020
+1,15:00,7,0,0,1,5,0,E0,H,J Moss,Southampton,3,2,Crystal Palace,14,9,5,0,1,3,11,1,12/09/2020,H,Crystal Palace_Southampton_2020
+2,17:30,9,0,3,3,3,0,E0,H,M Oliver,Leeds,6,1,Liverpool,9,6,22,2,4,0,6,0,12/09/2020,H,Liverpool_Leeds_2020
+3,20:00,8,0,2,0,2,0,E0,D,S Attwell,Newcastle,3,2,West Ham,13,15,15,0,0,7,7,2,12/09/2020,A,West Ham_Newcastle_2020
+4,14:00,2,0,3,0,7,0,E0,D,A Taylor,Leicester,1,1,West Brom,12,13,7,0,0,5,9,1,13/09/2020,A,West Brom_Leicester_2020
+5,16:30,5,0,1,0,4,0,E0,D,M Atkinson,Everton,5,1,Tottenham,15,15,9,0,0,3,7,0,13/09/2020,A,Tottenham_Everton_2020
+6,20:15,4,0,3,0,5,0,E0,A,C Pawson,Chelsea,3,1,Brighton,8,10,13,1,1,3,13,0,14/09/2020,A,Brighton_Chelsea_2020
+7,18:00,12,0,2,0,4,0,E0,A,M Dean,Wolves,2,2,Sheffield United,13,11,9,2,0,5,7,1,14/09/2020,A,Sheffield United_Wolves_2020
+8,12:30,11,0,2,2,4,1,E0,H,M Dean,West Brom,7,1,Everton,9,6,17,1,5,1,11,0,19/09/2020,H,Everton_West Brom_2020
+9,15:00,5,0,3,2,6,0,E0,H,A Taylor,Fulham,7,1,Leeds,13,14,10,1,4,3,18,2,19/09/2020,H,Leeds_Fulham_2020
+10,17:30,9,0,3,0,5,0,E0,A,M Atkinson,Crystal Palace,4,2,Man United,13,14,13,1,1,3,10,1,19/09/2020,A,Man United_Crystal Palace_2020
+11,20:00,7,0,1,1,3,0,E0,D,M Oliver,West Ham,3,0,Arsenal,11,14,7,1,2,5,13,1,19/09/2020,H,Arsenal_West Ham_2020
+12,12:00,3,0,5,1,6,0,E0,D,D Coote,Tottenham,7,4,Southampton,16,9,14,1,2,2,18,3,20/09/2020,A,Southampton_Tottenham_2020
+13,14:00,7,0,3,0,6,1,E0,A,K Friend,Brighton,0,3,Newcastle,16,13,6,2,0,1,15,0,20/09/2020,A,Newcastle_Brighton_2020
+14,16:30,1,1,2,0,6,0,E0,D,P Tierney,Liverpool,3,0,Chelsea,10,18,5,0,0,11,6,0,20/09/2020,A,Chelsea_Liverpool_2020
+15,19:00,15,0,2,1,5,0,E0,D,L Mason,Burnley,6,1,Leicester,11,16,14,1,4,4,13,2,20/09/2020,H,Leicester_Burnley_2020
+16,18:00,10,0,0,0,1,1,E0,D,G Scott,Sheffield United,2,3,Aston Villa,12,4,18,0,1,4,13,1,21/09/2020,H,Aston Villa_Sheffield United_2020
+17,20:15,4,0,3,0,9,0,E0,A,A Marriner,Man City,1,0,Wolves,6,14,10,2,1,6,8,3,21/09/2020,A,Wolves_Man City_2020
+18,12:30,7,0,3,1,3,0,E0,D,C Kavanagh,Man United,5,4,Brighton,18,7,18,1,2,1,16,2,26/09/2020,A,Brighton_Man United_2020
+19,15:00,7,0,2,1,5,0,E0,A,K Friend,Everton,1,3,Crystal Palace,16,10,8,2,1,6,15,1,26/09/2020,A,Crystal Palace_Everton_2020
+20,17:30,3,0,3,3,10,0,E0,H,J Moss,Chelsea,3,1,West Brom,8,22,9,0,3,9,16,3,26/09/2020,D,West Brom_Chelsea_2020
+21,20:00,8,0,1,0,1,0,E0,A,A Marriner,Southampton,2,1,Burnley,8,5,10,1,0,2,10,0,26/09/2020,A,Burnley_Southampton_2020
+22,12:00,5,0,1,0,9,0,E0,D,P Tierney,Leeds,4,2,Sheffield United,18,17,14,0,0,7,4,1,27/09/2020,A,Sheffield United_Leeds_2020
+23,14:00,10,0,1,1,1,0,E0,H,P Bankes,Newcastle,12,1,Tottenham,15,6,23,0,1,4,9,4,27/09/2020,D,Tottenham_Newcastle_2020
+24,16:30,3,0,5,1,7,0,E0,D,M Oliver,Leicester,5,1,Man City,13,7,16,1,2,4,8,3,27/09/2020,A,Man City_Leicester_2020
+25,19:00,1,0,0,1,2,0,E0,H,M Atkinson,Wolves,7,0,West Ham,7,11,15,0,4,3,11,1,27/09/2020,H,West Ham_Wolves_2020
+26,17:45,5,0,3,0,5,0,E0,A,S Attwell,Aston Villa,3,6,Fulham,18,12,16,2,0,3,14,3,28/09/2020,A,Fulham_Aston Villa_2020
+27,20:00,7,0,1,2,3,0,E0,H,C Pawson,Arsenal,8,2,Liverpool,11,4,21,1,3,3,7,2,28/09/2020,H,Liverpool_Arsenal_2020
+28,12:30,8,0,0,0,0,0,E0,D,M Oliver,Crystal Palace,6,2,Chelsea,17,4,17,0,4,5,13,0,03/10/2020,H,Chelsea_Crystal Palace_2020
+29,15:00,3,0,2,2,3,0,E0,H,S Hooper,Brighton,6,0,Everton,13,11,11,1,4,10,14,1,03/10/2020,H,Everton_Brighton_2020
+30,17:30,7,0,1,0,2,0,E0,A,M Dean,Man City,7,2,Leeds,11,23,12,1,1,10,12,1,03/10/2020,D,Leeds_Man City_2020
+31,20:00,3,0,1,1,3,0,E0,H,D Coote,Burnley,5,2,Newcastle,13,7,10,0,3,4,17,3,03/10/2020,H,Newcastle_Burnley_2020
+32,12:00,6,0,3,0,6,0,E0,A,A Madley,West Ham,0,2,Leicester,11,14,4,2,0,4,8,2,04/10/2020,A,Leicester_West Ham_2020
+33,12:00,5,0,0,1,2,0,E0,H,C Kavanagh,West Brom,7,2,Southampton,19,5,13,0,2,1,10,1,04/10/2020,H,Southampton_West Brom_2020
+34,14:00,2,0,1,0,2,0,E0,D,L Mason,Sheffield United,5,0,Arsenal,3,6,6,0,2,4,9,1,04/10/2020,H,Arsenal_Sheffield United_2020
+35,14:00,6,0,0,0,2,0,E0,D,D England,Fulham,5,1,Wolves,15,10,14,0,1,2,8,1,04/10/2020,H,Wolves_Fulham_2020
+36,16:30,2,1,6,1,8,0,E0,A,A Taylor,Tottenham,2,2,Man United,14,22,5,4,1,4,10,1,04/10/2020,A,Man United_Tottenham_2020
+37,19:15,2,0,2,4,8,0,E0,H,M Atkinson,Liverpool,11,2,Aston Villa,7,14,18,1,7,7,10,1,04/10/2020,H,Aston Villa_Liverpool_2020
+38,12:30,2,1,2,1,8,0,E0,D,M Oliver,Liverpool,5,3,Everton,15,22,11,1,2,5,9,2,17/10/2020,D,Everton_Liverpool_2020
+39,15:00,6,0,3,2,6,0,E0,H,P Bankes,Southampton,5,1,Chelsea,11,13,11,1,3,2,9,1,17/10/2020,D,Chelsea_Southampton_2020
+40,17:30,6,0,0,1,3,0,E0,H,C Kavanagh,Arsenal,5,4,Man City,15,11,13,0,1,6,10,1,17/10/2020,H,Man City_Arsenal_2020
+41,20:00,0,0,4,1,14,0,E0,D,C Pawson,Man United,4,1,Newcastle,9,28,7,1,1,7,12,1,17/10/2020,A,Newcastle_Man United_2020
+42,12:00,2,0,1,0,6,0,E0,D,A Marriner,Fulham,6,0,Sheffield United,5,15,10,0,1,5,9,2,18/10/2020,D,Sheffield United_Fulham_2020
+43,14:00,2,0,1,1,3,1,E0,H,S Attwell,Brighton,1,3,Crystal Palace,13,20,1,0,1,5,12,2,18/10/2020,D,Crystal Palace_Brighton_2020
+44,16:30,3,0,3,3,4,0,E0,H,P Tierney,West Ham,6,0,Tottenham,13,13,11,0,3,7,12,5,18/10/2020,D,Tottenham_West Ham_2020
+45,19:15,2,0,1,0,4,0,E0,D,J Moss,Aston Villa,5,4,Leicester,18,10,11,0,0,7,18,3,18/10/2020,A,Leicester_Aston Villa_2020
+46,17:30,8,0,0,0,4,0,E0,D,A Taylor,Burnley,6,2,West Brom,15,9,13,0,0,2,17,2,19/10/2020,D,West Brom_Burnley_2020
+47,20:00,8,0,1,0,3,0,E0,D,D Coote,Wolves,2,2,Leeds,13,7,13,0,0,3,12,1,19/10/2020,A,Leeds_Wolves_2020
+48,20:00,6,0,3,0,9,0,E0,D,P Tierney,Leeds,4,2,Aston Villa,14,27,12,0,0,5,17,2,23/10/2020,A,Aston Villa_Leeds_2020
+49,12:30,2,0,1,1,7,0,E0,H,A Taylor,Man City,2,2,West Ham,14,14,6,0,1,10,6,0,24/10/2020,D,West Ham_Man City_2020
+50,15:00,4,1,2,0,10,0,E0,A,G Scott,Crystal Palace,3,0,Fulham,11,14,16,1,1,4,11,1,24/10/2020,A,Fulham_Crystal Palace_2020
+51,17:30,9,0,0,0,1,0,E0,D,M Atkinson,Chelsea,4,3,Man United,8,6,14,0,0,6,6,1,24/10/2020,D,Man United_Chelsea_2020
+52,20:00,7,0,1,1,2,0,E0,D,M Dean,Sheffield United,5,0,Liverpool,7,13,17,1,2,3,15,3,24/10/2020,H,Liverpool_Sheffield United_2020
+53,14:00,4,0,0,2,2,1,E0,H,K Friend,Everton,6,1,Southampton,11,6,12,0,2,5,11,2,25/10/2020,H,Southampton_Everton_2020
+54,16:30,2,0,1,0,2,0,E0,D,L Mason,Newcastle,3,0,Wolves,10,5,16,0,1,3,10,1,25/10/2020,D,Wolves_Newcastle_2020
+55,19:15,9,0,1,0,2,0,E0,D,C Pawson,Leicester,4,3,Arsenal,13,6,12,0,0,3,9,5,25/10/2020,A,Arsenal_Leicester_2020
+56,17:30,6,0,1,1,3,0,E0,H,J Moss,West Brom,3,2,Brighton,14,9,5,0,1,2,7,0,26/10/2020,D,Brighton_West Brom_2020
+57,20:00,4,0,1,0,3,0,E0,D,M Oliver,Tottenham,4,2,Burnley,9,9,13,0,0,5,7,0,26/10/2020,A,Burnley_Tottenham_2020
+58,20:00,7,0,0,2,2,1,E0,H,M Atkinson,Crystal Palace,5,0,Wolves,13,11,15,0,2,6,4,2,30/10/2020,H,Wolves_Crystal Palace_2020
+59,12:30,2,0,1,0,8,0,E0,A,M Oliver,Man City,1,0,Sheffield United,14,16,5,1,0,5,6,0,31/10/2020,A,Sheffield United_Man City_2020
+60,15:00,3,0,3,0,9,0,E0,A,D Coote,Chelsea,0,1,Burnley,10,14,5,1,0,4,15,0,31/10/2020,A,Burnley_Chelsea_2020
+61,17:30,1,0,1,1,3,0,E0,D,K Friend,West Ham,5,0,Liverpool,13,4,9,1,2,2,14,1,31/10/2020,H,Liverpool_West Ham_2020
+62,12:00,11,0,4,0,4,0,E0,A,D England,Southampton,10,1,Aston Villa,12,9,19,3,3,1,17,2,01/11/2020,A,Aston Villa_Southampton_2020
+63,14:00,5,0,1,0,4,0,E0,D,S Attwell,Everton,4,2,Newcastle,9,15,11,0,2,4,10,4,01/11/2020,H,Newcastle_Everton_2020
+64,16:30,6,0,1,0,2,0,E0,D,M Dean,Arsenal,2,3,Man United,12,7,8,0,0,3,12,3,01/11/2020,A,Man United_Arsenal_2020
+65,19:15,4,0,1,1,2,0,E0,H,G Scott,Brighton,3,2,Tottenham,14,6,9,0,2,5,13,1,01/11/2020,H,Tottenham_Brighton_2020
+66,17:30,5,0,0,2,1,0,E0,H,S Hooper,West Brom,6,3,Fulham,13,10,13,0,2,2,11,2,02/11/2020,H,Fulham_West Brom_2020
+67,20:00,10,0,4,0,8,0,E0,A,A Marriner,Leicester,4,1,Leeds,9,10,11,2,1,3,5,1,02/11/2020,A,Leeds_Leicester_2020
+68,17:30,5,0,0,0,1,0,E0,D,M Dean,Burnley,3,1,Brighton,11,4,19,0,0,3,5,0,06/11/2020,D,Brighton_Burnley_2020
+69,20:00,8,0,0,1,2,0,E0,H,P Bankes,Newcastle,8,1,Southampton,12,4,15,0,2,3,11,2,06/11/2020,H,Southampton_Newcastle_2020
+70,12:30,5,0,3,1,5,0,E0,A,P Tierney,Man United,1,4,Everton,12,13,7,2,1,2,19,2,07/11/2020,A,Everton_Man United_2020
+71,15:00,3,0,1,3,3,0,E0,H,C Kavanagh,Leeds,6,0,Crystal Palace,9,9,10,1,4,6,1,2,07/11/2020,H,Crystal Palace_Leeds_2020
+72,17:30,6,0,1,2,3,0,E0,H,J Moss,Sheffield United,9,0,Chelsea,5,6,20,1,4,7,14,2,07/11/2020,H,Chelsea_Sheffield United_2020
+73,20:00,9,0,0,0,3,0,E0,D,R Jones,Fulham,7,2,West Ham,10,13,16,0,1,5,9,2,07/11/2020,H,West Ham_Fulham_2020
+74,12:00,9,0,1,0,5,0,E0,D,A Madley,Tottenham,2,1,West Brom,17,19,12,0,0,6,12,0,08/11/2020,A,West Brom_Tottenham_2020
+75,14:00,6,0,0,1,2,0,E0,H,A Taylor,Wolves,3,2,Leicester,12,7,10,0,1,3,8,3,08/11/2020,H,Leicester_Wolves_2020
+76,16:30,1,0,1,1,3,0,E0,D,C Pawson,Liverpool,2,3,Man City,19,10,7,1,1,2,11,1,08/11/2020,D,Man City_Liverpool_2020
+77,19:15,3,0,3,0,6,0,E0,A,M Atkinson,Aston Villa,2,0,Arsenal,11,15,13,1,0,8,13,0,08/11/2020,A,Arsenal_Aston Villa_2020
+78,12:30,7,0,2,0,3,0,E0,A,C Pawson,Chelsea,1,2,Newcastle,11,14,8,1,0,4,12,0,21/11/2020,A,Newcastle_Chelsea_2020
+79,15:00,12,0,2,0,3,1,E0,A,M Oliver,Brighton,4,2,Aston Villa,5,7,15,1,1,3,18,1,21/11/2020,A,Aston Villa_Brighton_2020
+80,17:30,0,0,0,1,5,0,E0,H,M Dean,Man City,2,2,Tottenham,13,22,4,0,2,10,19,2,21/11/2020,H,Tottenham_Man City_2020
+81,20:00,8,0,0,0,2,0,E0,D,D Coote,West Brom,7,1,Man United,12,7,17,0,1,2,17,1,21/11/2020,H,Man United_West Brom_2020
+82,12:00,2,0,3,1,7,0,E0,A,A Madley,Everton,6,2,Fulham,14,9,14,3,2,5,10,0,22/11/2020,A,Fulham_Everton_2020
+83,14:00,2,0,1,0,3,0,E0,D,M Atkinson,West Ham,5,0,Sheffield United,7,15,9,0,0,6,6,0,22/11/2020,A,Sheffield United_West Ham_2020
+84,16:30,5,0,0,0,2,1,E0,D,A Taylor,Arsenal,4,3,Leeds,9,9,25,0,0,3,8,0,22/11/2020,D,Leeds_Arsenal_2020
+85,19:15,10,0,0,2,4,0,E0,H,C Kavanagh,Leicester,13,0,Liverpool,15,11,24,0,3,3,6,2,22/11/2020,H,Liverpool_Leicester_2020
+86,17:30,4,0,0,1,5,0,E0,H,K Friend,Crystal Palace,4,2,Burnley,13,15,10,0,1,7,9,0,23/11/2020,H,Burnley_Crystal Palace_2020
+87,20:00,7,0,1,0,2,0,E0,D,A Marriner,Southampton,9,2,Wolves,14,7,20,0,1,4,13,0,23/11/2020,D,Wolves_Southampton_2020
+88,20:00,7,0,2,0,7,0,E0,D,G Scott,Newcastle,3,2,Crystal Palace,9,14,12,0,0,3,10,2,27/11/2020,A,Crystal Palace_Newcastle_2020
+89,12:30,4,0,1,0,2,0,E0,D,S Attwell,Liverpool,3,2,Brighton,9,6,11,0,1,3,13,1,28/11/2020,D,Brighton_Liverpool_2020
+90,15:00,6,0,0,3,1,0,E0,H,L Mason,Burnley,6,0,Man City,12,9,19,0,5,4,4,0,28/11/2020,H,Man City_Burnley_2020
+91,17:30,4,0,1,0,7,0,E0,D,C Kavanagh,Leeds,8,1,Everton,8,23,15,0,0,2,14,2,28/11/2020,A,Everton_Leeds_2020
+92,20:00,14,0,0,1,5,0,E0,H,M Dean,Sheffield United,6,2,West Brom,10,21,17,0,1,9,9,3,28/11/2020,H,West Brom_Sheffield United_2020
+93,14:00,5,0,3,2,6,0,E0,H,J Moss,Man United,5,1,Southampton,12,15,10,0,2,9,12,0,29/11/2020,A,Southampton_Man United_2020
+94,16:30,3,0,0,0,1,0,E0,D,P Tierney,Tottenham,3,4,Chelsea,20,5,13,0,0,3,9,2,29/11/2020,D,Chelsea_Tottenham_2020
+95,19:15,8,0,2,1,5,0,E0,A,M Oliver,Wolves,2,3,Arsenal,13,11,13,2,1,4,13,4,29/11/2020,A,Arsenal_Wolves_2020
+96,17:30,6,0,2,0,5,0,E0,A,S Hooper,Fulham,3,0,Leicester,9,10,16,2,1,5,21,2,30/11/2020,A,Leicester_Fulham_2020
+97,20:00,3,0,1,1,6,0,E0,D,P Bankes,Aston Villa,2,1,West Ham,20,16,6,1,2,7,7,1,30/11/2020,H,West Ham_Aston Villa_2020
+98,12:30,8,0,1,1,6,0,E0,D,A Taylor,Everton,3,0,Burnley,6,13,8,1,1,4,9,0,05/12/2020,D,Burnley_Everton_2020
+99,15:00,9,0,0,2,1,0,E0,H,J Moss,Fulham,6,0,Man City,7,6,16,0,2,3,6,0,05/12/2020,H,Man City_Fulham_2020
+100,17:30,5,0,3,1,6,0,E0,H,A Marriner,Man United,6,0,West Ham,9,15,19,0,1,4,10,0,05/12/2020,A,West Ham_Man United_2020
+101,20:00,8,0,1,1,3,0,E0,D,K Friend,Leeds,11,0,Chelsea,12,8,23,1,3,4,9,2,05/12/2020,H,Chelsea_Leeds_2020
+102,12:00,4,1,5,1,6,0,E0,D,P Tierney,Crystal Palace,4,2,West Brom,10,18,9,1,1,6,16,2,06/12/2020,A,West Brom_Crystal Palace_2020
+103,14:15,6,0,2,1,4,0,E0,D,S Attwell,Leicester,1,1,Sheffield United,13,13,4,1,1,5,6,3,06/12/2020,A,Sheffield United_Leicester_2020
+104,16:30,3,0,0,2,2,0,E0,H,M Atkinson,Arsenal,3,1,Tottenham,16,11,6,0,2,9,12,2,06/12/2020,H,Tottenham_Arsenal_2020
+105,19:15,4,0,0,1,3,0,E0,H,C Pawson,Wolves,6,1,Liverpool,8,9,11,0,4,6,14,1,06/12/2020,H,Liverpool_Wolves_2020
+106,20:00,4,0,2,1,3,0,E0,D,D Coote,Southampton,4,3,Brighton,12,10,12,1,1,3,12,3,07/12/2020,A,Brighton_Southampton_2020
+107,20:00,5,0,2,1,8,0,E0,D,M Oliver,West Ham,7,1,Leeds,12,19,13,1,1,6,10,2,11/12/2020,A,Leeds_West Ham_2020
+108,12:30,5,0,1,0,2,0,E0,D,M Dean,Aston Villa,7,2,Wolves,23,13,16,0,0,8,15,5,12/12/2020,A,Wolves_Aston Villa_2020
+109,15:00,4,0,1,1,3,0,E0,H,D England,West Brom,7,2,Newcastle,9,13,12,0,2,3,12,3,12/12/2020,H,Newcastle_West Brom_2020
+110,17:30,4,0,0,0,2,0,E0,D,C Kavanagh,Man City,2,1,Man United,13,9,11,0,0,3,6,1,12/12/2020,D,Man United_Man City_2020
+111,20:00,6,0,0,1,3,0,E0,H,J Moss,Chelsea,4,2,Everton,10,10,9,0,1,6,11,3,12/12/2020,H,Everton_Chelsea_2020
+112,12:00,8,0,0,1,0,0,E0,H,A Madley,Sheffield United,6,0,Southampton,8,3,16,0,3,4,14,1,13/12/2020,H,Southampton_Sheffield United_2020
+113,14:15,4,0,1,0,6,0,E0,A,K Friend,Tottenham,5,1,Crystal Palace,15,14,16,1,1,7,11,1,13/12/2020,D,Crystal Palace_Tottenham_2020
+114,16:30,6,0,1,1,6,0,E0,H,A Marriner,Liverpool,5,3,Fulham,9,12,10,0,1,8,5,1,13/12/2020,D,Fulham_Liverpool_2020
+115,19:15,13,1,1,0,2,0,E0,D,G Scott,Burnley,6,2,Arsenal,5,10,18,0,0,4,11,1,13/12/2020,A,Arsenal_Burnley_2020
+116,19:15,9,0,0,3,4,0,E0,H,M Atkinson,Brighton,6,2,Leicester,9,12,15,0,3,5,11,1,13/12/2020,H,Leicester_Brighton_2020
+117,18:00,5,0,1,0,3,0,E0,D,S Attwell,Chelsea,4,2,Wolves,12,13,12,0,2,6,12,2,15/12/2020,H,Wolves_Chelsea_2020
+118,20:00,13,0,1,1,1,0,E0,D,P Bankes,West Brom,7,2,Man City,5,5,26,1,1,2,8,3,15/12/2020,D,Man City_West Brom_2020
+119,18:00,2,1,1,0,3,0,E0,A,P Tierney,Southampton,4,1,Arsenal,13,13,9,1,1,7,13,3,16/12/2020,D,Arsenal_Southampton_2020
+120,18:00,7,0,2,1,4,0,E0,D,S Hooper,Newcastle,10,3,Leeds,10,10,25,1,5,4,13,1,16/12/2020,H,Leeds_Newcastle_2020
+121,18:00,4,0,2,0,6,0,E0,A,L Mason,Everton,2,2,Leicester,12,11,14,1,0,6,9,3,16/12/2020,A,Leicester_Everton_2020
+122,20:00,1,0,0,0,4,0,E0,D,R Jones,Brighton,4,1,Fulham,15,9,9,0,0,8,11,0,16/12/2020,D,Fulham_Brighton_2020
+123,20:00,7,0,1,1,2,0,E0,D,A Taylor,Tottenham,11,0,Liverpool,8,8,17,1,2,4,9,2,16/12/2020,H,Liverpool_Tottenham_2020
+124,20:00,5,0,1,0,2,1,E0,A,D Coote,Crystal Palace,2,0,West Ham,8,8,9,1,1,3,12,1,16/12/2020,D,West Ham_Crystal Palace_2020
+125,18:00,11,0,0,0,4,0,E0,D,C Pawson,Burnley,7,1,Aston Villa,17,6,27,0,0,1,19,1,17/12/2020,D,Aston Villa_Burnley_2020
+126,20:00,6,0,3,1,8,0,E0,A,M Oliver,Man United,6,3,Sheffield United,17,14,12,2,2,3,8,2,17/12/2020,A,Sheffield United_Man United_2020
+127,12:30,5,0,7,0,8,0,E0,A,J Moss,Liverpool,3,1,Crystal Palace,5,14,5,3,0,4,11,0,19/12/2020,A,Crystal Palace_Liverpool_2020
+128,15:00,6,0,1,0,5,0,E0,A,M Dean,Man City,3,2,Southampton,9,11,9,1,0,6,11,2,19/12/2020,A,Southampton_Man City_2020
+129,17:30,4,0,1,2,2,0,E0,H,A Marriner,Arsenal,2,1,Everton,9,13,9,1,2,3,9,3,19/12/2020,H,Everton_Arsenal_2020
+130,20:00,2,0,1,0,4,1,E0,A,G Scott,Fulham,5,1,Newcastle,7,11,12,1,1,9,17,2,19/12/2020,D,Newcastle_Fulham_2020
+131,12:00,14,0,1,0,3,1,E0,D,P Bankes,Sheffield United,5,1,Brighton,9,5,21,0,1,2,11,5,20/12/2020,D,Brighton_Sheffield United_2020
+132,14:15,5,0,2,0,4,0,E0,A,C Pawson,Leicester,3,2,Tottenham,15,17,8,1,0,3,14,2,20/12/2020,A,Tottenham_Leicester_2020
+133,16:30,11,0,2,4,3,0,E0,H,A Taylor,Leeds,14,1,Man United,6,17,26,1,6,13,6,0,20/12/2020,H,Man United_Leeds_2020
+134,19:15,1,1,3,0,10,0,E0,A,M Atkinson,Aston Villa,1,1,West Brom,14,19,1,1,0,7,8,2,20/12/2020,A,West Brom_Aston Villa_2020
+135,17:30,1,0,1,1,3,0,E0,H,L Mason,Wolves,4,2,Burnley,11,15,10,0,2,7,15,1,21/12/2020,H,Burnley_Wolves_2020
+136,20:00,5,0,0,1,0,0,E0,H,C Kavanagh,West Ham,7,0,Chelsea,11,6,11,0,3,4,6,0,21/12/2020,H,Chelsea_West Ham_2020
+137,12:30,5,0,2,1,4,0,E0,D,M Dean,Man United,2,2,Leicester,10,9,10,1,2,0,17,1,26/12/2020,D,Leicester_Man United_2020
+138,15:00,4,1,0,1,6,0,E0,H,A Taylor,Crystal Palace,10,1,Aston Villa,18,13,21,0,3,4,16,4,26/12/2020,H,Aston Villa_Crystal Palace_2020
+139,15:00,6,0,0,0,2,0,E0,D,D England,Southampton,1,2,Fulham,15,3,10,0,0,3,12,0,26/12/2020,D,Fulham_Southampton_2020
+140,17:30,7,0,1,2,3,0,E0,H,M Oliver,Chelsea,7,2,Arsenal,13,19,15,0,3,9,10,1,26/12/2020,H,Arsenal_Chelsea_2020
+141,20:00,7,0,0,1,2,0,E0,H,A Marriner,Newcastle,6,2,Man City,5,7,11,0,2,3,12,2,26/12/2020,H,Man City_Newcastle_2020
+142,20:00,6,0,1,0,3,0,E0,D,D Coote,Everton,2,2,Sheffield United,11,7,10,0,0,3,10,4,26/12/2020,A,Sheffield United_Everton_2020
+143,12:00,4,0,0,1,6,0,E0,H,R Jones,Burnley,4,0,Leeds,8,14,11,0,1,12,14,3,27/12/2020,H,Leeds_Burnley_2020
+144,14:15,5,0,2,0,4,0,E0,A,S Hooper,Brighton,4,0,West Ham,6,13,11,1,2,4,8,0,27/12/2020,D,West Ham_Brighton_2020
+145,16:30,8,0,1,1,3,0,E0,H,K Friend,West Brom,2,0,Liverpool,8,5,17,0,1,3,5,1,27/12/2020,D,Liverpool_West Brom_2020
+146,19:15,9,0,1,0,3,0,E0,A,P Tierney,Tottenham,6,4,Wolves,20,6,11,1,1,2,13,1,27/12/2020,D,Wolves_Tottenham_2020
+147,15:00,2,0,1,0,3,0,E0,D,G Scott,Leicester,1,0,Crystal Palace,10,17,4,0,1,5,7,1,28/12/2020,D,Crystal Palace_Leicester_2020
+148,17:30,11,0,1,1,2,0,E0,H,S Attwell,Aston Villa,5,3,Chelsea,16,10,16,0,1,4,3,1,28/12/2020,D,Chelsea_Aston Villa_2020
+149,18:00,5,0,1,0,3,0,E0,D,M Atkinson,Arsenal,2,2,Brighton,11,11,13,0,0,4,4,0,29/12/2020,A,Brighton_Arsenal_2020
+150,18:00,3,0,0,1,3,0,E0,H,C Kavanagh,Sheffield United,3,1,Burnley,13,7,5,0,1,5,17,2,29/12/2020,H,Burnley_Sheffield United_2020
+151,18:00,4,0,0,0,3,0,E0,D,A Madley,West Ham,3,3,Southampton,16,8,8,0,0,3,15,1,29/12/2020,D,Southampton_West Ham_2020
+152,18:00,3,0,5,0,6,0,E0,A,L Mason,Leeds,1,0,West Brom,7,14,4,4,0,10,10,1,29/12/2020,A,West Brom_Leeds_2020
+153,20:00,2,0,0,0,5,0,E0,D,J Moss,Wolves,3,1,Man United,11,9,11,0,1,2,7,1,29/12/2020,H,Man United_Wolves_2020
+154,20:00,5,0,0,0,4,0,E0,D,P Tierney,Liverpool,2,2,Newcastle,9,11,8,0,0,12,13,3,30/12/2020,D,Newcastle_Liverpool_2020
+155,17:30,5,0,1,0,5,0,E0,D,K Friend,West Ham,2,2,Everton,9,11,10,0,0,4,7,0,01/01/2021,A,Everton_West Ham_2020
+156,20:00,5,0,1,1,5,0,E0,H,M Oliver,Aston Villa,9,4,Man United,22,5,19,0,2,10,10,0,01/01/2021,H,Man United_Aston Villa_2020
+157,12:30,3,1,0,2,5,0,E0,H,D Coote,Leeds,7,2,Tottenham,15,18,20,0,3,5,13,1,02/01/2021,H,Tottenham_Leeds_2020
+158,15:00,3,0,0,2,2,0,E0,H,S Attwell,Sheffield United,4,1,Crystal Palace,8,7,9,0,2,6,18,3,02/01/2021,H,Crystal Palace_Sheffield United_2020
+159,17:30,5,0,3,1,4,0,E0,A,A Madley,Wolves,4,2,Brighton,13,11,13,3,3,8,8,1,02/01/2021,D,Brighton_Wolves_2020
+160,20:00,3,0,4,0,12,0,E0,A,M Atkinson,Arsenal,3,1,West Brom,7,21,7,2,0,5,4,2,02/01/2021,A,West Brom_Arsenal_2020
+161,14:15,3,0,2,0,3,0,E0,D,R Jones,Leicester,2,0,Newcastle,10,9,8,0,1,6,11,2,03/01/2021,A,Newcastle_Leicester_2020
+162,16:30,5,0,3,0,6,0,E0,A,A Taylor,Man City,2,3,Chelsea,11,18,9,3,1,3,10,1,03/01/2021,A,Chelsea_Man City_2020
+163,20:00,1,0,0,1,1,0,E0,H,A Marriner,Liverpool,3,1,Southampton,5,17,7,0,1,10,12,3,04/01/2021,H,Southampton_Liverpool_2020
+164,18:00,5,0,0,0,3,1,E0,D,A Madley,Newcastle,4,2,Sheffield United,13,7,17,0,1,2,12,3,12/01/2021,H,Sheffield United_Newcastle_2020
+165,20:15,3,0,1,0,7,0,E0,D,K Friend,Man United,0,1,Burnley,15,13,11,0,0,4,13,2,12/01/2021,A,Burnley_Man United_2020
+166,20:15,6,0,2,1,3,0,E0,D,M Atkinson,Everton,3,2,Wolves,6,5,12,1,1,5,11,2,12/01/2021,A,Wolves_Everton_2020
+167,18:00,8,0,0,1,1,0,E0,H,D England,Brighton,6,0,Man City,4,5,16,0,1,4,12,2,13/01/2021,H,Man City_Brighton_2020
+168,20:15,6,0,1,1,4,0,E0,H,P Tierney,Fulham,6,1,Tottenham,13,15,15,0,1,5,15,2,13/01/2021,D,Tottenham_Fulham_2020
+169,20:00,7,0,0,0,2,0,E0,D,A Marriner,Crystal Palace,4,1,Arsenal,10,12,11,0,0,3,11,1,14/01/2021,D,Arsenal_Crystal Palace_2020
+170,12:30,11,0,3,2,5,0,E0,H,M Oliver,West Brom,6,2,Wolves,10,12,23,1,2,0,14,1,16/01/2021,A,Wolves_West Brom_2020
+171,15:00,5,0,1,0,2,0,E0,A,K Friend,Brighton,2,1,Leeds,8,7,7,1,0,2,9,1,16/01/2021,A,Leeds_Brighton_2020
+172,15:00,7,0,0,1,2,0,E0,H,C Kavanagh,Burnley,4,2,West Ham,12,10,15,0,1,4,9,1,16/01/2021,H,West Ham_Burnley_2020
+173,17:30,1,1,1,0,6,0,E0,D,P Bankes,Chelsea,3,2,Fulham,11,21,10,0,0,12,10,3,16/01/2021,A,Fulham_Chelsea_2020
+174,20:00,2,0,0,1,3,0,E0,H,S Attwell,Southampton,5,2,Leicester,10,8,16,0,2,5,11,2,16/01/2021,H,Leicester_Southampton_2020
+175,14:00,5,0,3,0,5,0,E0,A,A Marriner,Tottenham,5,4,Sheffield United,13,14,15,2,1,7,4,0,17/01/2021,A,Sheffield United_Tottenham_2020
+176,16:30,7,0,0,0,4,0,E0,D,P Tierney,Man United,3,2,Liverpool,15,8,17,0,0,3,6,1,17/01/2021,D,Liverpool_Man United_2020
+177,19:15,11,0,0,1,0,0,E0,H,L Mason,Crystal Palace,6,0,Man City,9,2,13,0,4,1,8,0,17/01/2021,H,Man City_Crystal Palace_2020
+178,20:00,7,0,0,0,1,0,E0,D,D Coote,Newcastle,6,0,Arsenal,9,4,20,0,3,2,8,0,18/01/2021,H,Arsenal_Newcastle_2020
+179,18:00,3,0,1,1,2,0,E0,H,G Scott,West Brom,6,0,West Ham,10,6,14,0,2,1,10,1,19/01/2021,H,West Ham_West Brom_2020
+180,20:15,6,0,0,2,5,0,E0,H,C Pawson,Chelsea,6,1,Leicester,7,9,8,0,2,3,16,3,19/01/2021,H,Leicester_Chelsea_2020
+181,18:00,16,0,0,0,4,0,E0,D,J Moss,Aston Villa,9,0,Man City,10,11,28,0,2,2,9,2,20/01/2021,H,Man City_Aston Villa_2020
+182,20:15,2,0,2,1,5,0,E0,D,M Atkinson,Man United,5,3,Fulham,6,15,12,1,1,8,10,1,20/01/2021,A,Fulham_Man United_2020
+183,20:00,12,0,1,0,4,0,E0,D,M Dean,Burnley,6,2,Liverpool,11,6,27,0,0,0,8,1,21/01/2021,A,Liverpool_Burnley_2020
+184,20:00,5,0,0,2,1,0,E0,H,S Hooper,Newcastle,5,0,Aston Villa,9,7,14,0,2,4,18,3,23/01/2021,H,Aston Villa_Newcastle_2020
+185,18:00,3,0,3,1,7,0,E0,A,S Attwell,West Ham,3,0,Crystal Palace,9,17,6,2,2,4,8,0,26/01/2021,A,Crystal Palace_West Ham_2020
+186,18:00,9,0,2,0,2,0,E0,A,A Taylor,Leeds,5,1,Newcastle,10,9,22,1,1,5,15,3,26/01/2021,A,Newcastle_Leeds_2020
+187,20:15,4,0,3,1,5,0,E0,A,K Friend,Arsenal,5,1,Southampton,11,9,13,2,1,5,6,2,26/01/2021,A,Southampton_Arsenal_2020
+188,20:15,3,0,5,0,7,0,E0,A,C Kavanagh,Man City,1,2,West Brom,8,18,4,4,0,8,8,0,26/01/2021,A,West Brom_Man City_2020
+189,18:00,2,0,2,0,10,0,E0,A,P Tierney,Aston Villa,5,1,Burnley,16,18,10,1,3,4,7,0,27/01/2021,H,Burnley_Aston Villa_2020
+190,18:00,13,0,0,0,0,0,E0,D,A Madley,Wolves,5,1,Chelsea,14,4,14,0,0,1,7,1,27/01/2021,D,Chelsea_Wolves_2020
+191,19:30,10,0,0,0,3,0,E0,D,C Pawson,Fulham,5,2,Brighton,10,10,16,0,0,0,14,1,27/01/2021,D,Brighton_Fulham_2020
+192,20:15,5,0,1,1,6,0,E0,H,M Dean,Leicester,2,1,Everton,12,19,8,0,1,11,10,1,27/01/2021,D,Everton_Leicester_2020
+193,20:15,7,0,2,0,3,0,E0,A,P Bankes,Sheffield United,4,1,Man United,10,5,16,1,1,2,12,1,27/01/2021,A,Man United_Sheffield United_2020
+194,20:00,1,0,3,0,7,0,E0,A,M Atkinson,Liverpool,2,1,Tottenham,9,14,3,1,1,2,11,2,28/01/2021,A,Tottenham_Liverpool_2020
+195,12:30,7,0,2,0,3,0,E0,D,S Attwell,Newcastle,3,3,Everton,13,13,11,0,0,12,6,4,30/01/2021,A,Everton_Newcastle_2020
+196,15:00,1,0,0,0,4,0,E0,D,S Hooper,Wolves,2,1,Crystal Palace,7,6,11,0,1,6,10,2,30/01/2021,H,Crystal Palace_Wolves_2020
+197,15:00,10,0,0,1,1,0,E0,H,D Coote,Sheffield United,5,0,Man City,7,4,10,0,1,0,10,3,30/01/2021,H,Man City_Sheffield United_2020
+198,15:00,2,0,2,0,7,0,E0,A,A Taylor,Fulham,3,1,West Brom,9,12,5,1,2,3,10,0,30/01/2021,D,West Brom_Fulham_2020
+199,17:30,4,0,0,0,3,0,E0,D,M Oliver,Man United,3,1,Arsenal,9,14,17,0,0,7,16,3,30/01/2021,D,Arsenal_Man United_2020
+200,20:00,7,0,1,0,4,0,E0,A,L Mason,Aston Villa,5,1,Southampton,12,8,20,1,0,1,11,0,30/01/2021,A,Southampton_Aston Villa_2020
+201,12:00,4,0,0,1,0,0,E0,H,G Scott,Burnley,8,0,Chelsea,7,1,19,0,2,2,9,1,31/01/2021,H,Chelsea_Burnley_2020
+202,14:00,6,0,3,1,7,0,E0,D,C Kavanagh,Leeds,8,0,Leicester,17,8,18,1,1,4,16,3,31/01/2021,A,Leicester_Leeds_2020
+203,16:30,6,0,3,0,5,0,E0,D,J Moss,Liverpool,2,2,West Ham,7,14,8,0,1,5,8,0,31/01/2021,A,West Ham_Liverpool_2020
+204,19:15,9,0,0,1,4,0,E0,H,P Bankes,Tottenham,5,2,Brighton,11,8,16,0,1,2,11,1,31/01/2021,H,Brighton_Tottenham_2020
+205,18:00,9,0,1,0,4,0,E0,A,P Tierney,West Brom,6,2,Sheffield United,11,8,14,1,2,2,9,1,02/02/2021,H,Sheffield United_West Brom_2020
+206,18:00,9,0,1,1,3,2,E0,D,C Pawson,Arsenal,7,3,Wolves,11,9,11,1,2,6,8,2,02/02/2021,H,Wolves_Arsenal_2020
+207,20:15,5,0,0,4,1,2,E0,H,M Dean,Southampton,14,2,Man United,11,3,24,0,9,3,6,3,02/02/2021,H,Man United_Southampton_2020
+208,20:15,9,0,2,1,3,0,E0,A,D England,Crystal Palace,5,1,Newcastle,14,6,21,2,1,1,11,3,02/02/2021,A,Newcastle_Crystal Palace_2020
+209,18:00,1,0,2,0,6,0,E0,A,M Atkinson,Man City,0,2,Burnley,8,17,2,2,0,3,5,1,03/02/2021,A,Burnley_Man City_2020
+210,18:00,5,0,2,0,5,0,E0,A,R Jones,Leicester,1,3,Fulham,17,9,8,2,0,2,10,1,03/02/2021,A,Fulham_Leicester_2020
+211,19:30,7,0,2,0,6,0,E0,A,M Oliver,Everton,7,2,Leeds,12,10,16,2,1,1,12,3,03/02/2021,A,Leeds_Everton_2020
+212,20:15,7,0,3,0,10,0,E0,D,A Madley,West Ham,2,1,Aston Villa,11,20,9,0,1,3,15,1,03/02/2021,A,Aston Villa_West Ham_2020
+213,20:15,6,0,1,0,4,0,E0,D,K Friend,Brighton,1,1,Liverpool,12,13,11,0,0,3,6,0,03/02/2021,A,Liverpool_Brighton_2020
+214,20:00,2,0,1,0,2,0,E0,A,A Marriner,Chelsea,2,2,Tottenham,20,18,7,1,0,7,14,3,04/02/2021,A,Tottenham_Chelsea_2020
+215,12:30,3,0,0,1,3,0,E0,H,C Kavanagh,Arsenal,8,3,Aston Villa,12,14,12,0,1,7,12,2,06/02/2021,H,Aston Villa_Arsenal_2020
+216,15:00,8,0,1,0,2,0,E0,A,A Taylor,Brighton,7,2,Burnley,8,10,20,1,1,7,10,0,06/02/2021,D,Burnley_Brighton_2020
+217,15:00,0,1,2,3,5,0,E0,H,C Pawson,Southampton,4,2,Newcastle,11,14,6,1,3,7,14,1,06/02/2021,H,Newcastle_Southampton_2020
+218,17:30,7,0,0,0,1,1,E0,D,M Dean,West Ham,2,1,Fulham,11,8,20,0,0,3,10,2,06/02/2021,D,Fulham_West Ham_2020
+219,20:00,5,0,3,2,3,0,E0,H,J Moss,Everton,5,2,Man United,14,6,14,0,3,1,10,1,06/02/2021,D,Man United_Everton_2020
+220,12:00,8,0,0,0,1,0,E0,D,S Attwell,West Brom,6,1,Tottenham,16,4,13,0,2,0,12,2,07/02/2021,H,Tottenham_West Brom_2020
+221,14:00,8,0,0,0,3,0,E0,D,M Atkinson,Leicester,1,1,Wolves,11,13,13,0,0,2,15,3,07/02/2021,D,Wolves_Leicester_2020
+222,16:30,6,0,4,0,5,0,E0,D,M Oliver,Man City,3,2,Liverpool,13,8,8,0,1,1,8,1,07/02/2021,A,Liverpool_Man City_2020
+223,19:15,1,0,2,0,3,0,E0,A,K Friend,Chelsea,3,1,Sheffield United,8,9,8,1,1,8,8,0,07/02/2021,A,Sheffield United_Chelsea_2020
+224,20:00,5,0,0,1,3,0,E0,H,A Marriner,Crystal Palace,7,0,Leeds,7,8,17,0,2,3,8,2,08/02/2021,H,Leeds_Crystal Palace_2020
+225,12:30,2,0,1,0,4,0,E0,D,A Taylor,Liverpool,6,1,Leicester,9,15,11,0,3,12,6,2,13/02/2021,H,Leicester_Liverpool_2020
+226,15:00,7,0,3,0,4,0,E0,A,M Oliver,Burnley,3,0,Crystal Palace,15,16,13,2,0,4,14,0,13/02/2021,A,Crystal Palace_Burnley_2020
+227,17:30,4,0,0,1,3,0,E0,H,P Tierney,Tottenham,6,1,Man City,12,7,15,0,3,2,13,3,13/02/2021,H,Man City_Tottenham_2020
+228,20:00,9,0,0,0,1,0,E0,D,D England,Aston Villa,9,2,Brighton,16,4,26,0,0,2,12,3,13/02/2021,D,Brighton_Aston Villa_2020
+229,12:00,4,0,2,1,4,0,E0,H,G Scott,Wolves,3,2,Southampton,10,10,7,0,1,6,9,2,14/02/2021,A,Southampton_Wolves_2020
+230,14:00,4,0,1,1,7,0,E0,D,C Pawson,Man United,3,5,West Brom,13,10,7,1,1,5,10,0,14/02/2021,D,West Brom_Man United_2020
+231,16:30,4,0,2,3,5,0,E0,H,S Attwell,Leeds,5,0,Arsenal,8,9,13,0,4,5,17,2,14/02/2021,H,Arsenal_Leeds_2020
+232,19:00,5,0,2,0,3,0,E0,D,A Madley,Fulham,2,1,Everton,7,12,7,0,0,4,16,1,14/02/2021,A,Everton_Fulham_2020
+233,18:00,7,0,0,1,5,0,E0,H,S Hooper,Sheffield United,9,0,West Ham,11,8,13,0,3,7,12,2,15/02/2021,H,West Ham_Sheffield United_2020
+234,20:00,10,0,0,2,4,0,E0,H,P Bankes,Newcastle,5,0,Chelsea,9,10,18,0,2,5,13,0,15/02/2021,H,Chelsea_Newcastle_2020
+235,18:00,5,0,1,0,3,0,E0,D,J Moss,Fulham,3,1,Burnley,7,8,8,0,1,5,13,1,17/02/2021,D,Burnley_Fulham_2020
+236,20:15,0,0,3,1,7,0,E0,D,A Marriner,Man City,2,2,Everton,8,16,3,1,1,10,8,1,17/02/2021,A,Everton_Man City_2020
+237,20:00,7,0,0,0,7,0,E0,D,D Coote,Leeds,5,1,Wolves,13,18,15,0,1,9,8,0,19/02/2021,H,Wolves_Leeds_2020
+238,12:30,3,0,1,1,3,0,E0,H,A Taylor,Chelsea,1,1,Southampton,10,9,4,0,1,6,10,1,20/02/2021,D,Southampton_Chelsea_2020
+239,15:00,5,0,0,0,3,1,E0,D,M Dean,West Brom,1,3,Burnley,16,10,6,0,0,5,10,0,20/02/2021,D,Burnley_West Brom_2020
+240,17:30,7,0,2,0,6,0,E0,A,C Kavanagh,Everton,6,2,Liverpool,10,9,15,1,0,2,10,1,20/02/2021,A,Liverpool_Everton_2020
+241,20:00,6,0,0,0,2,0,E0,D,M Atkinson,Sheffield United,7,1,Fulham,11,4,15,0,1,4,14,2,20/02/2021,H,Fulham_Sheffield United_2020
+242,12:00,5,0,1,1,4,0,E0,H,C Pawson,Tottenham,4,4,West Ham,14,20,4,0,2,7,7,3,21/02/2021,H,West Ham_Tottenham_2020
+243,14:05,7,0,2,0,7,0,E0,A,M Oliver,Leicester,2,2,Aston Villa,11,16,11,2,1,8,12,1,21/02/2021,A,Aston Villa_Leicester_2020
+244,16:30,1,0,1,0,3,0,E0,A,J Moss,Man City,1,2,Arsenal,11,15,7,1,0,3,9,2,21/02/2021,A,Arsenal_Man City_2020
+245,19:00,6,0,1,1,6,0,E0,D,P Tierney,Newcastle,7,1,Man United,9,10,15,1,3,4,11,2,21/02/2021,H,Man United_Newcastle_2020
+246,20:00,13,0,2,0,2,0,E0,A,K Friend,Crystal Palace,5,2,Brighton,11,3,25,1,1,0,6,0,22/02/2021,A,Brighton_Crystal Palace_2020
+247,18:00,2,0,0,0,5,0,E0,D,A Marriner,Southampton,7,1,Leeds,11,13,11,0,3,4,13,2,23/02/2021,H,Leeds_Southampton_2020
+248,12:30,4,0,1,1,3,0,E0,D,M Oliver,West Ham,3,1,Man City,8,9,10,1,2,2,11,1,27/02/2021,H,Man City_West Ham_2020
+249,15:00,7,0,0,1,6,0,E0,H,L Mason,Brighton,2,0,West Brom,11,15,6,0,1,4,12,0,27/02/2021,H,West Brom_Brighton_2020
+250,17:30,7,0,1,0,4,0,E0,A,P Bankes,Aston Villa,3,3,Leeds,14,9,13,1,0,5,14,2,27/02/2021,A,Leeds_Aston Villa_2020
+251,20:00,3,0,1,0,4,0,E0,D,M Dean,Wolves,7,2,Newcastle,11,14,19,0,1,5,13,0,27/02/2021,D,Newcastle_Wolves_2020
+252,12:00,1,0,0,0,4,0,E0,D,A Taylor,Fulham,0,1,Crystal Palace,10,16,3,0,0,3,14,1,28/02/2021,D,Crystal Palace_Fulham_2020
+253,12:00,2,0,3,1,4,0,E0,A,P Tierney,Arsenal,3,2,Leicester,15,12,8,2,1,7,3,1,28/02/2021,A,Leicester_Arsenal_2020
+254,14:00,3,0,0,3,3,0,E0,H,K Friend,Burnley,7,0,Tottenham,6,10,16,0,4,4,10,0,28/02/2021,H,Tottenham_Burnley_2020
+255,16:30,3,0,0,0,4,0,E0,D,S Attwell,Man United,6,1,Chelsea,11,11,18,0,0,4,12,2,28/02/2021,D,Chelsea_Man United_2020
+256,19:15,4,0,2,0,8,0,E0,D,J Moss,Liverpool,2,0,Sheffield United,9,16,8,0,0,3,9,0,28/02/2021,A,Sheffield United_Liverpool_2020
+257,20:00,4,0,0,1,1,0,E0,H,M Atkinson,Southampton,1,0,Everton,13,9,7,0,1,10,9,2,01/03/2021,H,Everton_Southampton_2020
+258,20:00,10,0,1,1,1,0,E0,H,C Kavanagh,Wolves,10,0,Man City,9,6,22,0,4,2,5,1,02/03/2021,H,Man City_Wolves_2020
+259,18:00,5,0,1,1,4,0,E0,D,A Madley,Leicester,7,0,Burnley,6,15,12,1,1,8,12,2,03/03/2021,D,Burnley_Leicester_2020
+260,18:00,2,1,0,1,4,0,E0,H,R Jones,Aston Villa,2,1,Sheffield United,13,16,9,0,1,7,6,0,03/03/2021,H,Sheffield United_Aston Villa_2020
+261,20:15,4,0,0,0,1,0,E0,D,A Marriner,Man United,2,1,Crystal Palace,4,11,8,0,0,6,13,0,03/03/2021,D,Crystal Palace_Man United_2020
+262,18:00,4,0,1,0,2,0,E0,A,D Coote,Tottenham,3,2,Fulham,13,9,11,1,0,1,9,1,04/03/2021,A,Fulham_Tottenham_2020
+263,18:00,3,0,1,0,3,0,E0,D,D England,Everton,3,3,West Brom,9,11,11,0,0,3,7,1,04/03/2021,A,West Brom_Everton_2020
+264,20:15,5,0,1,0,5,0,E0,A,M Atkinson,Chelsea,1,0,Liverpool,9,11,7,1,0,2,8,0,04/03/2021,A,Liverpool_Chelsea_2020
+265,12:30,2,0,1,1,3,0,E0,D,A Marriner,Arsenal,5,1,Burnley,5,15,9,1,1,4,12,1,06/03/2021,D,Burnley_Arsenal_2020
+266,15:00,7,0,2,0,5,0,E0,A,P Tierney,Southampton,2,4,Sheffield United,17,15,8,1,0,3,11,3,06/03/2021,A,Sheffield United_Southampton_2020
+267,17:30,5,0,0,0,2,0,E0,D,A Madley,Wolves,1,1,Aston Villa,13,10,9,0,0,3,13,0,06/03/2021,D,Aston Villa_Wolves_2020
+268,20:00,6,0,2,1,4,0,E0,H,M Oliver,Leicester,2,0,Brighton,14,8,7,0,1,6,8,1,06/03/2021,A,Brighton_Leicester_2020
+269,12:00,9,0,0,0,5,0,E0,D,M Atkinson,Newcastle,3,0,West Brom,11,9,13,0,0,7,10,0,07/03/2021,D,West Brom_Newcastle_2020
+270,14:00,9,0,1,0,3,0,E0,A,K Friend,Fulham,3,2,Liverpool,10,10,16,1,0,4,8,3,07/03/2021,A,Liverpool_Fulham_2020
+271,16:30,6,0,2,0,6,0,E0,A,A Taylor,Man United,6,0,Man City,9,8,23,1,0,2,12,3,07/03/2021,A,Man City_Man United_2020
+272,19:15,1,0,1,1,1,0,E0,D,S Attwell,Crystal Palace,5,2,Tottenham,8,5,12,1,4,5,17,3,07/03/2021,H,Tottenham_Crystal Palace_2020

@@ -1,0 +1,381 @@
+,HC,HR,FTAG,HTHG,AST,AR,Div,HTR,Referee,AwayTeam,HST,HY,HomeTeam,HF,AS,HS,HTAG,FTHG,AC,AF,AY,Date,FTR,idGame
+0,9,0,1,1,2,1,E0,D,J Moss,Crystal Palace,6,2,Arsenal,13,4,14,1,2,3,19,2,16/08/2014,H,Arsenal_Crystal Palace_2014
+1,3,0,2,1,3,0,E0,A,M Jones,Everton,3,1,Leicester,16,13,11,2,2,6,10,1,16/08/2014,D,Leicester_Everton_2014
+2,4,0,2,0,4,0,E0,A,M Dean,Swansea,5,2,Man United,14,5,14,1,1,0,20,4,16/08/2014,A,Man United_Swansea_2014
+3,8,0,1,0,4,0,E0,D,C Pawson,Hull,6,1,QPR,10,11,19,0,0,9,10,2,16/08/2014,A,QPR_Hull_2014
+4,2,0,1,0,2,0,E0,D,A Taylor,Aston Villa,2,0,Stoke,14,7,12,0,0,8,9,3,16/08/2014,A,Stoke_Aston Villa_2014
+5,6,0,2,1,2,0,E0,D,N Swarbrick,Sunderland,5,3,West Brom,18,7,10,1,2,3,9,1,16/08/2014,D,West Brom_Sunderland_2014
+6,8,1,1,0,4,1,E0,D,C Foy,Tottenham,4,1,West Ham,12,10,18,0,0,5,10,0,16/08/2014,A,West Ham_Tottenham_2014
+7,2,0,1,1,6,0,E0,H,M Clattenburg,Southampton,5,1,Liverpool,8,12,12,0,2,6,11,2,17/08/2014,H,Liverpool_Southampton_2014
+8,3,0,2,0,5,0,E0,A,M Atkinson,Man City,0,1,Newcastle,8,13,12,1,0,3,11,5,17/08/2014,A,Newcastle_Man City_2014
+9,4,0,3,1,3,0,E0,A,M Oliver,Chelsea,2,1,Burnley,6,11,9,3,1,3,7,1,18/08/2014,A,Burnley_Chelsea_2014
+10,7,0,0,0,4,1,E0,D,M Dean,Newcastle,0,4,Aston Villa,11,11,9,0,0,7,8,0,23/08/2014,D,Aston Villa_Newcastle_2014
+11,8,0,0,0,4,0,E0,D,L Mason,Leicester,10,0,Chelsea,11,6,27,0,2,7,11,1,23/08/2014,H,Chelsea_Leicester_2014
+12,6,0,3,0,8,0,E0,A,M Clattenburg,West Ham,4,1,Crystal Palace,14,17,9,2,1,9,11,3,23/08/2014,A,Crystal Palace_West Ham_2014
+13,3,0,2,2,3,0,E0,H,K Friend,Arsenal,2,1,Everton,10,13,8,0,2,3,18,4,23/08/2014,D,Everton_Arsenal_2014
+14,1,0,0,0,2,0,E0,D,R East,West Brom,2,1,Southampton,14,8,8,0,0,5,15,2,23/08/2014,D,Southampton_West Brom_2014
+15,2,0,0,1,1,0,E0,H,C Pawson,Burnley,5,2,Swansea,14,12,10,0,1,3,13,1,23/08/2014,H,Swansea_Burnley_2014
+16,4,1,1,1,3,0,E0,H,J Moss,Stoke,2,1,Hull,10,19,9,0,1,5,10,3,24/08/2014,D,Hull_Stoke_2014
+17,4,0,1,1,3,0,E0,D,M Atkinson,Man United,3,0,Sunderland,10,10,11,1,1,4,15,2,24/08/2014,D,Sunderland_Man United_2014
+18,7,0,0,3,1,0,E0,H,A Taylor,QPR,5,0,Tottenham,12,9,18,0,4,6,6,1,24/08/2014,H,Tottenham_QPR_2014
+19,6,0,1,1,3,0,E0,H,M Oliver,Liverpool,4,1,Man City,13,11,9,0,3,7,7,1,25/08/2014,H,Man City_Liverpool_2014
+20,3,0,0,0,2,0,E0,D,C Foy,Man United,3,2,Burnley,10,7,9,0,0,6,14,2,30/08/2014,D,Burnley_Man United_2014
+21,8,0,6,1,8,0,E0,A,J Moss,Chelsea,7,1,Everton,7,12,17,2,3,2,16,3,30/08/2014,A,Everton_Chelsea_2014
+22,11,0,1,0,2,0,E0,D,L Mason,Stoke,2,2,Man City,14,7,16,0,0,4,5,1,30/08/2014,A,Man City_Stoke_2014
+23,11,0,3,1,7,0,E0,D,M Jones,Crystal Palace,4,1,Newcastle,12,12,18,1,3,4,19,3,30/08/2014,D,Newcastle_Crystal Palace_2014
+24,4,0,0,1,6,0,E0,H,R Madley,Sunderland,5,1,QPR,8,16,18,0,1,6,9,2,30/08/2014,H,QPR_Sunderland_2014
+25,0,0,0,2,2,0,E0,H,P Tierney,West Brom,8,1,Swansea,10,16,15,0,3,7,8,2,30/08/2014,H,Swansea_West Brom_2014
+26,2,0,3,1,8,0,E0,D,M Dean,Southampton,2,2,West Ham,11,18,4,1,1,9,13,1,30/08/2014,A,West Ham_Southampton_2014
+27,3,0,1,2,3,0,E0,H,M Clattenburg,Hull,4,1,Aston Villa,9,9,11,0,2,7,10,4,31/08/2014,H,Aston Villa_Hull_2014
+28,5,0,1,1,6,0,E0,D,A Taylor,Arsenal,3,3,Leicester,14,24,9,1,1,10,6,1,31/08/2014,D,Leicester_Arsenal_2014
+29,7,0,3,0,8,0,E0,A,P Dowd,Liverpool,1,0,Tottenham,14,17,7,1,0,3,11,4,31/08/2014,A,Tottenham_Liverpool_2014
+30,0,0,2,0,8,0,E0,A,M Clattenburg,Man City,6,3,Arsenal,11,15,15,1,2,3,15,4,13/09/2014,D,Arsenal_Man City_2014
+31,7,0,2,1,2,0,E0,D,K Friend,Swansea,9,0,Chelsea,12,11,29,1,4,4,11,3,13/09/2014,H,Chelsea_Swansea_2014
+32,5,0,0,0,3,0,E0,D,M Dean,Burnley,3,2,Crystal Palace,12,11,14,0,0,5,10,3,13/09/2014,D,Crystal Palace_Burnley_2014
+33,7,0,1,0,1,0,E0,A,L Mason,Aston Villa,1,2,Liverpool,9,5,18,1,0,6,10,1,13/09/2014,A,Liverpool_Aston Villa_2014
+34,5,0,0,2,4,0,E0,H,C Foy,Newcastle,7,0,Southampton,15,9,10,0,4,5,7,2,13/09/2014,H,Southampton_Newcastle_2014
+35,13,0,1,0,1,0,E0,D,M Oliver,Leicester,4,3,Stoke,8,8,24,0,0,3,15,0,13/09/2014,A,Stoke_Leicester_2014
+36,5,0,2,1,6,0,E0,D,C Pawson,Tottenham,1,5,Sunderland,10,15,6,1,2,5,13,1,13/09/2014,D,Sunderland_Tottenham_2014
+37,9,0,2,0,4,0,E0,A,A Taylor,Everton,1,2,West Brom,12,11,11,1,0,1,8,3,13/09/2014,A,West Brom_Everton_2014
+38,3,0,0,3,2,0,E0,H,P Dowd,QPR,9,1,Man United,11,9,19,0,4,1,8,0,14/09/2014,H,Man United_QPR_2014
+39,3,0,2,1,4,0,E0,H,M Atkinson,West Ham,6,3,Hull,12,16,11,0,2,10,7,1,15/09/2014,D,Hull_West Ham_2014
+40,5,0,3,0,3,0,E0,A,M Jones,Arsenal,2,1,Aston Villa,11,9,6,3,0,5,9,3,20/09/2014,A,Aston Villa_Arsenal_2014
+41,5,0,0,0,6,0,E0,D,A Taylor,Sunderland,6,1,Burnley,14,14,17,0,0,1,14,2,20/09/2014,D,Burnley_Sunderland_2014
+42,4,0,2,0,3,0,E0,D,N Swarbrick,Hull,7,4,Newcastle,11,10,25,0,2,2,11,2,20/09/2014,D,Newcastle_Hull_2014
+43,10,0,2,1,4,0,E0,D,M Atkinson,Stoke,5,2,QPR,6,8,21,1,2,1,15,4,20/09/2014,D,QPR_Stoke_2014
+44,2,1,1,0,4,0,E0,D,J Moss,Southampton,2,0,Swansea,11,11,5,0,0,4,15,4,20/09/2014,A,Swansea_Southampton_2014
+45,7,0,1,2,5,0,E0,H,C Pawson,Liverpool,7,4,West Ham,16,11,13,1,3,5,11,1,20/09/2014,H,West Ham_Liverpool_2014
+46,7,0,3,1,3,0,E0,D,M Oliver,Crystal Palace,6,2,Everton,8,10,17,1,2,1,13,2,21/09/2014,A,Everton_Crystal Palace_2014
+47,2,0,3,1,5,1,E0,A,M Clattenburg,Man United,5,1,Leicester,11,16,15,2,5,4,9,1,21/09/2014,H,Leicester_Man United_2014
+48,14,1,1,0,2,0,E0,D,M Dean,Chelsea,4,3,Man City,16,6,16,0,1,2,12,4,21/09/2014,D,Man City_Chelsea_2014
+49,9,0,1,0,4,0,E0,D,K Friend,West Brom,1,2,Tottenham,12,10,7,0,0,7,7,2,21/09/2014,A,Tottenham_West Brom_2014
+50,15,0,1,0,4,0,E0,D,M Oliver,Tottenham,6,3,Arsenal,7,6,16,0,1,5,16,6,27/09/2014,D,Arsenal_Tottenham_2014
+51,9,0,0,1,1,0,E0,H,P Dowd,Aston Villa,8,2,Chelsea,11,7,17,0,3,2,9,2,27/09/2014,H,Chelsea_Aston Villa_2014
+52,6,0,0,0,1,0,E0,D,K Stroud,Leicester,6,0,Crystal Palace,14,7,16,0,2,6,9,2,27/09/2014,H,Crystal Palace_Leicester_2014
+53,3,0,4,2,6,0,E0,D,A Taylor,Man City,5,0,Hull,10,20,10,2,2,8,6,2,27/09/2014,A,Hull_Man City_2014
+54,8,0,1,0,5,0,E0,D,M Atkinson,Everton,8,2,Liverpool,8,11,24,0,1,2,9,1,27/09/2014,D,Liverpool_Everton_2014
+55,7,1,1,2,4,0,E0,H,L Mason,West Ham,3,1,Man United,10,13,8,1,2,10,12,3,27/09/2014,H,Man United_West Ham_2014
+56,6,0,1,0,2,0,E0,D,M Clattenburg,QPR,9,2,Southampton,12,10,19,0,2,3,11,1,27/09/2014,H,Southampton_QPR_2014
+57,10,0,0,0,1,1,E0,D,C Foy,Swansea,3,2,Sunderland,13,7,15,0,0,1,15,1,27/09/2014,D,Sunderland_Swansea_2014
+58,10,0,0,2,2,0,E0,H,J Moss,Burnley,6,1,West Brom,7,10,20,0,4,2,9,2,28/09/2014,H,West Brom_Burnley_2014
+59,2,0,0,1,1,0,E0,H,C Pawson,Newcastle,3,1,Stoke,20,16,12,0,1,10,15,2,29/09/2014,H,Stoke_Newcastle_2014
+60,0,0,2,0,7,0,E0,D,C Foy,Man City,1,0,Aston Villa,4,27,6,0,0,7,6,1,04/10/2014,A,Aston Villa_Man City_2014
+61,6,0,0,0,2,0,E0,D,M Dean,Crystal Palace,2,1,Hull,6,11,15,0,2,7,14,2,04/10/2014,H,Hull_Crystal Palace_2014
+62,9,0,2,2,4,0,E0,H,P Dowd,Burnley,6,2,Leicester,16,10,15,1,2,3,12,2,04/10/2014,D,Leicester_Burnley_2014
+63,5,0,1,1,4,0,E0,H,M Oliver,West Brom,7,2,Liverpool,12,8,19,0,2,5,15,2,04/10/2014,H,Liverpool_West Brom_2014
+64,7,0,1,2,5,0,E0,H,N Swarbrick,Stoke,3,3,Sunderland,10,11,8,1,3,4,17,4,04/10/2014,H,Sunderland_Stoke_2014
+65,3,0,2,1,4,0,E0,D,L Mason,Newcastle,5,1,Swansea,11,9,11,1,2,1,15,3,04/10/2014,D,Swansea_Newcastle_2014
+66,2,0,0,1,0,0,E0,H,M Atkinson,Arsenal,3,4,Chelsea,14,10,5,0,2,2,10,3,05/10/2014,H,Chelsea_Arsenal_2014
+67,11,0,1,1,6,0,E0,H,K Friend,Everton,4,4,Man United,18,10,15,0,2,6,11,3,05/10/2014,H,Man United_Everton_2014
+68,10,0,0,1,3,0,E0,H,M Jones,Southampton,4,2,Tottenham,15,7,9,0,1,5,9,1,05/10/2014,H,Tottenham_Southampton_2014
+69,7,0,0,1,3,0,E0,H,A Taylor,QPR,3,2,West Ham,10,10,11,0,2,5,11,2,05/10/2014,H,West Ham_QPR_2014
+70,10,0,2,1,4,0,E0,D,R East,Hull,9,2,Arsenal,9,4,25,1,2,0,13,2,18/10/2014,D,Arsenal_Hull_2014
+71,5,0,3,0,6,0,E0,D,K Friend,West Ham,3,0,Burnley,3,22,17,0,1,7,10,1,18/10/2014,A,Burnley_West Ham_2014
+72,3,1,2,0,5,1,E0,A,C Pawson,Chelsea,4,1,Crystal Palace,13,14,7,1,1,2,7,1,18/10/2014,A,Crystal Palace_Chelsea_2014
+73,3,0,0,1,2,0,E0,H,A Taylor,Aston Villa,6,2,Everton,11,10,15,0,3,4,16,2,18/10/2014,H,Everton_Aston Villa_2014
+74,3,0,1,2,7,1,E0,H,J Moss,Tottenham,12,1,Man City,11,19,20,1,4,4,9,2,18/10/2014,H,Man City_Tottenham_2014
+75,10,0,0,0,2,0,E0,D,M Atkinson,Leicester,6,0,Newcastle,13,7,19,0,1,7,15,3,18/10/2014,H,Newcastle_Leicester_2014
+76,5,0,0,3,1,0,E0,H,A Marriner,Sunderland,11,1,Southampton,11,12,20,0,8,6,8,3,18/10/2014,H,Southampton_Sunderland_2014
+77,7,0,3,0,5,0,E0,D,P Dowd,Liverpool,6,2,QPR,10,15,15,0,2,2,15,3,19/10/2014,A,QPR_Liverpool_2014
+78,3,0,1,1,5,0,E0,D,M Oliver,Swansea,3,4,Stoke,17,13,17,1,2,5,7,1,19/10/2014,H,Stoke_Swansea_2014
+79,0,0,2,1,7,0,E0,H,M Dean,Man United,2,1,West Brom,6,22,8,0,2,11,8,2,20/10/2014,D,West Brom_Man United_2014
+80,14,0,0,0,3,0,E0,D,N Swarbrick,Hull,4,3,Liverpool,12,6,17,0,0,1,17,2,25/10/2014,D,Liverpool_Hull_2014
+81,6,0,0,1,1,0,E0,H,J Moss,Stoke,2,0,Southampton,10,8,20,0,1,3,12,2,25/10/2014,H,Southampton_Stoke_2014
+82,3,0,2,0,5,0,E0,A,K Friend,Arsenal,3,3,Sunderland,11,15,11,1,0,3,9,3,25/10/2014,A,Sunderland_Arsenal_2014
+83,2,0,0,1,4,0,E0,H,M Jones,Leicester,3,0,Swansea,7,9,7,0,2,2,10,0,25/10/2014,H,Swansea_Leicester_2014
+84,6,0,2,0,6,0,E0,A,M Clattenburg,Crystal Palace,4,3,West Brom,14,8,17,2,2,3,8,1,25/10/2014,D,West Brom_Crystal Palace_2014
+85,4,0,1,1,5,0,E0,H,M Atkinson,Man City,4,2,West Ham,12,21,12,0,2,8,14,1,25/10/2014,H,West Ham_Man City_2014
+86,5,0,3,1,6,0,E0,A,A Marriner,Everton,3,4,Burnley,12,15,14,2,1,4,7,2,26/10/2014,A,Burnley_Everton_2014
+87,4,0,1,0,4,1,E0,D,P Dowd,Chelsea,7,3,Man United,13,9,19,0,1,7,14,5,26/10/2014,D,Man United_Chelsea_2014
+88,10,0,2,1,2,0,E0,H,A Taylor,Newcastle,2,2,Tottenham,9,8,17,0,1,2,12,4,26/10/2014,A,Tottenham_Newcastle_2014
+89,2,0,0,1,6,0,E0,H,L Mason,Aston Villa,4,0,QPR,11,15,11,0,2,4,14,2,27/10/2014,H,QPR_Aston Villa_2014
+90,18,0,0,0,2,0,E0,D,C Pawson,Burnley,13,0,Arsenal,5,6,32,0,3,1,9,1,01/11/2014,H,Arsenal_Burnley_2014
+91,13,0,1,1,1,0,E0,H,M Jones,QPR,8,0,Chelsea,8,7,18,0,2,2,12,0,01/11/2014,H,Chelsea_QPR_2014
+92,11,0,0,0,0,1,E0,D,K Friend,Swansea,3,2,Everton,10,8,17,0,0,0,15,3,01/11/2014,D,Everton_Swansea_2014
+93,7,0,1,0,3,0,E0,A,M Atkinson,Southampton,1,1,Hull,6,10,8,1,0,4,9,0,01/11/2014,A,Hull_Southampton_2014
+94,8,0,1,0,3,0,E0,D,S Attwell,West Brom,5,0,Leicester,5,8,14,0,0,3,12,1,01/11/2014,A,Leicester_West Brom_2014
+95,7,0,0,0,3,0,E0,D,A Marriner,Liverpool,3,4,Newcastle,13,6,14,0,1,2,8,3,01/11/2014,H,Newcastle_Liverpool_2014
+96,9,0,2,1,2,0,E0,H,C Foy,West Ham,6,1,Stoke,14,10,21,0,2,2,13,1,01/11/2014,D,Stoke_West Ham_2014
+97,3,1,2,1,7,0,E0,H,N Swarbrick,Tottenham,1,3,Aston Villa,12,18,12,0,1,9,11,3,02/11/2014,A,Aston Villa_Tottenham_2014
+98,7,0,0,0,2,1,E0,D,M Oliver,Man United,6,3,Man City,15,9,16,0,1,4,9,1,02/11/2014,H,Man City_Man United_2014
+99,11,1,3,0,7,0,E0,A,P Dowd,Sunderland,1,0,Crystal Palace,12,8,9,1,1,2,19,3,03/11/2014,A,Crystal Palace_Sunderland_2014
+100,7,0,0,0,1,0,E0,D,M Clattenburg,Hull,3,6,Burnley,17,12,14,0,1,1,17,4,08/11/2014,H,Burnley_Hull_2014
+101,5,0,2,1,5,0,E0,D,A Taylor,Chelsea,4,2,Liverpool,9,15,12,1,1,7,12,5,08/11/2014,A,Liverpool_Chelsea_2014
+102,11,0,0,0,1,0,E0,D,C Foy,Crystal Palace,5,1,Man United,8,6,23,0,1,4,12,3,08/11/2014,H,Man United_Crystal Palace_2014
+103,7,0,2,1,6,0,E0,D,M Dean,Man City,4,4,QPR,9,23,17,1,2,7,10,2,08/11/2014,D,QPR_Man City_2014
+104,13,0,0,0,0,0,E0,D,M Oliver,Leicester,6,2,Southampton,10,5,18,0,2,4,12,2,08/11/2014,H,Southampton_Leicester_2014
+105,13,0,0,0,4,0,E0,D,J Moss,Aston Villa,5,0,West Ham,9,12,21,0,0,2,10,3,08/11/2014,D,West Ham_Aston Villa_2014
+106,5,0,1,0,7,0,E0,D,L Mason,Everton,3,1,Sunderland,11,16,10,0,1,4,13,2,09/11/2014,D,Sunderland_Everton_2014
+107,6,0,1,0,4,0,E0,D,P Dowd,Arsenal,5,5,Swansea,10,12,11,0,2,10,16,5,09/11/2014,H,Swansea_Arsenal_2014
+108,5,1,2,0,4,0,E0,A,M Jones,Stoke,4,3,Tottenham,20,11,14,2,1,5,13,2,09/11/2014,A,Tottenham_Stoke_2014
+109,7,0,2,0,3,0,E0,A,C Pawson,Newcastle,2,0,West Brom,12,8,10,1,0,4,6,0,09/11/2014,A,West Brom_Newcastle_2014
+110,11,0,2,0,2,0,E0,D,M Dean,Man United,9,2,Arsenal,12,12,23,0,1,5,8,1,22/11/2014,A,Arsenal_Man United_2014
+111,15,0,0,2,1,1,E0,H,L Mason,West Brom,8,1,Chelsea,7,5,21,0,2,0,9,0,22/11/2014,H,Chelsea_West Brom_2014
+112,1,0,1,1,3,0,E0,H,M Clattenburg,West Ham,4,2,Everton,10,14,14,0,2,5,13,3,22/11/2014,H,Everton_West Ham_2014
+113,6,0,0,0,5,0,E0,D,R Madley,Sunderland,4,2,Leicester,18,10,13,0,0,9,12,3,22/11/2014,D,Leicester_Sunderland_2014
+114,7,0,1,1,3,0,E0,D,N Swarbrick,Swansea,10,2,Man City,13,8,23,1,2,3,9,1,22/11/2014,H,Man City_Swansea_2014
+115,16,0,0,0,4,0,E0,D,C Foy,QPR,6,2,Newcastle,12,13,14,0,1,7,15,3,22/11/2014,H,Newcastle_QPR_2014
+116,14,0,2,1,4,0,E0,A,M Atkinson,Burnley,4,2,Stoke,10,5,25,2,1,0,9,2,22/11/2014,A,Stoke_Burnley_2014
+117,4,0,1,1,1,0,E0,D,J Moss,Liverpool,5,1,Crystal Palace,21,12,15,1,3,3,10,2,23/11/2014,H,Crystal Palace_Liverpool_2014
+118,3,1,2,1,6,0,E0,H,C Pawson,Tottenham,2,3,Hull,15,23,10,0,1,9,9,1,23/11/2014,A,Hull_Tottenham_2014
+119,2,0,1,1,4,0,E0,H,P Dowd,Southampton,1,1,Aston Villa,15,15,7,0,1,8,17,2,24/11/2014,D,Aston Villa_Southampton_2014
+120,1,0,1,0,7,0,E0,A,G Scott,Aston Villa,4,3,Burnley,8,18,11,1,1,5,8,4,29/11/2014,D,Burnley_Aston Villa_2014
+121,5,0,0,0,4,0,E0,D,C Pawson,Stoke,3,0,Liverpool,11,13,16,0,1,5,9,3,29/11/2014,H,Liverpool_Stoke_2014
+122,7,0,0,2,2,0,E0,H,A Taylor,Hull,6,2,Man United,12,4,12,0,3,0,12,2,29/11/2014,H,Man United_Hull_2014
+123,11,0,2,2,5,0,E0,H,R East,Leicester,6,3,QPR,8,19,32,1,3,5,17,2,29/11/2014,H,QPR_Leicester_2014
+124,2,0,0,0,6,0,E0,D,K Friend,Chelsea,3,3,Sunderland,13,24,12,0,0,8,10,2,29/11/2014,D,Sunderland_Chelsea_2014
+125,4,0,1,1,5,0,E0,D,M Atkinson,Crystal Palace,4,0,Swansea,6,11,18,1,1,6,12,2,29/11/2014,D,Swansea_Crystal Palace_2014
+126,4,0,1,0,5,0,E0,D,C Foy,Arsenal,1,2,West Brom,9,17,9,0,0,4,10,1,29/11/2014,A,West Brom_Arsenal_2014
+127,6,0,0,0,1,1,E0,D,M Dean,Newcastle,3,3,West Ham,9,7,12,0,1,2,16,2,29/11/2014,H,West Ham_Newcastle_2014
+128,8,0,3,0,6,1,E0,D,M Jones,Man City,4,1,Southampton,10,15,13,0,0,6,13,2,30/11/2014,A,Southampton_Man City_2014
+129,3,0,1,2,5,0,E0,H,M Oliver,Everton,6,5,Tottenham,15,10,13,1,2,4,5,1,30/11/2014,H,Tottenham_Everton_2014
+130,2,0,1,1,4,0,E0,H,P Dowd,Newcastle,2,2,Burnley,12,11,12,0,1,5,12,2,02/12/2014,D,Burnley_Newcastle_2014
+131,8,0,1,0,3,0,E0,A,M Oliver,Aston Villa,5,2,Crystal Palace,16,5,17,1,0,2,15,2,02/12/2014,A,Crystal Palace_Aston Villa_2014
+132,7,1,3,1,3,0,E0,D,L Mason,Liverpool,4,1,Leicester,11,11,20,1,1,4,10,2,02/12/2014,A,Leicester_Liverpool_2014
+133,2,0,1,1,4,0,E0,D,J Moss,Stoke,3,2,Man United,8,5,10,1,2,2,13,4,02/12/2014,H,Man United_Stoke_2014
+134,9,0,0,0,1,0,E0,D,K Friend,QPR,7,2,Swansea,8,5,18,0,2,2,12,2,02/12/2014,H,Swansea_QPR_2014
+135,7,0,2,1,6,0,E0,A,M Jones,West Ham,5,2,West Brom,11,11,23,2,1,3,17,1,02/12/2014,A,West Brom_West Ham_2014
+136,9,0,0,0,1,0,E0,D,A Marriner,Southampton,8,0,Arsenal,7,6,19,0,1,4,14,2,03/12/2014,H,Arsenal_Southampton_2014
+137,1,0,0,2,2,0,E0,H,M Dean,Tottenham,8,1,Chelsea,9,10,12,0,3,6,9,1,03/12/2014,H,Chelsea_Tottenham_2014
+138,6,0,1,1,1,0,E0,H,R Madley,Hull,5,1,Everton,8,8,13,0,1,4,12,1,03/12/2014,D,Everton_Hull_2014
+139,2,0,4,1,4,0,E0,A,C Pawson,Man City,2,1,Sunderland,9,15,8,2,1,0,8,1,03/12/2014,A,Sunderland_Man City_2014
+140,3,0,0,0,3,0,E0,D,M Oliver,West Brom,2,1,Hull,10,6,12,0,0,2,16,1,06/12/2014,D,Hull_West Brom_2014
+141,5,0,0,0,1,0,E0,D,N Swarbrick,Sunderland,2,1,Liverpool,12,7,15,0,0,7,15,3,06/12/2014,D,Liverpool_Sunderland_2014
+142,11,0,0,1,2,0,E0,H,A Marriner,Everton,3,3,Man City,8,9,19,0,1,7,11,3,06/12/2014,H,Man City_Everton_2014
+143,1,1,1,0,8,0,E0,D,M Atkinson,Chelsea,3,2,Newcastle,8,26,9,0,2,10,6,3,06/12/2014,H,Newcastle_Chelsea_2014
+144,3,1,0,0,3,0,E0,D,J Moss,Burnley,6,1,QPR,12,15,11,0,2,11,12,1,06/12/2014,H,QPR_Burnley_2014
+145,3,0,2,3,6,1,E0,H,A Taylor,Arsenal,4,3,Stoke,17,15,13,0,3,9,14,2,06/12/2014,H,Stoke_Arsenal_2014
+146,2,0,0,0,4,0,E0,D,L Mason,Crystal Palace,3,1,Tottenham,11,16,14,0,0,12,10,0,06/12/2014,D,Tottenham_Crystal Palace_2014
+147,5,0,1,1,4,1,E0,D,C Pawson,Leicester,7,4,Aston Villa,9,10,16,1,2,5,14,4,07/12/2014,H,Aston Villa_Leicester_2014
+148,7,0,1,1,2,1,E0,D,C Foy,Swansea,7,0,West Ham,11,11,15,1,3,4,18,1,07/12/2014,H,West Ham_Swansea_2014
+149,5,0,2,1,2,0,E0,D,K Friend,Man United,4,2,Southampton,12,3,15,1,1,1,9,1,08/12/2014,A,Southampton_Man United_2014
+150,9,0,1,1,4,0,E0,H,L Mason,Newcastle,4,2,Arsenal,14,10,17,0,4,6,15,2,13/12/2014,H,Arsenal_Newcastle_2014
+151,2,0,0,0,4,0,E0,D,M Clattenburg,Southampton,2,1,Burnley,15,15,7,0,1,5,11,3,13/12/2014,H,Burnley_Southampton_2014
+152,5,0,0,1,0,1,E0,H,C Foy,Hull,3,3,Chelsea,13,8,12,0,2,4,13,3,13/12/2014,H,Chelsea_Hull_2014
+153,9,0,1,1,3,0,E0,D,K Friend,Stoke,3,2,Crystal Palace,12,7,10,1,1,8,11,0,13/12/2014,D,Crystal Palace_Stoke_2014
+154,8,0,1,0,4,0,E0,A,J Moss,Man City,1,0,Leicester,15,9,7,1,0,2,13,2,13/12/2014,A,Leicester_Man City_2014
+155,6,0,1,1,8,0,E0,D,P Dowd,West Ham,4,2,Sunderland,11,19,13,1,1,8,18,2,13/12/2014,D,Sunderland_West Ham_2014
+156,4,0,0,0,2,1,E0,D,M Dean,Aston Villa,5,4,West Brom,17,7,13,0,1,2,12,2,13/12/2014,H,West Brom_Aston Villa_2014
+157,2,0,0,2,9,0,E0,H,M Atkinson,Liverpool,6,4,Man United,13,19,11,0,3,7,14,3,14/12/2014,H,Man United_Liverpool_2014
+158,7,0,2,0,4,0,E0,A,R Madley,Tottenham,3,3,Swansea,7,10,15,1,1,9,17,4,14/12/2014,A,Swansea_Tottenham_2014
+159,1,0,1,2,4,0,E0,H,N Swarbrick,QPR,5,1,Everton,11,17,13,0,3,8,12,1,15/12/2014,H,Everton_QPR_2014
+160,3,1,1,1,9,0,E0,H,L Mason,Man United,4,1,Aston Villa,9,16,10,0,1,9,10,1,20/12/2014,D,Aston Villa_Man United_2014
+161,4,0,1,0,3,0,E0,A,M Clattenburg,Swansea,3,2,Hull,14,13,11,1,0,5,16,2,20/12/2014,A,Hull_Swansea_2014
+162,8,0,0,0,1,0,E0,D,P Dowd,Crystal Palace,3,2,Man City,17,6,15,0,3,6,5,1,20/12/2014,H,Man City_Crystal Palace_2014
+163,5,0,2,1,6,0,E0,A,C Pawson,West Brom,7,1,QPR,16,16,17,2,3,11,8,0,20/12/2014,H,QPR_West Brom_2014
+164,4,0,0,1,4,0,E0,H,J Moss,Everton,3,1,Southampton,11,13,11,0,3,6,10,1,20/12/2014,H,Southampton_Everton_2014
+165,9,0,1,2,5,0,E0,H,M Jones,Burnley,6,1,Tottenham,9,9,23,1,2,6,8,0,20/12/2014,H,Tottenham_Burnley_2014
+166,9,0,0,1,4,0,E0,H,M Atkinson,Leicester,2,0,West Ham,8,10,10,0,2,4,17,3,20/12/2014,H,West Ham_Leicester_2014
+167,10,1,2,1,3,0,E0,D,M Oliver,Arsenal,10,0,Liverpool,6,7,27,1,2,6,14,3,21/12/2014,D,Liverpool_Arsenal_2014
+168,7,0,1,0,3,0,E0,D,A Taylor,Sunderland,7,4,Newcastle,15,16,15,0,0,1,15,4,21/12/2014,A,Newcastle_Sunderland_2014
+169,6,0,2,0,6,0,E0,A,N Swarbrick,Chelsea,2,3,Stoke,11,15,13,1,0,5,4,0,22/12/2014,A,Stoke_Chelsea_2014
+170,6,1,1,1,2,0,E0,H,M Atkinson,QPR,5,1,Arsenal,6,16,15,0,2,2,15,4,26/12/2014,H,Arsenal_QPR_2014
+171,8,0,1,0,3,0,E0,D,A Taylor,Liverpool,0,0,Burnley,7,10,16,0,0,2,5,1,26/12/2014,A,Burnley_Liverpool_2014
+172,8,0,0,1,0,0,E0,H,M Oliver,West Ham,9,0,Chelsea,8,6,28,0,2,6,14,3,26/12/2014,H,Chelsea_West Ham_2014
+173,8,0,3,0,6,0,E0,A,M Dean,Southampton,4,1,Crystal Palace,15,13,11,1,1,4,10,0,26/12/2014,A,Crystal Palace_Southampton_2014
+174,9,0,1,0,2,0,E0,A,L Mason,Stoke,5,2,Everton,9,12,16,1,0,3,15,3,26/12/2014,A,Everton_Stoke_2014
+175,11,0,2,0,3,0,E0,A,N Swarbrick,Tottenham,6,1,Leicester,10,8,22,1,1,1,14,2,26/12/2014,A,Leicester_Tottenham_2014
+176,4,0,1,2,4,0,E0,H,M Jones,Newcastle,4,1,Man United,16,8,9,0,3,5,9,2,26/12/2014,H,Man United_Newcastle_2014
+177,10,0,3,1,5,0,E0,D,A Marriner,Hull,3,4,Sunderland,12,13,12,1,1,4,6,2,26/12/2014,A,Sunderland_Hull_2014
+178,4,0,0,1,3,0,E0,H,R East,Aston Villa,2,1,Swansea,17,11,7,0,1,0,12,4,26/12/2014,H,Swansea_Aston Villa_2014
+179,10,0,3,0,5,0,E0,A,M Clattenburg,Man City,6,0,West Brom,5,9,18,3,1,6,9,1,26/12/2014,A,West Brom_Man City_2014
+180,4,1,0,0,3,0,E0,D,M Atkinson,Sunderland,3,1,Aston Villa,4,15,14,0,0,4,11,4,28/12/2014,D,Aston Villa_Sunderland_2014
+181,7,1,1,0,2,1,E0,A,P Dowd,Leicester,5,0,Hull,12,4,18,1,0,1,12,1,28/12/2014,A,Hull_Leicester_2014
+182,10,0,2,2,3,0,E0,H,K Friend,Burnley,6,4,Man City,18,12,17,0,2,3,9,1,28/12/2014,D,Man City_Burnley_2014
+183,8,0,2,1,2,0,E0,D,C Pawson,Everton,6,2,Newcastle,13,9,13,1,3,3,8,2,28/12/2014,H,Newcastle_Everton_2014
+184,9,0,0,0,3,0,E0,D,M Jones,Crystal Palace,3,2,QPR,11,10,11,0,0,4,17,1,28/12/2014,D,QPR_Crystal Palace_2014
+185,4,1,1,1,1,0,E0,D,A Taylor,Chelsea,1,2,Southampton,23,7,9,1,1,6,14,2,28/12/2014,D,Southampton_Chelsea_2014
+186,5,0,0,0,4,0,E0,D,R East,West Brom,3,0,Stoke,11,15,13,0,2,3,14,2,28/12/2014,H,Stoke_West Brom_2014
+187,3,0,0,0,5,0,E0,D,J Moss,Man United,4,2,Tottenham,11,9,9,0,0,6,19,4,28/12/2014,D,Tottenham_Man United_2014
+188,7,0,2,0,7,0,E0,A,N Swarbrick,Arsenal,4,3,West Ham,12,21,14,2,1,8,13,3,28/12/2014,A,West Ham_Arsenal_2014
+189,6,0,1,1,4,0,E0,H,A Marriner,Swansea,11,1,Liverpool,8,11,21,0,4,3,5,0,29/12/2014,H,Liverpool_Swansea_2014
+190,5,0,0,0,0,0,E0,D,R Madley,Crystal Palace,3,1,Aston Villa,11,6,14,0,0,2,12,1,01/01/2015,D,Aston Villa_Crystal Palace_2014
+191,4,0,0,2,3,1,E0,H,K Friend,Everton,5,2,Hull,16,9,14,0,2,8,15,3,01/01/2015,H,Hull_Everton_2014
+192,4,0,2,2,3,0,E0,H,M Jones,Leicester,6,2,Liverpool,13,16,18,0,2,5,10,2,01/01/2015,D,Liverpool_Leicester_2014
+193,10,0,2,0,4,0,E0,D,R East,Sunderland,12,2,Man City,14,4,32,0,3,4,7,3,01/01/2015,H,Man City_Sunderland_2014
+194,5,0,3,2,4,0,E0,H,M Dean,Burnley,4,2,Newcastle,12,15,10,1,3,5,13,4,01/01/2015,D,Newcastle_Burnley_2014
+195,4,0,1,1,6,1,E0,H,A Taylor,Swansea,6,4,QPR,22,25,24,0,1,9,5,0,01/01/2015,D,QPR_Swansea_2014
+196,2,0,0,1,6,0,E0,H,C Pawson,Arsenal,6,2,Southampton,14,11,13,0,2,7,7,1,01/01/2015,H,Southampton_Arsenal_2014
+197,11,0,1,1,2,0,E0,D,M Oliver,Man United,2,0,Stoke,8,6,11,1,1,7,12,0,01/01/2015,D,Stoke_Man United_2014
+198,5,0,3,3,7,0,E0,H,P Dowd,Chelsea,8,3,Tottenham,14,19,11,1,5,3,10,1,01/01/2015,H,Tottenham_Chelsea_2014
+199,0,0,1,1,3,0,E0,D,J Moss,West Brom,3,1,West Ham,6,14,8,1,1,1,13,0,01/01/2015,D,West Ham_West Brom_2014
+200,10,0,1,2,7,0,E0,H,A Marriner,QPR,7,2,Burnley,14,17,18,1,2,6,9,2,10/01/2015,H,Burnley_QPR_2014
+201,7,0,0,1,5,0,E0,H,R East,Newcastle,5,2,Chelsea,13,11,9,0,2,4,13,3,10/01/2015,H,Chelsea_Newcastle_2014
+202,4,0,1,0,5,0,E0,D,A Taylor,Tottenham,7,5,Crystal Palace,9,9,21,0,2,6,14,3,10/01/2015,H,Crystal Palace_Tottenham_2014
+203,4,0,1,0,2,0,E0,D,M Atkinson,Man City,4,1,Everton,9,18,11,0,1,9,10,2,10/01/2015,D,Everton_Man City_2014
+204,6,1,0,1,1,1,E0,H,M Oliver,Aston Villa,3,1,Leicester,18,12,11,0,1,6,6,1,10/01/2015,H,Leicester_Aston Villa_2014
+205,6,1,1,0,4,0,E0,A,C Pawson,Liverpool,1,1,Sunderland,12,21,5,1,0,6,11,4,10/01/2015,A,Sunderland_Liverpool_2014
+206,4,0,1,0,5,0,E0,A,M Dean,West Ham,3,0,Swansea,9,11,19,1,1,5,7,1,10/01/2015,D,Swansea_West Ham_2014
+207,5,0,0,0,2,0,E0,D,N Swarbrick,Hull,3,1,West Brom,5,12,9,0,1,2,13,0,10/01/2015,H,West Brom_Hull_2014
+208,9,0,0,2,2,0,E0,H,J Moss,Stoke,6,0,Arsenal,11,7,14,0,3,1,11,3,11/01/2015,H,Arsenal_Stoke_2014
+209,3,0,1,0,1,0,E0,D,P Dowd,Southampton,0,2,Man United,9,9,10,0,0,5,10,3,11/01/2015,A,Man United_Southampton_2014
+210,9,0,2,0,5,0,E0,A,M Clattenburg,Liverpool,4,1,Aston Villa,13,12,15,1,0,5,11,1,17/01/2015,A,Aston Villa_Liverpool_2014
+211,5,0,3,2,4,0,E0,H,P Dowd,Crystal Palace,4,1,Burnley,10,11,7,1,2,7,20,3,17/01/2015,A,Burnley_Crystal Palace_2014
+212,6,0,1,0,3,0,E0,D,A Marriner,Stoke,3,1,Leicester,9,13,7,0,0,5,6,0,17/01/2015,A,Leicester_Stoke_2014
+213,9,0,2,1,3,0,E0,D,R Madley,Southampton,3,0,Newcastle,9,5,16,1,1,0,8,2,17/01/2015,A,Newcastle_Southampton_2014
+214,3,0,2,0,7,0,E0,D,N Swarbrick,Man United,4,3,QPR,12,12,18,0,0,3,10,2,17/01/2015,A,QPR_Man United_2014
+215,1,0,5,0,11,0,E0,A,J Moss,Chelsea,0,0,Swansea,9,21,11,4,0,2,13,0,17/01/2015,A,Swansea_Chelsea_2014
+216,6,0,1,1,4,0,E0,D,C Foy,Sunderland,8,1,Tottenham,14,8,25,1,2,6,8,2,17/01/2015,H,Tottenham_Sunderland_2014
+217,16,0,2,0,3,0,E0,A,M Dean,Arsenal,4,3,Man City,12,9,12,1,0,3,5,3,18/01/2015,A,Man City_Arsenal_2014
+218,4,0,0,0,3,0,E0,D,M Atkinson,Hull,6,1,West Ham,5,9,17,0,3,7,14,3,18/01/2015,H,West Ham_Hull_2014
+219,8,0,0,0,0,0,E0,D,M Oliver,West Brom,4,3,Everton,11,5,17,0,0,1,12,2,19/01/2015,D,Everton_West Brom_2014
+220,1,0,1,1,5,0,E0,D,M Clattenburg,Man City,2,0,Chelsea,12,10,3,1,1,4,14,2,31/01/2015,D,Chelsea_Man City_2014
+221,6,0,1,0,2,0,E0,A,R East,Everton,3,0,Crystal Palace,12,14,13,1,0,1,14,3,31/01/2015,A,Crystal Palace_Everton_2014
+222,3,0,3,0,5,0,E0,A,P Dowd,Newcastle,8,4,Hull,15,12,13,1,0,3,13,1,31/01/2015,A,Hull_Newcastle_2014
+223,5,0,0,0,2,0,E0,D,A Marriner,West Ham,7,1,Liverpool,12,7,21,0,2,7,12,1,31/01/2015,H,Liverpool_West Ham_2014
+224,4,0,1,3,1,0,E0,H,M Atkinson,Leicester,5,0,Man United,8,4,12,0,3,3,12,1,31/01/2015,H,Man United_Leicester_2014
+225,3,0,1,2,4,0,E0,H,M Dean,QPR,3,2,Stoke,11,14,15,1,3,5,12,2,31/01/2015,H,Stoke_QPR_2014
+226,6,0,0,2,4,0,E0,H,L Mason,Burnley,3,3,Sunderland,12,13,8,0,2,3,12,1,31/01/2015,H,Sunderland_Burnley_2014
+227,6,0,3,0,4,0,E0,A,K Friend,Tottenham,4,2,West Brom,8,14,13,2,0,3,13,1,31/01/2015,A,West Brom_Tottenham_2014
+228,7,0,0,1,2,0,E0,H,A Taylor,Aston Villa,8,0,Arsenal,6,9,13,0,5,7,10,2,01/02/2015,H,Arsenal_Aston Villa_2014
+229,9,1,1,0,1,0,E0,D,M Oliver,Swansea,6,1,Southampton,11,6,15,0,0,0,9,1,01/02/2015,A,Southampton_Swansea_2014
+230,7,0,2,0,5,0,E0,A,N Swarbrick,Chelsea,1,3,Aston Villa,8,12,8,1,1,7,7,2,07/02/2015,A,Aston Villa_Chelsea_2014
+231,3,0,0,0,6,0,E0,D,A Taylor,Liverpool,1,4,Everton,11,17,6,0,0,6,7,1,07/02/2015,D,Everton_Liverpool_2014
+232,8,0,1,0,2,0,E0,D,L Mason,Crystal Palace,5,4,Leicester,15,14,19,0,0,6,6,1,07/02/2015,A,Leicester_Crystal Palace_2014
+233,13,0,1,0,3,0,E0,A,J Moss,Hull,5,2,Man City,9,7,18,1,1,1,8,4,07/02/2015,D,Man City_Hull_2014
+234,3,0,1,0,5,0,E0,D,R East,Southampton,3,2,QPR,13,16,12,0,0,4,16,2,07/02/2015,A,QPR_Southampton_2014
+235,7,0,1,0,1,0,E0,A,P Dowd,Sunderland,7,3,Swansea,11,4,16,1,1,1,13,4,07/02/2015,D,Swansea_Sunderland_2014
+236,10,0,1,0,3,0,E0,A,M Atkinson,Arsenal,8,3,Tottenham,8,7,23,1,2,3,12,5,07/02/2015,H,Tottenham_Arsenal_2014
+237,5,0,2,2,5,0,E0,H,M Dean,West Brom,5,0,Burnley,10,12,12,1,2,6,15,4,08/02/2015,D,Burnley_West Brom_2014
+238,5,0,1,0,3,0,E0,D,K Friend,Stoke,3,2,Newcastle,14,7,9,0,1,8,17,4,08/02/2015,D,Newcastle_Stoke_2014
+239,9,0,1,0,6,1,E0,D,M Clattenburg,Man United,6,2,West Ham,7,18,13,0,1,9,13,2,08/02/2015,D,West Ham_Man United_2014
+240,6,0,1,2,4,0,E0,H,M Jones,Leicester,7,2,Arsenal,13,11,17,0,2,6,14,2,10/02/2015,H,Arsenal_Leicester_2014
+241,3,0,0,1,4,0,E0,H,M Oliver,Aston Villa,4,1,Hull,16,11,10,0,2,7,11,2,10/02/2015,H,Hull_Aston Villa_2014
+242,5,0,2,1,5,0,E0,D,P Dowd,Tottenham,7,3,Liverpool,13,14,16,1,3,7,17,6,10/02/2015,H,Liverpool_Tottenham_2014
+243,8,0,2,0,4,0,E0,A,M Atkinson,QPR,5,2,Sunderland,8,19,16,2,0,4,12,3,10/02/2015,A,Sunderland_QPR_2014
+244,10,0,0,0,4,1,E0,D,J Moss,Everton,7,3,Chelsea,8,7,21,0,1,2,13,3,11/02/2015,H,Chelsea_Everton_2014
+245,5,0,1,0,1,0,E0,A,A Marriner,Newcastle,3,1,Crystal Palace,10,5,7,1,1,2,11,2,11/02/2015,D,Crystal Palace_Newcastle_2014
+246,5,0,1,2,3,0,E0,H,K Friend,Burnley,7,4,Man United,15,13,11,1,3,8,8,3,11/02/2015,H,Man United_Burnley_2014
+247,8,0,0,0,1,1,E0,D,C Pawson,West Ham,7,2,Southampton,12,4,21,0,0,2,11,1,11/02/2015,D,Southampton_West Ham_2014
+248,3,0,4,1,8,0,E0,D,L Mason,Man City,5,1,Stoke,6,14,17,1,1,2,11,2,11/02/2015,A,Stoke_Man City_2014
+249,5,0,0,0,3,0,E0,D,R Madley,Swansea,4,2,West Brom,11,10,11,0,2,4,12,1,11/02/2015,H,West Brom_Swansea_2014
+250,11,1,2,1,6,0,E0,D,R East,Stoke,2,1,Aston Villa,11,11,3,1,1,3,14,3,21/02/2015,A,Aston Villa_Stoke_2014
+251,7,1,1,1,5,0,E0,H,M Atkinson,Burnley,5,1,Chelsea,9,10,14,0,1,7,9,2,21/02/2015,D,Chelsea_Burnley_2014
+252,10,0,2,0,4,0,E0,A,M Clattenburg,Arsenal,3,1,Crystal Palace,15,12,22,2,1,1,14,3,21/02/2015,A,Crystal Palace_Arsenal_2014
+253,5,0,1,1,3,1,E0,D,A Taylor,QPR,6,0,Hull,18,8,16,1,2,7,16,4,21/02/2015,H,Hull_QPR_2014
+254,7,0,0,3,1,0,E0,H,C Foy,Newcastle,9,3,Man City,9,8,16,0,5,3,8,2,21/02/2015,H,Man City_Newcastle_2014
+255,11,0,0,0,1,0,E0,D,M Jones,West Brom,2,1,Sunderland,11,5,13,0,0,2,12,2,21/02/2015,D,Sunderland_West Brom_2014
+256,4,0,1,1,3,0,E0,D,N Swarbrick,Man United,6,2,Swansea,6,18,11,1,2,10,15,4,21/02/2015,H,Swansea_Man United_2014
+257,4,0,2,0,4,0,E0,D,P Dowd,Leicester,3,0,Everton,7,15,18,0,2,7,6,1,22/02/2015,D,Everton_Leicester_2014
+258,6,0,2,0,4,0,E0,A,K Friend,Liverpool,5,2,Southampton,11,6,13,1,0,1,14,3,22/02/2015,A,Southampton_Liverpool_2014
+259,7,0,2,0,5,0,E0,A,J Moss,West Ham,8,0,Tottenham,6,12,27,1,2,9,12,2,22/02/2015,D,Tottenham_West Ham_2014
+260,6,0,1,0,2,0,E0,D,J Moss,Swansea,6,0,Burnley,14,8,13,0,0,4,8,0,28/02/2015,A,Burnley_Swansea_2014
+261,13,0,0,0,3,1,E0,D,R East,Sunderland,10,1,Man United,6,5,30,0,2,1,11,1,28/02/2015,H,Man United_Sunderland_2014
+262,9,0,0,1,3,0,E0,H,L Mason,Aston Villa,5,1,Newcastle,6,13,14,0,1,5,16,5,28/02/2015,H,Newcastle_Aston Villa_2014
+263,5,0,0,0,0,0,E0,D,N Swarbrick,Hull,2,2,Stoke,9,1,17,0,1,2,10,2,28/02/2015,H,Stoke_Hull_2014
+264,2,0,0,1,2,0,E0,H,P Dowd,Southampton,3,2,West Brom,10,12,7,0,1,3,17,1,28/02/2015,H,West Brom_Southampton_2014
+265,11,0,3,0,5,1,E0,A,M Dean,Crystal Palace,5,2,West Ham,12,12,22,1,1,7,19,2,28/02/2015,A,West Ham_Crystal Palace_2014
+266,8,0,0,1,2,0,E0,H,A Marriner,Everton,4,2,Arsenal,12,8,17,0,2,9,5,0,01/03/2015,H,Arsenal_Everton_2014
+267,3,0,1,1,1,0,E0,D,M Clattenburg,Man City,5,1,Liverpool,8,8,11,1,2,0,16,3,01/03/2015,H,Liverpool_Man City_2014
+268,0,0,1,1,1,0,E0,H,J Moss,West Brom,8,2,Aston Villa,15,3,16,0,2,3,13,4,03/03/2015,H,Aston Villa_West Brom_2014
+269,6,0,1,1,3,0,E0,H,M Dean,Sunderland,5,2,Hull,9,9,15,0,1,4,15,6,03/03/2015,D,Hull_Sunderland_2014
+270,10,0,0,0,3,0,E0,D,M Atkinson,Crystal Palace,3,0,Southampton,11,9,23,0,1,2,10,2,03/03/2015,H,Southampton_Crystal Palace_2014
+271,6,0,0,1,1,0,E0,H,L Mason,Burnley,8,0,Liverpool,8,9,20,0,2,5,14,1,04/03/2015,H,Liverpool_Burnley_2014
+272,10,0,0,1,2,0,E0,H,R Madley,Leicester,9,0,Man City,11,6,22,0,2,3,3,1,04/03/2015,H,Man City_Leicester_2014
+273,4,0,1,0,5,0,E0,D,A Taylor,Man United,2,1,Newcastle,6,11,9,0,0,1,14,2,04/03/2015,A,Newcastle_Man United_2014
+274,1,0,2,0,9,0,E0,D,K Friend,Arsenal,3,2,QPR,10,20,10,0,1,6,8,1,04/03/2015,A,QPR_Arsenal_2014
+275,5,0,0,1,5,0,E0,H,M Clattenburg,Everton,3,2,Stoke,11,10,11,0,2,6,14,2,04/03/2015,H,Stoke_Everton_2014
+276,6,0,2,1,5,0,E0,D,M Oliver,Swansea,7,1,Tottenham,14,10,20,1,3,4,7,0,04/03/2015,H,Tottenham_Swansea_2014
+277,5,0,1,0,3,0,E0,A,A Marriner,Chelsea,5,3,West Ham,10,12,18,1,0,4,10,4,04/03/2015,A,West Ham_Chelsea_2014
+278,3,0,2,0,6,0,E0,A,C Pawson,Tottenham,6,1,QPR,15,13,17,1,1,5,12,2,07/03/2015,A,QPR_Tottenham_2014
+279,7,0,0,1,1,0,E0,H,A Taylor,West Ham,9,1,Arsenal,10,7,19,0,3,5,9,1,14/03/2015,H,Arsenal_West Ham_2014
+280,2,0,0,0,5,0,E0,D,A Marriner,Man City,4,2,Burnley,6,21,10,0,1,6,9,1,14/03/2015,H,Burnley_Man City_2014
+281,6,0,1,3,4,0,E0,H,L Mason,QPR,4,1,Crystal Palace,17,11,15,0,3,3,16,3,14/03/2015,H,Crystal Palace_QPR_2014
+282,7,0,0,0,5,1,E0,D,J Moss,Hull,3,0,Leicester,10,12,15,0,0,5,15,4,14/03/2015,D,Leicester_Hull_2014
+283,2,0,4,0,8,0,E0,A,N Swarbrick,Aston Villa,2,1,Sunderland,10,14,12,4,0,5,9,1,14/03/2015,A,Sunderland_Aston Villa_2014
+284,7,0,0,1,2,0,E0,H,M Oliver,Stoke,5,1,West Brom,7,9,14,0,1,5,16,2,14/03/2015,H,West Brom_Stoke_2014
+285,9,0,1,1,5,0,E0,D,M Dean,Southampton,7,3,Chelsea,10,12,22,1,1,2,11,3,15/03/2015,D,Chelsea_Southampton_2014
+286,3,0,0,1,4,1,E0,H,M Atkinson,Newcastle,9,1,Everton,11,12,15,0,3,4,9,2,15/03/2015,H,Everton_Newcastle_2014
+287,4,0,0,3,1,0,E0,H,M Clattenburg,Tottenham,3,1,Man United,12,5,11,0,3,2,10,1,15/03/2015,H,Man United_Tottenham_2014
+288,4,0,1,0,5,0,E0,D,R East,Liverpool,3,0,Swansea,13,16,10,0,0,5,16,3,16/03/2015,A,Swansea_Liverpool_2014
+289,4,0,1,0,6,0,E0,D,R Madley,Swansea,3,0,Aston Villa,13,9,12,0,0,9,9,0,21/03/2015,A,Aston Villa_Swansea_2014
+290,9,0,0,2,0,1,E0,H,N Swarbrick,West Brom,16,0,Man City,6,3,43,0,3,2,5,0,21/03/2015,H,Man City_West Brom_2014
+291,9,0,2,0,3,0,E0,A,M Jones,Arsenal,4,0,Newcastle,11,7,16,2,1,4,7,0,21/03/2015,A,Newcastle_Arsenal_2014
+292,10,0,0,1,3,0,E0,H,R East,Burnley,3,0,Southampton,10,15,20,0,2,5,7,0,21/03/2015,H,Southampton_Burnley_2014
+293,8,0,2,1,3,0,E0,A,A Marriner,Crystal Palace,4,3,Stoke,15,12,17,2,1,4,14,4,21/03/2015,A,Stoke_Crystal Palace_2014
+294,4,0,3,2,5,0,E0,H,M Dean,Leicester,4,2,Tottenham,8,14,10,1,4,4,9,1,21/03/2015,H,Tottenham_Leicester_2014
+295,6,0,0,0,3,0,E0,D,L Mason,Sunderland,4,0,West Ham,14,7,15,0,1,4,11,1,21/03/2015,H,West Ham_Sunderland_2014
+296,6,0,3,2,3,0,E0,D,M Oliver,Chelsea,8,0,Hull,14,8,19,2,2,6,11,2,22/03/2015,A,Hull_Chelsea_2014
+297,2,1,2,0,4,0,E0,A,M Atkinson,Man United,1,2,Liverpool,14,6,7,1,1,3,17,2,22/03/2015,A,Liverpool_Man United_2014
+298,1,0,2,0,3,0,E0,A,J Moss,Everton,1,2,QPR,11,8,14,1,1,3,12,1,22/03/2015,A,QPR_Everton_2014
+299,6,0,1,3,2,1,E0,H,A Taylor,Liverpool,10,1,Arsenal,7,13,16,0,4,5,9,0,04/04/2015,H,Arsenal_Liverpool_2014
+300,9,0,1,1,2,0,E0,D,J Moss,Stoke,10,1,Chelsea,5,7,19,1,2,0,22,6,04/04/2015,H,Chelsea_Stoke_2014
+301,4,0,0,1,2,0,E0,H,L Mason,Southampton,1,0,Everton,12,11,11,0,1,10,17,1,04/04/2015,H,Everton_Southampton_2014
+302,7,0,1,1,7,0,E0,D,M Clattenburg,West Ham,7,0,Leicester,12,14,20,1,2,6,10,3,04/04/2015,H,Leicester_West Ham_2014
+303,10,0,1,1,2,0,E0,H,R East,Aston Villa,7,0,Man United,15,4,19,0,3,2,12,1,04/04/2015,H,Man United_Aston Villa_2014
+304,4,0,1,2,1,1,E0,H,A Marriner,Hull,4,1,Swansea,11,10,9,0,3,7,14,5,04/04/2015,H,Swansea_Hull_2014
+305,2,1,4,0,7,0,E0,A,L Probert,QPR,6,2,West Brom,6,12,21,3,1,4,15,3,04/04/2015,A,West Brom_QPR_2014
+306,5,0,0,0,2,0,E0,D,M Atkinson,Tottenham,4,2,Burnley,9,12,15,0,0,3,5,0,05/04/2015,D,Burnley_Tottenham_2014
+307,8,0,0,1,1,0,E0,H,M Dean,Newcastle,4,5,Sunderland,14,10,16,0,1,4,18,2,05/04/2015,H,Sunderland_Newcastle_2014
+308,4,0,1,1,4,0,E0,H,M Oliver,Man City,3,2,Crystal Palace,11,22,5,0,2,13,11,1,06/04/2015,H,Crystal Palace_Man City_2014
+309,7,0,3,2,5,0,E0,H,C Pawson,QPR,7,0,Aston Villa,8,11,21,1,3,3,12,4,07/04/2015,D,Aston Villa_QPR_2014
+310,1,0,1,0,5,0,E0,A,M Dean,Arsenal,4,2,Burnley,15,17,8,1,0,6,7,0,11/04/2015,A,Burnley_Arsenal_2014
+311,2,0,0,0,4,0,E0,D,K Friend,Hull,4,2,Southampton,7,15,9,0,2,5,11,0,11/04/2015,H,Southampton_Hull_2014
+312,8,0,4,0,5,0,E0,D,A Taylor,Crystal Palace,3,2,Sunderland,15,14,12,0,1,4,17,2,11/04/2015,A,Sunderland_Crystal Palace_2014
+313,3,0,1,0,8,0,E0,A,M Oliver,Everton,3,3,Swansea,18,12,11,1,1,6,12,3,11/04/2015,D,Swansea_Everton_2014
+314,9,0,1,0,3,1,E0,A,L Probert,Aston Villa,3,3,Tottenham,11,10,14,1,0,6,12,2,11/04/2015,A,Tottenham_Aston Villa_2014
+315,4,0,3,2,4,0,E0,H,M Atkinson,Leicester,5,2,West Brom,15,12,8,1,2,6,15,2,11/04/2015,A,West Brom_Leicester_2014
+316,4,0,1,1,2,0,E0,H,R East,Stoke,3,3,West Ham,17,18,11,0,1,10,13,1,11/04/2015,D,West Ham_Stoke_2014
+317,1,0,2,2,3,0,E0,H,M Clattenburg,Man City,7,0,Man United,9,10,11,1,4,5,16,3,12/04/2015,H,Man United_Man City_2014
+318,5,0,1,0,1,0,E0,D,A Marriner,Chelsea,4,2,QPR,12,9,15,0,0,6,6,1,12/04/2015,A,QPR_Chelsea_2014
+319,6,0,0,1,3,1,E0,H,L Mason,Newcastle,6,2,Liverpool,8,10,14,0,2,6,17,0,13/04/2015,H,Liverpool_Newcastle_2014
+320,3,0,0,1,2,0,E0,H,M Dean,Man United,2,7,Chelsea,13,15,7,0,1,7,11,1,18/04/2015,H,Chelsea_Man United_2014
+321,7,0,2,0,4,0,E0,A,J Moss,West Brom,4,3,Crystal Palace,17,8,19,1,0,6,17,3,18/04/2015,A,Crystal Palace_West Brom_2014
+322,5,0,0,1,1,1,E0,H,M Jones,Burnley,8,1,Everton,12,10,21,0,1,6,15,2,18/04/2015,H,Everton_Burnley_2014
+323,6,0,0,1,6,0,E0,H,L Probert,Swansea,6,0,Leicester,6,10,18,0,2,3,5,2,18/04/2015,H,Leicester_Swansea_2014
+324,2,0,1,0,6,0,E0,A,M Clattenburg,Southampton,2,0,Stoke,17,12,15,1,2,5,17,4,18/04/2015,H,Stoke_Southampton_2014
+325,6,0,0,2,3,0,E0,H,A Taylor,West Ham,3,2,Man City,10,9,18,0,2,3,6,2,19/04/2015,H,Man City_West Ham_2014
+326,4,0,3,0,8,0,E0,A,K Friend,Tottenham,5,2,Newcastle,11,14,11,1,1,3,13,4,19/04/2015,A,Newcastle_Tottenham_2014
+327,6,0,1,0,4,0,E0,D,A Taylor,Leicester,4,3,Burnley,16,8,12,0,0,4,16,0,25/04/2015,A,Burnley_Leicester_2014
+328,0,0,2,0,7,0,E0,D,M Clattenburg,Hull,3,0,Crystal Palace,15,21,7,0,0,9,10,0,25/04/2015,A,Crystal Palace_Hull_2014
+329,7,0,2,1,4,0,E0,H,M Dean,Aston Villa,4,1,Man City,13,13,11,0,3,6,11,2,25/04/2015,H,Man City_Aston Villa_2014
+330,9,0,3,1,6,0,E0,D,N Swarbrick,Swansea,4,1,Newcastle,14,11,12,1,2,6,9,2,25/04/2015,A,Newcastle_Swansea_2014
+331,6,0,0,0,2,0,E0,D,M Jones,West Ham,7,1,QPR,14,8,18,0,0,6,12,0,25/04/2015,D,QPR_West Ham_2014
+332,8,0,2,1,2,0,E0,D,J Moss,Tottenham,4,1,Southampton,9,7,13,1,2,3,10,3,25/04/2015,D,Southampton_Tottenham_2014
+333,9,0,1,1,5,0,E0,D,M Atkinson,Sunderland,8,2,Stoke,14,15,23,1,1,8,15,3,25/04/2015,D,Stoke_Sunderland_2014
+334,2,0,0,0,5,0,E0,D,R East,Liverpool,4,1,West Brom,12,22,10,0,0,4,11,0,25/04/2015,D,West Brom_Liverpool_2014
+335,6,0,0,0,3,0,E0,D,M Oliver,Chelsea,1,4,Arsenal,17,7,12,0,0,2,11,3,26/04/2015,D,Arsenal_Chelsea_2014
+336,7,0,0,2,4,0,E0,H,A Marriner,Man United,7,0,Everton,6,17,9,0,3,7,10,2,26/04/2015,H,Everton_Man United_2014
+337,7,0,0,1,9,0,E0,H,L Probert,Liverpool,4,2,Hull,10,12,7,0,1,7,10,0,28/04/2015,H,Hull_Liverpool_2014
+338,2,0,3,1,4,0,E0,H,M Clattenburg,Chelsea,2,1,Leicester,10,11,8,0,1,6,1,0,29/04/2015,A,Leicester_Chelsea_2014
+339,5,0,2,2,5,0,E0,H,M Clattenburg,Everton,4,2,Aston Villa,13,9,11,0,3,3,12,1,02/05/2015,H,Aston Villa_Everton_2014
+340,10,0,0,2,3,2,E0,H,M Dean,Newcastle,7,1,Leicester,10,12,19,0,3,7,13,2,02/05/2015,H,Leicester_Newcastle_2014
+341,9,0,1,1,2,1,E0,H,M Atkinson,QPR,8,2,Liverpool,9,10,25,0,2,6,18,3,02/05/2015,H,Liverpool_QPR_2014
+342,9,0,1,0,3,0,E0,D,A Taylor,West Brom,9,1,Man United,10,6,26,0,0,3,11,0,02/05/2015,A,Man United_West Brom_2014
+343,1,0,1,1,2,1,E0,D,M Jones,Southampton,6,2,Sunderland,12,11,12,1,2,1,13,2,02/05/2015,H,Sunderland_Southampton_2014
+344,6,0,0,0,3,1,E0,D,C Pawson,Stoke,4,1,Swansea,9,9,16,0,2,2,18,2,02/05/2015,H,Swansea_Stoke_2014
+345,13,0,0,1,2,1,E0,H,J Moss,Burnley,7,3,West Ham,11,8,29,0,1,3,7,2,02/05/2015,H,West Ham_Burnley_2014
+346,3,0,0,1,1,0,E0,H,K Friend,Crystal Palace,7,2,Chelsea,12,8,17,0,1,6,13,2,03/05/2015,H,Chelsea_Crystal Palace_2014
+347,8,0,1,0,4,0,E0,A,A Marriner,Man City,5,3,Tottenham,6,15,21,1,0,7,11,4,03/05/2015,A,Tottenham_Man City_2014
+348,0,0,3,0,9,0,E0,A,L Mason,Arsenal,1,2,Hull,8,22,8,3,1,5,11,0,04/05/2015,A,Hull_Arsenal_2014
+349,2,0,0,1,1,0,E0,H,L Mason,West Ham,5,1,Aston Villa,6,5,15,0,1,6,13,1,09/05/2015,H,Aston Villa_West Ham_2014
+350,7,0,2,0,4,0,E0,A,M Oliver,Man United,4,0,Crystal Palace,13,13,13,1,1,6,12,1,09/05/2015,A,Crystal Palace_Man United_2014
+351,15,0,2,0,3,0,E0,D,L Probert,Sunderland,4,2,Everton,10,10,22,0,0,1,9,3,09/05/2015,A,Everton_Sunderland_2014
+352,9,0,1,0,2,0,E0,D,M Atkinson,Burnley,3,1,Hull,16,8,21,0,0,3,12,1,09/05/2015,A,Hull_Burnley_2014
+353,4,0,0,2,3,0,E0,H,R East,Southampton,3,1,Leicester,12,10,10,0,2,8,10,0,09/05/2015,H,Leicester_Southampton_2014
+354,7,0,1,1,3,0,E0,D,C Foy,West Brom,5,2,Newcastle,11,8,15,1,1,2,17,3,09/05/2015,D,Newcastle_West Brom_2014
+355,6,0,0,2,3,1,E0,H,M Clattenburg,Tottenham,9,0,Stoke,14,9,17,0,3,8,12,0,09/05/2015,H,Stoke_Tottenham_2014
+356,6,0,1,1,4,0,E0,D,A Marriner,Liverpool,3,4,Chelsea,13,15,8,1,1,4,11,3,10/05/2015,D,Chelsea_Liverpool_2014
+357,7,0,0,2,3,0,E0,H,M Dean,QPR,11,0,Man City,12,9,23,0,6,4,7,1,10/05/2015,H,Man City_QPR_2014
+358,6,0,1,0,3,0,E0,D,K Friend,Swansea,9,0,Arsenal,7,8,23,0,0,1,10,1,11/05/2015,A,Arsenal_Swansea_2014
+359,7,0,0,0,3,0,E0,D,M Oliver,Stoke,4,1,Burnley,14,11,11,0,0,6,9,2,16/05/2015,D,Burnley_Stoke_2014
+360,4,0,3,1,6,0,E0,D,J Moss,Crystal Palace,3,2,Liverpool,10,15,18,1,1,5,17,3,16/05/2015,A,Liverpool_Crystal Palace_2014
+361,3,0,1,0,8,0,E0,A,L Probert,Newcastle,4,2,QPR,12,22,8,1,2,12,8,0,16/05/2015,H,QPR_Newcastle_2014
+362,6,0,1,5,4,0,E0,H,R Madley,Aston Villa,11,1,Southampton,19,9,18,1,6,3,7,1,16/05/2015,H,Southampton_Aston Villa_2014
+363,8,0,0,0,0,0,E0,D,M Atkinson,Leicester,3,4,Sunderland,14,11,13,0,0,9,15,1,16/05/2015,D,Sunderland_Leicester_2014
+364,6,0,0,0,2,0,E0,D,A Taylor,Hull,3,3,Tottenham,10,14,10,0,2,8,6,1,16/05/2015,H,Tottenham_Hull_2014
+365,7,0,2,0,5,0,E0,D,K Friend,Everton,3,1,West Ham,12,21,13,0,1,8,14,4,16/05/2015,A,West Ham_Everton_2014
+366,5,0,1,1,3,0,E0,H,M Dean,Arsenal,4,1,Man United,16,5,12,0,1,5,8,0,17/05/2015,D,Man United_Arsenal_2014
+367,11,0,4,1,11,0,E0,A,M Clattenburg,Man City,9,0,Swansea,8,22,13,2,2,7,8,3,17/05/2015,A,Swansea_Man City_2014
+368,3,0,0,1,3,1,E0,H,M Jones,Chelsea,5,3,West Brom,12,12,9,0,3,4,11,2,18/05/2015,H,West Brom_Chelsea_2014
+369,5,0,0,0,3,0,E0,D,A Taylor,Sunderland,8,1,Arsenal,6,7,28,0,0,2,8,0,20/05/2015,D,Arsenal_Sunderland_2014
+370,7,0,1,4,5,0,E0,H,R Madley,West Brom,13,1,Arsenal,6,14,24,0,4,3,7,0,24/05/2015,H,Arsenal_West Brom_2014
+371,7,0,1,0,3,0,E0,A,M Jones,Burnley,5,1,Aston Villa,9,6,16,1,0,2,6,2,24/05/2015,A,Aston Villa_Burnley_2014
+372,11,0,1,1,9,0,E0,D,L Mason,Sunderland,8,2,Chelsea,12,17,24,1,3,3,8,1,24/05/2015,H,Chelsea_Sunderland_2014
+373,7,0,0,0,2,0,E0,D,C Pawson,Swansea,7,3,Crystal Palace,22,5,13,0,1,3,13,0,24/05/2015,H,Crystal Palace_Swansea_2014
+374,3,0,1,0,3,0,E0,A,J Moss,Tottenham,1,1,Everton,12,16,9,1,0,5,8,2,24/05/2015,A,Everton_Tottenham_2014
+375,8,0,0,0,1,1,E0,D,L Probert,Man United,6,2,Hull,12,7,16,0,0,1,15,2,24/05/2015,D,Hull_Man United_2014
+376,5,0,1,2,2,0,E0,H,M Oliver,QPR,7,0,Leicester,7,18,22,0,5,6,6,0,24/05/2015,H,Leicester_QPR_2014
+377,8,0,0,1,4,0,E0,H,C Foy,Southampton,6,1,Man City,13,13,15,0,2,4,8,1,24/05/2015,H,Man City_Southampton_2014
+378,2,0,0,0,1,0,E0,D,M Atkinson,West Ham,4,2,Newcastle,9,4,17,0,2,3,9,1,24/05/2015,H,Newcastle_West Ham_2014
+379,3,0,1,5,4,0,E0,H,A Taylor,Liverpool,9,4,Stoke,13,13,15,0,6,9,4,2,24/05/2015,H,Stoke_Liverpool_2014

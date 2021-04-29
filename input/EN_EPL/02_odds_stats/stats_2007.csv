@@ -1,0 +1,381 @@
+,HC,HR,FTAG,HTHG,AST,AR,Div,HTR,Referee,AwayTeam,HST,HY,HomeTeam,HF,AS,HS,HTAG,FTHG,AC,AF,AY,Date,FTR,idGame
+0,4,0,2,0,7,0,E0,A,M Riley,Liverpool,6,4,Aston Villa,18,17,10,1,1,2,11,2,11/08/2007,A,Aston Villa_Liverpool_2007
+1,4,0,3,0,5,0,E0,A,C Foy,Newcastle,9,1,Bolton,15,7,13,3,1,3,16,1,11/08/2007,A,Bolton_Newcastle_2007
+2,6,0,2,1,6,0,E0,D,M Dean,Portsmouth,5,1,Derby,14,12,12,1,2,6,17,2,11/08/2007,D,Derby_Portsmouth_2007
+3,6,0,1,1,4,0,E0,H,M Clattenburg,Wigan,8,0,Everton,8,14,12,0,2,2,13,0,11/08/2007,H,Everton_Wigan_2007
+4,13,0,2,1,4,0,E0,H,A Marriner,Blackburn,6,3,Middlesbrough,16,4,10,0,1,3,16,4,11/08/2007,A,Middlesbrough_Blackburn_2007
+5,7,0,0,0,3,0,E0,D,A Wiley,Tottenham,4,1,Sunderland,14,6,9,0,1,2,14,1,11/08/2007,H,Sunderland_Tottenham_2007
+6,5,0,2,0,5,0,E0,A,P Walton,Man City,2,0,West Ham,13,14,9,1,0,3,11,4,11/08/2007,A,West Ham_Man City_2007
+7,14,0,1,0,9,0,E0,A,P Dowd,Fulham,13,1,Arsenal,6,12,19,1,2,4,19,5,12/08/2007,H,Arsenal_Fulham_2007
+8,5,0,2,2,4,0,E0,D,S Bennett,Birmingham,11,2,Chelsea,8,6,19,2,3,3,8,1,12/08/2007,H,Chelsea_Birmingham_2007
+9,12,0,0,0,2,1,E0,D,R Styles,Reading,9,0,Man United,8,3,22,0,0,3,16,2,12/08/2007,D,Man United_Reading_2007
+10,9,0,3,1,10,0,E0,A,M Halsey,Everton,8,2,Tottenham,16,16,14,3,1,4,9,0,14/08/2007,A,Tottenham_Everton_2007
+11,2,0,2,1,3,0,E0,H,K Stroud,Sunderland,3,1,Birmingham,17,7,7,0,2,7,10,1,15/08/2007,D,Birmingham_Sunderland_2007
+12,9,0,1,2,7,0,E0,H,L Probert,Bolton,6,2,Fulham,19,14,8,1,2,8,13,1,15/08/2007,H,Fulham_Bolton_2007
+13,4,0,0,1,3,0,E0,H,L Mason,Derby,6,3,Man City,12,5,9,0,1,4,13,1,15/08/2007,H,Man City_Derby_2007
+14,6,1,1,0,12,1,E0,A,S Bennett,Man United,6,2,Portsmouth,13,20,7,1,1,12,5,1,15/08/2007,D,Portsmouth_Man United_2007
+15,4,1,2,1,7,0,E0,H,M Dean,Chelsea,11,4,Reading,15,15,15,0,1,11,16,5,15/08/2007,A,Reading_Chelsea_2007
+16,5,0,0,0,1,0,E0,D,S Tanner,Middlesbrough,5,1,Wigan,8,5,14,0,1,3,20,3,15/08/2007,H,Wigan_Middlesbrough_2007
+17,9,0,1,0,5,0,E0,D,M Halsey,West Ham,3,4,Birmingham,16,13,6,0,0,5,15,2,18/08/2007,A,Birmingham_West Ham_2007
+18,8,0,2,1,6,0,E0,H,L Mason,Middlesbrough,6,1,Fulham,9,9,13,0,1,7,12,3,18/08/2007,A,Fulham_Middlesbrough_2007
+19,8,0,0,0,5,0,E0,D,H Webb,Aston Villa,2,0,Newcastle,16,11,6,0,0,6,12,2,18/08/2007,D,Newcastle_Aston Villa_2007
+20,10,0,1,2,3,0,E0,H,S Tanner,Bolton,6,0,Portsmouth,13,8,11,1,3,6,11,2,18/08/2007,H,Portsmouth_Bolton_2007
+21,4,0,0,1,5,0,E0,H,S Bennett,Everton,5,2,Reading,14,13,10,0,1,12,8,2,18/08/2007,H,Reading_Everton_2007
+22,9,0,0,3,2,0,E0,H,C Foy,Derby,14,0,Tottenham,8,4,25,0,4,3,14,4,18/08/2007,H,Tottenham_Derby_2007
+23,5,0,0,1,6,0,E0,H,M Riley,Sunderland,4,0,Wigan,8,9,9,0,3,9,17,2,18/08/2007,H,Wigan_Sunderland_2007
+24,5,1,1,0,3,0,E0,A,A Wiley,Arsenal,4,4,Blackburn,19,10,9,1,1,4,15,4,19/08/2007,D,Blackburn_Arsenal_2007
+25,5,0,1,1,2,0,E0,H,R Styles,Chelsea,8,4,Liverpool,11,6,18,0,1,2,16,5,19/08/2007,D,Liverpool_Chelsea_2007
+26,0,0,0,1,6,0,E0,H,M Clattenburg,Man United,2,2,Man City,8,15,6,0,1,11,11,2,19/08/2007,H,Man City_Man United_2007
+27,8,0,0,0,4,0,E0,D,C Foy,Man City,10,0,Arsenal,8,8,16,0,1,2,9,1,25/08/2007,H,Arsenal_Man City_2007
+28,12,0,1,0,5,1,E0,A,S Bennett,Fulham,4,1,Aston Villa,11,10,23,1,2,3,13,2,25/08/2007,H,Aston Villa_Fulham_2007
+29,10,0,0,1,2,0,E0,H,M Clattenburg,Reading,12,2,Bolton,10,5,18,0,3,7,7,1,25/08/2007,H,Bolton_Reading_2007
+30,4,0,0,1,4,0,E0,H,A Wiley,Portsmouth,7,0,Chelsea,16,18,18,0,1,6,12,2,25/08/2007,H,Chelsea_Portsmouth_2007
+31,4,0,2,0,6,0,E0,A,L Probert,Birmingham,8,0,Derby,8,11,16,1,1,4,13,1,25/08/2007,A,Derby_Birmingham_2007
+32,5,0,1,0,7,0,E0,A,M Riley,Blackburn,8,0,Everton,20,11,12,1,1,7,18,2,25/08/2007,D,Everton_Blackburn_2007
+33,6,0,2,0,12,0,E0,A,M Halsey,Liverpool,2,1,Sunderland,12,17,7,1,0,4,12,1,25/08/2007,A,Sunderland_Liverpool_2007
+34,6,0,1,0,3,0,E0,D,A Marriner,Wigan,4,1,West Ham,11,12,13,0,1,1,12,2,25/08/2007,D,West Ham_Wigan_2007
+35,4,0,0,0,3,0,E0,D,H Webb,Tottenham,5,2,Man United,15,10,14,0,1,4,7,3,26/08/2007,H,Man United_Tottenham_2007
+36,5,0,2,1,3,0,E0,D,M Dean,Newcastle,7,6,Middlesbrough,13,5,11,1,2,2,10,3,26/08/2007,D,Middlesbrough_Newcastle_2007
+37,11,0,2,0,11,0,E0,A,P Walton,Everton,7,1,Bolton,8,15,13,1,1,6,10,3,01/09/2007,A,Bolton_Everton_2007
+38,6,0,3,1,8,0,E0,A,M Riley,Tottenham,7,1,Fulham,13,13,13,2,3,14,11,0,01/09/2007,D,Fulham_Tottenham_2007
+39,4,0,0,2,3,0,E0,H,A Wiley,Derby,10,0,Liverpool,10,8,20,0,6,2,14,1,01/09/2007,H,Liverpool_Derby_2007
+40,6,0,0,0,1,0,E0,D,M Atkinson,Sunderland,9,1,Man United,10,4,17,0,1,0,7,2,01/09/2007,H,Man United_Sunderland_2007
+41,11,0,0,2,4,0,E0,H,R Styles,Birmingham,7,1,Middlesbrough,8,9,13,0,2,5,12,3,01/09/2007,H,Middlesbrough_Birmingham_2007
+42,9,0,0,0,6,1,E0,D,S Bennett,Wigan,8,2,Newcastle,15,7,20,0,1,1,18,4,01/09/2007,H,Newcastle_Wigan_2007
+43,14,0,3,0,9,0,E0,A,H Webb,West Ham,3,0,Reading,10,13,9,1,0,4,11,1,01/09/2007,A,Reading_West Ham_2007
+44,8,1,1,2,10,0,E0,H,M Halsey,Portsmouth,8,1,Arsenal,6,15,10,0,3,5,12,2,02/09/2007,H,Arsenal_Portsmouth_2007
+45,2,0,0,0,8,0,E0,D,M Clattenburg,Chelsea,5,4,Aston Villa,17,20,9,0,2,13,11,1,02/09/2007,H,Aston Villa_Chelsea_2007
+46,6,1,0,1,3,1,E0,H,M Dean,Man City,11,5,Blackburn,23,7,16,0,1,3,3,1,02/09/2007,H,Blackburn_Man City_2007
+47,6,0,0,1,3,0,E0,H,P Dowd,Bolton,5,1,Birmingham,16,8,10,0,1,5,15,3,15/09/2007,H,Birmingham_Bolton_2007
+48,9,0,0,0,1,0,E0,D,H Webb,Blackburn,8,2,Chelsea,21,5,16,0,0,2,13,2,15/09/2007,D,Chelsea_Blackburn_2007
+49,3,0,1,0,8,0,E0,D,A Wiley,Man United,2,2,Everton,20,16,8,0,0,6,10,2,15/09/2007,A,Everton_Man United_2007
+50,5,0,0,0,6,0,E0,D,M Riley,Liverpool,2,3,Portsmouth,20,12,9,0,0,4,14,2,15/09/2007,D,Portsmouth_Liverpool_2007
+51,9,0,1,1,4,0,E0,H,S Tanner,Reading,8,1,Sunderland,14,10,14,0,2,9,18,2,15/09/2007,H,Sunderland_Reading_2007
+52,8,0,3,1,10,0,E0,H,M Clattenburg,Arsenal,5,2,Tottenham,28,16,14,0,1,4,22,2,15/09/2007,A,Tottenham_Arsenal_2007
+53,5,0,0,0,12,0,E0,D,S Bennett,Middlesbrough,7,2,West Ham,14,16,13,0,3,8,14,1,15/09/2007,H,West Ham_Middlesbrough_2007
+54,9,0,1,0,5,0,E0,A,R Styles,Fulham,4,1,Wigan,8,10,14,1,1,4,9,0,15/09/2007,D,Wigan_Fulham_2007
+55,8,0,0,0,2,0,E0,D,M Atkinson,Aston Villa,8,1,Man City,11,11,12,0,1,6,14,1,16/09/2007,H,Man City_Aston Villa_2007
+56,5,0,0,1,3,0,E0,H,P Walton,Newcastle,3,2,Derby,16,8,10,0,1,5,11,3,17/09/2007,H,Derby_Newcastle_2007
+57,5,0,0,2,3,0,E0,H,M Atkinson,Derby,9,1,Arsenal,9,4,15,0,5,4,12,1,22/09/2007,H,Arsenal_Derby_2007
+58,6,0,3,1,5,0,E0,D,M Halsey,Man City,8,3,Fulham,10,11,13,1,3,2,7,2,22/09/2007,D,Fulham_Man City_2007
+59,11,0,0,0,2,0,E0,D,L Mason,Birmingham,4,0,Liverpool,3,5,18,0,0,2,10,2,22/09/2007,D,Liverpool_Birmingham_2007
+60,7,0,2,1,6,0,E0,D,H Webb,Sunderland,5,3,Middlesbrough,18,11,16,1,2,2,11,4,22/09/2007,D,Middlesbrough_Sunderland_2007
+61,6,0,1,1,5,0,E0,H,K Stroud,Wigan,7,3,Reading,17,9,15,0,2,7,13,2,22/09/2007,H,Reading_Wigan_2007
+62,6,0,0,1,6,0,E0,H,L Probert,Everton,3,1,Aston Villa,17,8,8,0,2,3,12,0,23/09/2007,H,Aston Villa_Everton_2007
+63,7,0,1,0,7,0,E0,A,C Foy,Portsmouth,3,0,Blackburn,6,13,9,1,0,4,16,3,23/09/2007,A,Blackburn_Portsmouth_2007
+64,4,0,1,1,7,0,E0,D,A Marriner,Tottenham,4,0,Bolton,14,10,5,1,1,11,15,2,23/09/2007,D,Bolton_Tottenham_2007
+65,10,0,0,1,1,1,E0,H,M Dean,Chelsea,9,2,Man United,10,4,17,0,2,1,15,2,23/09/2007,H,Man United_Chelsea_2007
+66,1,0,1,2,8,0,E0,H,M Riley,West Ham,4,1,Newcastle,16,13,12,1,3,5,15,3,23/09/2007,H,Newcastle_West Ham_2007
+67,4,0,1,0,4,0,E0,D,S Bennett,Man United,9,3,Birmingham,14,11,17,0,0,4,11,1,29/09/2007,A,Birmingham_Man United_2007
+68,9,1,0,0,1,0,E0,D,M Atkinson,Fulham,4,1,Chelsea,8,6,16,0,0,4,18,1,29/09/2007,D,Chelsea_Fulham_2007
+69,7,0,1,1,7,0,E0,D,R Styles,Bolton,6,3,Derby,15,12,10,1,1,8,8,2,29/09/2007,D,Derby_Bolton_2007
+70,3,0,1,1,8,0,E0,D,C Foy,Newcastle,12,0,Man City,7,12,16,1,3,9,10,0,29/09/2007,H,Man City_Newcastle_2007
+71,8,0,4,2,7,0,E0,H,M Halsey,Reading,17,1,Portsmouth,4,13,25,1,7,4,7,1,29/09/2007,H,Portsmouth_Reading_2007
+72,10,0,2,0,8,0,E0,D,P Walton,Blackburn,12,1,Sunderland,11,14,14,0,1,2,4,0,29/09/2007,A,Sunderland_Blackburn_2007
+73,3,0,1,0,12,0,E0,A,A Wiley,Arsenal,4,2,West Ham,15,16,9,1,0,14,14,2,29/09/2007,A,West Ham_Arsenal_2007
+74,5,0,1,0,10,0,E0,D,M Clattenburg,Liverpool,3,2,Wigan,11,14,9,0,0,6,10,1,29/09/2007,A,Wigan_Liverpool_2007
+75,2,0,0,1,5,0,E0,H,M Riley,Middlesbrough,9,0,Everton,17,13,13,0,2,6,21,4,30/09/2007,H,Everton_Middlesbrough_2007
+76,13,0,4,1,7,0,E0,A,M Dean,Aston Villa,12,2,Tottenham,10,7,19,3,4,3,13,3,01/10/2007,D,Tottenham_Aston Villa_2007
+77,7,0,0,1,3,0,E0,H,S Tanner,West Ham,5,3,Aston Villa,17,8,5,0,1,4,12,2,06/10/2007,H,Aston Villa_West Ham_2007
+78,12,0,0,0,2,0,E0,D,M Riley,Wigan,12,1,Man United,12,6,17,0,4,2,6,1,06/10/2007,H,Man United_Wigan_2007
+79,8,0,2,2,7,1,E0,H,R Styles,Sunderland,8,0,Arsenal,10,11,18,1,3,2,9,2,07/10/2007,H,Arsenal_Sunderland_2007
+80,6,0,1,1,5,0,E0,H,M Clattenburg,Birmingham,5,3,Blackburn,15,6,17,0,2,7,13,1,07/10/2007,H,Blackburn_Birmingham_2007
+81,5,0,1,0,8,0,E0,A,A Wiley,Chelsea,7,5,Bolton,17,15,13,1,0,5,8,1,07/10/2007,A,Bolton_Chelsea_2007
+82,8,0,2,0,8,0,E0,D,H Webb,Portsmouth,10,1,Fulham,7,14,13,0,0,5,17,0,07/10/2007,A,Fulham_Portsmouth_2007
+83,5,0,2,1,6,0,E0,D,M Halsey,Tottenham,9,0,Liverpool,18,11,21,1,2,3,10,1,07/10/2007,D,Liverpool_Tottenham_2007
+84,8,0,1,2,11,0,E0,H,S Bennett,Middlesbrough,13,2,Man City,11,17,18,0,3,8,13,3,07/10/2007,H,Man City_Middlesbrough_2007
+85,8,0,2,1,6,0,E0,H,M Atkinson,Everton,10,2,Newcastle,13,11,15,0,3,2,19,1,07/10/2007,H,Newcastle_Everton_2007
+86,3,0,0,0,0,0,E0,D,L Mason,Derby,3,1,Reading,9,7,11,0,1,3,18,1,07/10/2007,H,Reading_Derby_2007
+87,5,0,0,0,0,0,E0,D,M Riley,Bolton,9,1,Arsenal,14,1,19,0,2,3,20,5,20/10/2007,H,Arsenal_Bolton_2007
+88,3,2,4,1,13,0,E0,A,R Styles,Man United,5,2,Aston Villa,8,21,11,3,1,9,8,2,20/10/2007,A,Aston Villa_Man United_2007
+89,4,0,2,3,7,0,E0,H,A Marriner,Reading,6,0,Blackburn,8,13,11,0,4,9,7,0,20/10/2007,H,Blackburn_Reading_2007
+90,9,2,2,1,7,0,E0,H,M Clattenburg,Liverpool,1,1,Everton,8,17,6,0,1,6,14,2,20/10/2007,A,Everton_Liverpool_2007
+91,6,1,0,0,9,0,E0,D,P Dowd,Derby,9,0,Fulham,10,13,13,0,0,8,10,2,20/10/2007,D,Fulham_Derby_2007
+92,6,0,0,1,8,0,E0,H,M Dean,Birmingham,4,3,Man City,17,13,12,0,1,7,12,2,20/10/2007,H,Man City_Birmingham_2007
+93,6,0,2,0,6,0,E0,A,M Halsey,Chelsea,4,1,Middlesbrough,9,9,7,1,0,6,9,1,20/10/2007,A,Middlesbrough_Chelsea_2007
+94,3,0,2,0,8,0,E0,D,P Walton,Portsmouth,0,2,Wigan,9,15,7,0,0,2,9,3,20/10/2007,A,Wigan_Portsmouth_2007
+95,6,0,1,1,10,0,E0,H,C Foy,Sunderland,7,3,West Ham,8,16,12,0,3,7,17,2,21/10/2007,H,West Ham_Sunderland_2007
+96,5,0,1,1,4,0,E0,H,S Bennett,Tottenham,7,2,Newcastle,12,11,15,0,3,5,7,2,22/10/2007,H,Newcastle_Tottenham_2007
+97,6,0,2,1,5,0,E0,D,S Tanner,Wigan,10,0,Birmingham,11,8,16,1,3,5,12,1,27/10/2007,H,Birmingham_Wigan_2007
+98,9,0,0,2,4,0,E0,H,M Riley,Man City,9,2,Chelsea,13,7,16,0,6,3,12,2,27/10/2007,H,Chelsea_Man City_2007
+99,2,0,1,2,4,0,E0,H,A Wiley,Middlesbrough,14,0,Man United,10,7,18,1,4,4,15,2,27/10/2007,H,Man United_Middlesbrough_2007
+100,11,0,0,0,3,0,E0,D,M Dean,West Ham,3,2,Portsmouth,18,10,10,0,0,5,9,4,27/10/2007,D,Portsmouth_West Ham_2007
+101,5,0,1,0,2,0,E0,D,P Dowd,Newcastle,5,0,Reading,14,6,12,0,2,8,10,1,27/10/2007,H,Reading_Newcastle_2007
+102,9,1,1,0,3,0,E0,A,A Marriner,Fulham,6,1,Sunderland,13,8,8,1,1,1,16,4,27/10/2007,D,Sunderland_Fulham_2007
+103,7,0,1,1,3,0,E0,H,M Atkinson,Aston Villa,6,2,Bolton,15,8,13,0,1,3,13,1,28/10/2007,D,Bolton_Aston Villa_2007
+104,0,0,2,0,3,0,E0,A,S Bennett,Everton,2,1,Derby,11,7,5,1,0,2,12,1,28/10/2007,A,Derby_Everton_2007
+105,4,0,1,1,4,0,E0,H,H Webb,Arsenal,8,3,Liverpool,16,11,11,0,1,1,10,3,28/10/2007,D,Liverpool_Arsenal_2007
+106,10,0,2,0,4,0,E0,D,R Styles,Blackburn,6,4,Tottenham,11,9,9,0,1,2,14,3,28/10/2007,A,Tottenham_Blackburn_2007
+107,3,0,2,0,4,0,E0,A,H Webb,Man United,6,1,Arsenal,15,10,16,1,2,4,15,2,03/11/2007,D,Arsenal_Man United_2007
+108,7,0,0,0,2,0,E0,D,M Halsey,Derby,7,0,Aston Villa,7,8,15,0,2,4,20,3,03/11/2007,H,Aston Villa_Derby_2007
+109,6,0,0,0,7,0,E0,D,M Atkinson,Liverpool,7,0,Blackburn,7,11,15,0,0,3,11,1,03/11/2007,D,Blackburn_Liverpool_2007
+110,6,0,1,1,6,0,E0,H,M Riley,Birmingham,9,0,Everton,14,7,16,0,3,5,22,1,03/11/2007,H,Everton_Birmingham_2007
+111,8,1,1,1,6,0,E0,H,M Clattenburg,Reading,7,3,Fulham,11,13,9,0,3,9,6,0,03/11/2007,H,Fulham_Reading_2007
+112,6,0,1,0,4,0,E0,A,M Dean,Tottenham,3,1,Middlesbrough,13,9,5,1,1,7,8,0,03/11/2007,D,Middlesbrough_Tottenham_2007
+113,4,0,4,1,7,0,E0,A,C Foy,Portsmouth,7,2,Newcastle,15,10,14,3,1,5,15,2,03/11/2007,A,Newcastle_Portsmouth_2007
+114,4,0,2,0,7,0,E0,A,S Bennett,Chelsea,3,2,Wigan,16,13,10,2,0,3,9,1,03/11/2007,A,Wigan_Chelsea_2007
+115,8,0,1,1,6,0,E0,H,P Walton,Bolton,7,2,West Ham,13,11,9,0,1,3,13,1,04/11/2007,D,West Ham_Bolton_2007
+116,2,0,0,0,2,0,E0,D,A Wiley,Sunderland,3,0,Man City,11,8,7,0,1,3,14,1,05/11/2007,H,Man City_Sunderland_2007
+117,4,0,5,0,11,0,E0,A,M Clattenburg,West Ham,2,2,Derby,12,16,9,1,0,5,9,2,10/11/2007,A,Derby_West Ham_2007
+118,8,0,0,0,3,0,E0,D,S Tanner,Fulham,12,0,Liverpool,9,5,20,0,2,2,12,2,10/11/2007,H,Liverpool_Fulham_2007
+119,7,0,1,0,5,0,E0,D,M Atkinson,Newcastle,8,1,Sunderland,10,9,19,0,1,4,15,2,10/11/2007,D,Sunderland_Newcastle_2007
+120,8,0,2,0,6,0,E0,A,S Bennett,Aston Villa,8,3,Birmingham,17,13,13,1,1,5,8,2,11/11/2007,A,Birmingham_Aston Villa_2007
+121,6,0,0,0,7,0,E0,D,L Probert,Middlesbrough,7,1,Bolton,16,8,15,0,0,7,22,2,11/11/2007,D,Bolton_Middlesbrough_2007
+122,9,0,1,0,2,0,E0,D,A Wiley,Everton,10,2,Chelsea,13,6,15,0,1,1,16,2,11/11/2007,D,Chelsea_Everton_2007
+123,9,0,0,2,7,1,E0,H,C Foy,Blackburn,15,1,Man United,7,12,22,0,2,4,19,4,11/11/2007,H,Man United_Blackburn_2007
+124,9,0,0,0,5,0,E0,D,M Halsey,Man City,12,1,Portsmouth,11,10,20,0,0,1,7,1,11/11/2007,D,Portsmouth_Man City_2007
+125,5,0,0,3,2,0,E0,H,H Webb,Wigan,8,0,Tottenham,8,6,19,0,4,2,16,2,11/11/2007,H,Tottenham_Wigan_2007
+126,5,0,3,0,7,0,E0,A,R Styles,Arsenal,5,1,Reading,9,16,8,1,1,1,5,1,12/11/2007,A,Reading_Arsenal_2007
+127,7,0,0,0,2,0,E0,D,P Walton,Wigan,6,1,Arsenal,9,7,13,0,2,3,17,4,24/11/2007,H,Arsenal_Wigan_2007
+128,4,0,2,0,8,0,E0,A,M Atkinson,Portsmouth,3,3,Birmingham,17,15,4,1,0,3,21,2,24/11/2007,A,Birmingham_Portsmouth_2007
+129,4,0,0,1,3,0,E0,H,M Clattenburg,Man United,5,3,Bolton,16,13,6,0,1,6,13,0,24/11/2007,H,Bolton_Man United_2007
+130,3,0,2,0,5,1,E0,A,A Marriner,Chelsea,4,0,Derby,8,9,9,1,0,2,6,1,24/11/2007,A,Derby_Chelsea_2007
+131,2,0,1,3,7,0,E0,H,P Dowd,Sunderland,18,0,Everton,9,13,24,1,7,6,13,1,24/11/2007,H,Everton_Sunderland_2007
+132,2,0,1,1,3,0,E0,D,S Tanner,Reading,9,0,Man City,12,5,13,1,2,7,15,2,24/11/2007,H,Man City_Reading_2007
+133,11,0,3,0,8,0,E0,A,K Stroud,Aston Villa,8,2,Middlesbrough,16,11,15,1,0,6,17,1,24/11/2007,A,Middlesbrough_Aston Villa_2007
+134,0,0,3,0,11,0,E0,A,A Wiley,Liverpool,2,3,Newcastle,13,17,6,1,0,8,11,1,24/11/2007,A,Newcastle_Liverpool_2007
+135,3,0,2,0,10,0,E0,D,M Dean,Blackburn,2,2,Fulham,19,12,5,0,2,6,10,1,25/11/2007,D,Fulham_Blackburn_2007
+136,7,0,1,1,5,0,E0,H,M Riley,Tottenham,9,3,West Ham,33,9,14,0,1,8,5,4,25/11/2007,D,West Ham_Tottenham_2007
+137,11,1,4,0,7,0,E0,A,P Dowd,Aston Villa,10,0,Blackburn,11,7,16,1,0,2,16,1,28/11/2007,A,Blackburn_Aston Villa_2007
+138,4,0,2,1,9,0,E0,A,C Foy,Arsenal,5,3,Aston Villa,16,14,11,2,1,7,10,2,01/12/2007,A,Aston Villa_Arsenal_2007
+139,1,0,1,0,8,0,E0,D,M Atkinson,Newcastle,6,2,Blackburn,21,20,13,0,3,1,17,3,01/12/2007,H,Blackburn_Newcastle_2007
+140,7,0,0,0,1,0,E0,D,H Webb,West Ham,5,5,Chelsea,15,4,14,0,1,0,26,3,01/12/2007,H,Chelsea_West Ham_2007
+141,9,0,0,0,2,0,E0,D,P Walton,Everton,6,1,Portsmouth,14,4,20,0,0,0,13,2,01/12/2007,D,Portsmouth_Everton_2007
+142,5,0,1,0,11,0,E0,D,A Wiley,Middlesbrough,7,2,Reading,11,16,12,0,1,4,16,1,01/12/2007,D,Reading_Middlesbrough_2007
+143,5,0,0,0,9,0,E0,D,M Halsey,Derby,9,1,Sunderland,12,12,20,0,1,3,15,1,01/12/2007,H,Sunderland_Derby_2007
+144,2,1,1,1,1,0,E0,D,M Riley,Man City,4,2,Wigan,13,4,5,1,1,4,10,2,01/12/2007,D,Wigan_Man City_2007
+145,5,0,0,2,3,0,E0,H,S Bennett,Bolton,14,0,Liverpool,11,6,23,0,4,5,14,3,02/12/2007,H,Liverpool_Bolton_2007
+146,12,1,3,0,3,0,E0,A,P Dowd,Birmingham,9,0,Tottenham,10,7,17,1,2,3,13,1,02/12/2007,A,Tottenham_Birmingham_2007
+147,7,0,0,1,3,0,E0,H,R Styles,Fulham,11,2,Man United,3,12,15,0,2,3,13,1,03/12/2007,H,Man United_Fulham_2007
+148,6,0,1,0,2,0,E0,A,M Dean,Arsenal,8,3,Newcastle,9,6,12,1,1,6,10,2,05/12/2007,D,Newcastle_Arsenal_2007
+149,7,0,3,0,8,0,E0,A,M Riley,Portsmouth,6,2,Aston Villa,18,12,14,2,1,5,23,5,08/12/2007,A,Aston Villa_Portsmouth_2007
+150,10,0,0,1,2,1,E0,H,P Walton,Sunderland,4,0,Chelsea,6,9,11,0,2,2,12,1,08/12/2007,H,Chelsea_Sunderland_2007
+151,12,0,0,0,4,0,E0,D,S Bennett,Fulham,11,0,Everton,9,6,15,0,3,7,9,2,08/12/2007,H,Everton_Fulham_2007
+152,9,0,1,2,6,0,E0,H,C Foy,Derby,12,0,Man United,12,10,23,0,4,3,12,2,08/12/2007,H,Man United_Derby_2007
+153,6,0,1,1,4,0,E0,D,R Styles,Birmingham,9,1,Newcastle,10,7,17,1,2,5,8,2,08/12/2007,H,Newcastle_Birmingham_2007
+154,7,0,1,1,5,0,E0,D,A Marriner,Liverpool,4,0,Reading,10,15,7,1,3,7,10,1,08/12/2007,H,Reading_Liverpool_2007
+155,9,0,1,0,5,0,E0,D,A Wiley,West Ham,7,1,Blackburn,15,11,15,0,0,5,17,1,09/12/2007,A,Blackburn_West Ham_2007
+156,5,0,1,2,7,0,E0,H,M Atkinson,Wigan,6,2,Bolton,13,11,8,1,4,11,11,1,09/12/2007,H,Bolton_Wigan_2007
+157,5,0,1,1,4,0,E0,H,H Webb,Arsenal,7,2,Middlesbrough,15,7,13,0,2,4,13,2,09/12/2007,H,Middlesbrough_Arsenal_2007
+158,2,0,1,1,3,1,E0,H,M Halsey,Man City,8,2,Tottenham,7,7,12,0,2,6,13,3,09/12/2007,H,Tottenham_Man City_2007
+159,6,0,1,1,6,0,E0,H,L Probert,Reading,9,2,Birmingham,12,10,15,0,1,6,19,1,15/12/2007,D,Birmingham_Reading_2007
+160,5,0,1,0,5,0,E0,A,R Styles,Middlesbrough,9,0,Derby,6,7,13,1,0,3,7,0,15/12/2007,A,Derby_Middlesbrough_2007
+161,7,0,1,0,4,0,E0,D,H Webb,Newcastle,5,0,Fulham,17,6,10,0,0,6,10,1,15/12/2007,A,Fulham_Newcastle_2007
+162,6,0,2,1,3,0,E0,A,P Walton,Bolton,11,1,Man City,12,9,15,2,4,4,12,1,15/12/2007,H,Man City_Bolton_2007
+163,4,0,1,0,5,0,E0,D,M Atkinson,Tottenham,5,3,Portsmouth,22,12,9,0,0,4,13,2,15/12/2007,A,Portsmouth_Tottenham_2007
+164,5,0,1,1,11,0,E0,H,S Bennett,Aston Villa,7,2,Sunderland,17,14,9,0,1,13,14,2,15/12/2007,D,Sunderland_Aston Villa_2007
+165,9,0,2,0,8,0,E0,A,S Tanner,Everton,3,1,West Ham,16,12,11,1,0,2,14,2,15/12/2007,A,West Ham_Everton_2007
+166,6,0,3,3,5,1,E0,H,M Clattenburg,Blackburn,7,4,Wigan,17,9,9,1,5,4,24,4,15/12/2007,H,Wigan_Blackburn_2007
+167,3,0,0,1,7,0,E0,H,A Wiley,Chelsea,5,5,Arsenal,19,10,11,0,1,5,12,5,16/12/2007,H,Arsenal_Chelsea_2007
+168,3,0,1,0,3,0,E0,A,M Halsey,Man United,6,2,Liverpool,14,5,19,1,0,3,13,3,16/12/2007,A,Liverpool_Man United_2007
+169,5,0,1,0,5,0,E0,D,R Styles,Tottenham,5,1,Arsenal,10,10,9,0,2,1,10,3,22/12/2007,H,Arsenal_Tottenham_2007
+170,7,0,1,1,2,0,E0,D,L Mason,Man City,6,2,Aston Villa,15,6,9,1,1,4,15,4,22/12/2007,D,Aston Villa_Man City_2007
+171,7,0,0,0,1,0,E0,D,C Foy,Birmingham,6,3,Bolton,14,4,10,0,3,2,18,2,22/12/2007,H,Bolton_Birmingham_2007
+172,8,0,1,0,4,0,E0,D,A Wiley,Wigan,3,0,Fulham,15,10,9,0,1,4,16,0,22/12/2007,D,Fulham_Wigan_2007
+173,3,0,1,2,3,0,E0,H,M Riley,Portsmouth,7,1,Liverpool,13,9,14,0,4,1,11,2,22/12/2007,H,Liverpool_Portsmouth_2007
+174,7,0,2,1,4,0,E0,D,M Atkinson,West Ham,2,2,Middlesbrough,15,8,7,1,1,4,12,3,22/12/2007,A,Middlesbrough_West Ham_2007
+175,7,0,1,0,4,0,E0,D,S Tanner,Sunderland,9,0,Reading,9,8,17,0,2,2,17,4,22/12/2007,H,Reading_Sunderland_2007
+176,7,0,1,0,8,0,E0,A,S Bennett,Chelsea,7,1,Blackburn,15,10,16,1,0,11,14,2,23/12/2007,A,Blackburn_Chelsea_2007
+177,8,0,1,1,2,0,E0,D,H Webb,Everton,11,3,Man United,10,4,18,1,2,2,13,3,23/12/2007,H,Man United_Everton_2007
+178,9,0,2,1,6,0,E0,D,A Marriner,Derby,13,2,Newcastle,12,9,23,1,2,2,20,2,23/12/2007,D,Newcastle_Derby_2007
+179,12,0,0,2,12,0,E0,H,M Halsey,Middlesbrough,5,1,Birmingham,13,18,13,0,3,9,6,2,26/12/2007,H,Birmingham_Middlesbrough_2007
+180,3,2,4,1,4,1,E0,A,P Dowd,Aston Villa,8,3,Chelsea,7,9,14,2,4,7,11,2,26/12/2007,D,Chelsea_Aston Villa_2007
+181,2,0,2,0,10,0,E0,A,A Wiley,Liverpool,4,1,Derby,9,22,9,1,1,7,9,0,26/12/2007,A,Derby_Liverpool_2007
+182,7,0,0,0,7,0,E0,D,R Styles,Bolton,10,0,Everton,8,9,18,0,2,4,18,3,26/12/2007,H,Everton_Bolton_2007
+183,4,0,0,0,6,0,E0,D,S Bennett,Arsenal,6,2,Portsmouth,15,12,9,0,0,7,9,1,26/12/2007,D,Portsmouth_Arsenal_2007
+184,4,0,4,0,11,0,E0,A,U Rennie,Man United,3,2,Sunderland,14,17,10,3,0,3,12,1,26/12/2007,A,Sunderland_Man United_2007
+185,3,0,1,2,4,1,E0,H,A Marriner,Fulham,8,1,Tottenham,10,9,12,0,5,5,17,4,26/12/2007,H,Tottenham_Fulham_2007
+186,10,0,1,1,10,1,E0,H,P Walton,Reading,11,2,West Ham,8,13,18,0,1,6,6,2,26/12/2007,D,West Ham_Reading_2007
+187,3,0,0,0,6,0,E0,D,M Dean,Newcastle,6,1,Wigan,13,7,8,0,1,2,22,4,26/12/2007,H,Wigan_Newcastle_2007
+188,3,0,2,2,5,0,E0,H,H Webb,Blackburn,2,1,Man City,10,7,5,1,2,3,16,1,27/12/2007,D,Man City_Blackburn_2007
+189,8,0,1,0,7,1,E0,A,M Clattenburg,Fulham,6,0,Birmingham,13,10,15,1,1,6,14,3,29/12/2007,D,Birmingham_Fulham_2007
+190,12,0,1,1,2,0,E0,H,M Riley,Newcastle,10,1,Chelsea,9,3,16,0,2,3,11,2,29/12/2007,H,Chelsea_Newcastle_2007
+191,10,1,4,1,7,1,E0,H,M Atkinson,Arsenal,3,0,Everton,14,10,10,0,1,2,13,5,29/12/2007,A,Everton_Arsenal_2007
+192,4,0,1,0,7,0,E0,A,A Wiley,Middlesbrough,9,1,Portsmouth,10,13,18,1,0,4,17,4,29/12/2007,A,Portsmouth_Middlesbrough_2007
+193,2,0,1,2,3,0,E0,H,P Dowd,Bolton,5,1,Sunderland,12,5,5,1,3,6,16,2,29/12/2007,H,Sunderland_Bolton_2007
+194,3,0,4,1,8,0,E0,D,K Stroud,Reading,12,0,Tottenham,9,11,14,1,6,6,12,3,29/12/2007,H,Tottenham_Reading_2007
+195,6,0,1,0,3,0,E0,A,M Dean,Man United,5,2,West Ham,10,7,11,1,2,3,12,0,29/12/2007,H,West Ham_Man United_2007
+196,6,0,2,1,4,0,E0,H,H Webb,Aston Villa,3,1,Wigan,18,5,3,0,1,5,9,1,29/12/2007,A,Wigan_Aston Villa_2007
+197,9,0,2,1,18,0,E0,A,P Walton,Blackburn,7,1,Derby,14,23,13,2,1,7,13,3,30/12/2007,A,Derby_Blackburn_2007
+198,2,0,0,0,11,0,E0,D,U Rennie,Liverpool,3,0,Man City,4,19,4,0,0,9,7,1,30/12/2007,D,Man City_Liverpool_2007
+199,5,0,0,2,7,0,E0,H,C Foy,West Ham,13,0,Arsenal,5,15,21,0,2,7,7,3,01/01/2008,H,Arsenal_West Ham_2007
+200,8,0,1,1,6,0,E0,H,S Tanner,Tottenham,4,0,Aston Villa,5,9,14,0,2,2,16,3,01/01/2008,H,Aston Villa_Tottenham_2007
+201,4,0,2,1,5,0,E0,H,M Halsey,Chelsea,2,1,Fulham,7,11,5,0,1,8,8,0,01/01/2008,A,Fulham_Chelsea_2007
+202,2,0,0,1,4,0,E0,H,P Walton,Birmingham,13,1,Man United,11,11,18,0,1,0,8,4,01/01/2008,H,Man United_Birmingham_2007
+203,5,0,2,0,3,0,E0,D,M Riley,Everton,4,0,Middlesbrough,18,5,7,0,0,6,11,1,01/01/2008,A,Middlesbrough_Everton_2007
+204,5,1,2,0,13,0,E0,A,M Dean,Portsmouth,5,3,Reading,10,18,9,1,0,4,6,1,01/01/2008,A,Reading_Portsmouth_2007
+205,7,0,0,0,4,1,E0,D,R Styles,Sunderland,3,3,Blackburn,12,7,8,0,1,3,11,4,02/01/2008,H,Blackburn_Sunderland_2007
+206,11,0,0,0,3,0,E0,D,H Webb,Derby,5,2,Bolton,8,9,12,0,1,7,10,3,02/01/2008,H,Bolton_Derby_2007
+207,4,0,1,0,1,0,E0,D,S Bennett,Wigan,11,2,Liverpool,13,6,15,0,1,1,16,1,02/01/2008,D,Liverpool_Wigan_2007
+208,8,0,2,0,7,0,E0,A,M Atkinson,Man City,10,0,Newcastle,8,12,16,1,0,7,12,3,02/01/2008,A,Newcastle_Man City_2007
+209,14,0,1,1,2,0,E0,H,P Dowd,Birmingham,9,1,Arsenal,8,2,16,0,1,3,10,2,12/01/2008,D,Arsenal_Birmingham_2007
+210,13,0,1,1,3,0,E0,H,U Rennie,Reading,8,0,Aston Villa,15,6,14,0,3,7,11,2,12/01/2008,H,Aston Villa_Reading_2007
+211,4,0,0,1,2,0,E0,H,A Wiley,Tottenham,6,2,Chelsea,17,6,8,0,2,7,11,4,12/01/2008,H,Chelsea_Tottenham_2007
+212,1,1,1,0,4,0,E0,D,M Clattenburg,Wigan,1,1,Derby,12,12,2,0,0,6,16,2,12/01/2008,A,Derby_Wigan_2007
+213,4,0,0,1,1,0,E0,H,M Halsey,Man City,5,2,Everton,14,5,10,0,1,4,12,1,12/01/2008,H,Everton_Man City_2007
+214,16,0,0,0,5,1,E0,D,R Styles,Newcastle,21,1,Man United,7,7,30,0,6,1,7,1,12/01/2008,H,Man United_Newcastle_2007
+215,3,0,1,1,7,0,E0,H,A Marriner,Liverpool,3,1,Middlesbrough,4,14,8,0,1,9,11,1,12/01/2008,D,Middlesbrough_Liverpool_2007
+216,8,0,1,1,2,0,E0,D,M Riley,Fulham,9,0,West Ham,19,9,12,1,2,7,13,1,12/01/2008,H,West Ham_Fulham_2007
+217,2,0,2,1,6,0,E0,H,M Dean,Blackburn,5,2,Bolton,17,13,9,0,1,6,18,1,13/01/2008,A,Bolton_Blackburn_2007
+218,7,0,0,2,5,0,E0,H,C Foy,Portsmouth,5,3,Sunderland,14,9,12,0,2,5,6,1,13/01/2008,H,Sunderland_Portsmouth_2007
+219,6,0,1,0,9,0,E0,D,R Styles,Chelsea,7,1,Birmingham,9,12,15,0,0,10,5,1,19/01/2008,A,Birmingham_Chelsea_2007
+220,6,0,1,0,5,0,E0,A,K Stroud,Middlesbrough,5,1,Blackburn,7,10,14,1,1,3,26,3,19/01/2008,D,Blackburn_Middlesbrough_2007
+221,4,0,3,0,4,0,E0,A,P Walton,Arsenal,0,0,Fulham,13,11,5,2,0,3,10,1,19/01/2008,A,Fulham_Arsenal_2007
+222,9,0,0,0,5,0,E0,D,A Wiley,Bolton,5,1,Newcastle,14,7,13,0,0,6,15,2,19/01/2008,D,Newcastle_Bolton_2007
+223,6,0,1,2,5,0,E0,H,M Dean,Derby,8,1,Portsmouth,14,8,18,1,3,2,9,2,19/01/2008,H,Portsmouth_Derby_2007
+224,8,0,2,0,9,0,E0,D,S Bennett,Man United,6,1,Reading,11,21,9,0,0,6,8,1,19/01/2008,A,Reading_Man United_2007
+225,6,0,0,1,8,0,E0,H,L Mason,Sunderland,13,2,Tottenham,13,14,17,0,2,7,13,2,19/01/2008,H,Tottenham_Sunderland_2007
+226,5,0,1,1,5,0,E0,D,P Dowd,West Ham,6,2,Man City,15,11,11,1,1,10,20,4,20/01/2008,D,Man City_West Ham_2007
+227,5,0,2,0,6,0,E0,A,L Probert,Everton,3,1,Wigan,15,11,14,2,1,5,15,2,20/01/2008,A,Wigan_Everton_2007
+228,8,0,2,1,3,0,E0,H,M Clattenburg,Aston Villa,7,2,Liverpool,11,4,17,0,2,2,15,2,21/01/2008,D,Liverpool_Aston Villa_2007
+229,2,0,1,0,4,0,E0,D,H Webb,Blackburn,3,0,Aston Villa,14,9,5,0,1,7,15,2,26/01/2008,D,Aston Villa_Blackburn_2007
+230,4,0,0,1,3,0,E0,H,M Riley,Newcastle,4,1,Arsenal,11,7,10,0,3,2,15,3,29/01/2008,H,Arsenal_Newcastle_2007
+231,4,0,0,0,4,0,E0,D,M Clattenburg,Fulham,4,0,Bolton,11,9,13,0,0,2,14,0,29/01/2008,D,Bolton_Fulham_2007
+232,4,0,0,1,6,0,E0,H,R Styles,Wigan,3,0,Middlesbrough,12,10,7,0,1,9,13,1,29/01/2008,H,Middlesbrough_Wigan_2007
+233,4,0,0,1,2,0,E0,H,M Halsey,Birmingham,6,1,Sunderland,9,5,9,0,2,8,18,3,29/01/2008,H,Sunderland_Birmingham_2007
+234,10,0,0,1,2,0,E0,H,M Dean,Reading,10,0,Chelsea,13,7,16,0,1,9,9,0,30/01/2008,H,Chelsea_Reading_2007
+235,6,0,1,0,5,0,E0,D,S Bennett,Man City,6,1,Derby,11,10,12,0,1,5,11,1,30/01/2008,D,Derby_Man City_2007
+236,7,0,0,0,4,0,E0,D,A Marriner,Tottenham,6,1,Everton,14,5,11,0,0,2,12,1,30/01/2008,D,Everton_Tottenham_2007
+237,5,0,0,2,3,0,E0,H,M Atkinson,Portsmouth,14,0,Man United,9,3,25,0,2,3,11,1,30/01/2008,H,Man United_Portsmouth_2007
+238,4,0,0,0,5,0,E0,D,A Wiley,Liverpool,2,0,West Ham,11,13,8,0,1,6,19,3,30/01/2008,H,West Ham_Liverpool_2007
+239,5,0,1,0,3,0,E0,D,P Walton,Derby,7,1,Birmingham,7,6,11,0,1,5,11,5,02/02/2008,D,Birmingham_Derby_2007
+240,4,0,0,0,4,0,E0,D,A Wiley,Everton,3,4,Blackburn,18,10,13,0,0,8,15,2,02/02/2008,D,Blackburn_Everton_2007
+241,4,0,0,0,3,0,E0,D,R Styles,Sunderland,11,1,Liverpool,8,6,14,0,3,1,10,2,02/02/2008,H,Liverpool_Sunderland_2007
+242,1,0,3,1,9,0,E0,A,A Marriner,Arsenal,2,2,Man City,7,14,5,2,1,9,7,0,02/02/2008,A,Man City_Arsenal_2007
+243,4,0,1,0,12,0,E0,D,H Webb,Chelsea,6,2,Portsmouth,13,20,17,0,1,8,12,0,02/02/2008,D,Portsmouth_Chelsea_2007
+244,13,0,2,0,4,0,E0,A,P Dowd,Bolton,6,3,Reading,14,8,9,1,0,3,16,1,02/02/2008,A,Reading_Bolton_2007
+245,8,0,1,1,10,0,E0,H,M Clattenburg,Man United,8,3,Tottenham,18,16,10,0,1,9,10,7,02/02/2008,D,Tottenham_Man United_2007
+246,6,0,0,1,1,0,E0,H,M Atkinson,West Ham,3,1,Wigan,11,5,10,0,1,3,12,3,02/02/2008,H,Wigan_West Ham_2007
+247,3,0,1,0,6,0,E0,D,C Foy,Aston Villa,8,1,Fulham,9,11,11,0,2,10,13,2,03/02/2008,H,Fulham_Aston Villa_2007
+248,11,0,1,0,11,0,E0,D,M Dean,Middlesbrough,8,1,Newcastle,13,19,10,0,1,6,11,4,03/02/2008,D,Newcastle_Middlesbrough_2007
+249,7,0,1,0,3,0,E0,A,L Mason,Newcastle,8,2,Aston Villa,19,5,13,1,4,5,11,1,09/02/2008,H,Aston Villa_Newcastle_2007
+250,5,0,1,0,4,0,E0,D,P Walton,Portsmouth,10,1,Bolton,12,7,19,0,0,2,14,1,09/02/2008,A,Bolton_Portsmouth_2007
+251,7,0,3,0,8,0,E0,D,M Atkinson,Tottenham,6,3,Derby,14,13,10,0,0,9,10,1,09/02/2008,A,Derby_Tottenham_2007
+252,8,0,0,0,5,0,E0,D,M Halsey,Reading,6,0,Everton,13,14,11,0,1,8,13,0,09/02/2008,H,Everton_Reading_2007
+253,7,0,0,1,5,0,E0,H,P Dowd,Fulham,6,1,Middlesbrough,12,10,11,0,1,3,10,2,09/02/2008,H,Middlesbrough_Fulham_2007
+254,2,0,0,1,11,0,E0,H,M Dean,Wigan,4,0,Sunderland,13,21,9,0,2,8,6,1,09/02/2008,H,Sunderland_Wigan_2007
+255,7,1,1,1,3,0,E0,D,M Clattenburg,Birmingham,10,0,West Ham,12,5,18,1,1,4,20,5,09/02/2008,D,West Ham_Birmingham_2007
+256,6,0,0,0,4,0,E0,D,M Riley,Liverpool,3,3,Chelsea,14,10,5,0,0,4,18,2,10/02/2008,D,Chelsea_Liverpool_2007
+257,8,0,2,0,7,0,E0,A,H Webb,Man City,9,1,Man United,6,9,19,2,1,7,11,0,10/02/2008,A,Man United_Man City_2007
+258,7,0,0,1,2,0,E0,H,S Bennett,Blackburn,9,1,Arsenal,12,6,13,0,2,5,6,0,11/02/2008,H,Arsenal_Blackburn_2007
+259,1,1,2,1,13,0,E0,H,M Dean,Arsenal,1,0,Birmingham,9,26,2,0,2,7,13,2,23/02/2008,D,Birmingham_Arsenal_2007
+260,5,1,1,0,6,0,E0,D,H Webb,West Ham,14,3,Fulham,12,12,18,0,0,8,17,0,23/02/2008,A,Fulham_West Ham_2007
+261,6,0,2,2,3,1,E0,H,L Mason,Middlesbrough,8,2,Liverpool,8,6,13,1,3,2,11,5,23/02/2008,H,Liverpool_Middlesbrough_2007
+262,7,0,5,0,10,0,E0,A,C Foy,Man United,5,4,Newcastle,13,16,10,2,1,4,12,0,23/02/2008,A,Newcastle_Man United_2007
+263,5,0,0,0,2,0,E0,D,P Dowd,Sunderland,10,1,Portsmouth,13,5,17,0,1,3,13,2,23/02/2008,H,Portsmouth_Sunderland_2007
+264,14,0,0,0,3,0,E0,D,A Wiley,Derby,18,0,Wigan,10,5,22,0,2,2,12,1,23/02/2008,H,Wigan_Derby_2007
+265,5,0,1,1,9,0,E0,H,M Clattenburg,Bolton,6,2,Blackburn,16,15,11,0,4,4,21,4,24/02/2008,H,Blackburn_Bolton_2007
+266,11,0,2,0,11,0,E0,A,M Atkinson,Aston Villa,6,2,Reading,10,19,9,1,1,7,15,1,24/02/2008,A,Reading_Aston Villa_2007
+267,4,1,2,0,8,0,E0,A,R Styles,Everton,12,0,Man City,7,13,20,2,0,7,14,1,25/02/2008,A,Man City_Everton_2007
+268,8,0,1,0,4,0,E0,A,M Clattenburg,Aston Villa,7,1,Arsenal,8,5,16,1,1,7,13,2,01/03/2008,D,Arsenal_Aston Villa_2007
+269,5,0,1,1,10,0,E0,H,L Probert,Tottenham,10,1,Birmingham,14,19,13,0,4,6,10,0,01/03/2008,H,Birmingham_Tottenham_2007
+270,4,0,0,0,5,0,E0,D,M Riley,Sunderland,4,5,Derby,19,13,8,0,0,5,15,1,01/03/2008,D,Derby_Sunderland_2007
+271,3,0,3,0,10,0,E0,A,M Dean,Man United,7,0,Fulham,6,16,13,2,0,6,13,0,01/03/2008,A,Fulham_Man United_2007
+272,4,0,0,0,5,0,E0,D,S Bennett,Wigan,6,0,Man City,12,8,12,0,0,1,7,1,01/03/2008,D,Man City_Wigan_2007
+273,7,0,1,0,3,0,E0,D,H Webb,Reading,5,4,Middlesbrough,10,6,10,0,0,2,17,5,01/03/2008,A,Middlesbrough_Reading_2007
+274,14,0,1,0,6,0,E0,D,R Styles,Blackburn,9,1,Newcastle,10,14,17,0,0,7,7,2,01/03/2008,A,Newcastle_Blackburn_2007
+275,6,0,4,0,8,1,E0,A,P Walton,Chelsea,7,0,West Ham,14,13,9,3,0,1,6,2,01/03/2008,A,West Ham_Chelsea_2007
+276,3,0,3,0,9,0,E0,A,P Dowd,Liverpool,2,2,Bolton,7,12,7,1,1,10,14,1,02/03/2008,A,Bolton_Liverpool_2007
+277,10,0,1,1,5,0,E0,D,A Marriner,Portsmouth,5,1,Everton,12,9,13,1,3,3,18,1,02/03/2008,H,Everton_Portsmouth_2007
+278,16,0,0,1,2,0,E0,H,S Bennett,West Ham,11,0,Liverpool,9,2,20,0,4,3,15,3,05/03/2008,H,Liverpool_West Ham_2007
+279,7,0,1,0,4,0,E0,D,M Riley,Fulham,4,2,Blackburn,19,8,14,0,1,7,16,2,08/03/2008,D,Blackburn_Fulham_2007
+280,12,0,0,2,4,0,E0,H,P Walton,Newcastle,13,1,Liverpool,8,6,15,0,3,8,7,0,08/03/2008,H,Liverpool_Newcastle_2007
+281,7,0,0,0,5,0,E0,D,U Rennie,Man City,8,0,Reading,9,12,13,0,2,5,11,2,08/03/2008,H,Reading_Man City_2007
+282,3,0,1,0,6,0,E0,D,A Wiley,Everton,6,2,Sunderland,17,7,9,0,0,4,9,1,09/03/2008,A,Sunderland_Everton_2007
+283,8,0,0,2,4,1,E0,H,C Foy,West Ham,11,0,Tottenham,6,8,18,0,4,4,17,2,09/03/2008,H,Tottenham_West Ham_2007
+284,8,0,0,0,6,0,E0,D,R Styles,Arsenal,3,2,Wigan,10,10,6,0,0,5,8,2,09/03/2008,D,Wigan_Arsenal_2007
+285,4,0,1,0,2,0,E0,A,S Bennett,Middlesbrough,3,0,Aston Villa,15,10,5,1,1,4,21,4,12/03/2008,D,Aston Villa_Middlesbrough_2007
+286,7,0,1,2,3,0,E0,H,C Foy,Derby,10,0,Chelsea,7,4,14,0,6,0,17,1,12/03/2008,H,Chelsea_Derby_2007
+287,4,0,2,2,5,0,E0,D,S Tanner,Birmingham,9,0,Portsmouth,8,7,13,2,4,3,10,1,12/03/2008,H,Portsmouth_Birmingham_2007
+288,11,0,1,0,1,1,E0,A,M Halsey,Middlesbrough,9,0,Arsenal,7,4,17,1,1,1,10,2,15/03/2008,D,Arsenal_Middlesbrough_2007
+289,5,0,1,0,9,0,E0,D,P Dowd,Man United,8,4,Derby,13,17,10,0,0,11,7,1,15/03/2008,A,Derby_Man United_2007
+290,7,0,1,1,3,0,E0,D,A Marriner,Reading,8,0,Liverpool,7,7,19,1,2,2,22,5,15/03/2008,H,Liverpool_Reading_2007
+291,3,1,0,2,10,1,E0,H,C Foy,Aston Villa,5,3,Portsmouth,17,16,13,0,2,6,13,1,15/03/2008,H,Portsmouth_Aston Villa_2007
+292,7,0,1,0,3,0,E0,A,M Dean,Chelsea,4,2,Sunderland,8,11,11,1,0,7,9,1,15/03/2008,A,Sunderland_Chelsea_2007
+293,8,0,1,1,5,0,E0,D,M Atkinson,Blackburn,6,1,West Ham,11,9,12,1,2,10,13,3,15/03/2008,H,West Ham_Blackburn_2007
+294,3,0,0,0,4,0,E0,D,S Bennett,Everton,2,1,Fulham,14,7,10,0,1,3,6,0,16/03/2008,H,Fulham_Everton_2007
+295,5,0,1,0,7,0,E0,A,M Clattenburg,Tottenham,8,0,Man City,11,12,13,1,2,5,3,0,16/03/2008,H,Man City_Tottenham_2007
+296,8,1,0,1,7,0,E0,H,S Tanner,Bolton,7,2,Wigan,16,12,10,0,1,5,13,3,16/03/2008,H,Wigan_Bolton_2007
+297,3,0,1,1,7,0,E0,H,H Webb,Newcastle,4,2,Birmingham,8,13,12,0,1,8,12,2,17/03/2008,D,Birmingham_Newcastle_2007
+298,6,0,0,2,10,0,E0,H,A Wiley,Bolton,12,0,Man United,12,14,21,0,2,3,14,2,19/03/2008,H,Man United_Bolton_2007
+299,10,0,4,1,8,0,E0,A,M Riley,Chelsea,9,2,Tottenham,10,10,10,2,4,2,16,2,19/03/2008,D,Tottenham_Chelsea_2007
+300,4,0,1,0,3,0,E0,D,H Webb,Sunderland,3,0,Aston Villa,9,12,9,0,0,4,11,2,22/03/2008,A,Aston Villa_Sunderland_2007
+301,1,1,1,2,7,1,E0,H,M Dean,Wigan,7,1,Blackburn,19,14,11,1,3,9,15,3,22/03/2008,H,Blackburn_Wigan_2007
+302,12,0,0,0,4,0,E0,D,A Marriner,Man City,7,1,Bolton,9,7,17,0,0,12,14,0,22/03/2008,D,Bolton_Man City_2007
+303,4,0,1,1,5,0,E0,H,M Halsey,West Ham,7,0,Everton,10,13,14,0,1,4,10,0,22/03/2008,D,Everton_West Ham_2007
+304,9,0,0,1,1,0,E0,H,M Atkinson,Derby,3,2,Middlesbrough,9,5,6,0,1,2,10,1,22/03/2008,H,Middlesbrough_Derby_2007
+305,6,0,0,1,5,0,E0,H,A Wiley,Fulham,9,0,Newcastle,9,9,15,0,2,4,5,1,22/03/2008,H,Newcastle_Fulham_2007
+306,8,0,1,1,7,0,E0,H,M Riley,Birmingham,8,0,Reading,16,13,13,0,2,7,15,1,22/03/2008,H,Reading_Birmingham_2007
+307,7,0,0,0,4,0,E0,D,P Dowd,Portsmouth,8,0,Tottenham,8,4,17,0,2,2,13,1,22/03/2008,H,Tottenham_Portsmouth_2007
+308,4,0,1,0,5,0,E0,D,M Clattenburg,Arsenal,8,3,Chelsea,10,7,11,0,2,2,13,1,23/03/2008,H,Chelsea_Arsenal_2007
+309,2,0,0,1,4,1,E0,H,S Bennett,Liverpool,15,1,Man United,11,8,22,0,3,4,12,3,23/03/2008,H,Man United_Liverpool_2007
+310,5,1,1,1,4,0,E0,H,R Styles,Man City,7,0,Birmingham,13,8,10,0,3,2,10,2,29/03/2008,H,Birmingham_Man City_2007
+311,8,0,3,2,8,1,E0,H,C Foy,Arsenal,9,2,Bolton,12,17,13,0,2,6,10,2,29/03/2008,A,Bolton_Arsenal_2007
+312,4,0,2,1,4,0,E0,D,M Dean,Fulham,13,2,Derby,18,9,19,1,2,5,16,4,29/03/2008,D,Derby_Fulham_2007
+313,4,0,0,2,6,0,E0,H,M Halsey,Aston Villa,7,1,Man United,7,13,14,0,4,7,5,1,29/03/2008,H,Man United_Aston Villa_2007
+314,5,0,0,1,9,0,E0,H,A Wiley,Wigan,7,1,Portsmouth,10,17,12,0,2,4,13,2,29/03/2008,H,Portsmouth_Wigan_2007
+315,6,1,0,0,6,0,E0,D,M Clattenburg,Blackburn,2,3,Reading,10,9,8,0,0,7,15,5,29/03/2008,D,Reading_Blackburn_2007
+316,13,0,1,1,4,0,E0,D,A Marriner,West Ham,12,2,Sunderland,9,10,22,1,2,4,10,1,29/03/2008,H,Sunderland_West Ham_2007
+317,8,0,0,1,3,0,E0,H,P Dowd,Middlesbrough,6,1,Chelsea,11,7,16,0,1,3,9,1,30/03/2008,H,Chelsea_Middlesbrough_2007
+318,11,0,0,1,2,0,E0,H,H Webb,Everton,9,1,Liverpool,13,3,15,0,1,4,14,4,30/03/2008,H,Liverpool_Everton_2007
+319,6,0,4,1,9,0,E0,D,S Bennett,Newcastle,10,1,Tottenham,10,17,18,1,1,7,8,1,30/03/2008,A,Tottenham_Newcastle_2007
+320,5,0,1,0,4,0,E0,A,P Dowd,Liverpool,6,1,Arsenal,10,11,8,1,1,3,10,2,05/04/2008,D,Arsenal_Liverpool_2007
+321,5,0,0,1,3,0,E0,H,M Atkinson,Bolton,6,2,Aston Villa,15,6,10,0,4,4,9,1,05/04/2008,H,Aston Villa_Bolton_2007
+322,1,0,1,1,8,0,E0,D,P Walton,Tottenham,7,3,Blackburn,20,11,12,1,1,1,4,1,05/04/2008,D,Blackburn_Tottenham_2007
+323,8,0,3,0,6,0,E0,A,M Halsey,Sunderland,5,2,Fulham,12,9,14,1,1,5,9,0,05/04/2008,A,Fulham_Sunderland_2007
+324,7,0,2,0,5,0,E0,A,C Foy,Chelsea,7,1,Man City,6,10,14,1,0,5,12,0,05/04/2008,A,Man City_Chelsea_2007
+325,9,0,0,2,3,0,E0,H,L Probert,Reading,9,0,Newcastle,10,8,14,0,3,7,11,1,05/04/2008,H,Newcastle_Reading_2007
+326,2,0,0,1,1,1,E0,H,M Dean,Birmingham,8,1,Wigan,11,5,15,0,2,2,17,2,05/04/2008,H,Wigan_Birmingham_2007
+327,9,0,0,0,5,0,E0,D,A Marriner,Derby,5,1,Everton,17,7,11,0,1,8,19,3,06/04/2008,H,Everton_Derby_2007
+328,4,0,2,1,7,0,E0,D,M Riley,Man United,7,3,Middlesbrough,20,15,12,1,2,10,11,1,06/04/2008,D,Middlesbrough_Man United_2007
+329,7,0,1,0,9,0,E0,D,L Probert,Portsmouth,8,0,West Ham,16,18,10,0,0,4,11,0,08/04/2008,A,West Ham_Portsmouth_2007
+330,11,0,1,0,6,0,E0,D,S Bennett,Everton,7,1,Birmingham,9,13,14,0,1,1,6,1,12/04/2008,D,Birmingham_Everton_2007
+331,12,0,0,0,7,0,E0,D,P Walton,West Ham,9,1,Bolton,12,11,12,0,1,5,11,1,12/04/2008,H,Bolton_West Ham_2007
+332,3,0,6,0,12,0,E0,A,K Stroud,Aston Villa,5,0,Derby,15,16,8,3,0,2,15,0,12/04/2008,A,Derby_Aston Villa_2007
+333,2,0,0,0,5,0,E0,D,P Dowd,Newcastle,8,1,Portsmouth,11,14,17,0,0,11,8,1,12/04/2008,D,Portsmouth_Newcastle_2007
+334,4,0,2,0,8,0,E0,A,C Foy,Fulham,0,0,Reading,11,16,4,1,0,7,5,1,12/04/2008,A,Reading_Fulham_2007
+335,6,0,2,0,5,0,E0,D,M Riley,Man City,7,3,Sunderland,13,7,12,0,1,2,12,2,12/04/2008,A,Sunderland_Man City_2007
+336,2,0,1,1,7,0,E0,H,M Halsey,Middlesbrough,9,0,Tottenham,6,13,12,0,1,7,19,3,12/04/2008,D,Tottenham_Middlesbrough_2007
+337,5,0,1,0,3,0,E0,D,A Wiley,Blackburn,9,1,Liverpool,12,7,17,0,3,1,10,0,13/04/2008,H,Liverpool_Blackburn_2007
+338,6,0,1,0,11,0,E0,D,H Webb,Arsenal,7,2,Man United,12,18,13,0,2,5,7,6,13/04/2008,H,Man United_Arsenal_2007
+339,9,0,1,0,5,0,E0,D,A Marriner,Wigan,10,0,Chelsea,10,6,19,0,1,3,17,2,14/04/2008,D,Chelsea_Wigan_2007
+340,4,0,1,0,3,0,E0,A,M Atkinson,Chelsea,5,0,Everton,8,5,10,1,0,6,9,2,17/04/2008,A,Everton_Chelsea_2007
+341,12,0,0,2,2,0,E0,H,P Walton,Reading,12,0,Arsenal,7,4,19,0,2,4,15,3,19/04/2008,H,Arsenal_Reading_2007
+342,3,0,1,1,10,0,E0,H,R Styles,Man United,3,1,Blackburn,14,13,4,0,1,8,12,1,19/04/2008,D,Blackburn_Man United_2007
+343,3,0,2,0,7,0,E0,A,M Atkinson,Liverpool,6,1,Fulham,9,16,10,1,0,3,10,0,19/04/2008,A,Fulham_Liverpool_2007
+344,7,0,1,0,9,0,E0,D,A Wiley,Bolton,10,0,Middlesbrough,10,12,16,0,0,4,14,2,19/04/2008,A,Middlesbrough_Bolton_2007
+345,5,0,1,1,8,0,E0,H,S Tanner,Derby,8,2,West Ham,11,12,12,0,2,11,13,1,19/04/2008,H,West Ham_Derby_2007
+346,2,0,1,1,12,0,E0,D,L Probert,Tottenham,7,2,Wigan,8,15,13,1,1,6,9,1,19/04/2008,D,Wigan_Tottenham_2007
+347,7,0,1,2,6,0,E0,H,M Clattenburg,Birmingham,9,0,Aston Villa,11,11,16,0,5,8,20,1,20/04/2008,H,Aston Villa_Birmingham_2007
+348,6,0,1,2,6,1,E0,H,A Marriner,Portsmouth,10,1,Man City,7,12,16,1,3,3,6,1,20/04/2008,H,Man City_Portsmouth_2007
+349,4,0,0,2,8,0,E0,H,M Dean,Sunderland,4,0,Newcastle,8,12,8,0,2,4,13,5,20/04/2008,H,Newcastle_Sunderland_2007
+350,3,0,2,1,7,0,E0,H,P Walton,Liverpool,3,2,Birmingham,6,12,5,0,2,5,9,1,26/04/2008,D,Birmingham_Liverpool_2007
+351,8,0,1,1,6,0,E0,H,A Wiley,Man United,8,3,Chelsea,14,7,13,0,2,3,16,4,26/04/2008,H,Chelsea_Man United_2007
+352,3,0,3,2,13,0,E0,H,M Dean,Fulham,5,0,Man City,9,18,10,0,2,4,7,1,26/04/2008,A,Man City_Fulham_2007
+353,7,0,2,2,6,0,E0,H,S Bennett,Middlesbrough,5,3,Sunderland,13,10,10,1,3,1,9,2,26/04/2008,H,Sunderland_Middlesbrough_2007
+354,12,0,1,0,4,0,E0,D,M Clattenburg,Bolton,13,1,Tottenham,6,7,26,0,1,3,11,3,26/04/2008,D,Tottenham_Bolton_2007
+355,6,0,2,2,3,0,E0,D,U Rennie,Newcastle,11,2,West Ham,13,4,18,2,2,1,11,3,26/04/2008,D,West Ham_Newcastle_2007
+356,6,0,0,0,2,0,E0,D,M Atkinson,Reading,5,2,Wigan,18,7,12,0,0,5,13,4,26/04/2008,D,Wigan_Reading_2007
+357,9,0,2,0,3,0,E0,D,P Dowd,Aston Villa,7,3,Everton,10,6,13,0,2,6,17,3,27/04/2008,D,Everton_Aston Villa_2007
+358,8,0,1,0,9,0,E0,D,M Riley,Blackburn,6,2,Portsmouth,20,12,15,0,0,7,12,2,27/04/2008,A,Portsmouth_Blackburn_2007
+359,5,0,6,1,11,0,E0,A,A Marriner,Arsenal,10,0,Derby,6,20,12,2,2,6,7,0,28/04/2008,A,Derby_Arsenal_2007
+360,8,0,2,0,5,0,E0,D,R Styles,Wigan,5,0,Aston Villa,7,9,14,0,0,2,8,1,03/05/2008,A,Aston Villa_Wigan_2007
+361,10,0,1,1,3,0,E0,D,U Rennie,Derby,14,0,Blackburn,12,6,25,1,3,1,17,0,03/05/2008,H,Blackburn_Derby_2007
+362,3,0,0,1,4,0,E0,H,M Atkinson,Sunderland,2,1,Bolton,11,5,4,0,2,1,12,0,03/05/2008,H,Bolton_Sunderland_2007
+363,2,0,0,0,0,0,E0,D,C Foy,Birmingham,6,2,Fulham,10,2,9,0,2,8,12,5,03/05/2008,H,Fulham_Birmingham_2007
+364,4,1,1,3,5,0,E0,H,M Riley,West Ham,4,1,Man United,15,9,8,1,4,2,16,3,03/05/2008,H,Man United_West Ham_2007
+365,7,0,0,1,8,0,E0,H,P Walton,Portsmouth,7,1,Middlesbrough,16,13,11,0,2,5,11,1,03/05/2008,H,Middlesbrough_Portsmouth_2007
+366,10,0,1,0,7,0,E0,A,H Webb,Tottenham,6,1,Reading,10,13,13,1,0,1,7,0,03/05/2008,A,Reading_Tottenham_2007
+367,8,0,0,0,4,0,E0,D,A Wiley,Everton,2,0,Arsenal,10,8,11,0,1,3,4,1,04/05/2008,H,Arsenal_Everton_2007
+368,12,0,0,0,3,0,E0,D,M Halsey,Man City,10,0,Liverpool,9,4,23,0,1,5,5,0,04/05/2008,H,Liverpool_Man City_2007
+369,1,0,2,0,9,0,E0,D,S Bennett,Chelsea,5,2,Newcastle,13,18,13,0,0,6,15,2,05/05/2008,A,Newcastle_Chelsea_2007
+370,5,0,1,1,9,0,E0,H,H Webb,Blackburn,9,3,Birmingham,16,14,15,0,4,2,11,2,11/05/2008,H,Birmingham_Blackburn_2007
+371,9,0,1,0,4,0,E0,D,C Foy,Bolton,12,1,Chelsea,12,6,19,0,1,2,8,3,11/05/2008,D,Chelsea_Bolton_2007
+372,2,0,4,0,7,0,E0,A,M Riley,Reading,2,0,Derby,17,11,6,1,0,0,13,1,11/05/2008,A,Derby_Reading_2007
+373,6,0,1,1,2,0,E0,H,P Walton,Newcastle,11,0,Everton,11,3,20,0,3,2,12,2,11/05/2008,H,Everton_Newcastle_2007
+374,7,0,1,2,2,1,E0,H,P Dowd,Man City,15,2,Middlesbrough,10,8,19,0,8,0,9,1,11/05/2008,H,Middlesbrough_Man City_2007
+375,5,0,1,0,4,0,E0,D,M Clattenburg,Fulham,10,0,Portsmouth,13,7,15,0,0,6,11,0,11/05/2008,A,Portsmouth_Fulham_2007
+376,3,0,1,0,8,0,E0,A,K Stroud,Arsenal,5,1,Sunderland,14,12,13,1,0,4,12,1,11/05/2008,A,Sunderland_Arsenal_2007
+377,8,0,2,0,12,0,E0,D,U Rennie,Liverpool,3,1,Tottenham,11,18,6,0,0,4,9,1,11/05/2008,A,Tottenham_Liverpool_2007
+378,7,0,2,1,8,0,E0,D,M Dean,Aston Villa,8,2,West Ham,9,13,16,1,2,8,21,2,11/05/2008,D,West Ham_Aston Villa_2007
+379,5,0,2,0,6,0,E0,A,S Bennett,Man United,6,3,Wigan,10,11,15,1,0,12,5,2,11/05/2008,A,Wigan_Man United_2007
