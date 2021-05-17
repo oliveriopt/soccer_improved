@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,3,B1,Oud-Heverlee Leuven,H,2,2012-07-28,H,Bergen,5,2,Bergen_Oud-Heverlee Leuven_2012
+1,3,B1,Waasland-Beveren,H,1,2012-07-28,H,Club Brugge,3,1,Club Brugge_Waasland-Beveren_2012
+2,1,B1,Lokeren,A,1,2012-07-28,D,Germinal,2,4,Germinal_Lokeren_2012
+3,1,B1,Anderlecht,D,0,2012-07-28,H,Kortrijk,1,1,Kortrijk_Anderlecht_2012
+4,2,B1,Charleroi,H,1,2012-07-28,H,Mechelen,4,2,Mechelen_Charleroi_2012
+5,2,B1,Cercle Brugge,D,2,2012-07-29,D,Genk,3,3,Genk_Cercle Brugge_2012
+6,1,B1,Lierse,H,0,2012-07-29,H,Gent,2,0,Gent_Lierse_2012
+7,0,B1,Waregem,A,1,2012-07-29,A,Standard,0,1,Standard_Waregem_2012
+8,0,B1,Standard,D,0,2012-08-03,D,Lierse,0,0,Lierse_Standard_2012
+9,1,B1,Germinal,H,0,2012-08-04,H,Anderlecht,1,0,Anderlecht_Germinal_2012
+10,1,B1,Kortrijk,A,0,2012-08-04,H,Cercle Brugge,1,2,Cercle Brugge_Kortrijk_2012
+11,0,B1,Club Brugge,A,1,2012-08-04,A,Charleroi,0,1,Charleroi_Club Brugge_2012
+12,1,B1,Bergen,D,1,2012-08-04,D,Lokeren,2,2,Lokeren_Bergen_2012
+13,0,B1,Mechelen,D,0,2012-08-04,D,Waasland-Beveren,0,0,Waasland-Beveren_Mechelen_2012
+14,0,B1,Genk,D,1,2012-08-05,A,Oud-Heverlee Leuven,2,2,Oud-Heverlee Leuven_Genk_2012
+15,2,B1,Gent,H,0,2012-08-05,H,Waregem,3,1,Waregem_Gent_2012
+16,1,B1,Waasland-Beveren,H,1,2012-08-10,D,Standard,3,1,Standard_Waasland-Beveren_2012
+17,0,B1,Lierse,D,0,2012-08-11,D,Bergen,1,1,Bergen_Lierse_2012
+18,0,B1,Waregem,D,0,2012-08-11,D,Germinal,1,1,Germinal_Waregem_2012
+19,0,B1,Charleroi,A,0,2012-08-11,D,Kortrijk,0,1,Kortrijk_Charleroi_2012
+20,2,B1,Club Brugge,D,2,2012-08-11,D,Mechelen,3,3,Mechelen_Club Brugge_2012
+21,0,B1,Anderlecht,A,2,2012-08-12,A,Cercle Brugge,0,3,Cercle Brugge_Anderlecht_2012
+22,0,B1,Lokeren,H,0,2012-08-12,D,Genk,1,0,Genk_Lokeren_2012
+23,1,B1,Oud-Heverlee Leuven,D,1,2012-08-12,D,Gent,1,1,Gent_Oud-Heverlee Leuven_2012
+24,1,B1,Bergen,H,0,2012-08-18,H,Anderlecht,2,1,Anderlecht_Bergen_2012
+25,1,B1,Germinal,H,0,2012-08-18,H,Club Brugge,3,1,Club Brugge_Germinal_2012
+26,0,B1,Genk,D,0,2012-08-18,D,Lierse,1,1,Lierse_Genk_2012
+27,0,B1,Mechelen,H,0,2012-08-18,D,Lokeren,2,1,Lokeren_Mechelen_2012
+28,1,B1,Cercle Brugge,H,1,2012-08-18,D,Oud-Heverlee Leuven,3,2,Oud-Heverlee Leuven_Cercle Brugge_2012
+29,0,B1,Gent,A,0,2012-08-18,D,Waasland-Beveren,0,2,Waasland-Beveren_Gent_2012
+30,0,B1,Kortrijk,H,0,2012-08-18,D,Waregem,2,0,Waregem_Kortrijk_2012
+31,1,B1,Standard,A,3,2012-08-19,A,Charleroi,2,6,Charleroi_Standard_2012
+32,0,B1,Club Brugge,A,0,2012-08-25,D,Bergen,1,3,Bergen_Club Brugge_2012
+33,0,B1,Lierse,A,0,2012-08-25,D,Cercle Brugge,0,3,Cercle Brugge_Lierse_2012
+34,0,B1,Waregem,H,0,2012-08-25,D,Genk,2,0,Genk_Waregem_2012
+35,1,B1,Charleroi,H,0,2012-08-25,H,Germinal,2,0,Germinal_Charleroi_2012
+36,2,B1,Waasland-Beveren,H,0,2012-08-25,H,Kortrijk,2,1,Kortrijk_Waasland-Beveren_2012
+37,1,B1,Anderlecht,D,1,2012-08-25,D,Oud-Heverlee Leuven,1,1,Oud-Heverlee Leuven_Anderlecht_2012
+38,0,B1,Mechelen,H,0,2012-08-25,D,Standard,3,2,Standard_Mechelen_2012
+39,1,B1,Lokeren,H,1,2012-08-26,D,Gent,2,1,Gent_Lokeren_2012
+40,0,B1,Gent,D,0,2012-09-01,D,Charleroi,1,1,Charleroi_Gent_2012
+41,1,B1,Oud-Heverlee Leuven,D,0,2012-09-01,H,Lierse,1,1,Lierse_Oud-Heverlee Leuven_2012
+42,0,B1,Germinal,A,1,2012-09-01,A,Mechelen,0,2,Mechelen_Germinal_2012
+43,0,B1,Cercle Brugge,H,0,2012-09-01,D,Waasland-Beveren,2,0,Waasland-Beveren_Cercle Brugge_2012
+44,0,B1,Bergen,A,1,2012-09-01,A,Waregem,2,4,Waregem_Bergen_2012
+45,1,B1,Genk,D,2,2012-09-02,A,Anderlecht,2,2,Anderlecht_Genk_2012
+46,3,B1,Standard,H,1,2012-09-02,H,Club Brugge,4,2,Club Brugge_Standard_2012
+47,0,B1,Kortrijk,A,0,2012-09-02,D,Lokeren,0,1,Lokeren_Kortrijk_2012
+48,1,B1,Club Brugge,D,0,2012-09-14,H,Kortrijk,1,1,Kortrijk_Club Brugge_2012
+49,1,B1,Charleroi,A,3,2012-09-15,A,Bergen,2,3,Bergen_Charleroi_2012
+50,0,B1,Lokeren,A,0,2012-09-15,D,Cercle Brugge,0,1,Cercle Brugge_Lokeren_2012
+51,1,B1,Waasland-Beveren,D,1,2012-09-15,D,Genk,1,1,Genk_Waasland-Beveren_2012
+52,0,B1,Mechelen,A,1,2012-09-15,A,Gent,0,2,Gent_Mechelen_2012
+53,0,B1,Anderlecht,D,1,2012-09-15,A,Lierse,1,1,Lierse_Anderlecht_2012
+54,0,B1,Waregem,A,0,2012-09-15,D,Oud-Heverlee Leuven,0,1,Oud-Heverlee Leuven_Waregem_2012
+55,1,B1,Standard,H,0,2012-09-16,H,Germinal,3,2,Germinal_Standard_2012
+56,1,B1,Gent,A,1,2012-09-21,D,Standard,1,2,Standard_Gent_2012
+57,1,B1,Kortrijk,H,0,2012-09-22,H,Germinal,2,1,Germinal_Kortrijk_2012
+58,0,B1,Oud-Heverlee Leuven,D,0,2012-09-22,D,Lokeren,2,2,Lokeren_Oud-Heverlee Leuven_2012
+59,1,B1,Bergen,H,0,2012-09-22,H,Mechelen,3,0,Mechelen_Bergen_2012
+60,0,B1,Lierse,D,1,2012-09-22,A,Waasland-Beveren,1,1,Waasland-Beveren_Lierse_2012
+61,1,B1,Anderlecht,A,1,2012-09-22,D,Waregem,2,3,Waregem_Anderlecht_2012
+62,0,B1,Genk,A,0,2012-09-23,D,Charleroi,1,2,Charleroi_Genk_2012
+63,2,B1,Cercle Brugge,H,0,2012-09-23,H,Club Brugge,4,0,Club Brugge_Cercle Brugge_2012
+64,0,B1,Lokeren,H,0,2012-09-29,D,Anderlecht,3,0,Anderlecht_Lokeren_2012
+65,0,B1,Germinal,H,0,2012-09-29,D,Bergen,1,0,Bergen_Germinal_2012
+66,0,B1,Charleroi,H,0,2012-09-29,D,Cercle Brugge,1,0,Cercle Brugge_Charleroi_2012
+67,1,B1,Mechelen,H,1,2012-09-29,D,Genk,2,1,Genk_Mechelen_2012
+68,1,B1,Waregem,A,2,2012-09-29,A,Lierse,1,4,Lierse_Waregem_2012
+69,1,B1,Waasland-Beveren,H,0,2012-09-29,H,Oud-Heverlee Leuven,5,2,Oud-Heverlee Leuven_Waasland-Beveren_2012
+70,2,B1,Club Brugge,D,2,2012-09-30,D,Gent,2,2,Gent_Club Brugge_2012
+71,1,B1,Standard,H,1,2012-09-30,D,Kortrijk,2,1,Kortrijk_Standard_2012
+72,0,B1,Gent,D,1,2012-10-05,A,Germinal,2,2,Germinal_Gent_2012
+73,0,B1,Oud-Heverlee Leuven,A,1,2012-10-06,A,Charleroi,0,4,Charleroi_Oud-Heverlee Leuven_2012
+74,2,B1,Lierse,D,0,2012-10-06,H,Lokeren,2,2,Lokeren_Lierse_2012
+75,0,B1,Kortrijk,A,1,2012-10-06,A,Mechelen,0,2,Mechelen_Kortrijk_2012
+76,1,B1,Bergen,D,0,2012-10-06,H,Waasland-Beveren,2,2,Waasland-Beveren_Bergen_2012
+77,0,B1,Cercle Brugge,H,0,2012-10-06,D,Waregem,3,1,Waregem_Cercle Brugge_2012
+78,1,B1,Genk,D,0,2012-10-07,H,Club Brugge,1,1,Club Brugge_Genk_2012
+79,2,B1,Anderlecht,H,1,2012-10-07,H,Standard,2,1,Standard_Anderlecht_2012
+80,1,B1,Waasland-Beveren,H,0,2012-10-19,H,Anderlecht,2,0,Anderlecht_Waasland-Beveren_2012
+81,0,B1,Mechelen,A,0,2012-10-20,D,Cercle Brugge,1,2,Cercle Brugge_Mechelen_2012
+82,2,B1,Germinal,H,0,2012-10-20,H,Genk,3,0,Genk_Germinal_2012
+83,0,B1,Kortrijk,A,1,2012-10-20,A,Gent,0,1,Gent_Kortrijk_2012
+84,0,B1,Charleroi,A,0,2012-10-20,D,Lierse,0,1,Lierse_Charleroi_2012
+85,2,B1,Club Brugge,H,1,2012-10-20,H,Oud-Heverlee Leuven,4,1,Oud-Heverlee Leuven_Club Brugge_2012
+86,0,B1,Lokeren,A,1,2012-10-20,A,Waregem,0,3,Waregem_Lokeren_2012
+87,1,B1,Standard,H,1,2012-10-21,D,Bergen,3,1,Bergen_Standard_2012
+88,1,B1,Cercle Brugge,H,0,2012-10-26,H,Standard,2,1,Standard_Cercle Brugge_2012
+89,1,B1,Anderlecht,H,0,2012-10-27,H,Charleroi,2,0,Charleroi_Anderlecht_2012
+90,1,B1,Bergen,H,0,2012-10-27,H,Gent,2,0,Gent_Bergen_2012
+91,0,B1,Oud-Heverlee Leuven,A,0,2012-10-27,D,Germinal,1,3,Germinal_Oud-Heverlee Leuven_2012
+92,2,B1,Lierse,H,0,2012-10-27,H,Mechelen,3,0,Mechelen_Lierse_2012
+93,0,B1,Waregem,A,1,2012-10-27,A,Waasland-Beveren,0,2,Waasland-Beveren_Waregem_2012
+94,1,B1,Lokeren,A,2,2012-10-28,A,Club Brugge,2,3,Club Brugge_Lokeren_2012
+95,0,B1,Genk,D,0,2012-10-28,D,Kortrijk,1,1,Kortrijk_Genk_2012
+96,2,B1,Gent,H,0,2012-10-30,H,Anderlecht,5,0,Anderlecht_Gent_2012
+97,0,B1,Kortrijk,H,0,2012-10-31,D,Bergen,1,0,Bergen_Kortrijk_2012
+98,2,B1,Germinal,H,1,2012-10-31,H,Cercle Brugge,3,1,Cercle Brugge_Germinal_2012
+99,0,B1,Standard,A,0,2012-10-31,D,Genk,0,2,Genk_Standard_2012
+100,2,B1,Club Brugge,H,1,2012-10-31,H,Lierse,3,2,Lierse_Club Brugge_2012
+101,0,B1,Waasland-Beveren,H,0,2012-10-31,D,Lokeren,2,0,Lokeren_Waasland-Beveren_2012
+102,1,B1,Mechelen,H,0,2012-10-31,H,Oud-Heverlee Leuven,3,1,Oud-Heverlee Leuven_Mechelen_2012
+103,3,B1,Charleroi,H,0,2012-10-31,H,Waregem,4,1,Waregem_Charleroi_2012
+104,1,B1,Cercle Brugge,H,1,2012-11-03,D,Bergen,3,2,Bergen_Cercle Brugge_2012
+105,0,B1,Lokeren,A,1,2012-11-03,A,Charleroi,0,2,Charleroi_Lokeren_2012
+106,0,B1,Genk,A,1,2012-11-03,A,Gent,1,2,Gent_Genk_2012
+107,0,B1,Waasland-Beveren,A,1,2012-11-03,A,Germinal,1,2,Germinal_Waasland-Beveren_2012
+108,2,B1,Lierse,H,0,2012-11-03,H,Kortrijk,4,1,Kortrijk_Lierse_2012
+109,0,B1,Anderlecht,A,2,2012-11-03,A,Mechelen,1,4,Mechelen_Anderlecht_2012
+110,0,B1,Waregem,A,1,2012-11-04,A,Club Brugge,0,1,Club Brugge_Waregem_2012
+111,1,B1,Oud-Heverlee Leuven,H,0,2012-11-04,H,Standard,2,0,Standard_Oud-Heverlee Leuven_2012
+112,1,B1,Standard,H,0,2012-11-09,H,Lokeren,2,1,Lokeren_Standard_2012
+113,0,B1,Gent,D,1,2012-11-10,A,Cercle Brugge,2,2,Cercle Brugge_Gent_2012
+114,0,B1,Germinal,A,1,2012-11-10,A,Lierse,1,3,Lierse_Germinal_2012
+115,0,B1,Kortrijk,D,0,2012-11-10,D,Oud-Heverlee Leuven,0,0,Oud-Heverlee Leuven_Kortrijk_2012
+116,0,B1,Charleroi,D,0,2012-11-10,D,Waasland-Beveren,0,0,Waasland-Beveren_Charleroi_2012
+117,0,B1,Mechelen,D,1,2012-11-10,A,Waregem,1,1,Waregem_Mechelen_2012
+118,3,B1,Club Brugge,H,0,2012-11-11,H,Anderlecht,6,1,Anderlecht_Club Brugge_2012
+119,3,B1,Bergen,H,1,2012-11-11,H,Genk,5,1,Genk_Bergen_2012
+120,1,B1,Genk,H,1,2012-11-17,D,Cercle Brugge,3,1,Cercle Brugge_Genk_2012
+121,0,B1,Mechelen,D,0,2012-11-17,D,Charleroi,1,1,Charleroi_Mechelen_2012
+122,1,B1,Gent,H,0,2012-11-17,H,Lierse,2,0,Lierse_Gent_2012
+123,0,B1,Bergen,A,1,2012-11-17,A,Oud-Heverlee Leuven,1,3,Oud-Heverlee Leuven_Bergen_2012
+124,0,B1,Club Brugge,A,3,2012-11-17,A,Waasland-Beveren,2,6,Waasland-Beveren_Club Brugge_2012
+125,0,B1,Kortrijk,H,0,2012-11-18,D,Anderlecht,1,0,Anderlecht_Kortrijk_2012
+126,0,B1,Germinal,H,0,2012-11-18,D,Lokeren,1,0,Lokeren_Germinal_2012
+127,0,B1,Standard,D,0,2012-11-18,D,Waregem,0,0,Waregem_Standard_2012
+128,3,B1,Lierse,H,0,2012-11-23,H,Standard,3,0,Standard_Lierse_2012
+129,1,B1,Lokeren,A,1,2012-11-24,D,Bergen,1,2,Bergen_Lokeren_2012
+130,0,B1,Waregem,A,0,2012-11-24,D,Gent,0,1,Gent_Waregem_2012
+131,1,B1,Anderlecht,A,2,2012-11-24,A,Germinal,1,4,Germinal_Anderlecht_2012
+132,1,B1,Cercle Brugge,H,1,2012-11-24,D,Kortrijk,3,1,Kortrijk_Cercle Brugge_2012
+133,0,B1,Waasland-Beveren,A,1,2012-11-24,A,Mechelen,0,1,Mechelen_Waasland-Beveren_2012
+134,0,B1,Charleroi,H,0,2012-11-25,D,Club Brugge,1,0,Club Brugge_Charleroi_2012
+135,1,B1,Oud-Heverlee Leuven,D,0,2012-11-25,H,Genk,1,1,Genk_Oud-Heverlee Leuven_2012
+136,0,B1,Cercle Brugge,H,1,2012-12-01,A,Anderlecht,2,1,Anderlecht_Cercle Brugge_2012
+137,2,B1,Kortrijk,H,0,2012-12-01,H,Charleroi,2,0,Charleroi_Kortrijk_2012
+138,0,B1,Mechelen,D,0,2012-12-01,D,Club Brugge,1,1,Club Brugge_Mechelen_2012
+139,0,B1,Bergen,A,2,2012-12-01,A,Lierse,0,3,Lierse_Bergen_2012
+140,1,B1,Gent,D,1,2012-12-01,D,Oud-Heverlee Leuven,1,1,Oud-Heverlee Leuven_Gent_2012
+141,0,B1,Germinal,D,0,2012-12-01,D,Waregem,0,0,Waregem_Germinal_2012
+142,1,B1,Genk,A,2,2012-12-02,A,Lokeren,3,4,Lokeren_Genk_2012
+143,0,B1,Standard,A,1,2012-12-02,A,Waasland-Beveren,0,2,Waasland-Beveren_Standard_2012
+144,5,B1,Charleroi,H,0,2012-12-07,H,Standard,6,1,Standard_Charleroi_2012
+145,0,B1,Anderlecht,A,2,2012-12-08,A,Bergen,0,5,Bergen_Anderlecht_2012
+146,1,B1,Oud-Heverlee Leuven,D,1,2012-12-08,D,Cercle Brugge,1,1,Cercle Brugge_Oud-Heverlee Leuven_2012
+147,0,B1,Waasland-Beveren,A,1,2012-12-08,A,Gent,0,2,Gent_Waasland-Beveren_2012
+148,0,B1,Waregem,A,1,2012-12-08,A,Kortrijk,1,2,Kortrijk_Waregem_2012
+149,1,B1,Lokeren,H,0,2012-12-08,H,Mechelen,2,1,Mechelen_Lokeren_2012
+150,0,B1,Lierse,H,0,2012-12-09,D,Genk,4,1,Genk_Lierse_2012
+151,0,B1,Club Brugge,A,3,2012-12-09,A,Germinal,1,7,Germinal_Club Brugge_2012
+152,1,B1,Germinal,H,0,2012-12-15,H,Charleroi,1,0,Charleroi_Germinal_2012
+153,1,B1,Bergen,H,0,2012-12-15,H,Club Brugge,2,0,Club Brugge_Bergen_2012
+154,0,B1,Cercle Brugge,D,0,2012-12-15,D,Lierse,1,1,Lierse_Cercle Brugge_2012
+155,1,B1,Gent,D,0,2012-12-15,H,Lokeren,2,2,Lokeren_Gent_2012
+156,0,B1,Standard,A,1,2012-12-15,A,Mechelen,0,2,Mechelen_Standard_2012
+157,0,B1,Kortrijk,H,0,2012-12-15,D,Waasland-Beveren,1,0,Waasland-Beveren_Kortrijk_2012
+158,1,B1,Oud-Heverlee Leuven,H,1,2012-12-16,D,Anderlecht,2,1,Anderlecht_Oud-Heverlee Leuven_2012
+159,1,B1,Genk,H,1,2012-12-16,D,Waregem,3,2,Waregem_Genk_2012
+160,1,B1,Lokeren,A,2,2012-12-21,A,Kortrijk,2,3,Kortrijk_Lokeren_2012
+161,1,B1,Waregem,D,1,2012-12-22,D,Bergen,1,1,Bergen_Waregem_2012
+162,1,B1,Waasland-Beveren,D,0,2012-12-22,H,Cercle Brugge,2,2,Cercle Brugge_Waasland-Beveren_2012
+163,0,B1,Charleroi,A,1,2012-12-22,A,Gent,1,2,Gent_Charleroi_2012
+164,0,B1,Mechelen,A,1,2012-12-22,A,Germinal,0,2,Germinal_Mechelen_2012
+165,0,B1,Lierse,D,1,2012-12-22,A,Oud-Heverlee Leuven,2,2,Oud-Heverlee Leuven_Lierse_2012
+166,0,B1,Anderlecht,A,2,2012-12-23,A,Genk,2,4,Genk_Anderlecht_2012
+167,1,B1,Club Brugge,A,0,2012-12-23,H,Standard,1,3,Standard_Club Brugge_2012
+168,1,B1,Bergen,A,0,2012-12-26,H,Charleroi,1,2,Charleroi_Bergen_2012
+169,0,B1,Kortrijk,D,0,2012-12-26,D,Club Brugge,0,0,Club Brugge_Kortrijk_2012
+170,1,B1,Cercle Brugge,H,0,2012-12-26,H,Lokeren,3,0,Lokeren_Cercle Brugge_2012
+171,1,B1,Gent,H,0,2012-12-26,H,Mechelen,1,0,Mechelen_Gent_2012
+172,0,B1,Genk,D,1,2012-12-26,A,Waasland-Beveren,1,1,Waasland-Beveren_Genk_2012
+173,0,B1,Oud-Heverlee Leuven,H,0,2012-12-26,D,Waregem,2,1,Waregem_Oud-Heverlee Leuven_2012
+174,2,B1,Lierse,H,0,2012-12-27,H,Anderlecht,4,1,Anderlecht_Lierse_2012
+175,1,B1,Germinal,H,0,2012-12-27,H,Standard,3,0,Standard_Germinal_2012
+176,2,B1,Mechelen,A,3,2013-01-19,A,Bergen,2,3,Bergen_Mechelen_2012
+177,1,B1,Charleroi,H,0,2013-01-19,H,Genk,3,1,Genk_Charleroi_2012
+178,0,B1,Standard,D,0,2013-01-19,D,Gent,0,0,Gent_Standard_2012
+179,2,B1,Germinal,H,0,2013-01-19,H,Kortrijk,4,0,Kortrijk_Germinal_2012
+180,0,B1,Waasland-Beveren,D,0,2013-01-19,D,Lierse,0,0,Lierse_Waasland-Beveren_2012
+181,0,B1,Lokeren,A,2,2013-01-19,A,Oud-Heverlee Leuven,2,6,Oud-Heverlee Leuven_Lokeren_2012
+182,0,B1,Kortrijk,H,0,2013-01-25,D,Standard,2,0,Standard_Kortrijk_2012
+183,0,B1,Bergen,D,0,2013-01-26,D,Germinal,0,0,Germinal_Bergen_2012
+184,0,B1,Anderlecht,A,0,2013-01-26,D,Lokeren,0,2,Lokeren_Anderlecht_2012
+185,0,B1,Genk,H,0,2013-01-26,D,Mechelen,2,1,Mechelen_Genk_2012
+186,0,B1,Oud-Heverlee Leuven,H,0,2013-01-26,D,Waasland-Beveren,2,0,Waasland-Beveren_Oud-Heverlee Leuven_2012
+187,1,B1,Lierse,H,0,2013-01-26,H,Waregem,2,0,Waregem_Lierse_2012
+188,0,B1,Gent,D,0,2013-01-27,D,Club Brugge,0,0,Club Brugge_Gent_2012
+189,1,B1,Waasland-Beveren,H,0,2013-02-02,H,Bergen,3,0,Bergen_Waasland-Beveren_2012
+190,1,B1,Waregem,A,1,2013-02-02,D,Cercle Brugge,1,2,Cercle Brugge_Waregem_2012
+191,1,B1,Germinal,H,0,2013-02-02,H,Gent,2,1,Gent_Germinal_2012
+192,2,B1,Mechelen,H,0,2013-02-02,H,Kortrijk,2,1,Kortrijk_Mechelen_2012
+193,0,B1,Lokeren,D,1,2013-02-02,A,Lierse,1,1,Lierse_Lokeren_2012
+194,0,B1,Charleroi,H,0,2013-02-02,D,Oud-Heverlee Leuven,1,0,Oud-Heverlee Leuven_Charleroi_2012
+195,1,B1,Standard,D,1,2013-02-03,D,Anderlecht,2,2,Anderlecht_Standard_2012
+196,1,B1,Club Brugge,H,0,2013-02-03,H,Genk,4,1,Genk_Club Brugge_2012
+197,1,B1,Lierse,H,0,2013-02-09,H,Charleroi,1,0,Charleroi_Lierse_2012
+198,0,B1,Oud-Heverlee Leuven,H,0,2013-02-09,D,Club Brugge,3,1,Club Brugge_Oud-Heverlee Leuven_2012
+199,0,B1,Genk,A,1,2013-02-09,A,Germinal,0,2,Germinal_Genk_2012
+200,0,B1,Gent,H,0,2013-02-09,D,Kortrijk,1,0,Kortrijk_Gent_2012
+201,0,B1,Waregem,D,1,2013-02-09,A,Lokeren,1,1,Lokeren_Waregem_2012
+202,0,B1,Cercle Brugge,H,0,2013-02-09,D,Mechelen,2,0,Mechelen_Cercle Brugge_2012
+203,0,B1,Bergen,A,1,2013-02-10,A,Standard,0,1,Standard_Bergen_2012
+204,1,B1,Anderlecht,A,0,2013-02-10,H,Waasland-Beveren,1,2,Waasland-Beveren_Anderlecht_2012
+205,2,B1,Charleroi,H,0,2013-02-15,H,Anderlecht,2,0,Anderlecht_Charleroi_2012
+206,0,B1,Gent,A,0,2013-02-16,D,Bergen,0,2,Bergen_Gent_2012
+207,0,B1,Standard,A,1,2013-02-16,A,Cercle Brugge,0,1,Cercle Brugge_Standard_2012
+208,0,B1,Mechelen,A,1,2013-02-16,A,Lierse,0,2,Lierse_Mechelen_2012
+209,0,B1,Germinal,D,0,2013-02-16,D,Oud-Heverlee Leuven,1,1,Oud-Heverlee Leuven_Germinal_2012
+210,1,B1,Waasland-Beveren,H,0,2013-02-16,H,Waregem,2,0,Waregem_Waasland-Beveren_2012
+211,1,B1,Kortrijk,H,0,2013-02-17,H,Genk,2,0,Genk_Kortrijk_2012
+212,1,B1,Club Brugge,D,1,2013-02-17,D,Lokeren,1,1,Lokeren_Club Brugge_2012
+213,2,B1,Cercle Brugge,H,1,2013-02-20,H,Charleroi,2,1,Charleroi_Cercle Brugge_2012
+214,0,B1,Cercle Brugge,H,0,2013-02-23,D,Gent,2,0,Gent_Cercle Brugge_2012
+215,0,B1,Lierse,A,2,2013-02-23,A,Germinal,1,3,Germinal_Lierse_2012
+216,0,B1,Bergen,A,0,2013-02-23,D,Kortrijk,0,1,Kortrijk_Bergen_2012
+217,1,B1,Oud-Heverlee Leuven,A,0,2013-02-23,H,Mechelen,1,2,Mechelen_Oud-Heverlee Leuven_2012
+218,0,B1,Lokeren,D,0,2013-02-23,D,Waasland-Beveren,0,0,Waasland-Beveren_Lokeren_2012
+219,1,B1,Anderlecht,D,0,2013-02-24,H,Club Brugge,2,2,Club Brugge_Anderlecht_2012
+220,0,B1,Genk,D,0,2013-02-24,D,Standard,0,0,Standard_Genk_2012
+221,0,B1,Waregem,A,0,2013-02-27,D,Anderlecht,0,1,Anderlecht_Waregem_2012
+222,0,B1,Club Brugge,A,1,2013-02-28,A,Cercle Brugge,0,3,Cercle Brugge_Club Brugge_2012
+223,0,B1,Waregem,A,0,2013-03-03,D,Charleroi,0,1,Charleroi_Waregem_2012
+224,0,B1,Mechelen,H,0,2013-03-09,D,Anderlecht,1,0,Anderlecht_Mechelen_2012
+225,0,B1,Bergen,A,0,2013-03-09,D,Cercle Brugge,1,3,Cercle Brugge_Bergen_2012
+226,1,B1,Gent,H,1,2013-03-09,D,Genk,3,2,Genk_Gent_2012
+227,0,B1,Kortrijk,H,0,2013-03-09,D,Lierse,1,0,Lierse_Kortrijk_2012
+228,0,B1,Charleroi,D,0,2013-03-09,D,Lokeren,1,1,Lokeren_Charleroi_2012
+229,0,B1,Standard,A,2,2013-03-09,A,Oud-Heverlee Leuven,0,4,Oud-Heverlee Leuven_Standard_2012
+230,1,B1,Germinal,H,1,2013-03-09,D,Waasland-Beveren,3,2,Waasland-Beveren_Germinal_2012
+231,0,B1,Club Brugge,A,0,2013-03-09,D,Waregem,1,2,Waregem_Club Brugge_2012
+232,1,B1,Genk,A,0,2013-03-16,H,Bergen,1,5,Bergen_Genk_2012
+233,1,B1,Waasland-Beveren,H,0,2013-03-16,H,Charleroi,3,0,Charleroi_Waasland-Beveren_2012
+234,3,B1,Lierse,H,0,2013-03-16,H,Club Brugge,3,0,Club Brugge_Lierse_2012
+235,0,B1,Anderlecht,D,1,2013-03-16,A,Gent,1,1,Gent_Anderlecht_2012
+236,0,B1,Cercle Brugge,H,0,2013-03-16,D,Germinal,3,1,Germinal_Cercle Brugge_2012
+237,0,B1,Oud-Heverlee Leuven,D,0,2013-03-16,D,Kortrijk,0,0,Kortrijk_Oud-Heverlee Leuven_2012
+238,0,B1,Waregem,A,1,2013-03-16,A,Mechelen,2,3,Mechelen_Waregem_2012
+239,0,B1,Lokeren,A,1,2013-03-16,A,Standard,0,2,Standard_Lokeren_2012

@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Sheffield United,14,0,0,0,0,L Mason,0,0,0,20,D,9,2009-08-07,Middlesbrough,E1,6,2,5,7,D,5,Middlesbrough_Sheffield United_2009
+1,0,Scunthorpe,8,4,0,0,3,J Moss,0,0,1,15,H,6,2009-08-08,Cardiff,E1,4,6,5,15,H,3,Cardiff_Scunthorpe_2009
+2,0,Plymouth,6,1,0,1,0,A Penn,0,1,2,11,D,7,2009-08-08,Crystal Palace,E1,3,5,7,16,A,5,Crystal Palace_Plymouth_2009
+3,1,Peterboro,6,2,0,1,1,P Taylor,0,0,3,15,H,7,2009-08-08,Derby,E1,2,6,10,12,H,5,Derby_Peterboro_2009
+4,2,Swansea,15,2,0,1,0,G Hegley,0,1,1,14,H,7,2009-08-08,Leicester,E1,3,9,7,15,A,3,Leicester_Swansea_2009
+5,2,Bristol City,15,2,0,2,0,M Oliver,0,0,2,8,D,11,2009-08-08,Preston,E1,6,10,11,14,D,8,Preston_Bristol City_2009
+6,4,Blackpool,8,1,0,1,0,A D'Urso,0,1,1,14,D,5,2009-08-08,QPR,E1,2,9,10,21,A,1,QPR_Blackpool_2009
+7,1,Nott'm Forest,4,0,1,0,0,P Crossley,0,0,2,5,D,7,2009-08-08,Reading,E1,1,0,1,7,D,3,Reading_Nott'm Forest_2009
+8,0,Barnsley,17,2,0,2,2,A Taylor,0,0,2,11,D,10,2009-08-08,Sheffield Weds,E1,7,8,5,11,H,3,Sheffield Weds_Barnsley_2009
+9,0,Doncaster,10,1,0,1,1,N Swarbrick,0,1,0,17,D,3,2009-08-08,Watford,E1,2,4,1,9,D,4,Watford_Doncaster_2009
+10,0,Newcastle,14,1,0,1,1,M Dean,0,0,2,11,D,13,2009-08-08,West Brom,E1,7,12,7,22,H,5,West Brom_Newcastle_2009
+11,0,Ipswich,8,2,0,1,2,R Booth,0,1,0,14,H,20,2009-08-09,Coventry,E1,9,7,7,7,H,12,Coventry_Ipswich_2009
+12,2,Coventry,13,0,0,2,0,S Tanner,1,1,1,13,A,12,2009-08-15,Barnsley,E1,4,1,7,4,A,4,Barnsley_Coventry_2009
+13,0,Cardiff,15,1,0,1,1,G Hegley,0,1,2,15,D,9,2009-08-15,Blackpool,E1,5,9,17,12,D,3,Blackpool_Cardiff_2009
+14,1,Crystal Palace,23,1,0,0,0,R Shoebridge,0,0,1,23,H,14,2009-08-15,Bristol City,E1,9,13,7,16,D,4,Bristol City_Crystal Palace_2009
+15,0,Preston,6,1,0,1,0,M Russell,0,1,1,8,D,7,2009-08-15,Doncaster,E1,4,5,3,10,A,2,Doncaster_Preston_2009
+16,1,Leicester,11,0,0,0,0,P Crossley,0,0,4,8,D,12,2009-08-15,Ipswich,E1,5,5,4,14,D,6,Ipswich_Leicester_2009
+17,3,Reading,7,3,0,0,1,A Taylor,0,0,0,7,H,10,2009-08-15,Newcastle,E1,4,7,11,16,H,9,Newcastle_Reading_2009
+18,2,West Brom,15,0,0,1,0,K Stroud,0,0,4,14,A,9,2009-08-15,Nott'm Forest,E1,4,6,7,13,D,5,Nott'm Forest_West Brom_2009
+19,0,Sheffield Weds,11,1,0,1,0,A D'Urso,0,1,1,10,D,10,2009-08-15,Peterboro,E1,7,6,8,15,A,7,Peterboro_Sheffield Weds_2009
+20,1,QPR,12,1,0,1,0,R East,0,1,0,11,D,13,2009-08-15,Plymouth,E1,6,4,9,7,A,11,Plymouth_QPR_2009
+21,0,Derby,10,3,0,2,2,G Horwood,0,1,0,9,H,5,2009-08-15,Scunthorpe,E1,2,12,4,15,H,5,Scunthorpe_Derby_2009
+22,2,Watford,18,2,0,0,1,M Oliver,0,0,2,14,H,11,2009-08-15,Sheffield United,E1,3,4,6,16,H,2,Sheffield United_Watford_2009
+23,2,Middlesbrough,7,0,0,3,0,P Taylor,0,1,4,15,A,10,2009-08-15,Swansea,E1,5,6,7,15,A,7,Swansea_Middlesbrough_2009
+24,4,Preston,17,0,0,3,0,D Whitestone,0,2,2,10,A,8,2009-08-18,Barnsley,E1,6,7,12,14,A,3,Barnsley_Preston_2009
+25,0,Derby,11,0,0,0,0,E Ilderton,0,0,0,8,D,12,2009-08-18,Blackpool,E1,1,6,8,10,D,7,Blackpool_Derby_2009
+26,3,QPR,12,1,0,0,0,P Gibbs,0,0,3,17,H,11,2009-08-18,Bristol City,E1,6,8,6,16,D,2,Bristol City_QPR_2009
+27,1,Coventry,10,0,0,0,0,C Boyeson,0,0,1,12,D,7,2009-08-18,Doncaster,E1,3,9,13,14,D,4,Doncaster_Coventry_2009
+28,0,Crystal Palace,12,1,0,3,0,K Hill,0,0,1,12,A,12,2009-08-18,Ipswich,E1,9,9,10,14,D,9,Ipswich_Crystal Palace_2009
+29,1,Watford,12,2,0,4,1,A Bates,0,1,1,9,A,10,2009-08-18,Nott'm Forest,E1,6,5,5,10,D,3,Nott'm Forest_Watford_2009
+30,2,West Brom,14,2,1,3,1,G Horwood,0,3,2,13,A,13,2009-08-18,Peterboro,E1,7,10,5,15,A,5,Peterboro_West Brom_2009
+31,1,Cardiff,15,1,1,3,0,R Booth,0,1,2,13,A,12,2009-08-18,Plymouth,E1,9,6,9,11,A,5,Plymouth_Cardiff_2009
+32,4,Middlesbrough,14,0,0,2,0,M Oliver,0,1,2,11,A,11,2009-08-18,Scunthorpe,E1,7,10,10,18,A,6,Scunthorpe_Middlesbrough_2009
+33,3,Leicester,13,1,0,1,0,N Miller,0,0,3,7,D,12,2009-08-18,Sheffield United,E1,6,4,5,11,D,5,Sheffield United_Leicester_2009
+34,3,Reading,5,0,0,0,0,S Hooper,0,0,4,17,D,6,2009-08-18,Swansea,E1,2,6,7,17,D,6,Swansea_Reading_2009
+35,3,Sheffield Weds,12,1,0,0,1,P Dowd,0,0,2,26,H,4,2009-08-19,Newcastle,E1,3,6,4,9,H,3,Newcastle_Sheffield Weds_2009
+36,3,Swansea,10,0,0,1,0,P Crossley,0,0,3,10,A,10,2009-08-22,Coventry,E1,4,5,4,8,D,5,Coventry_Swansea_2009
+37,3,Newcastle,14,0,0,2,0,A D'Urso,0,2,0,8,A,6,2009-08-22,Crystal Palace,E1,5,7,10,12,A,6,Crystal Palace_Newcastle_2009
+38,1,Plymouth,6,2,0,1,1,C Pawson,0,1,2,23,H,8,2009-08-22,Derby,E1,2,9,13,13,D,5,Derby_Plymouth_2009
+39,0,Barnsley,7,1,0,0,0,A Penn,0,0,0,10,H,12,2009-08-22,Leicester,E1,6,11,10,14,D,3,Leicester_Barnsley_2009
+40,2,Doncaster,9,2,0,0,1,G Salisbury,0,0,1,7,H,13,2009-08-22,Middlesbrough,E1,5,8,3,11,H,2,Middlesbrough_Doncaster_2009
+41,3,Peterboro,9,2,0,0,2,D Webb,0,0,1,9,H,10,2009-08-22,Preston,E1,4,5,5,11,H,5,Preston_Peterboro_2009
+42,0,Nott'm Forest,16,1,0,1,1,J Linington,0,0,0,19,D,8,2009-08-22,QPR,E1,3,7,4,16,H,4,QPR_Nott'm Forest_2009
+43,0,Sheffield United,8,1,0,3,1,M Russell,0,1,2,12,A,11,2009-08-22,Reading,E1,5,2,7,5,D,4,Reading_Sheffield United_2009
+44,0,Scunthorpe,13,4,0,0,3,A Hall,0,0,1,12,H,3,2009-08-22,Sheffield Weds,E1,2,9,12,13,H,9,Sheffield Weds_Scunthorpe_2009
+45,0,Blackpool,9,2,0,2,1,D Deadman,0,0,3,16,D,15,2009-08-22,Watford,E1,6,6,5,11,H,5,Watford_Blackpool_2009
+46,0,Ipswich,13,2,0,0,2,S Tanner,0,0,0,13,H,15,2009-08-22,West Brom,E1,7,13,7,19,H,8,West Brom_Ipswich_2009
+47,0,Bristol City,8,3,0,0,2,K Friend,0,0,3,14,H,12,2009-08-23,Cardiff,E1,5,10,5,12,H,5,Cardiff_Bristol City_2009
+48,0,Reading,13,1,0,3,1,M Oliver,0,1,2,10,A,11,2009-08-29,Barnsley,E1,7,4,5,9,D,11,Barnsley_Reading_2009
+49,1,Coventry,9,3,0,0,1,N Miller,0,0,0,7,H,7,2009-08-29,Blackpool,E1,5,8,2,17,H,5,Blackpool_Coventry_2009
+50,1,Middlesbrough,13,2,0,1,0,R Booth,0,0,2,15,H,9,2009-08-29,Bristol City,E1,6,4,3,6,D,6,Bristol City_Middlesbrough_2009
+51,0,Cardiff,6,2,0,0,2,E Ilderton,0,0,1,12,H,7,2009-08-29,Doncaster,E1,3,5,7,11,H,6,Doncaster_Cardiff_2009
+52,2,Preston,10,1,1,1,1,P Taylor,0,1,2,13,D,8,2009-08-29,Ipswich,E1,6,9,9,14,D,7,Ipswich_Preston_2009
+53,2,Derby,17,3,0,2,3,M Atkinson,0,0,4,19,H,4,2009-08-29,Nott'm Forest,E1,3,9,6,13,H,3,Nott'm Forest_Derby_2009
+54,3,Sheffield Weds,18,1,0,3,0,A Haines,0,1,3,14,A,8,2009-08-29,Plymouth,E1,5,2,8,10,A,7,Plymouth_Sheffield Weds_2009
+55,1,QPR,13,0,0,1,0,G Salisbury,0,1,1,13,A,10,2009-08-29,Scunthorpe,E1,3,8,8,15,A,2,Scunthorpe_QPR_2009
+56,1,West Brom,10,2,0,2,0,P Crossley,0,0,5,22,D,9,2009-08-29,Sheffield United,E1,2,4,2,12,D,0,Sheffield United_West Brom_2009
+57,3,Watford,10,1,0,1,0,A Taylor,0,0,1,11,D,4,2009-08-29,Swansea,E1,3,10,10,17,D,3,Swansea_Watford_2009
+58,1,Leicester,13,1,0,0,0,N Swarbrick,0,0,1,11,H,12,2009-08-31,Newcastle,E1,6,6,1,10,D,2,Newcastle_Leicester_2009
+59,2,Crystal Palace,17,1,1,1,0,K Friend,0,0,1,10,D,11,2009-08-31,Peterboro,E1,5,3,10,9,D,6,Peterboro_Crystal Palace_2009
+60,3,Bristol City,16,1,0,1,1,N Swarbrick,0,0,3,16,D,12,2009-09-12,Coventry,E1,7,7,5,15,H,4,Coventry_Bristol City_2009
+61,0,Scunthorpe,11,0,0,4,0,G Hegley,0,1,0,11,A,6,2009-09-12,Crystal Palace,E1,5,5,7,11,A,1,Crystal Palace_Scunthorpe_2009
+62,2,Sheffield United,13,0,0,1,0,A D'Urso,0,0,4,16,A,14,2009-09-12,Derby,E1,4,6,4,8,D,5,Derby_Sheffield United_2009
+63,1,Blackpool,4,2,0,1,1,J Singh,0,1,3,13,H,8,2009-09-12,Leicester,E1,3,5,5,10,D,11,Leicester_Blackpool_2009
+64,3,Ipswich,15,3,0,1,1,K Friend,0,0,5,15,H,10,2009-09-12,Middlesbrough,E1,9,7,5,9,H,12,Middlesbrough_Ipswich_2009
+65,2,Swansea,5,2,0,0,1,E Ilderton,0,0,3,15,H,7,2009-09-12,Preston,E1,6,10,7,15,H,6,Preston_Swansea_2009
+66,2,Peterboro,9,1,0,1,1,O Langford,0,1,2,8,D,14,2009-09-12,QPR,E1,7,9,8,19,D,8,QPR_Peterboro_2009
+67,0,Doncaster,17,0,0,0,0,P Gibbs,0,0,3,12,D,9,2009-09-12,Reading,E1,5,5,12,8,D,4,Reading_Doncaster_2009
+68,1,Nott'm Forest,9,1,0,1,1,S Tanner,0,1,2,16,D,11,2009-09-12,Sheffield Weds,E1,6,5,4,10,D,4,Sheffield Weds_Nott'm Forest_2009
+69,1,Barnsley,13,1,0,0,0,D Phillips,0,0,2,16,H,6,2009-09-12,Watford,E1,3,5,10,11,D,3,Watford_Barnsley_2009
+70,1,Plymouth,10,3,0,1,2,G Salisbury,0,1,0,5,H,5,2009-09-12,West Brom,E1,2,8,11,16,H,5,West Brom_Plymouth_2009
+71,0,Newcastle,11,0,1,1,0,A Hall,0,1,3,20,A,2,2009-09-13,Cardiff,E1,2,14,7,16,A,6,Cardiff_Newcastle_2009
+72,1,Sheffield United,16,3,0,2,1,A Taylor,0,1,0,8,H,16,2009-09-15,Coventry,E1,14,5,3,8,D,7,Coventry_Sheffield United_2009
+73,1,Barnsley,10,2,0,3,1,N Miller,0,1,1,12,A,7,2009-09-15,Derby,E1,3,5,11,13,D,3,Derby_Barnsley_2009
+74,3,Nott'm Forest,16,1,0,1,1,G Ward,1,0,4,14,D,6,2009-09-15,Ipswich,E1,3,7,7,13,H,3,Ipswich_Nott'm Forest_2009
+75,1,Peterboro,13,1,0,1,0,R Booth,0,1,4,17,D,14,2009-09-15,Leicester,E1,2,7,6,14,A,3,Leicester_Peterboro_2009
+76,3,Watford,11,0,0,1,0,G Scott,0,1,0,4,A,9,2009-09-15,Plymouth,E1,5,7,14,19,A,11,Plymouth_Watford_2009
+77,0,Preston,11,3,0,1,2,K Hill,0,0,3,15,H,10,2009-09-15,Scunthorpe,E1,8,10,10,16,H,5,Scunthorpe_Preston_2009
+78,0,Middlesbrough,12,1,0,3,1,A Bates,0,1,2,12,A,8,2009-09-15,Sheffield Weds,E1,7,5,8,7,D,9,Sheffield Weds_Middlesbrough_2009
+79,1,Bristol City,5,0,0,0,0,D Whitestone,0,0,4,21,D,8,2009-09-15,Swansea,E1,4,7,7,16,D,5,Swansea_Bristol City_2009
+80,2,Doncaster,12,3,0,1,1,K Wright,0,1,0,9,H,7,2009-09-15,West Brom,E1,4,11,7,16,D,4,West Brom_Doncaster_2009
+81,0,Newcastle,5,2,0,1,1,J Moss,0,1,1,3,H,13,2009-09-16,Blackpool,E1,10,16,5,23,D,6,Blackpool_Newcastle_2009
+82,0,Cardiff,7,0,1,1,0,P Taylor,0,0,1,6,A,9,2009-09-16,Reading,E1,5,6,12,13,D,2,Reading_Cardiff_2009
+83,6,Sheffield Weds,19,3,0,2,3,A Wiley,0,0,1,12,H,19,2009-09-18,Sheffield United,E1,12,12,9,17,H,4,Sheffield United_Sheffield Weds_2009
+84,2,Swansea,21,0,0,0,0,R Shoebridge,0,0,0,12,D,12,2009-09-19,Barnsley,E1,3,0,5,7,D,10,Barnsley_Swansea_2009
+85,1,Scunthorpe,11,1,0,1,0,D McDermid,0,0,1,9,D,10,2009-09-19,Bristol City,E1,5,8,4,15,D,0,Bristol City_Scunthorpe_2009
+86,2,QPR,10,0,0,2,0,L Probert,0,2,2,10,A,11,2009-09-19,Cardiff,E1,5,7,3,12,A,5,Cardiff_QPR_2009
+87,2,Derby,12,1,0,0,0,M Oliver,0,0,2,11,H,7,2009-09-19,Crystal Palace,E1,3,6,4,12,D,6,Crystal Palace_Derby_2009
+88,0,Ipswich,7,3,0,3,1,N Miller,0,0,0,4,D,14,2009-09-19,Doncaster,E1,8,6,5,9,H,6,Doncaster_Ipswich_2009
+89,2,West Brom,14,0,0,5,0,T Kettle,0,3,5,13,A,12,2009-09-19,Middlesbrough,E1,6,5,4,12,A,8,Middlesbrough_West Brom_2009
+90,1,Plymouth,9,3,0,1,1,S Mathieson,0,0,3,15,H,14,2009-09-19,Newcastle,E1,7,10,6,18,H,4,Newcastle_Plymouth_2009
+91,0,Blackpool,10,0,0,1,0,A Penn,0,1,0,6,A,8,2009-09-19,Nott'm Forest,E1,3,8,7,13,A,3,Nott'm Forest_Blackpool_2009
+92,0,Reading,13,3,0,2,0,C Sarginson,0,2,2,8,H,15,2009-09-19,Peterboro,E1,5,11,5,17,A,2,Peterboro_Reading_2009
+93,1,Coventry,13,3,0,2,0,D Deadman,0,1,1,7,H,14,2009-09-19,Preston,E1,11,6,5,13,A,9,Preston_Coventry_2009
+94,0,Leicester,8,3,0,3,0,C Pawson,0,2,2,9,D,11,2009-09-19,Watford,E1,6,3,7,8,A,3,Watford_Leicester_2009
+95,0,Peterboro,11,2,0,0,2,A Bates,0,0,0,8,H,13,2009-09-26,Blackpool,E1,7,5,3,9,H,8,Blackpool_Peterboro_2009
+96,2,Middlesbrough,10,2,0,2,0,G Horwood,0,2,3,14,D,12,2009-09-26,Coventry,E1,8,7,1,12,A,4,Coventry_Middlesbrough_2009
+97,2,Bristol City,12,1,1,0,0,M Russell,0,0,3,8,H,5,2009-09-26,Derby,E1,1,8,7,20,D,4,Derby_Bristol City_2009
+98,1,Newcastle,9,0,0,4,0,M Jones,0,3,1,10,A,7,2009-09-26,Ipswich,E1,5,0,0,1,A,2,Ipswich_Newcastle_2009
+99,3,Preston,10,1,0,2,0,J Linnington,0,1,0,7,A,10,2009-09-26,Leicester,E1,6,7,5,20,A,4,Leicester_Preston_2009
+100,1,Barnsley,13,5,0,2,3,K Evans,0,0,3,8,H,12,2009-09-26,QPR,E1,6,12,7,20,H,5,QPR_Barnsley_2009
+101,0,Watford,11,1,1,1,1,M Haywood,0,0,1,8,D,8,2009-09-26,Reading,E1,3,6,2,14,H,9,Reading_Watford_2009
+102,3,Doncaster,10,2,2,2,0,K Stroud,0,1,3,15,D,11,2009-09-26,Scunthorpe,E1,5,5,8,13,A,5,Scunthorpe_Doncaster_2009
+103,1,Cardiff,10,3,1,1,1,M Oliver,0,1,4,12,H,5,2009-09-26,Sheffield Weds,E1,1,12,5,20,D,1,Sheffield Weds_Cardiff_2009
+104,3,Sheffield United,11,2,0,1,0,D Deadman,2,0,1,12,H,6,2009-09-26,Swansea,E1,3,5,5,8,D,6,Swansea_Sheffield United_2009
+105,3,Crystal Palace,11,0,0,1,0,R Booth,0,0,2,11,A,10,2009-09-26,West Brom,E1,2,5,9,13,D,4,West Brom_Crystal Palace_2009
+106,0,Nott'm Forest,19,0,0,1,0,A Woolmer,0,1,0,15,A,18,2009-09-27,Plymouth,E1,9,3,3,8,A,6,Plymouth_Nott'm Forest_2009
+107,1,West Brom,8,3,0,1,2,S Mathieson,0,0,1,12,H,8,2009-09-29,Barnsley,E1,4,8,3,13,H,5,Barnsley_West Brom_2009
+108,0,Blackpool,9,2,0,0,1,R East,0,0,1,6,H,17,2009-09-29,Bristol City,E1,8,8,2,15,H,11,Bristol City_Blackpool_2009
+109,0,Derby,9,6,0,1,2,S Hooper,0,0,1,8,H,8,2009-09-29,Cardiff,E1,6,10,1,11,H,4,Cardiff_Derby_2009
+110,2,Sheffield Weds,10,0,0,0,0,T Kettle,0,0,2,13,D,12,2009-09-29,Crystal Palace,E1,3,1,4,9,D,4,Crystal Palace_Sheffield Weds_2009
+111,0,Swansea,10,0,0,0,0,A Haines,0,0,1,8,D,7,2009-09-29,Doncaster,E1,1,3,2,9,D,6,Doncaster_Swansea_2009
+112,0,Leicester,12,0,0,1,0,M Haywood,0,0,1,14,A,7,2009-09-29,Middlesbrough,E1,5,7,4,17,D,3,Middlesbrough_Leicester_2009
+113,1,Plymouth,10,1,0,2,0,A Hall,0,0,2,14,A,9,2009-09-29,Peterboro,E1,6,10,13,16,D,3,Peterboro_Plymouth_2009
+114,0,Reading,3,1,0,2,0,A Penn,0,2,3,16,A,13,2009-09-29,Preston,E1,8,9,9,16,A,5,Preston_Reading_2009
+115,3,Ipswich,5,3,0,3,1,E Ilderton,0,2,1,9,D,11,2009-09-29,Sheffield United,E1,6,5,5,8,A,5,Sheffield United_Ipswich_2009
+116,0,Coventry,7,2,0,3,2,A Marriner,0,1,0,15,A,15,2009-09-29,Watford,E1,11,6,9,13,H,7,Watford_Coventry_2009
+117,1,QPR,12,1,0,1,0,R Shoebridge,0,1,3,15,D,12,2009-09-30,Newcastle,E1,2,6,1,11,A,7,Newcastle_QPR_2009
+118,2,Scunthorpe,7,2,0,0,0,D Webb,0,0,3,4,H,10,2009-09-30,Nott'm Forest,E1,5,13,11,20,D,4,Nott'm Forest_Scunthorpe_2009
+119,1,Ipswich,10,2,0,1,1,P Gibbs,0,1,2,10,H,16,2009-10-03,Barnsley,E1,7,4,10,10,D,11,Barnsley_Ipswich_2009
+120,2,Leicester,15,1,0,1,1,M Oliver,0,0,2,10,D,11,2009-10-03,Coventry,E1,7,9,6,17,H,3,Coventry_Leicester_2009
+121,1,Blackpool,9,4,0,1,2,A Taylor,0,0,1,8,H,9,2009-10-03,Crystal Palace,E1,4,5,1,6,H,8,Crystal Palace_Blackpool_2009
+122,1,Sheffield Weds,11,3,0,0,1,C Foy,0,0,1,14,H,9,2009-10-03,Derby,E1,3,7,2,14,H,7,Derby_Sheffield Weds_2009
+123,1,Bristol City,11,0,0,0,0,G Salisbury,0,0,2,14,D,7,2009-10-03,Newcastle,E1,4,6,6,18,D,3,Newcastle_Bristol City_2009
+124,1,Nott'm Forest,7,1,0,2,0,J Moss,0,0,4,12,A,9,2009-10-03,Peterboro,E1,5,4,5,10,D,7,Peterboro_Nott'm Forest_2009
+125,1,Scunthorpe,11,2,0,1,0,A D'Urso,0,0,2,13,H,12,2009-10-03,Plymouth,E1,4,5,9,7,D,4,Plymouth_Scunthorpe_2009
+126,0,West Brom,12,0,0,0,0,A Bates,0,0,0,12,D,17,2009-10-03,Preston,E1,9,3,6,9,D,7,Preston_West Brom_2009
+127,0,Middlesbrough,7,0,0,2,0,N Swarbrick,0,1,0,9,A,9,2009-10-03,Reading,E1,7,8,6,16,A,5,Reading_Middlesbrough_2009
+128,0,Doncaster,14,1,0,1,0,L Probert,0,1,1,8,D,9,2009-10-03,Sheffield United,E1,7,10,10,22,A,2,Sheffield United_Doncaster_2009
+129,1,QPR,6,2,2,0,0,K Hill,0,0,3,13,H,7,2009-10-03,Swansea,E1,2,8,7,15,D,2,Swansea_QPR_2009
+130,1,Cardiff,20,0,0,4,0,A Woolmer,0,2,2,7,A,15,2009-10-03,Watford,E1,8,10,13,16,A,4,Watford_Cardiff_2009
+131,1,Plymouth,5,2,0,0,1,D Webb,0,0,4,10,H,9,2009-10-17,Blackpool,E1,4,13,7,20,H,1,Blackpool_Plymouth_2009
+132,1,Peterboro,9,1,0,1,1,K Hill,0,0,2,9,D,16,2009-10-17,Bristol City,E1,7,10,2,12,H,4,Bristol City_Peterboro_2009
+133,0,Crystal Palace,6,1,0,1,1,S Tanner,0,1,3,12,D,9,2009-10-17,Cardiff,E1,4,6,3,10,D,3,Cardiff_Crystal Palace_2009
+134,0,Barnsley,6,0,0,1,0,G Salisbury,0,0,2,12,A,8,2009-10-17,Doncaster,E1,3,4,6,12,D,7,Doncaster_Barnsley_2009
+135,0,Swansea,21,1,0,1,1,K Wright,0,1,1,10,D,8,2009-10-17,Ipswich,E1,5,7,7,14,D,1,Ipswich_Swansea_2009
+136,2,Derby,10,0,0,0,0,M Dean,0,0,0,13,D,5,2009-10-17,Leicester,E1,3,3,3,14,D,3,Leicester_Derby_2009
+137,1,Watford,13,0,0,1,0,S Mathieson,0,1,1,9,A,9,2009-10-17,Middlesbrough,E1,3,9,15,17,A,3,Middlesbrough_Watford_2009
+138,1,Newcastle,12,1,0,0,1,P Taylor,0,0,3,5,H,18,2009-10-17,Nott'm Forest,E1,7,7,3,13,H,7,Nott'm Forest_Newcastle_2009
+139,0,Preston,11,4,0,0,1,R Booth,0,0,0,10,H,9,2009-10-17,QPR,E1,5,9,3,16,H,6,QPR_Preston_2009
+140,2,Sheffield United,13,3,0,1,1,A Bates,0,0,1,9,H,12,2009-10-17,Scunthorpe,E1,7,7,2,11,H,6,Scunthorpe_Sheffield United_2009
+141,2,Coventry,11,2,0,0,2,C Webster,0,0,1,8,H,11,2009-10-17,Sheffield Weds,E1,6,2,4,5,H,10,Sheffield Weds_Coventry_2009
+142,1,Reading,11,3,0,1,1,A Taylor,0,1,1,9,H,4,2009-10-17,West Brom,E1,2,11,9,16,D,2,West Brom_Reading_2009
+143,1,Sheffield United,9,3,0,0,0,S Mathieson,0,0,1,10,H,10,2009-10-20,Blackpool,E1,6,5,8,16,D,3,Blackpool_Sheffield United_2009
+144,0,Plymouth,5,3,0,1,0,G Hegley,0,0,0,9,H,12,2009-10-20,Bristol City,E1,7,9,8,16,D,3,Bristol City_Plymouth_2009
+145,1,Coventry,7,2,0,0,1,M Russell,0,0,4,8,H,7,2009-10-20,Cardiff,E1,4,7,5,17,H,3,Cardiff_Coventry_2009
+146,0,Peterboro,11,3,0,1,2,C Webster,0,1,0,5,H,7,2009-10-20,Doncaster,E1,5,8,6,12,H,3,Doncaster_Peterboro_2009
+147,2,Watford,15,1,0,1,1,T Kettle,0,0,2,8,D,10,2009-10-20,Ipswich,E1,7,11,11,21,H,2,Ipswich_Watford_2009
+148,0,Crystal Palace,8,2,0,0,0,R East,0,0,0,10,H,9,2009-10-20,Leicester,E1,5,10,4,14,D,6,Leicester_Crystal Palace_2009
+149,3,Derby,18,2,0,0,1,J Moss,0,0,2,12,H,8,2009-10-20,Middlesbrough,E1,3,5,5,9,H,3,Middlesbrough_Derby_2009
+150,2,Barnsley,12,1,0,0,0,N Miller,1,0,2,14,H,9,2009-10-20,Nott'm Forest,E1,5,11,9,15,D,2,Nott'm Forest_Barnsley_2009
+151,3,Reading,11,4,1,1,2,A Hall,1,0,1,15,H,18,2009-10-20,QPR,E1,8,12,4,17,H,10,QPR_Reading_2009
+152,1,Newcastle,9,2,0,1,0,A Penn,0,0,1,11,H,20,2009-10-20,Scunthorpe,E1,11,4,0,11,D,8,Scunthorpe_Newcastle_2009
+153,1,Preston,11,1,0,2,1,R Shoebridge,0,1,2,17,A,9,2009-10-20,Sheffield Weds,E1,5,10,11,18,D,6,Sheffield Weds_Preston_2009
+154,1,Swansea,15,0,0,1,0,A D'Urso,0,0,2,9,A,9,2009-10-20,West Brom,E1,5,4,4,14,D,3,West Brom_Swansea_2009
+155,0,Sheffield Weds,10,4,0,1,2,P Crossley,0,1,0,9,H,12,2009-10-23,Watford,E1,5,7,4,8,H,5,Watford_Sheffield Weds_2009
+156,1,Bristol City,15,2,0,3,0,A Haines,1,2,1,18,A,12,2009-10-24,Barnsley,E1,4,4,6,11,A,2,Barnsley_Bristol City_2009
+157,3,West Brom,13,0,0,0,0,K Stroud,0,0,3,12,D,13,2009-10-24,Coventry,E1,9,1,3,5,D,8,Coventry_West Brom_2009
+158,2,Nott'm Forest,16,1,0,1,1,G Horwood,0,0,1,9,D,7,2009-10-24,Crystal Palace,E1,4,7,7,13,H,7,Crystal Palace_Nott'm Forest_2009
+159,2,QPR,11,2,0,4,2,M Haywood,0,1,0,12,A,14,2009-10-24,Derby,E1,9,6,3,10,H,6,Derby_QPR_2009
+160,3,Doncaster,13,2,0,1,0,D Deadman,1,1,4,17,H,6,2009-10-24,Newcastle,E1,3,10,8,18,A,3,Newcastle_Doncaster_2009
+161,1,Scunthorpe,13,3,0,0,2,M Jones,0,0,3,11,H,10,2009-10-24,Peterboro,E1,4,8,8,14,H,7,Peterboro_Scunthorpe_2009
+162,1,Ipswich,11,1,0,1,1,S Hooper,1,0,1,5,D,14,2009-10-24,Plymouth,E1,8,8,7,12,H,4,Plymouth_Ipswich_2009
+163,1,Middlesbrough,14,2,0,2,0,A Woolmer,0,1,3,11,D,17,2009-10-24,Preston,E1,5,6,2,9,A,9,Preston_Middlesbrough_2009
+164,2,Cardiff,10,3,0,4,2,T Kettle,0,2,2,12,A,13,2009-10-24,Sheffield United,E1,8,9,9,19,D,7,Sheffield United_Cardiff_2009
+165,0,Blackpool,7,0,0,0,0,A Hall,0,0,3,19,D,7,2009-10-24,Swansea,E1,3,6,13,18,D,3,Swansea_Blackpool_2009
+166,3,Leicester,13,0,0,1,0,K Hill,0,1,0,18,A,10,2009-10-26,Reading,E1,6,5,9,16,A,5,Reading_Leicester_2009
+167,0,Leicester,6,1,0,2,1,J Moss,0,1,3,12,A,16,2009-10-30,QPR,E1,9,7,4,15,D,6,QPR_Leicester_2009
+168,1,Sheffield Weds,13,1,0,1,0,F Graham,0,0,2,15,D,11,2009-10-31,Bristol City,E1,7,6,6,10,D,6,Bristol City_Sheffield Weds_2009
+169,1,Reading,8,1,0,3,0,E Ilderton,0,1,0,4,A,17,2009-10-31,Coventry,E1,11,9,9,12,A,6,Coventry_Reading_2009
+170,2,Blackpool,9,3,0,3,1,M Oliver,0,1,0,8,D,9,2009-10-31,Doncaster,E1,7,10,9,17,D,9,Doncaster_Blackpool_2009
+171,1,Derby,11,1,0,0,0,A Taylor,0,0,2,8,H,13,2009-10-31,Ipswich,E1,5,7,5,16,D,7,Ipswich_Derby_2009
+172,0,Plymouth,7,0,0,1,0,M Russell,0,0,1,11,A,9,2009-10-31,Middlesbrough,E1,4,6,7,12,D,4,Middlesbrough_Plymouth_2009
+173,0,Barnsley,6,1,0,2,1,C Boyeson,0,2,4,15,A,7,2009-10-31,Peterboro,E1,5,7,8,16,A,5,Peterboro_Barnsley_2009
+174,1,Crystal Palace,7,1,0,1,1,D Foster,0,1,2,10,D,18,2009-10-31,Preston,E1,9,6,12,14,D,7,Preston_Crystal Palace_2009
+175,2,Swansea,12,0,0,2,0,K Evans,0,1,1,6,A,16,2009-10-31,Scunthorpe,E1,10,3,6,10,A,8,Scunthorpe_Swansea_2009
+176,1,Watford,7,5,0,0,2,N Miller,0,0,1,10,H,12,2009-10-31,West Brom,E1,4,7,5,12,H,4,West Brom_Watford_2009
+177,1,Nott'm Forest,10,1,0,1,0,G Salisbury,0,0,1,3,D,4,2009-11-01,Cardiff,E1,0,5,3,5,D,0,Cardiff_Nott'm Forest_2009
+178,1,Newcastle,10,0,0,1,0,K Friend,0,0,2,18,A,10,2009-11-02,Sheffield United,E1,4,13,7,21,D,6,Sheffield United_Newcastle_2009
+179,1,Crystal Palace,7,1,0,1,1,M Russell,0,0,1,13,D,11,2009-11-03,QPR,E1,5,7,8,13,H,3,QPR_Crystal Palace_2009
+180,1,Coventry,9,2,1,1,0,P Crossley,0,1,4,15,H,5,2009-11-06,Derby,E1,3,6,11,13,A,2,Derby_Coventry_2009
+181,0,Scunthorpe,9,4,1,1,0,C Webster,0,0,2,10,H,9,2009-11-07,Blackpool,E1,5,11,5,20,D,4,Blackpool_Scunthorpe_2009
+182,1,Middlesbrough,11,1,0,0,0,J Linnington,0,0,1,10,H,8,2009-11-07,Crystal Palace,E1,5,2,5,11,D,9,Crystal Palace_Middlesbrough_2009
+183,2,West Brom,14,1,0,2,0,N Swarbrick,0,2,0,8,A,13,2009-11-07,Leicester,E1,6,3,9,8,A,5,Leicester_West Brom_2009
+184,0,Peterboro,5,3,0,1,2,A D'Urso,0,0,1,8,H,11,2009-11-07,Newcastle,E1,5,10,8,18,H,4,Newcastle_Peterboro_2009
+185,4,Bristol City,14,1,0,1,0,A Taylor,0,0,3,14,D,4,2009-11-07,Nott'm Forest,E1,3,3,8,7,D,2,Nott'm Forest_Bristol City_2009
+186,2,Doncaster,8,2,1,1,1,P Taylor,0,1,1,5,H,12,2009-11-07,Plymouth,E1,5,8,10,14,D,2,Plymouth_Doncaster_2009
+187,0,Ipswich,12,1,0,1,0,D Whitestone,0,1,0,13,D,9,2009-11-07,Reading,E1,6,4,12,17,A,5,Reading_Ipswich_2009
+188,0,QPR,12,1,0,2,1,N Miller,0,1,0,3,A,15,2009-11-07,Sheffield Weds,E1,8,8,5,13,D,2,Sheffield Weds_QPR_2009
+189,2,Cardiff,14,3,0,2,2,L Probert,0,2,1,10,H,12,2009-11-07,Swansea,E1,7,8,7,10,D,2,Swansea_Cardiff_2009
+190,2,Preston,11,2,0,0,2,K Wright,0,0,2,17,H,11,2009-11-07,Watford,E1,7,11,7,24,H,2,Watford_Preston_2009
+191,1,Sheffield United,16,2,0,2,0,M Clattenburg,0,0,2,15,D,8,2009-11-09,Barnsley,E1,3,10,7,19,D,4,Barnsley_Sheffield United_2009
+192,0,Derby,9,1,0,0,0,R East,0,0,4,19,H,1,2009-11-20,Swansea,E1,1,8,15,14,D,2,Swansea_Derby_2009
+193,1,Cardiff,20,1,0,0,0,K Wright,0,0,2,13,H,7,2009-11-21,Barnsley,E1,1,7,7,12,D,6,Barnsley_Cardiff_2009
+194,2,Crystal Palace,16,1,0,1,0,J Singh,0,1,3,17,D,9,2009-11-21,Coventry,E1,5,4,11,6,A,2,Coventry_Crystal Palace_2009
+195,0,QPR,6,2,0,0,0,A Bates,0,0,1,10,H,5,2009-11-21,Doncaster,E1,1,11,6,11,D,6,Doncaster_QPR_2009
+196,0,Sheffield Weds,12,0,0,0,0,A D'Urso,0,0,3,15,D,13,2009-11-21,Ipswich,E1,8,10,5,14,D,5,Ipswich_Sheffield Weds_2009
+197,1,Plymouth,9,1,0,0,0,D McDermid,0,0,2,10,H,3,2009-11-21,Leicester,E1,2,6,9,15,D,6,Leicester_Plymouth_2009
+198,2,Nott'm Forest,13,1,0,1,1,L Probert,0,0,2,15,D,9,2009-11-21,Middlesbrough,E1,5,4,1,9,H,4,Middlesbrough_Nott'm Forest_2009
+199,1,Blackpool,8,2,0,1,0,G Scott,0,0,3,12,H,13,2009-11-21,Reading,E1,4,11,12,19,D,7,Reading_Blackpool_2009
+200,0,Peterboro,12,1,0,0,1,G Hegley,0,0,0,16,H,12,2009-11-21,Sheffield United,E1,2,10,7,14,H,1,Sheffield United_Peterboro_2009
+201,1,Scunthorpe,11,3,0,0,2,C Sarginson,0,0,2,21,H,7,2009-11-21,Watford,E1,4,9,5,14,H,6,Watford_Scunthorpe_2009
+202,1,Bristol City,17,4,0,1,2,M Oliver,0,0,0,10,H,13,2009-11-21,West Brom,E1,6,8,3,14,H,7,West Brom_Bristol City_2009
+203,0,Newcastle,13,0,0,1,0,S Mathieson,0,1,1,7,A,14,2009-11-23,Preston,E1,3,8,6,16,A,5,Preston_Newcastle_2009
+204,4,Sheffield United,8,2,0,3,0,A Hall,0,2,5,14,A,9,2009-11-28,Bristol City,E1,5,14,4,20,A,9,Bristol City_Sheffield United_2009
+205,2,Watford,14,3,0,0,2,O Langford,0,0,1,11,H,6,2009-11-28,Crystal Palace,E1,2,6,6,11,H,8,Crystal Palace_Watford_2009
+206,2,Reading,15,2,1,1,0,A Haines,0,0,3,16,H,9,2009-11-28,Derby,E1,4,5,7,8,D,4,Derby_Reading_2009
+207,0,Swansea,8,3,0,0,3,M Haywood,0,0,1,11,H,15,2009-11-28,Newcastle,E1,7,6,4,9,H,9,Newcastle_Swansea_2009
+208,0,Doncaster,10,4,0,1,1,S Mathieson,0,0,0,7,H,8,2009-11-28,Nott'm Forest,E1,2,6,6,10,H,5,Nott'm Forest_Doncaster_2009
+209,2,Middlesbrough,14,2,0,2,0,D Phillips,0,1,1,14,D,13,2009-11-28,Peterboro,E1,7,4,4,9,A,6,Peterboro_Middlesbrough_2009
+210,0,Coventry,10,2,1,2,1,M Jones,0,1,5,12,D,13,2009-11-28,QPR,E1,9,13,11,27,D,7,QPR_Coventry_2009
+211,1,Leicester,15,1,0,1,0,R Shoebridge,0,1,1,15,D,11,2009-11-28,Scunthorpe,E1,6,5,5,9,A,7,Scunthorpe_Leicester_2009
+212,2,West Brom,5,0,0,4,0,E Ilderton,0,3,1,11,A,16,2009-11-28,Sheffield Weds,E1,11,4,1,8,A,5,Sheffield Weds_West Brom_2009
+213,0,Ipswich,6,1,0,2,1,J Singh,0,0,3,9,A,12,2009-11-29,Cardiff,E1,8,5,5,8,H,6,Cardiff_Ipswich_2009
+214,2,Preston,11,1,0,1,1,K Friend,0,1,2,14,D,15,2009-11-30,Blackpool,E1,10,11,7,25,D,6,Blackpool_Preston_2009
+215,1,Barnsley,11,1,0,2,0,L Mason,0,0,2,14,A,5,2009-12-05,Blackpool,E1,4,13,5,23,D,6,Blackpool_Barnsley_2009
+216,1,Ipswich,8,0,0,0,0,A Bates,0,0,1,10,D,21,2009-12-05,Bristol City,E1,14,12,6,17,D,5,Bristol City_Ipswich_2009
+217,1,Preston,10,1,0,0,0,R East,0,0,1,16,H,8,2009-12-05,Cardiff,E1,5,5,7,14,D,6,Cardiff_Preston_2009
+218,0,Doncaster,9,0,0,3,0,P Miller,0,1,0,7,A,8,2009-12-05,Crystal Palace,E1,5,4,11,10,A,9,Crystal Palace_Doncaster_2009
+219,2,West Brom,16,2,0,2,1,D Deadman,0,0,1,8,D,11,2009-12-05,Derby,E1,7,7,4,10,H,5,Derby_West Brom_2009
+220,1,Watford,10,2,0,0,1,J Moss,1,0,2,10,H,14,2009-12-05,Newcastle,E1,8,9,4,12,H,9,Newcastle_Watford_2009
+221,1,Leicester,7,5,0,1,2,M Russell,0,0,1,10,H,5,2009-12-05,Nott'm Forest,E1,3,10,5,16,H,1,Nott'm Forest_Leicester_2009
+222,1,Swansea,14,2,0,2,0,R Booth,0,0,0,7,D,12,2009-12-05,Peterboro,E1,8,4,4,4,D,3,Peterboro_Swansea_2009
+223,2,Sheffield United,16,0,0,1,0,G Horwood,0,0,3,18,A,5,2009-12-05,Plymouth,E1,4,3,4,9,D,6,Plymouth_Sheffield United_2009
+224,1,Middlesbrough,7,1,0,5,0,P Gibbs,0,1,2,10,A,13,2009-12-05,QPR,E1,8,2,6,11,A,2,QPR_Middlesbrough_2009
+225,1,Reading,9,0,0,2,0,D Webb,0,0,0,5,A,8,2009-12-05,Sheffield Weds,E1,5,3,6,10,D,4,Sheffield Weds_Reading_2009
+226,1,Coventry,9,1,0,0,1,N Miller,0,0,0,8,H,13,2009-12-06,Scunthorpe,E1,9,7,9,20,H,9,Scunthorpe_Coventry_2009
+227,0,QPR,8,3,0,1,1,A Penn,0,1,3,12,H,5,2009-12-07,Watford,E1,3,9,6,12,D,3,Watford_QPR_2009
+228,2,Sheffield Weds,10,1,0,0,0,A Wiley,0,0,4,16,H,12,2009-12-08,Doncaster,E1,4,2,4,5,D,3,Doncaster_Sheffield Weds_2009
+229,0,Peterboro,7,0,0,0,0,A Hall,0,0,1,10,D,7,2009-12-08,Ipswich,E1,5,10,11,18,D,4,Ipswich_Peterboro_2009
+230,1,Bristol City,12,1,0,3,0,S Cook,1,2,2,10,A,12,2009-12-08,Leicester,E1,5,3,6,10,A,4,Leicester_Bristol City_2009
+231,1,Blackpool,11,0,0,3,0,R Shoebridge,0,2,1,9,A,9,2009-12-08,Middlesbrough,E1,5,3,5,6,A,1,Middlesbrough_Blackpool_2009
+232,3,Derby,15,0,0,0,0,P Gibbs,0,0,3,13,D,13,2009-12-08,Preston,E1,6,8,7,21,D,4,Preston_Derby_2009
+233,0,Crystal Palace,18,2,0,4,1,K Friend,0,3,3,22,A,7,2009-12-08,Reading,E1,6,2,9,6,A,3,Reading_Crystal Palace_2009
+234,2,Nott'm Forest,12,0,0,0,0,A Haines,0,0,1,13,D,6,2009-12-08,Sheffield United,E1,2,8,6,11,D,3,Sheffield United_Nott'm Forest_2009
+235,2,Plymouth,4,1,1,0,0,S Tanner,0,0,4,18,H,6,2009-12-08,Swansea,E1,3,7,9,13,D,2,Swansea_Plymouth_2009
+236,2,Cardiff,11,0,0,2,0,P Taylor,1,1,2,5,A,7,2009-12-08,West Brom,E1,4,4,6,11,A,6,West Brom_Cardiff_2009
+237,2,Scunthorpe,13,1,0,1,0,E Ilderton,0,0,2,8,D,8,2009-12-09,Barnsley,E1,3,3,7,6,D,4,Barnsley_Scunthorpe_2009
+238,1,Newcastle,12,0,0,2,0,G Hegley,0,1,0,7,A,10,2009-12-09,Coventry,E1,6,7,4,13,A,7,Coventry_Newcastle_2009
+239,2,Newcastle,8,2,0,2,0,G Salisbury,0,1,1,13,D,10,2009-12-12,Barnsley,E1,3,6,10,11,A,2,Barnsley_Newcastle_2009
+240,2,Peterboro,17,3,0,2,2,R East,0,0,1,13,H,19,2009-12-12,Coventry,E1,11,7,5,11,H,13,Coventry_Peterboro_2009
+241,1,Bristol City,6,1,0,0,1,J Singh,0,0,1,11,H,9,2009-12-12,Doncaster,E1,3,3,7,10,H,5,Doncaster_Bristol City_2009
+242,2,Blackpool,15,3,1,1,2,P Crossley,0,0,4,16,H,7,2009-12-12,Ipswich,E1,3,10,4,16,H,5,Ipswich_Blackpool_2009
+243,0,Sheffield Weds,3,3,0,0,2,C Boyeson,0,0,2,11,H,12,2009-12-12,Leicester,E1,4,9,10,11,H,6,Leicester_Sheffield Weds_2009
+244,1,Plymouth,7,2,0,0,2,M Oliver,0,0,1,13,H,18,2009-12-12,Preston,E1,7,6,11,22,H,4,Preston_Plymouth_2009
+245,2,Scunthorpe,13,1,0,1,1,A Bates,0,0,3,15,D,8,2009-12-12,Reading,E1,4,6,7,16,H,4,Reading_Scunthorpe_2009
+246,1,Crystal Palace,12,2,0,0,1,C Webster,0,0,4,10,H,6,2009-12-12,Sheffield United,E1,1,7,4,12,H,1,Sheffield United_Crystal Palace_2009
+247,1,Nott'm Forest,7,0,0,1,0,S Hooper,0,1,4,18,A,7,2009-12-12,Swansea,E1,4,2,7,9,A,4,Swansea_Nott'm Forest_2009
+248,5,Derby,18,0,0,1,0,K Stroud,0,0,3,16,A,6,2009-12-12,Watford,E1,4,2,2,8,D,2,Watford_Derby_2009
+249,0,Cardiff,10,0,0,1,0,G Hegley,0,0,2,13,A,8,2009-12-13,Middlesbrough,E1,4,8,6,18,D,5,Middlesbrough_Cardiff_2009
+250,2,QPR,7,2,0,2,0,A Taylor,0,0,0,6,D,10,2009-12-14,West Brom,E1,7,14,7,23,D,4,West Brom_QPR_2009
+251,0,Reading,8,1,1,1,1,M Haywood,0,0,2,12,D,18,2009-12-19,Bristol City,E1,12,5,3,10,H,9,Bristol City_Reading_2009
+252,1,Barnsley,16,1,0,1,0,K Hill,0,1,4,15,D,6,2009-12-19,Crystal Palace,E1,5,5,7,7,A,3,Crystal Palace_Barnsley_2009
+253,1,Doncaster,12,0,0,2,0,T Kettle,0,1,1,13,A,8,2009-12-19,Derby,E1,6,4,9,9,A,4,Derby_Doncaster_2009
+254,0,Preston,5,3,0,0,2,F Graham,0,0,1,8,H,11,2009-12-19,Nott'm Forest,E1,5,15,6,22,H,7,Nott'm Forest_Preston_2009
+255,0,Watford,9,2,0,1,1,K Evans,0,0,2,4,H,14,2009-12-19,Peterboro,E1,8,7,5,13,H,7,Peterboro_Watford_2009
+256,0,Coventry,15,0,0,1,0,K Stroud,0,0,1,11,A,5,2009-12-19,Plymouth,E1,2,7,8,10,D,8,Plymouth_Coventry_2009
+257,1,Sheffield United,5,1,0,1,1,N Swarbrick,0,1,2,6,D,8,2009-12-19,QPR,E1,3,5,8,12,D,3,QPR_Sheffield United_2009
+258,2,Swansea,16,0,0,2,0,O Langford,0,2,1,11,A,4,2009-12-19,Sheffield Weds,E1,4,3,6,5,A,6,Sheffield Weds_Swansea_2009
+259,1,Middlesbrough,12,2,0,0,1,K Friend,0,0,2,14,H,8,2009-12-20,Newcastle,E1,4,8,3,13,H,1,Newcastle_Middlesbrough_2009
+260,1,Plymouth,10,0,0,1,0,P Gibbs,0,0,4,17,A,5,2009-12-26,Cardiff,E1,2,5,8,14,D,4,Cardiff_Plymouth_2009
+261,0,Doncaster,10,1,0,0,0,R Shoebridge,0,0,0,6,H,7,2009-12-26,Coventry,E1,4,4,4,12,D,2,Coventry_Doncaster_2009
+262,4,Ipswich,10,3,1,1,1,P Taylor,0,1,1,13,H,8,2009-12-26,Crystal Palace,E1,4,9,3,12,D,3,Crystal Palace_Ipswich_2009
+263,1,Blackpool,9,0,0,2,0,S Mathieson,0,1,0,9,A,13,2009-12-26,Derby,E1,5,3,5,8,A,1,Derby_Blackpool_2009
+264,0,Sheffield United,9,2,0,1,2,D Deadman,0,0,0,12,H,11,2009-12-26,Leicester,E1,6,7,8,16,H,8,Leicester_Sheffield United_2009
+265,0,Scunthorpe,12,3,1,0,2,N Swarbrick,1,0,1,7,H,10,2009-12-26,Middlesbrough,E1,5,10,7,22,H,4,Middlesbrough_Scunthorpe_2009
+266,0,Bristol City,10,2,0,1,2,D Phillips,0,0,3,17,H,11,2009-12-26,QPR,E1,9,2,4,6,H,6,QPR_Bristol City_2009
+267,1,Swansea,13,1,0,1,1,M Russell,0,1,3,9,D,8,2009-12-26,Reading,E1,6,5,6,8,D,3,Reading_Swansea_2009
+268,2,Newcastle,19,2,0,2,1,S Attwell,0,2,0,8,D,7,2009-12-26,Sheffield Weds,E1,6,6,9,12,A,1,Sheffield Weds_Newcastle_2009
+269,1,Nott'm Forest,8,0,0,0,0,A D'Urso,0,0,2,16,D,8,2009-12-26,Watford,E1,4,4,4,9,D,5,Watford_Nott'm Forest_2009
+270,2,Peterboro,13,2,0,0,0,M Jones,0,0,3,12,H,5,2009-12-26,West Brom,E1,2,7,7,15,D,3,West Brom_Peterboro_2009
+271,4,Middlesbrough,13,2,0,1,0,A Hall,0,1,2,16,H,10,2009-12-28,Barnsley,E1,3,8,5,15,A,3,Barnsley_Middlesbrough_2009
+272,2,Watford,12,2,0,2,2,J Linington,1,1,2,9,D,19,2009-12-28,Bristol City,E1,14,9,6,15,H,4,Bristol City_Watford_2009
+273,0,QPR,11,3,0,0,1,S Tanner,0,0,0,5,H,16,2009-12-28,Ipswich,E1,6,8,8,15,H,5,Ipswich_QPR_2009
+274,1,Derby,15,0,1,0,0,K Wright,0,0,3,21,D,5,2009-12-28,Newcastle,E1,2,7,12,13,D,1,Newcastle_Derby_2009
+275,1,Coventry,11,2,0,0,1,M Clattenburg,0,0,0,8,H,6,2009-12-28,Nott'm Forest,E1,3,4,7,9,H,12,Nott'm Forest_Coventry_2009
+276,2,Cardiff,9,4,0,4,0,D Whitestone,0,4,1,15,D,7,2009-12-28,Peterboro,E1,6,9,2,16,A,3,Peterboro_Cardiff_2009
+277,2,Reading,16,4,0,1,1,S Hooper,0,0,1,12,H,4,2009-12-28,Plymouth,E1,4,9,7,13,H,5,Plymouth_Reading_2009
+278,2,West Brom,10,1,0,3,0,J Moss,2,1,2,10,A,21,2009-12-28,Scunthorpe,E1,11,6,3,10,A,6,Scunthorpe_West Brom_2009
+279,1,Preston,10,1,0,0,0,T Kettle,0,0,1,17,H,5,2009-12-28,Sheffield United,E1,1,6,8,14,D,2,Sheffield United_Preston_2009
+280,3,Crystal Palace,8,0,0,0,0,A Taylor,1,0,1,17,D,12,2009-12-28,Swansea,E1,5,3,3,5,D,0,Swansea_Crystal Palace_2009
+281,2,Nott'm Forest,14,1,0,3,0,L Probert,0,1,2,8,A,12,2010-01-08,West Brom,E1,6,6,10,11,A,2,West Brom_Nott'm Forest_2009
+282,3,Blackpool,10,1,0,1,1,G Ward,0,0,1,13,D,14,2010-01-09,Cardiff,E1,10,3,5,11,H,8,Cardiff_Blackpool_2009
+283,0,Barnsley,11,3,0,1,2,L Mason,0,0,3,14,H,11,2010-01-09,Coventry,E1,8,7,5,10,H,5,Coventry_Barnsley_2009
+284,0,Scunthorpe,12,1,0,4,0,K Woolmer,0,2,1,11,A,18,2010-01-09,Derby,E1,13,11,6,18,A,4,Derby_Scunthorpe_2009
+285,0,Ipswich,9,1,0,1,1,M Haywood,0,1,1,10,D,12,2010-01-10,Leicester,E1,6,8,8,13,D,10,Leicester_Ipswich_2009
+286,1,Sheffield Weds,9,1,0,2,1,A Penn,0,2,2,14,A,10,2010-01-16,Barnsley,E1,9,5,6,10,A,8,Barnsley_Sheffield Weds_2009
+287,1,QPR,7,2,0,2,1,T Kettle,0,0,1,12,D,9,2010-01-16,Blackpool,E1,3,6,7,17,H,5,Blackpool_QPR_2009
+288,2,Preston,11,4,0,2,2,G Ward,0,1,2,13,H,15,2010-01-16,Bristol City,E1,7,11,4,17,H,9,Bristol City_Preston_2009
+289,1,Watford,8,2,0,1,0,A Hall,0,0,2,10,H,8,2010-01-16,Doncaster,E1,5,10,5,16,D,7,Doncaster_Watford_2009
+290,2,Coventry,13,3,0,2,1,M Oliver,0,1,3,13,H,8,2010-01-16,Ipswich,E1,6,11,3,15,D,2,Ipswich_Coventry_2009
+291,1,Reading,11,2,0,1,2,D Deadman,1,0,1,11,H,3,2010-01-16,Nott'm Forest,E1,3,4,3,7,H,2,Nott'm Forest_Reading_2009
+292,1,Derby,7,0,0,3,0,N Miller,2,1,1,9,A,14,2010-01-16,Peterboro,E1,8,6,5,10,A,7,Peterboro_Derby_2009
+293,1,Crystal Palace,14,0,0,1,0,A Bates,0,1,5,15,A,10,2010-01-16,Plymouth,E1,6,4,2,7,A,3,Plymouth_Crystal Palace_2009
+294,1,Cardiff,17,1,0,1,1,S Mathieson,0,0,2,9,D,16,2010-01-16,Scunthorpe,E1,9,7,6,15,H,5,Scunthorpe_Cardiff_2009
+295,3,Middlesbrough,20,1,0,0,0,A D'Urso,0,0,2,16,H,9,2010-01-16,Sheffield United,E1,4,3,3,6,D,4,Sheffield United_Middlesbrough_2009
+296,1,Leicester,5,1,0,0,1,F Graham,0,0,3,7,H,5,2010-01-16,Swansea,E1,0,2,5,7,H,8,Swansea_Leicester_2009
+297,2,West Brom,14,2,0,2,1,P Taylor,0,1,5,16,D,17,2010-01-18,Newcastle,E1,8,7,6,8,D,11,Newcastle_West Brom_2009
+298,2,Sheffield Weds,14,1,0,2,0,A Hall,0,0,5,18,A,10,2010-01-19,Blackpool,E1,6,11,6,17,D,0,Blackpool_Sheffield Weds_2009
+299,1,Watford,12,3,0,2,1,C Boyeson,0,1,0,12,H,7,2010-01-23,Blackpool,E1,5,16,9,25,D,2,Blackpool_Watford_2009
+300,1,Swansea,13,1,0,1,0,A Penn,0,0,0,7,D,11,2010-01-23,Middlesbrough,E1,5,5,4,11,D,3,Middlesbrough_Swansea_2009
+301,1,Peterboro,8,2,0,1,1,D Foster,0,0,1,11,H,12,2010-01-23,Sheffield Weds,E1,7,11,8,14,H,13,Sheffield Weds_Peterboro_2009
+302,0,Leicester,18,1,0,0,0,D Webb,0,0,1,10,H,9,2010-01-26,Barnsley,E1,5,10,9,12,D,9,Barnsley_Leicester_2009
+303,1,Cardiff,12,0,0,6,0,A D'Urso,0,4,0,7,A,12,2010-01-26,Bristol City,E1,10,6,8,12,A,5,Bristol City_Cardiff_2009
+304,1,Middlesbrough,9,1,0,4,0,S Tanner,0,2,0,11,A,8,2010-01-26,Doncaster,E1,5,8,10,10,A,3,Doncaster_Middlesbrough_2009
+305,2,West Brom,14,1,0,1,0,S Attwell,0,0,3,5,D,22,2010-01-26,Ipswich,E1,14,11,5,18,D,12,Ipswich_West Brom_2009
+306,1,QPR,12,5,0,0,3,E Ilderton,0,0,3,8,H,8,2010-01-26,Nott'm Forest,E1,4,6,2,9,H,5,Nott'm Forest_QPR_2009
+307,0,Preston,10,0,0,1,0,D Sheldrake,0,1,2,14,A,11,2010-01-26,Peterboro,E1,8,6,4,15,A,5,Peterboro_Preston_2009
+308,2,Derby,14,1,0,0,0,A Hall,0,0,6,11,H,7,2010-01-26,Plymouth,E1,1,4,9,11,D,8,Plymouth_Derby_2009
+309,4,Reading,17,3,0,0,2,P Crossley,0,0,2,13,H,14,2010-01-26,Sheffield United,E1,6,5,5,9,H,8,Sheffield United_Reading_2009
+310,0,Coventry,13,0,0,0,0,D McDermid,0,0,2,16,D,4,2010-01-26,Swansea,E1,1,7,8,11,D,1,Swansea_Coventry_2009
+311,2,Crystal Palace,11,2,0,0,1,R Booth,0,0,1,20,H,13,2010-01-27,Newcastle,E1,6,3,6,8,H,6,Newcastle_Crystal Palace_2009
+312,0,Sheffield Weds,11,2,0,0,1,M Clattenburg,0,0,0,16,H,10,2010-01-27,Scunthorpe,E1,4,8,3,10,H,4,Scunthorpe_Sheffield Weds_2009
+313,1,Doncaster,14,2,0,1,1,G Scott,0,0,3,6,H,9,2010-01-30,Cardiff,E1,6,5,9,11,H,6,Cardiff_Doncaster_2009
+314,0,Blackpool,10,1,1,1,0,D Whitestone,0,0,1,9,D,17,2010-01-30,Coventry,E1,6,6,3,13,D,8,Coventry_Blackpool_2009
+315,0,Peterboro,14,2,0,0,1,G Salisbury,0,0,0,3,H,8,2010-01-30,Crystal Palace,E1,6,7,4,13,H,5,Crystal Palace_Peterboro_2009
+316,5,Nott'm Forest,15,1,0,0,0,N Swarbrick,0,0,3,16,H,7,2010-01-30,Derby,E1,3,5,16,8,D,6,Derby_Nott'm Forest_2009
+317,3,Newcastle,10,0,0,0,0,A Marriner,1,0,1,12,D,17,2010-01-30,Leicester,E1,7,5,7,9,D,5,Leicester_Newcastle_2009
+318,1,Bristol City,11,0,0,0,0,C Webster,1,0,3,18,D,7,2010-01-30,Middlesbrough,E1,6,3,5,13,D,2,Middlesbrough_Bristol City_2009
+319,1,Ipswich,9,2,0,0,0,J Moss,0,0,5,17,H,10,2010-01-30,Preston,E1,3,4,2,11,D,8,Preston_Ipswich_2009
+320,0,Scunthorpe,8,0,0,1,0,G Hegley,0,0,1,11,A,11,2010-01-30,QPR,E1,5,8,8,20,D,4,QPR_Scunthorpe_2009
+321,1,Barnsley,15,1,0,0,1,J Linnington,0,0,1,18,H,4,2010-01-30,Reading,E1,0,3,5,9,H,2,Reading_Barnsley_2009
+322,1,Plymouth,13,2,0,1,2,K Wright,0,1,2,13,H,6,2010-01-30,Sheffield Weds,E1,1,3,4,3,H,5,Sheffield Weds_Plymouth_2009
+323,3,Sheffield United,17,3,0,1,2,M Russell,0,0,1,11,H,4,2010-01-30,West Brom,E1,2,5,6,12,H,4,West Brom_Sheffield United_2009
+324,1,Barnsley,10,1,0,4,1,N Miller,0,2,2,8,A,16,2010-02-02,Preston,E1,8,2,5,8,A,6,Preston_Barnsley_2009
+325,0,Sheffield United,7,3,0,0,1,K Hill,0,0,4,14,H,5,2010-02-02,Watford,E1,2,6,7,10,H,3,Watford_Sheffield United_2009
+326,1,West Brom,5,2,0,3,1,D Foster,0,2,0,6,A,11,2010-02-03,Blackpool,E1,6,5,3,16,A,8,Blackpool_West Brom_2009
+327,1,Cardiff,13,5,0,1,3,K Friend,0,0,1,8,H,8,2010-02-05,Newcastle,E1,5,9,4,12,H,5,Newcastle_Cardiff_2009
+328,1,Watford,13,1,0,0,0,F Graham,1,0,1,12,H,4,2010-02-06,Barnsley,E1,2,4,3,11,D,4,Barnsley_Watford_2009
+329,1,Leicester,7,1,0,2,0,A Haines,0,1,0,12,A,15,2010-02-06,Blackpool,E1,10,9,10,24,A,7,Blackpool_Leicester_2009
+330,1,Coventry,17,1,0,1,0,G Horwood,0,0,0,12,D,9,2010-02-06,Bristol City,E1,5,9,7,22,D,3,Bristol City_Coventry_2009
+331,1,Reading,10,1,1,2,0,K Stroud,0,1,2,9,A,9,2010-02-06,Doncaster,E1,5,7,5,18,A,7,Doncaster_Reading_2009
+332,1,Middlesbrough,15,1,0,1,1,K Hill,0,0,1,7,D,11,2010-02-06,Ipswich,E1,9,10,11,13,H,5,Ipswich_Middlesbrough_2009
+333,2,Sheffield Weds,18,2,0,1,1,T Kettle,0,0,1,11,H,8,2010-02-06,Nott'm Forest,E1,3,5,3,7,H,6,Nott'm Forest_Sheffield Weds_2009
+334,3,QPR,11,1,2,0,1,D McDermid,0,0,1,15,H,10,2010-02-06,Peterboro,E1,4,9,0,12,H,2,Peterboro_QPR_2009
+335,3,West Brom,9,0,1,1,0,S Tanner,0,0,3,14,A,9,2010-02-06,Plymouth,E1,5,5,3,11,D,4,Plymouth_West Brom_2009
+336,3,Crystal Palace,12,1,0,2,0,P Tierney,1,0,5,15,A,11,2010-02-06,Scunthorpe,E1,4,3,11,11,D,3,Scunthorpe_Crystal Palace_2009
+337,2,Derby,14,1,0,1,0,G Salisbury,0,1,0,7,D,11,2010-02-06,Sheffield United,E1,5,8,9,14,A,4,Sheffield United_Derby_2009
+338,2,Preston,11,2,0,0,1,P Gibbs,0,0,4,22,H,1,2010-02-06,Swansea,E1,0,6,5,13,H,3,Swansea_Preston_2009
+339,0,Peterboro,7,2,0,0,1,A Penn,0,0,0,10,H,9,2010-02-09,Cardiff,E1,4,3,3,16,H,3,Cardiff_Peterboro_2009
+340,4,Nott'm Forest,15,1,0,0,1,A Bates,0,0,0,14,H,11,2010-02-09,Coventry,E1,3,3,4,9,H,5,Coventry_Nott'm Forest_2009
+341,0,Swansea,8,0,0,1,0,G Scott,0,1,1,7,A,7,2010-02-09,Crystal Palace,E1,3,2,5,6,A,7,Crystal Palace_Swansea_2009
+342,4,Newcastle,14,3,0,0,1,A Taylor,0,0,1,10,H,8,2010-02-09,Derby,E1,5,4,2,7,H,6,Derby_Newcastle_2009
+343,1,Doncaster,8,0,0,0,0,R Booth,0,0,1,12,D,9,2010-02-09,Leicester,E1,3,3,6,12,D,4,Leicester_Doncaster_2009
+344,1,Barnsley,11,2,0,1,2,C Boyeson,0,0,0,12,H,10,2010-02-09,Middlesbrough,E1,4,7,7,13,H,1,Middlesbrough_Barnsley_2009
+345,1,Sheffield United,9,2,0,1,1,E Ilderton,0,0,1,11,H,8,2010-02-09,Preston,E1,4,5,6,11,H,10,Preston_Sheffield United_2009
+346,1,Ipswich,14,1,0,2,0,F Graham,0,2,2,10,A,15,2010-02-09,QPR,E1,10,6,7,9,A,5,QPR_Ipswich_2009
+347,0,Plymouth,8,2,0,1,0,O Langford,0,0,2,20,H,7,2010-02-09,Reading,E1,2,7,9,13,D,4,Reading_Plymouth_2009
+348,0,Blackpool,10,2,0,0,1,G Eltrigham,0,0,0,7,H,6,2010-02-09,Sheffield Weds,E1,1,3,4,7,H,4,Sheffield Weds_Blackpool_2009
+349,0,Bristol City,16,2,0,0,2,D McDermid,0,0,5,17,H,5,2010-02-09,Watford,E1,2,4,5,9,H,5,Watford_Bristol City_2009
+350,1,Scunthorpe,7,2,1,0,1,K Wright,0,0,1,9,H,9,2010-02-09,West Brom,E1,2,13,14,17,H,3,West Brom_Scunthorpe_2009
+351,2,Plymouth,12,1,0,3,1,K Evans,0,0,4,17,A,13,2010-02-13,Barnsley,E1,8,3,15,13,H,3,Barnsley_Plymouth_2009
+352,2,QPR,11,1,0,0,1,D Foster,0,0,3,12,H,10,2010-02-13,Coventry,E1,5,3,2,4,H,9,Coventry_QPR_2009
+353,1,Nott'm Forest,8,1,1,0,1,A Penn,0,0,2,12,H,8,2010-02-13,Doncaster,E1,3,10,6,14,H,5,Doncaster_Nott'm Forest_2009
+354,0,Scunthorpe,8,5,0,1,4,D Phillips,0,0,0,11,H,9,2010-02-13,Leicester,E1,3,9,7,17,H,3,Leicester_Scunthorpe_2009
+355,1,Peterboro,7,1,0,0,1,J Moss,0,0,1,9,H,4,2010-02-13,Middlesbrough,E1,2,5,5,12,H,7,Middlesbrough_Peterboro_2009
+356,1,Blackpool,12,0,0,0,0,M Jones,0,0,1,7,D,15,2010-02-13,Preston,E1,5,3,9,12,D,7,Preston_Blackpool_2009
+357,1,Bristol City,16,2,0,0,0,D Deadman,0,0,2,10,H,12,2010-02-13,Sheffield United,E1,8,12,8,21,D,4,Sheffield United_Bristol City_2009
+358,1,Newcastle,10,1,0,1,0,A Woolmer,0,0,2,15,D,5,2010-02-13,Swansea,E1,2,9,8,16,D,5,Swansea_Newcastle_2009
+359,2,Middlesbrough,13,2,0,0,1,M Haywood,1,0,2,14,H,12,2010-02-16,Blackpool,E1,6,8,6,12,H,0,Blackpool_Middlesbrough_2009
+360,1,Leicester,16,1,0,1,0,S Hooper,0,0,2,13,D,12,2010-02-16,Bristol City,E1,5,10,5,18,D,5,Bristol City_Leicester_2009
+361,0,West Brom,8,1,0,1,1,A Woolmer,0,1,4,8,D,14,2010-02-16,Cardiff,E1,4,2,3,7,D,3,Cardiff_West Brom_2009
+362,1,Preston,7,5,0,3,1,C Pawson,0,1,1,13,H,13,2010-02-16,Derby,E1,7,18,14,28,D,5,Derby_Preston_2009
+363,2,Sheffield United,7,1,1,0,1,N Miller,0,0,4,15,H,2,2010-02-16,Nott'm Forest,E1,1,6,9,9,H,1,Nott'm Forest_Sheffield United_2009
+364,1,Ipswich,11,3,0,1,0,J Linington,0,1,2,12,H,13,2010-02-16,Peterboro,E1,10,11,9,11,A,6,Peterboro_Ipswich_2009
+365,0,Swansea,9,1,0,1,0,K Hill,0,0,3,11,D,8,2010-02-16,Plymouth,E1,6,3,7,6,D,3,Plymouth_Swansea_2009
+366,1,Barnsley,12,2,0,1,0,C Webster,0,0,0,11,H,14,2010-02-16,Scunthorpe,E1,5,9,6,16,D,6,Scunthorpe_Barnsley_2009
+367,1,Doncaster,12,0,0,2,0,E Ilderton,0,1,0,4,A,19,2010-02-16,Sheffield Weds,E1,11,9,6,13,A,9,Sheffield Weds_Doncaster_2009
+368,2,Reading,17,1,0,3,0,D Whitestone,0,1,1,7,A,11,2010-02-17,Crystal Palace,E1,7,7,6,13,A,6,Crystal Palace_Reading_2009
+369,0,Coventry,4,4,1,1,1,S Tanner,0,1,4,17,H,6,2010-02-17,Newcastle,E1,4,9,12,16,D,1,Newcastle_Coventry_2009
+370,1,Reading,8,2,0,0,1,C Pawson,0,0,1,12,H,7,2010-02-20,Blackpool,E1,5,9,3,17,H,7,Blackpool_Reading_2009
+371,1,Barnsley,7,0,0,2,0,K Stroud,0,2,2,13,A,9,2010-02-20,Cardiff,E1,6,7,15,17,A,9,Cardiff_Barnsley_2009
+372,0,Coventry,15,0,0,1,0,D Deadman,0,0,0,14,A,9,2010-02-20,Crystal Palace,E1,5,5,5,14,D,7,Crystal Palace_Coventry_2009
+373,2,Swansea,15,0,1,1,0,S Tanner,1,0,3,14,A,5,2010-02-20,Derby,E1,3,6,4,12,D,3,Derby_Swansea_2009
+374,1,Preston,5,3,0,0,1,A Penn,0,0,0,9,H,10,2010-02-20,Newcastle,E1,7,6,5,10,H,6,Newcastle_Preston_2009
+375,3,Middlesbrough,12,1,0,0,0,P Crossley,0,0,1,12,H,10,2010-02-20,Nott'm Forest,E1,8,5,6,10,D,12,Nott'm Forest_Middlesbrough_2009
+376,1,Leicester,6,1,0,1,1,R East,0,1,2,8,D,9,2010-02-20,Plymouth,E1,4,7,2,13,D,4,Plymouth_Leicester_2009
+377,0,Doncaster,5,2,0,1,1,D Whitestone,0,0,0,8,H,9,2010-02-20,QPR,E1,4,5,7,13,H,4,QPR_Doncaster_2009
+378,4,Watford,14,2,1,2,1,D Webb,0,0,3,12,D,17,2010-02-20,Scunthorpe,E1,6,5,3,11,H,5,Scunthorpe_Watford_2009
+379,0,Ipswich,10,0,0,1,0,M Russell,0,1,0,14,A,9,2010-02-20,Sheffield Weds,E1,4,3,4,11,A,7,Sheffield Weds_Ipswich_2009
+380,0,West Brom,7,2,0,1,0,N Swarbrick,0,1,4,14,H,16,2010-02-21,Bristol City,E1,10,15,7,22,A,3,Bristol City_West Brom_2009
+381,0,Leicester,13,0,0,1,0,A Woolmer,0,1,1,10,A,10,2010-02-23,Doncaster,E1,5,11,4,17,A,7,Doncaster_Leicester_2009
+382,2,Ipswich,12,1,0,1,0,A Haines,0,0,3,11,D,14,2010-02-23,Scunthorpe,E1,6,5,6,10,D,3,Scunthorpe_Ipswich_2009
+383,0,Blackpool,9,1,0,0,0,J Singh,0,0,3,14,H,7,2010-02-27,Barnsley,E1,4,8,4,15,D,1,Barnsley_Blackpool_2009
+384,3,Scunthorpe,8,2,0,1,0,P Taylor,1,0,2,11,H,15,2010-02-27,Coventry,E1,7,11,5,18,D,1,Coventry_Scunthorpe_2009
+385,1,Crystal Palace,11,1,0,1,1,N Swarbrick,0,0,3,6,D,8,2010-02-27,Doncaster,E1,3,9,6,17,H,7,Doncaster_Crystal Palace_2009
+386,1,Bristol City,5,0,0,0,0,N Miller,0,0,1,7,D,12,2010-02-27,Ipswich,E1,7,12,4,17,D,3,Ipswich_Bristol City_2009
+387,5,Nott'm Forest,17,3,0,0,0,L Probert,0,0,5,16,H,7,2010-02-27,Leicester,E1,4,3,1,5,D,2,Leicester_Nott'm Forest_2009
+388,1,QPR,12,2,0,0,2,A Woolmer,0,0,1,14,H,11,2010-02-27,Middlesbrough,E1,6,4,5,9,H,7,Middlesbrough_QPR_2009
+389,2,Cardiff,14,3,0,0,1,A Hall,1,0,4,11,H,16,2010-02-27,Preston,E1,8,3,3,10,H,7,Preston_Cardiff_2009
+390,0,Sheffield Weds,11,5,0,0,2,G Hegley,0,0,0,18,H,9,2010-02-27,Reading,E1,2,8,10,11,H,2,Reading_Sheffield Weds_2009
+391,2,Plymouth,11,4,0,3,2,C Sarginson,0,0,2,11,H,13,2010-02-27,Sheffield United,E1,3,4,4,17,H,5,Sheffield United_Plymouth_2009
+392,0,Peterboro,7,1,0,0,1,G Ward,0,0,0,12,H,6,2010-02-27,Swansea,E1,1,11,4,17,H,4,Swansea_Peterboro_2009
+393,2,Newcastle,11,1,0,2,0,A Bates,0,1,5,12,A,4,2010-02-27,Watford,E1,2,3,5,5,A,1,Watford_Newcastle_2009
+394,2,Derby,9,3,0,1,0,P Crossley,0,0,2,8,H,5,2010-02-27,West Brom,E1,1,6,5,10,D,5,West Brom_Derby_2009
+395,2,Ipswich,12,1,0,0,0,R Shoebridge,0,0,2,13,H,22,2010-03-06,Blackpool,E1,11,6,8,14,D,9,Blackpool_Ipswich_2009
+396,1,Doncaster,10,2,0,5,2,D Phillips,0,4,0,10,A,17,2010-03-06,Bristol City,E1,13,9,3,13,A,5,Bristol City_Doncaster_2009
+397,2,Middlesbrough,13,1,0,0,1,D Deadman,0,0,3,13,H,14,2010-03-06,Cardiff,E1,5,3,3,12,H,3,Cardiff_Middlesbrough_2009
+398,3,Sheffield United,13,1,0,0,1,A Penn,0,0,2,19,H,3,2010-03-06,Crystal Palace,E1,1,6,1,11,H,1,Crystal Palace_Sheffield United_2009
+399,2,Watford,16,2,0,0,1,G Horwood,0,0,1,15,H,6,2010-03-06,Derby,E1,3,5,6,9,H,3,Derby_Watford_2009
+400,0,Barnsley,7,6,1,1,1,G Hegley,0,0,0,15,H,5,2010-03-06,Newcastle,E1,3,5,4,12,H,1,Newcastle_Barnsley_2009
+401,1,Swansea,12,1,0,0,0,C Webster,0,0,1,6,H,7,2010-03-06,Nott'm Forest,E1,3,4,4,7,D,4,Nott'm Forest_Swansea_2009
+402,0,Coventry,11,0,0,1,0,R Booth,0,1,1,7,A,9,2010-03-06,Peterboro,E1,6,4,4,11,A,3,Peterboro_Coventry_2009
+403,0,Preston,13,1,0,1,0,A Woolmer,0,1,2,14,D,10,2010-03-06,Plymouth,E1,5,4,9,6,A,3,Plymouth_Preston_2009
+404,2,West Brom,9,3,0,1,2,S Attwell,0,1,2,9,H,13,2010-03-06,QPR,E1,7,4,2,6,H,7,QPR_West Brom_2009
+405,3,Leicester,17,2,0,0,1,P Gibbs,0,0,1,8,H,10,2010-03-06,Sheffield Weds,E1,6,7,7,11,H,9,Sheffield Weds_Leicester_2009
+406,1,Bristol City,10,0,0,1,0,M Russell,0,0,2,9,A,9,2010-03-09,Crystal Palace,E1,4,3,1,6,D,6,Crystal Palace_Bristol City_2009
+407,2,Cardiff,17,2,0,0,1,G Hegley,0,0,1,10,H,11,2010-03-09,Ipswich,E1,3,9,12,12,H,0,Ipswich_Cardiff_2009
+408,2,Sheffield United,10,1,0,0,1,J Singh,0,0,4,24,H,8,2010-03-09,Peterboro,E1,5,7,4,11,H,3,Peterboro_Sheffield United_2009
+409,0,Doncaster,12,1,0,1,1,P Crossley,0,1,2,8,D,14,2010-03-09,Preston,E1,7,9,4,13,D,5,Preston_Doncaster_2009
+410,2,Plymouth,14,2,0,0,1,P Tierney,0,0,3,12,H,3,2010-03-09,QPR,E1,2,1,5,10,H,4,QPR_Plymouth_2009
+411,2,Swansea,12,0,0,1,0,T Kettle,0,1,1,9,A,10,2010-03-09,Watford,E1,5,6,7,12,A,2,Watford_Swansea_2009
+412,0,Sheffield Weds,9,1,0,0,0,S Mathieson,0,0,1,13,H,5,2010-03-09,West Brom,E1,1,7,10,17,D,2,West Brom_Sheffield Weds_2009
+413,1,Derby,7,4,1,1,2,K Wright,0,1,0,9,H,2,2010-03-10,Reading,E1,2,9,7,17,H,0,Reading_Derby_2009
+414,1,Crystal Palace,11,0,0,0,0,T Kettle,0,0,3,19,D,6,2010-03-13,Barnsley,E1,4,9,7,18,D,4,Barnsley_Crystal Palace_2009
+415,0,Plymouth,9,1,0,1,0,A Haines,0,1,2,12,D,17,2010-03-13,Coventry,E1,10,5,9,11,A,7,Coventry_Plymouth_2009
+416,1,Derby,11,2,0,1,1,S Hooper,0,0,1,8,H,5,2010-03-13,Doncaster,E1,3,4,3,8,H,3,Doncaster_Derby_2009
+417,1,Scunthorpe,10,1,1,0,0,P Miller,1,0,2,15,H,7,2010-03-13,Ipswich,E1,4,9,9,17,D,4,Ipswich_Scunthorpe_2009
+418,1,Cardiff,10,1,0,0,1,K Evans,0,0,1,9,H,15,2010-03-13,Leicester,E1,7,4,4,9,H,2,Leicester_Cardiff_2009
+419,1,Newcastle,15,2,0,2,1,L Mason,0,1,4,18,D,7,2010-03-13,Middlesbrough,E1,6,10,11,20,D,7,Middlesbrough_Newcastle_2009
+420,4,Nott'm Forest,8,3,0,2,3,M Haywood,0,0,3,12,H,13,2010-03-13,Preston,E1,7,7,2,14,H,3,Preston_Nott'm Forest_2009
+421,2,Bristol City,9,2,0,0,2,P Taylor,0,0,3,13,H,6,2010-03-13,Reading,E1,2,8,7,17,H,3,Reading_Bristol City_2009
+422,1,QPR,15,1,0,1,1,A Bates,0,0,0,13,D,12,2010-03-13,Sheffield United,E1,9,3,4,7,H,4,Sheffield United_QPR_2009
+423,0,Sheffield Weds,10,0,0,0,0,R Booth,0,0,1,14,D,7,2010-03-13,Swansea,E1,5,8,4,16,D,4,Swansea_Sheffield Weds_2009
+424,2,Peterboro,11,0,0,1,0,A Taylor,0,0,0,11,A,12,2010-03-13,Watford,E1,5,2,5,10,D,6,Watford_Peterboro_2009
+425,1,Blackpool,14,3,0,2,1,J Moss,0,1,3,8,H,10,2010-03-13,West Brom,E1,6,7,6,14,D,2,West Brom_Blackpool_2009
+426,3,Nott'm Forest,17,2,0,1,1,K Friend,0,0,2,14,H,12,2010-03-16,Barnsley,E1,5,2,4,6,H,1,Barnsley_Nott'm Forest_2009
+427,3,Cardiff,18,1,0,2,1,S Hooper,0,1,0,6,A,10,2010-03-16,Coventry,E1,7,4,5,10,D,5,Coventry_Cardiff_2009
+428,2,Leicester,9,0,0,1,0,S Tanner,1,0,1,9,A,10,2010-03-16,Crystal Palace,E1,4,6,7,8,D,7,Crystal Palace_Leicester_2009
+429,0,Middlesbrough,10,2,1,2,0,D Phillips,0,1,2,16,D,15,2010-03-16,Derby,E1,10,10,9,17,A,3,Derby_Middlesbrough_2009
+430,0,Doncaster,3,1,0,2,0,F Graham,0,0,0,5,A,14,2010-03-16,Peterboro,E1,7,8,7,14,D,5,Peterboro_Doncaster_2009
+431,1,Bristol City,9,3,1,2,2,T Kettle,0,0,3,16,H,9,2010-03-16,Plymouth,E1,5,8,3,9,H,1,Plymouth_Bristol City_2009
+432,0,Sheffield Weds,8,2,0,2,1,C Boyeson,0,0,0,9,D,14,2010-03-16,Preston,E1,13,9,12,16,H,7,Preston_Sheffield Weds_2009
+433,1,QPR,18,1,1,0,0,G Ward,0,0,5,14,H,6,2010-03-16,Reading,E1,3,3,8,8,D,5,Reading_QPR_2009
+434,1,Blackpool,17,3,0,0,2,O Langford,0,0,1,7,H,9,2010-03-16,Sheffield United,E1,2,6,6,8,H,5,Sheffield United_Blackpool_2009
+435,1,West Brom,4,0,0,2,0,R East,0,0,2,16,A,4,2010-03-16,Swansea,E1,3,3,2,6,D,4,Swansea_West Brom_2009
+436,1,Ipswich,7,2,0,1,1,G Salisbury,0,0,0,12,H,8,2010-03-16,Watford,E1,5,7,5,9,H,8,Watford_Ipswich_2009
+437,0,Scunthorpe,9,3,0,0,2,P Crossley,0,0,0,5,H,8,2010-03-17,Newcastle,E1,2,16,11,23,H,1,Newcastle_Scunthorpe_2009
+438,2,Crystal Palace,6,2,0,2,0,P Gibbs,0,2,3,11,D,8,2010-03-20,Blackpool,E1,5,7,9,14,A,2,Blackpool_Crystal Palace_2009
+439,1,Newcastle,13,2,0,2,2,A D'Urso,0,0,2,11,D,19,2010-03-20,Bristol City,E1,12,7,1,11,H,8,Bristol City_Newcastle_2009
+440,1,Sheffield United,10,1,0,1,1,J Moss,0,0,1,8,D,10,2010-03-20,Doncaster,E1,3,6,8,10,H,4,Doncaster_Sheffield United_2009
+441,3,Barnsley,14,1,0,0,1,N Swarbrick,0,0,2,10,H,11,2010-03-20,Ipswich,E1,6,8,6,14,H,4,Ipswich_Barnsley_2009
+442,3,Reading,14,1,0,1,0,A Hall,0,0,0,11,D,7,2010-03-20,Middlesbrough,E1,4,10,6,14,D,7,Middlesbrough_Reading_2009
+443,3,Peterboro,12,1,0,0,1,K Hill,0,0,0,13,H,12,2010-03-20,Nott'm Forest,E1,8,7,10,13,H,10,Nott'm Forest_Peterboro_2009
+444,0,Swansea,14,1,0,1,0,C Boyeson,0,0,1,7,D,11,2010-03-20,QPR,E1,6,8,8,16,D,7,QPR_Swansea_2009
+445,3,Plymouth,10,2,0,1,1,A Taylor,0,1,2,11,H,13,2010-03-20,Scunthorpe,E1,6,12,5,17,D,6,Scunthorpe_Plymouth_2009
+446,0,Derby,12,0,0,0,0,J Linington,0,0,2,13,D,7,2010-03-20,Sheffield Weds,E1,5,3,5,4,D,8,Sheffield Weds_Derby_2009
+447,1,Preston,7,3,0,2,3,J Singh,0,2,3,12,H,9,2010-03-20,West Brom,E1,8,10,6,15,H,8,West Brom_Preston_2009
+448,1,Watford,11,3,0,1,1,P Crossley,0,0,1,9,H,15,2010-03-21,Cardiff,E1,6,6,4,11,H,8,Cardiff_Watford_2009
+449,1,Coventry,10,2,0,2,2,L Mason,0,0,0,12,D,8,2010-03-21,Leicester,E1,6,10,4,14,H,4,Leicester_Coventry_2009
+450,2,Swansea,8,5,0,1,2,N Miller,0,0,2,9,H,10,2010-03-23,Blackpool,E1,5,9,1,15,H,6,Blackpool_Swansea_2009
+451,0,Barnsley,9,5,0,3,2,G Scott,0,2,2,8,H,9,2010-03-23,Bristol City,E1,6,9,3,12,D,3,Bristol City_Barnsley_2009
+452,0,Newcastle,12,0,0,1,0,K Hill,0,0,3,7,A,5,2010-03-23,Doncaster,E1,3,7,5,11,D,5,Doncaster_Newcastle_2009
+453,0,Plymouth,7,0,0,2,0,D Whitestone,0,1,0,15,A,9,2010-03-23,Ipswich,E1,5,11,5,19,A,5,Ipswich_Plymouth_2009
+454,1,Preston,9,2,0,0,1,S Tanner,0,0,3,13,H,13,2010-03-23,Middlesbrough,E1,8,6,2,15,H,7,Middlesbrough_Preston_2009
+455,2,Crystal Palace,12,2,1,0,1,A Hall,0,0,1,7,H,5,2010-03-23,Nott'm Forest,E1,4,5,8,8,H,4,Nott'm Forest_Crystal Palace_2009
+456,1,Derby,10,1,0,1,1,M Russell,0,0,1,10,D,3,2010-03-23,QPR,E1,3,6,8,9,H,5,QPR_Derby_2009
+457,1,Peterboro,13,4,0,0,3,E Ilderton,0,0,1,9,H,11,2010-03-23,Scunthorpe,E1,5,7,5,13,H,5,Scunthorpe_Peterboro_2009
+458,2,Sheffield United,9,1,0,1,1,D McDermid,0,0,5,15,D,5,2010-03-24,Cardiff,E1,4,10,7,15,H,4,Cardiff_Sheffield United_2009
+459,3,Reading,12,1,0,2,1,D Foster,0,1,2,12,A,13,2010-03-24,Leicester,E1,9,8,6,17,D,7,Leicester_Reading_2009
+460,0,Watford,12,2,0,1,0,D Deadman,0,0,0,10,H,6,2010-03-24,Sheffield Weds,E1,4,5,4,8,D,5,Sheffield Weds_Watford_2009
+461,2,Coventry,9,1,0,0,1,C Webster,0,0,1,8,H,8,2010-03-24,West Brom,E1,2,8,4,12,H,7,West Brom_Coventry_2009
+462,2,Doncaster,8,0,0,1,0,D Deadman,0,1,2,9,A,6,2010-03-27,Barnsley,E1,2,8,5,15,A,7,Barnsley_Doncaster_2009
+463,3,Sheffield Weds,13,1,0,1,0,N Swarbrick,0,0,2,11,D,12,2010-03-27,Coventry,E1,8,6,7,11,D,3,Coventry_Sheffield Weds_2009
+464,2,Cardiff,14,1,0,2,0,C Boyeson,0,1,1,11,A,7,2010-03-27,Crystal Palace,E1,4,4,10,10,A,4,Crystal Palace_Cardiff_2009
+465,1,Leicester,12,1,0,0,1,C Webster,0,0,0,7,H,8,2010-03-27,Derby,E1,4,1,4,8,H,6,Derby_Leicester_2009
+466,1,Bristol City,6,0,0,1,0,D Webb,0,0,1,10,A,17,2010-03-27,Peterboro,E1,8,5,5,7,D,3,Peterboro_Bristol City_2009
+467,2,Blackpool,10,0,0,2,0,J Linington,0,0,1,9,A,15,2010-03-27,Plymouth,E1,6,7,3,13,D,4,Plymouth_Blackpool_2009
+468,3,QPR,13,2,0,2,1,A Haines,0,0,2,13,D,17,2010-03-27,Preston,E1,14,5,6,13,H,8,Preston_QPR_2009
+469,4,West Brom,13,1,0,1,1,A D'Urso,0,0,2,15,D,10,2010-03-27,Reading,E1,6,5,4,7,H,9,Reading_West Brom_2009
+470,1,Ipswich,9,0,0,0,0,C Pawson,0,0,0,9,D,7,2010-03-27,Swansea,E1,5,2,4,6,D,3,Swansea_Ipswich_2009
+471,2,Middlesbrough,15,1,0,1,1,R East,0,0,4,17,D,6,2010-03-27,Watford,E1,2,3,7,15,H,4,Watford_Middlesbrough_2009
+472,0,Scunthorpe,12,0,0,1,0,R Booth,0,1,1,18,A,10,2010-03-28,Sheffield United,E1,6,5,8,13,A,2,Sheffield United_Scunthorpe_2009
+473,1,Nott'm Forest,12,2,0,0,0,A Wiley,0,0,3,17,H,6,2010-03-29,Newcastle,E1,2,15,10,19,D,2,Newcastle_Nott'm Forest_2009
+474,2,Leicester,9,2,0,1,2,F Graham,1,0,1,12,H,12,2010-03-30,Cardiff,E1,5,6,2,9,H,9,Cardiff_Leicester_2009
+475,1,Barnsley,7,0,0,0,0,M Russell,0,0,3,10,D,12,2010-03-30,Plymouth,E1,7,5,4,10,D,5,Plymouth_Barnsley_2009
+476,1,Crystal Palace,8,1,1,3,0,P Taylor,0,1,3,13,A,11,2010-03-30,Watford,E1,7,6,12,14,A,4,Watford_Crystal Palace_2009
+477,1,Blackpool,9,2,0,4,0,A Woolmer,0,1,1,6,A,17,2010-04-02,Scunthorpe,E1,10,5,12,7,A,5,Scunthorpe_Blackpool_2009
+478,2,Leicester,14,3,0,0,2,D Deadman,0,0,1,10,H,12,2010-04-02,West Brom,E1,4,8,2,11,H,3,West Brom_Leicester_2009
+479,2,Nott'm Forest,12,1,0,1,1,P Crossley,0,1,4,16,D,8,2010-04-03,Bristol City,E1,3,5,6,13,D,3,Bristol City_Nott'm Forest_2009
+480,4,Swansea,9,2,0,1,1,P Dowd,0,1,4,20,H,8,2010-04-03,Cardiff,E1,5,4,3,8,D,8,Cardiff_Swansea_2009
+481,2,Derby,8,0,0,1,0,A D'Urso,0,1,1,11,A,9,2010-04-03,Coventry,E1,3,10,5,15,A,7,Coventry_Derby_2009
+482,0,Plymouth,7,1,0,2,0,K Wright,0,0,1,17,A,7,2010-04-03,Doncaster,E1,6,7,7,19,D,1,Doncaster_Plymouth_2009
+483,3,Reading,19,2,1,1,2,K Stroud,0,0,3,14,H,11,2010-04-03,Ipswich,E1,5,12,4,16,H,5,Ipswich_Reading_2009
+484,0,Crystal Palace,10,1,0,1,1,G Salisbury,0,1,3,7,D,6,2010-04-03,Middlesbrough,E1,2,4,11,6,D,5,Middlesbrough_Crystal Palace_2009
+485,1,Newcastle,11,2,0,3,1,M Haywood,0,1,2,12,A,12,2010-04-03,Peterboro,E1,9,5,5,11,D,4,Peterboro_Newcastle_2009
+486,1,Watford,18,1,0,1,0,R Shoebridge,0,1,2,13,D,13,2010-04-03,Preston,E1,9,6,7,13,A,11,Preston_Watford_2009
+487,1,Sheffield Weds,9,1,0,1,1,C Webster,0,0,0,6,D,3,2010-04-03,QPR,E1,1,8,9,14,H,6,QPR_Sheffield Weds_2009
+488,3,Barnsley,11,0,0,0,0,P Walton,1,0,4,17,D,4,2010-04-03,Sheffield United,E1,4,7,11,14,D,2,Sheffield United_Barnsley_2009
+489,1,Peterboro,13,2,0,2,1,A Bates,0,1,1,8,D,18,2010-04-05,Barnsley,E1,12,10,5,17,D,5,Barnsley_Peterboro_2009
+490,2,Doncaster,9,2,0,0,1,D Webb,0,0,2,6,H,18,2010-04-05,Blackpool,E1,10,7,3,13,H,8,Blackpool_Doncaster_2009
+491,4,Preston,9,3,0,1,1,R East,0,1,2,8,H,11,2010-04-05,Crystal Palace,E1,3,7,4,11,D,11,Crystal Palace_Preston_2009
+492,1,Ipswich,8,1,0,3,0,J Moss,1,1,3,11,A,12,2010-04-05,Derby,E1,9,12,7,16,A,3,Derby_Ipswich_2009
+493,0,QPR,11,4,0,0,2,T Kettle,0,0,1,9,H,14,2010-04-05,Leicester,E1,7,7,3,12,H,3,Leicester_QPR_2009
+494,1,Sheffield United,9,2,0,1,1,A Hall,0,1,1,16,H,10,2010-04-05,Newcastle,E1,6,7,6,17,D,8,Newcastle_Sheffield United_2009
+495,2,Cardiff,9,0,0,0,0,C Foy,0,0,3,9,D,6,2010-04-05,Nott'm Forest,E1,5,5,5,14,D,7,Nott'm Forest_Cardiff_2009
+496,1,Middlesbrough,13,0,0,2,0,S Mathieson,0,1,4,11,A,12,2010-04-05,Plymouth,E1,5,4,9,12,A,4,Plymouth_Middlesbrough_2009
+497,2,Coventry,22,3,0,0,3,A Woolmer,0,0,4,14,H,6,2010-04-05,Reading,E1,2,2,4,7,H,4,Reading_Coventry_2009
+498,1,Bristol City,10,0,0,1,0,G Salisbury,0,0,3,10,A,9,2010-04-05,Sheffield Weds,E1,6,5,4,17,D,4,Sheffield Weds_Bristol City_2009
+499,0,Scunthorpe,5,3,0,0,1,D Whitestone,0,0,1,9,H,3,2010-04-05,Swansea,E1,1,14,11,24,H,2,Swansea_Scunthorpe_2009
+500,3,West Brom,6,1,0,1,0,S Tanner,1,0,5,14,D,7,2010-04-05,Watford,E1,3,5,2,8,D,3,Watford_West Brom_2009
+501,1,Derby,13,0,0,0,0,P Taylor,0,0,1,4,D,9,2010-04-10,Barnsley,E1,5,2,1,9,D,7,Barnsley_Derby_2009
+502,0,Swansea,15,1,0,0,0,M Dean,0,0,2,12,H,6,2010-04-10,Bristol City,E1,4,8,5,16,D,2,Bristol City_Swansea_2009
+503,0,Reading,10,0,0,0,0,A Bates,0,0,1,10,D,15,2010-04-10,Cardiff,E1,9,6,5,7,D,6,Cardiff_Reading_2009
+504,1,QPR,7,0,0,2,0,N Miller,0,1,1,3,A,9,2010-04-10,Crystal Palace,E1,3,4,4,8,A,4,Crystal Palace_QPR_2009
+505,1,West Brom,5,2,0,3,0,J Linington,0,2,1,10,A,10,2010-04-10,Doncaster,E1,7,9,6,13,A,1,Doncaster_West Brom_2009
+506,1,Sheffield Weds,11,1,0,0,1,J Moss,0,0,0,11,H,18,2010-04-10,Middlesbrough,E1,8,9,7,16,H,4,Middlesbrough_Sheffield Weds_2009
+507,1,Blackpool,7,4,0,1,2,M Russell,0,0,1,8,H,10,2010-04-10,Newcastle,E1,8,11,6,17,H,2,Newcastle_Blackpool_2009
+508,1,Ipswich,10,3,0,0,0,D Foster,0,0,1,12,H,10,2010-04-10,Nott'm Forest,E1,5,6,9,7,D,7,Nott'm Forest_Ipswich_2009
+509,1,Leicester,6,1,0,2,0,G Scott,0,1,0,10,A,8,2010-04-10,Peterboro,E1,6,4,4,7,A,2,Peterboro_Leicester_2009
+510,0,Scunthorpe,10,3,0,2,1,T Kettle,0,0,0,8,H,12,2010-04-10,Preston,E1,7,11,7,17,H,4,Preston_Scunthorpe_2009
+511,0,Coventry,15,1,0,0,0,G Salisbury,0,0,0,11,H,8,2010-04-10,Sheffield United,E1,3,9,5,15,D,7,Sheffield United_Coventry_2009
+512,1,Plymouth,12,1,0,0,0,W Atkins,0,0,1,14,H,6,2010-04-10,Watford,E1,0,3,5,10,D,3,Watford_Plymouth_2009
+513,2,Newcastle,6,1,0,2,0,F Graham,0,2,3,13,A,8,2010-04-13,Reading,E1,2,3,10,9,A,3,Reading_Newcastle_2009
+514,1,Nott'm Forest,16,3,0,1,1,A Taylor,0,0,1,10,H,15,2010-04-17,Blackpool,E1,9,8,2,12,H,7,Blackpool_Nott'm Forest_2009
+515,2,Preston,17,1,0,1,1,G Ward,0,1,1,7,D,13,2010-04-17,Coventry,E1,6,4,3,5,D,4,Coventry_Preston_2009
+516,1,Crystal Palace,5,1,0,1,1,T Bates,0,0,2,16,D,13,2010-04-17,Derby,E1,7,4,13,11,H,3,Derby_Crystal Palace_2009
+517,1,Doncaster,9,1,0,1,0,A Penn,0,0,0,7,D,8,2010-04-17,Ipswich,E1,4,5,3,13,D,8,Ipswich_Doncaster_2009
+518,1,Watford,7,4,0,1,2,N Miller,1,0,0,3,H,6,2010-04-17,Leicester,E1,5,7,4,11,H,16,Leicester_Watford_2009
+519,2,Cardiff,13,0,0,1,0,M Oliver,0,0,0,11,A,6,2010-04-17,QPR,E1,2,7,4,16,D,2,QPR_Cardiff_2009
+520,1,Peterboro,6,6,0,0,4,C Boyeson,0,0,0,13,H,3,2010-04-17,Reading,E1,0,13,15,24,H,2,Reading_Peterboro_2009
+521,0,Bristol City,12,3,0,0,1,M Russell,0,0,1,4,H,10,2010-04-17,Scunthorpe,E1,5,13,7,18,H,4,Scunthorpe_Bristol City_2009
+522,3,Barnsley,13,3,0,1,2,D Phillips,0,1,3,11,H,4,2010-04-17,Swansea,E1,2,11,8,13,H,3,Swansea_Barnsley_2009
+523,0,Middlesbrough,16,2,0,0,1,G Hegley,0,0,2,4,H,8,2010-04-17,West Brom,E1,3,13,8,20,H,2,West Brom_Middlesbrough_2009
+524,2,Sheffield United,14,1,0,1,1,C Foy,0,0,2,15,D,6,2010-04-18,Sheffield Weds,E1,4,4,6,8,H,6,Sheffield Weds_Sheffield United_2009
+525,0,Newcastle,6,0,0,2,0,C Pawson,0,2,1,17,A,11,2010-04-19,Plymouth,E1,7,4,2,13,A,5,Plymouth_Newcastle_2009
+526,3,Watford,9,1,0,0,1,P Miller,0,0,2,9,H,8,2010-04-20,QPR,E1,5,2,6,6,H,5,QPR_Watford_2009
+527,5,Reading,17,2,0,2,0,G Salisbury,0,0,3,13,D,11,2010-04-20,Scunthorpe,E1,5,9,5,18,D,8,Scunthorpe_Reading_2009
+528,2,QPR,13,0,0,1,0,R Booth,0,1,1,12,A,4,2010-04-24,Barnsley,E1,2,6,4,9,A,4,Barnsley_QPR_2009
+529,1,Derby,10,2,0,1,1,C Pawson,0,0,1,8,H,12,2010-04-24,Bristol City,E1,8,6,4,11,H,4,Bristol City_Derby_2009
+530,1,Sheffield Weds,6,3,0,2,1,P Taylor,0,1,3,15,H,17,2010-04-24,Cardiff,E1,6,11,4,17,D,6,Cardiff_Sheffield Weds_2009
+531,2,Scunthorpe,6,4,0,3,2,A D'Urso,0,1,1,11,H,12,2010-04-24,Doncaster,E1,4,14,12,20,H,3,Doncaster_Scunthorpe_2009
+532,0,Coventry,3,1,0,1,0,D McDermid,0,0,1,15,D,10,2010-04-24,Middlesbrough,E1,5,9,6,14,D,3,Middlesbrough_Coventry_2009
+533,0,Ipswich,6,2,0,2,1,C Boyeson,0,1,2,15,D,11,2010-04-24,Newcastle,E1,7,1,4,4,D,7,Newcastle_Ipswich_2009
+534,0,Plymouth,9,3,0,0,2,N Swarbrick,0,0,3,14,H,7,2010-04-24,Nott'm Forest,E1,2,9,7,14,H,1,Nott'm Forest_Plymouth_2009
+535,1,Blackpool,5,0,0,1,0,C Webster,0,1,0,6,A,19,2010-04-24,Peterboro,E1,13,8,7,13,A,7,Peterboro_Blackpool_2009
+536,2,Leicester,10,0,0,1,0,G Hegley,0,0,0,14,A,11,2010-04-24,Preston,E1,5,1,2,5,D,5,Preston_Leicester_2009
+537,2,Swansea,17,2,0,0,0,S Mathieson,0,0,0,6,H,15,2010-04-24,Sheffield United,E1,11,4,4,7,D,10,Sheffield United_Swansea_2009
+538,3,Reading,12,3,0,0,1,K Friend,0,0,2,12,H,4,2010-04-24,Watford,E1,0,6,2,12,H,0,Watford_Reading_2009
+539,1,West Brom,11,1,0,1,1,D Whitestone,1,1,5,14,D,22,2010-04-26,Crystal Palace,E1,14,4,3,10,D,10,Crystal Palace_West Brom_2009
+540,0,Bristol City,13,1,0,1,0,S Mathieson,0,1,4,14,D,8,2010-05-02,Blackpool,E1,4,8,10,18,A,3,Blackpool_Bristol City_2009
+541,1,Watford,9,0,0,4,0,M Halsey,0,2,0,4,A,18,2010-05-02,Coventry,E1,10,5,8,15,A,4,Coventry_Watford_2009
+542,4,Cardiff,12,2,0,0,0,C Webster,0,0,3,12,H,7,2010-05-02,Derby,E1,4,5,9,11,D,6,Derby_Cardiff_2009
+543,1,Sheffield United,10,0,0,3,0,A D'Urso,1,1,0,15,A,12,2010-05-02,Ipswich,E1,5,7,5,13,A,4,Ipswich_Sheffield United_2009
+544,0,Middlesbrough,16,2,1,0,1,A Taylor,0,0,0,8,H,8,2010-05-02,Leicester,E1,5,8,6,12,H,11,Leicester_Middlesbrough_2009
+545,0,Peterboro,10,1,0,2,1,S Tanner,0,0,3,15,A,11,2010-05-02,Plymouth,E1,5,3,4,13,H,6,Plymouth_Peterboro_2009
+546,0,Newcastle,10,0,0,1,0,D Deadman,1,0,2,7,A,9,2010-05-02,QPR,E1,6,9,7,19,D,3,QPR_Newcastle_2009
+547,2,Preston,13,4,0,1,2,J Linnington,0,0,2,19,H,7,2010-05-02,Reading,E1,5,15,10,18,H,3,Reading_Preston_2009
+548,2,Nott'm Forest,9,2,0,2,0,F Graham,0,2,0,12,D,11,2010-05-02,Scunthorpe,E1,6,10,5,16,A,5,Scunthorpe_Nott'm Forest_2009
+549,1,Crystal Palace,15,2,0,2,1,M Dean,0,1,2,13,D,6,2010-05-02,Sheffield Weds,E1,6,9,6,13,D,2,Sheffield Weds_Crystal Palace_2009
+550,0,Doncaster,9,0,0,0,0,G Hegley,0,0,2,9,D,7,2010-05-02,Swansea,E1,1,2,6,9,D,1,Swansea_Doncaster_2009
+551,0,Barnsley,6,1,0,1,0,M Oliver,0,0,0,8,D,10,2010-05-02,West Brom,E1,4,4,9,17,D,1,West Brom_Barnsley_2009

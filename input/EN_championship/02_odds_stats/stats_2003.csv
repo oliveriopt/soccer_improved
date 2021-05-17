@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Norwich,7,2,0,2,0,Scott Mathieson,0,1,2,14,D,5,2003-08-09,Bradford,E1,3,9,8,16,A,5,Bradford_Norwich_2003
+1,2,Crystal Palace,15,2,2,3,2,C Foy,0,2,2,17,A,6,2003-08-09,Burnley,E1,2,2,6,7,D,1,Burnley_Crystal Palace_2003
+2,2,Stoke,11,0,0,3,0,Howard Webb,0,2,2,19,A,11,2003-08-09,Derby,E1,7,5,6,13,A,5,Derby_Stoke_2003
+3,1,Reading,8,1,1,1,0,B Curson,0,0,3,20,D,7,2003-08-09,Ipswich,E1,4,4,2,13,D,6,Ipswich_Reading_2003
+4,1,Wigan,17,2,0,0,0,Andy Hall,0,0,5,20,H,11,2003-08-09,Millwall,E1,8,4,4,10,D,6,Millwall_Wigan_2003
+5,0,Sunderland,13,2,0,0,2,M Ryan,0,0,3,17,H,15,2003-08-09,Nott'm Forest,E1,10,6,17,8,H,6,Nott'm Forest_Sunderland_2003
+6,0,West Ham,15,1,0,2,1,P Danson,0,1,3,10,A,9,2003-08-09,Preston,E1,7,6,7,15,D,4,Preston_West Ham_2003
+7,1,Cardiff,11,0,0,0,0,Peter Walton,0,0,1,7,D,6,2003-08-09,Rotherham,E1,4,5,8,12,D,6,Rotherham_Cardiff_2003
+8,0,Gillingham,13,0,0,0,0,G Laws,0,0,2,22,D,8,2003-08-09,Sheffield United,E1,1,8,4,12,D,4,Sheffield United_Gillingham_2003
+9,1,West Brom,6,4,0,1,3,T Bates,0,0,1,9,H,17,2003-08-09,Walsall,E1,7,8,4,11,H,7,Walsall_West Brom_2003
+10,1,Crewe,6,3,0,1,1,K Hill,0,1,0,5,H,7,2003-08-09,Wimbledon,E1,3,4,3,8,D,5,Wimbledon_Crewe_2003
+11,0,Bradford,10,0,0,2,0,Lee Cable,0,1,3,20,A,8,2003-08-16,Cardiff,E1,5,11,10,21,A,4,Cardiff_Bradford_2003
+12,2,Walsall,11,0,0,0,0,Chris Foy,1,0,0,13,D,6,2003-08-16,Coventry,E1,1,15,2,25,D,2,Coventry_Walsall_2003
+13,0,Ipswich,9,1,0,0,0,R Pearson,0,0,3,12,H,18,2003-08-16,Crewe,E1,13,5,8,14,D,8,Crewe_Ipswich_2003
+14,1,Watford,11,1,0,0,1,Phil Dowd,1,0,2,19,H,8,2003-08-16,Crystal Palace,E1,4,3,3,5,H,8,Crystal Palace_Watford_2003
+15,1,Derby,17,0,0,0,0,C Penton,0,0,3,13,D,10,2003-08-16,Gillingham,E1,5,4,6,13,D,5,Gillingham_Derby_2003
+16,0,Rotherham,12,2,1,0,2,N Barry,0,0,2,12,H,11,2003-08-16,Norwich,E1,5,5,7,10,H,3,Norwich_Rotherham_2003
+17,1,Nott'm Forest,14,3,0,0,0,R Olivier,0,0,1,11,H,13,2003-08-16,Reading,E1,2,9,9,16,D,5,Reading_Nott'm Forest_2003
+18,1,Wimbledon,12,2,0,1,1,P Robinson,0,0,3,8,H,6,2003-08-16,Stoke,E1,2,8,12,19,H,4,Stoke_Wimbledon_2003
+19,1,Millwall,15,0,0,1,0,T Leake,0,1,2,20,A,6,2003-08-16,Sunderland,E1,4,9,8,10,A,5,Sunderland_Millwall_2003
+20,2,Burnley,14,4,0,1,1,M Clattenburg,0,1,4,13,H,7,2003-08-16,West Brom,E1,4,5,5,12,D,4,West Brom_Burnley_2003
+21,4,Sheffield United,20,0,0,0,0,K Hill,0,0,2,5,D,5,2003-08-16,West Ham,E1,2,5,5,6,D,6,West Ham_Sheffield United_2003
+22,1,Preston,16,1,0,1,0,M Fletcher,0,0,4,12,D,12,2003-08-16,Wigan,E1,7,8,8,17,D,5,Wigan_Preston_2003
+23,2,Gillingham,8,0,0,1,0,G Salisbury,0,0,1,9,A,16,2003-08-23,Bradford,E1,6,6,4,13,D,5,Bradford_Gillingham_2003
+24,2,Wigan,12,0,0,2,0,A Butler,0,1,3,15,A,9,2003-08-23,Burnley,E1,5,5,10,15,A,2,Burnley_Wigan_2003
+25,3,Reading,15,2,0,3,1,Colin Webster,0,3,1,9,A,8,2003-08-23,Derby,E1,8,8,2,13,A,8,Derby_Reading_2003
+26,3,Coventry,12,1,0,1,1,Frazer Stretton,0,1,1,4,D,14,2003-08-23,Ipswich,E1,8,5,7,9,D,10,Ipswich_Coventry_2003
+27,1,Crewe,22,1,0,1,0,S Tomlin,0,0,3,10,D,11,2003-08-23,Millwall,E1,8,6,4,9,D,6,Millwall_Crewe_2003
+28,2,Cardiff,14,1,0,2,0,Howard Webb,0,2,2,14,A,13,2003-08-23,Nott'm Forest,E1,6,5,7,10,A,9,Nott'm Forest_Cardiff_2003
+29,2,Sunderland,18,0,0,2,0,T Bates,0,2,4,10,A,11,2003-08-23,Preston,E1,7,6,10,17,A,1,Preston_Sunderland_2003
+30,3,West Ham,7,1,0,0,1,M Pike,0,0,1,12,H,11,2003-08-23,Rotherham,E1,5,6,8,13,H,2,Rotherham_West Ham_2003
+31,0,Norwich,8,1,0,0,1,C Foy,0,0,3,19,H,8,2003-08-23,Sheffield United,E1,4,9,7,12,H,6,Sheffield United_Norwich_2003
+32,4,Stoke,15,1,0,1,0,P Taylor,1,1,4,12,D,10,2003-08-23,Walsall,E1,6,6,9,9,A,6,Walsall_Stoke_2003
+33,1,West Brom,16,0,0,1,0,P Armstrong,0,0,1,17,A,6,2003-08-23,Watford,E1,1,5,12,13,D,5,Watford_West Brom_2003
+34,1,Crystal Palace,7,1,0,3,1,Peter Walton,0,0,1,3,A,12,2003-08-23,Wimbledon,E1,10,6,4,9,H,9,Wimbledon_Crystal Palace_2003
+35,2,Derby,17,4,1,1,2,N Barry,0,0,2,17,H,5,2003-08-25,Cardiff,E1,5,8,4,12,H,1,Cardiff_Derby_2003
+36,0,Walsall,5,1,0,0,0,G Cain,0,0,2,6,H,8,2003-08-25,Crewe,E1,4,11,10,16,D,6,Crewe_Walsall_2003
+37,1,Burnley,11,0,0,3,0,M Halsey,0,2,3,13,A,15,2003-08-25,Gillingham,E1,7,5,7,14,A,1,Gillingham_Burnley_2003
+38,1,Rotherham,7,0,0,0,0,D Crick,0,0,3,23,D,7,2003-08-25,Reading,E1,3,6,6,14,D,3,Reading_Rotherham_2003
+39,1,Watford,15,2,0,0,1,Andy Hall,0,0,2,15,H,10,2003-08-25,Sunderland,E1,2,4,5,11,H,4,Sunderland_Watford_2003
+40,2,Preston,11,1,1,0,1,A Kaye,0,0,2,9,H,10,2003-08-25,West Brom,E1,4,4,6,8,H,3,West Brom_Preston_2003
+41,2,Sheffield United,16,1,1,2,0,S Mathieson,0,2,2,12,A,12,2003-08-26,Crystal Palace,E1,4,9,8,17,A,7,Crystal Palace_Sheffield United_2003
+42,3,Wimbledon,18,3,1,2,2,P Prosser,0,0,3,15,H,9,2003-08-26,Norwich,E1,7,4,2,10,H,4,Norwich_Wimbledon_2003
+43,1,Millwall,11,0,0,0,0,J Winter,0,0,3,15,D,8,2003-08-26,Stoke,E1,5,10,5,18,D,10,Stoke_Millwall_2003
+44,2,Bradford,10,1,0,0,1,R Beeby,0,0,1,14,H,10,2003-08-26,West Ham,E1,4,11,5,17,H,3,West Ham_Bradford_2003
+45,2,Ipswich,11,1,0,0,0,T Parkes,0,0,2,5,H,7,2003-08-26,Wigan,E1,3,10,4,15,D,6,Wigan_Ipswich_2003
+46,3,Nott'm Forest,16,1,0,3,0,P Danson,0,1,3,8,A,8,2003-08-27,Coventry,E1,3,15,9,25,A,6,Coventry_Nott'm Forest_2003
+47,4,Sunderland,23,0,0,4,0,P Dowd,0,3,3,16,A,18,2003-08-30,Bradford,E1,14,1,4,2,A,7,Bradford_Sunderland_2003
+48,1,Crewe,9,1,0,0,0,G Laws,0,0,1,6,H,9,2003-08-30,Burnley,E1,3,3,7,7,D,5,Burnley_Crewe_2003
+49,2,West Brom,12,0,0,1,0,M Ryan,0,0,2,18,A,7,2003-08-30,Derby,E1,5,12,2,17,D,3,Derby_West Brom_2003
+50,2,West Ham,10,1,0,2,0,A Hall,0,1,2,12,A,11,2003-08-30,Ipswich,E1,6,10,6,16,A,7,Ipswich_West Ham_2003
+51,3,Crystal Palace,18,1,1,1,0,Howard Webb,0,0,4,15,D,7,2003-08-30,Millwall,E1,4,9,8,13,D,5,Millwall_Crystal Palace_2003
+52,1,Norwich,15,2,0,0,1,L Cable,0,0,2,13,H,13,2003-08-30,Nott'm Forest,E1,7,8,10,15,H,6,Nott'm Forest_Norwich_2003
+53,5,Stoke,16,1,0,0,1,P Walton,0,0,3,13,H,19,2003-08-30,Preston,E1,10,14,8,24,H,9,Preston_Stoke_2003
+54,3,Wigan,17,0,0,3,0,Mark Clattenburg,0,0,2,15,A,12,2003-08-30,Rotherham,E1,4,2,6,8,D,7,Rotherham_Wigan_2003
+55,0,Coventry,10,2,0,1,1,D Crick,0,0,3,12,H,17,2003-08-30,Sheffield United,E1,7,3,3,9,H,10,Sheffield United_Coventry_2003
+56,1,Cardiff,11,1,1,1,0,P Joslin,1,0,2,4,D,12,2003-08-30,Walsall,E1,9,3,5,7,D,10,Walsall_Cardiff_2003
+57,1,Gillingham,12,2,0,2,1,M Warren,1,0,2,21,D,8,2003-08-30,Watford,E1,4,4,4,11,H,2,Watford_Gillingham_2003
+58,1,Reading,5,0,0,3,0,M Jones,0,1,0,14,A,13,2003-08-30,Wimbledon,E1,10,5,3,11,A,9,Wimbledon_Reading_2003
+59,2,Millwall,10,4,0,3,2,K Hill,0,1,2,19,H,11,2003-09-06,Gillingham,E1,6,8,6,10,H,4,Gillingham_Millwall_2003
+60,3,Burnley,14,1,0,2,0,M Cooper,1,2,2,14,A,18,2003-09-06,Stoke,E1,12,7,4,12,A,5,Stoke_Burnley_2003
+61,3,Preston,13,2,1,1,0,R Pearson,0,1,3,14,H,18,2003-09-13,Bradford,E1,13,3,5,12,A,11,Bradford_Preston_2003
+62,0,Gillingham,13,5,0,0,4,A Hall,0,0,3,16,H,9,2003-09-13,Cardiff,E1,5,14,4,18,H,6,Cardiff_Gillingham_2003
+63,1,Stoke,13,4,0,2,2,L Mason,0,1,3,14,H,8,2003-09-13,Coventry,E1,6,15,9,25,H,6,Coventry_Stoke_2003
+64,1,Burnley,16,2,0,0,0,C Penton,0,0,4,13,H,11,2003-09-13,Norwich,E1,7,9,9,16,D,10,Norwich_Burnley_2003
+65,2,Sheffield United,9,3,1,1,1,M Pike,0,0,0,17,H,8,2003-09-13,Nott'm Forest,E1,5,7,8,12,H,4,Nott'm Forest_Sheffield United_2003
+66,3,Crewe,19,0,0,2,0,J P Robinson,0,1,2,16,A,7,2003-09-13,Rotherham,E1,6,11,6,17,A,5,Rotherham_Crewe_2003
+67,3,Crystal Palace,9,2,0,1,0,G Salisbury,0,0,2,12,H,5,2003-09-13,Sunderland,E1,2,4,6,9,D,2,Sunderland_Crystal Palace_2003
+68,0,Derby,15,0,0,1,0,M Clattenburg,0,0,2,13,A,10,2003-09-13,Walsall,E1,5,6,7,11,D,7,Walsall_Derby_2003
+69,4,Millwall,18,3,1,1,2,B Knight,0,1,4,19,H,5,2003-09-13,Watford,E1,4,10,10,15,H,4,Watford_Millwall_2003
+70,3,Ipswich,9,4,0,1,2,C Foy,0,0,1,7,H,3,2003-09-13,West Brom,E1,3,6,9,11,H,11,West Brom_Ipswich_2003
+71,4,Reading,12,1,0,0,1,D Gallagher,0,0,2,19,H,5,2003-09-13,West Ham,E1,3,10,6,11,H,5,West Ham_Reading_2003
+72,2,Wigan,12,2,0,4,1,M Cooper,0,3,4,19,A,12,2003-09-13,Wimbledon,E1,8,4,2,8,A,7,Wimbledon_Wigan_2003
+73,0,Nott'm Forest,11,0,0,3,0,A Kaye,0,1,3,11,A,8,2003-09-16,Burnley,E1,4,7,10,14,A,2,Burnley_Nott'm Forest_2003
+74,0,West Ham,6,0,0,3,0,A Butler,0,3,1,15,A,17,2003-09-16,Crewe,E1,11,4,8,8,A,8,Crewe_West Ham_2003
+75,2,Bradford,6,0,0,1,0,T Parkes,0,1,1,5,A,9,2003-09-16,Crystal Palace,E1,5,5,9,13,A,1,Crystal Palace_Bradford_2003
+76,3,Norwich,18,1,0,2,1,Graham Barber,0,1,3,22,A,8,2003-09-16,Gillingham,E1,4,4,3,11,D,5,Gillingham_Norwich_2003
+77,3,Walsall,12,2,0,1,1,L Cable,0,1,1,11,H,9,2003-09-16,Ipswich,E1,6,13,12,18,D,6,Ipswich_Walsall_2003
+78,0,Wimbledon,17,2,0,0,1,P Durkin,0,0,5,11,H,8,2003-09-16,Millwall,E1,2,8,10,16,H,4,Millwall_Wimbledon_2003
+79,2,Coventry,23,4,2,2,2,E Evans,0,1,1,12,H,14,2003-09-16,Preston,E1,7,7,5,12,H,6,Preston_Coventry_2003
+80,3,Cardiff,13,2,0,1,0,M Fletcher,0,1,2,10,H,12,2003-09-16,Reading,E1,7,8,9,14,A,4,Reading_Cardiff_2003
+81,0,Rotherham,13,5,0,0,2,C Webster,0,0,3,17,H,11,2003-09-16,Sheffield United,E1,6,9,4,12,H,4,Sheffield United_Rotherham_2003
+82,2,Sunderland,17,3,1,1,3,Mike Pike,0,0,5,12,H,11,2003-09-16,Stoke,E1,8,7,5,13,H,8,Stoke_Sunderland_2003
+83,1,West Brom,14,1,0,0,1,M Jones,0,0,0,13,H,10,2003-09-16,Wigan,E1,6,6,5,14,H,8,Wigan_West Brom_2003
+84,0,Watford,13,3,1,2,1,M Dean,0,1,3,12,H,5,2003-09-17,Derby,E1,3,9,4,17,D,4,Derby_Watford_2003
+85,0,Bradford,6,4,0,0,1,M Dean,0,0,0,9,H,14,2003-09-20,Burnley,E1,6,15,3,22,H,9,Burnley_Bradford_2003
+86,1,Nott'm Forest,7,3,0,1,0,M Clattenburg,0,0,2,16,H,8,2003-09-20,Crewe,E1,3,9,5,19,D,5,Crewe_Nott'm Forest_2003
+87,3,West Brom,12,2,0,2,0,P Danson,0,0,5,15,D,9,2003-09-20,Crystal Palace,E1,6,6,6,9,D,6,Crystal Palace_West Brom_2003
+88,1,Sunderland,17,1,0,1,0,P Walton,0,0,1,7,D,15,2003-09-20,Derby,E1,9,8,5,13,D,11,Derby_Sunderland_2003
+89,2,West Ham,12,2,1,0,0,P Armstrong,0,0,2,15,H,7,2003-09-20,Gillingham,E1,2,3,8,9,D,6,Gillingham_West Ham_2003
+90,3,Wimbledon,10,4,0,1,2,A Penn,0,1,1,12,H,10,2003-09-20,Ipswich,E1,3,5,11,14,H,3,Ipswich_Wimbledon_2003
+91,4,Walsall,23,2,0,1,1,P Prosser,0,1,5,20,H,8,2003-09-20,Millwall,E1,4,7,8,16,D,4,Millwall_Walsall_2003
+92,2,Rotherham,17,4,1,1,1,G Laws,0,1,4,14,H,9,2003-09-20,Preston,E1,2,9,6,15,D,4,Preston_Rotherham_2003
+93,1,Coventry,12,1,0,2,1,P Crossley,0,1,1,13,A,17,2003-09-20,Reading,E1,9,5,6,8,D,3,Reading_Coventry_2003
+94,2,Cardiff,18,5,0,3,0,M Riley,0,0,3,18,H,16,2003-09-20,Sheffield United,E1,13,8,7,15,D,6,Sheffield United_Cardiff_2003
+95,2,Norwich,14,1,0,1,1,P Joslin,0,0,0,12,D,11,2003-09-20,Stoke,E1,8,8,5,14,H,3,Stoke_Norwich_2003
+96,1,Watford,11,1,0,0,1,R Beeby,0,0,0,10,H,3,2003-09-20,Wigan,E1,2,9,11,13,H,3,Wigan_Watford_2003
+97,2,Sheffield United,13,1,0,2,1,P Taylor,1,1,2,13,A,11,2003-09-27,Bradford,E1,7,7,6,14,D,2,Bradford_Sheffield United_2003
+98,0,Crewe,8,3,0,0,1,A Wiley,0,0,0,6,H,12,2003-09-27,Cardiff,E1,8,13,7,18,H,5,Cardiff_Crewe_2003
+99,0,Wigan,13,1,1,1,0,M Thorpe,0,0,3,16,D,10,2003-09-27,Coventry,E1,4,8,6,15,D,8,Coventry_Wigan_2003
+100,2,Crystal Palace,16,2,0,1,1,B Curson,0,1,5,16,H,7,2003-09-27,Norwich,E1,2,12,8,22,D,3,Norwich_Crystal Palace_2003
+101,2,Derby,17,1,0,1,1,S Mathieson,1,1,1,22,D,10,2003-09-27,Nott'm Forest,E1,4,3,5,7,D,3,Nott'm Forest_Derby_2003
+102,2,Gillingham,16,1,0,1,0,M Fletcher,0,1,2,14,D,5,2003-09-27,Rotherham,E1,4,10,7,14,A,5,Rotherham_Gillingham_2003
+103,0,Reading,12,2,0,0,2,H Webb,0,0,1,13,H,10,2003-09-27,Sunderland,E1,6,5,4,11,H,5,Sunderland_Reading_2003
+104,1,Preston,10,2,0,1,0,D Crick,0,0,2,11,H,6,2003-09-27,Walsall,E1,2,9,3,15,D,8,Walsall_Preston_2003
+105,0,Ipswich,13,1,0,2,0,A Leake,0,0,2,12,A,12,2003-09-27,Watford,E1,9,5,11,7,D,5,Watford_Ipswich_2003
+106,0,Stoke,8,1,2,0,0,G Laws,1,0,2,12,H,5,2003-09-27,West Brom,E1,2,8,9,14,D,4,West Brom_Stoke_2003
+107,2,Burnley,12,2,1,2,0,M Warren,0,2,3,12,D,7,2003-09-27,Wimbledon,E1,6,8,3,15,A,8,Wimbledon_Burnley_2003
+108,2,Millwall,8,1,0,1,1,M Halsey,0,0,2,16,D,7,2003-09-28,West Ham,E1,6,6,5,8,H,4,West Ham_Millwall_2003
+109,1,Gillingham,10,2,0,1,1,F Stretton,0,0,1,17,H,5,2003-09-29,Walsall,E1,2,9,12,17,H,6,Walsall_Gillingham_2003
+110,2,Derby,12,1,0,2,0,P Dowd,0,1,2,21,A,10,2003-09-30,Bradford,E1,7,6,5,15,A,4,Bradford_Derby_2003
+111,1,Wigan,8,0,0,0,0,R Styles,0,0,2,11,D,9,2003-09-30,Cardiff,E1,1,6,8,13,D,3,Cardiff_Wigan_2003
+112,0,Reading,13,2,0,1,1,K Hill,0,1,0,16,H,9,2003-09-30,Norwich,E1,5,6,5,13,D,8,Norwich_Reading_2003
+113,1,Stoke,11,3,0,0,1,C Boyeson,0,0,3,9,H,11,2003-09-30,Rotherham,E1,4,9,10,11,H,3,Rotherham_Stoke_2003
+114,3,Ipswich,11,3,0,2,1,S Mathieson,0,1,1,15,H,6,2003-09-30,Sunderland,E1,4,11,8,16,D,6,Sunderland_Ipswich_2003
+115,4,Burnley,11,1,0,1,1,A Hall,1,0,3,11,D,12,2003-09-30,Watford,E1,7,5,9,11,H,5,Watford_Burnley_2003
+116,2,Millwall,15,2,0,1,2,C Webster,0,1,2,16,H,5,2003-09-30,West Brom,E1,4,10,2,15,H,1,West Brom_Millwall_2003
+117,1,Sheffield United,12,1,0,2,0,S Dunn,0,0,3,14,A,6,2003-09-30,Wimbledon,E1,4,5,4,9,D,4,Wimbledon_Sheffield United_2003
+118,2,Crewe,12,2,0,0,0,J Ross,0,0,1,8,H,9,2003-10-01,Coventry,E1,5,10,11,20,D,3,Coventry_Crewe_2003
+119,0,Preston,9,0,0,1,0,R Beeby,0,1,3,13,A,13,2003-10-01,Nott'm Forest,E1,8,2,11,11,A,6,Nott'm Forest_Preston_2003
+120,1,Crystal Palace,20,3,0,0,2,M Jones,0,0,2,10,H,16,2003-10-01,West Ham,E1,7,9,3,10,H,5,West Ham_Crystal Palace_2003
+121,0,Walsall,8,3,0,1,1,M Jones,0,1,3,8,H,6,2003-10-04,Burnley,E1,2,6,7,14,D,6,Burnley_Walsall_2003
+122,0,Watford,16,0,1,1,0,F Stretton,0,0,2,15,A,6,2003-10-04,Crewe,E1,3,5,11,9,D,4,Crewe_Watford_2003
+123,2,Cardiff,13,2,2,1,1,C Penton,0,0,3,15,H,6,2003-10-04,Crystal Palace,E1,3,6,8,8,H,1,Crystal Palace_Cardiff_2003
+124,1,West Ham,15,0,0,1,0,M Fletcher,0,0,2,11,A,9,2003-10-04,Derby,E1,6,6,8,13,D,6,Derby_West Ham_2003
+125,2,West Brom,15,0,0,2,0,D Crick,0,2,0,12,A,6,2003-10-04,Gillingham,E1,4,0,2,2,A,3,Gillingham_West Brom_2003
+126,2,Rotherham,11,2,2,1,0,A D'Urso,0,0,2,14,H,8,2003-10-04,Ipswich,E1,5,6,5,11,D,4,Ipswich_Rotherham_2003
+127,1,Coventry,21,2,0,1,0,P Joslin,1,0,4,10,H,8,2003-10-04,Millwall,E1,5,4,3,6,D,6,Millwall_Coventry_2003
+128,0,Wimbledon,21,1,1,0,1,C Boyeson,0,0,2,13,H,10,2003-10-04,Preston,E1,6,7,6,17,H,6,Preston_Wimbledon_2003
+129,0,Bradford,8,2,0,2,1,P Walton,0,1,5,11,D,9,2003-10-04,Reading,E1,5,13,14,19,D,0,Reading_Bradford_2003
+130,3,Sunderland,12,0,1,1,0,P Danson,0,0,3,17,A,8,2003-10-04,Sheffield United,E1,3,10,10,12,D,3,Sheffield United_Sunderland_2003
+131,2,Nott'm Forest,9,2,0,1,2,N Barry,0,0,1,11,H,12,2003-10-04,Stoke,E1,7,6,6,11,H,10,Stoke_Nott'm Forest_2003
+132,0,Norwich,7,1,0,1,1,R Pearson,0,0,2,14,D,11,2003-10-04,Wigan,E1,10,16,6,16,H,4,Wigan_Norwich_2003
+133,0,Ipswich,17,0,0,1,0,G Laws,0,1,1,17,A,16,2003-10-11,Bradford,E1,10,4,6,6,A,13,Bradford_Ipswich_2003
+134,4,Wigan,18,2,0,2,1,P Prosser,0,2,2,19,D,20,2003-10-11,Derby,E1,15,8,3,13,A,4,Derby_Wigan_2003
+135,0,Millwall,8,0,0,0,0,E Evans,0,0,2,17,D,4,2003-10-11,Rotherham,E1,1,4,7,12,D,4,Rotherham_Millwall_2003
+136,1,Bradford,11,2,0,2,0,M Ryan,0,0,3,23,D,19,2003-10-14,Crewe,E1,10,4,3,8,D,11,Crewe_Bradford_2003
+137,2,Derby,18,1,0,1,1,P Armstrong,1,0,0,12,D,7,2003-10-14,Crystal Palace,E1,3,8,11,15,H,1,Crystal Palace_Derby_2003
+138,1,Burnley,12,6,0,1,5,P Joslin,0,0,1,8,H,15,2003-10-14,Ipswich,E1,6,7,10,18,H,9,Ipswich_Burnley_2003
+139,4,Preston,24,0,0,1,0,T Parkes,0,0,1,12,A,15,2003-10-14,Millwall,E1,6,0,1,3,D,5,Millwall_Preston_2003
+140,0,Rotherham,8,2,0,2,2,G Cain,0,0,0,7,D,10,2003-10-14,Nott'm Forest,E1,4,7,7,17,H,8,Nott'm Forest_Rotherham_2003
+141,2,Gillingham,12,2,0,1,0,C Penton,0,0,0,13,H,14,2003-10-14,Reading,E1,10,5,2,9,D,9,Reading_Gillingham_2003
+142,0,Cardiff,17,0,0,0,0,A Wiley,0,0,3,18,D,3,2003-10-14,Sunderland,E1,2,7,4,14,D,3,Sunderland_Cardiff_2003
+143,0,Walsall,10,1,0,1,0,K Hill,0,1,2,13,D,7,2003-10-14,Watford,E1,5,5,5,11,A,6,Watford_Walsall_2003
+144,3,Sheffield United,15,0,0,2,0,P Durkin,0,2,4,10,A,10,2003-10-14,West Brom,E1,8,10,11,15,A,2,West Brom_Sheffield United_2003
+145,1,Stoke,16,2,0,1,0,S Mathieson,0,1,1,14,H,5,2003-10-14,Wigan,E1,4,6,5,18,A,4,Wigan_Stoke_2003
+146,3,Wimbledon,17,1,1,0,0,S Bennett,0,0,3,18,H,9,2003-10-15,Coventry,E1,6,10,7,18,D,6,Coventry_Wimbledon_2003
+147,2,Norwich,14,1,0,1,1,S Tomlin,0,0,1,8,D,10,2003-10-15,West Ham,E1,7,8,5,11,H,5,West Ham_Norwich_2003
+148,2,Cardiff,14,1,0,3,1,E Ilderton,0,3,3,5,A,11,2003-10-18,Coventry,E1,7,11,5,17,A,1,Coventry_Cardiff_2003
+149,0,Derby,11,3,1,0,2,M Warren,0,0,5,17,H,13,2003-10-18,Crewe,E1,6,6,1,9,H,7,Crewe_Derby_2003
+150,0,Rotherham,3,1,1,1,0,P Walton,0,1,5,11,D,4,2003-10-18,Crystal Palace,E1,2,5,10,12,A,2,Crystal Palace_Rotherham_2003
+151,2,Stoke,9,1,0,0,1,P Armstrong,0,0,2,23,H,10,2003-10-18,Ipswich,E1,1,11,8,17,H,8,Ipswich_Stoke_2003
+152,3,Sheffield United,18,2,0,0,0,R Styles,2,0,3,16,H,12,2003-10-18,Millwall,E1,8,5,10,12,D,3,Millwall_Sheffield United_2003
+153,1,Wimbledon,13,6,0,0,3,P Crossley,0,0,1,4,H,8,2003-10-18,Nott'm Forest,E1,5,9,12,13,H,4,Nott'm Forest_Wimbledon_2003
+154,2,Preston,10,3,1,2,1,A Hall,0,1,3,19,H,7,2003-10-18,Reading,E1,3,9,7,17,D,6,Reading_Preston_2003
+155,0,Walsall,13,1,1,0,1,J P Robinson,0,0,2,13,H,3,2003-10-18,Sunderland,E1,2,6,6,12,H,1,Sunderland_Walsall_2003
+156,1,Bradford,10,1,0,0,0,U Rennie,0,0,1,22,H,8,2003-10-18,Watford,E1,4,10,10,21,D,0,Watford_Bradford_2003
+157,1,Norwich,14,1,0,0,1,G Salisbury,0,0,2,12,H,6,2003-10-18,West Brom,E1,4,3,8,10,H,5,West Brom_Norwich_2003
+158,3,Burnley,9,2,0,2,1,I Williamson,0,1,2,15,D,5,2003-10-18,West Ham,E1,4,7,10,11,D,2,West Ham_Burnley_2003
+159,1,Gillingham,17,1,0,0,0,C Webster,0,0,2,17,H,8,2003-10-18,Wigan,E1,4,3,1,9,D,4,Wigan_Gillingham_2003
+160,0,Preston,6,2,1,1,2,H Webb,0,0,3,17,H,19,2003-10-21,Crewe,E1,10,5,5,9,H,6,Crewe_Preston_2003
+161,3,Ipswich,18,3,0,4,2,L Cable,0,2,3,12,A,16,2003-10-21,Crystal Palace,E1,10,6,3,10,D,7,Crystal Palace_Ipswich_2003
+162,2,Derby,13,2,0,1,0,R Beeby,1,0,4,20,H,18,2003-10-21,Norwich,E1,12,7,5,13,D,10,Norwich_Derby_2003
+163,1,Walsall,12,0,0,1,0,M Ryan,0,1,1,10,A,9,2003-10-21,Reading,E1,3,4,4,12,A,0,Reading_Walsall_2003
+164,1,Rotherham,15,0,0,0,0,C Foy,0,0,3,17,D,7,2003-10-21,Sunderland,E1,1,12,6,17,D,3,Sunderland_Rotherham_2003
+165,0,Coventry,9,1,0,1,0,A Kaye,0,0,0,12,D,14,2003-10-21,Watford,E1,8,6,8,12,D,8,Watford_Coventry_2003
+166,0,Wimbledon,4,0,0,1,0,E Ilderton,0,0,2,9,A,4,2003-10-21,West Brom,E1,2,6,14,11,D,1,West Brom_Wimbledon_2003
+167,0,Sheffield United,14,1,0,1,1,P Walton,0,0,2,14,D,4,2003-10-21,Wigan,E1,4,3,2,7,H,8,Wigan_Sheffield United_2003
+168,1,Nott'm Forest,7,1,0,1,0,A Bates,0,1,0,18,D,4,2003-10-22,West Ham,E1,1,6,7,13,A,2,West Ham_Nott'm Forest_2003
+169,1,Reading,17,1,0,2,1,S Tomlin,0,2,0,14,A,12,2003-10-24,Sheffield United,E1,8,15,11,21,A,8,Sheffield United_Reading_2003
+170,0,Nott'm Forest,12,1,0,2,1,A Leake,0,0,0,10,A,11,2003-10-25,Bradford,E1,5,6,10,9,H,7,Bradford_Nott'm Forest_2003
+171,1,Millwall,8,1,0,1,0,A Bates,0,0,1,17,D,10,2003-10-25,Burnley,E1,5,6,9,13,D,6,Burnley_Millwall_2003
+172,0,West Ham,11,0,0,0,0,M Ryan,0,0,3,11,D,16,2003-10-25,Cardiff,E1,9,5,2,12,D,3,Cardiff_West Ham_2003
+173,3,Coventry,7,1,0,3,0,R Pearson,0,2,2,9,A,12,2003-10-25,Derby,E1,6,7,3,10,A,5,Derby_Coventry_2003
+174,3,Crystal Palace,21,1,0,0,0,H Webb,1,0,1,15,H,7,2003-10-25,Gillingham,E1,3,9,10,12,D,7,Gillingham_Crystal Palace_2003
+175,1,Sunderland,16,1,1,0,1,G Poll,0,0,2,13,H,11,2003-10-25,Norwich,E1,5,6,6,10,H,7,Norwich_Sunderland_2003
+176,1,Ipswich,15,1,0,1,1,D Gallagher,0,0,1,8,D,11,2003-10-25,Preston,E1,7,5,6,12,H,10,Preston_Ipswich_2003
+177,2,West Brom,10,0,0,3,0,A Butler,0,1,0,11,A,7,2003-10-25,Rotherham,E1,6,3,5,9,A,6,Rotherham_West Brom_2003
+178,1,Crewe,16,1,0,1,0,R Beeby,0,0,0,9,D,14,2003-10-25,Stoke,E1,10,3,4,10,D,9,Stoke_Crewe_2003
+179,0,Wigan,15,2,0,0,0,I Williamson,0,0,1,15,H,12,2003-10-25,Walsall,E1,5,8,5,10,D,6,Walsall_Wigan_2003
+180,4,Watford,13,1,0,3,0,L Mason,0,2,3,17,A,16,2003-10-25,Wimbledon,E1,8,5,5,8,A,10,Wimbledon_Watford_2003
+181,2,Watford,10,3,0,0,1,E Evans,0,0,1,8,H,8,2003-10-28,Cardiff,E1,2,8,7,17,H,6,Cardiff_Watford_2003
+182,1,Cardiff,10,1,0,1,0,H Webb,0,0,1,3,D,11,2003-11-01,Burnley,E1,7,3,11,10,D,8,Burnley_Cardiff_2003
+183,0,West Ham,8,1,0,1,1,G Salisbury,0,1,0,7,D,11,2003-11-01,Coventry,E1,8,7,8,15,D,14,Coventry_West Ham_2003
+184,0,Reading,9,1,0,0,1,E Ilderton,0,0,3,9,H,16,2003-11-01,Crewe,E1,3,5,2,16,H,6,Crewe_Reading_2003
+185,1,Gillingham,13,3,0,4,1,M Cooper,0,2,1,13,A,15,2003-11-01,Ipswich,E1,7,8,7,17,A,4,Ipswich_Gillingham_2003
+186,1,Nott'm Forest,18,1,0,0,1,P Walton,0,0,2,16,H,9,2003-11-01,Millwall,E1,4,8,5,11,H,2,Millwall_Nott'm Forest_2003
+187,0,Derby,12,3,0,0,1,P Robinson,0,0,3,14,H,9,2003-11-01,Preston,E1,3,5,2,10,H,8,Preston_Derby_2003
+188,4,Sheffield United,18,2,0,2,2,B Knight,1,0,2,4,D,20,2003-11-01,Stoke,E1,13,7,3,12,H,11,Stoke_Sheffield United_2003
+189,4,Norwich,13,1,1,3,1,M Cowburn,1,0,2,10,A,17,2003-11-01,Walsall,E1,11,4,2,9,H,9,Walsall_Norwich_2003
+190,2,Rotherham,20,1,0,0,0,B Curson,0,0,1,10,H,7,2003-11-01,Watford,E1,3,10,9,14,D,4,Watford_Rotherham_2003
+191,3,Sunderland,12,0,0,0,0,C Penton,0,0,0,15,D,15,2003-11-01,West Brom,E1,6,2,4,6,D,12,West Brom_Sunderland_2003
+192,0,Crystal Palace,9,5,0,0,2,G Laws,0,0,2,11,H,7,2003-11-01,Wigan,E1,4,14,0,20,H,4,Wigan_Crystal Palace_2003
+193,0,Bradford,11,2,0,1,0,M Thorpe,0,1,1,11,H,8,2003-11-01,Wimbledon,E1,3,6,1,11,A,5,Wimbledon_Bradford_2003
+194,1,Sunderland,6,1,0,3,1,D Gallagher,0,1,1,11,A,18,2003-11-04,Gillingham,E1,11,3,5,5,D,7,Gillingham_Sunderland_2003
+195,1,Watford,14,2,0,1,0,Andy Penn,0,0,1,11,H,9,2003-11-04,Preston,E1,8,12,11,20,D,5,Preston_Watford_2003
+196,0,Crewe,13,2,0,0,1,M Cooper,0,0,1,10,H,7,2003-11-04,Sheffield United,E1,2,14,10,29,H,4,Sheffield United_Crewe_2003
+197,0,Nott'm Forest,9,4,0,1,2,M Riley,0,1,1,13,H,11,2003-11-04,Walsall,E1,7,7,7,12,H,2,Walsall_Nott'm Forest_2003
+198,0,Bradford,10,0,0,0,0,G Hegley,0,0,2,13,D,3,2003-11-05,Coventry,E1,1,7,9,15,D,6,Coventry_Bradford_2003
+199,0,Walsall,10,1,0,1,1,M Messias,0,1,2,12,D,13,2003-11-08,Bradford,E1,7,7,6,12,D,4,Bradford_Walsall_2003
+200,0,Stoke,9,3,0,1,1,D Crick,0,0,0,13,H,14,2003-11-08,Cardiff,E1,7,18,8,22,H,9,Cardiff_Stoke_2003
+201,2,Preston,9,1,0,1,0,A Wiley,0,0,2,11,D,5,2003-11-08,Crystal Palace,E1,4,6,9,7,D,5,Crystal Palace_Preston_2003
+202,3,Ipswich,16,2,0,2,2,K Hill,0,0,3,13,D,11,2003-11-08,Derby,E1,6,6,4,11,H,7,Derby_Ipswich_2003
+203,1,Crewe,10,2,1,0,0,P Taylor,0,0,3,4,H,10,2003-11-08,Gillingham,E1,5,11,5,19,D,2,Gillingham_Crewe_2003
+204,0,Millwall,12,3,0,1,3,M Clattenburg,0,0,1,10,H,13,2003-11-08,Norwich,E1,10,4,4,5,H,4,Norwich_Millwall_2003
+205,1,Watford,14,1,0,1,0,G Laws,0,0,0,8,D,16,2003-11-08,Nott'm Forest,E1,9,8,3,17,D,9,Nott'm Forest_Watford_2003
+206,2,Wigan,11,1,1,0,0,P Robinson,0,0,0,11,H,13,2003-11-08,Reading,E1,3,5,10,10,D,2,Reading_Wigan_2003
+207,1,Wimbledon,17,3,1,1,2,A Hall,1,0,0,15,H,6,2003-11-08,Rotherham,E1,2,7,7,10,H,4,Rotherham_Wimbledon_2003
+208,0,Burnley,4,1,0,0,1,G Cain,0,0,0,7,H,5,2003-11-08,Sheffield United,E1,3,5,5,10,H,4,Sheffield United_Burnley_2003
+209,2,Coventry,14,0,0,0,0,A Butler,0,0,3,12,D,7,2003-11-08,Sunderland,E1,3,3,4,9,D,4,Sunderland_Coventry_2003
+210,2,West Brom,10,3,0,4,3,M Dean,1,2,1,10,A,5,2003-11-08,West Ham,E1,4,8,1,11,H,5,West Ham_West Brom_2003
+211,1,Burnley,10,2,1,0,1,U Rennie,0,0,2,15,H,9,2003-11-15,Derby,E1,5,9,7,14,H,8,Derby_Burnley_2003
+212,1,Wimbledon,13,1,0,2,1,L Cable,0,1,2,13,A,11,2003-11-15,Gillingham,E1,8,10,14,12,D,5,Gillingham_Wimbledon_2003
+213,3,Watford,16,1,0,2,0,S Bennett,0,1,3,13,A,7,2003-11-15,Norwich,E1,4,10,10,15,A,5,Norwich_Watford_2003
+214,2,Millwall,11,1,0,0,1,M Jones,0,0,3,15,H,7,2003-11-15,Reading,E1,4,5,4,9,H,8,Reading_Millwall_2003
+215,2,Rotherham,15,1,0,1,1,R Oliver,0,0,0,10,D,6,2003-11-22,Burnley,E1,4,4,6,9,H,6,Burnley_Rotherham_2003
+216,1,Gillingham,4,2,0,2,0,S Dunn,0,0,1,6,D,9,2003-11-22,Coventry,E1,3,6,5,14,D,6,Coventry_Gillingham_2003
+217,0,Sunderland,5,3,0,0,0,C Foy,0,0,0,14,H,26,2003-11-22,Crewe,E1,16,7,3,12,D,8,Crewe_Sunderland_2003
+218,2,Sheffield United,15,3,0,0,1,M Fletcher,0,0,4,21,H,4,2003-11-22,Ipswich,E1,4,5,4,9,H,5,Ipswich_Sheffield United_2003
+219,0,Derby,12,0,0,0,0,J Ross,0,0,1,16,D,8,2003-11-22,Millwall,E1,5,8,10,15,D,6,Millwall_Derby_2003
+220,0,Norwich,12,0,0,0,0,J Ross,0,0,1,16,D,8,2003-11-22,Preston,E1,5,8,10,15,D,6,Preston_Norwich_2003
+221,1,Bradford,12,1,0,0,1,P Crossley,0,0,1,12,H,3,2003-11-22,Stoke,E1,1,4,6,10,H,4,Stoke_Bradford_2003
+222,1,Crystal Palace,9,0,0,0,0,A Leake,1,0,2,10,D,6,2003-11-22,Walsall,E1,4,3,5,13,D,5,Walsall_Crystal Palace_2003
+223,0,West Ham,13,0,0,0,0,P Prosser,0,0,0,8,D,16,2003-11-22,Watford,E1,8,9,6,11,D,7,Watford_West Ham_2003
+224,0,Reading,8,0,0,0,0,R Pearson,0,0,0,9,D,6,2003-11-22,West Brom,E1,1,3,5,13,D,6,West Brom_Reading_2003
+225,1,Nott'm Forest,13,2,0,2,1,C Boyeson,0,0,1,14,D,9,2003-11-22,Wigan,E1,6,9,5,11,H,5,Wigan_Nott'm Forest_2003
+226,2,Cardiff,13,0,0,1,0,H Webb,0,1,1,8,A,6,2003-11-22,Wimbledon,E1,4,4,7,6,A,3,Wimbledon_Cardiff_2003
+227,1,Reading,7,3,0,0,1,M Pike,0,0,2,9,H,9,2003-11-25,Burnley,E1,2,4,6,7,H,7,Burnley_Reading_2003
+228,0,West Brom,6,1,0,1,0,B Curson,0,0,2,18,D,9,2003-11-25,Cardiff,E1,6,7,4,14,D,4,Cardiff_West Brom_2003
+229,4,Coventry,13,1,0,1,1,P Taylor,1,0,2,12,D,19,2003-11-25,Norwich,E1,10,4,4,8,H,4,Norwich_Coventry_2003
+230,1,Crystal Palace,13,0,0,1,0,M Clattenburg,0,1,4,8,A,6,2003-11-25,Stoke,E1,4,12,10,22,A,6,Stoke_Crystal Palace_2003
+231,0,West Ham,9,1,0,1,0,B Knight,0,0,1,10,D,9,2003-11-25,Wimbledon,E1,5,4,3,6,D,7,Wimbledon_West Ham_2003
+232,1,Millwall,11,3,0,2,0,D Gallagher,0,2,1,14,H,10,2003-11-29,Bradford,E1,7,8,5,12,A,3,Bradford_Millwall_2003
+233,5,Ipswich,12,2,0,3,0,A Hall,0,2,1,15,A,14,2003-11-29,Cardiff,E1,11,3,7,13,A,11,Cardiff_Ipswich_2003
+234,1,Coventry,10,1,0,1,1,M Warren,0,0,3,14,D,9,2003-11-29,Crystal Palace,E1,4,5,5,9,H,4,Crystal Palace_Coventry_2003
+235,3,Wimbledon,16,3,0,1,1,T Parkes,0,1,0,8,H,8,2003-11-29,Derby,E1,3,6,6,10,D,4,Derby_Wimbledon_2003
+236,1,Stoke,12,3,0,1,2,G Hegley,0,0,1,11,H,12,2003-11-29,Gillingham,E1,6,9,9,13,H,2,Gillingham_Stoke_2003
+237,1,Crewe,13,1,0,0,1,A Penn,0,0,0,12,H,13,2003-11-29,Norwich,E1,9,15,7,29,H,5,Norwich_Crewe_2003
+238,2,West Brom,13,0,0,3,0,P Taylor,0,2,1,11,A,7,2003-11-29,Nott'm Forest,E1,4,5,9,15,A,4,Nott'm Forest_West Brom_2003
+239,1,Watford,8,2,0,1,0,P Walton,0,0,0,11,H,8,2003-11-29,Reading,E1,2,4,9,12,D,2,Reading_Watford_2003
+240,0,Walsall,5,2,0,0,0,E Ilderton,0,0,1,14,H,3,2003-11-29,Rotherham,E1,0,6,8,15,D,0,Rotherham_Walsall_2003
+241,0,Preston,8,2,0,0,1,J Winter,0,0,0,13,H,15,2003-11-29,Sheffield United,E1,6,5,3,13,H,11,Sheffield United_Preston_2003
+242,2,Burnley,7,1,0,1,1,A Kaye,0,0,1,10,D,15,2003-11-29,Sunderland,E1,9,14,8,17,H,7,Sunderland_Burnley_2003
+243,1,Wigan,16,4,2,0,2,F Stretton,0,0,2,10,H,4,2003-11-29,West Ham,E1,0,5,5,8,H,4,West Ham_Wigan_2003
+244,0,Coventry,11,2,0,0,2,A D'Urso,0,0,0,11,H,12,2003-12-02,Rotherham,E1,4,7,7,11,H,10,Rotherham_Coventry_2003
+245,1,Wigan,11,1,1,1,0,R Oliver,1,0,2,14,D,17,2003-12-02,Sunderland,E1,11,5,4,12,D,9,Sunderland_Wigan_2003
+246,2,Ipswich,9,1,0,1,0,C Webster,0,0,2,9,D,8,2003-12-03,Nott'm Forest,E1,8,13,9,13,D,4,Nott'm Forest_Ipswich_2003
+247,2,Sheffield United,17,3,1,2,3,N Barry,0,2,0,11,H,10,2003-12-06,Burnley,E1,8,6,5,11,H,6,Burnley_Sheffield United_2003
+248,0,Gillingham,5,1,0,1,1,G Cain,0,0,0,8,D,16,2003-12-06,Crewe,E1,10,3,1,8,H,8,Crewe_Gillingham_2003
+249,3,Derby,12,2,0,1,1,M Messias,0,0,2,14,H,11,2003-12-06,Ipswich,E1,8,6,5,11,H,3,Ipswich_Derby_2003
+250,3,Norwich,9,0,0,0,0,M Thorpe,1,0,2,12,D,7,2003-12-06,Millwall,E1,3,3,2,7,D,1,Millwall_Norwich_2003
+251,1,Crystal Palace,13,4,1,1,0,E Ilderton,0,0,1,13,H,7,2003-12-06,Preston,E1,4,27,7,28,D,2,Preston_Crystal Palace_2003
+252,4,Cardiff,18,2,0,3,1,A Leake,0,2,2,6,A,11,2003-12-06,Stoke,E1,6,7,8,13,A,1,Stoke_Cardiff_2003
+253,2,Bradford,14,1,0,0,0,C Webster,0,0,4,13,H,12,2003-12-06,Walsall,E1,4,8,3,12,D,4,Walsall_Bradford_2003
+254,1,Nott'm Forest,18,1,0,1,0,M Ryan,0,0,0,13,D,8,2003-12-06,Watford,E1,3,2,7,5,D,3,Watford_Nott'm Forest_2003
+255,1,West Ham,18,1,0,1,0,M Ryan,0,0,0,13,D,8,2003-12-06,West Brom,E1,3,2,7,5,D,3,West Brom_West Ham_2003
+256,1,Reading,13,0,0,2,0,J Ross,0,0,1,13,A,9,2003-12-06,Wigan,E1,8,11,6,22,D,4,Wigan_Reading_2003
+257,1,Rotherham,15,1,0,2,0,D Gallagher,0,1,1,9,A,12,2003-12-06,Wimbledon,E1,6,4,7,7,A,7,Wimbledon_Rotherham_2003
+258,1,Sunderland,8,1,0,1,1,M Jones,0,1,1,10,D,8,2003-12-08,Coventry,E1,4,10,6,16,D,4,Coventry_Sunderland_2003
+259,1,West Brom,9,0,0,1,0,Mike Pike,0,0,0,8,A,10,2003-12-09,Bradford,E1,4,5,3,7,D,2,Bradford_West Brom_2003
+260,1,Preston,10,2,0,2,0,M Cooper,0,0,2,18,D,11,2003-12-09,Cardiff,E1,8,16,4,18,D,8,Cardiff_Preston_2003
+261,1,Crewe,2,1,0,3,0,P Joslin,0,2,1,3,A,8,2003-12-09,Crystal Palace,E1,5,7,11,10,A,5,Crystal Palace_Crewe_2003
+262,0,Walsall,6,2,0,0,1,R Beeby,0,0,2,20,H,5,2003-12-09,Sheffield United,E1,3,11,8,22,H,1,Sheffield United_Walsall_2003
+263,1,Stoke,13,0,0,1,0,B Curson,0,1,2,6,A,5,2003-12-09,West Ham,E1,1,2,5,5,A,0,West Ham_Stoke_2003
+264,2,Coventry,14,1,0,2,0,M Fletcher,1,2,2,14,A,5,2003-12-13,Burnley,E1,2,3,15,11,A,2,Burnley_Coventry_2003
+265,2,Nott'm Forest,13,1,1,0,1,A Hall,0,0,3,18,H,6,2003-12-13,Crystal Palace,E1,1,4,5,8,H,4,Crystal Palace_Nott'm Forest_2003
+266,1,Preston,10,0,0,1,0,R Oliver,0,1,3,19,A,6,2003-12-13,Gillingham,E1,3,1,9,17,A,8,Gillingham_Preston_2003
+267,4,Ipswich,11,0,1,0,0,I Williamson,0,0,3,17,D,5,2003-12-13,Millwall,E1,0,3,4,10,D,1,Millwall_Ipswich_2003
+268,0,Cardiff,18,4,0,1,1,A Butler,0,0,1,7,H,12,2003-12-13,Norwich,E1,7,7,9,11,H,6,Norwich_Cardiff_2003
+269,0,Derby,7,0,0,0,0,P Dowd,0,0,3,18,D,4,2003-12-13,Rotherham,E1,2,5,7,8,D,3,Rotherham_Derby_2003
+270,0,Watford,9,2,1,2,0,G Salisbury,0,0,3,9,D,6,2003-12-13,Sheffield United,E1,6,3,8,11,D,3,Sheffield United_Watford_2003
+271,2,Reading,18,3,0,0,2,C Foy,0,0,0,11,H,14,2003-12-13,Stoke,E1,6,10,7,16,H,2,Stoke_Reading_2003
+272,2,Crewe,12,2,0,2,1,G Hegley,0,2,1,7,D,8,2003-12-13,West Brom,E1,3,15,12,22,A,4,West Brom_Crewe_2003
+273,2,Sunderland,10,3,0,2,0,P Joslin,0,2,1,13,H,8,2003-12-13,West Ham,E1,3,4,10,8,A,2,West Ham_Sunderland_2003
+274,0,Bradford,8,1,1,0,0,A Penn,0,0,4,10,H,5,2003-12-13,Wigan,E1,2,6,7,14,D,5,Wigan_Bradford_2003
+275,1,Walsall,6,0,0,1,0,S Tomlin,0,0,0,8,A,5,2003-12-13,Wimbledon,E1,4,1,9,5,D,5,Wimbledon_Walsall_2003
+276,1,Rotherham,12,0,0,2,0,J P Robinson,0,1,1,15,A,9,2003-12-20,Bradford,E1,3,5,6,8,A,2,Bradford_Rotherham_2003
+277,0,Millwall,10,1,0,3,1,D Pugh,0,1,3,18,A,7,2003-12-20,Cardiff,E1,5,5,6,7,D,7,Cardiff_Millwall_2003
+278,1,West Brom,14,1,0,0,0,N Barry,0,0,0,8,H,11,2003-12-20,Coventry,E1,5,9,8,14,D,4,Coventry_West Brom_2003
+279,3,Wigan,15,2,0,3,2,L Cable,0,2,2,16,A,16,2003-12-20,Crewe,E1,7,5,7,6,D,9,Crewe_Wigan_2003
+280,1,Burnley,16,5,0,3,1,M Dean,0,1,3,13,H,14,2003-12-20,Preston,E1,9,10,3,16,D,16,Preston_Burnley_2003
+281,0,Crystal Palace,5,0,0,3,0,B Curson,0,2,0,11,A,15,2003-12-20,Reading,E1,5,4,10,7,A,8,Reading_Crystal Palace_2003
+282,3,Wimbledon,13,2,0,1,1,M Warren,1,1,2,8,H,5,2003-12-20,Sunderland,E1,3,8,7,14,D,2,Sunderland_Wimbledon_2003
+283,1,West Ham,10,1,1,1,0,S Mathieson,0,1,0,4,D,8,2003-12-20,Walsall,E1,5,4,8,8,A,4,Walsall_West Ham_2003
+284,3,Stoke,11,1,1,3,1,A Butler,0,1,1,19,A,13,2003-12-20,Watford,E1,10,5,3,9,D,2,Watford_Stoke_2003
+285,1,Norwich,9,0,0,2,0,A Kaye,0,1,1,17,A,6,2003-12-21,Ipswich,E1,2,9,7,20,A,2,Ipswich_Norwich_2003
+286,0,Walsall,11,0,0,1,0,P Crossley,0,0,1,11,A,5,2003-12-26,Cardiff,E1,2,7,5,19,D,4,Cardiff_Walsall_2003
+287,2,Sheffield United,23,0,0,1,0,C Penton,0,0,2,15,A,6,2003-12-26,Coventry,E1,1,6,6,16,D,4,Coventry_Sheffield United_2003
+288,0,Burnley,7,3,0,1,1,T Parkes,0,0,0,13,H,19,2003-12-26,Crewe,E1,10,5,4,7,H,13,Crewe_Burnley_2003
+289,0,Millwall,12,0,0,1,0,P Walton,0,1,3,14,A,3,2003-12-26,Crystal Palace,E1,2,9,12,13,A,0,Crystal Palace_Millwall_2003
+290,3,Watford,25,1,0,0,0,I Williamson,0,0,1,13,H,7,2003-12-26,Gillingham,E1,3,5,14,9,D,2,Gillingham_Watford_2003
+291,0,Nott'm Forest,14,1,0,0,1,K Hill,0,0,0,16,H,21,2003-12-26,Norwich,E1,12,10,7,14,H,3,Norwich_Nott'm Forest_2003
+292,0,Wimbledon,11,0,0,3,0,P Taylor,0,2,2,9,A,10,2003-12-26,Reading,E1,5,4,6,9,A,4,Reading_Wimbledon_2003
+293,1,Preston,10,1,1,1,0,E Evans,0,0,3,14,D,5,2003-12-26,Stoke,E1,2,4,13,10,D,5,Stoke_Preston_2003
+294,2,Bradford,19,3,0,0,1,L Mason,0,0,1,15,H,2,2003-12-26,Sunderland,E1,1,9,3,20,H,6,Sunderland_Bradford_2003
+295,0,Derby,8,1,0,1,0,G Cain,0,0,0,5,D,12,2003-12-26,West Brom,E1,5,4,4,6,D,8,West Brom_Derby_2003
+296,2,Ipswich,10,1,0,2,0,B Knight,0,0,1,11,A,8,2003-12-26,West Ham,E1,4,3,4,14,D,2,West Ham_Ipswich_2003
+297,2,Rotherham,15,1,0,2,0,M Cowburn,0,0,2,15,A,5,2003-12-26,Wigan,E1,5,9,7,13,D,0,Wigan_Rotherham_2003
+298,4,Coventry,13,1,0,0,1,C Boyeson,0,0,3,13,H,14,2003-12-28,Bradford,E1,4,5,1,8,H,10,Bradford_Coventry_2003
+299,2,Stoke,15,0,1,1,0,D Gallagher,0,0,2,13,A,8,2003-12-28,Burnley,E1,4,4,9,9,D,4,Burnley_Stoke_2003
+300,2,Norwich,15,0,0,4,0,G Laws,0,0,2,21,A,16,2003-12-28,Derby,E1,10,4,5,10,D,10,Derby_Norwich_2003
+301,2,Crystal Palace,14,1,0,3,1,S Tomlin,0,0,2,18,A,14,2003-12-28,Ipswich,E1,10,7,5,14,H,5,Ipswich_Crystal Palace_2003
+302,1,Gillingham,9,1,0,2,0,P Armstrong,0,1,1,14,A,8,2003-12-28,Millwall,E1,6,6,8,13,A,3,Millwall_Gillingham_2003
+303,2,West Ham,12,0,0,2,0,R Beeby,0,1,0,11,A,15,2003-12-28,Nott'm Forest,E1,12,7,5,12,A,6,Nott'm Forest_West Ham_2003
+304,1,Crewe,9,0,0,0,0,R Pearson,0,0,0,4,D,10,2003-12-28,Preston,E1,2,7,7,24,D,7,Preston_Crewe_2003
+305,3,Sunderland,17,0,0,2,0,C Foy,0,2,2,11,A,11,2003-12-28,Rotherham,E1,5,1,4,5,A,5,Rotherham_Sunderland_2003
+306,2,Wigan,14,1,0,1,1,M Warren,0,1,0,18,D,13,2003-12-28,Sheffield United,E1,6,4,7,8,D,3,Sheffield United_Wigan_2003
+307,1,Reading,16,1,0,1,1,A Bates,0,0,0,7,D,11,2003-12-28,Walsall,E1,7,2,6,7,H,12,Walsall_Reading_2003
+308,2,Cardiff,17,2,0,1,0,M Thorpe,0,0,2,5,H,11,2003-12-28,Watford,E1,10,8,5,14,D,4,Watford_Cardiff_2003
+309,0,West Brom,8,0,0,0,0,P Walton,0,0,2,19,D,8,2003-12-30,Wimbledon,E1,3,7,4,14,D,3,Wimbledon_West Brom_2003
+310,1,Walsall,13,2,0,0,0,B Knight,0,0,0,11,H,9,2004-01-09,West Brom,E1,3,7,5,14,D,1,West Brom_Walsall_2003
+311,1,Rotherham,4,3,0,2,3,A Marriner,0,2,3,17,H,4,2004-01-10,Cardiff,E1,3,8,5,18,H,2,Cardiff_Rotherham_2003
+312,0,Watford,6,0,0,0,0,M Pike,0,0,1,9,D,11,2004-01-10,Coventry,E1,5,6,12,13,D,6,Coventry_Watford_2003
+313,1,Wimbledon,8,1,0,0,0,B Curson,0,0,0,8,H,27,2004-01-10,Crewe,E1,12,7,0,13,D,6,Crewe_Wimbledon_2003
+314,0,Burnley,10,0,0,0,0,A Wiley,0,0,1,9,D,6,2004-01-10,Crystal Palace,E1,5,6,7,14,D,5,Crystal Palace_Burnley_2003
+315,2,Sheffield United,14,0,0,3,0,J P Robinson,0,1,1,10,A,13,2004-01-10,Gillingham,E1,6,5,3,13,A,4,Gillingham_Sheffield United_2003
+316,1,Bradford,15,0,0,1,0,K Friend,0,1,4,16,A,11,2004-01-10,Norwich,E1,7,3,6,13,A,8,Norwich_Bradford_2003
+317,0,Ipswich,6,1,0,1,0,M Ryan,0,0,2,9,D,11,2004-01-10,Reading,E1,3,6,5,9,D,6,Reading_Ipswich_2003
+318,2,Derby,13,2,0,1,1,A Kaye,0,1,2,15,H,12,2004-01-10,Stoke,E1,7,5,6,10,D,1,Stoke_Derby_2003
+319,1,Nott'm Forest,10,1,0,0,1,M Atkinson,0,0,1,11,H,5,2004-01-10,Sunderland,E1,0,5,7,11,H,2,Sunderland_Nott'm Forest_2003
+320,2,Preston,12,1,0,2,1,M Warren,0,0,5,13,A,6,2004-01-10,West Ham,E1,5,2,7,6,H,9,West Ham_Preston_2003
+321,1,Millwall,9,0,0,0,0,E Ilderton,0,0,4,16,D,8,2004-01-10,Wigan,E1,5,5,8,11,D,6,Wigan_Millwall_2003
+322,2,Cardiff,19,0,1,1,0,C Webster,0,0,2,17,A,14,2004-01-17,Bradford,E1,5,4,5,14,D,1,Bradford_Cardiff_2003
+323,2,West Brom,13,1,1,1,0,N Miller,0,0,2,16,D,10,2004-01-17,Burnley,E1,6,2,3,7,D,3,Burnley_West Brom_2003
+324,0,Gillingham,12,2,2,1,1,K Wright,0,0,4,18,H,7,2004-01-17,Derby,E1,5,12,10,19,H,3,Derby_Gillingham_2003
+325,0,Crewe,13,6,0,4,2,D Crick,0,1,0,7,H,15,2004-01-17,Ipswich,E1,10,15,7,22,H,3,Ipswich_Crewe_2003
+326,0,Sunderland,7,2,0,1,1,G Cain,0,1,2,12,H,7,2004-01-17,Millwall,E1,5,7,12,13,D,3,Millwall_Sunderland_2003
+327,3,Reading,16,0,0,1,0,M Thorpe,0,1,0,11,A,9,2004-01-17,Nott'm Forest,E1,3,10,7,14,A,4,Nott'm Forest_Reading_2003
+328,1,Wigan,10,2,0,4,1,A Leake,0,2,2,16,A,13,2004-01-17,Preston,E1,8,7,8,13,A,4,Preston_Wigan_2003
+329,2,Norwich,15,4,0,4,2,M Jones,1,3,0,14,D,14,2004-01-17,Rotherham,E1,10,8,8,12,A,6,Rotherham_Norwich_2003
+330,0,West Ham,10,3,0,3,1,P Durkin,0,3,0,17,D,9,2004-01-17,Sheffield United,E1,7,7,11,10,A,3,Sheffield United_West Ham_2003
+331,2,Coventry,14,1,0,6,1,L Mason,1,1,1,10,A,18,2004-01-17,Walsall,E1,8,6,5,11,D,4,Walsall_Coventry_2003
+332,1,Crystal Palace,13,1,0,5,0,H Webb,1,3,2,15,A,13,2004-01-17,Watford,E1,11,8,6,14,A,5,Watford_Crystal Palace_2003
+333,3,Stoke,20,0,1,1,0,L Probert,0,0,4,17,A,18,2004-01-17,Wimbledon,E1,8,5,5,12,D,7,Wimbledon_Stoke_2003
+334,0,Crystal Palace,11,1,0,2,1,M Pike,0,2,0,9,A,12,2004-01-24,Bradford,E1,10,11,11,20,A,4,Bradford_Crystal Palace_2003
+335,2,Sheffield United,14,2,0,0,0,D Crick,0,0,1,14,H,7,2004-01-28,Derby,E1,2,5,4,14,D,1,Derby_Sheffield United_2003
+336,1,Nott'm Forest,8,0,0,0,0,P Walton,0,0,0,13,D,8,2004-01-31,Cardiff,E1,4,1,5,5,D,5,Cardiff_Nott'm Forest_2003
+337,3,Ipswich,16,1,0,1,1,T Kettle,0,0,1,10,D,11,2004-01-31,Coventry,E1,4,10,12,13,H,3,Coventry_Ipswich_2003
+338,0,Millwall,6,1,0,2,0,S Tanner,0,1,1,20,A,13,2004-01-31,Crewe,E1,9,2,4,9,A,7,Crewe_Millwall_2003
+339,1,Wimbledon,13,3,0,1,1,K Hill,0,0,2,11,H,5,2004-01-31,Crystal Palace,E1,5,13,6,14,H,3,Crystal Palace_Wimbledon_2003
+340,0,Bradford,12,1,1,0,1,D Crick,0,0,2,11,H,3,2004-01-31,Gillingham,E1,2,12,12,16,H,3,Gillingham_Bradford_2003
+341,1,Sheffield United,12,1,0,0,0,B Knight,0,0,0,11,H,10,2004-01-31,Norwich,E1,2,6,9,12,D,6,Norwich_Sheffield United_2003
+342,1,Derby,13,3,0,1,2,M Cowburn,0,0,2,12,H,11,2004-01-31,Reading,E1,8,6,3,10,H,7,Reading_Derby_2003
+343,1,Walsall,7,3,0,2,2,P Armstrong,0,2,2,11,H,10,2004-01-31,Stoke,E1,7,14,7,20,D,5,Stoke_Walsall_2003
+344,0,Watford,12,3,1,1,1,P Crossley,0,0,0,11,H,3,2004-01-31,West Brom,E1,2,3,8,7,H,2,West Brom_Watford_2003
+345,0,Rotherham,5,2,0,1,1,G Hegley,0,1,1,8,H,6,2004-01-31,West Ham,E1,3,9,7,19,D,3,West Ham_Rotherham_2003
+346,1,Burnley,11,0,0,0,0,U Rennie,0,0,4,16,D,6,2004-01-31,Wigan,E1,6,7,10,18,D,4,Wigan_Burnley_2003
+347,1,West Ham,9,1,0,2,1,M Halsey,0,0,0,16,A,16,2004-02-07,Bradford,E1,13,7,7,12,H,13,Bradford_West Ham_2003
+348,1,Gillingham,13,1,0,0,0,P Danson,0,0,0,14,H,9,2004-02-07,Burnley,E1,4,2,7,4,D,5,Burnley_Gillingham_2003
+349,0,Cardiff,5,2,0,2,0,M Pike,0,0,2,4,D,16,2004-02-07,Derby,E1,8,8,6,16,D,7,Derby_Cardiff_2003
+350,1,Wigan,4,1,1,3,0,P Taylor,0,2,1,14,A,20,2004-02-07,Ipswich,E1,10,7,4,13,A,8,Ipswich_Wigan_2003
+351,3,Stoke,17,1,0,1,1,L Cable,0,1,1,12,D,11,2004-02-07,Millwall,E1,11,8,3,8,D,5,Millwall_Stoke_2003
+352,1,Coventry,11,0,0,1,0,G Salisbury,0,1,0,11,A,4,2004-02-07,Nott'm Forest,E1,2,2,9,10,A,6,Nott'm Forest_Coventry_2003
+353,1,West Brom,13,3,0,0,1,J Winter,0,0,1,12,H,9,2004-02-07,Preston,E1,4,4,9,13,H,4,Preston_West Brom_2003
+354,2,Reading,12,5,0,1,2,R Beeby,0,1,1,9,H,8,2004-02-07,Rotherham,E1,7,5,5,11,H,4,Rotherham_Reading_2003
+355,1,Crystal Palace,12,0,0,3,0,N Miller,0,1,2,12,A,12,2004-02-07,Sheffield United,E1,9,3,9,9,A,9,Sheffield United_Crystal Palace_2003
+356,0,Crewe,8,1,0,1,1,M Thorpe,0,0,0,3,D,12,2004-02-07,Walsall,E1,4,5,6,12,H,8,Walsall_Crewe_2003
+357,0,Sunderland,17,2,0,2,1,L Probert,0,0,0,12,D,9,2004-02-07,Watford,E1,5,6,6,8,H,5,Watford_Sunderland_2003
+358,3,Norwich,14,0,0,1,0,M Ryan,2,1,1,14,A,7,2004-02-07,Wimbledon,E1,2,2,3,3,A,4,Wimbledon_Norwich_2003
+359,0,Norwich,13,0,0,2,0,J P Robinson,0,1,1,13,A,12,2004-02-14,Coventry,E1,5,10,13,20,A,4,Coventry_Norwich_2003
+360,2,Stoke,12,6,0,3,4,R Styles,0,2,2,14,H,8,2004-02-14,Crystal Palace,E1,5,8,6,15,H,6,Crystal Palace_Stoke_2003
+361,1,Bradford,13,3,0,1,2,J Ross,0,1,5,13,H,10,2004-02-14,Ipswich,E1,6,11,6,23,H,2,Ipswich_Bradford_2003
+362,0,Walsall,12,3,0,3,1,G Hegley,0,3,0,12,D,10,2004-02-14,Nott'm Forest,E1,7,8,9,14,A,5,Nott'm Forest_Walsall_2003
+363,2,Preston,13,2,0,0,1,A Marriner,0,0,0,12,H,8,2004-02-14,Watford,E1,6,6,8,13,H,2,Watford_Preston_2003
+364,1,Cardiff,11,2,0,1,0,L Mason,0,0,1,14,H,11,2004-02-14,West Brom,E1,5,10,7,13,D,2,West Brom_Cardiff_2003
+365,0,Derby,15,2,0,0,1,P Joslin,0,0,2,11,H,6,2004-02-14,Wigan,E1,1,3,5,10,H,7,Wigan_Derby_2003
+366,2,Crewe,18,2,0,1,0,L Mason,0,0,1,6,H,5,2004-02-21,Bradford,E1,2,14,10,18,D,4,Bradford_Crewe_2003
+367,2,Ipswich,17,4,0,2,2,M Dean,0,0,2,12,H,11,2004-02-21,Burnley,E1,8,8,7,11,H,7,Burnley_Ipswich_2003
+368,1,Sunderland,11,4,1,0,2,P Crossley,0,0,1,7,H,9,2004-02-21,Cardiff,E1,4,13,6,18,H,4,Cardiff_Sunderland_2003
+369,2,Crystal Palace,13,2,0,1,0,C Boyeson,0,1,3,14,H,4,2004-02-21,Derby,E1,4,14,7,22,A,3,Derby_Crystal Palace_2003
+370,0,Reading,13,0,0,1,0,R Styles,0,1,2,17,A,6,2004-02-21,Gillingham,E1,4,5,7,8,A,5,Gillingham_Reading_2003
+371,0,West Ham,13,1,1,1,0,R Olivier,0,0,2,18,D,13,2004-02-21,Norwich,E1,9,13,4,16,D,3,Norwich_West Ham_2003
+372,0,Millwall,11,1,0,2,0,K Wright,0,1,4,26,A,11,2004-02-21,Preston,E1,7,12,7,18,A,8,Preston_Millwall_2003
+373,0,Nott'm Forest,11,1,0,1,0,G Laws,0,0,2,15,D,4,2004-02-21,Rotherham,E1,2,6,8,12,D,8,Rotherham_Nott'm Forest_2003
+374,4,West Brom,16,1,0,2,0,M Jones,0,0,1,16,A,10,2004-02-21,Sheffield United,E1,6,4,7,6,D,9,Sheffield United_West Brom_2003
+375,2,Wigan,20,1,1,1,1,P Prosser,0,0,1,17,D,17,2004-02-21,Stoke,E1,8,6,4,8,H,9,Stoke_Wigan_2003
+376,1,Watford,14,0,0,1,0,M Atkinson,0,1,1,11,A,8,2004-02-21,Walsall,E1,3,6,11,11,A,4,Walsall_Watford_2003
+377,0,Coventry,12,0,0,3,0,S Tanner,1,2,2,20,A,11,2004-02-21,Wimbledon,E1,10,3,4,9,A,10,Wimbledon_Coventry_2003
+378,1,Sheffield United,6,0,1,1,0,K Friend,0,0,3,16,A,20,2004-02-24,Crewe,E1,15,7,5,12,D,12,Crewe_Sheffield United_2003
+379,0,Rotherham,13,2,0,1,1,P Walton,0,0,2,14,H,9,2004-02-24,Millwall,E1,6,12,12,21,H,4,Millwall_Rotherham_2003
+380,0,Burnley,10,2,0,2,1,A Penn,0,1,0,10,D,6,2004-02-24,Reading,E1,3,4,3,5,D,4,Reading_Burnley_2003
+381,0,Gillingham,9,0,0,0,0,L Cable,0,0,2,16,D,7,2004-02-25,Nott'm Forest,E1,2,11,10,18,D,3,Nott'm Forest_Gillingham_2003
+382,2,Derby,19,2,1,0,2,I Williamson,0,0,2,10,H,10,2004-02-28,Coventry,E1,10,11,5,16,H,6,Coventry_Derby_2003
+383,0,Gillingham,20,1,0,0,0,P Prosser,1,0,2,13,H,10,2004-02-28,Crystal Palace,E1,9,8,4,14,D,3,Crystal Palace_Gillingham_2003
+384,1,Preston,10,2,0,0,0,K Hill,0,0,1,9,H,6,2004-02-28,Ipswich,E1,3,9,11,19,D,4,Ipswich_Preston_2003
+385,1,Burnley,19,2,0,0,1,A Butler,0,0,4,10,H,14,2004-02-28,Millwall,E1,9,7,3,11,H,5,Millwall_Burnley_2003
+386,2,Bradford,15,2,1,1,1,T Kettle,1,1,3,19,H,8,2004-02-28,Nott'm Forest,E1,4,6,6,15,D,6,Nott'm Forest_Bradford_2003
+387,4,Sheffield United,10,2,0,1,2,M Clattenburg,0,1,3,11,H,13,2004-02-28,Reading,E1,6,3,4,4,H,8,Reading_Sheffield United_2003
+388,1,Wimbledon,17,4,0,0,2,R Olivier,0,0,1,7,H,13,2004-02-28,Watford,E1,8,7,5,9,H,7,Watford_Wimbledon_2003
+389,0,Rotherham,15,0,0,1,0,A Bates,0,0,1,17,A,7,2004-02-28,West Brom,E1,4,13,6,18,D,4,West Brom_Rotherham_2003
+390,1,Cardiff,4,1,0,0,0,G Cain,0,0,1,7,H,1,2004-02-28,West Ham,E1,0,6,10,15,D,5,West Ham_Cardiff_2003
+391,0,Walsall,10,1,0,0,0,H Webb,0,0,1,13,H,5,2004-02-28,Wigan,E1,1,12,12,15,D,3,Wigan_Walsall_2003
+392,3,West Ham,14,1,0,1,1,P Dowd,0,1,2,15,D,9,2004-03-02,Burnley,E1,5,4,8,8,D,7,Burnley_West Ham_2003
+393,2,Coventry,14,0,1,1,0,P Armstrong,1,0,1,13,A,6,2004-03-02,Cardiff,E1,2,8,5,18,D,1,Cardiff_Coventry_2003
+394,2,West Brom,12,0,0,0,0,B Curson,0,0,3,17,D,15,2004-03-02,Norwich,E1,8,8,8,13,D,2,Norwich_West Brom_2003
+395,1,Reading,13,2,1,1,1,M Jones,0,0,1,16,H,8,2004-03-02,Preston,E1,4,10,10,21,H,4,Preston_Reading_2003
+396,3,Millwall,8,2,0,1,0,F Stretton,0,0,4,21,H,11,2004-03-02,Sheffield United,E1,5,6,6,10,D,10,Sheffield United_Millwall_2003
+397,0,Ipswich,8,2,0,0,1,P Walton,0,0,0,13,H,15,2004-03-02,Stoke,E1,8,2,3,4,H,7,Stoke_Ipswich_2003
+398,0,Nott'm Forest,11,0,0,1,0,D Crick,0,1,0,16,A,6,2004-03-02,Wimbledon,E1,5,1,8,5,A,13,Wimbledon_Nott'm Forest_2003
+399,0,Crewe,10,0,0,0,0,M Clattenburg,0,0,1,12,D,6,2004-03-03,Derby,E1,2,15,12,31,D,4,Derby_Crewe_2003
+400,0,Sunderland,11,1,0,3,0,A Kaye,0,1,1,8,A,5,2004-03-03,Walsall,E1,5,5,4,10,A,7,Walsall_Sunderland_2003
+401,4,Preston,9,1,1,1,1,D Pugh,0,0,2,11,D,4,2004-03-06,Burnley,E1,2,2,6,2,H,3,Burnley_Preston_2003
+402,2,Reading,7,2,0,2,2,G Poll,0,1,0,9,D,13,2004-03-06,Crystal Palace,E1,6,3,8,10,H,1,Crystal Palace_Reading_2003
+403,4,Nott'm Forest,9,2,1,1,1,P Crossley,0,1,3,11,H,15,2004-03-06,Gillingham,E1,7,6,11,13,D,5,Gillingham_Nott'm Forest_2003
+404,1,Bradford,14,1,0,2,0,S Bennett,0,2,1,21,A,9,2004-03-06,Rotherham,E1,5,4,9,10,A,4,Rotherham_Bradford_2003
+405,1,Watford,9,3,0,1,3,E Ilderton,0,1,0,14,H,7,2004-03-06,Stoke,E1,5,4,2,4,H,3,Stoke_Watford_2003
+406,2,Coventry,5,3,0,0,1,M Pike,0,0,1,11,H,3,2004-03-06,West Brom,E1,2,6,5,7,H,8,West Brom_Coventry_2003
+407,0,Walsall,7,0,0,0,0,G Laws,0,0,0,8,D,3,2004-03-06,West Ham,E1,2,4,8,9,D,6,West Ham_Walsall_2003
+408,3,Crewe,9,2,0,3,2,A Kaye,1,2,1,7,A,8,2004-03-06,Wigan,E1,2,5,6,16,D,0,Wigan_Crewe_2003
+409,2,Ipswich,21,3,1,1,0,M Clattenburg,0,0,2,11,H,17,2004-03-07,Norwich,E1,14,8,6,13,D,9,Norwich_Ipswich_2003
+410,2,Watford,13,2,0,0,2,T Parkes,0,0,3,14,H,6,2004-03-09,Bradford,E1,2,6,4,9,H,8,Bradford_Watford_2003
+411,0,Wimbledon,12,5,0,0,2,E Evans,0,0,0,7,H,3,2004-03-09,West Ham,E1,2,11,10,16,H,6,West Ham_Wimbledon_2003
+412,2,Preston,17,3,0,3,1,P Prosser,1,1,1,20,D,13,2004-03-10,Sunderland,E1,9,5,3,8,D,5,Sunderland_Preston_2003
+413,2,Wigan,10,0,0,0,0,E Evans,0,0,0,16,D,9,2004-03-13,Bradford,E1,3,3,8,7,D,2,Bradford_Wigan_2003
+414,0,Norwich,11,2,0,1,2,J Winter,0,0,0,12,H,12,2004-03-13,Cardiff,E1,4,8,4,14,H,6,Cardiff_Norwich_2003
+415,0,Burnley,16,4,0,0,3,A Bates,0,0,2,13,H,3,2004-03-13,Coventry,E1,0,15,8,23,H,7,Coventry_Burnley_2003
+416,0,West Brom,7,1,0,2,0,M Thorpe,0,0,0,15,A,25,2004-03-13,Crewe,E1,14,4,5,7,D,10,Crewe_West Brom_2003
+417,0,Rotherham,11,1,0,0,0,A Leake,0,0,1,17,H,2,2004-03-13,Derby,E1,0,10,8,23,D,1,Derby_Rotherham_2003
+418,2,Millwall,18,1,0,3,0,M Riley,0,2,4,25,A,8,2004-03-13,Ipswich,E1,6,7,4,14,A,6,Ipswich_Millwall_2003
+419,3,Crystal Palace,17,3,0,2,2,I Williamson,0,0,2,10,H,13,2004-03-13,Nott'm Forest,E1,8,6,6,8,H,13,Nott'm Forest_Crystal Palace_2003
+420,1,Gillingham,13,0,0,0,0,P Robinson,0,0,2,13,D,7,2004-03-13,Preston,E1,4,9,7,21,D,1,Preston_Gillingham_2003
+421,1,Stoke,5,0,0,0,0,G Hegley,0,0,1,13,D,8,2004-03-13,Reading,E1,3,2,5,10,D,4,Reading_Stoke_2003
+422,1,West Ham,20,2,0,0,0,R Beeby,0,0,6,22,H,6,2004-03-13,Sunderland,E1,4,5,3,8,D,4,Sunderland_West Ham_2003
+423,0,Wimbledon,13,1,0,0,1,P Danson,0,0,1,17,H,4,2004-03-13,Walsall,E1,2,3,9,11,H,1,Walsall_Wimbledon_2003
+424,2,Sheffield United,15,0,0,2,0,P Armstrong,0,1,1,13,A,9,2004-03-13,Watford,E1,4,6,8,8,A,9,Watford_Sheffield United_2003
+425,1,Reading,9,2,0,3,1,M Warren,0,2,1,16,A,12,2004-03-16,Cardiff,E1,7,7,3,12,A,4,Cardiff_Reading_2003
+426,1,Gillingham,13,3,1,0,0,A Bates,0,0,0,9,H,6,2004-03-16,Norwich,E1,0,8,5,12,D,5,Norwich_Gillingham_2003
+427,2,Sheffield United,11,1,0,1,0,R Pearson,0,0,0,11,D,4,2004-03-16,Rotherham,E1,2,3,5,11,D,5,Rotherham_Sheffield United_2003
+428,3,Stoke,13,1,0,1,0,M Ryan,0,1,3,14,D,7,2004-03-16,Sunderland,E1,3,10,13,14,A,0,Sunderland_Stoke_2003
+429,0,Ipswich,14,1,0,3,0,C Boyeson,0,0,0,8,A,11,2004-03-16,Walsall,E1,9,3,4,6,D,5,Walsall_Ipswich_2003
+430,1,Derby,13,2,0,1,1,L Cable,0,1,1,14,H,6,2004-03-16,Watford,E1,2,6,8,8,D,5,Watford_Derby_2003
+431,0,Wigan,12,2,1,1,0,H Webb,0,0,5,23,H,5,2004-03-16,West Brom,E1,1,4,5,9,D,4,West Brom_Wigan_2003
+432,0,Preston,12,4,1,1,4,N Barry,0,0,0,16,H,15,2004-03-17,Coventry,E1,5,4,7,8,H,9,Coventry_Preston_2003
+433,1,Burnley,11,1,0,1,0,R Olivier,0,1,0,6,D,9,2004-03-17,Nott'm Forest,E1,5,8,8,16,A,5,Nott'm Forest_Burnley_2003
+434,1,Crewe,8,4,0,2,4,D Crick,0,0,0,2,H,5,2004-03-17,West Ham,E1,2,15,7,23,H,6,West Ham_Crewe_2003
+435,0,Cardiff,10,0,0,1,0,R Olivier,0,0,0,11,A,18,2004-03-20,Crewe,E1,10,4,7,10,D,8,Crewe_Cardiff_2003
+436,1,Norwich,12,1,0,0,1,P Durkin,0,0,1,16,H,3,2004-03-20,Crystal Palace,E1,2,6,9,8,H,5,Crystal Palace_Norwich_2003
+437,0,Nott'm Forest,13,4,0,2,3,D Pugh,0,1,4,16,H,5,2004-03-20,Derby,E1,1,8,7,13,H,3,Derby_Nott'm Forest_2003
+438,2,Rotherham,17,2,0,0,2,I Williamson,0,0,4,18,H,6,2004-03-20,Gillingham,E1,4,8,2,11,H,5,Gillingham_Rotherham_2003
+439,0,Watford,8,4,0,1,2,J P Robinson,0,1,1,12,H,8,2004-03-20,Ipswich,E1,7,6,5,11,H,5,Ipswich_Watford_2003
+440,1,Walsall,14,1,0,2,0,C Webster,0,1,2,14,A,7,2004-03-20,Preston,E1,6,9,13,19,A,4,Preston_Walsall_2003
+441,1,Sunderland,10,0,1,2,0,P Taylor,0,0,4,15,A,10,2004-03-20,Reading,E1,5,1,3,2,D,5,Reading_Sunderland_2003
+442,0,Bradford,12,2,0,0,0,P Joslin,0,0,1,14,H,12,2004-03-20,Sheffield United,E1,4,4,7,5,D,7,Sheffield United_Bradford_2003
+443,1,Coventry,19,2,0,1,2,L Cable,0,0,2,6,H,10,2004-03-20,Wigan,E1,7,7,7,13,H,4,Wigan_Coventry_2003
+444,1,West Ham,9,4,1,1,1,J Winter,0,0,1,14,H,3,2004-03-21,Millwall,E1,0,3,6,6,H,2,Millwall_West Ham_2003
+445,1,Stoke,14,2,0,0,1,D Gallagher,0,0,1,17,H,22,2004-03-23,Crewe,E1,10,5,3,8,H,9,Crewe_Stoke_2003
+446,4,Derby,13,1,0,1,1,L Mason,0,1,3,13,D,13,2004-03-23,Sheffield United,E1,11,5,9,12,D,4,Sheffield United_Derby_2003
+447,1,Gillingham,13,2,0,1,1,M Cowburn,0,1,1,13,H,4,2004-03-23,Sunderland,E1,1,9,6,18,D,3,Sunderland_Gillingham_2003
+448,2,Millwall,16,0,0,1,0,M Jones,0,1,0,14,A,16,2004-03-24,Wimbledon,E1,7,3,3,4,A,3,Wimbledon_Millwall_2003
+449,1,Burnley,15,1,0,2,1,G Laws,0,1,1,15,A,6,2004-03-27,Bradford,E1,4,10,11,15,D,7,Bradford_Burnley_2003
+450,0,Sheffield United,5,2,0,1,1,A Leake,0,1,3,11,H,11,2004-03-27,Cardiff,E1,7,9,7,11,D,6,Cardiff_Sheffield United_2003
+451,2,Reading,10,1,1,2,0,A Butler,0,1,1,13,A,4,2004-03-27,Coventry,E1,3,7,8,22,A,1,Coventry_Reading_2003
+452,2,Stoke,22,1,0,0,1,M Riley,0,0,7,25,H,4,2004-03-27,Norwich,E1,4,7,6,12,H,2,Norwich_Stoke_2003
+453,0,Crewe,9,2,0,0,2,P Prosser,0,0,0,6,H,13,2004-03-27,Nott'm Forest,E1,10,6,6,14,H,6,Nott'm Forest_Crewe_2003
+454,1,Preston,13,1,0,0,1,J Ross,0,0,1,14,H,14,2004-03-27,Rotherham,E1,5,2,1,7,H,4,Rotherham_Preston_2003
+455,0,Derby,9,2,0,1,1,G Salisbury,0,0,0,8,H,12,2004-03-27,Sunderland,E1,5,5,5,12,H,3,Sunderland_Derby_2003
+456,1,Millwall,14,1,0,1,0,S Tomlin,0,0,3,12,D,4,2004-03-27,Walsall,E1,1,3,6,6,D,6,Walsall_Millwall_2003
+457,0,Wigan,12,1,0,1,1,P Danson,0,1,0,16,D,9,2004-03-27,Watford,E1,6,6,7,10,D,4,Watford_Wigan_2003
+458,0,Crystal Palace,10,2,0,0,0,J P Robinson,0,0,2,9,H,8,2004-03-27,West Brom,E1,2,4,5,13,D,2,West Brom_Crystal Palace_2003
+459,0,Gillingham,10,2,0,1,1,A Penn,0,1,1,11,H,8,2004-03-27,West Ham,E1,4,14,9,20,D,2,West Ham_Gillingham_2003
+460,1,Ipswich,7,1,0,2,0,R Styles,0,0,2,4,A,10,2004-03-27,Wimbledon,E1,4,1,4,4,D,8,Wimbledon_Ipswich_2003
+461,1,Norwich,8,3,0,5,3,A Hall,0,2,3,17,A,12,2004-04-03,Burnley,E1,8,4,5,7,H,5,Burnley_Norwich_2003
+462,1,Rotherham,15,0,0,0,0,C Webster,0,0,3,18,D,13,2004-04-03,Crewe,E1,8,4,4,8,D,6,Crewe_Rotherham_2003
+463,0,Walsall,10,0,0,1,0,M Jones,1,0,3,16,A,7,2004-04-03,Derby,E1,3,11,11,20,D,1,Derby_Walsall_2003
+464,3,Cardiff,10,1,0,2,0,M Thorpe,0,1,1,8,A,11,2004-04-03,Gillingham,E1,6,8,8,13,A,3,Gillingham_Cardiff_2003
+465,0,Bradford,9,1,0,0,0,G Cain,0,0,0,3,H,9,2004-04-03,Preston,E1,5,5,2,11,D,13,Preston_Bradford_2003
+466,1,West Ham,7,2,0,0,1,P Joslin,0,0,2,18,H,13,2004-04-03,Reading,E1,7,8,1,10,H,6,Reading_West Ham_2003
+467,1,Nott'm Forest,9,1,0,2,0,A Bates,0,1,2,14,A,4,2004-04-03,Sheffield United,E1,4,6,9,10,A,2,Sheffield United_Nott'm Forest_2003
+468,1,Coventry,10,1,0,0,1,M Dean,0,0,2,12,H,7,2004-04-03,Stoke,E1,3,2,3,4,H,8,Stoke_Coventry_2003
+469,0,Wimbledon,8,0,0,1,0,M Warren,0,1,2,10,A,5,2004-04-03,Wigan,E1,2,8,9,17,A,5,Wigan_Wimbledon_2003
+470,1,West Brom,12,2,0,3,1,G Laws,0,0,2,12,A,15,2004-04-04,Ipswich,E1,11,8,7,12,H,2,Ipswich_West Brom_2003
+471,0,Wigan,10,0,0,3,0,S Tomlin,0,2,2,18,A,8,2004-04-06,Gillingham,E1,4,3,2,8,A,4,Gillingham_Wigan_2003
+472,2,Crystal Palace,8,1,0,2,0,M Cooper,0,2,4,17,A,10,2004-04-06,Rotherham,E1,5,6,6,11,A,4,Rotherham_Crystal Palace_2003
+473,0,Sunderland,7,1,0,2,0,S Mathieson,0,1,1,11,A,15,2004-04-06,Wimbledon,E1,8,1,3,8,A,9,Wimbledon_Sunderland_2003
+474,3,Cardiff,16,0,0,0,0,Mick Fletcher,1,0,4,11,D,6,2004-04-07,Millwall,E1,1,3,4,7,D,2,Millwall_Cardiff_2003
+475,1,Wigan,18,2,0,0,0,P Armstrong,0,0,2,19,H,19,2004-04-09,Norwich,E1,7,9,4,14,D,6,Norwich_Wigan_2003
+476,2,Sheffield United,7,3,0,0,1,M Pike,0,0,0,15,H,7,2004-04-09,Sunderland,E1,4,10,4,13,H,4,Sunderland_Sheffield United_2003
+477,4,Reading,19,2,1,1,1,K Hill,1,1,0,6,H,11,2004-04-10,Bradford,E1,6,8,7,16,D,2,Bradford_Reading_2003
+478,4,Crystal Palace,13,0,0,2,0,T Parkes,1,0,2,16,A,8,2004-04-10,Cardiff,E1,4,3,7,8,D,3,Cardiff_Crystal Palace_2003
+479,0,Millwall,17,4,0,0,2,B Knight,0,0,1,8,H,6,2004-04-10,Coventry,E1,2,7,6,13,H,1,Coventry_Millwall_2003
+480,1,Stoke,20,0,0,0,0,M Cowburn,0,0,2,15,D,8,2004-04-10,Nott'm Forest,E1,3,4,3,10,D,7,Nott'm Forest_Stoke_2003
+481,1,Ipswich,9,1,0,3,1,D Pugh,0,0,1,9,A,9,2004-04-10,Rotherham,E1,4,5,4,11,H,7,Rotherham_Ipswich_2003
+482,0,Burnley,11,0,0,1,0,S Bennett,0,0,2,9,A,10,2004-04-10,Walsall,E1,3,3,4,5,D,1,Walsall_Burnley_2003
+483,2,Crewe,15,2,0,1,1,G Salisbury,0,0,3,6,H,6,2004-04-10,Watford,E1,3,6,6,11,H,1,Watford_Crewe_2003
+484,2,Gillingham,11,1,0,0,0,R Pearson,0,0,1,17,H,4,2004-04-10,West Brom,E1,2,5,5,11,D,1,West Brom_Gillingham_2003
+485,0,Derby,14,0,0,0,0,J P Robinson,0,0,0,9,D,8,2004-04-10,West Ham,E1,3,3,7,7,D,3,West Ham_Derby_2003
+486,0,Preston,6,3,0,3,1,G Hegley,0,2,3,15,D,7,2004-04-10,Wimbledon,E1,6,6,8,9,A,7,Wimbledon_Preston_2003
+487,2,Watford,16,2,0,3,1,C Boyeson,0,1,0,13,A,11,2004-04-12,Burnley,E1,5,3,4,3,D,5,Burnley_Watford_2003
+488,1,Coventry,13,3,0,1,0,F Stretton,0,0,0,16,H,25,2004-04-12,Crewe,E1,11,2,1,6,D,11,Crewe_Coventry_2003
+489,1,West Ham,15,1,1,0,0,A Bates,0,0,5,23,H,6,2004-04-12,Crystal Palace,E1,2,7,7,8,D,5,Crystal Palace_West Ham_2003
+490,1,Bradford,8,3,0,2,1,H Webb,0,0,2,16,H,9,2004-04-12,Derby,E1,4,5,5,10,H,6,Derby_Bradford_2003
+491,0,Walsall,9,3,0,0,1,G Hegley,0,0,0,16,H,6,2004-04-12,Gillingham,E1,1,18,8,24,H,5,Gillingham_Walsall_2003
+492,1,Sunderland,12,1,0,0,1,L Mason,0,0,3,14,H,7,2004-04-12,Ipswich,E1,2,7,3,15,H,6,Ipswich_Sunderland_2003
+493,2,West Brom,19,1,2,1,1,S Mathieson,0,0,2,16,D,6,2004-04-12,Millwall,E1,3,3,4,6,H,6,Millwall_West Brom_2003
+494,0,Nott'm Forest,13,2,0,2,1,M Clattenburg,0,2,0,15,D,8,2004-04-12,Preston,E1,5,10,12,23,A,2,Preston_Nott'm Forest_2003
+495,1,Norwich,8,0,0,1,0,N Barry,0,0,1,14,A,12,2004-04-12,Reading,E1,6,4,8,7,D,4,Reading_Norwich_2003
+496,1,Wimbledon,15,2,0,1,0,P Prosser,0,1,2,17,H,12,2004-04-12,Sheffield United,E1,8,6,8,11,A,4,Sheffield United_Wimbledon_2003
+497,1,Rotherham,10,0,0,2,0,R Olivier,0,1,0,10,A,13,2004-04-12,Stoke,E1,7,7,7,13,A,5,Stoke_Rotherham_2003
+498,0,Cardiff,8,3,0,0,1,A Penn,0,0,1,6,H,6,2004-04-13,Wigan,E1,3,11,4,15,H,4,Wigan_Cardiff_2003
+499,4,Wimbledon,25,2,0,3,0,M Ryan,0,2,1,13,A,14,2004-04-17,Bradford,E1,11,11,5,16,A,7,Bradford_Wimbledon_2003
+500,1,Burnley,10,2,0,0,0,M Jones,0,0,3,14,H,7,2004-04-17,Cardiff,E1,3,6,9,14,D,8,Cardiff_Burnley_2003
+501,2,Wigan,13,1,2,1,0,M Thorpe,0,1,4,20,D,5,2004-04-17,Crystal Palace,E1,2,4,5,12,A,2,Crystal Palace_Wigan_2003
+502,0,Preston,17,5,0,1,4,P Taylor,0,0,4,13,H,14,2004-04-17,Derby,E1,6,14,8,17,H,6,Derby_Preston_2003
+503,1,Ipswich,12,1,0,2,1,S Dunn,0,0,3,20,A,14,2004-04-17,Gillingham,E1,6,3,6,5,H,6,Gillingham_Ipswich_2003
+504,0,Walsall,7,5,0,0,2,M Pike,0,0,2,8,H,15,2004-04-17,Norwich,E1,9,12,12,21,H,5,Norwich_Walsall_2003
+505,2,Millwall,14,2,1,2,0,B Curson,1,0,2,18,D,6,2004-04-17,Nott'm Forest,E1,2,5,7,12,D,4,Nott'm Forest_Millwall_2003
+506,0,Crewe,7,1,0,1,1,P Danson,0,1,0,6,D,10,2004-04-17,Reading,E1,8,4,14,8,D,2,Reading_Crewe_2003
+507,0,Watford,7,1,0,1,1,C Penton,0,1,1,14,D,7,2004-04-17,Rotherham,E1,5,4,2,6,D,3,Rotherham_Watford_2003
+508,3,Stoke,17,0,0,1,0,A Butler,0,1,3,13,A,7,2004-04-17,Sheffield United,E1,3,1,4,10,A,3,Sheffield United_Stoke_2003
+509,1,Coventry,10,2,0,0,1,H Webb,0,0,1,14,H,13,2004-04-17,West Ham,E1,6,8,5,10,H,2,West Ham_Coventry_2003
+510,0,West Brom,6,0,0,1,0,A Leake,0,0,1,11,A,4,2004-04-18,Sunderland,E1,3,5,7,11,D,6,Sunderland_West Brom_2003
+511,0,Wimbledon,2,2,0,0,2,G Cain,0,0,0,3,H,5,2004-04-20,Burnley,E1,1,1,8,4,H,4,Burnley_Wimbledon_2003
+512,1,Watford,16,1,0,2,1,A Kaye,0,0,0,15,A,7,2004-04-20,Millwall,E1,5,2,3,8,H,3,Millwall_Watford_2003
+513,0,Sunderland,21,3,1,0,1,P Dowd,0,0,3,15,H,5,2004-04-21,Crystal Palace,E1,2,5,3,15,H,2,Crystal Palace_Sunderland_2003
+514,3,Derby,10,1,0,0,1,E Evans,0,0,0,9,H,6,2004-04-24,Burnley,E1,2,5,7,6,H,8,Burnley_Derby_2003
+515,1,Rotherham,18,1,0,1,0,C Foy,0,0,1,16,D,11,2004-04-24,Coventry,E1,4,7,11,15,D,9,Coventry_Rotherham_2003
+516,2,Crystal Palace,14,2,0,3,0,K Hill,0,2,1,15,A,14,2004-04-24,Crewe,E1,7,3,5,8,A,5,Crewe_Crystal Palace_2003
+517,1,Nott'm Forest,5,1,0,2,1,G Hegley,0,1,1,7,A,11,2004-04-24,Ipswich,E1,8,12,10,22,D,2,Ipswich_Nott'm Forest_2003
+518,1,Reading,9,0,0,1,0,A Hall,0,1,1,12,A,5,2004-04-24,Millwall,E1,2,5,6,9,A,5,Millwall_Reading_2003
+519,0,Cardiff,17,2,0,2,1,A Kaye,0,0,2,17,D,13,2004-04-24,Preston,E1,8,11,10,18,H,6,Preston_Cardiff_2003
+520,1,West Ham,8,0,0,2,0,N Barry,0,1,0,5,A,5,2004-04-24,Stoke,E1,3,0,5,3,A,4,Stoke_West Ham_2003
+521,1,Sheffield United,16,0,0,1,0,M Clattenburg,0,0,2,13,A,7,2004-04-24,Walsall,E1,3,2,3,6,D,6,Walsall_Sheffield United_2003
+522,1,Norwich,15,1,0,2,0,M Fletcher,0,1,1,15,A,11,2004-04-24,Watford,E1,8,6,4,13,A,4,Watford_Norwich_2003
+523,0,Bradford,10,2,0,0,0,L Cable,0,0,0,10,H,9,2004-04-24,West Brom,E1,5,4,6,11,D,4,West Brom_Bradford_2003
+524,1,Sunderland,12,0,0,0,0,P Crossley,0,0,2,12,D,13,2004-04-24,Wigan,E1,8,5,5,14,D,6,Wigan_Sunderland_2003
+525,0,Gillingham,7,1,0,2,0,G Salisbury,0,0,1,11,A,10,2004-04-24,Wimbledon,E1,4,4,7,11,D,4,Wimbledon_Gillingham_2003
+526,3,Ipswich,15,1,0,1,0,E Ilderton,0,0,1,13,D,10,2004-04-30,Sheffield United,E1,4,8,8,14,D,6,Sheffield United_Ipswich_2003
+527,1,Stoke,14,0,0,2,0,L Mason,0,1,1,17,A,7,2004-05-01,Bradford,E1,4,5,8,8,A,1,Bradford_Stoke_2003
+528,2,Wimbledon,9,1,0,1,0,M Cooper,0,0,3,13,D,8,2004-05-01,Cardiff,E1,8,4,8,14,D,2,Cardiff_Wimbledon_2003
+529,0,Walsall,2,1,0,0,0,D Pugh,0,0,5,18,H,2,2004-05-01,Crystal Palace,E1,0,9,11,15,D,4,Crystal Palace_Walsall_2003
+530,1,Millwall,21,2,0,0,1,M Cowburn,0,0,2,15,H,7,2004-05-01,Derby,E1,1,7,5,14,H,4,Derby_Millwall_2003
+531,5,Coventry,14,2,0,5,0,A Bates,1,3,1,8,A,13,2004-05-01,Gillingham,E1,10,10,10,13,A,3,Gillingham_Coventry_2003
+532,2,Preston,15,3,1,2,2,I Williamson,0,1,4,23,H,14,2004-05-01,Norwich,E1,9,10,6,17,H,8,Norwich_Preston_2003
+533,0,Wigan,8,1,0,0,0,J Winter,0,0,0,11,H,12,2004-05-01,Nott'm Forest,E1,5,3,7,8,D,8,Nott'm Forest_Wigan_2003
+534,2,West Brom,13,1,0,0,0,C Penton,0,0,3,16,H,10,2004-05-01,Reading,E1,6,5,4,11,D,4,Reading_West Brom_2003
+535,2,Burnley,19,3,0,0,2,P Walton,0,0,0,8,H,5,2004-05-01,Rotherham,E1,1,8,4,9,H,3,Rotherham_Burnley_2003
+536,0,Crewe,13,1,0,1,1,M Ryan,0,0,0,6,D,9,2004-05-01,Sunderland,E1,6,18,15,21,H,6,Sunderland_Crewe_2003
+537,0,Watford,14,4,0,0,2,M Jones,0,0,1,12,H,1,2004-05-01,West Ham,E1,1,12,6,15,H,7,West Ham_Watford_2003
+538,1,West Brom,7,4,0,1,1,K Hill,0,0,1,7,H,4,2004-05-04,Stoke,E1,2,4,4,6,H,10,Stoke_West Brom_2003
+539,2,Norwich,12,1,0,0,1,D Pugh,0,0,1,15,H,10,2004-05-04,Sunderland,E1,3,7,6,14,H,5,Sunderland_Norwich_2003
+540,3,Sunderland,8,1,0,2,1,K Hill,0,1,1,13,A,3,2004-05-09,Burnley,E1,2,4,4,10,D,5,Burnley_Sunderland_2003
+541,2,Crystal Palace,22,2,0,1,2,A Butler,0,0,3,14,H,6,2004-05-09,Coventry,E1,2,6,8,10,H,5,Coventry_Crystal Palace_2003
+542,2,Norwich,10,1,0,3,0,P Taylor,0,2,2,7,A,17,2004-05-09,Crewe,E1,10,7,5,13,A,9,Crewe_Norwich_2003
+543,0,Cardiff,13,1,0,1,1,R Beeby,0,1,1,20,D,8,2004-05-09,Ipswich,E1,6,7,9,13,D,5,Ipswich_Cardiff_2003
+544,1,Bradford,14,1,0,0,0,R Styles,0,0,0,16,H,5,2004-05-09,Millwall,E1,0,3,8,4,D,1,Millwall_Bradford_2003
+545,1,Sheffield United,17,3,0,3,1,G Laws,0,2,3,19,D,14,2004-05-09,Preston,E1,9,12,6,21,A,7,Preston_Sheffield United_2003
+546,1,Gillingham,7,0,0,0,0,G Cain,0,0,0,13,D,12,2004-05-09,Stoke,E1,7,5,5,10,D,10,Stoke_Gillingham_2003
+547,1,Rotherham,15,3,0,2,0,B Curson,1,0,0,16,H,5,2004-05-09,Walsall,E1,2,10,7,20,D,7,Walsall_Rotherham_2003
+548,2,Reading,18,1,0,0,1,D Crick,0,0,0,15,H,8,2004-05-09,Watford,E1,1,13,1,18,H,4,Watford_Reading_2003
+549,0,Nott'm Forest,11,0,0,2,0,D Gallagher,0,1,0,8,A,8,2004-05-09,West Brom,E1,4,8,9,19,A,1,West Brom_Nott'm Forest_2003
+550,1,West Ham,9,1,0,1,1,R Pearson,0,0,1,8,D,7,2004-05-09,Wigan,E1,5,5,12,12,H,4,Wigan_West Ham_2003
+551,0,Derby,13,1,0,0,1,P Crossley,0,0,3,12,H,12,2004-05-09,Wimbledon,E1,8,7,8,11,H,7,Wimbledon_Derby_2003

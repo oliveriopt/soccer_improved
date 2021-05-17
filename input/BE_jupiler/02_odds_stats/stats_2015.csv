@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,B1,Club Brugge,H,1,2015-07-24,A,St Truiden,2,1,St Truiden_Club Brugge_2015
+1,1,B1,Oud-Heverlee Leuven,H,0,2015-07-25,H,Genk,3,1,Genk_Oud-Heverlee Leuven_2015
+2,1,B1,Standard,H,0,2015-07-25,H,Kortrijk,2,1,Kortrijk_Standard_2015
+3,1,B1,Mechelen,H,0,2015-07-25,H,Oostende,3,1,Oostende_Mechelen_2015
+4,1,B1,Lokeren,H,0,2015-07-25,H,Waregem,3,1,Waregem_Lokeren_2015
+5,2,B1,Waasland-Beveren,H,0,2015-07-26,H,Anderlecht,3,2,Anderlecht_Waasland-Beveren_2015
+6,2,B1,Mouscron-Peruwelz,H,0,2015-07-26,H,Charleroi,2,1,Charleroi_Mouscron-Peruwelz_2015
+7,1,B1,Gent,D,1,2015-07-26,D,Westerlo,1,1,Westerlo_Gent_2015
+8,1,B1,Genk,H,0,2015-07-31,H,Gent,1,0,Gent_Genk_2015
+9,1,B1,Mechelen,H,0,2015-08-01,H,Club Brugge,3,0,Club Brugge_Mechelen_2015
+10,0,B1,St Truiden,A,1,2015-08-01,A,Mouscron-Peruwelz,0,2,Mouscron-Peruwelz_St Truiden_2015
+11,1,B1,Westerlo,H,0,2015-08-01,H,Oostende,2,1,Oostende_Westerlo_2015
+12,1,B1,Kortrijk,H,0,2015-08-01,H,Waasland-Beveren,2,1,Waasland-Beveren_Kortrijk_2015
+13,1,B1,Charleroi,D,1,2015-08-02,D,Lokeren,2,2,Lokeren_Charleroi_2015
+14,0,B1,Anderlecht,A,0,2015-08-02,D,Oud-Heverlee Leuven,0,2,Oud-Heverlee Leuven_Anderlecht_2015
+15,1,B1,Waregem,H,1,2015-08-02,D,Standard,2,1,Standard_Waregem_2015
+16,0,B1,Genk,D,0,2015-08-07,D,Waregem,0,0,Waregem_Genk_2015
+17,0,B1,Lokeren,D,0,2015-08-08,D,Kortrijk,0,0,Kortrijk_Lokeren_2015
+18,1,B1,Mouscron-Peruwelz,H,0,2015-08-08,H,Mechelen,3,1,Mechelen_Mouscron-Peruwelz_2015
+19,0,B1,Oostende,D,0,2015-08-08,D,St Truiden,1,1,St Truiden_Oostende_2015
+20,1,B1,Oud-Heverlee Leuven,H,1,2015-08-08,D,Westerlo,3,2,Westerlo_Oud-Heverlee Leuven_2015
+21,1,B1,Gent,D,0,2015-08-09,H,Anderlecht,1,1,Anderlecht_Gent_2015
+22,0,B1,Club Brugge,D,0,2015-08-09,D,Charleroi,0,0,Charleroi_Club Brugge_2015
+23,0,B1,Waasland-Beveren,H,0,2015-08-09,D,Standard,1,0,Standard_Waasland-Beveren_2015
+24,0,B1,Kortrijk,H,0,2015-08-14,D,Club Brugge,2,1,Club Brugge_Kortrijk_2015
+25,1,B1,Westerlo,H,1,2015-08-15,D,Genk,2,1,Genk_Westerlo_2015
+26,1,B1,Mechelen,H,0,2015-08-15,H,Lokeren,2,0,Lokeren_Mechelen_2015
+27,1,B1,Standard,D,1,2015-08-15,D,Mouscron-Peruwelz,1,1,Mouscron-Peruwelz_Standard_2015
+28,1,B1,Waregem,H,0,2015-08-15,H,Waasland-Beveren,2,1,Waasland-Beveren_Waregem_2015
+29,1,B1,St Truiden,H,0,2015-08-16,H,Gent,1,0,Gent_St Truiden_2015
+30,1,B1,Anderlecht,H,0,2015-08-16,H,Oostende,3,1,Oostende_Anderlecht_2015
+31,0,B1,Charleroi,H,0,2015-08-16,D,Oud-Heverlee Leuven,2,0,Oud-Heverlee Leuven_Charleroi_2015
+32,1,B1,Genk,H,0,2015-08-21,H,St Truiden,3,1,St Truiden_Genk_2015
+33,0,B1,Westerlo,D,0,2015-08-22,D,Charleroi,0,0,Charleroi_Westerlo_2015
+34,0,B1,Oud-Heverlee Leuven,H,0,2015-08-22,D,Mechelen,2,1,Mechelen_Oud-Heverlee Leuven_2015
+35,1,B1,Mouscron-Peruwelz,D,2,2015-08-22,A,Waasland-Beveren,3,3,Waasland-Beveren_Mouscron-Peruwelz_2015
+36,1,B1,Club Brugge,H,0,2015-08-22,H,Waregem,2,0,Waregem_Club Brugge_2015
+37,0,B1,Lokeren,H,0,2015-08-23,D,Anderlecht,1,0,Anderlecht_Lokeren_2015
+38,0,B1,Gent,D,0,2015-08-23,D,Kortrijk,0,0,Kortrijk_Gent_2015
+39,1,B1,Oostende,A,1,2015-08-23,D,Standard,1,2,Standard_Oostende_2015
+40,1,B1,Charleroi,H,0,2015-08-28,H,Genk,2,0,Genk_Charleroi_2015
+41,0,B1,Mechelen,D,1,2015-08-29,A,Gent,2,2,Gent_Mechelen_2015
+42,0,B1,Kortrijk,A,0,2015-08-29,D,Mouscron-Peruwelz,0,1,Mouscron-Peruwelz_Kortrijk_2015
+43,0,B1,Waregem,A,1,2015-08-29,A,Oostende,0,2,Oostende_Waregem_2015
+44,0,B1,St Truiden,H,0,2015-08-29,D,Oud-Heverlee Leuven,1,0,Oud-Heverlee Leuven_St Truiden_2015
+45,4,B1,Standard,H,1,2015-08-30,H,Club Brugge,7,1,Club Brugge_Standard_2015
+46,0,B1,Waasland-Beveren,A,0,2015-08-30,D,Lokeren,1,2,Lokeren_Waasland-Beveren_2015
+47,0,B1,Anderlecht,A,1,2015-08-30,A,Westerlo,0,3,Westerlo_Anderlecht_2015
+48,0,B1,Club Brugge,H,1,2015-09-11,A,Mouscron-Peruwelz,2,1,Mouscron-Peruwelz_Club Brugge_2015
+49,0,B1,Oud-Heverlee Leuven,D,0,2015-09-12,D,Kortrijk,0,0,Kortrijk_Oud-Heverlee Leuven_2015
+50,1,B1,Westerlo,D,0,2015-09-12,H,Mechelen,2,2,Mechelen_Westerlo_2015
+51,0,B1,Oostende,A,2,2015-09-12,A,Waasland-Beveren,1,5,Waasland-Beveren_Oostende_2015
+52,0,B1,Gent,D,1,2015-09-12,A,Waregem,1,1,Waregem_Gent_2015
+53,0,B1,Genk,D,0,2015-09-13,D,Anderlecht,0,0,Anderlecht_Genk_2015
+54,0,B1,Charleroi,D,0,2015-09-13,D,St Truiden,1,1,St Truiden_Charleroi_2015
+55,0,B1,Lokeren,A,0,2015-09-13,D,Standard,0,1,Standard_Lokeren_2015
+56,1,B1,Mechelen,H,0,2015-09-18,H,Genk,3,1,Genk_Mechelen_2015
+57,1,B1,Mouscron-Peruwelz,A,2,2015-09-19,A,Lokeren,1,2,Lokeren_Mouscron-Peruwelz_2015
+58,0,B1,Kortrijk,H,0,2015-09-19,D,Oostende,1,0,Oostende_Kortrijk_2015
+59,1,B1,Waregem,A,3,2015-09-19,A,Oud-Heverlee Leuven,2,3,Oud-Heverlee Leuven_Waregem_2015
+60,0,B1,St Truiden,A,2,2015-09-19,A,Westerlo,0,3,Westerlo_St Truiden_2015
+61,0,B1,Anderlecht,D,0,2015-09-20,D,Charleroi,1,1,Charleroi_Anderlecht_2015
+62,2,B1,Waasland-Beveren,H,0,2015-09-20,H,Club Brugge,5,1,Club Brugge_Waasland-Beveren_2015
+63,2,B1,Standard,H,1,2015-09-20,H,Gent,4,1,Gent_Standard_2015
+64,2,B1,Westerlo,H,1,2015-09-25,H,Waregem,4,2,Waregem_Westerlo_2015
+65,0,B1,Charleroi,A,0,2015-09-26,D,Mechelen,0,1,Mechelen_Charleroi_2015
+66,1,B1,Oostende,D,1,2015-09-26,D,Mouscron-Peruwelz,2,2,Mouscron-Peruwelz_Oostende_2015
+67,0,B1,Oud-Heverlee Leuven,D,2,2015-09-26,A,Standard,2,2,Standard_Oud-Heverlee Leuven_2015
+68,0,B1,Gent,A,1,2015-09-26,A,Waasland-Beveren,1,3,Waasland-Beveren_Gent_2015
+69,1,B1,St Truiden,H,0,2015-09-27,H,Anderlecht,1,0,Anderlecht_St Truiden_2015
+70,0,B1,Genk,H,0,2015-09-27,D,Kortrijk,1,0,Kortrijk_Genk_2015
+71,0,B1,Club Brugge,A,1,2015-09-27,A,Lokeren,0,1,Lokeren_Club Brugge_2015
+72,0,B1,Lokeren,H,0,2015-10-02,D,Oostende,2,0,Oostende_Lokeren_2015
+73,0,B1,Waregem,H,0,2015-10-03,D,Charleroi,3,0,Charleroi_Waregem_2015
+74,0,B1,Mouscron-Peruwelz,D,0,2015-10-03,D,Oud-Heverlee Leuven,1,1,Oud-Heverlee Leuven_Mouscron-Peruwelz_2015
+75,0,B1,Waasland-Beveren,A,2,2015-10-03,A,St Truiden,1,3,St Truiden_Waasland-Beveren_2015
+76,1,B1,Kortrijk,D,0,2015-10-03,H,Westerlo,1,1,Westerlo_Kortrijk_2015
+77,0,B1,Mechelen,D,0,2015-10-04,D,Anderlecht,1,1,Anderlecht_Mechelen_2015
+78,1,B1,Standard,H,0,2015-10-04,H,Genk,3,1,Genk_Standard_2015
+79,1,B1,Club Brugge,H,0,2015-10-04,H,Gent,4,1,Gent_Club Brugge_2015
+80,1,B1,Gent,A,0,2015-10-16,H,Mouscron-Peruwelz,1,2,Mouscron-Peruwelz_Gent_2015
+81,0,B1,Oud-Heverlee Leuven,A,1,2015-10-17,A,Lokeren,1,2,Lokeren_Oud-Heverlee Leuven_2015
+82,1,B1,St Truiden,H,0,2015-10-17,H,Mechelen,3,0,Mechelen_St Truiden_2015
+83,0,B1,Westerlo,A,2,2015-10-17,A,Standard,1,2,Standard_Westerlo_2015
+84,0,B1,Genk,A,0,2015-10-17,D,Waasland-Beveren,0,1,Waasland-Beveren_Genk_2015
+85,1,B1,Oostende,H,0,2015-10-18,H,Club Brugge,1,0,Club Brugge_Oostende_2015
+86,1,B1,Charleroi,H,0,2015-10-18,H,Kortrijk,2,0,Kortrijk_Charleroi_2015
+87,0,B1,Anderlecht,A,2,2015-10-18,A,Waregem,0,4,Waregem_Anderlecht_2015
+88,0,B1,Mouscron-Peruwelz,A,2,2015-10-23,A,Genk,0,4,Genk_Mouscron-Peruwelz_2015
+89,0,B1,Oostende,D,0,2015-10-24,D,Gent,2,2,Gent_Oostende_2015
+90,2,B1,Waregem,A,2,2015-10-24,D,Mechelen,3,4,Mechelen_Waregem_2015
+91,0,B1,Waasland-Beveren,A,2,2015-10-24,A,Oud-Heverlee Leuven,0,2,Oud-Heverlee Leuven_Waasland-Beveren_2015
+92,0,B1,Lokeren,A,2,2015-10-24,A,Westerlo,1,2,Westerlo_Lokeren_2015
+93,1,B1,Club Brugge,H,0,2015-10-25,H,Anderlecht,3,1,Anderlecht_Club Brugge_2015
+94,1,B1,Standard,A,1,2015-10-25,D,Charleroi,2,3,Charleroi_Standard_2015
+95,0,B1,Kortrijk,H,1,2015-10-25,A,St Truiden,2,1,St Truiden_Kortrijk_2015
+96,0,B1,Gent,A,1,2015-10-27,A,Lokeren,1,2,Lokeren_Gent_2015
+97,1,B1,Westerlo,D,1,2015-10-27,D,Mouscron-Peruwelz,2,2,Mouscron-Peruwelz_Westerlo_2015
+98,2,B1,Genk,H,0,2015-10-27,H,Oostende,3,2,Oostende_Genk_2015
+99,1,B1,Oud-Heverlee Leuven,H,0,2015-10-28,H,Club Brugge,2,0,Club Brugge_Oud-Heverlee Leuven_2015
+100,2,B1,Mechelen,H,0,2015-10-28,H,Standard,2,1,Standard_Mechelen_2015
+101,0,B1,Charleroi,A,0,2015-10-28,D,Waasland-Beveren,0,1,Waasland-Beveren_Charleroi_2015
+102,2,B1,St Truiden,H,0,2015-10-28,H,Waregem,4,0,Waregem_St Truiden_2015
+103,1,B1,Anderlecht,D,0,2015-10-29,H,Kortrijk,1,1,Kortrijk_Anderlecht_2015
+104,0,B1,Lokeren,A,1,2015-10-30,A,Genk,0,2,Genk_Lokeren_2015
+105,0,B1,Oostende,D,0,2015-10-31,D,Charleroi,1,1,Charleroi_Oostende_2015
+106,1,B1,Waasland-Beveren,H,0,2015-10-31,H,Mechelen,2,0,Mechelen_Waasland-Beveren_2015
+107,0,B1,Gent,A,1,2015-10-31,A,Oud-Heverlee Leuven,0,2,Oud-Heverlee Leuven_Gent_2015
+108,0,B1,Club Brugge,A,2,2015-10-31,A,Westerlo,0,2,Westerlo_Club Brugge_2015
+109,0,B1,Mouscron-Peruwelz,H,0,2015-11-01,D,Anderlecht,2,0,Anderlecht_Mouscron-Peruwelz_2015
+110,0,B1,Standard,H,0,2015-11-01,D,St Truiden,1,0,St Truiden_Standard_2015
+111,1,B1,Kortrijk,D,1,2015-11-01,D,Waregem,2,2,Waregem_Kortrijk_2015
+112,1,B1,Waregem,D,0,2015-11-06,H,Mouscron-Peruwelz,2,2,Mouscron-Peruwelz_Waregem_2015
+113,1,B1,Mechelen,H,0,2015-11-07,H,Kortrijk,1,0,Kortrijk_Mechelen_2015
+114,0,B1,St Truiden,D,0,2015-11-07,D,Lokeren,1,1,Lokeren_St Truiden_2015
+115,2,B1,Oud-Heverlee Leuven,H,0,2015-11-07,H,Oostende,3,0,Oostende_Oud-Heverlee Leuven_2015
+116,0,B1,Westerlo,D,1,2015-11-07,A,Waasland-Beveren,2,2,Waasland-Beveren_Westerlo_2015
+117,0,B1,Genk,H,0,2015-11-08,D,Club Brugge,1,0,Club Brugge_Genk_2015
+118,1,B1,Charleroi,A,2,2015-11-08,A,Gent,1,3,Gent_Charleroi_2015
+119,1,B1,Anderlecht,H,0,2015-11-08,H,Standard,1,0,Standard_Anderlecht_2015
+120,2,B1,Westerlo,H,0,2015-11-20,H,Gent,5,0,Gent_Westerlo_2015
+121,3,B1,Waregem,H,0,2015-11-21,H,Club Brugge,3,0,Club Brugge_Waregem_2015
+122,0,B1,Genk,A,2,2015-11-21,A,Oud-Heverlee Leuven,1,3,Oud-Heverlee Leuven_Genk_2015
+123,1,B1,St Truiden,H,1,2015-11-21,D,Waasland-Beveren,2,1,Waasland-Beveren_St Truiden_2015
+124,1,B1,Oostende,H,0,2015-11-22,H,Mechelen,2,1,Mechelen_Oostende_2015
+125,0,B1,Kortrijk,D,0,2015-11-22,D,Standard,1,1,Standard_Kortrijk_2015
+126,0,B1,Standard,A,2,2015-11-27,A,Waregem,2,3,Waregem_Standard_2015
+127,0,B1,Lokeren,A,1,2015-11-28,A,Charleroi,1,2,Charleroi_Lokeren_2015
+128,0,B1,Gent,A,1,2015-11-28,A,Genk,0,1,Genk_Gent_2015
+129,3,B1,Waasland-Beveren,H,1,2015-11-28,H,Kortrijk,3,1,Kortrijk_Waasland-Beveren_2015
+130,0,B1,Mouscron-Peruwelz,A,0,2015-11-28,D,St Truiden,0,1,St Truiden_Mouscron-Peruwelz_2015
+131,2,B1,Oud-Heverlee Leuven,H,1,2015-11-29,H,Anderlecht,3,2,Anderlecht_Oud-Heverlee Leuven_2015
+132,1,B1,Club Brugge,A,0,2015-11-29,H,Mechelen,1,4,Mechelen_Club Brugge_2015
+133,0,B1,Oostende,A,0,2015-11-29,D,Westerlo,0,1,Westerlo_Oostende_2015
+134,1,B1,Waregem,D,1,2015-12-04,D,Gent,2,2,Gent_Waregem_2015
+135,1,B1,Mechelen,A,1,2015-12-05,D,Mouscron-Peruwelz,2,3,Mouscron-Peruwelz_Mechelen_2015
+136,1,B1,St Truiden,A,1,2015-12-05,D,Oostende,1,2,Oostende_St Truiden_2015
+137,3,B1,Westerlo,H,0,2015-12-05,H,Oud-Heverlee Leuven,5,1,Oud-Heverlee Leuven_Westerlo_2015
+138,0,B1,Standard,D,0,2015-12-05,D,Waasland-Beveren,0,0,Waasland-Beveren_Standard_2015
+139,1,B1,Charleroi,H,0,2015-12-06,H,Club Brugge,2,1,Club Brugge_Charleroi_2015
+140,0,B1,Anderlecht,D,0,2015-12-06,D,Genk,0,0,Genk_Anderlecht_2015
+141,0,B1,Kortrijk,H,1,2015-12-06,A,Lokeren,3,1,Lokeren_Kortrijk_2015
+142,0,B1,Genk,D,0,2015-12-11,D,Westerlo,0,0,Westerlo_Genk_2015
+143,0,B1,Oud-Heverlee Leuven,H,0,2015-12-12,D,Charleroi,2,1,Charleroi_Oud-Heverlee Leuven_2015
+144,0,B1,Mouscron-Peruwelz,A,2,2015-12-12,A,Kortrijk,1,3,Kortrijk_Mouscron-Peruwelz_2015
+145,1,B1,Lokeren,D,1,2015-12-12,D,Mechelen,1,1,Mechelen_Lokeren_2015
+146,2,B1,Waasland-Beveren,H,0,2015-12-12,H,Waregem,2,1,Waregem_Waasland-Beveren_2015
+147,0,B1,Oostende,D,0,2015-12-13,D,Anderlecht,1,1,Anderlecht_Oostende_2015
+148,0,B1,Gent,A,1,2015-12-13,A,St Truiden,0,2,St Truiden_Gent_2015
+149,0,B1,Club Brugge,H,0,2015-12-13,D,Standard,2,0,Standard_Club Brugge_2015
+150,0,B1,Waregem,D,1,2015-12-18,A,Lokeren,1,1,Lokeren_Waregem_2015
+151,1,B1,St Truiden,H,0,2015-12-19,H,Genk,3,0,Genk_St Truiden_2015
+152,0,B1,Waasland-Beveren,A,0,2015-12-19,D,Mouscron-Peruwelz,0,1,Mouscron-Peruwelz_Waasland-Beveren_2015
+153,0,B1,Mechelen,H,1,2015-12-19,A,Oud-Heverlee Leuven,3,1,Oud-Heverlee Leuven_Mechelen_2015
+154,1,B1,Charleroi,H,1,2015-12-19,D,Westerlo,2,1,Westerlo_Charleroi_2015
+155,0,B1,Anderlecht,A,2,2015-12-20,A,Club Brugge,1,4,Club Brugge_Anderlecht_2015
+156,1,B1,Kortrijk,H,0,2015-12-20,H,Gent,3,0,Gent_Kortrijk_2015
+157,2,B1,Standard,H,1,2015-12-20,H,Oostende,4,1,Oostende_Standard_2015
+158,0,B1,Charleroi,A,1,2015-12-22,A,Mouscron-Peruwelz,0,1,Mouscron-Peruwelz_Charleroi_2015
+159,0,B1,Anderlecht,D,0,2015-12-23,D,Lokeren,1,1,Lokeren_Anderlecht_2015
+160,0,B1,Genk,H,0,2015-12-26,D,Charleroi,1,0,Charleroi_Genk_2015
+161,1,B1,Club Brugge,A,1,2015-12-26,D,Kortrijk,1,4,Kortrijk_Club Brugge_2015
+162,0,B1,Gent,H,0,2015-12-26,D,Mechelen,2,0,Mechelen_Gent_2015
+163,0,B1,Oud-Heverlee Leuven,D,1,2015-12-26,A,St Truiden,2,2,St Truiden_Oud-Heverlee Leuven_2015
+164,2,B1,Lokeren,A,0,2015-12-26,H,Waasland-Beveren,2,3,Waasland-Beveren_Lokeren_2015
+165,1,B1,Westerlo,H,0,2015-12-27,H,Anderlecht,2,1,Anderlecht_Westerlo_2015
+166,1,B1,Mouscron-Peruwelz,H,0,2015-12-27,H,Standard,3,0,Standard_Mouscron-Peruwelz_2015
+167,0,B1,Oostende,H,0,2015-12-27,D,Waregem,1,0,Waregem_Oostende_2015
+168,1,B1,Waregem,H,1,2016-01-15,D,Genk,2,1,Genk_Waregem_2015
+169,0,B1,St Truiden,D,0,2016-01-16,D,Charleroi,0,0,Charleroi_St Truiden_2015
+170,1,B1,Mouscron-Peruwelz,H,0,2016-01-16,H,Club Brugge,3,0,Club Brugge_Mouscron-Peruwelz_2015
+171,0,B1,Kortrijk,H,0,2016-01-16,D,Oud-Heverlee Leuven,1,0,Oud-Heverlee Leuven_Kortrijk_2015
+172,0,B1,Mechelen,H,0,2016-01-16,D,Westerlo,3,2,Westerlo_Mechelen_2015
+173,1,B1,Anderlecht,H,0,2016-01-17,H,Gent,2,0,Gent_Anderlecht_2015
+174,0,B1,Standard,A,0,2016-01-17,D,Lokeren,0,2,Lokeren_Standard_2015
+175,2,B1,Waasland-Beveren,D,2,2016-01-17,D,Oostende,3,3,Oostende_Waasland-Beveren_2015
+176,1,B1,Oostende,H,0,2016-01-22,H,Kortrijk,2,1,Kortrijk_Oostende_2015
+177,0,B1,Genk,D,0,2016-01-23,D,Mechelen,1,1,Mechelen_Genk_2015
+178,0,B1,Lokeren,D,0,2016-01-23,D,Mouscron-Peruwelz,1,1,Mouscron-Peruwelz_Lokeren_2015
+179,0,B1,Westerlo,A,0,2016-01-23,D,St Truiden,1,2,St Truiden_Westerlo_2015
+180,1,B1,Oud-Heverlee Leuven,D,1,2016-01-23,D,Waregem,2,2,Waregem_Oud-Heverlee Leuven_2015
+181,1,B1,Charleroi,H,1,2016-01-24,D,Anderlecht,2,1,Anderlecht_Charleroi_2015
+182,0,B1,Gent,A,0,2016-01-24,D,Standard,0,3,Standard_Gent_2015
+183,1,B1,Club Brugge,A,1,2016-01-24,D,Waasland-Beveren,1,2,Waasland-Beveren_Club Brugge_2015
+184,1,B1,Anderlecht,A,1,2016-01-29,D,St Truiden,1,2,St Truiden_Anderlecht_2015
+185,1,B1,Mechelen,H,2,2016-01-30,A,Charleroi,3,2,Charleroi_Mechelen_2015
+186,1,B1,Kortrijk,H,0,2016-01-30,H,Genk,1,0,Genk_Kortrijk_2015
+187,0,B1,Standard,A,2,2016-01-30,A,Oud-Heverlee Leuven,0,2,Oud-Heverlee Leuven_Standard_2015
+188,1,B1,Waregem,A,0,2016-01-30,H,Westerlo,1,2,Westerlo_Waregem_2015
+189,2,B1,Lokeren,H,1,2016-01-31,H,Club Brugge,2,1,Club Brugge_Lokeren_2015
+190,1,B1,Waasland-Beveren,H,1,2016-01-31,D,Gent,2,1,Gent_Waasland-Beveren_2015
+191,1,B1,Mouscron-Peruwelz,D,0,2016-01-31,H,Oostende,3,3,Oostende_Mouscron-Peruwelz_2015
+192,1,B1,Anderlecht,D,1,2016-02-05,D,Mechelen,2,2,Mechelen_Anderlecht_2015
+193,0,B1,Westerlo,D,0,2016-02-06,D,Kortrijk,1,1,Kortrijk_Westerlo_2015
+194,0,B1,Genk,A,0,2016-02-06,D,Mouscron-Peruwelz,0,1,Mouscron-Peruwelz_Genk_2015
+195,0,B1,Oud-Heverlee Leuven,D,1,2016-02-06,A,Waasland-Beveren,2,2,Waasland-Beveren_Oud-Heverlee Leuven_2015
+196,1,B1,Charleroi,A,1,2016-02-06,D,Waregem,2,3,Waregem_Charleroi_2015
+197,0,B1,Gent,H,0,2016-02-07,D,Club Brugge,1,0,Club Brugge_Gent_2015
+198,0,B1,Oostende,A,0,2016-02-07,D,Lokeren,0,1,Lokeren_Oostende_2015
+199,1,B1,St Truiden,A,1,2016-02-07,D,Standard,1,2,Standard_St Truiden_2015
+200,0,B1,Mouscron-Peruwelz,H,0,2016-02-12,D,Gent,2,0,Gent_Mouscron-Peruwelz_2015
+201,1,B1,Waregem,H,0,2016-02-13,H,Anderlecht,3,0,Anderlecht_Waregem_2015
+202,1,B1,Kortrijk,D,0,2016-02-13,H,Charleroi,1,1,Charleroi_Kortrijk_2015
+203,4,B1,Waasland-Beveren,H,1,2016-02-13,H,Genk,6,1,Genk_Waasland-Beveren_2015
+204,0,B1,Lokeren,D,1,2016-02-13,A,Oud-Heverlee Leuven,3,3,Oud-Heverlee Leuven_Lokeren_2015
+205,0,B1,Club Brugge,A,1,2016-02-14,A,Oostende,0,2,Oostende_Club Brugge_2015
+206,0,B1,Mechelen,A,0,2016-02-14,D,St Truiden,0,3,St Truiden_Mechelen_2015
+207,0,B1,Standard,H,0,2016-02-14,D,Westerlo,2,0,Westerlo_Standard_2015
+208,3,B1,Westerlo,H,0,2016-02-19,H,Club Brugge,6,0,Club Brugge_Westerlo_2015
+209,2,B1,St Truiden,H,0,2016-02-20,H,Kortrijk,3,0,Kortrijk_St Truiden_2015
+210,0,B1,Genk,D,0,2016-02-20,D,Lokeren,0,0,Lokeren_Genk_2015
+211,0,B1,Oud-Heverlee Leuven,H,1,2016-02-20,A,Mouscron-Peruwelz,3,1,Mouscron-Peruwelz_Oud-Heverlee Leuven_2015
+212,1,B1,Charleroi,H,0,2016-02-20,H,Standard,3,0,Standard_Charleroi_2015
+213,3,B1,Gent,H,2,2016-02-21,H,Oostende,5,2,Oostende_Gent_2015
+214,0,B1,Anderlecht,H,0,2016-02-21,D,Waasland-Beveren,1,0,Waasland-Beveren_Anderlecht_2015
+215,1,B1,Mechelen,A,0,2016-02-21,H,Waregem,2,3,Waregem_Mechelen_2015
+216,2,B1,Lokeren,H,1,2016-02-26,H,Gent,3,1,Gent_Lokeren_2015
+217,0,B1,Kortrijk,A,1,2016-02-27,A,Mechelen,0,2,Mechelen_Kortrijk_2015
+218,2,B1,Oostende,H,0,2016-02-27,H,Oud-Heverlee Leuven,4,1,Oud-Heverlee Leuven_Oostende_2015
+219,0,B1,Waregem,A,1,2016-02-27,A,St Truiden,1,2,St Truiden_Waregem_2015
+220,2,B1,Mouscron-Peruwelz,D,2,2016-02-27,D,Westerlo,2,2,Westerlo_Mouscron-Peruwelz_2015
+221,1,B1,Standard,D,2,2016-02-28,A,Anderlecht,3,3,Anderlecht_Standard_2015
+222,1,B1,Waasland-Beveren,A,0,2016-02-28,H,Charleroi,2,3,Charleroi_Waasland-Beveren_2015
+223,1,B1,Club Brugge,H,1,2016-02-28,D,Genk,3,2,Genk_Club Brugge_2015
+224,0,B1,Oud-Heverlee Leuven,D,0,2016-03-04,D,Gent,1,1,Gent_Oud-Heverlee Leuven_2015
+225,1,B1,St Truiden,H,0,2016-03-05,H,Club Brugge,3,0,Club Brugge_St Truiden_2015
+226,1,B1,Waregem,H,0,2016-03-05,H,Kortrijk,1,0,Kortrijk_Waregem_2015
+227,1,B1,Westerlo,H,1,2016-03-05,D,Lokeren,2,1,Lokeren_Westerlo_2015
+228,1,B1,Anderlecht,H,1,2016-03-05,D,Mouscron-Peruwelz,2,1,Mouscron-Peruwelz_Anderlecht_2015
+229,0,B1,Charleroi,H,0,2016-03-05,D,Oostende,2,1,Oostende_Charleroi_2015
+230,0,B1,Genk,H,1,2016-03-05,A,Standard,2,1,Standard_Genk_2015
+231,0,B1,Mechelen,D,0,2016-03-05,D,Waasland-Beveren,0,0,Waasland-Beveren_Mechelen_2015
+232,1,B1,Kortrijk,H,0,2016-03-13,H,Anderlecht,3,0,Anderlecht_Kortrijk_2015
+233,0,B1,Gent,D,0,2016-03-13,D,Charleroi,1,1,Charleroi_Gent_2015
+234,2,B1,Oostende,H,0,2016-03-13,H,Genk,4,1,Genk_Oostende_2015
+235,3,B1,Standard,H,0,2016-03-13,H,Mechelen,4,0,Mechelen_Standard_2015
+236,0,B1,Club Brugge,A,0,2016-03-13,D,Oud-Heverlee Leuven,0,1,Oud-Heverlee Leuven_Club Brugge_2015
+237,0,B1,Lokeren,D,0,2016-03-13,D,St Truiden,1,1,St Truiden_Lokeren_2015
+238,1,B1,Mouscron-Peruwelz,H,0,2016-03-13,H,Waregem,3,0,Waregem_Mouscron-Peruwelz_2015
+239,1,B1,Waasland-Beveren,H,0,2016-03-13,H,Westerlo,1,0,Westerlo_Waasland-Beveren_2015

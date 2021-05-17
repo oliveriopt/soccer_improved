@@ -1,0 +1,381 @@
+,HY,AwayTeam,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,2,Lyon,1,0,3,1,0,1,2,A,13,2006-08-04,Nantes,F1,6,4,7,10,D,2,Nantes_Lyon_2006
+1,5,Valenciennes,1,0,1,0,1,1,4,D,13,2006-08-05,Auxerre,F1,5,6,4,14,A,3,Auxerre_Valenciennes_2006
+2,1,Toulouse,2,0,0,0,0,0,1,H,3,2006-08-05,Bordeaux,F1,1,7,6,14,D,4,Bordeaux_Toulouse_2006
+3,1,Nice,1,0,0,1,0,0,3,H,8,2006-08-05,Le Mans,F1,3,4,10,12,H,2,Le Mans_Nice_2006
+4,5,Troyes,1,0,0,1,0,0,3,H,5,2006-08-05,Lens,F1,1,3,4,11,H,1,Lens_Troyes_2006
+5,4,Monaco,1,1,0,0,0,0,3,H,5,2006-08-05,Nancy,F1,1,3,3,11,D,1,Nancy_Monaco_2006
+6,0,Lorient,2,0,3,2,0,1,1,A,8,2006-08-05,Paris SG,F1,5,8,6,11,H,3,Paris SG_Lorient_2006
+7,2,Lille,1,0,2,0,0,2,3,A,20,2006-08-05,Rennes,F1,9,4,4,9,A,3,Rennes_Lille_2006
+8,0,Sochaux,1,0,2,1,0,1,1,A,8,2006-08-05,St Etienne,F1,6,3,3,4,D,4,St Etienne_Sochaux_2006
+9,1,Marseille,0,0,0,0,0,0,2,D,10,2006-08-06,Sedan,F1,3,5,1,10,D,5,Sedan_Marseille_2006
+10,2,Lens,4,1,0,2,0,0,4,H,3,2006-08-13,Lille,F1,1,7,4,11,H,1,Lille_Lens_2006
+11,1,Bordeaux,0,0,1,0,2,1,5,A,14,2006-08-12,Lorient,F1,6,2,10,12,A,5,Lorient_Bordeaux_2006
+12,1,Toulouse,1,0,1,0,0,0,5,D,10,2006-08-12,Lyon,F1,5,6,3,16,D,3,Lyon_Toulouse_2006
+13,2,Rennes,2,0,0,1,0,0,3,H,13,2006-08-13,Marseille,F1,4,3,4,11,H,4,Marseille_Rennes_2006
+14,3,St Etienne,1,0,2,0,1,1,2,A,13,2006-08-12,Monaco,F1,6,5,3,11,A,2,Monaco_St Etienne_2006
+15,1,Sedan,3,1,1,0,0,1,2,H,10,2006-08-12,Nancy,F1,4,7,8,15,A,1,Nancy_Sedan_2006
+16,2,Nantes,1,0,1,0,0,0,1,D,3,2006-08-12,Nice,F1,1,3,4,8,D,2,Nice_Nantes_2006
+17,0,Auxerre,1,0,1,0,0,1,1,D,9,2006-08-12,Sochaux,F1,7,4,10,10,A,3,Sochaux_Auxerre_2006
+18,3,Le Mans,2,0,2,0,0,2,2,D,10,2006-08-12,Troyes,F1,7,2,6,9,A,1,Troyes_Le Mans_2006
+19,2,Paris SG,0,0,0,0,0,0,1,D,8,2006-08-12,Valenciennes,F1,3,4,4,10,D,3,Valenciennes_Paris SG_2006
+20,2,Marseille,0,0,3,0,1,1,2,A,5,2006-08-19,Auxerre,F1,2,2,4,6,A,3,Auxerre_Marseille_2006
+21,0,Valenciennes,3,0,2,1,0,2,1,H,5,2006-08-19,Le Mans,F1,2,7,3,15,A,2,Le Mans_Valenciennes_2006
+22,2,Lorient,1,0,1,1,0,0,3,D,11,2006-08-19,Lens,F1,4,4,1,11,H,4,Lens_Lorient_2006
+23,1,Troyes,1,0,1,1,0,0,3,D,8,2006-08-19,Nantes,F1,3,2,2,6,H,4,Nantes_Troyes_2006
+24,2,Lille,1,1,0,0,0,0,2,H,14,2006-08-19,Paris SG,F1,6,9,8,19,D,5,Paris SG_Lille_2006
+25,2,Monaco,1,0,1,0,0,1,5,D,6,2006-08-19,Rennes,F1,2,5,11,12,A,1,Rennes_Monaco_2006
+26,1,Sochaux,1,0,1,0,0,1,2,D,5,2006-08-19,Sedan,F1,3,3,2,7,A,3,Sedan_Sochaux_2006
+27,3,Nancy,1,1,0,0,0,0,2,H,6,2006-08-19,St Etienne,F1,4,1,3,9,D,5,St Etienne_Nancy_2006
+28,4,Lyon,1,0,2,1,0,1,3,A,15,2006-08-20,Bordeaux,F1,3,4,4,8,D,4,Bordeaux_Lyon_2006
+29,3,Nice,1,0,0,1,0,0,3,H,8,2006-08-20,Toulouse,F1,3,4,5,8,H,5,Toulouse_Nice_2006
+30,3,Bordeaux,3,0,0,2,0,0,2,H,8,2006-08-26,Lille,F1,2,4,5,8,H,4,Lille_Bordeaux_2006
+31,0,Nantes,3,1,1,3,0,1,3,H,8,2006-08-26,Lorient,F1,4,6,4,10,H,1,Lorient_Nantes_2006
+32,3,Lyon,1,0,4,1,0,0,2,A,13,2006-08-26,Nice,F1,5,1,0,5,H,14,Nice_Lyon_2006
+33,1,Paris SG,3,0,2,2,0,0,4,H,5,2006-08-26,Sochaux,F1,3,6,5,15,H,0,Sochaux_Paris SG_2006
+34,2,Toulouse,1,0,2,0,0,1,3,A,7,2006-08-26,Troyes,F1,2,5,6,11,A,1,Troyes_Toulouse_2006
+35,2,Le Mans,2,0,0,0,0,0,2,H,13,2006-08-27,Marseille,F1,5,4,2,8,D,7,Marseille_Le Mans_2006
+36,4,Sedan,2,0,1,2,0,0,2,H,9,2006-08-27,Monaco,F1,3,4,5,9,H,1,Monaco_Sedan_2006
+37,3,Auxerre,1,0,0,0,0,0,2,H,4,2006-08-27,Nancy,F1,0,2,6,5,D,4,Nancy_Auxerre_2006
+38,2,Lens,3,0,2,2,0,0,3,H,8,2006-08-27,St Etienne,F1,4,6,4,13,H,7,St Etienne_Lens_2006
+39,1,Rennes,3,0,1,0,0,1,2,H,12,2006-08-27,Valenciennes,F1,8,10,5,11,A,2,Valenciennes_Rennes_2006
+40,2,Monaco,2,0,1,1,0,0,3,H,7,2006-09-09,Auxerre,F1,2,8,5,18,H,5,Auxerre_Monaco_2006
+41,1,Nice,3,0,2,2,0,1,1,H,7,2006-09-09,Bordeaux,F1,5,3,2,9,H,2,Bordeaux_Nice_2006
+42,2,Lorient,1,0,1,0,0,0,2,D,9,2006-09-09,Le Mans,F1,6,7,7,13,D,6,Le Mans_Lorient_2006
+43,3,Valenciennes,3,0,0,3,0,0,2,H,8,2006-09-09,Lens,F1,4,5,2,5,H,1,Lens_Valenciennes_2006
+44,2,Troyes,2,0,0,1,0,0,1,H,9,2006-09-09,Lyon,F1,3,7,6,16,H,5,Lyon_Troyes_2006
+45,2,Lille,1,0,1,0,0,1,2,D,9,2006-09-09,Nantes,F1,2,5,4,10,A,1,Nantes_Lille_2006
+46,1,Sochaux,2,0,1,0,0,0,6,H,9,2006-09-09,Rennes,F1,4,10,6,19,D,3,Rennes_Sochaux_2006
+47,2,St Etienne,2,0,2,1,0,1,2,D,10,2006-09-09,Sedan,F1,3,6,1,9,D,0,Sedan_St Etienne_2006
+48,2,Marseille,1,0,3,1,0,1,4,A,13,2006-09-10,Paris SG,F1,5,3,5,9,D,6,Paris SG_Marseille_2006
+49,1,Nancy,2,0,2,1,1,0,2,D,9,2006-09-10,Toulouse,F1,5,4,4,7,H,4,Toulouse_Nancy_2006
+50,3,Toulouse,1,0,3,1,0,3,4,A,9,2006-09-16,Lille,F1,4,7,5,15,A,3,Lille_Toulouse_2006
+51,0,Lyon,1,0,3,0,0,1,0,A,10,2006-09-16,Lorient,F1,5,5,1,10,A,5,Lorient_Lyon_2006
+52,4,Le Mans,1,1,2,0,0,2,3,A,12,2006-09-16,Sedan,F1,4,1,6,8,A,4,Sedan_Le Mans_2006
+53,3,Nice,2,1,0,0,0,0,1,H,3,2006-09-16,Troyes,F1,3,9,2,12,D,1,Troyes_Nice_2006
+54,1,Nantes,1,0,0,1,0,0,2,H,4,2006-09-16,Valenciennes,F1,0,3,4,12,H,5,Valenciennes_Nantes_2006
+55,2,Bordeaux,2,1,1,0,0,0,2,H,7,2006-09-17,Marseille,F1,2,5,4,10,D,3,Marseille_Bordeaux_2006
+56,2,Paris SG,1,0,2,1,0,1,2,A,9,2006-09-17,Monaco,F1,5,4,3,8,D,6,Monaco_Paris SG_2006
+57,2,Rennes,0,1,0,0,0,0,4,D,7,2006-09-17,Nancy,F1,3,5,3,13,D,3,Nancy_Rennes_2006
+58,1,Lens,0,0,3,0,0,1,2,A,11,2006-09-17,Sochaux,F1,6,5,6,11,A,3,Sochaux_Lens_2006
+59,3,Auxerre,2,0,3,1,0,1,1,A,9,2006-09-17,St Etienne,F1,7,2,2,9,D,2,St Etienne_Auxerre_2006
+60,2,Sedan,2,0,2,1,0,1,1,D,8,2006-09-23,Auxerre,F1,5,9,6,13,D,3,Auxerre_Sedan_2006
+61,3,Troyes,2,0,1,0,0,1,4,H,8,2006-09-23,Bordeaux,F1,2,5,7,12,A,1,Bordeaux_Troyes_2006
+62,1,Sochaux,2,0,2,1,0,1,2,D,12,2006-09-23,Le Mans,F1,3,6,2,15,D,3,Le Mans_Sochaux_2006
+63,2,Lille,4,0,1,1,0,1,1,H,10,2006-09-23,Lyon,F1,1,13,7,21,D,6,Lyon_Lille_2006
+64,0,Valenciennes,2,1,0,0,0,0,3,H,6,2006-09-23,Nice,F1,2,7,6,19,D,3,Nice_Valenciennes_2006
+65,3,Nancy,0,0,0,0,0,0,2,D,7,2006-09-23,Paris SG,F1,0,0,0,5,D,2,Paris SG_Nancy_2006
+66,2,St Etienne,0,0,0,0,0,0,3,D,5,2006-09-23,Rennes,F1,1,4,7,10,D,10,Rennes_St Etienne_2006
+67,0,Lorient,0,0,0,0,0,0,3,D,6,2006-09-23,Toulouse,F1,1,3,3,8,D,2,Toulouse_Lorient_2006
+68,3,Monaco,1,0,0,1,0,0,3,H,7,2006-09-24,Lens,F1,3,4,2,6,H,3,Lens_Monaco_2006
+69,2,Marseille,2,0,1,1,1,0,3,H,10,2006-09-24,Nantes,F1,5,5,7,9,H,3,Nantes_Marseille_2006
+70,2,Nice,1,0,0,0,0,0,1,H,9,2006-09-30,Lille,F1,2,3,4,14,D,5,Lille_Nice_2006
+71,0,Troyes,0,0,0,0,0,0,1,D,8,2006-09-30,Lorient,F1,3,5,4,9,D,5,Lorient_Troyes_2006
+72,0,Le Mans,2,0,1,1,0,1,1,H,9,2006-09-30,Monaco,F1,4,6,3,10,D,3,Monaco_Le Mans_2006
+73,2,Rennes,1,0,0,1,0,0,2,H,8,2006-09-30,Sedan,F1,5,3,2,8,H,3,Sedan_Rennes_2006
+74,1,Lyon,0,0,1,0,0,0,1,A,7,2006-09-30,Sochaux,F1,2,3,5,7,D,3,Sochaux_Lyon_2006
+75,3,Bordeaux,2,0,0,0,0,0,2,H,7,2006-09-30,Valenciennes,F1,4,2,3,5,D,2,Valenciennes_Bordeaux_2006
+76,3,Nantes,1,0,0,1,0,0,4,H,7,2006-10-01,Auxerre,F1,4,4,9,7,H,3,Auxerre_Nantes_2006
+77,0,Toulouse,3,0,0,2,0,0,2,H,15,2006-10-01,Marseille,F1,8,10,4,15,H,7,Marseille_Toulouse_2006
+78,1,Lens,2,0,1,1,0,0,3,H,4,2006-10-01,Nancy,F1,2,3,4,6,H,2,Nancy_Lens_2006
+79,2,Paris SG,1,0,0,1,0,0,1,H,8,2006-10-01,St Etienne,F1,2,2,3,9,H,4,St Etienne_Paris SG_2006
+80,0,Monaco,1,0,0,0,0,0,2,H,8,2006-10-14,Bordeaux,F1,5,7,4,14,D,2,Bordeaux_Monaco_2006
+81,1,St Etienne,2,1,1,0,0,0,0,H,4,2006-10-14,Lyon,F1,2,6,5,18,D,1,Lyon_St Etienne_2006
+82,1,Sochaux,0,0,2,0,0,1,2,A,7,2006-10-14,Nantes,F1,4,3,4,4,A,1,Nantes_Sochaux_2006
+83,2,Lorient,3,0,0,1,0,0,1,H,7,2006-10-14,Nice,F1,4,4,3,11,H,7,Nice_Lorient_2006
+84,2,Sedan,4,0,2,1,1,1,2,H,5,2006-10-14,Paris SG,F1,1,6,4,13,D,5,Paris SG_Sedan_2006
+85,3,Auxerre,3,0,1,2,0,0,4,H,8,2006-10-14,Rennes,F1,3,7,4,12,H,5,Rennes_Auxerre_2006
+86,3,Valenciennes,3,0,0,3,0,0,2,H,6,2006-10-14,Toulouse,F1,4,7,3,17,H,2,Toulouse_Valenciennes_2006
+87,3,Lille,1,0,1,1,0,0,4,D,13,2006-10-14,Troyes,F1,8,4,5,8,H,5,Troyes_Lille_2006
+88,3,Nancy,0,1,0,0,0,0,3,D,8,2006-10-15,Le Mans,F1,4,7,6,12,D,6,Le Mans_Nancy_2006
+89,2,Marseille,1,0,1,0,1,0,4,D,9,2006-10-15,Lens,F1,4,3,3,10,D,1,Lens_Marseille_2006
+90,1,Lorient,1,0,0,1,0,0,0,H,4,2006-10-21,Lille,F1,2,3,1,14,H,3,Lille_Lorient_2006
+91,1,Toulouse,1,0,3,1,1,1,2,A,10,2006-10-21,Monaco,F1,3,3,6,9,D,4,Monaco_Toulouse_2006
+92,5,Nantes,1,0,0,0,1,0,2,H,8,2006-10-21,Nancy,F1,3,3,0,7,D,6,Nancy_Nantes_2006
+93,1,Nice,1,1,0,0,0,0,3,H,8,2006-10-21,Rennes,F1,4,5,3,10,D,4,Rennes_Nice_2006
+94,2,Lens,2,0,2,0,1,2,1,D,10,2006-10-21,Sedan,F1,8,9,4,13,A,1,Sedan_Lens_2006
+95,1,Bordeaux,2,0,1,1,0,0,1,H,6,2006-10-21,Sochaux,F1,2,5,1,7,H,1,Sochaux_Bordeaux_2006
+96,3,Le Mans,2,0,0,1,0,0,3,H,6,2006-10-21,St Etienne,F1,3,6,3,11,H,2,St Etienne_Le Mans_2006
+97,1,Troyes,3,1,1,1,1,1,4,H,7,2006-10-21,Valenciennes,F1,2,4,1,8,D,2,Valenciennes_Troyes_2006
+98,0,Paris SG,0,0,0,0,0,0,2,D,10,2006-10-22,Auxerre,F1,2,0,4,5,D,3,Auxerre_Paris SG_2006
+99,2,Lyon,1,0,4,0,1,1,1,A,14,2006-10-22,Marseille,F1,8,4,3,6,A,0,Marseille_Lyon_2006
+100,0,Sedan,3,0,1,1,0,1,1,H,10,2006-10-28,Bordeaux,F1,4,9,5,15,D,5,Bordeaux_Sedan_2006
+101,2,Lille,1,0,1,1,0,1,2,D,11,2006-10-28,Le Mans,F1,3,2,4,9,D,3,Le Mans_Lille_2006
+102,2,Auxerre,1,0,0,0,0,0,1,H,12,2006-10-28,Lens,F1,2,4,1,9,D,5,Lens_Auxerre_2006
+103,1,Valenciennes,1,1,0,1,1,0,2,H,5,2006-10-28,Lorient,F1,3,3,0,5,H,1,Lorient_Valenciennes_2006
+104,2,Monaco,1,1,0,1,0,0,3,H,4,2006-10-28,Nantes,F1,1,5,1,9,H,5,Nantes_Monaco_2006
+105,3,Rennes,1,0,0,1,1,0,1,H,6,2006-10-28,Paris SG,F1,2,6,6,12,H,3,Paris SG_Rennes_2006
+106,2,Sochaux,1,0,2,1,0,1,3,A,6,2006-10-28,Toulouse,F1,3,6,6,13,D,4,Toulouse_Sochaux_2006
+107,3,St Etienne,3,1,1,0,0,1,4,H,3,2006-10-28,Troyes,F1,2,4,3,10,A,2,Troyes_St Etienne_2006
+108,0,Nancy,1,0,0,1,0,0,1,H,2,2006-10-29,Lyon,F1,1,1,10,12,H,4,Lyon_Nancy_2006
+109,3,Marseille,2,0,1,1,0,0,1,H,9,2006-10-29,Nice,F1,5,4,4,9,H,5,Nice_Marseille_2006
+110,3,Le Mans,2,0,3,0,1,1,1,A,5,2006-11-04,Auxerre,F1,3,5,6,7,A,4,Auxerre_Le Mans_2006
+111,3,Lorient,0,0,1,0,0,0,1,A,11,2006-11-04,Marseille,F1,6,4,6,9,D,5,Marseille_Lorient_2006
+112,1,Nice,0,0,0,0,0,0,1,D,11,2006-11-04,Monaco,F1,4,4,4,10,D,4,Monaco_Nice_2006
+113,2,Lyon,1,1,0,1,0,0,1,H,11,2006-11-04,Rennes,F1,8,2,5,6,H,3,Rennes_Lyon_2006
+114,2,Nantes,1,0,1,0,0,1,1,D,7,2006-11-04,Sedan,F1,3,5,5,13,A,2,Sedan_Nantes_2006
+115,4,Troyes,1,1,0,0,0,0,2,H,7,2006-11-04,Sochaux,F1,3,4,4,10,D,3,Sochaux_Troyes_2006
+116,0,Toulouse,3,0,0,2,0,0,2,H,13,2006-11-04,St Etienne,F1,5,5,4,14,H,4,St Etienne_Toulouse_2006
+117,1,Lille,0,0,3,0,0,1,2,A,13,2006-11-04,Valenciennes,F1,6,3,8,13,A,5,Valenciennes_Lille_2006
+118,1,Bordeaux,2,0,1,1,0,1,3,H,8,2006-11-05,Nancy,F1,5,5,3,8,D,3,Nancy_Bordeaux_2006
+119,0,Lens,1,0,3,1,0,0,1,A,5,2006-11-05,Paris SG,F1,4,2,14,10,H,1,Paris SG_Lens_2006
+120,0,Valenciennes,2,0,1,0,0,0,4,H,5,2006-11-10,Lyon,F1,1,4,5,12,D,0,Lyon_Valenciennes_2006
+121,0,Auxerre,0,0,0,0,0,0,2,D,11,2006-11-11,Bordeaux,F1,3,1,6,10,D,5,Bordeaux_Auxerre_2006
+122,3,Paris SG,1,0,1,1,0,1,2,D,8,2006-11-11,Le Mans,F1,3,2,0,3,D,5,Le Mans_Paris SG_2006
+123,0,Rennes,0,0,0,0,0,0,2,D,6,2006-11-11,Lens,F1,2,1,2,6,D,4,Lens_Rennes_2006
+124,1,Nancy,2,0,0,0,0,0,0,H,6,2006-11-11,Lorient,F1,4,3,2,8,D,5,Lorient_Nancy_2006
+125,0,St Etienne,2,0,2,1,0,1,2,D,10,2006-11-11,Nantes,F1,5,7,3,12,D,3,Nantes_St Etienne_2006
+126,0,Sochaux,0,0,0,0,0,0,3,D,7,2006-11-11,Nice,F1,3,4,1,7,D,2,Nice_Sochaux_2006
+127,1,Sedan,3,0,1,1,0,0,1,H,8,2006-11-11,Toulouse,F1,5,5,9,8,H,4,Toulouse_Sedan_2006
+128,1,Marseille,1,0,0,1,0,0,1,H,9,2006-11-12,Lille,F1,3,5,3,9,H,3,Lille_Marseille_2006
+129,2,Monaco,0,1,4,0,0,1,4,A,10,2006-11-12,Troyes,F1,5,4,5,12,A,2,Troyes_Monaco_2006
+130,1,Nantes,2,0,0,1,0,0,2,H,2,2006-11-18,Lens,F1,1,4,1,10,H,1,Lens_Nantes_2006
+131,0,Lorient,2,0,2,1,0,1,0,D,15,2006-11-18,Monaco,F1,7,4,5,11,D,6,Monaco_Lorient_2006
+132,1,Troyes,1,0,0,0,0,0,2,H,11,2006-11-18,Nancy,F1,8,3,9,14,D,2,Nancy_Troyes_2006
+133,1,Bordeaux,0,0,2,0,0,1,3,A,3,2006-11-18,Paris SG,F1,2,2,3,7,A,1,Paris SG_Bordeaux_2006
+134,1,Le Mans,1,0,1,0,1,1,3,D,8,2006-11-18,Rennes,F1,4,5,4,11,A,3,Rennes_Le Mans_2006
+135,1,Lyon,0,0,1,0,0,0,2,A,16,2006-11-18,Sedan,F1,7,2,2,3,D,3,Sedan_Lyon_2006
+136,1,Lille,0,0,0,0,0,0,2,D,14,2006-11-18,Sochaux,F1,6,5,4,11,D,6,Sochaux_Lille_2006
+137,2,Nice,2,0,1,2,0,1,1,H,10,2006-11-18,St Etienne,F1,4,5,3,9,H,3,St Etienne_Nice_2006
+138,1,Toulouse,1,0,0,0,0,0,2,H,6,2006-11-19,Auxerre,F1,2,2,7,12,D,4,Auxerre_Toulouse_2006
+139,2,Valenciennes,1,0,0,0,0,0,2,H,13,2006-11-19,Marseille,F1,4,7,9,15,D,5,Marseille_Valenciennes_2006
+140,1,St Etienne,1,0,0,0,0,0,3,H,10,2006-11-25,Bordeaux,F1,5,4,3,9,D,1,Bordeaux_St Etienne_2006
+141,0,Monaco,1,0,1,0,0,1,3,D,9,2006-11-25,Lille,F1,7,6,7,9,A,4,Lille_Monaco_2006
+142,1,Sochaux,1,0,3,1,0,3,2,A,12,2006-11-25,Lorient,F1,5,4,6,10,A,4,Lorient_Sochaux_2006
+143,1,Sedan,2,0,2,0,0,1,3,D,7,2006-11-25,Nice,F1,4,3,3,12,A,7,Nice_Sedan_2006
+144,2,Rennes,1,0,0,0,0,0,1,H,12,2006-11-25,Toulouse,F1,3,4,4,12,D,5,Toulouse_Rennes_2006
+145,3,Marseille,1,1,1,1,0,0,2,D,7,2006-11-25,Troyes,F1,3,6,3,9,H,4,Troyes_Marseille_2006
+146,1,Lens,1,0,1,1,0,1,3,D,6,2006-11-26,Le Mans,F1,3,3,0,8,D,5,Le Mans_Lens_2006
+147,0,Auxerre,1,0,0,1,0,0,0,H,9,2006-11-26,Lyon,F1,3,6,5,18,H,9,Lyon_Auxerre_2006
+148,3,Paris SG,1,0,1,0,0,1,2,D,7,2006-11-26,Nantes,F1,3,2,5,2,A,2,Nantes_Paris SG_2006
+149,1,Nancy,1,0,0,1,0,0,2,H,10,2006-11-26,Valenciennes,F1,6,4,2,8,H,3,Valenciennes_Nancy_2006
+150,1,Nice,0,0,0,0,0,0,2,D,9,2006-12-02,Auxerre,F1,1,6,7,11,D,7,Auxerre_Nice_2006
+151,0,Lyon,0,0,1,0,0,0,2,A,11,2006-12-02,Le Mans,F1,5,2,2,6,D,5,Le Mans_Lyon_2006
+152,2,Bordeaux,3,0,0,1,0,0,3,H,2,2006-12-02,Lens,F1,1,7,4,14,H,0,Lens_Bordeaux_2006
+153,0,Valenciennes,3,0,0,1,0,0,2,H,9,2006-12-02,Monaco,F1,2,8,6,19,H,5,Monaco_Valenciennes_2006
+154,4,Nantes,2,0,0,1,0,0,3,H,8,2006-12-02,Rennes,F1,5,7,6,13,H,4,Rennes_Nantes_2006
+155,1,Troyes,1,0,2,0,1,1,0,A,4,2006-12-02,Sedan,F1,2,3,5,9,A,2,Sedan_Troyes_2006
+156,2,Lorient,2,0,0,0,0,0,2,H,6,2006-12-02,St Etienne,F1,3,4,1,9,D,4,St Etienne_Lorient_2006
+157,1,Lille,1,0,3,0,0,0,4,A,18,2006-12-03,Nancy,F1,10,1,4,9,D,3,Nancy_Lille_2006
+158,0,Marseille,1,0,0,0,0,0,2,H,9,2006-12-03,Sochaux,F1,3,5,2,9,D,9,Sochaux_Marseille_2006
+159,0,Rennes,1,0,2,0,0,1,3,A,5,2006-12-09,Bordeaux,F1,2,5,4,12,A,4,Bordeaux_Rennes_2006
+160,2,Sedan,2,0,0,2,0,0,2,H,9,2006-12-09,Lorient,F1,3,5,6,15,H,6,Lorient_Sedan_2006
+161,2,Monaco,2,1,1,1,0,0,3,H,5,2006-12-09,Marseille,F1,4,4,2,8,H,3,Marseille_Monaco_2006
+162,2,Le Mans,0,0,0,0,0,0,2,D,9,2006-12-09,Nantes,F1,2,2,9,6,D,2,Nantes_Le Mans_2006
+163,3,Nancy,0,0,0,0,0,0,1,D,7,2006-12-09,Nice,F1,1,5,0,10,D,2,Nice_Nancy_2006
+164,1,Lens,0,0,1,0,0,0,1,A,17,2006-12-09,Toulouse,F1,5,1,3,5,D,3,Toulouse_Lens_2006
+165,0,Auxerre,3,0,3,2,0,0,0,D,6,2006-12-09,Troyes,F1,4,8,1,13,H,3,Troyes_Auxerre_2006
+166,2,Sochaux,0,0,0,0,0,0,0,D,6,2006-12-09,Valenciennes,F1,3,3,3,8,D,2,Valenciennes_Sochaux_2006
+167,2,St Etienne,2,0,2,1,0,1,3,D,11,2006-12-10,Lille,F1,4,6,6,13,D,2,Lille_St Etienne_2006
+168,4,Paris SG,3,0,1,1,0,0,3,H,9,2006-12-10,Lyon,F1,6,8,6,21,H,4,Lyon_Paris SG_2006
+169,2,Toulouse,2,0,0,1,0,0,1,H,6,2006-12-16,Le Mans,F1,3,4,8,14,H,2,Le Mans_Toulouse_2006
+170,0,Sochaux,3,0,0,1,0,0,2,H,10,2006-12-16,Monaco,F1,3,8,3,13,H,2,Monaco_Sochaux_2006
+171,3,Marseille,2,0,0,1,0,0,3,H,5,2006-12-16,Nancy,F1,1,8,2,9,H,3,Nancy_Marseille_2006
+172,3,Bordeaux,0,0,0,0,0,0,2,D,5,2006-12-16,Nantes,F1,3,4,9,6,D,5,Nantes_Bordeaux_2006
+173,0,Troyes,1,0,1,0,0,1,3,D,8,2006-12-16,Rennes,F1,5,5,5,11,A,2,Rennes_Troyes_2006
+174,1,Lille,2,0,0,2,0,0,3,H,7,2006-12-16,Sedan,F1,2,4,4,11,H,5,Sedan_Lille_2006
+175,0,Valenciennes,3,0,0,1,0,0,1,H,4,2006-12-16,St Etienne,F1,2,8,3,16,H,2,St Etienne_Valenciennes_2006
+176,1,Lorient,2,0,1,1,0,1,2,H,5,2006-12-17,Auxerre,F1,1,4,4,10,D,3,Auxerre_Lorient_2006
+177,2,Lyon,0,0,4,0,0,2,2,A,11,2006-12-17,Lens,F1,6,1,5,4,A,0,Lens_Lyon_2006
+178,2,Nice,0,0,0,0,0,0,4,D,8,2006-12-17,Paris SG,F1,4,7,7,14,D,2,Paris SG_Nice_2006
+179,2,St Etienne,2,0,1,1,0,1,0,H,17,2006-12-22,Marseille,F1,5,7,6,21,D,8,Marseille_St Etienne_2006
+180,3,Le Mans,1,0,0,0,0,0,4,H,9,2006-12-23,Bordeaux,F1,5,5,4,9,D,3,Bordeaux_Le Mans_2006
+181,1,Auxerre,1,0,1,0,0,0,2,D,8,2006-12-23,Lille,F1,3,4,5,11,D,5,Lille_Auxerre_2006
+182,0,Rennes,0,0,0,0,0,0,1,D,7,2006-12-23,Lorient,F1,4,2,8,6,D,6,Lorient_Rennes_2006
+183,3,Monaco,0,0,0,0,0,0,4,D,3,2006-12-23,Lyon,F1,0,6,5,17,D,5,Lyon_Monaco_2006
+184,2,Lens,1,1,2,1,1,0,4,A,7,2006-12-23,Nice,F1,4,5,5,10,H,3,Nice_Lens_2006
+185,2,Nancy,2,1,1,0,0,1,5,H,9,2006-12-23,Sochaux,F1,3,6,5,11,A,2,Sochaux_Nancy_2006
+186,1,Nantes,0,0,4,0,0,0,2,A,10,2006-12-23,Toulouse,F1,7,6,4,11,D,4,Toulouse_Nantes_2006
+187,1,Paris SG,1,0,1,0,0,0,4,D,10,2006-12-23,Troyes,F1,9,5,2,11,D,5,Troyes_Paris SG_2006
+188,0,Sedan,2,0,1,2,0,0,0,H,13,2006-12-23,Valenciennes,F1,9,9,2,9,H,4,Valenciennes_Sedan_2006
+189,1,Sochaux,1,0,0,0,0,0,1,H,6,2007-01-13,Auxerre,F1,1,3,6,10,D,3,Auxerre_Sochaux_2006
+190,3,Lorient,1,0,1,0,0,1,3,D,7,2007-01-13,Bordeaux,F1,5,6,4,11,A,4,Bordeaux_Lorient_2006
+191,0,Troyes,2,0,0,1,0,0,0,H,6,2007-01-13,Le Mans,F1,1,7,4,10,H,2,Le Mans_Troyes_2006
+192,1,Lille,1,0,1,0,0,0,3,D,10,2007-01-13,Lens,F1,1,2,7,6,D,0,Lens_Lille_2006
+193,0,Nice,1,0,0,0,0,0,1,H,5,2007-01-13,Nantes,F1,2,3,5,12,D,3,Nantes_Nice_2006
+194,4,Valenciennes,1,1,2,0,0,0,3,A,9,2007-01-13,Paris SG,F1,6,4,2,10,D,3,Paris SG_Valenciennes_2006
+195,2,Nancy,2,0,2,2,0,1,2,D,12,2007-01-13,Sedan,F1,9,6,6,11,H,13,Sedan_Nancy_2006
+196,2,Lyon,2,0,0,0,0,0,0,H,12,2007-01-13,Toulouse,F1,5,3,4,6,D,5,Toulouse_Lyon_2006
+197,1,Marseille,0,0,2,0,1,0,1,A,17,2007-01-14,Rennes,F1,5,2,3,15,D,5,Rennes_Marseille_2006
+198,1,Monaco,0,0,1,0,0,0,2,A,11,2007-01-14,St Etienne,F1,4,5,5,15,D,4,St Etienne_Monaco_2006
+199,1,Toulouse,0,0,0,0,0,0,2,D,2,2007-01-17,Paris SG,F1,1,2,10,7,D,3,Paris SG_Toulouse_2006
+200,2,Paris SG,1,0,0,0,0,0,1,H,7,2007-01-24,Lille,F1,3,3,5,8,D,4,Lille_Paris SG_2006
+201,1,Lens,1,1,0,0,0,0,0,H,6,2007-01-24,Lorient,F1,2,3,3,13,D,4,Lorient_Lens_2006
+202,4,Bordeaux,1,0,2,0,0,2,2,A,5,2007-01-24,Lyon,F1,4,10,7,19,A,1,Lyon_Bordeaux_2006
+203,2,Auxerre,3,0,1,2,0,1,0,H,7,2007-01-24,Marseille,F1,3,3,4,6,H,2,Marseille_Auxerre_2006
+204,0,Rennes,0,0,2,0,0,0,1,A,4,2007-01-24,Monaco,F1,3,6,6,11,D,0,Monaco_Rennes_2006
+205,2,Toulouse,0,0,1,0,0,1,3,A,9,2007-01-24,Nice,F1,6,3,9,7,A,3,Nice_Toulouse_2006
+206,0,Sedan,1,0,1,0,0,1,0,D,7,2007-01-24,Sochaux,F1,4,6,4,14,A,1,Sochaux_Sedan_2006
+207,3,Nantes,1,1,0,0,1,0,3,H,7,2007-01-24,Troyes,F1,1,9,3,15,D,6,Troyes_Nantes_2006
+208,1,Le Mans,1,0,1,1,0,0,3,D,8,2007-01-24,Valenciennes,F1,3,2,5,8,H,1,Valenciennes_Le Mans_2006
+209,1,St Etienne,0,0,2,0,0,0,1,A,6,2007-01-25,Nancy,F1,3,2,3,7,D,1,Nancy_St Etienne_2006
+210,0,Lille,0,0,1,0,0,0,3,A,8,2007-01-27,Bordeaux,F1,3,2,7,8,D,3,Bordeaux_Lille_2006
+211,1,Marseille,2,0,0,1,0,0,3,H,9,2007-01-27,Le Mans,F1,7,12,5,20,H,0,Le Mans_Marseille_2006
+212,1,Nice,1,0,1,1,0,1,1,D,4,2007-01-27,Lyon,F1,2,6,2,13,D,2,Lyon_Nice_2006
+213,2,Lorient,0,0,2,0,0,1,1,A,9,2007-01-27,Nantes,F1,5,9,5,14,A,5,Nantes_Lorient_2006
+214,2,Sochaux,0,0,0,0,0,0,1,D,10,2007-01-27,Paris SG,F1,4,6,6,15,D,5,Paris SG_Sochaux_2006
+215,4,Valenciennes,1,0,0,1,0,0,5,H,5,2007-01-27,Rennes,F1,3,5,5,6,H,2,Rennes_Valenciennes_2006
+216,1,Monaco,0,0,1,0,0,1,3,A,7,2007-01-27,Sedan,F1,2,5,4,12,A,3,Sedan_Monaco_2006
+217,1,Troyes,1,0,1,1,0,1,2,D,6,2007-01-27,Toulouse,F1,3,6,4,12,D,2,Toulouse_Troyes_2006
+218,3,Nancy,2,0,0,2,0,0,2,H,6,2007-01-28,Auxerre,F1,4,3,1,4,H,2,Auxerre_Nancy_2006
+219,1,St Etienne,3,0,3,0,0,3,1,D,9,2007-01-28,Lens,F1,3,8,7,26,A,1,Lens_St Etienne_2006
+220,2,Nantes,0,0,0,0,0,0,3,D,7,2007-02-03,Lille,F1,2,4,5,15,D,2,Lille_Nantes_2006
+221,2,Le Mans,2,0,1,0,0,1,2,H,9,2007-02-03,Lorient,F1,4,3,2,5,A,3,Lorient_Le Mans_2006
+222,2,Auxerre,2,0,1,1,0,0,2,H,8,2007-02-03,Monaco,F1,4,3,2,9,H,6,Monaco_Auxerre_2006
+223,2,Toulouse,2,1,1,1,0,0,4,H,4,2007-02-03,Nancy,F1,1,8,7,12,H,1,Nancy_Toulouse_2006
+224,0,Bordeaux,2,0,1,2,0,1,2,H,5,2007-02-03,Nice,F1,3,3,3,4,H,2,Nice_Bordeaux_2006
+225,0,Rennes,0,0,0,0,0,0,0,D,5,2007-02-03,Sochaux,F1,3,2,9,7,D,3,Sochaux_Rennes_2006
+226,1,Sedan,1,0,2,1,0,0,0,A,20,2007-02-03,St Etienne,F1,12,8,4,13,H,9,St Etienne_Sedan_2006
+227,4,Lens,1,0,3,0,0,2,2,A,9,2007-02-03,Valenciennes,F1,3,6,6,12,A,3,Valenciennes_Lens_2006
+228,2,Paris SG,1,0,1,0,0,0,2,D,5,2007-02-04,Marseille,F1,2,8,4,15,D,4,Marseille_Paris SG_2006
+229,3,Lyon,1,0,0,0,0,0,3,H,14,2007-02-04,Troyes,F1,9,5,3,9,D,4,Troyes_Lyon_2006
+230,1,St Etienne,1,0,1,1,0,0,1,D,6,2007-02-10,Auxerre,F1,2,6,2,14,H,1,Auxerre_St Etienne_2006
+231,3,Sedan,3,1,2,1,0,1,3,H,8,2007-02-10,Le Mans,F1,5,8,5,17,D,4,Le Mans_Sedan_2006
+232,2,Lorient,1,0,0,1,0,0,2,H,8,2007-02-10,Lyon,F1,3,3,5,10,H,4,Lyon_Lorient_2006
+233,1,Valenciennes,2,0,5,0,1,1,4,A,11,2007-02-10,Nantes,F1,8,11,7,15,A,1,Nantes_Valenciennes_2006
+234,0,Troyes,3,0,0,1,0,0,3,H,5,2007-02-10,Nice,F1,2,9,4,16,H,5,Nice_Troyes_2006
+235,2,Monaco,4,0,2,2,0,0,2,H,18,2007-02-10,Paris SG,F1,6,6,5,11,H,6,Paris SG_Monaco_2006
+236,2,Nancy,1,0,1,0,0,0,2,D,7,2007-02-10,Rennes,F1,3,3,7,8,D,4,Rennes_Nancy_2006
+237,1,Lille,1,0,0,0,0,0,0,H,11,2007-02-10,Toulouse,F1,5,3,6,9,D,7,Toulouse_Lille_2006
+238,1,Marseille,1,0,0,0,0,0,3,H,10,2007-02-11,Bordeaux,F1,4,3,7,6,D,3,Bordeaux_Marseille_2006
+239,1,Sochaux,3,0,1,2,0,0,1,H,9,2007-02-11,Lens,F1,3,7,4,11,H,6,Lens_Sochaux_2006
+240,1,Lyon,1,0,2,0,0,0,2,A,4,2007-02-16,Lille,F1,3,2,3,5,D,3,Lille_Lyon_2006
+241,0,Toulouse,0,0,1,0,0,0,2,A,11,2007-02-17,Lorient,F1,5,5,5,11,D,3,Lorient_Toulouse_2006
+242,2,Paris SG,0,0,3,0,1,0,1,A,6,2007-02-17,Nancy,F1,4,5,7,11,D,1,Nancy_Paris SG_2006
+243,0,Auxerre,2,0,2,2,0,1,1,D,10,2007-02-17,Sedan,F1,4,4,4,9,H,3,Sedan_Auxerre_2006
+244,1,Le Mans,2,0,0,1,0,0,1,H,10,2007-02-17,Sochaux,F1,4,6,7,16,H,4,Sochaux_Le Mans_2006
+245,1,Rennes,1,0,3,1,0,1,0,A,12,2007-02-17,St Etienne,F1,4,5,4,13,D,2,St Etienne_Rennes_2006
+246,3,Bordeaux,1,0,0,0,0,0,4,H,8,2007-02-17,Troyes,F1,6,2,1,6,D,3,Troyes_Bordeaux_2006
+247,4,Nice,0,0,1,0,0,1,2,A,6,2007-02-17,Valenciennes,F1,2,2,5,6,A,1,Valenciennes_Nice_2006
+248,0,Nantes,0,0,0,0,0,0,2,D,5,2007-02-18,Marseille,F1,1,9,7,14,D,3,Marseille_Nantes_2006
+249,2,Lens,0,0,0,0,0,0,2,D,10,2007-02-18,Monaco,F1,5,4,5,10,D,4,Monaco_Lens_2006
+250,0,Monaco,0,0,2,0,0,1,2,A,4,2007-02-24,Le Mans,F1,2,3,4,10,A,4,Le Mans_Monaco_2006
+251,4,Sochaux,3,0,3,1,0,2,4,D,7,2007-02-24,Lyon,F1,4,7,4,11,A,2,Lyon_Sochaux_2006
+252,2,Auxerre,1,0,1,0,0,1,2,D,11,2007-02-24,Nantes,F1,6,5,2,9,A,4,Nantes_Auxerre_2006
+253,2,Lille,2,1,1,1,1,0,1,H,10,2007-02-24,Nice,F1,4,5,1,9,H,12,Nice_Lille_2006
+254,1,Sedan,0,0,2,0,0,1,3,A,5,2007-02-24,Rennes,F1,4,9,7,19,A,4,Rennes_Sedan_2006
+255,2,Marseille,3,0,0,1,0,0,0,H,8,2007-02-24,Toulouse,F1,4,3,3,6,H,10,Toulouse_Marseille_2006
+256,1,Lorient,3,0,0,2,0,0,1,H,9,2007-02-24,Troyes,F1,4,7,5,13,H,1,Troyes_Lorient_2006
+257,2,Valenciennes,2,0,1,2,0,0,2,H,8,2007-02-25,Bordeaux,F1,4,8,8,10,H,5,Bordeaux_Valenciennes_2006
+258,1,Nancy,2,0,2,2,0,1,4,D,7,2007-02-25,Lens,F1,2,3,1,9,H,3,Lens_Nancy_2006
+259,0,St Etienne,0,0,2,0,0,2,0,A,11,2007-02-25,Paris SG,F1,6,2,8,10,A,3,Paris SG_St Etienne_2006
+260,0,Rennes,1,0,0,0,0,0,2,H,7,2007-03-03,Auxerre,F1,3,6,6,8,D,3,Auxerre_Rennes_2006
+261,0,Troyes,4,0,0,3,0,0,2,H,3,2007-03-03,Lille,F1,1,7,3,11,H,4,Lille_Troyes_2006
+262,1,Nice,0,0,0,0,0,0,0,D,4,2007-03-03,Lorient,F1,1,3,7,8,D,2,Lorient_Nice_2006
+263,0,Bordeaux,0,0,0,0,0,0,1,D,8,2007-03-03,Monaco,F1,3,2,4,4,D,1,Monaco_Bordeaux_2006
+264,2,Le Mans,1,0,1,1,0,0,3,D,12,2007-03-03,Nancy,F1,5,4,8,6,H,2,Nancy_Le Mans_2006
+265,2,Paris SG,2,0,0,1,0,0,2,H,8,2007-03-03,Sedan,F1,3,5,5,10,H,6,Sedan_Paris SG_2006
+266,0,Lyon,1,0,3,0,0,2,4,A,10,2007-03-03,St Etienne,F1,4,2,2,9,A,1,St Etienne_Lyon_2006
+267,0,Toulouse,0,1,0,0,0,0,1,D,7,2007-03-03,Valenciennes,F1,2,4,6,13,D,5,Valenciennes_Toulouse_2006
+268,3,Lens,0,0,1,0,0,0,0,A,5,2007-03-04,Marseille,F1,1,5,5,20,D,3,Marseille_Lens_2006
+269,1,Nantes,1,0,2,1,0,1,3,A,5,2007-03-04,Sochaux,F1,3,5,4,20,D,3,Sochaux_Nantes_2006
+270,3,Sochaux,2,0,0,1,0,0,1,H,7,2007-03-10,Bordeaux,F1,2,4,6,8,H,6,Bordeaux_Sochaux_2006
+271,1,St Etienne,2,0,1,1,0,0,0,H,9,2007-03-10,Le Mans,F1,5,2,2,3,H,6,Le Mans_St Etienne_2006
+272,1,Lille,0,0,0,0,0,0,1,D,7,2007-03-10,Lorient,F1,3,3,2,8,D,3,Lorient_Lille_2006
+273,1,Nancy,2,0,1,1,0,1,3,H,12,2007-03-10,Nantes,F1,4,6,6,14,D,4,Nantes_Nancy_2006
+274,1,Rennes,1,0,1,0,0,1,1,D,11,2007-03-10,Nice,F1,6,4,2,12,A,3,Nice_Rennes_2006
+275,1,Monaco,1,0,1,1,0,0,2,D,9,2007-03-10,Toulouse,F1,2,2,4,8,H,6,Toulouse_Monaco_2006
+276,2,Valenciennes,1,0,3,0,0,1,3,A,13,2007-03-10,Troyes,F1,4,4,5,11,A,6,Troyes_Valenciennes_2006
+277,0,Sedan,1,0,1,1,0,1,4,D,5,2007-03-11,Lens,F1,3,8,5,23,D,0,Lens_Sedan_2006
+278,0,Marseille,1,0,1,1,0,0,2,D,11,2007-03-11,Lyon,F1,5,7,5,15,H,6,Lyon_Marseille_2006
+279,2,Auxerre,0,0,1,0,0,1,1,A,14,2007-03-11,Paris SG,F1,7,1,6,11,A,7,Paris SG_Auxerre_2006
+280,2,Le Mans,0,0,2,0,0,0,3,A,10,2007-03-17,Lille,F1,4,4,5,12,D,5,Lille_Le Mans_2006
+281,1,Nice,3,0,0,3,0,0,3,H,6,2007-03-17,Marseille,F1,0,4,2,9,H,1,Marseille_Nice_2006
+282,4,Nantes,2,0,1,2,0,1,2,H,10,2007-03-17,Monaco,F1,4,2,4,13,H,3,Monaco_Nantes_2006
+283,2,Lyon,0,0,3,0,0,1,3,A,7,2007-03-17,Nancy,F1,4,2,6,4,A,2,Nancy_Lyon_2006
+284,0,Bordeaux,1,0,1,0,0,1,1,D,4,2007-03-17,Sedan,F1,1,4,5,12,A,0,Sedan_Bordeaux_2006
+285,0,Toulouse,4,0,2,2,0,0,0,H,6,2007-03-17,Sochaux,F1,2,6,3,12,H,2,Sochaux_Toulouse_2006
+286,2,Troyes,3,0,1,2,0,1,2,H,6,2007-03-17,St Etienne,F1,4,7,3,13,H,3,St Etienne_Troyes_2006
+287,0,Lorient,0,0,0,0,0,0,0,D,3,2007-03-17,Valenciennes,F1,1,3,6,8,D,0,Valenciennes_Lorient_2006
+288,2,Lens,1,0,0,1,0,0,1,H,6,2007-03-18,Auxerre,F1,3,2,2,7,H,5,Auxerre_Lens_2006
+289,1,Paris SG,1,1,0,0,0,0,3,H,11,2007-03-18,Rennes,F1,7,7,5,14,D,1,Rennes_Paris SG_2006
+290,0,Marseille,2,0,1,0,0,0,2,H,18,2007-03-31,Lorient,F1,5,4,3,15,D,2,Lorient_Marseille_2006
+291,1,Auxerre,2,0,2,0,0,0,1,D,11,2007-04-01,Le Mans,F1,5,5,3,7,D,5,Le Mans_Auxerre_2006
+292,1,Paris SG,1,0,2,0,0,1,1,A,6,2007-04-01,Lens,F1,3,5,5,12,A,2,Lens_Paris SG_2006
+293,3,Valenciennes,0,0,2,0,0,0,1,A,9,2007-04-01,Lille,F1,3,4,8,9,D,1,Lille_Valenciennes_2006
+294,1,Sedan,0,0,1,0,0,0,0,A,7,2007-04-01,Nantes,F1,4,4,7,10,D,4,Nantes_Sedan_2006
+295,3,Monaco,1,0,1,1,1,0,4,D,5,2007-04-01,Nice,F1,3,4,0,7,H,4,Nice_Monaco_2006
+296,1,St Etienne,1,0,0,0,0,0,2,H,5,2007-04-01,Toulouse,F1,3,4,2,8,D,3,Toulouse_St Etienne_2006
+297,3,Sochaux,0,1,1,0,1,1,3,A,4,2007-04-01,Troyes,F1,1,3,7,8,A,3,Troyes_Sochaux_2006
+298,3,Bordeaux,0,0,0,0,1,0,3,D,13,2007-04-07,Auxerre,F1,4,6,3,10,D,9,Auxerre_Bordeaux_2006
+299,1,Troyes,0,0,0,0,0,0,1,D,6,2007-04-07,Monaco,F1,4,2,7,8,D,5,Monaco_Troyes_2006
+300,1,Lorient,0,0,1,0,1,0,3,A,11,2007-04-07,Nancy,F1,5,2,3,6,D,6,Nancy_Lorient_2006
+301,0,Le Mans,2,0,1,0,0,1,2,H,10,2007-04-07,Paris SG,F1,3,2,5,6,A,7,Paris SG_Le Mans_2006
+302,0,Lens,1,0,0,1,0,0,2,H,10,2007-04-07,Rennes,F1,4,1,2,8,H,4,Rennes_Lens_2006
+303,0,Nice,1,0,1,0,0,0,1,D,3,2007-04-07,Sochaux,F1,2,4,7,9,D,1,Sochaux_Nice_2006
+304,0,Nantes,2,0,1,2,0,1,2,H,10,2007-04-07,St Etienne,F1,3,2,5,6,H,7,St Etienne_Nantes_2006
+305,3,Lyon,0,0,0,0,0,0,2,D,11,2007-04-07,Valenciennes,F1,5,2,3,6,D,6,Valenciennes_Lyon_2006
+306,3,Lille,4,1,1,2,0,1,2,H,10,2007-04-08,Marseille,F1,2,6,9,13,H,3,Marseille_Lille_2006
+307,0,Toulouse,0,0,2,0,0,0,1,A,10,2007-04-08,Sedan,F1,5,1,3,8,D,0,Sedan_Toulouse_2006
+308,0,Paris SG,0,0,0,0,0,0,0,D,11,2007-04-14,Bordeaux,F1,2,2,3,12,D,4,Bordeaux_Paris SG_2006
+309,2,Rennes,0,0,0,0,0,0,3,D,10,2007-04-14,Le Mans,F1,4,4,4,14,D,4,Le Mans_Rennes_2006
+310,2,Sochaux,2,0,0,0,0,0,1,H,5,2007-04-14,Lille,F1,2,4,3,10,D,5,Lille_Sochaux_2006
+311,1,Monaco,0,0,0,0,0,0,2,D,6,2007-04-14,Lorient,F1,0,5,4,10,D,1,Lorient_Monaco_2006
+312,1,Lens,0,0,0,0,0,0,3,D,4,2007-04-14,Nantes,F1,1,2,5,8,D,5,Nantes_Lens_2006
+313,1,Auxerre,2,0,0,2,0,0,1,H,10,2007-04-14,Toulouse,F1,5,6,3,9,H,7,Toulouse_Auxerre_2006
+314,1,Nancy,0,0,0,0,0,0,1,D,4,2007-04-14,Troyes,F1,3,0,4,4,D,3,Troyes_Nancy_2006
+315,2,Marseille,0,0,0,0,0,0,2,D,9,2007-04-14,Valenciennes,F1,3,5,5,7,D,3,Valenciennes_Marseille_2006
+316,2,Sedan,1,0,0,1,0,0,1,H,7,2007-04-15,Lyon,F1,5,8,3,17,H,1,Lyon_Sedan_2006
+317,2,St Etienne,2,0,1,0,0,0,3,H,12,2007-04-15,Nice,F1,5,3,1,10,D,1,Nice_St Etienne_2006
+318,0,Nancy,3,0,0,2,0,0,2,H,9,2007-04-18,Bordeaux,F1,2,4,4,13,H,2,Bordeaux_Nancy_2006
+319,1,Rennes,0,0,0,0,0,0,1,D,1,2007-04-18,Lyon,F1,0,1,2,8,D,1,Lyon_Rennes_2006
+320,2,Le Mans,2,0,0,0,0,0,3,H,8,2007-04-21,Lens,F1,7,11,13,15,D,7,Lens_Le Mans_2006
+321,1,Troyes,2,0,1,0,0,0,0,H,7,2007-04-21,Marseille,F1,5,4,3,16,D,2,Marseille_Troyes_2006
+322,2,Lille,3,1,1,1,0,0,2,H,8,2007-04-21,Monaco,F1,5,5,2,10,H,2,Monaco_Lille_2006
+323,1,Valenciennes,1,0,0,1,0,0,4,H,4,2007-04-21,Nancy,F1,1,6,8,10,H,0,Nancy_Valenciennes_2006
+324,2,Nantes,4,0,0,2,0,0,3,H,9,2007-04-21,Paris SG,F1,3,7,1,13,H,8,Paris SG_Nantes_2006
+325,0,Toulouse,3,0,2,0,0,1,2,H,8,2007-04-21,Rennes,F1,3,7,5,19,A,5,Rennes_Toulouse_2006
+326,3,Nice,1,0,1,0,0,0,1,D,14,2007-04-21,Sedan,F1,9,11,8,14,D,4,Sedan_Nice_2006
+327,1,Lorient,1,0,1,0,0,0,1,D,15,2007-04-21,Sochaux,F1,3,6,7,16,D,5,Sochaux_Lorient_2006
+328,2,Lyon,0,0,0,0,0,0,3,D,15,2007-04-22,Auxerre,F1,7,1,1,4,D,3,Auxerre_Lyon_2006
+329,3,Bordeaux,0,0,2,0,0,0,1,A,6,2007-04-22,St Etienne,F1,2,6,2,11,D,1,St Etienne_Bordeaux_2006
+330,3,Nancy,0,0,1,0,0,0,0,A,8,2007-04-28,Lille,F1,4,4,3,11,D,6,Lille_Nancy_2006
+331,0,St Etienne,0,0,0,0,0,0,1,D,9,2007-04-28,Lorient,F1,3,2,3,6,D,1,Lorient_St Etienne_2006
+332,1,Le Mans,2,0,1,1,0,0,2,H,4,2007-04-28,Lyon,F1,2,9,1,13,H,1,Lyon_Le Mans_2006
+333,2,Rennes,0,0,2,0,0,0,0,A,10,2007-04-28,Nantes,F1,7,3,4,10,D,3,Nantes_Rennes_2006
+334,1,Auxerre,0,0,0,0,0,0,2,D,8,2007-04-28,Nice,F1,6,3,4,6,D,3,Nice_Auxerre_2006
+335,1,Paris SG,1,1,3,1,0,2,4,A,8,2007-04-28,Toulouse,F1,5,7,3,11,A,3,Toulouse_Paris SG_2006
+336,1,Sedan,3,1,2,1,0,0,4,H,7,2007-04-28,Troyes,F1,5,10,8,20,H,3,Troyes_Sedan_2006
+337,0,Monaco,2,0,2,0,0,0,2,D,16,2007-04-28,Valenciennes,F1,6,9,6,24,D,4,Valenciennes_Monaco_2006
+338,4,Lens,1,0,0,1,1,0,2,H,7,2007-04-29,Bordeaux,F1,0,1,3,5,H,5,Bordeaux_Lens_2006
+339,2,Sochaux,4,0,2,1,0,1,1,H,7,2007-04-29,Marseille,F1,3,7,1,10,D,3,Marseille_Sochaux_2006
+340,0,Troyes,1,1,0,0,0,0,2,H,9,2007-05-05,Auxerre,F1,3,8,6,11,D,3,Auxerre_Troyes_2006
+341,1,Nantes,1,0,1,1,0,0,1,D,8,2007-05-05,Le Mans,F1,3,7,5,14,H,4,Le Mans_Nantes_2006
+342,0,Toulouse,2,0,0,0,0,0,3,H,9,2007-05-05,Lens,F1,4,12,12,17,D,1,Lens_Toulouse_2006
+343,2,Nice,3,0,0,3,0,0,2,H,11,2007-05-05,Nancy,F1,7,7,3,12,H,9,Nancy_Nice_2006
+344,0,Lyon,1,0,1,0,0,0,1,D,16,2007-05-05,Paris SG,F1,7,3,4,9,D,8,Paris SG_Lyon_2006
+345,2,Bordeaux,0,0,0,0,0,0,2,D,18,2007-05-05,Rennes,F1,6,3,7,12,D,4,Rennes_Bordeaux_2006
+346,1,Lorient,3,0,1,1,0,1,0,H,6,2007-05-05,Sedan,F1,3,2,3,6,D,2,Sedan_Lorient_2006
+347,1,Valenciennes,1,0,0,0,0,0,1,H,6,2007-05-05,Sochaux,F1,3,6,11,16,D,8,Sochaux_Valenciennes_2006
+348,3,Marseille,1,0,2,1,0,1,2,A,7,2007-05-06,Monaco,F1,1,2,1,6,D,5,Monaco_Marseille_2006
+349,0,Lille,2,0,1,1,0,0,1,H,8,2007-05-06,St Etienne,F1,2,5,1,8,H,4,St Etienne_Lille_2006
+350,1,Nantes,0,0,1,0,0,0,2,A,7,2007-05-09,Bordeaux,F1,3,5,8,14,D,4,Bordeaux_Nantes_2006
+351,0,Sedan,2,0,1,2,0,1,2,H,4,2007-05-09,Lille,F1,2,9,8,19,H,4,Lille_Sedan_2006
+352,0,Auxerre,2,0,1,1,0,1,2,H,4,2007-05-09,Lorient,F1,1,5,1,7,D,2,Lorient_Auxerre_2006
+353,1,Lens,3,0,0,3,0,0,1,H,1,2007-05-09,Lyon,F1,1,7,4,13,H,5,Lyon_Lens_2006
+354,1,Nancy,2,1,1,0,0,0,3,H,11,2007-05-09,Marseille,F1,4,12,6,28,D,3,Marseille_Nancy_2006
+355,2,Paris SG,1,0,0,1,0,0,2,H,9,2007-05-09,Nice,F1,1,4,2,11,H,6,Nice_Paris SG_2006
+356,2,Monaco,2,1,1,1,0,1,0,H,10,2007-05-09,Sochaux,F1,3,6,10,21,D,5,Sochaux_Monaco_2006
+357,0,Rennes,2,0,2,2,1,2,1,D,11,2007-05-09,Troyes,F1,5,6,5,12,D,4,Troyes_Rennes_2006
+358,3,St Etienne,1,0,0,0,0,0,2,H,13,2007-05-09,Valenciennes,F1,2,6,5,11,D,2,Valenciennes_St Etienne_2006
+359,2,Le Mans,0,0,1,0,0,0,1,A,7,2007-05-10,Toulouse,F1,4,3,2,7,D,5,Toulouse_Le Mans_2006
+360,0,Lille,2,0,1,1,0,1,0,H,12,2007-05-19,Auxerre,F1,8,2,6,7,D,4,Auxerre_Lille_2006
+361,2,Bordeaux,1,0,1,0,0,0,0,D,12,2007-05-19,Le Mans,F1,5,4,6,12,D,5,Le Mans_Bordeaux_2006
+362,2,Nice,0,0,0,0,0,0,3,D,6,2007-05-19,Lens,F1,4,1,5,9,D,2,Lens_Nice_2006
+363,3,Lyon,1,0,0,0,0,0,1,H,15,2007-05-19,Monaco,F1,5,5,7,10,D,8,Monaco_Lyon_2006
+364,0,Sochaux,5,0,2,2,0,1,2,H,8,2007-05-19,Nancy,F1,2,4,3,8,H,3,Nancy_Sochaux_2006
+365,1,Toulouse,0,1,0,0,0,0,1,D,3,2007-05-19,Nantes,F1,1,2,2,9,D,2,Nantes_Toulouse_2006
+366,2,Troyes,2,0,1,0,0,1,2,H,11,2007-05-19,Paris SG,F1,6,8,6,12,A,3,Paris SG_Troyes_2006
+367,2,Lorient,4,0,1,1,0,1,1,H,8,2007-05-19,Rennes,F1,7,6,5,10,D,1,Rennes_Lorient_2006
+368,0,Valenciennes,1,0,1,0,0,0,0,D,5,2007-05-19,Sedan,F1,2,3,4,8,D,3,Sedan_Valenciennes_2006
+369,1,Marseille,1,0,2,0,0,0,1,A,9,2007-05-19,St Etienne,F1,3,4,6,11,D,2,St Etienne_Marseille_2006
+370,2,Rennes,1,0,1,0,0,0,2,D,6,2007-05-26,Lille,F1,2,2,3,8,D,3,Lille_Rennes_2006
+371,0,Paris SG,0,0,1,0,0,0,1,A,16,2007-05-26,Lorient,F1,7,2,4,8,D,10,Lorient_Paris SG_2006
+372,0,Nantes,3,0,1,1,0,0,0,H,7,2007-05-26,Lyon,F1,4,9,8,17,H,1,Lyon_Nantes_2006
+373,0,Sedan,1,1,0,0,1,0,0,H,10,2007-05-26,Marseille,F1,2,5,5,17,D,5,Marseille_Sedan_2006
+374,1,Nancy,2,0,0,1,0,0,0,H,10,2007-05-26,Monaco,F1,1,4,1,5,H,7,Monaco_Nancy_2006
+375,3,Le Mans,3,0,3,2,0,1,2,D,15,2007-05-26,Nice,F1,6,6,5,15,H,0,Nice_Le Mans_2006
+376,0,St Etienne,1,0,0,1,0,0,0,H,11,2007-05-26,Sochaux,F1,5,5,2,13,H,4,Sochaux_St Etienne_2006
+377,2,Bordeaux,3,0,1,1,0,1,3,H,6,2007-05-26,Toulouse,F1,3,6,3,11,D,2,Toulouse_Bordeaux_2006
+378,1,Lens,3,1,0,1,0,0,3,H,13,2007-05-26,Troyes,F1,8,9,4,11,H,8,Troyes_Lens_2006
+379,1,Auxerre,1,0,3,0,0,2,3,A,5,2007-05-26,Valenciennes,F1,3,7,3,14,A,2,Valenciennes_Auxerre_2006

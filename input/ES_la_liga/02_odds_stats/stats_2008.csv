@@ -1,0 +1,381 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,3,Valladolid,18,1,0,0,0,0,0,5,17,H,11,2008-08-30,Espanol,SP1,1,2,1,10,D,9,Espanol_Valladolid_2008
+1,4,Mallorca,17,3,0,0,2,0,0,0,14,H,16,2008-08-30,Valencia,SP1,2,6,5,17,H,6,Valencia_Mallorca_2008
+2,2,Almeria,35,1,0,3,0,0,2,4,20,A,11,2008-08-31,Ath Bilbao,SP1,5,4,2,10,A,6,Ath Bilbao_Almeria_2008
+3,1,Malaga,16,4,0,0,3,0,0,2,13,H,7,2008-08-31,Ath Madrid,SP1,2,9,11,25,H,7,Ath Madrid_Malaga_2008
+4,3,Recreativo,17,0,0,1,0,0,1,1,18,A,13,2008-08-31,Betis,SP1,6,2,2,8,A,2,Betis_Recreativo_2008
+5,4,Real Madrid,18,2,0,1,1,0,0,3,17,H,18,2008-08-31,La Coruna,SP1,4,3,6,11,H,5,La Coruna_Real Madrid_2008
+6,0,Barcelona,16,1,0,0,1,0,0,2,8,H,25,2008-08-31,Numancia,SP1,5,2,2,5,H,7,Numancia_Barcelona_2008
+7,2,Villarreal,18,1,1,1,0,1,0,1,10,D,12,2008-08-31,Osasuna,SP1,3,1,10,10,D,2,Osasuna_Villarreal_2008
+8,2,Sevilla,20,1,0,1,0,0,0,0,11,D,13,2008-08-31,Santander,SP1,4,2,4,7,D,6,Santander_Sevilla_2008
+9,4,Getafe,16,1,0,2,1,0,1,2,15,A,16,2008-08-31,Sp Gijon,SP1,9,2,2,13,D,7,Sp Gijon_Getafe_2008
+10,1,Santander,9,1,0,1,0,0,0,7,20,D,2,2008-09-13,Barcelona,SP1,1,7,9,18,D,1,Barcelona_Santander_2008
+11,2,Ath Madrid,19,2,0,1,2,1,0,2,15,H,19,2008-09-13,Valladolid,SP1,8,4,9,9,H,5,Valladolid_Ath Madrid_2008
+12,2,Valencia,17,2,0,2,2,0,1,2,20,D,11,2008-09-14,Almeria,SP1,3,3,2,12,H,3,Almeria_Valencia_2008
+13,2,Betis,17,0,0,0,0,0,0,5,19,D,16,2008-09-14,Getafe,SP1,4,7,7,26,D,6,Getafe_Betis_2008
+14,2,Ath Bilbao,21,0,0,0,0,0,0,1,20,D,11,2008-09-14,Malaga,SP1,4,2,6,11,D,4,Malaga_Ath Bilbao_2008
+15,3,Osasuna,19,1,0,1,1,1,0,1,14,D,14,2008-09-14,Mallorca,SP1,7,3,3,11,H,4,Mallorca_Osasuna_2008
+16,0,Numancia,17,4,0,3,4,0,2,1,14,H,12,2008-09-14,Real Madrid,SP1,4,10,6,19,H,3,Real Madrid_Numancia_2008
+17,3,Espanol,20,0,0,1,0,0,0,3,16,A,4,2008-09-14,Recreativo,SP1,1,3,7,8,D,4,Recreativo_Espanol_2008
+18,3,Sp Gijon,14,4,0,3,3,0,3,3,16,H,13,2008-09-14,Sevilla,SP1,8,13,9,26,D,3,Sevilla_Sp Gijon_2008
+19,3,La Coruna,15,1,0,0,1,0,0,2,16,H,6,2008-09-14,Villarreal,SP1,2,8,10,19,H,3,Villarreal_La Coruna_2008
+20,0,Recreativo,12,4,0,0,1,0,0,1,18,H,9,2008-09-20,Ath Madrid,SP1,1,7,6,14,H,7,Ath Madrid_Recreativo_2008
+21,3,Getafe,20,1,0,1,0,0,0,3,14,D,17,2008-09-20,Espanol,SP1,7,2,2,8,D,4,Espanol_Getafe_2008
+22,1,Malaga,20,1,1,0,0,1,0,4,17,H,3,2008-09-21,Almeria,SP1,0,3,3,11,D,1,Almeria_Malaga_2008
+23,3,Valladolid,17,2,0,0,0,0,0,2,17,H,12,2008-09-21,Ath Bilbao,SP1,2,6,4,20,D,2,Ath Bilbao_Valladolid_2008
+24,2,Sevilla,18,0,0,0,0,0,0,2,16,D,11,2008-09-21,Betis,SP1,1,3,5,14,D,8,Betis_Sevilla_2008
+25,5,Mallorca,15,0,1,0,0,1,0,3,23,D,14,2008-09-21,La Coruna,SP1,2,6,6,17,D,8,La Coruna_Mallorca_2008
+26,1,Villarreal,15,1,0,2,1,0,0,1,15,A,20,2008-09-21,Numancia,SP1,7,4,4,14,H,5,Numancia_Villarreal_2008
+27,0,Real Madrid,19,0,0,2,0,0,0,5,16,A,9,2008-09-21,Santander,SP1,3,2,10,13,D,4,Santander_Real Madrid_2008
+28,2,Barcelona,16,1,0,6,0,1,2,0,8,A,23,2008-09-21,Sp Gijon,SP1,8,2,3,5,A,14,Sp Gijon_Barcelona_2008
+29,1,Osasuna,20,1,1,0,0,0,0,1,11,H,6,2008-09-21,Valencia,SP1,2,2,5,12,D,2,Valencia_Osasuna_2008
+30,2,Betis,11,3,0,2,2,0,0,3,19,H,8,2008-09-24,Barcelona,SP1,3,8,6,18,H,5,Barcelona_Betis_2008
+31,2,Ath Madrid,9,1,0,2,0,0,1,4,18,A,9,2008-09-24,Getafe,SP1,5,6,7,18,A,2,Getafe_Ath Madrid_2008
+32,1,La Coruna,12,0,1,0,0,0,0,2,13,D,6,2008-09-24,Osasuna,SP1,1,2,8,14,D,3,Osasuna_La Coruna_2008
+33,0,Sp Gijon,14,7,0,1,3,0,0,0,17,H,15,2008-09-24,Real Madrid,SP1,3,12,3,16,H,2,Real Madrid_Sp Gijon_2008
+34,3,Espanol,17,2,0,0,0,0,0,6,24,H,5,2008-09-24,Sevilla,SP1,1,10,3,20,D,2,Sevilla_Espanol_2008
+35,3,Santander,3,2,0,0,2,0,0,5,6,H,6,2008-09-24,Villarreal,SP1,3,5,1,7,H,5,Villarreal_Santander_2008
+36,4,Valencia,17,0,0,2,0,1,0,1,24,A,10,2008-09-25,Malaga,SP1,5,3,2,9,D,3,Malaga_Valencia_2008
+37,1,Numancia,19,2,0,0,1,0,0,2,15,H,11,2008-09-25,Mallorca,SP1,1,7,6,11,H,3,Mallorca_Numancia_2008
+38,2,Ath Bilbao,14,1,0,1,0,0,0,3,21,D,10,2008-09-25,Recreativo,SP1,3,7,5,13,D,3,Recreativo_Ath Bilbao_2008
+39,3,Almeria,17,2,0,0,0,1,0,1,16,H,4,2008-09-25,Valladolid,SP1,2,5,6,14,D,0,Valladolid_Almeria_2008
+40,3,Real Madrid,19,1,1,2,0,1,1,3,17,A,17,2008-09-27,Betis,SP1,8,7,3,15,A,5,Betis_Real Madrid_2008
+41,3,Barcelona,26,1,0,2,1,1,0,2,17,A,33,2008-09-27,Espanol,SP1,8,3,0,5,H,12,Espanol_Barcelona_2008
+42,5,Villarreal,25,0,0,1,0,0,0,2,23,A,8,2008-09-27,Sp Gijon,SP1,4,6,9,15,D,6,Sp Gijon_Villarreal_2008
+43,1,Recreativo,27,1,3,0,0,0,0,1,18,H,5,2008-09-28,Almeria,SP1,1,4,12,10,D,1,Almeria_Recreativo_2008
+44,3,Getafe,20,0,0,1,0,0,0,3,14,A,9,2008-09-28,Ath Bilbao,SP1,3,6,9,14,D,3,Ath Bilbao_Getafe_2008
+45,3,Sevilla,23,0,0,1,0,0,1,5,22,A,10,2008-09-28,Ath Madrid,SP1,1,1,8,18,A,4,Ath Madrid_Sevilla_2008
+46,3,Valladolid,21,2,0,1,1,0,0,3,19,H,15,2008-09-28,Malaga,SP1,3,4,5,12,H,3,Malaga_Valladolid_2008
+47,2,Osasuna,19,0,0,0,0,1,0,3,20,D,8,2008-09-28,Numancia,SP1,1,0,6,4,D,3,Numancia_Osasuna_2008
+48,3,Mallorca,13,1,0,2,1,0,1,4,20,A,16,2008-09-28,Santander,SP1,9,7,5,18,D,3,Santander_Mallorca_2008
+49,2,La Coruna,16,4,0,2,1,0,1,2,12,H,7,2008-09-28,Valencia,SP1,3,9,5,24,D,9,Valencia_La Coruna_2008
+50,1,Ath Madrid,11,6,0,1,5,0,1,5,18,H,7,2008-10-04,Barcelona,SP1,2,8,5,19,H,1,Barcelona_Ath Madrid_2008
+51,5,Betis,16,2,0,1,0,0,1,5,26,H,17,2008-10-04,Villarreal,SP1,7,4,6,13,A,7,Villarreal_Betis_2008
+52,2,Almeria,8,2,0,2,0,0,0,2,10,D,13,2008-10-05,Getafe,SP1,7,7,4,17,D,7,Getafe_Almeria_2008
+53,1,Numancia,20,1,0,0,1,0,0,3,20,H,10,2008-10-05,La Coruna,SP1,3,1,4,13,H,4,La Coruna_Numancia_2008
+54,1,Sp Gijon,15,0,0,2,0,0,1,3,20,A,8,2008-10-05,Mallorca,SP1,3,9,8,27,A,3,Mallorca_Sp Gijon_2008
+55,3,Santander,13,0,0,1,0,1,0,4,18,A,6,2008-10-05,Osasuna,SP1,4,4,8,6,D,2,Osasuna_Santander_2008
+56,3,Espanol,19,2,0,2,2,0,2,1,10,D,10,2008-10-05,Real Madrid,SP1,4,6,0,24,D,1,Real Madrid_Espanol_2008
+57,2,Malaga,23,0,0,4,0,0,2,1,18,A,13,2008-10-05,Recreativo,SP1,8,2,6,11,A,5,Recreativo_Malaga_2008
+58,2,Ath Bilbao,3,4,0,0,2,0,0,4,4,H,4,2008-10-05,Sevilla,SP1,1,9,5,13,H,7,Sevilla_Ath Bilbao_2008
+59,1,Valencia,18,0,0,1,0,0,0,4,18,A,8,2008-10-05,Valladolid,SP1,2,4,10,19,D,1,Valladolid_Valencia_2008
+60,5,Real Madrid,18,1,1,2,0,1,1,2,14,A,20,2008-10-18,Ath Madrid,SP1,11,6,10,20,A,4,Ath Madrid_Real Madrid_2008
+61,3,Villarreal,15,0,0,0,0,0,0,2,9,D,14,2008-10-18,Espanol,SP1,2,3,4,8,D,7,Espanol_Villarreal_2008
+62,1,Sevilla,15,0,0,1,0,0,0,3,17,A,10,2008-10-19,Almeria,SP1,3,5,0,13,D,4,Almeria_Sevilla_2008
+63,3,Barcelona,17,0,0,1,0,0,0,3,19,A,14,2008-10-19,Ath Bilbao,SP1,3,3,7,9,D,5,Ath Bilbao_Barcelona_2008
+64,2,Mallorca,12,3,0,0,2,0,0,3,15,H,15,2008-10-19,Betis,SP1,4,6,5,17,H,3,Betis_Mallorca_2008
+65,3,Getafe,21,2,0,1,2,0,1,4,19,H,11,2008-10-19,Malaga,SP1,7,5,4,15,H,3,Malaga_Getafe_2008
+66,2,La Coruna,19,0,0,0,0,1,0,2,20,D,7,2008-10-19,Santander,SP1,2,1,7,14,D,2,Santander_La Coruna_2008
+67,7,Osasuna,27,2,1,1,2,0,1,2,20,H,8,2008-10-19,Sp Gijon,SP1,3,3,3,8,H,3,Sp Gijon_Osasuna_2008
+68,0,Numancia,14,4,0,0,1,0,0,0,10,H,11,2008-10-19,Valencia,SP1,5,7,6,18,H,7,Valencia_Numancia_2008
+69,1,Recreativo,10,1,0,1,0,0,1,2,10,D,12,2008-10-19,Valladolid,SP1,4,6,3,10,A,3,Valladolid_Recreativo_2008
+70,0,Almeria,13,5,1,0,5,0,0,3,15,H,6,2008-10-25,Barcelona,SP1,2,9,6,13,H,6,Barcelona_Almeria_2008
+71,1,Betis,11,0,0,2,0,0,0,0,10,A,17,2008-10-25,Osasuna,SP1,5,6,1,13,D,5,Osasuna_Betis_2008
+72,2,Valladolid,15,1,0,0,1,0,0,3,22,H,11,2008-10-26,Getafe,SP1,0,6,6,14,H,4,Getafe_Valladolid_2008
+73,2,Sp Gijon,9,0,0,3,0,1,2,3,14,A,14,2008-10-26,La Coruna,SP1,8,5,10,18,A,3,La Coruna_Sp Gijon_2008
+74,3,Espanol,22,3,0,0,0,0,0,2,15,H,9,2008-10-26,Mallorca,SP1,3,6,9,13,D,0,Mallorca_Espanol_2008
+75,3,Santander,24,2,0,1,1,0,0,3,15,H,16,2008-10-26,Numancia,SP1,2,3,4,9,H,6,Numancia_Santander_2008
+76,4,Ath Bilbao,15,3,1,2,2,0,2,3,16,H,15,2008-10-26,Real Madrid,SP1,5,6,7,20,D,6,Real Madrid_Ath Bilbao_2008
+77,4,Valencia,20,1,0,1,0,0,0,2,11,D,14,2008-10-26,Recreativo,SP1,6,3,3,6,D,5,Recreativo_Valencia_2008
+78,3,Malaga,18,0,0,1,0,1,1,2,19,A,8,2008-10-26,Sevilla,SP1,6,3,7,10,A,3,Sevilla_Malaga_2008
+79,2,Ath Madrid,13,4,1,4,0,0,2,2,19,D,8,2008-10-26,Villarreal,SP1,5,14,10,23,A,3,Villarreal_Ath Madrid_2008
+80,4,Villarreal,23,1,0,4,1,0,1,2,21,A,14,2008-11-01,Ath Bilbao,SP1,6,6,5,15,D,2,Ath Bilbao_Villarreal_2008
+81,2,Mallorca,18,2,0,0,2,0,0,3,18,H,19,2008-11-01,Ath Madrid,SP1,8,3,2,12,H,8,Ath Madrid_Mallorca_2008
+82,2,Barcelona,19,1,0,4,1,0,2,3,24,A,14,2008-11-01,Malaga,SP1,4,2,1,5,A,4,Malaga_Barcelona_2008
+83,2,Santander,17,2,0,4,1,0,1,3,19,A,11,2008-11-01,Valencia,SP1,4,7,4,11,D,4,Valencia_Santander_2008
+84,4,Real Madrid,25,1,0,1,0,0,1,2,11,D,13,2008-11-02,Almeria,SP1,6,3,5,15,A,3,Almeria_Real Madrid_2008
+85,1,La Coruna,13,0,0,3,0,1,0,1,14,A,15,2008-11-02,Betis,SP1,7,7,13,20,D,1,Betis_La Coruna_2008
+86,1,Osasuna,27,1,0,0,0,0,0,2,21,H,14,2008-11-02,Espanol,SP1,3,3,1,10,D,2,Espanol_Osasuna_2008
+87,2,Getafe,25,1,0,1,0,1,0,4,17,D,17,2008-11-02,Recreativo,SP1,3,3,1,8,D,3,Recreativo_Getafe_2008
+88,2,Numancia,25,3,0,1,1,0,1,4,20,H,9,2008-11-02,Sp Gijon,SP1,3,6,2,18,D,3,Sp Gijon_Numancia_2008
+89,2,Sevilla,17,3,1,2,1,0,2,5,17,H,6,2008-11-02,Valladolid,SP1,4,6,5,15,A,1,Valladolid_Sevilla_2008
+90,1,Valladolid,9,6,0,0,4,0,0,1,9,H,3,2008-11-08,Barcelona,SP1,2,13,9,22,H,5,Barcelona_Valladolid_2008
+91,3,Malaga,21,4,0,3,2,1,2,2,14,H,20,2008-11-08,Real Madrid,SP1,9,12,5,25,D,2,Real Madrid_Malaga_2008
+92,5,Valencia,15,0,0,3,0,1,1,4,28,A,7,2008-11-09,Getafe,SP1,4,2,4,9,A,2,Getafe_Valencia_2008
+93,1,Espanol,11,1,0,0,1,0,0,2,17,H,10,2008-11-09,La Coruna,SP1,4,3,6,14,H,5,La Coruna_Espanol_2008
+94,4,Ath Bilbao,25,3,0,3,1,0,1,2,17,D,17,2008-11-09,Mallorca,SP1,7,7,3,17,D,9,Mallorca_Ath Bilbao_2008
+95,2,Betis,22,2,0,4,1,0,3,2,15,A,15,2008-11-09,Numancia,SP1,6,7,4,13,A,1,Numancia_Betis_2008
+96,1,Ath Madrid,16,0,0,0,0,0,0,1,16,D,14,2008-11-09,Osasuna,SP1,3,4,9,15,D,4,Osasuna_Ath Madrid_2008
+97,4,Sp Gijon,19,1,0,0,0,0,0,2,23,H,9,2008-11-09,Santander,SP1,2,1,5,9,D,4,Santander_Sp Gijon_2008
+98,2,Recreativo,18,1,0,0,0,0,0,2,18,H,13,2008-11-09,Sevilla,SP1,3,3,6,10,D,7,Sevilla_Recreativo_2008
+99,4,Almeria,18,2,0,1,2,0,0,2,22,H,10,2008-11-09,Villarreal,SP1,3,5,3,7,H,3,Villarreal_Almeria_2008
+100,2,Sp Gijon,15,2,0,3,0,0,1,2,21,A,12,2008-11-15,Valencia,SP1,5,8,7,21,A,3,Valencia_Sp Gijon_2008
+101,3,Real Madrid,17,1,1,0,0,0,0,3,20,H,16,2008-11-15,Valladolid,SP1,7,3,7,8,D,6,Valladolid_Real Madrid_2008
+102,1,Mallorca,21,2,0,1,1,0,0,2,18,H,10,2008-11-16,Almeria,SP1,5,6,6,15,H,5,Almeria_Mallorca_2008
+103,3,Osasuna,24,2,0,0,1,0,0,4,21,H,8,2008-11-16,Ath Bilbao,SP1,1,8,7,19,H,5,Ath Bilbao_Osasuna_2008
+104,0,La Coruna,12,4,0,1,1,0,0,2,7,H,14,2008-11-16,Ath Madrid,SP1,6,7,8,16,H,5,Ath Madrid_La Coruna_2008
+105,2,Santander,18,3,0,1,2,0,0,1,18,H,14,2008-11-16,Betis,SP1,7,6,5,17,H,5,Betis_Santander_2008
+106,2,Numancia,19,3,0,4,1,0,1,5,23,A,11,2008-11-16,Espanol,SP1,6,5,6,10,D,1,Espanol_Numancia_2008
+107,2,Sevilla,8,0,0,2,0,0,1,2,17,A,8,2008-11-16,Getafe,SP1,3,3,6,14,A,2,Getafe_Sevilla_2008
+108,4,Villarreal,16,2,0,2,1,0,1,3,27,D,16,2008-11-16,Malaga,SP1,6,4,11,13,D,5,Malaga_Villarreal_2008
+109,3,Barcelona,21,0,0,2,0,0,0,2,12,A,21,2008-11-16,Recreativo,SP1,8,2,5,7,D,5,Recreativo_Barcelona_2008
+110,1,Recreativo,17,1,0,0,1,0,0,3,22,H,7,2008-11-22,Real Madrid,SP1,2,7,5,23,H,5,Real Madrid_Recreativo_2008
+111,2,Valencia,12,0,0,0,0,0,0,3,21,D,15,2008-11-22,Sevilla,SP1,2,3,5,18,D,3,Sevilla_Valencia_2008
+112,2,Valladolid,14,0,0,3,0,0,3,1,25,A,15,2008-11-22,Villarreal,SP1,7,4,7,13,A,4,Villarreal_Valladolid_2008
+113,3,Getafe,19,1,0,1,0,0,1,4,20,D,7,2008-11-23,Barcelona,SP1,4,4,13,14,A,5,Barcelona_Getafe_2008
+114,2,Ath Bilbao,13,3,0,1,2,0,0,2,18,H,18,2008-11-23,La Coruna,SP1,6,9,10,18,H,7,La Coruna_Ath Bilbao_2008
+115,3,Malaga,20,2,0,2,1,0,2,3,17,D,14,2008-11-23,Mallorca,SP1,5,11,9,27,A,1,Mallorca_Malaga_2008
+116,1,Ath Madrid,15,1,0,1,0,0,1,3,16,D,9,2008-11-23,Numancia,SP1,4,5,5,17,A,6,Numancia_Ath Madrid_2008
+117,3,Almeria,16,3,1,1,1,0,1,3,19,H,7,2008-11-23,Osasuna,SP1,2,8,6,17,D,3,Osasuna_Almeria_2008
+118,1,Espanol,24,3,0,0,2,0,0,3,20,H,9,2008-11-23,Santander,SP1,3,4,5,18,H,5,Santander_Espanol_2008
+119,4,Betis,23,1,0,2,1,0,0,4,12,A,15,2008-11-23,Sp Gijon,SP1,7,8,6,22,H,8,Sp Gijon_Betis_2008
+120,2,Real Madrid,20,3,0,1,1,0,0,5,20,H,18,2008-11-29,Getafe,SP1,6,3,4,13,H,8,Getafe_Real Madrid_2008
+121,0,Barcelona,16,0,0,3,0,1,1,3,13,A,22,2008-11-29,Sevilla,SP1,9,2,1,10,A,2,Sevilla_Barcelona_2008
+122,3,La Coruna,18,0,0,1,0,1,0,4,14,A,13,2008-11-30,Almeria,SP1,4,1,6,5,D,1,Almeria_La Coruna_2008
+123,2,Numancia,19,2,0,0,2,1,0,4,16,H,15,2008-11-30,Ath Bilbao,SP1,1,8,7,16,H,9,Ath Bilbao_Numancia_2008
+124,4,Santander,17,4,1,1,2,0,1,1,13,H,14,2008-11-30,Ath Madrid,SP1,2,4,1,6,H,8,Ath Madrid_Santander_2008
+125,4,Sp Gijon,21,0,0,1,0,0,1,1,21,A,10,2008-11-30,Espanol,SP1,3,2,6,18,A,5,Espanol_Sp Gijon_2008
+126,4,Osasuna,20,4,0,2,0,0,0,3,20,H,12,2008-11-30,Malaga,SP1,3,6,6,14,D,6,Malaga_Osasuna_2008
+127,1,Villarreal,18,1,0,2,0,0,2,3,16,A,11,2008-11-30,Recreativo,SP1,5,2,11,14,A,6,Recreativo_Villarreal_2008
+128,3,Betis,18,3,0,2,2,1,0,3,17,H,18,2008-11-30,Valencia,SP1,5,4,3,12,H,8,Valencia_Betis_2008
+129,2,Mallorca,16,3,0,0,1,0,0,5,14,H,6,2008-11-30,Valladolid,SP1,4,9,5,12,H,3,Valladolid_Mallorca_2008
+130,0,Valencia,15,4,0,0,2,0,0,5,20,H,5,2008-12-06,Barcelona,SP1,2,7,3,17,H,3,Barcelona_Valencia_2008
+131,2,Ath Madrid,16,2,0,5,1,0,2,4,10,A,20,2008-12-06,Sp Gijon,SP1,9,4,9,19,A,8,Sp Gijon_Ath Madrid_2008
+132,1,Getafe,15,3,0,3,0,0,3,3,21,D,10,2008-12-06,Villarreal,SP1,3,7,5,20,A,1,Villarreal_Getafe_2008
+133,2,Espanol,9,1,0,1,0,0,0,3,14,D,14,2008-12-07,Betis,SP1,5,4,11,26,D,9,Betis_Espanol_2008
+134,2,Malaga,18,2,0,0,0,0,0,2,22,H,10,2008-12-07,La Coruna,SP1,3,5,8,16,D,8,La Coruna_Malaga_2008
+135,3,Recreativo,19,2,0,3,2,0,2,3,20,A,10,2008-12-07,Mallorca,SP1,7,4,7,17,D,2,Mallorca_Recreativo_2008
+136,4,Almeria,15,2,0,1,1,1,1,5,19,H,16,2008-12-07,Numancia,SP1,2,2,7,15,D,4,Numancia_Almeria_2008
+137,4,Valladolid,19,3,0,3,2,0,0,1,10,D,8,2008-12-07,Osasuna,SP1,3,6,7,14,H,6,Osasuna_Valladolid_2008
+138,3,Sevilla,15,3,0,4,1,1,3,5,19,A,16,2008-12-07,Real Madrid,SP1,8,13,9,25,A,1,Real Madrid_Sevilla_2008
+139,2,Ath Bilbao,14,1,1,1,0,0,0,1,16,D,12,2008-12-07,Santander,SP1,6,2,8,14,D,3,Santander_Ath Bilbao_2008
+140,3,Real Madrid,13,2,0,0,0,0,0,5,19,H,6,2008-12-13,Barcelona,SP1,3,8,11,19,D,4,Barcelona_Real Madrid_2008
+141,4,Espanol,20,2,1,1,0,0,1,4,18,H,7,2008-12-13,Valencia,SP1,3,6,11,22,A,1,Valencia_Espanol_2008
+142,5,Santander,17,1,1,1,0,0,1,3,17,D,9,2008-12-14,Almeria,SP1,1,4,10,7,A,4,Almeria_Santander_2008
+143,1,Sp Gijon,12,3,0,0,3,0,0,3,14,H,7,2008-12-14,Ath Bilbao,SP1,1,7,10,16,H,7,Ath Bilbao_Sp Gijon_2008
+144,1,Betis,14,2,0,0,1,0,0,3,15,H,10,2008-12-14,Ath Madrid,SP1,3,7,1,17,H,6,Ath Madrid_Betis_2008
+145,2,Mallorca,17,4,0,1,2,0,1,6,24,H,14,2008-12-14,Getafe,SP1,7,5,2,12,H,6,Getafe_Mallorca_2008
+146,3,Numancia,13,2,0,0,0,0,0,2,14,H,11,2008-12-14,Malaga,SP1,2,5,4,13,D,3,Malaga_Numancia_2008
+147,1,Osasuna,12,1,0,0,0,0,0,2,16,H,13,2008-12-14,Recreativo,SP1,7,3,9,7,D,6,Recreativo_Osasuna_2008
+148,2,Villarreal,23,1,1,0,1,0,0,2,12,H,4,2008-12-14,Sevilla,SP1,1,8,10,26,H,0,Sevilla_Villarreal_2008
+149,1,La Coruna,9,3,0,0,2,0,0,2,8,H,9,2008-12-14,Valladolid,SP1,3,6,4,12,H,6,Valladolid_La Coruna_2008
+150,2,Ath Madrid,16,2,0,3,0,0,1,3,14,A,13,2008-12-20,Espanol,SP1,5,8,5,21,A,4,Espanol_Ath Madrid_2008
+151,4,Valencia,18,1,1,0,1,0,0,2,16,H,20,2008-12-20,Real Madrid,SP1,4,6,9,19,H,12,Real Madrid_Valencia_2008
+152,0,Ath Bilbao,16,0,0,1,0,0,1,2,22,A,12,2008-12-21,Betis,SP1,4,1,4,12,A,5,Betis_Ath Bilbao_2008
+153,4,Recreativo,9,4,0,1,3,0,1,1,18,H,6,2008-12-21,La Coruna,SP1,2,7,9,21,H,2,La Coruna_Recreativo_2008
+154,3,Sevilla,20,0,0,0,0,0,0,4,13,D,7,2008-12-21,Mallorca,SP1,1,2,8,15,D,3,Mallorca_Sevilla_2008
+155,4,Valladolid,9,4,0,3,1,0,1,3,7,H,19,2008-12-21,Numancia,SP1,6,7,4,11,D,10,Numancia_Valladolid_2008
+156,1,Getafe,16,5,0,2,4,0,0,4,14,H,14,2008-12-21,Osasuna,SP1,7,8,7,12,H,5,Osasuna_Getafe_2008
+157,3,Malaga,17,1,0,1,0,0,1,3,16,D,14,2008-12-21,Santander,SP1,5,3,5,15,A,3,Santander_Malaga_2008
+158,5,Almeria,17,1,0,0,1,0,0,2,12,H,10,2008-12-21,Sp Gijon,SP1,4,3,6,8,H,9,Sp Gijon_Almeria_2008
+159,3,Barcelona,17,1,1,2,0,0,0,2,22,A,16,2008-12-21,Villarreal,SP1,7,1,4,8,D,7,Villarreal_Barcelona_2008
+160,4,Mallorca,11,3,1,1,1,0,1,4,17,H,6,2009-01-03,Barcelona,SP1,3,8,5,18,D,0,Barcelona_Mallorca_2008
+161,2,Ath Madrid,18,3,0,1,2,0,1,3,20,H,11,2009-01-03,Valencia,SP1,5,6,2,16,H,3,Valencia_Ath Madrid_2008
+162,2,Betis,18,1,1,0,1,1,0,1,14,H,17,2009-01-04,Almeria,SP1,5,3,4,10,H,6,Almeria_Betis_2008
+163,3,Espanol,22,1,0,1,0,0,1,5,23,D,10,2009-01-04,Ath Bilbao,SP1,5,6,8,16,A,5,Ath Bilbao_Espanol_2008
+164,6,La Coruna,17,1,0,2,1,0,1,5,10,A,12,2009-01-04,Getafe,SP1,3,4,5,14,D,4,Getafe_La Coruna_2008
+165,1,Sp Gijon,11,1,0,0,1,0,0,3,19,H,6,2009-01-04,Malaga,SP1,2,8,5,14,H,1,Malaga_Sp Gijon_2008
+166,2,Villarreal,24,1,0,0,1,0,0,4,20,H,14,2009-01-04,Real Madrid,SP1,6,6,7,16,H,11,Real Madrid_Villarreal_2008
+167,3,Numancia,16,3,0,1,1,0,0,0,14,H,12,2009-01-04,Recreativo,SP1,4,4,4,10,H,5,Recreativo_Numancia_2008
+168,5,Osasuna,19,1,0,1,0,0,0,3,12,D,13,2009-01-04,Sevilla,SP1,1,3,11,15,D,3,Sevilla_Osasuna_2008
+169,1,Santander,8,0,0,1,0,0,0,4,15,A,9,2009-01-04,Valladolid,SP1,4,3,11,8,D,4,Valladolid_Santander_2008
+170,1,Sevilla,13,1,1,3,1,0,0,2,15,A,8,2009-01-10,La Coruna,SP1,4,4,10,20,H,1,La Coruna_Sevilla_2008
+171,1,Villarreal,14,3,0,3,2,0,1,3,21,D,23,2009-01-10,Valencia,SP1,10,7,8,19,H,11,Valencia_Villarreal_2008
+172,7,Ath Bilbao,21,2,0,3,1,1,1,4,16,A,9,2009-01-11,Ath Madrid,SP1,4,2,11,12,D,8,Ath Madrid_Ath Bilbao_2008
+173,1,Malaga,13,1,0,2,1,2,1,2,13,A,20,2009-01-11,Betis,SP1,7,9,4,21,D,4,Betis_Malaga_2008
+174,5,Almeria,15,2,0,2,0,0,1,3,27,D,9,2009-01-11,Espanol,SP1,3,9,4,23,A,3,Espanol_Almeria_2008
+175,6,Real Madrid,24,0,0,3,0,0,2,3,20,A,11,2009-01-11,Mallorca,SP1,6,3,9,14,A,0,Mallorca_Real Madrid_2008
+176,1,Getafe,21,2,1,0,1,0,0,3,15,H,7,2009-01-11,Numancia,SP1,3,5,3,14,H,3,Numancia_Getafe_2008
+177,2,Barcelona,11,2,0,3,0,0,1,3,11,A,17,2009-01-11,Osasuna,SP1,9,5,2,6,A,7,Osasuna_Barcelona_2008
+178,3,Recreativo,17,1,0,1,1,0,1,3,12,D,10,2009-01-11,Santander,SP1,5,2,4,10,D,5,Santander_Recreativo_2008
+179,3,Valladolid,22,2,1,1,2,0,0,1,14,H,6,2009-01-11,Sp Gijon,SP1,2,6,2,8,H,12,Sp Gijon_Valladolid_2008
+180,0,La Coruna,8,5,1,0,3,0,0,0,12,H,1,2009-01-17,Barcelona,SP1,0,10,9,21,H,4,Barcelona_La Coruna_2008
+181,4,Numancia,21,1,1,0,0,0,0,3,21,H,10,2009-01-17,Sevilla,SP1,5,2,9,20,D,6,Sevilla_Numancia_2008
+182,3,Ath Madrid,17,1,1,1,1,1,1,2,18,D,18,2009-01-18,Almeria,SP1,4,3,10,11,D,7,Almeria_Ath Madrid_2008
+183,4,Valencia,15,3,1,2,2,0,2,2,16,H,17,2009-01-18,Ath Bilbao,SP1,6,7,4,14,D,1,Ath Bilbao_Valencia_2008
+184,3,Santander,11,0,0,1,0,0,1,6,24,A,6,2009-01-18,Getafe,SP1,1,3,6,16,A,3,Getafe_Santander_2008
+185,0,Espanol,16,4,0,0,1,0,0,2,16,H,16,2009-01-18,Malaga,SP1,5,9,4,10,H,4,Malaga_Espanol_2008
+186,3,Osasuna,16,3,1,1,0,0,1,3,21,H,5,2009-01-18,Real Madrid,SP1,3,6,5,19,A,1,Real Madrid_Osasuna_2008
+187,2,Sp Gijon,19,2,0,0,1,0,0,4,22,H,13,2009-01-18,Recreativo,SP1,1,4,4,17,H,4,Recreativo_Sp Gijon_2008
+188,0,Betis,10,1,0,3,1,0,1,3,14,A,11,2009-01-18,Valladolid,SP1,9,2,4,14,D,2,Valladolid_Betis_2008
+189,0,Mallorca,9,2,0,0,2,0,0,1,13,H,17,2009-01-18,Villarreal,SP1,6,6,1,9,H,2,Villarreal_Mallorca_2008
+190,2,Numancia,14,4,1,1,0,0,0,3,13,H,4,2009-01-24,Barcelona,SP1,2,8,3,24,D,2,Barcelona_Numancia_2008
+191,2,Osasuna,19,1,0,1,1,0,0,2,24,D,9,2009-01-24,Villarreal,SP1,4,8,5,12,H,10,Villarreal_Osasuna_2008
+192,1,Ath Bilbao,16,2,0,1,2,0,0,4,10,H,8,2009-01-25,Almeria,SP1,4,5,10,16,H,8,Almeria_Ath Bilbao_2008
+193,2,Sp Gijon,12,5,0,1,2,0,1,2,21,H,9,2009-01-25,Getafe,SP1,5,10,7,22,H,6,Getafe_Sp Gijon_2008
+194,3,Ath Madrid,15,1,0,1,1,0,1,3,14,D,19,2009-01-25,Malaga,SP1,10,5,6,16,D,4,Malaga_Ath Madrid_2008
+195,1,Valencia,14,3,0,1,3,0,0,1,11,H,12,2009-01-25,Mallorca,SP1,1,10,8,22,H,6,Mallorca_Valencia_2008
+196,2,La Coruna,9,1,0,0,1,0,0,2,14,H,9,2009-01-25,Real Madrid,SP1,2,6,8,18,H,3,Real Madrid_La Coruna_2008
+197,4,Betis,14,1,0,0,0,0,0,3,18,H,11,2009-01-25,Recreativo,SP1,4,3,4,10,D,3,Recreativo_Betis_2008
+198,1,Santander,16,0,1,2,0,0,1,6,23,A,12,2009-01-25,Sevilla,SP1,7,5,4,17,A,4,Sevilla_Santander_2008
+199,1,Espanol,22,1,0,1,1,0,0,4,18,D,13,2009-01-25,Valladolid,SP1,4,7,6,22,H,7,Valladolid_Espanol_2008
+200,2,Malaga,13,3,0,2,1,0,1,3,20,H,16,2009-01-31,Ath Bilbao,SP1,4,6,3,21,D,2,Ath Bilbao_Malaga_2008
+201,2,Real Madrid,17,0,1,2,0,0,0,2,14,A,13,2009-01-31,Numancia,SP1,5,3,6,13,D,2,Numancia_Real Madrid_2008
+202,2,Valladolid,16,1,0,2,0,0,0,2,11,A,12,2009-02-01,Ath Madrid,SP1,2,2,4,10,D,5,Ath Madrid_Valladolid_2008
+203,3,Getafe,18,2,0,2,2,1,0,4,12,D,26,2009-02-01,Betis,SP1,10,2,2,6,H,15,Betis_Getafe_2008
+204,2,Recreativo,16,1,0,1,0,1,0,2,18,D,14,2009-02-01,Espanol,SP1,5,5,6,10,D,8,Espanol_Recreativo_2008
+205,3,Villarreal,20,3,0,0,1,0,0,4,16,H,10,2009-02-01,La Coruna,SP1,4,12,5,17,H,4,La Coruna_Villarreal_2008
+206,3,Mallorca,20,1,2,0,1,1,0,3,24,H,13,2009-02-01,Osasuna,SP1,2,3,9,9,H,8,Osasuna_Mallorca_2008
+207,1,Barcelona,21,1,2,2,0,0,0,2,12,A,8,2009-02-01,Santander,SP1,2,4,2,7,D,3,Santander_Barcelona_2008
+208,2,Sevilla,21,1,0,0,0,1,0,2,16,H,15,2009-02-01,Sp Gijon,SP1,9,4,3,13,D,7,Sp Gijon_Sevilla_2008
+209,3,Almeria,23,3,0,2,2,0,1,2,17,H,12,2009-02-01,Valencia,SP1,5,5,4,9,H,4,Valencia_Almeria_2008
+210,4,Santander,17,1,0,0,0,0,0,3,11,H,12,2009-02-07,Real Madrid,SP1,3,5,10,14,D,5,Real Madrid_Santander_2008
+211,2,Betis,17,1,0,2,0,1,0,5,22,A,15,2009-02-07,Sevilla,SP1,7,4,6,18,D,2,Sevilla_Betis_2008
+212,2,Sp Gijon,13,3,0,1,2,0,0,3,19,H,5,2009-02-08,Barcelona,SP1,1,7,7,18,H,2,Barcelona_Sp Gijon_2008
+213,3,Espanol,16,1,1,1,1,0,1,3,21,D,7,2009-02-08,Getafe,SP1,3,9,10,29,D,1,Getafe_Espanol_2008
+214,5,Almeria,17,3,1,2,0,0,2,4,16,H,9,2009-02-08,Malaga,SP1,2,11,8,20,A,5,Malaga_Almeria_2008
+215,2,La Coruna,20,1,0,1,0,1,0,4,21,D,15,2009-02-08,Mallorca,SP1,5,5,7,15,D,2,Mallorca_La Coruna_2008
+216,6,Valencia,18,1,0,0,0,0,0,5,13,H,15,2009-02-08,Osasuna,SP1,4,2,7,10,D,4,Osasuna_Valencia_2008
+217,1,Ath Madrid,10,0,0,3,0,0,3,2,23,A,9,2009-02-08,Recreativo,SP1,4,6,10,15,A,2,Recreativo_Ath Madrid_2008
+218,3,Ath Bilbao,20,2,1,1,1,0,0,1,12,H,15,2009-02-08,Valladolid,SP1,2,5,8,16,H,8,Valladolid_Ath Bilbao_2008
+219,4,Numancia,10,2,0,1,1,0,1,2,18,H,8,2009-02-08,Villarreal,SP1,4,12,3,21,D,4,Villarreal_Numancia_2008
+220,3,Barcelona,20,2,0,2,2,0,1,2,14,D,23,2009-02-14,Betis,SP1,12,5,1,7,H,7,Betis_Barcelona_2008
+221,2,Osasuna,10,0,0,0,0,0,0,2,18,D,6,2009-02-14,La Coruna,SP1,1,2,10,15,D,4,La Coruna_Osasuna_2008
+222,3,Malaga,21,1,0,1,0,0,0,3,11,D,15,2009-02-14,Valencia,SP1,5,9,5,19,D,1,Valencia_Malaga_2008
+223,4,Valladolid,18,3,1,2,0,2,2,3,23,H,12,2009-02-15,Almeria,SP1,4,5,8,10,A,0,Almeria_Valladolid_2008
+224,2,Recreativo,13,1,0,1,0,0,1,3,15,D,16,2009-02-15,Ath Bilbao,SP1,1,2,3,7,A,2,Ath Bilbao_Recreativo_2008
+225,4,Getafe,15,1,0,1,1,0,0,3,13,D,14,2009-02-15,Ath Madrid,SP1,4,6,6,16,H,6,Ath Madrid_Getafe_2008
+226,2,Sevilla,14,0,0,2,0,1,0,2,12,A,20,2009-02-15,Espanol,SP1,7,4,4,12,D,8,Espanol_Sevilla_2008
+227,1,Mallorca,10,0,0,1,0,0,1,1,20,A,10,2009-02-15,Numancia,SP1,5,4,8,15,A,4,Numancia_Mallorca_2008
+228,2,Villarreal,19,1,0,1,1,0,1,1,9,D,15,2009-02-15,Santander,SP1,7,6,8,11,D,7,Santander_Villarreal_2008
+229,1,Real Madrid,13,0,0,4,0,0,2,1,6,A,17,2009-02-15,Sp Gijon,SP1,9,1,5,10,A,5,Sp Gijon_Real Madrid_2008
+230,6,Espanol,14,1,0,2,0,1,0,6,24,A,4,2009-02-21,Barcelona,SP1,2,2,4,20,D,2,Barcelona_Espanol_2008
+231,1,Betis,11,6,0,1,6,0,1,3,19,H,13,2009-02-21,Real Madrid,SP1,1,8,2,21,H,2,Real Madrid_Betis_2008
+232,2,Ath Madrid,18,1,0,0,0,0,0,4,16,H,5,2009-02-21,Sevilla,SP1,4,11,9,12,D,7,Sevilla_Ath Madrid_2008
+233,3,Sp Gijon,14,2,0,1,2,0,1,4,26,H,7,2009-02-21,Villarreal,SP1,2,11,5,15,H,5,Villarreal_Sp Gijon_2008
+234,6,Ath Bilbao,16,1,0,1,1,0,1,3,24,D,4,2009-02-22,Getafe,SP1,2,8,7,20,D,3,Getafe_Ath Bilbao_2008
+235,1,Valencia,13,1,1,1,0,0,1,7,21,D,7,2009-02-22,La Coruna,SP1,1,7,6,16,A,6,La Coruna_Valencia_2008
+236,4,Santander,20,1,1,0,0,0,0,5,28,H,10,2009-02-22,Mallorca,SP1,0,8,7,16,D,4,Mallorca_Santander_2008
+237,5,Numancia,20,2,0,0,2,0,0,2,18,H,16,2009-02-22,Osasuna,SP1,4,6,10,15,H,8,Osasuna_Numancia_2008
+238,3,Almeria,15,1,1,1,0,0,0,3,14,D,7,2009-02-22,Recreativo,SP1,1,7,9,16,D,2,Recreativo_Almeria_2008
+239,3,Malaga,17,1,0,3,0,0,2,2,10,A,8,2009-02-22,Valladolid,SP1,5,16,9,22,A,3,Valladolid_Malaga_2008
+240,5,Sevilla,18,1,0,2,1,0,1,2,10,A,17,2009-02-28,Ath Bilbao,SP1,4,5,3,8,D,4,Ath Bilbao_Sevilla_2008
+241,2,Real Madrid,12,0,0,2,0,0,0,3,17,A,11,2009-02-28,Espanol,SP1,3,2,3,9,D,2,Espanol_Real Madrid_2008
+242,4,Getafe,19,2,0,1,1,0,1,5,14,H,17,2009-03-01,Almeria,SP1,5,5,8,11,D,2,Almeria_Getafe_2008
+243,3,Barcelona,15,4,0,3,1,0,2,2,17,H,14,2009-03-01,Ath Madrid,SP1,6,9,6,22,A,3,Ath Madrid_Barcelona_2008
+244,5,Villarreal,24,2,0,2,1,0,2,4,15,D,14,2009-03-01,Betis,SP1,6,5,8,26,A,2,Betis_Villarreal_2008
+245,2,Recreativo,17,0,0,2,0,1,0,5,23,A,10,2009-03-01,Malaga,SP1,5,4,12,16,D,4,Malaga_Recreativo_2008
+246,2,La Coruna,12,0,0,1,0,0,0,2,15,A,13,2009-03-01,Numancia,SP1,5,3,4,11,D,5,Numancia_La Coruna_2008
+247,2,Osasuna,24,1,0,1,1,0,1,2,19,D,11,2009-03-01,Santander,SP1,4,5,3,14,D,4,Santander_Osasuna_2008
+248,4,Mallorca,15,0,0,1,0,0,0,4,13,A,12,2009-03-01,Sp Gijon,SP1,7,2,4,12,D,1,Sp Gijon_Mallorca_2008
+249,3,Valladolid,18,1,1,2,0,0,2,3,13,A,9,2009-03-01,Valencia,SP1,2,4,5,13,A,3,Valencia_Valladolid_2008
+250,3,Ath Bilbao,16,2,0,0,2,0,0,4,24,H,5,2009-03-07,Barcelona,SP1,0,10,5,28,H,1,Barcelona_Ath Bilbao_2008
+251,2,Ath Madrid,21,1,0,1,0,0,1,1,16,D,18,2009-03-07,Real Madrid,SP1,4,5,12,19,A,4,Real Madrid_Ath Madrid_2008
+252,3,Espanol,15,1,0,0,1,0,0,0,20,H,14,2009-03-07,Villarreal,SP1,5,2,3,10,H,9,Villarreal_Espanol_2008
+253,7,Malaga,18,1,1,2,0,1,2,4,17,A,8,2009-03-08,Getafe,SP1,3,3,6,21,A,2,Getafe_Malaga_2008
+254,1,Santander,13,5,0,3,1,0,2,3,21,H,18,2009-03-08,La Coruna,SP1,8,6,5,12,A,7,La Coruna_Santander_2008
+255,2,Betis,9,3,0,3,0,0,2,3,20,D,11,2009-03-08,Mallorca,SP1,4,7,7,17,A,5,Mallorca_Betis_2008
+256,5,Valencia,21,2,0,1,1,0,1,4,13,H,15,2009-03-08,Numancia,SP1,4,5,1,12,D,6,Numancia_Valencia_2008
+257,2,Sp Gijon,16,1,0,2,1,0,2,5,21,A,9,2009-03-08,Osasuna,SP1,6,2,7,16,A,2,Osasuna_Sp Gijon_2008
+258,1,Valladolid,21,2,2,3,1,0,2,2,14,A,10,2009-03-08,Recreativo,SP1,4,8,8,18,A,8,Recreativo_Valladolid_2008
+259,3,Almeria,19,2,0,1,1,0,0,2,13,H,11,2009-03-08,Sevilla,SP1,5,10,4,15,H,3,Sevilla_Almeria_2008
+260,7,Real Madrid,17,2,0,5,2,2,2,4,27,A,25,2009-03-14,Ath Bilbao,SP1,9,8,10,13,D,1,Ath Bilbao_Real Madrid_2008
+261,2,Recreativo,15,1,0,1,0,1,0,4,24,D,8,2009-03-14,Valencia,SP1,1,4,7,18,D,10,Valencia_Recreativo_2008
+262,4,Barcelona,11,0,0,2,0,0,0,0,10,A,17,2009-03-15,Almeria,SP1,7,1,5,5,D,5,Almeria_Barcelona_2008
+263,5,Villarreal,28,3,1,2,0,0,1,2,15,H,6,2009-03-15,Ath Madrid,SP1,4,14,12,32,A,2,Ath Madrid_Villarreal_2008
+264,3,Osasuna,10,0,0,0,0,0,0,4,24,D,5,2009-03-15,Betis,SP1,0,5,6,22,D,3,Betis_Osasuna_2008
+265,3,Mallorca,16,3,0,3,0,1,1,3,20,D,17,2009-03-15,Espanol,SP1,7,3,3,8,A,5,Espanol_Mallorca_2008
+266,3,Sevilla,22,2,0,2,2,1,0,1,16,D,21,2009-03-15,Malaga,SP1,9,2,1,4,H,5,Malaga_Sevilla_2008
+267,1,Numancia,25,5,0,0,5,0,0,4,23,H,5,2009-03-15,Santander,SP1,1,9,6,20,H,8,Santander_Numancia_2008
+268,5,La Coruna,22,3,0,2,0,0,0,3,15,H,16,2009-03-15,Sp Gijon,SP1,5,8,5,13,D,5,Sp Gijon_La Coruna_2008
+269,2,Getafe,12,1,1,0,0,0,0,1,13,H,8,2009-03-15,Valladolid,SP1,1,6,17,16,D,4,Valladolid_Getafe_2008
+270,2,Valladolid,15,4,0,1,2,0,1,4,19,H,8,2009-03-21,Sevilla,SP1,2,7,9,16,H,2,Sevilla_Valladolid_2008
+271,4,Ath Bilbao,21,2,1,0,0,0,0,1,21,H,15,2009-03-21,Villarreal,SP1,5,7,6,16,D,5,Villarreal_Ath Bilbao_2008
+272,2,Malaga,9,6,0,0,4,0,0,3,15,H,10,2009-03-22,Barcelona,SP1,3,14,10,27,H,7,Barcelona_Malaga_2008
+273,0,Recreativo,12,2,0,1,0,0,0,1,20,H,9,2009-03-22,Getafe,SP1,4,13,8,25,D,2,Getafe_Recreativo_2008
+274,1,Betis,11,1,0,1,1,0,1,4,17,D,16,2009-03-22,La Coruna,SP1,7,4,5,18,D,1,La Coruna_Betis_2008
+275,2,Ath Madrid,23,2,0,0,1,0,0,2,14,H,9,2009-03-22,Mallorca,SP1,0,3,4,8,H,3,Mallorca_Ath Madrid_2008
+276,2,Sp Gijon,22,2,1,1,1,1,0,3,22,H,9,2009-03-22,Numancia,SP1,3,6,9,13,H,3,Numancia_Sp Gijon_2008
+277,6,Espanol,25,1,0,0,0,0,0,3,14,H,8,2009-03-22,Osasuna,SP1,4,4,5,9,D,5,Osasuna_Espanol_2008
+278,5,Almeria,13,3,0,0,1,0,0,2,16,H,14,2009-03-22,Real Madrid,SP1,4,7,4,15,H,7,Real Madrid_Almeria_2008
+279,4,Valencia,17,0,1,1,0,0,0,2,20,A,7,2009-03-22,Santander,SP1,2,8,9,19,D,6,Santander_Valencia_2008
+280,2,Villarreal,20,3,1,0,3,0,0,3,14,H,7,2009-04-04,Almeria,SP1,3,6,1,18,H,3,Almeria_Villarreal_2008
+281,6,Mallorca,29,2,0,1,1,0,0,3,22,H,18,2009-04-04,Ath Bilbao,SP1,1,3,0,9,H,0,Ath Bilbao_Mallorca_2008
+282,3,Numancia,21,3,1,3,1,2,1,4,15,D,18,2009-04-04,Betis,SP1,6,9,6,20,D,4,Betis_Numancia_2008
+283,3,Real Madrid,17,0,0,1,0,0,0,4,21,A,16,2009-04-04,Malaga,SP1,5,7,8,11,D,6,Malaga_Real Madrid_2008
+284,3,Sevilla,17,0,0,1,0,1,1,2,14,A,17,2009-04-04,Recreativo,SP1,4,0,8,12,A,3,Recreativo_Sevilla_2008
+285,1,Barcelona,21,0,0,1,0,0,1,0,9,A,13,2009-04-04,Valladolid,SP1,4,2,4,7,A,4,Valladolid_Barcelona_2008
+286,2,Osasuna,14,2,0,4,1,0,2,1,15,A,11,2009-04-05,Ath Madrid,SP1,5,6,8,17,A,5,Ath Madrid_Osasuna_2008
+287,2,La Coruna,20,3,0,1,2,0,1,1,17,H,11,2009-04-05,Espanol,SP1,5,6,5,12,H,3,Espanol_La Coruna_2008
+288,2,Santander,18,0,0,2,0,0,0,4,16,A,5,2009-04-05,Sp Gijon,SP1,3,12,9,15,D,2,Sp Gijon_Santander_2008
+289,1,Getafe,26,4,1,1,2,0,0,3,14,H,18,2009-04-05,Valencia,SP1,5,8,3,16,H,3,Valencia_Getafe_2008
+290,0,Recreativo,12,2,0,0,1,0,0,1,14,H,7,2009-04-11,Barcelona,SP1,4,6,15,16,H,4,Barcelona_Recreativo_2008
+291,2,Malaga,14,0,0,2,0,0,1,2,13,A,8,2009-04-11,Villarreal,SP1,2,6,10,20,A,5,Villarreal_Malaga_2008
+292,2,Ath Madrid,10,1,0,2,0,0,1,5,19,A,8,2009-04-12,La Coruna,SP1,4,4,4,9,A,5,La Coruna_Ath Madrid_2008
+293,5,Almeria,7,2,1,0,0,0,0,1,6,H,5,2009-04-12,Mallorca,SP1,3,6,1,8,D,0,Mallorca_Almeria_2008
+294,5,Espanol,32,0,0,0,0,0,0,2,18,D,18,2009-04-12,Numancia,SP1,7,4,4,9,D,7,Numancia_Espanol_2008
+295,4,Ath Bilbao,15,2,1,1,1,0,1,2,15,H,10,2009-04-12,Osasuna,SP1,5,5,4,21,D,1,Osasuna_Ath Bilbao_2008
+296,3,Valladolid,15,2,0,0,1,0,0,1,15,H,17,2009-04-12,Real Madrid,SP1,9,6,2,20,H,5,Real Madrid_Valladolid_2008
+297,3,Betis,21,2,0,3,2,1,2,5,20,A,14,2009-04-12,Santander,SP1,5,3,10,14,D,7,Santander_Betis_2008
+298,1,Getafe,12,0,0,1,0,0,0,2,11,A,12,2009-04-12,Sevilla,SP1,2,5,7,15,D,3,Sevilla_Getafe_2008
+299,5,Valencia,19,2,0,3,1,0,1,3,11,A,5,2009-04-12,Sp Gijon,SP1,3,7,11,16,D,3,Sp Gijon_Valencia_2008
+300,2,La Coruna,17,0,0,1,0,1,0,2,16,A,7,2009-04-18,Ath Bilbao,SP1,1,5,6,20,D,2,Ath Bilbao_La Coruna_2008
+301,3,Numancia,13,3,0,0,0,0,0,2,11,H,5,2009-04-18,Ath Madrid,SP1,1,9,10,24,D,1,Ath Madrid_Numancia_2008
+302,4,Barcelona,19,0,0,1,0,0,1,2,9,A,17,2009-04-18,Getafe,SP1,8,0,1,3,A,5,Getafe_Barcelona_2008
+303,0,Mallorca,9,1,0,1,0,0,0,3,15,D,18,2009-04-18,Malaga,SP1,8,3,5,8,D,4,Malaga_Mallorca_2008
+304,1,Real Madrid,13,0,0,1,0,0,0,3,13,A,19,2009-04-18,Recreativo,SP1,8,3,4,8,D,9,Recreativo_Real Madrid_2008
+305,3,Osasuna,15,2,0,1,0,0,0,4,17,H,10,2009-04-19,Almeria,SP1,5,9,16,23,D,0,Almeria_Osasuna_2008
+306,1,Sp Gijon,16,2,1,0,1,1,0,4,21,H,13,2009-04-19,Betis,SP1,2,6,3,14,H,5,Betis_Sp Gijon_2008
+307,1,Santander,18,1,0,0,0,0,0,5,27,H,8,2009-04-19,Espanol,SP1,1,2,7,13,D,5,Espanol_Santander_2008
+308,7,Sevilla,21,3,1,1,1,0,1,8,22,H,12,2009-04-19,Valencia,SP1,3,7,5,21,D,12,Valencia_Sevilla_2008
+309,1,Villarreal,8,0,0,0,0,1,0,0,13,D,10,2009-04-19,Valladolid,SP1,2,3,10,11,D,3,Valladolid_Villarreal_2008
+310,3,Ath Bilbao,22,1,1,2,1,1,1,1,10,A,10,2009-04-21,Numancia,SP1,4,2,2,14,D,4,Numancia_Ath Bilbao_2008
+311,6,Getafe,20,3,0,2,1,1,1,4,15,H,12,2009-04-21,Real Madrid,SP1,4,6,6,18,D,4,Real Madrid_Getafe_2008
+312,2,Sevilla,11,4,0,0,2,0,0,2,17,H,6,2009-04-22,Barcelona,SP1,2,7,9,28,H,2,Barcelona_Sevilla_2008
+313,1,Valencia,20,1,0,2,0,0,0,2,20,A,9,2009-04-22,Betis,SP1,4,2,3,7,D,4,Betis_Valencia_2008
+314,2,Almeria,17,2,0,0,0,0,0,1,13,H,16,2009-04-22,La Coruna,SP1,2,5,5,17,D,5,La Coruna_Almeria_2008
+315,1,Malaga,12,2,1,3,2,3,1,0,11,A,11,2009-04-22,Osasuna,SP1,5,4,5,10,H,3,Osasuna_Malaga_2008
+316,1,Valladolid,10,2,0,0,0,0,0,3,14,H,9,2009-04-23,Mallorca,SP1,1,6,4,14,D,5,Mallorca_Valladolid_2008
+317,3,Ath Madrid,22,5,0,1,3,0,0,2,13,H,8,2009-04-23,Santander,SP1,4,7,6,13,H,5,Santander_Ath Madrid_2008
+318,2,Espanol,16,0,0,3,0,1,1,0,22,A,8,2009-04-23,Sp Gijon,SP1,3,4,5,12,A,2,Sp Gijon_Espanol_2008
+319,4,Recreativo,18,2,0,1,1,0,1,4,14,H,7,2009-04-23,Villarreal,SP1,1,2,8,9,D,4,Villarreal_Recreativo_2008
+320,1,Numancia,14,2,0,1,2,0,0,2,7,H,15,2009-04-25,Almeria,SP1,5,4,11,15,H,8,Almeria_Numancia_2008
+321,3,La Coruna,21,1,0,1,1,0,0,2,14,D,19,2009-04-25,Malaga,SP1,6,9,6,16,H,8,Malaga_La Coruna_2008
+322,5,Barcelona,21,2,0,2,2,0,1,2,9,D,14,2009-04-25,Valencia,SP1,6,5,5,10,H,9,Valencia_Barcelona_2008
+323,3,Santander,18,2,3,1,2,2,0,7,30,H,5,2009-04-26,Ath Bilbao,SP1,3,5,3,12,H,7,Ath Bilbao_Santander_2008
+324,2,Sp Gijon,18,3,0,1,2,1,0,4,14,H,13,2009-04-26,Ath Madrid,SP1,2,5,3,10,H,5,Ath Madrid_Sp Gijon_2008
+325,1,Betis,10,2,0,0,1,0,0,1,16,H,13,2009-04-26,Espanol,SP1,3,6,4,17,H,9,Espanol_Betis_2008
+326,2,Villarreal,10,1,1,2,0,1,2,0,15,A,11,2009-04-26,Getafe,SP1,5,5,4,20,A,3,Getafe_Villarreal_2008
+327,5,Mallorca,20,2,1,4,0,0,2,6,19,A,14,2009-04-26,Recreativo,SP1,7,2,17,15,A,1,Recreativo_Mallorca_2008
+328,4,Real Madrid,19,2,0,4,1,0,1,2,18,A,12,2009-04-26,Sevilla,SP1,6,5,4,11,D,1,Sevilla_Real Madrid_2008
+329,2,Osasuna,15,0,0,0,0,0,0,2,11,D,14,2009-04-26,Valladolid,SP1,1,3,8,7,D,7,Valladolid_Osasuna_2008
+330,4,Malaga,24,2,0,0,1,1,0,3,18,H,11,2009-05-02,Numancia,SP1,3,5,3,14,H,5,Numancia_Malaga_2008
+331,4,Barcelona,22,2,0,6,1,0,3,2,9,A,17,2009-05-02,Real Madrid,SP1,13,4,3,5,A,2,Real Madrid_Barcelona_2008
+332,2,Sevilla,21,0,1,2,0,0,0,3,22,A,9,2009-05-02,Villarreal,SP1,3,5,4,15,D,3,Villarreal_Sevilla_2008
+333,0,Ath Madrid,17,0,0,2,0,0,1,2,21,A,12,2009-05-03,Betis,SP1,3,2,9,9,A,4,Betis_Ath Madrid_2008
+334,1,Valencia,17,3,0,0,0,0,0,0,14,H,14,2009-05-03,Espanol,SP1,5,7,3,18,D,7,Espanol_Valencia_2008
+335,2,Valladolid,8,1,1,0,1,0,0,2,16,H,19,2009-05-03,La Coruna,SP1,5,5,3,15,H,3,La Coruna_Valladolid_2008
+336,2,Getafe,24,2,0,1,1,0,0,3,14,H,19,2009-05-03,Mallorca,SP1,3,6,3,11,H,10,Mallorca_Getafe_2008
+337,1,Recreativo,16,1,0,2,1,1,0,2,17,A,20,2009-05-03,Osasuna,SP1,9,2,7,11,H,2,Osasuna_Recreativo_2008
+338,3,Almeria,14,0,0,2,0,0,2,1,19,A,9,2009-05-03,Santander,SP1,4,2,2,12,A,4,Santander_Almeria_2008
+339,4,Ath Bilbao,17,1,0,1,0,0,0,1,14,D,15,2009-05-03,Sp Gijon,SP1,5,6,5,22,D,3,Sp Gijon_Ath Bilbao_2008
+340,1,Betis,20,1,0,0,1,0,0,1,18,H,14,2009-05-09,Ath Bilbao,SP1,4,1,4,7,H,6,Ath Bilbao_Betis_2008
+341,3,Mallorca,15,3,0,1,1,0,1,4,19,H,11,2009-05-09,Sevilla,SP1,3,6,5,18,D,2,Sevilla_Mallorca_2008
+342,3,Real Madrid,17,3,0,0,2,0,0,3,11,H,11,2009-05-09,Valencia,SP1,2,5,10,18,H,4,Valencia_Real Madrid_2008
+343,4,Sp Gijon,24,3,0,1,1,0,1,2,7,H,22,2009-05-10,Almeria,SP1,5,7,4,11,D,1,Almeria_Sp Gijon_2008
+344,4,Espanol,13,3,0,2,0,1,2,6,16,H,8,2009-05-10,Ath Madrid,SP1,6,7,5,20,A,1,Ath Madrid_Espanol_2008
+345,1,Villarreal,15,3,0,3,3,1,1,3,20,D,6,2009-05-10,Barcelona,SP1,4,3,4,15,H,0,Barcelona_Villarreal_2008
+346,2,Osasuna,13,3,1,0,1,1,0,6,23,H,8,2009-05-10,Getafe,SP1,2,7,1,10,H,5,Getafe_Osasuna_2008
+347,4,Santander,19,1,0,0,0,0,0,5,26,H,15,2009-05-10,Malaga,SP1,4,5,6,11,D,2,Malaga_Santander_2008
+348,2,La Coruna,16,1,0,2,1,0,1,2,14,A,8,2009-05-10,Recreativo,SP1,3,5,6,17,D,1,Recreativo_La Coruna_2008
+349,1,Numancia,16,0,0,0,0,0,0,3,15,D,9,2009-05-10,Valladolid,SP1,2,5,8,13,D,2,Valladolid_Numancia_2008
+350,2,Getafe,20,1,0,1,0,0,0,3,7,D,13,2009-05-16,La Coruna,SP1,6,5,4,12,D,9,La Coruna_Getafe_2008
+351,3,Sevilla,10,0,1,0,0,1,0,1,20,D,10,2009-05-16,Osasuna,SP1,1,3,5,14,D,6,Osasuna_Sevilla_2008
+352,2,Real Madrid,19,3,0,2,1,0,0,3,21,H,11,2009-05-16,Villarreal,SP1,5,8,4,13,H,4,Villarreal_Real Madrid_2008
+353,3,Valencia,21,1,0,0,1,0,0,3,11,H,3,2009-05-17,Ath Madrid,SP1,1,11,6,19,H,4,Ath Madrid_Valencia_2008
+354,5,Almeria,24,2,1,0,1,0,0,2,13,H,11,2009-05-17,Betis,SP1,1,7,3,15,H,5,Betis_Almeria_2008
+355,3,Ath Bilbao,19,1,0,0,0,0,0,4,24,H,9,2009-05-17,Espanol,SP1,4,2,2,10,D,2,Espanol_Ath Bilbao_2008
+356,1,Barcelona,16,2,0,1,0,0,1,2,20,H,17,2009-05-17,Mallorca,SP1,10,7,8,16,A,7,Mallorca_Barcelona_2008
+357,4,Recreativo,21,1,1,0,0,0,0,5,23,H,8,2009-05-17,Numancia,SP1,2,3,4,15,D,1,Numancia_Recreativo_2008
+358,5,Valladolid,14,3,1,2,1,0,2,1,18,H,14,2009-05-17,Santander,SP1,6,8,3,18,A,6,Santander_Valladolid_2008
+359,3,Malaga,22,2,0,1,1,0,1,3,19,H,6,2009-05-17,Sp Gijon,SP1,2,10,10,23,D,5,Sp Gijon_Malaga_2008
+360,4,Espanol,23,0,0,3,0,0,1,1,14,A,13,2009-05-23,Almeria,SP1,8,11,3,14,A,6,Almeria_Espanol_2008
+361,3,Ath Madrid,16,1,0,4,0,0,0,4,16,A,15,2009-05-23,Ath Bilbao,SP1,5,6,7,16,D,6,Ath Bilbao_Ath Madrid_2008
+362,3,Osasuna,6,0,0,1,0,1,1,3,18,A,10,2009-05-23,Barcelona,SP1,4,3,7,9,A,5,Barcelona_Osasuna_2008
+363,4,Numancia,17,1,1,0,0,0,0,2,27,H,3,2009-05-23,Getafe,SP1,2,7,8,21,D,4,Getafe_Numancia_2008
+364,1,Betis,11,1,0,1,0,0,1,2,12,D,10,2009-05-23,Malaga,SP1,4,6,2,11,A,3,Malaga_Betis_2008
+365,2,Santander,10,0,0,1,0,0,0,1,4,A,9,2009-05-23,Recreativo,SP1,1,1,4,4,D,3,Recreativo_Santander_2008
+366,0,La Coruna,16,1,0,0,0,0,0,2,17,H,8,2009-05-23,Sevilla,SP1,2,5,11,17,D,2,Sevilla_La Coruna_2008
+367,2,Sp Gijon,14,1,0,2,0,0,1,3,15,A,7,2009-05-23,Valladolid,SP1,5,6,12,14,A,2,Valladolid_Sp Gijon_2008
+368,2,Valencia,18,3,0,1,2,0,1,5,20,H,13,2009-05-23,Villarreal,SP1,2,7,4,13,H,1,Villarreal_Valencia_2008
+369,4,Mallorca,14,1,0,3,1,0,1,2,11,A,15,2009-05-24,Real Madrid,SP1,6,5,4,15,D,6,Real Madrid_Mallorca_2008
+370,3,Almeria,13,3,0,0,2,0,0,1,18,H,4,2009-05-30,Ath Madrid,SP1,0,6,8,19,H,4,Ath Madrid_Almeria_2008
+371,1,Barcelona,6,1,0,1,1,0,0,1,16,D,18,2009-05-30,La Coruna,SP1,5,6,7,15,H,5,La Coruna_Barcelona_2008
+372,2,Villarreal,9,2,0,3,1,0,2,1,7,A,9,2009-05-30,Mallorca,SP1,6,10,7,21,A,3,Mallorca_Villarreal_2008
+373,3,Ath Bilbao,17,2,1,0,1,0,0,3,15,H,11,2009-05-30,Valencia,SP1,3,12,12,27,H,7,Valencia_Ath Bilbao_2008
+374,0,Valladolid,9,1,0,1,0,0,1,3,9,D,9,2009-05-31,Betis,SP1,2,8,9,19,A,4,Betis_Valladolid_2008
+375,1,Malaga,14,3,1,0,2,0,0,2,10,H,12,2009-05-31,Espanol,SP1,1,8,9,13,H,3,Espanol_Malaga_2008
+376,3,Sevilla,14,0,0,2,0,0,0,1,12,A,23,2009-05-31,Numancia,SP1,7,2,5,9,D,8,Numancia_Sevilla_2008
+377,2,Real Madrid,20,2,2,1,1,0,1,1,22,H,12,2009-05-31,Osasuna,SP1,4,7,7,20,D,4,Osasuna_Real Madrid_2008
+378,6,Getafe,27,1,0,1,1,0,1,3,13,D,9,2009-05-31,Santander,SP1,4,2,3,9,D,4,Santander_Getafe_2008
+379,3,Recreativo,29,2,0,1,0,0,1,2,14,H,4,2009-05-31,Sp Gijon,SP1,2,9,7,22,A,0,Sp Gijon_Recreativo_2008

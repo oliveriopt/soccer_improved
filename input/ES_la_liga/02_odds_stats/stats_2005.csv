@@ -1,0 +1,381 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,0,Barcelona,17,0,0,0,0,0,0,1,19,D,17,2005-08-27,Alaves,SP1,10,0,3,5,D,7,Alaves_Barcelona_2005
+1,0,Sociedad,13,3,0,0,0,0,0,1,19,H,9,2005-08-27,Ath Bilbao,SP1,2,6,3,10,D,4,Ath Bilbao_Sociedad_2005
+2,2,Betis,18,1,0,0,0,0,0,3,14,H,14,2005-08-27,Valencia,SP1,3,2,8,9,D,5,Valencia_Betis_2005
+3,2,Zaragoza,16,0,0,0,0,0,0,7,22,D,9,2005-08-28,Ath Madrid,SP1,2,5,8,16,D,4,Ath Madrid_Zaragoza_2005
+4,2,Real Madrid,19,1,0,2,0,0,1,2,25,A,17,2005-08-28,Cadiz,SP1,6,5,8,15,A,8,Cadiz_Real Madrid_2005
+5,1,Malaga,19,2,0,0,1,0,0,2,25,H,10,2005-08-28,Celta,SP1,4,5,4,9,H,11,Celta_Malaga_2005
+6,2,Getafe,23,0,0,2,0,0,0,3,25,A,16,2005-08-28,Espanol,SP1,9,3,4,8,D,2,Espanol_Getafe_2005
+7,2,La Coruna,19,0,0,1,0,0,1,4,19,A,12,2005-08-28,Mallorca,SP1,3,3,8,10,A,4,Mallorca_La Coruna_2005
+8,5,Villarreal,20,2,0,1,1,0,0,2,9,H,10,2005-08-28,Osasuna,SP1,3,4,2,8,H,4,Osasuna_Villarreal_2005
+9,2,Santander,22,1,0,0,1,0,0,3,27,H,5,2005-08-28,Sevilla,SP1,3,5,9,18,H,3,Sevilla_Santander_2005
+10,2,Osasuna,21,1,0,0,0,0,0,6,29,H,12,2005-09-10,Betis,SP1,3,4,4,15,D,1,Betis_Osasuna_2005
+11,2,Ath Madrid,16,1,0,0,0,0,0,2,22,H,13,2005-09-10,La Coruna,SP1,7,5,4,11,D,5,La Coruna_Ath Madrid_2005
+12,3,Celta,20,2,0,3,2,0,2,1,18,A,14,2005-09-10,Real Madrid,SP1,5,5,6,26,D,4,Real Madrid_Celta_2005
+13,2,Mallorca,13,2,2,0,2,0,0,2,20,H,6,2005-09-11,Barcelona,SP1,0,7,7,23,H,3,Barcelona_Mallorca_2005
+14,2,Ath Bilbao,14,1,0,1,1,1,1,1,19,D,6,2005-09-11,Getafe,SP1,2,4,6,11,D,3,Getafe_Ath Bilbao_2005
+15,2,Espanol,16,1,0,2,0,0,0,4,18,A,6,2005-09-11,Malaga,SP1,5,6,4,16,D,4,Malaga_Espanol_2005
+16,1,Cadiz,17,0,0,1,0,0,0,1,12,A,8,2005-09-11,Santander,SP1,5,2,4,8,D,9,Santander_Cadiz_2005
+17,0,Alaves,27,2,0,1,2,0,0,0,14,H,8,2005-09-11,Sociedad,SP1,3,5,4,10,H,8,Sociedad_Alaves_2005
+18,3,Sevilla,11,1,0,1,0,1,1,1,15,D,22,2005-09-11,Villarreal,SP1,9,3,7,12,A,6,Villarreal_Sevilla_2005
+19,1,Valencia,25,2,0,2,2,0,1,3,20,D,6,2005-09-11,Zaragoza,SP1,2,7,2,14,H,2,Zaragoza_Valencia_2005
+20,0,Sociedad,11,5,0,2,1,0,2,3,19,H,7,2005-09-17,Mallorca,SP1,4,11,11,21,A,6,Mallorca_Sociedad_2005
+21,3,La Coruna,22,2,1,2,0,1,1,3,13,D,11,2005-09-17,Valencia,SP1,5,6,7,17,A,3,Valencia_La Coruna_2005
+22,2,Getafe,20,3,0,4,2,0,3,5,25,A,11,2005-09-18,Alaves,SP1,6,5,2,16,A,9,Alaves_Getafe_2005
+23,2,Malaga,16,1,0,2,0,0,0,3,14,A,9,2005-09-18,Ath Bilbao,SP1,4,6,1,14,D,2,Ath Bilbao_Malaga_2005
+24,2,Barcelona,22,2,0,1,1,1,1,2,17,H,18,2005-09-18,Ath Madrid,SP1,4,6,5,16,D,7,Ath Madrid_Barcelona_2005
+25,2,Zaragoza,23,0,0,0,0,0,0,5,21,D,10,2005-09-18,Betis,SP1,6,4,4,16,D,2,Betis_Zaragoza_2005
+26,1,Villarreal,19,1,0,1,1,0,1,4,25,D,9,2005-09-18,Cadiz,SP1,3,6,5,9,D,2,Cadiz_Villarreal_2005
+27,1,Santander,15,0,0,1,0,0,0,7,28,A,12,2005-09-18,Celta,SP1,5,2,6,15,D,3,Celta_Santander_2005
+28,2,Real Madrid,16,1,2,0,0,0,0,2,16,H,28,2005-09-18,Espanol,SP1,5,2,4,13,D,8,Espanol_Real Madrid_2005
+29,3,Sevilla,21,1,1,0,0,1,0,4,26,H,15,2005-09-18,Osasuna,SP1,2,5,1,10,D,7,Osasuna_Sevilla_2005
+30,3,Valencia,30,2,0,2,1,0,0,2,25,D,5,2005-09-21,Barcelona,SP1,4,5,7,10,H,0,Barcelona_Valencia_2005
+31,3,Mallorca,24,1,0,1,1,0,0,2,17,D,12,2005-09-21,Getafe,SP1,3,5,3,16,H,4,Getafe_Mallorca_2005
+32,5,Betis,21,1,0,1,1,0,1,5,19,D,11,2005-09-21,La Coruna,SP1,3,6,5,17,D,1,La Coruna_Betis_2005
+33,2,Alaves,25,0,0,0,0,1,0,2,14,D,6,2005-09-21,Malaga,SP1,1,4,4,13,D,5,Malaga_Alaves_2005
+34,3,Espanol,19,1,1,0,0,0,0,5,19,H,11,2005-09-21,Santander,SP1,3,7,7,13,D,4,Santander_Espanol_2005
+35,3,Cadiz,20,0,0,0,0,0,0,6,17,D,3,2005-09-21,Sevilla,SP1,1,4,14,25,D,6,Sevilla_Cadiz_2005
+36,2,Ath Madrid,16,3,0,2,0,0,2,3,25,H,14,2005-09-21,Sociedad,SP1,6,9,7,21,A,4,Sociedad_Ath Madrid_2005
+37,1,Celta,17,1,0,2,0,0,1,2,16,A,11,2005-09-21,Villarreal,SP1,5,4,3,14,A,5,Villarreal_Celta_2005
+38,2,Osasuna,20,3,0,1,0,0,0,3,17,H,6,2005-09-21,Zaragoza,SP1,3,11,3,22,D,1,Zaragoza_Osasuna_2005
+39,1,Ath Bilbao,19,3,0,1,0,1,1,5,20,H,21,2005-09-22,Real Madrid,SP1,5,9,6,16,A,4,Real Madrid_Ath Bilbao_2005
+40,3,Getafe,21,0,1,1,0,0,0,4,27,A,12,2005-09-24,Ath Madrid,SP1,4,4,8,12,D,2,Ath Madrid_Getafe_2005
+41,4,Barcelona,19,1,0,4,1,1,1,2,17,A,23,2005-09-24,Betis,SP1,10,5,1,9,D,7,Betis_Barcelona_2005
+42,1,Villarreal,9,1,0,2,0,0,1,1,12,A,13,2005-09-24,Espanol,SP1,4,3,8,9,A,3,Espanol_Villarreal_2005
+43,2,Sociedad,20,2,0,1,1,0,0,1,12,H,11,2005-09-24,Valencia,SP1,4,8,5,11,H,8,Valencia_Sociedad_2005
+44,2,La Coruna,22,1,0,1,1,0,1,1,15,D,16,2005-09-24,Zaragoza,SP1,5,7,8,15,D,7,Zaragoza_La Coruna_2005
+45,1,Real Madrid,17,0,0,3,0,0,0,3,24,A,20,2005-09-25,Alaves,SP1,7,6,7,17,D,10,Alaves_Real Madrid_2005
+46,3,Santander,16,0,0,0,0,0,0,6,29,D,5,2005-09-25,Ath Bilbao,SP1,1,3,17,17,D,5,Ath Bilbao_Santander_2005
+47,2,Sevilla,22,2,0,1,2,0,0,5,24,H,9,2005-09-25,Celta,SP1,3,5,4,12,H,6,Celta_Sevilla_2005
+48,0,Malaga,24,1,0,4,0,0,2,1,22,A,9,2005-09-25,Mallorca,SP1,5,7,8,14,A,2,Mallorca_Malaga_2005
+49,4,Cadiz,27,2,0,0,1,0,0,2,13,H,3,2005-09-25,Osasuna,SP1,0,7,5,19,H,5,Osasuna_Cadiz_2005
+50,4,Zaragoza,16,2,1,2,0,0,0,3,23,D,7,2005-10-01,Barcelona,SP1,3,7,1,22,D,2,Barcelona_Zaragoza_2005
+51,1,Valencia,25,2,1,1,1,0,1,4,24,H,9,2005-10-01,Getafe,SP1,2,6,2,12,D,0,Getafe_Valencia_2005
+52,2,Celta,26,1,0,1,1,0,1,4,18,D,8,2005-10-02,Cadiz,SP1,5,6,3,11,D,3,Cadiz_Celta_2005
+53,1,Osasuna,24,0,0,1,0,0,1,3,25,A,7,2005-10-02,La Coruna,SP1,4,1,2,12,A,5,La Coruna_Osasuna_2005
+54,3,Ath Madrid,19,0,0,2,0,0,1,4,20,A,14,2005-10-02,Malaga,SP1,7,2,4,7,A,6,Malaga_Ath Madrid_2005
+55,0,Mallorca,17,4,1,0,2,0,0,2,18,H,11,2005-10-02,Real Madrid,SP1,3,8,9,16,H,5,Real Madrid_Mallorca_2005
+56,3,Alaves,26,1,0,2,0,0,1,1,9,A,9,2005-10-02,Santander,SP1,3,4,6,9,A,2,Santander_Alaves_2005
+57,3,Espanol,13,1,0,1,0,0,1,1,11,D,8,2005-10-02,Sevilla,SP1,3,3,9,12,A,2,Sevilla_Espanol_2005
+58,2,Betis,14,1,0,1,0,0,1,2,25,D,11,2005-10-02,Sociedad,SP1,3,5,4,16,A,5,Sociedad_Betis_2005
+59,3,Ath Bilbao,11,3,1,1,1,0,1,3,15,H,10,2005-10-02,Villarreal,SP1,5,6,7,19,D,2,Villarreal_Ath Bilbao_2005
+60,2,Villarreal,16,1,0,1,1,0,1,5,18,D,9,2005-10-15,Alaves,SP1,4,4,12,12,D,2,Alaves_Villarreal_2005
+61,5,Real Madrid,16,0,0,3,0,1,1,2,16,A,14,2005-10-15,Ath Madrid,SP1,7,3,7,15,A,5,Ath Madrid_Real Madrid_2005
+62,4,Barcelona,19,3,0,3,1,0,2,4,18,D,13,2005-10-15,La Coruna,SP1,6,4,2,9,A,3,La Coruna_Barcelona_2005
+63,1,Sevilla,9,0,0,1,0,1,1,2,17,A,10,2005-10-16,Ath Bilbao,SP1,3,3,6,21,A,3,Ath Bilbao_Sevilla_2005
+64,2,Getafe,26,1,1,0,1,0,0,4,19,H,13,2005-10-16,Betis,SP1,6,3,4,13,H,5,Betis_Getafe_2005
+65,1,Cadiz,18,0,0,2,0,1,0,3,18,A,8,2005-10-16,Espanol,SP1,4,1,4,7,D,4,Espanol_Cadiz_2005
+66,2,Santander,23,0,0,0,0,0,0,7,21,D,7,2005-10-16,Mallorca,SP1,4,3,9,13,D,0,Mallorca_Santander_2005
+67,4,Celta,25,2,0,0,0,0,0,2,17,H,14,2005-10-16,Osasuna,SP1,3,4,3,10,D,7,Osasuna_Celta_2005
+68,3,Malaga,21,2,0,1,1,0,0,2,23,H,11,2005-10-16,Valencia,SP1,4,7,9,15,H,4,Valencia_Malaga_2005
+69,2,Sociedad,14,0,1,1,0,0,1,1,16,A,7,2005-10-16,Zaragoza,SP1,3,2,11,17,A,5,Zaragoza_Sociedad_2005
+70,1,Osasuna,10,3,0,0,0,0,0,4,21,H,6,2005-10-22,Barcelona,SP1,1,10,7,24,D,2,Barcelona_Osasuna_2005
+71,2,Alaves,21,2,0,0,1,0,0,7,19,H,8,2005-10-22,Sevilla,SP1,3,5,6,13,H,3,Sevilla_Alaves_2005
+72,3,Ath Bilbao,20,1,0,0,1,0,0,0,10,H,12,2005-10-23,Cadiz,SP1,0,2,3,11,H,1,Cadiz_Ath Bilbao_2005
+73,3,Espanol,18,1,1,0,0,0,0,4,21,H,12,2005-10-23,Celta,SP1,4,5,3,19,D,1,Celta_Espanol_2005
+74,2,Zaragoza,15,5,0,2,4,0,0,5,24,H,14,2005-10-23,Getafe,SP1,6,8,5,14,H,7,Getafe_Zaragoza_2005
+75,1,Betis,26,5,0,0,2,0,0,1,14,H,10,2005-10-23,Malaga,SP1,4,9,7,17,H,4,Malaga_Betis_2005
+76,4,Valencia,20,1,0,2,1,2,2,3,23,A,16,2005-10-23,Real Madrid,SP1,6,3,6,15,A,6,Real Madrid_Valencia_2005
+77,2,Ath Madrid,20,0,0,1,0,0,1,2,20,A,12,2005-10-23,Santander,SP1,5,3,10,8,A,4,Santander_Ath Madrid_2005
+78,2,La Coruna,26,2,0,0,0,0,0,2,14,H,13,2005-10-23,Sociedad,SP1,1,9,5,16,D,4,Sociedad_La Coruna_2005
+79,1,Mallorca,13,3,0,0,3,0,0,1,16,H,13,2005-10-23,Villarreal,SP1,2,7,4,18,H,6,Villarreal_Mallorca_2005
+80,0,Malaga,6,2,0,0,0,0,0,5,24,H,4,2005-10-26,Barcelona,SP1,1,20,12,36,D,2,Barcelona_Malaga_2005
+81,4,Villarreal,10,2,0,3,1,1,1,4,8,A,4,2005-10-26,Betis,SP1,4,4,2,10,D,2,Betis_Villarreal_2005
+82,3,Real Madrid,21,3,0,1,2,0,0,3,20,H,7,2005-10-26,La Coruna,SP1,4,5,5,21,H,3,La Coruna_Real Madrid_2005
+83,3,Celta,23,1,1,0,0,0,0,1,22,H,8,2005-10-26,Mallorca,SP1,2,5,5,15,D,4,Mallorca_Celta_2005
+84,4,Ath Bilbao,21,3,0,2,1,0,1,1,19,H,16,2005-10-26,Osasuna,SP1,2,7,2,11,D,2,Osasuna_Ath Bilbao_2005
+85,3,Espanol,19,1,0,1,1,1,1,3,12,D,12,2005-10-27,Alaves,SP1,6,9,10,12,D,10,Alaves_Espanol_2005
+86,3,Cadiz,21,3,0,0,1,0,0,2,13,H,7,2005-10-27,Ath Madrid,SP1,2,10,9,20,H,5,Ath Madrid_Cadiz_2005
+87,0,Getafe,18,3,0,0,3,0,0,2,21,H,18,2005-10-27,Sociedad,SP1,8,5,6,11,H,10,Sociedad_Getafe_2005
+88,1,Sevilla,16,0,0,2,0,0,1,0,16,A,4,2005-10-27,Valencia,SP1,2,6,10,24,A,2,Valencia_Sevilla_2005
+89,2,Santander,18,1,0,1,1,0,0,6,25,D,6,2005-10-27,Zaragoza,SP1,1,3,5,14,H,3,Zaragoza_Santander_2005
+90,2,Celta,25,1,0,1,1,0,0,2,13,D,11,2005-10-29,Ath Bilbao,SP1,4,3,6,14,H,3,Ath Bilbao_Celta_2005
+91,2,Real Madrid,21,0,0,2,0,0,1,2,24,A,6,2005-10-29,Betis,SP1,3,1,4,11,A,4,Betis_Real Madrid_2005
+92,1,Cadiz,25,0,0,0,0,0,0,2,19,D,7,2005-10-30,Alaves,SP1,3,6,4,10,D,0,Alaves_Cadiz_2005
+93,6,Villarreal,26,1,1,1,1,1,0,4,18,D,7,2005-10-30,Ath Madrid,SP1,2,5,8,16,H,2,Ath Madrid_Villarreal_2005
+94,1,Sociedad,13,5,1,0,2,0,0,3,9,H,2,2005-10-30,Barcelona,SP1,1,8,4,21,H,5,Barcelona_Sociedad_2005
+95,3,Getafe,28,1,0,0,1,0,0,4,17,H,16,2005-10-30,La Coruna,SP1,3,5,1,12,H,2,La Coruna_Getafe_2005
+96,2,Sevilla,22,1,0,1,1,1,1,2,15,D,19,2005-10-30,Mallorca,SP1,7,2,3,8,D,2,Mallorca_Sevilla_2005
+97,2,Espanol,18,2,1,0,1,0,0,6,20,H,7,2005-10-30,Osasuna,SP1,0,7,5,16,H,4,Osasuna_Espanol_2005
+98,2,Santander,14,1,1,1,1,0,1,1,31,D,5,2005-10-30,Valencia,SP1,4,4,9,10,D,1,Valencia_Santander_2005
+99,2,Malaga,19,1,0,1,1,0,1,2,22,D,9,2005-10-30,Zaragoza,SP1,2,8,9,16,D,1,Zaragoza_Malaga_2005
+100,2,Ath Bilbao,18,1,0,1,0,0,1,1,25,D,9,2005-11-05,Espanol,SP1,3,6,4,13,A,3,Espanol_Ath Bilbao_2005
+101,1,Osasuna,22,1,0,2,1,0,1,4,25,A,17,2005-11-05,Sociedad,SP1,5,5,3,15,D,3,Sociedad_Osasuna_2005
+102,1,Valencia,17,1,0,0,1,0,0,1,22,H,13,2005-11-05,Villarreal,SP1,6,4,1,15,H,6,Villarreal_Valencia_2005
+103,3,Mallorca,15,1,1,2,1,0,1,3,21,A,9,2005-11-06,Cadiz,SP1,4,4,7,9,D,3,Cadiz_Mallorca_2005
+104,3,Alaves,22,2,0,1,1,0,0,2,14,H,9,2005-11-06,Celta,SP1,2,9,6,14,H,4,Celta_Alaves_2005
+105,1,Barcelona,20,1,0,3,0,0,1,0,10,A,10,2005-11-06,Getafe,SP1,7,3,5,7,A,4,Getafe_Barcelona_2005
+106,0,La Coruna,23,1,0,1,0,0,0,3,17,D,12,2005-11-06,Malaga,SP1,4,1,4,11,D,2,Malaga_La Coruna_2005
+107,2,Zaragoza,14,1,0,0,0,0,0,5,22,H,14,2005-11-06,Real Madrid,SP1,4,5,6,13,D,1,Real Madrid_Zaragoza_2005
+108,3,Betis,24,1,0,1,0,0,1,2,27,D,8,2005-11-06,Santander,SP1,2,5,6,14,A,7,Santander_Betis_2005
+109,0,Ath Madrid,21,0,0,0,0,0,0,3,18,D,12,2005-11-06,Sevilla,SP1,3,6,7,14,D,4,Sevilla_Ath Madrid_2005
+110,2,Osasuna,17,0,0,0,0,0,0,2,26,D,9,2005-11-19,Getafe,SP1,2,4,4,13,D,2,Getafe_Osasuna_2005
+111,6,Barcelona,25,0,0,3,0,0,1,2,16,A,20,2005-11-19,Real Madrid,SP1,7,2,3,5,A,6,Real Madrid_Barcelona_2005
+112,4,Betis,23,1,0,0,0,2,0,7,24,H,8,2005-11-19,Sevilla,SP1,3,2,7,9,D,4,Sevilla_Betis_2005
+113,2,Zaragoza,19,0,0,0,0,0,0,3,19,D,11,2005-11-19,Villarreal,SP1,3,3,6,10,D,2,Villarreal_Zaragoza_2005
+114,3,Alaves,20,0,0,2,0,0,1,3,18,A,11,2005-11-20,Ath Bilbao,SP1,7,5,11,18,A,1,Ath Bilbao_Alaves_2005
+115,4,Valencia,17,0,1,1,0,1,0,6,26,A,6,2005-11-20,Cadiz,SP1,2,4,10,11,D,11,Cadiz_Valencia_2005
+116,2,Ath Madrid,28,2,0,1,1,0,0,2,17,H,18,2005-11-20,Celta,SP1,8,4,3,10,H,11,Celta_Ath Madrid_2005
+117,3,Mallorca,26,2,1,0,2,0,0,5,25,H,9,2005-11-20,Espanol,SP1,1,6,4,13,H,4,Espanol_Mallorca_2005
+118,2,Sociedad,26,3,0,1,0,0,0,2,11,H,13,2005-11-20,Malaga,SP1,3,7,7,14,D,7,Malaga_Sociedad_2005
+119,1,La Coruna,23,0,0,3,0,0,1,1,31,A,9,2005-11-20,Santander,SP1,3,7,4,17,A,4,Santander_La Coruna_2005
+120,1,Ath Bilbao,22,0,0,1,0,0,0,3,21,A,6,2005-11-26,Mallorca,SP1,1,4,4,12,D,3,Mallorca_Ath Bilbao_2005
+121,1,Celta,16,2,0,0,0,0,0,2,16,H,11,2005-11-26,Valencia,SP1,3,7,9,15,D,6,Valencia_Celta_2005
+122,4,Espanol,22,1,0,1,1,0,1,4,22,D,19,2005-11-27,Ath Madrid,SP1,7,5,5,16,D,7,Ath Madrid_Espanol_2005
+123,1,Santander,13,4,1,1,1,0,0,2,30,H,3,2005-11-27,Barcelona,SP1,1,7,8,25,H,0,Barcelona_Santander_2005
+124,4,Cadiz,18,1,0,1,1,1,0,2,8,D,14,2005-11-27,Betis,SP1,5,5,4,12,H,5,Betis_Cadiz_2005
+125,0,Malaga,16,3,0,2,2,0,1,2,30,H,10,2005-11-27,Getafe,SP1,4,6,9,17,H,8,Getafe_Malaga_2005
+126,4,Villarreal,32,0,0,2,0,0,0,2,22,A,17,2005-11-27,La Coruna,SP1,10,3,7,17,D,6,La Coruna_Villarreal_2005
+127,1,Alaves,26,3,0,2,0,0,0,2,21,H,7,2005-11-27,Osasuna,SP1,5,7,9,15,D,1,Osasuna_Alaves_2005
+128,4,Real Madrid,27,2,1,2,1,1,0,5,15,D,20,2005-11-27,Sociedad,SP1,10,5,4,11,H,5,Sociedad_Real Madrid_2005
+129,4,Sevilla,19,0,0,2,0,1,0,0,5,A,17,2005-11-27,Zaragoza,SP1,8,2,5,15,D,5,Zaragoza_Sevilla_2005
+130,4,Ath Madrid,14,1,0,1,0,0,1,3,23,D,6,2005-12-03,Ath Bilbao,SP1,1,3,9,14,A,3,Ath Bilbao_Ath Madrid_2005
+131,5,Betis,29,2,1,1,2,0,0,4,21,H,23,2005-12-03,Celta,SP1,4,4,5,9,H,11,Celta_Betis_2005
+132,3,Getafe,17,1,0,0,1,1,0,3,24,H,19,2005-12-03,Real Madrid,SP1,4,1,3,6,H,13,Real Madrid_Getafe_2005
+133,4,Mallorca,15,0,0,3,0,0,1,4,24,A,13,2005-12-04,Alaves,SP1,10,3,10,18,A,5,Alaves_Mallorca_2005
+134,2,Zaragoza,15,1,0,2,1,0,0,4,20,A,6,2005-12-04,Cadiz,SP1,2,1,3,4,H,4,Cadiz_Zaragoza_2005
+135,3,Valencia,23,1,1,3,0,0,2,2,15,A,18,2005-12-04,Espanol,SP1,9,2,4,15,A,4,Espanol_Valencia_2005
+136,3,Osasuna,26,1,0,2,1,0,2,2,14,A,11,2005-12-04,Malaga,SP1,4,2,7,9,A,4,Malaga_Osasuna_2005
+137,3,Sociedad,24,2,1,2,0,0,1,5,17,D,17,2005-12-04,Santander,SP1,9,4,4,14,A,3,Santander_Sociedad_2005
+138,7,La Coruna,26,0,0,2,0,2,2,6,15,A,11,2005-12-04,Sevilla,SP1,6,3,12,13,A,6,Sevilla_La Coruna_2005
+139,2,Barcelona,19,0,1,2,0,0,1,4,24,A,11,2005-12-04,Villarreal,SP1,4,1,5,6,A,5,Villarreal_Barcelona_2005
+140,1,Villarreal,15,1,0,3,1,0,1,2,17,A,14,2005-12-10,Sociedad,SP1,8,6,5,16,D,1,Sociedad_Villarreal_2005
+141,1,Ath Bilbao,16,1,1,1,0,0,0,2,21,D,6,2005-12-10,Valencia,SP1,2,8,10,23,D,4,Valencia_Ath Bilbao_2005
+142,2,Alaves,17,1,0,1,0,0,0,2,17,D,11,2005-12-11,Ath Madrid,SP1,6,2,12,21,D,3,Ath Madrid_Alaves_2005
+143,4,Sevilla,24,2,0,1,0,0,0,2,19,H,7,2005-12-11,Barcelona,SP1,2,3,7,14,D,1,Barcelona_Sevilla_2005
+144,1,Espanol,10,0,0,0,0,0,0,2,12,D,6,2005-12-11,Betis,SP1,1,3,9,20,D,0,Betis_Espanol_2005
+145,3,Santander,20,1,0,2,1,0,1,5,21,A,7,2005-12-11,Getafe,SP1,4,3,10,10,D,1,Getafe_Santander_2005
+146,1,Cadiz,23,1,0,0,0,0,0,2,18,H,8,2005-12-11,La Coruna,SP1,4,6,5,20,D,5,La Coruna_Cadiz_2005
+147,5,Real Madrid,37,0,0,2,0,0,2,1,11,A,17,2005-12-11,Malaga,SP1,7,8,7,22,A,3,Malaga_Real Madrid_2005
+148,2,Mallorca,20,1,0,0,1,0,0,2,15,H,9,2005-12-11,Osasuna,SP1,3,6,6,20,H,4,Osasuna_Mallorca_2005
+149,1,Celta,19,1,0,0,0,0,0,3,13,H,4,2005-12-11,Zaragoza,SP1,4,9,12,23,D,2,Zaragoza_Celta_2005
+150,1,Betis,20,2,1,0,2,0,0,1,23,H,9,2005-12-17,Ath Bilbao,SP1,3,2,4,12,H,2,Ath Bilbao_Betis_2005
+151,2,Barcelona,13,1,0,3,0,0,2,1,17,A,19,2005-12-17,Cadiz,SP1,9,1,4,12,A,8,Cadiz_Barcelona_2005
+152,3,La Coruna,16,0,0,3,0,1,3,3,23,A,7,2005-12-17,Celta,SP1,5,1,7,6,A,2,Celta_La Coruna_2005
+153,5,Valencia,18,0,0,1,0,0,1,2,19,A,14,2005-12-18,Alaves,SP1,3,3,7,12,A,5,Alaves_Valencia_2005
+154,4,Zaragoza,27,2,0,2,0,0,0,2,14,D,15,2005-12-18,Espanol,SP1,6,4,4,13,D,3,Espanol_Zaragoza_2005
+155,4,Ath Madrid,19,2,1,2,1,1,2,5,17,D,11,2005-12-18,Mallorca,SP1,4,4,7,8,A,4,Mallorca_Ath Madrid_2005
+156,6,Osasuna,23,1,1,1,0,0,0,5,21,D,10,2005-12-18,Real Madrid,SP1,1,6,7,15,D,3,Real Madrid_Osasuna_2005
+157,3,Malaga,20,1,2,1,1,3,1,6,21,D,10,2005-12-18,Santander,SP1,5,5,8,16,D,5,Santander_Malaga_2005
+158,4,Sociedad,20,3,2,2,0,0,1,6,17,H,9,2005-12-18,Sevilla,SP1,2,8,6,29,A,2,Sevilla_Sociedad_2005
+159,2,Getafe,16,2,0,1,1,0,1,2,23,H,13,2005-12-18,Villarreal,SP1,5,9,6,18,D,4,Villarreal_Getafe_2005
+160,1,Celta,15,2,0,0,1,0,0,3,26,H,4,2005-12-20,Barcelona,SP1,2,7,6,15,H,1,Barcelona_Celta_2005
+161,2,Alaves,27,3,0,0,1,0,0,3,21,H,12,2005-12-21,Betis,SP1,3,8,3,15,H,1,Betis_Alaves_2005
+162,3,Sevilla,24,1,0,0,1,1,0,2,20,H,11,2005-12-21,Getafe,SP1,4,3,3,17,H,6,Getafe_Sevilla_2005
+163,3,Espanol,20,1,1,2,0,0,0,4,16,A,9,2005-12-21,La Coruna,SP1,3,6,12,14,D,2,La Coruna_Espanol_2005
+164,5,Villarreal,30,0,0,0,0,0,0,2,16,D,12,2005-12-21,Malaga,SP1,6,4,3,8,D,2,Malaga_Villarreal_2005
+165,3,Santander,20,1,0,2,0,0,2,3,10,A,9,2005-12-21,Real Madrid,SP1,4,5,6,19,A,4,Real Madrid_Santander_2005
+166,1,Cadiz,19,2,1,0,1,0,0,3,24,H,8,2005-12-21,Sociedad,SP1,5,6,9,20,H,4,Sociedad_Cadiz_2005
+167,0,Mallorca,12,3,0,0,0,0,0,1,16,H,6,2005-12-21,Valencia,SP1,0,6,9,17,D,4,Valencia_Mallorca_2005
+168,2,Ath Bilbao,14,3,0,2,0,0,1,1,18,H,8,2005-12-21,Zaragoza,SP1,4,4,3,12,A,2,Zaragoza_Ath Bilbao_2005
+169,1,Ath Madrid,18,2,0,1,2,0,1,2,16,H,5,2005-12-22,Osasuna,SP1,1,8,5,24,H,1,Osasuna_Ath Madrid_2005
+170,1,La Coruna,21,1,0,2,0,0,1,5,25,A,13,2006-01-07,Ath Bilbao,SP1,3,5,6,18,A,2,Ath Bilbao_La Coruna_2005
+171,6,Barcelona,29,1,0,2,0,0,1,3,20,A,19,2006-01-07,Espanol,SP1,7,3,5,9,A,6,Espanol_Barcelona_2005
+172,0,Zaragoza,14,0,0,2,0,0,0,3,14,A,15,2006-01-08,Alaves,SP1,4,5,5,15,D,0,Alaves_Zaragoza_2005
+173,2,Valencia,27,0,0,0,0,0,0,0,21,D,9,2006-01-08,Ath Madrid,SP1,5,2,5,14,D,10,Ath Madrid_Valencia_2005
+174,4,Getafe,22,1,1,0,1,1,0,5,21,H,8,2006-01-08,Cadiz,SP1,1,6,2,13,H,2,Cadiz_Getafe_2005
+175,1,Sociedad,20,1,0,0,1,0,0,1,14,H,5,2006-01-08,Celta,SP1,1,3,2,15,H,1,Celta_Sociedad_2005
+176,1,Betis,17,1,0,1,1,0,1,3,20,D,9,2006-01-08,Mallorca,SP1,5,7,4,10,D,7,Mallorca_Betis_2005
+177,2,Santander,21,1,0,1,1,0,1,2,21,D,6,2006-01-08,Osasuna,SP1,1,3,3,17,D,1,Osasuna_Santander_2005
+178,6,Malaga,19,3,1,1,1,0,0,2,19,H,8,2006-01-08,Sevilla,SP1,3,7,10,19,H,2,Sevilla_Malaga_2005
+179,3,Real Madrid,15,0,0,0,0,0,0,3,19,D,14,2006-01-08,Villarreal,SP1,3,5,3,15,D,5,Villarreal_Real Madrid_2005
+180,2,Ath Madrid,23,1,0,0,1,0,0,2,23,H,15,2006-01-14,Betis,SP1,3,6,5,11,H,4,Betis_Ath Madrid_2005
+181,3,Osasuna,13,2,0,0,1,0,0,1,21,H,12,2006-01-14,Valencia,SP1,5,4,8,15,H,8,Valencia_Osasuna_2005
+182,2,Ath Bilbao,18,2,0,1,1,1,1,4,24,H,8,2006-01-15,Barcelona,SP1,2,9,7,16,D,5,Barcelona_Ath Bilbao_2005
+183,1,Celta,23,1,0,1,1,0,0,2,22,D,12,2006-01-15,Getafe,SP1,3,6,9,24,H,4,Getafe_Celta_2005
+184,1,Alaves,21,0,0,2,0,0,1,2,25,A,12,2006-01-15,La Coruna,SP1,5,6,9,28,A,1,La Coruna_Alaves_2005
+185,5,Cadiz,14,0,0,2,0,1,2,1,13,A,6,2006-01-15,Malaga,SP1,2,1,2,5,A,2,Malaga_Cadiz_2005
+186,1,Sevilla,18,4,0,2,1,0,0,1,18,H,17,2006-01-15,Real Madrid,SP1,5,8,3,25,H,7,Real Madrid_Sevilla_2005
+187,3,Villarreal,22,1,1,0,1,2,0,4,15,H,21,2006-01-15,Santander,SP1,6,4,1,8,H,5,Santander_Villarreal_2005
+188,3,Espanol,22,0,1,1,0,0,0,2,20,A,12,2006-01-15,Sociedad,SP1,5,2,6,14,D,2,Sociedad_Espanol_2005
+189,1,Mallorca,18,3,0,1,2,0,0,2,23,H,9,2006-01-15,Zaragoza,SP1,5,5,2,13,H,4,Zaragoza_Mallorca_2005
+190,4,Cadiz,26,3,0,1,0,0,0,1,18,H,15,2006-01-21,Real Madrid,SP1,4,5,8,10,D,9,Real Madrid_Cadiz_2005
+191,3,Ath Madrid,18,0,0,2,0,0,1,5,24,A,5,2006-01-21,Zaragoza,SP1,3,3,4,8,A,3,Zaragoza_Ath Madrid_2005
+192,1,Alaves,23,2,0,0,0,0,0,2,19,H,3,2006-01-22,Barcelona,SP1,1,7,7,25,D,5,Barcelona_Alaves_2005
+193,1,Valencia,20,0,0,2,0,0,1,2,24,A,13,2006-01-22,Betis,SP1,7,4,4,14,A,2,Betis_Valencia_2005
+194,1,Espanol,26,5,0,0,2,0,0,3,18,H,14,2006-01-22,Getafe,SP1,3,6,6,12,H,5,Getafe_Espanol_2005
+195,3,Mallorca,21,2,0,2,2,0,0,3,29,D,10,2006-01-22,La Coruna,SP1,3,2,4,14,H,2,La Coruna_Mallorca_2005
+196,2,Celta,26,0,0,2,0,0,0,1,14,A,14,2006-01-22,Malaga,SP1,5,3,6,15,D,7,Malaga_Celta_2005
+197,3,Sevilla,21,2,0,3,1,0,1,3,26,A,9,2006-01-22,Santander,SP1,4,6,6,17,D,3,Santander_Sevilla_2005
+198,3,Ath Bilbao,22,3,0,3,2,0,0,3,14,D,26,2006-01-22,Sociedad,SP1,8,6,2,12,H,12,Sociedad_Ath Bilbao_2005
+199,4,Osasuna,14,2,0,1,0,0,1,3,28,H,9,2006-01-22,Villarreal,SP1,1,5,7,12,A,3,Villarreal_Osasuna_2005
+200,3,Getafe,21,1,0,0,0,0,0,3,14,H,13,2006-01-28,Ath Bilbao,SP1,4,3,3,9,D,5,Ath Bilbao_Getafe_2005
+201,4,La Coruna,25,3,0,2,1,0,0,4,26,H,12,2006-01-28,Ath Madrid,SP1,5,8,5,17,H,3,Ath Madrid_La Coruna_2005
+202,4,Santander,19,1,0,1,0,0,0,4,17,D,6,2006-01-28,Cadiz,SP1,2,1,3,6,D,6,Cadiz_Santander_2005
+203,2,Sociedad,15,3,0,1,1,0,0,1,18,H,20,2006-01-29,Alaves,SP1,7,6,2,12,H,6,Alaves_Sociedad_2005
+204,3,Real Madrid,18,1,0,2,1,0,1,3,21,A,11,2006-01-29,Celta,SP1,5,6,5,21,D,4,Celta_Real Madrid_2005
+205,1,Malaga,17,3,0,1,3,0,1,3,21,H,18,2006-01-29,Espanol,SP1,3,7,9,14,H,5,Espanol_Malaga_2005
+206,4,Barcelona,17,0,0,3,0,1,1,3,13,A,15,2006-01-29,Mallorca,SP1,4,2,2,5,A,6,Mallorca_Barcelona_2005
+207,1,Betis,11,0,0,2,0,0,1,1,26,A,10,2006-01-29,Osasuna,SP1,3,3,4,17,A,2,Osasuna_Betis_2005
+208,0,Villarreal,21,2,1,0,1,0,0,3,19,H,7,2006-01-29,Sevilla,SP1,1,7,10,12,H,3,Sevilla_Villarreal_2005
+209,3,Zaragoza,15,2,1,2,0,0,1,4,19,D,11,2006-01-29,Valencia,SP1,5,6,8,19,A,2,Valencia_Zaragoza_2005
+210,3,Valencia,21,0,0,1,0,0,1,5,16,A,10,2006-02-04,La Coruna,SP1,5,4,4,10,A,1,La Coruna_Valencia_2005
+211,5,Ath Bilbao,18,2,0,1,1,1,1,3,22,H,8,2006-02-04,Malaga,SP1,2,5,6,8,D,5,Malaga_Ath Bilbao_2005
+212,1,Espanol,23,4,0,0,3,0,0,2,12,H,8,2006-02-04,Real Madrid,SP1,1,10,3,16,H,5,Real Madrid_Espanol_2005
+213,3,Ath Madrid,19,1,0,3,0,0,1,4,26,A,13,2006-02-05,Barcelona,SP1,5,6,6,15,A,2,Barcelona_Ath Madrid_2005
+214,1,Alaves,16,2,0,2,1,0,1,2,16,D,6,2006-02-05,Getafe,SP1,3,7,19,18,D,2,Getafe_Alaves_2005
+215,4,Celta,26,0,0,1,0,0,0,2,18,A,10,2006-02-05,Santander,SP1,6,6,9,16,D,3,Santander_Celta_2005
+216,6,Osasuna,21,0,0,1,0,1,0,6,22,A,8,2006-02-05,Sevilla,SP1,2,3,5,10,D,3,Sevilla_Osasuna_2005
+217,3,Mallorca,21,2,0,1,1,0,1,4,20,H,11,2006-02-05,Sociedad,SP1,1,5,3,12,D,7,Sociedad_Mallorca_2005
+218,4,Cadiz,21,1,0,1,0,1,1,1,20,D,12,2006-02-05,Villarreal,SP1,4,7,6,14,A,3,Villarreal_Cadiz_2005
+219,4,Betis,24,4,1,3,4,1,1,3,23,H,15,2006-02-05,Zaragoza,SP1,5,6,5,13,H,6,Zaragoza_Betis_2005
+220,3,Real Madrid,18,0,0,2,0,0,1,4,21,A,11,2006-02-11,Ath Bilbao,SP1,6,6,7,15,A,3,Ath Bilbao_Real Madrid_2005
+221,1,Sevilla,17,0,0,4,0,0,1,2,25,A,12,2006-02-11,Cadiz,SP1,5,1,4,12,A,8,Cadiz_Sevilla_2005
+222,2,Zaragoza,20,1,0,1,1,0,1,1,10,D,5,2006-02-11,Osasuna,SP1,1,4,5,17,D,4,Osasuna_Zaragoza_2005
+223,3,Malaga,20,3,0,2,1,0,0,2,20,H,10,2006-02-12,Alaves,SP1,3,5,1,11,H,5,Alaves_Malaga_2005
+224,3,Sociedad,24,1,1,0,0,0,0,0,21,H,9,2006-02-12,Ath Madrid,SP1,4,3,5,16,D,2,Ath Madrid_Sociedad_2005
+225,2,La Coruna,21,0,0,1,0,0,0,4,21,A,14,2006-02-12,Betis,SP1,3,3,6,16,D,1,Betis_La Coruna_2005
+226,1,Villarreal,26,1,0,0,1,0,0,2,16,H,9,2006-02-12,Celta,SP1,2,3,4,7,H,7,Celta_Villarreal_2005
+227,1,Santander,17,0,0,2,0,0,0,1,17,A,11,2006-02-12,Espanol,SP1,3,0,8,5,D,11,Espanol_Santander_2005
+228,4,Getafe,27,1,0,1,0,0,0,2,23,D,13,2006-02-12,Mallorca,SP1,3,1,4,4,D,2,Mallorca_Getafe_2005
+229,3,Barcelona,19,1,0,0,1,0,0,4,21,H,18,2006-02-12,Valencia,SP1,5,4,1,9,H,5,Valencia_Barcelona_2005
+230,4,Betis,20,5,0,1,3,0,0,2,22,H,13,2006-02-18,Barcelona,SP1,8,8,4,19,H,6,Barcelona_Betis_2005
+231,2,Alaves,22,3,0,0,2,0,0,3,29,H,12,2006-02-18,Real Madrid,SP1,3,6,3,12,H,0,Real Madrid_Alaves_2005
+232,4,Celta,32,1,0,0,1,0,0,3,10,H,13,2006-02-18,Sevilla,SP1,5,2,3,10,H,5,Sevilla_Celta_2005
+233,3,Espanol,15,4,0,0,3,0,0,6,17,H,10,2006-02-18,Villarreal,SP1,3,8,3,11,H,5,Villarreal_Espanol_2005
+234,3,Osasuna,10,1,0,3,1,1,2,4,25,A,7,2006-02-19,Cadiz,SP1,5,3,9,10,A,1,Cadiz_Osasuna_2005
+235,4,Ath Madrid,24,0,0,3,0,0,1,2,17,A,14,2006-02-19,Getafe,SP1,6,9,11,18,A,2,Getafe_Ath Madrid_2005
+236,3,Zaragoza,18,1,0,1,0,1,1,3,15,D,8,2006-02-19,La Coruna,SP1,4,4,4,11,A,1,La Coruna_Zaragoza_2005
+237,2,Mallorca,25,0,1,2,0,0,0,7,28,A,16,2006-02-19,Malaga,SP1,5,4,5,12,D,4,Malaga_Mallorca_2005
+238,3,Ath Bilbao,20,0,0,1,0,1,0,6,27,A,8,2006-02-19,Santander,SP1,2,3,8,13,D,6,Santander_Ath Bilbao_2005
+239,2,Valencia,13,1,0,2,1,0,0,2,14,A,12,2006-02-19,Sociedad,SP1,4,4,8,12,H,4,Sociedad_Valencia_2005
+240,1,Malaga,25,5,1,0,3,0,0,4,26,H,10,2006-02-25,Ath Madrid,SP1,0,11,7,17,H,0,Ath Madrid_Malaga_2005
+241,1,Barcelona,20,0,0,2,0,1,0,0,15,A,8,2006-02-25,Zaragoza,SP1,2,2,3,5,D,1,Zaragoza_Barcelona_2005
+242,3,Santander,25,2,0,2,2,0,1,4,25,D,12,2006-02-26,Alaves,SP1,4,2,3,6,H,7,Alaves_Santander_2005
+243,1,Villarreal,17,1,0,1,1,0,1,8,18,D,8,2006-02-26,Ath Bilbao,SP1,4,4,10,10,D,4,Ath Bilbao_Villarreal_2005
+244,1,Sociedad,21,2,0,0,1,0,0,3,26,H,7,2006-02-26,Betis,SP1,2,6,7,17,H,3,Betis_Sociedad_2005
+245,3,Cadiz,21,2,0,0,1,0,0,2,28,H,7,2006-02-26,Celta,SP1,3,8,5,15,H,3,Celta_Cadiz_2005
+246,1,Sevilla,16,5,1,0,1,0,0,1,21,H,12,2006-02-26,Espanol,SP1,2,9,5,15,H,7,Espanol_Sevilla_2005
+247,4,Real Madrid,23,2,0,1,0,0,1,3,24,H,7,2006-02-26,Mallorca,SP1,3,4,4,15,A,2,Mallorca_Real Madrid_2005
+248,2,La Coruna,15,1,0,2,1,0,0,3,17,A,9,2006-02-26,Osasuna,SP1,3,4,8,17,H,2,Osasuna_La Coruna_2005
+249,0,Getafe,15,1,1,1,0,0,0,5,20,D,8,2006-02-26,Valencia,SP1,4,7,14,15,D,1,Valencia_Getafe_2005
+250,3,La Coruna,10,3,0,2,2,0,2,5,27,H,7,2006-03-04,Barcelona,SP1,2,7,8,16,D,2,Barcelona_La Coruna_2005
+251,3,Espanol,24,2,0,0,0,0,0,1,24,H,17,2006-03-04,Cadiz,SP1,6,3,6,9,D,5,Cadiz_Espanol_2005
+252,2,Ath Madrid,25,2,0,1,2,0,1,4,28,H,26,2006-03-04,Real Madrid,SP1,6,3,3,10,H,7,Real Madrid_Ath Madrid_2005
+253,4,Alaves,22,3,0,2,1,0,2,0,19,H,3,2006-03-04,Villarreal,SP1,2,4,11,15,A,1,Villarreal_Alaves_2005
+254,1,Osasuna,16,2,1,0,1,0,0,4,16,H,14,2006-03-05,Celta,SP1,0,5,5,9,H,5,Celta_Osasuna_2005
+255,1,Betis,11,1,0,0,1,0,0,4,18,H,10,2006-03-05,Getafe,SP1,2,4,8,17,H,3,Getafe_Betis_2005
+256,5,Valencia,22,0,0,0,0,0,0,1,15,D,19,2006-03-05,Malaga,SP1,5,2,9,11,D,5,Malaga_Valencia_2005
+257,3,Mallorca,21,0,0,0,0,0,0,1,23,D,13,2006-03-05,Santander,SP1,0,3,5,9,D,6,Santander_Mallorca_2005
+258,1,Ath Bilbao,11,2,0,1,1,1,1,5,24,H,10,2006-03-05,Sevilla,SP1,3,4,8,13,D,6,Sevilla_Ath Bilbao_2005
+259,2,Zaragoza,16,1,0,3,1,0,0,2,18,A,18,2006-03-05,Sociedad,SP1,8,1,4,8,H,3,Sociedad_Zaragoza_2005
+260,2,Celta,19,2,0,0,2,1,0,2,14,H,17,2006-03-11,Espanol,SP1,4,4,4,7,H,6,Espanol_Celta_2005
+261,4,Sociedad,20,0,0,1,0,0,0,3,16,A,9,2006-03-11,La Coruna,SP1,1,4,5,18,D,5,La Coruna_Sociedad_2005
+262,4,Real Madrid,25,0,0,0,0,0,0,2,22,D,13,2006-03-11,Valencia,SP1,6,2,5,11,D,5,Valencia_Real Madrid_2005
+263,4,Sevilla,21,2,1,1,2,2,1,6,22,H,10,2006-03-12,Alaves,SP1,3,5,3,15,H,6,Alaves_Sevilla_2005
+264,2,Cadiz,19,1,1,0,0,1,0,1,18,H,6,2006-03-12,Ath Bilbao,SP1,1,1,4,8,D,8,Ath Bilbao_Cadiz_2005
+265,4,Santander,22,2,0,1,0,1,0,4,23,H,15,2006-03-12,Ath Madrid,SP1,4,6,5,12,D,3,Ath Madrid_Santander_2005
+266,2,Malaga,29,1,0,1,1,0,0,4,28,D,10,2006-03-12,Betis,SP1,2,5,10,15,H,3,Betis_Malaga_2005
+267,2,Villarreal,16,1,0,1,1,0,1,4,24,D,6,2006-03-12,Mallorca,SP1,1,2,3,8,D,2,Mallorca_Villarreal_2005
+268,6,Barcelona,29,2,2,1,1,0,0,2,19,H,8,2006-03-12,Osasuna,SP1,4,3,2,11,H,1,Osasuna_Barcelona_2005
+269,3,Getafe,14,1,0,2,1,1,1,2,15,A,14,2006-03-12,Zaragoza,SP1,6,5,9,13,D,5,Zaragoza_Getafe_2005
+270,4,La Coruna,18,1,0,2,0,1,1,6,25,A,8,2006-03-18,Getafe,SP1,5,4,9,19,A,4,Getafe_La Coruna_2005
+271,2,Barcelona,21,0,0,2,0,0,1,2,14,A,14,2006-03-18,Sociedad,SP1,6,5,7,9,A,3,Sociedad_Barcelona_2005
+272,3,Ath Madrid,21,1,1,1,1,0,0,3,21,D,12,2006-03-18,Villarreal,SP1,3,3,0,6,H,3,Villarreal_Ath Madrid_2005
+273,2,Alaves,17,0,0,0,0,0,0,6,20,D,10,2006-03-19,Cadiz,SP1,5,5,9,15,D,4,Cadiz_Alaves_2005
+274,2,Ath Bilbao,14,0,1,1,0,0,1,4,25,A,7,2006-03-19,Celta,SP1,4,6,9,25,A,4,Celta_Ath Bilbao_2005
+275,5,Osasuna,23,2,0,4,1,0,3,5,19,A,15,2006-03-19,Espanol,SP1,8,3,3,5,A,0,Espanol_Osasuna_2005
+276,1,Zaragoza,26,0,0,1,0,0,0,2,21,A,8,2006-03-19,Malaga,SP1,3,2,8,14,D,4,Malaga_Zaragoza_2005
+277,2,Betis,19,0,0,0,0,0,0,2,24,D,19,2006-03-19,Real Madrid,SP1,2,4,5,16,D,8,Real Madrid_Betis_2005
+278,4,Valencia,35,2,0,1,1,0,0,1,14,H,10,2006-03-19,Santander,SP1,5,2,1,6,H,4,Santander_Valencia_2005
+279,3,Mallorca,14,1,0,1,1,0,0,3,18,D,9,2006-03-19,Sevilla,SP1,4,7,6,19,H,1,Sevilla_Mallorca_2005
+280,1,Getafe,17,3,0,1,1,0,1,2,18,H,9,2006-03-21,Barcelona,SP1,4,4,10,15,D,6,Barcelona_Getafe_2005
+281,2,Celta,19,1,0,0,0,0,0,1,18,H,10,2006-03-22,Alaves,SP1,2,6,3,18,D,2,Alaves_Celta_2005
+282,6,Espanol,22,1,0,1,0,0,1,4,22,D,11,2006-03-22,Ath Bilbao,SP1,2,5,2,13,A,2,Ath Bilbao_Espanol_2005
+283,6,Santander,28,1,1,0,1,0,0,6,19,H,8,2006-03-22,Betis,SP1,1,5,6,15,H,6,Betis_Santander_2005
+284,1,Malaga,19,2,1,1,0,0,1,8,31,H,12,2006-03-22,La Coruna,SP1,3,6,6,17,A,5,La Coruna_Malaga_2005
+285,4,Cadiz,16,1,0,0,1,0,0,5,28,H,6,2006-03-22,Mallorca,SP1,1,9,7,16,H,5,Mallorca_Cadiz_2005
+286,4,Sociedad,25,2,0,0,1,0,0,1,10,H,13,2006-03-22,Osasuna,SP1,2,4,3,7,H,5,Osasuna_Sociedad_2005
+287,3,Villarreal,20,1,0,1,1,1,0,4,20,D,14,2006-03-22,Valencia,SP1,7,3,6,10,H,1,Valencia_Villarreal_2005
+288,2,Real Madrid,25,1,0,1,0,0,0,3,14,D,10,2006-03-22,Zaragoza,SP1,4,4,8,14,D,4,Zaragoza_Real Madrid_2005
+289,3,Sevilla,13,0,0,1,0,3,1,3,13,A,10,2006-03-23,Ath Madrid,SP1,6,6,6,13,A,5,Ath Madrid_Sevilla_2005
+290,2,Osasuna,17,1,1,0,0,1,0,4,20,H,7,2006-03-25,Ath Bilbao,SP1,2,2,3,11,D,4,Ath Bilbao_Osasuna_2005
+291,2,Barcelona,32,0,0,0,0,0,0,0,20,D,23,2006-03-25,Malaga,SP1,10,5,6,13,D,5,Malaga_Barcelona_2005
+292,1,Betis,14,1,0,2,0,0,2,2,20,A,11,2006-03-25,Villarreal,SP1,4,5,8,21,A,3,Villarreal_Betis_2005
+293,1,Ath Madrid,16,1,0,1,0,0,1,4,26,D,13,2006-03-26,Cadiz,SP1,5,4,6,14,A,6,Cadiz_Ath Madrid_2005
+294,1,Mallorca,21,2,0,0,2,0,0,1,16,H,12,2006-03-26,Celta,SP1,4,6,3,14,H,12,Celta_Mallorca_2005
+295,3,Alaves,24,0,0,0,0,0,0,3,20,D,11,2006-03-26,Espanol,SP1,2,2,14,7,D,3,Espanol_Alaves_2005
+296,2,Sociedad,17,2,1,1,1,0,1,4,26,H,9,2006-03-26,Getafe,SP1,3,3,3,10,D,5,Getafe_Sociedad_2005
+297,2,La Coruna,14,4,0,0,2,0,0,2,18,H,14,2006-03-26,Real Madrid,SP1,0,8,4,21,H,5,Real Madrid_La Coruna_2005
+298,1,Zaragoza,19,0,0,0,0,0,0,2,18,D,16,2006-03-26,Santander,SP1,7,2,5,11,D,5,Santander_Zaragoza_2005
+299,0,Valencia,18,1,1,0,0,0,0,4,15,H,8,2006-03-26,Sevilla,SP1,1,5,8,16,D,5,Sevilla_Valencia_2005
+300,2,Real Madrid,21,1,1,1,1,0,1,6,18,D,3,2006-04-01,Barcelona,SP1,1,11,12,35,D,0,Barcelona_Real Madrid_2005
+301,2,Malaga,18,3,2,0,1,0,0,5,24,H,6,2006-04-01,Sociedad,SP1,3,9,5,17,H,4,Sociedad_Malaga_2005
+302,3,Villarreal,14,0,0,1,0,0,1,4,21,A,2,2006-04-01,Zaragoza,SP1,1,9,12,29,A,1,Zaragoza_Villarreal_2005
+303,2,Ath Bilbao,10,0,0,0,0,0,0,4,24,D,4,2006-04-02,Alaves,SP1,1,2,5,11,D,2,Alaves_Ath Bilbao_2005
+304,7,Celta,19,0,0,3,0,0,0,1,13,A,7,2006-04-02,Ath Madrid,SP1,6,7,9,25,D,3,Ath Madrid_Celta_2005
+305,5,Sevilla,28,2,0,1,2,0,1,2,19,H,11,2006-04-02,Betis,SP1,3,6,1,12,H,3,Betis_Sevilla_2005
+306,1,Santander,21,2,0,0,1,0,0,1,24,H,9,2006-04-02,La Coruna,SP1,1,7,5,16,H,1,La Coruna_Santander_2005
+307,2,Espanol,21,0,0,0,0,0,0,1,23,D,11,2006-04-02,Mallorca,SP1,2,2,7,10,D,4,Mallorca_Espanol_2005
+308,1,Getafe,15,0,0,4,0,0,2,6,21,A,12,2006-04-02,Osasuna,SP1,5,4,2,26,A,5,Osasuna_Getafe_2005
+309,1,Cadiz,16,5,0,3,3,0,1,3,27,H,9,2006-04-02,Valencia,SP1,5,6,5,13,H,5,Valencia_Cadiz_2005
+310,4,Betis,19,1,0,1,0,0,0,2,24,D,21,2006-04-08,Cadiz,SP1,4,2,5,13,D,7,Cadiz_Betis_2005
+311,2,Valencia,21,0,0,1,0,0,1,3,24,A,7,2006-04-08,Celta,SP1,4,2,5,12,A,0,Celta_Valencia_2005
+312,3,Getafe,23,1,0,2,0,1,1,1,17,A,17,2006-04-08,Malaga,SP1,6,5,3,13,A,6,Malaga_Getafe_2005
+313,3,Sociedad,16,1,0,1,1,1,0,3,15,D,17,2006-04-08,Real Madrid,SP1,8,6,6,13,H,5,Real Madrid_Sociedad_2005
+314,3,Osasuna,16,1,1,2,0,0,1,3,24,A,8,2006-04-09,Alaves,SP1,4,7,4,20,A,5,Alaves_Osasuna_2005
+315,2,Mallorca,17,1,0,1,1,0,1,2,17,D,12,2006-04-09,Ath Bilbao,SP1,1,4,6,10,D,5,Ath Bilbao_Mallorca_2005
+316,5,Ath Madrid,17,1,0,1,0,0,0,3,24,D,13,2006-04-09,Espanol,SP1,1,4,5,15,D,1,Espanol_Ath Madrid_2005
+317,4,Barcelona,19,2,1,2,2,0,2,1,15,D,10,2006-04-09,Santander,SP1,3,3,4,8,D,1,Santander_Barcelona_2005
+318,4,Zaragoza,11,1,0,1,0,0,0,3,13,D,8,2006-04-09,Sevilla,SP1,3,9,5,22,D,0,Sevilla_Zaragoza_2005
+319,2,La Coruna,17,1,0,1,0,0,0,2,21,D,18,2006-04-09,Villarreal,SP1,3,5,7,11,D,3,Villarreal_La Coruna_2005
+320,1,Villarreal,21,1,0,0,1,0,0,3,18,H,10,2006-04-14,Barcelona,SP1,3,4,8,14,H,4,Barcelona_Villarreal_2005
+321,4,Sevilla,19,0,0,0,0,0,0,2,21,D,15,2006-04-15,La Coruna,SP1,4,5,6,15,D,8,La Coruna_Sevilla_2005
+322,1,Alaves,21,0,0,0,0,0,0,1,34,D,9,2006-04-15,Mallorca,SP1,2,2,7,17,D,0,Mallorca_Alaves_2005
+323,1,Santander,16,1,0,0,0,0,0,3,21,H,12,2006-04-15,Sociedad,SP1,2,1,4,9,D,6,Sociedad_Santander_2005
+324,2,Ath Bilbao,17,1,0,0,0,0,0,2,20,H,10,2006-04-16,Ath Madrid,SP1,2,1,3,10,D,6,Ath Madrid_Ath Bilbao_2005
+325,4,Celta,27,0,0,2,0,0,1,1,14,A,11,2006-04-16,Betis,SP1,6,6,7,13,A,2,Betis_Celta_2005
+326,1,Real Madrid,15,1,0,1,0,0,0,4,20,D,14,2006-04-16,Getafe,SP1,5,9,9,24,D,6,Getafe_Real Madrid_2005
+327,1,Malaga,22,1,1,1,1,0,0,2,21,D,10,2006-04-16,Osasuna,SP1,4,3,4,11,H,4,Osasuna_Malaga_2005
+328,1,Espanol,14,4,1,0,1,0,0,4,11,H,10,2006-04-16,Valencia,SP1,6,7,10,17,H,5,Valencia_Espanol_2005
+329,2,Cadiz,16,1,0,2,1,0,1,3,29,A,8,2006-04-16,Zaragoza,SP1,4,8,4,16,D,2,Zaragoza_Cadiz_2005
+330,3,Ath Madrid,15,0,0,1,0,0,1,2,17,A,9,2006-04-22,Alaves,SP1,4,1,3,8,A,4,Alaves_Ath Madrid_2005
+331,0,Zaragoza,14,4,0,0,1,0,0,3,14,H,12,2006-04-22,Celta,SP1,2,7,4,13,H,5,Celta_Zaragoza_2005
+332,2,Sociedad,17,0,0,2,0,0,2,3,17,A,9,2006-04-22,Villarreal,SP1,2,4,7,10,A,1,Villarreal_Sociedad_2005
+333,3,Valencia,25,0,0,3,0,0,0,2,18,A,9,2006-04-23,Ath Bilbao,SP1,5,4,3,12,D,4,Ath Bilbao_Valencia_2005
+334,4,La Coruna,20,1,2,1,0,0,1,5,23,D,11,2006-04-23,Cadiz,SP1,4,3,8,10,A,6,Cadiz_La Coruna_2005
+335,2,Betis,12,2,1,0,1,0,0,1,18,H,12,2006-04-23,Espanol,SP1,5,7,1,13,H,3,Espanol_Betis_2005
+336,3,Osasuna,16,0,0,1,0,0,0,2,20,A,9,2006-04-23,Mallorca,SP1,2,4,9,12,D,4,Mallorca_Osasuna_2005
+337,4,Malaga,16,2,0,1,0,0,1,4,22,H,13,2006-04-23,Real Madrid,SP1,3,12,11,31,A,2,Real Madrid_Malaga_2005
+338,4,Getafe,23,1,0,3,1,0,1,1,13,A,23,2006-04-23,Santander,SP1,13,4,4,10,D,4,Santander_Getafe_2005
+339,1,Cadiz,15,1,0,0,1,0,0,3,19,H,7,2006-04-29,Barcelona,SP1,4,4,2,14,H,4,Barcelona_Cadiz_2005
+340,2,Ath Bilbao,19,1,0,1,1,0,0,2,14,D,10,2006-04-29,Betis,SP1,5,2,4,10,H,10,Betis_Ath Bilbao_2005
+341,2,Celta,25,0,0,2,0,1,1,3,26,A,13,2006-04-29,La Coruna,SP1,6,3,6,12,A,4,La Coruna_Celta_2005
+342,2,Mallorca,16,0,0,1,0,0,0,4,17,A,11,2006-04-30,Ath Madrid,SP1,3,3,9,15,D,4,Ath Madrid_Mallorca_2005
+343,1,Villarreal,17,1,0,1,1,0,1,2,26,D,12,2006-04-30,Getafe,SP1,8,8,2,20,D,3,Getafe_Villarreal_2005
+344,4,Santander,28,2,0,3,2,0,1,3,27,A,9,2006-04-30,Malaga,SP1,7,4,4,11,H,5,Malaga_Santander_2005
+345,3,Real Madrid,18,0,1,1,0,0,0,2,19,A,7,2006-04-30,Osasuna,SP1,2,2,6,19,D,4,Osasuna_Real Madrid_2005
+346,3,Sevilla,26,1,0,2,0,2,0,2,18,A,13,2006-04-30,Sociedad,SP1,5,0,3,6,D,3,Sociedad_Sevilla_2005
+347,3,Alaves,22,3,0,0,2,0,0,0,10,H,9,2006-04-30,Valencia,SP1,3,6,2,14,H,4,Valencia_Alaves_2005
+348,4,Espanol,17,1,1,1,1,0,0,1,22,D,10,2006-04-30,Zaragoza,SP1,4,3,4,11,H,5,Zaragoza_Espanol_2005
+349,3,Betis,17,2,0,0,1,1,0,3,27,H,18,2006-05-03,Alaves,SP1,2,5,1,8,H,1,Alaves_Betis_2005
+350,2,Zaragoza,17,1,0,0,0,0,0,2,11,H,12,2006-05-03,Ath Bilbao,SP1,4,2,0,10,D,3,Ath Bilbao_Zaragoza_2005
+351,2,Osasuna,20,0,1,1,0,1,1,3,21,A,10,2006-05-03,Ath Madrid,SP1,5,5,11,19,A,2,Ath Madrid_Osasuna_2005
+352,1,Sociedad,12,2,0,2,0,0,1,1,25,D,10,2006-05-03,Cadiz,SP1,4,5,5,18,A,2,Cadiz_Sociedad_2005
+353,3,Barcelona,17,0,0,1,0,0,0,3,17,A,14,2006-05-03,Celta,SP1,5,1,7,13,D,2,Celta_Barcelona_2005
+354,3,La Coruna,22,1,0,2,1,0,0,5,20,A,12,2006-05-03,Espanol,SP1,4,2,3,3,H,4,Espanol_La Coruna_2005
+355,2,Valencia,23,2,0,1,1,0,1,2,23,H,7,2006-05-03,Mallorca,SP1,4,7,4,13,D,2,Mallorca_Valencia_2005
+356,3,Getafe,18,3,0,0,3,0,0,3,17,H,9,2006-05-03,Sevilla,SP1,0,7,7,12,H,3,Sevilla_Getafe_2005
+357,0,Malaga,17,2,0,1,2,0,1,0,16,H,20,2006-05-03,Villarreal,SP1,5,4,3,13,H,5,Villarreal_Malaga_2005
+358,3,Real Madrid,20,2,0,3,0,0,1,1,19,A,16,2006-05-04,Santander,SP1,6,5,6,14,A,2,Santander_Real Madrid_2005
+359,0,Espanol,14,2,0,0,1,0,0,1,24,H,19,2006-05-06,Barcelona,SP1,9,5,8,15,H,7,Barcelona_Espanol_2005
+360,2,Sevilla,19,0,0,2,0,0,1,0,20,A,19,2006-05-06,Malaga,SP1,8,3,5,14,A,8,Malaga_Sevilla_2005
+361,1,Ath Madrid,13,1,0,1,1,0,1,2,20,D,12,2006-05-06,Valencia,SP1,4,6,5,14,D,8,Valencia_Ath Madrid_2005
+362,3,Mallorca,19,2,0,1,2,0,0,2,15,H,8,2006-05-07,Betis,SP1,2,3,3,7,H,4,Betis_Mallorca_2005
+363,3,Cadiz,21,3,0,1,0,0,1,0,15,H,7,2006-05-07,Getafe,SP1,3,3,2,6,A,3,Getafe_Cadiz_2005
+364,3,Ath Bilbao,18,1,0,2,1,0,0,1,14,A,10,2006-05-07,La Coruna,SP1,3,6,5,15,H,7,La Coruna_Ath Bilbao_2005
+365,4,Villarreal,25,3,0,3,1,1,2,5,13,D,14,2006-05-07,Real Madrid,SP1,6,11,11,26,A,5,Real Madrid_Villarreal_2005
+366,6,Osasuna,21,2,1,1,0,1,0,4,23,H,9,2006-05-07,Santander,SP1,2,6,9,14,D,5,Santander_Osasuna_2005
+367,3,Celta,13,2,0,2,2,0,1,1,18,D,5,2006-05-07,Sociedad,SP1,3,7,2,15,H,5,Sociedad_Celta_2005
+368,1,Alaves,16,3,0,0,0,0,0,2,21,H,10,2006-05-07,Zaragoza,SP1,4,7,6,15,D,6,Zaragoza_Alaves_2005
+369,2,La Coruna,18,1,0,0,0,0,0,2,25,H,11,2006-05-13,Alaves,SP1,0,8,6,16,D,2,Alaves_La Coruna_2005
+370,1,Betis,22,1,0,1,1,0,0,4,18,D,17,2006-05-13,Ath Madrid,SP1,4,7,6,12,H,5,Ath Madrid_Betis_2005
+371,0,Malaga,15,5,0,0,1,0,0,1,18,H,13,2006-05-13,Cadiz,SP1,3,7,9,12,H,3,Cadiz_Malaga_2005
+372,4,Getafe,14,1,1,0,1,0,0,1,25,H,6,2006-05-13,Celta,SP1,1,5,6,13,H,4,Celta_Getafe_2005
+373,1,Sociedad,19,1,0,0,0,0,0,3,20,H,9,2006-05-13,Espanol,SP1,3,4,7,22,D,5,Espanol_Sociedad_2005
+374,2,Zaragoza,15,3,0,1,1,0,1,1,10,H,12,2006-05-13,Mallorca,SP1,5,10,4,20,D,4,Mallorca_Zaragoza_2005
+375,4,Barcelona,16,3,1,2,2,0,2,1,20,H,16,2006-05-13,Sevilla,SP1,4,4,8,16,D,4,Sevilla_Barcelona_2005
+376,1,Santander,14,2,0,0,1,0,0,2,18,H,13,2006-05-13,Villarreal,SP1,6,6,7,12,H,8,Villarreal_Santander_2005
+377,1,Valencia,18,2,0,1,0,0,0,2,12,H,13,2006-05-16,Osasuna,SP1,7,7,3,17,D,6,Osasuna_Valencia_2005
+378,4,Real Madrid,16,4,0,3,4,0,2,4,15,H,18,2006-05-16,Sevilla,SP1,8,9,8,20,H,4,Sevilla_Real Madrid_2005
+379,0,Barcelona,16,3,0,1,0,0,1,1,9,H,13,2006-05-20,Ath Bilbao,SP1,4,6,5,15,A,1,Ath Bilbao_Barcelona_2005

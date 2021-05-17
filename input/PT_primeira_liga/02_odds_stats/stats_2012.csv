@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,1,P1,Estoril,H,1,2012-08-17,D,Olhanense,2,1,Olhanense_Estoril_2012
+1,0,P1,Sp Braga,D,0,2012-08-18,D,Benfica,2,2,Benfica_Sp Braga_2012
+2,0,P1,Maritimo,A,0,2012-08-18,D,Rio Ave,0,1,Rio Ave_Maritimo_2012
+3,0,P1,Porto,D,0,2012-08-19,D,Gil Vicente,0,0,Gil Vicente_Porto_2012
+4,0,P1,Sp Lisbon,D,0,2012-08-19,D,Guimaraes,0,0,Guimaraes_Sp Lisbon_2012
+5,0,P1,Setubal,D,0,2012-08-19,D,Nacional,2,2,Nacional_Setubal_2012
+6,1,P1,Moreirense,D,0,2012-08-19,H,Pacos Ferreira,1,1,Pacos Ferreira_Moreirense_2012
+7,2,P1,Academica,D,0,2012-08-20,H,Beira Mar,3,3,Beira Mar_Academica_2012
+8,0,P1,Olhanense,D,0,2012-08-24,D,Academica,1,1,Academica_Olhanense_2012
+9,1,P1,Guimaraes,H,0,2012-08-25,H,Porto,4,0,Porto_Guimaraes_2012
+10,2,P1,Beira Mar,H,0,2012-08-25,H,Sp Braga,3,1,Sp Braga_Beira Mar_2012
+11,0,P1,Pacos Ferreira,D,1,2012-08-26,A,Estoril,1,1,Estoril_Pacos Ferreira_2012
+12,0,P1,Gil Vicente,D,0,2012-08-26,D,Maritimo,0,0,Maritimo_Gil Vicente_2012
+13,1,P1,Nacional,H,0,2012-08-26,H,Moreirense,3,1,Moreirense_Nacional_2012
+14,0,P1,Benfica,A,3,2012-08-26,A,Setubal,0,5,Setubal_Benfica_2012
+15,0,P1,Rio Ave,A,1,2012-08-27,A,Sp Lisbon,0,1,Sp Lisbon_Rio Ave_2012
+16,0,P1,Estoril,D,1,2012-09-01,A,Guimaraes,2,2,Guimaraes_Estoril_2012
+17,1,P1,Porto,A,1,2012-09-01,D,Olhanense,2,3,Olhanense_Porto_2012
+18,0,P1,Moreirense,D,1,2012-09-02,A,Beira Mar,1,1,Beira Mar_Moreirense_2012
+19,0,P1,Nacional,H,0,2012-09-02,D,Benfica,3,0,Benfica_Nacional_2012
+20,0,P1,Setubal,D,0,2012-09-02,D,Gil Vicente,0,0,Gil Vicente_Setubal_2012
+21,1,P1,Sp Braga,H,0,2012-09-02,H,Pacos Ferreira,2,0,Pacos Ferreira_Sp Braga_2012
+22,0,P1,Academica,D,0,2012-09-02,D,Rio Ave,0,0,Rio Ave_Academica_2012
+23,0,P1,Sp Lisbon,D,0,2012-09-16,D,Maritimo,1,1,Maritimo_Sp Lisbon_2012
+24,0,P1,Guimaraes,A,0,2012-09-21,D,Moreirense,0,1,Moreirense_Guimaraes_2012
+25,2,P1,Beira Mar,H,0,2012-09-22,H,Porto,4,0,Porto_Beira Mar_2012
+26,1,P1,Benfica,D,0,2012-09-23,H,Academica,2,2,Academica_Benfica_2012
+27,1,P1,Pacos Ferreira,D,1,2012-09-23,D,Nacional,3,3,Nacional_Pacos Ferreira_2012
+28,0,P1,Olhanense,H,0,2012-09-23,D,Setubal,1,0,Setubal_Olhanense_2012
+29,1,P1,Rio Ave,H,0,2012-09-23,H,Sp Braga,4,1,Sp Braga_Rio Ave_2012
+30,2,P1,Maritimo,H,0,2012-09-24,H,Estoril,3,1,Estoril_Maritimo_2012
+31,0,P1,Gil Vicente,H,1,2012-09-24,A,Sp Lisbon,2,1,Sp Lisbon_Gil Vicente_2012
+32,0,P1,Sp Braga,A,0,2012-09-28,D,Guimaraes,0,2,Guimaraes_Sp Braga_2012
+33,1,P1,Benfica,A,1,2012-09-28,D,Pacos Ferreira,1,2,Pacos Ferreira_Benfica_2012
+34,0,P1,Porto,D,1,2012-09-29,A,Rio Ave,2,2,Rio Ave_Porto_2012
+35,0,P1,Estoril,D,1,2012-09-29,A,Sp Lisbon,2,2,Sp Lisbon_Estoril_2012
+36,1,P1,Setubal,D,0,2012-09-30,H,Beira Mar,1,1,Beira Mar_Setubal_2012
+37,3,P1,Moreirense,H,3,2012-09-30,D,Gil Vicente,4,3,Gil Vicente_Moreirense_2012
+38,0,P1,Academica,A,2,2012-09-30,A,Maritimo,0,2,Maritimo_Academica_2012
+39,0,P1,Nacional,A,1,2012-09-30,A,Olhanense,1,2,Olhanense_Nacional_2012
+40,0,P1,Beira Mar,H,1,2012-10-06,A,Benfica,2,1,Benfica_Beira Mar_2012
+41,1,P1,Guimaraes,A,0,2012-10-07,H,Academica,1,2,Academica_Guimaraes_2012
+42,0,P1,Rio Ave,A,2,2012-10-07,A,Estoril,1,3,Estoril_Rio Ave_2012
+43,0,P1,Gil Vicente,A,0,2012-10-07,D,Nacional,0,1,Nacional_Gil Vicente_2012
+44,1,P1,Sp Lisbon,H,0,2012-10-07,H,Porto,2,0,Porto_Sp Lisbon_2012
+45,0,P1,Pacos Ferreira,D,0,2012-10-07,D,Setubal,0,0,Setubal_Pacos Ferreira_2012
+46,1,P1,Olhanense,D,3,2012-10-07,A,Sp Braga,4,4,Sp Braga_Olhanense_2012
+47,0,P1,Maritimo,A,0,2012-10-08,D,Moreirense,0,1,Moreirense_Maritimo_2012
+48,0,P1,Setubal,H,0,2012-10-26,D,Guimaraes,2,1,Guimaraes_Setubal_2012
+49,0,P1,Pacos Ferreira,A,0,2012-10-27,D,Beira Mar,0,2,Beira Mar_Pacos Ferreira_2012
+50,0,P1,Benfica,A,3,2012-10-27,A,Gil Vicente,0,3,Gil Vicente_Benfica_2012
+51,1,P1,Moreirense,D,1,2012-10-27,D,Olhanense,2,2,Olhanense_Moreirense_2012
+52,1,P1,Porto,A,0,2012-10-28,H,Estoril,1,2,Estoril_Porto_2012
+53,0,P1,Sp Braga,A,0,2012-10-28,D,Maritimo,0,2,Maritimo_Sp Braga_2012
+54,0,P1,Nacional,H,1,2012-10-28,A,Rio Ave,2,1,Rio Ave_Nacional_2012
+55,0,P1,Academica,D,0,2012-10-29,D,Sp Lisbon,0,0,Sp Lisbon_Academica_2012
+56,2,P1,Maritimo,H,0,2012-11-02,H,Porto,5,0,Porto_Maritimo_2012
+57,1,P1,Guimaraes,H,0,2012-11-03,H,Benfica,3,0,Benfica_Guimaraes_2012
+58,1,P1,Gil Vicente,H,0,2012-11-03,H,Sp Braga,3,1,Sp Braga_Gil Vicente_2012
+59,0,P1,Estoril,A,0,2012-11-04,D,Academica,0,2,Academica_Estoril_2012
+60,0,P1,Rio Ave,A,0,2012-11-04,D,Moreirense,0,1,Moreirense_Rio Ave_2012
+61,0,P1,Beira Mar,A,2,2012-11-04,A,Nacional,2,4,Nacional_Beira Mar_2012
+62,0,P1,Olhanense,D,0,2012-11-04,D,Pacos Ferreira,0,0,Pacos Ferreira_Olhanense_2012
+63,1,P1,Sp Lisbon,H,1,2012-11-04,D,Setubal,2,1,Setubal_Sp Lisbon_2012
+64,0,P1,Pacos Ferreira,A,0,2012-11-09,D,Gil Vicente,0,1,Gil Vicente_Pacos Ferreira_2012
+65,1,P1,Nacional,A,0,2012-11-10,H,Guimaraes,1,3,Guimaraes_Nacional_2012
+66,1,P1,Moreirense,H,0,2012-11-11,H,Estoril,2,0,Estoril_Moreirense_2012
+67,1,P1,Beira Mar,H,0,2012-11-11,H,Olhanense,1,0,Olhanense_Beira Mar_2012
+68,0,P1,Academica,H,0,2012-11-11,D,Porto,2,1,Porto_Academica_2012
+69,0,P1,Benfica,A,1,2012-11-11,A,Rio Ave,0,1,Rio Ave_Benfica_2012
+70,1,P1,Sp Braga,H,0,2012-11-11,H,Sp Lisbon,1,0,Sp Lisbon_Sp Braga_2012
+71,0,P1,Setubal,D,1,2012-11-12,A,Maritimo,1,1,Maritimo_Setubal_2012
+72,1,P1,Guimaraes,D,1,2012-11-23,D,Beira Mar,2,2,Beira Mar_Guimaraes_2012
+73,1,P1,Olhanense,H,0,2012-11-24,H,Benfica,2,0,Benfica_Olhanense_2012
+74,0,P1,Gil Vicente,D,0,2012-11-25,D,Academica,2,2,Academica_Gil Vicente_2012
+75,0,P1,Estoril,H,0,2012-11-25,D,Nacional,1,0,Nacional_Estoril_2012
+76,1,P1,Rio Ave,A,4,2012-11-25,A,Setubal,3,5,Setubal_Rio Ave_2012
+77,0,P1,Porto,A,0,2012-11-25,D,Sp Braga,0,2,Sp Braga_Porto_2012
+78,2,P1,Sp Lisbon,D,0,2012-11-26,H,Moreirense,2,2,Moreirense_Sp Lisbon_2012
+79,1,P1,Maritimo,D,1,2012-11-27,D,Pacos Ferreira,2,2,Pacos Ferreira_Maritimo_2012
+80,1,P1,Setubal,H,0,2012-12-07,H,Estoril,3,0,Estoril_Setubal_2012
+81,0,P1,Moreirense,H,0,2012-12-08,D,Porto,1,0,Porto_Moreirense_2012
+82,0,P1,Beira Mar,A,1,2012-12-09,A,Gil Vicente,1,2,Gil Vicente_Beira Mar_2012
+83,1,P1,Olhanense,H,0,2012-12-09,H,Guimaraes,2,0,Guimaraes_Olhanense_2012
+84,0,P1,Nacional,H,0,2012-12-09,D,Maritimo,2,0,Maritimo_Nacional_2012
+85,0,P1,Pacos Ferreira,D,0,2012-12-09,D,Rio Ave,0,0,Rio Ave_Pacos Ferreira_2012
+86,0,P1,Sp Braga,A,2,2012-12-10,A,Academica,1,4,Academica_Sp Braga_2012
+87,1,P1,Benfica,A,0,2012-12-10,H,Sp Lisbon,1,3,Sp Lisbon_Benfica_2012
+88,2,P1,Rio Ave,H,0,2012-12-15,H,Beira Mar,3,1,Beira Mar_Rio Ave_2012
+89,1,P1,Maritimo,H,1,2012-12-15,D,Benfica,4,1,Benfica_Maritimo_2012
+90,1,P1,Sp Lisbon,D,0,2012-12-15,H,Nacional,1,1,Nacional_Sp Lisbon_2012
+91,0,P1,Gil Vicente,D,1,2012-12-15,A,Olhanense,2,2,Olhanense_Gil Vicente_2012
+92,2,P1,Academica,D,1,2012-12-16,H,Moreirense,2,2,Moreirense_Academica_2012
+93,1,P1,Guimaraes,H,0,2012-12-16,H,Pacos Ferreira,2,1,Pacos Ferreira_Guimaraes_2012
+94,1,P1,Estoril,H,0,2012-12-16,H,Sp Braga,3,0,Sp Braga_Estoril_2012
+95,3,P1,Setubal,H,0,2013-01-05,H,Academica,4,2,Academica_Setubal_2012
+96,0,P1,Guimaraes,D,0,2013-01-05,D,Gil Vicente,0,0,Gil Vicente_Guimaraes_2012
+97,1,P1,Nacional,H,0,2013-01-05,H,Porto,1,0,Porto_Nacional_2012
+98,0,P1,Olhanense,A,0,2013-01-05,D,Rio Ave,0,1,Rio Ave_Olhanense_2012
+99,0,P1,Pacos Ferreira,A,1,2013-01-05,A,Sp Lisbon,0,1,Sp Lisbon_Pacos Ferreira_2012
+100,0,P1,Benfica,A,1,2013-01-06,A,Estoril,1,3,Estoril_Benfica_2012
+101,0,P1,Beira Mar,D,0,2013-01-06,D,Maritimo,1,1,Maritimo_Beira Mar_2012
+102,0,P1,Moreirense,H,0,2013-01-06,D,Sp Braga,1,0,Sp Braga_Moreirense_2012
+103,0,P1,Maritimo,D,1,2013-01-12,A,Guimaraes,1,1,Guimaraes_Maritimo_2012
+104,0,P1,Sp Braga,H,1,2013-01-12,A,Nacional,3,2,Nacional_Sp Braga_2012
+105,2,P1,Porto,D,2,2013-01-13,D,Benfica,2,2,Benfica_Porto_2012
+106,0,P1,Rio Ave,A,1,2013-01-13,A,Gil Vicente,0,1,Gil Vicente_Rio Ave_2012
+107,0,P1,Sp Lisbon,A,1,2013-01-13,A,Olhanense,0,2,Olhanense_Sp Lisbon_2012
+108,0,P1,Academica,H,0,2013-01-13,D,Pacos Ferreira,1,0,Pacos Ferreira_Academica_2012
+109,2,P1,Moreirense,H,0,2013-01-13,H,Setubal,5,0,Setubal_Moreirense_2012
+110,0,P1,Estoril,A,1,2013-01-14,A,Beira Mar,0,1,Beira Mar_Estoril_2012
+111,0,P1,Beira Mar,H,0,2013-01-18,D,Sp Lisbon,1,0,Sp Lisbon_Beira Mar_2012
+112,0,P1,Pacos Ferreira,H,0,2013-01-19,D,Porto,2,0,Porto_Pacos Ferreira_2012
+113,1,P1,Gil Vicente,A,1,2013-01-20,D,Estoril,1,2,Estoril_Gil Vicente_2012
+114,1,P1,Olhanense,H,0,2013-01-20,H,Maritimo,1,0,Maritimo_Olhanense_2012
+115,0,P1,Guimaraes,A,0,2013-01-20,D,Rio Ave,1,3,Rio Ave_Guimaraes_2012
+116,2,P1,Setubal,H,0,2013-01-20,H,Sp Braga,4,1,Sp Braga_Setubal_2012
+117,0,P1,Nacional,H,1,2013-01-21,A,Academica,2,1,Academica_Nacional_2012
+118,0,P1,Benfica,A,0,2013-01-21,D,Moreirense,0,2,Moreirense_Benfica_2012
+119,0,P1,Porto,A,1,2013-01-23,A,Setubal,0,3,Setubal_Porto_2012
+120,3,P1,Beira Mar,H,0,2013-01-25,H,Academica,3,1,Academica_Beira Mar_2012
+121,0,P1,Benfica,A,2,2013-01-26,A,Sp Braga,1,2,Sp Braga_Benfica_2012
+122,2,P1,Olhanense,D,1,2013-01-27,H,Estoril,3,3,Estoril_Olhanense_2012
+123,1,P1,Rio Ave,D,1,2013-01-27,D,Maritimo,1,1,Maritimo_Rio Ave_2012
+124,0,P1,Pacos Ferreira,A,2,2013-01-27,A,Moreirense,0,5,Moreirense_Pacos Ferreira_2012
+125,0,P1,Nacional,A,0,2013-01-27,D,Setubal,0,2,Setubal_Nacional_2012
+126,0,P1,Guimaraes,D,0,2013-01-27,D,Sp Lisbon,1,1,Sp Lisbon_Guimaraes_2012
+127,2,P1,Gil Vicente,H,0,2013-01-28,H,Porto,5,0,Porto_Gil Vicente_2012
+128,0,P1,Porto,A,2,2013-02-02,A,Guimaraes,0,4,Guimaraes_Porto_2012
+129,1,P1,Sp Lisbon,H,1,2013-02-02,D,Rio Ave,2,1,Rio Ave_Sp Lisbon_2012
+130,2,P1,Sp Braga,D,2,2013-02-03,D,Beira Mar,3,3,Beira Mar_Sp Braga_2012
+131,1,P1,Setubal,H,0,2013-02-03,H,Benfica,3,0,Benfica_Setubal_2012
+132,2,P1,Maritimo,H,0,2013-02-03,H,Gil Vicente,4,2,Gil Vicente_Maritimo_2012
+133,0,P1,Moreirense,A,1,2013-02-03,A,Nacional,1,2,Nacional_Moreirense_2012
+134,0,P1,Academica,D,0,2013-02-03,D,Olhanense,0,0,Olhanense_Academica_2012
+135,0,P1,Estoril,H,0,2013-02-05,D,Pacos Ferreira,1,0,Pacos Ferreira_Estoril_2012
+136,1,P1,Guimaraes,H,0,2013-02-09,H,Estoril,2,0,Estoril_Guimaraes_2012
+137,0,P1,Rio Ave,A,1,2013-02-10,A,Academica,1,2,Academica_Rio Ave_2012
+138,1,P1,Beira Mar,H,0,2013-02-10,H,Moreirense,3,0,Moreirense_Beira Mar_2012
+139,1,P1,Benfica,D,2,2013-02-10,A,Nacional,2,2,Nacional_Benfica_2012
+140,0,P1,Olhanense,D,1,2013-02-10,A,Porto,1,1,Porto_Olhanense_2012
+141,1,P1,Gil Vicente,H,0,2013-02-10,H,Setubal,1,0,Setubal_Gil Vicente_2012
+142,0,P1,Maritimo,A,1,2013-02-10,A,Sp Lisbon,0,1,Sp Lisbon_Maritimo_2012
+143,0,P1,Pacos Ferreira,A,2,2013-02-11,A,Sp Braga,2,3,Sp Braga_Pacos Ferreira_2012
+144,0,P1,Porto,A,1,2013-02-15,A,Beira Mar,0,2,Beira Mar_Porto_2012
+145,1,P1,Sp Lisbon,A,2,2013-02-16,A,Gil Vicente,2,3,Gil Vicente_Sp Lisbon_2012
+146,0,P1,Academica,H,0,2013-02-17,D,Benfica,1,0,Benfica_Academica_2012
+147,1,P1,Moreirense,H,0,2013-02-17,H,Guimaraes,1,0,Guimaraes_Moreirense_2012
+148,2,P1,Estoril,H,0,2013-02-17,H,Maritimo,2,1,Maritimo_Estoril_2012
+149,0,P1,Setubal,A,0,2013-02-17,D,Olhanense,0,1,Olhanense_Setubal_2012
+150,1,P1,Nacional,D,0,2013-02-17,H,Pacos Ferreira,1,1,Pacos Ferreira_Nacional_2012
+151,1,P1,Sp Braga,D,1,2013-02-18,D,Rio Ave,1,1,Rio Ave_Sp Braga_2012
+152,2,P1,Sp Lisbon,H,1,2013-02-22,H,Estoril,3,1,Estoril_Sp Lisbon_2012
+153,1,P1,Rio Ave,H,1,2013-02-23,D,Porto,2,1,Porto_Rio Ave_2012
+154,1,P1,Beira Mar,H,0,2013-02-23,H,Setubal,1,0,Setubal_Beira Mar_2012
+155,1,P1,Guimaraes,H,0,2013-02-23,H,Sp Braga,3,2,Sp Braga_Guimaraes_2012
+156,1,P1,Pacos Ferreira,H,0,2013-02-24,H,Benfica,3,0,Benfica_Pacos Ferreira_2012
+157,0,P1,Gil Vicente,D,0,2013-02-24,D,Moreirense,0,0,Moreirense_Gil Vicente_2012
+158,1,P1,Olhanense,H,0,2013-02-24,H,Nacional,3,1,Nacional_Olhanense_2012
+159,1,P1,Maritimo,A,2,2013-02-25,A,Academica,2,3,Academica_Maritimo_2012
+160,1,P1,Setubal,H,0,2013-03-02,H,Pacos Ferreira,2,0,Pacos Ferreira_Setubal_2012
+161,0,P1,Porto,D,0,2013-03-02,D,Sp Lisbon,0,0,Sp Lisbon_Porto_2012
+162,0,P1,Benfica,A,1,2013-03-03,A,Beira Mar,0,1,Beira Mar_Benfica_2012
+163,1,P1,Nacional,A,0,2013-03-03,H,Gil Vicente,1,2,Gil Vicente_Nacional_2012
+164,0,P1,Moreirense,D,0,2013-03-03,D,Maritimo,1,1,Maritimo_Moreirense_2012
+165,0,P1,Estoril,A,0,2013-03-03,D,Rio Ave,0,2,Rio Ave_Estoril_2012
+166,2,P1,Academica,H,0,2013-03-04,H,Guimaraes,2,0,Guimaraes_Academica_2012
+167,0,P1,Sp Braga,A,1,2013-03-04,A,Olhanense,0,1,Olhanense_Sp Braga_2012
+168,2,P1,Estoril,H,0,2013-03-08,H,Porto,2,0,Porto_Estoril_2012
+169,1,P1,Sp Lisbon,D,0,2013-03-09,H,Academica,1,1,Academica_Sp Lisbon_2012
+170,1,P1,Maritimo,H,0,2013-03-09,H,Sp Braga,2,0,Sp Braga_Maritimo_2012
+171,3,P1,Gil Vicente,H,0,2013-03-10,H,Benfica,5,0,Benfica_Gil Vicente_2012
+172,1,P1,Olhanense,D,0,2013-03-10,H,Moreirense,1,1,Moreirense_Olhanense_2012
+173,1,P1,Rio Ave,D,0,2013-03-10,H,Nacional,1,1,Nacional_Rio Ave_2012
+174,0,P1,Beira Mar,D,1,2013-03-10,A,Pacos Ferreira,1,1,Pacos Ferreira_Beira Mar_2012
+175,0,P1,Guimaraes,A,1,2013-03-11,A,Setubal,2,3,Setubal_Guimaraes_2012
+176,0,P1,Sp Braga,A,1,2013-03-15,A,Gil Vicente,1,3,Gil Vicente_Sp Braga_2012
+177,1,P1,Pacos Ferreira,A,2,2013-03-16,A,Olhanense,1,2,Olhanense_Pacos Ferreira_2012
+178,2,P1,Setubal,H,1,2013-03-16,H,Sp Lisbon,2,1,Sp Lisbon_Setubal_2012
+179,1,P1,Nacional,D,0,2013-03-17,H,Beira Mar,2,2,Beira Mar_Nacional_2012
+180,2,P1,Academica,H,0,2013-03-17,H,Estoril,2,0,Estoril_Academica_2012
+181,0,P1,Benfica,A,1,2013-03-17,A,Guimaraes,0,4,Guimaraes_Benfica_2012
+182,1,P1,Porto,D,1,2013-03-17,D,Maritimo,1,1,Maritimo_Porto_2012
+183,0,P1,Moreirense,A,0,2013-03-17,D,Rio Ave,0,1,Rio Ave_Moreirense_2012
+184,2,P1,Gil Vicente,H,1,2013-03-29,H,Pacos Ferreira,3,2,Pacos Ferreira_Gil Vicente_2012
+185,0,P1,Porto,A,1,2013-03-30,A,Academica,0,3,Academica_Porto_2012
+186,0,P1,Olhanense,A,0,2013-03-30,D,Beira Mar,0,1,Beira Mar_Olhanense_2012
+187,3,P1,Rio Ave,H,0,2013-03-30,H,Benfica,6,1,Benfica_Rio Ave_2012
+188,1,P1,Estoril,D,0,2013-03-30,H,Moreirense,1,1,Moreirense_Estoril_2012
+189,0,P1,Maritimo,A,3,2013-03-30,A,Setubal,2,4,Setubal_Maritimo_2012
+190,1,P1,Guimaraes,H,1,2013-04-01,D,Nacional,2,1,Nacional_Guimaraes_2012
+191,2,P1,Sp Lisbon,A,2,2013-04-01,D,Sp Braga,2,3,Sp Braga_Sp Lisbon_2012
+192,1,P1,Pacos Ferreira,D,1,2013-04-05,D,Maritimo,1,1,Maritimo_Pacos Ferreira_2012
+193,1,P1,Moreirense,H,0,2013-04-06,H,Sp Lisbon,3,2,Sp Lisbon_Moreirense_2012
+194,3,P1,Nacional,H,0,2013-04-07,H,Estoril,4,0,Estoril_Nacional_2012
+195,0,P1,Academica,H,1,2013-04-07,A,Gil Vicente,2,1,Gil Vicente_Academica_2012
+196,1,P1,Beira Mar,H,1,2013-04-07,D,Guimaraes,2,1,Guimaraes_Beira Mar_2012
+197,0,P1,Benfica,A,0,2013-04-07,D,Olhanense,0,2,Olhanense_Benfica_2012
+198,2,P1,Setubal,H,1,2013-04-07,H,Rio Ave,2,1,Rio Ave_Setubal_2012
+199,1,P1,Sp Braga,H,1,2013-04-08,D,Porto,3,1,Porto_Sp Braga_2012
+200,1,P1,Academica,H,0,2013-04-19,H,Sp Braga,1,0,Sp Braga_Academica_2012
+201,0,P1,Porto,A,1,2013-04-20,A,Moreirense,0,3,Moreirense_Porto_2012
+202,0,P1,Rio Ave,H,0,2013-04-20,D,Pacos Ferreira,2,1,Pacos Ferreira_Rio Ave_2012
+203,0,P1,Gil Vicente,H,0,2013-04-21,D,Beira Mar,1,0,Beira Mar_Gil Vicente_2012
+204,1,P1,Sp Lisbon,H,0,2013-04-21,H,Benfica,2,0,Benfica_Sp Lisbon_2012
+205,0,P1,Maritimo,H,0,2013-04-21,D,Nacional,2,1,Nacional_Maritimo_2012
+206,0,P1,Estoril,H,0,2013-04-21,D,Setubal,1,0,Setubal_Estoril_2012
+207,0,P1,Guimaraes,A,2,2013-04-22,A,Olhanense,1,2,Olhanense_Guimaraes_2012
+208,0,P1,Sp Braga,H,1,2013-04-26,A,Estoril,2,1,Estoril_Sp Braga_2012
+209,0,P1,Setubal,H,0,2013-04-27,D,Porto,2,0,Porto_Setubal_2012
+210,1,P1,Moreirense,H,0,2013-04-28,H,Academica,1,0,Academica_Moreirense_2012
+211,1,P1,Olhanense,H,0,2013-04-28,H,Gil Vicente,2,0,Gil Vicente_Olhanense_2012
+212,0,P1,Pacos Ferreira,D,0,2013-04-28,D,Guimaraes,2,2,Guimaraes_Pacos Ferreira_2012
+213,0,P1,Beira Mar,H,1,2013-04-28,A,Rio Ave,2,1,Rio Ave_Beira Mar_2012
+214,1,P1,Nacional,H,0,2013-04-28,H,Sp Lisbon,2,1,Sp Lisbon_Nacional_2012
+215,1,P1,Benfica,A,1,2013-04-29,D,Maritimo,1,2,Maritimo_Benfica_2012
+216,0,P1,Sp Braga,A,2,2013-05-03,A,Moreirense,2,3,Moreirense_Sp Braga_2012
+217,1,P1,Porto,A,3,2013-05-04,A,Nacional,1,3,Nacional_Porto_2012
+218,2,P1,Maritimo,H,2,2013-05-05,D,Beira Mar,4,2,Beira Mar_Maritimo_2012
+219,1,P1,Gil Vicente,H,1,2013-05-05,D,Guimaraes,3,1,Guimaraes_Gil Vicente_2012
+220,1,P1,Rio Ave,H,0,2013-05-05,H,Olhanense,1,0,Olhanense_Rio Ave_2012
+221,0,P1,Sp Lisbon,H,0,2013-05-05,D,Pacos Ferreira,1,0,Pacos Ferreira_Sp Lisbon_2012
+222,0,P1,Academica,A,0,2013-05-05,D,Setubal,0,1,Setubal_Academica_2012
+223,0,P1,Estoril,D,0,2013-05-06,D,Benfica,1,1,Benfica_Estoril_2012
+224,0,P1,Pacos Ferreira,D,0,2013-05-11,D,Academica,1,1,Academica_Pacos Ferreira_2012
+225,1,P1,Beira Mar,H,1,2013-05-11,D,Estoril,2,1,Estoril_Beira Mar_2012
+226,1,P1,Guimaraes,H,0,2013-05-11,H,Maritimo,1,0,Maritimo_Guimaraes_2012
+227,1,P1,Setubal,H,1,2013-05-11,D,Moreirense,2,1,Moreirense_Setubal_2012
+228,1,P1,Benfica,H,1,2013-05-11,D,Porto,2,1,Porto_Benfica_2012
+229,1,P1,Gil Vicente,H,0,2013-05-11,H,Rio Ave,2,1,Rio Ave_Gil Vicente_2012
+230,1,P1,Nacional,A,0,2013-05-11,H,Sp Braga,1,3,Sp Braga_Nacional_2012
+231,0,P1,Olhanense,H,0,2013-05-11,D,Sp Lisbon,1,0,Sp Lisbon_Olhanense_2012
+232,0,P1,Sp Lisbon,A,3,2013-05-19,A,Beira Mar,1,4,Beira Mar_Sp Lisbon_2012
+233,0,P1,Moreirense,H,1,2013-05-19,A,Benfica,3,1,Benfica_Moreirense_2012
+234,1,P1,Estoril,A,0,2013-05-19,H,Gil Vicente,1,3,Gil Vicente_Estoril_2012
+235,0,P1,Rio Ave,A,0,2013-05-19,D,Guimaraes,0,1,Guimaraes_Rio Ave_2012
+236,1,P1,Academica,H,0,2013-05-19,H,Nacional,2,1,Nacional_Academica_2012
+237,0,P1,Maritimo,D,0,2013-05-19,D,Olhanense,0,0,Olhanense_Maritimo_2012
+238,0,P1,Porto,A,1,2013-05-19,A,Pacos Ferreira,0,2,Pacos Ferreira_Porto_2012
+239,0,P1,Sp Braga,A,1,2013-05-19,A,Setubal,0,1,Setubal_Sp Braga_2012

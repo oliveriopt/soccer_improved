@@ -1,6 +1,6 @@
 from src.utils.get_root_path import get_project_root
 
-import src.cons_paths as cons_path
+import src.define_paths as cons_path
 import src.cons_input_data as cons_input
 import pandas as pd
 import csv

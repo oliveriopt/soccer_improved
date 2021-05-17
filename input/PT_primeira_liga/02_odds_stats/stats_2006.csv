@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,2,P1,Leiria,H,0,2006-08-25,H,Porto,2,1,Porto_Leiria_2006
+1,1,P1,Aves,D,1,2006-08-26,D,Beira Mar,2,2,Beira Mar_Aves_2006
+2,0,P1,Pacos Ferreira,H,0,2006-08-26,D,Sp Braga,2,1,Sp Braga_Pacos Ferreira_2006
+3,0,P1,Boavista,H,1,2006-08-26,A,Sp Lisbon,3,2,Sp Lisbon_Boavista_2006
+4,1,P1,Nacional,H,0,2006-08-27,H,Maritimo,1,0,Maritimo_Nacional_2006
+5,1,P1,Est Amadora,H,0,2006-08-27,H,Naval,2,0,Naval_Est Amadora_2006
+6,0,P1,Academica,D,0,2006-08-28,D,Setubal,1,1,Setubal_Academica_2006
+7,0,P1,Sp Braga,A,1,2006-09-08,A,Aves,0,1,Aves_Sp Braga_2006
+8,1,P1,Benfica,H,0,2006-09-09,H,Boavista,3,0,Boavista_Benfica_2006
+9,0,P1,Sp Lisbon,A,1,2006-09-09,A,Nacional,0,1,Nacional_Sp Lisbon_2006
+10,1,P1,Naval,A,0,2006-09-10,H,Academica,1,2,Academica_Naval_2006
+11,1,P1,Setubal,H,0,2006-09-10,H,Belenenses,2,0,Belenenses_Setubal_2006
+12,0,P1,Porto,A,0,2006-09-10,D,Est Amadora,0,3,Est Amadora_Porto_2006
+13,1,P1,Maritimo,H,0,2006-09-10,H,Pacos Ferreira,2,1,Pacos Ferreira_Maritimo_2006
+14,0,P1,Beira Mar,D,1,2006-09-11,A,Leiria,2,2,Leiria_Beira Mar_2006
+15,0,P1,Pacos Ferreira,A,1,2006-09-16,A,Sp Lisbon,0,1,Sp Lisbon_Pacos Ferreira_2006
+16,1,P1,Belenenses,D,1,2006-09-17,D,Academica,1,1,Academica_Belenenses_2006
+17,1,P1,Est Amadora,H,0,2006-09-17,H,Beira Mar,2,0,Beira Mar_Est Amadora_2006
+18,1,P1,Nacional,H,0,2006-09-17,H,Benfica,1,0,Benfica_Nacional_2006
+19,0,P1,Aves,D,0,2006-09-17,D,Maritimo,0,0,Maritimo_Aves_2006
+20,0,P1,Porto,A,2,2006-09-17,A,Naval,0,2,Naval_Porto_2006
+21,0,P1,Leiria,A,1,2006-09-18,A,Sp Braga,0,1,Sp Braga_Leiria_2006
+22,0,P1,Boavista,H,0,2006-09-19,D,Setubal,1,0,Setubal_Boavista_2006
+23,0,P1,Benfica,D,1,2006-09-22,A,Pacos Ferreira,1,1,Pacos Ferreira_Benfica_2006
+24,0,P1,Beira Mar,H,0,2006-09-22,D,Porto,3,0,Porto_Beira Mar_2006
+25,0,P1,Sp Lisbon,A,1,2006-09-23,A,Aves,0,2,Aves_Sp Lisbon_2006
+26,0,P1,Naval,D,0,2006-09-23,D,Belenenses,0,0,Belenenses_Naval_2006
+27,0,P1,Sp Braga,D,0,2006-09-23,D,Est Amadora,0,0,Est Amadora_Sp Braga_2006
+28,1,P1,Academica,D,1,2006-09-24,D,Boavista,2,2,Boavista_Academica_2006
+29,0,P1,Setubal,H,0,2006-09-24,D,Nacional,1,0,Nacional_Setubal_2006
+30,0,P1,Maritimo,H,0,2006-09-25,D,Leiria,1,0,Leiria_Maritimo_2006
+31,0,P1,Beira Mar,H,0,2006-09-29,D,Naval,2,1,Naval_Beira Mar_2006
+32,0,P1,Boavista,A,2,2006-09-30,A,Belenenses,0,2,Belenenses_Boavista_2006
+33,1,P1,Nacional,A,1,2006-10-01,D,Academica,1,3,Academica_Nacional_2006
+34,1,P1,Aves,H,1,2006-10-01,D,Benfica,4,1,Benfica_Aves_2006
+35,0,P1,Est Amadora,H,0,2006-10-01,D,Maritimo,2,1,Maritimo_Est Amadora_2006
+36,1,P1,Pacos Ferreira,D,0,2006-10-02,H,Setubal,1,1,Setubal_Pacos Ferreira_2006
+37,1,P1,Porto,H,1,2006-10-02,D,Sp Braga,2,1,Sp Braga_Porto_2006
+38,1,P1,Leiria,H,0,2006-10-02,H,Sp Lisbon,2,0,Sp Lisbon_Leiria_2006
+39,0,P1,Sp Braga,A,1,2006-10-13,A,Beira Mar,0,3,Beira Mar_Sp Braga_2006
+40,0,P1,Benfica,A,2,2006-10-14,A,Leiria,0,4,Leiria_Benfica_2006
+41,1,P1,Maritimo,H,0,2006-10-14,H,Porto,3,0,Porto_Maritimo_2006
+42,0,P1,Setubal,A,0,2006-10-15,D,Aves,1,2,Aves_Setubal_2006
+43,0,P1,Sp Lisbon,A,1,2006-10-15,A,Est Amadora,0,1,Est Amadora_Sp Lisbon_2006
+44,1,P1,Belenenses,H,1,2006-10-15,D,Nacional,2,1,Nacional_Belenenses_2006
+45,0,P1,Academica,D,1,2006-10-15,A,Pacos Ferreira,1,1,Pacos Ferreira_Academica_2006
+46,0,P1,Naval,A,0,2006-10-16,D,Boavista,0,1,Boavista_Naval_2006
+47,2,P1,Pacos Ferreira,H,0,2006-10-20,H,Belenenses,2,0,Belenenses_Pacos Ferreira_2006
+48,0,P1,Nacional,A,2,2006-10-21,A,Boavista,0,4,Boavista_Nacional_2006
+49,1,P1,Aves,H,0,2006-10-22,H,Academica,2,0,Academica_Aves_2006
+50,1,P1,Est Amadora,H,1,2006-10-22,D,Benfica,3,1,Benfica_Est Amadora_2006
+51,0,P1,Beira Mar,H,0,2006-10-22,D,Maritimo,2,1,Maritimo_Beira Mar_2006
+52,1,P1,Leiria,A,1,2006-10-22,D,Setubal,1,2,Setubal_Leiria_2006
+53,1,P1,Porto,D,0,2006-10-22,H,Sp Lisbon,1,1,Sp Lisbon_Porto_2006
+54,0,P1,Sp Braga,D,1,2006-10-23,A,Naval,1,1,Naval_Sp Braga_2006
+55,1,P1,Sp Lisbon,D,0,2006-10-27,H,Beira Mar,3,3,Beira Mar_Sp Lisbon_2006
+56,1,P1,Academica,H,0,2006-10-28,H,Leiria,2,0,Leiria_Academica_2006
+57,2,P1,Benfica,H,0,2006-10-28,H,Porto,3,2,Porto_Benfica_2006
+58,0,P1,Belenenses,A,0,2006-10-29,D,Aves,0,1,Aves_Belenenses_2006
+59,0,P1,Setubal,H,0,2006-10-29,D,Est Amadora,1,0,Est Amadora_Setubal_2006
+60,1,P1,Naval,D,1,2006-10-29,D,Nacional,1,1,Nacional_Naval_2006
+61,0,P1,Maritimo,A,2,2006-10-29,A,Sp Braga,1,4,Sp Braga_Maritimo_2006
+62,1,P1,Boavista,H,0,2006-10-30,H,Pacos Ferreira,2,0,Pacos Ferreira_Boavista_2006
+63,0,P1,Leiria,A,1,2006-11-03,A,Belenenses,0,1,Belenenses_Leiria_2006
+64,0,P1,Aves,H,1,2006-11-04,A,Boavista,2,1,Boavista_Aves_2006
+65,0,P1,Est Amadora,H,0,2006-11-05,D,Academica,2,0,Academica_Est Amadora_2006
+66,0,P1,Beira Mar,H,0,2006-11-05,D,Benfica,3,0,Benfica_Beira Mar_2006
+67,3,P1,Pacos Ferreira,H,0,2006-11-05,H,Nacional,5,1,Nacional_Pacos Ferreira_2006
+68,0,P1,Maritimo,A,0,2006-11-05,D,Naval,0,1,Naval_Maritimo_2006
+69,0,P1,Porto,A,2,2006-11-06,A,Setubal,0,3,Setubal_Porto_2006
+70,2,P1,Sp Braga,H,0,2006-11-06,H,Sp Lisbon,3,0,Sp Lisbon_Sp Braga_2006
+71,0,P1,Setubal,D,0,2006-11-17,D,Beira Mar,1,1,Beira Mar_Setubal_2006
+72,0,P1,Academica,H,0,2006-11-18,D,Porto,2,1,Porto_Academica_2006
+73,2,P1,Benfica,H,1,2006-11-18,H,Sp Braga,3,1,Sp Braga_Benfica_2006
+74,1,P1,Nacional,H,1,2006-11-19,D,Aves,3,1,Aves_Nacional_2006
+75,0,P1,Boavista,D,0,2006-11-19,D,Leiria,0,0,Leiria_Boavista_2006
+76,0,P1,Sp Lisbon,A,0,2006-11-19,D,Maritimo,0,1,Maritimo_Sp Lisbon_2006
+77,1,P1,Naval,D,0,2006-11-19,H,Pacos Ferreira,1,1,Pacos Ferreira_Naval_2006
+78,1,P1,Belenenses,H,0,2006-11-20,H,Est Amadora,1,0,Est Amadora_Belenenses_2006
+79,0,P1,Est Amadora,D,1,2006-11-24,A,Boavista,1,1,Boavista_Est Amadora_2006
+80,1,P1,Maritimo,H,1,2006-11-25,D,Benfica,2,1,Benfica_Maritimo_2006
+81,1,P1,Beira Mar,H,1,2006-11-26,D,Academica,3,1,Academica_Beira Mar_2006
+82,0,P1,Porto,A,1,2006-11-26,A,Belenenses,0,1,Belenenses_Porto_2006
+83,1,P1,Leiria,H,0,2006-11-26,H,Nacional,2,1,Nacional_Leiria_2006
+84,0,P1,Sp Lisbon,A,0,2006-11-26,D,Naval,0,1,Naval_Sp Lisbon_2006
+85,1,P1,Aves,H,0,2006-11-26,H,Pacos Ferreira,2,0,Pacos Ferreira_Aves_2006
+86,0,P1,Sp Braga,A,1,2006-11-27,A,Setubal,1,2,Setubal_Sp Braga_2006
+87,0,P1,Benfica,A,2,2006-12-01,A,Sp Lisbon,0,2,Sp Lisbon_Benfica_2006
+88,0,P1,Belenenses,A,2,2006-12-02,A,Beira Mar,1,2,Beira Mar_Belenenses_2006
+89,0,P1,Boavista,H,0,2006-12-02,D,Porto,2,0,Porto_Boavista_2006
+90,0,P1,Naval,H,0,2006-12-03,D,Aves,2,0,Aves_Naval_2006
+91,0,P1,Nacional,H,0,2006-12-03,D,Est Amadora,2,0,Est Amadora_Nacional_2006
+92,0,P1,Pacos Ferreira,D,0,2006-12-03,D,Leiria,0,0,Leiria_Pacos Ferreira_2006
+93,2,P1,Academica,H,0,2006-12-03,H,Sp Braga,4,2,Sp Braga_Academica_2006
+94,0,P1,Setubal,H,0,2006-12-04,D,Maritimo,1,0,Maritimo_Setubal_2006
+95,1,P1,Sp Braga,H,0,2006-12-08,H,Belenenses,2,0,Belenenses_Sp Braga_2006
+96,2,P1,Beira Mar,H,0,2006-12-09,H,Boavista,3,0,Boavista_Beira Mar_2006
+97,0,P1,Sp Lisbon,A,2,2006-12-09,A,Setubal,0,3,Setubal_Sp Lisbon_2006
+98,0,P1,Maritimo,A,1,2006-12-10,A,Academica,1,2,Academica_Maritimo_2006
+99,0,P1,Leiria,A,0,2006-12-10,D,Aves,0,1,Aves_Leiria_2006
+100,0,P1,Benfica,D,0,2006-12-10,D,Naval,0,0,Naval_Benfica_2006
+101,1,P1,Est Amadora,D,1,2006-12-10,D,Pacos Ferreira,1,1,Pacos Ferreira_Est Amadora_2006
+102,1,P1,Porto,A,0,2006-12-11,H,Nacional,1,2,Nacional_Porto_2006
+103,0,P1,Belenenses,A,2,2006-12-15,A,Maritimo,1,4,Maritimo_Belenenses_2006
+104,1,P1,Setubal,H,0,2006-12-16,H,Benfica,3,0,Benfica_Setubal_2006
+105,1,P1,Academica,H,0,2006-12-16,H,Sp Lisbon,1,0,Sp Lisbon_Academica_2006
+106,0,P1,Nacional,D,0,2006-12-17,D,Beira Mar,1,1,Beira Mar_Nacional_2006
+107,1,P1,Aves,H,0,2006-12-17,H,Est Amadora,1,0,Est Amadora_Aves_2006
+108,0,P1,Leiria,H,1,2006-12-17,A,Naval,2,1,Naval_Leiria_2006
+109,2,P1,Pacos Ferreira,H,0,2006-12-17,H,Porto,4,0,Porto_Pacos Ferreira_2006
+110,2,P1,Boavista,D,1,2006-12-18,H,Sp Braga,2,2,Sp Braga_Boavista_2006
+111,2,P1,Belenenses,H,0,2006-12-21,H,Benfica,4,0,Benfica_Belenenses_2006
+112,1,P1,Maritimo,D,1,2007-01-12,D,Boavista,1,1,Boavista_Maritimo_2006
+113,0,P1,Sp Lisbon,D,0,2007-01-13,D,Belenenses,0,0,Belenenses_Sp Lisbon_2006
+114,0,P1,Sp Braga,D,0,2007-01-13,D,Nacional,0,0,Nacional_Sp Braga_2006
+115,0,P1,Porto,A,1,2007-01-14,A,Aves,0,2,Aves_Porto_2006
+116,0,P1,Est Amadora,D,0,2007-01-14,D,Leiria,0,0,Leiria_Est Amadora_2006
+117,0,P1,Beira Mar,H,0,2007-01-14,D,Pacos Ferreira,1,0,Pacos Ferreira_Beira Mar_2006
+118,0,P1,Naval,A,1,2007-01-14,A,Setubal,0,3,Setubal_Naval_2006
+119,0,P1,Benfica,A,1,2007-01-15,A,Academica,0,2,Academica_Benfica_2006
+120,0,P1,Porto,H,0,2007-01-26,D,Leiria,1,0,Leiria_Porto_2006
+121,1,P1,Sp Braga,H,0,2007-01-27,H,Pacos Ferreira,3,2,Pacos Ferreira_Sp Braga_2006
+122,0,P1,Setubal,A,0,2007-01-28,D,Academica,0,1,Academica_Setubal_2006
+123,0,P1,Beira Mar,D,0,2007-01-28,D,Aves,0,0,Aves_Beira Mar_2006
+124,0,P1,Benfica,A,2,2007-01-28,A,Belenenses,1,2,Belenenses_Benfica_2006
+125,0,P1,Sp Lisbon,D,0,2007-01-28,D,Boavista,1,1,Boavista_Sp Lisbon_2006
+126,0,P1,Naval,D,0,2007-01-28,D,Est Amadora,0,0,Est Amadora_Naval_2006
+127,2,P1,Maritimo,H,0,2007-01-29,H,Nacional,3,2,Nacional_Maritimo_2006
+128,0,P1,Boavista,D,0,2007-02-02,D,Benfica,0,0,Benfica_Boavista_2006
+129,0,P1,Est Amadora,A,0,2007-02-03,D,Porto,0,1,Porto_Est Amadora_2006
+130,0,P1,Nacional,H,1,2007-02-03,A,Sp Lisbon,5,1,Sp Lisbon_Nacional_2006
+131,1,P1,Leiria,H,0,2007-02-04,H,Beira Mar,1,0,Beira Mar_Leiria_2006
+132,0,P1,Pacos Ferreira,D,0,2007-02-04,D,Maritimo,1,1,Maritimo_Pacos Ferreira_2006
+133,0,P1,Academica,A,0,2007-02-04,D,Naval,0,1,Naval_Academica_2006
+134,0,P1,Belenenses,A,1,2007-02-04,A,Setubal,0,1,Setubal_Belenenses_2006
+135,0,P1,Aves,H,0,2007-02-04,D,Sp Braga,1,0,Sp Braga_Aves_2006
+136,2,P1,Naval,H,0,2007-02-16,H,Porto,4,0,Porto_Naval_2006
+137,0,P1,Setubal,D,0,2007-02-17,D,Boavista,1,1,Boavista_Setubal_2006
+138,0,P1,Sp Lisbon,D,0,2007-02-17,D,Pacos Ferreira,1,1,Pacos Ferreira_Sp Lisbon_2006
+139,1,P1,Maritimo,D,1,2007-02-18,D,Aves,1,1,Aves_Maritimo_2006
+140,2,P1,Beira Mar,D,2,2007-02-18,D,Est Amadora,2,2,Est Amadora_Beira Mar_2006
+141,0,P1,Sp Braga,H,0,2007-02-18,D,Leiria,1,0,Leiria_Sp Braga_2006
+142,0,P1,Benfica,A,0,2007-02-18,D,Nacional,0,2,Nacional_Benfica_2006
+143,0,P1,Academica,A,0,2007-02-19,D,Belenenses,1,2,Belenenses_Academica_2006
+144,0,P1,Aves,D,0,2007-02-23,D,Sp Lisbon,0,0,Sp Lisbon_Aves_2006
+145,0,P1,Boavista,A,2,2007-02-24,A,Academica,0,2,Academica_Boavista_2006
+146,1,P1,Belenenses,A,2,2007-02-24,A,Naval,2,3,Naval_Belenenses_2006
+147,0,P1,Porto,A,1,2007-02-25,A,Beira Mar,0,5,Beira Mar_Porto_2006
+148,0,P1,Nacional,D,0,2007-02-25,D,Setubal,1,1,Setubal_Nacional_2006
+149,2,P1,Pacos Ferreira,H,1,2007-02-26,H,Benfica,3,1,Benfica_Pacos Ferreira_2006
+150,1,P1,Leiria,H,1,2007-02-26,D,Maritimo,2,1,Maritimo_Leiria_2006
+151,1,P1,Est Amadora,H,1,2007-02-26,D,Sp Braga,2,1,Sp Braga_Est Amadora_2006
+152,1,P1,Setubal,H,0,2007-03-02,H,Pacos Ferreira,1,0,Pacos Ferreira_Setubal_2006
+153,0,P1,Benfica,A,0,2007-03-03,D,Aves,0,1,Aves_Benfica_2006
+154,1,P1,Sp Braga,H,0,2007-03-03,H,Porto,1,0,Porto_Sp Braga_2006
+155,0,P1,Naval,A,0,2007-03-04,D,Beira Mar,1,3,Beira Mar_Naval_2006
+156,1,P1,Maritimo,H,0,2007-03-04,H,Est Amadora,1,0,Est Amadora_Maritimo_2006
+157,0,P1,Sp Lisbon,D,0,2007-03-04,D,Leiria,0,0,Leiria_Sp Lisbon_2006
+158,1,P1,Academica,H,0,2007-03-04,H,Nacional,4,0,Nacional_Academica_2006
+159,0,P1,Belenenses,D,0,2007-03-05,D,Boavista,0,0,Boavista_Belenenses_2006
+160,1,P1,Boavista,D,1,2007-03-09,D,Naval,1,1,Naval_Boavista_2006
+161,2,P1,Nacional,H,0,2007-03-10,H,Belenenses,2,0,Belenenses_Nacional_2006
+162,1,P1,Est Amadora,H,0,2007-03-10,H,Sp Lisbon,3,1,Sp Lisbon_Est Amadora_2006
+163,0,P1,Pacos Ferreira,A,1,2007-03-11,A,Academica,0,2,Academica_Pacos Ferreira_2006
+164,0,P1,Porto,A,2,2007-03-11,A,Maritimo,1,2,Maritimo_Porto_2006
+165,1,P1,Aves,D,1,2007-03-11,D,Setubal,1,1,Setubal_Aves_2006
+166,0,P1,Beira Mar,D,0,2007-03-11,D,Sp Braga,0,0,Sp Braga_Beira Mar_2006
+167,1,P1,Leiria,H,0,2007-03-12,H,Benfica,2,0,Benfica_Leiria_2006
+168,2,P1,Boavista,H,0,2007-03-16,H,Nacional,2,0,Nacional_Boavista_2006
+169,0,P1,Sp Lisbon,A,0,2007-03-17,D,Porto,0,1,Porto_Sp Lisbon_2006
+170,0,P1,Academica,D,1,2007-03-18,A,Aves,2,2,Aves_Academica_2006
+171,1,P1,Maritimo,D,0,2007-03-18,H,Beira Mar,2,2,Beira Mar_Maritimo_2006
+172,0,P1,Setubal,D,0,2007-03-18,D,Leiria,1,1,Leiria_Setubal_2006
+173,0,P1,Belenenses,A,1,2007-03-18,A,Pacos Ferreira,0,2,Pacos Ferreira_Belenenses_2006
+174,0,P1,Benfica,A,0,2007-03-19,D,Est Amadora,0,1,Est Amadora_Benfica_2006
+175,1,P1,Naval,H,0,2007-03-20,H,Sp Braga,2,1,Sp Braga_Naval_2006
+176,1,P1,Aves,H,0,2007-03-31,H,Belenenses,1,0,Belenenses_Aves_2006
+177,1,P1,Pacos Ferreira,H,0,2007-03-31,H,Boavista,3,1,Boavista_Pacos Ferreira_2006
+178,0,P1,Leiria,D,0,2007-04-01,D,Academica,0,0,Academica_Leiria_2006
+179,0,P1,Porto,D,1,2007-04-01,A,Benfica,1,1,Benfica_Porto_2006
+180,1,P1,Sp Braga,A,1,2007-04-01,D,Maritimo,1,2,Maritimo_Sp Braga_2006
+181,0,P1,Nacional,D,0,2007-04-01,D,Naval,0,0,Naval_Nacional_2006
+182,1,P1,Est Amadora,H,0,2007-04-01,H,Setubal,2,0,Setubal_Est Amadora_2006
+183,2,P1,Beira Mar,H,0,2007-04-02,H,Sp Lisbon,2,0,Sp Lisbon_Beira Mar_2006
+184,4,P1,Setubal,H,0,2007-04-06,H,Porto,5,1,Porto_Setubal_2006
+185,0,P1,Boavista,H,0,2007-04-07,D,Aves,1,0,Aves_Boavista_2006
+186,2,P1,Academica,D,1,2007-04-07,H,Est Amadora,3,3,Est Amadora_Academica_2006
+187,0,P1,Belenenses,A,0,2007-04-07,D,Leiria,0,1,Leiria_Belenenses_2006
+188,1,P1,Naval,D,0,2007-04-07,H,Maritimo,1,1,Maritimo_Naval_2006
+189,0,P1,Nacional,H,1,2007-04-07,A,Pacos Ferreira,2,1,Pacos Ferreira_Nacional_2006
+190,0,P1,Sp Lisbon,A,0,2007-04-07,D,Sp Braga,0,1,Sp Braga_Sp Lisbon_2006
+191,1,P1,Benfica,D,0,2007-04-09,H,Beira Mar,2,2,Beira Mar_Benfica_2006
+192,2,P1,Maritimo,H,0,2007-04-13,H,Sp Lisbon,4,0,Sp Lisbon_Maritimo_2006
+193,0,P1,Porto,A,1,2007-04-14,A,Academica,1,2,Academica_Porto_2006
+194,3,P1,Est Amadora,H,0,2007-04-14,H,Belenenses,3,0,Belenenses_Est Amadora_2006
+195,0,P1,Leiria,D,0,2007-04-15,D,Boavista,1,1,Boavista_Leiria_2006
+196,1,P1,Aves,A,0,2007-04-15,H,Nacional,3,4,Nacional_Aves_2006
+197,1,P1,Pacos Ferreira,D,0,2007-04-15,H,Naval,1,1,Naval_Pacos Ferreira_2006
+198,1,P1,Beira Mar,A,0,2007-04-15,H,Setubal,1,3,Setubal_Beira Mar_2006
+199,0,P1,Sp Braga,D,0,2007-04-16,D,Benfica,0,0,Benfica_Sp Braga_2006
+200,0,P1,Boavista,H,0,2007-04-20,D,Est Amadora,2,1,Est Amadora_Boavista_2006
+201,0,P1,Benfica,A,0,2007-04-21,D,Maritimo,0,3,Maritimo_Benfica_2006
+202,0,P1,Pacos Ferreira,A,0,2007-04-22,D,Aves,0,1,Aves_Pacos Ferreira_2006
+203,0,P1,Nacional,H,0,2007-04-22,D,Leiria,1,0,Leiria_Nacional_2006
+204,2,P1,Belenenses,H,0,2007-04-22,H,Porto,3,1,Porto_Belenenses_2006
+205,2,P1,Naval,H,0,2007-04-22,H,Sp Lisbon,4,0,Sp Lisbon_Naval_2006
+206,0,P1,Academica,A,0,2007-04-23,D,Beira Mar,0,1,Beira Mar_Academica_2006
+207,0,P1,Setubal,D,0,2007-04-23,D,Sp Braga,0,0,Sp Braga_Setubal_2006
+208,0,P1,Leiria,D,0,2007-04-27,D,Pacos Ferreira,0,0,Pacos Ferreira_Leiria_2006
+209,1,P1,Beira Mar,H,0,2007-04-28,H,Belenenses,2,0,Belenenses_Beira Mar_2006
+210,1,P1,Porto,H,0,2007-04-28,H,Boavista,2,1,Boavista_Porto_2006
+211,1,P1,Sp Lisbon,D,1,2007-04-29,D,Benfica,1,1,Benfica_Sp Lisbon_2006
+212,0,P1,Est Amadora,H,0,2007-04-29,D,Nacional,1,0,Nacional_Est Amadora_2006
+213,0,P1,Aves,A,0,2007-04-29,D,Naval,0,1,Naval_Aves_2006
+214,0,P1,Maritimo,D,0,2007-04-29,D,Setubal,1,1,Setubal_Maritimo_2006
+215,0,P1,Sp Braga,A,0,2007-04-30,D,Academica,0,1,Academica_Sp Braga_2006
+216,0,P1,Boavista,H,0,2007-05-04,D,Beira Mar,1,0,Beira Mar_Boavista_2006
+217,1,P1,Naval,H,0,2007-05-05,H,Benfica,2,1,Benfica_Naval_2006
+218,0,P1,Academica,D,0,2007-05-05,D,Maritimo,0,0,Maritimo_Academica_2006
+219,0,P1,Nacional,H,0,2007-05-05,D,Porto,2,0,Porto_Nacional_2006
+220,0,P1,Pacos Ferreira,H,0,2007-05-06,D,Est Amadora,1,0,Est Amadora_Pacos Ferreira_2006
+221,0,P1,Aves,H,0,2007-05-06,D,Leiria,3,1,Leiria_Aves_2006
+222,1,P1,Belenenses,H,0,2007-05-06,H,Sp Braga,2,1,Sp Braga_Belenenses_2006
+223,2,P1,Setubal,H,0,2007-05-06,H,Sp Lisbon,3,1,Sp Lisbon_Setubal_2006
+224,1,P1,Maritimo,H,0,2007-05-12,H,Belenenses,2,0,Belenenses_Maritimo_2006
+225,0,P1,Sp Braga,A,1,2007-05-12,A,Boavista,0,1,Boavista_Sp Braga_2006
+226,0,P1,Sp Lisbon,A,1,2007-05-13,A,Academica,0,2,Academica_Sp Lisbon_2006
+227,0,P1,Est Amadora,A,1,2007-05-13,A,Aves,0,1,Aves_Est Amadora_2006
+228,1,P1,Naval,D,2,2007-05-13,A,Leiria,2,2,Leiria_Naval_2006
+229,3,P1,Beira Mar,H,0,2007-05-13,H,Nacional,3,0,Nacional_Beira Mar_2006
+230,1,P1,Porto,D,0,2007-05-13,H,Pacos Ferreira,1,1,Pacos Ferreira_Porto_2006
+231,0,P1,Benfica,A,0,2007-05-13,D,Setubal,0,1,Setubal_Benfica_2006
+232,0,P1,Boavista,A,1,2007-05-19,A,Maritimo,1,2,Maritimo_Boavista_2006
+233,0,P1,Pacos Ferreira,D,1,2007-05-20,A,Beira Mar,1,1,Beira Mar_Pacos Ferreira_2006
+234,1,P1,Academica,H,0,2007-05-20,H,Benfica,2,0,Benfica_Academica_2006
+235,0,P1,Leiria,D,0,2007-05-20,D,Est Amadora,1,1,Est Amadora_Leiria_2006
+236,1,P1,Setubal,A,2,2007-05-20,A,Naval,1,2,Naval_Setubal_2006
+237,1,P1,Aves,H,1,2007-05-20,D,Porto,4,1,Porto_Aves_2006
+238,1,P1,Nacional,D,1,2007-05-20,D,Sp Braga,1,1,Sp Braga_Nacional_2006
+239,2,P1,Belenenses,H,0,2007-05-20,H,Sp Lisbon,4,0,Sp Lisbon_Belenenses_2006

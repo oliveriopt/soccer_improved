@@ -1,0 +1,381 @@
+,HTHG,HR,Div,HY,AwayTeam,FTR,AS,AST,HST,FTHG,HS,HTAG,AY,Date,HomeTeam,HTR,AR,FTAG,idGame
+0,2,0,F1,2,Metz,H,11.0,7.0,9.0,4,16.0,0,3,2005-07-29,Paris SG,H,0,1,Paris SG_Metz_2005
+1,1,0,F1,2,Rennes,H,8.0,5.0,5.0,1,14.0,0,3,2005-07-30,Lille,H,0,0,Lille_Rennes_2005
+2,0,1,F1,2,Bordeaux,A,9.0,4.0,3.0,0,7.0,1,4,2005-07-30,Marseille,A,0,2,Marseille_Bordeaux_2005
+3,0,2,F1,2,Monaco,A,5.0,3.0,6.0,0,10.0,0,2,2005-07-30,Nancy,D,0,1,Nancy_Monaco_2005
+4,2,0,F1,1,Lens,H,10.0,3.0,3.0,2,10.0,0,3,2005-07-30,Nantes,H,0,0,Nantes_Lens_2005
+5,1,0,F1,2,Troyes,D,5.0,5.0,6.0,1,13.0,0,2,2005-07-30,Nice,H,1,1,Nice_Troyes_2005
+6,0,0,F1,2,Toulouse,A,7.0,4.0,7.0,0,14.0,1,3,2005-07-30,Sochaux,A,0,1,Sochaux_Toulouse_2005
+7,0,0,F1,1,Ajaccio,D,5.0,3.0,6.0,0,10.0,0,2,2005-07-30,St Etienne,D,0,0,St Etienne_Ajaccio_2005
+8,0,1,F1,1,Auxerre,D,5.0,0.0,3.0,0,15.0,0,0,2005-07-30,Strasbourg,D,1,0,Strasbourg_Auxerre_2005
+9,0,0,F1,1,Lyon,A,6.0,3.0,4.0,1,11.0,1,2,2005-07-31,Le Mans,A,0,2,Le Mans_Lyon_2005
+10,2,0,F1,1,Lille,D,10.0,6.0,6.0,3,17.0,2,3,2005-08-06,Ajaccio,D,0,3,Ajaccio_Lille_2005
+11,1,0,F1,2,Nancy,H,9.0,4.0,6.0,1,7.0,0,2,2005-08-06,Bordeaux,H,0,0,Bordeaux_Nancy_2005
+12,1,0,F1,2,Marseille,H,3.0,2.0,7.0,2,15.0,0,3,2005-08-06,Lens,H,0,0,Lens_Marseille_2005
+13,0,0,F1,1,Le Mans,D,14.0,8.0,6.0,0,9.0,0,2,2005-08-06,Metz,D,0,0,Metz_Le Mans_2005
+14,0,1,F1,2,Auxerre,A,11.0,5.0,3.0,0,10.0,1,2,2005-08-06,Monaco,A,0,2,Monaco_Auxerre_2005
+15,0,0,F1,3,Paris SG,A,6.0,3.0,7.0,0,11.0,0,2,2005-08-06,Sochaux,D,0,1,Sochaux_Paris SG_2005
+16,0,0,F1,1,Nice,A,7.0,4.0,2.0,0,8.0,2,2,2005-08-06,Toulouse,A,0,2,Toulouse_Nice_2005
+17,0,0,F1,1,St Etienne,D,13.0,3.0,4.0,0,8.0,0,2,2005-08-06,Troyes,D,0,0,Troyes_St Etienne_2005
+18,1,0,F1,2,Strasbourg,H,6.0,3.0,3.0,1,6.0,0,1,2005-08-07,Lyon,H,0,0,Lyon_Strasbourg_2005
+19,0,1,F1,1,Nantes,A,11.0,8.0,6.0,0,10.0,1,1,2005-08-07,Rennes,A,0,3,Rennes_Nantes_2005
+20,1,0,F1,0,Bordeaux,H,7.0,3.0,7.0,1,12.0,0,0,2005-08-13,Auxerre,H,0,0,Auxerre_Bordeaux_2005
+21,2,0,F1,2,Rennes,H,8.0,1.0,9.0,4,17.0,0,3,2005-08-13,Le Mans,H,1,0,Le Mans_Rennes_2005
+22,0,0,F1,2,Troyes,A,8.0,5.0,6.0,1,12.0,2,3,2005-08-13,Lille,A,0,2,Lille_Troyes_2005
+23,0,0,F1,1,Lens,A,10.0,6.0,4.0,1,8.0,2,1,2005-08-13,Nancy,A,0,2,Nancy_Lens_2005
+24,0,0,F1,0,Ajaccio,A,13.0,4.0,3.0,0,10.0,0,1,2005-08-13,Nantes,D,0,2,Nantes_Ajaccio_2005
+25,1,1,F1,3,Sochaux,A,7.0,6.0,1.0,1,8.0,0,3,2005-08-13,Nice,H,2,2,Nice_Sochaux_2005
+26,1,0,F1,3,Toulouse,H,6.0,1.0,9.0,2,16.0,0,2,2005-08-13,Paris SG,H,1,0,Paris SG_Toulouse_2005
+27,2,0,F1,0,Metz,H,8.0,4.0,4.0,2,10.0,0,2,2005-08-13,St Etienne,H,0,0,St Etienne_Metz_2005
+28,1,0,F1,2,Lyon,D,7.0,3.0,3.0,1,11.0,1,1,2005-08-14,Marseille,D,0,1,Marseille_Lyon_2005
+29,0,0,F1,2,Monaco,A,14.0,6.0,4.0,1,12.0,0,3,2005-08-14,Strasbourg,D,0,2,Strasbourg_Monaco_2005
+30,0,0,F1,2,Le Mans,D,10.0,5.0,7.0,0,15.0,0,4,2005-08-20,Ajaccio,D,0,0,Ajaccio_Le Mans_2005
+31,0,0,F1,2,Monaco,H,4.0,2.0,6.0,1,9.0,0,5,2005-08-20,Bordeaux,D,0,0,Bordeaux_Monaco_2005
+32,3,0,F1,0,Auxerre,H,8.0,5.0,13.0,7,14.0,0,1,2005-08-20,Lens,H,0,0,Lens_Auxerre_2005
+33,0,0,F1,2,Nancy,H,7.0,3.0,5.0,1,10.0,0,4,2005-08-20,Lyon,D,0,0,Lyon_Nancy_2005
+34,0,0,F1,3,Strasbourg,D,12.0,3.0,4.0,0,15.0,0,1,2005-08-20,Metz,D,0,0,Metz_Strasbourg_2005
+35,1,0,F1,2,Nantes,D,8.0,2.0,8.0,1,11.0,0,4,2005-08-20,Nice,H,1,1,Nice_Nantes_2005
+36,2,0,F1,1,Marseille,H,8.0,5.0,10.0,3,15.0,2,1,2005-08-20,Rennes,D,0,2,Rennes_Marseille_2005
+37,0,0,F1,0,Lille,D,10.0,2.0,5.0,0,11.0,0,2,2005-08-20,Sochaux,D,0,0,Sochaux_Lille_2005
+38,1,0,F1,1,St Etienne,D,8.0,3.0,3.0,1,6.0,0,0,2005-08-21,Toulouse,H,0,1,Toulouse_St Etienne_2005
+39,0,0,F1,3,Paris SG,D,8.0,4.0,6.0,1,8.0,1,4,2005-08-21,Troyes,A,1,1,Troyes_Paris SG_2005
+40,0,0,F1,1,Toulouse,D,4.0,2.0,4.0,0,12.0,0,0,2005-08-24,Lille,D,0,0,Lille_Toulouse_2005
+41,1,0,F1,1,Troyes,H,8.0,2.0,7.0,1,15.0,0,1,2005-08-27,Le Mans,H,0,0,Le Mans_Troyes_2005
+42,0,0,F1,2,Ajaccio,D,8.0,6.0,6.0,1,15.0,0,1,2005-08-27,Marseille,D,0,1,Marseille_Ajaccio_2005
+43,4,0,F1,0,Rennes,H,9.0,3.0,8.0,6,18.0,0,4,2005-08-27,Nancy,H,0,0,Nancy_Rennes_2005
+44,0,0,F1,2,Metz,D,5.0,2.0,4.0,0,10.0,0,3,2005-08-27,Nantes,D,0,0,Nantes_Metz_2005
+45,1,1,F1,2,Nice,A,5.0,2.0,3.0,1,6.0,0,4,2005-08-27,Paris SG,H,0,2,Paris SG_Nice_2005
+46,0,0,F1,2,Sochaux,D,7.0,4.0,4.0,0,12.0,0,3,2005-08-27,St Etienne,D,1,0,St Etienne_Sochaux_2005
+47,0,0,F1,2,Bordeaux,D,12.0,3.0,1.0,0,8.0,0,3,2005-08-27,Strasbourg,D,0,0,Strasbourg_Bordeaux_2005
+48,0,0,F1,2,Lyon,A,9.0,5.0,2.0,0,9.0,2,3,2005-08-28,Auxerre,A,0,2,Auxerre_Lyon_2005
+49,0,0,F1,0,Lens,D,3.0,1.0,3.0,0,11.0,0,0,2005-08-28,Monaco,D,0,0,Monaco_Lens_2005
+50,1,0,F1,3,Nancy,H,10.0,0.0,2.0,1,6.0,0,5,2005-09-10,Ajaccio,H,0,0,Ajaccio_Nancy_2005
+51,1,0,F1,1,Monaco,H,8.0,3.0,7.0,2,14.0,0,4,2005-09-10,Lyon,H,1,1,Lyon_Monaco_2005
+52,0,1,F1,0,Lille,A,18.0,7.0,4.0,0,11.0,0,2,2005-09-10,Metz,D,0,2,Metz_Lille_2005
+53,0,0,F1,1,St Etienne,A,5.0,2.0,6.0,0,13.0,1,4,2005-09-10,Nice,A,0,1,Nice_St Etienne_2005
+54,1,0,F1,3,Strasbourg,H,4.0,2.0,8.0,1,13.0,0,3,2005-09-10,Paris SG,H,1,0,Paris SG_Strasbourg_2005
+55,0,0,F1,0,Auxerre,H,8.0,2.0,7.0,3,10.0,0,4,2005-09-10,Rennes,D,0,1,Rennes_Auxerre_2005
+56,0,0,F1,2,Le Mans,A,7.0,5.0,8.0,0,16.0,1,3,2005-09-10,Toulouse,A,1,2,Toulouse_Le Mans_2005
+57,0,0,F1,3,Nantes,H,10.0,4.0,1.0,1,4.0,0,1,2005-09-10,Troyes,D,0,0,Troyes_Nantes_2005
+58,1,0,F1,1,Bordeaux,D,6.0,4.0,5.0,1,12.0,1,4,2005-09-11,Lens,D,0,1,Lens_Bordeaux_2005
+59,0,0,F1,1,Marseille,A,11.0,4.0,2.0,0,8.0,0,0,2005-09-11,Sochaux,D,0,1,Sochaux_Marseille_2005
+60,1,0,F1,2,Lyon,D,3.0,2.0,6.0,1,12.0,0,6,2005-09-17,Bordeaux,H,0,1,Bordeaux_Lyon_2005
+61,1,0,F1,0,Sochaux,H,13.0,6.0,6.0,2,11.0,0,1,2005-09-17,Le Mans,H,0,1,Le Mans_Sochaux_2005
+62,1,0,F1,5,Nice,H,5.0,4.0,8.0,4,12.0,0,2,2005-09-17,Lille,H,1,0,Lille_Nice_2005
+63,1,0,F1,3,Metz,D,15.0,4.0,5.0,1,17.0,0,4,2005-09-17,Nancy,H,0,1,Nancy_Metz_2005
+64,2,0,F1,1,Toulouse,H,7.0,5.0,5.0,2,7.0,0,2,2005-09-17,Nantes,H,0,0,Nantes_Toulouse_2005
+65,0,0,F1,0,Ajaccio,H,3.0,0.0,7.0,2,8.0,0,3,2005-09-18,Auxerre,D,0,0,Auxerre_Ajaccio_2005
+66,2,0,F1,0,Troyes,H,3.0,2.0,5.0,2,12.0,0,1,2005-09-18,Marseille,H,0,1,Marseille_Troyes_2005
+67,0,2,F1,4,Rennes,A,6.0,2.0,2.0,0,6.0,1,3,2005-09-18,Monaco,A,0,2,Monaco_Rennes_2005
+68,1,0,F1,2,Paris SG,H,9.0,3.0,8.0,3,13.0,0,1,2005-09-18,St Etienne,H,0,0,St Etienne_Paris SG_2005
+69,0,0,F1,2,Lens,D,3.0,1.0,5.0,1,12.0,1,5,2005-09-18,Strasbourg,A,1,1,Strasbourg_Lens_2005
+70,0,0,F1,1,Strasbourg,D,8.0,2.0,5.0,0,10.0,0,2,2005-09-21,Ajaccio,D,0,0,Ajaccio_Strasbourg_2005
+71,0,0,F1,1,Auxerre,A,16.0,5.0,6.0,1,19.0,1,1,2005-09-21,Metz,A,0,2,Metz_Auxerre_2005
+72,1,0,F1,2,Le Mans,H,7.0,2.0,4.0,1,11.0,0,2,2005-09-21,Nice,H,0,0,Nice_Le Mans_2005
+73,1,0,F1,3,Lille,H,17.0,5.0,2.0,2,8.0,1,3,2005-09-21,Paris SG,D,0,1,Paris SG_Lille_2005
+74,1,0,F1,1,Bordeaux,D,14.0,5.0,3.0,2,7.0,1,1,2005-09-21,Rennes,D,0,2,Rennes_Bordeaux_2005
+75,0,0,F1,2,Nantes,H,3.0,0.0,3.0,1,10.0,0,3,2005-09-21,Sochaux,D,0,0,Sochaux_Nantes_2005
+76,0,0,F1,2,Nancy,A,9.0,5.0,4.0,0,9.0,1,1,2005-09-21,St Etienne,A,0,2,St Etienne_Nancy_2005
+77,1,1,F1,2,Marseille,H,27.0,4.0,4.0,1,12.0,0,2,2005-09-21,Toulouse,H,0,0,Toulouse_Marseille_2005
+78,1,0,F1,3,Monaco,A,13.0,5.0,4.0,1,8.0,0,5,2005-09-21,Troyes,H,2,2,Troyes_Monaco_2005
+79,1,0,F1,2,Lens,D,8.0,4.0,8.0,1,14.0,1,3,2005-09-22,Lyon,D,0,1,Lyon_Lens_2005
+80,2,0,F1,0,Sochaux,H,7.0,6.0,5.0,3,8.0,0,0,2005-09-24,Auxerre,H,0,0,Auxerre_Sochaux_2005
+81,1,0,F1,2,Ajaccio,H,7.0,3.0,3.0,1,10.0,0,4,2005-09-24,Bordeaux,H,0,0,Bordeaux_Ajaccio_2005
+82,0,0,F1,1,Paris SG,D,4.0,2.0,2.0,0,6.0,0,2,2005-09-24,Le Mans,D,0,0,Le Mans_Paris SG_2005
+83,1,0,F1,3,St Etienne,H,11.0,4.0,5.0,2,9.0,0,2,2005-09-24,Lille,H,0,0,Lille_St Etienne_2005
+84,1,0,F1,0,Metz,H,8.0,3.0,4.0,3,12.0,1,2,2005-09-24,Marseille,D,0,1,Marseille_Metz_2005
+85,0,0,F1,2,Nice,D,5.0,2.0,3.0,0,10.0,0,3,2005-09-24,Monaco,D,0,0,Monaco_Nice_2005
+86,0,0,F1,2,Troyes,H,7.0,3.0,5.0,2,14.0,1,3,2005-09-24,Nancy,A,0,1,Nancy_Troyes_2005
+87,2,0,F1,2,Toulouse,A,8.0,5.0,11.0,2,18.0,2,4,2005-09-24,Strasbourg,D,0,4,Strasbourg_Toulouse_2005
+88,0,0,F1,1,Rennes,D,4.0,1.0,5.0,0,26.0,0,4,2005-09-25,Lens,D,1,0,Lens_Rennes_2005
+89,0,0,F1,2,Lyon,A,6.0,3.0,10.0,0,13.0,0,5,2005-09-25,Nantes,D,1,1,Nantes_Lyon_2005
+90,0,1,F1,2,Bordeaux,A,11.0,3.0,1.0,0,9.0,0,2,2005-10-01,Metz,D,0,1,Metz_Bordeaux_2005
+91,0,0,F1,3,Nantes,H,8.0,0.0,9.0,2,24.0,0,5,2005-10-01,Paris SG,D,0,0,Paris SG_Nantes_2005
+92,0,0,F1,1,Nancy,A,10.0,5.0,6.0,0,11.0,0,1,2005-10-01,Sochaux,D,0,2,Sochaux_Nancy_2005
+93,1,0,F1,0,Le Mans,H,6.0,2.0,3.0,3,7.0,0,2,2005-10-01,St Etienne,H,0,0,St Etienne_Le Mans_2005
+94,0,0,F1,1,Monaco,A,9.0,5.0,6.0,0,14.0,0,2,2005-10-02,Lille,D,0,1,Lille_Monaco_2005
+95,0,0,F1,1,Marseille,A,10.0,4.0,3.0,0,10.0,0,3,2005-10-02,Nice,D,0,1,Nice_Marseille_2005
+96,1,0,F1,2,Lyon,A,12.0,7.0,2.0,1,6.0,0,2,2005-10-02,Rennes,H,0,3,Rennes_Lyon_2005
+97,0,0,F1,1,Auxerre,H,7.0,4.0,4.0,2,11.0,0,2,2005-10-02,Toulouse,D,0,0,Toulouse_Auxerre_2005
+98,0,0,F1,3,Strasbourg,D,6.0,4.0,2.0,1,6.0,1,3,2005-10-02,Troyes,A,0,1,Troyes_Strasbourg_2005
+99,1,0,F1,2,Troyes,H,6.0,3.0,7.0,3,12.0,0,1,2005-10-15,Auxerre,H,0,0,Auxerre_Troyes_2005
+100,0,0,F1,3,Sochaux,D,4.0,2.0,8.0,1,11.0,1,2,2005-10-15,Bordeaux,A,0,1,Bordeaux_Sochaux_2005
+101,1,0,F1,2,Lille,D,8.0,5.0,8.0,1,14.0,1,1,2005-10-15,Le Mans,D,0,1,Le Mans_Lille_2005
+102,0,0,F1,3,Nice,D,10.0,6.0,7.0,2,8.0,1,1,2005-10-15,Lens,A,0,2,Lens_Nice_2005
+103,0,0,F1,1,Metz,H,5.0,2.0,5.0,3,9.0,0,2,2005-10-15,Monaco,D,0,0,Monaco_Metz_2005
+104,1,0,F1,3,Toulouse,H,8.0,2.0,4.0,2,14.0,0,3,2005-10-15,Nancy,H,0,0,Nancy_Toulouse_2005
+105,1,0,F1,1,St Etienne,D,13.0,4.0,8.0,1,17.0,1,2,2005-10-15,Nantes,D,0,1,Nantes_St Etienne_2005
+106,0,0,F1,0,Rennes,A,3.0,1.0,5.0,0,8.0,1,4,2005-10-15,Strasbourg,A,0,1,Strasbourg_Rennes_2005
+107,1,0,F1,4,Ajaccio,H,9.0,8.0,5.0,3,8.0,1,1,2005-10-16,Lyon,D,0,2,Lyon_Ajaccio_2005
+108,0,0,F1,3,Paris SG,H,8.0,2.0,6.0,1,31.0,0,4,2005-10-16,Marseille,D,0,0,Marseille_Paris SG_2005
+109,1,0,F1,3,Nantes,H,10.0,4.0,4.0,2,11.0,0,0,2005-10-22,Lille,H,0,0,Lille_Nantes_2005
+110,0,0,F1,2,Lyon,A,9.0,6.0,4.0,0,10.0,3,0,2005-10-22,Metz,A,0,4,Metz_Lyon_2005
+111,1,0,F1,1,Auxerre,H,11.0,5.0,4.0,1,11.0,0,1,2005-10-22,Nice,H,0,0,Nice_Auxerre_2005
+112,0,0,F1,4,Nancy,H,6.0,2.0,4.0,1,11.0,0,3,2005-10-22,Paris SG,D,0,0,Paris SG_Nancy_2005
+113,1,0,F1,3,Bordeaux,D,7.0,3.0,3.0,1,7.0,0,2,2005-10-22,Toulouse,H,0,1,Toulouse_Bordeaux_2005
+114,0,0,F1,1,Rennes,A,5.0,2.0,4.0,0,10.0,1,3,2005-10-23,Ajaccio,A,0,1,Ajaccio_Rennes_2005
+115,2,0,F1,1,Strasbourg,H,8.0,5.0,3.0,2,5.0,0,2,2005-10-23,Le Mans,H,0,0,Le Mans_Strasbourg_2005
+116,2,0,F1,3,Monaco,H,12.0,6.0,5.0,2,12.0,0,5,2005-10-23,Sochaux,H,0,1,Sochaux_Monaco_2005
+117,1,0,F1,2,Marseille,H,14.0,5.0,5.0,2,11.0,1,2,2005-10-23,St Etienne,D,0,1,St Etienne_Marseille_2005
+118,0,0,F1,2,Lens,D,12.0,7.0,6.0,1,8.0,1,3,2005-10-23,Troyes,A,1,1,Troyes_Lens_2005
+119,1,0,F1,2,Troyes,H,6.0,2.0,6.0,2,14.0,0,2,2005-10-29,Bordeaux,H,0,0,Bordeaux_Troyes_2005
+120,1,0,F1,2,Toulouse,H,3.0,1.0,3.0,1,9.0,0,2,2005-10-29,Lens,H,0,0,Lens_Toulouse_2005
+121,0,0,F1,2,Sochaux,H,11.0,3.0,6.0,1,22.0,0,2,2005-10-29,Lyon,D,0,0,Lyon_Sochaux_2005
+122,1,0,F1,3,Lille,D,12.0,4.0,5.0,1,15.0,0,2,2005-10-29,Marseille,H,0,1,Marseille_Lille_2005
+123,1,0,F1,3,Ajaccio,H,6.0,4.0,7.0,3,9.0,0,2,2005-10-29,Monaco,H,0,0,Monaco_Ajaccio_2005
+124,1,0,F1,1,Le Mans,H,7.0,2.0,3.0,1,10.0,0,1,2005-10-29,Nantes,H,0,0,Nantes_Le Mans_2005
+125,1,0,F1,1,Metz,H,11.0,3.0,9.0,2,12.0,0,3,2005-10-29,Rennes,H,1,1,Rennes_Metz_2005
+126,0,0,F1,0,St Etienne,A,9.0,6.0,10.0,0,22.0,0,1,2005-10-29,Strasbourg,D,0,1,Strasbourg_St Etienne_2005
+127,0,0,F1,1,Paris SG,H,12.0,4.0,3.0,2,12.0,0,4,2005-10-30,Auxerre,D,0,0,Auxerre_Paris SG_2005
+128,0,1,F1,4,Nice,D,10.0,5.0,3.0,0,8.0,0,2,2005-10-30,Nancy,D,0,0,Nancy_Nice_2005
+129,1,0,F1,2,Marseille,H,10.0,5.0,5.0,3,13.0,0,2,2005-11-05,Le Mans,H,0,0,Le Mans_Marseille_2005
+130,0,1,F1,1,Ajaccio,H,11.0,1.0,4.0,2,12.0,0,2,2005-11-05,Metz,D,0,0,Metz_Ajaccio_2005
+131,1,0,F1,0,Nancy,H,9.0,4.0,7.0,3,12.0,0,1,2005-11-05,Nantes,H,0,0,Nantes_Nancy_2005
+132,0,0,F1,3,Bordeaux,A,7.0,4.0,4.0,0,7.0,0,2,2005-11-05,Nice,D,0,1,Nice_Bordeaux_2005
+133,1,0,F1,1,Auxerre,D,8.0,4.0,5.0,1,13.0,0,0,2005-11-05,St Etienne,H,0,1,St Etienne_Auxerre_2005
+134,0,0,F1,2,Lyon,A,9.0,4.0,5.0,0,13.0,1,1,2005-11-05,Toulouse,A,0,1,Toulouse_Lyon_2005
+135,1,0,F1,1,Strasbourg,H,7.0,0.0,4.0,2,12.0,0,2,2005-11-06,Lille,H,0,0,Lille_Strasbourg_2005
+136,0,0,F1,1,Monaco,D,13.0,3.0,2.0,0,10.0,0,1,2005-11-06,Paris SG,D,0,0,Paris SG_Monaco_2005
+137,1,0,F1,2,Lens,D,11.0,4.0,3.0,1,6.0,0,2,2005-11-06,Sochaux,H,0,1,Sochaux_Lens_2005
+138,1,0,F1,1,Rennes,H,12.0,5.0,7.0,2,17.0,1,0,2005-11-06,Troyes,D,0,1,Troyes_Rennes_2005
+139,0,0,F1,1,Lens,D,5.0,3.0,4.0,0,10.0,0,1,2005-11-11,Ajaccio,D,0,0,Ajaccio_Lens_2005
+140,0,0,F1,1,Sochaux,A,7.0,4.0,3.0,0,13.0,0,4,2005-11-19,Ajaccio,D,0,1,Ajaccio_Sochaux_2005
+141,1,0,F1,2,Lille,H,10.0,5.0,5.0,3,9.0,2,2,2005-11-19,Auxerre,A,0,2,Auxerre_Lille_2005
+142,0,0,F1,0,Metz,D,6.0,1.0,9.0,0,14.0,0,2,2005-11-19,Lens,D,0,0,Lens_Metz_2005
+143,1,0,F1,1,Troyes,H,5.0,2.0,5.0,2,11.0,1,1,2005-11-19,Lyon,D,0,1,Lyon_Troyes_2005
+144,1,0,F1,2,Nantes,H,6.0,3.0,10.0,2,17.0,0,3,2005-11-19,Marseille,H,0,1,Marseille_Nantes_2005
+145,0,0,F1,3,St Etienne,H,2.0,0.0,4.0,1,11.0,0,2,2005-11-19,Monaco,D,0,0,Monaco_St Etienne_2005
+146,0,0,F1,2,Le Mans,H,4.0,1.0,7.0,1,12.0,0,2,2005-11-19,Nancy,D,1,0,Nancy_Le Mans_2005
+147,0,0,F1,1,Nice,D,9.0,3.0,7.0,0,17.0,0,1,2005-11-19,Strasbourg,D,0,0,Strasbourg_Nice_2005
+148,0,0,F1,1,Paris SG,A,8.0,4.0,3.0,0,9.0,1,2,2005-11-20,Bordeaux,A,0,2,Bordeaux_Paris SG_2005
+149,1,0,F1,0,Toulouse,H,9.0,2.0,9.0,4,10.0,0,1,2005-11-20,Rennes,H,0,1,Rennes_Toulouse_2005
+150,0,0,F1,0,Auxerre,A,10.0,4.0,7.0,0,16.0,1,1,2005-11-25,Le Mans,A,0,2,Le Mans_Auxerre_2005
+151,0,1,F1,0,Nancy,H,6.0,4.0,9.0,1,11.0,0,3,2005-11-26,Lille,D,0,0,Lille_Nancy_2005
+152,1,0,F1,2,Lyon,D,9.0,7.0,2.0,1,3.0,0,1,2005-11-26,Nice,H,0,1,Nice_Lyon_2005
+153,0,0,F1,0,Rennes,H,7.0,1.0,2.0,1,8.0,0,0,2005-11-26,Sochaux,D,0,0,Sochaux_Rennes_2005
+154,1,0,F1,1,Bordeaux,D,14.0,4.0,3.0,1,12.0,0,1,2005-11-26,St Etienne,H,1,1,St Etienne_Bordeaux_2005
+155,1,0,F1,1,Ajaccio,H,12.0,6.0,4.0,3,8.0,0,4,2005-11-26,Toulouse,H,0,0,Toulouse_Ajaccio_2005
+156,0,0,F1,1,Metz,D,7.0,4.0,6.0,0,13.0,0,1,2005-11-26,Troyes,D,0,0,Troyes_Metz_2005
+157,0,0,F1,1,Monaco,H,10.0,4.0,7.0,2,18.0,1,2,2005-11-27,Marseille,A,1,1,Marseille_Monaco_2005
+158,0,0,F1,1,Strasbourg,H,11.0,5.0,6.0,4,10.0,2,3,2005-11-27,Nantes,A,1,3,Nantes_Strasbourg_2005
+159,1,0,F1,1,Lens,A,10.0,5.0,11.0,3,16.0,3,2,2005-11-27,Paris SG,A,0,4,Paris SG_Lens_2005
+160,0,0,F1,0,Troyes,A,13.0,6.0,2.0,0,13.0,0,1,2005-12-03,Ajaccio,D,0,1,Ajaccio_Troyes_2005
+161,3,0,F1,1,Nantes,H,7.0,3.0,7.0,4,11.0,0,2,2005-12-03,Auxerre,H,0,0,Auxerre_Nantes_2005
+162,0,0,F1,2,Lille,H,4.0,1.0,4.0,1,10.0,0,6,2005-12-03,Bordeaux,D,0,0,Bordeaux_Lille_2005
+163,1,0,F1,2,Paris SG,H,4.0,3.0,5.0,2,14.0,0,2,2005-12-03,Lyon,H,0,0,Lyon_Paris SG_2005
+164,1,0,F1,0,Toulouse,D,9.0,4.0,4.0,2,8.0,1,1,2005-12-03,Metz,D,0,2,Metz_Toulouse_2005
+165,2,0,F1,1,Le Mans,H,6.0,1.0,4.0,2,10.0,0,1,2005-12-03,Monaco,H,0,0,Monaco_Le Mans_2005
+166,0,0,F1,1,Sochaux,D,4.0,1.0,9.0,0,15.0,0,3,2005-12-03,Strasbourg,D,0,0,Strasbourg_Sochaux_2005
+167,1,0,F1,0,St Etienne,H,16.0,4.0,7.0,2,16.0,1,0,2005-12-04,Lens,D,0,1,Lens_St Etienne_2005
+168,0,0,F1,1,Marseille,D,10.0,3.0,2.0,1,6.0,0,3,2005-12-04,Nancy,D,0,1,Nancy_Marseille_2005
+169,0,0,F1,3,Nice,H,8.0,3.0,4.0,1,10.0,0,6,2005-12-04,Rennes,D,1,0,Rennes_Nice_2005
+170,1,0,F1,2,Bordeaux,H,13.0,6.0,7.0,1,16.0,0,2,2005-12-10,Le Mans,H,1,0,Le Mans_Bordeaux_2005
+171,0,0,F1,1,Lens,D,12.0,4.0,1.0,0,12.0,0,2,2005-12-10,Lille,D,0,0,Lille_Lens_2005
+172,1,0,F1,1,Auxerre,H,3.0,3.0,3.0,1,11.0,0,1,2005-12-10,Marseille,H,0,0,Marseille_Auxerre_2005
+173,0,0,F1,3,Strasbourg,A,5.0,3.0,7.0,1,17.0,1,1,2005-12-10,Nancy,A,1,2,Nancy_Strasbourg_2005
+174,0,0,F1,3,Ajaccio,H,6.0,3.0,2.0,1,8.0,0,4,2005-12-10,Nice,D,0,0,Nice_Ajaccio_2005
+175,1,0,F1,2,Rennes,H,7.0,4.0,8.0,2,15.0,0,1,2005-12-10,Paris SG,H,0,0,Paris SG_Rennes_2005
+176,1,0,F1,0,Metz,D,8.0,3.0,6.0,1,16.0,1,2,2005-12-10,Sochaux,D,0,1,Sochaux_Metz_2005
+177,1,0,F1,3,Troyes,H,11.0,4.0,2.0,2,7.0,1,3,2005-12-10,Toulouse,D,0,1,Toulouse_Troyes_2005
+178,0,0,F1,1,Monaco,D,6.0,4.0,1.0,0,6.0,0,2,2005-12-11,Nantes,D,0,0,Nantes_Monaco_2005
+179,0,0,F1,0,Lyon,D,10.0,5.0,3.0,0,9.0,0,1,2005-12-11,St Etienne,D,0,0,St Etienne_Lyon_2005
+180,0,0,F1,2,Lille,A,11.0,8.0,8.0,1,13.0,1,3,2005-12-16,Lyon,A,0,3,Lyon_Lille_2005
+181,1,0,F1,0,Paris SG,D,5.0,1.0,3.0,1,4.0,1,1,2005-12-17,Ajaccio,D,0,1,Ajaccio_Paris SG_2005
+182,0,0,F1,3,Nancy,A,8.0,2.0,3.0,0,12.0,1,6,2005-12-17,Auxerre,A,1,1,Auxerre_Nancy_2005
+183,0,0,F1,2,Nantes,D,3.0,0.0,5.0,0,13.0,0,3,2005-12-17,Bordeaux,D,1,0,Bordeaux_Nantes_2005
+184,0,0,F1,1,Nice,H,9.0,2.0,2.0,1,8.0,0,1,2005-12-17,Metz,D,0,0,Metz_Nice_2005
+185,0,0,F1,1,St Etienne,A,9.0,5.0,3.0,0,8.0,0,3,2005-12-17,Rennes,D,1,1,Rennes_St Etienne_2005
+186,0,0,F1,1,Marseille,A,5.0,5.0,5.0,0,11.0,0,2,2005-12-17,Strasbourg,D,0,1,Strasbourg_Marseille_2005
+187,0,0,F1,2,Sochaux,H,3.0,0.0,5.0,2,8.0,0,2,2005-12-17,Troyes,D,0,1,Troyes_Sochaux_2005
+188,1,1,F1,3,Le Mans,H,5.0,2.0,5.0,2,8.0,0,3,2005-12-18,Lens,H,1,0,Lens_Le Mans_2005
+189,0,0,F1,0,Toulouse,H,4.0,1.0,6.0,1,16.0,0,0,2005-12-18,Monaco,D,0,0,Monaco_Toulouse_2005
+190,0,0,F1,0,Metz,H,6.0,3.0,10.0,2,13.0,0,2,2006-01-04,Le Mans,D,0,0,Le Mans_Metz_2005
+191,1,0,F1,4,Ajaccio,H,7.0,2.0,3.0,2,9.0,0,1,2006-01-04,Lille,H,0,0,Lille_Ajaccio_2005
+192,1,0,F1,2,Lens,D,10.0,4.0,3.0,1,7.0,0,2,2006-01-04,Marseille,H,1,1,Marseille_Lens_2005
+193,0,0,F1,1,Bordeaux,D,4.0,3.0,7.0,0,10.0,0,1,2006-01-04,Nancy,D,0,0,Nancy_Bordeaux_2005
+194,0,0,F1,0,Rennes,A,17.0,7.0,10.0,0,20.0,1,3,2006-01-04,Nantes,A,0,2,Nantes_Rennes_2005
+195,2,0,F1,2,Toulouse,H,8.0,2.0,3.0,2,13.0,0,1,2006-01-04,Nice,H,0,1,Nice_Toulouse_2005
+196,1,0,F1,3,Sochaux,H,4.0,4.0,10.0,3,14.0,0,1,2006-01-04,Paris SG,H,0,1,Paris SG_Sochaux_2005
+197,0,1,F1,1,Troyes,D,6.0,4.0,4.0,1,8.0,1,3,2006-01-04,St Etienne,A,1,1,St Etienne_Troyes_2005
+198,0,0,F1,1,Lyon,A,13.0,7.0,9.0,0,16.0,2,0,2006-01-04,Strasbourg,A,0,4,Strasbourg_Lyon_2005
+199,1,0,F1,1,Monaco,H,4.0,2.0,7.0,2,10.0,1,2,2006-01-05,Auxerre,D,0,1,Auxerre_Monaco_2005
+200,0,0,F1,3,Nantes,A,4.0,3.0,5.0,0,13.0,2,1,2006-01-11,Ajaccio,A,0,2,Ajaccio_Nantes_2005
+201,0,0,F1,2,Auxerre,H,3.0,0.0,2.0,1,6.0,0,2,2006-01-11,Bordeaux,D,0,0,Bordeaux_Auxerre_2005
+202,1,0,F1,0,Nancy,A,9.0,5.0,2.0,1,9.0,1,1,2006-01-11,Lens,D,0,2,Lens_Nancy_2005
+203,0,0,F1,2,Marseille,H,7.0,2.0,8.0,2,18.0,1,4,2006-01-11,Lyon,A,1,1,Lyon_Marseille_2005
+204,0,0,F1,3,St Etienne,A,8.0,4.0,6.0,0,10.0,1,2,2006-01-11,Metz,A,0,1,Metz_St Etienne_2005
+205,0,0,F1,3,Strasbourg,D,9.0,4.0,6.0,1,10.0,0,3,2006-01-11,Monaco,D,0,1,Monaco_Strasbourg_2005
+206,0,0,F1,1,Le Mans,H,10.0,6.0,7.0,1,10.0,0,2,2006-01-11,Rennes,D,0,0,Rennes_Le Mans_2005
+207,1,0,F1,1,Nice,D,11.0,3.0,7.0,1,10.0,1,2,2006-01-11,Sochaux,D,0,1,Sochaux_Nice_2005
+208,1,0,F1,3,Lille,H,10.0,2.0,1.0,1,9.0,0,1,2006-01-11,Troyes,H,0,0,Troyes_Lille_2005
+209,0,0,F1,1,Paris SG,H,2.0,0.0,3.0,1,5.0,0,3,2006-01-12,Toulouse,D,0,0,Toulouse_Paris SG_2005
+210,1,0,F1,2,Lens,H,3.0,1.0,2.0,1,7.0,0,1,2006-01-14,Auxerre,H,0,0,Auxerre_Lens_2005
+211,0,0,F1,2,Ajaccio,H,6.0,2.0,1.0,1,6.0,0,1,2006-01-14,Le Mans,D,0,0,Le Mans_Ajaccio_2005
+212,2,0,F1,2,Sochaux,H,6.0,0.0,3.0,3,6.0,0,3,2006-01-14,Lille,H,0,0,Lille_Sochaux_2005
+213,0,0,F1,2,Bordeaux,A,9.0,6.0,7.0,0,11.0,0,2,2006-01-14,Monaco,D,0,1,Monaco_Bordeaux_2005
+214,0,0,F1,2,Lyon,A,9.0,4.0,3.0,0,23.0,0,1,2006-01-14,Nancy,D,0,2,Nancy_Lyon_2005
+215,0,0,F1,2,Nice,D,6.0,3.0,5.0,0,8.0,0,1,2006-01-14,Nantes,D,0,0,Nantes_Nice_2005
+216,2,0,F1,2,Metz,H,6.0,1.0,4.0,2,8.0,0,1,2006-01-14,Strasbourg,H,1,1,Strasbourg_Metz_2005
+217,0,0,F1,1,Rennes,H,8.0,4.0,10.0,1,22.0,0,2,2006-01-15,Marseille,D,0,0,Marseille_Rennes_2005
+218,1,0,F1,3,Troyes,H,4.0,3.0,7.0,2,15.0,0,2,2006-01-15,Paris SG,H,0,1,Paris SG_Troyes_2005
+219,1,0,F1,1,Marseille,H,7.0,4.0,5.0,3,17.0,1,3,2006-01-21,Ajaccio,D,0,1,Ajaccio_Marseille_2005
+220,1,0,F1,3,Strasbourg,H,6.0,3.0,10.0,2,16.0,1,1,2006-01-21,Bordeaux,D,1,1,Bordeaux_Strasbourg_2005
+221,1,0,F1,2,Nantes,A,10.0,6.0,9.0,1,16.0,2,3,2006-01-21,Metz,A,0,4,Metz_Nantes_2005
+222,0,0,F1,1,Paris SG,H,5.0,3.0,3.0,1,8.0,0,1,2006-01-21,Nice,D,0,0,Nice_Paris SG_2005
+223,0,0,F1,2,Nancy,A,4.0,2.0,3.0,0,9.0,0,3,2006-01-21,Rennes,D,1,2,Rennes_Nancy_2005
+224,1,0,F1,1,St Etienne,H,8.0,1.0,11.0,4,24.0,0,1,2006-01-21,Sochaux,H,1,0,Sochaux_St Etienne_2005
+225,0,0,F1,1,Lille,D,10.0,3.0,1.0,0,5.0,0,1,2006-01-21,Toulouse,D,0,0,Toulouse_Lille_2005
+226,0,0,F1,0,Le Mans,A,14.0,9.0,7.0,1,17.0,2,1,2006-01-21,Troyes,A,0,3,Troyes_Le Mans_2005
+227,1,0,F1,1,Monaco,D,4.0,3.0,6.0,1,13.0,1,3,2006-01-22,Lens,D,0,1,Lens_Monaco_2005
+228,1,0,F1,0,Auxerre,D,14.0,5.0,7.0,1,14.0,0,0,2006-01-22,Lyon,H,0,1,Lyon_Auxerre_2005
+229,0,1,F1,0,Rennes,H,11.0,5.0,5.0,2,9.0,0,1,2006-01-28,Auxerre,D,0,0,Auxerre_Rennes_2005
+230,1,0,F1,3,Lens,H,12.0,1.0,1.0,1,5.0,0,4,2006-01-28,Bordeaux,H,0,0,Bordeaux_Lens_2005
+231,1,0,F1,4,Toulouse,D,5.0,4.0,7.0,1,13.0,1,1,2006-01-28,Le Mans,D,0,1,Le Mans_Toulouse_2005
+232,0,0,F1,1,Sochaux,D,9.0,5.0,6.0,0,10.0,0,2,2006-01-28,Marseille,D,0,0,Marseille_Sochaux_2005
+233,0,0,F1,3,Ajaccio,D,7.0,2.0,6.0,0,10.0,0,4,2006-01-28,Nancy,D,0,0,Nancy_Ajaccio_2005
+234,1,0,F1,0,Metz,H,8.0,5.0,5.0,3,10.0,0,0,2006-01-29,Lille,H,0,1,Lille_Metz_2005
+235,0,0,F1,1,Toulouse,A,9.0,4.0,3.0,1,8.0,1,2,2006-02-01,St Etienne,A,0,3,St Etienne_Toulouse_2005
+236,0,0,F1,1,Auxerre,H,3.0,1.0,2.0,1,5.0,0,2,2006-02-04,Ajaccio,D,0,0,Ajaccio_Auxerre_2005
+237,0,1,F1,2,Strasbourg,H,9.0,2.0,8.0,2,11.0,0,3,2006-02-04,Lens,D,1,1,Lens_Strasbourg_2005
+238,2,0,F1,1,Lille,H,6.0,2.0,2.0,2,3.0,0,3,2006-02-04,Nice,H,0,0,Nice_Lille_2005
+239,1,0,F1,3,St Etienne,D,18.0,6.0,7.0,2,29.0,2,3,2006-02-04,Paris SG,A,0,2,Paris SG_St Etienne_2005
+240,1,0,F1,1,Monaco,A,10.0,6.0,6.0,1,9.0,0,1,2006-02-04,Rennes,H,0,3,Rennes_Monaco_2005
+241,0,0,F1,0,Le Mans,D,5.0,2.0,2.0,0,9.0,0,1,2006-02-04,Sochaux,D,0,0,Sochaux_Le Mans_2005
+242,0,0,F1,1,Nantes,H,11.0,5.0,10.0,1,17.0,0,1,2006-02-04,Toulouse,D,0,0,Toulouse_Nantes_2005
+243,0,0,F1,0,Bordeaux,D,4.0,0.0,3.0,0,12.0,0,3,2006-02-05,Lyon,D,0,0,Lyon_Bordeaux_2005
+244,0,0,F1,2,Marseille,A,11.0,4.0,2.0,0,6.0,1,3,2006-02-05,Troyes,A,0,1,Troyes_Marseille_2005
+245,1,0,F1,2,Paris SG,D,7.0,3.0,5.0,1,8.0,1,1,2006-02-08,Strasbourg,D,0,1,Strasbourg_Paris SG_2005
+246,0,0,F1,0,Metz,D,6.0,1.0,6.0,1,9.0,0,4,2006-02-11,Auxerre,D,0,1,Auxerre_Metz_2005
+247,1,0,F1,2,Rennes,H,3.0,2.0,4.0,2,9.0,0,1,2006-02-11,Bordeaux,H,0,0,Bordeaux_Rennes_2005
+248,0,0,F1,1,Nice,H,7.0,0.0,7.0,2,9.0,0,3,2006-02-11,Le Mans,D,0,0,Le Mans_Nice_2005
+249,0,0,F1,1,Lyon,D,10.0,3.0,3.0,1,11.0,0,2,2006-02-11,Lens,D,0,1,Lens_Lyon_2005
+250,1,1,F1,0,Troyes,D,7.0,5.0,6.0,1,16.0,0,3,2006-02-11,Monaco,H,0,1,Monaco_Troyes_2005
+251,2,0,F1,0,St Etienne,H,4.0,0.0,2.0,2,3.0,0,1,2006-02-11,Nancy,H,0,0,Nancy_St Etienne_2005
+252,1,0,F1,1,Sochaux,H,7.0,1.0,5.0,3,9.0,1,2,2006-02-11,Nantes,D,0,1,Nantes_Sochaux_2005
+253,1,0,F1,1,Ajaccio,D,6.0,3.0,3.0,2,6.0,0,1,2006-02-11,Strasbourg,H,0,2,Strasbourg_Ajaccio_2005
+254,0,0,F1,3,Paris SG,D,5.0,2.0,4.0,0,9.0,0,2,2006-02-12,Lille,D,0,0,Lille_Paris SG_2005
+255,0,0,F1,0,Toulouse,D,6.0,4.0,6.0,0,16.0,0,3,2006-02-12,Marseille,D,0,0,Marseille_Toulouse_2005
+256,0,1,F1,1,Troyes,D,6.0,1.0,8.0,1,15.0,0,3,2006-02-14,Nantes,D,1,1,Nantes_Troyes_2005
+257,0,0,F1,1,Nice,A,7.0,4.0,4.0,0,9.0,1,2,2006-02-14,St Etienne,A,0,1,St Etienne_Nice_2005
+258,2,0,F1,1,Nantes,H,7.0,2.0,6.0,3,13.0,0,2,2006-02-17,Lyon,H,0,1,Lyon_Nantes_2005
+259,0,0,F1,0,Bordeaux,A,9.0,5.0,2.0,0,8.0,1,0,2006-02-18,Ajaccio,A,0,2,Ajaccio_Bordeaux_2005
+260,1,0,F1,1,Monaco,H,12.0,7.0,9.0,2,16.0,0,5,2006-02-18,Nice,H,0,0,Nice_Monaco_2005
+261,0,0,F1,2,Le Mans,A,8.0,4.0,10.0,0,15.0,1,2,2006-02-18,Paris SG,A,0,1,Paris SG_Le Mans_2005
+262,2,0,F1,1,Lens,H,5.0,1.0,4.0,4,12.0,0,2,2006-02-18,Rennes,H,0,1,Rennes_Lens_2005
+263,1,0,F1,2,Auxerre,H,13.0,4.0,4.0,1,6.0,0,1,2006-02-18,Sochaux,H,0,0,Sochaux_Auxerre_2005
+264,0,0,F1,2,Lille,A,5.0,2.0,4.0,0,11.0,1,1,2006-02-18,St Etienne,A,0,2,St Etienne_Lille_2005
+265,0,0,F1,2,Strasbourg,A,12.0,4.0,3.0,1,9.0,1,1,2006-02-18,Toulouse,A,0,2,Toulouse_Strasbourg_2005
+266,0,0,F1,1,Nancy,A,4.0,3.0,3.0,0,7.0,0,2,2006-02-18,Troyes,D,0,1,Troyes_Nancy_2005
+267,0,0,F1,3,Marseille,H,5.0,1.0,3.0,1,9.0,0,1,2006-02-19,Metz,D,0,0,Metz_Marseille_2005
+268,1,0,F1,0,Toulouse,H,5.0,1.0,7.0,2,13.0,0,2,2006-02-25,Auxerre,H,0,0,Auxerre_Toulouse_2005
+269,2,1,F1,1,Metz,D,6.0,4.0,6.0,3,9.0,3,4,2006-02-25,Bordeaux,A,0,3,Bordeaux_Metz_2005
+270,0,0,F1,1,St Etienne,A,8.0,5.0,4.0,0,10.0,0,2,2006-02-25,Le Mans,D,0,1,Le Mans_St Etienne_2005
+271,1,0,F1,1,Rennes,A,7.0,6.0,4.0,1,9.0,2,2,2006-02-25,Lyon,A,0,4,Lyon_Rennes_2005
+272,0,1,F1,0,Sochaux,A,5.0,3.0,9.0,0,16.0,2,1,2006-02-25,Nancy,A,0,3,Nancy_Sochaux_2005
+273,0,0,F1,1,Paris SG,D,10.0,5.0,2.0,0,8.0,0,3,2006-02-25,Nantes,D,1,0,Nantes_Paris SG_2005
+274,1,0,F1,2,Ajaccio,H,3.0,2.0,3.0,1,5.0,0,3,2006-02-26,Lens,H,0,0,Lens_Ajaccio_2005
+275,0,1,F1,1,Nice,H,5.0,0.0,2.0,1,13.0,0,1,2006-02-26,Marseille,D,0,0,Marseille_Nice_2005
+276,0,0,F1,1,Lille,A,12.0,3.0,3.0,0,13.0,0,3,2006-02-26,Monaco,D,1,1,Monaco_Lille_2005
+277,1,0,F1,0,Troyes,H,5.0,3.0,5.0,2,13.0,0,2,2006-02-26,Strasbourg,H,0,0,Strasbourg_Troyes_2005
+278,0,0,F1,1,Lyon,A,8.0,4.0,3.0,1,5.0,0,3,2006-03-04,Ajaccio,D,0,3,Ajaccio_Lyon_2005
+279,2,0,F1,1,Le Mans,H,8.0,3.0,6.0,4,8.0,0,2,2006-03-04,Lille,H,0,0,Lille_Le Mans_2005
+280,0,0,F1,0,Monaco,H,8.0,2.0,3.0,2,8.0,1,1,2006-03-04,Metz,A,0,1,Metz_Monaco_2005
+281,0,0,F1,2,Lens,D,6.0,2.0,6.0,0,13.0,0,4,2006-03-04,Nice,D,1,0,Nice_Lens_2005
+282,0,0,F1,0,Strasbourg,H,5.0,1.0,6.0,2,11.0,0,0,2006-03-04,Rennes,D,0,1,Rennes_Strasbourg_2005
+283,0,0,F1,1,Nancy,D,5.0,1.0,6.0,1,9.0,0,2,2006-03-04,Toulouse,D,0,1,Toulouse_Nancy_2005
+284,0,0,F1,0,Marseille,D,3.0,2.0,3.0,0,10.0,0,2,2006-03-05,Paris SG,D,0,0,Paris SG_Marseille_2005
+285,0,0,F1,0,Nantes,H,5.0,1.0,12.0,1,28.0,0,1,2006-03-05,St Etienne,D,0,0,St Etienne_Nantes_2005
+286,1,0,F1,3,Auxerre,D,4.0,4.0,6.0,1,10.0,0,2,2006-03-05,Troyes,H,0,1,Troyes_Auxerre_2005
+287,0,0,F1,1,Nancy,D,6.0,5.0,3.0,0,6.0,0,0,2006-03-07,Metz,D,0,0,Metz_Nancy_2005
+288,0,0,F1,1,Nice,H,4.0,1.0,5.0,2,13.0,0,4,2006-03-11,Auxerre,D,0,0,Auxerre_Nice_2005
+289,0,0,F1,1,Toulouse,H,3.0,0.0,3.0,2,11.0,0,1,2006-03-11,Bordeaux,D,0,0,Bordeaux_Toulouse_2005
+290,1,0,F1,1,Troyes,H,1.0,0.0,10.0,1,19.0,0,0,2006-03-11,Lens,H,1,0,Lens_Troyes_2005
+291,3,0,F1,0,Metz,H,2.0,2.0,10.0,4,15.0,0,0,2006-03-11,Lyon,H,0,0,Lyon_Metz_2005
+292,2,0,F1,1,Sochaux,H,9.0,1.0,3.0,4,12.0,0,2,2006-03-11,Monaco,H,0,1,Monaco_Sochaux_2005
+293,1,0,F1,2,Paris SG,D,6.0,3.0,2.0,1,8.0,0,1,2006-03-11,Nancy,H,0,1,Nancy_Paris SG_2005
+294,0,0,F1,2,Ajaccio,H,8.0,1.0,13.0,3,19.0,0,4,2006-03-11,Rennes,D,0,0,Rennes_Ajaccio_2005
+295,2,0,F1,1,St Etienne,H,11.0,4.0,7.0,2,18.0,0,1,2006-03-12,Marseille,H,0,0,Marseille_St Etienne_2005
+296,1,0,F1,4,Lille,D,6.0,4.0,4.0,1,10.0,0,3,2006-03-12,Nantes,H,0,1,Nantes_Lille_2005
+297,1,0,F1,3,Le Mans,A,11.0,6.0,1.0,1,6.0,0,4,2006-03-12,Strasbourg,H,0,2,Strasbourg_Le Mans_2005
+298,1,0,F1,2,Monaco,H,12.0,2.0,2.0,1,10.0,0,1,2006-03-18,Ajaccio,H,0,0,Ajaccio_Monaco_2005
+299,0,0,F1,1,Nantes,D,9.0,2.0,5.0,0,14.0,0,2,2006-03-18,Le Mans,D,0,0,Le Mans_Nantes_2005
+300,0,1,F1,2,Rennes,A,13.0,4.0,4.0,0,13.0,1,3,2006-03-18,Metz,A,0,1,Metz_Rennes_2005
+301,0,0,F1,1,Nancy,H,7.0,1.0,5.0,1,10.0,0,4,2006-03-18,Nice,D,1,0,Nice_Nancy_2005
+302,0,0,F1,0,Lyon,A,15.0,9.0,1.0,0,6.0,2,2,2006-03-18,Sochaux,A,0,4,Sochaux_Lyon_2005
+303,1,0,F1,2,Lens,D,4.0,3.0,6.0,1,14.0,0,0,2006-03-18,Toulouse,H,0,1,Toulouse_Lens_2005
+304,1,0,F1,1,Bordeaux,D,7.0,4.0,7.0,1,11.0,1,4,2006-03-18,Troyes,D,0,1,Troyes_Bordeaux_2005
+305,0,0,F1,2,Marseille,D,5.0,2.0,3.0,0,7.0,0,3,2006-03-19,Lille,D,0,0,Lille_Marseille_2005
+306,2,0,F1,2,Auxerre,H,7.0,4.0,6.0,4,11.0,0,0,2006-03-19,Paris SG,H,0,1,Paris SG_Auxerre_2005
+307,0,0,F1,0,Strasbourg,A,11.0,9.0,6.0,0,9.0,0,1,2006-03-19,St Etienne,D,0,2,St Etienne_Strasbourg_2005
+308,0,0,F1,0,Metz,A,9.0,3.0,3.0,0,15.0,0,1,2006-03-25,Ajaccio,D,0,1,Ajaccio_Metz_2005
+309,0,0,F1,0,St Etienne,D,10.0,5.0,6.0,0,12.0,0,0,2006-03-25,Auxerre,D,0,0,Auxerre_St Etienne_2005
+310,2,0,F1,2,Sochaux,H,2.0,1.0,4.0,2,11.0,0,2,2006-03-25,Lens,H,0,1,Lens_Sochaux_2005
+311,0,0,F1,1,Toulouse,D,10.0,2.0,12.0,1,44.0,1,2,2006-03-25,Lyon,A,0,1,Lyon_Toulouse_2005
+312,1,0,F1,2,Le Mans,D,9.0,3.0,8.0,1,15.0,1,4,2006-03-25,Marseille,D,0,1,Marseille_Le Mans_2005
+313,0,0,F1,1,Nantes,D,8.0,3.0,3.0,0,15.0,0,2,2006-03-25,Nancy,D,0,0,Nancy_Nantes_2005
+314,1,0,F1,0,Troyes,H,6.0,1.0,3.0,2,11.0,0,0,2006-03-25,Rennes,H,0,0,Rennes_Troyes_2005
+315,1,0,F1,0,Lille,D,9.0,4.0,5.0,2,11.0,1,2,2006-03-25,Strasbourg,D,0,2,Strasbourg_Lille_2005
+316,1,0,F1,3,Nice,H,7.0,5.0,2.0,1,6.0,0,1,2006-03-26,Bordeaux,H,0,0,Bordeaux_Nice_2005
+317,0,0,F1,2,Paris SG,D,6.0,4.0,7.0,1,14.0,1,2,2006-03-26,Monaco,A,0,1,Monaco_Paris SG_2005
+318,1,0,F1,0,Auxerre,D,6.0,3.0,5.0,1,15.0,1,0,2006-04-01,Lille,D,0,1,Lille_Auxerre_2005
+319,0,0,F1,4,Lens,A,14.0,4.0,3.0,0,11.0,1,1,2006-04-01,Metz,A,1,1,Metz_Lens_2005
+320,0,0,F1,2,Marseille,A,10.0,7.0,5.0,1,10.0,1,3,2006-04-01,Nantes,A,0,3,Nantes_Marseille_2005
+321,0,0,F1,2,Strasbourg,H,6.0,3.0,6.0,3,11.0,0,3,2006-04-01,Nice,D,0,1,Nice_Strasbourg_2005
+322,2,0,F1,1,Ajaccio,H,8.0,3.0,7.0,3,9.0,0,2,2006-04-01,Sochaux,H,0,1,Sochaux_Ajaccio_2005
+323,0,0,F1,2,Monaco,D,9.0,3.0,5.0,1,14.0,0,2,2006-04-01,St Etienne,D,0,1,St Etienne_Monaco_2005
+324,0,0,F1,1,Lyon,A,12.0,4.0,4.0,0,10.0,0,3,2006-04-01,Troyes,D,0,1,Troyes_Lyon_2005
+325,0,0,F1,0,Nancy,D,11.0,4.0,8.0,0,18.0,0,1,2006-04-02,Le Mans,D,0,0,Le Mans_Nancy_2005
+326,3,0,F1,1,Bordeaux,H,2.0,2.0,3.0,3,12.0,1,3,2006-04-02,Paris SG,H,0,1,Paris SG_Bordeaux_2005
+327,0,0,F1,0,Rennes,A,11.0,8.0,5.0,0,9.0,0,2,2006-04-02,Toulouse,D,0,1,Toulouse_Rennes_2005
+328,0,0,F1,0,Toulouse,H,7.0,3.0,8.0,1,16.0,0,0,2006-04-08,Ajaccio,D,0,0,Ajaccio_Toulouse_2005
+329,0,0,F1,0,St Etienne,D,9.0,3.0,2.0,0,13.0,0,0,2006-04-08,Bordeaux,D,0,0,Bordeaux_St Etienne_2005
+330,0,0,F1,2,Paris SG,D,8.0,5.0,6.0,1,13.0,0,2,2006-04-08,Lens,D,1,1,Lens_Paris SG_2005
+331,1,0,F1,2,Nice,H,5.0,5.0,3.0,2,7.0,1,2,2006-04-08,Lyon,D,0,1,Lyon_Nice_2005
+332,0,0,F1,0,Troyes,A,8.0,7.0,7.0,2,19.0,1,3,2006-04-08,Metz,A,0,4,Metz_Troyes_2005
+333,1,0,F1,2,Marseille,H,11.0,5.0,6.0,1,16.0,0,2,2006-04-08,Monaco,H,0,0,Monaco_Marseille_2005
+334,0,0,F1,1,Lille,D,12.0,3.0,7.0,0,13.0,0,1,2006-04-08,Nancy,D,0,0,Nancy_Lille_2005
+335,0,0,F1,3,Nantes,A,4.0,1.0,4.0,0,8.0,1,2,2006-04-08,Strasbourg,A,0,1,Strasbourg_Nantes_2005
+336,0,0,F1,3,Le Mans,D,8.0,3.0,4.0,0,11.0,0,2,2006-04-09,Auxerre,D,0,0,Auxerre_Le Mans_2005
+337,1,0,F1,3,Sochaux,H,9.0,3.0,5.0,2,13.0,1,3,2006-04-09,Rennes,D,1,1,Rennes_Sochaux_2005
+338,2,0,F1,1,Metz,H,3.0,1.0,4.0,2,9.0,0,1,2006-04-14,Toulouse,H,0,0,Toulouse_Metz_2005
+339,0,0,F1,2,Monaco,D,12.0,8.0,6.0,0,9.0,0,2,2006-04-15,Le Mans,D,0,0,Le Mans_Monaco_2005
+340,3,0,F1,2,Bordeaux,H,7.0,4.0,7.0,3,11.0,1,3,2006-04-15,Lille,H,0,2,Lille_Bordeaux_2005
+341,2,0,F1,0,Nancy,H,9.0,1.0,7.0,6,14.0,0,1,2006-04-15,Marseille,H,0,0,Marseille_Nancy_2005
+342,1,0,F1,0,Auxerre,H,12.0,3.0,5.0,3,16.0,0,0,2006-04-15,Nantes,H,0,2,Nantes_Auxerre_2005
+343,0,0,F1,0,Strasbourg,D,9.0,5.0,6.0,1,9.0,0,1,2006-04-15,Sochaux,D,0,1,Sochaux_Strasbourg_2005
+344,2,0,F1,0,Lens,H,16.0,9.0,2.0,2,4.0,0,1,2006-04-15,St Etienne,H,0,0,St Etienne_Lens_2005
+345,2,0,F1,1,Ajaccio,H,11.0,4.0,4.0,3,11.0,0,4,2006-04-15,Troyes,H,1,0,Troyes_Ajaccio_2005
+346,1,0,F1,0,Rennes,H,7.0,3.0,3.0,2,13.0,1,2,2006-04-16,Nice,D,0,1,Nice_Rennes_2005
+347,0,0,F1,4,Lyon,A,13.0,11.0,2.0,0,7.0,1,3,2006-04-16,Paris SG,A,0,1,Paris SG_Lyon_2005
+348,1,0,F1,1,Lyon,H,12.0,6.0,4.0,2,6.0,0,2,2006-04-23,Monaco,H,0,1,Monaco_Lyon_2005
+349,0,0,F1,2,Bordeaux,A,10.0,6.0,6.0,0,10.0,2,1,2006-04-23,Sochaux,A,0,3,Sochaux_Bordeaux_2005
+350,3,1,F1,1,Lille,H,7.0,2.0,5.0,4,8.0,0,2,2006-04-29,Lens,H,1,2,Lens_Lille_2005
+351,0,1,F1,1,Nice,A,12.0,9.0,7.0,0,11.0,2,2,2006-04-30,Ajaccio,A,0,3,Ajaccio_Nice_2005
+352,1,0,F1,3,Le Mans,D,7.0,4.0,6.0,2,14.0,1,1,2006-04-30,Bordeaux,D,0,2,Bordeaux_Le Mans_2005
+353,2,0,F1,0,St Etienne,H,6.0,2.0,11.0,4,15.0,0,3,2006-04-30,Lyon,H,0,0,Lyon_St Etienne_2005
+354,0,0,F1,1,Sochaux,A,7.0,4.0,2.0,0,5.0,0,0,2006-04-30,Metz,D,0,1,Metz_Sochaux_2005
+355,0,0,F1,3,Nantes,D,4.0,1.0,3.0,1,9.0,1,2,2006-04-30,Monaco,A,0,1,Monaco_Nantes_2005
+356,1,0,F1,0,Nancy,A,9.0,7.0,3.0,1,3.0,3,0,2006-04-30,Strasbourg,A,0,3,Strasbourg_Nancy_2005
+357,0,0,F1,0,Toulouse,H,11.0,5.0,7.0,3,15.0,1,0,2006-04-30,Troyes,A,0,1,Troyes_Toulouse_2005
+358,0,0,F1,2,Marseille,A,9.0,4.0,4.0,1,13.0,1,3,2006-05-03,Auxerre,A,0,2,Auxerre_Marseille_2005
+359,0,0,F1,2,Paris SG,D,8.0,3.0,7.0,1,15.0,0,3,2006-05-03,Rennes,D,0,1,Rennes_Paris SG_2005
+360,0,0,F1,1,Lens,D,8.0,2.0,2.0,0,5.0,0,0,2006-05-06,Le Mans,D,0,0,Le Mans_Lens_2005
+361,1,0,F1,1,Lyon,H,11.0,0.0,13.0,4,18.0,0,0,2006-05-06,Lille,H,0,0,Lille_Lyon_2005
+362,0,0,F1,1,Strasbourg,D,7.0,2.0,6.0,2,13.0,0,2,2006-05-06,Marseille,D,0,2,Marseille_Strasbourg_2005
+363,0,0,F1,0,Auxerre,A,14.0,7.0,5.0,1,11.0,2,2,2006-05-06,Nancy,A,0,3,Nancy_Auxerre_2005
+364,0,0,F1,4,Bordeaux,A,,,,0,,0,2,2006-05-06,Nantes,D,0,1,Nantes_Bordeaux_2005
+365,0,0,F1,3,Metz,H,5.0,2.0,6.0,2,10.0,1,1,2006-05-06,Nice,A,0,1,Nice_Metz_2005
+366,1,0,F1,2,Ajaccio,A,12.0,5.0,4.0,2,13.0,1,2,2006-05-06,Paris SG,D,0,4,Paris SG_Ajaccio_2005
+367,1,0,F1,2,Troyes,D,5.0,1.0,3.0,1,8.0,0,2,2006-05-06,Sochaux,H,0,1,Sochaux_Troyes_2005
+368,0,0,F1,1,Rennes,D,12.0,5.0,4.0,0,11.0,0,2,2006-05-06,St Etienne,D,0,0,St Etienne_Rennes_2005
+369,1,0,F1,0,Monaco,D,15.0,5.0,4.0,3,12.0,2,1,2006-05-06,Toulouse,A,0,3,Toulouse_Monaco_2005
+370,3,0,F1,2,St Etienne,H,2.0,0.0,3.0,3,6.0,0,2,2006-05-13,Ajaccio,H,1,1,Ajaccio_St Etienne_2005
+371,2,0,F1,0,Strasbourg,H,0.0,0.0,6.0,4,15.0,0,0,2006-05-13,Auxerre,H,0,0,Auxerre_Strasbourg_2005
+372,0,0,F1,2,Marseille,D,19.0,8.0,5.0,1,14.0,0,3,2006-05-13,Bordeaux,D,1,1,Bordeaux_Marseille_2005
+373,2,0,F1,1,Nantes,H,5.0,1.0,9.0,3,18.0,1,4,2006-05-13,Lens,H,0,1,Lens_Nantes_2005
+374,5,0,F1,0,Le Mans,H,11.0,5.0,10.0,8,14.0,1,1,2006-05-13,Lyon,H,0,1,Lyon_Le Mans_2005
+375,0,0,F1,1,Paris SG,H,7.0,2.0,3.0,1,4.0,0,1,2006-05-13,Metz,D,0,0,Metz_Paris SG_2005
+376,0,0,F1,1,Nancy,D,6.0,3.0,5.0,2,13.0,1,3,2006-05-13,Monaco,A,0,2,Monaco_Nancy_2005
+377,1,0,F1,1,Lille,D,14.0,8.0,5.0,2,6.0,0,2,2006-05-13,Rennes,H,0,2,Rennes_Lille_2005
+378,1,0,F1,2,Sochaux,A,8.0,2.0,3.0,1,8.0,0,0,2006-05-13,Toulouse,H,0,2,Toulouse_Sochaux_2005
+379,0,0,F1,0,Nice,A,10.0,7.0,3.0,1,6.0,1,1,2006-05-13,Troyes,A,0,2,Troyes_Nice_2005

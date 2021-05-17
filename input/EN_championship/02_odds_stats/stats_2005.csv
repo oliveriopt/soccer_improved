@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,2,Burnley,9,2,0,1,1,C Webster,0,0,3,14,H,12,2005-08-06,Crewe,E1,8,8,8,16,H,9,Crewe_Burnley_2005
+1,1,Luton,8,1,0,2,0,P Dowd,0,1,2,15,A,7,2005-08-06,Crystal Palace,E1,2,2,14,2,A,6,Crystal Palace_Luton_2005
+2,1,Brighton,12,1,0,1,1,B Curson,0,1,1,11,D,9,2005-08-06,Derby,E1,3,7,1,14,D,4,Derby_Brighton_2005
+3,1,QPR,10,0,0,0,0,D Gallagher,0,0,2,15,D,9,2005-08-06,Hull,E1,3,3,5,8,D,6,Hull_QPR_2005
+4,1,Cardiff,12,1,0,0,0,K Friend,0,0,1,20,H,12,2005-08-06,Ipswich,E1,6,3,7,11,D,5,Ipswich_Cardiff_2005
+5,2,Coventry,22,1,0,1,1,R Beeby,0,0,2,16,D,8,2005-08-06,Norwich,E1,4,9,13,14,H,5,Norwich_Coventry_2005
+6,2,Plymouth,20,1,0,2,0,P Taylor,0,1,1,21,A,9,2005-08-06,Reading,E1,4,4,4,9,A,5,Reading_Plymouth_2005
+7,1,Leicester,16,4,0,1,1,L Mason,0,0,1,17,H,16,2005-08-06,Sheffield United,E1,7,9,7,13,H,9,Sheffield United_Leicester_2005
+8,4,Wolves,13,0,0,0,0,T Kettle,0,0,4,18,D,13,2005-08-06,Southampton,E1,7,6,5,13,D,10,Southampton_Wolves_2005
+9,0,Sheffield Weds,9,0,0,0,0,M Clattenburg,1,0,3,16,D,9,2005-08-06,Stoke,E1,5,4,4,8,D,3,Stoke_Sheffield Weds_2005
+10,1,Preston,21,1,0,2,1,I Williamson,0,2,2,18,A,10,2005-08-06,Watford,E1,8,4,6,9,A,5,Watford_Preston_2005
+11,2,Millwall,18,2,0,1,1,G Laws,0,0,2,12,H,5,2005-08-07,Leeds,E1,5,7,6,9,H,6,Leeds_Millwall_2005
+12,0,Derby,11,1,0,1,1,R Olivier,0,1,2,17,D,9,2005-08-08,Preston,E1,1,6,5,12,D,5,Preston_Derby_2005
+13,1,Reading,15,0,0,2,0,K Friend,0,1,3,20,A,9,2005-08-09,Brighton,E1,5,3,9,9,A,2,Brighton_Reading_2005
+14,0,Sheffield United,8,1,0,2,0,M Halsey,0,2,0,14,A,6,2005-08-09,Burnley,E1,4,5,4,12,A,2,Burnley_Sheffield United_2005
+15,2,Leeds,16,2,0,1,0,S Tanner,0,1,2,12,H,7,2005-08-09,Cardiff,E1,3,4,4,7,A,4,Cardiff_Leeds_2005
+16,2,Stoke,18,4,1,2,1,P Taylor,0,0,1,16,H,15,2005-08-09,Leicester,E1,4,7,6,14,H,4,Leicester_Stoke_2005
+17,2,Southampton,16,3,0,2,1,S Bennett,0,2,2,19,H,9,2005-08-09,Luton,E1,4,13,9,22,A,4,Luton_Southampton_2005
+18,3,Coventry,12,0,0,0,0,G Hegley,1,0,3,18,D,10,2005-08-09,Millwall,E1,4,6,2,10,D,2,Millwall_Coventry_2005
+19,4,Crewe,16,1,0,1,0,C Penton,0,1,1,8,D,10,2005-08-09,Norwich,E1,9,10,9,19,A,8,Norwich_Crewe_2005
+20,1,Watford,14,3,0,3,3,L Probert,0,1,4,16,D,12,2005-08-09,Plymouth,E1,8,4,11,9,H,5,Plymouth_Watford_2005
+21,3,Ipswich,21,2,0,1,2,K Stroud,0,0,2,9,H,4,2005-08-09,QPR,E1,4,5,1,14,H,1,QPR_Ipswich_2005
+22,1,Hull,8,1,0,1,1,M Jones,0,1,0,5,D,12,2005-08-09,Sheffield Weds,E1,8,9,2,18,D,4,Sheffield Weds_Hull_2005
+23,1,Crystal Palace,17,2,0,1,1,R Styles,0,1,2,11,H,11,2005-08-09,Wolves,E1,7,5,7,10,D,12,Wolves_Crystal Palace_2005
+24,0,Watford,6,1,0,3,0,U Rennie,0,1,0,17,A,11,2005-08-12,Cardiff,E1,8,3,3,7,A,5,Cardiff_Watford_2005
+25,2,Crewe,14,2,0,2,1,P Taylor,0,0,1,14,D,7,2005-08-13,Brighton,E1,4,7,2,12,H,3,Brighton_Crewe_2005
+26,0,Coventry,12,4,1,0,2,N Miller,0,0,0,8,H,10,2005-08-13,Burnley,E1,6,11,5,20,H,1,Burnley_Coventry_2005
+27,2,Ipswich,19,0,0,0,0,M Jones,0,0,1,11,D,6,2005-08-13,Leicester,E1,4,10,6,18,D,4,Leicester_Ipswich_2005
+28,1,Leeds,11,0,0,0,0,A Leake,0,0,1,15,D,7,2005-08-13,Luton,E1,1,6,9,13,D,4,Luton_Leeds_2005
+29,1,Stoke,17,0,0,1,0,P Walton,0,1,2,20,A,8,2005-08-13,Millwall,E1,1,4,3,5,A,5,Millwall_Stoke_2005
+30,0,Crystal Palace,17,1,0,1,1,I Williamson,0,1,3,12,D,17,2005-08-13,Norwich,E1,14,8,1,15,D,16,Norwich_Crystal Palace_2005
+31,1,Derby,17,0,0,2,0,P Dowd,0,2,3,15,A,9,2005-08-13,Plymouth,E1,7,5,8,13,A,4,Plymouth_Derby_2005
+32,2,Reading,15,0,0,3,0,L Probert,0,1,0,8,A,7,2005-08-13,Preston,E1,3,5,10,14,A,1,Preston_Reading_2005
+33,1,Sheffield United,16,2,0,1,0,S Tanner,0,0,3,17,H,3,2005-08-13,QPR,E1,2,3,0,4,D,9,QPR_Sheffield United_2005
+34,0,Southampton,10,0,0,1,0,M Pike,0,1,0,4,A,7,2005-08-13,Sheffield Weds,E1,3,1,3,8,A,6,Sheffield Weds_Southampton_2005
+35,1,Hull,8,1,0,0,1,L Mason,0,0,1,7,H,5,2005-08-13,Wolves,E1,4,7,8,13,H,3,Wolves_Hull_2005
+36,5,QPR,19,3,1,0,3,A Leake,0,0,3,14,H,10,2005-08-20,Coventry,E1,5,6,3,9,H,5,Coventry_QPR_2005
+37,0,Leicester,8,2,0,2,2,M Halsey,0,1,1,22,D,16,2005-08-20,Crewe,E1,9,5,7,9,H,9,Crewe_Leicester_2005
+38,4,Plymouth,19,1,0,0,0,P Walton,0,0,3,13,H,10,2005-08-20,Crystal Palace,E1,2,10,7,15,D,6,Crystal Palace_Plymouth_2005
+39,4,Cardiff,22,2,0,1,2,T Kettle,0,0,6,14,H,4,2005-08-20,Derby,E1,3,10,3,13,H,8,Derby_Cardiff_2005
+40,0,Brighton,15,2,0,0,1,P Joslin,0,0,2,15,H,8,2005-08-20,Hull,E1,3,5,6,12,H,6,Hull_Brighton_2005
+41,0,Sheffield Weds,11,2,0,1,1,G Hegley,0,0,2,7,H,9,2005-08-20,Ipswich,E1,4,8,4,13,H,3,Ipswich_Sheffield Weds_2005
+42,0,Wolves,18,2,0,0,1,R Beeby,0,0,1,16,H,21,2005-08-20,Leeds,E1,15,4,5,6,H,5,Leeds_Wolves_2005
+43,1,Millwall,14,5,1,0,4,S Tanner,0,0,3,12,H,9,2005-08-20,Reading,E1,6,9,7,16,H,7,Reading_Millwall_2005
+44,0,Preston,11,2,0,1,1,K Stroud,0,1,5,22,H,6,2005-08-20,Sheffield United,E1,4,5,6,13,D,2,Sheffield United_Preston_2005
+45,3,Norwich,16,1,0,0,1,L Probert,0,0,1,13,H,11,2005-08-20,Southampton,E1,6,5,2,10,H,10,Southampton_Norwich_2005
+46,0,Luton,16,2,1,1,0,A D'Urso,0,1,1,8,H,11,2005-08-20,Stoke,E1,7,8,6,13,A,4,Stoke_Luton_2005
+47,3,Burnley,15,3,0,1,2,M Messias,0,1,2,10,H,9,2005-08-20,Watford,E1,8,5,7,11,H,4,Watford_Burnley_2005
+48,0,Sheffield Weds,11,0,1,0,0,C Penton,0,0,1,19,D,6,2005-08-26,QPR,E1,3,7,5,14,D,5,QPR_Sheffield Weds_2005
+49,3,Derby,16,2,0,2,0,G Laws,1,1,1,10,D,11,2005-08-27,Burnley,E1,5,4,4,8,A,0,Burnley_Derby_2005
+50,1,Wolves,10,2,0,2,1,G Salisbury,0,0,2,9,D,24,2005-08-27,Cardiff,E1,10,5,4,9,H,8,Cardiff_Wolves_2005
+51,0,Stoke,12,2,0,0,1,M Atkinson,0,0,1,13,H,10,2005-08-27,Crystal Palace,E1,2,6,1,10,H,6,Crystal Palace_Stoke_2005
+52,3,Luton,21,0,0,2,0,P Armstrong,0,1,1,21,A,6,2005-08-27,Leicester,E1,4,6,10,12,A,2,Leicester_Luton_2005
+53,1,Ipswich,15,1,1,2,0,M Halsey,0,1,2,14,A,7,2005-08-27,Millwall,E1,4,3,6,5,A,6,Millwall_Ipswich_2005
+54,0,Leeds,10,0,0,1,0,U Rennie,0,0,2,15,A,9,2005-08-27,Norwich,E1,5,9,6,19,D,11,Norwich_Leeds_2005
+55,3,Hull,21,0,1,1,0,A D'Urso,0,0,2,16,A,7,2005-08-27,Plymouth,E1,5,1,6,14,D,2,Plymouth_Hull_2005
+56,0,Brighton,13,0,0,0,0,A Bates,0,0,2,12,D,7,2005-08-27,Preston,E1,3,6,8,15,D,7,Preston_Brighton_2005
+57,2,Coventry,15,2,1,1,1,C Webster,0,1,3,22,H,12,2005-08-27,Sheffield United,E1,9,10,14,17,D,5,Sheffield United_Coventry_2005
+58,1,Crewe,10,2,0,0,1,A Hall,0,0,1,9,H,7,2005-08-27,Southampton,E1,0,12,11,21,H,2,Southampton_Crewe_2005
+59,0,Reading,9,0,0,0,0,R Beeby,0,0,0,10,D,10,2005-08-27,Watford,E1,7,10,13,20,D,8,Watford_Reading_2005
+60,1,Plymouth,17,2,0,0,1,D Gallagher,0,0,1,14,H,12,2005-08-29,Brighton,E1,5,10,10,17,H,3,Brighton_Plymouth_2005
+61,1,Southampton,16,1,0,1,1,M Thorpe,0,1,2,19,D,12,2005-08-29,Coventry,E1,4,7,11,12,D,3,Coventry_Southampton_2005
+62,1,Sheffield United,9,1,0,3,1,A Leake,0,1,0,13,A,17,2005-08-29,Crewe,E1,8,1,3,3,D,8,Crewe_Sheffield United_2005
+63,4,Watford,12,1,0,2,1,C Penton,1,0,1,12,A,9,2005-08-29,Derby,E1,7,3,3,6,H,3,Derby_Watford_2005
+64,2,Leicester,14,1,0,1,0,M Clattenburg,0,0,3,13,D,13,2005-08-29,Hull,E1,7,8,6,13,D,9,Hull_Leicester_2005
+65,0,Preston,9,0,0,4,0,B Curson,0,3,2,13,A,13,2005-08-29,Ipswich,E1,11,5,9,11,A,2,Ipswich_Preston_2005
+66,1,Millwall,11,2,0,1,1,M Atkinson,0,0,1,19,H,7,2005-08-29,Luton,E1,4,6,2,8,H,5,Luton_Millwall_2005
+67,1,Burnley,9,2,1,1,1,R Olivier,0,1,2,15,H,5,2005-08-29,Reading,E1,3,3,5,5,D,2,Reading_Burnley_2005
+68,2,Norwich,6,3,1,1,2,M Pike,0,1,1,7,H,5,2005-08-29,Stoke,E1,3,6,9,8,H,2,Stoke_Norwich_2005
+69,1,QPR,4,3,0,1,2,N Miller,0,1,0,7,H,5,2005-08-30,Wolves,E1,4,9,6,13,H,1,Wolves_QPR_2005
+70,2,Cardiff,13,3,0,3,2,P Walton,0,2,2,11,D,9,2005-09-10,Burnley,E1,3,3,7,7,D,7,Burnley_Cardiff_2005
+71,4,Reading,18,1,0,1,0,A Hall,0,0,0,16,D,19,2005-09-10,Coventry,E1,11,13,12,18,D,3,Coventry_Reading_2005
+72,3,Hull,21,2,0,0,1,K Wright,0,0,0,12,H,8,2005-09-10,Crystal Palace,E1,1,4,2,10,H,6,Crystal Palace_Hull_2005
+73,2,Brighton,14,3,0,3,0,M Pike,0,1,2,10,D,7,2005-09-10,Leeds,E1,3,15,8,22,A,2,Leeds_Brighton_2005
+74,1,Sheffield Weds,16,2,0,0,2,G Salisbury,0,0,2,9,H,8,2005-09-10,Leicester,E1,5,6,8,11,H,3,Leicester_Sheffield Weds_2005
+75,4,Wolves,9,1,0,1,0,L Probert,0,1,3,20,D,6,2005-09-10,Luton,E1,2,4,13,9,A,4,Luton_Wolves_2005
+76,4,Preston,19,1,0,2,0,M Jones,0,1,3,21,A,5,2005-09-10,Millwall,E1,4,6,4,10,A,5,Millwall_Preston_2005
+77,1,Plymouth,20,2,0,0,2,B Knight,0,0,1,17,H,11,2005-09-10,Norwich,E1,5,7,9,12,H,7,Norwich_Plymouth_2005
+78,0,Ipswich,18,2,1,0,1,P Dowd,0,0,4,9,H,2,2005-09-10,Sheffield United,E1,0,7,8,12,H,2,Sheffield United_Ipswich_2005
+79,1,QPR,18,1,0,1,1,R Beeby,0,1,3,14,D,4,2005-09-10,Southampton,E1,1,8,7,14,D,3,Southampton_QPR_2005
+80,3,Watford,12,0,0,3,0,N Miller,1,1,1,10,A,10,2005-09-10,Stoke,E1,7,8,3,15,A,6,Stoke_Watford_2005
+81,1,Derby,12,1,1,1,1,I Williamson,0,0,2,10,D,16,2005-09-11,Crewe,E1,8,7,3,11,H,5,Crewe_Derby_2005
+82,5,Sheffield United,15,0,0,1,0,L Probert,0,1,4,18,A,11,2005-09-13,Brighton,E1,7,4,2,11,A,7,Brighton_Sheffield United_2005
+83,2,Leicester,18,1,0,0,1,K Stroud,0,0,2,17,H,7,2005-09-13,Cardiff,E1,6,5,8,7,H,5,Cardiff_Leicester_2005
+84,1,Stoke,12,0,0,1,0,C Webster,0,0,5,23,A,8,2005-09-13,Hull,E1,2,9,6,18,D,2,Hull_Stoke_2005
+85,2,Southampton,9,2,0,2,1,P Joslin,0,0,1,16,D,17,2005-09-13,Ipswich,E1,13,6,3,8,H,13,Ipswich_Southampton_2005
+86,2,Crewe,13,1,0,1,1,S Tanner,0,1,2,15,D,6,2005-09-13,Plymouth,E1,3,4,10,18,D,4,Plymouth_Crewe_2005
+87,2,Burnley,13,0,0,0,0,D Gallagher,0,0,2,8,D,6,2005-09-13,Preston,E1,2,4,9,9,D,3,Preston_Burnley_2005
+88,3,Luton,16,1,0,0,0,M Thorpe,1,0,0,18,H,12,2005-09-13,QPR,E1,4,4,4,8,D,3,QPR_Luton_2005
+89,2,Crystal Palace,10,3,0,2,1,B Curson,0,1,3,15,H,12,2005-09-13,Reading,E1,7,11,5,13,D,1,Reading_Crystal Palace_2005
+90,0,Leeds,8,1,0,0,1,P Taylor,0,0,0,3,H,6,2005-09-13,Sheffield Weds,E1,3,3,4,8,H,7,Sheffield Weds_Leeds_2005
+91,1,Norwich,16,2,0,1,2,P Armstrong,0,0,2,19,H,9,2005-09-13,Watford,E1,6,2,4,10,H,6,Watford_Norwich_2005
+92,1,Millwall,16,1,0,2,1,U Rennie,0,1,1,16,A,5,2005-09-13,Wolves,E1,3,7,13,16,D,2,Wolves_Millwall_2005
+93,2,Coventry,11,1,0,1,1,P Walton,0,0,1,16,D,9,2005-09-14,Derby,E1,2,9,9,13,H,3,Derby_Coventry_2005
+94,2,Stoke,18,0,0,1,0,G Laws,0,0,0,12,A,7,2005-09-16,Preston,E1,3,7,12,11,D,4,Preston_Stoke_2005
+95,0,Coventry,9,2,0,2,0,G Hegley,0,1,1,9,D,10,2005-09-17,Brighton,E1,7,10,5,13,A,7,Brighton_Coventry_2005
+96,1,Crystal Palace,15,1,0,0,1,P Dowd,0,0,4,11,H,15,2005-09-17,Cardiff,E1,8,4,1,8,H,7,Cardiff_Crystal Palace_2005
+97,1,Luton,19,0,0,1,0,G Salisbury,0,0,0,14,A,19,2005-09-17,Hull,E1,15,7,4,13,D,11,Hull_Luton_2005
+98,5,Burnley,17,1,0,0,0,K Stroud,0,0,2,18,H,15,2005-09-17,Plymouth,E1,8,6,6,10,D,9,Plymouth_Burnley_2005
+99,2,Leeds,17,0,1,1,0,P Walton,0,1,4,15,A,8,2005-09-17,QPR,E1,4,5,5,11,A,3,QPR_Leeds_2005
+100,0,Crewe,10,1,0,0,0,A Woolmer,0,0,0,3,H,6,2005-09-17,Reading,E1,5,5,12,7,D,8,Reading_Crewe_2005
+101,1,Millwall,16,1,0,2,0,T Kettle,0,0,2,11,A,7,2005-09-17,Sheffield Weds,E1,3,4,8,12,D,5,Sheffield Weds_Millwall_2005
+102,2,Sheffield United,17,2,0,3,1,M Clattenburg,1,0,2,11,A,8,2005-09-17,Watford,E1,6,9,9,15,H,1,Watford_Sheffield United_2005
+103,1,Leicester,18,0,0,0,0,I Williamson,0,0,3,28,D,8,2005-09-17,Wolves,E1,2,6,2,11,D,4,Wolves_Leicester_2005
+104,3,Southampton,16,2,1,2,0,N Miller,0,0,7,21,D,10,2005-09-18,Derby,E1,6,5,3,9,D,4,Derby_Southampton_2005
+105,2,Norwich,9,0,0,1,0,L Mason,1,0,3,18,A,10,2005-09-18,Ipswich,E1,7,5,8,12,D,5,Ipswich_Norwich_2005
+106,0,Sheffield Weds,14,2,0,2,1,R Beeby,0,1,0,13,D,12,2005-09-23,Luton,E1,8,9,18,16,D,4,Luton_Sheffield Weds_2005
+107,1,Brighton,8,1,0,1,1,E Ilderton,0,1,0,11,D,6,2005-09-24,Burnley,E1,4,6,7,16,D,4,Burnley_Brighton_2005
+108,0,Hull,13,0,1,2,0,I Williamson,0,1,2,18,A,9,2005-09-24,Coventry,E1,5,10,12,23,A,4,Coventry_Hull_2005
+109,0,Watford,6,0,0,0,0,M Fletcher,0,0,4,17,D,18,2005-09-24,Crewe,E1,3,1,3,2,D,11,Crewe_Watford_2005
+110,0,Preston,8,1,2,1,0,S Tanner,0,1,4,19,D,6,2005-09-24,Crystal Palace,E1,4,10,10,16,A,2,Crystal Palace_Preston_2005
+111,0,Ipswich,11,0,0,2,0,M Halsey,0,1,0,12,A,5,2005-09-24,Leeds,E1,4,11,12,18,A,3,Leeds_Ipswich_2005
+112,3,QPR,16,1,1,2,0,C Webster,1,1,4,17,A,9,2005-09-24,Leicester,E1,3,3,7,8,A,5,Leicester_QPR_2005
+113,1,Cardiff,14,0,0,0,0,A D'Urso,1,0,3,20,D,4,2005-09-24,Millwall,E1,3,4,2,11,D,5,Millwall_Cardiff_2005
+114,1,Reading,14,0,0,1,0,T Kettle,0,0,2,10,A,8,2005-09-24,Norwich,E1,3,6,7,12,D,4,Norwich_Reading_2005
+115,1,Derby,12,2,0,1,2,M Pike,0,0,1,9,H,17,2005-09-24,Sheffield United,E1,12,9,9,18,H,2,Sheffield United_Derby_2005
+116,1,Plymouth,14,0,0,0,0,A Leake,0,0,3,17,D,13,2005-09-24,Southampton,E1,6,2,6,11,D,4,Southampton_Plymouth_2005
+117,1,Wolves,14,1,0,3,0,M Atkinson,0,1,0,15,A,8,2005-09-24,Stoke,E1,3,5,5,11,A,2,Stoke_Wolves_2005
+118,0,Ipswich,8,3,0,0,1,M Pike,0,0,0,4,H,7,2005-09-27,Burnley,E1,2,8,4,14,H,4,Burnley_Ipswich_2005
+119,0,Wolves,14,0,0,4,0,R Olivier,0,4,0,11,A,11,2005-09-27,Crewe,E1,6,2,3,8,A,9,Crewe_Wolves_2005
+120,2,Sheffield Weds,19,2,0,0,1,L Probert,0,0,1,12,H,11,2005-09-27,Crystal Palace,E1,5,7,7,14,H,4,Crystal Palace_Sheffield Weds_2005
+121,2,Brighton,22,0,0,0,0,D Drysdale,0,0,1,11,D,8,2005-09-27,Leicester,E1,2,7,4,20,D,4,Leicester_Brighton_2005
+122,2,Preston,16,3,0,0,3,C Penton,0,0,2,12,H,5,2005-09-27,Luton,E1,0,6,1,13,H,3,Luton_Preston_2005
+123,0,QPR,13,1,0,1,1,D Gallagher,0,1,1,11,D,5,2005-09-27,Millwall,E1,2,3,5,6,D,4,Millwall_QPR_2005
+124,0,Hull,7,2,0,1,2,B Curson,0,1,3,16,H,3,2005-09-27,Norwich,E1,2,9,8,17,H,3,Norwich_Hull_2005
+125,3,Plymouth,5,2,0,0,2,G Laws,0,0,2,11,H,11,2005-09-27,Sheffield United,E1,8,6,1,13,H,5,Sheffield United_Plymouth_2005
+126,1,Cardiff,13,0,0,3,0,R Beeby,0,3,2,17,A,12,2005-09-27,Stoke,E1,5,3,6,10,A,1,Stoke_Cardiff_2005
+127,3,Watford,16,3,0,1,2,P Joslin,0,0,4,19,H,14,2005-09-28,Coventry,E1,7,5,5,6,H,7,Coventry_Watford_2005
+128,3,Derby,15,3,0,1,3,G Salisbury,0,0,0,9,H,12,2005-09-28,Leeds,E1,5,4,5,14,H,5,Leeds_Derby_2005
+129,1,Reading,8,0,0,0,0,G Poll,0,0,2,11,D,9,2005-09-28,Southampton,E1,5,5,10,17,D,4,Southampton_Reading_2005
+130,0,Millwall,3,1,0,1,0,A Leake,0,0,1,18,D,10,2005-09-30,Hull,E1,4,4,7,9,D,10,Hull_Millwall_2005
+131,0,Burnley,7,0,0,1,0,S Tanner,0,1,1,13,A,4,2005-09-30,Wolves,E1,3,3,6,11,A,3,Wolves_Burnley_2005
+132,2,Norwich,8,1,0,3,0,P Joslin,0,2,2,12,A,13,2005-10-01,Brighton,E1,5,2,7,10,A,6,Brighton_Norwich_2005
+133,1,Luton,10,1,0,2,1,M Jones,0,1,1,14,A,13,2005-10-01,Cardiff,E1,6,7,7,11,D,8,Cardiff_Luton_2005
+134,0,Leicester,13,1,0,1,0,D Gallagher,0,0,3,11,D,14,2005-10-01,Derby,E1,7,8,11,14,D,6,Derby_Leicester_2005
+135,1,Crewe,11,2,0,1,0,C Penton,0,1,2,9,H,14,2005-10-01,Ipswich,E1,9,8,12,14,A,5,Ipswich_Crewe_2005
+136,0,Stoke,8,2,0,1,0,M Russell,0,0,2,17,H,12,2005-10-01,Plymouth,E1,4,4,1,8,D,3,Plymouth_Stoke_2005
+137,0,Southampton,11,1,0,1,0,P Walton,0,1,3,14,D,5,2005-10-01,Preston,E1,2,4,10,8,A,3,Preston_Southampton_2005
+138,0,Sheffield United,8,2,0,1,1,G Hegley,0,1,3,19,H,7,2005-10-01,Reading,E1,3,2,4,7,D,7,Reading_Sheffield United_2005
+139,1,Coventry,9,3,0,2,2,L Mason,0,1,2,13,H,6,2005-10-01,Sheffield Weds,E1,2,5,6,8,H,10,Sheffield Weds_Coventry_2005
+140,0,Leeds,14,0,0,0,0,B Curson,0,0,1,17,D,10,2005-10-01,Watford,E1,4,4,12,6,D,3,Watford_Leeds_2005
+141,4,Crystal Palace,16,1,0,3,1,A D'Urso,0,2,3,19,A,13,2005-10-03,QPR,E1,7,4,5,9,A,5,QPR_Crystal Palace_2005
+142,3,Cardiff,7,1,0,2,0,A Woolmer,0,1,2,13,A,12,2005-10-15,Brighton,E1,9,1,9,5,A,5,Brighton_Cardiff_2005
+143,3,Leeds,16,1,0,2,0,M Dean,0,0,3,10,A,9,2005-10-15,Burnley,E1,5,2,5,5,D,10,Burnley_Leeds_2005
+144,1,Crystal Palace,14,1,0,4,1,A Wiley,1,2,0,15,A,12,2005-10-15,Coventry,E1,8,8,13,14,A,3,Coventry_Crystal Palace_2005
+145,1,Luton,7,3,0,1,1,A Bates,0,1,1,13,H,18,2005-10-15,Crewe,E1,13,4,4,10,D,9,Crewe_Luton_2005
+146,1,Stoke,15,2,0,1,1,K Stroud,0,0,2,12,H,13,2005-10-15,Derby,E1,7,11,3,22,H,7,Derby_Stoke_2005
+147,2,Millwall,15,1,1,1,0,P Taylor,0,1,6,18,D,11,2005-10-15,Norwich,E1,5,3,3,10,A,3,Norwich_Millwall_2005
+148,2,Sheffield Weds,11,1,0,1,0,I Williamson,0,1,5,28,D,10,2005-10-15,Plymouth,E1,4,7,6,11,A,4,Plymouth_Sheffield Weds_2005
+149,0,QPR,14,1,0,1,0,M Pike,0,0,1,9,D,9,2005-10-15,Preston,E1,6,4,5,9,D,6,Preston_QPR_2005
+150,1,Wolves,7,1,0,0,1,R Beeby,0,0,1,13,H,5,2005-10-15,Sheffield United,E1,1,8,9,13,H,7,Sheffield United_Wolves_2005
+151,2,Hull,8,1,0,1,1,C Penton,0,0,1,15,D,6,2005-10-15,Southampton,E1,2,5,12,17,H,5,Southampton_Hull_2005
+152,1,Leicester,13,1,0,2,0,U Rennie,0,1,2,16,A,7,2005-10-15,Watford,E1,3,5,9,15,A,2,Watford_Leicester_2005
+153,0,Ipswich,6,2,0,0,1,S Tanner,0,0,5,15,H,3,2005-10-16,Reading,E1,2,7,8,19,H,4,Reading_Ipswich_2005
+154,1,Preston,12,2,0,2,1,H Webb,0,0,2,12,D,13,2005-10-18,Cardiff,E1,4,5,3,9,H,4,Cardiff_Preston_2005
+155,0,Brighton,12,0,0,1,0,A Hall,0,0,1,15,A,8,2005-10-18,Crystal Palace,E1,6,2,8,9,D,6,Crystal Palace_Brighton_2005
+156,1,Reading,5,1,0,1,0,G Laws,0,0,0,10,D,10,2005-10-18,Hull,E1,5,6,3,13,D,13,Hull_Reading_2005
+157,1,Coventry,14,2,0,2,2,T Kettle,0,1,2,12,D,15,2005-10-18,Ipswich,E1,7,5,4,11,H,9,Ipswich_Coventry_2005
+158,2,Southampton,14,2,0,1,2,M Jones,0,1,2,19,H,15,2005-10-18,Leeds,E1,7,6,5,11,H,6,Leeds_Southampton_2005
+159,1,Burnley,12,0,0,1,0,L Probert,0,0,2,13,A,7,2005-10-18,Leicester,E1,2,5,7,14,D,2,Leicester_Burnley_2005
+160,2,Norwich,13,4,1,2,4,S Tanner,0,0,1,10,H,13,2005-10-18,Luton,E1,4,5,4,14,H,8,Luton_Norwich_2005
+161,1,Sheffield United,10,0,0,4,0,P Walton,0,2,3,9,A,8,2005-10-18,Millwall,E1,6,1,1,4,A,7,Millwall_Sheffield United_2005
+162,2,Plymouth,18,1,0,1,0,M Messias,0,1,1,13,D,3,2005-10-18,QPR,E1,3,3,11,8,A,2,QPR_Plymouth_2005
+163,2,Watford,6,1,0,1,0,A Leake,0,0,3,9,D,8,2005-10-18,Sheffield Weds,E1,5,5,7,10,D,5,Sheffield Weds_Watford_2005
+164,0,Crewe,13,2,0,0,1,N Miller,1,0,1,10,H,11,2005-10-18,Stoke,E1,7,15,9,23,H,6,Stoke_Crewe_2005
+165,1,Derby,13,1,0,1,1,M Thorpe,0,0,1,11,D,8,2005-10-18,Wolves,E1,3,7,9,17,H,7,Wolves_Derby_2005
+166,4,Sheffield United,18,1,0,1,0,A Wiley,0,0,0,8,D,14,2005-10-21,Leeds,E1,5,5,4,8,D,7,Leeds_Sheffield United_2005
+167,2,Crewe,9,6,0,1,1,M Russell,0,1,2,6,H,8,2005-10-22,Cardiff,E1,4,9,2,21,D,1,Cardiff_Crewe_2005
+168,2,Burnley,8,2,0,0,1,M Thorpe,0,0,2,9,H,0,2005-10-22,Crystal Palace,E1,0,4,3,8,H,3,Crystal Palace_Burnley_2005
+169,3,Derby,19,2,1,1,1,A Hall,0,0,7,15,H,20,2005-10-22,Hull,E1,10,8,6,15,H,5,Hull_Derby_2005
+170,1,Watford,13,0,0,1,0,A D'Urso,0,0,4,15,A,16,2005-10-22,Ipswich,E1,10,1,3,5,D,8,Ipswich_Watford_2005
+171,0,Plymouth,10,1,0,1,0,B Curson,0,0,3,13,D,6,2005-10-22,Luton,E1,2,4,4,15,D,3,Luton_Plymouth_2005
+172,2,Southampton,16,0,0,2,0,C Foy,1,2,3,4,A,6,2005-10-22,Millwall,E1,3,4,4,4,A,3,Millwall_Southampton_2005
+173,1,Norwich,12,3,0,0,3,R Olivier,0,0,2,13,H,10,2005-10-22,QPR,E1,3,2,4,6,H,5,QPR_Norwich_2005
+174,3,Reading,14,0,0,1,0,G Salisbury,0,0,2,9,A,16,2005-10-22,Stoke,E1,7,5,5,7,D,6,Stoke_Reading_2005
+175,2,Preston,7,1,0,1,0,T Kettle,1,1,2,10,D,10,2005-10-22,Wolves,E1,8,7,6,8,A,12,Wolves_Preston_2005
+176,2,Coventry,21,2,0,1,1,K Wright,0,1,2,20,H,5,2005-10-23,Leicester,E1,4,14,7,19,D,3,Leicester_Coventry_2005
+177,0,Brighton,14,1,0,1,0,N Miller,0,0,1,9,D,7,2005-10-24,Sheffield Weds,E1,6,5,4,19,D,8,Sheffield Weds_Brighton_2005
+178,1,Hull,12,1,0,0,1,P Dowd,0,0,2,9,H,13,2005-10-28,Burnley,E1,6,5,2,14,H,7,Burnley_Hull_2005
+179,2,Ipswich,16,1,0,1,1,R Beeby,0,1,1,17,D,9,2005-10-29,Brighton,E1,3,8,9,15,D,3,Brighton_Ipswich_2005
+180,2,Luton,16,1,0,0,0,M Thorpe,0,0,0,9,H,12,2005-10-29,Coventry,E1,2,4,6,12,D,8,Coventry_Luton_2005
+181,1,Crystal Palace,7,2,0,2,1,M Dean,0,0,1,10,D,12,2005-10-29,Crewe,E1,6,3,2,12,H,14,Crewe_Crystal Palace_2005
+182,1,QPR,6,1,1,2,0,K Wright,0,1,0,22,A,5,2005-10-29,Derby,E1,4,6,11,11,A,3,Derby_QPR_2005
+183,0,Sheffield Weds,15,0,0,1,0,P Robinson,0,0,1,15,A,8,2005-10-29,Norwich,E1,4,9,5,20,D,3,Norwich_Sheffield Weds_2005
+184,3,Leicester,14,0,0,0,0,A Hall,0,0,3,20,D,10,2005-10-29,Preston,E1,4,4,6,9,D,4,Preston_Leicester_2005
+185,1,Leeds,8,1,0,1,0,P Joslin,0,0,1,11,D,13,2005-10-29,Reading,E1,6,7,5,17,D,4,Reading_Leeds_2005
+186,0,Cardiff,8,0,0,0,0,C Foy,0,0,0,9,D,8,2005-10-29,Sheffield United,E1,4,2,13,9,D,4,Sheffield United_Cardiff_2005
+187,0,Stoke,13,2,1,0,1,R Olivier,0,0,1,10,H,10,2005-10-29,Southampton,E1,5,13,7,21,H,3,Southampton_Stoke_2005
+188,1,Wolves,9,3,0,1,0,C Webster,0,0,1,12,H,12,2005-10-29,Watford,E1,7,6,5,8,D,7,Watford_Wolves_2005
+189,0,Millwall,17,0,0,0,0,C Penton,0,0,1,18,D,7,2005-10-30,Plymouth,E1,7,5,3,12,D,7,Plymouth_Millwall_2005
+190,1,Wolves,8,1,0,1,1,B Curson,0,0,2,11,D,15,2005-11-01,Brighton,E1,3,8,6,11,H,5,Brighton_Wolves_2005
+191,4,Millwall,20,2,2,1,0,R Beeby,1,1,2,18,H,8,2005-11-01,Burnley,E1,4,10,9,15,A,2,Burnley_Millwall_2005
+192,1,Leeds,10,1,0,0,1,T Kettle,0,0,3,9,H,13,2005-11-01,Crewe,E1,8,3,4,13,H,7,Crewe_Leeds_2005
+193,2,Cardiff,16,1,0,0,0,D Drysdale,0,0,1,8,H,9,2005-11-01,Norwich,E1,3,4,3,14,D,0,Norwich_Cardiff_2005
+194,0,Hull,9,3,0,0,0,N Miller,0,0,0,5,H,6,2005-11-01,Preston,E1,4,16,10,20,D,3,Preston_Hull_2005
+195,0,Sheffield Weds,6,2,0,0,1,M Thorpe,0,0,1,10,H,2,2005-11-01,Reading,E1,2,3,6,9,H,2,Reading_Sheffield Weds_2005
+196,1,Luton,8,4,0,0,1,M Dean,0,0,1,5,H,9,2005-11-01,Sheffield United,E1,6,3,7,8,H,6,Sheffield United_Luton_2005
+197,0,QPR,11,3,0,1,1,M Atkinson,0,0,0,6,H,8,2005-11-01,Watford,E1,2,10,12,17,H,4,Watford_QPR_2005
+198,2,Stoke,15,1,0,2,1,L Probert,0,1,1,21,A,8,2005-11-02,Coventry,E1,5,5,3,13,D,2,Coventry_Stoke_2005
+199,1,Ipswich,11,3,0,3,2,C Webster,0,2,2,14,D,11,2005-11-02,Derby,E1,10,6,7,14,D,6,Derby_Ipswich_2005
+200,1,Sheffield United,12,2,0,3,1,I Williamson,0,2,3,11,A,5,2005-11-05,Crystal Palace,E1,4,5,8,8,A,1,Crystal Palace_Sheffield United_2005
+201,0,Watford,9,1,0,2,1,L Mason,0,2,0,9,A,9,2005-11-05,Hull,E1,4,6,6,7,A,6,Hull_Watford_2005
+202,2,Plymouth,14,3,0,1,2,M Atkinson,0,0,1,12,H,12,2005-11-05,Ipswich,E1,6,5,7,9,H,5,Ipswich_Plymouth_2005
+203,1,Preston,19,0,0,0,0,A D'Urso,0,0,4,14,D,8,2005-11-05,Leeds,E1,3,5,7,12,D,5,Leeds_Preston_2005
+204,1,Southampton,19,0,0,0,0,S Tanner,0,0,2,13,D,6,2005-11-05,Leicester,E1,3,9,3,15,D,5,Leicester_Southampton_2005
+205,1,Burnley,12,2,1,3,1,P Melin,0,2,0,11,A,5,2005-11-05,Luton,E1,3,10,13,20,A,3,Luton_Burnley_2005
+206,2,Crewe,15,1,0,3,1,K Stroud,0,1,1,15,A,8,2005-11-05,Millwall,E1,5,5,9,11,D,4,Millwall_Crewe_2005
+207,1,Reading,10,1,0,2,0,A Leake,0,1,2,10,A,5,2005-11-05,QPR,E1,3,2,3,11,A,6,QPR_Reading_2005
+208,1,Derby,12,2,0,1,0,M Fletcher,0,1,2,11,H,10,2005-11-05,Sheffield Weds,E1,3,5,6,9,A,8,Sheffield Weds_Derby_2005
+209,4,Brighton,21,3,0,0,1,K Wright,0,0,1,17,H,8,2005-11-05,Stoke,E1,1,7,3,10,H,8,Stoke_Brighton_2005
+210,0,Norwich,16,2,0,0,2,C Foy,0,0,0,11,H,6,2005-11-05,Wolves,E1,2,7,3,14,H,1,Wolves_Norwich_2005
+211,2,Coventry,17,0,0,0,0,C Penton,0,0,2,13,D,4,2005-11-06,Cardiff,E1,1,10,5,19,D,1,Cardiff_Coventry_2005
+212,1,Cardiff,3,1,0,3,0,T Kettle,0,3,2,8,A,5,2005-11-09,Sheffield Weds,E1,4,4,5,10,A,3,Sheffield Weds_Cardiff_2005
+213,0,Wolves,11,0,0,3,0,A Leake,0,0,0,13,A,20,2005-11-18,Derby,E1,12,2,14,11,D,6,Derby_Wolves_2005
+214,1,Leicester,11,1,0,0,1,M Messias,0,0,1,10,H,19,2005-11-19,Burnley,E1,6,6,1,7,H,3,Burnley_Leicester_2005
+215,1,Ipswich,12,1,0,1,0,G Salisbury,0,0,1,13,D,17,2005-11-19,Coventry,E1,7,4,3,10,D,9,Coventry_Ipswich_2005
+216,1,Stoke,9,1,0,2,0,A Woolmer,0,1,3,15,A,15,2005-11-19,Crewe,E1,9,6,6,14,A,5,Crewe_Stoke_2005
+217,2,Luton,20,2,2,0,2,K Wright,0,0,2,12,H,14,2005-11-19,Norwich,E1,5,7,4,13,H,5,Norwich_Luton_2005
+218,3,QPR,14,3,0,1,2,S Tanner,0,0,9,14,H,8,2005-11-19,Plymouth,E1,5,6,5,8,H,8,Plymouth_QPR_2005
+219,0,Cardiff,6,2,0,1,2,R Beeby,0,0,3,16,H,8,2005-11-19,Preston,E1,3,5,7,11,H,5,Preston_Cardiff_2005
+220,0,Hull,9,3,0,1,1,C Penton,0,0,1,6,H,6,2005-11-19,Reading,E1,4,10,9,18,H,2,Reading_Hull_2005
+221,2,Millwall,14,2,0,2,1,M Clattenburg,1,1,5,13,D,7,2005-11-19,Sheffield United,E1,5,7,10,17,D,4,Sheffield United_Millwall_2005
+222,2,Leeds,19,3,0,4,3,I Williamson,0,0,2,17,A,11,2005-11-19,Southampton,E1,9,9,14,11,H,2,Southampton_Leeds_2005
+223,0,Sheffield Weds,12,2,0,1,2,B Curson,0,0,0,11,H,12,2005-11-19,Watford,E1,8,8,4,12,H,3,Watford_Sheffield Weds_2005
+224,4,Crystal Palace,12,2,0,3,1,M Fletcher,1,1,2,14,A,13,2005-11-20,Brighton,E1,3,2,4,4,D,6,Brighton_Crystal Palace_2005
+225,1,Brighton,11,1,0,1,0,L Mason,0,0,3,11,D,8,2005-11-22,Cardiff,E1,7,7,8,14,D,7,Cardiff_Brighton_2005
+226,0,Coventry,12,2,0,0,2,A D'Urso,0,0,2,16,H,11,2005-11-22,Crystal Palace,E1,6,7,8,13,H,9,Crystal Palace_Coventry_2005
+227,1,Southampton,9,1,1,1,1,P Walton,0,1,1,2,D,15,2005-11-22,Hull,E1,9,4,3,6,D,9,Hull_Southampton_2005
+228,0,Reading,10,0,0,3,0,P Melin,0,1,0,8,A,19,2005-11-22,Ipswich,E1,12,1,3,7,A,14,Ipswich_Reading_2005
+229,2,Burnley,12,2,0,0,0,A Bates,0,0,3,21,H,11,2005-11-22,Leeds,E1,5,5,3,11,D,9,Leeds_Burnley_2005
+230,1,Watford,17,2,1,2,2,D Drysdale,0,1,3,12,D,8,2005-11-22,Leicester,E1,4,4,4,10,H,5,Leicester_Watford_2005
+231,0,Crewe,11,4,1,1,0,P Crossley,0,0,0,2,H,6,2005-11-22,Luton,E1,4,7,15,20,D,1,Luton_Crewe_2005
+232,1,Norwich,13,1,0,0,0,A Woolmer,0,0,3,15,H,7,2005-11-22,Millwall,E1,3,3,3,10,D,7,Millwall_Norwich_2005
+233,1,Preston,10,0,0,2,0,D Gallagher,0,0,1,16,A,7,2005-11-22,QPR,E1,3,6,2,11,D,5,QPR_Preston_2005
+234,0,Plymouth,15,0,0,0,0,C Webster,0,0,0,10,D,7,2005-11-22,Sheffield Weds,E1,1,2,4,7,D,2,Sheffield Weds_Plymouth_2005
+235,1,Derby,11,1,0,2,1,M Jones,0,0,3,11,A,6,2005-11-22,Stoke,E1,4,6,1,8,H,0,Stoke_Derby_2005
+236,3,Sheffield United,10,0,0,0,0,N Miller,0,0,1,19,D,5,2005-11-22,Wolves,E1,2,3,10,5,D,4,Wolves_Sheffield United_2005
+237,0,Derby,14,0,0,0,0,S Tanner,0,0,2,13,D,5,2005-11-26,Brighton,E1,1,1,4,3,D,5,Brighton_Derby_2005
+238,1,Crewe,8,3,0,0,1,L Probert,0,0,1,7,H,6,2005-11-26,Burnley,E1,4,7,9,15,H,4,Burnley_Crewe_2005
+239,4,Norwich,16,2,0,2,2,R Styles,0,1,3,17,D,17,2005-11-26,Coventry,E1,8,4,5,10,H,5,Coventry_Norwich_2005
+240,5,Sheffield United,19,4,0,2,2,K Stroud,0,0,5,21,H,8,2005-11-26,Leicester,E1,5,14,7,14,H,9,Leicester_Sheffield United_2005
+241,2,Crystal Palace,10,2,0,0,2,M Messias,0,0,2,9,H,7,2005-11-26,Luton,E1,3,7,10,14,H,5,Luton_Crystal Palace_2005
+242,2,Leeds,21,0,0,1,0,M Fletcher,0,0,4,20,A,8,2005-11-26,Millwall,E1,2,1,6,7,D,4,Millwall_Leeds_2005
+243,2,Reading,14,0,0,2,0,K Wright,0,1,2,23,A,13,2005-11-26,Plymouth,E1,6,4,9,12,A,7,Plymouth_Reading_2005
+244,2,Watford,17,1,0,1,1,M Jones,0,1,3,16,D,8,2005-11-26,Preston,E1,4,2,3,7,D,6,Preston_Watford_2005
+245,2,Hull,9,2,1,2,0,P Crossley,0,1,1,11,D,8,2005-11-26,QPR,E1,6,9,11,20,A,5,QPR_Hull_2005
+246,1,Stoke,5,0,0,2,0,A Hall,0,1,5,10,A,7,2005-11-26,Sheffield Weds,E1,4,7,3,16,A,3,Sheffield Weds_Stoke_2005
+247,2,Southampton,22,0,0,0,0,P Taylor,0,0,1,12,D,4,2005-11-26,Wolves,E1,4,9,9,14,D,3,Wolves_Southampton_2005
+248,1,Ipswich,21,2,1,1,1,A Marriner,0,0,0,8,H,14,2005-11-28,Cardiff,E1,9,16,5,20,H,7,Cardiff_Ipswich_2005
+249,3,Plymouth,11,3,0,1,2,N Miller,0,1,1,11,H,10,2005-12-03,Coventry,E1,4,4,3,10,H,3,Coventry_Plymouth_2005
+250,1,Preston,5,0,0,2,0,C Webster,0,2,1,13,A,13,2005-12-03,Crewe,E1,5,2,4,4,A,3,Crewe_Preston_2005
+251,2,Millwall,6,1,0,1,0,D Gallagher,0,1,2,14,D,3,2005-12-03,Crystal Palace,E1,3,2,13,3,A,3,Crystal Palace_Millwall_2005
+252,1,Norwich,14,2,0,0,1,A Hall,0,0,2,25,H,11,2005-12-03,Derby,E1,8,13,11,18,H,6,Derby_Norwich_2005
+253,0,Cardiff,11,2,1,0,0,P Taylor,0,0,3,16,H,8,2005-12-03,Hull,E1,3,6,2,9,D,6,Hull_Cardiff_2005
+254,2,Wolves,9,1,0,1,0,K Stroud,0,0,0,16,D,15,2005-12-03,Ipswich,E1,5,3,7,5,D,5,Ipswich_Wolves_2005
+255,1,Leicester,16,2,1,1,1,M Dean,0,0,1,12,H,13,2005-12-03,Leeds,E1,7,8,4,11,H,9,Leeds_Leicester_2005
+256,0,Luton,10,3,0,0,1,M Jones,0,0,0,11,H,10,2005-12-03,Reading,E1,4,6,11,10,H,5,Reading_Luton_2005
+257,1,Sheffield Weds,18,1,0,0,1,R Beeby,0,0,1,16,H,5,2005-12-03,Sheffield United,E1,2,3,5,7,H,4,Sheffield United_Sheffield Weds_2005
+258,1,Burnley,10,1,0,1,1,B Curson,0,0,2,17,D,4,2005-12-03,Southampton,E1,1,5,8,11,H,3,Southampton_Burnley_2005
+259,2,QPR,17,1,0,2,1,A Marriner,1,1,4,19,A,5,2005-12-03,Stoke,E1,3,3,5,6,D,5,Stoke_QPR_2005
+260,0,Brighton,15,1,0,1,1,R Olivier,0,0,2,16,D,9,2005-12-03,Watford,E1,7,7,6,11,H,4,Watford_Brighton_2005
+261,2,Leicester,10,3,0,2,1,I Williamson,0,1,3,7,H,11,2005-12-09,Stoke,E1,6,4,4,8,D,1,Stoke_Leicester_2005
+262,0,Millwall,13,1,1,0,1,A Leake,0,0,0,13,H,14,2005-12-10,Coventry,E1,9,8,9,20,H,4,Coventry_Millwall_2005
+263,0,Norwich,11,1,0,2,1,P Joslin,0,0,0,17,A,16,2005-12-10,Crewe,E1,10,4,3,8,H,4,Crewe_Norwich_2005
+264,2,Wolves,9,1,0,1,1,M Thorpe,0,1,2,15,D,9,2005-12-10,Crystal Palace,E1,5,5,6,12,D,10,Crystal Palace_Wolves_2005
+265,0,Preston,11,1,0,1,0,E Ilderton,0,0,4,9,D,14,2005-12-10,Derby,E1,9,7,2,9,D,7,Derby_Preston_2005
+266,0,Sheffield Weds,12,1,0,0,0,M Atkinson,0,0,1,14,H,10,2005-12-10,Hull,E1,2,2,2,8,D,5,Hull_Sheffield Weds_2005
+267,2,QPR,13,2,0,2,1,M Messias,0,2,2,18,D,8,2005-12-10,Ipswich,E1,3,7,9,13,A,4,Ipswich_QPR_2005
+268,4,Cardiff,12,0,0,1,0,G Salisbury,0,1,2,12,A,7,2005-12-10,Leeds,E1,3,4,2,10,A,4,Leeds_Cardiff_2005
+269,1,Brighton,11,5,1,1,1,P Taylor,0,0,3,19,H,2,2005-12-10,Reading,E1,1,6,8,8,H,0,Reading_Brighton_2005
+270,0,Burnley,4,3,0,0,2,C Webster,0,0,0,4,H,5,2005-12-10,Sheffield United,E1,4,9,9,15,H,2,Sheffield United_Burnley_2005
+271,0,Plymouth,13,1,0,1,0,S Mathieson,0,0,1,13,D,7,2005-12-10,Watford,E1,3,5,6,10,D,2,Watford_Plymouth_2005
+272,2,Luton,19,1,0,0,1,L Probert,1,0,3,18,H,12,2005-12-11,Southampton,E1,5,4,4,9,H,10,Southampton_Luton_2005
+273,2,Hull,8,2,0,1,2,K Stroud,0,1,0,9,H,5,2005-12-16,Brighton,E1,3,2,1,6,H,7,Brighton_Hull_2005
+274,1,Sheffield United,16,0,0,0,0,B Curson,0,0,1,14,D,7,2005-12-16,Preston,E1,3,5,5,12,D,3,Preston_Sheffield United_2005
+275,2,Watford,6,4,0,1,2,E Ilderton,0,0,0,13,H,8,2005-12-17,Burnley,E1,5,8,5,10,H,7,Burnley_Watford_2005
+276,0,Derby,5,0,0,0,0,P Crossley,0,0,1,15,D,6,2005-12-17,Cardiff,E1,3,5,3,10,D,3,Cardiff_Derby_2005
+277,1,Crewe,8,1,0,1,0,A Marriner,1,1,2,16,D,5,2005-12-17,Leicester,E1,2,12,13,22,A,2,Leicester_Crewe_2005
+278,2,Stoke,14,2,0,3,1,T Kettle,0,1,3,18,A,6,2005-12-17,Luton,E1,5,7,4,14,D,4,Luton_Stoke_2005
+279,1,Reading,11,0,0,2,0,A Hall,1,1,1,18,A,12,2005-12-17,Millwall,E1,7,6,4,12,A,6,Millwall_Reading_2005
+280,0,Southampton,15,3,0,1,1,A Bates,0,1,3,13,H,9,2005-12-17,Norwich,E1,6,12,12,22,D,4,Norwich_Southampton_2005
+281,3,Crystal Palace,9,2,0,0,1,R Beeby,0,0,5,21,H,9,2005-12-17,Plymouth,E1,4,5,6,11,H,3,Plymouth_Crystal Palace_2005
+282,0,Ipswich,13,0,0,1,0,I Williamson,0,0,1,7,A,9,2005-12-17,Sheffield Weds,E1,4,4,5,8,D,5,Sheffield Weds_Ipswich_2005
+283,2,Leeds,14,1,1,0,1,C Foy,0,0,3,15,H,3,2005-12-17,Wolves,E1,2,1,5,10,H,6,Wolves_Leeds_2005
+284,2,Coventry,9,0,0,1,0,U Rennie,0,0,2,19,A,1,2005-12-19,QPR,E1,0,3,5,7,D,4,QPR_Coventry_2005
+285,3,QPR,9,1,0,0,1,R Styles,0,0,2,14,H,6,2005-12-26,Brighton,E1,2,7,4,10,H,8,Brighton_QPR_2005
+286,3,Stoke,15,1,0,0,0,N Miller,0,0,0,3,H,11,2005-12-26,Burnley,E1,4,2,9,8,D,1,Burnley_Stoke_2005
+287,2,Plymouth,18,0,0,2,0,L Probert,1,0,2,20,A,8,2005-12-26,Cardiff,E1,6,2,7,5,D,7,Cardiff_Plymouth_2005
+288,1,Hull,5,2,0,2,2,E Ilderton,0,1,2,7,D,9,2005-12-26,Crewe,E1,5,8,5,12,H,3,Crewe_Hull_2005
+289,2,Luton,12,1,0,1,0,P Taylor,0,0,1,18,D,8,2005-12-26,Derby,E1,4,6,4,10,D,9,Derby_Luton_2005
+290,3,Crystal Palace,13,0,2,2,0,A Woolmer,0,1,6,18,A,10,2005-12-26,Ipswich,E1,6,5,8,8,A,6,Ipswich_Crystal Palace_2005
+291,3,Coventry,17,3,0,1,1,C Webster,0,0,1,9,H,15,2005-12-26,Leeds,E1,5,2,2,7,H,4,Leeds_Coventry_2005
+292,1,Millwall,11,1,1,1,0,G Salisbury,1,1,5,22,D,5,2005-12-26,Leicester,E1,4,8,9,19,A,5,Leicester_Millwall_2005
+293,0,Sheffield Weds,13,0,0,0,0,C Foy,0,0,1,13,D,11,2005-12-26,Preston,E1,5,7,6,12,D,3,Preston_Sheffield Weds_2005
+294,2,Norwich,10,1,0,3,1,T Kettle,0,1,6,21,A,8,2005-12-26,Sheffield United,E1,4,4,6,11,D,2,Sheffield United_Norwich_2005
+295,0,Southampton,15,3,0,0,2,R Beeby,0,0,0,7,H,8,2005-12-26,Watford,E1,5,3,1,6,H,9,Watford_Southampton_2005
+296,0,Reading,8,0,0,2,0,S Tanner,0,1,0,13,A,12,2005-12-26,Wolves,E1,6,3,3,12,A,5,Wolves_Reading_2005
+297,4,Crewe,12,1,0,1,1,P Melin,1,0,1,9,D,14,2005-12-28,Coventry,E1,6,3,6,9,H,10,Coventry_Crewe_2005
+298,2,Derby,13,2,0,0,2,K Stroud,0,0,2,9,H,6,2005-12-28,Crystal Palace,E1,3,2,5,6,H,8,Crystal Palace_Derby_2005
+299,1,Ipswich,11,2,0,0,0,C Oliver,0,0,0,2,H,9,2005-12-28,Hull,E1,2,13,5,16,D,3,Hull_Ipswich_2005
+300,1,Brighton,13,3,0,0,2,A Bates,0,0,2,13,H,3,2005-12-28,Luton,E1,1,9,3,12,H,5,Luton_Brighton_2005
+301,2,Watford,13,0,0,0,0,A Marriner,0,0,3,15,D,9,2005-12-28,Millwall,E1,3,1,4,4,D,3,Millwall_Watford_2005
+302,3,Burnley,14,2,0,1,2,C Penton,0,0,0,12,H,14,2005-12-28,Norwich,E1,6,6,3,14,H,5,Norwich_Burnley_2005
+303,1,Cardiff,9,1,0,0,0,M Thorpe,0,0,1,14,H,6,2005-12-28,QPR,E1,3,5,8,10,D,1,QPR_Cardiff_2005
+304,4,Leicester,13,2,0,0,0,A Wiley,0,0,2,14,H,2,2005-12-28,Reading,E1,1,3,4,5,D,3,Reading_Leicester_2005
+305,3,Wolves,7,0,0,2,0,M Jones,0,1,2,14,A,5,2005-12-28,Sheffield Weds,E1,3,2,5,11,A,5,Sheffield Weds_Wolves_2005
+306,1,Sheffield United,7,0,0,1,0,P Crossley,0,0,4,12,A,8,2005-12-28,Southampton,E1,6,5,8,12,D,4,Southampton_Sheffield United_2005
+307,2,Leeds,9,0,0,1,0,M Halsey,0,0,0,10,A,4,2005-12-28,Stoke,E1,1,2,8,7,D,3,Stoke_Leeds_2005
+308,2,Millwall,16,1,0,2,1,M Thorpe,0,0,3,19,A,4,2005-12-31,Brighton,E1,3,4,5,8,H,6,Brighton_Millwall_2005
+309,0,Sheffield Weds,9,1,0,2,0,A Woolmer,0,1,1,9,A,9,2005-12-31,Burnley,E1,5,2,6,7,A,5,Burnley_Sheffield Weds_2005
+310,1,Southampton,9,2,0,1,2,C Foy,0,1,2,11,H,4,2005-12-31,Cardiff,E1,3,7,11,11,H,6,Cardiff_Southampton_2005
+311,1,QPR,10,3,0,4,3,K Wright,0,2,0,12,A,17,2005-12-31,Crewe,E1,13,9,0,12,H,7,Crewe_QPR_2005
+312,1,Reading,14,2,0,2,1,B Curson,1,1,0,9,D,12,2005-12-31,Derby,E1,7,5,2,9,D,7,Derby_Reading_2005
+313,0,Luton,9,1,0,0,0,A D'Urso,0,0,2,21,H,13,2005-12-31,Ipswich,E1,5,6,3,10,D,7,Ipswich_Luton_2005
+314,1,Hull,14,2,0,0,1,A Hall,0,0,0,13,H,14,2005-12-31,Leeds,E1,7,11,7,21,H,11,Leeds_Hull_2005
+315,4,Norwich,16,0,0,1,0,A Leake,0,0,1,22,A,9,2005-12-31,Leicester,E1,3,5,4,14,D,4,Leicester_Norwich_2005
+316,1,Coventry,15,3,0,1,3,L Probert,0,0,1,7,H,7,2005-12-31,Preston,E1,3,9,12,16,H,7,Preston_Coventry_2005
+317,3,Stoke,8,2,0,1,1,L Mason,0,0,1,6,H,10,2005-12-31,Sheffield United,E1,5,5,2,9,H,8,Sheffield United_Stoke_2005
+318,1,Crystal Palace,18,1,0,2,0,P Dowd,0,1,4,19,A,9,2005-12-31,Watford,E1,6,6,5,10,A,8,Watford_Crystal Palace_2005
+319,1,Plymouth,10,1,0,1,1,P Armstrong,0,1,1,6,D,8,2005-12-31,Wolves,E1,2,8,8,22,D,5,Wolves_Plymouth_2005
+320,0,Wolves,5,2,0,0,2,E Ilderton,0,0,4,15,H,23,2006-01-02,Coventry,E1,12,2,2,7,H,13,Coventry_Wolves_2005
+321,0,Leicester,16,2,0,0,0,C Penton,0,0,4,17,H,11,2006-01-02,Crystal Palace,E1,5,9,7,15,D,1,Crystal Palace_Leicester_2005
+322,1,Watford,15,1,1,2,0,I Williamson,0,2,2,16,A,5,2006-01-02,Luton,E1,3,3,5,7,A,1,Luton_Watford_2005
+323,0,Derby,17,2,0,1,0,M Atkinson,0,0,0,7,H,8,2006-01-02,Millwall,E1,5,6,6,13,D,5,Millwall_Derby_2005
+324,1,Preston,13,0,0,3,0,N Miller,0,1,0,8,A,14,2006-01-02,Norwich,E1,6,3,3,5,A,6,Norwich_Preston_2005
+325,0,Leeds,15,0,0,3,0,P Taylor,0,0,0,13,A,8,2006-01-02,Plymouth,E1,7,5,5,7,D,10,Plymouth_Leeds_2005
+326,0,Burnley,13,1,0,1,1,K Stroud,0,1,2,18,D,8,2006-01-02,QPR,E1,6,4,6,11,D,2,QPR_Burnley_2005
+327,0,Cardiff,4,5,0,1,2,R Olivier,0,0,1,7,H,8,2006-01-02,Reading,E1,6,9,8,12,H,3,Reading_Cardiff_2005
+328,1,Crewe,11,3,0,0,1,A D'Urso,0,0,1,9,H,2,2006-01-02,Sheffield Weds,E1,1,6,6,14,H,3,Sheffield Weds_Crewe_2005
+329,0,Brighton,15,2,0,1,1,M Riley,0,1,0,15,H,8,2006-01-02,Southampton,E1,5,18,14,23,D,2,Southampton_Brighton_2005
+330,2,Ipswich,16,2,0,2,1,L Probert,0,2,0,13,D,13,2006-01-02,Stoke,E1,8,9,11,17,A,5,Stoke_Ipswich_2005
+331,1,Sheffield United,10,1,0,3,1,M Thorpe,0,2,2,11,A,16,2006-01-03,Hull,E1,9,7,8,15,A,6,Hull_Sheffield United_2005
+332,1,Luton,20,2,0,1,0,M Dean,0,0,1,17,H,6,2006-01-13,Wolves,E1,4,5,3,12,D,5,Wolves_Luton_2005
+333,3,Leeds,19,2,0,1,1,A D'Urso,0,1,2,21,H,10,2006-01-14,Brighton,E1,2,2,8,9,D,7,Brighton_Leeds_2005
+334,1,Burnley,8,3,0,0,0,D Drysdale,0,0,2,21,H,5,2006-01-14,Cardiff,E1,2,8,4,11,D,5,Cardiff_Burnley_2005
+335,0,Crewe,10,5,0,1,2,D Deadman,0,0,1,1,H,9,2006-01-14,Derby,E1,4,17,16,24,H,5,Derby_Crewe_2005
+336,2,Crystal Palace,10,1,0,2,1,C Webster,0,2,1,11,A,16,2006-01-14,Hull,E1,11,6,3,14,A,7,Hull_Crystal Palace_2005
+337,1,Sheffield United,15,1,0,1,0,C Penton,0,0,2,15,D,10,2006-01-14,Ipswich,E1,6,4,2,7,D,6,Ipswich_Sheffield United_2005
+338,1,Norwich,7,1,0,1,1,A Penn,0,0,2,21,D,15,2006-01-14,Plymouth,E1,5,10,5,17,H,7,Plymouth_Norwich_2005
+339,2,Millwall,16,2,0,0,1,J Moss,0,0,2,9,H,7,2006-01-14,Preston,E1,4,8,6,13,H,1,Preston_Millwall_2005
+340,0,Southampton,19,1,0,0,1,M Jones,0,0,1,18,H,5,2006-01-14,QPR,E1,3,6,3,10,H,2,QPR_Southampton_2005
+341,1,Coventry,10,2,0,0,0,A Bates,0,0,1,15,H,8,2006-01-14,Reading,E1,2,5,7,9,D,8,Reading_Coventry_2005
+342,1,Leicester,8,2,0,1,2,E Ilderton,0,1,2,9,H,10,2006-01-14,Sheffield Weds,E1,4,3,2,3,H,6,Sheffield Weds_Leicester_2005
+343,0,Stoke,15,1,0,0,0,P Crossley,0,0,0,11,H,9,2006-01-16,Watford,E1,2,7,9,15,D,5,Watford_Stoke_2005
+344,2,Reading,13,1,0,1,0,T Kettle,0,0,0,8,D,15,2006-01-20,Crystal Palace,E1,6,11,7,14,D,8,Crystal Palace_Reading_2005
+345,2,Preston,21,0,0,2,0,P Taylor,0,1,2,14,A,5,2006-01-21,Burnley,E1,2,2,2,5,A,4,Burnley_Preston_2005
+346,3,Derby,19,6,0,1,1,G Salisbury,0,1,1,5,H,13,2006-01-21,Coventry,E1,6,6,4,11,D,8,Coventry_Derby_2005
+347,1,Plymouth,9,1,0,2,0,D Drysdale,0,2,1,11,A,11,2006-01-21,Crewe,E1,7,4,3,9,A,5,Crewe_Plymouth_2005
+348,1,Sheffield Weds,11,3,0,0,0,D Gallagher,0,0,2,15,H,7,2006-01-21,Leeds,E1,3,6,12,13,D,6,Leeds_Sheffield Weds_2005
+349,0,Cardiff,13,1,0,2,1,N Swarbrick,0,1,1,10,A,10,2006-01-21,Leicester,E1,8,10,12,23,D,5,Leicester_Cardiff_2005
+350,1,QPR,13,2,0,0,1,R Beeby,0,0,2,14,H,9,2006-01-21,Luton,E1,4,3,9,9,H,6,Luton_QPR_2005
+351,2,Wolves,10,0,0,0,0,C Penton,0,0,0,9,D,5,2006-01-21,Millwall,E1,3,7,6,7,D,4,Millwall_Wolves_2005
+352,0,Watford,10,2,0,3,1,M Atkinson,0,0,0,17,A,22,2006-01-21,Norwich,E1,17,6,5,13,H,6,Norwich_Watford_2005
+353,1,Brighton,7,3,0,1,0,E Ilderton,0,0,1,13,H,5,2006-01-21,Sheffield United,E1,1,8,3,16,D,3,Sheffield United_Brighton_2005
+354,2,Ipswich,18,0,0,2,0,S Tanner,0,1,4,8,A,6,2006-01-21,Southampton,E1,5,5,5,9,A,8,Southampton_Ipswich_2005
+355,3,Hull,14,0,0,3,0,A D'Urso,0,1,4,21,A,9,2006-01-21,Stoke,E1,6,11,6,19,A,8,Stoke_Hull_2005
+356,1,Leicester,13,1,0,0,0,A Woolmer,0,0,1,14,H,7,2006-01-24,Plymouth,E1,5,5,5,9,D,7,Plymouth_Leicester_2005
+357,1,Crystal Palace,12,0,0,0,0,A Marriner,0,0,1,15,D,11,2006-01-25,Southampton,E1,6,6,2,14,D,5,Southampton_Crystal Palace_2005
+358,0,Crewe,16,4,0,1,2,K Friend,0,0,0,11,H,6,2006-01-28,Watford,E1,6,10,12,22,H,1,Watford_Crewe_2005
+359,0,Burnley,15,0,0,0,0,K Wright,0,0,3,18,D,3,2006-01-31,Brighton,E1,0,4,3,7,D,3,Brighton_Burnley_2005
+360,1,Millwall,9,1,0,1,1,A Marriner,0,0,4,16,D,3,2006-01-31,Cardiff,E1,1,4,11,21,H,2,Cardiff_Millwall_2005
+361,4,Coventry,12,1,0,2,1,A Woolmer,0,0,3,19,A,10,2006-01-31,Hull,E1,5,9,3,19,H,4,Hull_Coventry_2005
+362,1,Leeds,7,1,0,1,0,P Crossley,0,0,2,9,D,9,2006-01-31,Ipswich,E1,4,7,7,13,D,10,Ipswich_Leeds_2005
+363,1,Southampton,15,2,0,1,1,A Hall,0,0,2,14,H,7,2006-01-31,Plymouth,E1,5,3,2,6,H,2,Plymouth_Southampton_2005
+364,3,Crystal Palace,11,2,0,0,1,E Ilderton,0,0,4,13,H,8,2006-01-31,Preston,E1,4,9,6,16,H,6,Preston_Crystal Palace_2005
+365,2,Leicester,24,2,0,3,1,M Thorpe,0,1,3,11,A,8,2006-01-31,QPR,E1,4,2,4,4,D,2,QPR_Leicester_2005
+366,0,Norwich,7,4,0,0,2,L Mason,0,0,3,13,H,6,2006-01-31,Reading,E1,2,7,4,10,H,1,Reading_Norwich_2005
+367,1,Luton,12,0,0,2,0,P Armstrong,0,0,2,23,A,8,2006-01-31,Sheffield Weds,E1,4,6,3,14,D,4,Sheffield Weds_Luton_2005
+368,2,Sheffield United,8,0,0,1,0,I Williamson,1,1,4,18,A,12,2006-02-01,Derby,E1,6,9,3,12,A,5,Derby_Sheffield United_2005
+369,0,Plymouth,16,1,0,0,1,T Kettle,0,0,0,15,H,11,2006-02-04,Burnley,E1,8,3,3,5,H,6,Burnley_Plymouth_2005
+370,1,Brighton,10,2,0,0,1,U Rennie,0,0,0,15,H,12,2006-02-04,Coventry,E1,4,7,5,9,H,3,Coventry_Brighton_2005
+371,0,Reading,10,3,0,4,1,C Webster,1,3,0,8,A,19,2006-02-04,Crewe,E1,11,8,5,14,A,3,Crewe_Reading_2005
+372,0,Cardiff,8,1,0,0,0,A Bates,1,0,1,9,H,2,2006-02-04,Crystal Palace,E1,1,3,9,6,D,3,Crystal Palace_Cardiff_2005
+373,2,QPR,16,2,0,0,1,P Walton,0,0,1,9,H,8,2006-02-04,Leeds,E1,3,3,7,9,H,3,Leeds_QPR_2005
+374,0,Wolves,9,1,0,0,0,L Probert,0,0,0,13,H,13,2006-02-04,Leicester,E1,6,6,6,9,D,5,Leicester_Wolves_2005
+375,0,Hull,17,2,0,3,1,K Friend,0,3,3,14,A,7,2006-02-04,Luton,E1,5,10,10,19,A,6,Luton_Hull_2005
+376,1,Sheffield Weds,17,0,0,1,0,S Tanner,0,0,4,19,A,11,2006-02-04,Millwall,E1,6,6,3,8,D,3,Millwall_Sheffield Weds_2005
+377,0,Derby,7,0,0,0,0,P Taylor,0,0,0,11,D,17,2006-02-04,Southampton,E1,13,5,4,6,D,7,Southampton_Derby_2005
+378,1,Preston,16,0,0,0,0,B Curson,1,0,3,17,D,8,2006-02-04,Stoke,E1,3,2,0,3,D,6,Stoke_Preston_2005
+379,2,Ipswich,17,1,0,2,1,K Stroud,0,1,1,12,A,18,2006-02-05,Norwich,E1,9,5,8,13,D,6,Norwich_Ipswich_2005
+380,2,Watford,16,1,0,4,0,A Hall,1,1,2,24,A,16,2006-02-06,Sheffield United,E1,11,5,4,9,A,5,Sheffield United_Watford_2005
+381,0,Southampton,6,2,0,0,2,A D'Urso,0,0,1,9,H,10,2006-02-10,Reading,E1,4,6,8,10,H,1,Reading_Southampton_2005
+382,2,Leicester,19,1,0,2,0,S Tanner,1,2,2,22,A,5,2006-02-11,Brighton,E1,4,3,5,8,A,3,Brighton_Leicester_2005
+383,2,Stoke,17,3,0,0,2,M Jones,0,0,1,16,H,12,2006-02-11,Cardiff,E1,4,5,4,6,H,4,Cardiff_Stoke_2005
+384,1,Leeds,12,0,0,0,0,P Dowd,0,0,2,18,D,7,2006-02-11,Derby,E1,5,7,7,13,D,5,Derby_Leeds_2005
+385,2,Norwich,14,1,0,1,1,J Moss,0,0,2,18,D,7,2006-02-11,Hull,E1,4,7,5,13,H,8,Hull_Norwich_2005
+386,1,Burnley,7,2,1,1,0,D Deadman,0,1,4,15,H,9,2006-02-11,Ipswich,E1,4,12,3,24,A,2,Ipswich_Burnley_2005
+387,2,Sheffield United,9,0,0,0,0,C Penton,0,0,0,14,D,11,2006-02-11,Plymouth,E1,7,5,5,8,D,3,Plymouth_Sheffield United_2005
+388,2,Luton,15,5,1,1,1,D Drysdale,0,0,2,15,H,7,2006-02-11,Preston,E1,5,9,7,13,H,7,Preston_Luton_2005
+389,2,Millwall,18,1,1,0,0,A Wiley,0,0,3,23,H,3,2006-02-11,QPR,E1,2,1,11,9,D,5,QPR_Millwall_2005
+390,0,Crystal Palace,15,0,0,0,0,K Wright,0,0,2,17,D,9,2006-02-11,Sheffield Weds,E1,3,3,6,9,D,6,Sheffield Weds_Crystal Palace_2005
+391,2,Coventry,18,4,0,0,1,T Kettle,0,0,3,15,H,3,2006-02-11,Watford,E1,2,8,4,15,H,4,Watford_Coventry_2005
+392,0,Crewe,9,1,0,1,1,L Mason,0,1,0,6,D,10,2006-02-11,Wolves,E1,5,5,12,12,D,3,Wolves_Crewe_2005
+393,2,Wolves,7,0,0,1,0,C Oliver,0,1,2,20,A,8,2006-02-14,Burnley,E1,6,4,5,16,A,5,Burnley_Wolves_2005
+394,1,Ipswich,11,1,0,2,1,A Leake,0,1,0,12,A,10,2006-02-14,Crewe,E1,7,5,2,12,D,5,Crewe_Ipswich_2005
+395,1,QPR,12,2,0,1,2,A Hall,0,0,2,9,H,3,2006-02-14,Crystal Palace,E1,2,4,5,8,H,5,Crystal Palace_QPR_2005
+396,1,Watford,13,2,2,1,0,M Jones,0,1,2,22,H,6,2006-02-14,Leeds,E1,3,9,7,15,A,7,Leeds_Watford_2005
+397,1,Derby,16,2,0,2,1,P Crossley,0,1,3,13,D,6,2006-02-14,Leicester,E1,3,12,7,16,D,5,Leicester_Derby_2005
+398,1,Cardiff,15,3,0,3,2,A Woolmer,0,0,1,10,D,11,2006-02-14,Luton,E1,7,7,3,11,H,4,Luton_Cardiff_2005
+399,1,Hull,6,1,0,1,0,L Probert,1,0,2,23,D,13,2006-02-14,Millwall,E1,5,4,3,12,D,5,Millwall_Hull_2005
+400,1,Brighton,16,3,1,0,1,M Thorpe,0,0,3,18,H,14,2006-02-14,Norwich,E1,9,6,2,15,H,7,Norwich_Brighton_2005
+401,0,Reading,9,1,0,1,1,M Halsey,0,1,0,8,D,7,2006-02-14,Sheffield United,E1,7,10,6,16,D,8,Sheffield United_Reading_2005
+402,1,Plymouth,10,0,0,0,0,M Riley,0,0,2,11,D,4,2006-02-14,Stoke,E1,1,2,4,3,D,3,Stoke_Plymouth_2005
+403,2,Sheffield Weds,16,2,0,1,1,R Styles,0,0,1,8,H,10,2006-02-15,Coventry,E1,5,5,4,13,H,1,Coventry_Sheffield Weds_2005
+404,2,Preston,11,0,0,0,0,C Penton,0,0,0,11,D,15,2006-02-15,Southampton,E1,9,8,3,10,D,6,Southampton_Preston_2005
+405,2,Reading,21,3,0,2,2,K Wright,0,1,4,17,H,8,2006-02-17,Luton,E1,3,5,4,11,H,4,Luton_Reading_2005
+406,2,Watford,15,0,0,1,0,P Crossley,0,1,2,18,A,14,2006-02-18,Brighton,E1,10,5,8,11,A,9,Brighton_Watford_2005
+407,1,Hull,15,1,0,0,1,B Curson,0,0,1,12,H,8,2006-02-18,Cardiff,E1,4,3,5,8,H,6,Cardiff_Hull_2005
+408,1,Leeds,7,1,0,1,1,R Olivier,1,1,2,17,D,9,2006-02-18,Leicester,E1,4,6,3,14,D,5,Leicester_Leeds_2005
+409,2,Crystal Palace,11,1,0,1,0,L Mason,0,0,1,16,D,11,2006-02-18,Millwall,E1,6,2,4,7,D,3,Millwall_Crystal Palace_2005
+410,2,Derby,18,2,0,0,1,A Hall,0,0,1,15,H,10,2006-02-18,Norwich,E1,5,3,6,9,H,3,Norwich_Derby_2005
+411,0,Coventry,13,3,0,1,2,P Armstrong,0,0,3,10,H,13,2006-02-18,Plymouth,E1,11,11,5,16,H,3,Plymouth_Coventry_2005
+412,2,Sheffield United,10,1,0,2,0,N Miller,0,2,0,8,A,12,2006-02-18,Sheffield Weds,E1,6,2,4,6,A,5,Sheffield Weds_Sheffield United_2005
+413,3,Ipswich,18,1,0,0,0,A Woolmer,0,0,3,11,H,11,2006-02-18,Wolves,E1,2,4,6,9,D,10,Wolves_Ipswich_2005
+414,1,Burnley,4,1,0,0,0,E Ilderton,0,0,4,19,H,7,2006-02-25,Coventry,E1,3,8,10,16,D,2,Coventry_Burnley_2005
+415,0,Brighton,9,2,0,1,0,H Webb,0,1,0,20,H,10,2006-02-25,Crewe,E1,6,6,7,9,A,4,Crewe_Brighton_2005
+416,1,Norwich,6,4,0,1,2,P Walton,0,0,1,14,H,1,2006-02-25,Crystal Palace,E1,1,6,7,10,H,5,Crystal Palace_Norwich_2005
+417,1,Plymouth,14,1,1,0,1,K Wright,0,0,1,17,H,11,2006-02-25,Derby,E1,8,6,4,10,H,1,Derby_Plymouth_2005
+418,0,Wolves,11,2,0,3,0,I Williamson,0,1,5,14,A,10,2006-02-25,Hull,E1,5,10,7,19,A,1,Hull_Wolves_2005
+419,1,Leicester,15,2,0,0,0,P Taylor,0,0,1,18,H,9,2006-02-25,Ipswich,E1,6,6,6,9,D,6,Ipswich_Leicester_2005
+420,2,Luton,17,2,1,1,0,K Hill,0,0,1,20,H,10,2006-02-25,Leeds,E1,6,4,7,12,D,7,Leeds_Luton_2005
+421,0,Preston,16,2,0,1,2,K Stroud,0,1,2,16,H,5,2006-02-25,Reading,E1,1,4,5,6,H,8,Reading_Preston_2005
+422,1,QPR,18,2,0,3,2,K Friend,0,1,4,23,A,9,2006-02-25,Sheffield United,E1,8,3,4,8,H,1,Sheffield United_QPR_2005
+423,1,Sheffield Weds,16,3,0,0,1,M Thorpe,0,0,1,14,H,14,2006-02-25,Southampton,E1,7,10,5,14,H,3,Southampton_Sheffield Weds_2005
+424,1,Millwall,13,2,0,1,1,C Webster,0,1,2,13,H,1,2006-02-25,Stoke,E1,0,7,10,15,D,4,Stoke_Millwall_2005
+425,0,Cardiff,16,2,0,1,0,C Penton,0,0,2,11,H,5,2006-02-25,Watford,E1,1,10,9,19,D,3,Watford_Cardiff_2005
+426,0,Crewe,14,0,0,0,0,K Wright,0,0,1,11,D,5,2006-03-03,Sheffield United,E1,1,10,12,19,D,2,Sheffield United_Crewe_2005
+427,1,Reading,14,0,0,3,0,M Jones,0,1,0,11,A,9,2006-03-04,Burnley,E1,6,5,5,8,A,3,Burnley_Reading_2005
+428,0,Sheffield Weds,9,1,0,0,1,L Probert,0,0,0,7,H,13,2006-03-04,Cardiff,E1,6,3,6,8,H,11,Cardiff_Sheffield Weds_2005
+429,0,Leeds,10,1,0,2,0,D Gallagher,0,1,0,15,A,6,2006-03-04,Crystal Palace,E1,5,6,10,9,A,5,Crystal Palace_Leeds_2005
+430,0,Hull,7,3,0,2,1,N Miller,0,1,1,8,H,9,2006-03-04,Leicester,E1,4,6,5,14,D,4,Leicester_Hull_2005
+431,3,Luton,16,2,0,1,1,U Rennie,0,0,1,16,H,12,2006-03-04,Millwall,E1,9,3,0,6,H,6,Millwall_Luton_2005
+432,0,Stoke,14,2,0,1,0,P Crossley,0,0,2,16,H,8,2006-03-04,Norwich,E1,5,5,7,12,D,5,Norwich_Stoke_2005
+433,0,Brighton,16,1,0,0,1,P Joslin,0,0,4,17,H,4,2006-03-04,Plymouth,E1,1,7,6,11,H,1,Plymouth_Brighton_2005
+434,0,Wolves,13,0,0,0,0,P Armstrong,0,0,2,11,D,6,2006-03-04,QPR,E1,4,1,4,4,D,0,QPR_Wolves_2005
+435,0,Coventry,13,1,0,1,0,P Dowd,0,0,1,18,D,7,2006-03-04,Southampton,E1,4,7,6,13,D,6,Southampton_Coventry_2005
+436,2,Derby,13,2,0,2,1,A Leake,0,1,1,10,D,3,2006-03-04,Watford,E1,3,12,2,19,D,3,Watford_Derby_2005
+437,1,Preston,11,0,0,0,0,I Williamson,0,0,0,8,D,7,2006-03-07,Plymouth,E1,0,4,3,8,D,5,Plymouth_Preston_2005
+438,0,Stoke,12,0,0,0,0,B Curson,0,0,1,13,D,11,2006-03-07,Wolves,E1,3,0,3,4,D,9,Wolves_Stoke_2005
+439,1,Preston,15,0,0,0,0,A Hall,0,0,3,16,D,16,2006-03-11,Brighton,E1,5,3,4,10,D,8,Brighton_Preston_2005
+440,3,Sheffield United,22,2,0,0,2,K Stroud,0,0,0,11,H,10,2006-03-11,Coventry,E1,4,5,6,6,H,9,Coventry_Sheffield United_2005
+441,0,Southampton,10,1,0,1,0,P Robinson,0,0,0,4,D,11,2006-03-11,Crewe,E1,4,8,2,15,D,5,Crewe_Southampton_2005
+442,0,Burnley,14,3,0,0,3,P Joslin,0,0,3,16,H,6,2006-03-11,Derby,E1,2,7,2,14,H,2,Derby_Burnley_2005
+443,1,Plymouth,18,1,0,0,0,H Webb,0,0,2,13,H,14,2006-03-11,Hull,E1,11,8,6,19,D,5,Hull_Plymouth_2005
+444,1,Millwall,8,1,1,1,1,B Curson,0,0,3,15,D,12,2006-03-11,Ipswich,E1,8,6,3,11,H,7,Ipswich_Millwall_2005
+445,3,Norwich,12,2,0,2,1,C Foy,0,0,2,16,D,8,2006-03-11,Leeds,E1,4,3,2,9,H,2,Leeds_Norwich_2005
+446,2,Leicester,11,1,0,2,0,A Bates,0,1,2,13,A,10,2006-03-11,Luton,E1,6,4,7,10,A,7,Luton_Leicester_2005
+447,2,Watford,12,0,0,0,0,S Tanner,0,0,0,15,D,8,2006-03-11,Reading,E1,3,1,5,7,D,4,Reading_Watford_2005
+448,2,QPR,17,1,0,1,1,A D'Urso,0,1,0,13,D,9,2006-03-11,Sheffield Weds,E1,5,10,3,18,D,4,Sheffield Weds_QPR_2005
+449,1,Cardiff,11,2,0,0,1,G Salisbury,0,0,3,11,H,7,2006-03-11,Wolves,E1,3,10,9,20,H,4,Wolves_Cardiff_2005
+450,1,Crystal Palace,13,1,0,3,0,A Leake,0,1,0,11,A,9,2006-03-13,Stoke,E1,5,8,8,21,A,3,Stoke_Crystal Palace_2005
+451,1,Ipswich,10,3,1,1,0,E Ilderton,0,1,2,12,H,6,2006-03-14,Preston,E1,3,8,5,12,A,2,Preston_Ipswich_2005
+452,3,Leeds,17,1,0,1,1,C Oliver,0,0,0,13,D,15,2006-03-18,Coventry,E1,6,5,4,9,H,6,Coventry_Leeds_2005
+453,0,Ipswich,16,2,1,2,1,K Friend,0,1,3,16,D,7,2006-03-18,Crystal Palace,E1,4,6,5,12,D,5,Crystal Palace_Ipswich_2005
+454,0,Crewe,10,1,0,0,1,T Kettle,0,0,0,5,H,5,2006-03-18,Hull,E1,3,5,2,11,H,7,Hull_Crewe_2005
+455,1,Derby,12,1,0,0,0,N Miller,0,0,0,5,H,8,2006-03-18,Luton,E1,3,5,5,14,D,4,Luton_Derby_2005
+456,2,Leicester,16,0,0,1,0,M Thorpe,0,1,1,15,A,2,2006-03-18,Millwall,E1,1,4,13,4,A,0,Millwall_Leicester_2005
+457,0,Sheffield United,11,2,0,1,2,P Taylor,0,1,0,14,H,14,2006-03-18,Norwich,E1,7,4,6,8,H,7,Norwich_Sheffield United_2005
+458,1,Cardiff,13,0,0,1,0,R Olivier,0,1,5,18,A,13,2006-03-18,Plymouth,E1,6,3,14,12,A,3,Plymouth_Cardiff_2005
+459,1,Brighton,7,1,0,1,1,A Leake,1,0,2,19,D,5,2006-03-18,QPR,E1,2,4,4,11,H,5,QPR_Brighton_2005
+460,2,Wolves,10,1,0,1,1,P Walton,0,0,2,6,D,7,2006-03-18,Reading,E1,3,6,8,10,H,2,Reading_Wolves_2005
+461,1,Preston,10,2,0,0,1,A Woolmer,0,0,5,17,H,6,2006-03-18,Sheffield Weds,E1,3,6,5,8,H,9,Sheffield Weds_Preston_2005
+462,2,Burnley,16,1,0,0,0,M Fletcher,0,0,3,23,H,4,2006-03-18,Stoke,E1,1,4,5,11,D,3,Stoke_Burnley_2005
+463,0,Watford,19,1,0,3,0,I Williamson,0,1,1,17,A,15,2006-03-20,Southampton,E1,7,2,3,10,A,4,Southampton_Watford_2005
+464,2,Crystal Palace,15,0,0,1,0,P Joslin,0,1,1,19,A,6,2006-03-21,Leeds,E1,3,2,5,8,A,2,Leeds_Crystal Palace_2005
+465,0,Norwich,11,2,0,0,1,C Webster,0,0,1,14,H,9,2006-03-24,Burnley,E1,4,4,2,8,H,5,Burnley_Norwich_2005
+466,1,Luton,10,1,0,1,1,P Armstrong,0,0,1,11,D,4,2006-03-25,Brighton,E1,4,2,3,4,H,5,Brighton_Luton_2005
+467,1,QPR,13,0,0,0,0,K Wright,0,0,0,15,D,5,2006-03-25,Cardiff,E1,3,4,2,7,D,4,Cardiff_QPR_2005
+468,0,Coventry,6,4,0,1,3,M Atkinson,0,1,1,10,H,10,2006-03-25,Crewe,E1,5,12,10,22,H,5,Crewe_Coventry_2005
+469,2,Crystal Palace,14,2,0,1,1,A Wiley,0,1,2,19,H,12,2006-03-25,Derby,E1,9,10,5,15,D,11,Derby_Crystal Palace_2005
+470,0,Hull,11,1,0,1,1,R Olivier,0,0,1,13,D,15,2006-03-25,Ipswich,E1,5,16,5,25,H,8,Ipswich_Hull_2005
+471,2,Stoke,14,0,0,0,0,K Stroud,0,0,1,24,D,12,2006-03-25,Leeds,E1,6,6,9,9,D,5,Leeds_Stoke_2005
+472,1,Reading,18,1,0,1,1,C Penton,0,0,2,16,D,8,2006-03-25,Leicester,E1,5,9,8,13,H,6,Leicester_Reading_2005
+473,2,Plymouth,9,0,0,0,0,N Miller,0,0,1,9,D,8,2006-03-25,Preston,E1,5,3,10,7,D,7,Preston_Plymouth_2005
+474,0,Southampton,6,3,0,0,2,A Bates,0,0,1,9,H,11,2006-03-25,Sheffield United,E1,2,6,9,13,H,2,Sheffield United_Southampton_2005
+475,1,Millwall,12,0,0,2,0,A D'Urso,0,0,4,17,A,8,2006-03-25,Watford,E1,5,6,10,13,D,3,Watford_Millwall_2005
+476,3,Sheffield Weds,15,1,0,3,0,D Drysdale,0,1,0,12,A,9,2006-03-25,Wolves,E1,7,8,8,10,A,2,Wolves_Sheffield Weds_2005
+477,0,Southampton,10,1,0,1,1,A Marriner,0,1,0,13,D,5,2006-03-28,Burnley,E1,2,5,5,8,D,2,Burnley_Southampton_2005
+478,2,Crewe,14,1,0,0,1,M Thorpe,0,0,1,12,H,11,2006-03-28,Preston,E1,6,7,7,17,H,4,Preston_Crewe_2005
+479,0,Stoke,14,1,0,2,1,P Walton,0,0,2,11,A,6,2006-03-29,QPR,E1,3,2,7,8,H,2,QPR_Stoke_2005
+480,1,Watford,6,3,0,1,0,M Thorpe,0,1,0,17,H,8,2006-03-31,Crystal Palace,E1,4,6,5,11,A,8,Crystal Palace_Watford_2005
+481,1,Preston,14,0,0,1,0,M Pike,0,1,3,9,A,12,2006-04-01,Coventry,E1,4,8,8,11,A,3,Coventry_Preston_2005
+482,2,Leeds,11,1,0,0,0,E Ilderton,0,0,1,6,H,12,2006-04-01,Hull,E1,4,6,6,7,D,8,Hull_Leeds_2005
+483,4,Ipswich,13,1,0,0,0,L Mason,0,0,0,8,H,7,2006-04-01,Luton,E1,3,6,6,14,D,8,Luton_Ipswich_2005
+484,3,Brighton,13,0,0,2,0,K Hill,0,2,0,12,A,7,2006-04-01,Millwall,E1,7,1,6,5,A,5,Millwall_Brighton_2005
+485,1,Leicester,13,2,0,1,1,A D'Urso,0,0,2,10,H,11,2006-04-01,Norwich,E1,8,2,7,7,H,2,Norwich_Leicester_2005
+486,1,Wolves,14,2,0,0,1,P Melin,0,0,3,18,H,4,2006-04-01,Plymouth,E1,1,6,8,15,H,1,Plymouth_Wolves_2005
+487,2,Crewe,19,1,0,2,0,S Tanner,0,1,0,14,A,12,2006-04-01,QPR,E1,7,9,10,20,A,3,QPR_Crewe_2005
+488,0,Derby,10,5,0,0,0,A Bates,0,0,0,7,H,9,2006-04-01,Reading,E1,7,12,8,19,D,5,Reading_Derby_2005
+489,1,Burnley,9,0,0,0,0,G Laws,0,0,1,6,D,4,2006-04-01,Sheffield Weds,E1,2,3,4,10,D,4,Sheffield Weds_Burnley_2005
+490,1,Cardiff,12,3,0,2,0,P Walton,0,0,1,17,H,9,2006-04-01,Southampton,E1,7,7,8,16,D,11,Southampton_Cardiff_2005
+491,1,Sheffield United,10,1,0,1,1,A Marriner,0,0,1,8,D,9,2006-04-01,Stoke,E1,4,5,2,9,H,4,Stoke_Sheffield United_2005
+492,2,Crystal Palace,16,2,0,0,1,G Laws,0,0,2,13,H,9,2006-04-07,Leicester,E1,5,7,3,11,H,7,Leicester_Crystal Palace_2005
+493,1,Southampton,14,0,0,2,0,M Atkinson,0,1,0,11,A,10,2006-04-08,Brighton,E1,5,5,6,11,A,8,Brighton_Southampton_2005
+494,0,QPR,13,1,0,0,0,R Olivier,0,0,0,15,H,6,2006-04-08,Burnley,E1,3,4,4,7,D,3,Burnley_QPR_2005
+495,1,Reading,10,2,0,5,0,A Leake,0,2,0,9,A,12,2006-04-08,Cardiff,E1,6,8,8,16,A,2,Cardiff_Reading_2005
+496,2,Sheffield Weds,10,2,0,0,2,C Penton,0,0,2,10,H,16,2006-04-08,Crewe,E1,7,5,5,8,H,4,Crewe_Sheffield Weds_2005
+497,0,Millwall,13,1,0,0,1,P Taylor,0,0,1,15,H,10,2006-04-08,Derby,E1,3,10,5,20,H,4,Derby_Millwall_2005
+498,1,Stoke,10,1,0,4,0,P Miller,0,0,1,16,A,22,2006-04-08,Ipswich,E1,9,7,5,12,D,4,Ipswich_Stoke_2005
+499,1,Plymouth,8,0,0,0,0,M Thorpe,0,0,3,16,D,8,2006-04-08,Leeds,E1,1,2,4,9,D,3,Leeds_Plymouth_2005
+500,1,Norwich,12,2,0,0,2,M Fletcher,0,0,1,8,H,4,2006-04-08,Preston,E1,1,2,4,9,H,6,Preston_Norwich_2005
+501,0,Hull,10,3,0,2,1,P Crossley,0,0,1,12,H,7,2006-04-08,Sheffield United,E1,4,8,9,17,H,2,Sheffield United_Hull_2005
+502,2,Coventry,15,2,0,2,2,D Gallagher,0,1,1,10,D,10,2006-04-08,Wolves,E1,6,7,5,12,H,4,Wolves_Coventry_2005
+503,2,Luton,12,1,0,1,1,M Dean,0,0,3,17,D,11,2006-04-09,Watford,E1,6,7,5,10,H,5,Watford_Luton_2005
+504,0,Sheffield United,12,0,0,1,0,M Jones,0,0,1,13,A,5,2006-04-14,Cardiff,E1,1,3,6,9,D,5,Cardiff_Sheffield United_2005
+505,1,Watford,18,1,1,1,1,K Wright,0,0,0,12,D,10,2006-04-14,Wolves,E1,8,5,6,9,H,5,Wolves_Watford_2005
+506,0,Crewe,13,2,0,2,2,M Russell,0,0,0,4,D,5,2006-04-15,Crystal Palace,E1,3,11,7,18,H,4,Crystal Palace_Crewe_2005
+507,0,Burnley,8,0,0,0,0,D Drysdale,0,0,4,14,D,11,2006-04-15,Hull,E1,3,7,6,9,D,2,Hull_Burnley_2005
+508,2,Brighton,11,1,0,2,0,I Williamson,0,1,4,13,A,13,2006-04-15,Ipswich,E1,8,10,7,19,A,4,Ipswich_Brighton_2005
+509,0,Reading,10,1,0,1,0,M Halsey,0,0,0,10,D,5,2006-04-15,Leeds,E1,2,3,4,8,D,4,Leeds_Reading_2005
+510,0,Preston,13,1,0,2,1,D Gallagher,0,1,5,14,A,6,2006-04-15,Leicester,E1,6,6,7,12,D,5,Leicester_Preston_2005
+511,3,Coventry,22,1,0,2,0,R Beeby,0,2,0,20,A,11,2006-04-15,Luton,E1,7,8,7,11,A,2,Luton_Coventry_2005
+512,1,Plymouth,18,1,0,1,1,P Walton,0,1,2,12,D,6,2006-04-15,Millwall,E1,1,6,9,9,D,2,Millwall_Plymouth_2005
+513,1,Derby,17,1,1,1,0,T Kettle,0,0,1,12,D,7,2006-04-15,QPR,E1,4,8,12,13,D,1,QPR_Derby_2005
+514,2,Norwich,18,1,0,0,1,K Stroud,0,0,1,19,H,5,2006-04-15,Sheffield Weds,E1,2,4,6,10,H,3,Sheffield Weds_Norwich_2005
+515,1,Southampton,12,1,0,2,0,P Robinson,0,2,1,15,A,7,2006-04-15,Stoke,E1,4,1,4,2,A,12,Stoke_Southampton_2005
+516,4,Sheffield Weds,18,0,0,2,0,P Taylor,1,1,1,17,A,3,2006-04-17,Brighton,E1,2,7,7,9,A,5,Brighton_Sheffield Weds_2005
+517,2,Crystal Palace,15,0,0,0,0,M Dean,0,0,2,8,D,7,2006-04-17,Burnley,E1,4,3,10,11,D,5,Burnley_Crystal Palace_2005
+518,1,Leicester,25,1,1,1,1,K Hill,0,1,3,22,D,8,2006-04-17,Coventry,E1,5,3,3,6,D,4,Coventry_Leicester_2005
+519,0,Cardiff,8,1,0,1,0,J Moss,0,0,0,11,D,18,2006-04-17,Crewe,E1,8,4,5,9,D,5,Crewe_Cardiff_2005
+520,0,Hull,11,1,0,1,0,A D'Urso,0,1,0,19,D,10,2006-04-17,Derby,E1,5,6,12,10,A,8,Derby_Hull_2005
+521,1,QPR,8,3,0,2,0,B Curson,0,1,2,20,H,14,2006-04-17,Norwich,E1,10,7,6,12,A,8,Norwich_QPR_2005
+522,1,Luton,12,1,0,2,0,A Hall,0,0,2,15,A,12,2006-04-17,Plymouth,E1,10,3,5,8,D,5,Plymouth_Luton_2005
+523,0,Wolves,9,2,0,0,1,K Friend,0,0,0,11,H,3,2006-04-17,Preston,E1,2,6,8,11,H,1,Preston_Wolves_2005
+524,0,Stoke,8,3,0,1,1,S Mathieson,0,0,0,16,H,8,2006-04-17,Reading,E1,3,3,3,7,H,4,Reading_Stoke_2005
+525,1,Millwall,11,2,0,0,1,A Woolmer,0,0,1,13,H,11,2006-04-17,Southampton,E1,6,6,9,11,H,6,Southampton_Millwall_2005
+526,1,Ipswich,16,2,0,1,1,C Webster,0,0,1,11,H,8,2006-04-17,Watford,E1,4,7,7,13,H,5,Watford_Ipswich_2005
+527,0,Leeds,16,1,0,1,1,G Poll,0,1,4,12,D,7,2006-04-18,Sheffield United,E1,4,5,5,9,D,4,Sheffield United_Leeds_2005
+528,1,Norwich,13,0,0,1,0,A Marriner,0,1,1,10,A,6,2006-04-22,Cardiff,E1,3,4,4,12,A,4,Cardiff_Norwich_2005
+529,1,Southampton,11,2,0,1,0,R Beeby,0,0,2,11,H,13,2006-04-22,Crystal Palace,E1,5,4,8,6,D,5,Crystal Palace_Southampton_2005
+530,0,Preston,7,1,0,1,1,A Bates,0,1,2,14,D,8,2006-04-22,Hull,E1,5,4,4,10,D,7,Hull_Preston_2005
+531,0,Derby,8,2,0,0,0,L Probert,0,0,1,8,H,10,2006-04-22,Ipswich,E1,3,3,10,11,D,2,Ipswich_Derby_2005
+532,0,Crewe,10,1,0,0,0,N Miller,0,0,0,3,H,11,2006-04-22,Leeds,E1,4,7,7,14,D,2,Leeds_Crewe_2005
+533,1,Plymouth,12,1,0,0,0,P Joslin,0,0,0,12,H,6,2006-04-22,Leicester,E1,3,2,5,7,D,3,Leicester_Plymouth_2005
+534,1,Sheffield United,10,1,0,1,0,R Olivier,0,0,2,14,D,8,2006-04-22,Luton,E1,2,5,4,15,D,9,Luton_Sheffield United_2005
+535,1,Burnley,14,1,0,0,1,C Penton,0,0,2,14,H,7,2006-04-22,Millwall,E1,4,6,9,10,H,0,Millwall_Burnley_2005
+536,1,Watford,17,1,0,2,1,A D'Urso,1,1,2,10,A,9,2006-04-22,QPR,E1,2,2,2,5,D,5,QPR_Watford_2005
+537,1,Reading,8,1,0,1,0,L Mason,0,1,1,11,D,7,2006-04-22,Sheffield Weds,E1,4,8,3,11,A,10,Sheffield Weds_Reading_2005
+538,1,Coventry,13,0,0,1,0,P Walton,0,0,0,11,A,9,2006-04-22,Stoke,E1,6,8,7,18,D,4,Stoke_Coventry_2005
+539,1,Brighton,14,1,0,0,1,N Swarbrick,0,0,1,10,H,8,2006-04-22,Wolves,E1,3,2,10,11,H,4,Wolves_Brighton_2005
+540,1,Stoke,9,1,0,5,0,K Wright,0,3,0,19,A,11,2006-04-30,Brighton,E1,9,6,4,11,A,8,Brighton_Stoke_2005
+541,0,Luton,9,1,0,1,0,R Booth,0,1,2,11,D,6,2006-04-30,Burnley,E1,2,17,4,21,A,4,Burnley_Luton_2005
+542,0,Cardiff,16,3,0,1,1,T Kettle,0,1,3,14,H,17,2006-04-30,Coventry,E1,7,4,6,10,D,5,Coventry_Cardiff_2005
+543,0,Millwall,6,4,0,2,1,G Salisbury,0,1,0,13,H,16,2006-04-30,Crewe,E1,5,8,5,12,D,3,Crewe_Millwall_2005
+544,2,Sheffield Weds,18,0,0,2,0,P Dowd,0,1,3,22,A,9,2006-04-30,Derby,E1,5,7,6,10,A,1,Derby_Sheffield Weds_2005
+545,2,Wolves,16,1,1,2,0,I Williamson,0,1,3,21,A,11,2006-04-30,Norwich,E1,6,7,7,11,A,5,Norwich_Wolves_2005
+546,1,Ipswich,14,2,0,1,1,B Curson,0,1,2,13,H,3,2006-04-30,Plymouth,E1,2,4,3,12,D,4,Plymouth_Ipswich_2005
+547,3,Leeds,21,2,0,0,1,U Rennie,0,0,1,11,H,7,2006-04-30,Preston,E1,3,4,4,12,H,4,Preston_Leeds_2005
+548,0,QPR,14,2,0,1,1,D Drysdale,0,0,0,12,H,15,2006-04-30,Reading,E1,8,5,9,11,H,6,Reading_QPR_2005
+549,1,Crystal Palace,9,1,0,0,0,A Leake,0,0,2,10,H,6,2006-04-30,Sheffield United,E1,2,2,4,9,D,1,Sheffield United_Crystal Palace_2005
+550,1,Leicester,13,2,0,0,2,M Fletcher,0,0,2,13,H,6,2006-04-30,Southampton,E1,2,6,5,12,H,5,Southampton_Leicester_2005
+551,0,Hull,11,0,0,0,0,K Friend,0,0,0,11,D,12,2006-04-30,Watford,E1,5,8,7,13,D,2,Watford_Hull_2005

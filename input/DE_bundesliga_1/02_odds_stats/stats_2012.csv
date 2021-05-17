@@ -1,0 +1,307 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,2,Werder Bremen,18,2,0,1,1,0,0,2,14,H,10,2012-08-24,Dortmund,D1,3,6,7,19,H,2,Dortmund_Werder Bremen_2012
+1,3,Fortuna Dusseldorf,16,0,0,2,0,0,0,2,14,A,9,2012-08-25,Augsburg,D1,4,4,3,16,D,0,Augsburg_Fortuna Dusseldorf_2012
+2,1,Leverkusen,15,2,0,1,0,0,1,2,22,H,19,2012-08-25,Ein Frankfurt,D1,10,4,6,20,A,7,Ein Frankfurt_Leverkusen_2012
+3,0,Mainz,14,1,0,1,0,0,0,2,13,D,8,2012-08-25,Freiburg,D1,3,4,9,8,D,8,Freiburg_Mainz_2012
+4,2,Bayern Munich,21,0,0,3,0,0,1,2,13,A,19,2012-08-25,Greuther Furth,D1,9,2,2,6,A,4,Greuther Furth_Bayern Munich_2012
+5,4,Nurnberg,16,0,0,1,0,0,0,2,20,A,18,2012-08-25,Hamburg,D1,8,5,9,11,D,6,Hamburg_Nurnberg_2012
+6,2,Hoffenheim,9,2,0,1,1,0,0,0,6,H,14,2012-08-25,M'gladbach,D1,8,3,6,7,H,4,M'gladbach_Hoffenheim_2012
+7,1,Wolfsburg,16,0,0,1,0,0,0,0,23,A,13,2012-08-25,Stuttgart,D1,3,5,7,10,D,6,Stuttgart_Wolfsburg_2012
+8,1,Schalke 04,12,2,0,2,1,0,0,3,16,D,15,2012-08-26,Hannover,D1,7,2,3,9,H,6,Hannover_Schalke 04_2012
+9,1,Greuther Furth,17,0,0,1,0,0,0,3,23,A,7,2012-08-31,Mainz,D1,2,3,8,11,D,0,Mainz_Greuther Furth_2012
+10,3,M'gladbach,15,0,0,0,0,0,0,2,23,D,13,2012-09-01,Fortuna Dusseldorf,D1,4,0,5,5,D,4,Fortuna Dusseldorf_M'gladbach_2012
+11,1,Ein Frankfurt,16,0,0,4,0,2,2,2,17,A,17,2012-09-01,Hoffenheim,D1,5,3,2,7,A,5,Hoffenheim_Ein Frankfurt_2012
+12,1,Freiburg,19,2,0,0,1,0,0,1,24,H,8,2012-09-01,Leverkusen,D1,1,10,5,14,H,4,Leverkusen_Freiburg_2012
+13,2,Dortmund,12,1,0,1,1,0,1,2,17,D,18,2012-09-01,Nurnberg,D1,6,3,4,6,D,11,Nurnberg_Dortmund_2012
+14,1,Augsburg,11,3,0,1,1,0,0,2,14,H,22,2012-09-01,Schalke 04,D1,4,6,6,12,H,5,Schalke 04_Augsburg_2012
+15,0,Hamburg,7,2,0,0,0,0,0,1,20,H,11,2012-09-01,Werder Bremen,D1,4,9,7,16,D,5,Werder Bremen_Hamburg_2012
+16,1,Stuttgart,13,6,1,1,3,0,1,1,8,H,7,2012-09-02,Bayern Munich,D1,4,13,5,16,H,3,Bayern Munich_Stuttgart_2012
+17,2,Hannover,24,0,0,4,0,1,2,1,20,A,16,2012-09-02,Wolfsburg,D1,7,1,0,5,A,3,Wolfsburg_Hannover_2012
+18,1,Wolfsburg,14,0,0,0,0,0,0,2,25,D,11,2012-09-14,Augsburg,D1,4,2,5,7,D,3,Augsburg_Wolfsburg_2012
+19,1,Mainz,12,3,0,1,2,0,0,2,18,H,7,2012-09-15,Bayern Munich,D1,1,9,10,21,H,2,Bayern Munich_Mainz_2012
+20,1,Leverkusen,10,3,0,0,2,0,0,2,14,H,6,2012-09-15,Dortmund,D1,2,7,9,14,H,2,Dortmund_Leverkusen_2012
+21,2,Schalke 04,18,0,0,2,0,0,0,0,14,A,10,2012-09-15,Greuther Furth,D1,4,0,5,9,D,4,Greuther Furth_Schalke 04_2012
+22,3,Werder Bremen,19,3,0,2,2,1,1,3,19,H,11,2012-09-15,Hannover,D1,4,5,7,13,H,4,Hannover_Werder Bremen_2012
+23,2,Nurnberg,12,2,0,3,1,0,2,2,17,A,11,2012-09-15,M'gladbach,D1,3,6,5,14,A,6,M'gladbach_Nurnberg_2012
+24,1,Fortuna Dusseldorf,19,0,0,0,0,0,0,0,13,D,6,2012-09-15,Stuttgart,D1,2,3,7,10,D,4,Stuttgart_Fortuna Dusseldorf_2012
+25,0,Hamburg,15,3,1,2,2,0,1,1,19,H,14,2012-09-16,Ein Frankfurt,D1,7,6,7,17,H,6,Ein Frankfurt_Hamburg_2012
+26,2,Hoffenheim,11,5,0,3,2,0,1,5,18,H,9,2012-09-16,Freiburg,D1,5,9,11,23,H,2,Freiburg_Hoffenheim_2012
+27,1,Ein Frankfurt,9,1,0,2,0,0,1,3,17,A,12,2012-09-21,Nurnberg,D1,5,5,8,14,A,5,Nurnberg_Ein Frankfurt_2012
+28,2,Freiburg,13,0,0,0,0,0,0,2,17,D,11,2012-09-22,Fortuna Dusseldorf,D1,3,2,3,11,D,6,Fortuna Dusseldorf_Freiburg_2012
+29,3,Dortmund,20,3,0,2,1,0,0,1,11,H,28,2012-09-22,Hamburg,D1,12,3,2,7,H,10,Hamburg_Dortmund_2012
+30,0,Augsburg,23,2,0,0,2,0,0,2,17,H,11,2012-09-22,Mainz,D1,3,5,4,11,H,6,Mainz_Augsburg_2012
+31,2,Bayern Munich,14,0,0,2,0,0,0,0,18,A,13,2012-09-22,Schalke 04,D1,5,5,2,14,D,3,Schalke 04_Bayern Munich_2012
+32,0,Greuther Furth,20,1,0,1,1,0,1,2,22,D,8,2012-09-22,Wolfsburg,D1,1,5,7,12,D,2,Wolfsburg_Greuther Furth_2012
+33,3,Hannover,13,3,0,1,1,0,1,2,18,H,5,2012-09-23,Hoffenheim,D1,2,6,8,16,D,2,Hoffenheim_Hannover_2012
+34,0,M'gladbach,13,1,0,1,1,0,1,4,12,D,5,2012-09-23,Leverkusen,D1,1,9,10,31,D,3,Leverkusen_M'gladbach_2012
+35,4,Stuttgart,17,2,1,2,2,1,0,0,13,D,13,2012-09-23,Werder Bremen,D1,2,6,6,11,H,7,Werder Bremen_Stuttgart_2012
+36,1,Wolfsburg,15,3,0,0,1,0,0,1,18,H,4,2012-09-25,Bayern Munich,D1,1,13,10,25,H,2,Bayern Munich_Wolfsburg_2012
+37,2,Dortmund,13,3,0,3,0,0,2,1,15,D,9,2012-09-25,Ein Frankfurt,D1,7,5,6,14,A,4,Ein Frankfurt_Dortmund_2012
+38,2,Fortuna Dusseldorf,22,0,0,2,0,0,2,2,15,A,10,2012-09-25,Greuther Furth,D1,5,3,4,11,A,2,Greuther Furth_Fortuna Dusseldorf_2012
+39,2,Mainz,10,3,0,0,1,0,0,2,11,H,10,2012-09-25,Schalke 04,D1,3,9,7,16,H,3,Schalke 04_Mainz_2012
+40,1,Leverkusen,9,1,0,3,0,0,3,3,17,A,12,2012-09-26,Augsburg,D1,6,6,3,11,A,2,Augsburg_Leverkusen_2012
+41,2,Werder Bremen,15,1,0,2,1,0,0,4,24,A,5,2012-09-26,Freiburg,D1,3,7,7,18,H,2,Freiburg_Werder Bremen_2012
+42,3,Nurnberg,15,4,0,1,2,0,0,2,19,H,6,2012-09-26,Hannover,D1,2,4,5,7,H,6,Hannover_Nurnberg_2012
+43,2,Hamburg,12,2,0,2,1,1,2,1,19,D,18,2012-09-26,M'gladbach,D1,4,4,4,9,A,5,M'gladbach_Hamburg_2012
+44,2,Hoffenheim,18,0,0,3,0,0,1,2,15,A,16,2012-09-26,Stuttgart,D1,10,3,4,8,A,5,Stuttgart_Hoffenheim_2012
+45,1,Schalke 04,10,2,0,2,0,0,2,1,9,D,14,2012-09-28,Fortuna Dusseldorf,D1,6,2,4,7,A,4,Fortuna Dusseldorf_Schalke 04_2012
+46,0,M'gladbach,10,5,0,0,2,0,0,1,8,H,9,2012-09-29,Dortmund,D1,3,8,10,17,H,5,Dortmund_M'gladbach_2012
+47,3,Hannover,25,1,0,0,1,0,0,1,12,H,14,2012-09-29,Hamburg,D1,5,4,2,10,H,8,Hamburg_Hannover_2012
+48,2,Augsburg,19,0,0,0,0,1,0,1,16,D,5,2012-09-29,Hoffenheim,D1,2,2,6,9,D,2,Hoffenheim_Augsburg_2012
+49,1,Greuther Furth,15,2,0,0,0,0,0,1,14,H,7,2012-09-29,Leverkusen,D1,1,7,7,13,D,2,Leverkusen_Greuther Furth_2012
+50,0,Stuttgart,19,0,0,2,0,0,1,2,28,A,9,2012-09-29,Nurnberg,D1,5,3,9,13,A,3,Nurnberg_Stuttgart_2012
+51,2,Bayern Munich,14,0,0,2,0,0,0,2,17,A,19,2012-09-29,Werder Bremen,D1,5,2,2,8,D,6,Werder Bremen_Bayern Munich_2012
+52,1,Freiburg,17,2,1,1,0,0,0,3,17,H,12,2012-09-30,Ein Frankfurt,D1,5,4,6,8,D,6,Ein Frankfurt_Freiburg_2012
+53,3,Mainz,18,0,0,2,0,0,2,3,18,A,7,2012-09-30,Wolfsburg,D1,3,5,11,19,A,2,Wolfsburg_Mainz_2012
+54,2,Werder Bremen,17,3,0,1,2,0,1,1,14,H,15,2012-10-05,Augsburg,D1,5,4,3,12,H,3,Augsburg_Werder Bremen_2012
+55,0,Hoffenheim,14,2,0,0,1,0,0,3,20,H,4,2012-10-06,Bayern Munich,D1,1,2,8,13,H,1,Bayern Munich_Hoffenheim_2012
+56,3,Nurnberg,17,3,0,0,1,0,0,3,17,H,11,2012-10-06,Freiburg,D1,4,7,3,18,H,9,Freiburg_Nurnberg_2012
+57,4,Hamburg,22,0,0,1,0,0,1,2,24,A,8,2012-10-06,Greuther Furth,D1,4,2,6,12,A,1,Greuther Furth_Hamburg_2012
+58,4,Fortuna Dusseldorf,22,1,1,0,0,0,0,2,13,H,7,2012-10-06,Mainz,D1,4,3,2,13,D,2,Mainz_Fortuna Dusseldorf_2012
+59,1,Wolfsburg,14,3,0,0,1,0,0,0,19,H,5,2012-10-06,Schalke 04,D1,4,5,10,13,H,1,Schalke 04_Wolfsburg_2012
+60,4,Dortmund,19,1,0,1,0,0,1,0,17,D,12,2012-10-07,Hannover,D1,3,6,7,14,A,3,Hannover_Dortmund_2012
+61,4,Ein Frankfurt,18,2,0,0,2,0,0,0,19,H,12,2012-10-07,M'gladbach,D1,3,3,1,6,H,7,M'gladbach_Ein Frankfurt_2012
+62,2,Leverkusen,14,2,0,2,1,0,1,3,19,D,13,2012-10-07,Stuttgart,D1,6,2,4,10,D,7,Stuttgart_Leverkusen_2012
+63,0,Greuther Furth,15,3,0,3,1,0,1,5,21,D,16,2012-10-19,Hoffenheim,D1,8,11,4,19,D,4,Hoffenheim_Greuther Furth_2012
+64,2,Schalke 04,18,1,0,2,0,0,1,3,14,A,7,2012-10-20,Dortmund,D1,4,4,4,8,A,5,Dortmund_Schalke 04_2012
+65,2,Hannover,18,3,0,1,2,0,1,4,17,H,14,2012-10-20,Ein Frankfurt,D1,4,7,6,15,H,8,Ein Frankfurt_Hannover_2012
+66,3,Bayern Munich,18,0,0,5,0,0,2,1,13,A,24,2012-10-20,Fortuna Dusseldorf,D1,14,1,2,2,A,6,Fortuna Dusseldorf_Bayern Munich_2012
+67,4,Mainz,8,2,0,2,1,0,0,3,15,D,10,2012-10-20,Leverkusen,D1,3,8,5,14,H,3,Leverkusen_Mainz_2012
+68,1,M'gladbach,12,4,0,0,2,0,0,2,11,H,9,2012-10-20,Werder Bremen,D1,2,7,10,20,H,3,Werder Bremen_M'gladbach_2012
+69,1,Freiburg,23,0,0,2,0,0,1,2,14,A,8,2012-10-20,Wolfsburg,D1,5,2,7,9,A,1,Wolfsburg_Freiburg_2012
+70,0,Stuttgart,21,0,0,1,0,0,1,2,13,A,21,2012-10-21,Hamburg,D1,6,8,3,18,A,4,Hamburg_Stuttgart_2012
+71,4,Augsburg,24,0,0,0,0,0,0,3,22,D,10,2012-10-21,Nurnberg,D1,4,2,4,8,D,2,Nurnberg_Augsburg_2012
+72,1,Hamburg,10,0,0,2,0,0,1,3,19,A,10,2012-10-26,Augsburg,D1,4,2,13,19,A,3,Augsburg_Hamburg_2012
+73,1,Wolfsburg,19,1,0,4,0,1,0,1,18,A,10,2012-10-27,Fortuna Dusseldorf,D1,7,2,1,6,D,4,Fortuna Dusseldorf_Wolfsburg_2012
+74,2,Dortmund,19,0,0,2,0,0,0,3,18,A,17,2012-10-27,Freiburg,D1,6,2,3,6,D,7,Freiburg_Dortmund_2012
+75,3,Werder Bremen,24,1,0,1,1,0,1,1,17,D,16,2012-10-27,Greuther Furth,D1,8,3,4,10,D,6,Greuther Furth_Werder Bremen_2012
+76,1,Hoffenheim,12,3,0,0,1,0,0,2,19,H,7,2012-10-27,Mainz,D1,2,5,4,11,H,2,Mainz_Hoffenheim_2012
+77,0,Nurnberg,12,1,0,0,0,0,0,3,15,H,10,2012-10-27,Schalke 04,D1,2,8,4,17,D,3,Schalke 04_Nurnberg_2012
+78,3,Leverkusen,15,1,0,2,0,0,1,1,17,A,5,2012-10-28,Bayern Munich,D1,5,6,14,23,A,2,Bayern Munich_Leverkusen_2012
+79,2,M'gladbach,17,2,0,3,0,0,0,1,15,A,14,2012-10-28,Hannover,D1,9,3,4,5,D,7,Hannover_M'gladbach_2012
+80,2,Ein Frankfurt,17,2,0,1,1,0,0,3,18,H,13,2012-10-28,Stuttgart,D1,7,4,10,14,H,5,Stuttgart_Ein Frankfurt_2012
+81,2,Greuther Furth,15,1,0,1,1,0,0,2,26,D,12,2012-11-02,Ein Frankfurt,D1,8,4,3,7,H,7,Ein Frankfurt_Greuther Furth_2012
+82,0,Stuttgart,9,0,0,0,0,0,0,4,19,D,12,2012-11-03,Dortmund,D1,3,7,9,20,D,2,Dortmund_Stuttgart_2012
+83,2,Bayern Munich,17,0,0,3,0,0,1,2,14,A,15,2012-11-03,Hamburg,D1,8,3,2,7,A,5,Hamburg_Bayern Munich_2012
+84,0,Augsburg,16,2,0,0,1,0,0,0,17,H,10,2012-11-03,Hannover,D1,5,4,2,14,H,9,Hannover_Augsburg_2012
+85,2,Schalke 04,18,3,0,2,1,0,1,3,12,H,23,2012-11-03,Hoffenheim,D1,10,4,0,6,D,5,Hoffenheim_Schalke 04_2012
+86,1,Freiburg,12,1,0,1,0,0,0,0,12,D,13,2012-11-03,M'gladbach,D1,3,4,4,14,D,6,M'gladbach_Freiburg_2012
+87,2,Wolfsburg,21,1,0,0,0,0,0,3,16,H,3,2012-11-03,Nurnberg,D1,2,4,5,11,D,4,Nurnberg_Wolfsburg_2012
+88,0,Fortuna Dusseldorf,13,3,0,2,2,1,1,2,18,H,14,2012-11-04,Leverkusen,D1,3,10,7,18,H,5,Leverkusen_Fortuna Dusseldorf_2012
+89,1,Mainz,11,2,0,1,1,0,0,3,14,H,13,2012-11-04,Werder Bremen,D1,4,4,5,17,H,4,Werder Bremen_Mainz_2012
+90,5,Nurnberg,17,2,0,1,2,0,1,5,21,H,10,2012-11-09,Mainz,D1,3,2,3,12,H,6,Mainz_Nurnberg_2012
+91,2,Dortmund,12,1,0,3,0,0,1,2,13,A,16,2012-11-10,Augsburg,D1,4,8,4,16,A,5,Augsburg_Dortmund_2012
+92,0,Ein Frankfurt,11,2,0,0,1,0,0,3,12,H,13,2012-11-10,Bayern Munich,D1,2,12,8,19,H,4,Bayern Munich_Ein Frankfurt_2012
+93,1,Hoffenheim,17,1,1,1,1,0,1,1,18,D,4,2012-11-10,Fortuna Dusseldorf,D1,1,3,6,11,D,1,Fortuna Dusseldorf_Hoffenheim_2012
+94,2,Hamburg,19,0,1,0,0,0,0,3,20,D,9,2012-11-10,Freiburg,D1,4,3,9,16,D,3,Freiburg_Hamburg_2012
+95,1,Werder Bremen,18,2,0,1,0,0,1,1,15,H,9,2012-11-10,Schalke 04,D1,3,4,2,5,A,7,Schalke 04_Werder Bremen_2012
+96,2,M'gladbach,15,2,0,4,2,2,1,0,13,A,10,2012-11-11,Greuther Furth,D1,7,3,4,11,H,4,Greuther Furth_M'gladbach_2012
+97,2,Hannover,21,2,0,4,2,0,0,3,17,A,10,2012-11-11,Stuttgart,D1,4,8,10,13,H,5,Stuttgart_Hannover_2012
+98,1,Leverkusen,8,3,0,1,3,0,0,3,17,H,9,2012-11-11,Wolfsburg,D1,4,6,5,12,H,6,Wolfsburg_Leverkusen_2012
+99,2,Greuther Furth,7,3,0,1,3,0,1,2,10,H,5,2012-11-17,Dortmund,D1,2,6,3,15,H,1,Dortmund_Greuther Furth_2012
+100,1,Augsburg,16,4,0,2,2,0,1,3,19,H,7,2012-11-17,Ein Frankfurt,D1,2,4,6,19,H,6,Ein Frankfurt_Augsburg_2012
+101,2,Mainz,20,1,0,0,0,0,0,1,11,H,14,2012-11-17,Hamburg,D1,3,4,8,10,D,7,Hamburg_Mainz_2012
+102,2,Freiburg,12,1,0,2,1,0,1,1,15,A,21,2012-11-17,Hannover,D1,8,5,11,15,D,6,Hannover_Freiburg_2012
+103,1,Schalke 04,6,2,1,0,1,0,0,2,13,H,8,2012-11-17,Leverkusen,D1,3,7,3,18,H,1,Leverkusen_Schalke 04_2012
+104,3,Stuttgart,17,1,0,2,1,0,1,4,16,A,13,2012-11-17,M'gladbach,D1,6,5,9,12,D,2,M'gladbach_Stuttgart_2012
+105,3,Bayern Munich,13,1,0,1,0,1,1,2,25,D,7,2012-11-17,Nurnberg,D1,4,2,7,7,A,8,Nurnberg_Bayern Munich_2012
+106,2,Wolfsburg,12,1,0,3,0,0,2,1,14,A,8,2012-11-18,Hoffenheim,D1,4,7,10,25,A,0,Hoffenheim_Wolfsburg_2012
+107,3,Fortuna Dusseldorf,21,2,0,1,0,1,1,3,15,H,4,2012-11-18,Werder Bremen,D1,3,6,10,22,A,1,Werder Bremen_Fortuna Dusseldorf_2012
+108,2,Hamburg,18,2,0,0,1,0,0,3,13,H,13,2012-11-23,Fortuna Dusseldorf,D1,4,3,3,11,H,8,Fortuna Dusseldorf_Hamburg_2012
+109,2,Hannover,14,5,0,0,3,0,0,3,16,H,8,2012-11-24,Bayern Munich,D1,5,14,5,19,H,2,Bayern Munich_Hannover_2012
+110,2,Nurnberg,23,0,1,0,0,1,0,2,20,D,3,2012-11-24,Greuther Furth,D1,0,1,6,5,D,1,Greuther Furth_Nurnberg_2012
+111,4,Dortmund,19,1,0,2,1,0,2,0,8,A,12,2012-11-24,Mainz,D1,5,3,4,10,A,2,Mainz_Dortmund_2012
+112,1,Ein Frankfurt,12,1,1,1,1,0,1,1,13,D,11,2012-11-24,Schalke 04,D1,2,4,9,18,D,1,Schalke 04_Ein Frankfurt_2012
+113,2,Werder Bremen,17,1,1,1,0,0,1,2,16,D,12,2012-11-24,Wolfsburg,D1,2,5,5,14,A,7,Wolfsburg_Werder Bremen_2012
+114,1,M'gladbach,19,1,0,1,1,0,0,2,10,D,9,2012-11-25,Augsburg,D1,3,1,3,13,H,1,Augsburg_M'gladbach_2012
+115,2,Stuttgart,12,3,0,0,1,0,0,3,19,H,10,2012-11-25,Freiburg,D1,2,11,10,26,H,3,Freiburg_Stuttgart_2012
+116,1,Leverkusen,12,1,0,2,0,0,2,2,18,A,8,2012-11-25,Hoffenheim,D1,4,5,4,24,A,1,Hoffenheim_Leverkusen_2012
+117,1,Fortuna Dusseldorf,5,1,1,1,1,0,0,1,16,D,5,2012-11-27,Dortmund,D1,1,7,7,22,H,2,Dortmund_Fortuna Dusseldorf_2012
+118,2,Mainz,20,1,1,3,0,0,2,1,16,A,10,2012-11-27,Ein Frankfurt,D1,5,6,8,11,A,3,Ein Frankfurt_Mainz_2012
+119,2,Schalke 04,12,3,0,1,0,0,0,1,9,H,20,2012-11-27,Hamburg,D1,8,6,3,19,D,7,Hamburg_Schalke 04_2012
+120,1,Greuther Furth,20,2,0,0,1,0,0,1,21,H,11,2012-11-27,Hannover,D1,3,5,3,12,H,5,Hannover_Greuther Furth_2012
+121,1,Bayern Munich,9,0,0,2,0,1,1,1,18,A,12,2012-11-28,Freiburg,D1,6,4,1,10,A,6,Freiburg_Bayern Munich_2012
+122,1,Wolfsburg,11,2,0,0,2,0,0,2,16,H,17,2012-11-28,M'gladbach,D1,6,6,2,12,H,8,M'gladbach_Wolfsburg_2012
+123,1,Hoffenheim,24,4,0,2,2,0,1,4,22,H,15,2012-11-28,Nurnberg,D1,5,6,1,14,H,3,Nurnberg_Hoffenheim_2012
+124,1,Augsburg,14,2,0,1,1,0,1,1,17,H,16,2012-11-28,Stuttgart,D1,8,3,1,10,D,5,Stuttgart_Augsburg_2012
+125,3,Leverkusen,20,1,0,4,0,0,1,1,15,A,9,2012-11-28,Werder Bremen,D1,5,5,9,17,A,3,Werder Bremen_Leverkusen_2012
+126,2,Ein Frankfurt,9,4,1,0,2,0,0,2,14,H,7,2012-11-30,Fortuna Dusseldorf,D1,2,6,5,13,H,2,Fortuna Dusseldorf_Ein Frankfurt_2012
+127,3,Freiburg,20,1,0,1,1,0,1,4,16,D,10,2012-12-01,Augsburg,D1,3,4,2,14,D,2,Augsburg_Freiburg_2012
+128,0,Dortmund,14,1,0,1,0,0,0,0,17,D,12,2012-12-01,Bayern Munich,D1,5,5,7,14,D,5,Bayern Munich_Dortmund_2012
+129,5,Stuttgart,19,0,1,1,0,0,1,4,14,A,10,2012-12-01,Greuther Furth,D1,7,5,10,17,A,2,Greuther Furth_Stuttgart_2012
+130,2,Nurnberg,17,1,0,0,1,0,0,2,17,H,8,2012-12-01,Leverkusen,D1,2,8,7,22,H,3,Leverkusen_Nurnberg_2012
+131,2,Hannover,13,2,0,1,1,1,1,3,17,H,14,2012-12-01,Mainz,D1,3,3,4,13,D,6,Mainz_Hannover_2012
+132,1,M'gladbach,17,1,0,1,0,0,0,3,12,D,5,2012-12-01,Schalke 04,D1,1,6,8,22,D,1,Schalke 04_M'gladbach_2012
+133,3,Werder Bremen,18,1,0,4,0,0,2,1,14,A,12,2012-12-02,Hoffenheim,D1,6,3,3,9,A,5,Hoffenheim_Werder Bremen_2012
+134,1,Hamburg,13,1,0,1,0,0,1,3,17,D,9,2012-12-02,Wolfsburg,D1,3,5,10,22,A,5,Wolfsburg_Hamburg_2012
+135,1,Hoffenheim,16,2,0,0,1,0,0,1,9,H,14,2012-12-07,Hamburg,D1,3,4,1,10,H,3,Hamburg_Hoffenheim_2012
+136,0,Bayern Munich,11,0,0,2,0,0,1,0,11,A,18,2012-12-08,Augsburg,D1,6,3,4,14,A,3,Augsburg_Bayern Munich_2012
+137,3,Wolfsburg,13,2,0,3,1,1,2,3,19,A,6,2012-12-08,Dortmund,D1,4,10,8,20,A,4,Dortmund_Wolfsburg_2012
+138,4,Werder Bremen,17,4,0,1,0,0,0,2,21,H,12,2012-12-08,Ein Frankfurt,D1,6,7,3,18,D,4,Ein Frankfurt_Werder Bremen_2012
+139,2,Greuther Furth,16,1,0,0,1,0,0,4,21,H,9,2012-12-08,Freiburg,D1,1,3,3,11,H,2,Freiburg_Greuther Furth_2012
+140,1,Fortuna Dusseldorf,15,2,0,0,1,0,0,6,19,H,8,2012-12-08,Nurnberg,D1,1,5,2,13,H,4,Nurnberg_Fortuna Dusseldorf_2012
+141,4,Schalke 04,24,3,1,1,2,1,1,1,17,H,13,2012-12-08,Stuttgart,D1,3,7,4,13,H,8,Stuttgart_Schalke 04_2012
+142,0,Leverkusen,11,3,0,2,1,0,1,3,15,H,13,2012-12-09,Hannover,D1,4,5,4,8,D,3,Hannover_Leverkusen_2012
+143,2,Mainz,11,2,0,0,0,0,0,2,12,H,14,2012-12-09,M'gladbach,D1,4,2,2,10,D,6,M'gladbach_Mainz_2012
+144,1,M'gladbach,13,1,0,1,0,0,1,2,18,D,5,2012-12-14,Bayern Munich,D1,1,10,14,26,A,4,Bayern Munich_M'gladbach_2012
+145,2,Hannover,10,2,0,1,1,0,0,3,16,H,13,2012-12-15,Fortuna Dusseldorf,D1,5,5,5,10,H,3,Fortuna Dusseldorf_Hannover_2012
+146,0,Augsburg,18,1,1,1,0,1,1,4,25,D,7,2012-12-15,Greuther Furth,D1,5,7,4,12,A,3,Greuther Furth_Augsburg_2012
+147,1,Hamburg,10,3,0,0,2,0,0,2,14,H,16,2012-12-15,Leverkusen,D1,4,6,6,18,H,7,Leverkusen_Hamburg_2012
+148,3,Stuttgart,16,3,0,1,0,0,0,2,17,H,7,2012-12-15,Mainz,D1,2,10,4,16,D,5,Mainz_Stuttgart_2012
+149,1,Freiburg,17,1,1,3,1,1,2,0,12,A,15,2012-12-15,Schalke 04,D1,5,4,11,16,A,6,Schalke 04_Freiburg_2012
+150,2,Ein Frankfurt,23,0,0,2,0,1,2,1,15,A,18,2012-12-15,Wolfsburg,D1,6,3,3,7,A,7,Wolfsburg_Ein Frankfurt_2012
+151,1,Dortmund,19,1,0,3,1,0,1,0,18,A,17,2012-12-16,Hoffenheim,D1,9,1,1,9,D,4,Hoffenheim_Dortmund_2012
+152,1,Nurnberg,15,1,0,1,0,0,0,4,19,D,9,2012-12-16,Werder Bremen,D1,5,7,9,26,D,1,Werder Bremen_Nurnberg_2012
+153,4,Hannover,17,5,0,4,1,0,0,4,13,H,9,2013-01-18,Schalke 04,D1,4,8,6,14,H,3,Schalke 04_Hannover_2012
+154,1,Greuther Furth,12,2,0,0,1,0,0,1,10,H,5,2013-01-19,Bayern Munich,D1,1,5,17,22,H,0,Bayern Munich_Greuther Furth_2012
+155,3,M'gladbach,11,0,0,0,0,0,0,2,18,D,12,2013-01-19,Hoffenheim,D1,1,3,8,17,D,4,Hoffenheim_M'gladbach_2012
+156,1,Ein Frankfurt,21,3,0,1,2,0,0,2,15,H,11,2013-01-19,Leverkusen,D1,1,6,9,22,H,2,Leverkusen_Ein Frankfurt_2012
+157,2,Freiburg,16,0,0,0,0,1,0,2,22,D,12,2013-01-19,Mainz,D1,1,3,1,7,D,5,Mainz_Freiburg_2012
+158,0,Dortmund,17,0,0,5,0,0,2,2,11,A,15,2013-01-19,Werder Bremen,D1,9,3,4,8,A,3,Werder Bremen_Dortmund_2012
+159,0,Stuttgart,17,2,0,0,0,0,0,2,11,H,21,2013-01-19,Wolfsburg,D1,5,2,3,7,D,8,Wolfsburg_Stuttgart_2012
+160,1,Augsburg,9,2,0,3,0,0,2,4,25,A,23,2013-01-20,Fortuna Dusseldorf,D1,12,4,6,15,A,9,Fortuna Dusseldorf_Augsburg_2012
+161,2,Hamburg,10,1,0,1,0,0,0,3,20,D,10,2013-01-20,Nurnberg,D1,3,3,2,8,D,5,Nurnberg_Hamburg_2012
+162,0,Nurnberg,13,3,0,0,2,0,0,0,8,H,7,2013-01-25,Dortmund,D1,4,9,3,19,H,3,Dortmund_Nurnberg_2012
+163,1,Schalke 04,14,0,0,0,0,0,0,4,22,D,11,2013-01-26,Augsburg,D1,4,4,4,14,D,4,Augsburg_Schalke 04_2012
+164,3,Hoffenheim,19,2,0,1,1,0,0,3,21,H,12,2013-01-26,Ein Frankfurt,D1,5,6,7,16,H,6,Ein Frankfurt_Hoffenheim_2012
+165,1,Leverkusen,12,0,0,0,0,0,0,2,17,D,15,2013-01-26,Freiburg,D1,2,4,3,13,D,2,Freiburg_Leverkusen_2012
+166,1,Mainz,18,0,0,3,0,0,0,3,20,A,11,2013-01-26,Greuther Furth,D1,8,4,7,10,D,2,Greuther Furth_Mainz_2012
+167,3,Wolfsburg,15,2,0,1,2,1,0,2,13,H,25,2013-01-26,Hannover,D1,10,3,3,5,H,5,Hannover_Wolfsburg_2012
+168,1,Fortuna Dusseldorf,17,2,0,1,2,0,0,0,16,H,14,2013-01-26,M'gladbach,D1,3,4,5,9,H,3,M'gladbach_Fortuna Dusseldorf_2012
+169,2,Werder Bremen,19,3,2,2,1,0,1,2,16,H,14,2013-01-27,Hamburg,D1,6,4,3,9,D,7,Hamburg_Werder Bremen_2012
+170,2,Bayern Munich,26,0,0,2,0,1,0,1,17,A,13,2013-01-27,Stuttgart,D1,4,2,0,5,D,6,Stuttgart_Bayern Munich_2012
+171,0,Hannover,10,2,0,0,0,0,0,3,9,H,6,2013-02-01,Werder Bremen,D1,3,14,10,30,D,0,Werder Bremen_Hannover_2012
+172,2,Stuttgart,13,3,0,1,2,0,0,3,18,H,7,2013-02-02,Fortuna Dusseldorf,D1,4,5,3,12,H,5,Fortuna Dusseldorf_Stuttgart_2012
+173,3,Ein Frankfurt,19,0,0,2,0,0,2,1,11,A,16,2013-02-02,Hamburg,D1,5,10,7,23,A,6,Hamburg_Ein Frankfurt_2012
+174,3,Freiburg,23,2,0,1,2,0,1,2,15,H,9,2013-02-02,Hoffenheim,D1,5,3,3,9,H,6,Hoffenheim_Freiburg_2012
+175,3,Bayern Munich,15,0,0,3,0,0,1,0,10,A,10,2013-02-02,Mainz,D1,6,0,6,10,A,4,Mainz_Bayern Munich_2012
+176,1,Greuther Furth,15,1,0,2,0,0,0,4,19,A,9,2013-02-02,Schalke 04,D1,5,4,10,25,D,1,Schalke 04_Greuther Furth_2012
+177,2,Augsburg,15,1,0,1,1,0,1,3,17,D,10,2013-02-02,Wolfsburg,D1,4,6,11,10,D,2,Wolfsburg_Augsburg_2012
+178,5,Dortmund,21,2,0,3,0,0,2,1,16,A,12,2013-02-03,Leverkusen,D1,7,8,12,27,A,4,Leverkusen_Dortmund_2012
+179,2,M'gladbach,24,2,0,1,2,0,0,3,20,H,12,2013-02-03,Nurnberg,D1,6,5,5,10,H,5,Nurnberg_M'gladbach_2012
+180,0,Schalke 04,10,4,0,0,2,0,0,1,11,H,4,2013-02-09,Bayern Munich,D1,0,6,10,15,H,3,Bayern Munich_Schalke 04_2012
+181,1,Hamburg,14,1,1,4,1,1,2,2,19,A,13,2013-02-09,Dortmund,D1,5,7,8,21,A,5,Dortmund_Hamburg_2012
+182,2,Nurnberg,17,0,0,0,0,0,0,3,20,D,11,2013-02-09,Ein Frankfurt,D1,6,2,5,9,D,6,Ein Frankfurt_Nurnberg_2012
+183,3,Wolfsburg,22,0,0,1,0,0,1,3,23,A,10,2013-02-09,Greuther Furth,D1,2,3,10,16,A,5,Greuther Furth_Wolfsburg_2012
+184,2,Hoffenheim,21,1,0,0,1,0,0,2,20,H,16,2013-02-09,Hannover,D1,9,3,5,7,H,10,Hannover_Hoffenheim_2012
+185,0,Leverkusen,12,3,0,3,1,0,0,1,11,D,23,2013-02-09,M'gladbach,D1,10,5,5,10,H,11,M'gladbach_Leverkusen_2012
+186,3,Werder Bremen,21,1,0,4,0,0,1,1,19,A,18,2013-02-09,Stuttgart,D1,7,3,4,9,A,4,Stuttgart_Werder Bremen_2012
+187,2,Mainz,17,1,1,1,0,0,1,2,11,D,9,2013-02-10,Augsburg,D1,3,7,9,19,A,2,Augsburg_Mainz_2012
+188,1,Fortuna Dusseldorf,17,1,0,0,0,0,0,3,15,H,11,2013-02-10,Freiburg,D1,4,3,6,15,D,3,Freiburg_Fortuna Dusseldorf_2012
+189,5,Bayern Munich,26,0,0,2,0,0,1,2,18,A,7,2013-02-15,Wolfsburg,D1,3,1,3,8,A,2,Wolfsburg_Bayern Munich_2012
+190,4,Ein Frankfurt,17,3,0,0,2,1,0,3,18,H,7,2013-02-16,Dortmund,D1,1,5,3,9,H,4,Dortmund_Ein Frankfurt_2012
+191,2,Greuther Furth,20,1,1,0,1,0,0,4,28,H,3,2013-02-16,Fortuna Dusseldorf,D1,1,8,5,13,H,4,Fortuna Dusseldorf_Greuther Furth_2012
+192,1,M'gladbach,18,1,0,0,1,0,0,1,17,H,5,2013-02-16,Hamburg,D1,1,2,3,6,H,3,Hamburg_M'gladbach_2012
+193,0,Augsburg,11,2,0,1,1,0,0,0,14,H,12,2013-02-16,Leverkusen,D1,4,5,4,13,H,3,Leverkusen_Augsburg_2012
+194,1,Schalke 04,10,2,0,2,1,0,1,3,16,D,9,2013-02-16,Mainz,D1,5,5,4,14,D,4,Mainz_Schalke 04_2012
+195,0,Freiburg,23,2,0,3,1,0,1,1,16,A,14,2013-02-16,Werder Bremen,D1,12,5,6,9,D,5,Werder Bremen_Freiburg_2012
+196,2,Stuttgart,13,0,0,1,0,0,1,6,17,A,7,2013-02-17,Hoffenheim,D1,3,3,1,8,A,1,Hoffenheim_Stuttgart_2012
+197,0,Hannover,11,2,0,2,0,0,1,2,18,D,9,2013-02-17,Nurnberg,D1,6,5,4,10,A,1,Nurnberg_Hannover_2012
+198,1,Ein Frankfurt,13,0,0,0,0,0,0,3,10,D,8,2013-02-22,Freiburg,D1,1,5,3,8,D,1,Freiburg_Ein Frankfurt_2012
+199,1,Hoffenheim,17,2,0,1,1,0,0,5,24,H,7,2013-02-23,Augsburg,D1,2,3,3,20,H,1,Augsburg_Hoffenheim_2012
+200,0,Werder Bremen,6,6,1,1,2,0,0,2,13,H,11,2013-02-23,Bayern Munich,D1,4,8,7,14,H,4,Bayern Munich_Werder Bremen_2012
+201,1,Hamburg,16,5,0,1,3,0,1,0,13,H,23,2013-02-23,Hannover,D1,12,6,4,13,H,6,Hannover_Hamburg_2012
+202,1,Wolfsburg,22,1,1,1,1,0,1,2,12,D,5,2013-02-23,Mainz,D1,3,2,4,13,D,4,Mainz_Wolfsburg_2012
+203,1,Fortuna Dusseldorf,18,2,0,1,1,0,0,2,17,H,5,2013-02-23,Schalke 04,D1,1,7,4,18,H,3,Schalke 04_Fortuna Dusseldorf_2012
+204,1,Nurnberg,13,1,0,1,0,0,0,3,17,D,10,2013-02-23,Stuttgart,D1,2,8,8,15,D,4,Stuttgart_Nurnberg_2012
+205,2,Leverkusen,17,0,0,0,0,0,0,1,12,D,22,2013-02-24,Greuther Furth,D1,11,4,4,10,D,10,Greuther Furth_Leverkusen_2012
+206,3,Dortmund,16,1,0,1,0,0,1,1,9,D,15,2013-02-24,M'gladbach,D1,4,3,3,6,A,7,M'gladbach_Dortmund_2012
+207,4,M'gladbach,13,0,0,1,0,0,1,2,17,A,11,2013-03-01,Ein Frankfurt,D1,2,2,8,14,A,5,Ein Frankfurt_M'gladbach_2012
+208,0,Hannover,19,3,0,1,2,0,1,2,19,H,6,2013-03-02,Dortmund,D1,2,6,2,23,H,3,Dortmund_Hannover_2012
+209,1,Greuther Furth,11,1,0,1,1,0,1,1,9,D,6,2013-03-02,Hamburg,D1,2,8,5,18,D,1,Hamburg_Greuther Furth_2012
+210,3,Stuttgart,13,2,0,1,0,0,1,2,16,H,5,2013-03-02,Leverkusen,D1,4,8,6,30,A,0,Leverkusen_Stuttgart_2012
+211,2,Freiburg,29,1,0,1,1,0,0,2,14,D,14,2013-03-02,Nurnberg,D1,4,4,4,11,H,7,Nurnberg_Freiburg_2012
+212,3,Augsburg,18,0,0,1,0,0,1,5,21,A,12,2013-03-02,Werder Bremen,D1,5,3,11,16,A,5,Werder Bremen_Augsburg_2012
+213,1,Schalke 04,6,1,0,4,0,0,1,1,16,A,13,2013-03-02,Wolfsburg,D1,7,4,4,8,A,5,Wolfsburg_Schalke 04_2012
+214,3,Mainz,13,1,0,1,1,0,1,2,14,D,5,2013-03-03,Fortuna Dusseldorf,D1,3,3,7,13,D,3,Fortuna Dusseldorf_Mainz_2012
+215,3,Bayern Munich,24,0,0,1,0,0,1,1,12,A,19,2013-03-03,Hoffenheim,D1,7,3,4,9,A,8,Hoffenheim_Bayern Munich_2012
+216,4,Nurnberg,24,1,0,2,1,0,1,2,21,A,6,2013-03-08,Augsburg,D1,2,3,3,12,D,2,Augsburg_Nurnberg_2012
+217,1,Fortuna Dusseldorf,12,3,0,2,1,0,1,2,18,H,4,2013-03-09,Bayern Munich,D1,2,11,12,22,D,1,Bayern Munich_Fortuna Dusseldorf_2012
+218,2,Wolfsburg,11,2,0,5,1,0,3,4,23,A,14,2013-03-09,Freiburg,D1,10,6,9,16,A,3,Freiburg_Wolfsburg_2012
+219,2,Hoffenheim,17,0,0,3,0,0,2,2,20,A,12,2013-03-09,Greuther Furth,D1,5,4,3,12,A,4,Greuther Furth_Hoffenheim_2012
+220,3,Leverkusen,13,1,0,0,0,0,0,2,14,H,16,2013-03-09,Mainz,D1,4,1,4,8,D,5,Mainz_Leverkusen_2012
+221,1,Werder Bremen,8,1,0,1,0,0,0,0,11,D,16,2013-03-09,M'gladbach,D1,4,5,9,10,D,11,M'gladbach_Werder Bremen_2012
+222,3,Dortmund,16,2,0,1,2,0,0,0,13,H,16,2013-03-09,Schalke 04,D1,3,10,3,20,H,2,Schalke 04_Dortmund_2012
+223,2,Ein Frankfurt,18,0,0,0,0,0,0,0,13,D,11,2013-03-10,Hannover,D1,2,3,5,7,D,7,Hannover_Ein Frankfurt_2012
+224,2,Hamburg,15,0,0,1,0,0,0,1,23,A,12,2013-03-10,Stuttgart,D1,3,7,8,13,D,5,Stuttgart_Hamburg_2012
+225,2,Fortuna Dusseldorf,13,1,0,1,0,0,1,2,14,D,9,2013-03-15,Wolfsburg,D1,3,6,7,18,A,1,Wolfsburg_Fortuna Dusseldorf_2012
+226,1,Freiburg,16,5,0,1,3,0,1,2,18,H,6,2013-03-16,Dortmund,D1,2,11,4,21,H,1,Dortmund_Freiburg_2012
+227,2,Augsburg,20,0,0,1,0,1,1,2,17,A,6,2013-03-16,Hamburg,D1,1,5,10,17,A,3,Hamburg_Augsburg_2012
+228,2,Mainz,14,0,0,0,0,0,0,1,19,D,7,2013-03-16,Hoffenheim,D1,2,3,5,12,D,7,Hoffenheim_Mainz_2012
+229,3,Bayern Munich,16,1,0,2,0,0,1,1,15,A,15,2013-03-16,Leverkusen,D1,2,2,15,13,A,7,Leverkusen_Bayern Munich_2012
+230,0,Schalke 04,11,3,0,0,1,0,0,1,11,H,15,2013-03-16,Nurnberg,D1,5,8,6,12,H,4,Nurnberg_Schalke 04_2012
+231,0,Greuther Furth,11,2,0,2,0,0,0,2,23,D,9,2013-03-16,Werder Bremen,D1,3,8,9,18,D,4,Werder Bremen_Greuther Furth_2012
+232,1,Stuttgart,17,1,0,2,1,0,0,2,13,A,12,2013-03-17,Ein Frankfurt,D1,3,4,8,14,H,4,Ein Frankfurt_Stuttgart_2012
+233,1,Hannover,7,1,1,0,1,0,0,4,7,H,14,2013-03-17,M'gladbach,D1,5,4,6,11,H,3,M'gladbach_Hannover_2012
+234,0,Hannover,10,0,0,2,0,0,0,5,17,A,10,2013-03-30,Augsburg,D1,2,5,14,23,D,1,Augsburg_Hannover_2012
+235,0,Hamburg,6,9,0,2,5,0,0,0,14,H,10,2013-03-30,Bayern Munich,D1,8,15,7,25,H,3,Bayern Munich_Hamburg_2012
+236,3,Leverkusen,11,1,0,4,1,0,1,2,20,A,14,2013-03-30,Fortuna Dusseldorf,D1,4,3,4,12,D,1,Fortuna Dusseldorf_Leverkusen_2012
+237,1,M'gladbach,14,2,0,0,0,0,0,2,15,H,6,2013-03-30,Freiburg,D1,2,6,9,13,D,2,Freiburg_M'gladbach_2012
+238,3,Werder Bremen,15,1,0,1,1,0,0,2,15,D,13,2013-03-30,Mainz,D1,6,5,4,10,H,9,Mainz_Werder Bremen_2012
+239,1,Hoffenheim,13,3,0,0,0,0,0,2,15,H,5,2013-03-30,Schalke 04,D1,1,5,3,14,D,3,Schalke 04_Hoffenheim_2012
+240,2,Dortmund,17,1,0,2,0,1,1,2,15,A,15,2013-03-30,Stuttgart,D1,6,5,3,11,A,8,Stuttgart_Dortmund_2012
+241,1,Ein Frankfurt,17,2,0,3,1,0,1,0,10,A,11,2013-03-31,Greuther Furth,D1,4,5,9,14,D,3,Greuther Furth_Ein Frankfurt_2012
+242,3,Nurnberg,20,2,0,2,2,0,0,0,18,D,18,2013-03-31,Wolfsburg,D1,6,4,7,9,H,5,Wolfsburg_Nurnberg_2012
+243,3,Fortuna Dusseldorf,23,3,0,0,1,0,0,3,16,H,15,2013-04-05,Hoffenheim,D1,4,8,3,17,H,3,Hoffenheim_Fortuna Dusseldorf_2012
+244,1,Augsburg,12,4,0,2,1,0,2,4,21,H,12,2013-04-06,Dortmund,D1,8,7,4,13,A,7,Dortmund_Augsburg_2012
+245,1,Bayern Munich,16,0,0,1,0,0,0,2,11,A,15,2013-04-06,Ein Frankfurt,D1,5,4,7,13,D,9,Ein Frankfurt_Bayern Munich_2012
+246,2,Freiburg,15,0,0,1,0,0,0,0,12,A,8,2013-04-06,Hamburg,D1,3,5,6,13,D,1,Hamburg_Freiburg_2012
+247,2,Wolfsburg,15,1,0,1,1,0,0,3,13,D,11,2013-04-06,Leverkusen,D1,2,7,5,14,H,4,Leverkusen_Wolfsburg_2012
+248,0,Greuther Furth,10,1,1,0,0,0,0,2,16,H,20,2013-04-06,M'gladbach,D1,8,6,2,19,D,6,M'gladbach_Greuther Furth_2012
+249,1,Schalke 04,14,0,0,2,0,0,0,1,17,A,17,2013-04-06,Werder Bremen,D1,9,5,9,9,D,5,Werder Bremen_Schalke 04_2012
+250,0,Stuttgart,22,0,0,0,0,0,0,0,9,D,14,2013-04-07,Hannover,D1,6,1,6,13,D,6,Hannover_Stuttgart_2012
+251,2,Mainz,16,2,0,1,0,0,0,1,12,H,12,2013-04-07,Nurnberg,D1,3,4,2,5,D,6,Nurnberg_Mainz_2012
+252,1,Hannover,13,3,0,1,2,0,1,2,23,H,10,2013-04-12,Freiburg,D1,3,5,6,15,H,4,Freiburg_Hannover_2012
+253,1,Nurnberg,11,4,0,0,3,0,0,2,14,H,9,2013-04-13,Bayern Munich,D1,4,10,12,21,H,4,Bayern Munich_Nurnberg_2012
+254,1,Werder Bremen,20,2,0,2,1,0,1,3,24,D,16,2013-04-13,Fortuna Dusseldorf,D1,4,3,3,8,D,1,Fortuna Dusseldorf_Werder Bremen_2012
+255,0,Dortmund,12,1,0,6,0,0,5,1,11,A,15,2013-04-13,Greuther Furth,D1,9,3,1,9,A,5,Greuther Furth_Dortmund_2012
+256,2,Hamburg,15,1,0,2,0,0,0,1,16,A,12,2013-04-13,Mainz,D1,4,2,2,12,D,1,Mainz_Hamburg_2012
+257,2,Leverkusen,11,2,1,2,0,0,1,3,14,D,18,2013-04-13,Schalke 04,D1,8,9,7,16,A,7,Schalke 04_Leverkusen_2012
+258,2,Hoffenheim,24,2,0,2,1,0,1,1,24,D,10,2013-04-13,Wolfsburg,D1,5,5,2,13,D,4,Wolfsburg_Hoffenheim_2012
+259,3,Ein Frankfurt,12,2,0,0,1,0,0,2,18,H,8,2013-04-14,Augsburg,D1,3,4,5,19,H,3,Augsburg_Ein Frankfurt_2012
+260,0,M'gladbach,14,2,0,0,2,0,0,0,9,H,10,2013-04-14,Stuttgart,D1,2,5,4,16,H,3,Stuttgart_M'gladbach_2012
+261,4,Augsburg,18,1,1,0,1,0,0,1,14,H,11,2013-04-19,M'gladbach,D1,2,5,6,23,H,5,M'gladbach_Augsburg_2012
+262,3,Mainz,12,2,0,0,1,0,0,3,16,H,5,2013-04-20,Dortmund,D1,0,7,8,22,H,4,Dortmund_Mainz_2012
+263,3,Schalke 04,16,1,0,0,1,0,0,3,27,H,10,2013-04-20,Ein Frankfurt,D1,7,3,0,10,H,4,Ein Frankfurt_Schalke 04_2012
+264,2,Fortuna Dusseldorf,21,2,0,1,2,0,1,3,19,H,12,2013-04-20,Hamburg,D1,5,4,5,17,H,3,Hamburg_Fortuna Dusseldorf_2012
+265,0,Bayern Munich,7,1,0,6,0,0,3,1,9,A,14,2013-04-20,Hannover,D1,5,4,2,7,A,9,Hannover_Bayern Munich_2012
+266,1,Hoffenheim,11,5,1,0,2,0,0,0,9,H,5,2013-04-20,Leverkusen,D1,2,9,5,22,H,1,Leverkusen_Hoffenheim_2012
+267,3,Wolfsburg,18,0,0,3,0,0,2,1,16,A,8,2013-04-20,Werder Bremen,D1,5,3,6,8,A,3,Werder Bremen_Wolfsburg_2012
+268,4,Greuther Furth,12,0,0,1,0,0,1,5,25,A,15,2013-04-21,Nurnberg,D1,3,8,14,23,A,4,Nurnberg_Greuther Furth_2012
+269,0,Freiburg,14,2,0,1,2,0,0,3,15,H,11,2013-04-21,Stuttgart,D1,3,7,3,15,H,6,Stuttgart_Freiburg_2012
+270,1,Hannover,13,2,0,3,1,0,1,5,13,A,8,2013-04-26,Greuther Furth,D1,4,8,6,20,D,5,Greuther Furth_Hannover_2012
+271,4,Stuttgart,15,3,0,0,0,0,0,4,13,H,7,2013-04-27,Augsburg,D1,3,7,9,22,D,4,Augsburg_Stuttgart_2012
+272,1,Freiburg,9,1,0,0,1,0,0,1,17,H,8,2013-04-27,Bayern Munich,D1,2,4,5,16,H,3,Bayern Munich_Freiburg_2012
+273,5,Dortmund,15,1,0,2,0,0,1,2,11,A,9,2013-04-27,Fortuna Dusseldorf,D1,6,3,6,8,A,3,Fortuna Dusseldorf_Dortmund_2012
+274,2,Nurnberg,13,2,0,1,2,0,0,2,21,H,8,2013-04-27,Hoffenheim,D1,2,11,4,23,H,3,Hoffenheim_Nurnberg_2012
+275,1,Werder Bremen,22,1,0,0,1,0,0,2,18,H,11,2013-04-27,Leverkusen,D1,4,2,7,8,H,6,Leverkusen_Werder Bremen_2012
+276,0,M'gladbach,5,3,0,1,1,0,0,1,14,H,6,2013-04-27,Wolfsburg,D1,4,5,5,17,H,3,Wolfsburg_M'gladbach_2012
+277,0,Ein Frankfurt,14,0,0,0,0,0,0,2,15,D,8,2013-04-28,Mainz,D1,3,2,7,14,D,7,Mainz_Ein Frankfurt_2012
+278,1,Hamburg,14,4,0,1,2,0,1,3,10,H,9,2013-04-28,Schalke 04,D1,1,10,6,20,H,3,Schalke 04_Hamburg_2012
+279,2,Schalke 04,14,0,0,1,0,0,0,3,22,A,15,2013-05-03,M'gladbach,D1,5,0,6,12,D,8,M'gladbach_Schalke 04_2012
+280,1,Bayern Munich,18,1,1,1,1,0,1,4,15,D,6,2013-05-04,Dortmund,D1,2,3,6,11,D,1,Dortmund_Bayern Munich_2012
+281,1,Fortuna Dusseldorf,18,3,0,1,1,0,0,2,15,H,6,2013-05-04,Ein Frankfurt,D1,2,7,5,17,H,7,Ein Frankfurt_Fortuna Dusseldorf_2012
+282,1,Mainz,19,2,0,2,1,1,1,2,13,D,10,2013-05-04,Hannover,D1,6,5,2,13,D,2,Hannover_Mainz_2012
+283,2,Leverkusen,12,0,0,2,0,0,1,1,16,A,20,2013-05-04,Nurnberg,D1,2,3,14,16,A,8,Nurnberg_Leverkusen_2012
+284,1,Greuther Furth,17,0,0,2,0,1,0,2,23,A,10,2013-05-04,Stuttgart,D1,4,4,5,14,D,2,Stuttgart_Greuther Furth_2012
+285,3,Hoffenheim,23,2,0,2,2,0,0,3,15,D,13,2013-05-04,Werder Bremen,D1,5,3,4,18,H,2,Werder Bremen_Hoffenheim_2012
+286,3,Augsburg,15,2,0,0,1,0,0,2,19,H,19,2013-05-05,Freiburg,D1,6,10,5,17,H,8,Freiburg_Augsburg_2012
+287,3,Wolfsburg,16,1,0,1,1,0,0,2,19,D,19,2013-05-05,Hamburg,D1,8,8,4,15,H,9,Hamburg_Wolfsburg_2012
+288,0,Augsburg,10,3,0,0,0,0,0,1,13,H,6,2013-05-11,Bayern Munich,D1,3,7,9,15,D,2,Bayern Munich_Augsburg_2012
+289,4,Nurnberg,19,1,0,2,1,0,0,1,19,A,13,2013-05-11,Fortuna Dusseldorf,D1,4,2,1,6,H,5,Fortuna Dusseldorf_Nurnberg_2012
+290,0,Freiburg,20,1,0,2,1,0,0,2,16,A,15,2013-05-11,Greuther Furth,D1,5,6,5,18,H,8,Greuther Furth_Freiburg_2012
+291,0,Hamburg,20,1,0,4,0,0,2,1,20,A,15,2013-05-11,Hoffenheim,D1,5,5,5,18,A,1,Hoffenheim_Hamburg_2012
+292,1,Hannover,14,3,0,1,2,0,0,1,10,H,11,2013-05-11,Leverkusen,D1,3,12,3,22,H,6,Leverkusen_Hannover_2012
+293,1,M'gladbach,10,2,0,4,1,0,1,0,12,A,17,2013-05-11,Mainz,D1,6,4,3,10,D,3,Mainz_M'gladbach_2012
+294,0,Stuttgart,12,1,0,2,0,0,1,2,20,A,8,2013-05-11,Schalke 04,D1,4,4,3,19,A,1,Schalke 04_Stuttgart_2012
+295,1,Ein Frankfurt,10,1,0,1,1,0,0,1,11,D,10,2013-05-11,Werder Bremen,D1,2,3,8,15,H,3,Werder Bremen_Ein Frankfurt_2012
+296,1,Dortmund,23,3,0,3,3,0,1,2,12,D,10,2013-05-11,Wolfsburg,D1,4,3,7,10,H,4,Wolfsburg_Dortmund_2012
+297,2,Greuther Furth,19,3,0,1,1,0,0,3,22,H,6,2013-05-18,Augsburg,D1,2,5,8,16,H,3,Augsburg_Greuther Furth_2012
+298,1,Hoffenheim,13,1,0,2,1,1,0,4,20,A,9,2013-05-18,Dortmund,D1,5,8,3,21,H,0,Dortmund_Hoffenheim_2012
+299,3,Wolfsburg,18,2,1,2,1,0,2,1,13,D,14,2013-05-18,Ein Frankfurt,D1,4,3,6,11,A,9,Ein Frankfurt_Wolfsburg_2012
+300,2,Schalke 04,16,1,0,2,0,0,1,1,14,A,12,2013-05-18,Freiburg,D1,3,3,5,14,A,2,Freiburg_Schalke 04_2012
+301,4,Leverkusen,17,0,0,1,0,0,0,2,13,A,15,2013-05-18,Hamburg,D1,7,1,2,13,D,6,Hamburg_Leverkusen_2012
+302,1,Fortuna Dusseldorf,15,3,0,0,1,0,0,3,14,H,13,2013-05-18,Hannover,D1,2,6,7,15,H,4,Hannover_Fortuna Dusseldorf_2012
+303,0,Bayern Munich,7,3,0,4,3,0,2,0,7,A,26,2013-05-18,M'gladbach,D1,13,5,1,11,H,10,M'gladbach_Bayern Munich_2012
+304,2,Werder Bremen,16,3,0,2,0,0,1,0,12,H,18,2013-05-18,Nurnberg,D1,4,5,3,16,A,2,Nurnberg_Werder Bremen_2012
+305,2,Mainz,17,2,0,2,2,0,2,0,13,D,15,2013-05-18,Stuttgart,D1,3,3,5,10,D,5,Stuttgart_Mainz_2012

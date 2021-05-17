@@ -1,0 +1,381 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,2,Paris SG,22,1,0,1,1,1,0,2,18,D,12,2013-08-09,Montpellier,F1,4,1,1,6,H,8,Montpellier_Paris SG_2013
+1,1,Monaco,16,0,0,2,0,0,0,0,11,A,13,2013-08-10,Bordeaux,F1,6,2,3,11,D,7,Bordeaux_Monaco_2013
+2,1,Sochaux,13,1,0,1,1,0,0,2,18,D,9,2013-08-10,Evian Thonon Gaillard,F1,6,8,5,15,H,5,Evian Thonon Gaillard_Sochaux_2013
+3,1,Lorient,18,1,1,0,1,0,0,1,18,H,6,2013-08-10,Lille,F1,3,3,4,6,H,3,Lille_Lorient_2013
+4,1,Nice,20,4,0,0,1,0,0,0,9,H,11,2013-08-10,Lyon,F1,5,6,2,12,H,5,Lyon_Nice_2013
+5,1,Bastia,14,2,1,0,1,1,0,3,14,H,9,2013-08-10,Nantes,F1,0,3,2,7,H,2,Nantes_Bastia_2013
+6,1,Reims,7,2,0,1,1,0,1,2,15,H,15,2013-08-10,Rennes,F1,5,6,4,13,D,8,Rennes_Reims_2013
+7,2,Toulouse,22,3,1,0,1,0,0,0,12,H,2,2013-08-10,Valenciennes,F1,1,7,6,19,H,0,Valenciennes_Toulouse_2013
+8,0,St Etienne,16,0,0,1,0,1,1,1,20,A,8,2013-08-11,Ajaccio,F1,2,1,1,7,A,3,Ajaccio_St Etienne_2013
+9,2,Marseille,16,1,0,3,0,0,3,4,19,A,16,2013-08-11,Guingamp,F1,7,5,9,13,A,3,Guingamp_Marseille_2013
+10,3,Lyon,14,1,0,3,1,0,2,0,19,A,15,2013-08-16,Sochaux,F1,8,8,8,11,A,5,Sochaux_Lyon_2013
+11,2,Valenciennes,13,2,0,0,0,0,0,2,15,H,7,2013-08-17,Bastia,F1,3,2,6,9,D,4,Bastia_Valenciennes_2013
+12,3,Evian Thonon Gaillard,11,2,0,0,1,0,0,1,12,H,16,2013-08-17,Marseille,F1,4,3,3,8,H,8,Marseille_Evian Thonon Gaillard_2013
+13,0,Rennes,12,2,1,1,1,0,1,1,19,H,4,2013-08-17,Nice,F1,3,5,5,15,D,0,Nice_Rennes_2013
+14,1,Lille,12,2,0,1,1,0,0,0,14,H,15,2013-08-17,Reims,F1,3,3,3,10,H,7,Reims_Lille_2013
+15,4,Guingamp,13,1,0,0,0,0,0,3,11,H,5,2013-08-17,St Etienne,F1,2,1,6,9,D,4,St Etienne_Guingamp_2013
+16,3,Bordeaux,16,1,1,1,1,0,1,1,17,D,8,2013-08-17,Toulouse,F1,4,6,6,12,D,2,Toulouse_Bordeaux_2013
+17,1,Nantes,8,2,0,1,1,0,1,1,19,H,8,2013-08-18,Lorient,F1,3,8,10,14,D,3,Lorient_Nantes_2013
+18,2,Montpellier,21,4,1,1,2,0,1,3,15,H,5,2013-08-18,Monaco,F1,3,7,9,13,H,1,Monaco_Montpellier_2013
+19,2,Ajaccio,17,1,0,1,0,0,1,3,11,D,1,2013-08-18,Paris SG,F1,1,15,12,37,A,1,Paris SG_Ajaccio_2013
+20,1,Toulouse,17,0,0,0,0,0,0,3,24,D,3,2013-08-23,Monaco,F1,0,5,4,21,D,1,Monaco_Toulouse_2013
+21,2,Bastia,13,1,0,0,1,0,0,2,17,H,4,2013-08-24,Bordeaux,F1,2,5,2,12,H,4,Bordeaux_Bastia_2013
+22,2,Rennes,10,1,0,2,0,0,2,3,14,A,11,2013-08-24,Evian Thonon Gaillard,F1,4,5,3,17,A,5,Evian Thonon Gaillard_Rennes_2013
+23,2,Lorient,17,2,0,0,1,0,0,2,17,H,11,2013-08-24,Guingamp,F1,5,3,6,10,H,5,Guingamp_Lorient_2013
+24,1,Reims,17,0,0,1,0,0,0,2,13,A,6,2013-08-24,Lyon,F1,2,5,7,19,D,1,Lyon_Reims_2013
+25,2,Sochaux,24,2,1,1,1,0,1,3,17,H,9,2013-08-24,Montpellier,F1,1,4,1,12,D,3,Montpellier_Sochaux_2013
+26,1,Marseille,22,0,0,1,0,0,0,3,15,A,18,2013-08-24,Valenciennes,F1,6,2,6,7,D,11,Valenciennes_Marseille_2013
+27,0,Nice,20,0,0,0,0,0,0,0,13,D,10,2013-08-25,Ajaccio,F1,2,2,5,5,D,3,Ajaccio_Nice_2013
+28,2,St Etienne,11,1,0,0,1,0,0,1,20,H,6,2013-08-25,Lille,F1,2,5,4,12,H,2,Lille_St Etienne_2013
+29,1,Paris SG,10,1,0,2,0,0,1,1,14,A,13,2013-08-25,Nantes,F1,6,3,8,13,A,6,Nantes_Paris SG_2013
+30,2,Toulouse,15,2,0,1,1,1,0,4,18,H,9,2013-08-31,Bastia,F1,3,4,4,7,H,3,Bastia_Toulouse_2013
+31,1,Lyon,10,2,0,1,2,0,0,1,13,H,6,2013-08-31,Evian Thonon Gaillard,F1,2,5,3,15,H,10,Evian Thonon Gaillard_Lyon_2013
+32,1,Valenciennes,9,1,1,0,1,0,0,1,19,H,8,2013-08-31,Lorient,F1,1,3,6,15,H,5,Lorient_Valenciennes_2013
+33,1,Guingamp,13,2,0,0,0,0,0,2,15,H,7,2013-08-31,Paris SG,F1,1,7,13,25,D,1,Paris SG_Guingamp_2013
+34,1,Nantes,11,0,0,0,0,0,0,0,3,D,9,2013-08-31,Reims,F1,2,2,4,7,D,0,Reims_Nantes_2013
+35,1,Lille,10,0,0,0,0,0,0,2,15,D,10,2013-08-31,Rennes,F1,1,2,2,11,D,2,Rennes_Lille_2013
+36,1,Ajaccio,8,0,0,0,0,0,0,1,11,D,9,2013-08-31,Sochaux,F1,2,5,5,17,D,2,Sochaux_Ajaccio_2013
+37,2,Monaco,16,1,0,2,1,0,0,3,13,A,12,2013-09-01,Marseille,F1,4,2,6,10,H,10,Marseille_Monaco_2013
+38,3,Montpellier,18,2,1,2,2,0,1,4,19,D,5,2013-09-01,Nice,F1,3,4,4,12,H,2,Nice_Montpellier_2013
+39,2,Bordeaux,17,2,0,1,1,0,0,1,10,H,13,2013-09-01,St Etienne,F1,5,5,4,12,H,4,St Etienne_Bordeaux_2013
+40,2,Paris SG,14,0,0,2,0,0,1,2,13,A,14,2013-09-13,Bordeaux,F1,7,1,1,6,A,5,Bordeaux_Paris SG_2013
+41,2,Evian Thonon Gaillard,10,2,0,3,0,0,2,3,20,A,12,2013-09-14,Ajaccio,F1,5,8,7,18,A,5,Ajaccio_Evian Thonon Gaillard_2013
+42,2,Bastia,19,1,0,1,0,0,0,3,18,D,11,2013-09-14,Guingamp,F1,1,5,1,7,D,1,Guingamp_Bastia_2013
+43,2,Reims,8,0,0,0,0,0,0,2,8,D,9,2013-09-14,Montpellier,F1,3,3,4,16,D,3,Montpellier_Reims_2013
+44,0,Sochaux,12,1,0,0,0,0,0,1,8,H,1,2013-09-14,Nantes,F1,0,5,3,11,D,2,Nantes_Sochaux_2013
+45,2,Marseille,17,1,0,1,0,0,0,2,13,D,15,2013-09-14,Toulouse,F1,8,4,6,20,D,5,Toulouse_Marseille_2013
+46,2,St Etienne,11,1,0,3,0,0,1,1,9,A,10,2013-09-14,Valenciennes,F1,4,3,5,10,A,0,Valenciennes_St Etienne_2013
+47,3,Nice,16,0,0,2,0,0,2,3,16,A,5,2013-09-15,Lille,F1,4,9,10,22,A,2,Lille_Nice_2013
+48,0,Rennes,16,0,0,0,0,0,0,1,14,D,5,2013-09-15,Lyon,F1,3,6,8,18,D,2,Lyon_Rennes_2013
+49,3,Lorient,13,1,0,0,1,0,0,3,16,H,6,2013-09-15,Monaco,F1,0,3,2,11,H,1,Monaco_Lorient_2013
+50,2,Toulouse,19,1,0,2,1,0,0,2,17,A,11,2013-09-20,St Etienne,F1,6,3,4,18,H,5,St Etienne_Toulouse_2013
+51,2,Marseille,19,0,0,0,0,0,0,0,10,D,11,2013-09-21,Bastia,F1,1,5,4,12,D,4,Bastia_Marseille_2013
+52,2,Montpellier,12,2,1,2,0,0,1,3,11,D,8,2013-09-21,Evian Thonon Gaillard,F1,3,5,3,12,A,1,Evian Thonon Gaillard_Montpellier_2013
+53,3,Guingamp,15,1,0,1,0,0,1,1,12,D,15,2013-09-21,Reims,F1,4,3,7,15,A,6,Reims_Guingamp_2013
+54,2,Ajaccio,20,2,0,0,2,0,0,2,13,H,17,2013-09-21,Rennes,F1,2,7,6,14,H,6,Rennes_Ajaccio_2013
+55,2,Lille,18,0,0,2,0,0,2,1,14,A,15,2013-09-21,Sochaux,F1,8,6,4,14,A,4,Sochaux_Lille_2013
+56,1,Bordeaux,13,3,0,3,2,0,3,2,14,D,11,2013-09-22,Lorient,F1,3,10,3,16,A,4,Lorient_Bordeaux_2013
+57,0,Nantes,18,3,0,1,1,0,1,0,12,H,9,2013-09-22,Lyon,F1,2,5,6,11,D,4,Lyon_Nantes_2013
+58,1,Valenciennes,13,4,0,0,2,0,0,2,14,H,8,2013-09-22,Nice,F1,1,5,4,10,H,3,Nice_Valenciennes_2013
+59,1,Monaco,5,1,0,1,1,0,1,3,18,D,15,2013-09-22,Paris SG,F1,4,2,6,18,D,2,Paris SG_Monaco_2013
+60,1,Evian Thonon Gaillard,16,3,0,0,2,0,0,2,12,H,6,2013-09-24,Lille,F1,1,5,4,12,H,2,Lille_Evian Thonon Gaillard_2013
+61,1,St Etienne,10,2,0,1,2,0,1,1,17,H,11,2013-09-24,Marseille,F1,2,5,8,12,H,11,Marseille_St Etienne_2013
+62,5,Lyon,18,2,1,1,1,0,0,2,18,H,15,2013-09-25,Ajaccio,F1,8,3,1,7,H,6,Ajaccio_Lyon_2013
+63,1,Reims,15,0,0,0,0,0,0,2,23,D,9,2013-09-25,Bordeaux,F1,3,7,15,20,D,4,Bordeaux_Reims_2013
+64,2,Sochaux,14,5,0,1,3,0,0,4,18,H,15,2013-09-25,Guingamp,F1,6,7,3,14,H,2,Guingamp_Sochaux_2013
+65,1,Bastia,9,3,0,0,2,0,0,1,14,H,12,2013-09-25,Monaco,F1,5,9,10,19,H,5,Monaco_Bastia_2013
+66,1,Nice,10,2,0,0,1,0,0,1,12,H,4,2013-09-25,Nantes,F1,0,6,8,16,H,0,Nantes_Nice_2013
+67,1,Lorient,13,1,0,0,0,0,0,2,17,H,11,2013-09-25,Toulouse,F1,4,4,6,14,D,3,Toulouse_Lorient_2013
+68,1,Paris SG,13,0,0,1,0,0,1,4,10,A,6,2013-09-25,Valenciennes,F1,2,3,8,14,A,4,Valenciennes_Paris SG_2013
+69,3,Rennes,18,0,0,0,0,0,0,1,14,D,8,2013-09-26,Montpellier,F1,3,4,7,20,D,2,Montpellier_Rennes_2013
+70,3,Bordeaux,23,1,1,1,1,0,0,3,17,D,17,2013-09-28,Evian Thonon Gaillard,F1,7,2,6,11,H,8,Evian Thonon Gaillard_Bordeaux_2013
+71,1,Marseille,6,0,0,2,0,0,0,1,11,A,12,2013-09-28,Lorient,F1,4,6,6,15,D,2,Lorient_Marseille_2013
+72,3,Lille,15,0,0,0,0,0,0,2,12,D,14,2013-09-28,Lyon,F1,5,1,1,6,D,7,Lyon_Lille_2013
+73,1,Guingamp,17,1,0,0,0,0,0,2,16,H,10,2013-09-28,Nice,F1,4,7,10,16,D,3,Nice_Guingamp_2013
+74,0,Toulouse,12,2,0,0,1,0,0,3,15,H,7,2013-09-28,Paris SG,F1,3,4,6,14,H,2,Paris SG_Toulouse_2013
+75,4,Valenciennes,14,2,0,0,2,0,0,3,16,H,15,2013-09-28,Sochaux,F1,2,5,4,8,H,12,Sochaux_Valenciennes_2013
+76,2,Bastia,5,2,0,2,1,0,0,4,15,D,4,2013-09-28,St Etienne,F1,2,7,5,20,H,1,St Etienne_Bastia_2013
+77,3,Montpellier,16,1,1,1,1,1,1,1,15,D,12,2013-09-29,Ajaccio,F1,7,2,6,10,D,6,Ajaccio_Montpellier_2013
+78,1,Monaco,15,1,0,1,1,1,1,1,12,D,16,2013-09-29,Reims,F1,7,3,6,13,D,7,Reims_Monaco_2013
+79,1,Nantes,9,1,0,3,0,0,2,2,16,A,14,2013-09-29,Rennes,F1,5,4,2,6,A,4,Rennes_Nantes_2013
+80,2,Lorient,15,4,1,1,2,0,1,4,20,H,9,2013-10-04,Bastia,F1,2,10,4,15,H,6,Bastia_Lorient_2013
+81,0,Rennes,17,2,1,0,0,0,0,1,15,H,6,2013-10-05,Guingamp,F1,2,8,9,22,D,3,Guingamp_Rennes_2013
+82,1,Ajaccio,14,3,0,0,1,0,0,1,11,H,6,2013-10-05,Lille,F1,1,6,8,18,H,4,Lille_Ajaccio_2013
+83,1,St Etienne,14,2,0,1,1,0,0,6,17,H,8,2013-10-05,Monaco,F1,5,6,7,11,H,0,Monaco_St Etienne_2013
+84,1,Evian Thonon Gaillard,11,3,0,0,2,0,0,2,13,H,11,2013-10-05,Nantes,F1,2,4,6,7,H,4,Nantes_Evian Thonon Gaillard_2013
+85,1,Nice,18,1,0,0,1,0,0,1,13,H,10,2013-10-05,Toulouse,F1,3,2,1,8,H,4,Toulouse_Nice_2013
+86,0,Reims,15,1,0,1,0,0,1,2,16,D,9,2013-10-05,Valenciennes,F1,4,11,22,18,A,4,Valenciennes_Reims_2013
+87,3,Sochaux,11,4,0,1,2,0,1,2,17,H,10,2013-10-06,Bordeaux,F1,1,7,4,18,H,4,Bordeaux_Sochaux_2013
+88,3,Paris SG,23,1,1,2,1,0,1,4,12,A,4,2013-10-06,Marseille,F1,4,6,6,11,D,1,Marseille_Paris SG_2013
+89,2,Lyon,16,5,1,1,2,0,0,2,19,H,18,2013-10-06,Montpellier,F1,4,10,3,15,H,5,Montpellier_Lyon_2013
+90,2,Marseille,16,1,0,0,1,0,0,2,14,H,19,2013-10-18,Nice,F1,6,3,2,7,H,14,Nice_Marseille_2013
+91,2,Toulouse,18,1,0,2,0,1,1,2,12,A,13,2013-10-18,Reims,F1,7,5,4,11,A,4,Reims_Toulouse_2013
+92,2,Nantes,18,0,0,1,0,0,0,3,16,A,16,2013-10-19,Ajaccio,F1,5,3,7,7,D,6,Ajaccio_Nantes_2013
+93,2,Guingamp,17,1,0,2,1,0,0,0,12,A,9,2013-10-19,Evian Thonon Gaillard,F1,5,2,4,10,H,6,Evian Thonon Gaillard_Guingamp_2013
+94,0,Lille,7,0,0,1,0,0,1,3,17,A,9,2013-10-19,Montpellier,F1,2,4,5,11,A,4,Montpellier_Lille_2013
+95,0,Bastia,9,4,0,0,2,0,0,2,15,H,11,2013-10-19,Paris SG,F1,2,8,6,20,H,3,Paris SG_Bastia_2013
+96,1,Valenciennes,7,2,0,2,1,0,0,0,12,D,13,2013-10-19,Rennes,F1,6,5,1,13,H,8,Rennes_Valenciennes_2013
+97,1,Bordeaux,16,1,0,1,0,1,0,2,15,D,9,2013-10-20,Lyon,F1,1,6,5,18,D,5,Lyon_Bordeaux_2013
+98,2,Monaco,16,2,0,2,0,0,2,2,18,D,12,2013-10-20,Sochaux,F1,5,7,9,16,A,3,Sochaux_Monaco_2013
+99,3,Lorient,19,3,0,2,2,0,1,2,11,H,11,2013-10-20,St Etienne,F1,5,7,4,19,H,4,St Etienne_Lorient_2013
+100,0,Lille,11,0,0,1,0,1,1,4,19,A,12,2013-10-25,Nantes,F1,4,2,5,7,A,1,Nantes_Lille_2013
+101,2,Nice,13,1,1,0,1,1,0,3,17,H,13,2013-10-26,Bastia,F1,4,3,4,9,H,3,Bastia_Nice_2013
+102,2,Ajaccio,19,2,0,1,0,0,1,4,19,H,13,2013-10-26,Guingamp,F1,4,6,8,17,A,2,Guingamp_Ajaccio_2013
+103,1,Sochaux,18,2,0,1,1,0,0,1,9,H,7,2013-10-26,Lorient,F1,2,6,4,10,H,3,Lorient_Sochaux_2013
+104,2,Reims,13,2,0,3,0,0,2,0,16,A,8,2013-10-26,Marseille,F1,4,5,8,16,A,5,Marseille_Reims_2013
+105,1,Rennes,11,0,0,5,0,0,3,1,15,A,14,2013-10-26,Toulouse,F1,10,2,4,16,A,2,Toulouse_Rennes_2013
+106,1,Evian Thonon Gaillard,10,0,0,1,0,0,0,3,11,A,5,2013-10-26,Valenciennes,F1,3,2,7,10,D,4,Valenciennes_Evian Thonon Gaillard_2013
+107,3,Montpellier,21,2,1,0,0,0,0,0,9,H,5,2013-10-27,Bordeaux,F1,1,7,6,16,D,3,Bordeaux_Montpellier_2013
+108,1,Lyon,12,2,0,1,2,0,0,3,17,H,7,2013-10-27,Monaco,F1,2,4,2,10,H,6,Monaco_Lyon_2013
+109,2,Paris SG,11,2,0,2,1,1,0,3,12,D,21,2013-10-27,St Etienne,F1,4,3,5,9,H,7,St Etienne_Paris SG_2013
+110,0,Lorient,8,4,0,0,3,0,0,0,11,H,9,2013-11-01,Paris SG,F1,2,10,6,17,H,6,Paris SG_Lorient_2013
+111,2,Valenciennes,26,1,0,3,1,0,1,2,20,A,14,2013-11-02,Ajaccio,F1,5,5,2,13,D,6,Ajaccio_Valenciennes_2013
+112,2,Toulouse,18,2,0,1,0,0,0,3,12,H,9,2013-11-02,Evian Thonon Gaillard,F1,4,3,4,14,D,4,Evian Thonon Gaillard_Toulouse_2013
+113,1,Guingamp,13,2,1,0,2,0,0,2,9,H,8,2013-11-02,Lyon,F1,1,7,13,14,H,5,Lyon_Guingamp_2013
+114,1,Bastia,14,4,0,2,2,0,0,1,11,H,12,2013-11-02,Reims,F1,8,9,5,15,H,4,Reims_Bastia_2013
+115,2,Marseille,8,1,0,1,1,0,1,1,17,D,11,2013-11-02,Rennes,F1,3,4,6,11,D,5,Rennes_Marseille_2013
+116,2,St Etienne,17,0,1,0,0,1,0,1,10,D,7,2013-11-02,Sochaux,F1,2,5,9,19,D,2,Sochaux_St Etienne_2013
+117,2,Monaco,19,2,0,0,1,0,0,2,20,H,15,2013-11-03,Lille,F1,7,3,5,7,H,8,Lille_Monaco_2013
+118,0,Nantes,4,1,0,1,0,0,1,1,20,D,5,2013-11-03,Montpellier,F1,2,5,6,18,A,4,Montpellier_Nantes_2013
+119,3,Bordeaux,15,1,0,2,0,0,1,2,14,A,11,2013-11-03,Nice,F1,4,1,7,8,A,2,Nice_Bordeaux_2013
+120,1,Evian Thonon Gaillard,8,1,0,1,1,0,1,2,21,D,9,2013-11-08,Monaco,F1,5,2,12,15,D,2,Monaco_Evian Thonon Gaillard_2013
+121,1,Rennes,16,1,0,0,1,0,0,2,10,H,10,2013-11-09,Bastia,F1,3,5,9,15,H,4,Bastia_Rennes_2013
+122,1,Lille,20,0,0,0,0,1,0,3,18,D,13,2013-11-09,Guingamp,F1,3,1,4,9,D,5,Guingamp_Lille_2013
+123,0,Reims,12,0,0,0,0,1,0,1,9,D,9,2013-11-09,Lorient,F1,1,3,10,18,D,4,Lorient_Reims_2013
+124,0,Nice,11,3,0,1,1,0,0,1,14,H,14,2013-11-09,Paris SG,F1,2,6,6,16,H,10,Paris SG_Nice_2013
+125,2,Ajaccio,11,1,0,1,1,0,1,2,19,D,4,2013-11-09,Toulouse,F1,2,7,11,25,D,0,Toulouse_Ajaccio_2013
+126,3,Montpellier,20,1,1,1,1,0,0,4,17,D,11,2013-11-09,Valenciennes,F1,2,3,8,11,H,7,Valenciennes_Montpellier_2013
+127,1,Nantes,7,0,0,3,0,0,1,2,13,A,11,2013-11-10,Bordeaux,F1,4,7,8,16,A,4,Bordeaux_Nantes_2013
+128,0,Sochaux,12,2,0,1,1,0,0,1,15,H,8,2013-11-10,Marseille,F1,2,4,5,13,H,4,Marseille_Sochaux_2013
+129,2,Lyon,10,1,0,2,0,0,0,3,18,A,9,2013-11-10,St Etienne,F1,5,3,6,13,D,3,St Etienne_Lyon_2013
+130,4,Marseille,17,1,0,3,1,0,2,1,19,A,18,2013-11-22,Ajaccio,F1,7,3,5,9,A,2,Ajaccio_Marseille_2013
+131,3,Lorient,12,0,0,4,0,1,2,2,10,A,11,2013-11-23,Evian Thonon Gaillard,F1,5,1,5,6,A,2,Evian Thonon Gaillard_Lorient_2013
+132,1,Valenciennes,6,1,0,1,1,0,0,2,12,D,13,2013-11-23,Lyon,F1,5,5,4,17,H,2,Lyon_Valenciennes_2013
+133,2,Guingamp,15,1,0,1,0,0,0,2,22,D,8,2013-11-23,Montpellier,F1,2,3,10,11,D,4,Montpellier_Guingamp_2013
+134,3,Paris SG,12,0,0,3,0,0,1,2,15,A,15,2013-11-23,Reims,F1,9,5,7,15,A,1,Reims_Paris SG_2013
+135,0,Bordeaux,8,1,0,1,0,0,0,1,12,D,11,2013-11-23,Rennes,F1,6,5,7,16,D,3,Rennes_Bordeaux_2013
+136,0,Bastia,11,1,0,1,0,0,1,2,7,D,10,2013-11-23,Sochaux,F1,3,4,5,16,A,5,Sochaux_Bastia_2013
+137,1,Toulouse,14,1,1,0,0,0,0,3,17,H,5,2013-11-24,Lille,F1,3,1,9,16,D,5,Lille_Toulouse_2013
+138,3,Monaco,16,0,0,1,0,0,0,1,9,A,12,2013-11-24,Nantes,F1,5,3,4,10,D,5,Nantes_Monaco_2013
+139,1,St Etienne,6,0,0,1,0,0,1,1,17,A,9,2013-11-24,Nice,F1,4,2,5,11,A,3,Nice_St Etienne_2013
+140,2,Montpellier,18,2,0,0,1,0,0,0,11,H,7,2013-11-29,Marseille,F1,2,7,9,14,H,3,Marseille_Montpellier_2013
+141,1,Nantes,9,1,0,0,0,0,0,4,24,H,12,2013-11-30,Guingamp,F1,3,3,8,11,D,7,Guingamp_Nantes_2013
+142,0,Nice,12,3,0,0,1,0,0,0,13,H,16,2013-11-30,Lorient,F1,3,5,2,9,H,6,Lorient_Nice_2013
+143,1,Rennes,15,2,0,0,2,0,0,0,11,H,9,2013-11-30,Monaco,F1,0,7,8,21,H,4,Monaco_Rennes_2013
+144,1,Reims,8,4,0,0,0,0,0,2,17,H,9,2013-11-30,St Etienne,F1,2,7,8,19,D,4,St Etienne_Reims_2013
+145,2,Sochaux,15,5,0,1,2,0,1,2,19,H,12,2013-11-30,Toulouse,F1,3,6,6,11,H,4,Toulouse_Sochaux_2013
+146,2,Lille,13,0,1,1,0,0,0,0,10,A,9,2013-11-30,Valenciennes,F1,1,2,10,9,D,1,Valenciennes_Lille_2013
+147,1,Evian Thonon Gaillard,10,2,0,0,0,0,0,2,12,H,6,2013-12-01,Bastia,F1,3,6,4,14,D,5,Bastia_Evian Thonon Gaillard_2013
+148,2,Ajaccio,16,4,0,0,1,0,0,4,17,H,6,2013-12-01,Bordeaux,F1,1,5,3,10,H,5,Bordeaux_Ajaccio_2013
+149,2,Lyon,10,4,0,0,2,0,0,4,18,H,6,2013-12-01,Paris SG,F1,1,6,5,13,H,3,Paris SG_Lyon_2013
+150,0,Marseille,18,1,0,0,0,0,0,0,16,H,11,2013-12-03,Lille,F1,4,4,9,12,D,4,Lille_Marseille_2013
+151,1,Valenciennes,9,2,0,1,0,0,0,0,11,H,11,2013-12-03,Nantes,F1,3,6,6,12,D,4,Nantes_Valenciennes_2013
+152,1,Monaco,19,0,0,3,0,0,2,0,15,A,13,2013-12-03,Nice,F1,5,4,5,6,A,3,Nice_Monaco_2013
+153,2,Bastia,16,1,0,1,0,1,1,1,16,D,15,2013-12-04,Ajaccio,F1,5,2,1,4,A,2,Ajaccio_Bastia_2013
+154,1,Paris SG,13,2,0,0,0,0,0,0,8,H,17,2013-12-04,Evian Thonon Gaillard,F1,3,3,6,13,D,10,Evian Thonon Gaillard_Paris SG_2013
+155,1,Bordeaux,13,0,1,1,0,1,1,1,13,A,9,2013-12-04,Guingamp,F1,6,2,7,7,A,0,Guingamp_Bordeaux_2013
+156,2,Lorient,13,0,0,2,0,2,0,1,11,A,13,2013-12-04,Montpellier,F1,4,3,9,13,D,6,Montpellier_Lorient_2013
+157,1,St Etienne,8,3,0,1,1,0,0,2,12,H,27,2013-12-04,Rennes,F1,11,5,4,11,H,10,Rennes_St Etienne_2013
+158,0,Reims,9,0,0,2,0,0,1,1,14,A,11,2013-12-04,Sochaux,F1,5,2,9,9,A,3,Sochaux_Reims_2013
+159,2,Toulouse,15,1,0,1,1,0,0,2,14,D,7,2013-12-05,Lyon,F1,3,5,7,15,H,2,Lyon_Toulouse_2013
+160,2,Nantes,6,0,0,1,0,0,1,1,14,A,10,2013-12-06,Marseille,F1,3,6,10,19,A,5,Marseille_Nantes_2013
+161,2,Rennes,15,2,1,0,1,0,0,0,11,H,5,2013-12-07,Lorient,F1,2,7,6,17,H,4,Lorient_Rennes_2013
+162,3,Sochaux,17,5,0,0,1,0,0,3,13,H,5,2013-12-07,Paris SG,F1,2,8,5,18,H,5,Paris SG_Sochaux_2013
+163,1,Nice,12,1,0,0,0,0,0,2,15,H,13,2013-12-07,Reims,F1,2,3,4,15,D,4,Reims_Nice_2013
+164,1,Guingamp,22,1,0,1,1,0,0,2,16,D,12,2013-12-07,Valenciennes,F1,2,3,8,11,H,1,Valenciennes_Guingamp_2013
+165,3,Lyon,13,1,0,3,1,1,0,1,13,A,8,2013-12-08,Bastia,F1,3,2,0,5,H,1,Bastia_Lyon_2013
+166,0,Lille,14,1,0,0,1,1,0,1,14,H,5,2013-12-08,Bordeaux,F1,1,4,3,10,H,2,Bordeaux_Lille_2013
+167,1,Ajaccio,11,1,1,0,0,0,0,0,15,H,5,2013-12-08,Monaco,F1,3,5,10,22,D,2,Monaco_Ajaccio_2013
+168,3,Montpellier,14,1,1,1,0,1,1,1,20,D,12,2013-12-08,Toulouse,F1,3,4,10,15,A,3,Toulouse_Montpellier_2013
+169,2,St Etienne,11,0,0,1,0,0,0,3,15,A,14,2013-12-13,Montpellier,F1,3,0,7,5,D,1,Montpellier_St Etienne_2013
+170,1,Lorient,13,1,0,2,1,0,1,2,10,A,10,2013-12-14,Ajaccio,F1,2,6,5,12,D,6,Ajaccio_Lorient_2013
+171,0,Reims,12,1,0,1,0,0,0,1,18,D,11,2013-12-14,Evian Thonon Gaillard,F1,5,5,2,16,D,3,Evian Thonon Gaillard_Reims_2013
+172,1,Monaco,11,0,0,2,0,1,2,2,13,A,17,2013-12-14,Guingamp,F1,3,3,4,10,A,7,Guingamp_Monaco_2013
+173,2,Toulouse,18,1,0,2,0,0,0,2,5,A,11,2013-12-14,Nantes,F1,4,2,8,13,D,5,Nantes_Toulouse_2013
+174,1,Sochaux,13,1,0,0,1,0,0,3,22,H,8,2013-12-14,Nice,F1,0,6,8,11,H,5,Nice_Sochaux_2013
+175,1,Paris SG,11,1,0,3,0,0,1,1,19,A,7,2013-12-14,Rennes,F1,5,2,9,6,A,4,Rennes_Paris SG_2013
+176,1,Valenciennes,12,2,0,1,0,0,0,2,12,H,5,2013-12-15,Bordeaux,F1,3,4,5,11,D,2,Bordeaux_Valenciennes_2013
+177,3,Bastia,12,2,0,1,2,0,1,1,11,H,9,2013-12-15,Lille,F1,4,7,10,17,H,5,Lille_Bastia_2013
+178,2,Marseille,10,2,0,2,2,0,1,3,16,D,11,2013-12-15,Lyon,F1,5,8,5,15,H,1,Lyon_Marseille_2013
+179,1,Valenciennes,10,1,0,2,0,0,1,5,23,A,5,2013-12-20,Monaco,F1,4,10,13,20,A,2,Monaco_Valenciennes_2013
+180,2,Montpellier,13,0,0,0,0,0,0,1,14,D,7,2013-12-21,Bastia,F1,2,5,3,13,D,2,Bastia_Montpellier_2013
+181,3,Evian Thonon Gaillard,11,3,0,1,0,0,1,2,15,H,10,2013-12-21,Nice,F1,5,7,9,20,A,3,Nice_Evian Thonon Gaillard_2013
+182,1,Ajaccio,16,4,0,1,0,0,0,2,14,H,15,2013-12-21,Reims,F1,4,8,7,18,D,7,Reims_Ajaccio_2013
+183,1,Rennes,17,2,0,1,1,0,1,2,11,H,14,2013-12-21,Sochaux,F1,5,4,1,7,D,3,Sochaux_Rennes_2013
+184,1,Nantes,15,2,0,0,1,0,0,2,11,H,12,2013-12-21,St Etienne,F1,2,6,5,16,H,7,St Etienne_Nantes_2013
+185,1,Guingamp,11,0,0,0,0,0,0,2,15,D,6,2013-12-21,Toulouse,F1,1,3,3,13,D,6,Toulouse_Guingamp_2013
+186,0,Lyon,11,2,0,2,0,0,1,0,10,D,7,2013-12-22,Lorient,F1,3,4,5,7,A,5,Lorient_Lyon_2013
+187,2,Bordeaux,14,2,0,2,0,0,1,1,7,D,10,2013-12-22,Marseille,F1,2,12,5,17,A,6,Marseille_Bordeaux_2013
+188,4,Lille,17,2,0,2,1,0,1,4,11,D,6,2013-12-22,Paris SG,F1,5,6,11,17,D,3,Paris SG_Lille_2013
+189,0,Evian Thonon Gaillard,5,1,0,0,1,0,0,3,15,H,11,2014-01-08,St Etienne,F1,1,7,5,16,H,6,St Etienne_Evian Thonon Gaillard_2013
+190,1,Monaco,14,1,0,1,0,0,0,4,18,D,9,2014-01-10,Montpellier,F1,4,5,4,8,D,3,Montpellier_Monaco_2013
+191,2,Paris SG,17,1,0,2,1,0,1,2,12,A,19,2014-01-11,Ajaccio,F1,8,2,1,6,D,6,Ajaccio_Paris SG_2013
+192,2,Toulouse,19,0,1,1,0,1,0,1,8,A,11,2014-01-11,Bordeaux,F1,2,3,5,11,D,1,Bordeaux_Toulouse_2013
+193,0,St Etienne,14,0,0,0,0,0,0,1,21,D,9,2014-01-11,Guingamp,F1,4,3,5,12,D,4,Guingamp_St Etienne_2013
+194,1,Sochaux,19,2,0,0,0,0,0,1,19,H,10,2014-01-11,Lyon,F1,2,5,1,18,D,7,Lyon_Sochaux_2013
+195,2,Nice,12,0,0,0,0,0,0,1,7,D,6,2014-01-11,Rennes,F1,0,4,5,19,D,1,Rennes_Nice_2013
+196,0,Bastia,8,3,0,2,2,0,0,0,10,H,16,2014-01-11,Valenciennes,F1,3,3,4,8,H,4,Valenciennes_Bastia_2013
+197,0,Marseille,11,1,0,2,1,0,2,0,12,A,9,2014-01-12,Evian Thonon Gaillard,F1,4,6,10,14,A,2,Evian Thonon Gaillard_Marseille_2013
+198,1,Reims,10,1,0,2,0,0,0,1,16,A,8,2014-01-12,Lille,F1,4,5,5,18,D,2,Lille_Reims_2013
+199,0,Lorient,10,1,0,0,0,0,0,0,12,H,11,2014-01-12,Nantes,F1,3,4,8,10,D,8,Nantes_Lorient_2013
+200,1,Lille,16,2,1,0,0,0,0,1,15,H,12,2014-01-17,St Etienne,F1,3,5,2,11,D,7,St Etienne_Lille_2013
+201,2,Bordeaux,14,1,0,0,1,0,0,1,11,H,14,2014-01-18,Bastia,F1,4,5,4,11,H,5,Bastia_Bordeaux_2013
+202,3,Guingamp,15,2,0,0,2,0,0,0,13,H,15,2014-01-18,Lorient,F1,3,3,2,10,H,5,Lorient_Guingamp_2013
+203,3,Ajaccio,20,2,0,0,1,0,0,3,16,H,14,2014-01-18,Nice,F1,3,7,5,12,H,2,Nice_Ajaccio_2013
+204,1,Evian Thonon Gaillard,7,0,0,0,0,0,0,2,14,D,11,2014-01-18,Rennes,F1,1,5,9,13,D,4,Rennes_Evian Thonon Gaillard_2013
+205,1,Montpellier,13,0,0,2,0,1,1,0,7,A,12,2014-01-18,Sochaux,F1,4,0,1,6,A,4,Sochaux_Montpellier_2013
+206,1,Nantes,4,5,0,0,2,0,0,0,8,H,5,2014-01-19,Paris SG,F1,0,10,4,16,H,3,Paris SG_Nantes_2013
+207,2,Lyon,11,0,0,2,0,0,1,1,15,A,14,2014-01-19,Reims,F1,7,3,3,11,A,5,Reims_Lyon_2013
+208,1,Monaco,12,0,0,2,0,0,1,2,25,A,14,2014-01-19,Toulouse,F1,6,4,6,12,A,6,Toulouse_Monaco_2013
+209,1,Rennes,7,1,0,1,1,0,1,0,18,D,9,2014-01-24,Lille,F1,3,10,11,21,D,0,Lille_Rennes_2013
+210,0,Sochaux,21,1,0,1,1,0,0,1,19,D,10,2014-01-25,Ajaccio,F1,3,4,2,6,H,5,Ajaccio_Sochaux_2013
+211,1,Paris SG,13,1,0,1,0,0,0,1,13,D,14,2014-01-25,Guingamp,F1,5,3,6,10,D,7,Guingamp_Paris SG_2013
+212,1,Nice,11,3,0,1,1,0,0,1,10,H,4,2014-01-25,Montpellier,F1,1,10,6,23,H,2,Montpellier_Nice_2013
+213,2,Reims,14,0,0,0,0,0,0,2,11,D,11,2014-01-25,Nantes,F1,1,4,4,14,D,2,Nantes_Reims_2013
+214,1,Lorient,8,1,0,1,0,0,1,1,13,D,15,2014-01-25,Valenciennes,F1,4,4,4,13,A,11,Valenciennes_Lorient_2013
+215,0,St Etienne,13,2,0,0,1,0,0,4,18,H,5,2014-01-26,Bordeaux,F1,2,3,7,6,H,6,Bordeaux_St Etienne_2013
+216,0,Evian Thonon Gaillard,14,3,1,0,2,0,0,0,8,H,9,2014-01-26,Lyon,F1,2,5,3,12,H,2,Lyon_Evian Thonon Gaillard_2013
+217,1,Marseille,15,2,0,0,1,0,0,2,12,H,12,2014-01-26,Monaco,F1,8,7,3,16,H,5,Monaco_Marseille_2013
+218,0,Valenciennes,13,2,0,1,1,0,1,2,15,H,8,2014-01-29,Marseille,F1,3,3,3,12,D,9,Marseille_Valenciennes_2013
+219,0,Bordeaux,11,2,0,0,0,0,0,0,11,H,4,2014-01-31,Paris SG,F1,3,4,8,21,D,2,Paris SG_Bordeaux_2013
+220,2,Guingamp,12,3,0,2,0,0,0,2,19,H,9,2014-02-01,Bastia,F1,5,7,7,14,D,6,Bastia_Guingamp_2013
+221,1,Ajaccio,23,1,0,1,0,0,0,1,20,D,7,2014-02-01,Evian Thonon Gaillard,F1,2,3,6,15,D,2,Evian Thonon Gaillard_Ajaccio_2013
+222,2,Monaco,13,2,0,2,1,0,1,1,12,D,14,2014-02-01,Lorient,F1,6,5,2,15,D,4,Lorient_Monaco_2013
+223,3,Montpellier,11,2,0,4,0,0,1,2,12,A,18,2014-02-01,Reims,F1,8,3,6,11,A,5,Reims_Montpellier_2013
+224,0,Nantes,8,1,0,0,1,0,0,1,16,H,14,2014-02-01,Sochaux,F1,4,3,2,7,H,10,Sochaux_Nantes_2013
+225,1,Valenciennes,18,3,0,0,1,0,0,3,15,H,7,2014-02-01,St Etienne,F1,2,6,5,17,H,4,St Etienne_Valenciennes_2013
+226,1,Toulouse,12,2,0,2,2,0,1,3,16,D,7,2014-02-02,Marseille,F1,3,3,2,15,H,7,Marseille_Toulouse_2013
+227,1,Lille,13,1,0,0,1,0,0,1,14,H,13,2014-02-02,Nice,F1,3,4,4,6,H,3,Nice_Lille_2013
+228,0,Lyon,6,2,1,0,1,0,0,1,15,H,22,2014-02-02,Rennes,F1,2,3,6,8,H,6,Rennes_Lyon_2013
+229,4,St Etienne,14,0,0,0,0,0,0,2,19,D,9,2014-02-07,Toulouse,F1,3,2,4,6,D,3,Toulouse_St Etienne_2013
+230,1,Rennes,16,3,0,1,2,0,1,1,15,H,7,2014-02-08,Ajaccio,F1,5,7,5,12,H,6,Ajaccio_Rennes_2013
+231,1,Reims,10,1,0,2,0,0,0,2,16,A,10,2014-02-08,Guingamp,F1,4,5,3,20,D,3,Guingamp_Reims_2013
+232,0,Sochaux,14,2,0,0,1,0,0,2,22,H,5,2014-02-08,Lille,F1,1,12,8,21,H,3,Lille_Sochaux_2013
+233,1,Bastia,16,3,0,0,2,0,0,2,16,H,5,2014-02-08,Marseille,F1,1,5,3,14,H,1,Marseille_Bastia_2013
+234,0,Evian Thonon Gaillard,7,1,0,1,1,1,1,2,15,D,11,2014-02-08,Montpellier,F1,4,4,6,12,D,3,Montpellier_Evian Thonon Gaillard_2013
+235,2,Nice,8,2,0,1,1,0,0,3,14,H,7,2014-02-08,Valenciennes,F1,3,9,10,16,H,4,Valenciennes_Nice_2013
+236,2,Paris SG,16,1,0,1,0,0,1,1,14,D,12,2014-02-09,Monaco,F1,6,3,9,16,A,8,Monaco_Paris SG_2013
+237,3,Lyon,14,1,0,2,0,1,1,1,12,A,12,2014-02-09,Nantes,F1,6,3,6,8,A,4,Nantes_Lyon_2013
+238,2,Bastia,15,1,0,3,1,1,2,2,13,A,9,2014-02-11,Toulouse,F1,4,2,3,9,A,3,Toulouse_Bastia_2013
+239,1,Valenciennes,16,3,0,0,1,0,0,0,10,H,10,2014-02-14,Paris SG,F1,2,7,3,19,H,6,Paris SG_Valenciennes_2013
+240,3,Monaco,20,0,0,2,0,0,1,1,21,A,12,2014-02-15,Bastia,F1,4,2,6,9,A,3,Bastia_Monaco_2013
+241,2,Toulouse,10,1,0,3,1,1,0,2,14,A,14,2014-02-15,Lorient,F1,6,4,9,8,H,3,Lorient_Toulouse_2013
+242,1,Nantes,15,0,0,0,0,0,0,4,18,D,11,2014-02-15,Nice,F1,0,2,4,10,D,3,Nice_Nantes_2013
+243,0,Bordeaux,14,1,0,0,0,0,0,1,10,H,18,2014-02-15,Reims,F1,6,6,4,9,D,9,Reims_Bordeaux_2013
+244,2,Montpellier,13,2,0,2,1,0,0,1,10,D,16,2014-02-15,Rennes,F1,5,4,4,12,H,12,Rennes_Montpellier_2013
+245,3,Guingamp,17,1,0,0,0,0,0,2,16,H,15,2014-02-15,Sochaux,F1,1,5,12,21,D,3,Sochaux_Guingamp_2013
+246,3,Lille,18,2,0,2,1,0,1,1,9,D,10,2014-02-16,Evian Thonon Gaillard,F1,5,4,1,7,D,3,Evian Thonon Gaillard_Lille_2013
+247,1,Ajaccio,13,3,0,1,1,0,0,2,15,H,10,2014-02-16,Lyon,F1,2,9,7,16,H,1,Lyon_Ajaccio_2013
+248,1,Marseille,13,1,0,1,0,0,0,3,14,D,9,2014-02-16,St Etienne,F1,2,4,6,16,D,4,St Etienne_Marseille_2013
+249,3,Reims,9,3,1,2,1,0,0,1,15,H,6,2014-02-21,Monaco,F1,3,7,6,18,H,2,Monaco_Reims_2013
+250,2,St Etienne,10,0,0,2,0,0,1,1,17,A,10,2014-02-22,Bastia,F1,5,3,3,8,A,5,Bastia_St Etienne_2013
+251,1,Evian Thonon Gaillard,9,2,0,1,0,0,0,2,7,H,6,2014-02-22,Bordeaux,F1,5,5,5,14,D,5,Bordeaux_Evian Thonon Gaillard_2013
+252,3,Nice,14,1,1,0,0,0,0,5,17,H,1,2014-02-22,Guingamp,F1,0,6,7,20,D,4,Guingamp_Nice_2013
+253,2,Lorient,10,1,0,0,0,0,0,1,11,H,10,2014-02-22,Marseille,F1,3,5,2,12,D,6,Marseille_Lorient_2013
+254,1,Ajaccio,13,2,0,0,0,0,0,1,13,H,6,2014-02-22,Montpellier,F1,1,7,3,17,D,1,Montpellier_Ajaccio_2013
+255,2,Sochaux,18,2,0,2,0,0,0,3,17,D,9,2014-02-22,Valenciennes,F1,4,5,6,11,D,2,Valenciennes_Sochaux_2013
+256,3,Lyon,13,0,0,0,0,0,0,1,15,D,9,2014-02-23,Lille,F1,5,4,6,16,D,7,Lille_Lyon_2013
+257,1,Rennes,13,0,0,3,0,0,1,1,13,A,15,2014-02-23,Nantes,F1,6,0,5,5,A,4,Nantes_Rennes_2013
+258,3,Paris SG,15,2,0,4,1,0,1,1,15,A,13,2014-02-23,Toulouse,F1,8,7,2,9,D,6,Toulouse_Paris SG_2013
+259,0,Lorient,9,3,0,2,2,0,1,0,12,H,9,2014-02-25,Bordeaux,F1,4,7,8,12,H,4,Bordeaux_Lorient_2013
+260,0,Nantes,10,2,0,0,0,0,0,0,12,H,7,2014-02-28,Evian Thonon Gaillard,F1,2,3,5,6,D,2,Evian Thonon Gaillard_Nantes_2013
+261,0,Bastia,3,1,0,1,1,0,0,0,7,D,13,2014-03-01,Lorient,F1,4,3,5,17,H,4,Lorient_Bastia_2013
+262,1,Toulouse,12,0,0,2,0,1,0,2,20,A,13,2014-03-01,Nice,F1,6,1,1,6,D,3,Nice_Toulouse_2013
+263,1,Valenciennes,13,3,0,1,2,0,0,1,7,H,13,2014-03-01,Reims,F1,4,6,3,12,H,5,Reims_Valenciennes_2013
+264,3,Guingamp,11,0,0,2,0,0,1,1,18,A,14,2014-03-01,Rennes,F1,7,3,11,11,A,5,Rennes_Guingamp_2013
+265,1,Bordeaux,13,2,0,0,0,0,0,2,8,H,17,2014-03-01,Sochaux,F1,3,5,3,9,D,6,Sochaux_Bordeaux_2013
+266,2,Monaco,11,2,0,0,1,0,0,1,17,H,10,2014-03-01,St Etienne,F1,4,4,3,12,H,3,St Etienne_Monaco_2013
+267,3,Lille,14,2,1,3,2,0,2,2,17,A,11,2014-03-02,Ajaccio,F1,6,3,3,11,D,2,Ajaccio_Lille_2013
+268,1,Montpellier,16,0,0,0,0,0,0,3,16,D,6,2014-03-02,Lyon,F1,2,6,8,20,D,3,Lyon_Montpellier_2013
+269,3,Marseille,13,2,0,0,0,0,0,3,14,H,12,2014-03-02,Paris SG,F1,3,4,4,11,D,5,Paris SG_Marseille_2013
+270,2,Nice,19,0,0,1,0,0,0,1,11,A,5,2014-03-07,Marseille,F1,1,7,3,16,D,4,Marseille_Nice_2013
+271,2,Paris SG,23,0,0,3,0,0,2,3,10,A,12,2014-03-08,Bastia,F1,8,3,5,12,A,4,Bastia_Paris SG_2013
+272,3,Evian Thonon Gaillard,17,0,0,1,0,0,0,4,13,A,3,2014-03-08,Guingamp,F1,2,5,8,15,D,1,Guingamp_Evian Thonon Gaillard_2013
+273,1,Sochaux,15,2,1,1,1,0,0,2,14,H,11,2014-03-08,Monaco,F1,7,4,3,15,H,6,Monaco_Sochaux_2013
+274,0,Ajaccio,20,2,0,2,1,0,1,2,22,D,10,2014-03-08,Nantes,F1,3,6,3,20,D,2,Nantes_Ajaccio_2013
+275,2,Reims,10,3,0,2,0,0,2,1,14,H,14,2014-03-08,Toulouse,F1,2,8,5,17,A,1,Toulouse_Reims_2013
+276,2,Rennes,13,2,1,1,0,0,0,3,17,H,13,2014-03-08,Valenciennes,F1,5,3,1,13,D,1,Valenciennes_Rennes_2013
+277,1,Lyon,13,1,0,2,1,0,0,1,13,A,12,2014-03-09,Bordeaux,F1,4,3,5,8,H,5,Bordeaux_Lyon_2013
+278,2,Montpellier,14,2,0,0,1,0,0,1,14,H,6,2014-03-09,Lille,F1,2,7,10,19,H,3,Lille_Montpellier_2013
+279,2,St Etienne,5,1,0,0,0,0,0,3,18,H,9,2014-03-09,Lorient,F1,1,8,10,15,D,5,Lorient_St Etienne_2013
+280,1,Marseille,16,1,0,1,0,0,0,1,14,D,14,2014-03-14,Reims,F1,4,4,5,11,D,5,Reims_Marseille_2013
+281,2,Guingamp,10,1,0,2,1,0,1,2,14,A,14,2014-03-15,Ajaccio,F1,3,3,4,16,D,7,Ajaccio_Guingamp_2013
+282,1,Valenciennes,16,0,0,1,0,0,0,0,11,A,11,2014-03-15,Evian Thonon Gaillard,F1,3,2,2,8,D,4,Evian Thonon Gaillard_Valenciennes_2013
+283,0,Nantes,10,0,0,0,0,0,0,3,19,D,11,2014-03-15,Lille,F1,2,2,8,9,D,4,Lille_Nantes_2013
+284,1,Bastia,12,2,1,0,1,0,0,2,10,H,7,2014-03-15,Nice,F1,0,4,6,11,H,6,Nice_Bastia_2013
+285,1,Toulouse,12,2,0,3,0,0,2,1,12,A,12,2014-03-15,Rennes,F1,5,6,8,17,A,6,Rennes_Toulouse_2013
+286,2,Lorient,19,2,0,0,1,0,0,1,11,H,15,2014-03-15,Sochaux,F1,3,7,4,17,H,1,Sochaux_Lorient_2013
+287,1,Monaco,10,2,0,3,1,0,2,4,20,A,11,2014-03-16,Lyon,F1,4,3,7,16,A,4,Lyon_Monaco_2013
+288,2,Bordeaux,11,1,0,1,1,0,1,3,22,D,10,2014-03-16,Montpellier,F1,4,3,2,12,D,3,Montpellier_Bordeaux_2013
+289,1,St Etienne,14,2,0,0,2,0,0,3,18,H,14,2014-03-16,Paris SG,F1,6,4,4,15,H,6,Paris SG_St Etienne_2013
+290,0,Paris SG,12,0,0,1,0,0,1,1,8,A,11,2014-03-21,Lorient,F1,6,1,5,6,A,4,Lorient_Paris SG_2013
+291,1,Reims,10,2,0,0,2,1,0,2,12,H,13,2014-03-22,Bastia,F1,0,3,3,7,H,6,Bastia_Reims_2013
+292,2,Nice,14,1,0,1,0,1,0,0,11,D,8,2014-03-22,Bordeaux,F1,3,7,5,16,D,2,Bordeaux_Nice_2013
+293,1,Rennes,15,0,0,1,0,0,0,0,14,A,9,2014-03-22,Marseille,F1,4,4,6,17,D,5,Marseille_Rennes_2013
+294,3,Montpellier,20,2,2,1,2,0,1,2,13,H,10,2014-03-22,Nantes,F1,2,7,4,11,H,9,Nantes_Montpellier_2013
+295,1,Evian Thonon Gaillard,7,1,0,1,0,0,0,0,14,D,10,2014-03-22,Toulouse,F1,2,4,2,13,D,3,Toulouse_Evian Thonon Gaillard_2013
+296,0,Ajaccio,13,2,0,3,0,0,0,3,21,A,6,2014-03-22,Valenciennes,F1,3,3,9,13,D,4,Valenciennes_Ajaccio_2013
+297,2,Lyon,9,0,0,1,0,0,0,2,16,A,10,2014-03-23,Guingamp,F1,4,4,10,12,D,11,Guingamp_Lyon_2013
+298,1,Lille,16,1,0,1,1,0,1,2,18,D,8,2014-03-23,Monaco,F1,4,2,4,6,D,4,Monaco_Lille_2013
+299,1,Sochaux,12,3,1,1,0,0,0,0,15,H,11,2014-03-23,St Etienne,F1,2,11,8,22,D,3,St Etienne_Sochaux_2013
+300,1,Paris SG,13,0,0,1,0,0,0,2,15,A,16,2014-03-28,Nice,F1,5,4,3,9,D,4,Nice_Paris SG_2013
+301,2,Toulouse,10,2,0,2,2,0,1,3,17,D,18,2014-03-29,Ajaccio,F1,11,4,2,14,H,3,Ajaccio_Toulouse_2013
+302,1,Monaco,12,1,0,0,0,0,0,4,13,H,11,2014-03-29,Evian Thonon Gaillard,F1,1,5,1,14,D,6,Evian Thonon Gaillard_Monaco_2013
+303,1,Valenciennes,8,0,0,0,0,0,0,3,13,D,3,2014-03-29,Montpellier,F1,0,5,9,18,D,0,Montpellier_Valenciennes_2013
+304,1,Bordeaux,18,0,0,0,0,0,0,1,10,D,10,2014-03-29,Nantes,F1,0,3,4,9,D,8,Nantes_Bordeaux_2013
+305,2,Lorient,11,1,0,1,0,0,1,0,6,D,9,2014-03-29,Reims,F1,4,3,0,13,A,4,Reims_Lorient_2013
+306,2,Marseille,19,1,0,1,1,0,0,3,15,D,15,2014-03-29,Sochaux,F1,7,2,5,7,H,6,Sochaux_Marseille_2013
+307,1,Guingamp,15,1,0,0,0,0,0,4,21,H,11,2014-03-30,Lille,F1,4,6,7,17,D,2,Lille_Guingamp_2013
+308,1,St Etienne,6,1,0,2,1,0,1,3,17,A,6,2014-03-30,Lyon,F1,6,2,10,12,D,2,Lyon_St Etienne_2013
+309,0,Bastia,7,3,0,0,2,0,0,1,15,H,13,2014-03-30,Rennes,F1,2,7,4,16,H,4,Rennes_Bastia_2013
+310,1,Ajaccio,15,3,0,1,1,0,0,0,24,H,5,2014-04-04,Marseille,F1,2,6,7,15,H,5,Marseille_Ajaccio_2013
+311,1,Sochaux,15,2,0,2,0,0,2,3,18,D,15,2014-04-05,Bastia,F1,7,3,5,14,A,6,Bastia_Sochaux_2013
+312,1,Rennes,12,2,0,2,1,0,0,2,12,D,5,2014-04-05,Bordeaux,F1,2,5,9,14,H,1,Bordeaux_Rennes_2013
+313,2,Montpellier,11,1,0,2,0,0,2,1,14,A,11,2014-04-05,Guingamp,F1,5,9,10,24,A,3,Guingamp_Montpellier_2013
+314,1,Evian Thonon Gaillard,13,1,0,1,1,0,0,2,10,D,17,2014-04-05,Lorient,F1,6,4,4,12,H,8,Lorient_Evian Thonon Gaillard_2013
+315,0,Reims,6,3,0,0,1,0,0,2,11,H,13,2014-04-05,Paris SG,F1,1,3,2,13,H,4,Paris SG_Reims_2013
+316,2,Lille,13,1,2,2,0,0,2,1,18,A,13,2014-04-05,Toulouse,F1,5,6,7,10,A,5,Toulouse_Lille_2013
+317,2,Nantes,11,3,0,1,1,0,0,3,15,H,12,2014-04-06,Monaco,F1,4,5,7,12,H,8,Monaco_Nantes_2013
+318,4,Nice,16,1,1,1,0,0,0,3,14,D,5,2014-04-06,St Etienne,F1,3,6,3,16,D,3,St Etienne_Nice_2013
+319,4,Lyon,16,1,1,2,0,1,1,3,14,A,9,2014-04-06,Valenciennes,F1,2,3,3,8,A,3,Valenciennes_Lyon_2013
+320,1,Marseille,15,2,0,3,0,0,1,1,10,A,20,2014-04-11,Montpellier,F1,8,5,5,10,A,6,Montpellier_Marseille_2013
+321,1,Bordeaux,12,1,0,1,0,0,0,1,7,D,14,2014-04-12,Ajaccio,F1,5,6,6,15,D,5,Ajaccio_Bordeaux_2013
+322,3,Bastia,14,2,0,1,1,0,1,0,10,H,11,2014-04-12,Evian Thonon Gaillard,F1,3,7,3,17,D,5,Evian Thonon Gaillard_Bastia_2013
+323,0,Valenciennes,18,1,0,0,0,0,0,3,18,H,9,2014-04-12,Lille,F1,3,5,6,13,D,8,Lille_Valenciennes_2013
+324,2,Lorient,13,1,0,2,1,0,1,3,9,A,10,2014-04-12,Nice,F1,5,3,6,9,D,3,Nice_Lorient_2013
+325,1,Monaco,10,0,0,1,0,0,0,0,11,A,12,2014-04-12,Rennes,F1,5,1,5,7,D,5,Rennes_Monaco_2013
+326,2,Toulouse,18,2,0,0,1,0,0,2,11,H,5,2014-04-12,Sochaux,F1,3,4,4,18,H,2,Sochaux_Toulouse_2013
+327,0,Paris SG,14,1,0,0,1,0,0,2,9,H,11,2014-04-13,Lyon,F1,6,4,3,8,H,5,Lyon_Paris SG_2013
+328,2,Guingamp,14,1,0,0,1,0,0,0,6,H,6,2014-04-13,Nantes,F1,3,5,1,14,H,3,Nantes_Guingamp_2013
+329,1,St Etienne,20,2,0,2,1,0,0,1,12,D,24,2014-04-13,Reims,F1,8,2,0,5,H,4,Reims_St Etienne_2013
+330,0,Rennes,9,0,0,0,0,0,0,3,12,D,4,2014-04-18,St Etienne,F1,0,2,11,16,D,1,St Etienne_Rennes_2013
+331,1,Ajaccio,21,2,0,1,1,0,1,2,26,H,9,2014-04-20,Bastia,F1,2,6,7,13,D,0,Bastia_Ajaccio_2013
+332,0,Guingamp,16,5,0,1,3,0,1,3,20,H,8,2014-04-20,Bordeaux,F1,3,9,5,10,H,5,Bordeaux_Guingamp_2013
+333,2,Montpellier,12,4,1,4,1,0,1,2,11,D,12,2014-04-20,Lorient,F1,5,6,6,12,D,1,Lorient_Montpellier_2013
+334,1,Lille,20,0,0,0,0,0,0,0,17,D,5,2014-04-20,Marseille,F1,2,2,10,9,D,1,Marseille_Lille_2013
+335,1,Nice,12,1,0,0,1,0,0,2,15,H,11,2014-04-20,Monaco,F1,4,4,2,12,H,10,Monaco_Nice_2013
+336,1,Sochaux,13,0,0,1,0,0,1,1,15,A,7,2014-04-20,Reims,F1,3,5,7,18,A,6,Reims_Sochaux_2013
+337,1,Nantes,12,2,0,6,0,0,3,0,14,A,9,2014-04-20,Valenciennes,F1,7,10,11,19,A,3,Valenciennes_Nantes_2013
+338,3,Evian Thonon Gaillard,13,1,1,0,0,0,0,1,12,H,5,2014-04-23,Paris SG,F1,3,3,5,19,D,1,Paris SG_Evian Thonon Gaillard_2013
+339,1,Lyon,11,0,0,0,0,0,0,0,11,D,8,2014-04-23,Toulouse,F1,3,2,5,12,D,4,Toulouse_Lyon_2013
+340,1,Marseille,12,1,0,1,0,0,1,1,11,D,16,2014-04-25,Nantes,F1,5,2,3,12,A,10,Nantes_Marseille_2013
+341,3,Monaco,18,1,0,4,0,0,0,1,11,A,14,2014-04-26,Ajaccio,F1,6,4,4,11,D,6,Ajaccio_Monaco_2013
+342,3,St Etienne,11,1,0,2,0,2,2,0,5,A,17,2014-04-26,Evian Thonon Gaillard,F1,6,2,3,9,A,4,Evian Thonon Gaillard_St Etienne_2013
+343,1,Valenciennes,13,1,0,0,0,0,0,0,12,H,11,2014-04-26,Guingamp,F1,3,5,6,14,D,3,Guingamp_Valenciennes_2013
+344,1,Toulouse,13,2,0,1,0,0,1,2,16,H,13,2014-04-26,Montpellier,F1,4,5,8,15,A,3,Montpellier_Toulouse_2013
+345,1,Reims,9,1,0,0,0,0,0,1,17,H,11,2014-04-26,Nice,F1,3,5,4,15,D,4,Nice_Reims_2013
+346,2,Lorient,14,1,0,1,0,0,1,1,12,D,15,2014-04-26,Rennes,F1,3,3,4,11,A,5,Rennes_Lorient_2013
+347,2,Bordeaux,13,2,0,1,1,0,0,1,20,H,8,2014-04-27,Lille,F1,2,9,8,16,H,4,Lille_Bordeaux_2013
+348,2,Bastia,12,4,0,1,2,0,0,1,8,H,8,2014-04-27,Lyon,F1,2,7,5,17,H,7,Lyon_Bastia_2013
+349,1,Paris SG,9,1,0,1,0,0,1,1,6,D,15,2014-04-27,Sochaux,F1,7,2,4,14,A,5,Sochaux_Paris SG_2013
+350,1,Lille,11,1,0,1,0,0,1,1,11,D,11,2014-05-02,Bastia,F1,4,2,6,11,A,1,Bastia_Lille_2013
+351,0,Ajaccio,11,1,0,0,1,1,0,2,16,H,7,2014-05-04,Lorient,F1,2,1,6,10,H,1,Lorient_Ajaccio_2013
+352,1,Lyon,14,4,0,2,2,0,1,2,15,H,11,2014-05-04,Marseille,F1,2,9,4,19,H,6,Marseille_Lyon_2013
+353,4,Evian Thonon Gaillard,19,1,0,0,1,0,0,1,18,H,11,2014-05-04,Reims,F1,4,4,4,15,H,3,Reims_Evian Thonon Gaillard_2013
+354,3,Nice,17,2,1,0,1,0,0,2,15,H,11,2014-05-04,Sochaux,F1,1,7,4,17,H,2,Sochaux_Nice_2013
+355,1,Montpellier,22,2,0,0,0,0,0,3,9,H,7,2014-05-04,St Etienne,F1,0,3,7,7,D,1,St Etienne_Montpellier_2013
+356,2,Nantes,7,1,1,1,0,0,1,2,17,D,5,2014-05-04,Toulouse,F1,3,7,10,21,A,1,Toulouse_Nantes_2013
+357,2,Bordeaux,19,0,0,1,0,0,0,1,16,A,13,2014-05-04,Valenciennes,F1,5,5,3,12,D,2,Valenciennes_Bordeaux_2013
+358,2,Guingamp,15,1,1,1,0,0,0,3,18,D,4,2014-05-07,Monaco,F1,2,3,9,16,D,1,Monaco_Guingamp_2013
+359,2,Rennes,4,1,0,2,1,0,2,0,7,A,6,2014-05-07,Paris SG,F1,4,7,13,25,A,0,Paris SG_Rennes_2013
+360,0,Reims,10,2,0,1,2,0,1,0,9,H,13,2014-05-10,Ajaccio,F1,8,5,4,11,H,5,Ajaccio_Reims_2013
+361,2,Marseille,19,1,0,1,0,0,1,1,13,D,5,2014-05-10,Bordeaux,F1,2,3,3,12,A,0,Bordeaux_Marseille_2013
+362,0,Nice,12,2,0,0,1,0,0,0,11,H,4,2014-05-10,Evian Thonon Gaillard,F1,1,3,5,9,H,4,Evian Thonon Gaillard_Nice_2013
+363,0,Toulouse,16,2,0,0,2,0,0,1,17,H,16,2014-05-10,Guingamp,F1,9,3,0,7,H,9,Guingamp_Toulouse_2013
+364,1,Paris SG,11,1,0,3,0,1,1,4,15,A,9,2014-05-10,Lille,F1,5,6,11,20,A,2,Lille_Paris SG_2013
+365,2,Lorient,12,0,1,1,0,2,0,1,10,A,11,2014-05-10,Lyon,F1,3,5,8,16,D,3,Lyon_Lorient_2013
+366,1,Bastia,8,0,0,2,0,0,1,1,14,A,15,2014-05-10,Montpellier,F1,7,3,2,12,A,4,Montpellier_Bastia_2013
+367,3,St Etienne,11,1,0,3,0,0,3,2,13,A,5,2014-05-10,Nantes,F1,3,8,11,19,A,1,Nantes_St Etienne_2013
+368,2,Sochaux,14,1,0,2,0,0,1,3,8,A,14,2014-05-10,Rennes,F1,7,4,4,10,A,7,Rennes_Sochaux_2013
+369,1,Monaco,14,1,0,2,0,0,1,2,11,A,9,2014-05-10,Valenciennes,F1,6,2,10,9,A,3,Valenciennes_Monaco_2013
+370,0,Nantes,10,0,0,0,0,0,0,0,12,D,9,2014-05-17,Bastia,F1,3,4,11,6,D,3,Bastia_Nantes_2013
+371,2,Lille,13,1,0,4,1,0,1,1,5,A,14,2014-05-17,Lorient,F1,6,4,3,11,D,2,Lorient_Lille_2013
+372,0,Guingamp,8,1,0,0,0,0,0,1,9,H,9,2014-05-17,Marseille,F1,0,4,13,21,D,5,Marseille_Guingamp_2013
+373,1,Bordeaux,11,1,0,1,0,0,1,0,5,D,12,2014-05-17,Monaco,F1,5,3,8,15,A,10,Monaco_Bordeaux_2013
+374,2,Lyon,11,0,0,1,0,0,1,3,22,A,12,2014-05-17,Nice,F1,7,2,5,12,A,2,Nice_Lyon_2013
+375,0,Montpellier,12,4,0,0,2,0,0,1,6,H,15,2014-05-17,Paris SG,F1,1,12,2,18,H,8,Paris SG_Montpellier_2013
+376,0,Rennes,9,1,0,3,0,0,1,1,6,A,14,2014-05-17,Reims,F1,3,4,7,16,A,6,Reims_Rennes_2013
+377,2,Evian Thonon Gaillard,7,0,0,3,0,0,2,1,21,A,9,2014-05-17,Sochaux,F1,6,5,7,20,A,2,Sochaux_Evian Thonon Gaillard_2013
+378,0,Ajaccio,12,3,0,1,2,0,0,0,19,H,8,2014-05-17,St Etienne,F1,3,8,2,14,H,3,St Etienne_Ajaccio_2013
+379,1,Valenciennes,11,3,0,1,2,0,0,2,11,H,15,2014-05-17,Toulouse,F1,5,4,6,9,H,4,Toulouse_Valenciennes_2013

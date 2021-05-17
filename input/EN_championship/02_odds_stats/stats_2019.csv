@@ -1,0 +1,553 @@
+,Time,HY,AwayTeam,HF,AR,FTHG,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,19:45:00,2,Middlesbrough,14,0,3,3,2,O Langford,0,2,2,20,D,17,2019-08-02,Luton,E1,8,4,8,12,D,11,Luton_Middlesbrough_2019
+1,15:00:00,3,Fulham,16,0,1,0,1,A Davies,0,0,1,14,H,15,2019-08-03,Barnsley,E1,4,4,7,17,H,5,Barnsley_Fulham_2019
+2,15:00:00,0,Charlton,15,0,1,2,0,A Woolmer,0,1,3,13,A,9,2019-08-03,Blackburn,E1,5,2,12,14,A,2,Blackburn_Charlton_2019
+3,15:00:00,1,Birmingham,10,0,0,1,0,G Ward,0,1,3,12,A,1,2019-08-03,Brentford,E1,1,3,6,15,A,2,Brentford_Birmingham_2019
+4,15:00:00,2,Preston,11,0,1,0,1,S Martin,0,0,3,18,H,5,2019-08-03,Millwall,E1,0,3,8,8,H,7,Millwall_Preston_2019
+5,15:00:00,0,Sheffield Weds,12,1,1,3,0,J Linington,0,1,3,15,A,13,2019-08-03,Reading,E1,5,4,7,13,A,3,Reading_Sheffield Weds_2019
+6,15:00:00,1,QPR,18,0,1,2,0,D Bond,0,1,3,14,A,5,2019-08-03,Stoke,E1,3,1,7,13,A,0,Stoke_QPR_2019
+7,15:00:00,2,Hull,9,0,2,1,0,J Brooks,0,1,2,10,H,12,2019-08-03,Swansea,E1,4,8,10,19,A,4,Swansea_Hull_2019
+8,15:00:00,2,Cardiff,9,0,3,2,0,D Webb,0,1,4,15,H,13,2019-08-03,Wigan,E1,4,4,6,12,A,6,Wigan_Cardiff_2019
+9,17:30:00,0,West Brom,8,0,1,2,1,D England,0,2,1,6,A,12,2019-08-03,Nott'm Forest,E1,3,4,9,15,A,5,Nott'm Forest_West Brom_2019
+10,16:30:00,3,Leeds,8,0,1,3,0,T Robinson,0,1,2,12,A,18,2019-08-04,Bristol City,E1,4,3,4,13,A,6,Bristol City_Leeds_2019
+11,19:45:00,0,Derby,18,0,1,2,1,G Eltringham,0,2,0,14,A,11,2019-08-05,Huddersfield,E1,3,2,8,14,A,0,Huddersfield_Derby_2019
+12,12:30:00,2,Nott'm Forest,12,0,1,1,0,R Jones,0,0,2,12,D,6,2019-08-10,Leeds,E1,1,4,10,14,D,3,Leeds_Nott'm Forest_2019
+13,15:00:00,2,Bristol City,6,0,1,1,0,O Langford,0,0,3,11,D,8,2019-08-10,Birmingham,E1,5,3,5,12,D,8,Birmingham_Bristol City_2019
+14,15:00:00,2,Luton,13,0,2,1,0,D Bond,0,0,2,11,H,8,2019-08-10,Cardiff,E1,2,4,3,16,D,3,Cardiff_Luton_2019
+15,15:00:00,0,Stoke,10,0,3,1,1,S Hooper,0,1,0,11,H,12,2019-08-10,Charlton,E1,3,3,1,5,D,4,Charlton_Stoke_2019
+16,15:00:00,2,Swansea,8,0,0,0,0,J Gillett,0,0,1,14,D,13,2019-08-10,Derby,E1,3,3,8,17,D,3,Derby_Swansea_2019
+17,15:00:00,0,Blackburn,9,0,2,0,1,K Stroud,0,0,2,15,H,9,2019-08-10,Fulham,E1,0,2,5,12,H,5,Fulham_Blackburn_2019
+18,15:00:00,2,Reading,23,0,2,1,2,M Donohue,0,0,2,12,H,13,2019-08-10,Hull,E1,4,5,5,14,H,7,Hull_Reading_2019
+19,15:00:00,0,Brentford,10,0,0,1,0,S Martin,0,0,1,17,A,9,2019-08-10,Middlesbrough,E1,2,5,7,14,D,3,Middlesbrough_Brentford_2019
+20,15:00:00,1,Wigan,13,0,3,0,2,J Simpson,0,0,2,18,H,11,2019-08-10,Preston,E1,6,5,8,16,H,7,Preston_Wigan_2019
+21,15:00:00,2,Huddersfield,14,0,1,1,0,D Whitestone,0,0,5,20,D,6,2019-08-10,QPR,E1,4,5,7,17,D,0,QPR_Huddersfield_2019
+22,15:00:00,1,Barnsley,10,0,2,0,1,T Harrington,0,0,1,22,H,11,2019-08-10,Sheffield Weds,E1,3,7,6,16,H,4,Sheffield Weds_Barnsley_2019
+23,15:00:00,1,Millwall,17,0,1,1,0,D Webb,0,0,2,15,D,9,2019-08-10,West Brom,E1,2,4,8,10,D,1,West Brom_Millwall_2019
+24,19:45:00,2,Fulham,13,0,1,2,0,J Linington,0,0,2,14,A,17,2019-08-16,Huddersfield,E1,8,1,5,6,D,5,Huddersfield_Fulham_2019
+25,15:00:00,4,Charlton,15,0,2,2,1,M Donohue,0,1,3,21,D,12,2019-08-17,Barnsley,E1,5,3,4,13,D,2,Barnsley_Charlton_2019
+26,15:00:00,5,Middlesbrough,16,0,1,0,1,J Gillett,0,0,3,11,H,9,2019-08-17,Blackburn,E1,2,3,9,14,H,2,Blackburn_Middlesbrough_2019
+27,15:00:00,1,Hull,18,0,1,1,0,D England,0,0,1,11,D,20,2019-08-17,Brentford,E1,4,4,5,15,D,4,Brentford_Hull_2019
+28,15:00:00,2,QPR,11,0,2,0,1,R Jones,0,0,2,11,H,15,2019-08-17,Bristol City,E1,2,3,3,9,H,6,Bristol City_QPR_2019
+29,15:00:00,2,West Brom,10,0,1,2,1,A Woolmer,0,0,0,6,A,24,2019-08-17,Luton,E1,3,4,4,8,H,8,Luton_West Brom_2019
+30,15:00:00,1,Sheffield Weds,6,0,1,0,1,G Ward,1,0,1,16,H,21,2019-08-17,Millwall,E1,9,2,6,3,H,4,Millwall_Sheffield Weds_2019
+31,15:00:00,0,Birmingham,8,0,3,0,2,T Harrington,0,0,2,10,H,9,2019-08-17,Nott'm Forest,E1,2,5,3,14,H,6,Nott'm Forest_Birmingham_2019
+32,15:00:00,3,Derby,13,0,2,2,1,T Robinson,0,1,3,17,D,8,2019-08-17,Stoke,E1,6,5,10,19,D,5,Stoke_Derby_2019
+33,15:00:00,0,Preston,12,0,3,2,1,D Whitestone,0,1,1,10,H,17,2019-08-17,Swansea,E1,5,4,4,13,D,9,Swansea_Preston_2019
+34,15:00:00,3,Leeds,17,0,0,2,0,A Madley,1,1,2,19,A,20,2019-08-17,Wigan,E1,6,2,6,6,A,6,Wigan_Leeds_2019
+35,12:00:00,1,Cardiff,6,0,3,0,2,A Davies,0,0,2,13,H,14,2019-08-18,Reading,E1,7,6,4,14,H,2,Reading_Cardiff_2019
+36,19:45:00,1,Barnsley,13,0,2,0,0,G Eltringham,0,0,1,11,H,6,2019-08-20,Birmingham,E1,1,6,4,14,D,7,Birmingham_Barnsley_2019
+37,19:45:00,2,Bristol City,12,0,1,2,0,S Martin,0,2,1,8,A,8,2019-08-20,Derby,E1,3,4,9,18,A,0,Derby_Bristol City_2019
+38,19:45:00,4,Blackburn,19,0,0,1,0,J Simpson,0,0,1,5,A,13,2019-08-20,Hull,E1,5,1,1,12,D,8,Hull_Blackburn_2019
+39,19:45:00,2,Wigan,17,0,1,0,1,K Stroud,0,0,2,11,H,11,2019-08-20,Middlesbrough,E1,1,3,3,13,H,5,Middlesbrough_Wigan_2019
+40,19:45:00,2,Luton,21,0,1,0,0,D Webb,0,0,1,3,H,10,2019-08-20,Sheffield Weds,E1,2,3,3,9,D,8,Sheffield Weds_Luton_2019
+41,19:45:00,1,Huddersfield,15,0,2,1,1,J Gillett,0,0,1,12,H,8,2019-08-21,Cardiff,E1,3,6,8,24,H,2,Cardiff_Huddersfield_2019
+42,19:45:00,3,Nott'm Forest,9,0,1,1,1,O Langford,0,0,3,19,D,14,2019-08-21,Charlton,E1,3,3,7,8,H,1,Charlton_Nott'm Forest_2019
+43,19:45:00,2,Millwall,11,0,4,0,2,D Bond,0,0,1,11,H,7,2019-08-21,Fulham,E1,1,7,8,11,H,1,Fulham_Millwall_2019
+44,19:45:00,2,Brentford,8,0,1,0,0,A Davies,0,0,1,13,H,5,2019-08-21,Leeds,E1,1,4,8,11,D,4,Leeds_Brentford_2019
+45,19:45:00,2,Stoke,16,0,3,1,2,J Brooks,0,0,2,6,H,8,2019-08-21,Preston,E1,2,5,0,8,H,4,Preston_Stoke_2019
+46,19:45:00,2,Swansea,10,0,1,3,0,P Tierney,0,1,3,13,A,10,2019-08-21,QPR,E1,5,3,7,22,A,2,QPR_Swansea_2019
+47,20:00:00,2,Reading,9,0,1,1,0,P Bankes,0,0,2,11,D,10,2019-08-21,West Brom,E1,5,4,11,20,D,5,West Brom_Reading_2019
+48,12:30:00,1,West Brom,12,0,1,1,1,G Ward,0,0,1,18,D,13,2019-08-24,Derby,E1,4,4,6,11,H,6,Derby_West Brom_2019
+49,15:00:00,3,Luton,17,0,1,3,0,S Martin,0,3,1,12,A,16,2019-08-24,Barnsley,E1,7,5,8,17,A,8,Barnsley_Luton_2019
+50,15:00:00,1,Cardiff,9,0,0,0,0,D Coote,0,0,3,14,D,13,2019-08-24,Blackburn,E1,3,2,9,9,D,4,Blackburn_Cardiff_2019
+51,15:00:00,1,Brentford,12,0,1,0,1,T Robinson,0,0,3,10,H,22,2019-08-24,Charlton,E1,4,1,2,3,H,14,Charlton_Brentford_2019
+52,15:00:00,2,Nott'm Forest,8,0,1,2,0,P Bankes,0,1,4,11,A,11,2019-08-24,Fulham,E1,3,6,13,20,A,1,Fulham_Nott'm Forest_2019
+53,15:00:00,1,Reading,8,0,0,2,0,T Harrington,0,0,1,18,A,11,2019-08-24,Huddersfield,E1,4,2,8,10,D,3,Huddersfield_Reading_2019
+54,15:00:00,0,Bristol City,11,0,1,3,1,D Whitestone,0,1,3,13,A,10,2019-08-24,Hull,E1,4,6,9,16,D,6,Hull_Bristol City_2019
+55,15:00:00,0,Millwall,13,0,1,1,0,J Brooks,0,0,2,10,D,12,2019-08-24,Middlesbrough,E1,4,2,6,11,D,7,Middlesbrough_Millwall_2019
+56,15:00:00,0,Sheffield Weds,10,0,2,1,1,R Jones,0,0,3,16,H,11,2019-08-24,Preston,E1,3,4,9,8,H,7,Preston_Sheffield Weds_2019
+57,15:00:00,2,Wigan,13,0,3,1,0,M Donohue,0,1,4,16,H,9,2019-08-24,QPR,E1,3,5,3,20,A,5,QPR_Wigan_2019
+58,15:00:00,0,Leeds,9,0,0,3,0,D England,0,1,2,11,A,21,2019-08-24,Stoke,E1,10,2,4,7,A,4,Stoke_Leeds_2019
+59,12:00:00,1,Birmingham,8,0,3,0,0,A Woolmer,0,0,5,13,H,4,2019-08-25,Swansea,E1,0,6,5,12,D,1,Swansea_Birmingham_2019
+60,19:45:00,1,Fulham,16,1,1,1,1,T Robinson,0,1,3,8,D,11,2019-08-30,Cardiff,E1,4,2,4,9,D,3,Cardiff_Fulham_2019
+61,12:30:00,1,Middlesbrough,13,0,2,2,1,L Mason,0,0,1,11,D,22,2019-08-31,Bristol City,E1,6,5,6,18,H,10,Bristol City_Middlesbrough_2019
+62,15:00:00,2,Stoke,24,0,2,1,0,J Linington,0,0,1,12,H,7,2019-08-31,Birmingham,E1,3,4,1,12,D,3,Birmingham_Stoke_2019
+63,15:00:00,0,Derby,12,0,3,0,3,D Webb,0,0,2,13,H,5,2019-08-31,Brentford,E1,0,8,6,22,H,3,Brentford_Derby_2019
+64,15:00:00,2,Swansea,15,0,0,1,0,D Bond,0,0,2,10,A,7,2019-08-31,Leeds,E1,2,3,6,21,D,5,Leeds_Swansea_2019
+65,15:00:00,2,Huddersfield,18,0,2,1,0,A Davies,0,0,2,14,H,13,2019-08-31,Luton,E1,3,4,6,13,D,9,Luton_Huddersfield_2019
+66,15:00:00,2,Hull,10,1,1,1,1,O Langford,0,1,4,14,D,7,2019-08-31,Millwall,E1,3,5,11,13,D,5,Millwall_Hull_2019
+67,15:00:00,4,Preston,11,0,1,1,0,G Eltringham,0,1,1,7,D,12,2019-08-31,Nott'm Forest,E1,5,2,5,10,A,0,Nott'm Forest_Preston_2019
+68,15:00:00,1,Charlton,14,0,0,2,0,J Gillett,0,0,3,14,A,14,2019-08-31,Reading,E1,5,3,8,19,D,4,Reading_Charlton_2019
+69,15:00:00,4,QPR,22,0,1,2,1,J Brooks,0,0,3,13,A,11,2019-08-31,Sheffield Weds,E1,5,2,1,7,H,6,Sheffield Weds_QPR_2019
+70,15:00:00,2,Blackburn,15,0,3,2,3,T Harrington,0,2,2,16,H,7,2019-08-31,West Brom,E1,4,8,7,21,H,3,West Brom_Blackburn_2019
+71,15:00:00,1,Barnsley,12,1,0,0,0,A Woolmer,0,0,4,18,D,13,2019-08-31,Wigan,E1,3,4,6,12,D,7,Wigan_Barnsley_2019
+72,19:45:00,2,Cardiff,13,0,1,1,1,D England,0,1,2,10,D,13,2019-09-13,Derby,E1,4,5,6,13,D,4,Derby_Cardiff_2019
+73,12:30:00,2,West Brom,13,0,1,1,0,D Webb,0,0,1,10,D,9,2019-09-14,Fulham,E1,3,6,13,17,D,3,Fulham_West Brom_2019
+74,15:00:00,0,Millwall,10,0,2,0,1,D Whitestone,0,0,1,6,H,14,2019-09-14,Blackburn,E1,3,8,2,14,H,6,Blackburn_Millwall_2019
+75,15:00:00,1,Birmingham,7,0,0,1,0,M Donohue,0,0,3,18,A,11,2019-09-14,Charlton,E1,6,3,2,12,D,4,Charlton_Birmingham_2019
+76,15:00:00,2,Wigan,15,0,2,2,2,G Ward,0,1,6,16,D,10,2019-09-14,Hull,E1,3,3,7,16,H,5,Hull_Wigan_2019
+77,15:00:00,0,Reading,12,0,1,0,0,R Jones,0,0,3,17,H,18,2019-09-14,Middlesbrough,E1,7,2,5,10,D,10,Middlesbrough_Reading_2019
+78,15:00:00,2,Brentford,12,0,2,0,1,D Coote,0,0,1,16,H,8,2019-09-14,Preston,E1,2,2,5,4,H,11,Preston_Brentford_2019
+79,15:00:00,2,Luton,15,0,3,2,3,J Simpson,0,1,1,15,H,14,2019-09-14,QPR,E1,3,3,4,18,H,5,QPR_Luton_2019
+80,15:00:00,2,Bristol City,13,0,1,2,1,G Eltringham,1,0,3,12,A,12,2019-09-14,Stoke,E1,3,4,6,12,H,7,Stoke_Bristol City_2019
+81,15:00:00,2,Nott'm Forest,7,0,0,1,0,J Linington,0,0,1,17,A,14,2019-09-14,Swansea,E1,2,1,5,9,D,4,Swansea_Nott'm Forest_2019
+82,12:00:00,2,Sheffield Weds,8,0,0,2,0,S Hooper,0,1,3,14,A,13,2019-09-15,Huddersfield,E1,4,6,3,9,A,3,Huddersfield_Sheffield Weds_2019
+83,12:30:00,1,Leeds,11,0,0,2,0,K Stroud,0,0,0,11,A,21,2019-09-15,Barnsley,E1,7,6,5,17,D,9,Barnsley_Leeds_2019
+84,12:30:00,0,Derby,8,0,1,1,1,O Langford,0,0,4,12,D,4,2019-09-21,Leeds,E1,1,5,8,13,H,3,Leeds_Derby_2019
+85,15:00:00,0,Preston,12,0,0,1,0,S Martin,0,1,0,12,A,4,2019-09-21,Birmingham,E1,3,2,7,7,A,0,Birmingham_Preston_2019
+86,15:00:00,1,Stoke,13,0,0,0,0,A Woolmer,0,0,2,6,D,11,2019-09-21,Brentford,E1,4,2,4,12,D,5,Brentford_Stoke_2019
+87,15:00:00,1,Swansea,8,1,0,0,0,T Harrington,0,0,1,10,D,15,2019-09-21,Bristol City,E1,2,2,2,11,D,7,Bristol City_Swansea_2019
+88,15:00:00,1,Middlesbrough,10,0,1,0,1,D Bond,0,0,2,12,H,11,2019-09-21,Cardiff,E1,0,1,3,9,H,8,Cardiff_Middlesbrough_2019
+89,15:00:00,0,Hull,7,0,0,3,0,A Madley,0,0,2,17,A,14,2019-09-21,Luton,E1,4,2,5,6,D,4,Luton_Hull_2019
+90,15:00:00,2,QPR,8,0,1,2,0,P Bankes,0,0,3,8,A,14,2019-09-21,Millwall,E1,3,5,6,13,D,3,Millwall_QPR_2019
+91,15:00:00,2,Barnsley,6,0,1,0,0,J Gillett,0,0,3,10,H,13,2019-09-21,Nott'm Forest,E1,5,1,8,11,D,10,Nott'm Forest_Barnsley_2019
+92,15:00:00,2,Blackburn,14,0,1,2,0,M Donohue,0,1,2,14,A,9,2019-09-21,Reading,E1,5,3,3,16,A,3,Reading_Blackburn_2019
+93,15:00:00,2,Fulham,15,0,1,1,0,G Eltringham,0,1,1,11,D,9,2019-09-21,Sheffield Weds,E1,2,5,2,12,A,5,Sheffield Weds_Fulham_2019
+94,15:00:00,1,Charlton,16,0,2,0,1,A Davies,0,0,1,13,H,13,2019-09-21,Wigan,E1,3,4,9,17,H,5,Wigan_Charlton_2019
+95,12:00:00,0,Huddersfield,13,0,4,2,1,T Robinson,0,2,0,9,H,5,2019-09-22,West Brom,E1,2,7,8,17,A,2,West Brom_Huddersfield_2019
+96,19:45:00,2,Wigan,14,0,2,0,0,D Whitestone,0,0,3,16,H,5,2019-09-27,Fulham,E1,0,6,7,21,D,4,Fulham_Wigan_2019
+97,20:00:00,0,Nott'm Forest,9,0,2,3,1,A Madley,0,1,4,16,A,6,2019-09-27,Stoke,E1,4,8,9,23,D,3,Stoke_Nott'm Forest_2019
+98,12:30:00,1,West Brom,21,0,0,2,0,G Eltringham,1,0,2,10,A,15,2019-09-28,QPR,E1,7,0,4,5,D,6,QPR_West Brom_2019
+99,15:00:00,1,Luton,11,0,1,2,1,G Ward,0,1,2,8,A,8,2019-09-28,Blackburn,E1,5,2,8,16,D,1,Blackburn_Luton_2019
+100,15:00:00,3,Leeds,9,0,1,0,1,J Brooks,0,0,1,15,H,19,2019-09-28,Charlton,E1,4,3,2,3,H,13,Charlton_Leeds_2019
+101,15:00:00,3,Birmingham,9,0,3,2,1,S Hooper,0,0,1,18,H,17,2019-09-28,Derby,E1,6,4,2,7,H,9,Derby_Birmingham_2019
+102,15:00:00,1,Millwall,12,1,1,1,1,J Simpson,0,1,0,12,D,15,2019-09-28,Huddersfield,E1,4,6,7,15,D,6,Huddersfield_Millwall_2019
+103,15:00:00,2,Cardiff,11,0,2,2,1,J Gillett,0,0,0,11,D,8,2019-09-28,Hull,E1,3,3,5,12,H,8,Hull_Cardiff_2019
+104,15:00:00,0,Sheffield Weds,10,0,1,4,1,J Linington,0,4,3,19,A,12,2019-09-28,Middlesbrough,E1,6,2,5,9,A,6,Middlesbrough_Sheffield Weds_2019
+105,15:00:00,1,Bristol City,11,0,3,3,1,A Davies,0,2,1,12,D,15,2019-09-28,Preston,E1,7,3,3,9,A,5,Preston_Bristol City_2019
+106,15:00:00,0,Reading,8,0,1,1,1,K Stroud,0,0,3,14,D,12,2019-09-28,Swansea,E1,5,4,3,17,H,6,Swansea_Reading_2019
+107,13:30:00,0,Brentford,11,0,1,3,1,D Webb,0,1,0,8,A,13,2019-09-29,Barnsley,E1,5,3,8,10,D,3,Barnsley_Brentford_2019
+108,19:45:00,2,Nott'm Forest,9,0,1,1,0,S Martin,0,0,1,10,D,10,2019-10-01,Blackburn,E1,4,6,11,21,D,3,Blackburn_Nott'm Forest_2019
+109,19:45:00,1,Sheffield Weds,11,0,1,0,0,A Davies,0,0,3,10,H,12,2019-10-01,Hull,E1,3,2,8,8,D,3,Hull_Sheffield Weds_2019
+110,19:45:00,1,West Brom,6,0,1,0,1,D Coote,0,0,5,12,H,10,2019-10-01,Leeds,E1,4,9,7,19,H,6,Leeds_West Brom_2019
+111,19:45:00,2,Preston,16,0,1,1,1,D England,0,1,2,17,D,9,2019-10-01,Middlesbrough,E1,1,3,2,14,D,3,Middlesbrough_Preston_2019
+112,19:45:00,0,Birmingham,9,0,1,0,0,T Robinson,0,0,0,14,H,12,2019-10-01,Wigan,E1,0,3,7,12,D,6,Wigan_Birmingham_2019
+113,20:00:00,1,Fulham,10,0,1,4,0,A Woolmer,1,3,0,12,A,16,2019-10-01,Reading,E1,7,2,2,8,A,5,Reading_Fulham_2019
+114,20:00:00,1,Huddersfield,12,0,0,1,0,R Jones,0,0,2,12,A,4,2019-10-01,Stoke,E1,1,0,9,18,D,1,Stoke_Huddersfield_2019
+115,19:45:00,2,Derby,22,0,2,2,1,T Harrington,0,2,0,14,D,12,2019-10-02,Barnsley,E1,6,7,8,12,A,2,Barnsley_Derby_2019
+116,19:45:00,1,Bristol City,6,0,1,1,0,O Langford,0,0,1,8,D,8,2019-10-02,Brentford,E1,3,6,13,18,D,3,Brentford_Bristol City_2019
+117,19:45:00,2,QPR,18,0,3,0,2,M Donohue,0,0,1,12,H,14,2019-10-02,Cardiff,E1,4,4,3,10,H,5,Cardiff_QPR_2019
+118,19:45:00,4,Swansea,14,0,1,2,1,P Bankes,0,1,1,14,A,13,2019-10-02,Charlton,E1,4,3,3,8,D,3,Charlton_Swansea_2019
+119,19:45:00,0,Millwall,7,0,1,1,0,D Bond,0,0,2,18,D,13,2019-10-02,Luton,E1,4,4,5,13,D,4,Luton_Millwall_2019
+120,19:45:00,2,Middlesbrough,18,0,2,1,1,J Simpson,0,0,3,11,H,5,2019-10-04,Birmingham,E1,3,8,11,26,H,3,Birmingham_Middlesbrough_2019
+121,12:30:00,2,Charlton,12,0,2,2,0,K Stroud,0,1,1,14,D,14,2019-10-05,Fulham,E1,5,7,8,20,A,6,Fulham_Charlton_2019
+122,15:00:00,1,Reading,14,0,1,0,1,S Martin,0,0,2,9,H,16,2019-10-05,Bristol City,E1,3,3,3,15,H,5,Bristol City_Reading_2019
+123,15:00:00,1,Luton,10,0,2,0,1,G Eltringham,0,0,0,10,H,7,2019-10-05,Derby,E1,1,2,1,10,H,5,Derby_Luton_2019
+124,15:00:00,3,Hull,13,0,3,0,0,D Webb,0,0,1,11,H,14,2019-10-05,Huddersfield,E1,4,5,5,8,D,4,Huddersfield_Hull_2019
+125,15:00:00,4,Leeds,14,1,2,1,2,J Linington,0,0,1,14,H,5,2019-10-05,Millwall,E1,1,7,6,12,H,1,Millwall_Leeds_2019
+126,15:00:00,0,Brentford,7,0,1,0,0,D Whitestone,0,0,1,9,H,11,2019-10-05,Nott'm Forest,E1,3,4,9,13,D,5,Nott'm Forest_Brentford_2019
+127,15:00:00,1,Barnsley,10,0,5,1,1,G Ward,0,1,3,9,H,6,2019-10-05,Preston,E1,1,10,5,20,D,2,Preston_Barnsley_2019
+128,15:00:00,4,Blackburn,14,0,4,2,1,S Hooper,0,0,4,7,H,8,2019-10-05,QPR,E1,2,5,4,10,H,4,QPR_Blackburn_2019
+129,15:00:00,1,Wigan,15,0,1,0,0,L Mason,0,0,1,9,H,5,2019-10-05,Sheffield Weds,E1,3,2,3,8,D,2,Sheffield Weds_Wigan_2019
+130,15:00:00,2,Stoke,11,0,1,2,1,O Langford,0,1,1,17,A,18,2019-10-05,Swansea,E1,9,6,7,22,D,1,Swansea_Stoke_2019
+131,15:00:00,1,Cardiff,6,0,4,2,2,J Brooks,0,0,1,13,H,18,2019-10-05,West Brom,E1,8,8,6,15,H,10,West Brom_Cardiff_2019
+132,19:45:00,0,Sheffield Weds,11,0,1,1,0,K Stroud,0,1,3,22,D,12,2019-10-18,Cardiff,E1,5,4,4,14,A,4,Cardiff_Sheffield Weds_2019
+133,12:30:00,1,Huddersfield,18,0,2,2,2,D Bond,0,1,3,19,D,12,2019-10-19,Blackburn,E1,2,3,5,13,H,6,Blackburn_Huddersfield_2019
+134,15:00:00,1,Swansea,8,0,1,1,0,A Woolmer,0,0,1,5,D,12,2019-10-19,Barnsley,E1,8,5,2,19,D,5,Barnsley_Swansea_2019
+135,15:00:00,3,Millwall,13,0,3,2,0,S Attwell,0,1,6,13,H,8,2019-10-19,Brentford,E1,4,10,8,23,A,4,Brentford_Millwall_2019
+136,15:00:00,1,Derby,16,0,3,0,1,S Martin,0,0,2,13,H,4,2019-10-19,Charlton,E1,2,7,7,10,H,5,Charlton_Derby_2019
+137,15:00:00,1,QPR,14,0,2,3,1,T Harrington,0,1,0,10,A,15,2019-10-19,Hull,E1,8,3,4,11,D,8,Hull_QPR_2019
+138,15:00:00,2,Birmingham,13,0,1,0,0,R Jones,0,0,2,18,H,16,2019-10-19,Leeds,E1,4,5,9,15,D,2,Leeds_Birmingham_2019
+139,15:00:00,2,Bristol City,10,0,3,0,0,G Scott,0,0,2,11,H,10,2019-10-19,Luton,E1,2,5,8,12,D,7,Luton_Bristol City_2019
+140,15:00:00,2,West Brom,10,0,0,1,0,O Langford,0,0,4,14,A,19,2019-10-19,Middlesbrough,E1,4,7,6,17,D,7,Middlesbrough_West Brom_2019
+141,15:00:00,2,Preston,9,0,1,0,0,D Whitestone,0,0,2,14,H,12,2019-10-19,Reading,E1,4,6,9,12,D,6,Reading_Preston_2019
+142,15:00:00,2,Fulham,15,0,2,0,1,A Davies,0,0,2,12,H,10,2019-10-19,Stoke,E1,4,5,4,9,H,6,Stoke_Fulham_2019
+143,14:00:00,3,Nott'm Forest,10,0,1,0,1,M Donohue,0,0,1,10,H,18,2019-10-20,Wigan,E1,2,6,2,16,H,7,Wigan_Nott'm Forest_2019
+144,19:45:00,2,Blackburn,12,0,1,0,1,D England,0,0,1,6,H,13,2019-10-22,Birmingham,E1,1,6,7,12,H,6,Birmingham_Blackburn_2019
+145,19:45:00,1,Cardiff,13,0,2,2,1,T Robinson,0,1,1,14,D,16,2019-10-22,Millwall,E1,7,5,4,12,D,2,Millwall_Cardiff_2019
+146,19:45:00,1,Leeds,9,0,1,1,0,K Friend,0,0,0,9,D,22,2019-10-22,Preston,E1,3,2,4,10,D,8,Preston_Leeds_2019
+147,19:45:00,2,Reading,10,0,2,2,1,J Simpson,0,1,2,22,D,11,2019-10-22,QPR,E1,5,6,1,13,D,5,QPR_Reading_2019
+148,19:45:00,2,Stoke,17,0,1,0,1,A Madley,0,0,1,12,H,12,2019-10-22,Sheffield Weds,E1,1,4,5,11,H,3,Sheffield Weds_Stoke_2019
+149,19:45:00,2,Brentford,7,0,0,3,0,G Ward,0,2,1,6,A,14,2019-10-22,Swansea,E1,7,5,6,17,A,6,Swansea_Brentford_2019
+150,20:00:00,3,Barnsley,9,0,2,2,0,D Bond,0,2,8,20,D,11,2019-10-22,West Brom,E1,3,3,4,11,A,1,West Brom_Barnsley_2019
+151,19:45:00,2,Charlton,13,0,2,1,0,J Linington,1,0,5,12,H,10,2019-10-23,Bristol City,E1,5,8,9,23,D,5,Bristol City_Charlton_2019
+152,19:45:00,2,Wigan,8,0,1,0,0,K Stroud,0,0,2,16,H,16,2019-10-23,Derby,E1,3,4,7,11,D,8,Derby_Wigan_2019
+153,19:45:00,1,Luton,12,0,3,2,1,J Brooks,0,0,0,8,H,13,2019-10-23,Fulham,E1,3,8,4,20,H,3,Fulham_Luton_2019
+154,19:45:00,1,Middlesbrough,12,0,0,0,0,T Harrington,0,0,3,14,D,13,2019-10-23,Huddersfield,E1,2,2,4,10,D,3,Huddersfield_Middlesbrough_2019
+155,19:45:00,3,Hull,8,1,1,2,0,O Langford,0,1,2,9,A,18,2019-10-23,Nott'm Forest,E1,6,2,11,16,A,1,Nott'm Forest_Hull_2019
+156,12:30:00,2,Leeds,16,0,0,0,0,T Robinson,0,0,0,9,D,9,2019-10-26,Sheffield Weds,E1,3,4,5,11,D,4,Sheffield Weds_Leeds_2019
+157,15:00:00,1,Luton,8,0,2,1,1,D Whitestone,0,0,3,10,H,9,2019-10-26,Birmingham,E1,4,6,13,20,H,5,Birmingham_Luton_2019
+158,15:00:00,1,Barnsley,7,0,2,1,1,J Linington,0,0,1,13,H,14,2019-10-26,Huddersfield,E1,2,4,3,11,H,5,Huddersfield_Barnsley_2019
+159,15:00:00,4,Derby,11,0,2,0,0,S Hooper,0,0,1,8,H,10,2019-10-26,Hull,E1,3,4,7,14,D,1,Hull_Derby_2019
+160,15:00:00,3,Fulham,16,1,0,0,0,P Bankes,0,0,2,9,D,7,2019-10-26,Middlesbrough,E1,1,1,5,14,D,2,Middlesbrough_Fulham_2019
+161,15:00:00,1,Stoke,10,0,2,0,1,D England,0,0,0,18,H,4,2019-10-26,Millwall,E1,1,4,6,8,H,2,Millwall_Stoke_2019
+162,15:00:00,0,Blackburn,8,0,3,2,0,S Martin,0,2,2,17,H,8,2019-10-26,Preston,E1,1,8,6,12,A,5,Preston_Blackburn_2019
+163,15:00:00,2,Charlton,12,0,2,2,1,M Donohue,1,0,3,9,D,13,2019-10-26,West Brom,E1,5,5,4,13,H,4,West Brom_Charlton_2019
+164,12:00:00,0,Cardiff,12,0,1,0,1,R Jones,0,0,1,15,H,8,2019-10-27,Swansea,E1,3,5,9,19,H,3,Swansea_Cardiff_2019
+165,13:30:00,1,Wigan,8,0,2,2,1,J Brooks,0,1,2,15,D,19,2019-10-27,Bristol City,E1,7,4,5,9,D,10,Bristol City_Wigan_2019
+166,19:45:00,0,Brentford,11,0,1,3,0,A Woolmer,0,1,3,15,A,12,2019-10-28,QPR,E1,9,6,3,8,A,6,QPR_Brentford_2019
+167,19:45:00,2,Bristol City,9,0,2,2,0,J Gillett,0,1,0,11,D,9,2019-11-01,Barnsley,E1,3,6,10,24,A,6,Barnsley_Bristol City_2019
+168,12:30:00,4,Swansea,19,0,1,2,1,P Bankes,0,1,2,8,A,6,2019-11-02,Wigan,E1,2,2,11,14,D,2,Wigan_Swansea_2019
+169,15:00:00,0,Sheffield Weds,10,0,2,1,0,A Woolmer,0,0,0,16,H,17,2019-11-02,Blackburn,E1,5,6,4,15,D,13,Blackburn_Sheffield Weds_2019
+170,15:00:00,1,Huddersfield,12,0,0,1,0,R Jones,0,0,5,15,A,4,2019-11-02,Brentford,E1,2,3,1,10,D,4,Brentford_Huddersfield_2019
+171,15:00:00,1,Birmingham,12,1,4,2,2,A Madley,1,1,3,18,H,25,2019-11-02,Cardiff,E1,6,6,8,12,H,10,Cardiff_Birmingham_2019
+172,15:00:00,0,Middlesbrough,10,1,2,0,1,D Bond,0,0,1,13,H,10,2019-11-02,Derby,E1,1,10,6,23,H,2,Derby_Middlesbrough_2019
+173,15:00:00,2,Hull,8,0,0,3,0,K Stroud,0,1,2,14,A,10,2019-11-02,Fulham,E1,5,1,9,8,A,1,Fulham_Hull_2019
+174,15:00:00,1,QPR,18,0,2,0,1,G Eltringham,0,0,4,20,H,6,2019-11-02,Leeds,E1,1,6,6,18,H,2,Leeds_QPR_2019
+175,15:00:00,0,Nott'm Forest,9,0,1,2,0,G Ward,0,1,1,10,A,12,2019-11-02,Luton,E1,4,3,8,9,A,7,Luton_Nott'm Forest_2019
+176,15:00:00,1,Millwall,11,0,2,1,2,T Harrington,0,0,0,13,H,14,2019-11-02,Reading,E1,2,6,3,12,H,6,Reading_Millwall_2019
+177,12:00:00,3,Preston,16,0,0,1,0,D Webb,0,0,5,11,A,16,2019-11-03,Charlton,E1,5,1,3,8,D,9,Charlton_Preston_2019
+178,20:00:00,2,West Brom,18,0,0,2,0,T Robinson,0,1,1,18,A,9,2019-11-04,Stoke,E1,3,3,4,8,A,3,Stoke_West Brom_2019
+179,12:30:00,3,Derby,14,0,1,0,0,D England,0,0,3,18,H,11,2019-11-09,Nott'm Forest,E1,7,4,7,19,D,8,Nott'm Forest_Derby_2019
+180,15:00:00,3,Stoke,14,0,2,4,0,J Simpson,0,2,1,7,A,11,2019-11-09,Barnsley,E1,9,4,5,12,A,7,Barnsley_Stoke_2019
+181,15:00:00,3,Fulham,12,0,0,1,0,J Gillett,0,0,2,8,A,10,2019-11-09,Birmingham,E1,3,4,5,16,D,7,Birmingham_Fulham_2019
+182,15:00:00,3,West Brom,11,0,0,1,0,J Linington,0,1,3,10,A,9,2019-11-09,Hull,E1,2,3,2,10,A,4,Hull_West Brom_2019
+183,15:00:00,1,Blackburn,9,0,2,1,2,G Ward,0,1,2,12,H,4,2019-11-09,Leeds,E1,1,4,4,15,H,5,Leeds_Blackburn_2019
+184,15:00:00,1,Charlton,14,0,2,1,1,R Jones,0,0,1,13,H,6,2019-11-09,Millwall,E1,5,5,8,8,H,3,Millwall_Charlton_2019
+185,15:00:00,4,Huddersfield,11,0,3,1,2,G Eltringham,0,0,2,17,H,8,2019-11-09,Preston,E1,1,4,12,21,H,4,Preston_Huddersfield_2019
+186,15:00:00,4,Middlesbrough,20,0,2,2,2,D Coote,0,1,2,9,D,9,2019-11-09,QPR,E1,4,7,8,14,H,6,QPR_Middlesbrough_2019
+187,15:00:00,0,Luton,12,0,3,0,2,A Woolmer,0,0,1,13,H,4,2019-11-09,Reading,E1,1,7,5,17,H,3,Reading_Luton_2019
+188,15:00:00,1,Swansea,10,0,2,2,0,D Webb,0,1,0,9,D,13,2019-11-09,Sheffield Weds,E1,6,7,7,20,A,4,Sheffield Weds_Swansea_2019
+189,15:00:00,1,Brentford,16,1,0,3,0,A Davies,1,1,1,17,A,7,2019-11-09,Wigan,E1,5,1,1,5,A,2,Wigan_Brentford_2019
+190,12:00:00,1,Bristol City,15,0,0,1,0,T Harrington,0,0,2,13,A,6,2019-11-10,Cardiff,E1,2,3,7,16,D,2,Cardiff_Bristol City_2019
+191,19:45:00,1,QPR,13,0,2,1,1,J Linington,0,1,0,15,H,19,2019-11-22,Fulham,E1,7,4,4,11,D,11,Fulham_QPR_2019
+192,12:30:00,1,Cardiff,12,0,2,2,2,D Bond,0,0,3,16,D,23,2019-11-23,Charlton,E1,8,4,5,15,H,4,Charlton_Cardiff_2019
+193,15:00:00,1,Barnsley,8,0,3,2,1,D Whitestone,0,0,1,14,H,16,2019-11-23,Blackburn,E1,5,5,2,9,H,3,Blackburn_Barnsley_2019
+194,15:00:00,3,Reading,13,0,1,0,0,D Coote,0,0,3,15,H,6,2019-11-23,Brentford,E1,1,4,8,11,D,7,Brentford_Reading_2019
+195,15:00:00,1,Nott'm Forest,15,1,0,0,0,C Pawson,0,0,2,13,D,12,2019-11-23,Bristol City,E1,3,0,6,7,D,6,Bristol City_Nott'm Forest_2019
+196,15:00:00,0,Preston,15,0,1,0,1,T Robinson,0,0,2,9,H,12,2019-11-23,Derby,E1,2,4,6,13,H,3,Derby_Preston_2019
+197,15:00:00,1,Birmingham,9,0,1,1,0,K Stroud,0,0,1,16,D,10,2019-11-23,Huddersfield,E1,2,6,5,17,D,2,Huddersfield_Birmingham_2019
+198,15:00:00,0,Leeds,7,0,1,2,0,J Brooks,0,0,1,11,A,21,2019-11-23,Luton,E1,12,5,4,11,D,8,Luton_Leeds_2019
+199,15:00:00,3,Wigan,13,0,2,1,0,G Eltringham,0,1,2,20,H,10,2019-11-23,Stoke,E1,2,4,3,16,A,5,Stoke_Wigan_2019
+200,15:00:00,1,Millwall,14,0,0,1,0,A Davies,0,0,2,10,A,13,2019-11-23,Swansea,E1,5,4,4,10,D,3,Swansea_Millwall_2019
+201,15:00:00,1,Sheffield Weds,10,1,2,1,1,T Harrington,0,0,3,20,H,15,2019-11-23,West Brom,E1,2,3,6,9,H,8,West Brom_Sheffield Weds_2019
+202,12:00:00,2,Hull,10,0,2,2,2,J Simpson,1,0,1,16,D,12,2019-11-24,Middlesbrough,E1,4,5,3,10,H,9,Middlesbrough_Hull_2019
+203,19:45:00,1,Stoke,11,0,1,0,1,G Ward,0,0,1,9,H,12,2019-11-26,Cardiff,E1,1,3,2,7,H,4,Cardiff_Stoke_2019
+204,19:45:00,1,Derby,9,0,3,0,2,A Woolmer,0,0,2,11,H,8,2019-11-26,Fulham,E1,0,8,6,17,H,3,Fulham_Derby_2019
+205,19:45:00,3,Swansea,14,0,1,1,1,J Gillett,1,1,2,11,D,6,2019-11-26,Huddersfield,E1,2,5,11,14,D,6,Huddersfield_Swansea_2019
+206,19:45:00,3,Charlton,9,0,2,1,1,D England,0,1,1,11,H,10,2019-11-26,Luton,E1,2,4,5,16,D,9,Luton_Charlton_2019
+207,19:45:00,2,Wigan,7,0,2,2,1,D Whitestone,0,1,1,13,D,14,2019-11-26,Millwall,E1,7,5,7,9,D,5,Millwall_Wigan_2019
+208,20:00:00,1,Leeds,12,0,0,1,0,D Bond,0,0,1,12,A,16,2019-11-26,Reading,E1,2,2,7,8,D,11,Reading_Leeds_2019
+209,19:45:00,2,Brentford,15,0,1,0,1,M Donohue,0,0,1,14,H,16,2019-11-27,Blackburn,E1,4,4,4,7,H,4,Blackburn_Brentford_2019
+210,19:45:00,1,Preston,11,0,4,0,1,J Moss,0,0,1,9,H,13,2019-11-27,Hull,E1,4,10,4,21,H,8,Hull_Preston_2019
+211,19:45:00,3,Barnsley,9,0,1,0,0,O Langford,0,0,0,13,H,14,2019-11-27,Middlesbrough,E1,2,5,8,12,D,3,Middlesbrough_Barnsley_2019
+212,19:45:00,1,Nott'm Forest,11,0,0,4,0,S Martin,1,1,2,8,A,14,2019-11-27,QPR,E1,8,4,5,11,A,6,QPR_Nott'm Forest_2019
+213,19:45:00,1,Birmingham,7,0,1,1,0,P Bankes,0,0,3,10,D,7,2019-11-27,Sheffield Weds,E1,2,5,12,24,D,1,Sheffield Weds_Birmingham_2019
+214,20:00:00,0,Bristol City,12,0,4,1,2,G Eltringham,0,0,2,11,H,9,2019-11-27,West Brom,E1,1,7,4,15,H,4,West Brom_Bristol City_2019
+215,19:45:00,0,Fulham,12,0,1,2,0,S Hooper,0,2,1,18,A,10,2019-11-29,Swansea,E1,4,7,6,18,A,0,Swansea_Fulham_2019
+216,12:30:00,2,Sheffield Weds,9,0,1,3,1,T Robinson,0,1,2,12,A,18,2019-11-30,Charlton,E1,8,2,1,8,D,7,Charlton_Sheffield Weds_2019
+217,15:00:00,0,Hull,9,0,3,1,1,J Brooks,0,0,1,15,H,6,2019-11-30,Barnsley,E1,1,5,6,11,H,6,Barnsley_Hull_2019
+218,15:00:00,0,Millwall,13,0,1,1,0,A Woolmer,0,0,0,11,D,11,2019-11-30,Birmingham,E1,5,3,5,10,D,3,Birmingham_Millwall_2019
+219,15:00:00,0,Luton,7,0,7,0,5,T Harrington,0,0,0,10,H,4,2019-11-30,Brentford,E1,1,12,9,21,H,3,Brentford_Luton_2019
+220,15:00:00,0,Huddersfield,6,0,5,2,4,D England,0,1,1,11,H,11,2019-11-30,Bristol City,E1,5,8,4,12,H,4,Bristol City_Huddersfield_2019
+221,15:00:00,1,QPR,10,0,1,1,1,D Webb,0,1,3,14,D,13,2019-11-30,Derby,E1,2,4,8,13,D,9,Derby_QPR_2019
+222,15:00:00,2,Middlesbrough,11,0,4,0,2,K Stroud,0,0,3,19,H,7,2019-11-30,Leeds,E1,1,10,4,16,H,1,Leeds_Middlesbrough_2019
+223,15:00:00,0,Cardiff,12,0,0,1,0,R Jones,0,1,1,14,A,10,2019-11-30,Nott'm Forest,E1,4,2,9,32,A,1,Nott'm Forest_Cardiff_2019
+224,15:00:00,0,Blackburn,9,0,1,2,0,K Friend,0,1,0,5,A,6,2019-11-30,Stoke,E1,5,4,6,16,A,2,Stoke_Blackburn_2019
+225,15:00:00,2,Reading,15,0,1,3,1,J Simpson,0,0,2,11,A,21,2019-11-30,Wigan,E1,5,7,4,9,H,3,Wigan_Reading_2019
+226,19:45:00,0,West Brom,10,0,0,1,0,O Langford,0,0,1,10,A,11,2019-12-02,Preston,E1,4,2,4,7,D,9,Preston_West Brom_2019
+227,19:45:00,1,Nott'm Forest,10,0,2,2,1,J Brooks,0,0,2,9,D,10,2019-12-06,Millwall,E1,5,5,10,16,H,2,Millwall_Nott'm Forest_2019
+228,12:30:00,2,Leeds,10,0,0,2,0,G Ward,0,0,3,15,A,14,2019-12-07,Huddersfield,E1,4,3,7,10,D,5,Huddersfield_Leeds_2019
+229,15:00:00,1,Derby,9,0,1,0,0,O Langford,0,0,1,13,H,13,2019-12-07,Blackburn,E1,1,3,7,11,D,3,Blackburn_Derby_2019
+230,15:00:00,1,Barnsley,10,0,3,2,1,P Tierney,0,1,5,18,H,14,2019-12-07,Cardiff,E1,2,2,8,11,D,5,Cardiff_Barnsley_2019
+231,15:00:00,6,Bristol City,15,0,1,2,0,J Simpson,0,1,2,6,A,12,2019-12-07,Fulham,E1,3,5,8,21,A,2,Fulham_Bristol City_2019
+232,15:00:00,0,Stoke,12,0,2,1,0,D Bond,0,1,0,7,H,6,2019-12-07,Hull,E1,4,6,7,23,A,4,Hull_Stoke_2019
+233,15:00:00,1,Wigan,9,1,2,1,0,A Madley,0,1,2,18,H,11,2019-12-07,Luton,E1,1,5,8,18,A,3,Luton_Wigan_2019
+234,15:00:00,1,Charlton,15,0,1,0,1,S Martin,0,0,3,20,H,5,2019-12-07,Middlesbrough,E1,2,3,4,23,H,5,Middlesbrough_Charlton_2019
+235,15:00:00,2,Preston,14,0,2,0,1,A Davies,0,0,2,19,H,8,2019-12-07,QPR,E1,3,6,2,11,H,2,QPR_Preston_2019
+236,15:00:00,1,Birmingham,19,0,2,3,1,T Robinson,0,1,1,7,A,16,2019-12-07,Reading,E1,5,4,8,14,D,5,Reading_Birmingham_2019
+237,15:00:00,1,Brentford,10,0,2,1,0,D Whitestone,0,1,2,7,H,12,2019-12-07,Sheffield Weds,E1,2,3,5,12,A,7,Sheffield Weds_Brentford_2019
+238,12:00:00,1,Swansea,15,0,5,1,3,K Stroud,0,1,2,11,H,11,2019-12-08,West Brom,E1,4,9,7,19,H,7,West Brom_Swansea_2019
+239,19:45:00,0,Millwall,6,0,1,2,0,G Ward,0,1,0,14,A,14,2019-12-10,Bristol City,E1,3,5,6,10,A,4,Bristol City_Millwall_2019
+240,19:45:00,3,Huddersfield,16,0,0,1,0,G Scott,0,0,2,15,A,15,2019-12-10,Charlton,E1,5,0,1,6,D,6,Charlton_Huddersfield_2019
+241,19:45:00,2,Hull,8,0,2,0,0,D Webb,0,0,1,11,H,11,2019-12-10,Leeds,E1,2,2,5,12,D,5,Leeds_Hull_2019
+242,19:45:00,4,Middlesbrough,13,0,1,1,0,A Woolmer,0,0,2,20,D,9,2019-12-10,Nott'm Forest,E1,3,3,10,9,D,1,Nott'm Forest_Middlesbrough_2019
+243,19:45:00,4,Fulham,13,1,2,1,1,K Stroud,1,0,1,12,H,15,2019-12-10,Preston,E1,1,7,6,19,H,5,Preston_Fulham_2019
+244,20:00:00,1,Luton,16,0,3,0,2,J Gillett,0,0,2,10,H,4,2019-12-10,Stoke,E1,1,8,7,15,H,4,Stoke_Luton_2019
+245,19:45:00,2,Reading,11,0,1,1,0,M Donohue,0,0,1,17,D,14,2019-12-11,Barnsley,E1,6,8,7,21,D,5,Barnsley_Reading_2019
+246,19:45:00,2,QPR,15,0,0,2,0,D Bond,0,1,2,15,A,6,2019-12-11,Birmingham,E1,2,2,9,16,A,0,Birmingham_QPR_2019
+247,19:45:00,2,Cardiff,13,0,2,1,1,J Brooks,0,0,2,11,H,10,2019-12-11,Brentford,E1,3,5,6,16,H,9,Brentford_Cardiff_2019
+248,19:45:00,3,Sheffield Weds,12,1,1,1,0,S Martin,0,1,3,14,D,12,2019-12-11,Derby,E1,3,2,5,11,A,12,Derby_Sheffield Weds_2019
+249,19:45:00,0,Blackburn,11,1,1,1,1,J Simpson,1,1,0,11,D,8,2019-12-11,Swansea,E1,2,3,12,14,D,3,Swansea_Blackburn_2019
+250,19:45:00,1,West Brom,14,0,1,1,0,A Davies,0,0,2,14,D,6,2019-12-11,Wigan,E1,2,5,4,14,D,3,Wigan_West Brom_2019
+251,19:45:00,2,Hull,7,0,2,2,1,A Davies,0,0,2,11,D,15,2019-12-13,Charlton,E1,5,2,4,5,H,9,Charlton_Hull_2019
+252,12:30:00,2,West Brom,11,0,2,3,1,D England,0,1,2,12,A,9,2019-12-14,Birmingham,E1,3,6,7,16,D,2,Birmingham_West Brom_2019
+253,15:00:00,4,QPR,9,0,5,3,2,K Stroud,0,1,3,14,H,12,2019-12-14,Barnsley,E1,6,7,3,13,H,2,Barnsley_QPR_2019
+254,15:00:00,1,Fulham,6,0,1,0,1,O Langford,0,0,1,13,H,11,2019-12-14,Brentford,E1,2,7,10,23,H,3,Brentford_Fulham_2019
+255,15:00:00,1,Blackburn,16,0,0,2,0,J Brooks,0,1,2,16,A,8,2019-12-14,Bristol City,E1,5,1,5,6,A,5,Bristol City_Blackburn_2019
+256,15:00:00,1,Millwall,13,0,0,1,0,C Kavanagh,0,1,2,9,A,7,2019-12-14,Derby,E1,2,1,9,11,A,3,Derby_Millwall_2019
+257,15:00:00,1,Cardiff,5,1,3,3,2,T Harrington,0,0,1,17,D,10,2019-12-14,Leeds,E1,3,8,14,25,H,3,Leeds_Cardiff_2019
+258,15:00:00,0,Sheffield Weds,6,0,0,4,0,J Linington,0,4,0,12,A,13,2019-12-14,Nott'm Forest,E1,6,3,4,9,A,4,Nott'm Forest_Sheffield Weds_2019
+259,15:00:00,0,Luton,13,0,2,1,1,G Ward,0,1,3,16,H,10,2019-12-14,Preston,E1,3,3,6,11,D,5,Preston_Luton_2019
+260,15:00:00,1,Reading,12,0,0,0,0,L Mason,0,0,3,12,D,3,2019-12-14,Stoke,E1,0,0,1,11,D,4,Stoke_Reading_2019
+261,15:00:00,2,Middlesbrough,13,2,3,1,1,D Whitestone,0,0,1,19,H,8,2019-12-14,Swansea,E1,3,7,6,10,H,6,Swansea_Middlesbrough_2019
+262,15:00:00,1,Huddersfield,13,0,1,1,1,S Martin,0,0,2,20,D,4,2019-12-14,Wigan,E1,4,2,3,7,H,2,Wigan_Huddersfield_2019
+263,19:45:00,2,Stoke,15,0,2,1,0,O Langford,0,0,4,15,H,12,2019-12-20,Middlesbrough,E1,3,4,4,7,D,2,Middlesbrough_Stoke_2019
+264,12:30:00,1,Preston,11,0,0,0,0,J Simpson,0,0,2,11,D,16,2019-12-21,Cardiff,E1,3,1,1,3,D,3,Cardiff_Preston_2019
+265,15:00:00,3,Leeds,15,0,2,1,1,T Robinson,0,0,4,15,H,15,2019-12-21,Fulham,E1,7,3,4,7,H,7,Fulham_Leeds_2019
+266,15:00:00,3,Nott'm Forest,5,0,2,1,1,A Davies,0,0,3,10,H,15,2019-12-21,Huddersfield,E1,5,5,5,13,H,9,Huddersfield_Nott'm Forest_2019
+267,15:00:00,2,Birmingham,6,0,3,0,1,A Backhouse,0,0,2,8,H,12,2019-12-21,Hull,E1,2,6,9,14,H,6,Hull_Birmingham_2019
+268,15:00:00,1,Swansea,6,0,0,1,0,D Webb,0,0,2,12,A,20,2019-12-21,Luton,E1,4,1,4,14,D,8,Luton_Swansea_2019
+269,15:00:00,2,Barnsley,10,0,1,2,0,J Gillett,0,1,4,17,A,13,2019-12-21,Millwall,E1,6,1,8,16,A,3,Millwall_Barnsley_2019
+270,15:00:00,3,Charlton,13,0,2,2,1,M Donohue,0,0,4,14,D,11,2019-12-21,QPR,E1,4,9,9,21,H,8,QPR_Charlton_2019
+271,15:00:00,2,Derby,8,1,3,0,1,M Salisbury,0,0,7,17,H,16,2019-12-21,Reading,E1,6,7,6,14,H,6,Reading_Derby_2019
+272,15:00:00,2,Brentford,13,0,1,1,1,D Bond,0,1,1,3,D,15,2019-12-21,West Brom,E1,3,4,6,12,D,7,West Brom_Brentford_2019
+273,12:00:00,1,Bristol City,14,0,1,0,0,T Harrington,0,0,3,14,H,3,2019-12-22,Sheffield Weds,E1,1,6,8,15,D,1,Sheffield Weds_Bristol City_2019
+274,19:45:00,1,Wigan,12,0,0,0,0,G Ward,0,0,2,14,D,12,2019-12-23,Blackburn,E1,4,4,7,10,D,5,Blackburn_Wigan_2019
+275,15:00:00,1,West Brom,8,0,1,1,0,T Harrington,0,1,3,15,D,7,2019-12-26,Barnsley,E1,2,8,6,22,A,2,Barnsley_West Brom_2019
+276,15:00:00,3,Birmingham,16,0,1,1,0,R Jones,0,0,3,23,D,13,2019-12-26,Blackburn,E1,3,3,3,11,D,2,Blackburn_Birmingham_2019
+277,15:00:00,0,Swansea,8,0,3,1,2,A Woolmer,0,0,2,12,H,16,2019-12-26,Brentford,E1,4,4,7,19,H,2,Brentford_Swansea_2019
+278,15:00:00,0,Millwall,12,0,1,1,0,D Webb,0,0,0,8,D,7,2019-12-26,Cardiff,E1,3,5,5,13,D,8,Cardiff_Millwall_2019
+279,15:00:00,3,Bristol City,11,0,3,2,1,K Stroud,0,0,1,14,H,12,2019-12-26,Charlton,E1,4,6,6,14,H,10,Charlton_Bristol City_2019
+280,15:00:00,4,Nott'm Forest,14,0,0,2,0,G Eltringham,0,1,2,16,A,10,2019-12-26,Hull,E1,4,1,6,10,A,2,Hull_Nott'm Forest_2019
+281,15:00:00,0,Fulham,9,0,3,3,2,D Whitestone,0,1,0,11,D,19,2019-12-26,Luton,E1,12,3,6,10,H,8,Luton_Fulham_2019
+282,15:00:00,3,Huddersfield,12,0,1,0,1,D England,0,0,4,7,H,8,2019-12-26,Middlesbrough,E1,3,3,5,14,H,4,Middlesbrough_Huddersfield_2019
+283,15:00:00,0,Sheffield Weds,6,0,3,2,1,J Brooks,0,0,2,25,H,4,2019-12-26,Stoke,E1,3,8,8,17,H,2,Stoke_Sheffield Weds_2019
+284,15:00:00,1,Derby,12,0,1,1,0,J Gillett,0,0,3,22,D,7,2019-12-26,Wigan,E1,3,4,10,11,D,2,Wigan_Derby_2019
+285,17:15:00,3,Preston,11,0,1,1,0,D Bond,0,1,4,22,D,12,2019-12-26,Leeds,E1,2,4,12,17,A,4,Leeds_Preston_2019
+286,19:30:00,1,QPR,11,0,1,0,0,J Linington,0,0,0,15,H,16,2019-12-26,Reading,E1,4,4,7,13,D,6,Reading_QPR_2019
+287,15:00:00,5,Leeds,10,0,4,5,1,K Stroud,0,2,3,11,A,11,2019-12-29,Birmingham,E1,5,4,7,15,A,9,Birmingham_Leeds_2019
+288,15:00:00,1,Luton,13,0,3,0,2,O Langford,0,0,4,17,H,9,2019-12-29,Bristol City,E1,1,8,5,14,H,4,Bristol City_Luton_2019
+289,15:00:00,2,Stoke,11,0,1,0,1,A Davies,0,0,3,14,H,11,2019-12-29,Fulham,E1,6,5,5,10,H,3,Fulham_Stoke_2019
+290,15:00:00,2,Blackburn,15,0,2,1,1,A Woolmer,0,1,1,13,H,10,2019-12-29,Huddersfield,E1,3,4,7,17,D,3,Huddersfield_Blackburn_2019
+291,15:00:00,3,Brentford,9,0,1,0,1,R Jones,0,0,1,8,H,6,2019-12-29,Millwall,E1,2,2,4,8,H,5,Millwall_Brentford_2019
+292,15:00:00,0,Wigan,15,0,1,0,0,M Donohue,0,0,2,14,H,14,2019-12-29,Nott'm Forest,E1,4,2,2,9,D,13,Nott'm Forest_Wigan_2019
+293,15:00:00,0,Reading,12,0,0,2,0,J Gillett,0,2,0,5,A,12,2019-12-29,Preston,E1,3,5,8,21,A,1,Preston_Reading_2019
+294,15:00:00,0,Hull,10,0,1,2,1,G Ward,0,1,2,15,A,5,2019-12-29,QPR,E1,3,4,7,13,D,0,QPR_Hull_2019
+295,15:00:00,1,Cardiff,10,0,1,2,1,T Robinson,0,2,2,13,A,9,2019-12-29,Sheffield Weds,E1,3,3,8,18,A,0,Sheffield Weds_Cardiff_2019
+296,15:00:00,1,Barnsley,17,0,0,0,0,A Coggins,0,0,4,12,D,12,2019-12-29,Swansea,E1,1,5,7,11,D,3,Swansea_Barnsley_2019
+297,15:00:00,4,Middlesbrough,16,0,0,2,0,G Eltringham,0,1,3,12,A,15,2019-12-29,West Brom,E1,10,5,5,11,A,12,West Brom_Middlesbrough_2019
+298,19:45:00,1,Charlton,5,0,2,1,1,J Simpson,1,0,5,21,H,11,2019-12-30,Derby,E1,5,7,5,12,H,2,Derby_Charlton_2019
+299,12:45:00,0,Luton,10,0,3,1,0,S Martin,0,1,0,13,H,6,2020-01-01,Millwall,E1,4,7,5,20,A,1,Millwall_Luton_2019
+300,15:00:00,0,Wigan,17,0,2,3,1,D Webb,0,1,2,13,A,10,2020-01-01,Birmingham,E1,7,5,3,13,D,11,Birmingham_Wigan_2019
+301,15:00:00,2,Brentford,6,0,0,4,0,M Donohue,1,2,2,13,A,16,2020-01-01,Bristol City,E1,8,2,2,6,A,5,Bristol City_Brentford_2019
+302,15:00:00,4,Reading,15,0,1,2,0,G Eltringham,0,1,3,11,A,11,2020-01-01,Fulham,E1,3,6,9,20,A,2,Fulham_Reading_2019
+303,15:00:00,5,Stoke,10,0,2,5,0,J Linington,0,1,2,19,A,15,2020-01-01,Huddersfield,E1,6,3,5,6,A,5,Huddersfield_Stoke_2019
+304,15:00:00,1,Blackburn,17,0,3,2,2,D Bond,0,1,1,9,H,11,2020-01-01,Nott'm Forest,E1,3,5,6,10,H,5,Nott'm Forest_Blackburn_2019
+305,15:00:00,0,Middlesbrough,4,0,0,2,0,J Brooks,0,1,2,18,A,18,2020-01-01,Preston,E1,5,2,6,11,A,3,Preston_Middlesbrough_2019
+306,15:00:00,2,Cardiff,9,0,6,1,3,D England,0,0,1,10,H,12,2020-01-01,QPR,E1,2,7,4,14,H,10,QPR_Cardiff_2019
+307,15:00:00,2,Hull,14,0,0,1,0,J Simpson,0,0,1,15,A,9,2020-01-01,Sheffield Weds,E1,3,5,1,12,D,2,Sheffield Weds_Hull_2019
+308,17:15:00,2,Leeds,18,0,1,1,1,R Jones,0,0,3,13,D,10,2020-01-01,West Brom,E1,2,6,8,13,H,9,West Brom_Leeds_2019
+309,19:45:00,1,Barnsley,8,0,2,1,1,D Whitestone,0,0,0,11,H,14,2020-01-02,Derby,E1,4,4,5,15,H,6,Derby_Barnsley_2019
+310,19:45:00,1,Charlton,8,0,1,0,1,P Bankes,0,0,3,9,H,7,2020-01-02,Swansea,E1,5,3,7,14,H,5,Swansea_Charlton_2019
+311,12:30:00,0,QPR,8,0,3,1,3,J Brooks,0,0,5,17,H,4,2020-01-11,Brentford,E1,2,6,8,14,H,0,Brentford_QPR_2019
+312,15:00:00,2,Huddersfield,13,0,2,1,1,S Hooper,0,0,5,22,H,10,2020-01-11,Barnsley,E1,2,2,4,7,H,4,Barnsley_Huddersfield_2019
+313,15:00:00,2,Preston,10,0,1,1,1,J Linington,0,1,0,12,D,9,2020-01-11,Blackburn,E1,2,4,6,14,D,2,Blackburn_Preston_2019
+314,15:00:00,2,West Brom,10,0,2,2,1,J Gillett,0,1,6,14,D,19,2020-01-11,Charlton,E1,5,2,5,7,D,5,Charlton_West Brom_2019
+315,15:00:00,1,Fulham,12,0,0,1,0,M Donohue,0,1,4,10,A,4,2020-01-11,Hull,E1,1,2,2,9,A,2,Hull_Fulham_2019
+316,15:00:00,1,Sheffield Weds,8,0,0,2,0,O Langford,0,0,2,16,A,10,2020-01-11,Leeds,E1,2,5,7,14,D,5,Leeds_Sheffield Weds_2019
+317,15:00:00,1,Birmingham,7,1,1,2,0,G Scott,0,1,3,20,A,10,2020-01-11,Luton,E1,7,2,5,9,A,5,Luton_Birmingham_2019
+318,15:00:00,1,Derby,11,0,2,2,1,T Robinson,0,0,2,13,D,7,2020-01-11,Middlesbrough,E1,3,5,5,15,H,2,Middlesbrough_Derby_2019
+319,15:00:00,4,Nott'm Forest,10,0,1,1,0,D Whitestone,0,0,2,19,D,13,2020-01-11,Reading,E1,3,3,10,17,D,9,Reading_Nott'm Forest_2019
+320,15:00:00,1,Millwall,9,1,0,0,0,J Simpson,0,0,1,10,D,5,2020-01-11,Stoke,E1,3,2,6,9,D,3,Stoke_Millwall_2019
+321,15:00:00,1,Bristol City,9,0,0,2,0,S Martin,0,0,1,10,A,6,2020-01-11,Wigan,E1,3,7,5,17,D,6,Wigan_Bristol City_2019
+322,12:00:00,4,Swansea,16,0,0,0,0,T Harrington,0,0,2,11,D,12,2020-01-12,Cardiff,E1,1,3,4,14,D,8,Cardiff_Swansea_2019
+323,19:45:00,1,Middlesbrough,10,0,1,0,1,D Webb,0,0,1,6,H,8,2020-01-17,Fulham,E1,0,6,3,17,H,8,Fulham_Middlesbrough_2019
+324,12:30:00,4,Leeds,17,1,1,0,1,P Bankes,0,0,3,11,H,17,2020-01-18,QPR,E1,3,2,4,9,H,11,QPR_Leeds_2019
+325,15:00:00,1,Cardiff,11,0,1,1,1,A Davies,0,0,3,10,D,6,2020-01-18,Birmingham,E1,2,3,8,14,H,6,Birmingham_Cardiff_2019
+326,15:00:00,1,Barnsley,8,0,1,0,0,D Bond,0,0,2,14,H,16,2020-01-18,Bristol City,E1,3,2,9,10,D,5,Bristol City_Barnsley_2019
+327,15:00:00,3,Hull,12,0,1,0,0,A Woolmer,0,0,0,12,H,9,2020-01-18,Derby,E1,1,2,5,12,D,5,Derby_Hull_2019
+328,15:00:00,1,Brentford,12,0,0,0,0,O Langford,0,0,0,8,D,11,2020-01-18,Huddersfield,E1,3,1,6,6,D,4,Huddersfield_Brentford_2019
+329,15:00:00,1,Reading,12,0,2,0,0,K Stroud,0,0,3,9,H,8,2020-01-18,Millwall,E1,0,8,10,22,D,1,Millwall_Reading_2019
+330,15:00:00,1,Charlton,7,0,2,1,1,D Whitestone,0,1,0,6,H,6,2020-01-18,Preston,E1,2,8,3,14,D,4,Preston_Charlton_2019
+331,15:00:00,1,Blackburn,14,0,0,5,0,J Gillett,1,3,1,11,A,15,2020-01-18,Sheffield Weds,E1,9,1,1,4,A,5,Sheffield Weds_Blackburn_2019
+332,15:00:00,0,Wigan,8,0,2,1,1,J Linington,0,1,1,14,H,12,2020-01-18,Swansea,E1,2,3,6,13,D,5,Swansea_Wigan_2019
+333,12:00:00,0,Luton,11,0,3,1,1,T Harrington,0,1,3,19,H,8,2020-01-19,Nott'm Forest,E1,2,5,12,22,D,2,Nott'm Forest_Luton_2019
+334,20:00:00,1,Stoke,10,0,0,1,0,T Robinson,0,1,3,18,A,4,2020-01-20,West Brom,E1,2,2,7,16,A,1,West Brom_Stoke_2019
+335,19:45:00,1,Preston,17,0,0,3,0,J Simpson,0,3,1,10,A,14,2020-01-21,Barnsley,E1,3,3,7,10,A,1,Barnsley_Preston_2019
+336,19:45:00,0,Birmingham,10,0,1,1,0,A Woolmer,0,1,1,11,D,11,2020-01-21,Middlesbrough,E1,4,2,7,16,A,5,Middlesbrough_Birmingham_2019
+337,19:45:00,1,Fulham,7,0,0,0,0,S Martin,0,0,1,13,D,11,2020-01-22,Charlton,E1,4,1,6,4,D,6,Charlton_Fulham_2019
+338,19:45:00,1,Reading,11,0,1,1,0,D Webb,0,0,2,12,D,12,2020-01-22,Nott'm Forest,E1,4,4,5,15,D,4,Nott'm Forest_Reading_2019
+339,15:00:00,0,Swansea,11,0,2,0,0,G Ward,0,0,2,7,H,11,2020-01-25,Stoke,E1,3,5,1,16,D,11,Stoke_Swansea_2019
+340,19:45:00,1,QPR,7,0,2,1,2,D Bond,0,1,3,10,H,9,2020-01-28,Blackburn,E1,4,6,6,12,H,2,Blackburn_QPR_2019
+341,19:45:00,1,Nott'm Forest,12,0,0,1,0,T Robinson,0,1,1,11,A,8,2020-01-28,Brentford,E1,2,3,10,13,A,6,Brentford_Nott'm Forest_2019
+342,19:45:00,1,West Brom,16,0,2,1,0,R Jones,0,0,0,11,H,16,2020-01-28,Cardiff,E1,3,5,1,10,D,7,Cardiff_West Brom_2019
+343,19:45:00,0,Huddersfield,8,0,1,2,0,S Martin,0,1,1,10,A,14,2020-01-28,Hull,E1,4,5,8,20,A,7,Hull_Huddersfield_2019
+344,19:45:00,2,Millwall,12,0,3,2,0,D England,0,2,1,10,H,11,2020-01-28,Leeds,E1,5,11,7,28,A,3,Leeds_Millwall_2019
+345,19:45:00,1,Derby,7,1,3,2,0,A Davies,0,0,4,18,H,15,2020-01-28,Luton,E1,4,5,10,8,D,3,Luton_Derby_2019
+346,19:45:00,0,Sheffield Weds,8,0,2,1,0,D Webb,0,1,0,15,H,9,2020-01-28,Wigan,E1,4,5,7,17,A,3,Wigan_Sheffield Weds_2019
+347,20:00:00,1,Bristol City,9,0,0,1,0,J Linington,0,0,3,10,A,11,2020-01-28,Reading,E1,3,5,10,16,D,3,Reading_Bristol City_2019
+348,19:45:00,3,Reading,17,0,1,1,0,S Hooper,0,1,2,13,D,8,2020-01-31,Cardiff,E1,2,4,8,18,A,5,Cardiff_Reading_2019
+349,19:45:00,2,Stoke,15,0,4,0,2,R Jones,0,0,2,16,H,7,2020-01-31,Derby,E1,1,5,1,10,H,7,Derby_Stoke_2019
+350,12:30:00,0,Brentford,7,0,1,5,1,D Bond,0,2,1,9,A,15,2020-02-01,Hull,E1,11,1,2,9,A,5,Hull_Brentford_2019
+351,15:00:00,1,Nott'm Forest,14,0,2,1,1,J Simpson,0,1,1,9,H,12,2020-02-01,Birmingham,E1,3,4,5,13,D,5,Birmingham_Nott'm Forest_2019
+352,15:00:00,1,Barnsley,9,0,2,1,2,J Brooks,0,0,4,15,H,16,2020-02-01,Charlton,E1,6,4,6,8,H,6,Charlton_Barnsley_2019
+353,15:00:00,4,Huddersfield,12,0,3,2,3,G Ward,0,2,1,10,H,12,2020-02-01,Fulham,E1,8,3,2,10,H,6,Fulham_Huddersfield_2019
+354,15:00:00,0,Wigan,10,0,0,1,0,T Harrington,0,0,2,15,A,5,2020-02-01,Leeds,E1,2,5,13,18,D,6,Leeds_Wigan_2019
+355,15:00:00,0,Blackburn,12,0,1,1,0,M Donohue,0,0,2,12,D,7,2020-02-01,Middlesbrough,E1,2,6,6,18,D,2,Middlesbrough_Blackburn_2019
+356,15:00:00,1,Swansea,15,0,1,1,1,G Eltringham,0,1,3,15,D,11,2020-02-01,Preston,E1,3,2,3,10,D,3,Preston_Swansea_2019
+357,15:00:00,0,Bristol City,11,0,0,1,0,D Whitestone,0,1,0,12,A,11,2020-02-01,QPR,E1,5,1,10,18,A,5,QPR_Bristol City_2019
+358,15:00:00,4,Millwall,20,0,0,0,0,D Coote,0,0,3,13,D,7,2020-02-01,Sheffield Weds,E1,2,2,6,15,D,2,Sheffield Weds_Millwall_2019
+359,15:00:00,0,Luton,13,0,2,0,1,S Martin,0,0,1,9,H,6,2020-02-01,West Brom,E1,0,6,11,16,H,5,West Brom_Luton_2019
+360,19:45:00,0,Birmingham,8,0,1,3,1,G Ward,0,2,0,13,A,9,2020-02-07,Bristol City,E1,3,2,6,13,A,4,Bristol City_Birmingham_2019
+361,12:30:00,1,Preston,13,0,1,2,0,D England,0,1,3,10,A,15,2020-02-08,Wigan,E1,4,4,11,12,A,8,Wigan_Preston_2019
+362,13:30:00,1,Sheffield Weds,7,0,1,1,1,T Robinson,0,1,2,19,D,6,2020-02-08,Barnsley,E1,2,4,6,12,D,6,Barnsley_Sheffield Weds_2019
+363,15:00:00,0,Fulham,8,0,0,1,0,T Harrington,0,0,1,14,A,11,2020-02-08,Blackburn,E1,4,1,4,4,D,6,Blackburn_Fulham_2019
+364,15:00:00,0,Middlesbrough,11,0,3,2,1,P Bankes,0,0,1,12,H,10,2020-02-08,Brentford,E1,5,5,7,14,H,4,Brentford_Middlesbrough_2019
+365,15:00:00,0,QPR,15,0,2,0,0,D Webb,0,0,3,15,H,8,2020-02-08,Huddersfield,E1,2,7,4,16,D,3,Huddersfield_QPR_2019
+366,15:00:00,0,Cardiff,9,0,0,1,0,J Linington,0,0,1,14,A,15,2020-02-08,Luton,E1,2,2,4,10,D,7,Luton_Cardiff_2019
+367,15:00:00,1,Hull,8,0,1,1,0,A Davies,0,0,3,12,D,14,2020-02-08,Reading,E1,7,5,3,19,D,4,Reading_Hull_2019
+368,15:00:00,0,Charlton,22,0,3,1,1,J Gillett,0,1,5,15,H,5,2020-02-08,Stoke,E1,2,6,8,13,D,4,Stoke_Charlton_2019
+369,15:00:00,1,Derby,7,0,2,3,0,M Donohue,0,1,4,16,A,8,2020-02-08,Swansea,E1,4,7,3,16,A,2,Swansea_Derby_2019
+370,17:30:00,3,Leeds,11,0,2,0,1,O Langford,0,0,3,14,H,13,2020-02-08,Nott'm Forest,E1,1,6,3,14,H,8,Nott'm Forest_Leeds_2019
+371,13:30:00,2,West Brom,11,0,0,2,0,G Ward,0,1,2,14,A,29,2020-02-09,Millwall,E1,6,3,4,7,A,9,Millwall_West Brom_2019
+372,19:45:00,1,Birmingham,8,0,0,1,0,D Whitestone,0,0,1,8,A,11,2020-02-11,Barnsley,E1,2,4,3,9,D,5,Barnsley_Birmingham_2019
+373,19:45:00,1,Hull,9,0,3,0,0,J Simpson,0,0,2,11,H,10,2020-02-11,Blackburn,E1,0,11,7,26,D,3,Blackburn_Hull_2019
+374,19:45:00,0,Leeds,8,0,1,1,1,R Jones,0,1,0,8,D,13,2020-02-11,Brentford,E1,6,2,3,7,D,10,Brentford_Leeds_2019
+375,19:45:00,2,Charlton,8,0,0,1,0,D Bond,0,1,4,13,A,11,2020-02-11,Nott'm Forest,E1,3,2,6,17,A,5,Nott'm Forest_Charlton_2019
+376,19:45:00,1,QPR,17,0,0,0,0,A Woolmer,0,0,2,12,D,16,2020-02-11,Swansea,E1,4,0,4,8,D,3,Swansea_QPR_2019
+377,19:45:00,5,Middlesbrough,16,0,2,2,1,O Langford,1,0,3,13,D,9,2020-02-11,Wigan,E1,2,4,3,6,H,6,Wigan_Middlesbrough_2019
+378,19:45:00,0,Derby,11,0,3,2,2,G Eltringham,0,0,1,11,H,11,2020-02-12,Bristol City,E1,4,5,9,16,H,6,Bristol City_Derby_2019
+379,19:45:00,1,Cardiff,9,0,0,3,0,D England,0,2,2,10,A,11,2020-02-12,Huddersfield,E1,6,4,5,19,A,6,Huddersfield_Cardiff_2019
+380,19:45:00,3,Sheffield Weds,14,0,1,0,1,G Ward,0,0,1,16,H,14,2020-02-12,Luton,E1,2,4,5,10,H,3,Luton_Sheffield Weds_2019
+381,19:45:00,1,Fulham,9,0,1,1,1,A Madley,0,1,2,12,D,9,2020-02-12,Millwall,E1,2,2,4,9,D,3,Millwall_Fulham_2019
+382,20:00:00,2,West Brom,13,0,1,2,1,M Donohue,0,1,2,15,A,26,2020-02-12,Reading,E1,7,1,8,11,D,4,Reading_West Brom_2019
+383,20:00:00,3,Preston,11,0,0,2,0,J Brooks,0,0,2,14,A,4,2020-02-12,Stoke,E1,3,5,7,14,D,4,Stoke_Preston_2019
+384,19:45:00,0,Swansea,10,0,4,4,1,D Webb,0,1,3,10,D,20,2020-02-14,Hull,E1,6,4,3,11,D,8,Hull_Swansea_2019
+385,12:30:00,1,Nott'm Forest,8,0,2,2,1,K Stroud,0,1,3,11,D,8,2020-02-15,West Brom,E1,1,9,8,18,D,0,West Brom_Nott'm Forest_2019
+386,15:00:00,2,Brentford,8,0,1,1,1,S Martin,0,1,3,9,D,12,2020-02-15,Birmingham,E1,4,4,3,11,D,8,Birmingham_Brentford_2019
+387,15:00:00,3,Wigan,18,0,2,2,1,J Jbrooks,0,2,3,12,D,11,2020-02-15,Cardiff,E1,4,5,9,15,A,8,Cardiff_Wigan_2019
+388,15:00:00,0,Blackburn,15,0,0,2,0,A Davies,0,2,3,12,A,14,2020-02-15,Charlton,E1,5,7,4,9,A,4,Charlton_Blackburn_2019
+389,15:00:00,3,Huddersfield,10,0,1,1,0,C Pawson,0,0,0,8,D,10,2020-02-15,Derby,E1,3,7,4,10,D,5,Derby_Huddersfield_2019
+390,15:00:00,1,Barnsley,9,0,0,3,0,J Linington,0,1,1,17,A,14,2020-02-15,Fulham,E1,6,8,10,21,A,3,Fulham_Barnsley_2019
+391,15:00:00,2,Bristol City,13,0,1,0,1,T Robinson,0,0,2,14,H,3,2020-02-15,Leeds,E1,1,6,12,21,H,0,Leeds_Bristol City_2019
+392,15:00:00,1,Luton,9,0,0,1,0,J Gillett,0,1,4,14,A,10,2020-02-15,Middlesbrough,E1,1,0,8,7,A,9,Middlesbrough_Luton_2019
+393,15:00:00,3,Millwall,5,0,0,1,0,T Harrington,0,0,0,11,A,16,2020-02-15,Preston,E1,6,3,1,10,D,8,Preston_Millwall_2019
+394,15:00:00,4,Stoke,11,0,4,2,2,O Langford,0,2,2,11,H,15,2020-02-15,QPR,E1,4,9,8,13,D,5,QPR_Stoke_2019
+395,15:00:00,0,Reading,21,0,0,3,0,A Woolmer,1,1,2,12,A,9,2020-02-15,Sheffield Weds,E1,5,3,5,10,A,3,Sheffield Weds_Reading_2019
+396,19:45:00,0,Fulham,12,0,1,1,0,D Bond,0,0,1,11,D,17,2020-02-21,Derby,E1,5,7,11,14,D,4,Derby_Fulham_2019
+397,12:30:00,1,Blackburn,12,0,2,2,0,T Robinson,0,1,0,10,D,11,2020-02-22,Brentford,E1,6,9,7,20,A,1,Brentford_Blackburn_2019
+398,15:00:00,2,Middlesbrough,8,0,1,0,0,G Eltringham,0,0,0,7,H,5,2020-02-22,Barnsley,E1,0,4,6,18,D,2,Barnsley_Middlesbrough_2019
+399,15:00:00,1,Sheffield Weds,13,0,3,3,2,J Brooks,0,2,5,15,D,10,2020-02-22,Birmingham,E1,5,4,4,11,D,3,Birmingham_Sheffield Weds_2019
+400,15:00:00,2,West Brom,14,1,0,3,0,D England,0,2,1,13,A,17,2020-02-22,Bristol City,E1,8,1,3,7,A,7,Bristol City_West Brom_2019
+401,15:00:00,2,Luton,10,0,3,1,1,A Marriner,0,1,1,8,H,9,2020-02-22,Charlton,E1,2,3,6,12,D,5,Charlton_Luton_2019
+402,15:00:00,1,Reading,12,0,1,0,0,J Gillett,0,0,2,10,H,8,2020-02-22,Leeds,E1,2,5,6,18,D,3,Leeds_Reading_2019
+403,15:00:00,1,QPR,11,0,0,0,0,R Jones,0,0,3,17,D,6,2020-02-22,Nott'm Forest,E1,3,2,10,12,D,2,Nott'm Forest_QPR_2019
+404,15:00:00,1,Hull,8,0,2,1,0,S Martin,0,1,3,14,H,7,2020-02-22,Preston,E1,3,4,2,12,A,6,Preston_Hull_2019
+405,15:00:00,1,Cardiff,10,0,2,0,1,D Whitestone,0,0,1,7,H,10,2020-02-22,Stoke,E1,2,5,4,10,H,7,Stoke_Cardiff_2019
+406,15:00:00,1,Huddersfield,11,0,3,1,1,A Davies,0,0,1,12,H,7,2020-02-22,Swansea,E1,4,6,5,15,H,5,Swansea_Huddersfield_2019
+407,15:00:00,1,Millwall,10,0,1,0,0,J Simpson,0,0,3,14,H,11,2020-02-22,Wigan,E1,1,2,6,16,D,5,Wigan_Millwall_2019
+408,19:45:00,1,Nott'm Forest,14,0,0,1,0,S Martin,0,0,2,14,A,17,2020-02-25,Cardiff,E1,4,4,4,18,D,5,Cardiff_Nott'm Forest_2019
+409,19:45:00,2,Bristol City,7,0,2,1,1,R Jones,0,0,4,12,H,8,2020-02-25,Huddersfield,E1,3,6,2,20,H,2,Huddersfield_Bristol City_2019
+410,19:45:00,2,Brentford,14,0,2,1,2,D England,0,0,1,9,H,19,2020-02-25,Luton,E1,7,3,2,10,H,11,Luton_Brentford_2019
+411,19:45:00,3,Derby,12,0,2,1,1,K Stroud,0,1,1,9,H,15,2020-02-25,QPR,E1,4,6,4,15,D,9,QPR_Derby_2019
+412,20:00:00,0,Preston,8,1,2,0,2,K Friend,0,0,0,11,H,5,2020-02-25,West Brom,E1,0,9,7,21,H,2,West Brom_Preston_2019
+413,19:45:00,2,Stoke,10,0,0,0,0,D Bond,0,0,2,17,D,11,2020-02-26,Blackburn,E1,2,6,4,16,D,3,Blackburn_Stoke_2019
+414,19:45:00,0,Swansea,6,0,1,0,0,T Robinson,0,0,4,13,H,6,2020-02-26,Fulham,E1,2,6,11,15,D,4,Fulham_Swansea_2019
+415,19:45:00,1,Barnsley,11,0,0,1,0,D Coote,0,1,1,12,A,22,2020-02-26,Hull,E1,6,3,4,12,A,9,Hull_Barnsley_2019
+416,19:45:00,3,Leeds,14,0,0,1,0,G Ward,0,1,0,11,A,12,2020-02-26,Middlesbrough,E1,8,2,3,14,A,6,Middlesbrough_Leeds_2019
+417,19:45:00,1,Birmingham,7,0,0,0,0,D Webb,0,0,0,13,D,8,2020-02-26,Millwall,E1,0,3,14,12,D,2,Millwall_Birmingham_2019
+418,19:45:00,2,Charlton,17,0,1,0,0,O Langford,0,0,3,18,H,6,2020-02-26,Sheffield Weds,E1,1,8,12,24,D,3,Sheffield Weds_Charlton_2019
+419,20:00:00,3,Wigan,12,0,0,3,0,G Eltringham,0,1,1,12,A,17,2020-02-26,Reading,E1,10,4,5,10,A,8,Reading_Wigan_2019
+420,12:30:00,2,Leeds,13,0,0,4,0,K Stroud,0,1,1,13,A,17,2020-02-29,Hull,E1,8,2,5,8,A,11,Hull_Leeds_2019
+421,15:00:00,3,Swansea,17,0,2,2,1,P Bankes,0,1,5,13,D,9,2020-02-29,Blackburn,E1,3,5,2,16,D,1,Blackburn_Swansea_2019
+422,15:00:00,4,Brentford,14,0,2,2,2,S Hooper,0,2,1,6,D,10,2020-02-29,Cardiff,E1,5,6,2,11,D,7,Cardiff_Brentford_2019
+423,15:00:00,0,Preston,11,0,2,0,0,D Webb,0,0,0,6,H,8,2020-02-29,Fulham,E1,2,4,7,15,D,3,Fulham_Preston_2019
+424,15:00:00,1,Charlton,15,0,4,0,1,G Eltringham,0,0,2,13,H,10,2020-02-29,Huddersfield,E1,2,8,5,20,H,4,Huddersfield_Charlton_2019
+425,15:00:00,1,Stoke,11,0,1,1,0,A Woolmer,0,1,1,9,D,9,2020-02-29,Luton,E1,4,3,4,9,A,6,Luton_Stoke_2019
+426,15:00:00,1,Bristol City,14,0,1,1,0,A Davies,0,1,0,16,D,3,2020-02-29,Millwall,E1,1,4,5,12,A,7,Millwall_Bristol City_2019
+427,15:00:00,0,Birmingham,6,0,2,2,0,J Linington,0,1,0,15,D,13,2020-02-29,QPR,E1,4,6,6,14,A,3,QPR_Birmingham_2019
+428,15:00:00,1,Barnsley,11,0,2,0,1,J Simpson,0,0,3,15,H,23,2020-02-29,Reading,E1,6,4,2,7,H,4,Reading_Barnsley_2019
+429,15:00:00,2,Derby,14,0,1,3,0,D Whitestone,0,3,1,8,A,13,2020-02-29,Sheffield Weds,E1,5,4,9,15,A,3,Sheffield Weds_Derby_2019
+430,15:00:00,2,Wigan,10,0,0,1,0,T Harrington,0,0,1,6,A,13,2020-02-29,West Brom,E1,5,3,6,9,D,7,West Brom_Wigan_2019
+431,19:45:00,1,Nott'm Forest,13,0,2,2,2,D England,0,1,1,11,D,16,2020-03-02,Middlesbrough,E1,2,4,4,14,H,11,Middlesbrough_Nott'm Forest_2019
+432,19:45:00,1,Millwall,7,0,0,3,0,G Eltringham,0,3,1,7,A,13,2020-03-06,Nott'm Forest,E1,4,4,9,18,A,5,Nott'm Forest_Millwall_2019
+433,12:30:00,2,Fulham,8,0,1,1,0,D Coote,0,0,2,13,D,19,2020-03-07,Bristol City,E1,5,8,3,14,D,7,Bristol City_Fulham_2019
+434,15:00:00,0,Cardiff,10,0,0,2,0,J Linington,0,0,0,16,A,13,2020-03-07,Barnsley,E1,7,0,3,6,D,8,Barnsley_Cardiff_2019
+435,15:00:00,2,Reading,14,0,1,3,1,A Davies,0,0,1,7,A,9,2020-03-07,Birmingham,E1,4,4,4,18,H,2,Birmingham_Reading_2019
+436,15:00:00,0,Sheffield Weds,8,0,5,0,3,K Stroud,0,0,2,11,H,8,2020-03-07,Brentford,E1,3,6,4,12,H,7,Brentford_Sheffield Weds_2019
+437,15:00:00,2,Middlesbrough,9,0,0,1,0,S Martin,0,1,1,10,A,23,2020-03-07,Charlton,E1,4,3,3,13,A,9,Charlton_Middlesbrough_2019
+438,15:00:00,3,Huddersfield,13,0,2,0,1,O Langford,0,0,3,18,H,6,2020-03-07,Leeds,E1,2,5,2,16,H,3,Leeds_Huddersfield_2019
+439,15:00:00,2,QPR,16,1,1,3,1,D Whitestone,0,0,1,12,A,10,2020-03-07,Preston,E1,3,2,5,10,H,2,Preston_QPR_2019
+440,15:00:00,0,Hull,8,0,5,1,3,T Robinson,0,0,2,17,H,5,2020-03-07,Stoke,E1,1,7,4,16,H,3,Stoke_Hull_2019
+441,15:00:00,1,West Brom,9,0,0,0,0,R Jones,0,0,2,18,D,10,2020-03-07,Swansea,E1,1,2,3,9,D,4,Swansea_West Brom_2019
+442,15:00:00,1,Luton,11,0,0,0,0,G Ward,0,0,2,13,D,3,2020-03-07,Wigan,E1,1,2,6,12,D,3,Wigan_Luton_2019
+443,15:00:00,2,Blackburn,12,1,3,0,2,J Brooks,0,0,3,14,H,11,2020-03-08,Derby,E1,3,11,3,16,H,6,Derby_Blackburn_2019
+444,12:30:00,1,Brentford,11,0,0,2,0,J Linington,0,0,1,12,A,13,2020-06-20,Fulham,E1,5,4,2,9,D,5,Fulham_Brentford_2019
+445,12:30:00,2,Swansea,15,0,0,3,0,T Harrington,0,3,1,13,A,13,2020-06-20,Middlesbrough,E1,3,1,10,17,A,0,Middlesbrough_Swansea_2019
+446,13:00:00,0,Derby,10,0,2,3,1,S Martin,0,1,2,8,A,12,2020-06-20,Millwall,E1,5,4,6,12,D,3,Millwall_Derby_2019
+447,15:00:00,2,Bristol City,14,0,3,1,1,O Langford,0,1,2,21,H,7,2020-06-20,Blackburn,E1,1,4,2,9,D,1,Blackburn_Bristol City_2019
+448,15:00:00,2,Wigan,16,0,0,2,0,J Gillett,0,1,1,17,A,9,2020-06-20,Huddersfield,E1,5,1,3,9,A,2,Huddersfield_Wigan_2019
+449,15:00:00,1,Charlton,13,0,0,1,0,J Brooks,0,1,0,20,A,10,2020-06-20,Hull,E1,2,3,9,12,A,3,Hull_Charlton_2019
+450,15:00:00,1,Preston,9,0,1,1,0,J Brooks,0,0,0,7,D,12,2020-06-20,Luton,E1,4,1,5,5,D,7,Luton_Preston_2019
+451,15:00:00,0,Barnsley,11,0,0,1,0,A Davies,0,1,1,18,A,10,2020-06-20,QPR,E1,2,2,2,8,A,6,QPR_Barnsley_2019
+452,15:00:00,0,Stoke,11,0,1,1,1,M Salisbury,0,0,1,13,D,10,2020-06-20,Reading,E1,3,3,4,7,H,5,Reading_Stoke_2019
+453,15:00:00,3,Nott'm Forest,17,0,1,1,0,R Jones,0,0,3,15,D,10,2020-06-20,Sheffield Weds,E1,3,3,7,13,D,4,Sheffield Weds_Nott'm Forest_2019
+454,15:00:00,1,Birmingham,11,0,0,0,0,D Bond,0,0,3,11,D,7,2020-06-20,West Brom,E1,2,2,12,20,D,3,West Brom_Birmingham_2019
+455,12:00:00,2,Leeds,17,0,2,0,1,A Woolmer,0,0,4,12,H,13,2020-06-21,Cardiff,E1,3,2,2,7,H,10,Cardiff_Leeds_2019
+456,19:45:00,2,West Brom,18,0,1,0,1,K Stroud,0,0,1,14,H,12,2020-06-26,Brentford,E1,2,2,3,9,H,2,Brentford_West Brom_2019
+457,12:30:00,1,QPR,11,0,1,0,1,T Robinson,0,0,0,11,H,6,2020-06-27,Charlton,E1,1,5,10,12,H,1,Charlton_QPR_2019
+458,12:30:00,1,Cardiff,11,0,1,3,0,O Langford,0,0,2,10,A,13,2020-06-27,Preston,E1,6,3,3,14,D,5,Preston_Cardiff_2019
+459,12:30:00,2,Luton,12,0,0,1,0,A Woolmer,1,0,3,19,A,7,2020-06-27,Swansea,E1,2,3,6,10,D,2,Swansea_Luton_2019
+460,13:00:00,2,Millwall,12,0,0,0,0,J Simpson,0,0,2,16,D,9,2020-06-27,Barnsley,E1,1,5,4,9,D,8,Barnsley_Millwall_2019
+461,13:00:00,2,Reading,13,1,2,1,2,S Duncan,1,0,0,12,H,12,2020-06-27,Derby,E1,4,6,4,13,H,8,Derby_Reading_2019
+462,15:00:00,3,Hull,12,0,3,3,0,D Whitestone,0,2,0,10,D,12,2020-06-27,Birmingham,E1,3,4,4,14,A,5,Birmingham_Hull_2019
+463,15:00:00,2,Fulham,16,1,3,0,1,T Harrington,0,0,2,15,H,12,2020-06-27,Leeds,E1,5,5,4,10,H,4,Leeds_Fulham_2019
+464,15:00:00,0,Middlesbrough,16,0,0,2,0,M Donohue,0,1,1,16,A,8,2020-06-27,Stoke,E1,3,6,7,22,A,7,Stoke_Middlesbrough_2019
+465,15:00:00,1,Blackburn,13,0,2,0,0,D England,0,0,0,14,H,12,2020-06-27,Wigan,E1,3,3,3,13,D,6,Wigan_Blackburn_2019
+466,12:00:00,1,Sheffield Weds,13,0,1,2,0,J Brooks,0,1,2,17,A,12,2020-06-28,Bristol City,E1,4,3,3,7,A,9,Bristol City_Sheffield Weds_2019
+467,14:15:00,3,Huddersfield,14,1,3,1,1,D Webb,0,0,0,10,H,14,2020-06-28,Nott'm Forest,E1,4,6,3,14,H,11,Nott'm Forest_Huddersfield_2019
+468,17:00:00,2,Swansea,15,0,1,1,1,J Linington,0,0,1,8,D,9,2020-06-30,Millwall,E1,4,2,12,16,H,5,Millwall_Swansea_2019
+469,18:00:00,1,Blackburn,12,1,2,0,0,T Harrington,0,0,2,12,H,10,2020-06-30,Barnsley,E1,5,5,3,12,D,3,Barnsley_Blackburn_2019
+470,18:00:00,1,Charlton,10,0,0,0,0,S Martin,0,0,1,8,D,4,2020-06-30,Cardiff,E1,0,1,3,8,D,3,Cardiff_Charlton_2019
+471,18:00:00,0,Brentford,10,0,0,3,0,D Whitestone,0,1,1,11,A,19,2020-06-30,Reading,E1,9,1,3,5,A,6,Reading_Brentford_2019
+472,18:30:00,2,Fulham,8,0,1,2,1,G Ward,0,1,3,10,A,14,2020-06-30,QPR,E1,5,2,6,11,D,6,QPR_Fulham_2019
+473,19:45:00,0,Luton,9,0,1,1,0,J Brooks,0,0,5,10,D,3,2020-06-30,Leeds,E1,2,9,15,23,D,1,Leeds_Luton_2019
+474,19:45:00,1,Stoke,11,0,3,0,1,J Simpson,0,0,3,13,H,7,2020-06-30,Wigan,E1,1,7,6,16,H,4,Wigan_Stoke_2019
+475,17:00:00,0,Derby,10,0,0,1,0,J Gillett,0,1,0,11,A,8,2020-07-01,Preston,E1,3,1,7,9,A,5,Preston_Derby_2019
+476,18:00:00,0,Huddersfield,17,0,0,3,0,R Jones,0,1,1,20,A,12,2020-07-01,Birmingham,E1,6,2,4,10,A,4,Birmingham_Huddersfield_2019
+477,18:00:00,0,Bristol City,12,1,1,0,0,D Bond,0,0,2,11,H,8,2020-07-01,Nott'm Forest,E1,2,3,3,11,D,8,Nott'm Forest_Bristol City_2019
+478,19:45:00,0,West Brom,8,0,0,3,0,D Webb,0,1,4,13,A,9,2020-07-01,Sheffield Weds,E1,4,2,11,14,A,4,Sheffield Weds_West Brom_2019
+479,17:00:00,1,Middlesbrough,18,0,2,1,1,G Eltringham,0,1,1,21,H,14,2020-07-02,Hull,E1,3,3,0,8,D,5,Hull_Middlesbrough_2019
+480,20:15:00,3,Millwall,13,0,0,1,0,D Whitestone,0,0,3,14,A,12,2020-07-03,Charlton,E1,4,3,4,14,D,9,Charlton_Millwall_2019
+481,12:30:00,1,Nott'm Forest,12,0,1,1,0,D England,1,1,3,7,D,10,2020-07-04,Derby,E1,4,3,3,10,A,4,Derby_Nott'm Forest_2019
+482,15:00:00,1,Leeds,18,0,1,3,0,R Jones,0,2,2,12,A,17,2020-07-04,Blackburn,E1,5,3,0,11,A,4,Blackburn_Leeds_2019
+483,15:00:00,0,Wigan,9,1,3,0,1,M Donohue,0,0,1,14,H,3,2020-07-04,Brentford,E1,0,6,9,18,H,2,Brentford_Wigan_2019
+484,15:00:00,1,Cardiff,9,0,0,1,0,T Robinson,0,0,0,12,A,13,2020-07-04,Bristol City,E1,3,2,5,11,D,6,Bristol City_Cardiff_2019
+485,15:00:00,2,Birmingham,9,0,1,0,0,K Stroud,0,0,4,18,H,6,2020-07-04,Fulham,E1,2,5,9,15,D,4,Fulham_Birmingham_2019
+486,15:00:00,0,Preston,9,0,0,0,0,D Bond,0,0,0,14,D,9,2020-07-04,Huddersfield,E1,0,1,2,2,D,7,Huddersfield_Preston_2019
+487,15:00:00,0,Reading,11,0,0,5,0,J Linington,0,3,1,13,A,16,2020-07-04,Luton,E1,10,1,4,5,A,3,Luton_Reading_2019
+488,15:00:00,2,Barnsley,12,0,4,0,3,A Woolmer,0,0,0,15,H,5,2020-07-04,Stoke,E1,3,7,6,14,H,3,Stoke_Barnsley_2019
+489,12:00:00,2,Sheffield Weds,12,0,2,1,0,S Martin,0,0,1,20,H,10,2020-07-05,Swansea,E1,3,4,5,7,D,8,Swansea_Sheffield Weds_2019
+490,14:00:00,3,QPR,14,0,0,1,0,S Duncan,0,1,0,14,A,10,2020-07-05,Middlesbrough,E1,5,4,9,15,A,7,Middlesbrough_QPR_2019
+491,15:00:00,1,Hull,16,0,4,2,2,O Langford,1,1,1,16,H,15,2020-07-05,West Brom,E1,4,10,11,22,H,7,West Brom_Hull_2019
+492,17:00:00,2,Fulham,16,0,0,1,0,R Jones,0,1,2,12,A,9,2020-07-07,Nott'm Forest,E1,2,4,8,10,A,6,Nott'm Forest_Fulham_2019
+493,18:00:00,1,Charlton,10,0,2,1,0,J Brooks,0,1,1,9,H,6,2020-07-07,Brentford,E1,2,8,7,21,A,1,Brentford_Charlton_2019
+494,18:00:00,4,Barnsley,12,0,1,1,1,D Whitestone,0,0,2,14,D,21,2020-07-07,Luton,E1,7,5,3,10,H,11,Luton_Barnsley_2019
+495,18:00:00,1,Huddersfield,14,0,0,0,0,S Martin,0,0,2,10,D,11,2020-07-07,Reading,E1,3,2,4,7,D,2,Reading_Huddersfield_2019
+496,19:45:00,0,Blackburn,14,0,2,3,2,M Donohue,0,1,1,12,A,14,2020-07-07,Cardiff,E1,4,4,2,12,H,5,Cardiff_Blackburn_2019
+497,15:00:00,1,Middlesbrough,11,0,0,2,0,T Robinson,0,0,3,12,A,7,2020-07-08,Millwall,E1,3,4,8,10,D,2,Millwall_Middlesbrough_2019
+498,17:00:00,0,Derby,11,1,2,0,1,J Simpson,0,0,4,14,H,4,2020-07-08,West Brom,E1,0,7,8,18,H,0,West Brom_Derby_2019
+499,18:00:00,2,Swansea,16,0,1,3,1,J Gillett,0,2,3,6,A,10,2020-07-08,Birmingham,E1,4,5,9,20,A,4,Birmingham_Swansea_2019
+500,18:00:00,0,Hull,10,0,2,1,1,G Ward,0,0,3,20,H,18,2020-07-08,Bristol City,E1,4,5,3,9,H,6,Bristol City_Hull_2019
+501,18:00:00,1,QPR,12,0,1,0,1,G Eltringham,0,0,0,9,H,6,2020-07-08,Wigan,E1,2,6,9,16,H,2,Wigan_QPR_2019
+502,19:45:00,2,Preston,15,0,1,3,0,T Harrington,0,0,0,13,A,14,2020-07-08,Sheffield Weds,E1,5,2,7,13,D,2,Sheffield Weds_Preston_2019
+503,17:00:00,2,Stoke,8,0,5,0,1,D Bond,0,0,2,8,H,5,2020-07-09,Leeds,E1,0,11,7,19,H,3,Leeds_Stoke_2019
+504,18:00:00,2,Luton,19,0,0,2,0,G Eltringham,0,0,1,11,A,6,2020-07-10,Huddersfield,E1,2,2,6,11,D,2,Huddersfield_Luton_2019
+505,20:15:00,3,Cardiff,18,0,2,0,1,G Ward,0,0,1,13,H,13,2020-07-10,Fulham,E1,1,7,3,14,H,3,Fulham_Cardiff_2019
+506,12:30:00,4,Reading,18,0,0,1,0,D Bond,0,1,3,22,A,4,2020-07-11,Charlton,E1,2,2,8,15,A,1,Charlton_Reading_2019
+507,12:30:00,0,Brentford,9,0,1,3,1,T Robinson,0,1,1,9,A,17,2020-07-11,Derby,E1,6,3,6,9,D,3,Derby_Brentford_2019
+508,15:00:00,2,Wigan,13,1,0,0,0,D Robinson,0,0,3,15,D,6,2020-07-11,Barnsley,E1,0,5,5,13,D,3,Barnsley_Wigan_2019
+509,15:00:00,2,West Brom,14,0,1,1,0,J Gillett,0,1,2,12,D,18,2020-07-11,Blackburn,E1,8,4,3,7,A,7,Blackburn_West Brom_2019
+510,15:00:00,2,Millwall,20,0,0,1,0,M Donohue,0,1,0,9,A,10,2020-07-11,Hull,E1,2,5,2,12,A,4,Hull_Millwall_2019
+511,15:00:00,1,Bristol City,11,0,1,3,0,D England,0,2,0,9,A,12,2020-07-11,Middlesbrough,E1,6,4,9,14,A,7,Middlesbrough_Bristol City_2019
+512,15:00:00,2,Nott'm Forest,18,0,1,1,1,J Simpson,0,1,0,6,D,8,2020-07-11,Preston,E1,1,2,11,15,D,2,Preston_Nott'm Forest_2019
+513,15:00:00,1,Sheffield Weds,12,0,0,3,0,O Langford,0,2,2,12,A,14,2020-07-11,QPR,E1,6,1,7,7,A,4,QPR_Sheffield Weds_2019
+514,13:30:00,1,Birmingham,12,0,2,0,2,S Duncan,0,0,4,11,H,7,2020-07-12,Stoke,E1,1,5,8,15,H,7,Stoke_Birmingham_2019
+515,13:30:00,2,Leeds,12,0,0,1,0,K Stroud,0,0,3,19,A,12,2020-07-12,Swansea,E1,4,3,6,6,D,7,Swansea_Leeds_2019
+516,17:00:00,3,Fulham,12,0,0,0,0,G Eltringham,0,0,0,12,D,6,2020-07-14,West Brom,E1,2,3,8,12,D,7,West Brom_Fulham_2019
+517,18:00:00,2,Middlesbrough,11,0,1,2,1,A Woolmer,0,1,0,17,A,13,2020-07-14,Reading,E1,6,1,5,10,D,5,Reading_Middlesbrough_2019
+518,18:00:00,0,Hull,11,0,8,0,7,T Harrington,0,0,2,16,H,10,2020-07-14,Wigan,E1,4,9,4,14,H,3,Wigan_Hull_2019
+519,19:45:00,1,Derby,8,0,2,1,1,D Bond,0,1,0,9,H,8,2020-07-14,Cardiff,E1,2,8,3,14,D,2,Cardiff_Derby_2019
+520,19:45:00,1,QPR,9,0,1,1,1,S Martin,0,0,0,15,D,11,2020-07-14,Luton,E1,5,3,6,11,H,4,Luton_QPR_2019
+521,19:45:00,2,Blackburn,13,0,1,0,1,J Brooks,0,0,2,9,H,10,2020-07-14,Millwall,E1,2,4,7,11,H,4,Millwall_Blackburn_2019
+522,19:45:00,1,Huddersfield,13,0,0,0,0,D Whitestone,0,0,1,16,D,12,2020-07-14,Sheffield Weds,E1,1,4,6,13,D,5,Sheffield Weds_Huddersfield_2019
+523,17:00:00,2,Preston,15,0,1,0,1,D England,0,0,1,11,H,8,2020-07-15,Brentford,E1,4,3,4,14,H,6,Brentford_Preston_2019
+524,17:00:00,1,Stoke,10,0,1,1,1,J Linington,0,0,0,9,D,10,2020-07-15,Bristol City,E1,3,1,4,8,H,2,Bristol City_Stoke_2019
+525,18:00:00,3,Charlton,16,0,1,1,0,D Webb,0,0,1,10,D,7,2020-07-15,Birmingham,E1,3,7,5,23,D,1,Birmingham_Charlton_2019
+526,18:00:00,4,Swansea,15,1,2,2,1,O Langford,0,2,2,10,D,6,2020-07-15,Nott'm Forest,E1,2,2,5,8,A,3,Nott'm Forest_Swansea_2019
+527,17:00:00,1,Barnsley,9,0,1,0,1,J Gillett,0,0,1,15,H,12,2020-07-16,Leeds,E1,3,3,7,7,H,7,Leeds_Barnsley_2019
+528,17:30:00,4,West Brom,19,0,2,1,1,J Brooks,0,1,6,17,H,13,2020-07-17,Huddersfield,E1,4,4,2,7,D,7,Huddersfield_West Brom_2019
+529,12:30:00,1,Wigan,13,0,2,2,1,G Ward,0,2,3,19,D,16,2020-07-18,Charlton,E1,6,4,8,15,A,0,Charlton_Wigan_2019
+530,12:30:00,2,Brentford,14,0,1,0,1,G Eltringham,0,0,0,6,H,14,2020-07-18,Stoke,E1,3,2,0,6,H,4,Stoke_Brentford_2019
+531,15:00:00,1,Reading,15,0,4,3,2,T Robinson,0,1,0,13,H,13,2020-07-18,Blackburn,E1,3,5,5,17,H,4,Blackburn_Reading_2019
+532,15:00:00,1,Sheffield Weds,12,0,5,3,3,D England,1,0,0,14,H,14,2020-07-18,Fulham,E1,6,8,4,12,H,8,Fulham_Sheffield Weds_2019
+533,15:00:00,1,Luton,25,0,0,1,0,R Jones,0,0,2,11,A,16,2020-07-18,Hull,E1,4,2,3,8,D,6,Hull_Luton_2019
+534,15:00:00,2,Cardiff,13,0,1,3,0,J Simpson,1,1,2,11,A,13,2020-07-18,Middlesbrough,E1,4,5,8,12,A,5,Middlesbrough_Cardiff_2019
+535,15:00:00,2,Birmingham,11,0,2,0,1,S Martin,0,0,2,10,H,12,2020-07-18,Preston,E1,2,7,5,14,H,7,Preston_Birmingham_2019
+536,15:00:00,0,Millwall,11,0,4,3,1,J Linington,0,0,1,9,H,14,2020-07-18,QPR,E1,7,11,7,22,H,9,QPR_Millwall_2019
+537,15:00:00,0,Bristol City,8,0,1,0,1,D Bond,0,0,0,11,H,14,2020-07-18,Swansea,E1,1,7,2,17,H,8,Swansea_Bristol City_2019
+538,14:00:00,1,Leeds,8,0,1,3,0,O Langford,0,0,0,10,A,23,2020-07-19,Derby,E1,8,2,4,10,D,5,Derby_Leeds_2019
+539,15:00:00,0,Nott'm Forest,9,0,1,0,0,S Duncan,0,0,1,11,H,10,2020-07-19,Barnsley,E1,2,6,9,20,D,1,Barnsley_Nott'm Forest_2019
+540,19:30:00,0,Derby,14,0,1,3,0,T Robinson,0,1,0,5,A,7,2020-07-22,Birmingham,E1,5,4,4,13,A,4,Birmingham_Derby_2019
+541,19:30:00,3,Barnsley,11,0,1,2,0,R Jones,0,1,3,17,A,11,2020-07-22,Brentford,E1,3,3,3,12,A,3,Brentford_Barnsley_2019
+542,19:30:00,0,Preston,10,0,1,1,0,A Woolmer,0,1,0,11,D,22,2020-07-22,Bristol City,E1,6,6,4,13,A,7,Bristol City_Preston_2019
+543,19:30:00,0,Hull,16,0,3,0,2,J Linington,0,0,0,16,H,8,2020-07-22,Cardiff,E1,2,7,4,14,H,5,Cardiff_Hull_2019
+544,19:30:00,1,Charlton,14,0,4,0,2,G Eltringham,0,0,0,10,H,10,2020-07-22,Leeds,E1,4,8,10,21,H,4,Leeds_Charlton_2019
+545,19:30:00,4,Blackburn,10,0,3,2,2,D Bond,0,1,1,12,H,14,2020-07-22,Luton,E1,4,1,2,8,H,6,Luton_Blackburn_2019
+546,19:30:00,1,Huddersfield,14,0,4,1,1,K Stroud,0,1,0,14,H,7,2020-07-22,Millwall,E1,2,9,9,15,D,2,Millwall_Huddersfield_2019
+547,19:30:00,0,Stoke,9,0,1,4,0,G Ward,0,1,1,13,A,10,2020-07-22,Nott'm Forest,E1,4,5,6,16,A,4,Nott'm Forest_Stoke_2019
+548,19:30:00,1,Swansea,17,0,1,4,1,S Martin,1,1,0,10,A,20,2020-07-22,Reading,E1,8,6,4,19,D,8,Reading_Swansea_2019
+549,19:30:00,0,Middlesbrough,11,0,1,2,1,J Gillett,0,1,0,11,A,10,2020-07-22,Sheffield Weds,E1,4,4,10,18,D,2,Sheffield Weds_Middlesbrough_2019
+550,19:30:00,0,QPR,13,0,2,2,1,D England,0,1,0,9,D,7,2020-07-22,West Brom,E1,3,6,5,16,D,3,West Brom_QPR_2019
+551,19:30:00,3,Fulham,14,0,1,1,1,J Brooks,0,0,4,11,D,19,2020-07-22,Wigan,E1,4,7,5,13,H,4,Wigan_Fulham_2019

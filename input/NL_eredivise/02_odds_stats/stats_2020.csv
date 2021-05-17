@@ -1,0 +1,271 @@
+,Time,HY,AwayTeam,HF,AR,FTHG,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,17:45:00,2,Willem II,12,0,2,0,1,0,0,3,13,H,10,2020-09-12,Heerenveen,N1,5,7,3,13,H,10,Heerenveen_Willem II_2020
+1,19:00:00,3,Feyenoord,15,0,0,2,0,0,1,1,11,A,13,2020-09-12,Zwolle,N1,6,5,3,17,A,3,Zwolle_Feyenoord_2020
+2,20:00:00,1,For Sittard,9,0,2,0,1,0,0,0,13,H,2,2020-09-12,Twente,N1,0,5,7,14,H,2,Twente_For Sittard_2020
+3,11:15:00,2,VVV Venlo,10,0,3,5,1,0,0,3,13,A,14,2020-09-13,FC Emmen,N1,7,5,7,15,H,3,FC Emmen_VVV Venlo_2020
+4,13:30:00,1,Den Haag,5,1,2,0,0,0,0,3,15,H,8,2020-09-13,Heracles,N1,1,5,7,22,D,2,Heracles_Den Haag_2020
+5,13:30:00,2,Ajax,13,1,0,1,0,0,1,3,13,A,9,2020-09-13,Sparta Rotterdam,N1,4,3,2,14,A,1,Sparta Rotterdam_Ajax_2020
+6,15:45:00,4,PSV Eindhoven,12,0,1,3,0,0,1,2,10,A,16,2020-09-13,Groningen,N1,6,2,3,14,A,1,Groningen_PSV Eindhoven_2020
+7,15:45:00,1,Vitesse,11,0,0,1,0,0,1,1,17,A,17,2020-09-13,Waalwijk,N1,6,3,0,7,A,6,Waalwijk_Vitesse_2020
+8,19:00:00,2,Utrecht,15,0,1,1,1,0,0,1,7,D,26,2020-09-18,VVV Venlo,N1,8,3,5,9,H,12,VVV Venlo_Utrecht_2020
+9,15:30:00,0,Zwolle,7,1,1,1,0,1,1,5,22,D,14,2020-09-19,AZ Alkmaar,N1,4,3,6,13,A,2,AZ Alkmaar_Zwolle_2020
+10,17:45:00,2,Sparta Rotterdam,4,1,2,0,1,0,0,4,15,H,2,2020-09-19,Vitesse,N1,1,9,6,26,H,7,Vitesse_Sparta Rotterdam_2020
+11,19:00:00,0,FC Emmen,8,0,2,1,1,0,0,3,12,H,7,2020-09-19,PSV Eindhoven,N1,2,5,7,21,H,5,PSV Eindhoven_FC Emmen_2020
+12,20:00:00,4,Heerenveen,9,0,1,3,0,0,3,0,11,A,10,2020-09-19,For Sittard,N1,5,7,14,25,A,2,For Sittard_Heerenveen_2020
+13,11:15:00,1,Groningen,12,0,0,1,0,0,1,1,11,A,13,2020-09-20,Den Haag,N1,6,0,3,6,A,8,Den Haag_Groningen_2020
+14,13:30:00,2,Twente,7,0,1,1,1,0,1,2,20,D,10,2020-09-20,Feyenoord,N1,3,5,8,18,D,4,Feyenoord_Twente_2020
+15,13:30:00,1,Heracles,10,0,4,0,0,0,0,0,8,H,7,2020-09-20,Willem II,N1,2,5,8,19,D,5,Willem II_Heracles_2020
+16,15:45:00,1,Waalwijk,8,1,3,0,2,0,0,0,6,H,6,2020-09-20,Ajax,N1,3,10,4,23,H,3,Ajax_Waalwijk_2020
+17,19:00:00,0,Groningen,11,0,3,1,2,0,0,1,4,H,11,2020-09-25,Twente,N1,5,7,1,7,H,3,Twente_Groningen_2020
+18,15:30:00,1,Sparta Rotterdam,12,1,4,0,1,0,0,1,10,H,9,2020-09-26,Zwolle,N1,2,8,9,20,H,5,Zwolle_Sparta Rotterdam_2020
+19,17:45:00,2,AZ Alkmaar,9,0,3,3,1,0,1,1,13,D,12,2020-09-26,For Sittard,N1,4,5,5,13,D,8,For Sittard_AZ Alkmaar_2020
+20,19:00:00,1,VVV Venlo,12,2,1,0,1,0,0,1,10,H,13,2020-09-26,Heerenveen,N1,2,8,8,16,H,5,Heerenveen_VVV Venlo_2020
+21,20:00:00,3,Vitesse,13,0,2,1,1,1,0,4,15,H,24,2020-09-26,Ajax,N1,5,4,7,18,H,4,Ajax_Vitesse_2020
+22,11:15:00,2,Den Haag,10,0,4,2,1,0,1,1,11,H,11,2020-09-27,Feyenoord,N1,5,12,10,24,D,4,Feyenoord_Den Haag_2020
+23,13:30:00,0,Waalwijk,7,0,3,1,1,0,0,0,14,H,12,2020-09-27,Utrecht,N1,4,7,6,12,H,1,Utrecht_Waalwijk_2020
+24,15:45:00,1,Willem II,14,0,1,1,1,1,1,1,7,D,14,2020-09-27,FC Emmen,N1,2,2,2,10,D,8,FC Emmen_Willem II_2020
+25,15:45:00,4,PSV Eindhoven,16,0,1,1,1,0,0,2,11,D,9,2020-09-27,Heracles,N1,2,2,4,9,H,2,Heracles_PSV Eindhoven_2020
+26,19:00:00,1,Heerenveen,7,1,1,1,1,0,1,2,14,D,10,2020-10-02,Utrecht,N1,3,6,16,38,D,2,Utrecht_Heerenveen_2020
+27,15:30:00,2,Heracles,9,0,3,0,2,0,0,1,9,H,3,2020-10-03,Vitesse,N1,0,7,7,15,H,4,Vitesse_Heracles_2020
+28,19:00:00,2,Den Haag,12,0,1,2,1,0,1,1,7,A,15,2020-10-03,VVV Venlo,N1,5,3,4,10,D,1,VVV Venlo_Den Haag_2020
+29,20:00:00,1,FC Emmen,10,0,1,1,0,0,0,1,10,D,7,2020-10-03,Twente,N1,2,7,2,17,D,1,Twente_FC Emmen_2020
+30,11:15:00,0,Ajax,10,0,1,0,0,0,0,1,9,H,19,2020-10-04,Groningen,N1,3,3,1,11,D,11,Groningen_Ajax_2020
+31,13:30:00,1,AZ Alkmaar,17,1,4,4,0,0,4,4,14,D,15,2020-10-04,Sparta Rotterdam,N1,6,7,5,17,A,6,Sparta Rotterdam_AZ Alkmaar_2020
+32,13:30:00,1,Feyenoord,15,0,1,4,1,0,1,1,20,A,16,2020-10-04,Willem II,N1,8,3,1,6,D,4,Willem II_Feyenoord_2020
+33,15:45:00,0,For Sittard,12,0,2,0,1,0,0,1,10,H,16,2020-10-04,PSV Eindhoven,N1,5,5,6,9,H,3,PSV Eindhoven_For Sittard_2020
+34,17:45:00,1,Waalwijk,20,0,0,1,0,0,1,1,15,A,5,2020-10-17,Heracles,N1,1,6,6,24,A,2,Heracles_Waalwijk_2020
+35,19:00:00,1,VVV Venlo,11,0,2,2,2,1,0,3,20,D,11,2020-10-17,AZ Alkmaar,N1,4,7,6,20,H,2,AZ Alkmaar_VVV Venlo_2020
+36,20:00:00,3,Twente,10,0,0,3,0,0,1,1,7,A,16,2020-10-17,Willem II,N1,8,9,12,18,A,3,Willem II_Twente_2020
+37,11:15:00,3,Sparta Rotterdam,10,0,1,1,1,0,0,1,18,D,11,2020-10-18,Feyenoord,N1,5,1,8,11,H,4,Feyenoord_Sparta Rotterdam_2020
+38,13:30:00,1,Heerenveen,10,0,5,1,3,0,0,2,14,H,9,2020-10-18,Ajax,N1,5,5,5,16,H,9,Ajax_Heerenveen_2020
+39,13:30:00,2,Vitesse,15,1,0,2,0,0,1,3,7,A,20,2020-10-18,Den Haag,N1,8,4,3,11,A,3,Den Haag_Vitesse_2020
+40,15:45:00,5,Utrecht,15,0,0,0,0,0,0,0,6,D,14,2020-10-18,Groningen,N1,6,1,4,16,D,4,Groningen_Utrecht_2020
+41,15:45:00,2,PSV Eindhoven,11,0,0,3,0,0,3,2,17,A,12,2020-10-18,Zwolle,N1,5,3,4,12,A,3,Zwolle_PSV Eindhoven_2020
+42,19:00:00,2,For Sittard,8,0,2,2,0,0,2,1,15,D,15,2020-10-18,FC Emmen,N1,5,8,5,17,A,3,FC Emmen_For Sittard_2020
+43,16:30:00,2,Zwolle,12,0,1,1,0,0,0,2,13,D,21,2020-10-21,Waalwijk,N1,6,3,9,11,D,5,Waalwijk_Zwolle_2020
+44,15:30:00,1,Ajax,12,0,0,13,0,1,4,0,9,A,45,2020-10-24,VVV Venlo,N1,23,0,3,3,A,12,VVV Venlo_Ajax_2020
+45,17:45:00,1,Twente,7,0,2,1,1,0,1,4,13,H,9,2020-10-24,Utrecht,N1,3,5,7,12,D,4,Utrecht_Twente_2020
+46,19:00:00,3,Willem II,12,0,0,0,0,1,0,1,10,D,12,2020-10-24,Zwolle,N1,3,4,9,20,D,3,Zwolle_Willem II_2020
+47,20:00:00,2,FC Emmen,6,2,4,0,2,0,0,3,7,H,9,2020-10-24,Heerenveen,N1,2,5,5,14,H,8,Heerenveen_FC Emmen_2020
+48,11:15:00,1,Groningen,12,0,1,3,0,0,2,1,8,A,17,2020-10-25,For Sittard,N1,10,2,1,5,A,6,For Sittard_Groningen_2020
+49,13:30:00,2,Heracles,13,0,1,1,0,1,0,3,12,D,19,2020-10-25,Sparta Rotterdam,N1,2,5,4,10,D,9,Sparta Rotterdam_Heracles_2020
+50,13:30:00,3,PSV Eindhoven,13,0,2,1,1,0,0,0,13,H,12,2020-10-25,Vitesse,N1,4,5,4,7,H,5,Vitesse_PSV Eindhoven_2020
+51,15:45:00,2,Feyenoord,19,0,2,2,0,0,0,2,8,D,18,2020-10-25,Waalwijk,N1,8,6,2,8,D,3,Waalwijk_Feyenoord_2020
+52,19:00:00,2,AZ Alkmaar,8,0,2,2,0,0,1,1,6,D,23,2020-10-25,Den Haag,N1,7,3,3,9,A,8,Den Haag_AZ Alkmaar_2020
+53,17:45:00,1,Zwolle,14,0,5,1,3,0,0,0,11,H,10,2020-10-31,Twente,N1,5,5,5,8,H,4,Twente_Zwolle_2020
+54,19:00:00,0,For Sittard,12,0,5,2,2,0,1,1,11,H,11,2020-10-31,Ajax,N1,7,9,7,30,H,0,Ajax_For Sittard_2020
+55,19:00:00,1,VVV Venlo,8,0,2,1,1,0,0,0,13,H,8,2020-10-31,Groningen,N1,2,6,5,14,H,5,Groningen_VVV Venlo_2020
+56,20:00:00,3,Vitesse,9,0,1,3,1,0,0,2,15,A,17,2020-10-31,Willem II,N1,4,7,6,12,H,5,Willem II_Vitesse_2020
+57,11:15:00,2,Utrecht,12,0,4,1,2,0,0,1,8,H,10,2020-11-01,Heracles,N1,5,7,4,15,H,6,Heracles_Utrecht_2020
+58,13:30:00,4,Feyenoord,12,0,2,3,2,1,2,2,13,A,24,2020-11-01,FC Emmen,N1,7,3,6,9,D,9,FC Emmen_Feyenoord_2020
+59,13:30:00,1,Heerenveen,8,0,1,4,0,0,3,0,8,A,12,2020-11-01,Sparta Rotterdam,N1,6,6,4,15,A,3,Sparta Rotterdam_Heerenveen_2020
+60,15:45:00,1,Den Haag,11,0,4,0,1,0,0,1,11,H,5,2020-11-01,PSV Eindhoven,N1,3,9,4,22,H,2,PSV Eindhoven_Den Haag_2020
+61,19:00:00,1,Waalwijk,8,0,3,0,1,0,0,2,13,H,3,2020-11-01,AZ Alkmaar,N1,1,11,6,19,H,1,AZ Alkmaar_Waalwijk_2020
+62,19:00:00,2,Zwolle,8,0,2,2,2,0,1,0,9,D,12,2020-11-06,For Sittard,N1,1,6,2,10,H,5,For Sittard_Zwolle_2020
+63,15:30:00,0,Twente,11,0,2,4,0,0,1,1,8,A,23,2020-11-07,Den Haag,N1,9,4,3,10,A,10,Den Haag_Twente_2020
+64,17:45:00,2,Heracles,22,1,3,2,0,0,1,0,7,H,7,2020-11-07,VVV Venlo,N1,2,4,1,9,A,6,VVV Venlo_Heracles_2020
+65,20:00:00,0,Sparta Rotterdam,9,0,0,2,0,0,0,2,10,A,20,2020-11-07,Waalwijk,N1,7,4,6,7,D,8,Waalwijk_Sparta Rotterdam_2020
+66,11:15:00,0,Ajax,14,0,0,3,0,0,0,1,13,A,19,2020-11-08,Utrecht,N1,6,2,0,5,D,8,Utrecht_Ajax_2020
+67,13:30:00,1,Groningen,10,1,2,0,0,0,0,3,10,H,8,2020-11-08,Feyenoord,N1,1,6,6,9,D,3,Feyenoord_Groningen_2020
+68,13:30:00,0,FC Emmen,8,0,3,1,3,1,0,5,8,H,15,2020-11-08,Vitesse,N1,5,6,3,9,H,3,Vitesse_FC Emmen_2020
+69,15:45:00,1,AZ Alkmaar,8,0,0,3,0,0,2,0,9,A,15,2020-11-08,Heerenveen,N1,6,1,3,9,A,10,Heerenveen_AZ Alkmaar_2020
+70,19:00:00,1,Willem II,13,1,3,0,2,0,0,0,10,H,6,2020-11-08,PSV Eindhoven,N1,2,8,6,16,H,4,PSV Eindhoven_Willem II_2020
+71,17:45:00,2,VVV Venlo,14,0,2,1,2,0,1,1,17,H,13,2020-11-21,Willem II,N1,2,5,3,8,H,5,Willem II_VVV Venlo_2020
+72,19:00:00,2,Vitesse,16,0,1,1,1,0,1,1,10,D,9,2020-11-21,Groningen,N1,1,3,5,7,D,1,Groningen_Vitesse_2020
+73,20:00:00,3,Utrecht,17,0,1,1,1,0,0,3,6,D,2,2020-11-21,Zwolle,N1,2,4,3,10,H,3,Zwolle_Utrecht_2020
+74,11:15:00,0,Heracles,12,0,5,0,3,0,0,3,13,H,8,2020-11-22,Ajax,N1,2,13,14,18,H,5,Ajax_Heracles_2020
+75,13:30:00,2,Feyenoord,15,1,1,3,1,0,2,0,8,A,16,2020-11-22,For Sittard,N1,8,7,5,14,A,5,For Sittard_Feyenoord_2020
+76,13:30:00,1,Den Haag,7,0,6,0,1,0,0,2,10,H,2,2020-11-22,Sparta Rotterdam,N1,1,13,7,22,H,0,Sparta Rotterdam_Den Haag_2020
+77,15:45:00,1,PSV Eindhoven,16,0,1,1,0,0,1,2,8,D,16,2020-11-22,Twente,N1,5,4,2,11,A,9,Twente_PSV Eindhoven_2020
+78,15:45:00,1,Heerenveen,6,1,1,1,0,0,1,5,8,D,12,2020-11-22,Waalwijk,N1,5,10,16,22,A,5,Waalwijk_Heerenveen_2020
+79,19:00:00,2,FC Emmen,8,1,1,0,1,0,0,1,8,H,5,2020-11-22,AZ Alkmaar,N1,3,8,15,24,H,3,AZ Alkmaar_FC Emmen_2020
+80,19:00:00,4,Waalwijk,17,0,0,2,0,0,2,0,11,A,10,2020-11-27,Twente,N1,7,6,4,14,A,8,Twente_Waalwijk_2020
+81,17:45:00,0,Ajax,12,0,0,5,0,0,3,1,10,A,27,2020-11-28,FC Emmen,N1,12,1,0,3,A,12,FC Emmen_Ajax_2020
+82,19:00:00,0,Heerenveen,6,0,1,1,1,0,1,1,14,D,22,2020-11-28,Den Haag,N1,4,2,4,5,D,10,Den Haag_Heerenveen_2020
+83,20:00:00,0,Zwolle,10,1,2,2,1,0,1,1,13,D,13,2020-11-28,VVV Venlo,N1,6,2,4,11,D,4,VVV Venlo_Zwolle_2020
+84,11:15:00,0,For Sittard,8,0,2,0,0,0,0,3,18,H,11,2020-11-29,Vitesse,N1,2,4,7,20,D,1,Vitesse_For Sittard_2020
+85,13:30:00,1,Utrecht,7,0,1,1,0,0,0,1,13,D,16,2020-11-29,Feyenoord,N1,7,2,4,9,D,8,Feyenoord_Utrecht_2020
+86,13:30:00,0,Willem II,12,0,1,0,0,0,0,1,12,H,4,2020-11-29,Groningen,N1,1,3,6,18,D,4,Groningen_Willem II_2020
+87,15:45:00,2,AZ Alkmaar,12,0,1,2,0,0,2,1,16,A,13,2020-11-29,Heracles,N1,7,1,1,3,A,3,Heracles_AZ Alkmaar_2020
+88,19:00:00,1,Sparta Rotterdam,9,0,1,0,0,0,0,3,10,H,4,2020-11-29,PSV Eindhoven,N1,0,5,7,11,D,1,PSV Eindhoven_Sparta Rotterdam_2020
+89,19:00:00,1,FC Emmen,14,0,2,1,1,0,0,3,14,H,12,2020-12-04,Sparta Rotterdam,N1,3,2,1,7,H,5,Sparta Rotterdam_FC Emmen_2020
+90,15:30:00,3,VVV Venlo,14,1,3,2,1,0,1,4,11,H,10,2020-12-05,Waalwijk,N1,6,10,6,25,D,0,Waalwijk_VVV Venlo_2020
+91,17:45:00,1,Willem II,14,1,3,2,3,0,0,5,14,H,11,2020-12-05,For Sittard,N1,3,4,2,7,H,8,For Sittard_Willem II_2020
+92,19:00:00,1,Twente,6,0,1,2,0,0,1,0,11,A,13,2020-12-05,Ajax,N1,5,5,9,19,A,6,Ajax_Twente_2020
+93,20:00:00,2,Vitesse,14,1,2,1,0,0,1,2,14,H,12,2020-12-05,Zwolle,N1,4,5,4,16,A,2,Zwolle_Vitesse_2020
+94,11:15:00,0,Heracles,12,1,0,0,0,0,0,5,10,D,4,2020-12-06,Feyenoord,N1,3,7,8,20,D,2,Feyenoord_Heracles_2020
+95,13:30:00,7,Groningen,10,1,1,2,1,2,0,1,16,A,16,2020-12-06,AZ Alkmaar,N1,3,2,7,5,H,10,AZ Alkmaar_Groningen_2020
+96,13:30:00,3,Den Haag,16,0,1,1,0,1,0,4,9,D,9,2020-12-06,Utrecht,N1,2,6,6,20,D,3,Utrecht_Den Haag_2020
+97,15:45:00,0,PSV Eindhoven,1,0,2,2,0,0,1,2,4,D,12,2020-12-06,Heerenveen,N1,4,7,6,12,A,10,Heerenveen_PSV Eindhoven_2020
+98,19:00:00,1,For Sittard,11,0,1,2,0,0,1,4,15,A,5,2020-12-11,Heracles,N1,1,4,7,14,A,2,Heracles_For Sittard_2020
+99,15:30:00,2,Waalwijk,7,0,2,0,0,0,0,2,17,H,11,2020-12-12,Groningen,N1,3,4,2,8,D,6,Groningen_Waalwijk_2020
+100,17:45:00,1,Den Haag,10,0,1,1,0,0,1,1,5,D,7,2020-12-12,FC Emmen,N1,2,7,7,27,A,2,FC Emmen_Den Haag_2020
+101,19:00:00,0,Zwolle,15,0,4,0,3,0,0,0,8,H,6,2020-12-12,Ajax,N1,3,13,14,22,H,1,Ajax_Zwolle_2020
+102,11:15:00,2,Heerenveen,21,0,1,1,1,0,0,2,22,D,14,2020-12-13,Vitesse,N1,6,7,6,16,H,1,Vitesse_Heerenveen_2020
+103,13:30:00,0,Feyenoord,12,0,0,3,0,0,0,0,14,A,21,2020-12-13,VVV Venlo,N1,8,3,5,8,D,6,VVV Venlo_Feyenoord_2020
+104,13:30:00,3,Sparta Rotterdam,7,0,1,3,0,0,2,1,14,A,18,2020-12-13,Willem II,N1,9,3,6,8,A,5,Willem II_Sparta Rotterdam_2020
+105,15:45:00,1,Utrecht,10,0,2,1,2,0,0,1,15,H,15,2020-12-13,PSV Eindhoven,N1,8,3,3,6,H,9,PSV Eindhoven_Utrecht_2020
+106,19:00:00,2,AZ Alkmaar,13,0,1,3,0,1,2,0,8,A,13,2020-12-13,Twente,N1,7,5,6,13,A,4,Twente_AZ Alkmaar_2020
+107,19:00:00,0,FC Emmen,5,0,0,0,0,0,0,0,12,D,5,2020-12-18,Zwolle,N1,3,5,7,16,D,8,Zwolle_FC Emmen_2020
+108,15:30:00,1,Groningen,7,0,2,3,1,0,1,0,8,A,12,2020-12-19,Sparta Rotterdam,N1,6,4,8,15,D,6,Sparta Rotterdam_Groningen_2020
+109,17:45:00,2,Twente,12,0,1,2,0,0,1,2,15,A,18,2020-12-19,VVV Venlo,N1,9,1,3,6,A,8,VVV Venlo_Twente_2020
+110,19:00:00,1,PSV Eindhoven,12,0,1,4,0,0,2,2,8,A,17,2020-12-19,Waalwijk,N1,10,4,7,15,A,4,Waalwijk_PSV Eindhoven_2020
+111,20:00:00,1,For Sittard,7,0,1,1,0,0,0,2,9,D,14,2020-12-19,Utrecht,N1,7,5,12,21,D,2,Utrecht_For Sittard_2020
+112,11:15:00,4,Feyenoord,22,0,1,0,1,0,0,1,14,H,24,2020-12-20,Vitesse,N1,4,4,4,12,H,8,Vitesse_Feyenoord_2020
+113,13:30:00,0,Ajax,6,0,2,4,0,0,4,0,3,A,30,2020-12-20,Den Haag,N1,12,3,2,5,A,11,Den Haag_Ajax_2020
+114,13:30:00,1,Heracles,10,0,1,2,0,1,1,2,12,A,8,2020-12-20,Heerenveen,N1,2,2,6,16,A,3,Heerenveen_Heracles_2020
+115,15:45:00,0,Willem II,9,0,5,3,2,0,2,1,10,H,11,2020-12-20,AZ Alkmaar,N1,5,8,3,19,D,3,AZ Alkmaar_Willem II_2020
+116,15:30:00,3,Waalwijk,10,0,2,1,1,0,1,1,11,H,10,2020-12-22,For Sittard,N1,4,7,8,18,D,5,For Sittard_Waalwijk_2020
+117,17:45:00,0,Utrecht,10,0,2,3,2,0,1,0,12,A,16,2020-12-22,FC Emmen,N1,6,4,4,15,H,3,FC Emmen_Utrecht_2020
+118,19:00:00,0,VVV Venlo,6,0,4,1,1,0,1,0,9,H,4,2020-12-22,PSV Eindhoven,N1,1,9,10,29,D,3,PSV Eindhoven_VVV Venlo_2020
+119,20:00:00,1,Sparta Rotterdam,8,0,0,2,0,0,1,0,13,A,12,2020-12-22,Twente,N1,6,1,5,10,A,3,Twente_Sparta Rotterdam_2020
+120,15:30:00,0,Vitesse,11,0,3,1,2,0,0,0,11,H,16,2020-12-23,AZ Alkmaar,N1,5,4,4,11,H,3,AZ Alkmaar_Vitesse_2020
+121,17:45:00,0,Ajax,6,0,1,1,0,0,1,1,7,D,32,2020-12-23,Willem II,N1,8,5,0,10,A,12,Willem II_Ajax_2020
+122,19:00:00,1,Zwolle,10,0,0,2,0,0,0,1,9,A,20,2020-12-23,Den Haag,N1,6,1,4,8,D,4,Den Haag_Zwolle_2020
+123,19:00:00,1,Heracles,15,0,0,1,0,0,0,0,10,A,8,2020-12-23,Groningen,N1,2,5,5,13,D,1,Groningen_Heracles_2020
+124,20:00:00,0,Heerenveen,9,0,3,0,0,0,0,1,9,H,11,2020-12-23,Feyenoord,N1,4,9,6,28,D,1,Feyenoord_Heerenveen_2020
+125,13:30:00,3,AZ Alkmaar,13,0,2,2,1,0,0,0,4,D,12,2020-12-27,Utrecht,N1,6,6,8,14,H,4,Utrecht_AZ Alkmaar_2020
+126,15:30:00,1,Den Haag,19,0,0,1,0,0,1,2,14,A,11,2021-01-09,Waalwijk,N1,5,5,2,17,A,5,Waalwijk_Den Haag_2020
+127,17:45:00,0,Twente,13,0,1,4,0,0,3,1,12,A,10,2021-01-09,FC Emmen,N1,6,1,2,8,A,2,FC Emmen_Twente_2020
+128,19:00:00,3,Vitesse,7,0,0,2,0,0,1,1,13,A,12,2021-01-09,Heracles,N1,3,5,3,12,A,7,Heracles_Vitesse_2020
+129,19:00:00,1,AZ Alkmaar,8,0,1,1,1,0,0,0,10,D,15,2021-01-09,Zwolle,N1,4,2,3,5,H,11,Zwolle_AZ Alkmaar_2020
+130,20:00:00,2,Groningen,11,0,2,2,1,0,2,1,6,D,7,2021-01-09,Utrecht,N1,2,6,9,19,A,2,Utrecht_Groningen_2020
+131,11:15:00,2,Feyenoord,10,0,0,2,0,0,1,0,10,A,13,2021-01-10,Sparta Rotterdam,N1,3,1,6,11,A,4,Sparta Rotterdam_Feyenoord_2020
+132,13:30:00,0,For Sittard,16,0,1,3,0,0,3,0,12,A,9,2021-01-10,Heerenveen,N1,4,2,5,10,A,4,Heerenveen_For Sittard_2020
+133,13:30:00,1,Willem II,18,0,2,1,0,0,1,2,10,H,17,2021-01-10,VVV Venlo,N1,6,4,5,12,A,1,VVV Venlo_Willem II_2020
+134,15:45:00,1,PSV Eindhoven,8,0,2,2,1,0,2,1,8,D,7,2021-01-10,Ajax,N1,7,4,6,11,A,6,Ajax_PSV Eindhoven_2020
+135,17:45:00,1,Utrecht,12,0,1,0,1,0,0,1,21,H,8,2021-01-12,Vitesse,N1,5,4,8,16,H,7,Vitesse_Utrecht_2020
+136,20:00:00,0,FC Emmen,8,0,4,0,2,0,0,2,13,H,8,2021-01-12,Heracles,N1,1,11,12,20,H,4,Heracles_FC Emmen_2020
+137,17:45:00,3,AZ Alkmaar,12,0,1,3,0,0,2,3,12,A,6,2021-01-13,PSV Eindhoven,N1,4,3,7,14,A,3,PSV Eindhoven_AZ Alkmaar_2020
+138,19:00:00,3,VVV Venlo,12,0,1,4,0,0,1,3,12,A,15,2021-01-13,Den Haag,N1,8,4,6,14,A,1,Den Haag_VVV Venlo_2020
+139,19:00:00,3,Sparta Rotterdam,14,0,0,1,0,0,0,0,12,A,19,2021-01-13,For Sittard,N1,5,4,4,9,D,5,For Sittard_Sparta Rotterdam_2020
+140,20:00:00,0,Zwolle,6,0,1,0,0,0,0,0,5,H,8,2021-01-13,Feyenoord,N1,2,4,10,21,D,5,Feyenoord_Zwolle_2020
+141,17:45:00,1,Waalwijk,8,0,1,1,1,0,0,1,6,D,15,2021-01-14,Heerenveen,N1,4,6,3,10,H,9,Heerenveen_Waalwijk_2020
+142,19:00:00,1,Ajax,8,0,1,3,0,0,1,0,11,A,21,2021-01-14,Twente,N1,12,5,5,12,A,6,Twente_Ajax_2020
+143,20:00:00,0,Groningen,5,0,2,3,0,0,0,1,10,A,11,2021-01-14,Willem II,N1,4,6,5,16,D,5,Willem II_Groningen_2020
+144,15:30:00,3,Vitesse,14,0,1,4,0,0,2,3,11,A,15,2021-01-16,FC Emmen,N1,10,4,0,6,A,1,FC Emmen_Vitesse_2020
+145,17:45:00,1,PSV Eindhoven,12,0,3,5,1,0,1,0,7,A,11,2021-01-16,Sparta Rotterdam,N1,7,5,5,12,D,3,Sparta Rotterdam_PSV Eindhoven_2020
+146,19:00:00,2,Heracles,13,0,2,0,1,0,0,1,12,H,3,2021-01-16,Utrecht,N1,0,8,8,16,H,1,Utrecht_Heracles_2020
+147,19:00:00,0,For Sittard,12,0,0,2,0,0,0,0,13,A,13,2021-01-16,Zwolle,N1,7,2,5,8,D,7,Zwolle_For Sittard_2020
+148,20:00:00,0,Den Haag,5,0,2,1,0,0,0,0,6,H,3,2021-01-16,AZ Alkmaar,N1,2,5,17,19,D,0,AZ Alkmaar_Den Haag_2020
+149,11:15:00,1,Willem II,12,0,1,1,1,0,0,2,21,D,13,2021-01-17,Waalwijk,N1,6,7,2,17,H,1,Waalwijk_Willem II_2020
+150,13:30:00,1,Twente,8,0,2,2,0,0,2,2,9,D,10,2021-01-17,Groningen,N1,5,6,6,17,A,6,Groningen_Twente_2020
+151,13:30:00,2,Heerenveen,9,0,1,1,0,0,0,1,8,D,20,2021-01-17,VVV Venlo,N1,7,2,1,7,D,8,VVV Venlo_Heerenveen_2020
+152,15:45:00,0,Feyenoord,17,0,1,0,1,0,0,0,13,H,9,2021-01-17,Ajax,N1,4,2,6,12,H,3,Ajax_Feyenoord_2020
+153,19:00:00,1,Zwolle,11,0,1,3,1,1,0,1,12,A,21,2021-01-22,Willem II,N1,6,4,5,9,H,4,Willem II_Zwolle_2020
+154,15:30:00,2,FC Emmen,4,0,0,0,0,0,0,0,6,D,13,2021-01-23,Den Haag,N1,4,4,7,13,D,4,Den Haag_FC Emmen_2020
+155,17:45:00,2,Groningen,17,0,1,0,1,0,0,2,19,H,4,2021-01-23,Vitesse,N1,1,4,6,15,H,3,Vitesse_Groningen_2020
+156,19:00:00,1,Waalwijk,13,0,2,0,1,0,0,1,4,H,7,2021-01-23,PSV Eindhoven,N1,3,5,3,12,H,4,PSV Eindhoven_Waalwijk_2020
+157,20:00:00,1,Heerenveen,9,0,1,0,0,0,0,1,11,H,6,2021-01-23,Heracles,N1,2,3,6,9,D,4,Heracles_Heerenveen_2020
+158,11:15:00,1,Ajax,10,0,1,2,0,1,1,2,17,A,19,2021-01-24,For Sittard,N1,8,5,4,8,A,10,For Sittard_Ajax_2020
+159,13:30:00,2,VVV Venlo,15,0,0,1,0,0,0,1,14,A,7,2021-01-24,Twente,N1,6,5,8,21,D,1,Twente_VVV Venlo_2020
+160,13:30:00,1,Sparta Rotterdam,10,0,1,0,0,0,0,1,8,H,11,2021-01-24,Utrecht,N1,1,2,6,11,D,5,Utrecht_Sparta Rotterdam_2020
+161,15:45:00,1,AZ Alkmaar,17,0,2,3,1,0,1,0,8,A,13,2021-01-24,Feyenoord,N1,8,6,4,13,D,4,Feyenoord_AZ Alkmaar_2020
+162,17:45:00,1,Heracles,13,0,2,2,0,0,2,2,3,D,7,2021-01-26,Zwolle,N1,4,4,6,10,A,2,Zwolle_Heracles_2020
+163,19:00:00,0,PSV Eindhoven,9,0,0,2,0,0,0,0,5,A,20,2021-01-26,FC Emmen,N1,9,2,4,5,D,11,FC Emmen_PSV Eindhoven_2020
+164,20:00:00,0,Den Haag,13,0,3,0,2,0,0,2,14,H,7,2021-01-26,Groningen,N1,1,6,4,14,H,5,Groningen_Den Haag_2020
+165,17:45:00,1,Utrecht,12,0,0,1,0,0,0,2,14,A,12,2021-01-27,AZ Alkmaar,N1,5,3,5,11,D,2,AZ Alkmaar_Utrecht_2020
+166,19:00:00,1,Vitesse,15,0,4,1,3,0,0,1,14,H,24,2021-01-27,VVV Venlo,N1,5,6,5,11,H,4,VVV Venlo_Vitesse_2020
+167,19:00:00,1,For Sittard,13,0,1,2,0,0,0,1,8,A,15,2021-01-27,Waalwijk,N1,9,7,8,14,D,5,Waalwijk_For Sittard_2020
+168,20:00:00,1,Feyenoord,11,0,3,0,2,0,0,1,5,H,15,2021-01-27,Heerenveen,N1,1,6,6,15,H,9,Heerenveen_Feyenoord_2020
+169,20:00:00,2,Willem II,14,0,3,1,0,0,0,0,6,H,7,2021-01-28,Ajax,N1,4,9,7,27,D,1,Ajax_Willem II_2020
+170,17:45:00,1,Twente,4,0,0,0,0,0,0,0,7,D,6,2021-01-28,Sparta Rotterdam,N1,2,5,1,12,D,5,Sparta Rotterdam_Twente_2020
+171,15:30:00,0,Groningen,14,0,1,0,1,0,0,1,15,H,13,2021-01-30,Heracles,N1,3,3,5,8,H,4,Heracles_Groningen_2020
+172,17:45:00,2,Zwolle,13,1,3,3,1,0,2,1,13,D,10,2021-01-30,Utrecht,N1,4,8,16,19,A,3,Utrecht_Zwolle_2020
+173,19:00:00,2,VVV Venlo,16,0,3,2,1,0,0,3,10,H,12,2021-01-30,For Sittard,N1,3,7,2,9,H,4,For Sittard_VVV Venlo_2020
+174,20:00:00,1,Waalwijk,11,0,1,1,0,0,0,2,11,D,11,2021-01-30,Vitesse,N1,5,6,11,11,D,5,Vitesse_Waalwijk_2020
+175,11:15:00,2,Heerenveen,10,0,0,0,0,0,0,1,7,D,4,2021-01-31,Twente,N1,1,4,8,19,D,5,Twente_Heerenveen_2020
+176,13:30:00,1,PSV Eindhoven,12,0,3,1,3,0,0,2,10,H,17,2021-01-31,Feyenoord,N1,6,5,0,6,H,13,Feyenoord_PSV Eindhoven_2020
+177,13:30:00,0,FC Emmen,14,0,2,0,1,0,0,1,12,H,18,2021-01-31,Willem II,N1,2,4,1,12,H,5,Willem II_FC Emmen_2020
+178,15:45:00,0,Ajax,7,0,0,3,0,0,1,0,13,A,13,2021-01-31,AZ Alkmaar,N1,7,3,2,8,A,3,AZ Alkmaar_Ajax_2020
+179,15:45:00,4,Sparta Rotterdam,11,0,1,1,1,0,0,1,17,D,12,2021-01-31,Den Haag,N1,4,5,4,8,H,3,Den Haag_Sparta Rotterdam_2020
+180,19:00:00,2,Heracles,9,0,0,1,0,0,1,2,12,A,10,2021-02-05,For Sittard,N1,5,3,7,15,A,6,For Sittard_Heracles_2020
+181,13:00:00,0,AZ Alkmaar,10,0,0,1,0,0,0,1,8,A,16,2021-02-06,FC Emmen,N1,5,1,2,6,D,8,FC Emmen_AZ Alkmaar_2020
+182,13:00:00,0,Waalwijk,7,0,1,1,0,0,1,0,11,D,7,2021-02-06,Zwolle,N1,3,8,6,19,A,1,Zwolle_Waalwijk_2020
+183,15:30:00,0,Vitesse,9,0,1,0,0,0,0,1,8,H,11,2021-02-06,Heerenveen,N1,3,3,3,11,D,4,Heerenveen_Vitesse_2020
+184,15:30:00,0,Twente,6,1,3,0,2,0,0,0,7,H,5,2021-02-06,PSV Eindhoven,N1,2,8,7,25,H,4,PSV Eindhoven_Twente_2020
+185,17:45:00,0,FC Emmen,9,0,1,0,0,0,0,0,8,H,5,2021-02-12,Waalwijk,N1,2,6,8,19,D,2,Waalwijk_FC Emmen_2020
+186,11:00:00,1,Zwolle,11,1,1,0,1,0,0,1,15,H,12,2021-02-13,Groningen,N1,4,7,6,14,H,3,Groningen_Zwolle_2020
+187,13:15:00,2,For Sittard,9,0,1,2,1,0,1,2,13,A,8,2021-02-13,Sparta Rotterdam,N1,3,6,3,16,D,4,Sparta Rotterdam_For Sittard_2020
+188,15:30:00,0,PSV Eindhoven,5,0,2,2,1,0,0,1,11,D,35,2021-02-13,Den Haag,N1,15,2,1,5,H,17,Den Haag_PSV Eindhoven_2020
+189,17:45:00,1,Ajax,11,0,0,2,0,0,1,1,13,A,7,2021-02-13,Heracles,N1,3,2,5,14,A,2,Heracles_Ajax_2020
+190,11:15:00,1,Heerenveen,10,0,3,1,1,0,0,2,8,H,5,2021-02-14,AZ Alkmaar,N1,4,9,8,15,H,2,AZ Alkmaar_Heerenveen_2020
+191,13:30:00,1,Willem II,12,0,5,0,1,0,0,1,8,H,6,2021-02-14,Feyenoord,N1,3,12,9,23,H,4,Feyenoord_Willem II_2020
+192,13:30:00,0,VVV Venlo,16,0,3,1,0,0,0,0,7,H,11,2021-02-14,Utrecht,N1,3,11,6,24,D,3,Utrecht_VVV Venlo_2020
+193,15:45:00,1,Twente,10,0,0,2,0,0,1,1,11,A,6,2021-02-14,Vitesse,N1,3,1,4,10,A,2,Vitesse_Twente_2020
+194,19:00:00,1,Utrecht,6,0,0,6,0,0,3,0,8,A,20,2021-02-19,Willem II,N1,8,1,3,7,A,1,Willem II_Utrecht_2020
+195,17:45:00,2,Zwolle,18,0,3,2,2,0,1,1,8,H,10,2021-02-20,FC Emmen,N1,2,5,7,14,H,3,FC Emmen_Zwolle_2020
+196,19:00:00,0,AZ Alkmaar,13,0,1,4,1,1,1,1,9,A,20,2021-02-20,VVV Venlo,N1,10,1,2,5,D,12,VVV Venlo_AZ Alkmaar_2020
+197,20:00:00,0,Den Haag,6,0,2,0,1,0,0,1,6,H,4,2021-02-20,For Sittard,N1,1,5,5,13,H,3,For Sittard_Den Haag_2020
+198,11:15:00,1,Feyenoord,9,0,2,2,2,0,1,2,9,D,10,2021-02-21,Twente,N1,2,6,4,9,H,3,Twente_Feyenoord_2020
+199,13:30:00,0,Groningen,12,0,1,1,1,0,0,0,7,D,16,2021-02-21,Heerenveen,N1,2,2,6,8,H,4,Heerenveen_Groningen_2020
+200,13:30:00,1,Heracles,7,0,3,0,2,0,0,2,8,H,7,2021-02-21,Waalwijk,N1,0,5,5,8,H,3,Waalwijk_Heracles_2020
+201,15:45:00,2,Vitesse,19,0,3,1,0,0,1,0,8,H,10,2021-02-21,PSV Eindhoven,N1,3,15,1,22,A,1,PSV Eindhoven_Vitesse_2020
+202,19:00:00,0,Sparta Rotterdam,4,0,4,2,3,0,0,1,9,H,12,2021-02-21,Ajax,N1,4,7,3,16,H,3,Ajax_Sparta Rotterdam_2020
+203,15:30:00,4,Den Haag,14,1,1,1,0,1,0,0,7,D,8,2021-02-24,Willem II,N1,3,3,9,13,D,1,Willem II_Den Haag_2020
+204,17:45:00,0,Feyenoord,13,0,0,0,0,0,0,0,9,D,19,2021-02-24,Groningen,N1,4,3,3,8,D,7,Groningen_Feyenoord_2020
+205,19:00:00,1,Heerenveen,9,0,4,1,0,0,1,2,18,H,10,2021-02-26,Zwolle,N1,4,10,4,21,A,4,Zwolle_Heerenveen_2020
+206,15:30:00,5,FC Emmen,16,0,0,1,0,0,1,4,14,A,13,2021-02-27,Utrecht,N1,4,5,8,12,A,4,Utrecht_FC Emmen_2020
+207,17:45:00,2,Waalwijk,11,0,0,0,0,0,0,1,13,D,4,2021-02-27,Den Haag,N1,0,2,6,10,D,3,Den Haag_Waalwijk_2020
+208,19:00:00,0,VVV Venlo,12,0,4,1,1,0,1,0,14,H,5,2021-02-27,Vitesse,N1,2,8,3,23,D,2,Vitesse_VVV Venlo_2020
+209,20:00:00,0,Twente,9,0,2,2,1,0,1,0,13,D,7,2021-02-27,Heracles,N1,3,6,3,9,D,1,Heracles_Twente_2020
+210,11:15:00,1,Willem II,12,0,0,2,0,1,0,0,11,A,13,2021-02-28,Sparta Rotterdam,N1,4,2,3,13,D,1,Sparta Rotterdam_Willem II_2020
+211,13:30:00,3,For Sittard,12,0,1,0,0,0,0,0,12,H,5,2021-02-28,Groningen,N1,1,1,4,4,D,6,Groningen_For Sittard_2020
+212,13:30:00,5,Ajax,18,0,1,1,1,0,0,1,10,D,17,2021-02-28,PSV Eindhoven,N1,3,5,5,9,H,2,PSV Eindhoven_Ajax_2020
+213,15:45:00,1,Feyenoord,16,0,4,2,2,0,2,4,10,H,9,2021-02-28,AZ Alkmaar,N1,5,7,3,9,D,5,AZ Alkmaar_Feyenoord_2020
+214,19:00:00,2,Sparta Rotterdam,7,0,1,1,0,0,1,1,15,D,14,2021-03-05,FC Emmen,N1,5,5,7,15,A,2,FC Emmen_Sparta Rotterdam_2020
+215,15:30:00,0,VVV Venlo,9,0,6,0,3,0,0,0,3,H,5,2021-03-06,Feyenoord,N1,0,10,11,21,H,1,Feyenoord_VVV Venlo_2020
+216,17:45:00,2,Willem II,6,0,1,1,0,0,0,0,3,D,9,2021-03-06,Twente,N1,2,5,3,12,D,1,Twente_Willem II_2020
+217,19:00:00,2,Den Haag,12,0,3,0,1,0,0,1,7,H,12,2021-03-06,Heerenveen,N1,3,7,5,18,H,2,Heerenveen_Den Haag_2020
+218,20:00:00,2,Utrecht,10,0,1,2,0,0,1,1,10,A,17,2021-03-06,Waalwijk,N1,5,6,4,13,A,11,Waalwijk_Utrecht_2020
+219,11:15:00,2,Groningen,10,0,3,1,1,0,0,1,8,H,9,2021-03-07,Ajax,N1,4,8,5,21,H,3,Ajax_Groningen_2020
+220,13:30:00,0,PSV Eindhoven,12,0,1,3,0,0,2,2,10,A,12,2021-03-07,For Sittard,N1,6,4,9,11,A,1,For Sittard_PSV Eindhoven_2020
+221,13:30:00,0,Zwolle,5,0,2,1,0,0,0,0,7,H,8,2021-03-07,Heracles,N1,3,8,6,18,D,6,Heracles_Zwolle_2020
+222,15:45:00,3,AZ Alkmaar,14,0,2,1,1,1,0,1,14,H,13,2021-03-07,Vitesse,N1,4,4,4,10,H,6,Vitesse_AZ Alkmaar_2020
+223,17:45:00,0,Sparta Rotterdam,13,0,0,1,0,0,0,1,16,A,12,2021-03-09,VVV Venlo,N1,5,3,3,8,D,9,VVV Venlo_Sparta Rotterdam_2020
+224,15:30:00,0,Heerenveen,5,0,3,1,1,0,0,1,3,H,14,2021-03-13,Willem II,N1,4,8,5,17,H,6,Willem II_Heerenveen_2020
+225,17:45:00,6,Heracles,17,0,1,2,0,0,0,1,11,A,10,2021-03-13,Den Haag,N1,4,2,5,9,D,4,Den Haag_Heracles_2020
+226,19:00:00,1,Twente,8,0,4,1,3,0,1,2,11,H,11,2021-03-13,AZ Alkmaar,N1,4,4,2,11,H,3,AZ Alkmaar_Twente_2020
+227,19:00:00,1,FC Emmen,10,0,1,1,0,0,1,1,11,D,15,2021-03-13,Groningen,N1,4,3,3,8,A,4,Groningen_FC Emmen_2020
+228,20:00:00,0,Waalwijk,12,0,2,0,0,0,0,0,8,H,4,2021-03-13,Sparta Rotterdam,N1,0,3,5,16,D,1,Sparta Rotterdam_Waalwijk_2020
+229,11:15:00,3,For Sittard,13,0,1,3,0,0,1,1,12,A,10,2021-03-14,VVV Venlo,N1,5,3,0,9,A,0,VVV Venlo_For Sittard_2020
+230,13:30:00,1,Feyenoord,7,0,1,1,1,0,1,3,13,D,10,2021-03-14,PSV Eindhoven,N1,3,7,5,12,D,2,PSV Eindhoven_Feyenoord_2020
+231,13:30:00,4,Vitesse,15,1,1,3,1,0,1,6,11,A,10,2021-03-14,Utrecht,N1,5,3,9,15,D,2,Utrecht_Vitesse_2020
+232,15:45:00,1,Ajax,9,0,0,2,0,0,2,1,12,A,21,2021-03-14,Zwolle,N1,6,1,2,1,A,7,Zwolle_Ajax_2020
+233,19:00:00,1,Twente,9,0,0,0,0,0,0,1,2,D,13,2021-03-19,Heerenveen,N1,1,4,1,11,D,3,Heerenveen_Twente_2020
+234,15:30:00,0,Utrecht,6,0,0,1,0,0,0,0,10,A,16,2021-03-20,For Sittard,N1,7,1,5,9,D,5,For Sittard_Utrecht_2020
+235,19:00:00,1,FC Emmen,8,0,1,1,1,0,0,1,8,D,10,2021-03-20,Feyenoord,N1,5,6,6,19,H,3,Feyenoord_FC Emmen_2020
+236,20:00:00,1,Groningen,14,0,3,1,2,0,1,2,10,H,19,2021-03-20,Waalwijk,N1,6,10,3,17,H,5,Waalwijk_Groningen_2020
+237,11:15:00,1,VVV Venlo,8,0,2,1,0,0,0,1,14,H,12,2021-03-21,Zwolle,N1,4,5,11,19,D,5,Zwolle_VVV Venlo_2020
+238,13:30:00,0,PSV Eindhoven,11,0,2,0,1,0,0,1,12,H,15,2021-03-21,AZ Alkmaar,N1,4,5,2,9,H,10,AZ Alkmaar_PSV Eindhoven_2020
+239,13:30:00,2,Willem II,11,0,0,0,0,0,0,1,15,D,10,2021-03-21,Vitesse,N1,4,4,5,12,D,2,Vitesse_Willem II_2020
+240,15:45:00,1,Sparta Rotterdam,10,0,1,1,0,0,0,1,10,D,13,2021-03-21,Heracles,N1,4,1,2,7,D,6,Heracles_Sparta Rotterdam_2020
+241,19:00:00,0,Den Haag,7,0,5,0,4,0,0,0,9,H,2,2021-03-21,Ajax,N1,0,10,6,18,H,3,Ajax_Den Haag_2020
+242,17:45:00,0,Groningen,11,1,0,1,0,0,0,3,10,A,8,2021-04-03,VVV Venlo,N1,3,2,3,9,D,0,VVV Venlo_Groningen_2020
+243,19:00:00,2,Vitesse,26,0,1,2,1,0,1,1,12,A,20,2021-04-03,Twente,N1,6,1,1,2,D,5,Twente_Vitesse_2020
+244,19:00:00,2,AZ Alkmaar,11,1,0,1,0,0,0,1,6,A,5,2021-04-03,Willem II,N1,2,2,6,12,D,2,Willem II_AZ Alkmaar_2020
+245,20:00:00,1,Zwolle,12,0,3,2,1,0,0,1,12,H,18,2021-04-03,Sparta Rotterdam,N1,6,5,4,18,H,11,Sparta Rotterdam_Zwolle_2020
+246,11:15:00,0,For Sittard,10,0,2,0,0,0,0,0,9,H,8,2021-04-04,Feyenoord,N1,3,7,4,18,D,2,Feyenoord_For Sittard_2020
+247,13:30:00,2,Utrecht,14,0,1,4,0,0,3,0,14,A,22,2021-04-04,Den Haag,N1,8,1,4,8,A,2,Den Haag_Utrecht_2020
+248,13:30:00,1,Heracles,6,0,3,0,2,0,0,2,16,H,5,2021-04-04,PSV Eindhoven,N1,2,7,3,15,H,3,PSV Eindhoven_Heracles_2020
+249,15:45:00,1,Waalwijk,11,0,3,1,3,0,0,2,18,H,7,2021-04-04,FC Emmen,N1,2,11,3,18,H,6,FC Emmen_Waalwijk_2020
+250,15:45:00,0,Ajax,13,0,1,2,1,0,1,1,14,A,18,2021-04-04,Heerenveen,N1,6,1,2,8,D,9,Heerenveen_Ajax_2020
+251,19:00:00,2,Den Haag,12,0,0,0,0,0,0,6,22,D,6,2021-04-09,Vitesse,N1,2,4,15,21,D,2,Vitesse_Den Haag_2020
+252,17:45:00,0,Willem II,8,0,4,0,2,0,0,1,5,H,9,2021-04-10,Heracles,N1,1,5,3,10,H,4,Heracles_Willem II_2020
+253,19:00:00,0,Sparta Rotterdam,6,0,2,0,1,0,0,1,6,H,5,2021-04-10,AZ Alkmaar,N1,3,10,9,20,H,2,AZ Alkmaar_Sparta Rotterdam_2020
+254,19:00:00,2,FC Emmen,18,0,1,3,0,1,0,0,15,A,18,2021-04-10,For Sittard,N1,9,4,0,6,D,6,For Sittard_FC Emmen_2020
+255,20:00:00,0,Twente,10,0,1,0,1,0,0,0,9,H,18,2021-04-10,Zwolle,N1,4,5,2,7,H,10,Zwolle_Twente_2020
+256,11:15:00,0,Feyenoord,9,0,1,2,1,0,1,1,11,A,7,2021-04-11,Utrecht,N1,2,7,7,12,D,2,Utrecht_Feyenoord_2020
+257,13:30:00,1,Heerenveen,12,0,0,2,0,0,0,0,8,A,15,2021-04-11,Groningen,N1,10,3,5,11,D,3,Groningen_Heerenveen_2020
+258,13:30:00,1,PSV Eindhoven,8,0,0,2,0,0,1,0,8,A,14,2021-04-11,VVV Venlo,N1,5,1,5,4,A,4,VVV Venlo_PSV Eindhoven_2020
+259,15:45:00,0,Ajax,8,0,0,1,0,0,1,2,10,A,13,2021-04-11,Waalwijk,N1,4,0,4,3,A,7,Waalwijk_Ajax_2020
+260,17:45:00,2,Utrecht,12,0,1,1,0,0,1,0,11,D,6,2021-04-22,Ajax,N1,1,8,9,21,A,2,Ajax_Utrecht_2020
+261,17:45:00,1,Waalwijk,10,0,1,0,0,0,0,1,12,H,6,2021-04-23,Willem II,N1,3,9,6,20,D,5,Willem II_Waalwijk_2020
+262,15:30:00,1,Zwolle,14,0,0,2,0,0,1,2,11,A,4,2021-04-24,Heerenveen,N1,3,3,5,11,A,1,Heerenveen_Zwolle_2020
+263,17:45:00,1,Groningen,15,0,1,0,0,0,0,3,12,H,8,2021-04-24,PSV Eindhoven,N1,1,5,4,13,D,4,PSV Eindhoven_Groningen_2020
+264,17:45:00,2,VVV Venlo,11,0,2,0,1,0,0,4,9,H,10,2021-04-24,Sparta Rotterdam,N1,3,7,5,19,H,3,Sparta Rotterdam_VVV Venlo_2020
+265,11:15:00,1,Heracles,9,0,3,1,0,0,0,1,7,H,8,2021-04-25,FC Emmen,N1,4,5,7,15,D,5,FC Emmen_Heracles_2020
+266,13:30:00,0,AZ Alkmaar,10,0,2,0,0,0,0,1,8,H,8,2021-04-25,Ajax,N1,3,10,9,21,D,3,Ajax_AZ Alkmaar_2020
+267,13:30:00,1,For Sittard,6,0,0,3,0,0,1,1,6,A,19,2021-04-25,Den Haag,N1,6,3,8,18,A,4,Den Haag_For Sittard_2020
+268,15:45:00,2,Vitesse,21,0,0,0,0,1,0,4,14,D,19,2021-04-25,Feyenoord,N1,7,2,6,14,D,3,Feyenoord_Vitesse_2020
+269,15:45:00,3,Utrecht,12,0,1,2,1,0,0,3,8,A,12,2021-04-25,Twente,N1,5,4,5,9,H,5,Twente_Utrecht_2020

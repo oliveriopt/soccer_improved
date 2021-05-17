@@ -1,0 +1,307 @@
+,Time,HY,AwayTeam,HF,AR,FTHG,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,15:30:00,2,Charleroi,10,0,0,1,0,0,0,3,11,A,6,2020-08-08,Club Brugge,B1,4,5,10,17,D,2,Club Brugge_Charleroi_2020
+1,18:00:00,2,Mouscron,8,0,1,1,0,0,0,1,5,D,4,2020-08-08,Antwerp,B1,2,9,7,12,D,3,Antwerp_Mouscron_2020
+2,18:00:00,1,Cercle Brugge,10,0,1,0,0,0,0,1,11,H,6,2020-08-08,Standard,B1,1,8,5,11,D,4,Standard_Cercle Brugge_2020
+3,12:30:00,2,Gent,19,0,2,1,1,0,1,2,13,H,13,2020-08-09,St Truiden,B1,2,8,6,11,D,3,St Truiden_Gent_2020
+4,15:00:00,3,Genk,15,0,1,2,1,0,0,1,16,A,15,2020-08-09,Waregem,B1,4,6,9,8,H,8,Waregem_Genk_2020
+5,17:15:00,3,Anderlecht,21,0,2,2,0,0,0,3,17,D,7,2020-08-09,Mechelen,B1,2,4,2,10,D,7,Mechelen_Anderlecht_2020
+6,19:45:00,2,Waasland-Beveren,15,0,1,3,0,0,1,4,14,A,8,2020-08-09,Kortrijk,B1,6,4,4,11,A,1,Kortrijk_Waasland-Beveren_2020
+7,18:00:00,1,Eupen,12,0,1,1,0,0,0,2,11,D,16,2020-08-10,Oud-Heverlee Leuven,B1,6,3,5,4,D,8,Oud-Heverlee Leuven_Eupen_2020
+8,18:00:00,3,Beerschot VA,18,0,1,2,0,0,1,2,12,A,6,2020-08-10,Oostende,B1,5,2,12,6,A,7,Oostende_Beerschot VA_2020
+9,18:00:00,3,Mechelen,9,0,0,1,0,0,1,3,18,A,7,2020-08-14,Mouscron,B1,4,1,5,9,A,5,Mouscron_Mechelen_2020
+10,15:30:00,1,Oud-Heverlee Leuven,11,0,1,1,0,0,0,1,11,D,10,2020-08-15,Genk,B1,4,4,7,20,D,1,Genk_Oud-Heverlee Leuven_2020
+11,18:00:00,1,Oostende,14,0,1,0,0,0,0,2,19,H,8,2020-08-15,Charleroi,B1,0,2,8,14,D,7,Charleroi_Oostende_2020
+12,18:00:00,0,Kortrijk,6,0,1,2,0,0,1,1,12,A,10,2020-08-15,Gent,B1,5,12,6,23,A,5,Gent_Kortrijk_2020
+13,12:30:00,1,Antwerp,17,0,2,1,0,0,1,1,14,H,8,2020-08-16,Cercle Brugge,B1,3,5,5,11,A,2,Cercle Brugge_Antwerp_2020
+14,15:00:00,3,Waregem,9,0,3,1,1,0,0,2,11,H,6,2020-08-16,Beerschot VA,B1,1,6,3,17,H,5,Beerschot VA_Waregem_2020
+15,15:00:00,0,Club Brugge,13,0,0,4,0,0,1,0,10,A,11,2020-08-16,Eupen,B1,5,1,6,13,A,6,Eupen_Club Brugge_2020
+16,17:15:00,2,St Truiden,15,1,3,1,1,0,0,0,13,H,3,2020-08-16,Anderlecht,B1,1,6,2,15,H,1,Anderlecht_St Truiden_2020
+17,18:00:00,3,Standard,19,0,1,2,0,0,0,3,18,A,17,2020-08-17,Waasland-Beveren,B1,8,3,4,5,D,8,Waasland-Beveren_Standard_2020
+18,18:00:00,2,Eupen,7,0,0,0,0,0,0,2,19,D,16,2020-08-21,Kortrijk,B1,6,1,1,6,D,5,Kortrijk_Eupen_2020
+19,15:15:00,3,Waasland-Beveren,16,0,4,1,1,0,0,1,10,H,6,2020-08-22,Waregem,B1,2,9,7,23,H,2,Waregem_Waasland-Beveren_2020
+20,17:30:00,4,Cercle Brugge,14,0,2,3,1,0,0,2,13,A,11,2020-08-22,Mechelen,B1,4,8,6,21,H,8,Mechelen_Cercle Brugge_2020
+21,17:30:00,1,Charleroi,10,1,1,3,1,0,1,4,18,A,11,2020-08-22,Oud-Heverlee Leuven,B1,5,2,6,8,D,5,Oud-Heverlee Leuven_Charleroi_2020
+22,19:45:00,0,Gent,10,0,1,0,1,0,0,0,13,H,17,2020-08-22,Antwerp,B1,5,4,3,6,H,6,Antwerp_Gent_2020
+23,12:30:00,6,Genk,18,0,0,0,0,1,0,2,12,D,10,2020-08-23,Standard,B1,3,1,6,12,D,5,Standard_Genk_2020
+24,15:00:00,1,Beerschot VA,16,0,0,1,0,0,1,0,9,A,6,2020-08-23,Club Brugge,B1,2,7,5,19,A,1,Club Brugge_Beerschot VA_2020
+25,17:15:00,2,Mouscron,16,1,1,1,0,0,0,2,14,D,7,2020-08-23,Anderlecht,B1,2,5,12,16,D,2,Anderlecht_Mouscron_2020
+26,19:45:00,1,Oostende,12,1,0,0,0,1,0,7,26,D,13,2020-08-24,St Truiden,B1,2,1,4,9,D,5,St Truiden_Oostende_2020
+27,19:45:00,3,Anderlecht,12,0,2,2,2,0,1,3,14,D,13,2020-08-28,Oostende,B1,5,5,5,11,H,4,Oostende_Anderlecht_2020
+28,15:15:00,4,St Truiden,25,0,1,1,1,1,0,4,14,D,17,2020-08-29,Eupen,B1,4,3,4,5,H,5,Eupen_St Truiden_2020
+29,17:30:00,2,Kortrijk,18,0,0,1,0,0,0,3,16,A,11,2020-08-29,Cercle Brugge,B1,2,1,5,9,D,11,Cercle Brugge_Kortrijk_2020
+30,17:30:00,1,Oud-Heverlee Leuven,12,0,1,3,0,1,1,1,15,A,12,2020-08-29,Waasland-Beveren,B1,7,4,4,16,A,6,Waasland-Beveren_Oud-Heverlee Leuven_2020
+31,19:45:00,2,Waregem,14,0,0,1,0,0,0,1,10,A,9,2020-08-29,Mouscron,B1,2,3,5,8,D,4,Mouscron_Waregem_2020
+32,12:30:00,4,Club Brugge,18,0,1,2,0,0,1,3,15,A,14,2020-08-30,Genk,B1,5,2,1,10,A,5,Genk_Club Brugge_2020
+33,15:00:00,3,Standard,14,0,0,3,0,0,1,1,12,A,14,2020-08-30,Beerschot VA,B1,8,5,7,20,A,5,Beerschot VA_Standard_2020
+34,17:15:00,4,Antwerp,12,1,2,0,1,0,0,3,6,H,9,2020-08-30,Charleroi,B1,2,8,5,17,H,3,Charleroi_Antwerp_2020
+35,19:45:00,2,Mechelen,15,0,1,0,1,0,0,1,16,H,13,2020-08-30,Gent,B1,3,7,3,15,H,2,Gent_Mechelen_2020
+36,19:45:00,3,Gent,8,1,2,1,1,0,0,3,19,H,19,2020-09-11,Eupen,B1,6,7,4,17,H,5,Eupen_Gent_2020
+37,15:15:00,5,Oostende,19,0,0,1,0,0,0,2,16,A,11,2020-09-12,Mechelen,B1,3,0,5,4,D,10,Mechelen_Oostende_2020
+38,17:30:00,2,Standard,19,1,1,0,0,0,0,4,16,H,17,2020-09-12,Oud-Heverlee Leuven,B1,3,3,1,12,D,3,Oud-Heverlee Leuven_Standard_2020
+39,19:45:00,1,Waasland-Beveren,17,0,4,1,2,0,1,2,4,H,7,2020-09-12,Club Brugge,B1,4,9,5,18,H,2,Club Brugge_Waasland-Beveren_2020
+40,12:30:00,1,Cercle Brugge,11,0,2,0,1,0,0,4,20,H,8,2020-09-13,Anderlecht,B1,1,6,7,15,H,3,Anderlecht_Cercle Brugge_2020
+41,15:00:00,3,Antwerp,15,1,2,3,2,1,2,4,16,A,14,2020-09-13,St Truiden,B1,6,3,3,10,D,4,St Truiden_Antwerp_2020
+42,17:15:00,0,Charleroi,13,0,0,2,0,0,0,1,12,A,11,2020-09-13,Waregem,B1,4,1,3,8,D,2,Waregem_Charleroi_2020
+43,19:45:00,2,Mouscron,15,2,3,0,0,0,0,2,9,H,9,2020-09-13,Kortrijk,B1,2,8,8,17,D,1,Kortrijk_Mouscron_2020
+44,19:45:00,0,Genk,16,2,5,2,1,0,1,4,17,H,6,2020-09-14,Beerschot VA,B1,3,7,5,12,D,3,Beerschot VA_Genk_2020
+45,19:45:00,0,Beerschot VA,11,0,3,1,1,0,0,1,11,H,11,2020-09-18,Charleroi,B1,2,4,7,14,H,1,Charleroi_Beerschot VA_2020
+46,15:15:00,4,Oud-Heverlee Leuven,19,0,3,1,1,0,0,2,11,H,15,2020-09-19,Oostende,B1,6,4,11,17,H,2,Oostende_Oud-Heverlee Leuven_2020
+47,17:30:00,3,Gent,12,0,0,1,0,0,1,0,5,A,14,2020-09-19,Mouscron,B1,7,3,11,15,A,3,Mouscron_Gent_2020
+48,19:45:00,4,Anderlecht,16,0,2,4,0,0,2,1,11,A,17,2020-09-19,Waasland-Beveren,B1,7,6,5,14,A,7,Waasland-Beveren_Anderlecht_2020
+49,12:30:00,1,Club Brugge,10,0,0,6,0,0,4,1,12,A,14,2020-09-20,Waregem,B1,7,4,2,9,A,4,Waregem_Club Brugge_2020
+50,15:00:00,0,Kortrijk,17,0,2,1,2,0,1,3,21,H,2,2020-09-20,Standard,B1,1,5,6,16,H,3,Standard_Kortrijk_2020
+51,17:15:00,0,Mechelen,11,0,3,1,1,0,1,1,17,H,18,2020-09-20,Genk,B1,5,4,1,11,D,4,Genk_Mechelen_2020
+52,19:45:00,2,Eupen,6,0,2,2,0,0,1,6,15,D,11,2020-09-20,Antwerp,B1,3,5,9,16,A,4,Antwerp_Eupen_2020
+53,19:45:00,1,St Truiden,15,0,3,0,2,0,0,3,17,H,14,2020-09-21,Cercle Brugge,B1,2,6,5,13,H,4,Cercle Brugge_St Truiden_2020
+54,19:45:00,2,Antwerp,24,0,1,3,1,0,0,0,6,A,14,2020-09-25,Kortrijk,B1,3,5,6,15,H,2,Kortrijk_Antwerp_2020
+55,15:15:00,1,Waasland-Beveren,16,0,3,2,1,0,2,2,9,H,5,2020-09-26,Beerschot VA,B1,3,6,10,19,A,0,Beerschot VA_Waasland-Beveren_2020
+56,17:30:00,3,St Truiden,16,0,2,0,0,0,0,6,16,H,7,2020-09-26,Mechelen,B1,2,5,3,13,D,6,Mechelen_St Truiden_2020
+57,19:45:00,2,Oud-Heverlee Leuven,10,0,2,3,0,0,2,3,11,A,10,2020-09-26,Gent,B1,3,6,8,24,A,4,Gent_Oud-Heverlee Leuven_2020
+58,12:30:00,2,Waregem,11,0,2,2,0,0,1,3,26,D,5,2020-09-27,Standard,B1,2,4,7,16,A,2,Standard_Waregem_2020
+59,15:00:00,2,Eupen,12,0,1,1,0,0,0,4,20,D,8,2020-09-27,Anderlecht,B1,5,3,9,6,D,5,Anderlecht_Eupen_2020
+60,17:15:00,1,Cercle Brugge,10,0,2,1,1,0,0,2,10,H,10,2020-09-27,Club Brugge,B1,1,5,8,21,H,5,Club Brugge_Cercle Brugge_2020
+61,19:45:00,1,Charleroi,6,0,1,1,1,0,1,1,6,D,19,2020-09-27,Mouscron,B1,6,2,0,7,D,6,Mouscron_Charleroi_2020
+62,19:45:00,1,Oostende,7,0,2,2,1,1,1,5,22,D,17,2020-09-28,Genk,B1,11,5,6,11,D,5,Genk_Oostende_2020
+63,19:45:00,1,Mechelen,8,0,4,1,3,0,0,2,13,H,15,2020-10-02,Antwerp,B1,5,6,4,11,H,6,Antwerp_Mechelen_2020
+64,15:15:00,3,Genk,10,0,1,1,0,0,0,3,12,D,13,2020-10-03,Waasland-Beveren,B1,2,8,4,18,D,6,Waasland-Beveren_Genk_2020
+65,17:30:00,5,Cercle Brugge,12,0,1,2,1,0,1,4,12,A,16,2020-10-03,Eupen,B1,6,3,8,10,D,3,Eupen_Cercle Brugge_2020
+66,17:30:00,1,Waregem,13,0,2,1,1,0,0,0,7,H,21,2020-10-03,Oud-Heverlee Leuven,B1,3,7,9,12,H,9,Oud-Heverlee Leuven_Waregem_2020
+67,19:45:00,3,Kortrijk,15,1,0,0,0,0,0,2,17,D,5,2020-10-03,St Truiden,B1,2,4,9,23,D,4,St Truiden_Kortrijk_2020
+68,12:30:00,1,Anderlecht,18,1,3,0,1,0,0,4,15,H,5,2020-10-04,Club Brugge,B1,2,6,8,22,H,1,Club Brugge_Anderlecht_2020
+69,15:00:00,1,Beerschot VA,11,0,5,1,3,0,0,1,13,H,20,2020-10-04,Gent,B1,7,6,6,22,H,5,Gent_Beerschot VA_2020
+70,17:15:00,2,Standard,8,0,1,2,0,0,0,3,12,A,10,2020-10-04,Charleroi,B1,5,2,7,7,D,8,Charleroi_Standard_2020
+71,19:45:00,1,Mouscron,10,0,3,0,0,0,0,0,7,H,4,2020-10-04,Oostende,B1,1,5,6,16,D,0,Oostende_Mouscron_2020
+72,15:15:00,0,Gent,7,0,5,2,2,0,1,0,12,H,17,2020-10-17,Cercle Brugge,B1,6,9,5,14,H,9,Cercle Brugge_Gent_2020
+73,17:30:00,0,St Truiden,14,0,6,3,5,0,1,4,16,H,12,2020-10-17,Beerschot VA,B1,5,7,4,15,H,4,Beerschot VA_St Truiden_2020
+74,17:30:00,2,Kortrijk,12,0,1,2,0,1,0,1,7,A,12,2020-10-17,Mechelen,B1,6,6,7,19,D,6,Mechelen_Kortrijk_2020
+75,19:45:00,2,Club Brugge,11,0,1,1,0,0,1,3,16,D,9,2020-10-17,Standard,B1,3,4,8,13,A,5,Standard_Club Brugge_2020
+76,12:30:00,1,Antwerp,6,0,1,3,1,0,0,1,9,A,22,2020-10-18,Waregem,B1,12,6,3,15,H,9,Waregem_Antwerp_2020
+77,15:00:00,3,Eupen,9,0,0,2,0,0,0,1,15,A,13,2020-10-18,Mouscron,B1,6,6,5,17,D,4,Mouscron_Eupen_2020
+78,17:15:00,4,Charleroi,21,0,2,1,1,1,0,2,15,H,14,2020-10-18,Genk,B1,5,6,4,11,H,5,Genk_Charleroi_2020
+79,19:30:00,1,Oud-Heverlee Leuven,10,0,2,2,2,0,0,2,16,D,18,2020-10-18,Anderlecht,B1,6,4,3,21,H,8,Anderlecht_Oud-Heverlee Leuven_2020
+80,19:45:00,0,Anderlecht,10,0,1,3,0,0,2,2,20,A,16,2020-10-23,Kortrijk,B1,7,3,4,14,A,3,Kortrijk_Anderlecht_2020
+81,19:45:00,2,Club Brugge,14,0,2,1,1,0,1,3,14,H,20,2020-10-24,Oud-Heverlee Leuven,B1,10,6,4,12,D,4,Oud-Heverlee Leuven_Club Brugge_2020
+82,12:30:00,4,Beerschot VA,10,0,3,2,2,0,1,2,11,H,11,2020-10-25,Antwerp,B1,2,3,8,11,H,6,Antwerp_Beerschot VA_2020
+83,15:00:00,1,Waregem,14,0,3,0,3,0,0,1,13,H,22,2020-10-25,Oostende,B1,4,9,4,15,H,10,Oostende_Waregem_2020
+84,17:15:00,1,Standard,12,0,2,0,1,0,0,1,13,H,10,2020-10-25,St Truiden,B1,4,2,4,9,H,3,St Truiden_Standard_2020
+85,19:45:00,1,Genk,15,0,1,2,1,0,1,2,10,A,8,2020-10-26,Gent,B1,3,6,8,16,D,3,Gent_Genk_2020
+86,19:45:00,1,Eupen,12,0,4,0,1,0,0,2,12,H,15,2020-10-30,Genk,B1,4,8,3,14,H,6,Genk_Eupen_2020
+87,15:15:00,5,Oud-Heverlee Leuven,19,0,4,2,2,0,1,1,11,H,18,2020-10-31,Beerschot VA,B1,5,9,7,18,H,5,Beerschot VA_Oud-Heverlee Leuven_2020
+88,17:30:00,2,Cercle Brugge,18,0,3,0,0,0,0,1,8,H,9,2020-10-31,Charleroi,B1,3,9,11,20,D,1,Charleroi_Cercle Brugge_2020
+89,19:45:00,1,Mechelen,15,0,2,2,2,0,1,0,4,D,10,2020-10-31,Club Brugge,B1,7,5,3,14,H,2,Club Brugge_Mechelen_2020
+90,12:30:00,0,Antwerp,8,0,1,0,0,0,0,3,9,H,15,2020-11-01,Anderlecht,B1,6,4,4,14,D,6,Anderlecht_Antwerp_2020
+91,17:15:00,1,Oostende,13,0,1,0,0,0,0,3,19,H,10,2020-11-01,Standard,B1,2,2,9,13,D,4,Standard_Oostende_2020
+92,19:45:00,4,Gent,10,0,1,4,0,0,4,0,8,A,16,2020-11-01,Waasland-Beveren,B1,9,4,7,14,A,3,Waasland-Beveren_Gent_2020
+93,19:45:00,2,Kortrijk,20,0,1,1,0,1,0,0,8,D,16,2020-11-02,Waregem,B1,5,2,3,8,D,9,Waregem_Kortrijk_2020
+94,19:45:00,2,Charleroi,9,0,3,3,2,0,1,3,12,D,9,2020-11-06,Mechelen,B1,2,7,4,20,H,6,Mechelen_Charleroi_2020
+95,15:15:00,2,Beerschot VA,11,0,5,5,2,0,1,2,14,D,23,2020-11-07,Kortrijk,B1,12,8,6,23,H,6,Kortrijk_Beerschot VA_2020
+96,17:30:00,1,Waasland-Beveren,12,0,1,1,0,0,1,2,12,D,9,2020-11-07,Eupen,B1,3,8,14,25,A,4,Eupen_Waasland-Beveren_2020
+97,19:45:00,5,Genk,21,0,1,2,1,1,2,2,19,A,8,2020-11-07,St Truiden,B1,5,2,11,15,A,4,St Truiden_Genk_2020
+98,12:30:00,0,Standard,4,0,1,1,1,0,0,3,14,D,10,2020-11-08,Antwerp,B1,3,4,3,17,H,3,Antwerp_Standard_2020
+99,15:00:00,3,Club Brugge,10,0,1,3,1,1,1,0,8,A,15,2020-11-08,Oostende,B1,7,5,4,14,D,8,Oostende_Club Brugge_2020
+100,17:15:00,3,Anderlecht,20,0,1,1,0,0,1,4,13,D,10,2020-11-08,Gent,B1,3,3,2,8,A,7,Gent_Anderlecht_2020
+101,19:45:00,3,Waregem,8,0,1,3,0,0,2,3,13,A,16,2020-11-08,Cercle Brugge,B1,6,5,4,14,A,8,Cercle Brugge_Waregem_2020
+102,15:15:00,2,Eupen,11,0,2,2,1,1,1,0,22,D,11,2020-11-21,Standard,B1,5,6,3,14,D,3,Standard_Eupen_2020
+103,17:30:00,1,Antwerp,13,0,1,1,0,0,0,1,8,D,12,2020-11-21,Oostende,B1,5,3,7,14,D,5,Oostende_Antwerp_2020
+104,17:30:00,4,Cercle Brugge,11,0,0,2,0,1,1,3,11,A,9,2020-11-21,Waasland-Beveren,B1,5,5,5,12,A,7,Waasland-Beveren_Cercle Brugge_2020
+105,19:45:00,0,Kortrijk,8,0,1,0,0,0,0,3,18,H,5,2020-11-21,Club Brugge,B1,2,4,7,17,D,2,Club Brugge_Kortrijk_2020
+106,12:30:00,2,Anderlecht,21,0,2,1,1,0,0,2,17,H,13,2020-11-22,Beerschot VA,B1,2,10,5,13,H,3,Beerschot VA_Anderlecht_2020
+107,15:00:00,0,Mechelen,11,0,1,2,0,0,1,2,26,A,9,2020-11-22,Waregem,B1,3,1,3,5,A,4,Waregem_Mechelen_2020
+108,17:15:00,1,Gent,10,0,0,1,0,0,1,2,18,A,9,2020-11-22,Charleroi,B1,4,3,3,5,A,4,Charleroi_Gent_2020
+109,19:45:00,1,Mouscron,10,0,4,1,1,0,1,4,22,H,17,2020-11-22,Genk,B1,3,10,5,15,D,3,Genk_Mouscron_2020
+110,19:45:00,1,St Truiden,16,0,2,2,1,0,1,4,19,D,10,2020-11-23,Oud-Heverlee Leuven,B1,3,7,4,18,D,1,Oud-Heverlee Leuven_St Truiden_2020
+111,16:00:00,2,Oostende,10,0,2,0,0,0,0,2,13,H,12,2020-11-24,Waasland-Beveren,B1,2,5,2,14,D,6,Waasland-Beveren_Oostende_2020
+112,16:00:00,4,Mouscron,12,0,1,2,0,0,0,2,11,A,9,2020-11-25,Cercle Brugge,B1,2,3,4,13,D,5,Cercle Brugge_Mouscron_2020
+113,19:45:00,1,Charleroi,14,0,3,1,1,0,0,5,11,H,15,2020-11-27,Eupen,B1,2,3,6,6,H,3,Eupen_Charleroi_2020
+114,15:15:00,3,Waasland-Beveren,14,0,1,1,1,0,0,1,13,D,14,2020-11-28,St Truiden,B1,4,4,10,8,H,7,St Truiden_Waasland-Beveren_2020
+115,17:30:00,2,Genk,9,0,1,5,0,0,4,0,5,A,18,2020-11-28,Cercle Brugge,B1,11,2,2,8,A,6,Cercle Brugge_Genk_2020
+116,19:45:00,2,Club Brugge,20,0,0,0,0,0,0,3,15,D,14,2020-11-28,Mouscron,B1,1,3,1,4,D,4,Mouscron_Club Brugge_2020
+117,12:30:00,4,Beerschot VA,12,0,2,3,2,1,1,2,11,A,9,2020-11-29,Mechelen,B1,5,3,3,12,H,2,Mechelen_Beerschot VA_2020
+118,15:00:00,1,Waregem,15,0,0,3,0,0,2,1,8,A,10,2020-11-29,Gent,B1,5,4,8,13,A,0,Gent_Waregem_2020
+119,17:15:00,2,Standard,14,0,0,0,0,0,0,2,11,D,12,2020-11-29,Anderlecht,B1,3,1,2,7,D,6,Anderlecht_Standard_2020
+120,19:45:00,0,Oostende,11,0,3,1,1,0,1,3,12,H,15,2020-11-29,Kortrijk,B1,9,10,5,19,D,6,Kortrijk_Oostende_2020
+121,19:45:00,3,Oud-Heverlee Leuven,9,0,3,2,2,0,2,5,20,H,16,2020-11-30,Antwerp,B1,4,9,11,29,D,2,Antwerp_Oud-Heverlee Leuven_2020
+122,16:00:00,3,St Truiden,12,0,3,2,1,0,0,3,13,H,18,2020-12-01,Mouscron,B1,7,6,2,10,H,8,Mouscron_St Truiden_2020
+123,16:00:00,1,Waasland-Beveren,14,0,0,2,0,1,1,3,9,A,11,2020-12-02,Charleroi,B1,4,4,4,11,A,7,Charleroi_Waasland-Beveren_2020
+124,16:00:00,0,Mechelen,7,0,1,1,1,0,0,2,7,D,25,2020-12-03,Eupen,B1,6,3,2,10,H,8,Eupen_Mechelen_2020
+125,19:45:00,1,Anderlecht,13,0,2,2,1,0,1,2,12,D,21,2020-12-04,Waregem,B1,6,2,1,8,D,4,Waregem_Anderlecht_2020
+126,15:15:00,1,Mouscron,9,0,2,0,0,0,0,2,8,H,6,2020-12-05,Waasland-Beveren,B1,2,5,7,12,D,2,Waasland-Beveren_Mouscron_2020
+127,17:30:00,2,Cercle Brugge,10,0,2,1,1,1,0,2,11,H,15,2020-12-05,Oud-Heverlee Leuven,B1,5,4,1,11,H,5,Oud-Heverlee Leuven_Cercle Brugge_2020
+128,19:45:00,0,St Truiden,11,0,1,0,0,0,0,1,6,H,6,2020-12-05,Club Brugge,B1,3,5,3,16,D,3,Club Brugge_St Truiden_2020
+129,12:30:00,1,Antwerp,8,0,4,2,2,0,1,3,12,H,10,2020-12-06,Genk,B1,2,10,5,20,H,4,Genk_Antwerp_2020
+130,15:00:00,3,Eupen,8,0,0,1,0,0,1,2,15,A,18,2020-12-06,Beerschot VA,B1,8,4,11,19,A,7,Beerschot VA_Eupen_2020
+131,17:15:00,2,Mechelen,10,0,2,2,1,0,0,1,13,D,14,2020-12-06,Standard,B1,9,5,7,17,H,4,Standard_Mechelen_2020
+132,19:45:00,2,Gent,10,0,2,1,0,0,1,4,19,H,7,2020-12-06,Oostende,B1,2,3,3,7,A,6,Oostende_Gent_2020
+133,19:45:00,4,Kortrijk,12,0,0,0,0,0,0,2,11,D,13,2020-12-07,Charleroi,B1,6,0,7,1,D,7,Charleroi_Kortrijk_2020
+134,16:00:00,0,Mouscron,9,0,2,0,0,0,0,5,18,H,8,2020-12-08,Oud-Heverlee Leuven,B1,5,3,2,11,D,2,Oud-Heverlee Leuven_Mouscron_2020
+135,19:45:00,3,Genk,19,0,1,0,0,0,0,3,12,H,4,2020-12-11,Anderlecht,B1,1,5,7,15,D,5,Anderlecht_Genk_2020
+136,15:15:00,0,Beerschot VA,13,0,3,1,1,0,0,2,9,H,11,2020-12-12,Mouscron,B1,2,7,2,16,H,7,Mouscron_Beerschot VA_2020
+137,17:30:00,4,Oostende,12,0,0,1,0,1,1,0,9,A,14,2020-12-12,Cercle Brugge,B1,4,4,3,8,A,3,Cercle Brugge_Oostende_2020
+138,17:30:00,2,Oud-Heverlee Leuven,13,0,0,3,0,0,0,1,13,A,10,2020-12-12,Kortrijk,B1,4,5,12,20,D,1,Kortrijk_Oud-Heverlee Leuven_2020
+139,19:45:00,2,Charleroi,5,0,1,2,1,1,1,2,17,A,11,2020-12-12,St Truiden,B1,4,3,9,17,D,5,St Truiden_Charleroi_2020
+140,12:30:00,3,Club Brugge,11,0,0,2,0,1,1,1,15,A,13,2020-12-13,Antwerp,B1,5,1,2,9,A,9,Antwerp_Club Brugge_2020
+141,17:15:00,0,Standard,23,0,2,1,1,0,1,1,9,H,8,2020-12-13,Gent,B1,3,6,3,14,D,3,Gent_Standard_2020
+142,19:45:00,0,Waasland-Beveren,13,0,2,3,1,1,0,0,11,A,10,2020-12-13,Mechelen,B1,5,5,3,12,H,1,Mechelen_Waasland-Beveren_2020
+143,17:45:00,3,Charleroi,13,0,3,4,2,1,0,2,13,A,21,2020-12-15,Cercle Brugge,B1,7,5,2,10,H,9,Cercle Brugge_Charleroi_2020
+144,17:45:00,5,Oud-Heverlee Leuven,9,0,2,2,0,0,1,2,9,D,12,2020-12-15,Mouscron,B1,9,7,6,17,A,4,Mouscron_Oud-Heverlee Leuven_2020
+145,20:00:00,0,Oostende,12,0,2,1,1,1,0,3,16,H,14,2020-12-15,Anderlecht,B1,3,5,2,9,H,3,Anderlecht_Oostende_2020
+146,17:45:00,2,Waregem,11,0,0,1,0,0,1,3,11,A,17,2020-12-16,Antwerp,B1,5,2,2,11,A,4,Antwerp_Waregem_2020
+147,20:00:00,1,Waasland-Beveren,12,0,3,0,1,0,0,2,17,H,9,2020-12-16,Gent,B1,1,7,4,17,H,4,Gent_Waasland-Beveren_2020
+148,20:00:00,3,Standard,12,0,2,1,2,0,0,1,17,H,17,2020-12-16,Kortrijk,B1,6,4,6,10,H,5,Kortrijk_Standard_2020
+149,19:45:00,3,Club Brugge,10,0,0,3,0,0,0,0,11,A,21,2020-12-17,Mechelen,B1,8,3,6,10,D,3,Mechelen_Club Brugge_2020
+150,19:45:00,3,Anderlecht,15,0,1,0,0,0,0,0,12,H,7,2020-12-18,Charleroi,B1,2,4,3,10,D,3,Charleroi_Anderlecht_2020
+151,17:30:00,4,St Truiden,17,0,0,2,0,1,0,2,16,A,11,2020-12-19,Waregem,B1,6,1,6,12,D,4,Waregem_St Truiden_2020
+152,19:45:00,1,Kortrijk,14,0,2,0,1,0,0,2,16,H,7,2020-12-19,Genk,B1,1,5,4,13,H,1,Genk_Kortrijk_2020
+153,12:30:00,3,Gent,13,0,0,1,0,0,0,3,18,A,6,2020-12-20,Club Brugge,B1,2,9,15,22,D,0,Club Brugge_Gent_2020
+154,15:00:00,3,Mechelen,12,0,1,2,0,0,2,4,12,A,29,2020-12-20,Oud-Heverlee Leuven,B1,12,5,3,12,A,3,Oud-Heverlee Leuven_Mechelen_2020
+155,17:15:00,4,Mouscron,13,0,0,1,0,0,1,1,14,A,10,2020-12-20,Standard,B1,4,6,5,13,A,1,Standard_Mouscron_2020
+156,19:45:00,1,Antwerp,16,0,0,3,0,0,3,4,14,A,16,2020-12-20,Waasland-Beveren,B1,7,1,5,9,A,7,Waasland-Beveren_Antwerp_2020
+157,13:00:00,0,Eupen,9,0,3,0,0,1,0,2,16,H,9,2020-12-26,Club Brugge,B1,2,6,12,14,D,2,Club Brugge_Eupen_2020
+158,15:15:00,3,Cercle Brugge,17,0,1,0,0,0,0,2,15,H,14,2020-12-26,Waregem,B1,3,3,5,7,D,7,Waregem_Cercle Brugge_2020
+159,17:30:00,3,Gent,21,1,1,0,0,0,0,0,8,H,13,2020-12-26,Kortrijk,B1,6,5,4,9,D,3,Kortrijk_Gent_2020
+160,17:30:00,1,Oostende,12,0,1,2,1,0,0,3,9,A,20,2020-12-26,Oud-Heverlee Leuven,B1,6,4,4,9,H,9,Oud-Heverlee Leuven_Oostende_2020
+161,19:45:00,2,St Truiden,19,1,1,2,0,0,2,2,14,A,9,2020-12-26,Standard,B1,5,7,7,18,A,3,Standard_St Truiden_2020
+162,12:30:00,1,Charleroi,13,0,2,1,0,0,0,1,12,H,6,2020-12-27,Antwerp,B1,1,6,8,17,D,2,Antwerp_Charleroi_2020
+163,15:00:00,0,Waasland-Beveren,9,0,1,1,1,0,1,3,11,D,8,2020-12-27,Genk,B1,2,2,6,13,D,5,Genk_Waasland-Beveren_2020
+164,17:15:00,1,Beerschot VA,9,0,2,0,1,0,0,4,20,H,8,2020-12-27,Anderlecht,B1,2,6,7,27,H,1,Anderlecht_Beerschot VA_2020
+165,19:45:00,0,Mouscron,8,0,2,1,1,0,0,1,15,H,16,2020-12-27,Mechelen,B1,6,5,5,10,H,3,Mechelen_Mouscron_2020
+166,19:45:00,3,Waregem,21,0,2,3,1,0,0,2,8,A,16,2020-12-29,Eupen,B1,9,7,3,17,H,6,Eupen_Waregem_2020
+167,19:45:00,3,Beerschot VA,10,0,1,0,1,0,0,0,14,H,12,2020-12-30,St Truiden,B1,4,3,6,9,H,3,St Truiden_Beerschot VA_2020
+168,19:45:00,3,Genk,15,0,1,4,1,0,2,1,10,A,9,2021-01-06,Eupen,B1,4,3,6,20,A,1,Eupen_Genk_2020
+169,15:15:00,3,Mouscron,13,0,1,0,1,0,0,2,15,H,17,2021-01-09,Waregem,B1,5,1,2,6,H,10,Waregem_Mouscron_2020
+170,17:30:00,2,Eupen,12,0,1,2,0,0,0,3,11,A,12,2021-01-09,Cercle Brugge,B1,5,5,6,14,D,8,Cercle Brugge_Eupen_2020
+171,17:30:00,1,Genk,19,0,2,1,1,0,1,2,11,H,11,2021-01-09,Kortrijk,B1,4,6,5,13,D,3,Kortrijk_Genk_2020
+172,19:45:00,2,Charleroi,15,0,3,2,1,0,1,0,7,H,11,2021-01-09,Oostende,B1,3,6,6,19,D,3,Oostende_Charleroi_2020
+173,12:30:00,1,Antwerp,14,0,3,0,0,0,0,3,10,H,9,2021-01-10,Mechelen,B1,0,5,6,12,D,4,Mechelen_Antwerp_2020
+174,15:00:00,4,Gent,11,0,1,1,1,0,1,2,11,D,16,2021-01-10,Beerschot VA,B1,6,3,2,7,D,11,Beerschot VA_Gent_2020
+175,17:15:00,1,Anderlecht,10,0,1,0,0,0,0,3,9,H,19,2021-01-10,Oud-Heverlee Leuven,B1,3,1,1,5,D,9,Oud-Heverlee Leuven_Anderlecht_2020
+176,19:45:00,1,Club Brugge,8,0,1,2,0,1,2,2,13,A,12,2021-01-10,St Truiden,B1,3,3,5,10,A,7,St Truiden_Club Brugge_2020
+177,19:45:00,3,Waasland-Beveren,16,0,3,1,1,0,0,1,11,H,10,2021-01-11,Standard,B1,5,8,5,20,H,5,Standard_Waasland-Beveren_2020
+178,19:45:00,2,Eupen,15,1,1,1,0,0,0,3,10,D,6,2021-01-12,Oostende,B1,2,4,10,18,D,2,Oostende_Eupen_2020
+179,17:30:00,2,Cercle Brugge,9,0,1,1,1,0,0,1,12,D,14,2021-01-13,Beerschot VA,B1,2,1,2,3,H,7,Beerschot VA_Cercle Brugge_2020
+180,19:45:00,2,Anderlecht,16,1,2,0,0,0,0,3,9,H,12,2021-01-15,Eupen,B1,5,4,3,18,D,3,Eupen_Anderlecht_2020
+181,15:15:00,2,Kortrijk,20,0,2,1,1,0,0,1,13,H,11,2021-01-16,Oostende,B1,2,2,2,7,H,2,Oostende_Kortrijk_2020
+182,17:30:00,2,Genk,20,1,2,0,1,0,0,2,16,H,12,2021-01-16,Mouscron,B1,2,12,8,17,H,4,Mouscron_Genk_2020
+183,17:30:00,2,Waregem,8,0,1,5,0,0,2,1,7,A,18,2021-01-16,Waasland-Beveren,B1,10,7,8,13,A,1,Waasland-Beveren_Waregem_2020
+184,19:45:00,1,Mechelen,14,0,0,1,0,0,0,1,21,A,10,2021-01-16,Charleroi,B1,1,5,7,10,D,4,Charleroi_Mechelen_2020
+185,12:30:00,1,Antwerp,14,0,0,1,0,0,0,3,8,A,7,2021-01-17,Gent,B1,1,4,5,10,D,4,Gent_Antwerp_2020
+186,15:00:00,1,Standard,22,0,0,1,0,0,1,1,13,A,5,2021-01-17,Cercle Brugge,B1,3,0,7,7,A,3,Cercle Brugge_Standard_2020
+187,17:15:00,3,Club Brugge,15,0,0,3,0,0,2,2,6,A,15,2021-01-17,Beerschot VA,B1,6,4,5,10,A,7,Beerschot VA_Club Brugge_2020
+188,19:45:00,2,Oud-Heverlee Leuven,11,1,3,1,2,0,1,0,17,H,9,2021-01-17,St Truiden,B1,4,4,2,12,H,4,St Truiden_Oud-Heverlee Leuven_2020
+189,17:45:00,4,Waasland-Beveren,14,0,1,1,0,0,0,1,12,D,8,2021-01-19,Mouscron,B1,4,4,6,14,D,6,Mouscron_Waasland-Beveren_2020
+190,20:00:00,0,Charleroi,2,0,3,0,2,0,0,3,16,H,4,2021-01-19,Anderlecht,B1,0,4,6,15,H,4,Anderlecht_Charleroi_2020
+191,15:30:00,2,St Truiden,14,0,0,2,0,0,2,0,12,A,8,2021-01-20,Kortrijk,B1,2,7,9,29,A,1,Kortrijk_St Truiden_2020
+192,17:45:00,0,Beerschot VA,8,1,3,1,2,0,1,2,14,H,5,2021-01-20,Eupen,B1,3,5,7,13,H,4,Eupen_Beerschot VA_2020
+193,17:45:00,1,Standard,17,0,0,4,0,0,1,1,14,A,11,2021-01-20,Mechelen,B1,5,3,4,13,A,0,Mechelen_Standard_2020
+194,20:00:00,2,Cercle Brugge,9,0,1,0,0,0,0,3,14,H,8,2021-01-20,Antwerp,B1,1,1,2,10,D,8,Antwerp_Cercle Brugge_2020
+195,20:00:00,1,Oostende,11,0,2,1,1,0,1,1,12,H,10,2021-01-20,Club Brugge,B1,4,6,5,14,D,3,Club Brugge_Oostende_2020
+196,17:45:00,1,Oud-Heverlee Leuven,12,0,2,3,2,0,1,0,9,A,17,2021-01-21,Waregem,B1,8,5,5,11,H,9,Waregem_Oud-Heverlee Leuven_2020
+197,20:00:00,2,Gent,12,0,1,1,1,1,1,4,25,D,16,2021-01-21,Genk,B1,6,3,0,6,D,4,Genk_Gent_2020
+198,19:45:00,1,Waasland-Beveren,9,0,0,0,0,0,0,0,9,D,4,2021-01-22,Anderlecht,B1,0,10,13,26,D,1,Anderlecht_Waasland-Beveren_2020
+199,15:15:00,3,Eupen,9,0,3,0,1,0,0,1,16,H,12,2021-01-23,Mechelen,B1,4,8,5,14,H,10,Mechelen_Eupen_2020
+200,17:30:00,2,Cercle Brugge,13,0,1,2,1,0,2,1,9,A,11,2021-01-23,Kortrijk,B1,5,3,8,16,A,7,Kortrijk_Cercle Brugge_2020
+201,17:30:00,4,Mouscron,8,0,0,2,0,0,1,3,16,A,12,2021-01-23,St Truiden,B1,6,3,7,17,A,4,St Truiden_Mouscron_2020
+202,19:45:00,3,Oostende,7,0,1,2,1,0,1,3,9,A,12,2021-01-23,Antwerp,B1,5,3,4,11,D,4,Antwerp_Oostende_2020
+203,12:30:00,0,Genk,12,0,3,2,1,0,2,1,17,H,9,2021-01-24,Club Brugge,B1,4,8,7,18,A,2,Club Brugge_Genk_2020
+204,15:00:00,0,Beerschot VA,13,0,0,3,0,0,0,0,16,A,9,2021-01-24,Waregem,B1,5,2,6,9,D,3,Waregem_Beerschot VA_2020
+205,17:15:00,1,Charleroi,11,1,3,2,2,0,1,2,13,H,16,2021-01-24,Standard,B1,10,6,3,14,H,2,Standard_Charleroi_2020
+206,19:45:00,2,Gent,4,0,0,3,0,1,1,2,10,A,25,2021-01-24,Oud-Heverlee Leuven,B1,9,5,3,12,A,7,Oud-Heverlee Leuven_Gent_2020
+207,17:45:00,2,Antwerp,10,0,0,2,0,0,2,1,8,A,11,2021-01-26,Eupen,B1,4,4,5,19,A,4,Eupen_Antwerp_2020
+208,17:45:00,2,Mechelen,13,0,2,3,0,0,2,1,13,A,17,2021-01-26,Waasland-Beveren,B1,7,6,6,9,A,10,Waasland-Beveren_Mechelen_2020
+209,20:00:00,2,Anderlecht,23,0,1,1,1,0,0,1,11,D,11,2021-01-26,Mouscron,B1,2,1,5,7,H,4,Mouscron_Anderlecht_2020
+210,17:45:00,1,Kortrijk,11,0,0,0,0,0,0,2,12,D,20,2021-01-27,Beerschot VA,B1,4,1,4,4,D,9,Beerschot VA_Kortrijk_2020
+211,17:45:00,0,Waregem,11,0,3,2,1,0,0,0,11,H,13,2021-01-27,Genk,B1,6,5,5,12,H,3,Genk_Waregem_2020
+212,20:00:00,2,Oud-Heverlee Leuven,9,0,1,1,0,0,1,3,14,D,17,2021-01-27,Charleroi,B1,5,11,12,19,A,5,Charleroi_Oud-Heverlee Leuven_2020
+213,20:00:00,1,St Truiden,18,0,1,1,0,0,1,2,16,D,3,2021-01-27,Gent,B1,2,5,6,10,A,3,Gent_St Truiden_2020
+214,17:45:00,0,Club Brugge,9,0,1,2,1,0,1,2,9,A,8,2021-01-28,Cercle Brugge,B1,3,5,2,8,D,6,Cercle Brugge_Club Brugge_2020
+215,20:00:00,2,Standard,15,0,2,2,1,0,0,0,5,D,21,2021-01-28,Oostende,B1,5,3,8,9,H,12,Oostende_Standard_2020
+216,19:45:00,2,Waasland-Beveren,7,0,3,2,1,0,1,1,9,H,6,2021-01-29,Antwerp,B1,3,7,12,15,D,2,Antwerp_Waasland-Beveren_2020
+217,15:15:00,2,Genk,20,0,0,0,0,0,0,3,16,D,12,2021-01-30,Mechelen,B1,3,2,4,15,D,3,Mechelen_Genk_2020
+218,17:30:00,0,Mouscron,10,0,1,1,1,0,0,2,13,D,11,2021-01-30,Eupen,B1,4,5,7,12,H,6,Eupen_Mouscron_2020
+219,17:30:00,3,Beerschot VA,15,0,0,1,0,0,0,2,12,A,14,2021-01-30,Oud-Heverlee Leuven,B1,7,3,6,14,D,4,Oud-Heverlee Leuven_Beerschot VA_2020
+220,19:45:00,1,Charleroi,14,0,1,3,0,1,1,1,19,A,14,2021-01-30,Kortrijk,B1,5,4,5,12,A,3,Kortrijk_Charleroi_2020
+221,12:30:00,1,Standard,8,0,3,1,2,0,1,4,18,H,10,2021-01-31,Club Brugge,B1,5,7,7,17,H,4,Club Brugge_Standard_2020
+222,15:00:00,1,Oostende,8,0,2,1,1,0,1,1,11,H,13,2021-01-31,Waregem,B1,7,3,7,20,D,9,Waregem_Oostende_2020
+223,17:15:00,0,Gent,11,0,0,0,0,0,0,1,17,D,12,2021-01-31,Anderlecht,B1,3,4,5,10,D,3,Anderlecht_Gent_2020
+224,19:45:00,3,Cercle Brugge,7,0,3,0,1,0,0,2,11,H,15,2021-01-31,St Truiden,B1,2,6,1,10,H,4,St Truiden_Cercle Brugge_2020
+225,19:45:00,2,Kortrijk,14,0,0,3,0,1,2,1,8,A,13,2021-02-05,Mouscron,B1,5,3,4,10,A,4,Mouscron_Kortrijk_2020
+226,15:15:00,0,St Truiden,8,0,3,1,1,0,0,1,14,H,5,2021-02-06,Oostende,B1,2,4,7,13,H,5,Oostende_St Truiden_2020
+227,17:30:00,2,Mechelen,13,0,0,1,0,0,0,1,11,A,13,2021-02-06,Cercle Brugge,B1,3,3,7,9,D,10,Cercle Brugge_Mechelen_2020
+228,17:30:00,2,Club Brugge,16,0,0,2,0,0,1,0,9,A,22,2021-02-06,Waasland-Beveren,B1,10,0,3,6,A,5,Waasland-Beveren_Club Brugge_2020
+229,19:45:00,3,Oud-Heverlee Leuven,11,0,1,1,0,1,0,1,13,D,10,2021-02-06,Standard,B1,3,4,7,13,D,1,Standard_Oud-Heverlee Leuven_2020
+230,12:30:00,4,Antwerp,8,0,1,2,0,0,0,3,16,A,11,2021-02-07,Beerschot VA,B1,2,3,5,6,D,7,Beerschot VA_Antwerp_2020
+231,15:00:00,1,Waregem,16,0,1,1,1,0,0,1,8,D,20,2021-02-07,Charleroi,B1,5,8,3,9,H,6,Charleroi_Waregem_2020
+232,17:15:00,3,Anderlecht,16,0,1,2,1,0,2,2,11,A,11,2021-02-07,Genk,B1,3,1,5,5,A,2,Genk_Anderlecht_2020
+233,19:45:00,4,Eupen,10,0,2,2,2,0,1,2,16,D,7,2021-02-07,Gent,B1,4,3,3,9,H,1,Gent_Eupen_2020
+234,19:45:00,2,Kortrijk,7,0,3,1,3,1,0,4,17,H,28,2021-02-12,Oud-Heverlee Leuven,B1,10,4,3,8,H,5,Oud-Heverlee Leuven_Kortrijk_2020
+235,17:30:00,0,Waregem,12,0,1,2,0,0,0,2,13,A,15,2021-02-13,St Truiden,B1,9,5,5,9,D,2,St Truiden_Waregem_2020
+236,12:30:00,1,Antwerp,8,0,1,1,1,0,1,4,21,D,14,2021-02-14,Standard,B1,5,3,4,9,D,2,Standard_Antwerp_2020
+237,15:00:00,2,Mechelen,8,0,1,2,0,0,0,0,12,A,16,2021-02-14,Beerschot VA,B1,6,3,5,14,D,6,Beerschot VA_Mechelen_2020
+238,19:45:00,1,Anderlecht,10,0,0,0,0,0,0,1,12,D,4,2021-02-14,Cercle Brugge,B1,0,4,4,10,D,2,Cercle Brugge_Anderlecht_2020
+239,19:45:00,1,Mouscron,9,0,4,0,1,0,0,1,12,H,10,2021-02-15,Gent,B1,2,9,7,20,H,3,Gent_Mouscron_2020
+240,16:00:00,3,Eupen,18,0,1,0,1,0,0,2,18,H,9,2021-02-17,Waasland-Beveren,B1,4,5,4,11,H,5,Waasland-Beveren_Eupen_2020
+241,18:00:00,1,Genk,13,0,3,1,2,0,1,2,8,H,10,2021-02-17,Oostende,B1,1,4,4,7,H,2,Oostende_Genk_2020
+242,19:45:00,1,Gent,11,0,1,1,1,0,1,1,9,D,12,2021-02-19,Mechelen,B1,6,3,3,14,D,3,Mechelen_Gent_2020
+243,15:15:00,3,Oostende,11,0,1,1,0,0,0,2,10,D,10,2021-02-20,Eupen,B1,1,2,3,9,D,2,Eupen_Oostende_2020
+244,17:30:00,4,Cercle Brugge,12,0,1,2,0,0,1,2,12,A,15,2021-02-20,Mouscron,B1,8,3,7,9,A,5,Mouscron_Cercle Brugge_2020
+245,19:45:00,2,Charleroi,12,0,1,1,0,0,0,0,10,D,8,2021-02-20,Waasland-Beveren,B1,2,3,7,12,D,3,Waasland-Beveren_Charleroi_2020
+246,12:30:00,0,Kortrijk,13,0,0,2,0,0,1,3,15,A,13,2021-02-21,Anderlecht,B1,8,0,6,10,A,6,Anderlecht_Kortrijk_2020
+247,15:00:00,0,Standard,15,0,3,2,1,0,1,1,16,H,11,2021-02-21,Waregem,B1,6,4,6,13,D,3,Waregem_Standard_2020
+248,17:15:00,2,Beerschot VA,12,0,1,2,0,0,0,3,11,A,12,2021-02-21,Genk,B1,5,6,10,20,D,3,Genk_Beerschot VA_2020
+249,19:45:00,1,St Truiden,10,0,0,0,0,0,0,1,11,D,9,2021-02-21,Antwerp,B1,0,3,3,9,D,4,Antwerp_St Truiden_2020
+250,19:45:00,1,Oud-Heverlee Leuven,16,0,3,0,2,0,0,3,13,H,4,2021-02-22,Club Brugge,B1,0,10,8,21,H,5,Club Brugge_Oud-Heverlee Leuven_2020
+251,19:45:00,2,Genk,7,0,1,2,0,0,1,2,10,A,13,2021-02-26,Charleroi,B1,4,4,3,13,A,6,Charleroi_Genk_2020
+252,15:15:00,2,Waasland-Beveren,15,0,2,0,1,0,0,5,14,H,9,2021-02-27,Cercle Brugge,B1,2,4,1,13,H,1,Cercle Brugge_Waasland-Beveren_2020
+253,17:30:00,2,Mechelen,12,0,2,0,1,0,0,3,4,H,15,2021-02-27,Oostende,B1,1,6,5,15,H,11,Oostende_Mechelen_2020
+254,19:45:00,1,Waregem,16,0,1,2,1,0,1,4,15,A,9,2021-02-27,Kortrijk,B1,3,6,1,8,D,6,Kortrijk_Waregem_2020
+255,12:30:00,3,Anderlecht,22,0,1,3,0,0,1,2,19,A,11,2021-02-28,Standard,B1,4,4,2,13,A,3,Standard_Anderlecht_2020
+256,15:00:00,2,Mouscron,9,0,2,2,0,0,1,5,14,D,10,2021-02-28,Beerschot VA,B1,3,3,3,9,A,4,Beerschot VA_Mouscron_2020
+257,19:45:00,2,Eupen,4,0,0,2,0,1,1,1,8,A,10,2021-02-28,St Truiden,B1,4,3,6,11,A,9,St Truiden_Eupen_2020
+258,19:45:00,1,Antwerp,10,0,2,0,2,0,0,2,15,H,13,2021-03-01,Oud-Heverlee Leuven,B1,6,6,2,10,H,5,Oud-Heverlee Leuven_Antwerp_2020
+259,19:45:00,1,St Truiden,9,0,0,0,0,0,0,2,11,D,5,2021-03-05,Charleroi,B1,4,4,4,18,D,1,Charleroi_St Truiden_2020
+260,15:15:00,4,Oud-Heverlee Leuven,21,0,3,3,2,0,2,2,9,D,13,2021-03-06,Eupen,B1,8,7,2,10,D,6,Eupen_Oud-Heverlee Leuven_2020
+261,17:30:00,2,Beerschot VA,13,0,1,2,1,0,1,2,17,A,7,2021-03-06,Waasland-Beveren,B1,2,6,9,18,D,1,Waasland-Beveren_Beerschot VA_2020
+262,19:45:00,1,Kortrijk,11,0,4,2,1,1,0,1,15,H,18,2021-03-06,Antwerp,B1,8,7,5,9,H,9,Antwerp_Kortrijk_2020
+263,12:30:00,2,Standard,11,0,1,0,1,0,0,1,16,H,21,2021-03-07,Mouscron,B1,4,0,3,8,H,14,Mouscron_Standard_2020
+264,15:00:00,0,Waregem,6,0,3,0,2,0,0,1,6,H,7,2021-03-07,Club Brugge,B1,1,8,6,18,H,2,Club Brugge_Waregem_2020
+265,17:15:00,0,Mechelen,16,0,1,1,1,0,0,1,16,D,7,2021-03-07,Anderlecht,B1,2,3,6,14,H,0,Anderlecht_Mechelen_2020
+266,19:45:00,1,Cercle Brugge,9,1,2,0,2,0,0,4,17,H,7,2021-03-07,Genk,B1,1,8,8,15,H,2,Genk_Cercle Brugge_2020
+267,19:45:00,1,Oostende,16,0,1,0,1,0,0,0,10,H,15,2021-03-08,Gent,B1,3,2,4,7,H,2,Gent_Oostende_2020
+268,19:45:00,3,Club Brugge,10,0,1,1,0,0,1,0,7,D,8,2021-03-12,Charleroi,B1,2,3,7,5,A,7,Charleroi_Club Brugge_2020
+269,19:45:00,0,Club Brugge,14,0,0,4,0,0,0,1,13,A,8,2021-03-15,Gent,B1,5,2,5,11,D,6,Gent_Club Brugge_2020
+270,19:45:00,2,Standard,9,0,2,2,0,0,0,4,15,D,20,2021-03-19,Genk,B1,5,5,3,14,D,6,Genk_Standard_2020
+271,17:30:00,1,Oostende,10,0,0,1,0,0,0,1,11,A,15,2021-03-20,Mouscron,B1,5,2,2,10,D,9,Mouscron_Oostende_2020
+272,19:45:00,2,Kortrijk,8,0,2,0,0,0,0,2,10,H,8,2021-03-20,Eupen,B1,0,8,6,23,D,4,Eupen_Kortrijk_2020
+273,12:30:00,4,Antwerp,8,0,0,2,0,1,2,2,14,A,5,2021-03-21,Club Brugge,B1,2,4,5,14,A,2,Club Brugge_Antwerp_2020
+274,15:00:00,3,Oud-Heverlee Leuven,17,0,2,2,1,0,1,1,11,D,12,2021-03-21,Mechelen,B1,4,8,6,20,D,4,Mechelen_Oud-Heverlee Leuven_2020
+275,17:15:00,2,Waregem,10,1,4,1,2,1,1,1,5,H,4,2021-03-21,Anderlecht,B1,1,11,5,26,H,3,Anderlecht_Waregem_2020
+276,19:45:00,2,Cercle Brugge,18,0,1,0,0,0,0,2,19,H,7,2021-03-21,Gent,B1,3,5,3,9,D,2,Gent_Cercle Brugge_2020
+277,15:15:00,2,Waasland-Beveren,9,0,0,2,0,2,2,2,19,A,15,2021-04-03,Oostende,B1,7,6,4,18,A,3,Oostende_Waasland-Beveren_2020
+278,17:30:00,0,Mechelen,13,0,2,1,2,0,0,2,9,H,15,2021-04-03,St Truiden,B1,6,3,5,12,H,8,St Truiden_Mechelen_2020
+279,19:45:00,4,Club Brugge,14,0,1,2,1,0,1,2,15,A,13,2021-04-03,Kortrijk,B1,3,5,3,11,D,9,Kortrijk_Club Brugge_2020
+280,12:30:00,3,Beerschot VA,10,0,2,1,2,1,0,1,15,H,8,2021-04-04,Cercle Brugge,B1,1,3,2,7,H,4,Cercle Brugge_Beerschot VA_2020
+281,17:15:00,2,Gent,9,0,2,1,0,0,1,4,14,H,13,2021-04-04,Standard,B1,4,4,6,16,A,7,Standard_Gent_2020
+282,19:45:00,1,Mouscron,17,0,1,1,0,0,0,3,17,D,18,2021-04-04,Charleroi,B1,4,6,6,15,D,5,Charleroi_Mouscron_2020
+283,12:30:00,1,Genk,8,0,2,3,0,0,1,0,12,A,21,2021-04-05,Oud-Heverlee Leuven,B1,8,7,7,10,A,7,Oud-Heverlee Leuven_Genk_2020
+284,15:00:00,1,Eupen,9,1,2,1,0,0,1,3,15,H,21,2021-04-05,Waregem,B1,8,10,7,24,A,8,Waregem_Eupen_2020
+285,17:15:00,0,Anderlecht,11,0,1,4,0,0,0,1,11,A,14,2021-04-05,Antwerp,B1,8,4,1,9,D,7,Antwerp_Anderlecht_2020
+286,18:00:00,5,St Truiden,11,0,2,4,1,2,1,1,7,A,19,2021-04-06,Waasland-Beveren,B1,8,6,4,13,D,6,Waasland-Beveren_St Truiden_2020
+287,18:00:00,2,Charleroi,13,0,2,1,1,0,0,2,14,H,16,2021-04-07,Beerschot VA,B1,3,4,3,12,H,9,Beerschot VA_Charleroi_2020
+288,19:45:00,1,Standard,10,0,0,4,0,0,1,0,12,A,19,2021-04-09,Eupen,B1,6,3,6,11,A,5,Eupen_Standard_2020
+289,15:15:00,4,Oud-Heverlee Leuven,13,0,3,0,1,1,0,1,13,H,13,2021-04-10,Cercle Brugge,B1,2,6,4,12,H,11,Cercle Brugge_Oud-Heverlee Leuven_2020
+290,17:30:00,3,Waregem,14,0,4,2,2,0,0,0,9,H,18,2021-04-10,Mechelen,B1,5,12,3,20,H,7,Mechelen_Waregem_2020
+291,19:45:00,3,Charleroi,12,0,4,0,2,0,0,2,14,H,9,2021-04-10,Gent,B1,2,8,9,17,H,3,Gent_Charleroi_2020
+292,12:30:00,0,St Truiden,13,0,4,0,3,0,0,1,13,H,6,2021-04-11,Genk,B1,2,8,5,19,H,2,Genk_St Truiden_2020
+293,15:00:00,1,Kortrijk,10,0,3,4,2,0,1,1,15,A,12,2021-04-11,Waasland-Beveren,B1,9,5,6,10,H,3,Waasland-Beveren_Kortrijk_2020
+294,17:15:00,1,Club Brugge,7,0,2,1,0,0,0,3,20,H,10,2021-04-11,Anderlecht,B1,3,3,3,8,D,4,Anderlecht_Club Brugge_2020
+295,19:45:00,1,Oostende,10,0,1,2,1,0,0,2,15,A,21,2021-04-11,Beerschot VA,B1,7,3,1,9,H,11,Beerschot VA_Oostende_2020
+296,19:45:00,3,Antwerp,23,1,2,3,0,0,1,1,5,A,13,2021-04-12,Mouscron,B1,6,8,13,21,A,3,Mouscron_Antwerp_2020
+297,17:30:00,3,Eupen,8,0,2,3,1,0,3,0,8,A,13,2021-04-17,Charleroi,B1,5,8,7,21,A,4,Charleroi_Eupen_2020
+298,19:45:00,3,Genk,11,0,3,2,0,0,1,1,10,H,24,2021-04-17,Antwerp,B1,9,9,9,27,A,4,Antwerp_Genk_2020
+299,17:00:00,1,Mouscron,5,0,4,2,0,0,0,1,11,H,11,2021-04-18,Club Brugge,B1,5,7,8,19,D,3,Club Brugge_Mouscron_2020
+300,17:00:00,1,Mechelen,16,0,1,4,1,0,2,1,13,A,17,2021-04-18,Kortrijk,B1,11,3,4,11,A,5,Kortrijk_Mechelen_2020
+301,17:00:00,2,Cercle Brugge,14,0,1,1,0,0,0,2,11,D,13,2021-04-18,Oostende,B1,5,5,7,10,D,5,Oostende_Cercle Brugge_2020
+302,17:00:00,3,Waasland-Beveren,12,0,1,2,0,0,1,4,11,A,13,2021-04-18,Oud-Heverlee Leuven,B1,9,2,5,13,A,3,Oud-Heverlee Leuven_Waasland-Beveren_2020
+303,17:00:00,1,Anderlecht,10,0,0,1,0,0,0,1,8,A,14,2021-04-18,St Truiden,B1,4,1,2,4,D,5,St Truiden_Anderlecht_2020
+304,17:00:00,1,Beerschot VA,14,0,3,0,1,0,0,2,15,H,9,2021-04-18,Standard,B1,3,10,6,13,H,9,Standard_Beerschot VA_2020
+305,17:00:00,2,Gent,10,0,2,7,0,0,3,1,10,A,14,2021-04-18,Waregem,B1,7,4,4,6,A,3,Waregem_Gent_2020

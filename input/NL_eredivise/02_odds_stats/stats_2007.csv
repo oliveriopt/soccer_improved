@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,N1,Willem II,D,0,2007-08-17,D,Heerenveen,0,0,Heerenveen_Willem II_2007
+1,2,N1,VVV Venlo,H,0,2007-08-18,H,AZ Alkmaar,4,0,AZ Alkmaar_VVV Venlo_2007
+2,0,N1,Twente,A,1,2007-08-18,A,Excelsior,0,2,Excelsior_Twente_2007
+3,0,N1,Groningen,A,1,2007-08-18,A,NAC Breda,0,3,NAC Breda_Groningen_2007
+4,1,N1,Roda JC,D,0,2007-08-18,H,Nijmegen,1,1,Nijmegen_Roda JC_2007
+5,0,N1,Ajax,A,2,2007-08-19,A,Graafschap,1,8,Graafschap_Ajax_2007
+6,0,N1,PSV Eindhoven,A,0,2007-08-19,D,Heracles,0,2,Heracles_PSV Eindhoven_2007
+7,1,N1,Vitesse,A,0,2007-08-19,H,Sparta,1,2,Sparta_Vitesse_2007
+8,0,N1,Feyenoord,A,1,2007-08-19,A,Utrecht,0,3,Utrecht_Feyenoord_2007
+9,1,N1,Heracles,H,0,2007-08-24,H,Roda JC,2,1,Roda JC_Heracles_2007
+10,2,N1,Nijmegen,H,0,2007-08-25,H,PSV Eindhoven,5,0,PSV Eindhoven_Nijmegen_2007
+11,1,N1,AZ Alkmaar,H,0,2007-08-25,H,Vitesse,1,0,Vitesse_AZ Alkmaar_2007
+12,1,N1,Excelsior,H,1,2007-08-25,D,VVV Venlo,3,1,VVV Venlo_Excelsior_2007
+13,2,N1,Sparta,D,1,2007-08-25,H,Willem II,2,2,Willem II_Sparta_2007
+14,2,N1,Heerenveen,H,1,2007-08-26,H,Ajax,4,1,Ajax_Heerenveen_2007
+15,1,N1,NAC Breda,H,0,2007-08-26,H,Feyenoord,5,0,Feyenoord_NAC Breda_2007
+16,0,N1,Graafschap,A,0,2007-08-26,D,Groningen,0,2,Groningen_Graafschap_2007
+17,1,N1,Utrecht,D,1,2007-08-26,D,Twente,2,2,Twente_Utrecht_2007
+18,2,N1,Excelsior,H,0,2007-08-31,H,AZ Alkmaar,3,0,AZ Alkmaar_Excelsior_2007
+19,2,N1,Willem II,H,0,2007-09-01,H,Feyenoord,2,0,Feyenoord_Willem II_2007
+20,1,N1,Sparta,D,1,2007-09-01,D,Heerenveen,3,3,Heerenveen_Sparta_2007
+21,0,N1,Heracles,H,0,2007-09-01,D,NAC Breda,4,1,NAC Breda_Heracles_2007
+22,0,N1,PSV Eindhoven,D,0,2007-09-01,D,Twente,0,0,Twente_PSV Eindhoven_2007
+23,1,N1,Groningen,D,1,2007-09-02,D,Ajax,2,2,Ajax_Groningen_2007
+24,1,N1,Graafschap,D,0,2007-09-02,H,Utrecht,2,2,Utrecht_Graafschap_2007
+25,1,N1,Nijmegen,H,0,2007-09-02,H,Vitesse,1,0,Vitesse_Nijmegen_2007
+26,3,N1,Roda JC,A,2,2007-09-02,H,VVV Venlo,3,5,VVV Venlo_Roda JC_2007
+27,0,N1,Utrecht,A,0,2007-09-14,D,Groningen,0,2,Groningen_Utrecht_2007
+28,2,N1,Heerenveen,A,3,2007-09-15,A,Excelsior,2,5,Excelsior_Heerenveen_2007
+29,2,N1,VVV Venlo,H,0,2007-09-15,H,Graafschap,3,2,Graafschap_VVV Venlo_2007
+30,0,N1,Ajax,A,0,2007-09-15,D,Heracles,0,1,Heracles_Ajax_2007
+31,1,N1,Vitesse,H,0,2007-09-15,H,PSV Eindhoven,1,0,PSV Eindhoven_Vitesse_2007
+32,0,N1,NAC Breda,A,1,2007-09-16,A,Nijmegen,0,1,Nijmegen_NAC Breda_2007
+33,1,N1,Feyenoord,A,0,2007-09-16,H,Roda JC,1,3,Roda JC_Feyenoord_2007
+34,1,N1,AZ Alkmaar,D,0,2007-09-16,H,Sparta,2,2,Sparta_AZ Alkmaar_2007
+35,1,N1,Twente,A,2,2007-09-16,A,Willem II,1,3,Willem II_Twente_2007
+36,0,N1,NAC Breda,A,1,2007-09-21,A,VVV Venlo,1,3,VVV Venlo_NAC Breda_2007
+37,1,N1,Heracles,D,0,2007-09-22,H,Sparta,1,1,Sparta_Heracles_2007
+38,0,N1,Graafschap,A,0,2007-09-22,D,Vitesse,0,2,Vitesse_Graafschap_2007
+39,1,N1,Roda JC,H,0,2007-09-22,H,Willem II,1,0,Willem II_Roda JC_2007
+40,1,N1,Ajax,A,2,2007-09-23,A,AZ Alkmaar,2,3,AZ Alkmaar_Ajax_2007
+41,1,N1,Groningen,A,1,2007-09-23,D,Excelsior,1,3,Excelsior_Groningen_2007
+42,0,N1,Utrecht,A,1,2007-09-23,A,Heerenveen,2,3,Heerenveen_Utrecht_2007
+43,3,N1,Feyenoord,H,0,2007-09-23,H,PSV Eindhoven,4,0,PSV Eindhoven_Feyenoord_2007
+44,2,N1,Nijmegen,H,0,2007-09-23,H,Twente,3,0,Twente_Nijmegen_2007
+45,2,N1,Heerenveen,H,0,2007-09-29,H,Feyenoord,2,0,Feyenoord_Heerenveen_2007
+46,0,N1,Sparta,H,0,2007-09-29,D,Groningen,1,0,Groningen_Sparta_2007
+47,0,N1,PSV Eindhoven,D,0,2007-09-29,D,NAC Breda,1,1,NAC Breda_PSV Eindhoven_2007
+48,2,N1,Excelsior,D,0,2007-09-29,H,Roda JC,3,3,Roda JC_Excelsior_2007
+49,4,N1,VVV Venlo,H,1,2007-09-30,H,Ajax,6,1,Ajax_VVV Venlo_2007
+50,0,N1,Twente,D,0,2007-09-30,D,Graafschap,0,0,Graafschap_Twente_2007
+51,1,N1,AZ Alkmaar,H,1,2007-09-30,D,Heracles,2,1,Heracles_AZ Alkmaar_2007
+52,0,N1,Willem II,H,0,2007-09-30,D,Nijmegen,1,0,Nijmegen_Willem II_2007
+53,0,N1,Vitesse,A,2,2007-09-30,A,Utrecht,2,4,Utrecht_Vitesse_2007
+54,0,N1,Utrecht,A,1,2007-10-05,A,VVV Venlo,1,2,VVV Venlo_Utrecht_2007
+55,0,N1,Nijmegen,H,0,2007-10-06,D,Excelsior,2,0,Excelsior_Nijmegen_2007
+56,1,N1,Graafschap,H,0,2007-10-06,H,NAC Breda,1,0,NAC Breda_Graafschap_2007
+57,2,N1,Willem II,H,0,2007-10-06,H,PSV Eindhoven,3,0,PSV Eindhoven_Willem II_2007
+58,1,N1,Groningen,D,0,2007-10-07,H,AZ Alkmaar,2,2,AZ Alkmaar_Groningen_2007
+59,3,N1,Heracles,H,0,2007-10-07,H,Heerenveen,9,0,Heerenveen_Heracles_2007
+60,0,N1,Ajax,D,0,2007-10-07,D,Sparta,2,2,Sparta_Ajax_2007
+61,0,N1,Roda JC,A,0,2007-10-07,D,Twente,0,1,Twente_Roda JC_2007
+62,0,N1,Feyenoord,A,0,2007-10-07,D,Vitesse,0,1,Vitesse_Feyenoord_2007
+63,0,N1,Sparta,H,0,2007-10-19,D,Graafschap,4,0,Graafschap_Sparta_2007
+64,0,N1,Nijmegen,D,0,2007-10-20,D,Ajax,0,0,Ajax_Nijmegen_2007
+65,0,N1,Excelsior,H,0,2007-10-20,D,Feyenoord,1,0,Feyenoord_Excelsior_2007
+66,1,N1,Vitesse,D,0,2007-10-20,H,Heracles,2,2,Heracles_Vitesse_2007
+67,1,N1,VVV Venlo,H,0,2007-10-20,H,PSV Eindhoven,3,1,PSV Eindhoven_VVV Venlo_2007
+68,0,N1,Heerenveen,A,0,2007-10-21,D,AZ Alkmaar,0,1,AZ Alkmaar_Heerenveen_2007
+69,0,N1,Twente,H,0,2007-10-21,D,Groningen,1,0,Groningen_Twente_2007
+70,1,N1,Utrecht,D,0,2007-10-21,H,Roda JC,1,1,Roda JC_Utrecht_2007
+71,0,N1,NAC Breda,D,0,2007-10-21,D,Willem II,0,0,Willem II_NAC Breda_2007
+72,0,N1,Willem II,H,0,2007-10-26,D,Vitesse,1,0,Vitesse_Willem II_2007
+73,1,N1,Heracles,D,1,2007-10-27,D,Excelsior,1,1,Excelsior_Heracles_2007
+74,0,N1,Graafschap,H,0,2007-10-27,D,Roda JC,1,0,Roda JC_Graafschap_2007
+75,1,N1,Feyenoord,H,0,2007-10-27,H,Twente,2,0,Twente_Feyenoord_2007
+76,0,N1,Heerenveen,A,2,2007-10-27,A,VVV Venlo,0,4,VVV Venlo_Heerenveen_2007
+77,1,N1,AZ Alkmaar,A,2,2007-10-28,A,NAC Breda,2,3,NAC Breda_AZ Alkmaar_2007
+78,1,N1,Groningen,H,1,2007-10-28,D,Nijmegen,5,1,Nijmegen_Groningen_2007
+79,0,N1,PSV Eindhoven,A,3,2007-10-28,A,Sparta,1,4,Sparta_PSV Eindhoven_2007
+80,0,N1,Ajax,A,0,2007-10-28,D,Utrecht,0,1,Utrecht_Ajax_2007
+81,1,N1,VVV Venlo,A,0,2007-11-02,H,Willem II,1,2,Willem II_VVV Venlo_2007
+82,3,N1,Nijmegen,H,0,2007-11-03,H,AZ Alkmaar,4,0,AZ Alkmaar_Nijmegen_2007
+83,2,N1,Sparta,H,2,2007-11-03,D,Excelsior,4,3,Excelsior_Sparta_2007
+84,1,N1,PSV Eindhoven,H,1,2007-11-03,D,Heerenveen,2,1,Heerenveen_PSV Eindhoven_2007
+85,2,N1,Roda JC,H,1,2007-11-04,H,Ajax,4,2,Ajax_Roda JC_2007
+86,0,N1,Graafschap,H,0,2007-11-04,D,Feyenoord,2,0,Feyenoord_Graafschap_2007
+87,0,N1,Vitesse,D,0,2007-11-04,D,Groningen,0,0,Groningen_Vitesse_2007
+88,0,N1,Twente,A,1,2007-11-04,A,Heracles,0,3,Heracles_Twente_2007
+89,0,N1,NAC Breda,A,0,2007-11-04,D,Utrecht,0,1,Utrecht_NAC Breda_2007
+90,1,N1,Heracles,H,0,2007-11-09,H,Nijmegen,3,0,Nijmegen_Heracles_2007
+91,1,N1,Excelsior,D,0,2007-11-10,H,Graafschap,1,1,Graafschap_Excelsior_2007
+92,1,N1,NAC Breda,D,1,2007-11-10,D,Twente,1,1,Twente_NAC Breda_2007
+93,0,N1,Sparta,H,0,2007-11-10,D,VVV Venlo,2,0,VVV Venlo_Sparta_2007
+94,0,N1,Utrecht,A,2,2007-11-10,A,Willem II,1,4,Willem II_Utrecht_2007
+95,1,N1,Ajax,D,0,2007-11-11,H,Feyenoord,2,2,Feyenoord_Ajax_2007
+96,0,N1,AZ Alkmaar,D,1,2007-11-11,A,PSV Eindhoven,1,1,PSV Eindhoven_AZ Alkmaar_2007
+97,3,N1,Groningen,H,1,2007-11-11,H,Roda JC,5,1,Roda JC_Groningen_2007
+98,0,N1,Heerenveen,A,0,2007-11-11,D,Vitesse,0,1,Vitesse_Heerenveen_2007
+99,0,N1,Roda JC,D,0,2007-11-23,D,NAC Breda,0,0,NAC Breda_Roda JC_2007
+100,2,N1,Willem II,H,0,2007-11-24,H,AZ Alkmaar,2,0,AZ Alkmaar_Willem II_2007
+101,0,N1,PSV Eindhoven,A,1,2007-11-24,A,Excelsior,1,4,Excelsior_PSV Eindhoven_2007
+102,1,N1,Graafschap,A,2,2007-11-24,A,Heerenveen,2,3,Heerenveen_Graafschap_2007
+103,0,N1,VVV Venlo,D,0,2007-11-24,D,Heracles,0,0,Heracles_VVV Venlo_2007
+104,3,N1,Vitesse,H,1,2007-11-25,H,Ajax,4,1,Ajax_Vitesse_2007
+105,0,N1,Feyenoord,H,1,2007-11-25,A,Groningen,3,2,Groningen_Feyenoord_2007
+106,1,N1,Twente,D,0,2007-11-25,H,Sparta,1,1,Sparta_Twente_2007
+107,1,N1,Nijmegen,H,1,2007-11-25,D,Utrecht,3,2,Utrecht_Nijmegen_2007
+108,5,N1,Sparta,H,0,2007-11-30,H,Utrecht,7,1,Utrecht_Sparta_2007
+109,0,N1,PSV Eindhoven,A,1,2007-12-01,A,Graafschap,0,1,Graafschap_PSV Eindhoven_2007
+110,0,N1,VVV Venlo,H,0,2007-12-01,D,Groningen,1,0,Groningen_VVV Venlo_2007
+111,1,N1,Vitesse,H,0,2007-12-01,H,Roda JC,3,2,Roda JC_Vitesse_2007
+112,2,N1,Excelsior,H,0,2007-12-01,H,Willem II,6,0,Willem II_Excelsior_2007
+113,0,N1,NAC Breda,A,1,2007-12-02,A,Ajax,1,3,Ajax_NAC Breda_2007
+114,3,N1,Heracles,H,0,2007-12-02,H,Feyenoord,6,0,Feyenoord_Heracles_2007
+115,0,N1,Heerenveen,A,1,2007-12-02,A,Nijmegen,0,1,Nijmegen_Heerenveen_2007
+116,1,N1,AZ Alkmaar,H,0,2007-12-02,H,Twente,2,1,Twente_AZ Alkmaar_2007
+117,0,N1,Roda JC,A,2,2007-12-07,A,PSV Eindhoven,2,4,PSV Eindhoven_Roda JC_2007
+118,0,N1,NAC Breda,A,0,2007-12-08,D,Excelsior,0,3,Excelsior_NAC Breda_2007
+119,0,N1,Graafschap,H,0,2007-12-08,D,Heracles,2,0,Heracles_Graafschap_2007
+120,2,N1,Twente,D,1,2007-12-08,H,Vitesse,2,2,Vitesse_Twente_2007
+121,1,N1,Ajax,A,3,2007-12-08,A,Willem II,2,3,Willem II_Ajax_2007
+122,2,N1,Utrecht,H,0,2007-12-09,H,AZ Alkmaar,2,1,AZ Alkmaar_Utrecht_2007
+123,4,N1,Groningen,H,2,2007-12-09,H,Heerenveen,4,2,Heerenveen_Groningen_2007
+124,1,N1,Nijmegen,H,0,2007-12-09,H,Sparta,1,0,Sparta_Nijmegen_2007
+125,0,N1,Feyenoord,D,0,2007-12-09,D,VVV Venlo,0,0,VVV Venlo_Feyenoord_2007
+126,0,N1,Sparta,A,1,2007-12-14,A,Roda JC,2,3,Roda JC_Sparta_2007
+127,0,N1,Nijmegen,D,0,2007-12-15,D,Graafschap,1,1,Graafschap_Nijmegen_2007
+128,0,N1,Heerenveen,A,1,2007-12-15,A,NAC Breda,1,5,NAC Breda_Heerenveen_2007
+129,1,N1,VVV Venlo,D,1,2007-12-15,D,Twente,1,1,Twente_VVV Venlo_2007
+130,0,N1,Willem II,H,0,2007-12-16,D,Groningen,1,0,Groningen_Willem II_2007
+131,1,N1,Heracles,H,0,2007-12-16,H,Utrecht,3,1,Utrecht_Heracles_2007
+132,0,N1,Excelsior,H,0,2007-12-16,D,Vitesse,3,0,Vitesse_Excelsior_2007
+133,1,N1,Graafschap,A,2,2007-12-21,A,Willem II,1,2,Willem II_Graafschap_2007
+134,1,N1,Twente,A,1,2007-12-22,D,Heerenveen,1,2,Heerenveen_Twente_2007
+135,1,N1,Groningen,A,1,2007-12-22,D,Heracles,1,2,Heracles_Groningen_2007
+136,1,N1,Utrecht,H,0,2007-12-22,H,PSV Eindhoven,4,1,PSV Eindhoven_Utrecht_2007
+137,1,N1,Roda JC,D,0,2007-12-23,H,AZ Alkmaar,1,1,AZ Alkmaar_Roda JC_2007
+138,1,N1,Ajax,H,0,2007-12-23,H,Excelsior,2,1,Excelsior_Ajax_2007
+139,0,N1,Feyenoord,A,0,2007-12-23,D,Nijmegen,0,2,Nijmegen_Feyenoord_2007
+140,0,N1,Vitesse,H,0,2007-12-23,D,VVV Venlo,2,0,VVV Venlo_Vitesse_2007
+141,1,N1,Sparta,H,0,2007-12-26,H,Feyenoord,2,0,Feyenoord_Sparta_2007
+142,0,N1,PSV Eindhoven,H,1,2007-12-26,A,Groningen,2,1,Groningen_PSV Eindhoven_2007
+143,1,N1,VVV Venlo,D,0,2007-12-26,H,Nijmegen,2,2,Nijmegen_VVV Venlo_2007
+144,1,N1,Twente,D,0,2007-12-27,H,Ajax,2,2,Ajax_Twente_2007
+145,0,N1,Willem II,H,0,2007-12-27,D,Heracles,1,0,Heracles_Willem II_2007
+146,0,N1,Vitesse,A,1,2007-12-27,A,NAC Breda,1,2,NAC Breda_Vitesse_2007
+147,1,N1,Heerenveen,H,0,2007-12-27,H,Roda JC,1,0,Roda JC_Heerenveen_2007
+148,2,N1,Excelsior,H,0,2007-12-27,H,Utrecht,4,1,Utrecht_Excelsior_2007
+149,1,N1,Groningen,A,1,2007-12-29,D,Sparta,1,3,Sparta_Groningen_2007
+150,0,N1,Heracles,H,0,2007-12-30,D,AZ Alkmaar,1,0,AZ Alkmaar_Heracles_2007
+151,0,N1,Roda JC,A,1,2007-12-30,A,Excelsior,1,2,Excelsior_Roda JC_2007
+152,0,N1,Feyenoord,D,1,2007-12-30,A,Heerenveen,1,1,Heerenveen_Feyenoord_2007
+153,1,N1,NAC Breda,H,0,2007-12-30,H,PSV Eindhoven,2,0,PSV Eindhoven_NAC Breda_2007
+154,2,N1,Graafschap,H,0,2007-12-30,H,Twente,2,0,Twente_Graafschap_2007
+155,1,N1,Utrecht,D,1,2007-12-30,D,Vitesse,2,2,Vitesse_Utrecht_2007
+156,0,N1,Ajax,D,1,2007-12-30,A,VVV Venlo,2,2,VVV Venlo_Ajax_2007
+157,1,N1,Nijmegen,H,0,2007-12-30,H,Willem II,3,0,Willem II_Nijmegen_2007
+158,1,N1,Twente,D,1,2008-01-11,D,Nijmegen,2,2,Nijmegen_Twente_2007
+159,0,N1,PSV Eindhoven,A,1,2008-01-12,A,Feyenoord,0,1,Feyenoord_PSV Eindhoven_2007
+160,0,N1,Excelsior,H,0,2008-01-12,D,Groningen,3,2,Groningen_Excelsior_2007
+161,0,N1,VVV Venlo,D,0,2008-01-12,D,NAC Breda,0,0,NAC Breda_VVV Venlo_2007
+162,0,N1,Willem II,D,1,2008-01-12,A,Roda JC,1,1,Roda JC_Willem II_2007
+163,2,N1,AZ Alkmaar,H,1,2008-01-13,H,Ajax,6,1,Ajax_AZ Alkmaar_2007
+164,0,N1,Vitesse,A,1,2008-01-13,A,Graafschap,0,3,Graafschap_Vitesse_2007
+165,1,N1,Sparta,H,0,2008-01-13,H,Heracles,2,0,Heracles_Sparta_2007
+166,0,N1,Heerenveen,D,2,2008-01-13,A,Utrecht,2,2,Utrecht_Heerenveen_2007
+167,1,N1,AZ Alkmaar,A,1,2008-01-16,D,Graafschap,1,2,Graafschap_AZ Alkmaar_2007
+168,2,N1,Feyenoord,H,0,2008-01-18,H,Excelsior,2,1,Excelsior_Feyenoord_2007
+169,3,N1,AZ Alkmaar,H,0,2008-01-19,H,Heerenveen,4,0,Heerenveen_AZ Alkmaar_2007
+170,0,N1,Willem II,H,0,2008-01-19,D,NAC Breda,1,0,NAC Breda_Willem II_2007
+171,3,N1,Roda JC,H,0,2008-01-19,H,Utrecht,3,1,Utrecht_Roda JC_2007
+172,1,N1,Heracles,H,0,2008-01-19,H,Vitesse,2,0,Vitesse_Heracles_2007
+173,1,N1,Ajax,D,0,2008-01-20,H,Nijmegen,1,1,Nijmegen_Ajax_2007
+174,3,N1,Graafschap,H,1,2008-01-20,H,Sparta,6,1,Sparta_Graafschap_2007
+175,1,N1,Groningen,H,0,2008-01-20,H,Twente,3,1,Twente_Groningen_2007
+176,1,N1,PSV Eindhoven,D,1,2008-01-20,D,VVV Venlo,1,1,VVV Venlo_PSV Eindhoven_2007
+177,1,N1,NAC Breda,A,0,2008-01-22,H,AZ Alkmaar,1,2,AZ Alkmaar_NAC Breda_2007
+178,1,N1,Excelsior,H,0,2008-01-22,H,Heracles,2,0,Heracles_Excelsior_2007
+179,0,N1,Vitesse,H,0,2008-01-22,D,Willem II,4,0,Willem II_Vitesse_2007
+180,0,N1,Utrecht,H,0,2008-01-23,D,Ajax,2,0,Ajax_Utrecht_2007
+181,1,N1,Roda JC,H,1,2008-01-23,D,Graafschap,2,1,Graafschap_Roda JC_2007
+182,2,N1,Nijmegen,H,0,2008-01-23,H,Groningen,5,1,Groningen_Nijmegen_2007
+183,3,N1,VVV Venlo,H,0,2008-01-23,H,Heerenveen,5,1,Heerenveen_VVV Venlo_2007
+184,1,N1,Sparta,H,0,2008-01-23,H,PSV Eindhoven,3,1,PSV Eindhoven_Sparta_2007
+185,1,N1,Twente,H,1,2008-01-24,D,Feyenoord,3,1,Feyenoord_Twente_2007
+186,1,N1,AZ Alkmaar,H,0,2008-01-25,H,Willem II,3,0,Willem II_AZ Alkmaar_2007
+187,0,N1,Heerenveen,A,1,2008-01-26,A,Graafschap,0,3,Graafschap_Heerenveen_2007
+188,1,N1,Excelsior,H,0,2008-01-26,H,PSV Eindhoven,2,1,PSV Eindhoven_Excelsior_2007
+189,0,N1,NAC Breda,A,1,2008-01-26,A,Roda JC,0,2,Roda JC_NAC Breda_2007
+190,1,N1,Groningen,D,1,2008-01-27,D,Feyenoord,1,1,Feyenoord_Groningen_2007
+191,0,N1,Utrecht,H,0,2008-01-27,D,Nijmegen,2,0,Nijmegen_Utrecht_2007
+192,1,N1,Sparta,A,1,2008-01-27,D,Twente,1,2,Twente_Sparta_2007
+193,1,N1,Ajax,D,0,2008-01-27,H,Vitesse,2,2,Vitesse_Ajax_2007
+194,0,N1,Heracles,A,3,2008-01-27,A,VVV Venlo,0,5,VVV Venlo_Heracles_2007
+195,0,N1,PSV Eindhoven,A,1,2008-01-30,A,Ajax,0,2,Ajax_PSV Eindhoven_2007
+196,0,N1,AZ Alkmaar,D,1,2008-01-30,A,Feyenoord,2,2,Feyenoord_AZ Alkmaar_2007
+197,1,N1,Twente,H,0,2008-02-01,H,NAC Breda,1,0,NAC Breda_Twente_2007
+198,0,N1,PSV Eindhoven,A,2,2008-02-02,A,AZ Alkmaar,0,2,AZ Alkmaar_PSV Eindhoven_2007
+199,0,N1,Graafschap,D,1,2008-02-02,A,Excelsior,1,1,Excelsior_Graafschap_2007
+200,2,N1,Vitesse,H,0,2008-02-02,H,Heerenveen,7,0,Heerenveen_Vitesse_2007
+201,0,N1,Nijmegen,A,1,2008-02-02,A,Heracles,0,2,Heracles_Nijmegen_2007
+202,2,N1,Feyenoord,H,0,2008-02-03,H,Ajax,3,0,Ajax_Feyenoord_2007
+203,1,N1,Roda JC,D,0,2008-02-03,H,Groningen,1,1,Groningen_Roda JC_2007
+204,1,N1,VVV Venlo,H,0,2008-02-03,H,Sparta,2,0,Sparta_VVV Venlo_2007
+205,1,N1,Willem II,H,0,2008-02-03,H,Utrecht,2,0,Utrecht_Willem II_2007
+206,0,N1,NAC Breda,A,0,2008-02-06,D,Sparta,0,1,Sparta_NAC Breda_2007
+207,0,N1,Heracles,H,0,2008-02-08,D,Twente,2,1,Twente_Heracles_2007
+208,1,N1,Feyenoord,A,1,2008-02-09,D,Graafschap,1,3,Graafschap_Feyenoord_2007
+209,1,N1,Utrecht,H,0,2008-02-09,H,NAC Breda,1,0,NAC Breda_Utrecht_2007
+210,1,N1,Heerenveen,D,0,2008-02-09,H,PSV Eindhoven,1,1,PSV Eindhoven_Heerenveen_2007
+211,1,N1,Groningen,H,0,2008-02-09,H,Vitesse,2,1,Vitesse_Groningen_2007
+212,4,N1,AZ Alkmaar,H,1,2008-02-10,H,Nijmegen,5,2,Nijmegen_AZ Alkmaar_2007
+213,1,N1,Ajax,H,1,2008-02-10,D,Roda JC,2,1,Roda JC_Ajax_2007
+214,0,N1,Excelsior,A,0,2008-02-10,D,Sparta,0,1,Sparta_Excelsior_2007
+215,1,N1,Willem II,D,0,2008-02-10,H,VVV Venlo,1,1,VVV Venlo_Willem II_2007
+216,5,N1,Sparta,H,1,2008-02-15,H,Ajax,6,2,Ajax_Sparta_2007
+217,1,N1,Heerenveen,D,2,2008-02-16,A,Heracles,2,2,Heracles_Heerenveen_2007
+218,0,N1,Excelsior,A,0,2008-02-16,D,Nijmegen,0,1,Nijmegen_Excelsior_2007
+219,2,N1,Twente,H,1,2008-02-16,H,Roda JC,3,1,Roda JC_Twente_2007
+220,0,N1,PSV Eindhoven,A,0,2008-02-16,D,Willem II,0,1,Willem II_PSV Eindhoven_2007
+221,1,N1,Vitesse,H,0,2008-02-17,H,Feyenoord,1,0,Feyenoord_Vitesse_2007
+222,0,N1,NAC Breda,A,0,2008-02-17,D,Graafschap,0,1,Graafschap_NAC Breda_2007
+223,1,N1,AZ Alkmaar,H,0,2008-02-17,H,Groningen,2,1,Groningen_AZ Alkmaar_2007
+224,0,N1,VVV Venlo,A,2,2008-02-17,A,Utrecht,1,4,Utrecht_VVV Venlo_2007
+225,1,N1,Utrecht,H,0,2008-02-22,H,Sparta,2,1,Sparta_Utrecht_2007
+226,0,N1,Twente,D,0,2008-02-23,D,AZ Alkmaar,0,0,AZ Alkmaar_Twente_2007
+227,0,N1,Willem II,D,0,2008-02-23,D,Excelsior,0,0,Excelsior_Willem II_2007
+228,2,N1,Feyenoord,D,2,2008-02-23,D,Heracles,3,3,Heracles_Feyenoord_2007
+229,0,N1,Roda JC,D,0,2008-02-23,D,Vitesse,1,1,Vitesse_Roda JC_2007
+230,2,N1,Nijmegen,A,0,2008-02-24,H,Heerenveen,2,3,Heerenveen_Nijmegen_2007
+231,0,N1,Ajax,A,1,2008-02-24,A,NAC Breda,2,3,NAC Breda_Ajax_2007
+232,1,N1,Graafschap,H,1,2008-02-24,D,PSV Eindhoven,4,1,PSV Eindhoven_Graafschap_2007
+233,0,N1,Groningen,A,2,2008-02-24,A,VVV Venlo,2,5,VVV Venlo_Groningen_2007
+234,0,N1,VVV Venlo,A,3,2008-02-29,A,Vitesse,1,3,Vitesse_VVV Venlo_2007
+235,1,N1,Willem II,A,1,2008-03-01,D,Graafschap,1,2,Graafschap_Willem II_2007
+236,1,N1,Sparta,H,0,2008-03-01,H,NAC Breda,3,0,NAC Breda_Sparta_2007
+237,1,N1,AZ Alkmaar,D,0,2008-03-01,H,Roda JC,1,1,Roda JC_AZ Alkmaar_2007
+238,0,N1,Heerenveen,H,0,2008-03-01,D,Twente,1,0,Twente_Heerenveen_2007
+239,2,N1,Excelsior,H,0,2008-03-02,H,Ajax,4,0,Ajax_Excelsior_2007
+240,1,N1,Nijmegen,A,1,2008-03-02,D,Feyenoord,1,3,Feyenoord_Nijmegen_2007
+241,1,N1,Heracles,A,1,2008-03-02,D,Groningen,1,2,Groningen_Heracles_2007
+242,2,N1,PSV Eindhoven,H,1,2008-03-02,H,Utrecht,3,1,Utrecht_PSV Eindhoven_2007
+243,1,N1,Utrecht,H,0,2008-03-07,H,Heracles,2,1,Heracles_Utrecht_2007
+244,0,N1,Vitesse,A,1,2008-03-08,A,Excelsior,1,2,Excelsior_Vitesse_2007
+245,2,N1,NAC Breda,H,0,2008-03-08,H,Heerenveen,3,0,Heerenveen_NAC Breda_2007
+246,1,N1,Graafschap,H,0,2008-03-08,H,Nijmegen,3,1,Nijmegen_Graafschap_2007
+247,1,N1,Groningen,A,0,2008-03-08,H,Willem II,1,2,Willem II_Groningen_2007
+248,2,N1,Roda JC,H,0,2008-03-09,H,Sparta,4,1,Sparta_Roda JC_2007
+249,0,N1,Twente,A,1,2008-03-11,A,VVV Venlo,0,2,VVV Venlo_Twente_2007
+250,0,N1,Feyenoord,A,1,2008-03-12,A,AZ Alkmaar,0,1,AZ Alkmaar_Feyenoord_2007
+251,0,N1,Heerenveen,A,0,2008-03-14,D,Groningen,0,1,Groningen_Heerenveen_2007
+252,3,N1,VVV Venlo,H,1,2008-03-15,H,Feyenoord,4,1,Feyenoord_VVV Venlo_2007
+253,0,N1,Heracles,D,0,2008-03-15,D,Graafschap,0,0,Graafschap_Heracles_2007
+254,1,N1,Excelsior,H,0,2008-03-15,H,NAC Breda,2,0,NAC Breda_Excelsior_2007
+255,1,N1,Vitesse,H,1,2008-03-15,D,Twente,4,3,Twente_Vitesse_2007
+256,2,N1,Willem II,H,1,2008-03-16,H,Ajax,4,1,Ajax_Willem II_2007
+257,0,N1,Sparta,H,1,2008-03-16,A,Nijmegen,4,2,Nijmegen_Sparta_2007
+258,0,N1,PSV Eindhoven,D,0,2008-03-16,D,Roda JC,1,1,Roda JC_PSV Eindhoven_2007
+259,0,N1,AZ Alkmaar,D,0,2008-03-16,D,Utrecht,2,2,Utrecht_AZ Alkmaar_2007
+260,0,N1,Ajax,D,0,2008-03-19,D,PSV Eindhoven,0,0,PSV Eindhoven_Ajax_2007
+261,1,N1,NAC Breda,D,3,2008-03-21,A,Vitesse,3,3,Vitesse_NAC Breda_2007
+262,0,N1,Graafschap,D,0,2008-03-22,D,AZ Alkmaar,0,0,AZ Alkmaar_Graafschap_2007
+263,0,N1,Utrecht,A,1,2008-03-22,A,Excelsior,0,2,Excelsior_Utrecht_2007
+264,1,N1,Roda JC,H,3,2008-03-22,A,Heerenveen,4,3,Heerenveen_Roda JC_2007
+265,1,N1,Groningen,H,0,2008-03-22,H,PSV Eindhoven,3,0,PSV Eindhoven_Groningen_2007
+266,1,N1,Feyenoord,H,1,2008-03-23,D,Sparta,3,2,Sparta_Feyenoord_2007
+267,0,N1,Ajax,H,0,2008-03-23,D,Twente,2,1,Twente_Ajax_2007
+268,1,N1,Nijmegen,A,0,2008-03-23,H,VVV Venlo,1,2,VVV Venlo_Nijmegen_2007
+269,0,N1,Heracles,H,0,2008-03-23,D,Willem II,2,1,Willem II_Heracles_2007
+270,0,N1,Groningen,D,1,2008-03-28,A,Graafschap,1,1,Graafschap_Groningen_2007
+271,0,N1,VVV Venlo,H,1,2008-03-29,A,Excelsior,2,1,Excelsior_VVV Venlo_2007
+272,0,N1,Ajax,A,1,2008-03-29,A,Heerenveen,2,4,Heerenveen_Ajax_2007
+273,0,N1,Roda JC,D,0,2008-03-29,D,Heracles,0,0,Heracles_Roda JC_2007
+274,0,N1,PSV Eindhoven,D,0,2008-03-29,D,Nijmegen,0,0,Nijmegen_PSV Eindhoven_2007
+275,1,N1,Vitesse,H,1,2008-03-30,D,AZ Alkmaar,2,1,AZ Alkmaar_Vitesse_2007
+276,2,N1,Feyenoord,H,1,2008-03-30,H,NAC Breda,3,1,NAC Breda_Feyenoord_2007
+277,0,N1,Willem II,D,0,2008-03-30,D,Sparta,2,2,Sparta_Willem II_2007
+278,0,N1,Twente,A,0,2008-03-30,D,Utrecht,0,1,Utrecht_Twente_2007
+279,0,N1,Nijmegen,A,1,2008-04-04,A,Roda JC,0,2,Roda JC_Nijmegen_2007
+280,0,N1,Excelsior,H,0,2008-04-05,D,Twente,1,0,Twente_Excelsior_2007
+281,0,N1,Sparta,H,0,2008-04-05,D,Vitesse,3,0,Vitesse_Sparta_2007
+282,1,N1,Heerenveen,A,2,2008-04-05,A,Willem II,2,3,Willem II_Heerenveen_2007
+283,3,N1,Graafschap,H,1,2008-04-06,H,Ajax,4,1,Ajax_Graafschap_2007
+284,2,N1,Utrecht,H,0,2008-04-06,H,Feyenoord,3,1,Feyenoord_Utrecht_2007
+285,0,N1,NAC Breda,A,2,2008-04-06,A,Groningen,1,2,Groningen_NAC Breda_2007
+286,1,N1,Heracles,H,0,2008-04-06,H,PSV Eindhoven,2,0,PSV Eindhoven_Heracles_2007
+287,1,N1,AZ Alkmaar,A,1,2008-04-06,D,VVV Venlo,2,3,VVV Venlo_AZ Alkmaar_2007
+288,0,N1,AZ Alkmaar,D,0,2008-04-13,D,Excelsior,1,1,Excelsior_AZ Alkmaar_2007
+289,0,N1,Utrecht,D,0,2008-04-13,D,Graafschap,1,1,Graafschap_Utrecht_2007
+290,0,N1,NAC Breda,A,0,2008-04-13,D,Heracles,0,1,Heracles_NAC Breda_2007
+291,1,N1,Vitesse,H,0,2008-04-13,H,Nijmegen,1,0,Nijmegen_Vitesse_2007
+292,0,N1,Twente,D,1,2008-04-13,A,PSV Eindhoven,1,1,PSV Eindhoven_Twente_2007
+293,1,N1,VVV Venlo,H,1,2008-04-13,D,Roda JC,4,1,Roda JC_VVV Venlo_2007
+294,0,N1,Heerenveen,H,2,2008-04-13,A,Sparta,4,2,Sparta_Heerenveen_2007
+295,3,N1,Feyenoord,H,0,2008-04-13,H,Willem II,3,1,Willem II_Feyenoord_2007
+296,1,N1,Ajax,A,1,2008-04-16,D,Groningen,1,2,Groningen_Ajax_2007
+297,3,N1,Heracles,H,0,2008-04-20,H,Ajax,5,1,Ajax_Heracles_2007
+298,1,N1,Sparta,H,0,2008-04-20,H,AZ Alkmaar,1,0,AZ Alkmaar_Sparta_2007
+299,0,N1,Roda JC,H,0,2008-04-20,D,Feyenoord,3,0,Feyenoord_Roda JC_2007
+300,2,N1,Excelsior,H,0,2008-04-20,H,Heerenveen,5,0,Heerenveen_Excelsior_2007
+301,1,N1,Nijmegen,A,1,2008-04-20,D,NAC Breda,1,3,NAC Breda_Nijmegen_2007
+302,0,N1,Willem II,H,0,2008-04-20,D,Twente,2,0,Twente_Willem II_2007
+303,0,N1,Groningen,H,0,2008-04-20,D,Utrecht,1,0,Utrecht_Groningen_2007
+304,0,N1,PSV Eindhoven,A,0,2008-04-20,D,Vitesse,0,1,Vitesse_PSV Eindhoven_2007
+305,0,N1,Graafschap,H,0,2008-04-20,D,VVV Venlo,3,0,VVV Venlo_Graafschap_2007

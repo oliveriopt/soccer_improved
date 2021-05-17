@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,2,P1,Maritimo,H,0,2004-08-28,H,Belenenses,3,0,Belenenses_Maritimo_2004
+1,2,P1,Gil Vicente,H,0,2004-08-28,H,Sp Lisbon,3,2,Sp Lisbon_Gil Vicente_2004
+2,0,P1,Benfica,A,2,2004-08-29,A,Beira Mar,2,3,Beira Mar_Benfica_2004
+3,0,P1,Nacional,H,0,2004-08-29,D,Boavista,1,0,Boavista_Nacional_2004
+4,0,P1,Rio Ave,D,0,2004-08-29,D,Estoril,0,0,Estoril_Rio Ave_2004
+5,0,P1,Guimaraes,D,0,2004-08-29,D,Moreirense,0,0,Moreirense_Guimaraes_2004
+6,1,P1,Setubal,A,1,2004-08-29,D,Penafiel,1,4,Penafiel_Setubal_2004
+7,1,P1,Sp Braga,D,2,2004-08-30,A,Academica,2,2,Academica_Sp Braga_2004
+8,2,P1,Academica,H,0,2004-09-05,H,Guimaraes,2,1,Guimaraes_Academica_2004
+9,0,P1,Boavista,A,1,2004-09-10,A,Gil Vicente,0,1,Gil Vicente_Boavista_2004
+10,1,P1,Moreirense,H,0,2004-09-11,H,Benfica,2,0,Benfica_Moreirense_2004
+11,2,P1,Estoril,H,1,2004-09-11,H,Leiria,4,2,Leiria_Estoril_2004
+12,1,P1,Penafiel,H,0,2004-09-11,H,Maritimo,3,0,Maritimo_Penafiel_2004
+13,0,P1,Porto,D,1,2004-09-11,A,Sp Braga,1,1,Sp Braga_Porto_2004
+14,1,P1,Beira Mar,H,1,2004-09-12,D,Nacional,2,1,Nacional_Beira Mar_2004
+15,0,P1,Sp Lisbon,H,0,2004-09-12,D,Setubal,2,0,Setubal_Sp Lisbon_2004
+16,2,P1,Belenenses,D,0,2004-09-13,H,Rio Ave,3,3,Rio Ave_Belenenses_2004
+17,1,P1,Setubal,D,0,2004-09-17,H,Boavista,1,1,Boavista_Setubal_2004
+18,1,P1,Estoril,D,2,2004-09-18,A,Porto,2,2,Porto_Estoril_2004
+19,0,P1,Benfica,A,0,2004-09-19,D,Academica,0,1,Academica_Benfica_2004
+20,1,P1,Gil Vicente,H,0,2004-09-19,H,Beira Mar,1,0,Beira Mar_Gil Vicente_2004
+21,1,P1,Leiria,H,0,2004-09-19,H,Belenenses,2,1,Belenenses_Leiria_2004
+22,2,P1,Nacional,H,0,2004-09-19,H,Moreirense,3,2,Moreirense_Nacional_2004
+23,0,P1,Rio Ave,D,0,2004-09-19,D,Penafiel,1,1,Penafiel_Rio Ave_2004
+24,0,P1,Maritimo,A,1,2004-09-20,A,Sp Lisbon,0,1,Sp Lisbon_Maritimo_2004
+25,1,P1,Guimaraes,H,0,2004-09-21,H,Sp Braga,1,0,Sp Braga_Guimaraes_2004
+26,1,P1,Leiria,D,0,2004-09-22,H,Porto,1,1,Porto_Leiria_2004
+27,1,P1,Beira Mar,A,1,2004-09-24,D,Setubal,1,2,Setubal_Beira Mar_2004
+28,0,P1,Porto,A,0,2004-09-25,D,Guimaraes,0,1,Guimaraes_Porto_2004
+29,1,P1,Boavista,H,0,2004-09-25,H,Maritimo,2,1,Maritimo_Boavista_2004
+30,0,P1,Sp Braga,D,0,2004-09-26,D,Benfica,0,0,Benfica_Sp Braga_2004
+31,0,P1,Moreirense,H,0,2004-09-26,D,Gil Vicente,3,1,Gil Vicente_Moreirense_2004
+32,0,P1,Penafiel,A,2,2004-09-26,A,Leiria,1,2,Leiria_Penafiel_2004
+33,0,P1,Academica,H,0,2004-09-26,D,Nacional,2,1,Nacional_Academica_2004
+34,0,P1,Sp Lisbon,D,0,2004-09-26,D,Rio Ave,0,0,Rio Ave_Sp Lisbon_2004
+35,0,P1,Belenenses,H,0,2004-09-27,D,Estoril,1,0,Estoril_Belenenses_2004
+36,0,P1,Rio Ave,A,1,2004-10-01,A,Boavista,0,1,Boavista_Rio Ave_2004
+37,2,P1,Gil Vicente,H,1,2004-10-03,H,Academica,2,1,Academica_Gil Vicente_2004
+38,0,P1,Benfica,A,0,2004-10-03,D,Guimaraes,1,2,Guimaraes_Benfica_2004
+39,1,P1,Setubal,D,0,2004-10-03,H,Moreirense,2,2,Moreirense_Setubal_2004
+40,2,P1,Estoril,H,1,2004-10-03,H,Penafiel,2,1,Penafiel_Estoril_2004
+41,1,P1,Belenenses,H,0,2004-10-03,H,Porto,3,0,Porto_Belenenses_2004
+42,1,P1,Leiria,D,1,2004-10-04,D,Sp Lisbon,2,2,Sp Lisbon_Leiria_2004
+43,1,P1,Nacional,H,0,2004-10-05,H,Sp Braga,3,2,Sp Braga_Nacional_2004
+44,1,P1,Maritimo,D,0,2004-10-10,H,Beira Mar,2,2,Beira Mar_Maritimo_2004
+45,0,P1,Sp Braga,A,0,2004-10-15,D,Gil Vicente,0,1,Gil Vicente_Sp Braga_2004
+46,0,P1,Sp Lisbon,A,2,2004-10-16,A,Estoril,1,4,Estoril_Sp Lisbon_2004
+47,0,P1,Moreirense,H,0,2004-10-16,D,Maritimo,1,0,Maritimo_Moreirense_2004
+48,1,P1,Guimaraes,H,0,2004-10-16,H,Nacional,1,0,Nacional_Guimaraes_2004
+49,0,P1,Penafiel,H,1,2004-10-17,A,Belenenses,4,1,Belenenses_Penafiel_2004
+50,0,P1,Porto,A,1,2004-10-17,A,Benfica,0,1,Benfica_Porto_2004
+51,0,P1,Boavista,A,1,2004-10-17,A,Leiria,0,3,Leiria_Boavista_2004
+52,1,P1,Beira Mar,D,0,2004-10-17,H,Rio Ave,1,1,Rio Ave_Beira Mar_2004
+53,0,P1,Academica,H,0,2004-10-18,D,Setubal,1,0,Setubal_Academica_2004
+54,0,P1,Estoril,D,0,2004-10-22,D,Boavista,0,0,Boavista_Estoril_2004
+55,0,P1,Rio Ave,D,0,2004-10-23,D,Moreirense,0,0,Moreirense_Rio Ave_2004
+56,2,P1,Setubal,A,1,2004-10-23,H,Sp Braga,2,3,Sp Braga_Setubal_2004
+57,0,P1,Belenenses,H,0,2004-10-23,D,Sp Lisbon,2,0,Sp Lisbon_Belenenses_2004
+58,1,P1,Maritimo,H,0,2004-10-24,H,Academica,1,0,Academica_Maritimo_2004
+59,0,P1,Leiria,A,0,2004-10-24,D,Beira Mar,0,1,Beira Mar_Leiria_2004
+60,0,P1,Nacional,H,0,2004-10-24,D,Benfica,2,1,Benfica_Nacional_2004
+61,2,P1,Gil Vicente,H,0,2004-10-24,H,Guimaraes,2,1,Guimaraes_Gil Vicente_2004
+62,2,P1,Penafiel,H,0,2004-10-24,H,Porto,2,0,Porto_Penafiel_2004
+63,0,P1,Porto,D,1,2004-10-30,A,Nacional,2,2,Nacional_Porto_2004
+64,0,P1,Sp Lisbon,A,0,2004-10-30,D,Penafiel,0,3,Penafiel_Sp Lisbon_2004
+65,1,P1,Boavista,A,1,2004-10-31,D,Belenenses,1,2,Belenenses_Boavista_2004
+66,3,P1,Beira Mar,H,0,2004-10-31,H,Estoril,5,0,Estoril_Beira Mar_2004
+67,1,P1,Benfica,D,0,2004-10-31,H,Gil Vicente,1,1,Gil Vicente_Benfica_2004
+68,0,P1,Moreirense,D,0,2004-10-31,D,Leiria,0,0,Leiria_Moreirense_2004
+69,1,P1,Academica,H,0,2004-10-31,H,Rio Ave,3,1,Rio Ave_Academica_2004
+70,1,P1,Sp Braga,H,0,2004-11-01,H,Maritimo,2,0,Maritimo_Sp Braga_2004
+71,0,P1,Guimaraes,H,0,2004-11-01,D,Setubal,1,0,Setubal_Guimaraes_2004
+72,1,P1,Belenenses,D,1,2004-11-05,D,Beira Mar,3,3,Beira Mar_Belenenses_2004
+73,0,P1,Penafiel,H,1,2004-11-06,A,Boavista,2,1,Boavista_Penafiel_2004
+74,0,P1,Maritimo,D,1,2004-11-06,A,Guimaraes,1,1,Guimaraes_Maritimo_2004
+75,0,P1,Leiria,A,1,2004-11-07,A,Academica,0,1,Academica_Leiria_2004
+76,1,P1,Setubal,H,0,2004-11-07,H,Benfica,4,0,Benfica_Setubal_2004
+77,1,P1,Estoril,A,0,2004-11-07,H,Moreirense,1,2,Moreirense_Estoril_2004
+78,0,P1,Gil Vicente,D,0,2004-11-07,D,Nacional,0,0,Nacional_Gil Vicente_2004
+79,2,P1,Rio Ave,H,0,2004-11-07,H,Sp Braga,3,0,Sp Braga_Rio Ave_2004
+80,0,P1,Sp Lisbon,H,0,2004-11-08,D,Porto,3,0,Porto_Sp Lisbon_2004
+81,0,P1,Academica,A,0,2004-11-12,D,Estoril,0,1,Estoril_Academica_2004
+82,1,P1,Moreirense,H,0,2004-11-13,H,Belenenses,3,0,Belenenses_Moreirense_2004
+83,0,P1,Porto,A,1,2004-11-13,A,Gil Vicente,0,2,Gil Vicente_Porto_2004
+84,1,P1,Benfica,D,1,2004-11-13,D,Maritimo,1,1,Maritimo_Benfica_2004
+85,2,P1,Beira Mar,H,1,2004-11-13,H,Penafiel,2,1,Penafiel_Beira Mar_2004
+86,0,P1,Nacional,H,0,2004-11-13,D,Setubal,1,0,Setubal_Nacional_2004
+87,0,P1,Sp Braga,D,0,2004-11-14,D,Leiria,0,0,Leiria_Sp Braga_2004
+88,3,P1,Boavista,H,0,2004-11-14,H,Sp Lisbon,6,1,Sp Lisbon_Boavista_2004
+89,1,P1,Guimaraes,D,0,2004-11-15,H,Rio Ave,1,1,Rio Ave_Guimaraes_2004
+90,0,P1,Maritimo,D,0,2004-11-19,D,Nacional,1,1,Nacional_Maritimo_2004
+91,1,P1,Sp Lisbon,D,1,2004-11-20,D,Beira Mar,2,2,Beira Mar_Sp Lisbon_2004
+92,0,P1,Boavista,A,0,2004-11-20,D,Porto,0,1,Porto_Boavista_2004
+93,3,P1,Rio Ave,D,1,2004-11-21,H,Benfica,3,3,Benfica_Rio Ave_2004
+94,1,P1,Setubal,H,0,2004-11-21,H,Gil Vicente,2,1,Gil Vicente_Setubal_2004
+95,1,P1,Leiria,D,0,2004-11-21,H,Guimaraes,1,1,Guimaraes_Leiria_2004
+96,2,P1,Penafiel,D,2,2004-11-21,D,Moreirense,2,2,Moreirense_Penafiel_2004
+97,1,P1,Estoril,H,0,2004-11-21,H,Sp Braga,2,0,Sp Braga_Estoril_2004
+98,1,P1,Belenenses,D,0,2004-11-22,H,Academica,1,1,Academica_Belenenses_2004
+99,1,P1,Beira Mar,H,0,2004-11-26,H,Boavista,3,0,Boavista_Beira Mar_2004
+100,0,P1,Sp Braga,A,0,2004-11-27,D,Belenenses,1,2,Belenenses_Sp Braga_2004
+101,0,P1,Guimaraes,A,0,2004-11-28,D,Estoril,0,1,Estoril_Guimaraes_2004
+102,1,P1,Benfica,H,0,2004-11-28,H,Leiria,1,0,Leiria_Benfica_2004
+103,1,P1,Gil Vicente,D,0,2004-11-28,H,Maritimo,1,1,Maritimo_Gil Vicente_2004
+104,1,P1,Academica,H,1,2004-11-28,D,Penafiel,3,1,Penafiel_Academica_2004
+105,2,P1,Nacional,H,0,2004-11-28,H,Rio Ave,4,1,Rio Ave_Nacional_2004
+106,2,P1,Moreirense,H,0,2004-11-28,H,Sp Lisbon,4,1,Sp Lisbon_Moreirense_2004
+107,0,P1,Porto,A,1,2004-11-29,A,Setubal,0,1,Setubal_Porto_2004
+108,0,P1,Beira Mar,A,1,2004-12-03,A,Porto,0,1,Porto_Beira Mar_2004
+109,1,P1,Belenenses,H,0,2004-12-04,H,Guimaraes,1,0,Guimaraes_Belenenses_2004
+110,0,P1,Leiria,A,0,2004-12-04,D,Nacional,0,3,Nacional_Leiria_2004
+111,0,P1,Sp Lisbon,A,2,2004-12-05,A,Academica,2,3,Academica_Sp Lisbon_2004
+112,1,P1,Rio Ave,H,0,2004-12-05,H,Gil Vicente,3,1,Gil Vicente_Rio Ave_2004
+113,0,P1,Boavista,D,0,2004-12-05,D,Moreirense,1,1,Moreirense_Boavista_2004
+114,1,P1,Maritimo,H,0,2004-12-05,H,Setubal,2,0,Setubal_Maritimo_2004
+115,0,P1,Penafiel,A,0,2004-12-05,D,Sp Braga,0,1,Sp Braga_Penafiel_2004
+116,2,P1,Estoril,H,1,2004-12-06,H,Benfica,2,1,Benfica_Estoril_2004
+117,0,P1,Academica,H,0,2004-12-10,D,Boavista,1,0,Boavista_Academica_2004
+118,1,P1,Setubal,H,0,2004-12-11,H,Rio Ave,1,0,Rio Ave_Setubal_2004
+119,0,P1,Sp Braga,D,0,2004-12-11,D,Sp Lisbon,0,0,Sp Lisbon_Sp Braga_2004
+120,1,P1,Moreirense,A,2,2004-12-12,A,Beira Mar,1,3,Beira Mar_Moreirense_2004
+121,3,P1,Benfica,H,0,2004-12-12,H,Belenenses,4,1,Belenenses_Benfica_2004
+122,1,P1,Nacional,H,0,2004-12-12,H,Estoril,2,0,Estoril_Nacional_2004
+123,0,P1,Gil Vicente,D,1,2004-12-12,A,Leiria,1,1,Leiria_Gil Vicente_2004
+124,0,P1,Guimaraes,A,2,2004-12-12,A,Penafiel,1,3,Penafiel_Guimaraes_2004
+125,1,P1,Moreirense,H,0,2004-12-17,H,Porto,1,0,Porto_Moreirense_2004
+126,1,P1,Penafiel,H,0,2004-12-18,H,Benfica,1,0,Benfica_Penafiel_2004
+127,2,P1,Boavista,H,0,2004-12-18,H,Sp Braga,3,0,Sp Braga_Boavista_2004
+128,1,P1,Beira Mar,D,0,2004-12-19,H,Academica,1,1,Academica_Beira Mar_2004
+129,0,P1,Estoril,H,0,2004-12-19,D,Gil Vicente,2,0,Gil Vicente_Estoril_2004
+130,1,P1,Rio Ave,D,0,2004-12-19,H,Maritimo,1,1,Maritimo_Rio Ave_2004
+131,1,P1,Belenenses,H,0,2004-12-19,H,Nacional,2,0,Nacional_Belenenses_2004
+132,0,P1,Leiria,D,0,2004-12-19,D,Setubal,1,1,Setubal_Leiria_2004
+133,1,P1,Sp Lisbon,A,2,2004-12-20,A,Guimaraes,2,4,Guimaraes_Sp Lisbon_2004
+134,1,P1,Porto,D,1,2004-12-22,D,Maritimo,1,1,Maritimo_Porto_2004
+135,0,P1,Setubal,H,1,2005-01-07,A,Estoril,2,1,Estoril_Setubal_2004
+136,1,P1,Guimaraes,H,0,2005-01-08,H,Boavista,2,1,Boavista_Guimaraes_2004
+137,1,P1,Benfica,H,1,2005-01-08,D,Sp Lisbon,2,1,Sp Lisbon_Benfica_2004
+138,1,P1,Sp Braga,A,0,2005-01-09,H,Beira Mar,1,4,Beira Mar_Sp Braga_2004
+139,0,P1,Gil Vicente,A,1,2005-01-09,A,Belenenses,0,1,Belenenses_Gil Vicente_2004
+140,0,P1,Maritimo,D,0,2005-01-09,D,Leiria,0,0,Leiria_Maritimo_2004
+141,1,P1,Academica,H,0,2005-01-09,H,Moreirense,1,0,Moreirense_Academica_2004
+142,0,P1,Nacional,A,0,2005-01-09,D,Penafiel,0,1,Penafiel_Nacional_2004
+143,0,P1,Rio Ave,D,1,2005-01-09,A,Porto,1,1,Porto_Rio Ave_2004
+144,0,P1,Porto,D,0,2005-01-15,D,Academica,0,0,Academica_Porto_2004
+145,0,P1,Beira Mar,H,0,2005-01-15,D,Guimaraes,1,0,Guimaraes_Beira Mar_2004
+146,1,P1,Boavista,H,0,2005-01-16,H,Benfica,4,0,Benfica_Boavista_2004
+147,0,P1,Penafiel,A,0,2005-01-16,D,Gil Vicente,0,1,Gil Vicente_Penafiel_2004
+148,1,P1,Estoril,H,0,2005-01-16,H,Maritimo,2,1,Maritimo_Estoril_2004
+149,2,P1,Sp Lisbon,H,0,2005-01-16,H,Nacional,3,2,Nacional_Sp Lisbon_2004
+150,1,P1,Leiria,H,0,2005-01-16,H,Rio Ave,2,0,Rio Ave_Leiria_2004
+151,0,P1,Moreirense,D,0,2005-01-16,D,Sp Braga,0,0,Sp Braga_Moreirense_2004
+152,0,P1,Belenenses,A,0,2005-01-17,D,Setubal,1,2,Setubal_Belenenses_2004
+153,1,P1,Academica,H,0,2005-01-21,H,Sp Braga,2,0,Sp Braga_Academica_2004
+154,0,P1,Beira Mar,A,1,2005-01-22,A,Benfica,0,2,Benfica_Beira Mar_2004
+155,0,P1,Moreirense,D,0,2005-01-22,D,Guimaraes,0,0,Guimaraes_Moreirense_2004
+156,0,P1,Boavista,A,0,2005-01-22,D,Nacional,0,2,Nacional_Boavista_2004
+157,3,P1,Penafiel,H,0,2005-01-22,H,Setubal,4,0,Setubal_Penafiel_2004
+158,0,P1,Sp Lisbon,A,1,2005-01-23,A,Gil Vicente,0,3,Gil Vicente_Sp Lisbon_2004
+159,0,P1,Porto,A,1,2005-01-23,A,Leiria,0,1,Leiria_Porto_2004
+160,0,P1,Belenenses,D,0,2005-01-23,D,Maritimo,0,0,Maritimo_Belenenses_2004
+161,0,P1,Estoril,H,1,2005-01-23,A,Rio Ave,2,1,Rio Ave_Estoril_2004
+162,0,P1,Guimaraes,A,0,2005-01-29,D,Academica,0,2,Academica_Guimaraes_2004
+163,0,P1,Benfica,A,2,2005-01-29,A,Moreirense,1,2,Moreirense_Benfica_2004
+164,0,P1,Nacional,A,1,2005-01-30,A,Beira Mar,0,3,Beira Mar_Nacional_2004
+165,1,P1,Rio Ave,H,0,2005-01-30,H,Belenenses,2,1,Belenenses_Rio Ave_2004
+166,0,P1,Gil Vicente,D,1,2005-01-30,A,Boavista,2,2,Boavista_Gil Vicente_2004
+167,1,P1,Leiria,D,1,2005-01-30,D,Estoril,1,1,Estoril_Leiria_2004
+168,0,P1,Maritimo,A,1,2005-01-30,A,Penafiel,0,1,Penafiel_Maritimo_2004
+169,1,P1,Sp Braga,A,2,2005-01-30,A,Porto,1,3,Porto_Sp Braga_2004
+170,0,P1,Setubal,D,0,2005-01-31,D,Sp Lisbon,1,1,Sp Lisbon_Setubal_2004
+171,0,P1,Sp Braga,H,0,2005-02-04,D,Guimaraes,1,0,Guimaraes_Sp Braga_2004
+172,1,P1,Porto,A,2,2005-02-05,A,Estoril,1,2,Estoril_Porto_2004
+173,0,P1,Belenenses,H,0,2005-02-05,D,Leiria,1,0,Leiria_Belenenses_2004
+174,1,P1,Penafiel,H,0,2005-02-05,H,Rio Ave,1,0,Rio Ave_Penafiel_2004
+175,1,P1,Academica,H,0,2005-02-06,H,Benfica,3,0,Benfica_Academica_2004
+176,0,P1,Beira Mar,H,0,2005-02-06,D,Gil Vicente,2,0,Gil Vicente_Beira Mar_2004
+177,1,P1,Sp Lisbon,H,0,2005-02-06,H,Maritimo,3,0,Maritimo_Sp Lisbon_2004
+178,3,P1,Moreirense,H,1,2005-02-06,H,Nacional,4,1,Nacional_Moreirense_2004
+179,0,P1,Boavista,D,0,2005-02-07,D,Setubal,0,0,Setubal_Boavista_2004
+180,1,P1,Estoril,H,0,2005-02-11,H,Belenenses,3,0,Belenenses_Estoril_2004
+181,0,P1,Benfica,D,0,2005-02-12,D,Sp Braga,0,0,Sp Braga_Benfica_2004
+182,0,P1,Nacional,H,0,2005-02-13,D,Academica,1,0,Academica_Nacional_2004
+183,0,P1,Setubal,D,1,2005-02-13,A,Beira Mar,1,1,Beira Mar_Setubal_2004
+184,2,P1,Maritimo,H,0,2005-02-13,H,Boavista,3,2,Boavista_Maritimo_2004
+185,0,P1,Gil Vicente,H,0,2005-02-13,D,Moreirense,1,0,Moreirense_Gil Vicente_2004
+186,2,P1,Leiria,H,0,2005-02-13,H,Penafiel,3,0,Penafiel_Leiria_2004
+187,0,P1,Guimaraes,D,0,2005-02-13,D,Porto,0,0,Porto_Guimaraes_2004
+188,4,P1,Rio Ave,H,0,2005-02-13,H,Sp Lisbon,5,0,Sp Lisbon_Rio Ave_2004
+189,0,P1,Porto,A,0,2005-02-18,D,Belenenses,0,1,Belenenses_Porto_2004
+190,0,P1,Sp Braga,H,0,2005-02-18,D,Nacional,1,0,Nacional_Sp Braga_2004
+191,1,P1,Penafiel,H,1,2005-02-19,D,Estoril,3,2,Estoril_Penafiel_2004
+192,0,P1,Academica,A,1,2005-02-19,A,Gil Vicente,0,1,Gil Vicente_Academica_2004
+193,0,P1,Sp Lisbon,D,0,2005-02-19,D,Leiria,0,0,Leiria_Sp Lisbon_2004
+194,0,P1,Beira Mar,D,0,2005-02-19,D,Maritimo,0,0,Maritimo_Beira Mar_2004
+195,2,P1,Boavista,D,0,2005-02-19,H,Rio Ave,2,2,Rio Ave_Boavista_2004
+196,2,P1,Moreirense,D,1,2005-02-19,H,Setubal,2,2,Setubal_Moreirense_2004
+197,2,P1,Guimaraes,H,0,2005-02-21,H,Benfica,2,1,Benfica_Guimaraes_2004
+198,2,P1,Gil Vicente,H,0,2005-02-25,H,Sp Braga,2,1,Sp Braga_Gil Vicente_2004
+199,0,P1,Leiria,D,0,2005-02-26,D,Boavista,0,0,Boavista_Leiria_2004
+200,0,P1,Belenenses,D,0,2005-02-26,D,Penafiel,0,0,Penafiel_Belenenses_2004
+201,1,P1,Setubal,D,0,2005-02-27,H,Academica,3,3,Academica_Setubal_2004
+202,0,P1,Rio Ave,D,0,2005-02-27,D,Beira Mar,0,0,Beira Mar_Rio Ave_2004
+203,0,P1,Nacional,D,0,2005-02-27,D,Guimaraes,1,1,Guimaraes_Nacional_2004
+204,1,P1,Maritimo,H,0,2005-02-27,H,Moreirense,1,0,Moreirense_Maritimo_2004
+205,0,P1,Benfica,D,0,2005-02-28,D,Porto,1,1,Porto_Benfica_2004
+206,1,P1,Estoril,H,0,2005-02-28,H,Sp Lisbon,4,0,Sp Lisbon_Estoril_2004
+207,0,P1,Guimaraes,A,2,2005-03-04,A,Gil Vicente,1,3,Gil Vicente_Guimaraes_2004
+208,1,P1,Boavista,D,1,2005-03-05,D,Estoril,3,3,Estoril_Boavista_2004
+209,1,P1,Porto,A,0,2005-03-05,H,Penafiel,1,2,Penafiel_Porto_2004
+210,0,P1,Sp Lisbon,H,0,2005-03-06,D,Belenenses,1,0,Belenenses_Sp Lisbon_2004
+211,3,P1,Beira Mar,H,1,2005-03-06,H,Leiria,5,1,Leiria_Beira Mar_2004
+212,0,P1,Academica,D,1,2005-03-06,A,Maritimo,1,1,Maritimo_Academica_2004
+213,0,P1,Benfica,A,0,2005-03-06,D,Nacional,0,1,Nacional_Benfica_2004
+214,1,P1,Moreirense,H,0,2005-03-06,H,Rio Ave,1,0,Rio Ave_Moreirense_2004
+215,0,P1,Sp Braga,A,2,2005-03-07,A,Setubal,1,4,Setubal_Sp Braga_2004
+216,0,P1,Nacional,A,1,2005-03-11,A,Porto,0,4,Porto_Nacional_2004
+217,0,P1,Gil Vicente,H,0,2005-03-12,D,Benfica,2,0,Benfica_Gil Vicente_2004
+218,0,P1,Maritimo,D,0,2005-03-12,D,Sp Braga,1,1,Sp Braga_Maritimo_2004
+219,0,P1,Rio Ave,D,0,2005-03-13,D,Academica,0,0,Academica_Rio Ave_2004
+220,0,P1,Estoril,H,1,2005-03-13,A,Beira Mar,2,1,Beira Mar_Estoril_2004
+221,2,P1,Setubal,H,1,2005-03-13,H,Guimaraes,3,1,Guimaraes_Setubal_2004
+222,0,P1,Leiria,D,0,2005-03-13,D,Moreirense,0,0,Moreirense_Leiria_2004
+223,0,P1,Penafiel,A,0,2005-03-13,D,Sp Lisbon,0,2,Sp Lisbon_Penafiel_2004
+224,1,P1,Belenenses,H,0,2005-03-14,H,Boavista,2,0,Boavista_Belenenses_2004
+225,0,P1,Guimaraes,A,1,2005-03-18,A,Maritimo,1,2,Maritimo_Guimaraes_2004
+226,1,P1,Boavista,D,0,2005-03-19,H,Penafiel,1,1,Penafiel_Boavista_2004
+227,0,P1,Benfica,A,1,2005-03-19,A,Setubal,0,2,Setubal_Benfica_2004
+228,0,P1,Beira Mar,H,0,2005-03-20,D,Belenenses,2,0,Belenenses_Beira Mar_2004
+229,1,P1,Moreirense,H,0,2005-03-20,H,Estoril,2,0,Estoril_Moreirense_2004
+230,2,P1,Nacional,H,1,2005-03-20,H,Gil Vicente,3,2,Gil Vicente_Nacional_2004
+231,0,P1,Academica,A,2,2005-03-20,A,Leiria,1,2,Leiria_Academica_2004
+232,1,P1,Sp Braga,D,0,2005-03-20,H,Rio Ave,1,1,Rio Ave_Sp Braga_2004
+233,0,P1,Porto,H,0,2005-03-21,D,Sp Lisbon,2,0,Sp Lisbon_Porto_2004
+234,0,P1,Rio Ave,D,0,2005-04-01,D,Guimaraes,0,0,Guimaraes_Rio Ave_2004
+235,0,P1,Sp Lisbon,A,2,2005-04-02,A,Boavista,0,4,Boavista_Sp Lisbon_2004
+236,1,P1,Estoril,H,0,2005-04-03,H,Academica,1,0,Academica_Estoril_2004
+237,1,P1,Penafiel,A,0,2005-04-03,H,Beira Mar,1,3,Beira Mar_Penafiel_2004
+238,3,P1,Maritimo,H,2,2005-04-03,H,Benfica,4,3,Benfica_Maritimo_2004
+239,0,P1,Belenenses,A,0,2005-04-03,D,Moreirense,0,1,Moreirense_Belenenses_2004
+240,0,P1,Setubal,A,1,2005-04-03,A,Nacional,1,3,Nacional_Setubal_2004
+241,1,P1,Gil Vicente,H,0,2005-04-03,H,Porto,1,0,Porto_Gil Vicente_2004
+242,1,P1,Leiria,H,0,2005-04-04,H,Sp Braga,1,0,Sp Braga_Leiria_2004
+243,1,P1,Nacional,H,0,2005-04-08,H,Maritimo,2,1,Maritimo_Nacional_2004
+244,0,P1,Porto,H,0,2005-04-09,D,Boavista,1,0,Boavista_Porto_2004
+245,0,P1,Guimaraes,A,0,2005-04-10,D,Leiria,0,1,Leiria_Guimaraes_2004
+246,1,P1,Moreirense,H,0,2005-04-10,H,Penafiel,1,0,Penafiel_Moreirense_2004
+247,0,P1,Benfica,H,0,2005-04-10,D,Rio Ave,1,0,Rio Ave_Benfica_2004
+248,0,P1,Gil Vicente,D,0,2005-04-10,D,Setubal,0,0,Setubal_Gil Vicente_2004
+249,0,P1,Beira Mar,H,0,2005-04-10,D,Sp Lisbon,1,0,Sp Lisbon_Beira Mar_2004
+250,0,P1,Academica,D,0,2005-04-11,D,Belenenses,0,0,Belenenses_Academica_2004
+251,0,P1,Sp Braga,A,1,2005-04-11,A,Estoril,0,1,Estoril_Sp Braga_2004
+252,0,P1,Boavista,H,0,2005-04-15,D,Beira Mar,1,0,Beira Mar_Boavista_2004
+253,0,P1,Leiria,D,1,2005-04-16,A,Benfica,1,1,Benfica_Leiria_2004
+254,1,P1,Setubal,H,1,2005-04-16,D,Porto,2,1,Porto_Setubal_2004
+255,2,P1,Penafiel,H,0,2005-04-17,H,Academica,4,1,Academica_Penafiel_2004
+256,0,P1,Maritimo,H,0,2005-04-17,D,Gil Vicente,1,0,Gil Vicente_Maritimo_2004
+257,0,P1,Estoril,H,0,2005-04-17,D,Guimaraes,1,0,Guimaraes_Estoril_2004
+258,0,P1,Rio Ave,D,0,2005-04-17,D,Nacional,0,0,Nacional_Rio Ave_2004
+259,2,P1,Belenenses,H,0,2005-04-17,H,Sp Braga,2,0,Sp Braga_Belenenses_2004
+260,0,P1,Sp Lisbon,A,1,2005-04-18,A,Moreirense,1,3,Moreirense_Sp Lisbon_2004
+261,0,P1,Guimaraes,H,0,2005-04-22,D,Belenenses,1,0,Belenenses_Guimaraes_2004
+262,1,P1,Moreirense,D,0,2005-04-23,H,Boavista,1,1,Boavista_Moreirense_2004
+263,0,P1,Academica,D,0,2005-04-23,D,Sp Lisbon,0,0,Sp Lisbon_Academica_2004
+264,0,P1,Porto,A,0,2005-04-24,D,Beira Mar,0,1,Beira Mar_Porto_2004
+265,1,P1,Benfica,A,0,2005-04-24,H,Estoril,1,2,Estoril_Benfica_2004
+266,0,P1,Nacional,H,0,2005-04-24,D,Leiria,1,0,Leiria_Nacional_2004
+267,2,P1,Setubal,H,0,2005-04-24,H,Maritimo,3,1,Maritimo_Setubal_2004
+268,0,P1,Gil Vicente,A,1,2005-04-24,A,Rio Ave,0,1,Rio Ave_Gil Vicente_2004
+269,0,P1,Sp Braga,H,0,2005-04-25,D,Penafiel,1,0,Penafiel_Sp Braga_2004
+270,1,P1,Boavista,H,0,2005-04-29,H,Academica,1,0,Academica_Boavista_2004
+271,0,P1,Belenenses,H,0,2005-04-30,D,Benfica,1,0,Benfica_Belenenses_2004
+272,0,P1,Leiria,D,0,2005-04-30,D,Gil Vicente,1,1,Gil Vicente_Leiria_2004
+273,0,P1,Beira Mar,D,0,2005-04-30,D,Moreirense,0,0,Moreirense_Beira Mar_2004
+274,1,P1,Estoril,H,1,2005-04-30,D,Nacional,4,1,Nacional_Estoril_2004
+275,1,P1,Maritimo,H,0,2005-04-30,H,Porto,1,0,Porto_Maritimo_2004
+276,2,P1,Rio Ave,H,0,2005-04-30,H,Setubal,2,0,Setubal_Rio Ave_2004
+277,0,P1,Sp Lisbon,A,0,2005-05-01,D,Sp Braga,0,3,Sp Braga_Sp Lisbon_2004
+278,1,P1,Penafiel,H,1,2005-05-02,D,Guimaraes,2,1,Guimaraes_Penafiel_2004
+279,1,P1,Nacional,H,0,2005-05-06,H,Belenenses,1,0,Belenenses_Nacional_2004
+280,0,P1,Sp Braga,A,2,2005-05-07,A,Boavista,1,2,Boavista_Sp Braga_2004
+281,0,P1,Benfica,H,0,2005-05-07,D,Penafiel,1,0,Penafiel_Benfica_2004
+282,0,P1,Academica,D,0,2005-05-08,D,Beira Mar,0,0,Beira Mar_Academica_2004
+283,1,P1,Gil Vicente,H,0,2005-05-08,H,Estoril,2,0,Estoril_Gil Vicente_2004
+284,0,P1,Setubal,A,0,2005-05-08,D,Leiria,0,2,Leiria_Setubal_2004
+285,1,P1,Porto,D,0,2005-05-08,H,Moreirense,1,1,Moreirense_Porto_2004
+286,0,P1,Maritimo,D,0,2005-05-08,D,Rio Ave,0,0,Rio Ave_Maritimo_2004
+287,0,P1,Guimaraes,H,0,2005-05-09,D,Sp Lisbon,1,0,Sp Lisbon_Guimaraes_2004
+288,0,P1,Moreirense,A,1,2005-05-14,A,Academica,0,4,Academica_Moreirense_2004
+289,0,P1,Sp Lisbon,H,0,2005-05-14,D,Benfica,1,0,Benfica_Sp Lisbon_2004
+290,0,P1,Belenenses,H,0,2005-05-14,D,Gil Vicente,1,0,Gil Vicente_Belenenses_2004
+291,1,P1,Boavista,H,0,2005-05-14,H,Guimaraes,2,0,Guimaraes_Boavista_2004
+292,2,P1,Leiria,H,0,2005-05-14,H,Maritimo,2,0,Maritimo_Leiria_2004
+293,0,P1,Penafiel,A,2,2005-05-14,A,Nacional,1,3,Nacional_Penafiel_2004
+294,0,P1,Porto,A,0,2005-05-14,D,Rio Ave,0,2,Rio Ave_Porto_2004
+295,0,P1,Estoril,D,1,2005-05-14,A,Setubal,2,2,Setubal_Estoril_2004
+296,1,P1,Beira Mar,D,1,2005-05-14,D,Sp Braga,1,1,Sp Braga_Beira Mar_2004
+297,0,P1,Guimaraes,D,2,2005-05-22,A,Beira Mar,2,2,Beira Mar_Guimaraes_2004
+298,0,P1,Setubal,D,0,2005-05-22,D,Belenenses,0,0,Belenenses_Setubal_2004
+299,1,P1,Benfica,D,1,2005-05-22,D,Boavista,1,1,Boavista_Benfica_2004
+300,0,P1,Maritimo,A,0,2005-05-22,D,Estoril,0,1,Estoril_Maritimo_2004
+301,0,P1,Rio Ave,A,2,2005-05-22,A,Leiria,0,3,Leiria_Rio Ave_2004
+302,0,P1,Sp Braga,H,1,2005-05-22,A,Moreirense,2,1,Moreirense_Sp Braga_2004
+303,1,P1,Gil Vicente,A,1,2005-05-22,D,Penafiel,1,3,Penafiel_Gil Vicente_2004
+304,0,P1,Academica,D,0,2005-05-22,D,Porto,1,1,Porto_Academica_2004
+305,1,P1,Nacional,A,3,2005-05-22,A,Sp Lisbon,2,4,Sp Lisbon_Nacional_2004

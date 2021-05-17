@@ -1,0 +1,381 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,3,Lorient,14,2,0,2,1,0,1,3,9,D,10,2010-08-07,Auxerre,F1,2,6,3,11,D,3,Auxerre_Lorient_2010
+1,3,Nancy,17,1,1,2,0,0,1,1,18,A,19,2010-08-07,Lens,F1,6,6,2,17,A,4,Lens_Nancy_2010
+2,2,Monaco,14,0,0,0,0,0,0,3,24,D,9,2010-08-07,Lyon,F1,4,5,3,16,D,5,Lyon_Monaco_2010
+3,2,Caen,16,1,0,2,0,0,0,3,23,A,12,2010-08-07,Marseille,F1,2,3,6,16,D,3,Marseille_Caen_2010
+4,0,Valenciennes,11,0,0,0,0,0,0,3,20,D,11,2010-08-07,Nice,F1,1,2,4,10,D,6,Nice_Valenciennes_2010
+5,2,St Etienne,11,3,0,1,2,0,1,1,12,H,14,2010-08-07,Paris SG,F1,5,6,6,19,H,7,Paris SG_St Etienne_2010
+6,3,Lille,23,1,0,1,1,0,0,3,21,D,14,2010-08-07,Rennes,F1,5,5,6,20,H,3,Rennes_Lille_2010
+7,2,Arles,16,2,0,1,1,0,1,4,19,H,10,2010-08-07,Sochaux,F1,1,6,10,14,D,3,Sochaux_Arles_2010
+8,3,Brest,21,2,0,0,1,0,0,2,18,H,9,2010-08-07,Toulouse,F1,1,4,2,9,H,3,Toulouse_Brest_2010
+9,5,Bordeaux,22,1,0,0,0,0,0,2,13,H,8,2010-08-08,Montpellier,F1,1,3,5,9,D,1,Montpellier_Bordeaux_2010
+10,1,Lens,13,0,0,1,0,0,0,0,17,A,10,2010-08-14,Arles,F1,4,3,4,11,D,4,Arles_Lens_2010
+11,2,Toulouse,17,1,0,2,0,0,1,4,22,A,6,2010-08-15,Bordeaux,F1,3,3,4,10,A,1,Bordeaux_Toulouse_2010
+12,2,Auxerre,29,1,0,1,1,0,0,3,16,D,12,2010-08-14,Brest,F1,4,3,8,11,H,7,Brest_Auxerre_2010
+13,2,Lyon,16,3,1,2,2,0,2,1,17,H,16,2010-08-15,Caen,F1,2,7,4,12,D,2,Caen_Lyon_2010
+14,1,Paris SG,16,0,0,0,0,0,0,4,14,D,10,2010-08-15,Lille,F1,4,1,5,11,D,1,Lille_Paris SG_2010
+15,1,Nice,11,1,0,2,1,0,1,2,15,A,14,2010-08-14,Lorient,F1,5,2,5,11,D,5,Lorient_Nice_2010
+16,0,Rennes,13,0,0,3,0,1,0,0,13,A,15,2010-08-14,Nancy,F1,6,2,5,9,D,2,Nancy_Rennes_2010
+17,2,Sochaux,20,3,0,2,1,0,0,1,14,H,16,2010-08-14,St Etienne,F1,6,7,7,17,H,10,St Etienne_Sochaux_2010
+18,3,Marseille,20,3,0,2,0,0,0,4,10,H,14,2010-08-14,Valenciennes,F1,3,6,2,13,D,6,Valenciennes_Marseille_2010
+19,1,Montpellier,17,0,0,0,0,0,0,3,12,D,19,2010-08-17,Monaco,F1,4,2,1,10,D,1,Monaco_Montpellier_2010
+20,3,Valenciennes,19,1,0,1,0,0,0,2,11,D,7,2010-08-21,Auxerre,F1,2,2,7,9,D,4,Auxerre_Valenciennes_2010
+21,1,Monaco,3,2,0,2,0,0,1,5,20,D,7,2010-08-21,Lens,F1,2,6,7,23,A,0,Lens_Monaco_2010
+22,1,Brest,15,1,0,0,1,0,0,3,19,H,18,2010-08-21,Lyon,F1,3,7,6,13,H,6,Lyon_Brest_2010
+23,2,Lorient,19,2,0,0,1,0,0,3,15,H,12,2010-08-21,Marseille,F1,5,6,5,16,H,3,Marseille_Lorient_2010
+24,1,Nancy,12,1,1,1,1,0,0,3,17,D,13,2010-08-21,Nice,F1,6,4,3,9,H,3,Nice_Nancy_2010
+25,2,St Etienne,18,0,0,0,0,0,0,2,19,D,9,2010-08-21,Rennes,F1,2,2,5,19,D,0,Rennes_St Etienne_2010
+26,3,Arles,22,2,0,1,1,0,0,2,15,H,8,2010-08-21,Toulouse,F1,3,3,5,8,H,1,Toulouse_Arles_2010
+27,2,Caen,17,0,0,0,0,0,0,2,23,D,2,2010-08-22,Montpellier,F1,0,5,4,19,D,1,Montpellier_Caen_2010
+28,1,Bordeaux,11,1,0,2,0,0,0,5,16,A,10,2010-08-22,Paris SG,F1,4,6,6,15,D,5,Paris SG_Bordeaux_2010
+29,1,Lille,12,0,0,0,0,0,0,2,11,D,17,2010-08-22,Sochaux,F1,7,1,3,9,D,6,Sochaux_Lille_2010
+30,1,Rennes,11,0,0,1,0,0,1,1,16,A,7,2010-08-28,Arles,F1,1,4,6,12,A,1,Arles_Rennes_2010
+31,4,Brest,22,0,0,2,0,1,0,2,17,A,16,2010-08-28,Caen,F1,4,1,6,7,D,6,Caen_Brest_2010
+32,0,Lyon,17,2,0,0,1,0,0,0,12,H,14,2010-08-28,Lorient,F1,4,7,3,15,H,8,Lorient_Lyon_2010
+33,4,Toulouse,22,0,0,2,0,0,0,2,17,A,13,2010-08-28,Nancy,F1,6,5,5,16,D,3,Nancy_Toulouse_2010
+34,1,Lens,19,3,0,1,1,1,0,1,18,H,13,2010-08-28,St Etienne,F1,6,6,3,14,H,6,St Etienne_Lens_2010
+35,3,Montpellier,19,0,0,1,0,0,1,1,16,A,15,2010-08-28,Valenciennes,F1,5,2,5,9,A,1,Valenciennes_Montpellier_2010
+36,1,Marseille,14,1,1,1,0,0,1,2,20,D,8,2010-08-29,Bordeaux,F1,5,4,9,14,A,4,Bordeaux_Marseille_2010
+37,0,Nice,13,1,0,1,0,0,1,5,25,D,7,2010-08-29,Lille,F1,3,5,18,17,A,3,Lille_Nice_2010
+38,0,Auxerre,16,2,0,0,0,0,0,0,11,H,11,2010-08-29,Monaco,F1,1,5,10,20,D,5,Monaco_Auxerre_2010
+39,2,Paris SG,14,3,1,1,3,0,0,1,15,H,19,2010-08-29,Sochaux,F1,8,7,7,15,H,10,Sochaux_Paris SG_2010
+40,0,Caen,18,1,0,1,1,0,0,3,16,D,12,2010-09-11,Auxerre,F1,2,5,1,11,H,5,Auxerre_Caen_2010
+41,0,Lille,16,1,0,4,0,2,1,3,19,A,19,2010-09-11,Lens,F1,6,5,2,8,A,9,Lens_Lille_2010
+42,0,Valenciennes,9,1,0,1,1,0,0,0,19,D,11,2010-09-11,Lyon,F1,5,2,9,17,H,4,Lyon_Valenciennes_2010
+43,2,Nancy,12,1,1,2,0,0,2,2,11,A,15,2010-09-11,Montpellier,F1,5,4,9,17,A,2,Montpellier_Nancy_2010
+44,0,Arles,8,4,0,0,2,0,0,0,16,H,11,2010-09-11,Paris SG,F1,5,7,10,22,H,5,Paris SG_Arles_2010
+45,3,Sochaux,17,2,0,1,1,0,1,1,17,H,15,2010-09-11,Rennes,F1,9,5,9,17,D,3,Rennes_Sochaux_2010
+46,2,St Etienne,16,0,0,1,0,0,1,2,13,A,9,2010-09-11,Toulouse,F1,3,0,3,11,A,3,Toulouse_St Etienne_2010
+47,0,Lorient,23,0,0,0,0,0,0,1,18,D,9,2010-09-12,Brest,F1,1,2,5,17,D,5,Brest_Lorient_2010
+48,1,Monaco,14,2,0,2,1,0,1,3,23,D,8,2010-09-12,Marseille,F1,4,10,3,26,D,2,Marseille_Monaco_2010
+49,4,Bordeaux,18,2,0,1,1,0,0,2,21,H,13,2010-09-12,Nice,F1,4,6,6,12,H,1,Nice_Bordeaux_2010
+50,2,Marseille,14,0,0,3,0,0,2,1,12,A,15,2010-09-18,Arles,F1,8,6,9,16,A,3,Arles_Marseille_2010
+51,1,Caen,12,0,0,1,0,0,1,2,17,A,13,2010-09-18,Lorient,F1,4,4,4,18,A,1,Lorient_Caen_2010
+52,4,Toulouse,13,0,0,0,0,0,0,2,14,D,10,2010-09-18,Monaco,F1,5,2,2,9,D,5,Monaco_Toulouse_2010
+53,0,Brest,14,0,0,2,0,0,0,1,11,A,9,2010-09-18,Nancy,F1,5,3,6,16,D,1,Nancy_Brest_2010
+54,2,Nice,17,4,0,0,1,0,0,2,14,H,11,2010-09-18,Sochaux,F1,7,12,9,24,H,4,Sochaux_Nice_2010
+55,0,Montpellier,17,3,0,0,2,0,0,1,21,H,13,2010-09-18,St Etienne,F1,1,4,3,10,H,2,St Etienne_Montpellier_2010
+56,2,Lens,18,1,0,1,0,0,0,3,10,D,12,2010-09-18,Valenciennes,F1,3,2,1,10,D,7,Valenciennes_Lens_2010
+57,3,Lyon,15,2,0,0,0,0,0,3,23,H,10,2010-09-19,Bordeaux,F1,1,5,7,19,D,4,Bordeaux_Lyon_2010
+58,2,Auxerre,13,1,0,0,0,0,0,2,15,H,8,2010-09-19,Lille,F1,2,1,6,11,D,3,Lille_Auxerre_2010
+59,0,Rennes,19,0,0,0,0,0,0,1,15,D,10,2010-09-19,Paris SG,F1,2,2,5,11,D,0,Paris SG_Rennes_2010
+60,3,Nancy,9,2,0,2,2,0,2,2,18,D,7,2010-09-25,Auxerre,F1,3,5,3,17,D,1,Auxerre_Nancy_2010
+61,2,Bordeaux,23,0,0,0,0,0,0,2,13,D,14,2010-09-25,Caen,F1,4,1,3,3,D,2,Caen_Bordeaux_2010
+62,1,Monaco,8,2,1,1,1,0,1,4,20,H,2,2010-09-25,Lorient,F1,1,6,8,24,D,0,Lorient_Monaco_2010
+63,3,St Etienne,11,0,0,1,0,1,0,4,21,A,5,2010-09-25,Lyon,F1,2,4,12,28,D,2,Lyon_St Etienne_2010
+64,0,Sochaux,15,2,0,1,1,0,0,2,17,H,8,2010-09-25,Marseille,F1,2,5,9,25,H,2,Marseille_Sochaux_2010
+65,2,Arles,22,3,0,1,1,1,0,5,24,H,15,2010-09-25,Montpellier,F1,4,4,5,13,H,4,Montpellier_Arles_2010
+66,2,Rennes,15,1,0,2,1,0,1,3,20,A,10,2010-09-25,Nice,F1,5,3,2,8,D,4,Nice_Rennes_2010
+67,0,Valenciennes,13,1,0,0,0,0,0,3,20,H,6,2010-09-26,Brest,F1,3,5,7,13,D,4,Brest_Valenciennes_2010
+68,0,Paris SG,18,0,0,2,0,0,0,3,19,A,20,2010-09-26,Lens,F1,6,3,4,14,D,7,Lens_Paris SG_2010
+69,3,Lille,22,1,0,1,0,0,1,3,10,D,6,2010-09-26,Toulouse,F1,2,6,3,14,A,0,Toulouse_Lille_2010
+70,1,Auxerre,16,0,0,4,0,0,2,0,18,A,14,2010-10-02,Arles,F1,8,0,5,8,A,0,Arles_Auxerre_2010
+71,1,Lorient,22,1,0,0,1,0,0,3,15,H,7,2010-10-02,Bordeaux,F1,3,2,6,10,H,8,Bordeaux_Lorient_2010
+72,2,Brest,18,0,0,1,0,0,0,1,10,A,10,2010-10-02,Monaco,F1,2,7,8,13,D,5,Monaco_Brest_2010
+73,1,Lyon,20,2,0,3,0,0,1,3,21,A,8,2010-10-02,Nancy,F1,3,6,6,19,A,3,Nancy_Lyon_2010
+74,1,Lens,16,3,0,0,2,0,0,3,13,H,12,2010-10-02,Sochaux,F1,5,7,3,11,H,5,Sochaux_Lens_2010
+75,1,Marseille,12,1,0,1,0,0,1,1,10,D,13,2010-10-02,St Etienne,F1,3,8,9,18,A,4,St Etienne_Marseille_2010
+76,2,Caen,22,2,0,1,2,0,0,3,10,H,7,2010-10-02,Valenciennes,F1,1,4,5,14,H,3,Valenciennes_Caen_2010
+77,1,Montpellier,14,3,0,1,2,0,1,0,18,H,15,2010-10-03,Lille,F1,6,6,3,11,H,3,Lille_Montpellier_2010
+78,1,Nice,10,0,0,0,0,0,0,4,10,D,11,2010-10-03,Paris SG,F1,2,6,12,19,D,3,Paris SG_Nice_2010
+79,0,Toulouse,9,3,0,1,1,0,0,1,15,H,15,2010-10-03,Rennes,F1,2,7,3,14,H,4,Rennes_Toulouse_2010
+80,1,Bordeaux,16,0,1,1,0,0,1,2,18,A,9,2010-10-16,Auxerre,F1,4,2,8,15,A,8,Auxerre_Bordeaux_2010
+81,0,Arles,17,0,0,0,0,0,0,0,19,D,8,2010-10-16,Brest,F1,1,1,5,11,D,1,Brest_Arles_2010
+82,2,Monaco,14,0,0,0,0,0,0,2,17,D,15,2010-10-16,Caen,F1,6,2,7,10,D,7,Caen_Monaco_2010
+83,1,Nancy,17,1,0,0,1,0,0,1,17,H,7,2010-10-16,Marseille,F1,2,4,13,14,H,3,Marseille_Nancy_2010
+84,0,Sochaux,18,2,0,0,2,0,0,4,16,H,5,2010-10-16,Montpellier,F1,1,6,5,14,H,3,Montpellier_Sochaux_2010
+85,2,Paris SG,19,0,0,2,0,0,1,1,14,A,13,2010-10-16,Toulouse,F1,7,4,6,6,A,4,Toulouse_Paris SG_2010
+86,2,Rennes,21,0,1,0,0,0,0,1,24,D,10,2010-10-17,Lens,F1,4,4,2,12,D,3,Lens_Rennes_2010
+87,1,Valenciennes,14,2,0,1,2,0,1,3,18,H,14,2010-10-17,Lorient,F1,5,6,3,15,H,4,Lorient_Valenciennes_2010
+88,0,Lille,19,3,0,1,2,1,0,2,11,H,20,2010-10-17,Lyon,F1,9,9,4,16,H,3,Lyon_Lille_2010
+89,2,St Etienne,8,2,1,1,0,0,1,5,15,H,8,2010-10-17,Nice,F1,2,7,8,18,A,2,Nice_St Etienne_2010
+90,2,Brest,10,0,0,2,0,0,1,2,15,A,11,2010-10-23,Bordeaux,F1,6,7,11,20,A,8,Bordeaux_Brest_2010
+91,2,Nice,9,1,0,0,0,0,0,2,13,H,10,2010-10-23,Lens,F1,3,2,4,21,D,4,Lens_Nice_2010
+92,2,Valenciennes,25,0,0,2,0,0,1,2,17,A,13,2010-10-23,Monaco,F1,4,3,7,12,A,4,Monaco_Valenciennes_2010
+93,1,Lorient,20,1,1,0,1,0,0,2,20,H,13,2010-10-23,Nancy,F1,4,5,11,16,H,5,Nancy_Lorient_2010
+94,2,Montpellier,17,0,1,1,0,1,1,3,18,A,11,2010-10-23,Rennes,F1,2,5,6,12,A,1,Rennes_Montpellier_2010
+95,1,Toulouse,15,1,0,3,0,0,0,1,14,A,12,2010-10-23,Sochaux,F1,8,4,1,8,D,9,Sochaux_Toulouse_2010
+96,1,Caen,14,1,0,1,0,0,1,3,16,D,7,2010-10-23,St Etienne,F1,2,5,5,26,A,6,St Etienne_Caen_2010
+97,1,Lyon,13,1,0,1,1,0,0,2,14,D,10,2010-10-24,Arles,F1,5,2,2,8,H,6,Arles_Lyon_2010
+98,2,Marseille,15,1,0,3,1,0,0,3,19,A,9,2010-10-24,Lille,F1,7,7,7,14,H,4,Lille_Marseille_2010
+99,1,Auxerre,19,2,0,3,1,0,3,2,14,A,8,2010-10-24,Paris SG,F1,4,7,5,14,A,3,Paris SG_Auxerre_2010
+100,1,Nice,9,2,0,0,1,0,0,2,12,H,19,2010-10-30,Auxerre,F1,4,7,0,16,H,4,Auxerre_Nice_2010
+101,1,St Etienne,16,2,0,0,0,0,0,0,9,H,14,2010-10-30,Brest,F1,1,5,1,14,D,4,Brest_St Etienne_2010
+102,3,Nancy,28,2,0,3,1,0,2,4,20,A,14,2010-10-30,Caen,F1,6,3,5,13,A,3,Caen_Nancy_2010
+103,1,Arles,13,2,0,0,0,0,0,1,16,H,7,2010-10-30,Lorient,F1,1,5,7,16,D,1,Lorient_Arles_2010
+104,1,Sochaux,10,2,0,1,1,0,0,2,17,H,7,2010-10-30,Lyon,F1,4,3,8,16,H,3,Lyon_Sochaux_2010
+105,1,Lens,19,1,0,1,1,0,1,1,17,D,9,2010-10-30,Toulouse,F1,2,2,4,5,D,2,Toulouse_Lens_2010
+106,2,Paris SG,23,1,0,1,1,0,1,2,17,D,15,2010-10-31,Montpellier,F1,3,5,2,17,D,4,Montpellier_Paris SG_2010
+107,3,Lille,16,1,0,1,0,0,0,1,15,D,18,2010-10-31,Valenciennes,F1,3,3,4,10,D,7,Valenciennes_Lille_2010
+108,2,Bordeaux,16,2,0,2,0,1,1,3,15,D,12,2010-11-02,Monaco,F1,4,7,4,16,A,5,Monaco_Bordeaux_2010
+109,1,Caen,21,3,0,2,2,0,1,2,15,H,13,2010-11-06,Arles,F1,5,9,5,14,H,8,Arles_Caen_2010
+110,3,Valenciennes,9,1,0,1,0,0,1,4,16,D,7,2010-11-06,Bordeaux,F1,4,8,7,28,A,3,Bordeaux_Valenciennes_2010
+111,0,Lyon,20,1,0,1,1,0,0,2,20,D,12,2010-11-06,Rennes,F1,5,5,5,10,H,5,Rennes_Lyon_2010
+112,2,Auxerre,15,1,0,1,0,0,1,1,14,D,14,2010-11-06,Sochaux,F1,5,7,10,24,A,5,Sochaux_Auxerre_2010
+113,3,Lorient,20,1,0,2,0,0,1,0,6,A,21,2010-11-06,St Etienne,F1,7,5,4,11,A,8,St Etienne_Lorient_2010
+114,2,Montpellier,26,2,0,0,2,0,0,2,19,H,16,2010-11-07,Lens,F1,3,5,2,8,H,5,Lens_Montpellier_2010
+115,1,Brest,13,3,0,1,1,0,0,2,13,H,15,2010-11-07,Lille,F1,4,7,4,20,H,2,Lille_Brest_2010
+116,0,Monaco,15,0,0,4,0,0,0,2,16,A,11,2010-11-07,Nancy,F1,4,5,4,16,D,5,Nancy_Monaco_2010
+117,2,Toulouse,13,2,1,0,1,0,0,2,25,H,12,2010-11-07,Nice,F1,3,3,3,6,H,5,Nice_Toulouse_2010
+118,3,Marseille,18,2,0,1,2,0,1,3,16,H,15,2010-11-07,Paris SG,F1,5,6,5,11,H,4,Paris SG_Marseille_2010
+119,2,Nancy,22,2,0,1,1,0,0,3,15,H,8,2010-11-13,Bordeaux,F1,2,4,5,10,H,3,Bordeaux_Nancy_2010
+120,1,Sochaux,11,1,0,1,1,0,1,2,15,D,10,2010-11-13,Brest,F1,3,5,12,18,D,3,Brest_Sochaux_2010
+121,3,Lille,15,2,0,5,1,0,3,1,18,A,22,2010-11-13,Caen,F1,8,5,1,11,A,0,Caen_Lille_2010
+122,1,Lens,22,1,0,1,1,0,0,2,13,D,7,2010-11-13,Marseille,F1,2,5,4,19,H,5,Marseille_Lens_2010
+123,0,Arles,10,0,0,0,0,0,0,1,19,D,9,2010-11-13,Monaco,F1,4,4,9,16,D,5,Monaco_Arles_2010
+124,1,Toulouse,14,1,0,0,1,0,0,1,27,H,6,2010-11-13,Montpellier,F1,3,5,4,13,H,4,Montpellier_Toulouse_2010
+125,4,Rennes,18,2,0,1,0,0,0,1,11,H,12,2010-11-14,Auxerre,F1,5,5,5,12,D,2,Auxerre_Rennes_2010
+126,2,Paris SG,8,1,0,1,1,0,0,2,21,D,19,2010-11-14,Lorient,F1,8,4,7,13,H,9,Lorient_Paris SG_2010
+127,1,Nice,12,1,0,0,1,0,0,3,17,H,1,2010-11-14,Lyon,F1,0,6,7,19,H,1,Lyon_Nice_2010
+128,2,Valenciennes,15,2,0,0,1,0,0,4,18,H,7,2010-11-20,Nancy,F1,0,10,10,25,H,3,Nancy_Valenciennes_2010
+129,2,Montpellier,12,0,0,1,0,0,0,3,17,A,14,2010-11-20,Nice,F1,10,3,3,9,D,5,Nice_Montpellier_2010
+130,2,Caen,14,2,0,1,1,0,0,2,13,H,13,2010-11-20,Paris SG,F1,1,3,6,11,H,5,Paris SG_Caen_2010
+131,1,Brest,14,2,0,1,1,0,0,2,12,H,7,2010-11-20,Rennes,F1,2,6,3,17,H,5,Rennes_Brest_2010
+132,0,Lorient,14,2,0,0,1,0,0,0,10,H,6,2010-11-20,Sochaux,F1,2,4,4,11,H,5,Sochaux_Lorient_2010
+133,1,Auxerre,20,1,0,1,0,0,1,1,17,D,13,2010-11-20,St Etienne,F1,4,1,6,13,A,3,St Etienne_Auxerre_2010
+134,0,Marseille,19,0,0,1,0,0,0,1,18,A,20,2010-11-20,Toulouse,F1,4,1,3,11,D,3,Toulouse_Marseille_2010
+135,3,Bordeaux,19,2,0,4,1,1,2,1,11,A,30,2010-11-21,Arles,F1,9,5,6,9,A,8,Arles_Bordeaux_2010
+136,2,Lyon,12,1,0,3,1,0,0,1,15,A,11,2010-11-21,Lens,F1,5,1,4,3,H,2,Lens_Lyon_2010
+137,0,Monaco,9,2,0,1,1,0,0,2,13,H,3,2010-11-21,Lille,F1,2,8,12,23,H,3,Lille_Monaco_2010
+138,1,Lille,20,1,0,1,0,0,1,1,15,D,8,2010-11-27,Bordeaux,F1,2,1,3,7,A,8,Bordeaux_Lille_2010
+139,2,Rennes,15,2,0,0,0,0,0,1,18,H,4,2010-11-27,Lorient,F1,1,8,6,15,D,2,Lorient_Rennes_2010
+140,1,Montpellier,15,4,0,0,2,0,0,2,15,H,16,2010-11-27,Marseille,F1,3,6,1,10,H,7,Marseille_Montpellier_2010
+141,0,Nice,29,1,1,1,0,0,0,3,12,D,8,2010-11-27,Monaco,F1,2,2,6,14,D,1,Monaco_Nice_2010
+142,0,St Etienne,16,1,0,1,0,0,0,2,20,D,15,2010-11-27,Nancy,F1,6,4,5,18,D,3,Nancy_St Etienne_2010
+143,3,Arles,24,3,0,0,1,0,0,3,21,H,10,2010-11-27,Valenciennes,F1,1,8,6,20,H,9,Valenciennes_Arles_2010
+144,3,Toulouse,18,1,0,2,0,0,2,2,16,A,9,2010-11-28,Auxerre,F1,5,3,3,13,A,2,Auxerre_Toulouse_2010
+145,1,Sochaux,15,0,0,3,0,0,1,2,12,A,9,2010-11-28,Caen,F1,4,4,8,19,A,5,Caen_Sochaux_2010
+146,2,Paris SG,15,2,0,2,0,1,0,1,8,D,11,2010-11-28,Lyon,F1,4,5,11,27,D,4,Lyon_Paris SG_2010
+147,1,Lens,19,4,0,1,2,0,1,1,14,H,13,2010-11-30,Brest,F1,5,6,3,14,H,11,Brest_Lens_2010
+148,2,Rennes,13,0,0,0,0,0,0,1,16,D,12,2010-12-01,Marseille,F1,4,5,5,19,D,6,Marseille_Rennes_2010
+149,1,St Etienne,11,1,0,1,0,0,1,1,16,D,6,2010-12-01,Valenciennes,F1,4,8,8,25,A,3,Valenciennes_St Etienne_2010
+150,2,Nancy,23,1,0,1,1,0,1,4,27,D,7,2010-12-04,Arles,F1,1,2,3,14,D,6,Arles_Nancy_2010
+151,1,Auxerre,13,1,0,1,1,0,0,1,14,D,13,2010-12-04,Lens,F1,3,2,8,17,H,8,Lens_Auxerre_2010
+152,2,Lorient,14,6,1,3,2,0,2,2,7,H,7,2010-12-04,Lille,F1,4,11,4,22,D,4,Lille_Lorient_2010
+153,3,Lyon,16,1,0,2,0,0,1,2,19,A,8,2010-12-04,Montpellier,F1,5,6,7,17,A,1,Montpellier_Lyon_2010
+154,2,Monaco,17,1,0,0,0,0,0,3,12,H,10,2010-12-04,Rennes,F1,3,2,4,9,D,1,Rennes_Monaco_2010
+155,1,Valenciennes,14,2,0,1,1,0,0,1,11,H,13,2010-12-04,Sochaux,F1,6,8,5,18,H,3,Sochaux_Valenciennes_2010
+156,0,Caen,13,1,0,0,0,0,0,3,21,H,10,2010-12-04,Toulouse,F1,4,4,3,12,D,5,Toulouse_Caen_2010
+157,3,Marseille,14,1,0,0,0,0,0,3,23,H,14,2010-12-05,Nice,F1,6,1,5,7,D,6,Nice_Marseille_2010
+158,2,Brest,17,3,0,1,1,0,0,0,13,H,16,2010-12-05,Paris SG,F1,6,5,6,14,H,6,Paris SG_Brest_2010
+159,0,Bordeaux,16,2,0,2,0,0,1,2,19,D,7,2010-12-05,St Etienne,F1,4,9,6,14,A,2,St Etienne_Bordeaux_2010
+160,2,Lille,14,0,0,1,0,1,0,2,15,A,10,2010-12-11,Arles,F1,4,2,3,9,D,4,Arles_Lille_2010
+161,3,Marseille,12,1,1,1,1,0,1,1,12,D,13,2010-12-11,Auxerre,F1,3,3,0,14,D,10,Auxerre_Marseille_2010
+162,0,Montpellier,11,0,0,0,0,0,0,2,19,D,12,2010-12-11,Brest,F1,3,3,6,8,D,4,Brest_Montpellier_2010
+163,2,Nice,19,0,0,0,0,0,0,3,15,D,13,2010-12-11,Caen,F1,2,1,7,9,D,5,Caen_Nice_2010
+164,0,Lens,17,3,0,0,0,0,0,1,18,H,14,2010-12-11,Lorient,F1,5,8,1,12,D,7,Lorient_Lens_2010
+165,2,Sochaux,20,1,0,0,0,0,0,1,23,H,15,2010-12-11,Nancy,F1,4,6,3,16,D,7,Nancy_Sochaux_2010
+166,1,Paris SG,10,1,0,2,0,0,0,1,17,A,22,2010-12-11,Valenciennes,F1,12,5,3,11,D,8,Valenciennes_Paris SG_2010
+167,0,Rennes,9,0,0,0,0,0,0,2,13,D,3,2010-12-12,Bordeaux,F1,1,3,6,12,D,4,Bordeaux_Rennes_2010
+168,0,Toulouse,12,2,0,0,2,0,0,1,14,H,8,2010-12-12,Lyon,F1,4,6,2,12,H,2,Lyon_Toulouse_2010
+169,2,St Etienne,15,0,0,2,0,0,1,1,14,A,9,2010-12-12,Monaco,F1,3,3,2,13,A,3,Monaco_St Etienne_2010
+170,3,Auxerre,16,1,0,1,0,0,0,1,21,D,9,2010-12-18,Montpellier,F1,3,4,2,12,D,1,Montpellier_Auxerre_2010
+171,1,Brest,13,1,0,1,1,0,1,3,13,D,13,2010-12-18,Nice,F1,3,5,5,13,D,3,Nice_Brest_2010
+172,1,Monaco,18,2,0,2,1,0,1,3,11,D,13,2010-12-18,Paris SG,F1,4,8,11,17,D,5,Paris SG_Monaco_2010
+173,1,Valenciennes,13,1,0,0,0,0,0,2,12,H,7,2010-12-18,Rennes,F1,3,3,6,14,D,1,Rennes_Valenciennes_2010
+174,0,Arles,17,2,1,0,0,0,0,3,16,H,6,2010-12-18,St Etienne,F1,2,6,8,22,D,1,St Etienne_Arles_2010
+175,1,Lorient,17,3,0,0,1,0,0,0,13,H,9,2010-12-18,Toulouse,F1,3,4,3,7,H,5,Toulouse_Lorient_2010
+176,2,Lyon,17,1,0,1,0,0,1,1,16,D,11,2010-12-19,Marseille,F1,3,3,5,13,A,1,Marseille_Lyon_2010
+177,0,Bordeaux,15,1,0,1,1,0,1,2,13,D,14,2010-12-19,Sochaux,F1,7,5,1,15,D,7,Sochaux_Bordeaux_2010
+178,1,Montpellier,18,0,1,0,0,0,0,2,26,D,7,2010-12-21,Lorient,F1,2,4,3,14,D,0,Lorient_Montpellier_2010
+179,1,Nice,12,0,0,0,0,0,0,2,14,D,11,2010-12-22,Arles,F1,1,2,4,10,D,6,Arles_Nice_2010
+180,2,Lens,17,2,0,2,0,1,2,4,19,D,7,2010-12-22,Bordeaux,F1,3,9,13,18,A,3,Bordeaux_Lens_2010
+181,0,Marseille,10,0,1,0,0,0,0,3,21,D,13,2010-12-22,Brest,F1,2,1,5,5,D,5,Brest_Marseille_2010
+182,1,Rennes,18,1,0,0,1,0,0,1,13,H,15,2010-12-22,Caen,F1,4,3,2,8,H,5,Caen_Rennes_2010
+183,1,St Etienne,11,1,0,1,0,0,0,1,16,D,7,2010-12-22,Lille,F1,4,2,5,14,D,0,Lille_St Etienne_2010
+184,2,Auxerre,15,1,0,1,1,0,0,4,19,D,10,2010-12-22,Lyon,F1,4,3,5,19,H,2,Lyon_Auxerre_2010
+185,2,Sochaux,17,2,1,1,1,0,0,0,17,H,11,2010-12-22,Monaco,F1,3,2,1,16,H,6,Monaco_Sochaux_2010
+186,3,Paris SG,14,2,1,0,0,0,0,3,13,H,16,2010-12-22,Nancy,F1,3,8,12,23,D,10,Nancy_Paris SG_2010
+187,1,Toulouse,19,2,0,1,2,0,1,2,20,H,11,2010-12-22,Valenciennes,F1,3,4,2,10,H,5,Valenciennes_Toulouse_2010
+188,1,Monaco,16,1,0,1,1,0,0,1,10,D,16,2011-01-15,Auxerre,F1,3,6,4,10,H,5,Auxerre_Monaco_2010
+189,2,Caen,18,1,1,3,1,0,1,3,17,A,15,2011-01-15,Brest,F1,7,9,4,24,D,2,Brest_Caen_2010
+190,3,St Etienne,15,2,0,1,0,0,0,0,20,H,9,2011-01-15,Lens,F1,3,3,5,10,D,3,Lens_St Etienne_2010
+191,1,Lorient,23,3,0,0,1,0,0,3,13,H,8,2011-01-15,Lyon,F1,2,11,5,20,H,2,Lyon_Lorient_2010
+192,1,Valenciennes,17,2,1,1,0,1,0,0,17,H,10,2011-01-15,Montpellier,F1,6,6,3,15,D,5,Montpellier_Valenciennes_2010
+193,2,Lille,10,0,0,2,0,0,1,2,14,A,24,2011-01-15,Nice,F1,10,2,2,6,A,10,Nice_Lille_2010
+194,2,Sochaux,16,2,0,1,2,0,1,3,21,H,7,2011-01-15,Paris SG,F1,4,3,7,10,H,2,Paris SG_Sochaux_2010
+195,1,Arles,9,4,1,0,2,0,0,2,20,H,7,2011-01-15,Rennes,F1,1,8,8,13,H,4,Rennes_Arles_2010
+196,0,Nancy,21,1,0,0,1,0,0,3,18,H,14,2011-01-15,Toulouse,F1,3,4,3,10,H,5,Toulouse_Nancy_2010
+197,2,Bordeaux,22,2,0,1,2,0,0,1,18,H,5,2011-01-16,Marseille,F1,2,4,6,9,H,2,Marseille_Bordeaux_2010
+198,3,Nancy,15,3,1,0,0,0,0,1,21,H,7,2011-01-19,Lille,F1,1,9,6,22,D,3,Lille_Nancy_2010
+199,0,Caen,18,2,0,0,1,0,0,0,16,H,7,2011-01-22,Lens,F1,3,6,1,12,H,1,Lens_Caen_2010
+200,1,Paris SG,11,1,0,2,0,0,1,3,10,A,12,2011-01-29,Arles,F1,7,3,2,11,A,2,Arles_Paris SG_2010
+201,1,Auxerre,12,2,0,0,0,0,0,3,18,H,12,2011-01-29,Caen,F1,4,6,6,16,D,2,Caen_Auxerre_2010
+202,1,Lens,15,1,0,0,0,0,0,2,19,H,5,2011-01-29,Lille,F1,0,2,7,9,D,1,Lille_Lens_2010
+203,1,Brest,9,2,0,0,0,0,0,1,21,H,5,2011-01-29,Lorient,F1,0,3,5,9,D,3,Lorient_Brest_2010
+204,0,Rennes,15,5,1,1,2,0,0,1,12,H,14,2011-01-29,Sochaux,F1,3,10,4,15,H,3,Sochaux_Rennes_2010
+205,3,Toulouse,22,2,0,1,2,0,0,2,18,H,9,2011-01-29,St Etienne,F1,5,5,1,9,H,6,St Etienne_Toulouse_2010
+206,1,Lyon,16,2,0,1,0,0,0,2,17,H,20,2011-01-29,Valenciennes,F1,5,3,3,17,D,7,Valenciennes_Lyon_2010
+207,2,Nice,15,2,0,0,1,0,0,4,25,H,3,2011-01-30,Bordeaux,F1,1,5,6,16,H,3,Bordeaux_Nice_2010
+208,2,Marseille,12,0,0,0,0,0,0,2,17,D,10,2011-01-30,Monaco,F1,1,4,4,11,D,9,Monaco_Marseille_2010
+209,0,Montpellier,15,1,0,2,1,0,1,2,20,A,14,2011-01-30,Nancy,F1,5,11,7,16,D,5,Nancy_Montpellier_2010
+210,1,Nancy,23,2,0,1,1,0,0,2,14,H,10,2011-02-05,Brest,F1,4,5,6,14,H,5,Brest_Nancy_2010
+211,1,Lorient,16,0,0,2,0,0,1,2,14,A,12,2011-02-05,Caen,F1,8,4,8,12,A,6,Caen_Lorient_2010
+212,2,Valenciennes,17,1,0,1,1,0,1,5,15,D,8,2011-02-05,Lens,F1,2,4,5,13,D,3,Lens_Valenciennes_2010
+213,0,Arles,12,1,0,0,0,0,0,1,25,H,13,2011-02-05,Marseille,F1,2,5,5,13,D,7,Marseille_Arles_2010
+214,3,St Etienne,16,1,0,2,0,0,2,3,22,A,7,2011-02-05,Montpellier,F1,5,4,2,14,A,3,Montpellier_St Etienne_2010
+215,3,Sochaux,17,1,1,0,1,0,0,2,28,H,10,2011-02-05,Nice,F1,1,8,7,15,H,5,Nice_Sochaux_2010
+216,0,Paris SG,11,1,0,0,1,0,0,2,20,H,13,2011-02-05,Rennes,F1,5,5,4,17,H,7,Rennes_Paris SG_2010
+217,3,Lille,20,1,0,1,0,0,1,2,14,D,8,2011-02-06,Auxerre,F1,1,3,7,8,A,3,Auxerre_Lille_2010
+218,1,Bordeaux,18,0,0,0,0,0,0,2,17,D,10,2011-02-06,Lyon,F1,1,5,11,15,D,1,Lyon_Bordeaux_2010
+219,1,Monaco,23,2,0,0,0,0,0,1,13,H,10,2011-02-06,Toulouse,F1,2,5,4,12,D,1,Toulouse_Monaco_2010
+220,2,Montpellier,16,0,0,0,0,0,0,1,20,D,14,2011-02-12,Arles,F1,4,0,4,7,D,6,Arles_Montpellier_2010
+221,0,Caen,17,1,0,2,0,0,1,5,24,A,6,2011-02-12,Bordeaux,F1,4,6,15,19,A,3,Bordeaux_Caen_2010
+222,2,Lorient,16,3,1,1,1,0,1,2,22,H,9,2011-02-12,Monaco,F1,4,6,2,13,D,5,Monaco_Lorient_2010
+223,3,Auxerre,7,3,0,1,2,0,0,2,20,H,8,2011-02-12,Nancy,F1,1,3,9,13,H,3,Nancy_Auxerre_2010
+224,1,Lens,12,0,0,0,0,0,0,2,26,D,10,2011-02-12,Paris SG,F1,0,4,3,17,D,2,Paris SG_Lens_2010
+225,0,Marseille,14,1,0,2,1,0,1,2,23,A,14,2011-02-12,Sochaux,F1,7,2,5,13,D,7,Sochaux_Marseille_2010
+226,2,Lyon,16,1,0,4,1,0,2,3,19,A,9,2011-02-12,St Etienne,F1,6,7,6,17,A,6,St Etienne_Lyon_2010
+227,0,Toulouse,15,2,0,0,1,0,0,2,21,H,3,2011-02-13,Lille,F1,0,9,4,14,H,1,Lille_Toulouse_2010
+228,1,Nice,14,2,0,0,0,0,0,1,19,H,6,2011-02-13,Rennes,F1,4,5,1,12,D,2,Rennes_Nice_2010
+229,1,Brest,14,3,0,0,2,0,0,2,18,H,9,2011-02-13,Valenciennes,F1,4,6,5,10,H,4,Valenciennes_Brest_2010
+230,1,Nancy,18,4,0,0,1,0,0,2,12,H,5,2011-02-18,Lyon,F1,2,8,6,22,H,1,Lyon_Nancy_2010
+231,2,Arles,14,1,0,1,0,0,0,5,17,D,12,2011-02-19,Auxerre,F1,3,6,7,17,D,3,Auxerre_Arles_2010
+232,2,Monaco,15,2,1,0,1,0,0,0,18,H,16,2011-02-19,Brest,F1,5,5,4,12,H,2,Brest_Monaco_2010
+233,3,Valenciennes,21,2,0,2,0,0,0,2,7,D,9,2011-02-19,Caen,F1,4,3,7,16,D,3,Caen_Valenciennes_2010
+234,3,Sochaux,12,2,1,3,1,1,2,2,16,A,11,2011-02-19,Lens,F1,5,8,9,16,A,3,Lens_Sochaux_2010
+235,4,Bordeaux,10,5,1,1,3,1,1,3,19,H,11,2011-02-19,Lorient,F1,3,8,7,13,H,7,Lorient_Bordeaux_2010
+236,2,St Etienne,19,2,0,1,0,0,0,4,21,H,7,2011-02-19,Marseille,F1,2,8,10,22,D,3,Marseille_St Etienne_2010
+237,2,Lille,18,1,0,0,0,0,0,1,24,H,6,2011-02-20,Montpellier,F1,1,3,3,10,D,1,Montpellier_Lille_2010
+238,1,Paris SG,11,0,0,3,0,1,2,1,15,A,19,2011-02-20,Nice,F1,11,2,2,13,A,8,Nice_Paris SG_2010
+239,1,Rennes,18,1,0,2,0,0,1,1,13,A,10,2011-02-20,Toulouse,F1,6,3,8,13,A,3,Toulouse_Rennes_2010
+240,2,Brest,16,1,0,1,1,0,0,2,20,D,12,2011-02-26,Arles,F1,6,5,6,17,H,9,Arles_Brest_2010
+241,4,Auxerre,15,3,0,0,1,0,0,4,16,H,4,2011-02-26,Bordeaux,F1,0,6,5,11,H,4,Bordeaux_Auxerre_2010
+242,1,Caen,12,2,1,2,1,0,0,3,24,D,10,2011-02-26,Monaco,F1,4,3,8,17,H,4,Monaco_Caen_2010
+243,1,Lens,16,2,0,0,1,0,0,2,12,H,7,2011-02-26,Rennes,F1,2,6,3,13,H,4,Rennes_Lens_2010
+244,1,Montpellier,13,0,1,0,0,1,0,3,19,D,19,2011-02-26,Sochaux,F1,6,4,2,9,D,9,Sochaux_Montpellier_2010
+245,1,Nice,18,0,0,2,0,0,0,1,6,A,11,2011-02-26,St Etienne,F1,6,0,7,5,D,3,St Etienne_Nice_2010
+246,3,Lorient,14,0,1,0,0,0,0,0,10,D,8,2011-02-26,Valenciennes,F1,3,5,5,15,D,4,Valenciennes_Lorient_2010
+247,1,Lyon,11,1,0,1,1,0,1,3,22,D,8,2011-02-27,Lille,F1,5,3,9,12,D,3,Lille_Lyon_2010
+248,3,Marseille,17,1,0,2,1,0,1,3,22,A,16,2011-02-27,Nancy,F1,8,5,3,9,D,5,Nancy_Marseille_2010
+249,1,Toulouse,13,2,0,1,2,0,0,1,17,H,13,2011-02-27,Paris SG,F1,3,4,5,14,H,2,Paris SG_Toulouse_2010
+250,2,Paris SG,11,1,0,0,0,0,0,0,6,H,16,2011-03-05,Auxerre,F1,3,5,4,12,D,8,Auxerre_Paris SG_2010
+251,1,St Etienne,18,1,0,0,0,0,0,0,13,H,9,2011-03-05,Caen,F1,2,3,5,10,D,3,Caen_St Etienne_2010
+252,1,Nancy,12,0,0,0,0,0,0,1,16,D,16,2011-03-05,Lorient,F1,5,3,10,9,D,7,Lorient_Nancy_2010
+253,1,Rennes,15,0,0,1,0,0,1,2,28,A,10,2011-03-05,Montpellier,F1,4,3,4,14,A,1,Montpellier_Rennes_2010
+254,1,Lens,18,0,0,0,0,0,0,2,16,D,10,2011-03-05,Nice,F1,5,3,2,13,D,4,Nice_Lens_2010
+255,0,Sochaux,20,0,0,1,0,1,0,0,16,A,9,2011-03-05,Toulouse,F1,2,6,5,14,D,3,Toulouse_Sochaux_2010
+256,0,Monaco,20,0,0,0,0,0,0,1,14,D,12,2011-03-05,Valenciennes,F1,1,7,9,17,D,5,Valenciennes_Monaco_2010
+257,0,Bordeaux,20,1,0,3,0,0,0,1,20,A,8,2011-03-06,Brest,F1,4,5,9,13,D,3,Brest_Bordeaux_2010
+258,0,Arles,9,5,0,0,2,0,0,0,11,H,6,2011-03-06,Lyon,F1,0,8,11,15,H,4,Lyon_Arles_2010
+259,2,Lille,16,1,0,2,0,0,1,1,16,A,13,2011-03-06,Marseille,F1,3,3,4,15,A,5,Marseille_Lille_2010
+260,2,Marseille,18,0,0,2,0,0,1,2,12,A,11,2011-03-11,Rennes,F1,5,4,4,14,A,4,Rennes_Marseille_2010
+261,1,Lorient,19,3,0,3,1,0,2,1,5,D,9,2011-03-12,Arles,F1,5,7,6,16,A,3,Arles_Lorient_2010
+262,0,Toulouse,19,0,0,1,0,0,0,1,29,A,13,2011-03-12,Lens,F1,5,4,4,9,D,1,Lens_Toulouse_2010
+263,1,Caen,18,2,1,0,1,0,0,0,26,H,4,2011-03-12,Nancy,F1,1,4,4,11,H,5,Nancy_Caen_2010
+264,0,Auxerre,10,1,0,0,0,0,0,1,10,H,10,2011-03-12,Nice,F1,1,3,2,14,D,5,Nice_Auxerre_2010
+265,1,Lyon,15,0,0,2,0,0,1,2,15,A,21,2011-03-12,Sochaux,F1,9,2,5,7,A,2,Sochaux_Lyon_2010
+266,1,Brest,14,2,0,0,1,0,0,3,13,H,10,2011-03-12,St Etienne,F1,2,7,5,14,H,2,St Etienne_Brest_2010
+267,0,Monaco,10,0,0,1,0,0,1,3,18,A,2,2011-03-13,Bordeaux,F1,1,4,3,14,A,2,Bordeaux_Monaco_2010
+268,2,Valenciennes,10,2,0,1,1,0,0,2,16,H,9,2011-03-13,Lille,F1,4,4,4,13,H,0,Lille_Valenciennes_2010
+269,4,Montpellier,26,2,1,2,2,0,0,3,17,D,11,2011-03-13,Paris SG,F1,5,3,7,11,H,2,Paris SG_Montpellier_2010
+270,1,Sochaux,16,2,0,0,1,0,0,1,10,H,19,2011-03-19,Auxerre,F1,3,5,4,13,H,7,Auxerre_Sochaux_2010
+271,1,Lille,14,1,0,2,1,0,1,3,16,A,7,2011-03-19,Brest,F1,4,9,10,20,D,4,Brest_Lille_2010
+272,0,St Etienne,6,0,0,0,0,0,0,0,10,D,7,2011-03-19,Lorient,F1,4,6,10,18,D,6,Lorient_St Etienne_2010
+273,2,Rennes,12,1,1,1,1,0,0,3,13,D,3,2011-03-19,Lyon,F1,1,4,6,17,H,3,Lyon_Rennes_2010
+274,1,Lens,23,1,0,4,0,0,3,0,14,A,15,2011-03-19,Montpellier,F1,6,8,13,16,A,2,Montpellier_Lens_2010
+275,2,Nice,18,1,0,1,1,0,0,1,7,D,10,2011-03-19,Toulouse,F1,3,3,5,10,H,6,Toulouse_Nice_2010
+276,2,Bordeaux,17,2,0,2,1,0,0,1,13,D,15,2011-03-19,Valenciennes,F1,5,3,2,11,H,3,Valenciennes_Bordeaux_2010
+277,2,Arles,14,2,0,0,0,0,0,3,27,H,10,2011-03-20,Caen,F1,3,5,9,19,D,4,Caen_Arles_2010
+278,1,Paris SG,15,2,0,1,2,0,1,3,17,H,8,2011-03-20,Marseille,F1,1,3,1,12,H,2,Marseille_Paris SG_2010
+279,3,Nancy,18,0,0,1,0,0,1,3,24,A,10,2011-03-20,Monaco,F1,3,5,12,19,A,2,Monaco_Nancy_2010
+280,1,Monaco,16,0,0,2,0,1,1,2,15,A,16,2011-04-02,Arles,F1,8,2,2,10,A,3,Arles_Monaco_2010
+281,1,Caen,12,3,0,1,1,0,0,2,17,H,13,2011-04-02,Lille,F1,5,12,8,28,H,3,Lille_Caen_2010
+282,2,Bordeaux,24,0,0,0,0,0,0,4,16,D,14,2011-04-02,Nancy,F1,7,3,0,10,D,2,Nancy_Bordeaux_2010
+283,1,Lorient,12,0,0,0,0,0,0,1,9,D,9,2011-04-02,Paris SG,F1,1,2,9,9,D,8,Paris SG_Lorient_2010
+284,3,Auxerre,13,0,0,0,0,0,0,3,11,D,4,2011-04-02,Rennes,F1,2,0,2,8,D,3,Rennes_Auxerre_2010
+285,2,Brest,14,2,0,1,1,0,0,1,21,H,12,2011-04-02,Sochaux,F1,4,7,9,15,H,4,Sochaux_Brest_2010
+286,2,Montpellier,21,0,0,1,0,0,0,2,19,A,8,2011-04-02,Toulouse,F1,2,2,4,8,D,1,Toulouse_Montpellier_2010
+287,3,Marseille,19,0,0,1,0,0,0,1,22,A,9,2011-04-03,Lens,F1,3,3,7,14,D,4,Lens_Marseille_2010
+288,3,Lyon,16,2,1,2,0,0,2,1,16,D,11,2011-04-03,Nice,F1,4,6,4,14,A,0,Nice_Lyon_2010
+289,0,Valenciennes,6,1,0,1,0,0,0,0,12,D,14,2011-04-03,St Etienne,F1,6,6,8,22,D,8,St Etienne_Valenciennes_2010
+290,2,St Etienne,9,2,0,2,1,0,1,3,7,D,12,2011-04-09,Auxerre,F1,8,5,5,16,D,5,Auxerre_St Etienne_2010
+291,3,Arles,13,0,0,0,0,0,0,3,21,D,6,2011-04-09,Bordeaux,F1,2,3,10,19,D,2,Bordeaux_Arles_2010
+292,0,Rennes,24,2,0,0,1,0,0,2,21,H,4,2011-04-09,Brest,F1,1,3,7,10,H,2,Brest_Rennes_2010
+293,1,Paris SG,14,1,0,2,0,0,1,1,13,A,10,2011-04-09,Caen,F1,6,4,10,14,A,2,Caen_Paris SG_2010
+294,1,Sochaux,6,1,0,1,1,0,1,0,17,D,9,2011-04-09,Lorient,F1,5,3,8,13,D,5,Lorient_Sochaux_2010
+295,6,Lille,25,1,1,0,1,0,0,1,14,H,12,2011-04-09,Monaco,F1,3,3,4,7,H,3,Monaco_Lille_2010
+296,1,Nancy,17,1,1,1,1,1,0,2,16,D,18,2011-04-09,Valenciennes,F1,6,4,5,10,H,4,Valenciennes_Nancy_2010
+297,0,Lens,14,3,0,0,0,0,0,1,18,H,4,2011-04-10,Lyon,F1,2,8,11,24,D,6,Lyon_Lens_2010
+298,0,Toulouse,13,2,0,2,1,0,1,1,19,D,10,2011-04-10,Marseille,F1,4,7,6,15,D,3,Marseille_Toulouse_2010
+299,2,Nice,17,1,0,1,1,0,0,3,14,D,8,2011-04-10,Montpellier,F1,3,3,2,11,H,3,Montpellier_Nice_2010
+300,0,Brest,18,1,0,1,1,0,0,1,18,D,11,2011-04-16,Lens,F1,5,1,6,16,H,2,Lens_Brest_2010
+301,1,Bordeaux,16,1,0,1,0,0,0,3,21,D,9,2011-04-16,Lille,F1,4,4,5,11,D,3,Lille_Bordeaux_2010
+302,2,Monaco,11,3,0,2,1,0,1,3,21,H,6,2011-04-16,Nice,F1,4,8,7,21,D,3,Nice_Monaco_2010
+303,1,Lorient,19,1,0,2,1,2,0,3,13,A,17,2011-04-16,Rennes,F1,7,3,4,9,H,9,Rennes_Lorient_2010
+304,0,Caen,13,3,0,2,1,0,1,2,19,H,12,2011-04-16,Sochaux,F1,4,9,5,11,D,7,Sochaux_Caen_2010
+305,1,Nancy,13,2,0,1,0,0,1,1,13,H,22,2011-04-16,St Etienne,F1,6,6,7,11,A,10,St Etienne_Nancy_2010
+306,0,Auxerre,15,0,0,1,0,0,0,1,12,A,2,2011-04-16,Toulouse,F1,2,3,5,8,D,2,Toulouse_Auxerre_2010
+307,2,Valenciennes,23,0,0,1,0,0,0,1,17,A,14,2011-04-17,Arles,F1,5,1,5,7,D,8,Arles_Valenciennes_2010
+308,1,Marseille,20,1,1,2,0,1,0,2,22,A,10,2011-04-17,Montpellier,F1,5,3,4,8,D,3,Montpellier_Marseille_2010
+309,2,Lyon,12,1,0,0,0,0,0,1,20,H,8,2011-04-17,Paris SG,F1,2,5,4,13,D,6,Paris SG_Lyon_2010
+310,0,Lens,11,1,0,1,1,0,0,0,16,D,21,2011-04-24,Auxerre,F1,6,3,5,8,H,4,Auxerre_Lens_2010
+311,1,St Etienne,19,2,0,0,1,0,0,2,19,H,8,2011-04-24,Bordeaux,F1,0,8,4,17,H,3,Bordeaux_St Etienne_2010
+312,1,Paris SG,23,2,0,2,2,0,1,1,13,D,16,2011-04-24,Brest,F1,8,4,2,10,H,6,Brest_Paris SG_2010
+313,4,Toulouse,28,1,0,1,1,0,1,2,22,D,7,2011-04-24,Caen,F1,3,4,4,16,D,3,Caen_Toulouse_2010
+314,1,Lille,15,1,0,1,0,0,1,3,15,D,14,2011-04-24,Lorient,F1,2,8,6,16,A,5,Lorient_Lille_2010
+315,1,Rennes,12,1,0,0,0,0,0,2,16,H,12,2011-04-24,Monaco,F1,3,2,5,12,D,2,Monaco_Rennes_2010
+316,2,Arles,16,0,1,0,0,0,0,0,16,D,5,2011-04-24,Nancy,F1,0,6,5,16,D,5,Nancy_Arles_2010
+317,0,Sochaux,12,1,0,1,1,0,1,1,11,D,9,2011-04-24,Valenciennes,F1,3,4,9,12,D,2,Valenciennes_Sochaux_2010
+318,1,Montpellier,21,3,0,2,1,0,1,3,23,H,14,2011-04-27,Lyon,F1,4,8,7,14,D,3,Lyon_Montpellier_2010
+319,1,Nice,16,4,0,2,1,0,1,1,10,H,17,2011-04-27,Marseille,F1,5,7,8,17,D,1,Marseille_Nice_2010
+320,1,Lorient,20,2,0,3,2,0,1,1,10,A,8,2011-04-30,Lens,F1,4,3,0,11,H,3,Lens_Lorient_2010
+321,2,Arles,10,5,1,0,2,0,0,2,21,H,11,2011-04-30,Lille,F1,3,7,12,21,H,5,Lille_Arles_2010
+322,2,Valenciennes,19,3,0,1,2,0,1,1,17,H,12,2011-04-30,Paris SG,F1,2,4,10,13,H,2,Paris SG_Valenciennes_2010
+323,2,Bordeaux,16,0,0,0,0,0,0,2,11,D,7,2011-04-30,Rennes,F1,2,1,6,4,D,5,Rennes_Bordeaux_2010
+324,1,Nancy,17,1,0,0,1,0,0,4,18,H,21,2011-04-30,Sochaux,F1,6,2,6,11,H,9,Sochaux_Nancy_2010
+325,0,Auxerre,12,1,0,1,0,0,0,2,15,D,5,2011-05-01,Marseille,F1,2,9,8,20,D,2,Marseille_Auxerre_2010
+326,3,Brest,25,0,0,0,0,0,0,2,18,D,11,2011-05-01,Montpellier,F1,4,3,2,10,D,1,Montpellier_Brest_2010
+327,2,Caen,12,0,0,4,0,1,2,2,17,A,11,2011-05-01,Nice,F1,7,4,4,13,A,5,Nice_Caen_2010
+328,3,Monaco,20,1,1,1,1,0,1,1,17,D,10,2011-05-01,St Etienne,F1,3,4,12,22,D,2,St Etienne_Monaco_2010
+329,4,Lyon,26,2,2,0,1,0,0,3,17,H,5,2011-05-01,Toulouse,F1,2,5,6,12,H,7,Toulouse_Lyon_2010
+330,2,St Etienne,12,0,0,1,0,1,1,3,13,A,22,2011-05-07,Arles,F1,7,0,4,4,A,8,Arles_St Etienne_2010
+331,2,Montpellier,20,1,0,0,0,0,0,3,14,H,10,2011-05-07,Auxerre,F1,1,1,6,11,D,2,Auxerre_Montpellier_2010
+332,2,Sochaux,13,0,0,4,0,0,4,0,11,A,14,2011-05-07,Bordeaux,F1,6,4,8,18,A,5,Bordeaux_Sochaux_2010
+333,0,Nice,22,0,0,0,0,0,0,1,15,D,6,2011-05-07,Brest,F1,2,0,7,11,D,3,Brest_Nice_2010
+334,3,Lens,19,1,0,1,1,0,1,2,22,D,20,2011-05-07,Caen,F1,3,8,6,16,D,6,Caen_Lens_2010
+335,1,Toulouse,9,0,0,0,0,0,0,2,21,D,6,2011-05-07,Lorient,F1,1,1,3,6,D,2,Lorient_Toulouse_2010
+336,1,Paris SG,18,1,0,1,1,0,0,2,24,D,19,2011-05-07,Monaco,F1,6,4,2,8,H,9,Monaco_Paris SG_2010
+337,1,Lille,18,0,0,1,0,0,1,1,17,A,14,2011-05-07,Nancy,F1,3,0,8,13,A,6,Nancy_Lille_2010
+338,3,Marseille,14,3,0,2,1,0,0,4,16,H,12,2011-05-08,Lyon,F1,7,5,5,12,H,7,Lyon_Marseille_2010
+339,2,Rennes,10,2,0,0,1,0,0,1,9,H,11,2011-05-08,Valenciennes,F1,3,4,5,11,H,3,Valenciennes_Rennes_2010
+340,1,Nancy,10,2,1,2,2,1,1,0,24,D,19,2011-05-10,Paris SG,F1,6,4,9,12,H,14,Paris SG_Nancy_2010
+341,2,Lille,17,1,0,2,1,0,1,0,9,A,17,2011-05-10,St Etienne,F1,8,5,4,14,D,4,St Etienne_Lille_2010
+342,2,Lyon,17,4,1,0,2,0,0,0,12,H,6,2011-05-11,Auxerre,F1,2,7,4,19,H,1,Auxerre_Lyon_2010
+343,1,Bordeaux,24,1,0,0,0,0,0,2,17,H,15,2011-05-11,Lens,F1,3,2,0,8,D,10,Lens_Bordeaux_2010
+344,0,Brest,9,3,0,0,1,0,0,1,16,H,5,2011-05-11,Marseille,F1,3,5,8,14,H,5,Marseille_Brest_2010
+345,2,Lorient,19,3,0,1,1,0,1,2,15,H,9,2011-05-11,Montpellier,F1,3,8,4,13,D,3,Montpellier_Lorient_2010
+346,1,Arles,12,3,0,2,1,0,1,1,19,H,8,2011-05-11,Nice,F1,2,8,6,17,D,2,Nice_Arles_2010
+347,1,Caen,19,1,0,1,1,0,0,2,15,D,9,2011-05-11,Rennes,F1,3,3,5,19,H,5,Rennes_Caen_2010
+348,1,Monaco,16,3,0,0,2,0,0,2,15,H,18,2011-05-11,Sochaux,F1,5,5,6,12,H,6,Sochaux_Monaco_2010
+349,1,Valenciennes,22,0,0,0,0,0,0,2,20,D,6,2011-05-11,Toulouse,F1,2,1,4,6,D,2,Toulouse_Valenciennes_2010
+350,3,Toulouse,14,1,0,0,1,0,0,2,18,H,9,2011-05-15,Arles,F1,2,3,3,7,H,4,Arles_Toulouse_2010
+351,0,Montpellier,23,2,0,0,1,0,0,0,20,H,15,2011-05-15,Caen,F1,6,8,3,16,H,5,Caen_Montpellier_2010
+352,0,Marseille,9,2,0,2,0,0,1,0,16,D,21,2011-05-15,Lorient,F1,6,3,5,8,A,3,Lorient_Marseille_2010
+353,1,Lens,17,1,0,1,1,0,0,0,20,D,17,2011-05-15,Monaco,F1,4,2,1,13,H,4,Monaco_Lens_2010
+354,1,Nice,11,3,1,0,1,0,0,1,18,H,4,2011-05-15,Nancy,F1,0,6,4,15,H,1,Nancy_Nice_2010
+355,3,Rennes,16,1,0,2,1,0,2,2,23,A,7,2011-05-15,St Etienne,F1,3,4,10,16,A,2,St Etienne_Rennes_2010
+356,0,Auxerre,9,1,0,1,0,0,0,3,13,D,13,2011-05-15,Valenciennes,F1,5,4,6,17,D,6,Valenciennes_Auxerre_2010
+357,3,Lyon,19,1,0,1,0,0,1,1,18,D,15,2011-05-16,Brest,F1,3,4,3,6,A,9,Brest_Lyon_2010
+358,1,Paris SG,23,1,0,0,1,0,0,0,16,H,21,2011-05-18,Bordeaux,F1,8,7,4,20,H,13,Bordeaux_Paris SG_2010
+359,0,Sochaux,8,1,0,0,0,0,0,2,8,H,7,2011-05-18,Lille,F1,1,10,6,19,D,6,Lille_Sochaux_2010
+360,2,Brest,12,0,0,1,0,0,0,2,13,A,11,2011-05-21,Auxerre,F1,5,7,10,22,D,4,Auxerre_Brest_2010
+361,0,Arles,15,0,0,1,0,0,1,0,19,A,12,2011-05-21,Lens,F1,5,7,11,24,A,8,Lens_Arles_2010
+362,1,Caen,16,0,0,0,0,0,0,3,19,D,6,2011-05-21,Lyon,F1,1,6,10,22,D,4,Lyon_Caen_2010
+363,0,Valenciennes,12,2,0,2,2,0,1,0,14,D,9,2011-05-21,Marseille,F1,3,5,3,13,H,4,Marseille_Valenciennes_2010
+364,3,Monaco,21,0,0,1,0,0,0,1,14,A,7,2011-05-21,Montpellier,F1,3,4,10,14,D,4,Montpellier_Monaco_2010
+365,1,Lorient,8,2,1,0,2,0,0,1,13,H,15,2011-05-21,Nice,F1,5,6,2,11,H,6,Nice_Lorient_2010
+366,2,Lille,19,2,0,2,1,1,1,1,9,D,8,2011-05-21,Paris SG,F1,2,5,4,14,D,3,Paris SG_Lille_2010
+367,1,Nancy,18,0,0,2,0,0,1,1,12,A,14,2011-05-21,Rennes,F1,5,2,4,4,A,2,Rennes_Nancy_2010
+368,0,St Etienne,12,2,0,1,1,0,1,1,12,H,13,2011-05-21,Sochaux,F1,4,4,5,7,D,4,Sochaux_St Etienne_2010
+369,1,Bordeaux,24,2,0,0,1,0,0,3,16,H,13,2011-05-21,Toulouse,F1,2,6,8,11,H,4,Toulouse_Bordeaux_2010
+370,2,Sochaux,10,1,0,3,1,0,1,2,12,A,10,2011-05-29,Arles,F1,5,3,6,14,D,5,Arles_Sochaux_2010
+371,3,Montpellier,26,2,2,0,2,0,0,1,22,H,12,2011-05-29,Bordeaux,F1,4,5,3,8,H,5,Bordeaux_Montpellier_2010
+372,1,Toulouse,17,0,0,2,0,0,1,2,17,A,11,2011-05-29,Brest,F1,4,1,10,14,A,4,Brest_Toulouse_2010
+373,1,Marseille,11,2,0,2,2,0,0,1,14,D,18,2011-05-29,Caen,F1,9,3,1,6,H,7,Caen_Marseille_2010
+374,0,Rennes,8,3,0,2,1,0,1,1,13,H,16,2011-05-29,Lille,F1,6,4,3,13,D,3,Lille_Rennes_2010
+375,0,Auxerre,5,1,0,2,1,0,1,1,8,A,8,2011-05-29,Lorient,F1,3,2,4,12,D,4,Lorient_Auxerre_2010
+376,0,Lyon,13,0,0,2,0,0,0,1,18,A,12,2011-05-29,Monaco,F1,3,3,5,8,D,4,Monaco_Lyon_2010
+377,0,Lens,12,4,0,0,2,0,0,1,11,H,6,2011-05-29,Nancy,F1,1,7,6,20,H,2,Nancy_Lens_2010
+378,0,Paris SG,10,1,0,1,0,0,0,0,6,D,15,2011-05-29,St Etienne,F1,4,6,4,19,D,6,St Etienne_Paris SG_2010
+379,0,Nice,12,2,0,1,0,0,0,2,16,H,12,2011-05-29,Valenciennes,F1,4,4,7,11,D,2,Valenciennes_Nice_2010

@@ -1,0 +1,307 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Leverkusen,13,3,0,1,2,0,0,2,17,H,19,2017-08-18,Bayern Munich,D1,4,8,4,13,H,5,Bayern Munich_Leverkusen_2017
+1,4,Augsburg,18,1,0,0,1,0,0,3,16,H,13,2017-08-19,Hamburg,D1,1,5,3,11,H,7,Hamburg_Augsburg_2017
+2,2,Stuttgart,18,2,0,0,0,0,0,1,12,H,9,2017-08-19,Hertha,D1,2,3,5,10,D,1,Hertha_Stuttgart_2017
+3,1,Werder Bremen,17,1,0,0,0,0,0,3,15,H,11,2017-08-19,Hoffenheim,D1,2,3,6,14,D,4,Hoffenheim_Werder Bremen_2017
+4,3,Hannover,18,0,0,1,0,0,0,5,14,A,6,2017-08-19,Mainz,D1,2,6,13,14,D,1,Mainz_Hannover_2017
+5,2,RB Leipzig,22,2,0,0,1,0,0,2,18,H,12,2017-08-19,Schalke 04,D1,3,5,4,11,H,5,Schalke 04_RB Leipzig_2017
+6,0,Dortmund,7,0,0,3,0,0,2,0,15,A,13,2017-08-19,Wolfsburg,D1,5,0,3,9,A,5,Wolfsburg_Dortmund_2017
+7,1,Ein Frankfurt,8,0,0,0,0,0,0,2,17,D,15,2017-08-20,Freiburg,D1,2,1,3,7,D,7,Freiburg_Ein Frankfurt_2017
+8,3,FC Koln,12,1,0,0,0,0,0,2,11,H,13,2017-08-20,M'gladbach,D1,2,8,5,22,D,3,M'gladbach_FC Koln_2017
+9,2,Hamburg,9,1,1,3,0,0,2,2,9,A,12,2017-08-25,FC Koln,D1,4,6,6,20,A,7,FC Koln_Hamburg_2017
+10,2,M'gladbach,13,2,0,2,1,0,2,2,12,D,15,2017-08-26,Augsburg,D1,3,9,10,24,A,0,Augsburg_M'gladbach_2017
+11,1,Hertha,12,2,0,0,1,0,0,1,9,H,7,2017-08-26,Dortmund,D1,4,8,4,18,H,4,Dortmund_Hertha_2017
+12,3,Wolfsburg,18,0,0,1,0,0,1,1,19,A,7,2017-08-26,Ein Frankfurt,D1,3,6,7,12,A,2,Ein Frankfurt_Wolfsburg_2017
+13,2,Hoffenheim,16,2,0,2,1,0,0,2,11,D,6,2017-08-26,Leverkusen,D1,4,3,6,16,H,1,Leverkusen_Hoffenheim_2017
+14,2,Mainz,12,1,0,0,0,0,0,1,18,H,13,2017-08-26,Stuttgart,D1,6,4,5,17,D,6,Stuttgart_Mainz_2017
+15,1,Bayern Munich,9,0,0,2,0,0,0,1,10,A,19,2017-08-26,Werder Bremen,D1,8,1,2,4,D,8,Werder Bremen_Bayern Munich_2017
+16,1,Schalke 04,17,1,0,0,0,0,0,2,17,H,8,2017-08-27,Hannover,D1,1,3,2,11,D,6,Hannover_Schalke 04_2017
+17,2,Freiburg,11,4,1,1,0,0,1,0,13,H,7,2017-08-27,RB Leipzig,D1,2,11,8,29,A,2,RB Leipzig_Freiburg_2017
+18,1,RB Leipzig,14,0,0,2,0,0,0,1,11,A,19,2017-09-08,Hamburg,D1,4,2,4,9,D,14,Hamburg_RB Leipzig_2017
+19,0,FC Koln,15,3,0,0,2,0,0,0,13,H,13,2017-09-09,Augsburg,D1,3,4,6,10,H,9,Augsburg_FC Koln_2017
+20,0,Dortmund,10,0,0,0,0,1,0,0,11,D,27,2017-09-09,Freiburg,D1,3,2,0,5,D,7,Freiburg_Dortmund_2017
+21,3,Bayern Munich,15,2,0,0,1,0,0,1,9,H,23,2017-09-09,Hoffenheim,D1,6,3,2,6,H,4,Hoffenheim_Bayern Munich_2017
+22,2,Leverkusen,16,3,0,1,1,0,1,2,15,H,13,2017-09-09,Mainz,D1,2,5,1,14,D,3,Mainz_Leverkusen_2017
+23,3,Ein Frankfurt,17,0,0,1,0,0,1,2,17,A,12,2017-09-09,M'gladbach,D1,6,3,13,15,A,5,M'gladbach_Ein Frankfurt_2017
+24,0,Hannover,13,1,0,1,0,0,0,1,20,D,7,2017-09-09,Wolfsburg,D1,2,6,3,17,D,1,Wolfsburg_Hannover_2017
+25,1,Werder Bremen,9,1,0,1,1,0,0,0,12,D,10,2017-09-10,Hertha,D1,5,4,5,8,H,7,Hertha_Werder Bremen_2017
+26,1,Stuttgart,15,3,0,1,1,0,1,1,19,H,11,2017-09-10,Schalke 04,D1,2,4,2,12,D,1,Schalke 04_Stuttgart_2017
+27,1,Hamburg,17,2,0,0,0,0,0,0,16,H,12,2017-09-15,Hannover,D1,3,4,4,17,D,7,Hannover_Hamburg_2017
+28,2,Mainz,9,4,0,0,2,0,0,2,5,H,11,2017-09-16,Bayern Munich,D1,4,14,10,28,H,5,Bayern Munich_Mainz_2017
+29,2,Augsburg,13,1,0,2,0,0,1,3,13,A,11,2017-09-16,Ein Frankfurt,D1,3,8,4,23,A,4,Ein Frankfurt_Augsburg_2017
+30,1,M'gladbach,13,2,0,2,2,1,1,1,12,D,10,2017-09-16,RB Leipzig,D1,3,3,3,10,H,2,RB Leipzig_M'gladbach_2017
+31,2,Wolfsburg,14,1,0,0,1,0,0,3,19,H,8,2017-09-16,Stuttgart,D1,1,4,2,8,H,3,Stuttgart_Wolfsburg_2017
+32,2,Schalke 04,15,1,0,2,1,0,1,2,17,A,11,2017-09-16,Werder Bremen,D1,4,2,6,16,D,5,Werder Bremen_Schalke 04_2017
+33,0,FC Koln,11,5,0,0,2,0,0,3,12,H,6,2017-09-17,Dortmund,D1,2,8,8,22,H,5,Dortmund_FC Koln_2017
+34,2,Hertha,15,1,0,1,1,0,0,2,20,D,9,2017-09-17,Hoffenheim,D1,4,2,5,8,H,2,Hoffenheim_Hertha_2017
+35,0,Freiburg,4,4,0,0,3,0,0,2,13,H,4,2017-09-17,Leverkusen,D1,1,9,5,22,H,4,Leverkusen_Freiburg_2017
+36,2,RB Leipzig,15,1,0,0,1,0,0,2,17,H,14,2017-09-19,Augsburg,D1,3,4,3,11,H,2,Augsburg_RB Leipzig_2017
+37,0,Stuttgart,9,2,0,0,0,0,0,1,8,H,11,2017-09-19,M'gladbach,D1,4,3,4,9,D,1,M'gladbach_Stuttgart_2017
+38,1,Bayern Munich,13,0,0,3,0,0,2,1,11,A,12,2017-09-19,Schalke 04,D1,8,4,2,11,A,6,Schalke 04_Bayern Munich_2017
+39,1,Werder Bremen,10,1,0,1,1,0,0,2,18,D,11,2017-09-19,Wolfsburg,D1,4,4,3,13,H,4,Wolfsburg_Werder Bremen_2017
+40,2,Ein Frankfurt,20,0,0,1,0,0,1,1,20,A,8,2017-09-20,FC Koln,D1,4,8,4,17,A,5,FC Koln_Ein Frankfurt_2017
+41,2,Hannover,17,1,0,1,0,0,0,4,19,D,14,2017-09-20,Freiburg,D1,3,5,5,23,D,3,Freiburg_Hannover_2017
+42,3,Dortmund,15,0,0,3,0,0,1,0,14,A,17,2017-09-20,Hamburg,D1,7,2,4,6,A,3,Hamburg_Dortmund_2017
+43,1,Leverkusen,12,2,0,1,2,0,0,2,25,H,12,2017-09-20,Hertha,D1,5,3,3,5,H,6,Hertha_Leverkusen_2017
+44,3,Hoffenheim,9,2,0,3,2,0,2,3,13,A,18,2017-09-20,Mainz,D1,6,6,5,20,D,11,Mainz_Hoffenheim_2017
+45,1,Wolfsburg,9,2,0,2,2,0,0,2,11,D,8,2017-09-22,Bayern Munich,D1,3,3,7,19,H,3,Bayern Munich_Wolfsburg_2017
+46,0,M'gladbach,2,6,0,1,3,0,0,1,6,H,8,2017-09-23,Dortmund,D1,5,9,7,18,H,0,Dortmund_M'gladbach_2017
+47,3,Schalke 04,16,2,0,0,1,0,0,2,15,H,17,2017-09-23,Hoffenheim,D1,3,6,0,12,H,5,Hoffenheim_Schalke 04_2017
+48,3,Hertha,22,1,1,0,0,0,0,3,22,H,4,2017-09-23,Mainz,D1,1,3,4,8,D,1,Mainz_Hertha_2017
+49,1,Ein Frankfurt,9,2,0,1,1,0,0,2,16,H,9,2017-09-23,RB Leipzig,D1,3,5,2,17,H,4,RB Leipzig_Ein Frankfurt_2017
+50,1,Augsburg,7,0,0,0,0,0,0,2,14,D,9,2017-09-23,Stuttgart,D1,2,2,5,15,D,3,Stuttgart_Augsburg_2017
+51,2,Freiburg,15,0,0,0,0,0,0,1,9,D,13,2017-09-23,Werder Bremen,D1,6,6,4,17,D,5,Werder Bremen_Freiburg_2017
+52,4,FC Koln,17,0,0,0,0,0,0,2,17,D,6,2017-09-24,Hannover,D1,1,1,6,14,D,7,Hannover_FC Koln_2017
+53,2,Hamburg,17,3,0,0,2,0,0,2,18,H,12,2017-09-24,Leverkusen,D1,2,6,6,17,H,3,Leverkusen_Hamburg_2017
+54,2,Leverkusen,19,1,0,1,1,0,0,3,16,D,10,2017-09-29,Schalke 04,D1,6,5,7,14,H,4,Schalke 04_Leverkusen_2017
+55,4,Dortmund,23,1,0,2,1,0,2,1,12,A,14,2017-09-30,Augsburg,D1,8,5,5,10,A,5,Augsburg_Dortmund_2017
+56,1,Stuttgart,10,2,0,1,1,1,0,1,17,H,13,2017-09-30,Ein Frankfurt,D1,5,6,3,10,H,6,Ein Frankfurt_Stuttgart_2017
+57,1,Werder Bremen,13,0,0,0,0,0,0,3,27,D,8,2017-09-30,Hamburg,D1,3,6,6,17,D,7,Hamburg_Werder Bremen_2017
+58,1,Hannover,12,2,0,1,0,0,0,1,13,H,15,2017-09-30,M'gladbach,D1,2,8,8,23,D,7,M'gladbach_Hannover_2017
+59,4,Mainz,7,1,0,1,0,1,0,4,13,D,10,2017-09-30,Wolfsburg,D1,3,2,5,6,D,6,Wolfsburg_Mainz_2017
+60,0,RB Leipzig,9,1,0,2,0,0,1,2,13,A,23,2017-10-01,FC Koln,D1,10,6,9,16,A,7,FC Koln_RB Leipzig_2017
+61,2,Hoffenheim,13,3,0,2,2,0,1,3,17,H,15,2017-10-01,Freiburg,D1,6,6,9,15,H,7,Freiburg_Hoffenheim_2017
+62,0,Bayern Munich,14,2,0,2,0,0,1,2,11,D,15,2017-10-01,Hertha,D1,5,5,1,10,A,9,Hertha_Bayern Munich_2017
+63,2,FC Koln,12,2,0,1,1,0,0,3,13,H,17,2017-10-13,Stuttgart,D1,3,7,5,22,H,4,Stuttgart_FC Koln_2017
+64,0,Freiburg,5,5,0,0,2,0,0,0,7,H,6,2017-10-14,Bayern Munich,D1,2,10,9,22,H,1,Bayern Munich_Freiburg_2017
+65,2,RB Leipzig,16,2,1,3,1,1,2,5,19,A,7,2017-10-14,Dortmund,D1,6,8,3,15,A,2,Dortmund_RB Leipzig_2017
+66,3,Ein Frankfurt,15,1,0,2,1,0,1,3,16,A,12,2017-10-14,Hannover,D1,4,2,6,10,D,5,Hannover_Ein Frankfurt_2017
+67,1,Schalke 04,12,0,0,2,0,1,0,2,20,A,10,2017-10-14,Hertha,D1,6,0,1,2,D,5,Hertha_Schalke 04_2017
+68,1,Augsburg,5,2,0,2,0,0,0,0,11,D,13,2017-10-14,Hoffenheim,D1,5,7,6,22,D,3,Hoffenheim_Augsburg_2017
+69,1,Hamburg,14,3,0,2,1,0,1,1,17,H,9,2017-10-14,Mainz,D1,2,4,4,14,D,2,Mainz_Hamburg_2017
+70,2,Wolfsburg,16,2,0,2,1,0,1,2,13,D,11,2017-10-15,Leverkusen,D1,4,10,11,17,D,2,Leverkusen_Wolfsburg_2017
+71,1,M'gladbach,11,0,0,2,0,0,2,0,10,A,16,2017-10-15,Werder Bremen,D1,8,5,5,18,A,5,Werder Bremen_M'gladbach_2017
+72,3,Mainz,17,2,0,0,1,0,0,0,15,H,4,2017-10-20,Schalke 04,D1,2,5,5,14,H,1,Schalke 04_Mainz_2017
+73,1,Hannover,11,1,0,2,1,0,0,2,9,A,11,2017-10-21,Augsburg,D1,6,5,11,15,H,2,Augsburg_Hannover_2017
+74,2,Dortmund,14,2,0,2,0,0,1,3,10,D,20,2017-10-21,Ein Frankfurt,D1,7,7,4,14,A,4,Ein Frankfurt_Dortmund_2017
+75,1,Bayern Munich,9,0,0,1,0,1,0,2,9,A,21,2017-10-21,Hamburg,D1,4,3,7,7,D,7,Hamburg_Bayern Munich_2017
+76,3,Leverkusen,12,1,0,5,1,0,0,0,11,A,13,2017-10-21,M'gladbach,D1,6,3,4,19,H,4,M'gladbach_Leverkusen_2017
+77,0,Stuttgart,10,1,0,0,1,0,0,1,18,H,11,2017-10-21,RB Leipzig,D1,2,3,3,15,H,5,RB Leipzig_Stuttgart_2017
+78,3,Werder Bremen,16,0,0,0,0,0,0,3,20,D,13,2017-10-22,FC Koln,D1,2,8,3,18,D,6,FC Koln_Werder Bremen_2017
+79,4,Hertha,20,1,0,1,0,0,0,3,15,D,11,2017-10-22,Freiburg,D1,3,8,6,20,D,1,Freiburg_Hertha_2017
+80,1,Hoffenheim,12,1,0,1,0,0,0,3,24,D,14,2017-10-22,Wolfsburg,D1,5,6,8,14,D,4,Wolfsburg_Hoffenheim_2017
+81,0,Ein Frankfurt,15,1,0,1,0,0,1,2,21,D,8,2017-10-27,Mainz,D1,3,3,5,7,A,5,Mainz_Ein Frankfurt_2017
+82,1,RB Leipzig,7,2,1,0,2,0,0,0,9,H,3,2017-10-28,Bayern Munich,D1,1,7,11,23,H,1,Bayern Munich_RB Leipzig_2017
+83,2,Dortmund,17,4,1,2,2,0,1,0,9,H,10,2017-10-28,Hannover,D1,4,7,5,13,H,6,Hannover_Dortmund_2017
+84,0,Hamburg,14,2,0,1,1,0,0,0,13,H,12,2017-10-28,Hertha,D1,4,3,9,8,H,11,Hertha_Hamburg_2017
+85,2,M'gladbach,14,1,0,3,1,0,0,1,13,A,16,2017-10-28,Hoffenheim,D1,6,5,5,16,H,5,Hoffenheim_M'gladbach_2017
+86,3,FC Koln,14,2,0,1,0,0,1,2,13,H,9,2017-10-28,Leverkusen,D1,2,5,8,17,A,10,Leverkusen_FC Koln_2017
+87,0,Wolfsburg,18,1,0,1,1,0,0,0,12,D,7,2017-10-28,Schalke 04,D1,2,7,4,14,H,2,Schalke 04_Wolfsburg_2017
+88,3,Freiburg,13,3,1,0,2,0,0,0,10,H,6,2017-10-29,Stuttgart,D1,0,6,6,18,H,0,Stuttgart_Freiburg_2017
+89,2,Augsburg,15,0,0,3,0,0,2,0,11,A,18,2017-10-29,Werder Bremen,D1,6,3,7,16,A,3,Werder Bremen_Augsburg_2017
+90,0,Werder Bremen,11,2,0,1,1,0,1,0,13,H,13,2017-11-03,Ein Frankfurt,D1,7,5,7,16,D,8,Ein Frankfurt_Werder Bremen_2017
+91,3,Leverkusen,13,1,0,1,0,0,0,2,15,D,11,2017-11-04,Augsburg,D1,3,4,6,14,D,3,Augsburg_Leverkusen_2017
+92,2,Bayern Munich,12,1,0,3,0,0,2,2,16,A,10,2017-11-04,Dortmund,D1,5,4,4,15,A,3,Dortmund_Bayern Munich_2017
+93,1,Schalke 04,14,0,0,1,0,0,0,1,12,A,8,2017-11-04,Freiburg,D1,3,2,6,13,D,1,Freiburg_Schalke 04_2017
+94,2,Stuttgart,14,3,1,1,1,0,0,2,10,H,3,2017-11-04,Hamburg,D1,2,12,11,21,H,3,Hamburg_Stuttgart_2017
+95,1,Mainz,5,1,0,1,0,0,1,0,14,D,20,2017-11-04,M'gladbach,D1,7,3,9,10,A,9,M'gladbach_Mainz_2017
+96,1,Hannover,11,2,0,1,0,0,0,4,16,H,12,2017-11-04,RB Leipzig,D1,4,6,2,18,D,3,RB Leipzig_Hannover_2017
+97,0,Hoffenheim,17,0,0,3,0,0,1,0,14,A,22,2017-11-05,FC Koln,D1,8,4,7,12,A,6,FC Koln_Hoffenheim_2017
+98,1,Hertha,14,3,0,3,2,0,1,1,19,D,10,2017-11-05,Wolfsburg,D1,6,8,4,20,H,2,Wolfsburg_Hertha_2017
+99,2,Dortmund,16,2,0,1,1,0,1,0,12,H,13,2017-11-17,Stuttgart,D1,7,4,5,9,D,4,Stuttgart_Dortmund_2017
+100,0,Augsburg,13,3,0,0,2,0,0,3,16,H,8,2017-11-18,Bayern Munich,D1,3,6,6,16,H,3,Bayern Munich_Augsburg_2017
+101,2,M'gladbach,15,2,0,4,1,0,3,1,12,A,8,2017-11-18,Hertha,D1,5,8,8,16,A,2,Hertha_M'gladbach_2017
+102,0,Ein Frankfurt,14,1,0,1,0,0,1,2,19,D,5,2017-11-18,Hoffenheim,D1,3,6,4,13,A,3,Hoffenheim_Ein Frankfurt_2017
+103,5,RB Leipzig,14,2,0,2,1,1,1,2,13,D,12,2017-11-18,Leverkusen,D1,3,3,2,13,D,1,Leverkusen_RB Leipzig_2017
+104,0,FC Koln,12,1,0,0,1,1,0,2,15,H,11,2017-11-18,Mainz,D1,0,3,0,12,H,3,Mainz_FC Koln_2017
+105,1,Freiburg,8,3,0,1,2,0,0,2,8,H,12,2017-11-18,Wolfsburg,D1,7,7,1,15,H,3,Wolfsburg_Freiburg_2017
+106,3,Hamburg,16,2,0,0,1,0,0,3,19,H,7,2017-11-19,Schalke 04,D1,1,4,7,12,H,6,Schalke 04_Hamburg_2017
+107,0,Hannover,14,4,0,0,1,0,0,1,16,H,13,2017-11-19,Werder Bremen,D1,7,7,3,16,H,2,Werder Bremen_Hannover_2017
+108,1,Stuttgart,14,1,0,1,0,0,1,5,16,D,13,2017-11-24,Hannover,D1,4,4,4,15,A,5,Hannover_Stuttgart_2017
+109,1,Wolfsburg,7,2,1,1,0,0,1,2,12,H,4,2017-11-25,Augsburg,D1,3,8,6,23,A,1,Augsburg_Wolfsburg_2017
+110,5,Schalke 04,17,4,0,4,4,1,0,5,19,D,12,2017-11-25,Dortmund,D1,7,6,3,11,H,5,Dortmund_Schalke 04_2017
+111,4,Leverkusen,18,0,0,1,0,0,0,3,14,A,13,2017-11-25,Ein Frankfurt,D1,4,3,9,12,D,2,Ein Frankfurt_Leverkusen_2017
+112,3,Mainz,16,2,0,1,0,0,0,2,15,H,17,2017-11-25,Freiburg,D1,5,5,2,15,D,5,Freiburg_Mainz_2017
+113,1,Bayern Munich,12,2,0,1,2,0,0,1,9,H,21,2017-11-25,M'gladbach,D1,7,2,2,6,H,5,M'gladbach_Bayern Munich_2017
+114,0,Werder Bremen,9,2,0,0,1,0,0,1,10,H,9,2017-11-25,RB Leipzig,D1,3,6,8,14,H,8,RB Leipzig_Werder Bremen_2017
+115,2,Hertha,15,0,0,2,0,0,1,0,8,A,10,2017-11-26,FC Koln,D1,7,2,3,15,A,4,FC Koln_Hertha_2017
+116,0,Hoffenheim,16,3,0,0,1,0,0,3,23,H,13,2017-11-26,Hamburg,D1,2,7,7,18,H,8,Hamburg_Hoffenheim_2017
+117,2,Hamburg,13,0,0,0,0,0,0,3,19,D,10,2017-12-01,Freiburg,D1,3,2,7,20,D,5,Freiburg_Hamburg_2017
+118,2,Hannover,12,3,0,1,1,0,1,2,8,H,8,2017-12-02,Bayern Munich,D1,4,12,9,29,D,3,Bayern Munich_Hannover_2017
+119,2,RB Leipzig,14,4,0,0,1,0,0,0,10,H,11,2017-12-02,Hoffenheim,D1,5,8,0,10,H,7,Hoffenheim_RB Leipzig_2017
+120,1,Dortmund,8,1,0,1,1,1,0,3,19,D,9,2017-12-02,Leverkusen,D1,3,9,7,15,H,4,Leverkusen_Dortmund_2017
+121,4,Augsburg,17,1,0,3,0,0,2,1,13,A,10,2017-12-02,Mainz,D1,4,5,4,16,A,3,Mainz_Augsburg_2017
+122,0,FC Koln,14,2,1,2,1,0,0,2,18,D,7,2017-12-02,Schalke 04,D1,4,10,7,23,H,4,Schalke 04_FC Koln_2017
+123,2,Stuttgart,13,1,0,0,1,0,0,1,17,H,12,2017-12-02,Werder Bremen,D1,4,6,5,15,H,8,Werder Bremen_Stuttgart_2017
+124,1,Ein Frankfurt,15,1,0,2,1,0,1,3,13,A,7,2017-12-03,Hertha,D1,5,5,4,15,D,2,Hertha_Ein Frankfurt_2017
+125,0,M'gladbach,7,3,0,0,2,0,0,2,15,H,16,2017-12-03,Wolfsburg,D1,9,6,6,13,H,5,Wolfsburg_M'gladbach_2017
+126,1,Leverkusen,12,0,0,2,0,0,1,1,12,A,18,2017-12-08,Stuttgart,D1,4,5,8,9,A,5,Stuttgart_Leverkusen_2017
+127,0,Werder Bremen,8,1,0,2,0,0,1,0,6,A,9,2017-12-09,Dortmund,D1,4,5,4,11,A,2,Dortmund_Werder Bremen_2017
+128,2,Bayern Munich,16,0,0,1,0,0,1,3,12,A,6,2017-12-09,Ein Frankfurt,D1,1,3,5,12,A,5,Ein Frankfurt_Bayern Munich_2017
+129,2,Wolfsburg,15,0,0,0,0,0,0,2,12,D,3,2017-12-09,Hamburg,D1,0,3,6,12,D,2,Hamburg_Wolfsburg_2017
+130,1,Schalke 04,12,1,0,1,1,0,0,2,7,D,13,2017-12-09,M'gladbach,D1,6,5,8,13,H,10,M'gladbach_Schalke 04_2017
+131,2,Mainz,16,2,0,2,2,0,1,3,17,D,13,2017-12-09,RB Leipzig,D1,9,7,6,12,H,4,RB Leipzig_Mainz_2017
+132,2,Hertha,11,1,0,1,0,0,0,2,9,D,8,2017-12-10,Augsburg,D1,4,3,11,15,D,3,Augsburg_Hertha_2017
+133,3,Freiburg,20,3,0,4,3,0,1,3,14,A,25,2017-12-10,FC Koln,D1,11,3,4,6,H,9,FC Koln_Freiburg_2017
+134,2,Hoffenheim,12,2,0,0,0,0,0,5,15,H,9,2017-12-10,Hannover,D1,5,3,2,12,D,1,Hannover_Hoffenheim_2017
+135,0,M'gladbach,7,1,0,0,1,0,0,2,12,H,5,2017-12-12,Freiburg,D1,3,5,5,24,H,3,Freiburg_M'gladbach_2017
+136,0,Ein Frankfurt,6,1,0,2,1,0,2,4,26,A,10,2017-12-12,Hamburg,D1,6,6,9,21,A,3,Hamburg_Ein Frankfurt_2017
+137,0,Dortmund,14,0,0,2,0,0,0,0,6,A,15,2017-12-12,Mainz,D1,6,0,2,13,D,6,Mainz_Dortmund_2017
+138,2,RB Leipzig,8,1,1,1,1,0,0,4,16,D,14,2017-12-12,Wolfsburg,D1,5,5,6,13,H,9,Wolfsburg_RB Leipzig_2017
+139,0,FC Koln,7,1,0,0,0,0,0,0,12,H,7,2017-12-13,Bayern Munich,D1,1,8,13,26,D,1,Bayern Munich_FC Koln_2017
+140,2,Hannover,10,3,0,1,2,0,0,3,12,H,20,2017-12-13,Hertha,D1,6,9,5,15,H,8,Hertha_Hannover_2017
+141,1,Stuttgart,12,1,0,0,0,0,0,1,15,H,9,2017-12-13,Hoffenheim,D1,3,3,0,11,D,3,Hoffenheim_Stuttgart_2017
+142,0,Werder Bremen,10,1,0,0,1,0,0,3,24,H,6,2017-12-13,Leverkusen,D1,2,7,5,15,H,1,Leverkusen_Werder Bremen_2017
+143,3,Augsburg,11,3,0,2,1,0,0,2,17,H,15,2017-12-13,Schalke 04,D1,7,5,2,8,H,3,Schalke 04_Augsburg_2017
+144,0,Hamburg,7,3,0,1,1,0,0,3,16,H,8,2017-12-15,M'gladbach,D1,3,5,9,13,H,4,M'gladbach_Hamburg_2017
+145,1,Freiburg,6,3,0,3,1,0,1,3,14,D,9,2017-12-16,Augsburg,D1,6,8,11,17,D,4,Augsburg_Freiburg_2017
+146,0,Hoffenheim,7,2,0,1,0,0,1,0,13,H,12,2017-12-16,Dortmund,D1,5,3,6,18,A,4,Dortmund_Hoffenheim_2017
+147,4,Schalke 04,21,2,0,2,1,0,0,2,20,D,15,2017-12-16,Ein Frankfurt,D1,5,2,4,6,H,6,Ein Frankfurt_Schalke 04_2017
+148,2,Wolfsburg,8,1,0,0,0,0,0,1,13,H,8,2017-12-16,FC Koln,D1,5,7,5,18,D,4,FC Koln_Wolfsburg_2017
+149,2,Bayern Munich,18,0,0,1,0,0,0,2,14,A,17,2017-12-16,Stuttgart,D1,7,4,9,10,D,7,Stuttgart_Bayern Munich_2017
+150,2,Mainz,13,2,0,2,2,0,0,3,22,D,9,2017-12-16,Werder Bremen,D1,3,7,8,14,H,5,Werder Bremen_Mainz_2017
+151,0,Leverkusen,9,4,0,4,3,0,2,1,16,D,20,2017-12-17,Hannover,D1,10,7,6,18,H,5,Hannover_Leverkusen_2017
+152,1,Hertha,13,2,1,3,0,0,2,3,11,A,7,2017-12-17,RB Leipzig,D1,5,7,6,22,A,1,RB Leipzig_Hertha_2017
+153,2,Bayern Munich,11,1,0,3,0,0,1,2,11,A,16,2018-01-12,Leverkusen,D1,6,1,6,12,A,6,Leverkusen_Bayern Munich_2017
+154,1,Hamburg,5,1,0,0,1,0,0,1,12,H,9,2018-01-13,Augsburg,D1,6,5,6,15,H,4,Augsburg_Hamburg_2017
+155,0,Freiburg,14,1,0,1,1,0,0,0,18,D,2,2018-01-13,Ein Frankfurt,D1,1,4,9,15,H,2,Ein Frankfurt_Freiburg_2017
+156,0,Mainz,13,3,0,2,2,0,2,2,16,H,11,2018-01-13,Hannover,D1,5,9,8,25,D,8,Hannover_Mainz_2017
+157,2,Schalke 04,16,3,0,1,1,0,0,2,19,H,10,2018-01-13,RB Leipzig,D1,6,9,4,15,H,4,RB Leipzig_Schalke 04_2017
+158,1,Hertha,8,1,0,0,0,0,0,0,9,H,10,2018-01-13,Stuttgart,D1,1,2,4,7,D,4,Stuttgart_Hertha_2017
+159,1,Hoffenheim,14,1,0,1,0,0,1,3,18,D,11,2018-01-13,Werder Bremen,D1,2,3,6,16,A,8,Werder Bremen_Hoffenheim_2017
+160,1,Wolfsburg,10,0,0,0,0,0,0,1,11,D,10,2018-01-14,Dortmund,D1,4,1,6,19,D,7,Dortmund_Wolfsburg_2017
+161,2,M'gladbach,17,2,0,1,1,0,0,3,14,H,16,2018-01-14,FC Koln,D1,6,3,3,11,H,3,FC Koln_M'gladbach_2017
+162,3,Dortmund,15,1,0,1,0,0,0,1,11,D,11,2018-01-19,Hertha,D1,4,2,3,9,D,5,Hertha_Dortmund_2017
+163,0,RB Leipzig,12,2,0,1,0,0,0,0,12,H,12,2018-01-20,Freiburg,D1,3,4,6,9,D,6,Freiburg_RB Leipzig_2017
+164,3,FC Koln,21,0,0,2,0,0,1,3,13,A,9,2018-01-20,Hamburg,D1,2,3,9,13,A,3,Hamburg_FC Koln_2017
+165,2,Leverkusen,18,1,0,4,0,0,1,1,16,A,13,2018-01-20,Hoffenheim,D1,6,3,4,13,A,1,Hoffenheim_Leverkusen_2017
+166,2,Stuttgart,9,3,0,2,1,0,1,4,8,H,8,2018-01-20,Mainz,D1,5,12,7,21,D,3,Mainz_Stuttgart_2017
+167,0,Augsburg,9,2,0,0,1,0,0,1,11,H,16,2018-01-20,M'gladbach,D1,3,6,8,16,H,5,M'gladbach_Augsburg_2017
+168,4,Ein Frankfurt,12,1,0,3,0,1,2,2,19,A,18,2018-01-20,Wolfsburg,D1,6,4,4,13,A,3,Wolfsburg_Ein Frankfurt_2017
+169,0,Werder Bremen,7,4,0,2,1,0,1,2,20,H,10,2018-01-21,Bayern Munich,D1,4,7,4,15,D,7,Bayern Munich_Werder Bremen_2017
+170,2,Hannover,19,1,0,1,1,0,0,1,13,D,11,2018-01-21,Schalke 04,D1,4,2,1,5,H,2,Schalke 04_Hannover_2017
+171,5,M'gladbach,14,2,0,0,1,0,0,2,14,H,14,2018-01-26,Ein Frankfurt,D1,2,2,4,9,H,4,Ein Frankfurt_M'gladbach_2017
+172,0,Hoffenheim,8,5,0,2,2,0,2,2,19,H,6,2018-01-27,Bayern Munich,D1,4,11,3,22,D,4,Bayern Munich_Hoffenheim_2017
+173,1,Freiburg,11,2,0,2,1,0,1,0,12,D,4,2018-01-27,Dortmund,D1,3,4,5,12,D,2,Dortmund_Freiburg_2017
+174,3,Augsburg,12,1,0,1,1,0,0,3,16,D,11,2018-01-27,FC Koln,D1,3,5,6,12,H,6,FC Koln_Augsburg_2017
+175,0,Hamburg,14,1,0,1,1,0,1,2,19,D,8,2018-01-27,RB Leipzig,D1,2,5,3,14,D,3,RB Leipzig_Hamburg_2017
+176,2,Schalke 04,15,0,0,2,0,0,2,1,11,A,18,2018-01-27,Stuttgart,D1,7,2,4,11,A,6,Stuttgart_Schalke 04_2017
+177,3,Hertha,13,0,0,0,0,0,0,2,20,D,5,2018-01-27,Werder Bremen,D1,2,7,2,18,D,2,Werder Bremen_Hertha_2017
+178,2,Wolfsburg,15,0,0,1,0,0,0,3,15,A,7,2018-01-28,Hannover,D1,2,3,7,15,D,0,Hannover_Wolfsburg_2017
+179,1,Mainz,10,2,0,0,0,0,0,2,14,H,4,2018-01-28,Leverkusen,D1,1,3,13,12,D,0,Leverkusen_Mainz_2017
+180,2,Dortmund,13,2,0,3,0,0,1,1,16,A,17,2018-02-02,FC Koln,D1,7,5,5,16,A,2,FC Koln_Dortmund_2017
+181,7,Leverkusen,19,0,0,0,0,0,0,1,11,D,15,2018-02-03,Freiburg,D1,3,5,2,11,D,4,Freiburg_Leverkusen_2017
+182,0,Hoffenheim,13,1,0,1,0,0,1,2,13,D,17,2018-02-03,Hertha,D1,4,3,0,6,A,5,Hertha_Hoffenheim_2017
+183,0,Bayern Munich,10,0,0,2,0,0,2,3,15,A,13,2018-02-03,Mainz,D1,6,4,3,16,A,5,Mainz_Bayern Munich_2017
+184,2,RB Leipzig,13,0,0,1,0,0,0,2,10,A,16,2018-02-03,M'gladbach,D1,6,3,1,10,D,7,M'gladbach_RB Leipzig_2017
+185,3,Werder Bremen,15,1,0,2,1,1,0,1,16,A,12,2018-02-03,Schalke 04,D1,7,6,3,15,H,2,Schalke 04_Werder Bremen_2017
+186,0,Stuttgart,12,1,0,1,1,0,0,2,10,D,13,2018-02-03,Wolfsburg,D1,2,5,3,15,H,6,Wolfsburg_Stuttgart_2017
+187,1,Ein Frankfurt,12,3,0,0,1,0,0,1,11,H,8,2018-02-04,Augsburg,D1,2,7,1,15,H,2,Augsburg_Ein Frankfurt_2017
+188,2,Hannover,14,1,0,1,0,1,1,1,18,D,14,2018-02-04,Hamburg,D1,7,3,8,16,A,3,Hamburg_Hannover_2017
+189,0,Augsburg,12,2,0,0,1,0,0,2,17,H,12,2018-02-09,RB Leipzig,D1,2,9,6,23,H,7,RB Leipzig_Augsburg_2017
+190,2,Schalke 04,15,2,0,1,2,0,1,2,15,H,9,2018-02-10,Bayern Munich,D1,3,5,4,13,H,3,Bayern Munich_Schalke 04_2017
+191,0,Hamburg,13,2,0,0,0,0,0,1,12,H,8,2018-02-10,Dortmund,D1,2,3,2,10,D,4,Dortmund_Hamburg_2017
+192,2,FC Koln,19,4,0,2,1,0,0,1,18,H,8,2018-02-10,Ein Frankfurt,D1,4,8,4,13,H,1,Ein Frankfurt_FC Koln_2017
+193,0,Freiburg,13,2,0,1,1,0,0,2,7,H,12,2018-02-10,Hannover,D1,4,6,3,13,H,4,Hannover_Freiburg_2017
+194,4,Mainz,13,4,0,2,1,0,1,3,19,H,6,2018-02-10,Hoffenheim,D1,2,9,5,24,D,2,Hoffenheim_Mainz_2017
+195,2,Hertha,18,0,0,2,0,0,1,2,16,A,9,2018-02-10,Leverkusen,D1,4,6,9,15,A,4,Leverkusen_Hertha_2017
+196,1,M'gladbach,11,1,0,0,1,0,0,0,11,H,12,2018-02-11,Stuttgart,D1,4,2,1,7,H,8,Stuttgart_M'gladbach_2017
+197,1,Wolfsburg,16,3,0,1,2,0,0,5,11,H,13,2018-02-11,Werder Bremen,D1,5,5,6,12,H,8,Werder Bremen_Wolfsburg_2017
+198,0,Mainz,15,0,0,2,0,0,1,3,16,A,13,2018-02-16,Hertha,D1,7,1,6,9,A,4,Hertha_Mainz_2017
+199,2,Hannover,15,1,0,1,1,0,1,3,18,D,15,2018-02-17,FC Koln,D1,7,1,5,5,D,4,FC Koln_Hannover_2017
+200,2,Werder Bremen,13,1,0,0,1,0,0,2,16,H,9,2018-02-17,Freiburg,D1,3,3,0,7,H,5,Freiburg_Werder Bremen_2017
+201,2,Leverkusen,15,1,0,2,0,0,1,2,9,A,16,2018-02-17,Hamburg,D1,5,3,4,11,A,3,Hamburg_Leverkusen_2017
+202,2,Hoffenheim,18,2,0,1,2,0,0,6,18,H,12,2018-02-17,Schalke 04,D1,4,6,4,9,H,3,Schalke 04_Hoffenheim_2017
+203,4,Bayern Munich,14,1,0,2,1,0,0,3,15,A,18,2018-02-17,Wolfsburg,D1,5,1,4,3,H,8,Wolfsburg_Bayern Munich_2017
+204,4,Stuttgart,16,0,0,1,0,0,1,1,16,A,16,2018-02-18,Augsburg,D1,6,2,4,8,A,7,Augsburg_Stuttgart_2017
+205,3,Dortmund,15,0,0,1,0,0,1,3,16,A,8,2018-02-18,M'gladbach,D1,2,11,6,28,A,5,M'gladbach_Dortmund_2017
+206,6,RB Leipzig,18,2,0,1,2,0,1,2,13,H,10,2018-02-19,Ein Frankfurt,D1,2,3,7,12,H,5,Ein Frankfurt_RB Leipzig_2017
+207,0,Wolfsburg,12,1,0,1,1,0,1,0,13,D,8,2018-02-23,Mainz,D1,2,4,2,13,D,3,Mainz_Wolfsburg_2017
+208,0,Hertha,11,0,0,0,0,0,0,0,12,D,5,2018-02-24,Bayern Munich,D1,3,6,9,19,D,2,Bayern Munich_Hertha_2017
+209,2,M'gladbach,14,0,0,1,0,0,0,1,11,A,15,2018-02-24,Hannover,D1,4,5,10,20,D,6,Hannover_M'gladbach_2017
+210,1,Freiburg,12,1,0,1,0,0,0,1,19,D,7,2018-02-24,Hoffenheim,D1,3,4,4,12,D,2,Hoffenheim_Freiburg_2017
+211,2,Ein Frankfurt,16,1,0,0,1,0,0,2,15,H,7,2018-02-24,Stuttgart,D1,0,5,4,13,H,3,Stuttgart_Ein Frankfurt_2017
+212,1,Hamburg,16,1,0,0,0,0,0,1,15,H,6,2018-02-24,Werder Bremen,D1,1,3,11,14,D,2,Werder Bremen_Hamburg_2017
+213,4,Schalke 04,15,0,0,2,0,1,1,4,18,A,10,2018-02-25,Leverkusen,D1,6,5,7,9,A,3,Leverkusen_Schalke 04_2017
+214,1,FC Koln,12,1,0,2,1,0,0,1,10,A,14,2018-02-25,RB Leipzig,D1,5,3,3,15,H,7,RB Leipzig_FC Koln_2017
+215,0,Augsburg,8,1,0,1,1,0,0,3,15,D,13,2018-02-26,Dortmund,D1,6,2,3,9,H,3,Dortmund_Augsburg_2017
+216,2,Werder Bremen,13,2,0,2,2,0,0,3,20,D,17,2018-03-02,M'gladbach,D1,6,5,5,10,H,6,M'gladbach_Werder Bremen_2017
+217,0,Hoffenheim,11,0,0,2,0,0,1,2,18,A,17,2018-03-03,Augsburg,D1,6,2,8,8,A,5,Augsburg_Hoffenheim_2017
+218,3,Hannover,21,1,0,0,1,0,0,2,16,H,7,2018-03-03,Ein Frankfurt,D1,2,7,5,13,H,1,Ein Frankfurt_Hannover_2017
+219,4,Mainz,15,0,1,0,0,0,0,5,14,D,5,2018-03-03,Hamburg,D1,2,6,11,18,D,1,Hamburg_Mainz_2017
+220,0,Dortmund,15,1,0,1,1,0,1,4,12,D,4,2018-03-03,RB Leipzig,D1,2,3,2,11,D,3,RB Leipzig_Dortmund_2017
+221,0,Hertha,16,1,0,0,1,0,0,1,16,H,11,2018-03-03,Schalke 04,D1,3,4,2,7,H,6,Schalke 04_Hertha_2017
+222,7,Leverkusen,28,1,0,2,0,1,1,1,9,A,17,2018-03-03,Wolfsburg,D1,4,2,3,7,A,2,Wolfsburg_Leverkusen_2017
+223,1,Stuttgart,13,2,0,3,1,0,2,3,13,A,9,2018-03-04,FC Koln,D1,4,4,3,12,A,3,FC Koln_Stuttgart_2017
+224,1,Bayern Munich,8,0,0,4,0,0,2,0,8,A,17,2018-03-04,Freiburg,D1,4,1,4,5,A,5,Freiburg_Bayern Munich_2017
+225,2,Schalke 04,12,0,0,1,0,0,0,2,17,A,6,2018-03-09,Mainz,D1,2,4,5,16,D,6,Mainz_Schalke 04_2017
+226,1,Hamburg,4,6,0,0,3,0,0,2,9,H,1,2018-03-10,Bayern Munich,D1,0,7,11,18,H,1,Bayern Munich_Hamburg_2017
+227,2,Augsburg,13,1,0,3,1,0,2,2,16,A,17,2018-03-10,Hannover,D1,8,5,3,17,A,6,Hannover_Augsburg_2017
+228,1,Freiburg,7,0,0,0,0,0,0,0,14,D,5,2018-03-10,Hertha,D1,0,4,5,12,D,4,Hertha_Freiburg_2017
+229,1,Wolfsburg,7,3,0,0,1,0,0,1,7,H,6,2018-03-10,Hoffenheim,D1,1,6,11,17,H,4,Hoffenheim_Wolfsburg_2017
+230,0,M'gladbach,12,2,0,0,1,0,0,3,15,H,9,2018-03-10,Leverkusen,D1,2,7,3,17,H,5,Leverkusen_M'gladbach_2017
+231,3,Ein Frankfurt,17,3,0,2,1,0,0,3,10,H,10,2018-03-11,Dortmund,D1,3,4,5,13,H,8,Dortmund_Ein Frankfurt_2017
+232,0,RB Leipzig,16,0,0,0,0,0,0,2,12,D,8,2018-03-11,Stuttgart,D1,3,2,3,12,D,5,Stuttgart_RB Leipzig_2017
+233,0,FC Koln,14,3,0,1,1,0,0,3,12,H,8,2018-03-12,Werder Bremen,D1,2,6,7,13,H,3,Werder Bremen_FC Koln_2017
+234,2,Stuttgart,10,1,0,2,0,0,1,1,9,A,10,2018-03-16,Freiburg,D1,5,2,1,7,A,3,Freiburg_Stuttgart_2017
+235,2,Werder Bremen,13,1,0,3,0,0,2,1,15,A,20,2018-03-17,Augsburg,D1,12,6,8,15,A,7,Augsburg_Werder Bremen_2017
+236,0,Mainz,9,3,0,0,3,0,0,1,9,H,13,2018-03-17,Ein Frankfurt,D1,1,6,4,15,H,6,Ein Frankfurt_Mainz_2017
+237,1,Hertha,12,1,0,2,1,0,0,3,14,A,16,2018-03-17,Hamburg,D1,9,3,1,9,H,6,Hamburg_Hertha_2017
+238,0,Hoffenheim,11,3,0,3,1,0,1,1,15,D,13,2018-03-17,M'gladbach,D1,6,7,9,23,D,3,M'gladbach_Hoffenheim_2017
+239,0,Schalke 04,12,0,0,1,0,0,0,1,18,A,10,2018-03-17,Wolfsburg,D1,2,3,5,17,D,2,Wolfsburg_Schalke 04_2017
+240,2,Hannover,14,1,0,0,1,0,0,1,10,H,8,2018-03-18,Dortmund,D1,4,9,12,25,H,2,Dortmund_Hannover_2017
+241,3,Leverkusen,15,2,1,0,1,0,0,1,7,H,10,2018-03-18,FC Koln,D1,3,3,2,7,H,2,FC Koln_Leverkusen_2017
+242,3,Bayern Munich,16,2,0,1,1,0,1,4,14,H,9,2018-03-18,RB Leipzig,D1,2,6,3,16,D,6,RB Leipzig_Bayern Munich_2017
+243,1,Dortmund,4,6,0,0,5,0,0,1,7,H,9,2018-03-31,Bayern Munich,D1,3,9,2,17,H,1,Bayern Munich_Dortmund_2017
+244,3,RB Leipzig,16,2,0,3,0,0,1,4,16,A,15,2018-03-31,Hannover,D1,5,3,6,13,A,3,Hannover_RB Leipzig_2017
+245,1,Wolfsburg,15,0,1,0,0,0,0,3,12,D,9,2018-03-31,Hertha,D1,1,2,4,9,D,5,Hertha_Wolfsburg_2017
+246,1,FC Koln,13,6,0,0,1,0,0,0,10,H,4,2018-03-31,Hoffenheim,D1,1,11,4,18,H,8,Hoffenheim_FC Koln_2017
+247,0,Augsburg,4,0,0,0,0,0,0,2,10,D,7,2018-03-31,Leverkusen,D1,2,2,5,18,D,1,Leverkusen_Augsburg_2017
+248,2,Freiburg,19,2,1,0,0,0,0,2,16,H,6,2018-03-31,Schalke 04,D1,0,7,2,16,D,2,Schalke 04_Freiburg_2017
+249,1,Hamburg,15,1,0,1,1,0,1,1,12,D,8,2018-03-31,Stuttgart,D1,6,4,3,11,D,7,Stuttgart_Hamburg_2017
+250,0,M'gladbach,14,0,0,0,0,0,0,1,8,D,11,2018-04-01,Mainz,D1,2,5,7,14,D,6,Mainz_M'gladbach_2017
+251,2,Ein Frankfurt,16,2,0,1,1,0,0,0,9,H,11,2018-04-01,Werder Bremen,D1,6,6,6,11,H,3,Werder Bremen_Ein Frankfurt_2017
+252,1,Werder Bremen,16,2,0,1,2,0,0,2,20,H,14,2018-04-06,Hannover,D1,4,6,4,10,H,2,Hannover_Werder Bremen_2017
+253,3,Bayern Munich,19,1,0,4,1,0,2,1,8,A,12,2018-04-07,Augsburg,D1,7,1,1,7,A,6,Augsburg_Bayern Munich_2017
+254,4,Mainz,13,1,1,1,1,0,0,5,19,D,12,2018-04-07,FC Koln,D1,4,8,8,15,H,3,FC Koln_Mainz_2017
+255,0,Wolfsburg,16,0,0,2,0,0,1,1,14,A,11,2018-04-07,Freiburg,D1,2,1,9,13,A,3,Freiburg_Wolfsburg_2017
+256,2,Schalke 04,16,3,0,2,1,0,1,2,15,H,7,2018-04-07,Hamburg,D1,4,7,8,18,D,1,Hamburg_Schalke 04_2017
+257,1,Hertha,13,2,0,1,0,0,1,2,20,H,13,2018-04-07,M'gladbach,D1,6,3,4,10,A,5,M'gladbach_Hertha_2017
+258,1,Stuttgart,12,3,0,0,1,0,0,4,15,H,12,2018-04-08,Dortmund,D1,6,12,5,18,H,7,Dortmund_Stuttgart_2017
+259,0,Hoffenheim,13,1,0,1,0,0,0,2,8,D,10,2018-04-08,Ein Frankfurt,D1,3,5,8,15,D,3,Ein Frankfurt_Hoffenheim_2017
+260,0,Leverkusen,8,1,0,4,1,0,1,0,7,A,13,2018-04-09,RB Leipzig,D1,7,4,8,19,D,9,RB Leipzig_Leverkusen_2017
+261,2,Augsburg,18,0,1,0,0,1,0,4,17,D,9,2018-04-13,Wolfsburg,D1,2,4,7,17,D,5,Wolfsburg_Augsburg_2017
+262,2,M'gladbach,9,5,0,1,2,0,1,1,9,H,4,2018-04-14,Bayern Munich,D1,1,11,6,20,H,0,Bayern Munich_M'gladbach_2017
+263,1,FC Koln,13,2,0,1,0,0,1,3,11,H,13,2018-04-14,Hertha,D1,2,6,6,13,A,8,Hertha_FC Koln_2017
+264,1,Hamburg,8,2,0,0,2,0,0,2,10,H,13,2018-04-14,Hoffenheim,D1,5,6,7,21,H,8,Hoffenheim_Hamburg_2017
+265,3,Ein Frankfurt,15,4,0,1,1,0,1,4,8,H,7,2018-04-14,Leverkusen,D1,1,6,2,11,D,2,Leverkusen_Ein Frankfurt_2017
+266,1,Hannover,12,1,0,1,0,0,0,2,11,D,9,2018-04-14,Stuttgart,D1,3,5,10,12,D,4,Stuttgart_Hannover_2017
+267,1,Dortmund,8,2,0,0,0,0,0,1,9,H,12,2018-04-15,Schalke 04,D1,5,3,4,12,D,6,Schalke 04_Dortmund_2017
+268,2,RB Leipzig,17,1,0,1,1,0,0,1,13,D,10,2018-04-15,Werder Bremen,D1,4,6,5,16,H,2,Werder Bremen_RB Leipzig_2017
+269,1,Freiburg,16,2,0,0,1,0,0,2,10,H,11,2018-04-16,Mainz,D1,0,3,4,14,H,4,Mainz_Freiburg_2017
+270,0,Wolfsburg,18,3,0,0,3,0,0,2,16,H,7,2018-04-20,M'gladbach,D1,2,6,8,16,H,5,M'gladbach_Wolfsburg_2017
+271,0,Leverkusen,11,4,0,0,1,0,0,0,14,H,10,2018-04-21,Dortmund,D1,2,9,7,17,H,6,Dortmund_Leverkusen_2017
+272,1,Hertha,9,0,0,3,0,1,0,1,16,A,4,2018-04-21,Ein Frankfurt,D1,3,3,5,13,D,0,Ein Frankfurt_Hertha_2017
+273,3,Freiburg,12,1,1,0,0,0,0,3,15,H,11,2018-04-21,Hamburg,D1,4,5,10,11,D,4,Hamburg_Freiburg_2017
+274,1,Bayern Munich,11,0,0,3,0,0,0,0,19,A,14,2018-04-21,Hannover,D1,8,2,2,6,D,7,Hannover_Bayern Munich_2017
+275,0,Hoffenheim,7,2,0,5,0,1,3,2,20,A,12,2018-04-21,RB Leipzig,D1,7,8,8,14,A,4,RB Leipzig_Hoffenheim_2017
+276,1,Werder Bremen,8,2,0,0,1,0,0,2,18,H,9,2018-04-21,Stuttgart,D1,3,5,3,11,H,5,Stuttgart_Werder Bremen_2017
+277,4,Mainz,16,2,0,0,1,0,0,1,18,H,7,2018-04-22,Augsburg,D1,3,6,4,15,H,5,Augsburg_Mainz_2017
+278,0,Schalke 04,9,2,0,2,1,0,2,0,22,D,21,2018-04-22,FC Koln,D1,7,3,5,11,A,7,FC Koln_Schalke 04_2017
+279,3,Hannover,21,3,0,1,1,0,1,1,11,H,13,2018-04-27,Hoffenheim,D1,4,6,7,16,D,4,Hoffenheim_Hannover_2017
+280,0,Ein Frankfurt,6,4,0,1,1,0,0,0,9,H,12,2018-04-28,Bayern Munich,D1,3,6,1,12,H,2,Bayern Munich_Ein Frankfurt_2017
+281,2,FC Koln,16,3,0,2,1,0,0,4,13,H,13,2018-04-28,Freiburg,D1,3,6,2,12,H,5,Freiburg_FC Koln_2017
+282,0,Augsburg,9,2,1,2,0,0,1,2,14,D,12,2018-04-28,Hertha,D1,3,5,6,8,A,3,Hertha_Augsburg_2017
+283,2,Stuttgart,13,0,0,1,0,0,0,0,12,A,4,2018-04-28,Leverkusen,D1,1,7,6,24,D,2,Leverkusen_Stuttgart_2017
+284,2,M'gladbach,11,1,0,1,1,1,1,4,11,D,10,2018-04-28,Schalke 04,D1,4,4,1,10,D,1,Schalke 04_M'gladbach_2017
+285,3,Hamburg,14,1,0,3,0,0,2,2,17,A,14,2018-04-28,Wolfsburg,D1,5,1,2,10,A,6,Wolfsburg_Hamburg_2017
+286,2,RB Leipzig,24,3,1,0,1,0,0,4,9,H,6,2018-04-29,Mainz,D1,1,9,7,16,H,8,Mainz_RB Leipzig_2017
+287,1,Dortmund,8,1,0,1,1,0,1,2,9,D,17,2018-04-29,Werder Bremen,D1,6,6,7,19,D,5,Werder Bremen_Dortmund_2017
+288,2,Schalke 04,13,1,0,2,1,0,2,3,9,A,15,2018-05-05,Augsburg,D1,7,5,4,12,A,4,Augsburg_Schalke 04_2017
+289,3,Mainz,16,1,0,2,1,0,2,3,17,A,7,2018-05-05,Dortmund,D1,5,4,4,12,A,2,Dortmund_Mainz_2017
+290,2,Hamburg,14,3,0,0,1,0,0,0,5,H,14,2018-05-05,Ein Frankfurt,D1,4,10,3,14,H,7,Ein Frankfurt_Hamburg_2017
+291,1,Bayern Munich,11,1,0,3,1,0,0,0,8,A,16,2018-05-05,FC Koln,D1,9,3,4,10,H,7,FC Koln_Bayern Munich_2017
+292,2,Hertha,11,3,0,1,3,0,0,4,15,H,16,2018-05-05,Hannover,D1,2,5,4,11,H,6,Hannover_Hertha_2017
+293,0,Freiburg,6,3,0,1,1,0,0,3,8,H,18,2018-05-05,M'gladbach,D1,6,5,7,18,H,3,M'gladbach_Freiburg_2017
+294,0,Wolfsburg,11,4,0,1,2,0,0,1,10,H,10,2018-05-05,RB Leipzig,D1,5,7,2,13,H,5,RB Leipzig_Wolfsburg_2017
+295,6,Hoffenheim,15,2,0,0,1,1,0,1,10,H,21,2018-05-05,Stuttgart,D1,7,2,1,5,H,9,Stuttgart_Hoffenheim_2017
+296,3,Leverkusen,14,0,0,0,0,0,0,5,18,D,9,2018-05-05,Werder Bremen,D1,1,0,3,3,D,1,Werder Bremen_Leverkusen_2017
+297,1,Stuttgart,10,1,0,4,1,0,2,0,8,A,7,2018-05-12,Bayern Munich,D1,7,8,10,18,A,0,Bayern Munich_Stuttgart_2017
+298,1,Augsburg,13,2,0,0,0,0,0,2,17,H,5,2018-05-12,Freiburg,D1,2,3,5,12,D,4,Freiburg_Augsburg_2017
+299,3,M'gladbach,10,2,0,1,1,1,1,1,7,H,8,2018-05-12,Hamburg,D1,3,8,8,17,D,3,Hamburg_M'gladbach_2017
+300,1,RB Leipzig,12,2,0,6,1,0,3,1,11,A,17,2018-05-12,Hertha,D1,10,4,3,8,A,6,Hertha_RB Leipzig_2017
+301,0,Dortmund,4,3,0,1,1,0,0,0,7,H,10,2018-05-12,Hoffenheim,D1,4,8,2,12,H,3,Hoffenheim_Dortmund_2017
+302,2,Hannover,9,3,0,2,2,0,0,2,11,H,11,2018-05-12,Leverkusen,D1,4,8,5,27,H,2,Leverkusen_Hannover_2017
+303,0,Werder Bremen,10,1,0,2,1,0,1,1,6,A,14,2018-05-12,Mainz,D1,3,1,3,13,D,7,Mainz_Werder Bremen_2017
+304,0,Ein Frankfurt,10,1,0,0,1,0,0,2,12,H,6,2018-05-12,Schalke 04,D1,2,5,4,11,H,3,Schalke 04_Ein Frankfurt_2017
+305,2,FC Koln,12,4,0,1,1,0,1,3,17,H,6,2018-05-12,Wolfsburg,D1,1,8,5,16,D,10,Wolfsburg_FC Koln_2017

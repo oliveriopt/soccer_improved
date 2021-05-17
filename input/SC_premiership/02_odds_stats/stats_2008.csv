@@ -1,0 +1,229 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,2,Inverness C,8,0,0,2,0,M Tumilty,0,1,1,12,A,8,2008-08-09,Aberdeen,SC0,3,2,12,7,A,2,Aberdeen_Inverness C_2008
+1,0,Rangers,7,0,0,1,0,D McDonald,0,0,3,12,A,8,2008-08-09,Falkirk,SC0,5,2,11,6,D,4,Falkirk_Rangers_2008
+2,3,Motherwell,14,3,0,2,2,I Brines,0,1,2,14,H,6,2008-08-09,Hearts,SC0,2,6,1,10,H,3,Hearts_Motherwell_2008
+3,1,Hibernian,8,1,0,0,0,C Murray,0,0,2,12,H,11,2008-08-09,Kilmarnock,SC0,1,5,10,11,D,4,Kilmarnock_Hibernian_2008
+4,1,St Mirren,13,1,1,0,0,E Smith,0,0,0,13,H,6,2008-08-10,Celtic,SC0,2,4,3,12,D,3,Celtic_St Mirren_2008
+5,2,Dundee United,16,3,0,1,2,S Dougal,0,1,4,14,H,9,2008-08-11,Hamilton,SC0,5,11,6,13,H,7,Hamilton_Dundee United_2008
+6,2,Falkirk,13,3,0,2,2,W Collum,0,1,1,15,H,12,2008-08-16,Hibernian,SC0,6,6,0,16,H,4,Hibernian_Falkirk_2008
+7,1,Hamilton,17,0,0,1,0,S O'Reilly,0,1,2,20,A,5,2008-08-16,Inverness C,SC0,2,2,4,6,A,6,Inverness C_Hamilton_2008
+8,0,Aberdeen,9,0,0,1,0,S Conroy,0,0,4,13,A,4,2008-08-16,Motherwell,SC0,3,3,3,5,D,3,Motherwell_Aberdeen_2008
+9,1,Hearts,12,2,1,0,1,S Dougal,0,0,2,13,H,7,2008-08-16,Rangers,SC0,5,7,1,13,H,4,Rangers_Hearts_2008
+10,1,Kilmarnock,14,0,0,0,0,D Somers,0,0,2,12,D,9,2008-08-16,St Mirren,SC0,5,3,4,9,D,9,St Mirren_Kilmarnock_2008
+11,1,Celtic,19,1,0,1,0,C Richmond,0,0,1,14,D,13,2008-08-17,Dundee United,SC0,8,6,5,9,D,5,Dundee United_Celtic_2008
+12,2,Rangers,24,1,0,1,1,C Thomson,0,1,0,18,D,11,2008-08-23,Aberdeen,SC0,4,3,0,5,D,3,Aberdeen_Rangers_2008
+13,1,Falkirk,7,3,0,0,2,I Brines,0,0,2,17,H,8,2008-08-23,Celtic,SC0,5,9,5,16,H,3,Celtic_Falkirk_2008
+14,2,St Mirren,15,2,1,1,1,C Murray,0,0,3,13,H,4,2008-08-23,Hearts,SC0,3,11,13,17,H,2,Hearts_St Mirren_2008
+15,3,Hibernian,8,1,0,1,1,E Smith,0,0,0,5,D,13,2008-08-23,Inverness C,SC0,3,5,8,6,H,2,Inverness C_Hibernian_2008
+16,3,Hamilton,11,1,1,0,1,C Allan,0,0,1,22,H,5,2008-08-23,Kilmarnock,SC0,0,3,12,11,H,4,Kilmarnock_Hamilton_2008
+17,2,Dundee United,18,1,0,1,1,D McDonald,0,1,4,15,D,7,2008-08-23,Motherwell,SC0,3,4,7,8,D,6,Motherwell_Dundee United_2008
+18,1,Kilmarnock,13,0,0,2,0,M Tumilty,0,1,3,12,A,3,2008-08-30,Dundee United,SC0,3,1,13,5,A,2,Dundee United_Kilmarnock_2008
+19,0,Inverness C,12,1,0,2,0,M McCurry,0,0,1,10,A,17,2008-08-30,Falkirk,SC0,8,4,1,6,D,9,Falkirk_Inverness C_2008
+20,2,Hearts,8,1,0,2,0,C Thomson,0,1,0,9,A,13,2008-08-30,Hamilton,SC0,7,2,7,9,A,3,Hamilton_Hearts_2008
+21,0,Motherwell,11,0,0,1,0,S Dougal,0,0,0,13,A,6,2008-08-30,Hibernian,SC0,3,3,3,11,D,2,Hibernian_Motherwell_2008
+22,3,Aberdeen,9,0,0,1,0,W Collum,0,1,2,13,A,8,2008-08-30,St Mirren,SC0,7,7,6,12,A,2,St Mirren_Aberdeen_2008
+23,2,Rangers,12,2,1,4,1,D McDonald,1,1,5,18,A,12,2008-08-31,Celtic,SC0,7,6,7,11,D,8,Celtic_Rangers_2008
+24,2,Hamilton,10,1,0,2,1,A Muir,0,1,3,12,A,3,2008-09-13,Aberdeen,SC0,2,1,2,7,D,4,Aberdeen_Hamilton_2008
+25,3,Hearts,15,2,0,1,1,S Conroy,0,0,1,18,H,8,2008-09-13,Falkirk,SC0,6,5,3,7,H,6,Falkirk_Hearts_2008
+26,2,Dundee United,17,2,0,1,1,D Somers,1,1,2,21,H,9,2008-09-13,Hibernian,SC0,5,2,1,7,D,9,Hibernian_Dundee United_2008
+27,1,St Mirren,15,1,0,2,1,I Brines,0,0,1,19,A,4,2008-09-13,Inverness C,SC0,2,5,3,10,H,4,Inverness C_St Mirren_2008
+28,3,Celtic,12,2,0,4,0,C Thomson,0,4,3,12,A,20,2008-09-13,Motherwell,SC0,13,7,4,13,A,4,Motherwell_Celtic_2008
+29,3,Kilmarnock,17,2,0,1,0,C Murray,1,1,2,13,H,6,2008-09-13,Rangers,SC0,5,11,10,13,A,2,Rangers_Kilmarnock_2008
+30,1,Dundee United,9,0,0,1,0,C Murray,0,0,3,19,A,5,2008-09-20,Aberdeen,SC0,1,4,10,12,D,3,Aberdeen_Dundee United_2008
+31,2,Hibernian,10,0,0,1,0,D McDonald,0,1,2,6,A,10,2008-09-20,Hamilton,SC0,4,4,12,14,A,7,Hamilton_Hibernian_2008
+32,3,Inverness C,13,1,0,0,1,W Collum,0,0,2,8,H,10,2008-09-20,Hearts,SC0,5,4,7,11,H,8,Hearts_Inverness C_2008
+33,1,Falkirk,12,1,0,1,0,E Norris,0,0,2,19,D,7,2008-09-20,St Mirren,SC0,2,4,7,7,D,4,St Mirren_Falkirk_2008
+34,1,Celtic,14,1,1,3,0,M McCurry,0,1,2,15,A,9,2008-09-21,Kilmarnock,SC0,5,2,6,2,A,5,Kilmarnock_Celtic_2008
+35,2,Motherwell,8,2,0,1,0,E Smith,0,0,2,17,H,7,2008-09-21,Rangers,SC0,3,9,1,17,D,3,Rangers_Motherwell_2008
+36,1,Aberdeen,10,3,0,2,1,E Smith,0,0,0,7,H,9,2008-09-27,Celtic,SC0,4,8,7,13,H,2,Celtic_Aberdeen_2008
+37,0,Hearts,15,3,1,0,1,D McDonald,0,0,3,23,H,8,2008-09-27,Dundee United,SC0,5,7,3,13,H,5,Dundee United_Hearts_2008
+38,0,Hamilton,14,4,0,1,1,M Tumilty,0,0,1,16,H,9,2008-09-27,Falkirk,SC0,5,9,3,14,H,5,Falkirk_Hamilton_2008
+39,1,Kilmarnock,19,3,1,1,2,B Winter,0,1,5,20,H,4,2008-09-27,Inverness C,SC0,0,7,8,13,H,0,Inverness C_Kilmarnock_2008
+40,1,St Mirren,10,2,1,1,0,S Conroy,0,1,3,10,H,10,2008-09-27,Motherwell,SC0,5,5,7,12,A,5,Motherwell_St Mirren_2008
+41,1,Rangers,12,0,0,3,0,C Murray,0,2,2,6,A,11,2008-09-28,Hibernian,SC0,3,4,5,5,A,9,Hibernian_Rangers_2008
+42,2,Hibernian,6,1,0,2,1,M McCurry,1,1,1,15,A,11,2008-10-04,Aberdeen,SC0,4,6,5,12,D,1,Aberdeen_Hibernian_2008
+43,1,Hamilton,9,4,0,0,2,S Conroy,0,0,1,18,H,5,2008-10-04,Celtic,SC0,3,16,9,21,H,2,Celtic_Hamilton_2008
+44,1,Inverness C,16,2,0,1,1,I Brines,0,0,2,18,H,12,2008-10-04,Dundee United,SC0,5,8,10,14,H,7,Dundee United_Inverness C_2008
+45,1,Kilmarnock,10,1,0,2,1,C Thomson,0,1,6,18,A,7,2008-10-04,Hearts,SC0,3,3,3,10,D,4,Hearts_Kilmarnock_2008
+46,0,Falkirk,18,3,0,2,2,S O'Reilly,0,1,2,14,H,9,2008-10-05,Motherwell,SC0,4,6,7,12,H,5,Motherwell_Falkirk_2008
+47,2,Rangers,16,1,0,0,0,W Collum,0,0,2,12,H,24,2008-10-05,St Mirren,SC0,12,1,1,4,D,14,St Mirren_Rangers_2008
+48,4,Aberdeen,20,0,0,1,0,W Collum,1,0,1,10,A,8,2008-10-18,Falkirk,SC0,4,3,3,11,D,1,Falkirk_Aberdeen_2008
+49,2,St Mirren,7,1,0,2,1,D Somers,0,2,1,15,A,6,2008-10-18,Hamilton,SC0,5,1,2,6,A,5,Hamilton_St Mirren_2008
+50,3,Celtic,12,1,0,2,0,I Brines,0,0,3,12,A,8,2008-10-18,Inverness C,SC0,7,3,3,7,D,6,Inverness C_Celtic_2008
+51,3,Motherwell,18,1,1,0,0,A Muir,0,0,2,12,H,10,2008-10-18,Kilmarnock,SC0,6,6,3,7,D,7,Kilmarnock_Motherwell_2008
+52,3,Hearts,17,1,0,1,1,C Thomson,0,1,2,11,D,7,2008-10-19,Hibernian,SC0,2,4,4,10,D,3,Hibernian_Hearts_2008
+53,2,Hibernian,9,4,0,2,2,C Murray,0,1,3,9,H,6,2008-10-25,Celtic,SC0,4,12,17,20,H,1,Celtic_Hibernian_2008
+54,1,St Mirren,18,2,0,0,0,B Winter,0,0,2,10,H,10,2008-10-25,Dundee United,SC0,8,10,10,18,D,3,Dundee United_St Mirren_2008
+55,0,Rangers,13,1,0,3,1,D McDonald,0,1,0,9,A,10,2008-10-25,Hamilton,SC0,4,2,5,5,D,4,Hamilton_Rangers_2008
+56,1,Aberdeen,10,1,0,1,1,S Conroy,0,1,1,13,D,6,2008-10-25,Hearts,SC0,3,2,8,12,D,3,Hearts_Aberdeen_2008
+57,0,Motherwell,13,1,0,2,0,E Norris,0,0,1,15,A,5,2008-10-25,Inverness C,SC0,2,5,5,11,D,7,Inverness C_Motherwell_2008
+58,1,Falkirk,14,1,1,2,0,M McCurry,0,1,1,12,A,5,2008-10-25,Kilmarnock,SC0,2,5,4,10,A,4,Kilmarnock_Falkirk_2008
+59,1,Kilmarnock,11,1,0,0,0,D Somers,0,0,4,16,H,8,2008-11-01,Aberdeen,SC0,4,5,5,14,D,7,Aberdeen_Kilmarnock_2008
+60,1,Dundee United,14,0,1,0,0,I Brines,0,0,1,15,D,5,2008-11-01,Falkirk,SC0,3,7,5,10,D,4,Falkirk_Dundee United_2008
+61,3,Hamilton,10,2,0,0,1,M Tumilty,0,0,2,17,H,6,2008-11-01,Motherwell,SC0,2,8,5,13,H,2,Motherwell_Hamilton_2008
+62,0,Inverness C,12,5,0,0,5,C Allan,0,0,1,8,H,8,2008-11-01,Rangers,SC0,1,8,6,16,H,5,Rangers_Inverness C_2008
+63,1,Hibernian,6,0,0,0,0,S Finnie,0,0,1,15,D,11,2008-11-01,St Mirren,SC0,8,7,5,13,D,6,St Mirren_Hibernian_2008
+64,0,Celtic,14,0,0,2,0,C Thomson,1,2,1,12,A,7,2008-11-02,Hearts,SC0,3,4,5,7,A,1,Hearts_Celtic_2008
+65,1,Dundee United,8,3,0,3,2,C Thomson,0,2,3,13,D,8,2008-11-04,Rangers,SC0,4,10,10,20,D,1,Rangers_Dundee United_2008
+66,1,Motherwell,11,2,1,0,1,D McDonald,0,0,1,13,H,9,2008-11-08,Celtic,SC0,5,7,3,15,H,6,Celtic_Motherwell_2008
+67,3,Aberdeen,17,2,0,1,2,W Collum,0,0,2,12,H,12,2008-11-08,Dundee United,SC0,4,5,3,10,H,5,Dundee United_Aberdeen_2008
+68,3,Falkirk,15,1,0,1,1,C Murray,0,0,1,11,D,9,2008-11-08,Hamilton,SC0,1,2,8,11,H,5,Hamilton_Falkirk_2008
+69,2,Inverness C,10,1,0,2,0,C Boyle,0,1,2,18,A,7,2008-11-08,Hibernian,SC0,3,5,4,8,A,5,Hibernian_Inverness C_2008
+70,0,Hearts,12,0,1,1,0,M McCurry,0,0,0,13,A,7,2008-11-08,St Mirren,SC0,3,2,2,11,D,8,St Mirren_Hearts_2008
+71,1,Rangers,12,0,0,4,0,E Smith,0,0,2,12,A,12,2008-11-09,Kilmarnock,SC0,7,2,1,4,D,6,Kilmarnock_Rangers_2008
+72,2,St Mirren,9,2,0,0,0,B Winter,0,0,2,8,H,7,2008-11-11,Aberdeen,SC0,3,6,3,9,D,3,Aberdeen_St Mirren_2008
+73,0,Kilmarnock,7,3,0,0,1,M Tumilty,0,0,2,19,H,2,2008-11-12,Celtic,SC0,0,11,4,17,H,2,Celtic_Kilmarnock_2008
+74,1,Hibernian,12,2,0,0,0,E Smith,0,0,1,11,H,12,2008-11-12,Dundee United,SC0,4,8,6,17,D,6,Dundee United_Hibernian_2008
+75,1,Hamilton,6,1,0,0,1,D McDonald,0,0,1,12,H,6,2008-11-12,Hearts,SC0,2,8,1,13,H,3,Hearts_Hamilton_2008
+76,1,Falkirk,15,1,0,1,0,C Thomson,0,1,2,12,D,6,2008-11-12,Inverness C,SC0,2,3,10,8,A,4,Inverness C_Falkirk_2008
+77,0,Rangers,8,0,0,0,0,S Conroy,0,0,1,11,D,9,2008-11-12,Motherwell,SC0,7,6,5,8,D,3,Motherwell_Rangers_2008
+78,0,Motherwell,12,1,0,0,1,W Collum,0,0,0,15,H,9,2008-11-15,Falkirk,SC0,4,8,6,12,H,1,Falkirk_Motherwell_2008
+79,1,Aberdeen,17,2,0,2,0,S O'Reilly,0,1,0,14,D,6,2008-11-15,Hibernian,SC0,2,10,7,19,A,3,Hibernian_Aberdeen_2008
+80,0,Hearts,15,0,0,1,0,M Tumilty,0,1,1,16,A,5,2008-11-15,Inverness C,SC0,3,5,1,14,A,5,Inverness C_Hearts_2008
+81,3,Dundee United,14,2,0,0,1,E Norris,0,0,1,22,H,5,2008-11-15,Kilmarnock,SC0,2,1,2,5,H,2,Kilmarnock_Dundee United_2008
+82,2,St Mirren,12,2,0,1,2,D Somers,0,0,1,7,H,10,2008-11-15,Rangers,SC0,4,6,5,19,H,4,Rangers_St Mirren_2008
+83,1,Celtic,9,1,0,2,1,S Conroy,1,1,1,7,A,15,2008-11-16,Hamilton,SC0,10,3,4,6,D,9,Hamilton_Celtic_2008
+84,4,Hamilton,15,1,1,1,0,C Allan,0,1,3,23,D,8,2008-11-22,Dundee United,SC0,4,6,5,10,A,2,Dundee United_Hamilton_2008
+85,1,Falkirk,8,2,0,1,1,E Smith,0,1,2,18,H,7,2008-11-22,Hearts,SC0,3,3,3,10,D,3,Hearts_Falkirk_2008
+86,4,Inverness C,12,1,0,2,0,S Finnie,0,2,3,13,A,5,2008-11-22,Kilmarnock,SC0,1,3,6,6,A,2,Kilmarnock_Inverness C_2008
+87,2,Hibernian,13,1,0,4,1,C Richmond,0,1,3,18,A,16,2008-11-22,Motherwell,SC0,10,5,5,6,D,4,Motherwell_Hibernian_2008
+88,1,Aberdeen,13,2,0,0,0,C Thomson,0,0,1,14,H,9,2008-11-22,Rangers,SC0,5,11,7,20,D,6,Rangers_Aberdeen_2008
+89,2,Celtic,7,1,0,3,0,W Collum,0,0,1,12,A,15,2008-11-22,St Mirren,SC0,8,1,9,2,D,5,St Mirren_Celtic_2008
+90,2,Motherwell,8,2,1,0,0,C Boyle,0,0,3,20,H,4,2008-11-29,Aberdeen,SC0,3,3,4,9,D,4,Aberdeen_Motherwell_2008
+91,1,Inverness C,12,1,0,0,1,D Somers,0,0,0,8,H,5,2008-11-29,Celtic,SC0,2,4,4,9,H,4,Celtic_Inverness C_2008
+92,1,Hibernian,11,1,0,1,0,A Muir,0,0,1,19,D,10,2008-11-29,Falkirk,SC0,2,2,6,9,D,9,Falkirk_Hibernian_2008
+93,1,Kilmarnock,14,1,0,0,0,I Brines,0,0,3,16,H,2,2008-11-29,Hamilton,SC0,0,2,1,4,D,7,Hamilton_Kilmarnock_2008
+94,1,Rangers,22,2,0,1,2,D McDonald,1,1,4,22,H,10,2008-11-29,Hearts,SC0,4,7,4,10,H,4,Hearts_Rangers_2008
+95,1,Dundee United,14,0,0,2,0,C Murray,0,1,0,20,A,11,2008-11-29,St Mirren,SC0,4,0,2,7,A,5,St Mirren_Dundee United_2008
+96,2,St Mirren,18,1,0,2,0,D McDonald,1,1,1,9,A,5,2008-12-06,Falkirk,SC0,4,4,5,11,A,8,Falkirk_St Mirren_2008
+97,1,Dundee United,15,1,0,3,0,B Winter,0,0,2,14,A,7,2008-12-06,Inverness C,SC0,5,3,5,7,D,6,Inverness C_Dundee United_2008
+98,1,Hamilton,10,7,1,1,2,C Murray,0,1,1,17,H,5,2008-12-06,Rangers,SC0,1,14,9,27,H,1,Rangers_Hamilton_2008
+99,1,Celtic,10,2,0,0,0,C Thomson,0,0,1,12,H,16,2008-12-07,Hibernian,SC0,10,8,2,11,D,12,Hibernian_Celtic_2008
+100,1,Falkirk,6,2,0,1,2,C Allan,0,0,2,12,H,7,2008-12-13,Aberdeen,SC0,1,1,5,6,H,4,Aberdeen_Falkirk_2008
+101,0,Hearts,10,1,0,1,0,C Richmond,0,1,3,15,D,9,2008-12-13,Celtic,SC0,6,2,3,8,A,9,Celtic_Hearts_2008
+102,1,Rangers,9,2,0,2,0,I Brines,0,1,3,15,D,10,2008-12-13,Dundee United,SC0,6,3,5,7,A,4,Dundee United_Rangers_2008
+103,1,Hamilton,13,2,0,0,1,B Winter,0,0,3,19,H,10,2008-12-13,Hibernian,SC0,4,11,5,21,H,7,Hibernian_Hamilton_2008
+104,0,Inverness C,3,2,0,0,1,S Conroy,0,0,1,11,H,9,2008-12-13,St Mirren,SC0,6,8,7,16,H,6,St Mirren_Inverness C_2008
+105,0,Kilmarnock,6,0,0,2,0,M Tumilty,0,1,1,6,A,9,2008-12-15,Motherwell,SC0,7,8,4,13,A,3,Motherwell_Kilmarnock_2008
+106,2,Motherwell,16,2,0,0,1,I Brines,0,0,3,12,H,13,2008-12-20,Hamilton,SC0,6,4,1,8,H,3,Hamilton_Motherwell_2008
+107,2,Dundee United,12,0,0,0,0,W Collum,0,0,1,11,D,4,2008-12-20,Hearts,SC0,1,7,6,8,D,5,Hearts_Dundee United_2008
+108,3,Aberdeen,12,0,0,3,0,C Murray,0,1,1,9,A,10,2008-12-20,Inverness C,SC0,7,7,10,17,A,5,Inverness C_Aberdeen_2008
+109,3,St Mirren,18,0,0,1,0,S O'Reilly,0,1,1,12,A,9,2008-12-20,Kilmarnock,SC0,4,6,6,14,A,6,Kilmarnock_St Mirren_2008
+110,0,Hibernian,12,1,0,0,0,S Conroy,0,0,1,9,H,2,2008-12-20,Rangers,SC0,1,11,11,25,D,0,Rangers_Hibernian_2008
+111,3,Celtic,10,0,0,3,0,E Smith,0,0,1,8,A,16,2008-12-21,Falkirk,SC0,9,4,3,5,D,6,Falkirk_Celtic_2008
+112,4,Hearts,15,1,1,0,1,I Brines,0,0,3,10,H,2,2008-12-27,Aberdeen,SC0,1,6,3,8,H,6,Aberdeen_Hearts_2008
+113,0,Falkirk,5,1,1,0,1,C Boyle,0,0,2,18,H,9,2008-12-27,Dundee United,SC0,1,1,11,8,H,8,Dundee United_Falkirk_2008
+114,4,Kilmarnock,18,2,1,4,2,E Norris,0,2,1,18,A,7,2008-12-27,Hibernian,SC0,6,5,10,9,D,4,Hibernian_Kilmarnock_2008
+115,0,Inverness C,14,3,0,2,2,C Richmond,0,1,3,7,H,8,2008-12-27,Motherwell,SC0,5,5,4,12,H,5,Motherwell_Inverness C_2008
+116,1,Celtic,18,0,0,1,0,C Thomson,0,0,2,17,A,6,2008-12-27,Rangers,SC0,4,7,7,14,D,2,Rangers_Celtic_2008
+117,2,Hamilton,8,1,0,0,0,M Tumilty,0,0,1,15,H,8,2008-12-27,St Mirren,SC0,1,5,11,11,D,2,St Mirren_Hamilton_2008
+118,1,Dundee United,8,2,0,2,1,S Conroy,0,0,1,14,D,5,2009-01-03,Celtic,SC0,3,5,3,9,H,8,Celtic_Dundee United_2008
+119,4,Kilmarnock,18,1,0,1,1,I Brines,0,0,4,18,D,10,2009-01-03,Falkirk,SC0,4,4,5,10,H,3,Falkirk_Kilmarnock_2008
+120,2,Aberdeen,16,2,0,0,0,S Finnie,1,0,2,17,H,13,2009-01-03,Hamilton,SC0,3,3,3,7,D,9,Hamilton_Aberdeen_2008
+121,1,Hibernian,7,0,0,0,0,C Murray,0,0,3,17,D,6,2009-01-03,Hearts,SC0,1,8,6,18,D,2,Hearts_Hibernian_2008
+122,2,Motherwell,14,0,0,0,0,A Muir,0,0,1,18,D,5,2009-01-03,St Mirren,SC0,4,3,3,7,D,6,St Mirren_Motherwell_2008
+123,1,Rangers,5,0,0,3,0,D McDonald,0,0,0,4,A,20,2009-01-04,Inverness C,SC0,13,5,4,11,D,7,Inverness C_Rangers_2008
+124,1,Hearts,18,1,0,0,1,D Somers,0,0,0,16,H,3,2009-01-07,Motherwell,SC0,1,1,5,3,H,5,Motherwell_Hearts_2008
+125,4,Aberdeen,16,1,0,2,1,E Smith,0,1,3,8,A,13,2009-01-13,Kilmarnock,SC0,9,7,7,13,D,6,Kilmarnock_Aberdeen_2008
+126,1,Inverness C,10,1,0,0,1,B Winter,0,0,4,18,H,8,2009-01-17,Hamilton,SC0,3,1,1,6,H,5,Hamilton_Inverness C_2008
+127,2,St Mirren,11,2,0,0,1,I Brines,0,0,1,9,H,14,2009-01-17,Hibernian,SC0,7,6,7,15,H,8,Hibernian_St Mirren_2008
+128,1,Hearts,11,0,0,2,0,C Richmond,0,0,3,19,A,6,2009-01-17,Kilmarnock,SC0,5,7,5,12,D,6,Kilmarnock_Hearts_2008
+129,1,Falkirk,7,3,1,1,1,W Collum,1,1,3,14,H,5,2009-01-17,Rangers,SC0,1,12,12,22,D,1,Rangers_Falkirk_2008
+130,2,Celtic,10,4,0,2,2,D McDonald,0,1,2,17,H,14,2009-01-18,Aberdeen,SC0,8,6,5,8,H,9,Aberdeen_Celtic_2008
+131,2,Motherwell,10,0,0,4,0,E Smith,0,3,1,10,A,7,2009-01-18,Dundee United,SC0,6,2,6,6,A,3,Dundee United_Motherwell_2008
+132,1,Rangers,9,0,0,0,0,C Murray,0,0,1,20,D,12,2009-01-24,Aberdeen,SC0,4,4,3,7,D,6,Aberdeen_Rangers_2008
+133,0,Hibernian,11,3,0,1,2,D Somers,0,1,2,13,H,8,2009-01-24,Celtic,SC0,4,8,9,13,H,4,Celtic_Hibernian_2008
+134,4,St Mirren,13,3,0,2,0,S O'Reilly,0,1,2,15,H,6,2009-01-24,Dundee United,SC0,1,9,9,13,A,2,Dundee United_St Mirren_2008
+135,0,Inverness C,10,3,1,2,1,S Conroy,0,0,4,11,H,7,2009-01-24,Hearts,SC0,2,4,10,8,H,5,Hearts_Inverness C_2008
+136,1,Falkirk,7,1,0,1,1,C Allan,0,0,3,13,D,7,2009-01-24,Motherwell,SC0,5,2,3,11,H,3,Motherwell_Falkirk_2008
+137,2,Hamilton,11,0,0,1,0,C Thomson,0,0,3,14,A,11,2009-01-25,Kilmarnock,SC0,5,1,3,6,D,8,Kilmarnock_Hamilton_2008
+138,3,Aberdeen,21,1,0,0,0,E Norris,0,0,1,10,H,8,2009-01-31,Falkirk,SC0,5,4,3,10,D,4,Falkirk_Aberdeen_2008
+139,1,Hearts,12,2,0,0,1,E Smith,0,0,1,8,H,10,2009-01-31,Hamilton,SC0,4,3,6,4,H,4,Hamilton_Hearts_2008
+140,1,Motherwell,14,1,0,1,1,M McCurry,0,0,0,15,D,12,2009-01-31,Hibernian,SC0,9,3,1,7,H,6,Hibernian_Motherwell_2008
+141,1,Dundee United,7,2,0,0,0,I Brines,0,0,1,14,H,5,2009-01-31,Rangers,SC0,2,9,4,12,D,2,Rangers_Dundee United_2008
+142,1,Kilmarnock,11,1,0,1,0,W Collum,0,1,4,15,D,9,2009-01-31,St Mirren,SC0,4,4,12,9,A,6,St Mirren_Kilmarnock_2008
+143,2,Celtic,18,0,0,0,0,C Richmond,0,0,2,14,D,7,2009-02-01,Inverness C,SC0,2,4,3,12,D,4,Inverness C_Celtic_2008
+144,1,Inverness C,13,1,1,1,0,C Thomson,0,1,2,11,D,11,2009-02-14,Dundee United,SC0,4,3,11,8,A,3,Dundee United_Inverness C_2008
+145,2,Aberdeen,16,2,0,1,1,C Richmond,0,1,1,18,H,10,2009-02-14,Hearts,SC0,5,6,6,12,D,3,Hearts_Aberdeen_2008
+146,3,Hibernian,20,1,0,1,0,C Boyle,0,1,1,18,D,14,2009-02-14,Kilmarnock,SC0,10,3,10,8,A,4,Kilmarnock_Hibernian_2008
+147,1,Hamilton,9,1,0,0,1,D McDonald,0,0,2,14,H,7,2009-02-14,Motherwell,SC0,2,2,2,4,H,5,Motherwell_Hamilton_2008
+148,1,Falkirk,13,2,0,2,1,M Tumilty,0,1,5,13,D,11,2009-02-14,St Mirren,SC0,5,7,3,15,D,2,St Mirren_Falkirk_2008
+149,3,Rangers,19,0,0,0,0,C Murray,0,0,5,15,D,5,2009-02-15,Celtic,SC0,2,2,4,5,D,4,Celtic_Rangers_2008
+150,3,Dundee United,13,2,0,2,0,W Collum,0,1,2,23,D,3,2009-02-21,Aberdeen,SC0,2,6,6,14,A,5,Aberdeen_Dundee United_2008
+151,2,Hamilton,15,1,0,2,1,C Murray,0,1,0,12,A,13,2009-02-21,Falkirk,SC0,5,2,5,4,D,6,Falkirk_Hamilton_2008
+152,2,St Mirren,14,1,0,1,0,D Somers,0,0,4,16,D,7,2009-02-21,Hearts,SC0,3,5,5,13,D,2,Hearts_St Mirren_2008
+153,1,Hibernian,12,2,0,0,1,A Muir,0,0,3,16,H,3,2009-02-21,Inverness C,SC0,0,2,3,7,H,2,Inverness C_Hibernian_2008
+154,1,Kilmarnock,7,3,0,1,3,B Winter,0,1,2,12,H,7,2009-02-21,Rangers,SC0,3,10,8,14,H,1,Rangers_Kilmarnock_2008
+155,2,Celtic,11,1,0,1,0,I Brines,0,0,1,12,D,13,2009-02-22,Motherwell,SC0,8,1,1,1,D,1,Motherwell_Celtic_2008
+156,1,Kilmarnock,12,0,0,0,0,D McDonald,0,0,2,13,D,5,2009-02-28,Aberdeen,SC0,3,2,7,7,D,1,Aberdeen_Kilmarnock_2008
+157,1,St Mirren,9,7,1,0,2,C Allan,0,0,2,9,H,3,2009-02-28,Celtic,SC0,1,11,11,24,H,3,Celtic_St Mirren_2008
+158,4,Hearts,12,0,0,1,0,E Smith,0,0,2,14,A,5,2009-02-28,Dundee United,SC0,2,4,4,10,D,1,Dundee United_Hearts_2008
+159,2,Rangers,15,0,0,1,0,C Thomson,0,1,2,11,A,23,2009-02-28,Hamilton,SC0,13,3,3,5,A,14,Hamilton_Rangers_2008
+160,3,Falkirk,11,0,0,0,0,S Finnie,0,0,0,11,D,9,2009-02-28,Hibernian,SC0,2,2,5,6,D,4,Hibernian_Falkirk_2008
+161,0,Motherwell,12,1,0,2,1,M McCurry,0,1,1,12,A,10,2009-02-28,Inverness C,SC0,5,6,7,11,D,7,Inverness C_Motherwell_2008
+162,2,Dundee United,14,0,0,1,0,D McDonald,0,1,1,15,A,9,2009-03-03,Falkirk,SC0,3,1,12,7,A,3,Falkirk_Dundee United_2008
+163,0,Aberdeen,13,1,0,1,0,C Boyle,0,0,1,11,D,11,2009-03-03,St Mirren,SC0,3,6,3,10,D,7,St Mirren_Aberdeen_2008
+164,0,Hibernian,13,0,0,1,0,S O'Reilly,0,0,4,18,A,8,2009-03-04,Hamilton,SC0,1,3,5,9,D,2,Hamilton_Hibernian_2008
+165,1,Motherwell,10,2,0,1,0,B Winter,0,0,1,7,H,9,2009-03-04,Hearts,SC0,4,5,5,7,D,10,Hearts_Motherwell_2008
+166,2,Celtic,9,1,0,2,1,C Thomson,0,1,2,11,A,19,2009-03-04,Kilmarnock,SC0,8,4,6,6,D,8,Kilmarnock_Celtic_2008
+167,1,Inverness C,9,0,0,1,0,C Murray,1,0,1,8,A,4,2009-03-04,Rangers,SC0,0,7,13,9,D,0,Rangers_Inverness C_2008
+168,2,Hamilton,10,1,0,0,1,E Norris,0,0,3,12,H,5,2009-03-14,Aberdeen,SC0,0,4,4,7,H,5,Aberdeen_Hamilton_2008
+169,0,Hearts,18,1,1,0,1,C Richmond,1,0,1,14,H,10,2009-03-14,Hibernian,SC0,4,5,7,9,H,4,Hibernian_Hearts_2008
+170,0,Kilmarnock,13,2,0,1,2,M Tumilty,0,1,2,15,H,7,2009-03-14,Inverness C,SC0,4,2,3,4,H,4,Inverness C_Kilmarnock_2008
+171,2,Dundee United,10,2,0,1,1,I Brines,0,0,4,13,H,12,2009-03-14,Motherwell,SC0,7,4,4,14,H,9,Motherwell_Dundee United_2008
+172,0,Inverness C,17,4,1,0,1,C Murray,0,0,1,17,H,7,2009-03-21,Falkirk,SC0,2,5,3,6,H,3,Falkirk_Inverness C_2008
+173,2,St Mirren,13,0,0,0,0,S Finnie,1,0,1,14,D,9,2009-03-21,Hamilton,SC0,3,2,6,8,D,7,Hamilton_St Mirren_2008
+174,2,Aberdeen,9,0,1,0,0,M McCurry,0,0,0,7,D,12,2009-03-21,Hibernian,SC0,2,7,5,15,D,5,Hibernian_Aberdeen_2008
+175,3,Motherwell,16,0,0,0,0,D McDonald,0,0,2,13,D,9,2009-03-21,Kilmarnock,SC0,5,4,5,9,D,4,Kilmarnock_Motherwell_2008
+176,1,Hearts,9,2,0,2,2,C Thomson,0,0,3,9,D,6,2009-03-21,Rangers,SC0,4,6,11,14,H,1,Rangers_Hearts_2008
+177,1,Celtic,9,2,0,2,0,S Conroy,0,1,1,9,D,13,2009-03-22,Dundee United,SC0,8,8,7,15,A,6,Dundee United_Celtic_2008
+178,0,Hamilton,9,4,0,0,2,B Winter,0,0,1,12,H,8,2009-04-04,Celtic,SC0,3,11,5,19,H,4,Celtic_Hamilton_2008
+179,1,Hibernian,10,2,0,2,0,E Smith,0,2,2,16,D,12,2009-04-04,Dundee United,SC0,7,9,12,15,A,2,Dundee United_Hibernian_2008
+180,0,Kilmarnock,8,3,0,1,2,D Somers,0,1,3,23,H,7,2009-04-04,Hearts,SC0,3,7,4,13,H,4,Hearts_Kilmarnock_2008
+181,1,St Mirren,10,2,0,1,1,W Collum,0,1,2,9,H,5,2009-04-04,Inverness C,SC0,3,5,5,12,D,1,Inverness C_St Mirren_2008
+182,0,Aberdeen,12,1,1,1,1,C Allan,0,0,3,15,D,6,2009-04-04,Motherwell,SC0,3,5,6,15,H,4,Motherwell_Aberdeen_2008
+183,1,Rangers,11,0,0,1,0,I Brines,0,1,4,15,A,5,2009-04-05,Falkirk,SC0,2,3,2,8,A,1,Falkirk_Rangers_2008
+184,1,Falkirk,5,4,0,0,1,W Collum,0,0,2,16,H,6,2009-04-08,Celtic,SC0,4,9,10,16,H,7,Celtic_Falkirk_2008
+185,2,Rangers,12,1,0,2,0,E Smith,0,2,2,13,A,12,2009-04-08,St Mirren,SC0,6,4,9,7,A,4,St Mirren_Rangers_2008
+186,0,Inverness C,10,1,0,0,0,A Muir,0,0,1,19,H,7,2009-04-11,Aberdeen,SC0,2,5,9,15,D,3,Aberdeen_Inverness C_2008
+187,2,Dundee United,18,0,0,1,0,C Murray,0,1,2,19,A,13,2009-04-11,Hamilton,SC0,8,4,7,6,A,2,Hamilton_Dundee United_2008
+188,0,Celtic,16,1,0,1,1,C Thomson,0,1,1,13,D,10,2009-04-11,Hearts,SC0,4,3,11,10,D,8,Hearts_Celtic_2008
+189,1,Falkirk,15,3,0,0,2,C Richmond,0,0,2,18,H,10,2009-04-11,Kilmarnock,SC0,5,6,3,12,H,2,Kilmarnock_Falkirk_2008
+190,1,Motherwell,15,3,0,1,2,D Somers,0,1,2,14,H,7,2009-04-11,Rangers,SC0,2,5,3,8,H,4,Rangers_Motherwell_2008
+191,0,Hibernian,4,1,0,1,1,I Brines,0,1,4,13,D,10,2009-04-13,St Mirren,SC0,4,8,12,13,D,2,St Mirren_Hibernian_2008
+192,1,Aberdeen,9,2,0,0,1,D McDonald,0,0,0,14,H,8,2009-04-18,Celtic,SC0,4,7,6,10,H,5,Celtic_Aberdeen_2008
+193,2,Kilmarnock,14,0,0,0,0,W Collum,1,0,1,18,D,10,2009-04-18,Dundee United,SC0,6,3,7,5,D,3,Dundee United_Kilmarnock_2008
+194,2,Hearts,10,0,0,0,0,E Smith,0,0,2,15,D,9,2009-04-18,Falkirk,SC0,3,1,2,3,D,7,Falkirk_Hearts_2008
+195,3,Hamilton,18,1,0,1,0,C Boyle,0,1,2,15,D,4,2009-04-18,Inverness C,SC0,4,2,3,8,A,0,Inverness C_Hamilton_2008
+196,0,St Mirren,14,0,0,2,0,M McCurry,0,0,2,10,A,6,2009-04-18,Motherwell,SC0,6,7,8,13,D,4,Motherwell_St Mirren_2008
+197,2,Rangers,7,2,0,3,1,S Conroy,0,1,0,9,A,11,2009-04-19,Hibernian,SC0,8,7,2,13,D,4,Hibernian_Rangers_2008
+198,1,Celtic,11,1,0,3,1,D McDonald,0,1,1,13,A,14,2009-05-02,Aberdeen,SC0,9,4,5,7,D,7,Aberdeen_Celtic_2008
+199,2,Motherwell,8,2,0,1,1,W Collum,1,0,4,14,H,7,2009-05-02,Falkirk,SC0,3,3,3,10,H,15,Falkirk_Motherwell_2008
+200,0,Kilmarnock,9,2,0,1,1,M Tumilty,0,0,1,7,H,7,2009-05-02,Hamilton,SC0,2,2,1,5,H,15,Hamilton_Kilmarnock_2008
+201,1,Dundee United,13,1,0,2,1,S O'Reilly,1,1,2,14,A,13,2009-05-02,Hibernian,SC0,5,2,3,4,D,9,Hibernian_Dundee United_2008
+202,0,Inverness C,6,1,0,2,0,S Conroy,0,1,1,14,A,11,2009-05-02,St Mirren,SC0,6,5,8,10,A,6,St Mirren_Inverness C_2008
+203,1,Hearts,11,2,0,0,1,I Brines,0,0,2,10,H,13,2009-05-03,Rangers,SC0,7,7,3,13,H,4,Rangers_Hearts_2008
+204,2,Aberdeen,17,1,1,1,1,C Boyle,0,1,2,9,D,10,2009-05-07,Dundee United,SC0,6,3,8,10,D,9,Dundee United_Aberdeen_2008
+205,0,Hibernian,16,0,0,1,0,S Conroy,1,0,3,14,A,6,2009-05-07,Hearts,SC0,3,3,7,9,D,4,Hearts_Hibernian_2008
+206,2,Falkirk,14,1,0,1,0,A Muir,0,0,1,25,D,2,2009-05-09,Kilmarnock,SC0,2,7,4,13,D,4,Kilmarnock_Falkirk_2008
+207,3,Celtic,16,1,0,0,1,C Thomson,0,0,3,18,H,10,2009-05-09,Rangers,SC0,5,6,3,11,H,7,Rangers_Celtic_2008
+208,0,Motherwell,9,1,0,3,0,B Winter,0,2,1,15,A,9,2009-05-09,St Mirren,SC0,4,3,6,6,A,4,St Mirren_Motherwell_2008
+209,0,Hamilton,16,1,1,1,0,C Richmond,0,0,1,16,D,7,2009-05-10,Inverness C,SC0,2,7,7,12,D,5,Inverness C_Hamilton_2008
+210,2,Hearts,12,0,1,0,0,S Finnie,0,0,4,15,D,6,2009-05-12,Aberdeen,SC0,1,6,4,14,D,4,Aberdeen_Hearts_2008
+211,2,Dundee United,15,2,0,1,1,S Dougal,0,0,2,14,H,10,2009-05-12,Celtic,SC0,6,5,8,10,H,0,Celtic_Dundee United_2008
+212,1,Falkirk,17,0,0,1,0,M McCurry,0,0,2,17,A,4,2009-05-13,Hamilton,SC0,1,2,10,7,D,2,Hamilton_Falkirk_2008
+213,2,Rangers,9,1,0,1,1,E Smith,0,0,3,9,D,16,2009-05-13,Hibernian,SC0,6,3,0,5,H,11,Hibernian_Rangers_2008
+214,1,St Mirren,14,2,0,1,1,C Allan,0,0,2,15,H,8,2009-05-13,Kilmarnock,SC0,5,7,1,9,H,6,Kilmarnock_St Mirren_2008
+215,0,Inverness C,12,2,0,2,1,D McDonald,0,1,2,17,D,10,2009-05-13,Motherwell,SC0,6,2,3,9,D,2,Motherwell_Inverness C_2008
+216,0,St Mirren,18,0,0,2,0,C Boyle,1,1,0,7,A,14,2009-05-16,Falkirk,SC0,8,1,2,7,A,5,Falkirk_St Mirren_2008
+217,3,Motherwell,17,0,0,3,0,A Muir,0,1,2,12,A,10,2009-05-16,Hamilton,SC0,6,7,6,14,A,5,Hamilton_Motherwell_2008
+218,0,Dundee United,8,3,0,0,2,B Winter,0,0,3,13,H,7,2009-05-16,Hearts,SC0,3,7,5,11,H,9,Hearts_Dundee United_2008
+219,4,Inverness C,13,1,0,0,0,W Collum,0,0,4,14,H,11,2009-05-16,Kilmarnock,SC0,7,2,5,6,D,4,Kilmarnock_Inverness C_2008
+220,2,Aberdeen,10,2,1,1,0,S Dougal,1,0,1,3,H,8,2009-05-16,Rangers,SC0,6,7,8,15,D,2,Rangers_Aberdeen_2008
+221,5,Celtic,13,0,0,0,0,I Brines,0,0,1,14,D,12,2009-05-17,Hibernian,SC0,1,5,2,9,D,13,Hibernian_Celtic_2008
+222,1,Falkirk,12,0,0,1,0,E Smith,1,0,1,17,A,6,2009-05-23,Inverness C,SC0,4,3,3,9,D,4,Inverness C_Falkirk_2008
+223,1,Kilmarnock,9,1,0,2,0,S Nicholls,0,1,1,9,A,7,2009-05-23,Motherwell,SC0,4,5,7,13,A,2,Motherwell_Kilmarnock_2008
+224,1,Hamilton,9,0,0,1,0,C Murray,0,1,2,16,A,6,2009-05-23,St Mirren,SC0,4,2,5,10,A,2,St Mirren_Hamilton_2008
+225,1,Hibernian,14,2,1,1,2,D Somers,0,1,3,15,H,7,2009-05-24,Aberdeen,SC0,4,8,12,11,H,2,Aberdeen_Hibernian_2008
+226,0,Hearts,8,0,0,0,0,C Thomson,0,0,1,14,D,2,2009-05-24,Celtic,SC0,2,9,11,18,D,0,Celtic_Hearts_2008
+227,3,Rangers,11,0,0,3,0,D McDonald,0,2,2,14,A,10,2009-05-24,Dundee United,SC0,7,4,3,5,A,2,Dundee United_Rangers_2008

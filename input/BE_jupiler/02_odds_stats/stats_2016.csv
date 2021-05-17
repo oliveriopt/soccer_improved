@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,B1,Club Brugge,A,2,2016-07-29,A,Mechelen,0,2,Mechelen_Club Brugge_2016
+1,0,B1,Waasland-Beveren,H,0,2016-07-30,D,Charleroi,1,0,Charleroi_Waasland-Beveren_2016
+2,1,B1,Anderlecht,A,0,2016-07-30,H,Mouscron,1,2,Mouscron_Anderlecht_2016
+3,0,B1,Lokeren,H,0,2016-07-30,D,St Truiden,1,0,St Truiden_Lokeren_2016
+4,0,B1,Eupen,H,0,2016-07-30,D,Waregem,3,0,Waregem_Eupen_2016
+5,0,B1,Oostende,H,0,2016-07-31,D,Genk,2,1,Genk_Oostende_2016
+6,1,B1,Gent,D,0,2016-07-31,H,Kortrijk,1,1,Kortrijk_Gent_2016
+7,2,B1,Standard,D,1,2016-07-31,H,Westerlo,2,2,Westerlo_Standard_2016
+8,0,B1,Club Brugge,H,0,2016-08-05,D,Oostende,1,0,Oostende_Club Brugge_2016
+9,0,B1,Mechelen,A,1,2016-08-06,A,Eupen,0,2,Eupen_Mechelen_2016
+10,0,B1,Charleroi,A,1,2016-08-06,A,Mouscron,0,1,Mouscron_Charleroi_2016
+11,2,B1,St Truiden,H,0,2016-08-06,H,Standard,2,0,Standard_St Truiden_2016
+12,0,B1,Waregem,A,1,2016-08-06,A,Waasland-Beveren,0,2,Waasland-Beveren_Waregem_2016
+13,1,B1,Kortrijk,H,1,2016-08-07,D,Anderlecht,5,1,Anderlecht_Kortrijk_2016
+14,0,B1,Genk,H,0,2016-08-07,D,Gent,1,0,Gent_Genk_2016
+15,2,B1,Westerlo,H,0,2016-08-07,H,Lokeren,3,0,Lokeren_Westerlo_2016
+16,0,B1,Anderlecht,D,0,2016-08-12,D,St Truiden,0,0,St Truiden_Anderlecht_2016
+17,0,B1,Gent,D,0,2016-08-13,D,Charleroi,1,1,Charleroi_Gent_2016
+18,1,B1,Waasland-Beveren,D,2,2016-08-13,A,Genk,2,2,Genk_Waasland-Beveren_2016
+19,0,B1,Kortrijk,D,0,2016-08-13,D,Mechelen,0,0,Mechelen_Kortrijk_2016
+20,0,B1,Eupen,A,1,2016-08-13,A,Westerlo,1,2,Westerlo_Eupen_2016
+21,1,B1,Lokeren,H,0,2016-08-14,H,Club Brugge,1,0,Club Brugge_Lokeren_2016
+22,0,B1,Mouscron,H,1,2016-08-14,A,Oostende,2,1,Oostende_Mouscron_2016
+23,1,B1,Standard,H,0,2016-08-14,H,Waregem,1,0,Waregem_Standard_2016
+24,0,B1,Charleroi,D,0,2016-08-19,D,Standard,0,0,Standard_Charleroi_2016
+25,2,B1,Club Brugge,H,1,2016-08-20,H,Kortrijk,2,1,Kortrijk_Club Brugge_2016
+26,0,B1,St Truiden,H,0,2016-08-20,D,Mouscron,2,1,Mouscron_St Truiden_2016
+27,2,B1,Mechelen,D,1,2016-08-20,H,Waasland-Beveren,2,2,Waasland-Beveren_Mechelen_2016
+28,0,B1,Oostende,D,1,2016-08-20,A,Waregem,1,1,Waregem_Oostende_2016
+29,1,B1,Anderlecht,D,1,2016-08-21,D,Eupen,2,2,Eupen_Anderlecht_2016
+30,0,B1,Westerlo,H,1,2016-08-21,A,Gent,4,2,Gent_Westerlo_2016
+31,0,B1,Genk,A,2,2016-08-21,A,Lokeren,0,3,Lokeren_Genk_2016
+32,3,B1,Eupen,H,1,2016-08-26,H,Charleroi,3,2,Charleroi_Eupen_2016
+33,1,B1,Mouscron,H,0,2016-08-27,H,Lokeren,2,1,Lokeren_Mouscron_2016
+34,2,B1,Waasland-Beveren,H,0,2016-08-27,H,Oostende,2,1,Oostende_Waasland-Beveren_2016
+35,0,B1,Kortrijk,A,1,2016-08-27,A,St Truiden,1,2,St Truiden_Kortrijk_2016
+36,1,B1,Mechelen,A,1,2016-08-27,D,Westerlo,1,2,Westerlo_Mechelen_2016
+37,1,B1,Gent,D,1,2016-08-28,D,Anderlecht,2,2,Anderlecht_Gent_2016
+38,0,B1,Standard,D,1,2016-08-28,A,Club Brugge,2,2,Club Brugge_Standard_2016
+39,0,B1,Waregem,H,0,2016-08-28,D,Genk,1,0,Genk_Waregem_2016
+40,0,B1,Club Brugge,H,0,2016-09-09,D,Waasland-Beveren,1,0,Waasland-Beveren_Club Brugge_2016
+41,0,B1,Oostende,H,0,2016-09-10,D,Eupen,2,1,Eupen_Oostende_2016
+42,3,B1,Westerlo,H,0,2016-09-10,H,Kortrijk,4,1,Kortrijk_Westerlo_2016
+43,1,B1,St Truiden,H,0,2016-09-10,H,Mechelen,2,0,Mechelen_St Truiden_2016
+44,1,B1,Waregem,A,2,2016-09-10,A,Mouscron,1,5,Mouscron_Waregem_2016
+45,0,B1,Charleroi,H,1,2016-09-11,A,Anderlecht,3,2,Anderlecht_Charleroi_2016
+46,1,B1,Lokeren,H,0,2016-09-11,H,Gent,3,0,Gent_Lokeren_2016
+47,1,B1,Genk,H,0,2016-09-11,H,Standard,2,0,Standard_Genk_2016
+48,0,B1,Mechelen,D,0,2016-09-16,D,Charleroi,0,0,Charleroi_Mechelen_2016
+49,1,B1,Eupen,H,1,2016-09-17,D,Club Brugge,3,2,Club Brugge_Eupen_2016
+50,0,B1,Waasland-Beveren,H,1,2016-09-17,A,St Truiden,4,1,St Truiden_Waasland-Beveren_2016
+51,1,B1,Kortrijk,H,1,2016-09-17,D,Waregem,2,1,Waregem_Kortrijk_2016
+52,1,B1,Mouscron,A,2,2016-09-17,A,Westerlo,1,3,Westerlo_Mouscron_2016
+53,0,B1,Anderlecht,A,0,2016-09-18,D,Genk,0,2,Genk_Anderlecht_2016
+54,0,B1,Standard,A,0,2016-09-18,D,Lokeren,0,1,Lokeren_Standard_2016
+55,0,B1,Gent,H,0,2016-09-18,D,Oostende,1,0,Oostende_Gent_2016
+56,0,B1,Club Brugge,A,1,2016-09-23,A,Mouscron,0,3,Mouscron_Club Brugge_2016
+57,1,B1,Oostende,H,0,2016-09-24,H,Charleroi,2,1,Charleroi_Oostende_2016
+58,0,B1,St Truiden,H,0,2016-09-24,D,Gent,2,1,Gent_St Truiden_2016
+59,2,B1,Waregem,A,0,2016-09-24,H,Mechelen,2,3,Mechelen_Waregem_2016
+60,0,B1,Lokeren,D,0,2016-09-24,D,Waasland-Beveren,1,1,Waasland-Beveren_Lokeren_2016
+61,0,B1,Westerlo,A,0,2016-09-25,D,Anderlecht,1,2,Anderlecht_Westerlo_2016
+62,2,B1,Genk,H,0,2016-09-25,H,Kortrijk,4,1,Kortrijk_Genk_2016
+63,1,B1,Eupen,H,0,2016-09-25,H,Standard,3,0,Standard_Eupen_2016
+64,2,B1,St Truiden,D,1,2016-09-30,H,Oostende,2,2,Oostende_St Truiden_2016
+65,1,B1,Mouscron,A,2,2016-10-01,A,Eupen,1,4,Eupen_Mouscron_2016
+66,0,B1,Kortrijk,H,0,2016-10-01,D,Lokeren,2,1,Lokeren_Kortrijk_2016
+67,1,B1,Charleroi,D,0,2016-10-01,H,Waregem,1,1,Waregem_Charleroi_2016
+68,0,B1,Waasland-Beveren,H,0,2016-10-01,D,Westerlo,1,0,Westerlo_Waasland-Beveren_2016
+69,1,B1,Gent,H,0,2016-10-02,H,Club Brugge,1,0,Club Brugge_Gent_2016
+70,1,B1,Mechelen,H,1,2016-10-02,D,Genk,2,1,Genk_Mechelen_2016
+71,0,B1,Anderlecht,A,0,2016-10-02,D,Standard,0,1,Standard_Anderlecht_2016
+72,0,B1,Club Brugge,H,0,2016-10-14,D,Charleroi,1,0,Charleroi_Club Brugge_2016
+73,3,B1,Standard,D,3,2016-10-15,D,Kortrijk,3,3,Kortrijk_Standard_2016
+74,2,B1,Genk,D,1,2016-10-15,H,Mouscron,2,2,Mouscron_Genk_2016
+75,1,B1,Westerlo,D,1,2016-10-15,D,St Truiden,2,2,St Truiden_Westerlo_2016
+76,1,B1,Eupen,H,0,2016-10-15,H,Waasland-Beveren,4,2,Waasland-Beveren_Eupen_2016
+77,0,B1,Lokeren,H,0,2016-10-16,D,Anderlecht,1,0,Anderlecht_Lokeren_2016
+78,0,B1,Waregem,H,0,2016-10-16,D,Gent,3,0,Gent_Waregem_2016
+79,1,B1,Oostende,A,1,2016-10-16,D,Mechelen,2,3,Mechelen_Oostende_2016
+80,0,B1,Kortrijk,D,1,2016-10-21,A,Oostende,2,2,Oostende_Kortrijk_2016
+81,0,B1,Mouscron,H,0,2016-10-22,D,Mechelen,2,0,Mechelen_Mouscron_2016
+82,1,B1,Lokeren,H,0,2016-10-22,H,Waregem,2,0,Waregem_Lokeren_2016
+83,0,B1,Charleroi,D,0,2016-10-22,D,Westerlo,0,0,Westerlo_Charleroi_2016
+84,1,B1,Anderlecht,H,0,2016-10-23,H,Club Brugge,2,1,Club Brugge_Anderlecht_2016
+85,0,B1,Gent,H,1,2016-10-23,A,Eupen,3,2,Eupen_Gent_2016
+86,0,B1,St Truiden,H,0,2016-10-23,D,Genk,1,0,Genk_St Truiden_2016
+87,3,B1,Waasland-Beveren,H,0,2016-10-23,H,Standard,5,0,Standard_Waasland-Beveren_2016
+88,0,B1,Oostende,A,1,2016-10-25,A,Lokeren,1,2,Lokeren_Oostende_2016
+89,1,B1,Mechelen,H,0,2016-10-26,H,Anderlecht,2,0,Anderlecht_Mechelen_2016
+90,1,B1,Genk,H,1,2016-10-26,D,Charleroi,2,1,Charleroi_Genk_2016
+91,2,B1,Westerlo,H,0,2016-10-26,H,Club Brugge,4,0,Club Brugge_Westerlo_2016
+92,1,B1,Eupen,D,0,2016-10-26,H,Kortrijk,1,1,Kortrijk_Eupen_2016
+93,0,B1,Waregem,A,2,2016-10-26,A,St Truiden,0,2,St Truiden_Waregem_2016
+94,0,B1,Standard,H,0,2016-10-27,D,Gent,1,0,Gent_Standard_2016
+95,0,B1,Mouscron,D,0,2016-10-27,D,Waasland-Beveren,0,0,Waasland-Beveren_Mouscron_2016
+96,1,B1,Lokeren,D,1,2016-10-29,D,Eupen,2,2,Eupen_Lokeren_2016
+97,0,B1,Westerlo,H,0,2016-10-29,D,Genk,2,1,Genk_Westerlo_2016
+98,1,B1,Charleroi,D,1,2016-10-29,D,St Truiden,2,2,St Truiden_Charleroi_2016
+99,0,B1,Club Brugge,D,0,2016-10-29,D,Waregem,0,0,Waregem_Club Brugge_2016
+100,0,B1,Gent,H,0,2016-10-30,D,Mechelen,2,0,Mechelen_Gent_2016
+101,0,B1,Kortrijk,A,0,2016-10-30,D,Mouscron,0,1,Mouscron_Kortrijk_2016
+102,2,B1,Standard,H,0,2016-10-30,H,Oostende,3,1,Oostende_Standard_2016
+103,2,B1,Anderlecht,H,1,2016-10-30,H,Waasland-Beveren,2,1,Waasland-Beveren_Anderlecht_2016
+104,0,B1,Charleroi,H,0,2016-11-04,D,Kortrijk,2,1,Kortrijk_Charleroi_2016
+105,0,B1,St Truiden,H,1,2016-11-05,A,Eupen,4,2,Eupen_St Truiden_2016
+106,0,B1,Mechelen,D,0,2016-11-05,D,Lokeren,0,0,Lokeren_Mechelen_2016
+107,1,B1,Waregem,A,1,2016-11-05,D,Westerlo,1,2,Westerlo_Waregem_2016
+108,0,B1,Oostende,D,0,2016-11-06,D,Anderlecht,1,1,Anderlecht_Oostende_2016
+109,0,B1,Genk,D,0,2016-11-06,D,Club Brugge,1,1,Club Brugge_Genk_2016
+110,1,B1,Waasland-Beveren,H,0,2016-11-06,H,Gent,2,0,Gent_Waasland-Beveren_2016
+111,0,B1,Mouscron,H,0,2016-11-06,D,Standard,2,1,Standard_Mouscron_2016
+112,0,B1,Club Brugge,A,0,2016-11-18,D,St Truiden,0,1,St Truiden_Club Brugge_2016
+113,2,B1,Eupen,H,0,2016-11-19,H,Genk,2,0,Genk_Eupen_2016
+114,0,B1,Gent,A,1,2016-11-19,A,Mouscron,0,2,Mouscron_Gent_2016
+115,1,B1,Westerlo,H,0,2016-11-19,H,Oostende,5,0,Oostende_Westerlo_2016
+116,0,B1,Kortrijk,D,1,2016-11-19,A,Waasland-Beveren,1,1,Waasland-Beveren_Kortrijk_2016
+117,2,B1,Lokeren,H,1,2016-11-20,H,Charleroi,2,1,Charleroi_Lokeren_2016
+118,1,B1,Standard,H,1,2016-11-20,D,Mechelen,2,1,Mechelen_Standard_2016
+119,1,B1,Anderlecht,H,2,2016-11-20,A,Waregem,3,2,Waregem_Anderlecht_2016
+120,1,B1,Mechelen,H,0,2016-11-25,H,Club Brugge,6,1,Club Brugge_Mechelen_2016
+121,2,B1,Westerlo,D,2,2016-11-26,D,Eupen,3,3,Eupen_Westerlo_2016
+122,1,B1,St Truiden,H,0,2016-11-26,H,Lokeren,1,0,Lokeren_St Truiden_2016
+123,0,B1,Charleroi,A,0,2016-11-26,D,Waasland-Beveren,0,1,Waasland-Beveren_Charleroi_2016
+124,4,B1,Mouscron,H,0,2016-11-27,H,Anderlecht,7,0,Anderlecht_Mouscron_2016
+125,1,B1,Kortrijk,H,0,2016-11-27,H,Gent,3,0,Gent_Kortrijk_2016
+126,2,B1,Genk,H,0,2016-11-27,H,Oostende,6,0,Oostende_Genk_2016
+127,1,B1,Waregem,H,0,2016-11-27,H,Standard,4,1,Standard_Waregem_2016
+128,0,B1,Eupen,H,0,2016-12-02,D,Mechelen,1,0,Mechelen_Eupen_2016
+129,0,B1,Oostende,H,0,2016-12-03,D,Club Brugge,2,0,Club Brugge_Oostende_2016
+130,0,B1,Mouscron,H,0,2016-12-03,D,St Truiden,1,0,St Truiden_Mouscron_2016
+131,1,B1,Waasland-Beveren,D,1,2016-12-03,D,Waregem,1,1,Waregem_Waasland-Beveren_2016
+132,0,B1,Gent,D,0,2016-12-03,D,Westerlo,0,0,Westerlo_Gent_2016
+133,1,B1,Standard,A,1,2016-12-04,D,Charleroi,1,3,Charleroi_Standard_2016
+134,1,B1,Lokeren,A,0,2016-12-04,H,Genk,1,2,Genk_Lokeren_2016
+135,0,B1,Anderlecht,A,1,2016-12-04,A,Kortrijk,1,3,Kortrijk_Anderlecht_2016
+136,0,B1,Waregem,D,1,2016-12-09,A,Lokeren,1,1,Lokeren_Waregem_2016
+137,1,B1,Charleroi,D,1,2016-12-10,D,Eupen,2,2,Eupen_Charleroi_2016
+138,0,B1,St Truiden,A,1,2016-12-10,A,Kortrijk,0,1,Kortrijk_St Truiden_2016
+139,1,B1,Mechelen,A,2,2016-12-10,A,Mouscron,1,4,Mouscron_Mechelen_2016
+140,0,B1,Club Brugge,D,0,2016-12-11,D,Anderlecht,0,0,Anderlecht_Club Brugge_2016
+141,0,B1,Oostende,D,1,2016-12-11,A,Gent,1,1,Gent_Oostende_2016
+142,2,B1,Westerlo,H,0,2016-12-11,H,Standard,3,1,Standard_Westerlo_2016
+143,1,B1,Mouscron,H,0,2016-12-17,H,Charleroi,2,0,Charleroi_Mouscron_2016
+144,1,B1,Waasland-Beveren,H,0,2016-12-17,H,Mechelen,2,0,Mechelen_Waasland-Beveren_2016
+145,1,B1,Waregem,D,1,2016-12-17,D,Oostende,1,1,Oostende_Waregem_2016
+146,0,B1,Gent,H,0,2016-12-17,D,St Truiden,3,1,St Truiden_Gent_2016
+147,1,B1,Lokeren,A,0,2016-12-17,H,Westerlo,1,3,Westerlo_Lokeren_2016
+148,2,B1,Eupen,H,0,2016-12-18,H,Anderlecht,4,0,Anderlecht_Eupen_2016
+149,2,B1,Kortrijk,H,0,2016-12-18,H,Club Brugge,5,1,Club Brugge_Kortrijk_2016
+150,1,B1,Standard,D,2,2016-12-18,A,Genk,2,2,Genk_Standard_2016
+151,0,B1,Charleroi,H,0,2016-12-20,D,Mechelen,1,0,Mechelen_Charleroi_2016
+152,0,B1,Westerlo,D,0,2016-12-20,D,Mouscron,0,0,Mouscron_Westerlo_2016
+153,2,B1,St Truiden,H,0,2016-12-20,H,Waasland-Beveren,3,1,Waasland-Beveren_St Truiden_2016
+154,1,B1,Club Brugge,A,3,2016-12-21,A,Eupen,1,4,Eupen_Club Brugge_2016
+155,0,B1,Oostende,A,1,2016-12-21,A,Kortrijk,0,2,Kortrijk_Oostende_2016
+156,0,B1,Lokeren,D,0,2016-12-21,D,Standard,1,1,Standard_Lokeren_2016
+157,1,B1,Genk,H,0,2016-12-21,H,Waregem,1,0,Waregem_Genk_2016
+158,1,B1,Anderlecht,A,1,2016-12-22,D,Gent,2,3,Gent_Anderlecht_2016
+159,0,B1,Anderlecht,A,0,2016-12-26,D,Charleroi,0,2,Charleroi_Anderlecht_2016
+160,0,B1,Mouscron,H,1,2016-12-26,A,Club Brugge,2,1,Club Brugge_Mouscron_2016
+161,0,B1,Waasland-Beveren,D,0,2016-12-26,D,Lokeren,0,0,Lokeren_Waasland-Beveren_2016
+162,0,B1,Eupen,A,1,2016-12-26,A,Oostende,1,3,Oostende_Eupen_2016
+163,0,B1,Mechelen,D,0,2016-12-26,D,Waregem,0,0,Waregem_Mechelen_2016
+164,2,B1,Kortrijk,H,1,2016-12-26,H,Westerlo,4,1,Westerlo_Kortrijk_2016
+165,2,B1,Gent,H,0,2016-12-27,H,Genk,2,0,Genk_Gent_2016
+166,0,B1,Standard,D,0,2016-12-27,D,St Truiden,2,2,St Truiden_Standard_2016
+167,0,B1,Charleroi,H,0,2017-01-20,D,Gent,1,0,Gent_Charleroi_2016
+168,0,B1,Genk,A,0,2017-01-21,D,Eupen,0,1,Eupen_Genk_2016
+169,0,B1,Waregem,A,1,2017-01-21,A,Kortrijk,2,3,Kortrijk_Waregem_2016
+170,0,B1,Lokeren,H,1,2017-01-21,A,Mouscron,2,1,Mouscron_Lokeren_2016
+171,0,B1,Oostende,A,1,2017-01-21,A,Waasland-Beveren,0,1,Waasland-Beveren_Oostende_2016
+172,1,B1,St Truiden,H,0,2017-01-22,H,Anderlecht,3,1,Anderlecht_St Truiden_2016
+173,1,B1,Westerlo,A,1,2017-01-22,D,Mechelen,1,2,Mechelen_Westerlo_2016
+174,0,B1,Club Brugge,A,1,2017-01-22,A,Standard,0,3,Standard_Club Brugge_2016
+175,2,B1,Kortrijk,H,0,2017-01-24,H,Genk,3,0,Genk_Kortrijk_2016
+176,1,B1,Charleroi,A,2,2017-01-24,A,Oostende,1,2,Oostende_Charleroi_2016
+177,0,B1,Mouscron,H,0,2017-01-24,D,Waregem,1,0,Waregem_Mouscron_2016
+178,1,B1,Waasland-Beveren,H,0,2017-01-25,H,Club Brugge,2,1,Club Brugge_Waasland-Beveren_2016
+179,0,B1,Gent,D,0,2017-01-25,D,Lokeren,0,0,Lokeren_Gent_2016
+180,2,B1,Mechelen,H,1,2017-01-25,H,St Truiden,2,1,St Truiden_Mechelen_2016
+181,1,B1,Anderlecht,A,3,2017-01-25,A,Westerlo,2,4,Westerlo_Anderlecht_2016
+182,0,B1,Standard,D,1,2017-01-26,A,Eupen,2,2,Eupen_Standard_2016
+183,1,B1,Waregem,H,0,2017-01-27,H,Charleroi,2,1,Charleroi_Waregem_2016
+184,2,B1,Lokeren,H,1,2017-01-28,H,Kortrijk,2,1,Kortrijk_Lokeren_2016
+185,0,B1,Genk,H,0,2017-01-28,D,Mechelen,1,0,Mechelen_Genk_2016
+186,1,B1,Oostende,H,0,2017-01-28,H,St Truiden,3,0,St Truiden_Oostende_2016
+187,0,B1,Westerlo,D,0,2017-01-28,D,Waasland-Beveren,0,0,Waasland-Beveren_Westerlo_2016
+188,0,B1,Standard,D,0,2017-01-29,D,Anderlecht,0,0,Anderlecht_Standard_2016
+189,0,B1,Club Brugge,H,0,2017-01-29,D,Gent,2,0,Gent_Club Brugge_2016
+190,2,B1,Eupen,H,0,2017-01-29,H,Mouscron,3,0,Mouscron_Eupen_2016
+191,0,B1,Anderlecht,D,0,2017-02-03,D,Lokeren,0,0,Lokeren_Anderlecht_2016
+192,0,B1,Waasland-Beveren,A,2,2017-02-04,A,Eupen,0,2,Eupen_Waasland-Beveren_2016
+193,1,B1,Mouscron,H,0,2017-02-04,H,Genk,1,0,Genk_Mouscron_2016
+194,1,B1,Mechelen,H,0,2017-02-04,H,Oostende,2,0,Oostende_Mechelen_2016
+195,0,B1,Kortrijk,A,1,2017-02-04,A,Standard,0,3,Standard_Kortrijk_2016
+196,0,B1,Charleroi,H,0,2017-02-05,D,Club Brugge,1,0,Club Brugge_Charleroi_2016
+197,0,B1,Gent,D,0,2017-02-05,D,Waregem,1,1,Waregem_Gent_2016
+198,0,B1,St Truiden,H,0,2017-02-05,D,Westerlo,1,0,Westerlo_St Truiden_2016
+199,0,B1,Genk,D,0,2017-02-07,D,Waasland-Beveren,0,0,Waasland-Beveren_Genk_2016
+200,0,B1,Genk,A,3,2017-02-10,A,St Truiden,0,3,St Truiden_Genk_2016
+201,0,B1,Westerlo,H,1,2017-02-11,A,Charleroi,2,1,Charleroi_Westerlo_2016
+202,0,B1,Eupen,A,0,2017-02-11,D,Gent,0,1,Gent_Eupen_2016
+203,0,B1,Mechelen,A,1,2017-02-11,A,Kortrijk,0,2,Kortrijk_Mechelen_2016
+204,1,B1,Oostende,A,1,2017-02-11,D,Mouscron,1,2,Mouscron_Oostende_2016
+205,2,B1,Waregem,H,1,2017-02-12,H,Anderlecht,4,2,Anderlecht_Waregem_2016
+206,1,B1,Club Brugge,H,0,2017-02-12,H,Lokeren,1,0,Lokeren_Club Brugge_2016
+207,0,B1,Standard,A,0,2017-02-12,D,Waasland-Beveren,0,1,Waasland-Beveren_Standard_2016
+208,1,B1,Club Brugge,A,0,2017-02-17,H,Westerlo,1,2,Westerlo_Club Brugge_2016
+209,0,B1,Kortrijk,H,0,2017-02-18,D,Eupen,1,0,Eupen_Kortrijk_2016
+210,2,B1,Lokeren,H,0,2017-02-18,H,Mechelen,3,0,Mechelen_Lokeren_2016
+211,1,B1,Waasland-Beveren,A,1,2017-02-18,D,Mouscron,1,2,Mouscron_Waasland-Beveren_2016
+212,0,B1,St Truiden,H,1,2017-02-18,A,Waregem,4,1,Waregem_St Truiden_2016
+213,0,B1,Charleroi,D,0,2017-02-19,D,Genk,1,1,Genk_Charleroi_2016
+214,1,B1,Anderlecht,A,1,2017-02-19,D,Oostende,1,4,Oostende_Anderlecht_2016
+215,1,B1,Gent,D,0,2017-02-19,H,Standard,1,1,Standard_Gent_2016
+216,4,B1,Waregem,H,0,2017-02-24,H,Club Brugge,5,0,Club Brugge_Waregem_2016
+217,0,B1,St Truiden,H,0,2017-02-25,D,Charleroi,1,0,Charleroi_St Truiden_2016
+218,0,B1,Waasland-Beveren,A,0,2017-02-25,D,Kortrijk,1,2,Kortrijk_Waasland-Beveren_2016
+219,1,B1,Eupen,A,1,2017-02-25,D,Lokeren,1,2,Lokeren_Eupen_2016
+220,0,B1,Oostende,A,0,2017-02-25,D,Westerlo,0,4,Westerlo_Oostende_2016
+221,1,B1,Genk,H,0,2017-02-26,H,Anderlecht,2,0,Anderlecht_Genk_2016
+222,2,B1,Mouscron,H,0,2017-02-26,H,Gent,3,1,Gent_Mouscron_2016
+223,1,B1,Mechelen,D,1,2017-02-26,D,Standard,2,2,Standard_Mechelen_2016
+224,0,B1,Kortrijk,D,0,2017-03-04,D,Charleroi,1,1,Charleroi_Kortrijk_2016
+225,2,B1,Club Brugge,H,1,2017-03-04,H,Genk,2,1,Genk_Club Brugge_2016
+226,2,B1,Anderlecht,H,0,2017-03-04,H,Mechelen,3,2,Mechelen_Anderlecht_2016
+227,1,B1,Standard,H,0,2017-03-04,H,Mouscron,1,0,Mouscron_Standard_2016
+228,0,B1,Lokeren,D,0,2017-03-04,D,Oostende,0,0,Oostende_Lokeren_2016
+229,1,B1,Eupen,H,0,2017-03-04,H,St Truiden,2,1,St Truiden_Eupen_2016
+230,2,B1,Gent,A,1,2017-03-04,H,Waasland-Beveren,2,3,Waasland-Beveren_Gent_2016
+231,1,B1,Westerlo,D,1,2017-03-04,D,Waregem,2,2,Waregem_Westerlo_2016
+232,3,B1,Waasland-Beveren,H,0,2017-03-12,H,Anderlecht,3,0,Anderlecht_Waasland-Beveren_2016
+233,0,B1,St Truiden,D,1,2017-03-12,A,Club Brugge,2,2,Club Brugge_St Truiden_2016
+234,0,B1,Waregem,A,0,2017-03-12,D,Eupen,1,3,Eupen_Waregem_2016
+235,2,B1,Mechelen,H,0,2017-03-12,H,Gent,3,0,Gent_Mechelen_2016
+236,0,B1,Mouscron,A,1,2017-03-12,A,Kortrijk,0,2,Kortrijk_Mouscron_2016
+237,0,B1,Charleroi,D,0,2017-03-12,D,Lokeren,0,0,Lokeren_Charleroi_2016
+238,0,B1,Oostende,D,1,2017-03-12,A,Standard,2,2,Standard_Oostende_2016
+239,0,B1,Genk,A,2,2017-03-12,A,Westerlo,0,4,Westerlo_Genk_2016

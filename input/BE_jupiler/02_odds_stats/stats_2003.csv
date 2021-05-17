@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,B1,Genk,H,0,2003-08-08,D,Club Brugge,1,0,Club Brugge_Genk_2003
+1,2,B1,Antwerp,H,1,2003-08-09,H,Anderlecht,3,1,Anderlecht_Antwerp_2003
+2,0,B1,Lierse,A,0,2003-08-09,D,Charleroi,0,1,Charleroi_Lierse_2003
+3,0,B1,Bergen,H,0,2003-08-09,D,Germinal,1,0,Germinal_Bergen_2003
+4,0,B1,St Truiden,D,0,2003-08-09,D,Lokeren,0,0,Lokeren_St Truiden_2003
+5,0,B1,Louvieroise,D,0,2003-08-09,D,Westerlo,0,0,Westerlo_Louvieroise_2003
+6,2,B1,Gent,A,2,2003-08-10,D,Beveren,2,4,Beveren_Gent_2003
+7,0,B1,Cercle Brugge,D,0,2003-08-10,D,Heusden Zolder,0,0,Heusden Zolder_Cercle Brugge_2003
+8,1,B1,Standard,D,2,2003-08-10,A,Mouscron,2,2,Mouscron_Standard_2003
+9,1,B1,Westerlo,H,0,2003-08-16,H,Antwerp,2,1,Antwerp_Westerlo_2003
+10,1,B1,St Truiden,A,1,2003-08-16,D,Beveren,1,4,Beveren_St Truiden_2003
+11,0,B1,Charleroi,H,0,2003-08-16,D,Genk,2,0,Genk_Charleroi_2003
+12,1,B1,Anderlecht,A,1,2003-08-16,D,Gent,1,3,Gent_Anderlecht_2003
+13,2,B1,Heusden Zolder,H,0,2003-08-16,H,Louvieroise,2,0,Louvieroise_Heusden Zolder_2003
+14,2,B1,Mouscron,D,1,2003-08-17,H,Bergen,3,3,Bergen_Mouscron_2003
+15,0,B1,Club Brugge,A,2,2003-08-17,A,Cercle Brugge,0,2,Cercle Brugge_Club Brugge_2003
+16,0,B1,Lokeren,H,0,2003-08-17,D,Standard,1,0,Standard_Lokeren_2003
+17,0,B1,Germinal,D,0,2003-08-18,D,Lierse,0,0,Lierse_Germinal_2003
+18,0,B1,Antwerp,D,0,2003-08-22,D,Heusden Zolder,0,0,Heusden Zolder_Antwerp_2003
+19,0,B1,St Truiden,H,0,2003-08-23,D,Anderlecht,3,0,Anderlecht_St Truiden_2003
+20,1,B1,Louvieroise,D,1,2003-08-23,D,Club Brugge,3,3,Club Brugge_Louvieroise_2003
+21,0,B1,Beveren,A,1,2003-08-23,A,Lokeren,1,2,Lokeren_Beveren_2003
+22,0,B1,Lierse,D,0,2003-08-23,D,Mouscron,1,1,Mouscron_Lierse_2003
+23,2,B1,Bergen,H,0,2003-08-23,H,Standard,4,0,Standard_Bergen_2003
+24,1,B1,Gent,D,1,2003-08-23,D,Westerlo,2,2,Westerlo_Gent_2003
+25,0,B1,Cercle Brugge,D,0,2003-08-24,D,Charleroi,0,0,Charleroi_Cercle Brugge_2003
+26,0,B1,Genk,D,1,2003-08-24,A,Germinal,2,2,Germinal_Genk_2003
+27,0,B1,Standard,A,0,2003-08-29,D,Lierse,0,1,Lierse_Standard_2003
+28,1,B1,Beveren,H,0,2003-08-30,H,Anderlecht,1,0,Anderlecht_Beveren_2003
+29,0,B1,Club Brugge,A,1,2003-08-30,A,Antwerp,0,4,Antwerp_Club Brugge_2003
+30,0,B1,Germinal,H,0,2003-08-30,D,Cercle Brugge,1,0,Cercle Brugge_Germinal_2003
+31,0,B1,Charleroi,D,0,2003-08-30,D,Louvieroise,0,0,Louvieroise_Charleroi_2003
+32,0,B1,Westerlo,D,0,2003-08-30,D,St Truiden,0,0,St Truiden_Westerlo_2003
+33,0,B1,Lokeren,D,1,2003-08-31,A,Bergen,1,1,Bergen_Lokeren_2003
+34,1,B1,Mouscron,H,0,2003-08-31,H,Genk,2,0,Genk_Mouscron_2003
+35,1,B1,Heusden Zolder,H,0,2003-08-31,H,Gent,2,0,Gent_Heusden Zolder_2003
+36,0,B1,St Truiden,A,1,2003-09-12,A,Heusden Zolder,0,1,Heusden Zolder_St Truiden_2003
+37,0,B1,Antwerp,A,1,2003-09-13,A,Charleroi,0,1,Charleroi_Antwerp_2003
+38,1,B1,Gent,D,0,2003-09-13,H,Club Brugge,1,1,Club Brugge_Gent_2003
+39,0,B1,Louvieroise,D,0,2003-09-13,D,Germinal,0,0,Germinal_Louvieroise_2003
+40,0,B1,Anderlecht,A,2,2003-09-13,A,Lokeren,0,6,Lokeren_Anderlecht_2003
+41,0,B1,Beveren,H,2,2003-09-13,A,Westerlo,3,2,Westerlo_Beveren_2003
+42,0,B1,Lierse,A,2,2003-09-14,A,Bergen,1,3,Bergen_Lierse_2003
+43,2,B1,Cercle Brugge,H,0,2003-09-14,H,Mouscron,4,0,Mouscron_Cercle Brugge_2003
+44,0,B1,Genk,A,1,2003-09-14,A,Standard,0,2,Standard_Genk_2003
+45,3,B1,Westerlo,H,0,2003-09-20,H,Anderlecht,5,1,Anderlecht_Westerlo_2003
+46,1,B1,Heusden Zolder,H,0,2003-09-20,H,Beveren,2,0,Beveren_Heusden Zolder_2003
+47,1,B1,Standard,H,0,2003-09-20,H,Cercle Brugge,2,0,Cercle Brugge_Standard_2003
+48,0,B1,Bergen,D,0,2003-09-20,D,Genk,0,0,Genk_Bergen_2003
+49,0,B1,Charleroi,D,0,2003-09-20,D,Gent,1,1,Gent_Charleroi_2003
+50,0,B1,Mouscron,A,1,2003-09-20,A,Louvieroise,1,2,Louvieroise_Mouscron_2003
+51,0,B1,Germinal,A,3,2003-09-21,A,Antwerp,0,4,Antwerp_Germinal_2003
+52,0,B1,Lokeren,H,0,2003-09-21,D,Lierse,2,1,Lierse_Lokeren_2003
+53,1,B1,Club Brugge,H,1,2003-09-21,D,St Truiden,3,2,St Truiden_Club Brugge_2003
+54,0,B1,Gent,A,1,2003-09-26,A,Germinal,0,2,Germinal_Gent_2003
+55,0,B1,Anderlecht,A,1,2003-09-26,A,Heusden Zolder,2,4,Heusden Zolder_Anderlecht_2003
+56,0,B1,Cercle Brugge,D,0,2003-09-27,D,Bergen,0,0,Bergen_Cercle Brugge_2003
+57,1,B1,St Truiden,D,0,2003-09-27,H,Charleroi,1,1,Charleroi_St Truiden_2003
+58,0,B1,Beveren,H,0,2003-09-27,D,Club Brugge,3,0,Club Brugge_Beveren_2003
+59,3,B1,Genk,A,1,2003-09-27,H,Lierse,3,5,Lierse_Genk_2003
+60,2,B1,Antwerp,H,0,2003-09-27,H,Mouscron,2,0,Mouscron_Antwerp_2003
+61,0,B1,Louvieroise,A,1,2003-09-27,A,Standard,0,2,Standard_Louvieroise_2003
+62,0,B1,Westerlo,A,2,2003-09-28,A,Lokeren,1,3,Lokeren_Westerlo_2003
+63,0,B1,Charleroi,H,0,2003-10-04,D,Beveren,1,0,Beveren_Charleroi_2003
+64,1,B1,Lokeren,H,0,2003-10-04,H,Genk,3,1,Genk_Lokeren_2003
+65,0,B1,Mouscron,D,0,2003-10-04,D,Gent,0,0,Gent_Mouscron_2003
+66,0,B1,Bergen,D,0,2003-10-04,D,Louvieroise,1,1,Louvieroise_Bergen_2003
+67,1,B1,Heusden Zolder,H,0,2003-10-04,H,Westerlo,2,0,Westerlo_Heusden Zolder_2003
+68,1,B1,Club Brugge,D,0,2003-10-05,H,Anderlecht,1,1,Anderlecht_Club Brugge_2003
+69,0,B1,Standard,A,2,2003-10-05,A,Antwerp,0,4,Antwerp_Standard_2003
+70,0,B1,Lierse,D,0,2003-10-05,D,Cercle Brugge,0,0,Cercle Brugge_Lierse_2003
+71,0,B1,Germinal,D,0,2003-10-05,D,St Truiden,0,0,St Truiden_Germinal_2003
+72,0,B1,Anderlecht,A,1,2003-10-17,A,Charleroi,0,1,Charleroi_Anderlecht_2003
+73,0,B1,Antwerp,H,0,2003-10-18,D,Bergen,1,0,Bergen_Antwerp_2003
+74,3,B1,Westerlo,H,0,2003-10-18,H,Club Brugge,4,0,Club Brugge_Westerlo_2003
+75,1,B1,Beveren,H,0,2003-10-18,H,Germinal,2,1,Germinal_Beveren_2003
+76,2,B1,Heusden Zolder,H,0,2003-10-18,H,Lokeren,3,0,Lokeren_Heusden Zolder_2003
+77,1,B1,St Truiden,H,0,2003-10-18,H,Mouscron,2,1,Mouscron_St Truiden_2003
+78,1,B1,Gent,H,0,2003-10-18,H,Standard,2,0,Standard_Gent_2003
+79,2,B1,Cercle Brugge,H,0,2003-10-19,H,Genk,3,1,Genk_Cercle Brugge_2003
+80,0,B1,Louvieroise,D,0,2003-10-19,D,Lierse,1,1,Lierse_Louvieroise_2003
+81,3,B1,Germinal,H,0,2003-10-25,H,Anderlecht,4,0,Anderlecht_Germinal_2003
+82,1,B1,Lierse,H,0,2003-10-25,H,Antwerp,3,1,Antwerp_Lierse_2003
+83,0,B1,Mouscron,A,2,2003-10-25,A,Beveren,0,3,Beveren_Mouscron_2003
+84,0,B1,Bergen,D,0,2003-10-25,D,Gent,0,0,Gent_Bergen_2003
+85,2,B1,Genk,H,1,2003-10-25,H,Louvieroise,5,2,Louvieroise_Genk_2003
+86,0,B1,Lokeren,D,1,2003-10-26,A,Cercle Brugge,2,2,Cercle Brugge_Lokeren_2003
+87,2,B1,Club Brugge,H,1,2003-10-26,H,Heusden Zolder,4,2,Heusden Zolder_Club Brugge_2003
+88,1,B1,Standard,A,1,2003-10-26,D,St Truiden,1,2,St Truiden_Standard_2003
+89,0,B1,Charleroi,H,1,2003-10-26,A,Westerlo,2,1,Westerlo_Charleroi_2003
+90,0,B1,Gent,D,0,2003-10-31,D,Lierse,0,0,Lierse_Gent_2003
+91,0,B1,Anderlecht,A,1,2003-10-31,A,Mouscron,0,1,Mouscron_Anderlecht_2003
+92,1,B1,St Truiden,A,1,2003-11-01,D,Bergen,3,4,Bergen_St Truiden_2003
+93,2,B1,Antwerp,H,1,2003-11-01,H,Genk,3,1,Genk_Antwerp_2003
+94,0,B1,Westerlo,A,1,2003-11-01,A,Germinal,0,2,Germinal_Westerlo_2003
+95,2,B1,Club Brugge,H,0,2003-11-01,H,Lokeren,2,0,Lokeren_Club Brugge_2003
+96,2,B1,Beveren,H,0,2003-11-01,H,Standard,4,0,Standard_Beveren_2003
+97,0,B1,Louvieroise,H,0,2003-11-02,D,Cercle Brugge,2,1,Cercle Brugge_Louvieroise_2003
+98,1,B1,Heusden Zolder,H,1,2003-11-02,D,Charleroi,2,1,Charleroi_Heusden Zolder_2003
+99,0,B1,Genk,D,1,2003-11-07,A,Gent,1,1,Gent_Genk_2003
+100,1,B1,Cercle Brugge,D,1,2003-11-08,D,Antwerp,2,2,Antwerp_Cercle Brugge_2003
+101,1,B1,Germinal,H,0,2003-11-08,H,Heusden Zolder,2,0,Heusden Zolder_Germinal_2003
+102,2,B1,Lokeren,H,2,2003-11-08,D,Louvieroise,3,2,Louvieroise_Lokeren_2003
+103,0,B1,Lierse,H,1,2003-11-08,A,St Truiden,3,2,St Truiden_Lierse_2003
+104,1,B1,Mouscron,D,1,2003-11-08,D,Westerlo,1,1,Westerlo_Mouscron_2003
+105,1,B1,Standard,A,2,2003-11-09,A,Anderlecht,1,4,Anderlecht_Standard_2003
+106,0,B1,Bergen,H,0,2003-11-09,D,Beveren,2,0,Beveren_Bergen_2003
+107,1,B1,Charleroi,H,0,2003-11-09,H,Club Brugge,1,0,Club Brugge_Charleroi_2003
+108,0,B1,Anderlecht,A,2,2003-11-21,A,Bergen,0,2,Bergen_Anderlecht_2003
+109,0,B1,Club Brugge,H,0,2003-11-21,D,Germinal,2,0,Germinal_Club Brugge_2003
+110,0,B1,St Truiden,H,0,2003-11-22,D,Genk,4,0,Genk_St Truiden_2003
+111,1,B1,Beveren,H,0,2003-11-22,H,Lierse,1,0,Lierse_Beveren_2003
+112,0,B1,Charleroi,A,0,2003-11-22,D,Lokeren,0,2,Lokeren_Charleroi_2003
+113,1,B1,Heusden Zolder,H,1,2003-11-22,D,Mouscron,2,1,Mouscron_Heusden Zolder_2003
+114,1,B1,Westerlo,H,0,2003-11-22,H,Standard,3,0,Standard_Westerlo_2003
+115,1,B1,Gent,H,0,2003-11-23,H,Cercle Brugge,1,0,Cercle Brugge_Gent_2003
+116,1,B1,Antwerp,D,0,2003-11-23,H,Louvieroise,1,1,Louvieroise_Antwerp_2003
+117,2,B1,Lierse,H,1,2003-11-29,H,Anderlecht,2,1,Anderlecht_Lierse_2003
+118,0,B1,Lokeren,A,2,2003-11-29,A,Antwerp,0,3,Antwerp_Lokeren_2003
+119,0,B1,Genk,H,1,2003-11-29,A,Beveren,3,1,Beveren_Genk_2003
+120,0,B1,Germinal,A,0,2003-11-29,D,Charleroi,0,1,Charleroi_Germinal_2003
+121,0,B1,Louvieroise,H,0,2003-11-29,D,Gent,3,0,Gent_Louvieroise_2003
+122,0,B1,Bergen,A,1,2003-11-29,A,Westerlo,0,1,Westerlo_Bergen_2003
+123,2,B1,Mouscron,H,1,2003-11-30,H,Club Brugge,4,2,Club Brugge_Mouscron_2003
+124,0,B1,Standard,D,0,2003-11-30,D,Heusden Zolder,1,1,Heusden Zolder_Standard_2003
+125,0,B1,Cercle Brugge,D,0,2003-11-30,D,St Truiden,0,0,St Truiden_Cercle Brugge_2003
+126,2,B1,Club Brugge,H,0,2003-12-05,H,Standard,3,1,Standard_Club Brugge_2003
+127,0,B1,Gent,A,0,2003-12-06,D,Antwerp,0,1,Antwerp_Gent_2003
+128,0,B1,Anderlecht,A,1,2003-12-06,A,Genk,0,1,Genk_Anderlecht_2003
+129,0,B1,Westerlo,A,1,2003-12-06,A,Lierse,0,1,Lierse_Westerlo_2003
+130,0,B1,Germinal,A,1,2003-12-06,A,Lokeren,0,1,Lokeren_Germinal_2003
+131,0,B1,St Truiden,D,0,2003-12-06,D,Louvieroise,0,0,Louvieroise_St Truiden_2003
+132,0,B1,Charleroi,H,0,2003-12-06,D,Mouscron,3,0,Mouscron_Charleroi_2003
+133,0,B1,Heusden Zolder,A,0,2003-12-07,D,Bergen,1,2,Bergen_Heusden Zolder_2003
+134,0,B1,Beveren,A,3,2003-12-07,A,Cercle Brugge,0,4,Cercle Brugge_Beveren_2003
+135,0,B1,Standard,A,0,2003-12-12,D,Charleroi,0,1,Charleroi_Standard_2003
+136,0,B1,Lierse,D,0,2003-12-12,D,Heusden Zolder,0,0,Heusden Zolder_Lierse_2003
+137,0,B1,Louvieroise,H,0,2003-12-13,D,Beveren,1,0,Beveren_Louvieroise_2003
+138,1,B1,Bergen,H,0,2003-12-13,H,Club Brugge,2,0,Club Brugge_Bergen_2003
+139,0,B1,Mouscron,D,2,2003-12-13,A,Germinal,2,2,Germinal_Mouscron_2003
+140,1,B1,Antwerp,H,1,2003-12-13,D,St Truiden,2,1,St Truiden_Antwerp_2003
+141,2,B1,Cercle Brugge,H,1,2003-12-14,H,Anderlecht,3,2,Anderlecht_Cercle Brugge_2003
+142,0,B1,Gent,D,0,2003-12-14,D,Lokeren,1,1,Lokeren_Gent_2003
+143,0,B1,Genk,D,1,2003-12-14,A,Westerlo,1,1,Westerlo_Genk_2003
+144,0,B1,Beveren,A,2,2003-12-20,A,Antwerp,0,3,Antwerp_Beveren_2003
+145,0,B1,Charleroi,D,1,2003-12-20,A,Bergen,2,2,Bergen_Charleroi_2003
+146,2,B1,Heusden Zolder,H,0,2003-12-20,H,Genk,4,1,Genk_Heusden Zolder_2003
+147,0,B1,St Truiden,A,1,2003-12-20,A,Gent,0,1,Gent_St Truiden_2003
+148,1,B1,Club Brugge,D,1,2003-12-20,D,Lierse,1,1,Lierse_Club Brugge_2003
+149,2,B1,Lokeren,H,0,2003-12-20,H,Mouscron,3,0,Mouscron_Lokeren_2003
+150,0,B1,Westerlo,D,0,2003-12-21,D,Cercle Brugge,0,0,Cercle Brugge_Westerlo_2003
+151,0,B1,Anderlecht,A,2,2003-12-21,A,Louvieroise,1,4,Louvieroise_Anderlecht_2003
+152,2,B1,Germinal,H,1,2003-12-21,H,Standard,2,1,Standard_Germinal_2003
+153,0,B1,Club Brugge,H,0,2004-01-16,D,Genk,1,0,Genk_Club Brugge_2003
+154,1,B1,Germinal,H,0,2004-01-17,H,Bergen,3,0,Bergen_Germinal_2003
+155,1,B1,Beveren,H,1,2004-01-17,D,Gent,2,1,Gent_Beveren_2003
+156,1,B1,Charleroi,D,1,2004-01-17,D,Lierse,1,1,Lierse_Charleroi_2003
+157,1,B1,Lokeren,A,2,2004-01-17,A,St Truiden,1,2,St Truiden_Lokeren_2003
+158,1,B1,Mouscron,D,0,2004-01-17,H,Standard,3,3,Standard_Mouscron_2003
+159,0,B1,Anderlecht,A,0,2004-01-18,D,Antwerp,0,2,Antwerp_Anderlecht_2003
+160,0,B1,Heusden Zolder,A,2,2004-01-18,A,Cercle Brugge,2,3,Cercle Brugge_Heusden Zolder_2003
+161,1,B1,Westerlo,D,1,2004-01-18,D,Louvieroise,1,1,Louvieroise_Westerlo_2003
+162,1,B1,Gent,H,0,2004-01-24,H,Anderlecht,2,0,Anderlecht_Gent_2003
+163,2,B1,Genk,H,1,2004-01-24,H,Charleroi,4,3,Charleroi_Genk_2003
+164,1,B1,Lierse,D,0,2004-01-24,H,Germinal,1,1,Germinal_Lierse_2003
+165,1,B1,Louvieroise,A,0,2004-01-24,H,Heusden Zolder,1,3,Heusden Zolder_Louvieroise_2003
+166,1,B1,Standard,D,0,2004-01-24,H,Lokeren,1,1,Lokeren_Standard_2003
+167,0,B1,Bergen,H,0,2004-01-24,D,Mouscron,3,2,Mouscron_Bergen_2003
+168,0,B1,Beveren,D,0,2004-01-24,D,St Truiden,1,1,St Truiden_Beveren_2003
+169,0,B1,Cercle Brugge,H,0,2004-01-25,D,Club Brugge,5,0,Club Brugge_Cercle Brugge_2003
+170,0,B1,Antwerp,H,0,2004-01-25,D,Westerlo,2,1,Westerlo_Antwerp_2003
+171,0,B1,Heusden Zolder,D,1,2004-01-31,A,Antwerp,1,1,Antwerp_Heusden Zolder_2003
+172,0,B1,Standard,D,1,2004-01-31,A,Bergen,1,1,Bergen_Standard_2003
+173,1,B1,Lokeren,D,0,2004-01-31,H,Beveren,1,1,Beveren_Lokeren_2003
+174,0,B1,Germinal,D,0,2004-01-31,D,Genk,1,1,Genk_Germinal_2003
+175,0,B1,Westerlo,A,1,2004-01-31,A,Gent,0,2,Gent_Westerlo_2003
+176,0,B1,Charleroi,H,1,2004-02-01,A,Cercle Brugge,3,2,Cercle Brugge_Charleroi_2003
+177,1,B1,Mouscron,D,2,2004-02-01,A,Lierse,2,2,Lierse_Mouscron_2003
+178,0,B1,Anderlecht,A,1,2004-02-01,A,St Truiden,1,3,St Truiden_Anderlecht_2003
+179,1,B1,Anderlecht,A,0,2004-02-07,H,Beveren,2,3,Beveren_Anderlecht_2003
+180,1,B1,Louvieroise,D,0,2004-02-07,H,Charleroi,2,2,Charleroi_Louvieroise_2003
+181,0,B1,Cercle Brugge,H,1,2004-02-07,A,Germinal,2,1,Germinal_Cercle Brugge_2003
+182,0,B1,Gent,D,1,2004-02-07,A,Heusden Zolder,1,1,Heusden Zolder_Gent_2003
+183,0,B1,Bergen,D,0,2004-02-07,D,Lokeren,0,0,Lokeren_Bergen_2003
+184,1,B1,Lierse,D,0,2004-02-07,H,Standard,1,1,Standard_Lierse_2003
+185,1,B1,St Truiden,H,0,2004-02-07,H,Westerlo,3,0,Westerlo_St Truiden_2003
+186,1,B1,Antwerp,H,0,2004-02-08,H,Club Brugge,4,0,Club Brugge_Antwerp_2003
+187,3,B1,Genk,H,1,2004-02-08,H,Mouscron,3,1,Mouscron_Genk_2003
+188,0,B1,Club Brugge,A,0,2004-02-11,D,Louvieroise,0,4,Louvieroise_Club Brugge_2003
+189,1,B1,Standard,D,1,2004-02-13,D,Genk,1,1,Genk_Standard_2003
+190,0,B1,Lokeren,H,0,2004-02-14,D,Anderlecht,2,1,Anderlecht_Lokeren_2003
+191,1,B1,Charleroi,H,1,2004-02-14,D,Antwerp,3,1,Antwerp_Charleroi_2003
+192,0,B1,Westerlo,A,0,2004-02-14,D,Beveren,0,3,Beveren_Westerlo_2003
+193,0,B1,Bergen,A,0,2004-02-14,D,Lierse,0,2,Lierse_Bergen_2003
+194,1,B1,Heusden Zolder,H,0,2004-02-14,H,St Truiden,2,1,St Truiden_Heusden Zolder_2003
+195,0,B1,Mouscron,D,1,2004-02-15,A,Cercle Brugge,1,1,Cercle Brugge_Mouscron_2003
+196,0,B1,Club Brugge,A,0,2004-02-15,D,Gent,0,1,Gent_Club Brugge_2003
+197,0,B1,Germinal,D,0,2004-02-16,D,Louvieroise,0,0,Louvieroise_Germinal_2003
+198,0,B1,Genk,A,0,2004-02-20,D,Bergen,0,1,Bergen_Genk_2003
+199,2,B1,Gent,H,0,2004-02-21,H,Charleroi,2,0,Charleroi_Gent_2003
+200,1,B1,St Truiden,H,1,2004-02-21,D,Club Brugge,2,1,Club Brugge_St Truiden_2003
+201,2,B1,Lierse,H,0,2004-02-21,H,Lokeren,3,0,Lokeren_Lierse_2003
+202,0,B1,Louvieroise,H,1,2004-02-21,A,Mouscron,2,1,Mouscron_Louvieroise_2003
+203,3,B1,Cercle Brugge,H,0,2004-02-21,H,Standard,7,0,Standard_Cercle Brugge_2003
+204,1,B1,Antwerp,H,0,2004-02-22,H,Germinal,1,0,Germinal_Antwerp_2003
+205,0,B1,Beveren,A,2,2004-02-22,A,Heusden Zolder,1,4,Heusden Zolder_Beveren_2003
+206,0,B1,Anderlecht,D,0,2004-02-22,D,Westerlo,0,0,Westerlo_Anderlecht_2003
+207,2,B1,Standard,H,1,2004-02-27,H,Louvieroise,3,2,Louvieroise_Standard_2003
+208,1,B1,Lierse,H,0,2004-02-28,H,Genk,2,0,Genk_Lierse_2003
+209,0,B1,Germinal,D,0,2004-02-28,D,Gent,1,1,Gent_Germinal_2003
+210,0,B1,Charleroi,A,1,2004-02-28,A,St Truiden,1,2,St Truiden_Charleroi_2003
+211,1,B1,Club Brugge,A,0,2004-02-29,H,Beveren,1,3,Beveren_Club Brugge_2003
+212,0,B1,Bergen,A,1,2004-02-29,A,Cercle Brugge,0,1,Cercle Brugge_Bergen_2003
+213,3,B1,Lokeren,H,2,2004-02-29,H,Westerlo,7,3,Westerlo_Lokeren_2003
+214,0,B1,Westerlo,A,0,2004-03-05,D,Heusden Zolder,0,1,Heusden Zolder_Westerlo_2003
+215,1,B1,Louvieroise,H,0,2004-03-06,H,Bergen,1,0,Bergen_Louvieroise_2003
+216,0,B1,Beveren,A,1,2004-03-06,A,Charleroi,0,1,Charleroi_Beveren_2003
+217,0,B1,Cercle Brugge,D,0,2004-03-06,D,Lierse,0,0,Lierse_Cercle Brugge_2003
+218,1,B1,Genk,H,0,2004-03-06,H,Lokeren,2,1,Lokeren_Genk_2003
+219,0,B1,Gent,H,0,2004-03-06,D,Mouscron,2,1,Mouscron_Gent_2003
+220,1,B1,Anderlecht,H,0,2004-03-07,H,Club Brugge,1,0,Club Brugge_Anderlecht_2003
+221,0,B1,St Truiden,D,0,2004-03-07,D,Germinal,0,0,Germinal_St Truiden_2003
+222,1,B1,Antwerp,H,0,2004-03-07,H,Standard,3,0,Standard_Antwerp_2003
+223,2,B1,Lokeren,A,0,2004-03-12,H,Heusden Zolder,2,3,Heusden Zolder_Lokeren_2003
+224,0,B1,Charleroi,H,2,2004-03-13,A,Anderlecht,3,2,Anderlecht_Charleroi_2003
+225,0,B1,Bergen,D,0,2004-03-13,D,Antwerp,0,0,Antwerp_Bergen_2003
+226,0,B1,Germinal,D,0,2004-03-13,D,Beveren,0,0,Beveren_Germinal_2003
+227,0,B1,Lierse,A,0,2004-03-13,D,Louvieroise,0,1,Louvieroise_Lierse_2003
+228,0,B1,Mouscron,D,1,2004-03-13,A,St Truiden,1,1,St Truiden_Mouscron_2003
+229,0,B1,Genk,D,0,2004-03-14,D,Cercle Brugge,0,0,Cercle Brugge_Genk_2003
+230,0,B1,Standard,D,0,2004-03-14,D,Gent,0,0,Gent_Standard_2003
+231,0,B1,Club Brugge,A,2,2004-03-14,A,Westerlo,2,3,Westerlo_Club Brugge_2003
+232,0,B1,Gent,A,0,2004-03-20,D,Bergen,0,1,Bergen_Gent_2003
+233,1,B1,Westerlo,H,0,2004-03-20,H,Charleroi,3,1,Charleroi_Westerlo_2003
+234,2,B1,Heusden Zolder,H,0,2004-03-20,H,Club Brugge,3,0,Club Brugge_Heusden Zolder_2003
+235,0,B1,Louvieroise,D,0,2004-03-20,D,Genk,1,1,Genk_Louvieroise_2003
+236,0,B1,Anderlecht,H,0,2004-03-20,D,Germinal,1,0,Germinal_Anderlecht_2003
+237,1,B1,St Truiden,D,0,2004-03-20,H,Standard,1,1,Standard_St Truiden_2003
+238,0,B1,Antwerp,H,0,2004-03-21,D,Lierse,1,0,Lierse_Antwerp_2003
+239,0,B1,Cercle Brugge,A,1,2004-03-21,A,Lokeren,0,2,Lokeren_Cercle Brugge_2003
+240,3,B1,Beveren,H,0,2004-03-21,H,Mouscron,5,0,Mouscron_Beveren_2003
+241,3,B1,Heusden Zolder,H,0,2004-03-23,H,Anderlecht,6,0,Anderlecht_Heusden Zolder_2003
+242,2,B1,Mouscron,H,0,2004-03-24,H,Antwerp,3,1,Antwerp_Mouscron_2003
+243,0,B1,Mouscron,D,0,2004-04-03,D,Anderlecht,0,0,Anderlecht_Mouscron_2003
+244,1,B1,Genk,H,0,2004-04-03,H,Antwerp,3,1,Antwerp_Genk_2003
+245,0,B1,Standard,A,1,2004-04-03,A,Beveren,0,2,Beveren_Standard_2003
+246,2,B1,Lokeren,H,0,2004-04-03,H,Club Brugge,2,1,Club Brugge_Lokeren_2003
+247,0,B1,Lierse,D,0,2004-04-03,D,Gent,1,1,Gent_Lierse_2003
+248,0,B1,Bergen,A,2,2004-04-03,A,St Truiden,1,2,St Truiden_Bergen_2003
+249,1,B1,Germinal,H,1,2004-04-03,D,Westerlo,3,1,Westerlo_Germinal_2003
+250,0,B1,Charleroi,H,1,2004-04-04,A,Heusden Zolder,3,1,Heusden Zolder_Charleroi_2003
+251,1,B1,Cercle Brugge,H,0,2004-04-04,H,Louvieroise,2,0,Louvieroise_Cercle Brugge_2003
+252,0,B1,Gent,H,0,2004-04-09,D,Genk,1,0,Genk_Gent_2003
+253,1,B1,Anderlecht,D,1,2004-04-09,D,Standard,1,1,Standard_Anderlecht_2003
+254,1,B1,Beveren,D,1,2004-04-10,D,Bergen,2,2,Bergen_Beveren_2003
+255,1,B1,Heusden Zolder,A,0,2004-04-10,H,Germinal,1,3,Germinal_Heusden Zolder_2003
+256,1,B1,St Truiden,D,0,2004-04-10,H,Lierse,1,1,Lierse_St Truiden_2003
+257,2,B1,Louvieroise,H,0,2004-04-10,H,Lokeren,2,0,Lokeren_Louvieroise_2003
+258,1,B1,Antwerp,A,1,2004-04-11,D,Cercle Brugge,1,2,Cercle Brugge_Antwerp_2003
+259,2,B1,Westerlo,H,0,2004-04-11,H,Mouscron,3,2,Mouscron_Westerlo_2003
+260,1,B1,Club Brugge,D,0,2004-04-12,H,Charleroi,1,1,Charleroi_Club Brugge_2003
+261,0,B1,Bergen,H,0,2004-04-16,D,Anderlecht,4,1,Anderlecht_Bergen_2003
+262,0,B1,Louvieroise,A,2,2004-04-17,A,Antwerp,1,3,Antwerp_Louvieroise_2003
+263,0,B1,Lierse,A,0,2004-04-17,D,Beveren,0,1,Beveren_Lierse_2003
+264,0,B1,Lokeren,A,0,2004-04-17,D,Charleroi,1,2,Charleroi_Lokeren_2003
+265,1,B1,Cercle Brugge,D,0,2004-04-17,H,Gent,1,1,Gent_Cercle Brugge_2003
+266,0,B1,Genk,A,0,2004-04-17,D,St Truiden,0,3,St Truiden_Genk_2003
+267,1,B1,Germinal,H,0,2004-04-18,H,Club Brugge,2,1,Club Brugge_Germinal_2003
+268,0,B1,Mouscron,D,1,2004-04-18,A,Heusden Zolder,1,1,Heusden Zolder_Mouscron_2003
+269,1,B1,Standard,A,1,2004-04-18,D,Westerlo,2,4,Westerlo_Standard_2003
+270,0,B1,Club Brugge,D,1,2004-04-23,A,Mouscron,1,1,Mouscron_Club Brugge_2003
+271,0,B1,Westerlo,D,0,2004-04-24,D,Bergen,0,0,Bergen_Westerlo_2003
+272,0,B1,St Truiden,H,1,2004-04-24,A,Cercle Brugge,2,1,Cercle Brugge_St Truiden_2003
+273,0,B1,Beveren,H,0,2004-04-24,D,Genk,1,0,Genk_Beveren_2003
+274,1,B1,Charleroi,H,1,2004-04-24,D,Germinal,3,1,Germinal_Charleroi_2003
+275,0,B1,Anderlecht,D,1,2004-04-24,A,Lierse,1,1,Lierse_Anderlecht_2003
+276,2,B1,Heusden Zolder,H,0,2004-04-24,H,Standard,4,1,Standard_Heusden Zolder_2003
+277,0,B1,Antwerp,H,0,2004-04-25,D,Lokeren,3,0,Lokeren_Antwerp_2003
+278,0,B1,Gent,D,1,2004-04-25,A,Louvieroise,2,2,Louvieroise_Gent_2003
+279,1,B1,Lokeren,H,1,2004-04-30,D,Germinal,2,1,Germinal_Lokeren_2003
+280,0,B1,Mouscron,H,0,2004-05-01,D,Charleroi,1,0,Charleroi_Mouscron_2003
+281,1,B1,Standard,H,0,2004-05-01,H,Club Brugge,1,0,Club Brugge_Standard_2003
+282,0,B1,Antwerp,D,0,2004-05-01,D,Gent,1,1,Gent_Antwerp_2003
+283,1,B1,Lierse,H,1,2004-05-01,D,Westerlo,2,1,Westerlo_Lierse_2003
+284,1,B1,Genk,H,1,2004-05-02,D,Anderlecht,2,1,Anderlecht_Genk_2003
+285,1,B1,Cercle Brugge,D,0,2004-05-02,H,Beveren,1,1,Beveren_Cercle Brugge_2003
+286,0,B1,Bergen,H,0,2004-05-02,D,Heusden Zolder,2,0,Heusden Zolder_Bergen_2003
+287,0,B1,Louvieroise,A,1,2004-05-02,A,St Truiden,1,2,St Truiden_Louvieroise_2003
+288,0,B1,St Truiden,A,1,2004-05-08,A,Antwerp,1,2,Antwerp_St Truiden_2003
+289,0,B1,Club Brugge,A,2,2004-05-08,A,Bergen,0,9,Bergen_Club Brugge_2003
+290,0,B1,Anderlecht,A,1,2004-05-08,A,Cercle Brugge,0,2,Cercle Brugge_Anderlecht_2003
+291,1,B1,Westerlo,H,0,2004-05-08,H,Genk,1,0,Genk_Westerlo_2003
+292,0,B1,Lokeren,D,1,2004-05-08,A,Gent,1,1,Gent_Lokeren_2003
+293,3,B1,Heusden Zolder,H,0,2004-05-08,H,Lierse,4,0,Lierse_Heusden Zolder_2003
+294,0,B1,Beveren,H,2,2004-05-08,A,Louvieroise,3,2,Louvieroise_Beveren_2003
+295,0,B1,Germinal,H,2,2004-05-08,A,Mouscron,3,2,Mouscron_Germinal_2003
+296,0,B1,Charleroi,D,0,2004-05-08,D,Standard,1,1,Standard_Charleroi_2003
+297,0,B1,Standard,A,2,2004-05-14,A,Germinal,1,2,Germinal_Standard_2003
+298,0,B1,Louvieroise,D,0,2004-05-15,D,Anderlecht,1,1,Anderlecht_Louvieroise_2003
+299,1,B1,Antwerp,H,1,2004-05-15,D,Beveren,5,2,Beveren_Antwerp_2003
+300,1,B1,Bergen,H,0,2004-05-15,H,Charleroi,1,0,Charleroi_Bergen_2003
+301,1,B1,Lierse,H,0,2004-05-15,H,Club Brugge,3,0,Club Brugge_Lierse_2003
+302,1,B1,Genk,A,0,2004-05-15,H,Heusden Zolder,2,3,Heusden Zolder_Genk_2003
+303,1,B1,Mouscron,D,1,2004-05-15,D,Lokeren,1,1,Lokeren_Mouscron_2003
+304,0,B1,Gent,A,1,2004-05-15,A,St Truiden,0,2,St Truiden_Gent_2003
+305,0,B1,Cercle Brugge,D,0,2004-05-15,D,Westerlo,1,1,Westerlo_Cercle Brugge_2003

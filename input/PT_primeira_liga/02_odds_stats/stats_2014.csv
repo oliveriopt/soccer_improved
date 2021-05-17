@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,1,P1,Maritimo,H,0,2014-08-15,H,Porto,2,0,Porto_Maritimo_2014
+1,0,P1,Sp Lisbon,D,1,2014-08-16,A,Academica,1,1,Academica_Sp Lisbon_2014
+2,0,P1,Guimaraes,A,1,2014-08-16,A,Gil Vicente,1,3,Gil Vicente_Guimaraes_2014
+3,1,P1,Pacos Ferreira,H,0,2014-08-17,H,Benfica,2,0,Benfica_Pacos Ferreira_2014
+4,0,P1,Moreirense,A,0,2014-08-17,D,Nacional,0,1,Nacional_Moreirense_2014
+5,1,P1,Belenenses,A,1,2014-08-17,D,Penafiel,1,3,Penafiel_Belenenses_2014
+6,0,P1,Setubal,H,0,2014-08-17,D,Rio Ave,2,0,Rio Ave_Setubal_2014
+7,1,P1,Boavista,H,0,2014-08-17,H,Sp Braga,3,0,Sp Braga_Boavista_2014
+8,1,P1,Estoril,D,1,2014-08-18,D,Arouca,1,1,Arouca_Estoril_2014
+9,1,P1,Penafiel,H,0,2014-08-22,H,Guimaraes,3,0,Guimaraes_Penafiel_2014
+10,0,P1,Academica,H,0,2014-08-23,D,Maritimo,2,1,Maritimo_Academica_2014
+11,0,P1,Porto,A,1,2014-08-23,A,Pacos Ferreira,0,1,Pacos Ferreira_Porto_2014
+12,0,P1,Arouca,H,0,2014-08-23,D,Sp Lisbon,1,0,Sp Lisbon_Arouca_2014
+13,2,P1,Nacional,H,0,2014-08-24,H,Belenenses,3,1,Belenenses_Nacional_2014
+14,0,P1,Benfica,A,1,2014-08-24,A,Boavista,0,1,Boavista_Benfica_2014
+15,0,P1,Rio Ave,A,2,2014-08-24,A,Estoril,1,5,Estoril_Rio Ave_2014
+16,1,P1,Gil Vicente,H,0,2014-08-24,H,Setubal,2,0,Setubal_Gil Vicente_2014
+17,0,P1,Sp Braga,D,0,2014-08-25,D,Moreirense,0,0,Moreirense_Sp Braga_2014
+18,1,P1,Setubal,D,1,2014-08-29,D,Academica,1,1,Academica_Setubal_2014
+19,0,P1,Guimaraes,A,2,2014-08-30,A,Belenenses,0,3,Belenenses_Guimaraes_2014
+20,1,P1,Estoril,H,0,2014-08-30,H,Sp Braga,2,1,Sp Braga_Estoril_2014
+21,1,P1,Sp Lisbon,D,1,2014-08-31,D,Benfica,1,1,Benfica_Sp Lisbon_2014
+22,1,P1,Maritimo,A,0,2014-08-31,H,Gil Vicente,1,2,Gil Vicente_Maritimo_2014
+23,1,P1,Arouca,H,0,2014-08-31,H,Nacional,2,0,Nacional_Arouca_2014
+24,0,P1,Pacos Ferreira,A,0,2014-08-31,D,Penafiel,0,1,Penafiel_Pacos Ferreira_2014
+25,0,P1,Moreirense,H,0,2014-08-31,D,Porto,3,0,Porto_Moreirense_2014
+26,2,P1,Boavista,H,0,2014-09-01,H,Rio Ave,4,0,Rio Ave_Boavista_2014
+27,0,P1,Benfica,A,3,2014-09-12,A,Setubal,0,5,Setubal_Benfica_2014
+28,1,P1,Sp Braga,H,0,2014-09-13,H,Arouca,1,0,Arouca_Sp Braga_2014
+29,0,P1,Rio Ave,D,1,2014-09-13,A,Moreirense,1,1,Moreirense_Rio Ave_2014
+30,1,P1,Belenenses,D,1,2014-09-13,D,Sp Lisbon,1,1,Sp Lisbon_Belenenses_2014
+31,0,P1,Academica,H,0,2014-09-14,D,Boavista,1,0,Boavista_Academica_2014
+32,1,P1,Nacional,H,0,2014-09-14,H,Estoril,2,1,Estoril_Nacional_2014
+33,0,P1,Porto,D,0,2014-09-14,D,Guimaraes,1,1,Guimaraes_Porto_2014
+34,0,P1,Penafiel,H,0,2014-09-14,D,Maritimo,2,0,Maritimo_Penafiel_2014
+35,1,P1,Gil Vicente,D,0,2014-09-14,H,Pacos Ferreira,1,1,Pacos Ferreira_Gil Vicente_2014
+36,0,P1,Pacos Ferreira,D,1,2014-09-19,A,Guimaraes,1,1,Guimaraes_Pacos Ferreira_2014
+37,0,P1,Sp Braga,D,0,2014-09-20,D,Nacional,1,1,Nacional_Sp Braga_2014
+38,1,P1,Setubal,H,0,2014-09-20,H,Penafiel,2,0,Penafiel_Setubal_2014
+39,0,P1,Maritimo,H,0,2014-09-21,D,Belenenses,1,0,Belenenses_Maritimo_2014
+40,0,P1,Moreirense,H,1,2014-09-21,A,Benfica,3,1,Benfica_Moreirense_2014
+41,0,P1,Sp Lisbon,A,2,2014-09-21,A,Gil Vicente,0,4,Gil Vicente_Sp Lisbon_2014
+42,0,P1,Boavista,D,0,2014-09-21,D,Porto,0,0,Porto_Boavista_2014
+43,0,P1,Arouca,A,1,2014-09-21,A,Rio Ave,1,2,Rio Ave_Arouca_2014
+44,2,P1,Estoril,D,1,2014-09-22,H,Academica,2,2,Academica_Estoril_2014
+45,1,P1,Porto,D,0,2014-09-26,H,Sp Lisbon,1,1,Sp Lisbon_Porto_2014
+46,1,P1,Benfica,A,2,2014-09-27,A,Estoril,2,3,Estoril_Benfica_2014
+47,0,P1,Rio Ave,H,0,2014-09-27,D,Sp Braga,3,0,Sp Braga_Rio Ave_2014
+48,0,P1,Academica,A,1,2014-09-28,A,Arouca,0,1,Arouca_Academica_2014
+49,1,P1,Gil Vicente,H,1,2014-09-28,D,Boavista,3,2,Boavista_Gil Vicente_2014
+50,4,P1,Guimaraes,H,0,2014-09-28,H,Maritimo,4,0,Maritimo_Guimaraes_2014
+51,0,P1,Penafiel,D,0,2014-09-28,D,Moreirense,0,0,Moreirense_Penafiel_2014
+52,2,P1,Nacional,H,0,2014-09-28,H,Setubal,2,0,Setubal_Nacional_2014
+53,1,P1,Belenenses,H,0,2014-09-29,H,Pacos Ferreira,2,0,Pacos Ferreira_Belenenses_2014
+54,1,P1,Boavista,H,0,2014-10-03,H,Guimaraes,3,0,Guimaraes_Boavista_2014
+55,0,P1,Sp Lisbon,A,0,2014-10-04,D,Penafiel,0,4,Penafiel_Sp Lisbon_2014
+56,0,P1,Moreirense,D,0,2014-10-05,D,Academica,0,0,Academica_Moreirense_2014
+57,0,P1,Setubal,D,1,2014-10-05,A,Belenenses,1,1,Belenenses_Setubal_2014
+58,0,P1,Arouca,H,0,2014-10-05,D,Benfica,4,0,Benfica_Arouca_2014
+59,1,P1,Estoril,D,1,2014-10-05,D,Gil Vicente,1,1,Gil Vicente_Estoril_2014
+60,0,P1,Rio Ave,D,0,2014-10-05,D,Nacional,0,0,Nacional_Rio Ave_2014
+61,0,P1,Maritimo,H,1,2014-10-05,A,Pacos Ferreira,3,2,Pacos Ferreira_Maritimo_2014
+62,1,P1,Sp Braga,H,1,2014-10-05,D,Porto,2,1,Porto_Sp Braga_2014
+63,0,P1,Guimaraes,A,0,2014-10-24,D,Setubal,0,1,Setubal_Guimaraes_2014
+64,0,P1,Porto,A,3,2014-10-25,A,Arouca,0,5,Arouca_Porto_2014
+65,0,P1,Pacos Ferreira,A,1,2014-10-25,A,Boavista,1,2,Boavista_Pacos Ferreira_2014
+66,0,P1,Gil Vicente,H,0,2014-10-25,D,Moreirense,2,0,Moreirense_Gil Vicente_2014
+67,0,P1,Belenenses,A,1,2014-10-26,A,Estoril,1,2,Estoril_Belenenses_2014
+68,0,P1,Academica,H,0,2014-10-26,D,Nacional,1,0,Nacional_Academica_2014
+69,1,P1,Benfica,H,1,2014-10-26,D,Sp Braga,2,1,Sp Braga_Benfica_2014
+70,3,P1,Maritimo,H,0,2014-10-26,H,Sp Lisbon,4,2,Sp Lisbon_Maritimo_2014
+71,2,P1,Penafiel,H,1,2014-10-27,H,Rio Ave,3,2,Rio Ave_Penafiel_2014
+72,0,P1,Rio Ave,H,0,2014-10-31,D,Benfica,1,0,Benfica_Rio Ave_2014
+73,2,P1,Sp Lisbon,H,0,2014-11-01,H,Guimaraes,3,0,Guimaraes_Sp Lisbon_2014
+74,0,P1,Estoril,A,1,2014-11-01,A,Penafiel,1,2,Penafiel_Estoril_2014
+75,1,P1,Nacional,H,0,2014-11-01,H,Porto,2,0,Porto_Nacional_2014
+76,0,P1,Sp Braga,D,0,2014-11-02,D,Academica,1,1,Academica_Sp Braga_2014
+77,0,P1,Arouca,D,0,2014-11-02,D,Gil Vicente,1,1,Gil Vicente_Arouca_2014
+78,0,P1,Moreirense,A,1,2014-11-02,A,Maritimo,1,2,Maritimo_Moreirense_2014
+79,0,P1,Setubal,H,0,2014-11-02,D,Pacos Ferreira,4,1,Pacos Ferreira_Setubal_2014
+80,3,P1,Boavista,H,1,2014-11-03,H,Belenenses,3,1,Belenenses_Boavista_2014
+81,0,P1,Guimaraes,A,0,2014-11-07,D,Arouca,1,2,Arouca_Guimaraes_2014
+82,0,P1,Gil Vicente,H,0,2014-11-08,D,Sp Braga,2,0,Sp Braga_Gil Vicente_2014
+83,0,P1,Penafiel,H,0,2014-11-09,D,Boavista,1,0,Boavista_Penafiel_2014
+84,1,P1,Porto,D,1,2014-11-09,D,Estoril,2,2,Estoril_Porto_2014
+85,0,P1,Belenenses,A,0,2014-11-09,D,Moreirense,0,1,Moreirense_Belenenses_2014
+86,1,P1,Benfica,A,2,2014-11-09,A,Nacional,1,2,Nacional_Benfica_2014
+87,1,P1,Maritimo,H,0,2014-11-09,H,Setubal,1,0,Setubal_Maritimo_2014
+88,0,P1,Pacos Ferreira,D,1,2014-11-09,A,Sp Lisbon,1,1,Sp Lisbon_Pacos Ferreira_2014
+89,2,P1,Academica,H,0,2014-11-10,H,Rio Ave,3,0,Rio Ave_Academica_2014
+90,1,P1,Moreirense,H,1,2014-11-28,D,Guimaraes,2,1,Guimaraes_Moreirense_2014
+91,0,P1,Arouca,D,0,2014-11-29,D,Belenenses,0,0,Belenenses_Arouca_2014
+92,1,P1,Sp Braga,A,2,2014-11-29,A,Penafiel,1,6,Penafiel_Sp Braga_2014
+93,0,P1,Setubal,H,0,2014-11-29,D,Sp Lisbon,3,0,Sp Lisbon_Setubal_2014
+94,0,P1,Benfica,A,2,2014-11-30,A,Academica,0,2,Academica_Benfica_2014
+95,0,P1,Nacional,D,0,2014-11-30,D,Gil Vicente,0,0,Gil Vicente_Nacional_2014
+96,1,P1,Boavista,H,0,2014-11-30,H,Maritimo,4,0,Maritimo_Boavista_2014
+97,0,P1,Rio Ave,H,0,2014-11-30,D,Porto,5,0,Porto_Rio Ave_2014
+98,0,P1,Estoril,D,0,2014-12-01,D,Pacos Ferreira,1,1,Pacos Ferreira_Estoril_2014
+99,0,P1,Sp Lisbon,A,0,2014-12-05,D,Boavista,1,3,Boavista_Sp Lisbon_2014
+100,0,P1,Porto,A,2,2014-12-06,A,Academica,0,3,Academica_Porto_2014
+101,0,P1,Belenenses,H,0,2014-12-06,D,Benfica,3,0,Benfica_Belenenses_2014
+102,1,P1,Setubal,H,0,2014-12-06,H,Estoril,1,0,Estoril_Setubal_2014
+103,0,P1,Gil Vicente,D,0,2014-12-06,D,Rio Ave,0,0,Rio Ave_Gil Vicente_2014
+104,0,P1,Penafiel,A,1,2014-12-07,A,Arouca,0,1,Arouca_Penafiel_2014
+105,1,P1,Pacos Ferreira,H,0,2014-12-07,H,Moreirense,2,0,Moreirense_Pacos Ferreira_2014
+106,0,P1,Guimaraes,D,0,2014-12-07,D,Sp Braga,0,0,Sp Braga_Guimaraes_2014
+107,0,P1,Maritimo,H,0,2014-12-08,D,Nacional,3,0,Nacional_Maritimo_2014
+108,0,P1,Boavista,A,0,2014-12-12,D,Setubal,0,1,Setubal_Boavista_2014
+109,0,P1,Sp Braga,A,1,2014-12-13,A,Belenenses,0,1,Belenenses_Sp Braga_2014
+110,0,P1,Academica,D,0,2014-12-13,D,Gil Vicente,1,1,Gil Vicente_Academica_2014
+111,0,P1,Arouca,H,1,2014-12-13,A,Pacos Ferreira,2,1,Pacos Ferreira_Arouca_2014
+112,1,P1,Nacional,H,0,2014-12-13,H,Penafiel,2,1,Penafiel_Nacional_2014
+113,0,P1,Rio Ave,D,0,2014-12-14,D,Guimaraes,0,0,Guimaraes_Rio Ave_2014
+114,0,P1,Estoril,D,0,2014-12-14,D,Maritimo,0,0,Maritimo_Estoril_2014
+115,0,P1,Benfica,A,1,2014-12-14,A,Porto,0,2,Porto_Benfica_2014
+116,0,P1,Moreirense,D,1,2014-12-14,A,Sp Lisbon,1,1,Sp Lisbon_Moreirense_2014
+117,2,P1,Setubal,H,0,2014-12-19,H,Porto,4,0,Porto_Setubal_2014
+118,0,P1,Guimaraes,H,0,2014-12-20,D,Estoril,1,0,Estoril_Guimaraes_2014
+119,0,P1,Penafiel,D,0,2014-12-21,D,Academica,1,1,Academica_Penafiel_2014
+120,0,P1,Maritimo,H,0,2014-12-21,D,Arouca,1,0,Arouca_Maritimo_2014
+121,1,P1,Gil Vicente,H,0,2014-12-21,H,Benfica,1,0,Benfica_Gil Vicente_2014
+122,1,P1,Boavista,H,0,2014-12-21,H,Moreirense,1,0,Moreirense_Boavista_2014
+123,0,P1,Sp Lisbon,A,0,2014-12-21,D,Nacional,0,1,Nacional_Sp Lisbon_2014
+124,0,P1,Belenenses,D,0,2014-12-22,D,Rio Ave,0,0,Rio Ave_Belenenses_2014
+125,3,P1,Pacos Ferreira,H,0,2014-12-22,H,Sp Braga,3,0,Sp Braga_Pacos Ferreira_2014
+126,0,P1,Academica,D,0,2015-01-02,D,Belenenses,0,0,Belenenses_Academica_2014
+127,0,P1,Porto,A,1,2015-01-03,A,Gil Vicente,1,5,Gil Vicente_Porto_2014
+128,1,P1,Sp Braga,H,1,2015-01-03,D,Maritimo,2,1,Maritimo_Sp Braga_2014
+129,0,P1,Rio Ave,A,1,2015-01-03,A,Pacos Ferreira,1,2,Pacos Ferreira_Rio Ave_2014
+130,1,P1,Estoril,H,0,2015-01-03,H,Sp Lisbon,3,0,Sp Lisbon_Estoril_2014
+131,1,P1,Arouca,H,0,2015-01-04,H,Boavista,3,1,Boavista_Arouca_2014
+132,3,P1,Nacional,H,0,2015-01-04,H,Guimaraes,4,0,Guimaraes_Nacional_2014
+133,0,P1,Benfica,A,1,2015-01-04,A,Penafiel,0,3,Penafiel_Benfica_2014
+134,0,P1,Moreirense,H,1,2015-01-04,A,Setubal,2,1,Setubal_Moreirense_2014
+135,1,P1,Moreirense,D,0,2015-01-09,H,Estoril,1,1,Estoril_Moreirense_2014
+136,0,P1,Pacos Ferreira,D,0,2015-01-10,D,Academica,2,2,Academica_Pacos Ferreira_2014
+137,1,P1,Guimaraes,H,0,2015-01-10,H,Benfica,3,0,Benfica_Guimaraes_2014
+138,1,P1,Belenenses,H,0,2015-01-10,H,Porto,3,0,Porto_Belenenses_2014
+139,0,P1,Setubal,H,0,2015-01-11,D,Arouca,1,0,Arouca_Setubal_2014
+140,0,P1,Penafiel,H,1,2015-01-11,A,Gil Vicente,2,1,Gil Vicente_Penafiel_2014
+141,1,P1,Boavista,H,1,2015-01-11,D,Nacional,2,1,Nacional_Boavista_2014
+142,0,P1,Maritimo,D,0,2015-01-11,D,Rio Ave,0,0,Rio Ave_Maritimo_2014
+143,0,P1,Sp Lisbon,A,0,2015-01-11,D,Sp Braga,0,1,Sp Braga_Sp Lisbon_2014
+144,3,P1,Academica,H,0,2015-01-17,H,Guimaraes,4,0,Guimaraes_Academica_2014
+145,0,P1,Porto,A,2,2015-01-17,A,Penafiel,1,3,Penafiel_Porto_2014
+146,2,P1,Gil Vicente,H,0,2015-01-18,H,Belenenses,2,0,Belenenses_Gil Vicente_2014
+147,1,P1,Estoril,A,1,2015-01-18,D,Boavista,1,2,Boavista_Estoril_2014
+148,0,P1,Benfica,A,1,2015-01-18,A,Maritimo,0,4,Maritimo_Benfica_2014
+149,1,P1,Arouca,H,0,2015-01-18,H,Moreirense,1,0,Moreirense_Arouca_2014
+150,0,P1,Nacional,A,1,2015-01-18,A,Pacos Ferreira,2,3,Pacos Ferreira_Nacional_2014
+151,1,P1,Sp Braga,A,0,2015-01-18,H,Setubal,1,3,Setubal_Sp Braga_2014
+152,1,P1,Rio Ave,H,1,2015-01-18,D,Sp Lisbon,4,2,Sp Lisbon_Rio Ave_2014
+153,0,P1,Gil Vicente,D,1,2015-01-24,A,Guimaraes,2,2,Guimaraes_Gil Vicente_2014
+154,0,P1,Penafiel,D,0,2015-01-25,D,Belenenses,0,0,Belenenses_Penafiel_2014
+155,0,P1,Sp Braga,H,0,2015-01-25,D,Boavista,1,0,Boavista_Sp Braga_2014
+156,0,P1,Arouca,H,0,2015-01-25,D,Estoril,1,0,Estoril_Arouca_2014
+157,1,P1,Porto,H,0,2015-01-25,H,Maritimo,1,0,Maritimo_Porto_2014
+158,1,P1,Nacional,A,0,2015-01-25,H,Moreirense,2,3,Moreirense_Nacional_2014
+159,1,P1,Rio Ave,H,1,2015-01-25,D,Setubal,4,1,Setubal_Rio Ave_2014
+160,0,P1,Academica,H,0,2015-01-25,D,Sp Lisbon,1,0,Sp Lisbon_Academica_2014
+161,0,P1,Benfica,H,0,2015-01-26,D,Pacos Ferreira,1,0,Pacos Ferreira_Benfica_2014
+162,0,P1,Moreirense,H,0,2015-01-30,D,Sp Braga,1,0,Sp Braga_Moreirense_2014
+163,2,P1,Boavista,H,0,2015-01-31,H,Benfica,3,0,Benfica_Boavista_2014
+164,1,P1,Belenenses,H,1,2015-01-31,D,Nacional,2,1,Nacional_Belenenses_2014
+165,1,P1,Guimaraes,D,0,2015-01-31,H,Penafiel,1,1,Penafiel_Guimaraes_2014
+166,0,P1,Maritimo,D,1,2015-02-01,A,Academica,1,1,Academica_Maritimo_2014
+167,1,P1,Sp Lisbon,A,1,2015-02-01,D,Arouca,1,3,Arouca_Sp Lisbon_2014
+168,1,P1,Setubal,D,0,2015-02-01,H,Gil Vicente,1,1,Gil Vicente_Setubal_2014
+169,3,P1,Pacos Ferreira,H,0,2015-02-01,H,Porto,5,0,Porto_Pacos Ferreira_2014
+170,1,P1,Estoril,H,0,2015-02-01,H,Rio Ave,2,1,Rio Ave_Estoril_2014
+171,0,P1,Porto,A,1,2015-02-07,A,Moreirense,0,2,Moreirense_Porto_2014
+172,1,P1,Nacional,D,2,2015-02-08,A,Arouca,3,3,Arouca_Nacional_2014
+173,0,P1,Sp Braga,A,0,2015-02-08,D,Estoril,0,2,Estoril_Sp Braga_2014
+174,0,P1,Belenenses,A,0,2015-02-08,D,Guimaraes,0,1,Guimaraes_Belenenses_2014
+175,1,P1,Gil Vicente,A,1,2015-02-08,D,Maritimo,1,2,Maritimo_Gil Vicente_2014
+176,0,P1,Penafiel,H,0,2015-02-08,D,Pacos Ferreira,2,1,Pacos Ferreira_Penafiel_2014
+177,0,P1,Academica,D,0,2015-02-08,D,Setubal,0,0,Setubal_Academica_2014
+178,0,P1,Benfica,D,0,2015-02-08,D,Sp Lisbon,1,1,Sp Lisbon_Benfica_2014
+179,0,P1,Rio Ave,D,1,2015-02-09,A,Boavista,1,1,Boavista_Rio Ave_2014
+180,1,P1,Guimaraes,H,0,2015-02-13,H,Porto,1,0,Porto_Guimaraes_2014
+181,0,P1,Sp Lisbon,D,0,2015-02-14,D,Belenenses,1,1,Belenenses_Sp Lisbon_2014
+182,0,P1,Pacos Ferreira,H,0,2015-02-14,D,Gil Vicente,1,0,Gil Vicente_Pacos Ferreira_2014
+183,0,P1,Boavista,D,0,2015-02-15,D,Academica,0,0,Academica_Boavista_2014
+184,2,P1,Setubal,H,0,2015-02-15,H,Benfica,3,0,Benfica_Setubal_2014
+185,2,P1,Maritimo,A,1,2015-02-15,H,Penafiel,3,4,Penafiel_Maritimo_2014
+186,1,P1,Moreirense,D,1,2015-02-15,D,Rio Ave,1,1,Rio Ave_Moreirense_2014
+187,1,P1,Arouca,H,0,2015-02-15,H,Sp Braga,2,0,Sp Braga_Arouca_2014
+188,0,P1,Estoril,H,0,2015-02-16,D,Nacional,1,0,Nacional_Estoril_2014
+189,1,P1,Guimaraes,D,1,2015-02-20,D,Pacos Ferreira,2,2,Pacos Ferreira_Guimaraes_2014
+190,1,P1,Benfica,A,0,2015-02-21,H,Moreirense,1,3,Moreirense_Benfica_2014
+191,0,P1,Penafiel,A,0,2015-02-21,D,Setubal,0,1,Setubal_Penafiel_2014
+192,0,P1,Nacional,H,1,2015-02-21,A,Sp Braga,3,1,Sp Braga_Nacional_2014
+193,1,P1,Rio Ave,H,0,2015-02-22,H,Arouca,1,0,Arouca_Rio Ave_2014
+194,0,P1,Academica,A,1,2015-02-22,A,Estoril,1,2,Estoril_Academica_2014
+195,1,P1,Belenenses,A,1,2015-02-22,D,Maritimo,1,2,Maritimo_Belenenses_2014
+196,0,P1,Gil Vicente,H,0,2015-02-22,D,Sp Lisbon,2,0,Sp Lisbon_Gil Vicente_2014
+197,0,P1,Porto,A,0,2015-02-23,D,Boavista,0,2,Boavista_Porto_2014
+198,1,P1,Maritimo,H,0,2015-02-27,H,Guimaraes,1,0,Guimaraes_Maritimo_2014
+199,4,P1,Estoril,H,0,2015-02-28,H,Benfica,6,0,Benfica_Estoril_2014
+200,0,P1,Boavista,D,0,2015-02-28,D,Gil Vicente,1,1,Gil Vicente_Boavista_2014
+201,0,P1,Sp Braga,A,0,2015-02-28,D,Rio Ave,0,2,Rio Ave_Sp Braga_2014
+202,1,P1,Arouca,D,0,2015-03-01,H,Academica,1,1,Academica_Arouca_2014
+203,2,P1,Setubal,H,0,2015-03-01,H,Nacional,3,0,Nacional_Setubal_2014
+204,1,P1,Moreirense,A,0,2015-03-01,H,Penafiel,1,2,Penafiel_Moreirense_2014
+205,1,P1,Sp Lisbon,H,0,2015-03-01,H,Porto,3,0,Porto_Sp Lisbon_2014
+206,0,P1,Pacos Ferreira,A,1,2015-03-02,A,Belenenses,0,1,Belenenses_Pacos Ferreira_2014
+207,0,P1,Porto,A,0,2015-03-06,D,Sp Braga,0,1,Sp Braga_Porto_2014
+208,1,P1,Belenenses,D,1,2015-03-07,D,Setubal,1,1,Setubal_Belenenses_2014
+209,1,P1,Benfica,A,0,2015-03-08,H,Arouca,1,3,Arouca_Benfica_2014
+210,0,P1,Guimaraes,H,1,2015-03-08,A,Boavista,3,1,Boavista_Guimaraes_2014
+211,1,P1,Gil Vicente,D,0,2015-03-08,H,Estoril,1,1,Estoril_Gil Vicente_2014
+212,1,P1,Pacos Ferreira,H,1,2015-03-08,D,Maritimo,2,1,Maritimo_Pacos Ferreira_2014
+213,0,P1,Academica,A,0,2015-03-08,D,Moreirense,0,2,Moreirense_Academica_2014
+214,0,P1,Nacional,D,0,2015-03-09,D,Rio Ave,1,1,Rio Ave_Nacional_2014
+215,2,P1,Penafiel,H,2,2015-03-09,D,Sp Lisbon,3,2,Sp Lisbon_Penafiel_2014
+216,1,P1,Boavista,H,0,2015-03-13,H,Pacos Ferreira,1,0,Pacos Ferreira_Boavista_2014
+217,1,P1,Estoril,D,1,2015-03-14,D,Belenenses,2,2,Belenenses_Estoril_2014
+218,1,P1,Sp Braga,H,0,2015-03-14,H,Benfica,2,0,Benfica_Sp Braga_2014
+219,0,P1,Setubal,A,0,2015-03-14,D,Guimaraes,0,1,Guimaraes_Setubal_2014
+220,1,P1,Nacional,H,0,2015-03-15,H,Academica,2,1,Academica_Nacional_2014
+221,0,P1,Moreirense,A,0,2015-03-15,D,Gil Vicente,0,1,Gil Vicente_Moreirense_2014
+222,0,P1,Sp Lisbon,A,1,2015-03-15,A,Maritimo,0,1,Maritimo_Sp Lisbon_2014
+223,0,P1,Rio Ave,A,0,2015-03-15,D,Penafiel,0,2,Penafiel_Rio Ave_2014
+224,1,P1,Arouca,H,0,2015-03-15,H,Porto,1,0,Porto_Arouca_2014
+225,0,P1,Academica,D,0,2015-03-20,D,Sp Braga,0,0,Sp Braga_Academica_2014
+226,1,P1,Penafiel,D,2,2015-03-21,A,Estoril,3,3,Estoril_Penafiel_2014
+227,0,P1,Porto,D,1,2015-03-21,A,Nacional,1,1,Nacional_Porto_2014
+228,0,P1,Benfica,H,1,2015-03-21,A,Rio Ave,2,1,Rio Ave_Benfica_2014
+229,1,P1,Gil Vicente,H,0,2015-03-22,H,Arouca,3,1,Arouca_Gil Vicente_2014
+230,0,P1,Belenenses,H,0,2015-03-22,D,Boavista,1,0,Boavista_Belenenses_2014
+231,1,P1,Maritimo,D,0,2015-03-22,H,Moreirense,1,1,Moreirense_Maritimo_2014
+232,3,P1,Guimaraes,H,0,2015-03-22,H,Sp Lisbon,4,1,Sp Lisbon_Guimaraes_2014
+233,0,P1,Pacos Ferreira,D,0,2015-03-23,D,Setubal,0,0,Setubal_Pacos Ferreira_2014
+234,0,P1,Rio Ave,D,0,2015-04-03,D,Academica,0,0,Academica_Rio Ave_2014
+235,0,P1,Sp Braga,A,2,2015-04-03,A,Gil Vicente,0,2,Gil Vicente_Sp Braga_2014
+236,0,P1,Arouca,H,0,2015-04-03,D,Guimaraes,1,0,Guimaraes_Arouca_2014
+237,2,P1,Moreirense,H,0,2015-04-04,H,Belenenses,2,0,Belenenses_Moreirense_2014
+238,2,P1,Nacional,H,0,2015-04-04,H,Benfica,3,1,Benfica_Nacional_2014
+239,0,P1,Sp Lisbon,D,1,2015-04-04,A,Pacos Ferreira,1,1,Pacos Ferreira_Sp Lisbon_2014
+240,0,P1,Boavista,D,1,2015-04-04,A,Penafiel,2,2,Penafiel_Boavista_2014
+241,0,P1,Setubal,D,0,2015-04-06,D,Maritimo,1,1,Maritimo_Setubal_2014
+242,2,P1,Estoril,H,0,2015-04-06,H,Porto,5,0,Porto_Estoril_2014
+243,0,P1,Belenenses,A,0,2015-04-10,D,Arouca,0,1,Arouca_Belenenses_2014
+244,3,P1,Academica,H,0,2015-04-11,H,Benfica,5,1,Benfica_Academica_2014
+245,0,P1,Maritimo,A,0,2015-04-11,D,Boavista,0,2,Boavista_Maritimo_2014
+246,0,P1,Guimaraes,H,1,2015-04-11,A,Moreirense,2,1,Moreirense_Guimaraes_2014
+247,0,P1,Porto,A,2,2015-04-11,A,Rio Ave,1,3,Rio Ave_Porto_2014
+248,1,P1,Gil Vicente,H,0,2015-04-12,H,Nacional,3,2,Nacional_Gil Vicente_2014
+249,0,P1,Sp Lisbon,A,2,2015-04-12,A,Setubal,1,2,Setubal_Sp Lisbon_2014
+250,1,P1,Penafiel,H,0,2015-04-12,H,Sp Braga,4,0,Sp Braga_Penafiel_2014
+251,0,P1,Pacos Ferreira,H,0,2015-04-13,D,Estoril,1,0,Estoril_Pacos Ferreira_2014
+252,0,P1,Sp Braga,H,0,2015-04-17,D,Guimaraes,1,0,Guimaraes_Sp Braga_2014
+253,0,P1,Benfica,A,1,2015-04-18,A,Belenenses,0,2,Belenenses_Benfica_2014
+254,1,P1,Academica,H,0,2015-04-18,H,Porto,1,0,Porto_Academica_2014
+255,0,P1,Rio Ave,D,0,2015-04-19,D,Gil Vicente,0,0,Gil Vicente_Rio Ave_2014
+256,0,P1,Moreirense,D,0,2015-04-19,D,Pacos Ferreira,0,0,Pacos Ferreira_Moreirense_2014
+257,0,P1,Arouca,A,1,2015-04-19,A,Penafiel,0,2,Penafiel_Arouca_2014
+258,1,P1,Estoril,A,0,2015-04-19,H,Setubal,1,2,Setubal_Estoril_2014
+259,1,P1,Boavista,H,1,2015-04-19,D,Sp Lisbon,2,1,Sp Lisbon_Boavista_2014
+260,1,P1,Nacional,D,0,2015-04-20,H,Maritimo,1,1,Maritimo_Nacional_2014
+261,0,P1,Belenenses,D,1,2015-04-24,A,Sp Braga,1,1,Sp Braga_Belenenses_2014
+262,1,P1,Gil Vicente,A,1,2015-04-25,D,Academica,1,2,Academica_Gil Vicente_2014
+263,0,P1,Maritimo,D,0,2015-04-25,D,Estoril,1,1,Estoril_Maritimo_2014
+264,0,P1,Guimaraes,D,1,2015-04-25,A,Rio Ave,1,1,Rio Ave_Guimaraes_2014
+265,0,P1,Pacos Ferreira,A,1,2015-04-26,A,Arouca,1,3,Arouca_Pacos Ferreira_2014
+266,0,P1,Porto,D,0,2015-04-26,D,Benfica,0,0,Benfica_Porto_2014
+267,0,P1,Setubal,D,0,2015-04-26,D,Boavista,0,0,Boavista_Setubal_2014
+268,1,P1,Penafiel,H,0,2015-04-26,H,Nacional,2,0,Nacional_Penafiel_2014
+269,1,P1,Sp Lisbon,A,3,2015-04-27,A,Moreirense,1,4,Moreirense_Sp Lisbon_2014
+270,1,P1,Estoril,H,0,2015-05-01,H,Guimaraes,2,0,Guimaraes_Estoril_2014
+271,0,P1,Benfica,A,2,2015-05-02,A,Gil Vicente,0,5,Gil Vicente_Benfica_2014
+272,0,P1,Nacional,H,0,2015-05-02,D,Sp Lisbon,2,0,Sp Lisbon_Nacional_2014
+273,1,P1,Moreirense,H,0,2015-05-03,H,Boavista,3,1,Boavista_Moreirense_2014
+274,0,P1,Arouca,D,0,2015-05-03,D,Maritimo,1,1,Maritimo_Arouca_2014
+275,0,P1,Academica,D,0,2015-05-03,D,Penafiel,0,0,Penafiel_Academica_2014
+276,0,P1,Porto,A,1,2015-05-03,A,Setubal,0,2,Setubal_Porto_2014
+277,0,P1,Rio Ave,A,2,2015-05-04,A,Belenenses,1,3,Belenenses_Rio Ave_2014
+278,0,P1,Sp Braga,D,1,2015-05-04,A,Pacos Ferreira,2,2,Pacos Ferreira_Sp Braga_2014
+279,0,P1,Belenenses,D,0,2015-05-09,D,Academica,1,1,Academica_Belenenses_2014
+280,2,P1,Penafiel,H,0,2015-05-09,H,Benfica,4,0,Benfica_Penafiel_2014
+281,0,P1,Pacos Ferreira,D,0,2015-05-09,D,Rio Ave,0,0,Rio Ave_Pacos Ferreira_2014
+282,1,P1,Maritimo,A,1,2015-05-09,D,Sp Braga,1,3,Sp Braga_Maritimo_2014
+283,0,P1,Boavista,D,0,2015-05-10,D,Arouca,0,0,Arouca_Boavista_2014
+284,1,P1,Sp Lisbon,D,0,2015-05-10,H,Estoril,1,1,Estoril_Sp Lisbon_2014
+285,1,P1,Setubal,H,0,2015-05-10,H,Moreirense,3,1,Moreirense_Setubal_2014
+286,1,P1,Gil Vicente,H,0,2015-05-10,H,Porto,2,0,Porto_Gil Vicente_2014
+287,1,P1,Guimaraes,D,2,2015-05-11,A,Nacional,2,2,Nacional_Guimaraes_2014
+288,0,P1,Porto,D,1,2015-05-17,A,Belenenses,1,1,Belenenses_Porto_2014
+289,0,P1,Benfica,D,0,2015-05-17,D,Guimaraes,0,0,Guimaraes_Benfica_2014
+290,1,P1,Rio Ave,H,0,2015-05-17,H,Maritimo,4,0,Maritimo_Rio Ave_2014
+291,0,P1,Estoril,D,0,2015-05-17,D,Moreirense,1,1,Moreirense_Estoril_2014
+292,1,P1,Academica,H,0,2015-05-17,H,Pacos Ferreira,3,2,Pacos Ferreira_Academica_2014
+293,0,P1,Gil Vicente,H,0,2015-05-17,D,Penafiel,2,1,Penafiel_Gil Vicente_2014
+294,2,P1,Arouca,H,0,2015-05-17,H,Setubal,2,1,Setubal_Arouca_2014
+295,1,P1,Sp Braga,H,1,2015-05-17,D,Sp Lisbon,4,1,Sp Lisbon_Sp Braga_2014
+296,0,P1,Nacional,A,1,2015-05-18,A,Boavista,0,1,Boavista_Nacional_2014
+297,0,P1,Penafiel,H,0,2015-05-22,D,Porto,2,0,Porto_Penafiel_2014
+298,1,P1,Guimaraes,A,1,2015-05-23,D,Academica,2,4,Academica_Guimaraes_2014
+299,0,P1,Moreirense,A,2,2015-05-23,A,Arouca,1,2,Arouca_Moreirense_2014
+300,2,P1,Maritimo,H,1,2015-05-23,H,Benfica,4,1,Benfica_Maritimo_2014
+301,1,P1,Boavista,H,0,2015-05-23,H,Estoril,2,0,Estoril_Boavista_2014
+302,0,P1,Belenenses,A,0,2015-05-23,D,Gil Vicente,0,2,Gil Vicente_Belenenses_2014
+303,2,P1,Pacos Ferreira,H,0,2015-05-23,H,Nacional,3,0,Nacional_Pacos Ferreira_2014
+304,0,P1,Sp Lisbon,A,0,2015-05-23,D,Rio Ave,0,1,Rio Ave_Sp Lisbon_2014
+305,3,P1,Setubal,H,0,2015-05-23,H,Sp Braga,5,0,Sp Braga_Setubal_2014

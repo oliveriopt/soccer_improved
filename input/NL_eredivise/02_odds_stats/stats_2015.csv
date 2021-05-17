@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,1,N1,Utrecht,H,0,2015-08-08,H,Feyenoord,3,2,Feyenoord_Utrecht_2015
+1,1,N1,Heracles,H,1,2015-08-08,D,Roda,3,1,Roda_Heracles_2015
+2,0,N1,Ajax,A,3,2015-08-09,A,AZ Alkmaar,0,3,AZ Alkmaar_Ajax_2015
+3,0,N1,Vitesse,D,0,2015-08-09,D,Willem II,1,1,Willem II_Vitesse_2015
+4,1,N1,PSV Eindhoven,D,1,2015-08-11,D,Den Haag,2,2,Den Haag_PSV Eindhoven_2015
+5,2,N1,Graafschap,H,0,2015-08-11,H,Heerenveen,3,1,Heerenveen_Graafschap_2015
+6,0,N1,Twente,D,1,2015-08-12,A,Groningen,1,1,Groningen_Twente_2015
+7,0,N1,Excelsior,H,0,2015-08-12,D,Nijmegen,1,0,Nijmegen_Excelsior_2015
+8,2,N1,Cambuur,D,0,2015-08-12,H,Zwolle,2,2,Zwolle_Cambuur_2015
+9,1,N1,Roda,H,0,2015-08-14,H,Vitesse,3,0,Vitesse_Roda_2015
+10,1,N1,Willem II,H,0,2015-08-15,H,Ajax,3,0,Ajax_Willem II_2015
+11,2,N1,AZ Alkmaar,D,1,2015-08-15,H,Excelsior,2,2,Excelsior_AZ Alkmaar_2015
+12,0,N1,Zwolle,A,0,2015-08-15,D,Graafschap,0,3,Graafschap_Zwolle_2015
+13,0,N1,Den Haag,A,2,2015-08-15,A,Twente,1,4,Twente_Den Haag_2015
+14,0,N1,Feyenoord,A,0,2015-08-16,D,Cambuur,0,2,Cambuur_Feyenoord_2015
+15,1,N1,Nijmegen,H,0,2015-08-16,H,Heracles,3,0,Heracles_Nijmegen_2015
+16,1,N1,Groningen,H,0,2015-08-16,H,PSV Eindhoven,2,0,PSV Eindhoven_Groningen_2015
+17,1,N1,Heerenveen,D,0,2015-08-16,H,Utrecht,1,1,Utrecht_Heerenveen_2015
+18,0,N1,Excelsior,H,0,2015-08-21,D,Groningen,2,0,Groningen_Excelsior_2015
+19,0,N1,Heracles,A,4,2015-08-22,A,Cambuur,1,6,Cambuur_Heracles_2015
+20,0,N1,PSV Eindhoven,D,0,2015-08-22,D,Heerenveen,1,1,Heerenveen_PSV Eindhoven_2015
+21,1,N1,Graafschap,H,0,2015-08-22,H,Roda,1,0,Roda_Graafschap_2015
+22,0,N1,Willem II,D,0,2015-08-23,D,AZ Alkmaar,0,0,AZ Alkmaar_Willem II_2015
+23,0,N1,Utrecht,D,1,2015-08-23,A,Den Haag,1,1,Den Haag_Utrecht_2015
+24,0,N1,Vitesse,H,0,2015-08-23,D,Feyenoord,2,0,Feyenoord_Vitesse_2015
+25,0,N1,Ajax,A,0,2015-08-23,D,Nijmegen,0,2,Nijmegen_Ajax_2015
+26,1,N1,Twente,H,0,2015-08-23,H,Zwolle,2,1,Zwolle_Twente_2015
+27,0,N1,Nijmegen,A,0,2015-08-28,D,Willem II,0,1,Willem II_Nijmegen_2015
+28,0,N1,Graafschap,H,0,2015-08-29,D,Excelsior,3,0,Excelsior_Graafschap_2015
+29,1,N1,Zwolle,D,0,2015-08-29,H,Heerenveen,1,1,Heerenveen_Zwolle_2015
+30,1,N1,Twente,H,0,2015-08-29,H,Heracles,2,0,Heracles_Twente_2015
+31,1,N1,Groningen,H,0,2015-08-29,H,Utrecht,2,0,Utrecht_Groningen_2015
+32,2,N1,Den Haag,H,0,2015-08-30,H,Ajax,4,0,Ajax_Den Haag_2015
+33,0,N1,Roda,A,1,2015-08-30,A,AZ Alkmaar,0,1,AZ Alkmaar_Roda_2015
+34,1,N1,Feyenoord,H,1,2015-08-30,D,PSV Eindhoven,3,1,PSV Eindhoven_Feyenoord_2015
+35,2,N1,Cambuur,H,1,2015-08-30,H,Vitesse,4,1,Vitesse_Cambuur_2015
+36,0,N1,PSV Eindhoven,A,3,2015-09-12,A,Cambuur,0,6,Cambuur_PSV Eindhoven_2015
+37,1,N1,AZ Alkmaar,A,1,2015-09-12,D,Graafschap,1,3,Graafschap_AZ Alkmaar_2015
+38,0,N1,Nijmegen,D,0,2015-09-12,D,Roda,0,0,Roda_Nijmegen_2015
+39,1,N1,Ajax,D,0,2015-09-12,H,Twente,2,2,Twente_Ajax_2015
+40,2,N1,Excelsior,H,0,2015-09-12,H,Zwolle,3,0,Zwolle_Excelsior_2015
+41,0,N1,Heracles,A,1,2015-09-13,A,Den Haag,0,1,Den Haag_Heracles_2015
+42,0,N1,Willem II,H,0,2015-09-13,D,Feyenoord,1,0,Feyenoord_Willem II_2015
+43,2,N1,Heerenveen,H,0,2015-09-13,H,Groningen,3,1,Groningen_Heerenveen_2015
+44,1,N1,Vitesse,H,1,2015-09-13,D,Utrecht,2,1,Utrecht_Vitesse_2015
+45,1,N1,Heerenveen,H,0,2015-09-18,H,Nijmegen,2,0,Nijmegen_Heerenveen_2015
+46,0,N1,Twente,D,0,2015-09-19,D,Cambuur,0,0,Cambuur_Twente_2015
+47,2,N1,PSV Eindhoven,H,1,2015-09-19,H,Heracles,2,1,Heracles_PSV Eindhoven_2015
+48,1,N1,Utrecht,H,0,2015-09-19,H,Willem II,3,1,Willem II_Utrecht_2015
+49,0,N1,Den Haag,H,1,2015-09-19,A,Zwolle,2,1,Zwolle_Den Haag_2015
+50,0,N1,Ajax,A,2,2015-09-20,A,Excelsior,0,2,Excelsior_Ajax_2015
+51,1,N1,AZ Alkmaar,H,0,2015-09-20,H,Groningen,2,0,Groningen_AZ Alkmaar_2015
+52,1,N1,Feyenoord,D,1,2015-09-20,D,Roda,1,1,Roda_Feyenoord_2015
+53,2,N1,Graafschap,H,0,2015-09-20,H,Vitesse,3,0,Vitesse_Graafschap_2015
+54,1,N1,Groningen,H,0,2015-09-26,H,Ajax,2,0,Ajax_Groningen_2015
+55,2,N1,Heracles,H,0,2015-09-26,H,AZ Alkmaar,3,1,AZ Alkmaar_Heracles_2015
+56,0,N1,Vitesse,D,0,2015-09-26,D,Heerenveen,0,0,Heerenveen_Vitesse_2015
+57,1,N1,Nijmegen,H,0,2015-09-26,H,PSV Eindhoven,2,1,PSV Eindhoven_Nijmegen_2015
+58,0,N1,Cambuur,D,1,2015-09-26,A,Utrecht,3,3,Utrecht_Cambuur_2015
+59,1,N1,Excelsior,D,1,2015-09-27,D,Den Haag,3,3,Den Haag_Excelsior_2015
+60,0,N1,Zwolle,H,0,2015-09-27,D,Feyenoord,2,0,Feyenoord_Zwolle_2015
+61,0,N1,Willem II,D,2,2015-09-27,A,Graafschap,2,2,Graafschap_Willem II_2015
+62,2,N1,Roda,H,0,2015-09-27,H,Twente,2,1,Twente_Roda_2015
+63,1,N1,Heerenveen,H,0,2015-10-02,H,Heracles,2,0,Heracles_Heerenveen_2015
+64,0,N1,Utrecht,H,0,2015-10-03,D,Excelsior,1,0,Excelsior_Utrecht_2015
+65,1,N1,Den Haag,H,1,2015-10-03,D,Nijmegen,4,1,Nijmegen_Den Haag_2015
+66,0,N1,Cambuur,D,1,2015-10-03,A,Roda,1,1,Roda_Cambuur_2015
+67,0,N1,Zwolle,A,1,2015-10-03,A,Willem II,0,1,Willem II_Zwolle_2015
+68,1,N1,PSV Eindhoven,A,1,2015-10-04,D,Ajax,1,2,Ajax_PSV Eindhoven_2015
+69,0,N1,Twente,H,0,2015-10-04,D,AZ Alkmaar,3,1,AZ Alkmaar_Twente_2015
+70,1,N1,Feyenoord,A,0,2015-10-04,H,Graafschap,1,2,Graafschap_Feyenoord_2015
+71,1,N1,Groningen,H,0,2015-10-04,H,Vitesse,5,0,Vitesse_Groningen_2015
+72,0,N1,AZ Alkmaar,D,1,2015-10-17,A,Cambuur,1,1,Cambuur_AZ Alkmaar_2015
+73,1,N1,Willem II,H,0,2015-10-17,H,Groningen,2,1,Groningen_Willem II_2015
+74,0,N1,Ajax,A,2,2015-10-17,A,Heracles,0,2,Heracles_Ajax_2015
+75,0,N1,Excelsior,D,0,2015-10-17,D,PSV Eindhoven,1,1,PSV Eindhoven_Excelsior_2015
+76,1,N1,Roda,D,1,2015-10-17,D,Utrecht,1,1,Utrecht_Roda_2015
+77,1,N1,Graafschap,D,1,2015-10-18,D,Den Haag,1,1,Den Haag_Graafschap_2015
+78,0,N1,Feyenoord,A,5,2015-10-18,A,Heerenveen,2,5,Heerenveen_Feyenoord_2015
+79,0,N1,Nijmegen,H,0,2015-10-18,D,Twente,1,0,Twente_Nijmegen_2015
+80,1,N1,Vitesse,A,3,2015-10-18,A,Zwolle,1,5,Zwolle_Vitesse_2015
+81,1,N1,Utrecht,A,1,2015-10-23,D,Zwolle,1,2,Zwolle_Utrecht_2015
+82,0,N1,Heracles,A,0,2015-10-24,D,Graafschap,0,1,Graafschap_Heracles_2015
+83,1,N1,Excelsior,A,1,2015-10-24,D,Roda,1,2,Roda_Excelsior_2015
+84,0,N1,PSV Eindhoven,A,0,2015-10-24,D,Twente,1,3,Twente_PSV Eindhoven_2015
+85,1,N1,Heerenveen,D,0,2015-10-24,H,Willem II,2,2,Willem II_Heerenveen_2015
+86,0,N1,Den Haag,D,0,2015-10-25,D,Cambuur,1,1,Cambuur_Den Haag_2015
+87,1,N1,AZ Alkmaar,H,1,2015-10-25,D,Feyenoord,3,1,Feyenoord_AZ Alkmaar_2015
+88,0,N1,Groningen,D,1,2015-10-25,A,Nijmegen,1,1,Nijmegen_Groningen_2015
+89,0,N1,Ajax,A,0,2015-10-25,D,Vitesse,1,3,Vitesse_Ajax_2015
+90,2,N1,Willem II,H,0,2015-10-30,H,Heracles,2,1,Heracles_Willem II_2015
+91,3,N1,Roda,H,0,2015-10-31,H,Ajax,6,0,Ajax_Roda_2015
+92,0,N1,Vitesse,A,1,2015-10-31,A,Excelsior,0,3,Excelsior_Vitesse_2015
+93,1,N1,PSV Eindhoven,A,3,2015-10-31,A,Graafschap,3,6,Graafschap_PSV Eindhoven_2015
+94,2,N1,Zwolle,H,0,2015-10-31,H,Groningen,2,0,Groningen_Zwolle_2015
+95,1,N1,Nijmegen,A,2,2015-11-01,A,AZ Alkmaar,2,4,AZ Alkmaar_Nijmegen_2015
+96,0,N1,Feyenoord,H,0,2015-11-01,D,Den Haag,1,0,Den Haag_Feyenoord_2015
+97,2,N1,Cambuur,H,0,2015-11-01,H,Heerenveen,2,0,Heerenveen_Cambuur_2015
+98,2,N1,Twente,H,2,2015-11-01,D,Utrecht,4,2,Utrecht_Twente_2015
+99,1,N1,Den Haag,D,1,2015-11-06,D,Roda,1,1,Roda_Den Haag_2015
+100,1,N1,Graafschap,H,0,2015-11-07,H,Nijmegen,2,0,Nijmegen_Graafschap_2015
+101,0,N1,Heerenveen,A,2,2015-11-07,A,Twente,1,4,Twente_Heerenveen_2015
+102,2,N1,Excelsior,A,2,2015-11-07,D,Willem II,2,3,Willem II_Excelsior_2015
+103,0,N1,Heracles,D,1,2015-11-07,A,Zwolle,1,1,Zwolle_Heracles_2015
+104,2,N1,Groningen,D,0,2015-11-08,H,Cambuur,2,2,Cambuur_Groningen_2015
+105,1,N1,Ajax,D,0,2015-11-08,H,Feyenoord,1,1,Feyenoord_Ajax_2015
+106,1,N1,Utrecht,H,0,2015-11-08,H,PSV Eindhoven,3,1,PSV Eindhoven_Utrecht_2015
+107,0,N1,AZ Alkmaar,A,0,2015-11-08,D,Vitesse,0,2,Vitesse_AZ Alkmaar_2015
+108,4,N1,Cambuur,H,1,2015-11-21,H,Ajax,5,1,Ajax_Cambuur_2015
+109,2,N1,Heerenveen,H,1,2015-11-21,H,AZ Alkmaar,3,1,AZ Alkmaar_Heerenveen_2015
+110,0,N1,Groningen,A,1,2015-11-21,A,Graafschap,1,2,Graafschap_Groningen_2015
+111,0,N1,Zwolle,A,2,2015-11-21,A,Roda,0,5,Roda_Zwolle_2015
+112,0,N1,PSV Eindhoven,D,1,2015-11-21,A,Willem II,2,2,Willem II_PSV Eindhoven_2015
+113,1,N1,Vitesse,D,2,2015-11-22,A,Den Haag,2,2,Den Haag_Vitesse_2015
+114,2,N1,Twente,H,0,2015-11-22,H,Feyenoord,5,0,Feyenoord_Twente_2015
+115,0,N1,Excelsior,D,0,2015-11-22,D,Heracles,0,0,Heracles_Excelsior_2015
+116,0,N1,Utrecht,H,0,2015-11-22,D,Nijmegen,1,0,Nijmegen_Utrecht_2015
+117,1,N1,Graafschap,A,2,2015-11-27,A,Cambuur,2,3,Cambuur_Graafschap_2015
+118,1,N1,Feyenoord,A,2,2015-11-28,A,Excelsior,2,4,Excelsior_Feyenoord_2015
+119,2,N1,Roda,H,0,2015-11-28,H,Heerenveen,3,0,Heerenveen_Roda_2015
+120,1,N1,Willem II,A,3,2015-11-28,A,Twente,1,3,Twente_Willem II_2015
+121,0,N1,Den Haag,H,1,2015-11-29,A,Groningen,2,1,Groningen_Den Haag_2015
+122,3,N1,AZ Alkmaar,H,0,2015-11-29,H,PSV Eindhoven,3,0,PSV Eindhoven_AZ Alkmaar_2015
+123,0,N1,Heracles,H,1,2015-11-29,A,Utrecht,4,2,Utrecht_Heracles_2015
+124,0,N1,Nijmegen,H,0,2015-11-29,D,Vitesse,1,0,Vitesse_Nijmegen_2015
+125,0,N1,Ajax,A,1,2015-11-29,A,Zwolle,0,2,Zwolle_Ajax_2015
+126,0,N1,Den Haag,A,1,2015-12-04,A,AZ Alkmaar,0,1,AZ Alkmaar_Den Haag_2015
+127,3,N1,Heerenveen,H,0,2015-12-05,H,Ajax,5,2,Ajax_Heerenveen_2015
+128,1,N1,Twente,D,0,2015-12-05,H,Excelsior,1,1,Excelsior_Twente_2015
+129,0,N1,Utrecht,A,1,2015-12-05,A,Graafschap,0,1,Graafschap_Utrecht_2015
+130,0,N1,PSV Eindhoven,A,0,2015-12-05,D,Vitesse,0,1,Vitesse_PSV Eindhoven_2015
+131,1,N1,Heracles,H,0,2015-12-06,H,Feyenoord,3,0,Feyenoord_Heracles_2015
+132,0,N1,Zwolle,D,2,2015-12-06,A,Nijmegen,2,2,Nijmegen_Zwolle_2015
+133,0,N1,Groningen,D,0,2015-12-06,D,Roda,0,0,Roda_Groningen_2015
+134,1,N1,Cambuur,H,0,2015-12-06,H,Willem II,3,0,Willem II_Cambuur_2015
+135,1,N1,Excelsior,H,0,2015-12-11,H,Heerenveen,2,1,Heerenveen_Excelsior_2015
+136,1,N1,Nijmegen,H,1,2015-12-12,D,Cambuur,3,1,Cambuur_Nijmegen_2015
+137,1,N1,Willem II,D,0,2015-12-12,H,Den Haag,1,1,Den Haag_Willem II_2015
+138,0,N1,Roda,D,0,2015-12-12,D,PSV Eindhoven,1,1,PSV Eindhoven_Roda_2015
+139,1,N1,Graafschap,H,1,2015-12-12,D,Twente,2,1,Twente_Graafschap_2015
+140,1,N1,Feyenoord,D,0,2015-12-13,H,Groningen,1,1,Groningen_Feyenoord_2015
+141,0,N1,Vitesse,D,0,2015-12-13,D,Heracles,1,1,Heracles_Vitesse_2015
+142,0,N1,Ajax,H,0,2015-12-13,D,Utrecht,1,0,Utrecht_Ajax_2015
+143,2,N1,AZ Alkmaar,H,0,2015-12-13,H,Zwolle,2,1,Zwolle_AZ Alkmaar_2015
+144,2,N1,Twente,H,1,2015-12-18,H,Vitesse,5,1,Vitesse_Twente_2015
+145,1,N1,Utrecht,D,0,2015-12-19,H,AZ Alkmaar,2,2,AZ Alkmaar_Utrecht_2015
+146,1,N1,Groningen,H,1,2015-12-19,D,Heracles,2,1,Heracles_Groningen_2015
+147,2,N1,Zwolle,H,2,2015-12-19,D,PSV Eindhoven,3,2,PSV Eindhoven_Zwolle_2015
+148,1,N1,Graafschap,H,1,2015-12-20,D,Ajax,2,1,Ajax_Graafschap_2015
+149,0,N1,Cambuur,A,1,2015-12-20,A,Excelsior,1,4,Excelsior_Cambuur_2015
+150,0,N1,Den Haag,A,1,2015-12-20,A,Heerenveen,0,4,Heerenveen_Den Haag_2015
+151,0,N1,Feyenoord,H,1,2015-12-20,A,Nijmegen,3,1,Nijmegen_Feyenoord_2015
+152,2,N1,Roda,H,1,2015-12-20,H,Willem II,3,2,Willem II_Roda_2015
+153,2,N1,Heracles,H,0,2016-01-15,H,Twente,4,0,Twente_Heracles_2015
+154,0,N1,Vitesse,A,0,2016-01-16,D,Cambuur,0,2,Cambuur_Vitesse_2015
+155,0,N1,Excelsior,H,0,2016-01-16,D,Graafschap,2,0,Graafschap_Excelsior_2015
+156,0,N1,AZ Alkmaar,A,1,2016-01-16,A,Roda,0,1,Roda_AZ Alkmaar_2015
+157,2,N1,Heerenveen,H,0,2016-01-16,H,Zwolle,5,2,Zwolle_Heerenveen_2015
+158,0,N1,Ajax,A,1,2016-01-17,A,Den Haag,0,1,Den Haag_Ajax_2015
+159,0,N1,PSV Eindhoven,A,0,2016-01-17,D,Feyenoord,0,2,Feyenoord_PSV Eindhoven_2015
+160,1,N1,Utrecht,A,1,2016-01-17,D,Groningen,1,4,Groningen_Utrecht_2015
+161,1,N1,Willem II,H,0,2016-01-17,H,Nijmegen,1,0,Nijmegen_Willem II_2015
+162,0,N1,Nijmegen,D,0,2016-01-22,D,Groningen,0,0,Groningen_Nijmegen_2015
+163,1,N1,Vitesse,H,0,2016-01-23,H,Ajax,1,0,Ajax_Vitesse_2015
+164,0,N1,Roda,A,0,2016-01-23,D,Excelsior,0,1,Excelsior_Roda_2015
+165,0,N1,Willem II,H,1,2016-01-23,A,Heerenveen,3,1,Heerenveen_Willem II_2015
+166,1,N1,Graafschap,H,0,2016-01-23,H,Heracles,2,1,Heracles_Graafschap_2015
+167,2,N1,Feyenoord,H,1,2016-01-24,H,AZ Alkmaar,4,2,AZ Alkmaar_Feyenoord_2015
+168,0,N1,Cambuur,H,1,2016-01-24,A,Den Haag,2,1,Den Haag_Cambuur_2015
+169,3,N1,Twente,H,1,2016-01-24,H,PSV Eindhoven,4,2,PSV Eindhoven_Twente_2015
+170,0,N1,Zwolle,H,0,2016-01-24,D,Utrecht,1,0,Utrecht_Zwolle_2015
+171,0,N1,Heracles,D,0,2016-01-26,D,Ajax,0,0,Ajax_Heracles_2015
+172,1,N1,Groningen,D,0,2016-01-26,H,Willem II,1,1,Willem II_Groningen_2015
+173,3,N1,Cambuur,H,0,2016-01-27,H,AZ Alkmaar,3,1,AZ Alkmaar_Cambuur_2015
+174,0,N1,PSV Eindhoven,A,1,2016-01-27,A,Excelsior,1,3,Excelsior_PSV Eindhoven_2015
+175,0,N1,Den Haag,H,1,2016-01-27,A,Graafschap,3,1,Graafschap_Den Haag_2015
+176,0,N1,Twente,H,0,2016-01-27,D,Nijmegen,2,0,Nijmegen_Twente_2015
+177,0,N1,Zwolle,D,0,2016-01-27,D,Vitesse,1,1,Vitesse_Zwolle_2015
+178,0,N1,Heerenveen,A,1,2016-01-28,A,Feyenoord,1,2,Feyenoord_Heerenveen_2015
+179,0,N1,Utrecht,H,0,2016-01-28,D,Roda,1,0,Roda_Utrecht_2015
+180,0,N1,Heracles,D,0,2016-01-29,D,Willem II,0,0,Willem II_Heracles_2015
+181,0,N1,AZ Alkmaar,A,2,2016-01-30,A,Nijmegen,0,3,Nijmegen_AZ Alkmaar_2015
+182,3,N1,Graafschap,H,0,2016-01-30,H,PSV Eindhoven,4,2,PSV Eindhoven_Graafschap_2015
+183,0,N1,Excelsior,D,0,2016-01-30,D,Vitesse,0,0,Vitesse_Excelsior_2015
+184,0,N1,Groningen,A,1,2016-01-30,A,Zwolle,1,3,Zwolle_Groningen_2015
+185,0,N1,Heerenveen,A,0,2016-01-31,D,Cambuur,0,1,Cambuur_Heerenveen_2015
+186,0,N1,Den Haag,A,1,2016-01-31,A,Feyenoord,0,2,Feyenoord_Den Haag_2015
+187,1,N1,Ajax,D,2,2016-01-31,A,Roda,2,2,Roda_Ajax_2015
+188,3,N1,Utrecht,H,0,2016-01-31,H,Twente,3,1,Twente_Utrecht_2015
+189,0,N1,Willem II,D,0,2016-02-05,D,Excelsior,0,0,Excelsior_Willem II_2015
+190,0,N1,Vitesse,H,0,2016-02-06,D,AZ Alkmaar,1,0,AZ Alkmaar_Vitesse_2015
+191,1,N1,Roda,D,1,2016-02-06,D,Den Haag,2,2,Den Haag_Roda_2015
+192,1,N1,Twente,A,1,2016-02-06,D,Heerenveen,1,3,Heerenveen_Twente_2015
+193,0,N1,Zwolle,H,0,2016-02-06,D,Heracles,2,0,Heracles_Zwolle_2015
+194,1,N1,Feyenoord,H,1,2016-02-07,D,Ajax,2,1,Ajax_Feyenoord_2015
+195,1,N1,Nijmegen,D,0,2016-02-07,H,Graafschap,1,1,Graafschap_Nijmegen_2015
+196,1,N1,Cambuur,H,0,2016-02-07,H,Groningen,2,0,Groningen_Cambuur_2015
+197,0,N1,PSV Eindhoven,A,2,2016-02-07,A,Utrecht,0,2,Utrecht_PSV Eindhoven_2015
+198,0,N1,Utrecht,A,0,2016-02-12,D,Cambuur,0,2,Cambuur_Utrecht_2015
+199,1,N1,AZ Alkmaar,A,3,2016-02-13,A,Heracles,3,6,Heracles_AZ Alkmaar_2015
+200,0,N1,Twente,A,0,2016-02-13,D,Roda,0,1,Roda_Twente_2015
+201,2,N1,Heerenveen,H,0,2016-02-13,H,Vitesse,3,0,Vitesse_Heerenveen_2015
+202,0,N1,Graafschap,D,0,2016-02-13,D,Willem II,0,0,Willem II_Graafschap_2015
+203,1,N1,Den Haag,A,1,2016-02-14,D,Excelsior,2,4,Excelsior_Den Haag_2015
+204,0,N1,Ajax,A,0,2016-02-14,D,Groningen,1,2,Groningen_Ajax_2015
+205,0,N1,PSV Eindhoven,A,1,2016-02-14,A,Nijmegen,0,3,Nijmegen_PSV Eindhoven_2015
+206,1,N1,Feyenoord,H,1,2016-02-14,D,Zwolle,3,1,Zwolle_Feyenoord_2015
+207,0,N1,Zwolle,A,1,2016-02-19,A,Den Haag,0,2,Den Haag_Zwolle_2015
+208,2,N1,Groningen,H,0,2016-02-20,H,AZ Alkmaar,4,1,AZ Alkmaar_Groningen_2015
+209,1,N1,Nijmegen,D,0,2016-02-20,H,Heerenveen,1,1,Heerenveen_Nijmegen_2015
+210,2,N1,Heracles,H,0,2016-02-20,H,PSV Eindhoven,2,0,PSV Eindhoven_Heracles_2015
+211,2,N1,Cambuur,H,0,2016-02-20,H,Twente,3,0,Twente_Cambuur_2015
+212,1,N1,Excelsior,H,0,2016-02-21,H,Ajax,3,0,Ajax_Excelsior_2015
+213,1,N1,Roda,D,0,2016-02-21,H,Feyenoord,1,1,Feyenoord_Roda_2015
+214,1,N1,Vitesse,D,1,2016-02-21,D,Graafschap,2,2,Graafschap_Vitesse_2015
+215,1,N1,Willem II,H,0,2016-02-21,H,Utrecht,2,1,Utrecht_Willem II_2015
+216,1,N1,Nijmegen,H,0,2016-02-26,H,Excelsior,2,0,Excelsior_Nijmegen_2015
+217,0,N1,Zwolle,H,0,2016-02-27,D,Cambuur,1,0,Cambuur_Zwolle_2015
+218,0,N1,Den Haag,H,0,2016-02-27,D,PSV Eindhoven,2,0,PSV Eindhoven_Den Haag_2015
+219,1,N1,Groningen,H,0,2016-02-27,H,Twente,2,0,Twente_Groningen_2015
+220,0,N1,Willem II,A,0,2016-02-27,D,Vitesse,0,1,Vitesse_Willem II_2015
+221,2,N1,AZ Alkmaar,H,0,2016-02-28,H,Ajax,4,1,Ajax_AZ Alkmaar_2015
+222,0,N1,Heerenveen,A,0,2016-02-28,D,Graafschap,0,1,Graafschap_Heerenveen_2015
+223,0,N1,Roda,A,2,2016-02-28,A,Heracles,0,5,Heracles_Roda_2015
+224,1,N1,Feyenoord,A,2,2016-02-28,A,Utrecht,1,2,Utrecht_Feyenoord_2015
+225,1,N1,Twente,H,0,2016-03-04,H,Den Haag,2,1,Den Haag_Twente_2015
+226,0,N1,PSV Eindhoven,A,1,2016-03-05,A,Groningen,0,3,Groningen_PSV Eindhoven_2015
+227,0,N1,Utrecht,A,1,2016-03-05,A,Heerenveen,0,4,Heerenveen_Utrecht_2015
+228,2,N1,Graafschap,H,0,2016-03-05,H,Zwolle,2,1,Zwolle_Graafschap_2015
+229,0,N1,Excelsior,H,0,2016-03-06,D,AZ Alkmaar,2,0,AZ Alkmaar_Excelsior_2015
+230,1,N1,Cambuur,H,0,2016-03-06,H,Feyenoord,3,1,Feyenoord_Cambuur_2015
+231,0,N1,Heracles,H,0,2016-03-06,D,Nijmegen,1,0,Nijmegen_Heracles_2015
+232,0,N1,Vitesse,A,1,2016-03-06,A,Roda,1,2,Roda_Vitesse_2015
+233,0,N1,Ajax,A,1,2016-03-06,A,Willem II,0,4,Willem II_Ajax_2015
+234,1,N1,Roda,H,0,2016-03-11,H,Graafschap,3,0,Graafschap_Roda_2015
+235,0,N1,Groningen,H,0,2016-03-12,D,Excelsior,2,1,Excelsior_Groningen_2015
+236,0,N1,Heerenveen,D,0,2016-03-12,D,PSV Eindhoven,1,1,PSV Eindhoven_Heerenveen_2015
+237,0,N1,Zwolle,H,1,2016-03-12,A,Twente,2,1,Twente_Zwolle_2015
+238,0,N1,AZ Alkmaar,A,0,2016-03-12,D,Willem II,0,2,Willem II_AZ Alkmaar_2015
+239,1,N1,Nijmegen,D,1,2016-03-13,D,Ajax,2,2,Ajax_Nijmegen_2015
+240,0,N1,Cambuur,H,1,2016-03-13,A,Heracles,3,1,Heracles_Cambuur_2015
+241,2,N1,Den Haag,D,0,2016-03-13,H,Utrecht,2,2,Utrecht_Den Haag_2015
+242,0,N1,Feyenoord,A,0,2016-03-13,D,Vitesse,0,2,Vitesse_Feyenoord_2015
+243,2,N1,Excelsior,H,1,2016-03-18,H,Utrecht,2,1,Utrecht_Excelsior_2015
+244,0,N1,Roda,A,0,2016-03-19,D,Cambuur,0,1,Cambuur_Roda_2015
+245,0,N1,Graafschap,H,1,2016-03-19,A,Feyenoord,3,1,Feyenoord_Graafschap_2015
+246,0,N1,Heracles,A,1,2016-03-19,A,Heerenveen,0,1,Heerenveen_Heracles_2015
+247,2,N1,Willem II,H,1,2016-03-19,H,Zwolle,4,1,Zwolle_Willem II_2015
+248,0,N1,Nijmegen,H,0,2016-03-20,D,Den Haag,1,0,Den Haag_Nijmegen_2015
+249,0,N1,Vitesse,A,0,2016-03-20,D,Groningen,0,3,Groningen_Vitesse_2015
+250,0,N1,Ajax,A,1,2016-03-20,A,PSV Eindhoven,0,2,PSV Eindhoven_Ajax_2015
+251,0,N1,AZ Alkmaar,D,0,2016-03-20,D,Twente,2,2,Twente_AZ Alkmaar_2015
+252,0,N1,PSV Eindhoven,A,2,2016-04-02,A,AZ Alkmaar,2,4,AZ Alkmaar_PSV Eindhoven_2015
+253,2,N1,Excelsior,H,0,2016-04-02,H,Feyenoord,3,0,Feyenoord_Excelsior_2015
+254,1,N1,Cambuur,D,1,2016-04-02,D,Graafschap,2,2,Graafschap_Cambuur_2015
+255,0,N1,Utrecht,D,0,2016-04-02,D,Heracles,1,1,Heracles_Utrecht_2015
+256,2,N1,Twente,A,0,2016-04-02,H,Willem II,2,3,Willem II_Twente_2015
+257,3,N1,Zwolle,H,0,2016-04-03,H,Ajax,3,0,Ajax_Zwolle_2015
+258,0,N1,Groningen,A,0,2016-04-03,D,Den Haag,0,1,Den Haag_Groningen_2015
+259,1,N1,Vitesse,H,0,2016-04-03,H,Nijmegen,2,1,Nijmegen_Vitesse_2015
+260,0,N1,Heerenveen,A,0,2016-04-03,D,Roda,1,2,Roda_Heerenveen_2015
+261,0,N1,Roda,H,1,2016-04-08,A,Zwolle,3,1,Zwolle_Roda_2015
+262,0,N1,Ajax,A,0,2016-04-09,D,Cambuur,0,1,Cambuur_Ajax_2015
+263,0,N1,Heracles,A,2,2016-04-09,A,Excelsior,1,3,Excelsior_Heracles_2015
+264,0,N1,Willem II,H,0,2016-04-09,D,PSV Eindhoven,2,0,PSV Eindhoven_Willem II_2015
+265,1,N1,Den Haag,D,1,2016-04-09,D,Vitesse,2,2,Vitesse_Den Haag_2015
+266,1,N1,Graafschap,H,1,2016-04-10,D,Groningen,3,1,Groningen_Graafschap_2015
+267,1,N1,AZ Alkmaar,H,0,2016-04-10,H,Heerenveen,4,2,Heerenveen_AZ Alkmaar_2015
+268,0,N1,Feyenoord,A,1,2016-04-10,A,Twente,0,1,Twente_Feyenoord_2015
+269,1,N1,Nijmegen,H,1,2016-04-10,D,Utrecht,3,1,Utrecht_Nijmegen_2015
+270,0,N1,Twente,D,1,2016-04-15,A,Graafschap,1,1,Graafschap_Twente_2015
+271,2,N1,Zwolle,H,0,2016-04-16,H,AZ Alkmaar,5,1,AZ Alkmaar_Zwolle_2015
+272,0,N1,Groningen,D,1,2016-04-16,A,Feyenoord,1,1,Feyenoord_Groningen_2015
+273,0,N1,PSV Eindhoven,A,1,2016-04-16,A,Roda,0,3,Roda_PSV Eindhoven_2015
+274,0,N1,Heracles,D,0,2016-04-16,D,Vitesse,1,1,Vitesse_Heracles_2015
+275,0,N1,Utrecht,D,0,2016-04-17,D,Ajax,2,2,Ajax_Utrecht_2015
+276,1,N1,Heerenveen,D,1,2016-04-17,D,Excelsior,1,1,Excelsior_Heerenveen_2015
+277,0,N1,Cambuur,H,0,2016-04-17,D,Nijmegen,2,1,Nijmegen_Cambuur_2015
+278,0,N1,Den Haag,A,1,2016-04-17,A,Willem II,0,2,Willem II_Den Haag_2015
+279,0,N1,Roda,H,0,2016-04-19,D,Groningen,1,0,Groningen_Roda_2015
+280,1,N1,Vitesse,H,0,2016-04-19,H,PSV Eindhoven,2,0,PSV Eindhoven_Vitesse_2015
+281,0,N1,Ajax,A,0,2016-04-20,D,Heerenveen,0,2,Heerenveen_Ajax_2015
+282,1,N1,Feyenoord,D,1,2016-04-20,D,Heracles,2,2,Heracles_Feyenoord_2015
+283,0,N1,Excelsior,H,0,2016-04-20,D,Twente,2,0,Twente_Excelsior_2015
+284,0,N1,Graafschap,A,1,2016-04-20,A,Utrecht,0,2,Utrecht_Graafschap_2015
+285,2,N1,Nijmegen,H,0,2016-04-20,H,Zwolle,2,0,Zwolle_Nijmegen_2015
+286,1,N1,Willem II,D,1,2016-04-21,D,Cambuur,1,1,Cambuur_Willem II_2015
+287,1,N1,AZ Alkmaar,A,1,2016-04-21,D,Den Haag,1,2,Den Haag_AZ Alkmaar_2015
+288,1,N1,Twente,H,0,2016-05-01,H,Ajax,4,0,Ajax_Twente_2015
+289,3,N1,Graafschap,H,1,2016-05-01,H,AZ Alkmaar,4,1,AZ Alkmaar_Graafschap_2015
+290,0,N1,Zwolle,D,1,2016-05-01,A,Excelsior,2,2,Excelsior_Zwolle_2015
+291,1,N1,Groningen,A,1,2016-05-01,D,Heerenveen,1,2,Heerenveen_Groningen_2015
+292,0,N1,Den Haag,D,0,2016-05-01,D,Heracles,1,1,Heracles_Den Haag_2015
+293,1,N1,Roda,A,1,2016-05-01,D,Nijmegen,1,2,Nijmegen_Roda_2015
+294,3,N1,Cambuur,H,2,2016-05-01,H,PSV Eindhoven,6,2,PSV Eindhoven_Cambuur_2015
+295,1,N1,Utrecht,A,0,2016-05-01,H,Vitesse,1,3,Vitesse_Utrecht_2015
+296,0,N1,Feyenoord,A,0,2016-05-01,D,Willem II,0,1,Willem II_Feyenoord_2015
+297,0,N1,Excelsior,A,1,2016-05-08,A,Cambuur,0,2,Cambuur_Excelsior_2015
+298,1,N1,Heerenveen,D,0,2016-05-08,H,Den Haag,1,1,Den Haag_Heerenveen_2015
+299,0,N1,Nijmegen,H,0,2016-05-08,D,Feyenoord,1,0,Feyenoord_Nijmegen_2015
+300,0,N1,Ajax,D,1,2016-05-08,A,Graafschap,1,1,Graafschap_Ajax_2015
+301,0,N1,Heracles,H,0,2016-05-08,D,Groningen,2,1,Groningen_Heracles_2015
+302,2,N1,Willem II,A,1,2016-05-08,H,Roda,2,3,Roda_Willem II_2015
+303,1,N1,Vitesse,D,1,2016-05-08,D,Twente,2,2,Twente_Vitesse_2015
+304,0,N1,AZ Alkmaar,A,2,2016-05-08,A,Utrecht,1,3,Utrecht_AZ Alkmaar_2015
+305,0,N1,PSV Eindhoven,A,2,2016-05-08,A,Zwolle,1,3,Zwolle_PSV Eindhoven_2015

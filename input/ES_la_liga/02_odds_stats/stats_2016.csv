@@ -1,0 +1,381 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,3,Eibar,14,2,0,1,0,0,0,3,17,H,12,2016-08-19,La Coruna,SP1,6,6,1,11,D,8,La Coruna_Eibar_2016
+1,2,Osasuna,11,1,0,1,0,0,0,3,22,D,8,2016-08-19,Malaga,SP1,3,4,5,14,D,3,Malaga_Osasuna_2016
+2,1,Betis,17,6,0,2,3,0,1,3,13,H,6,2016-08-20,Barcelona,SP1,2,12,10,30,H,2,Barcelona_Betis_2016
+3,2,Villarreal,17,1,0,1,0,0,0,3,11,D,12,2016-08-20,Granada,SP1,3,1,7,7,D,3,Granada_Villarreal_2016
+4,2,Espanol,8,6,0,4,3,0,3,2,15,H,10,2016-08-20,Sevilla,SP1,7,11,8,16,D,2,Sevilla_Espanol_2016
+5,0,Alaves,7,1,0,1,0,0,0,4,15,D,2,2016-08-21,Ath Madrid,SP1,1,6,20,27,D,2,Ath Madrid_Alaves_2016
+6,2,Real Madrid,22,0,0,3,0,0,2,3,11,A,18,2016-08-21,Sociedad,SP1,8,0,4,8,A,7,Sociedad_Real Madrid_2016
+7,3,Ath Bilbao,18,2,0,1,0,0,0,3,15,H,13,2016-08-21,Sp Gijon,SP1,4,4,2,12,D,5,Sp Gijon_Ath Bilbao_2016
+8,4,Leganes,5,0,1,1,0,0,0,1,13,A,15,2016-08-22,Celta,SP1,6,2,8,10,D,4,Celta_Leganes_2016
+9,2,Las Palmas,15,2,0,4,2,0,3,2,18,A,6,2016-08-22,Valencia,SP1,4,8,12,17,A,1,Valencia_Las Palmas_2016
+10,0,La Coruna,20,0,0,0,0,0,0,2,15,D,12,2016-08-26,Betis,SP1,1,5,13,15,D,2,Betis_La Coruna_2016
+11,2,Malaga,20,2,0,2,1,0,0,4,17,D,9,2016-08-26,Espanol,SP1,3,2,3,7,H,4,Espanol_Malaga_2016
+12,2,Valencia,13,1,0,0,0,0,0,2,11,H,13,2016-08-27,Eibar,SP1,3,6,6,13,D,10,Eibar_Valencia_2016
+13,3,Ath Madrid,19,0,0,0,0,0,0,1,5,D,10,2016-08-27,Leganes,SP1,3,1,1,6,D,8,Leganes_Ath Madrid_2016
+14,2,Sociedad,14,0,0,2,0,0,1,1,14,A,5,2016-08-27,Osasuna,SP1,4,3,10,8,A,1,Osasuna_Sociedad_2016
+15,0,Celta,8,2,0,1,0,0,0,2,11,H,8,2016-08-27,Real Madrid,SP1,3,10,7,24,D,2,Real Madrid_Celta_2016
+16,1,Sp Gijon,10,0,0,0,0,0,0,1,12,D,7,2016-08-28,Alaves,SP1,1,2,4,13,D,6,Alaves_Sp Gijon_2016
+17,5,Barcelona,20,0,0,1,0,0,1,4,13,A,12,2016-08-28,Ath Bilbao,SP1,3,4,4,9,A,4,Ath Bilbao_Barcelona_2016
+18,5,Granada,8,5,0,1,1,0,1,1,16,H,13,2016-08-28,Las Palmas,SP1,2,10,6,15,D,4,Las Palmas_Granada_2016
+19,1,Sevilla,16,0,0,0,0,0,0,3,12,D,6,2016-08-28,Villarreal,SP1,0,5,5,12,D,1,Villarreal_Sevilla_2016
+20,2,Espanol,10,1,1,1,0,0,0,2,10,D,4,2016-09-09,Sociedad,SP1,1,3,11,9,D,1,Sociedad_Espanol_2016
+21,1,Alaves,12,1,0,2,0,0,1,1,12,A,5,2016-09-10,Barcelona,SP1,4,2,13,16,A,0,Barcelona_Alaves_2016
+22,1,Ath Madrid,13,0,0,4,0,0,0,2,12,A,13,2016-09-10,Celta,SP1,6,1,6,9,D,4,Celta_Ath Madrid_2016
+23,2,Villarreal,8,0,0,2,0,0,2,1,14,A,12,2016-09-10,Malaga,SP1,6,2,9,15,A,7,Malaga_Villarreal_2016
+24,2,Osasuna,14,5,1,2,3,0,0,2,14,H,10,2016-09-10,Real Madrid,SP1,3,11,6,25,H,7,Real Madrid_Osasuna_2016
+25,2,Las Palmas,15,2,1,1,0,0,1,4,13,H,7,2016-09-10,Sevilla,SP1,4,7,10,16,A,1,Sevilla_Las Palmas_2016
+26,2,Eibar,7,1,1,2,0,0,1,0,8,A,10,2016-09-11,Granada,SP1,8,5,6,15,A,7,Granada_Eibar_2016
+27,2,Ath Bilbao,15,0,0,1,0,0,1,3,15,A,7,2016-09-11,La Coruna,SP1,2,3,7,16,A,6,La Coruna_Ath Bilbao_2016
+28,0,Leganes,12,2,0,1,2,0,0,2,16,H,9,2016-09-11,Sp Gijon,SP1,2,4,3,7,H,5,Sp Gijon_Leganes_2016
+29,2,Betis,15,2,0,3,0,1,1,4,21,A,12,2016-09-11,Valencia,SP1,5,9,5,23,A,5,Valencia_Betis_2016
+30,4,Granada,13,2,1,2,1,1,2,3,17,D,15,2016-09-16,Betis,SP1,8,7,7,23,A,3,Betis_Granada_2016
+31,0,Sp Gijon,14,5,0,0,3,0,0,2,9,H,10,2016-09-17,Ath Madrid,SP1,1,7,1,18,H,4,Ath Madrid_Sp Gijon_2016
+32,1,Sevilla,19,1,0,1,0,2,1,1,10,D,8,2016-09-17,Eibar,SP1,4,2,4,10,A,2,Eibar_Sevilla_2016
+33,3,Malaga,11,1,0,0,1,0,0,1,18,H,10,2016-09-17,Las Palmas,SP1,2,2,2,6,H,2,Las Palmas_Malaga_2016
+34,4,Barcelona,28,1,0,5,0,0,3,2,7,A,10,2016-09-17,Leganes,SP1,7,6,2,15,A,5,Leganes_Barcelona_2016
+35,4,Valencia,19,2,0,1,2,0,1,4,20,H,10,2016-09-18,Ath Bilbao,SP1,2,4,7,13,H,1,Ath Bilbao_Valencia_2016
+36,4,Real Madrid,19,0,0,2,0,0,1,2,8,A,13,2016-09-18,Espanol,SP1,7,2,4,11,A,5,Espanol_Real Madrid_2016
+37,4,Celta,18,0,0,0,0,0,0,1,13,D,13,2016-09-18,Osasuna,SP1,5,2,3,9,D,5,Osasuna_Celta_2016
+38,2,Sociedad,13,2,1,1,2,0,1,3,16,H,15,2016-09-18,Villarreal,SP1,2,4,3,9,H,6,Villarreal_Sociedad_2016
+39,3,La Coruna,16,0,0,0,0,0,0,4,8,D,16,2016-09-19,Alaves,SP1,1,1,4,9,D,5,Alaves_La Coruna_2016
+40,2,Eibar,7,2,0,1,1,0,1,4,13,H,12,2016-09-20,Malaga,SP1,3,6,7,14,D,5,Malaga_Eibar_2016
+41,5,Betis,24,1,0,0,0,0,0,4,17,H,8,2016-09-20,Sevilla,SP1,3,3,6,12,D,2,Sevilla_Betis_2016
+42,2,Ath Madrid,14,1,0,1,1,0,0,4,17,D,9,2016-09-21,Barcelona,SP1,4,7,8,19,H,2,Barcelona_Ath Madrid_2016
+43,2,Sp Gijon,16,2,0,1,0,0,0,3,8,H,4,2016-09-21,Celta,SP1,1,5,8,16,D,0,Celta_Sp Gijon_2016
+44,1,Ath Bilbao,8,1,0,2,1,0,1,0,9,A,13,2016-09-21,Granada,SP1,8,2,6,13,D,3,Granada_Ath Bilbao_2016
+45,4,Villarreal,9,1,0,1,0,0,1,1,9,D,8,2016-09-21,Real Madrid,SP1,3,6,17,22,A,3,Real Madrid_Villarreal_2016
+46,1,Las Palmas,3,4,1,1,3,0,0,2,7,H,8,2016-09-21,Sociedad,SP1,3,7,7,17,H,4,Sociedad_Las Palmas_2016
+47,0,Leganes,20,1,0,2,1,0,0,3,18,A,8,2016-09-22,La Coruna,SP1,2,5,7,12,H,1,La Coruna_Leganes_2016
+48,2,Espanol,16,1,0,2,0,0,1,1,14,A,10,2016-09-22,Osasuna,SP1,2,11,7,17,A,1,Osasuna_Espanol_2016
+49,2,Alaves,14,2,0,1,1,0,1,3,13,H,8,2016-09-22,Valencia,SP1,1,2,7,12,D,4,Valencia_Alaves_2016
+50,4,Malaga,20,1,0,0,1,0,0,6,15,H,16,2016-09-23,Betis,SP1,6,4,6,11,H,5,Betis_Malaga_2016
+51,2,Sevilla,9,3,1,1,1,0,0,2,9,H,5,2016-09-24,Ath Bilbao,SP1,2,7,4,14,H,5,Ath Bilbao_Sevilla_2016
+52,4,Sociedad,15,2,1,0,0,0,0,2,13,H,3,2016-09-24,Eibar,SP1,0,3,5,17,D,3,Eibar_Sociedad_2016
+53,3,Real Madrid,7,2,0,2,1,0,1,2,19,D,27,2016-09-24,Las Palmas,SP1,11,6,0,8,D,5,Las Palmas_Real Madrid_2016
+54,1,Barcelona,15,0,0,5,0,1,2,0,10,A,13,2016-09-24,Sp Gijon,SP1,7,3,4,10,A,3,Sp Gijon_Barcelona_2016
+55,1,La Coruna,13,1,1,0,0,0,0,2,19,H,8,2016-09-25,Ath Madrid,SP1,1,5,10,21,D,0,Ath Madrid_La Coruna_2016
+56,2,Celta,15,0,0,2,0,0,0,3,13,A,12,2016-09-25,Espanol,SP1,4,2,4,10,D,7,Espanol_Celta_2016
+57,4,Valencia,19,1,0,2,1,0,1,4,17,A,10,2016-09-25,Leganes,SP1,4,3,1,7,D,5,Leganes_Valencia_2016
+58,0,Osasuna,7,3,0,1,3,0,1,2,16,H,11,2016-09-25,Villarreal,SP1,3,5,5,12,H,5,Villarreal_Osasuna_2016
+59,3,Granada,15,3,0,1,0,0,0,3,19,H,13,2016-09-26,Alaves,SP1,3,6,5,16,D,6,Alaves_Granada_2016
+60,2,Betis,17,1,0,0,0,0,0,3,22,H,5,2016-09-30,Sociedad,SP1,2,8,4,16,D,2,Sociedad_Betis_2016
+61,1,Leganes,13,0,0,1,0,0,0,0,20,A,9,2016-10-01,Granada,SP1,3,1,6,8,D,4,Granada_Leganes_2016
+62,0,Sp Gijon,17,2,0,1,1,0,0,4,26,H,7,2016-10-01,La Coruna,SP1,2,6,11,21,H,4,La Coruna_Sp Gijon_2016
+63,3,Las Palmas,17,2,0,2,2,0,0,4,7,D,17,2016-10-01,Osasuna,SP1,5,3,1,5,H,12,Osasuna_Las Palmas_2016
+64,2,Alaves,10,2,0,1,0,0,0,6,13,H,6,2016-10-01,Sevilla,SP1,1,12,9,20,D,2,Sevilla_Alaves_2016
+65,1,Barcelona,16,4,0,3,3,0,0,3,11,H,13,2016-10-02,Celta,SP1,4,9,3,14,H,6,Celta_Barcelona_2016
+66,2,Villarreal,14,0,0,0,0,0,0,2,10,D,5,2016-10-02,Espanol,SP1,1,1,3,9,D,1,Espanol_Villarreal_2016
+67,7,Ath Bilbao,19,2,1,1,0,1,1,3,11,H,7,2016-10-02,Malaga,SP1,1,3,7,15,A,2,Malaga_Ath Bilbao_2016
+68,4,Eibar,8,1,0,1,1,0,1,5,15,D,7,2016-10-02,Real Madrid,SP1,4,3,7,15,D,5,Real Madrid_Eibar_2016
+69,1,Ath Madrid,10,0,0,2,0,0,0,3,15,A,17,2016-10-02,Valencia,SP1,10,5,6,14,D,5,Valencia_Ath Madrid_2016
+70,2,Espanol,13,0,0,0,0,0,0,3,21,D,5,2016-10-14,Las Palmas,SP1,2,8,8,13,D,4,Las Palmas_Espanol_2016
+71,1,Granada,14,7,0,1,2,0,1,1,8,H,9,2016-10-15,Ath Madrid,SP1,2,11,11,17,H,3,Ath Madrid_Granada_2016
+72,1,La Coruna,5,4,1,0,3,0,0,2,15,H,7,2016-10-15,Barcelona,SP1,0,8,8,25,H,2,Barcelona_La Coruna_2016
+73,4,Real Madrid,14,1,0,6,0,0,4,1,8,A,22,2016-10-15,Betis,SP1,9,2,2,13,A,5,Betis_Real Madrid_2016
+74,2,Sevilla,17,2,0,3,0,0,1,5,20,A,5,2016-10-15,Leganes,SP1,4,6,5,19,A,2,Leganes_Sevilla_2016
+75,3,Malaga,14,1,1,1,1,1,0,3,14,D,12,2016-10-16,Alaves,SP1,5,4,6,8,H,7,Alaves_Malaga_2016
+76,3,Sociedad,17,3,0,2,0,0,1,3,19,H,6,2016-10-16,Ath Bilbao,SP1,3,11,7,15,A,4,Ath Bilbao_Sociedad_2016
+77,5,Valencia,21,1,0,2,1,0,1,1,11,A,7,2016-10-16,Sp Gijon,SP1,3,2,4,10,D,4,Sp Gijon_Valencia_2016
+78,1,Celta,19,5,1,0,3,0,0,4,12,H,4,2016-10-16,Villarreal,SP1,1,5,3,11,H,5,Villarreal_Celta_2016
+79,1,Osasuna,15,2,0,3,2,0,2,2,12,A,8,2016-10-17,Eibar,SP1,4,5,5,13,D,0,Eibar_Osasuna_2016
+80,3,Betis,20,1,0,2,0,1,1,2,12,A,12,2016-10-21,Osasuna,SP1,6,5,6,13,A,4,Osasuna_Betis_2016
+81,1,Eibar,11,3,0,3,0,1,3,6,12,D,8,2016-10-22,Espanol,SP1,3,5,7,11,A,6,Espanol_Eibar_2016
+82,4,Sp Gijon,10,0,0,0,0,0,0,1,12,D,3,2016-10-22,Granada,SP1,3,1,3,12,D,3,Granada_Sp Gijon_2016
+83,3,Alaves,17,3,0,0,1,0,0,5,20,H,10,2016-10-22,Sociedad,SP1,3,5,4,16,H,2,Sociedad_Alaves_2016
+84,5,Barcelona,15,2,0,3,0,0,1,4,13,A,15,2016-10-22,Valencia,SP1,8,4,3,7,A,1,Valencia_Barcelona_2016
+85,3,La Coruna,17,4,0,1,1,0,1,5,15,H,11,2016-10-23,Celta,SP1,1,7,5,9,D,4,Celta_La Coruna_2016
+86,1,Leganes,12,4,0,0,2,0,0,3,15,H,14,2016-10-23,Malaga,SP1,5,8,5,24,H,8,Malaga_Leganes_2016
+87,2,Ath Bilbao,10,2,0,1,1,0,1,3,17,H,10,2016-10-23,Real Madrid,SP1,3,8,6,24,D,4,Real Madrid_Ath Bilbao_2016
+88,4,Ath Madrid,15,1,1,0,0,0,0,2,11,H,9,2016-10-23,Sevilla,SP1,3,5,4,12,D,5,Sevilla_Ath Madrid_2016
+89,2,Las Palmas,16,2,0,1,0,0,1,3,12,H,8,2016-10-23,Villarreal,SP1,4,4,2,14,A,1,Villarreal_Las Palmas_2016
+90,5,Sociedad,19,0,0,2,0,0,1,2,15,A,9,2016-10-28,Leganes,SP1,5,4,1,7,A,4,Leganes_Sociedad_2016
+91,5,Real Madrid,15,1,0,4,1,0,2,1,6,A,15,2016-10-29,Alaves,SP1,5,3,4,8,A,3,Alaves_Real Madrid_2016
+92,2,Malaga,10,4,1,2,3,1,1,4,10,H,6,2016-10-29,Ath Madrid,SP1,3,7,6,16,H,2,Ath Madrid_Malaga_2016
+93,1,Granada,7,1,0,0,0,0,0,4,17,H,1,2016-10-29,Barcelona,SP1,0,5,8,15,D,1,Barcelona_Granada_2016
+94,6,Sevilla,17,1,0,1,1,0,1,2,9,D,20,2016-10-29,Sp Gijon,SP1,6,5,3,9,D,4,Sp Gijon_Sevilla_2016
+95,2,Osasuna,10,1,0,1,1,0,1,1,11,D,7,2016-10-30,Ath Bilbao,SP1,3,4,9,18,D,2,Ath Bilbao_Osasuna_2016
+96,3,Espanol,15,0,0,1,0,0,0,3,15,A,10,2016-10-30,Betis,SP1,5,5,8,13,D,3,Betis_Espanol_2016
+97,2,Villarreal,16,2,0,1,0,0,1,3,16,H,6,2016-10-30,Eibar,SP1,1,9,3,13,A,7,Eibar_Villarreal_2016
+98,2,Celta,13,3,1,3,0,0,3,6,22,D,9,2016-10-30,Las Palmas,SP1,6,8,8,17,A,1,Las Palmas_Celta_2016
+99,1,Valencia,14,1,0,1,1,0,0,5,21,D,10,2016-10-31,La Coruna,SP1,3,4,5,16,H,6,La Coruna_Valencia_2016
+100,5,Sp Gijon,12,3,1,2,1,0,1,4,20,H,7,2016-11-04,Malaga,SP1,4,7,9,22,D,2,Malaga_Sp Gijon_2016
+101,1,La Coruna,11,1,0,1,0,0,0,2,7,D,13,2016-11-05,Granada,SP1,5,6,7,14,D,6,Granada_La Coruna_2016
+102,1,Eibar,10,1,0,0,0,0,0,4,20,H,13,2016-11-05,Las Palmas,SP1,5,6,7,16,D,4,Las Palmas_Eibar_2016
+103,5,Alaves,18,0,0,1,0,0,0,2,10,A,12,2016-11-05,Osasuna,SP1,3,4,3,10,D,4,Osasuna_Alaves_2016
+104,2,Ath Madrid,18,2,0,0,0,0,0,4,20,H,9,2016-11-05,Sociedad,SP1,2,3,6,12,D,6,Sociedad_Ath Madrid_2016
+105,6,Valencia,19,2,0,1,1,0,1,1,15,H,13,2016-11-06,Celta,SP1,4,4,4,7,D,3,Celta_Valencia_2016
+106,1,Ath Bilbao,13,0,0,0,0,0,0,2,11,D,4,2016-11-06,Espanol,SP1,0,3,5,6,D,3,Espanol_Ath Bilbao_2016
+107,3,Leganes,7,3,0,0,2,0,0,5,20,H,7,2016-11-06,Real Madrid,SP1,3,7,2,17,H,2,Real Madrid_Leganes_2016
+108,4,Barcelona,18,1,0,2,1,0,1,6,12,A,14,2016-11-06,Sevilla,SP1,7,4,3,15,D,5,Sevilla_Barcelona_2016
+109,0,Betis,16,2,0,0,1,0,0,2,12,H,7,2016-11-06,Villarreal,SP1,3,7,10,15,H,1,Villarreal_Betis_2016
+110,0,Las Palmas,22,2,0,0,2,0,0,1,10,H,9,2016-11-18,Betis,SP1,3,3,4,10,H,5,Betis_Las Palmas_2016
+111,4,Real Madrid,21,0,0,3,0,0,1,2,14,A,12,2016-11-19,Ath Madrid,SP1,7,5,8,16,A,6,Ath Madrid_Real Madrid_2016
+112,0,Malaga,13,0,2,0,0,0,0,2,12,D,4,2016-11-19,Barcelona,SP1,1,8,14,28,D,1,Barcelona_Malaga_2016
+113,2,Celta,11,1,2,0,1,0,0,5,13,H,6,2016-11-19,Eibar,SP1,2,5,7,12,H,0,Eibar_Celta_2016
+114,3,Sevilla,15,2,0,3,2,0,1,2,12,A,20,2016-11-19,La Coruna,SP1,7,3,3,4,H,14,La Coruna_Sevilla_2016
+115,5,Espanol,20,0,0,1,0,0,0,2,14,A,10,2016-11-20,Alaves,SP1,3,4,2,10,D,5,Alaves_Espanol_2016
+116,0,Villarreal,13,1,0,0,0,0,0,2,17,H,6,2016-11-20,Ath Bilbao,SP1,2,5,6,12,D,5,Ath Bilbao_Villarreal_2016
+117,2,Sociedad,17,1,0,3,1,0,1,1,9,A,20,2016-11-20,Sp Gijon,SP1,9,1,3,4,D,5,Sp Gijon_Sociedad_2016
+118,1,Granada,7,1,0,1,0,0,1,5,18,D,9,2016-11-20,Valencia,SP1,5,7,11,14,A,2,Valencia_Granada_2016
+119,2,Osasuna,13,2,0,0,1,0,0,3,17,H,5,2016-11-21,Leganes,SP1,2,5,3,15,H,2,Leganes_Osasuna_2016
+120,0,Betis,11,3,1,1,2,0,0,1,7,H,7,2016-11-25,Eibar,SP1,2,9,5,16,H,1,Eibar_Betis_2016
+121,1,Leganes,19,3,0,0,0,0,0,2,16,H,8,2016-11-26,Espanol,SP1,3,4,3,8,D,4,Espanol_Leganes_2016
+122,3,La Coruna,15,4,0,3,2,0,1,1,13,H,24,2016-11-26,Malaga,SP1,8,4,2,10,H,5,Malaga_La Coruna_2016
+123,1,Sp Gijon,19,2,0,1,2,0,1,3,18,H,9,2016-11-26,Real Madrid,SP1,3,7,5,19,H,6,Real Madrid_Sp Gijon_2016
+124,0,Valencia,19,2,0,1,0,0,0,1,14,H,10,2016-11-26,Sevilla,SP1,4,1,3,6,D,6,Sevilla_Valencia_2016
+125,0,Granada,4,3,0,1,2,0,0,3,15,H,7,2016-11-27,Celta,SP1,1,6,5,16,H,0,Celta_Granada_2016
+126,2,Ath Madrid,9,0,0,3,0,0,2,2,6,A,7,2016-11-27,Osasuna,SP1,5,1,7,11,A,4,Osasuna_Ath Madrid_2016
+127,2,Barcelona,16,1,0,1,0,0,0,4,11,D,10,2016-11-27,Sociedad,SP1,2,6,8,17,D,6,Sociedad_Barcelona_2016
+128,2,Alaves,11,0,0,2,0,0,2,3,19,A,10,2016-11-27,Villarreal,SP1,7,10,12,23,A,1,Villarreal_Alaves_2016
+129,3,Ath Bilbao,19,3,1,1,1,0,0,4,21,H,10,2016-11-28,Las Palmas,SP1,3,4,5,10,H,3,Las Palmas_Ath Bilbao_2016
+130,2,Espanol,10,0,0,0,0,0,0,2,19,D,5,2016-12-03,Ath Madrid,SP1,3,3,9,11,D,2,Ath Madrid_Espanol_2016
+131,4,Real Madrid,19,1,0,1,0,0,0,2,16,D,14,2016-12-03,Barcelona,SP1,5,2,5,11,D,7,Barcelona_Real Madrid_2016
+132,5,Sevilla,18,2,0,1,1,0,0,2,16,H,17,2016-12-03,Granada,SP1,6,6,4,11,H,8,Granada_Sevilla_2016
+133,6,Villarreal,21,0,0,0,0,0,0,3,16,D,9,2016-12-03,Leganes,SP1,3,4,2,11,D,4,Leganes_Villarreal_2016
+134,3,Las Palmas,15,1,0,1,1,0,0,3,11,D,10,2016-12-04,Alaves,SP1,3,2,3,9,H,5,Alaves_Las Palmas_2016
+135,1,Eibar,9,3,0,1,1,0,0,4,16,H,10,2016-12-04,Ath Bilbao,SP1,4,5,2,12,H,2,Ath Bilbao_Eibar_2016
+136,4,Celta,22,3,0,3,1,1,1,1,14,D,13,2016-12-04,Betis,SP1,6,5,4,16,D,3,Betis_Celta_2016
+137,3,Osasuna,17,3,0,1,1,0,0,1,13,H,15,2016-12-04,Sp Gijon,SP1,2,5,2,9,H,5,Sp Gijon_Osasuna_2016
+138,5,Malaga,16,2,0,2,2,0,1,1,7,D,19,2016-12-04,Valencia,SP1,6,3,2,8,H,13,Valencia_Malaga_2016
+139,1,Sociedad,15,5,0,1,3,0,0,4,10,H,14,2016-12-05,La Coruna,SP1,3,10,8,15,H,6,La Coruna_Sociedad_2016
+140,3,Granada,16,1,0,1,1,0,0,5,14,D,8,2016-12-09,Malaga,SP1,2,7,6,16,H,2,Malaga_Granada_2016
+141,3,Leganes,17,1,0,1,1,0,0,3,18,D,11,2016-12-10,Las Palmas,SP1,6,1,6,5,H,4,Las Palmas_Leganes_2016
+142,3,Barcelona,18,0,0,3,0,0,0,0,6,A,17,2016-12-10,Osasuna,SP1,6,1,2,4,D,5,Osasuna_Barcelona_2016
+143,3,La Coruna,16,3,0,2,0,0,0,4,17,H,4,2016-12-10,Real Madrid,SP1,2,5,10,17,D,3,Real Madrid_La Coruna_2016
+144,4,Valencia,17,3,1,2,2,0,1,4,20,H,9,2016-12-10,Sociedad,SP1,3,6,8,14,H,4,Sociedad_Valencia_2016
+145,3,Ath Bilbao,14,1,0,0,1,0,0,2,12,H,14,2016-12-11,Betis,SP1,4,1,3,6,H,7,Betis_Ath Bilbao_2016
+146,3,Sevilla,13,0,0,3,0,0,0,3,13,A,14,2016-12-11,Celta,SP1,5,6,4,14,D,6,Celta_Sevilla_2016
+147,1,Alaves,14,0,0,0,0,0,0,1,7,D,3,2016-12-11,Eibar,SP1,3,1,7,8,D,2,Eibar_Alaves_2016
+148,1,Sp Gijon,13,2,0,1,0,0,0,2,10,H,13,2016-12-11,Espanol,SP1,5,6,4,12,D,3,Espanol_Sp Gijon_2016
+149,3,Ath Madrid,13,3,0,0,2,0,0,3,13,H,13,2016-12-12,Villarreal,SP1,3,5,2,9,H,7,Villarreal_Ath Madrid_2016
+150,6,Betis,20,1,0,0,0,0,0,1,6,H,6,2016-12-16,Alaves,SP1,3,2,6,10,D,4,Alaves_Betis_2016
+151,2,Las Palmas,15,1,0,0,0,0,0,1,11,H,11,2016-12-17,Ath Madrid,SP1,3,3,8,16,D,5,Ath Madrid_Las Palmas_2016
+152,0,Sociedad,9,0,0,2,0,0,0,1,11,A,18,2016-12-17,Granada,SP1,6,4,5,10,D,9,Granada_Sociedad_2016
+153,2,Malaga,17,4,0,1,4,1,0,3,12,H,16,2016-12-17,Sevilla,SP1,3,5,3,9,H,6,Sevilla_Malaga_2016
+154,2,Villarreal,16,1,0,3,0,0,2,1,14,A,14,2016-12-17,Sp Gijon,SP1,9,7,12,16,A,2,Sp Gijon_Villarreal_2016
+155,0,Espanol,11,4,0,1,1,0,0,3,16,H,4,2016-12-18,Barcelona,SP1,1,7,5,14,H,2,Barcelona_Espanol_2016
+156,1,Osasuna,8,2,0,0,2,0,0,3,16,H,13,2016-12-18,La Coruna,SP1,3,4,5,8,H,1,La Coruna_Osasuna_2016
+157,2,Eibar,10,1,0,1,1,1,0,2,10,D,15,2016-12-18,Leganes,SP1,4,2,3,8,H,6,Leganes_Eibar_2016
+158,4,Celta,16,2,1,1,0,0,0,2,13,H,10,2016-12-19,Ath Bilbao,SP1,4,7,9,10,D,7,Ath Bilbao_Celta_2016
+159,1,La Coruna,13,1,1,1,0,0,0,1,14,D,13,2017-01-06,Espanol,SP1,3,4,2,14,D,8,Espanol_La Coruna_2016
+160,2,Ath Madrid,11,0,0,2,0,0,0,2,10,A,8,2017-01-07,Eibar,SP1,4,2,5,15,D,3,Eibar_Ath Madrid_2016
+161,2,Sp Gijon,8,1,0,0,0,0,0,3,18,H,10,2017-01-07,Las Palmas,SP1,2,10,8,16,D,3,Las Palmas_Sp Gijon_2016
+162,1,Granada,11,5,0,0,4,0,0,4,12,H,3,2017-01-07,Real Madrid,SP1,1,13,9,23,H,1,Real Madrid_Granada_2016
+163,2,Sevilla,15,0,0,4,0,0,2,3,18,A,11,2017-01-07,Sociedad,SP1,10,5,7,11,A,4,Sociedad_Sevilla_2016
+164,2,Alaves,10,0,0,0,0,0,0,4,13,D,10,2017-01-08,Ath Bilbao,SP1,4,4,13,15,D,4,Ath Bilbao_Alaves_2016
+165,2,Leganes,10,2,0,0,0,0,0,6,20,H,9,2017-01-08,Betis,SP1,3,3,4,16,D,2,Betis_Leganes_2016
+166,1,Malaga,17,3,0,1,1,0,0,4,15,H,13,2017-01-08,Celta,SP1,4,3,2,6,H,7,Celta_Malaga_2016
+167,1,Barcelona,16,1,0,1,0,1,0,2,13,D,20,2017-01-08,Villarreal,SP1,7,3,2,6,D,4,Villarreal_Barcelona_2016
+168,2,Valencia,19,3,0,3,1,0,2,5,13,D,7,2017-01-09,Osasuna,SP1,3,4,7,22,A,3,Osasuna_Valencia_2016
+169,1,Betis,15,1,0,0,1,0,0,3,17,H,10,2017-01-14,Ath Madrid,SP1,6,3,9,6,H,2,Ath Madrid_Betis_2016
+170,3,Las Palmas,15,5,0,0,1,0,0,4,11,H,7,2017-01-14,Barcelona,SP1,1,10,5,22,H,1,Barcelona_Las Palmas_2016
+171,0,Villarreal,14,0,0,0,0,0,0,1,8,D,4,2017-01-14,La Coruna,SP1,1,3,10,13,D,0,La Coruna_Villarreal_2016
+172,3,Ath Bilbao,20,0,0,0,0,0,0,3,11,D,10,2017-01-14,Leganes,SP1,2,5,4,15,D,8,Leganes_Ath Bilbao_2016
+173,4,Alaves,19,1,1,0,0,0,0,3,10,H,9,2017-01-15,Celta,SP1,1,4,7,13,D,4,Celta_Alaves_2016
+174,2,Osasuna,13,1,0,1,0,2,1,4,23,D,13,2017-01-15,Granada,SP1,3,4,3,8,A,5,Granada_Osasuna_2016
+175,3,Real Madrid,13,2,0,1,0,0,0,1,10,H,10,2017-01-15,Sevilla,SP1,3,4,6,9,D,1,Sevilla_Real Madrid_2016
+176,4,Eibar,13,2,0,3,1,0,3,0,16,A,18,2017-01-15,Sp Gijon,SP1,7,4,2,10,A,4,Sp Gijon_Eibar_2016
+177,5,Espanol,17,2,0,1,1,0,0,0,13,H,6,2017-01-15,Valencia,SP1,3,5,6,10,H,3,Valencia_Espanol_2016
+178,0,Sociedad,22,0,0,2,0,0,0,2,12,A,11,2017-01-16,Malaga,SP1,5,1,8,5,D,8,Malaga_Sociedad_2016
+179,0,La Coruna,13,1,0,1,1,1,0,1,8,D,7,2017-01-20,Las Palmas,SP1,1,3,4,9,H,5,Las Palmas_La Coruna_2016
+180,3,Leganes,9,2,0,2,1,0,1,2,20,D,13,2017-01-21,Alaves,SP1,4,3,4,8,D,3,Alaves_Leganes_2016
+181,0,Granada,19,3,0,1,2,0,1,3,17,H,7,2017-01-21,Espanol,SP1,4,8,10,17,H,5,Espanol_Granada_2016
+182,2,Malaga,7,2,0,1,2,0,0,3,20,H,10,2017-01-21,Real Madrid,SP1,6,7,5,14,H,4,Real Madrid_Malaga_2016
+183,2,Valencia,14,0,0,2,0,0,2,2,17,A,13,2017-01-21,Villarreal,SP1,5,5,7,20,A,2,Villarreal_Valencia_2016
+184,2,Ath Madrid,12,2,0,2,1,0,1,3,9,D,11,2017-01-22,Ath Bilbao,SP1,5,5,2,8,D,6,Ath Bilbao_Ath Madrid_2016
+185,2,Sp Gijon,14,0,0,0,0,0,0,2,20,D,7,2017-01-22,Betis,SP1,1,4,9,16,D,5,Betis_Sp Gijon_2016
+186,3,Barcelona,12,0,0,4,0,0,1,1,4,A,14,2017-01-22,Eibar,SP1,7,6,8,14,A,5,Eibar_Barcelona_2016
+187,5,Sevilla,14,3,0,4,1,0,1,3,8,A,13,2017-01-22,Osasuna,SP1,9,7,3,14,D,6,Osasuna_Sevilla_2016
+188,2,Celta,13,1,0,0,0,0,0,2,12,H,11,2017-01-22,Sociedad,SP1,5,6,4,17,D,3,Sociedad_Celta_2016
+189,1,Malaga,9,1,0,1,0,0,0,0,16,D,14,2017-01-27,Osasuna,SP1,5,2,4,14,D,6,Osasuna_Malaga_2016
+190,3,Ath Madrid,19,0,0,0,0,0,0,2,18,D,8,2017-01-28,Alaves,SP1,2,4,7,19,D,2,Alaves_Ath Madrid_2016
+191,0,La Coruna,14,3,0,1,2,0,1,2,7,H,20,2017-01-28,Eibar,SP1,7,6,9,12,H,10,Eibar_La Coruna_2016
+192,1,Celta,20,0,0,2,0,0,1,1,14,A,3,2017-01-28,Leganes,SP1,3,0,8,6,A,0,Leganes_Celta_2016
+193,3,Granada,11,2,0,0,1,0,0,2,18,H,7,2017-01-28,Villarreal,SP1,0,6,7,18,H,4,Villarreal_Granada_2016
+194,4,Sp Gijon,11,2,0,1,0,0,1,3,22,H,5,2017-01-29,Ath Bilbao,SP1,3,6,5,11,A,0,Ath Bilbao_Sp Gijon_2016
+195,2,Barcelona,17,1,0,1,0,0,0,3,12,D,10,2017-01-29,Betis,SP1,4,7,8,17,D,2,Betis_Barcelona_2016
+196,2,Sevilla,18,3,1,1,2,0,1,2,14,H,12,2017-01-29,Espanol,SP1,5,8,7,16,H,4,Espanol_Sevilla_2016
+197,2,Sociedad,16,3,1,0,1,0,0,1,11,H,9,2017-01-29,Real Madrid,SP1,3,4,0,7,H,3,Real Madrid_Sociedad_2016
+198,1,Valencia,17,3,1,1,1,0,1,3,13,H,8,2017-01-30,Las Palmas,SP1,3,4,6,9,D,3,Las Palmas_Valencia_2016
+199,1,Leganes,10,2,0,0,1,0,0,1,15,H,15,2017-02-04,Ath Madrid,SP1,2,4,3,12,H,6,Ath Madrid_Leganes_2016
+200,1,Ath Bilbao,11,3,0,0,2,0,0,3,18,H,10,2017-02-04,Barcelona,SP1,5,6,7,16,H,3,Barcelona_Ath Bilbao_2016
+201,1,Espanol,9,0,0,1,0,0,1,4,18,A,4,2017-02-04,Malaga,SP1,3,5,17,19,A,2,Malaga_Espanol_2016
+202,2,Eibar,12,0,0,4,0,1,2,1,10,A,11,2017-02-04,Valencia,SP1,7,1,2,8,A,6,Valencia_Eibar_2016
+203,2,Villarreal,14,0,0,0,0,0,0,2,16,D,11,2017-02-05,Sevilla,SP1,4,4,9,14,D,0,Sevilla_Villarreal_2016
+204,2,Osasuna,6,3,0,2,0,0,1,2,22,H,11,2017-02-05,Sociedad,SP1,5,6,3,13,A,2,Sociedad_Osasuna_2016
+205,7,Alaves,20,2,0,4,0,0,1,3,20,A,14,2017-02-05,Sp Gijon,SP1,7,4,8,12,A,4,Sp Gijon_Alaves_2016
+206,5,Las Palmas,27,1,0,0,1,0,0,3,9,H,15,2017-02-06,Granada,SP1,5,4,6,12,H,5,Granada_Las Palmas_2016
+207,3,Sociedad,15,1,0,2,1,0,1,2,14,A,15,2017-02-10,Espanol,SP1,5,2,5,7,D,6,Espanol_Sociedad_2016
+208,1,Barcelona,16,0,0,6,0,0,2,3,9,A,21,2017-02-11,Alaves,SP1,9,4,3,9,A,9,Alaves_Barcelona_2016
+209,1,La Coruna,12,2,0,1,0,0,1,2,11,H,8,2017-02-11,Ath Bilbao,SP1,3,5,3,13,A,2,Ath Bilbao_La Coruna_2016
+210,4,Valencia,15,0,0,0,0,0,0,3,17,D,8,2017-02-11,Betis,SP1,4,2,4,16,D,6,Betis_Valencia_2016
+211,3,Real Madrid,10,1,0,3,1,0,1,2,8,A,12,2017-02-11,Osasuna,SP1,6,8,3,11,D,2,Osasuna_Real Madrid_2016
+212,1,Celta,11,3,0,2,1,0,1,2,13,H,14,2017-02-12,Ath Madrid,SP1,6,5,3,16,D,3,Ath Madrid_Celta_2016
+213,2,Sevilla,15,0,0,1,0,0,0,4,16,A,12,2017-02-12,Las Palmas,SP1,3,7,1,15,D,4,Las Palmas_Sevilla_2016
+214,3,Sp Gijon,16,0,1,2,0,0,0,6,16,A,4,2017-02-12,Leganes,SP1,2,3,4,9,D,3,Leganes_Sp Gijon_2016
+215,0,Malaga,14,1,0,1,0,1,1,5,12,D,11,2017-02-12,Villarreal,SP1,5,5,9,12,A,9,Villarreal_Malaga_2016
+216,2,Granada,11,4,0,0,2,0,0,2,14,H,13,2017-02-13,Eibar,SP1,3,9,7,25,H,8,Eibar_Granada_2016
+217,4,Betis,18,4,1,1,3,1,0,1,9,H,6,2017-02-17,Granada,SP1,2,8,4,10,H,7,Granada_Betis_2016
+218,5,Alaves,13,0,0,1,0,0,0,3,13,A,6,2017-02-18,La Coruna,SP1,4,4,10,16,D,6,La Coruna_Alaves_2016
+219,3,Espanol,12,2,0,0,1,0,0,4,13,H,3,2017-02-18,Real Madrid,SP1,1,3,13,12,H,2,Real Madrid_Espanol_2016
+220,2,Eibar,13,2,0,0,1,0,0,3,11,H,11,2017-02-18,Sevilla,SP1,3,5,5,11,H,2,Sevilla_Eibar_2016
+221,1,Ath Madrid,12,1,0,4,0,0,0,1,10,A,11,2017-02-18,Sp Gijon,SP1,6,2,12,15,D,3,Sp Gijon_Ath Madrid_2016
+222,1,Leganes,8,2,0,1,1,0,0,3,18,H,11,2017-02-19,Barcelona,SP1,6,6,4,13,H,4,Barcelona_Leganes_2016
+223,1,Osasuna,14,3,0,0,1,0,0,0,18,H,8,2017-02-19,Celta,SP1,3,4,3,11,H,5,Celta_Osasuna_2016
+224,2,Villarreal,8,0,0,1,0,0,0,4,19,A,7,2017-02-19,Sociedad,SP1,3,0,7,16,D,4,Sociedad_Villarreal_2016
+225,0,Ath Bilbao,17,2,0,0,2,0,0,1,11,H,15,2017-02-19,Valencia,SP1,5,5,3,15,H,1,Valencia_Ath Bilbao_2016
+226,3,Las Palmas,23,2,0,1,2,1,1,3,14,H,13,2017-02-20,Malaga,SP1,4,6,2,13,H,6,Malaga_Las Palmas_2016
+227,5,Real Madrid,12,2,0,1,2,0,1,2,18,H,22,2017-02-22,Valencia,SP1,5,5,3,8,H,11,Valencia_Real Madrid_2016
+228,2,Sociedad,14,0,0,1,0,0,0,2,19,A,9,2017-02-24,Las Palmas,SP1,2,7,6,18,D,1,Las Palmas_Sociedad_2016
+229,4,Valencia,13,2,1,1,0,0,0,2,16,H,5,2017-02-25,Alaves,SP1,2,5,2,13,D,1,Alaves_Valencia_2016
+230,3,Sevilla,19,1,0,2,1,0,0,3,17,A,13,2017-02-25,Betis,SP1,4,4,4,15,H,4,Betis_Sevilla_2016
+231,2,Malaga,11,3,1,0,1,0,0,4,18,H,4,2017-02-25,Eibar,SP1,2,4,2,8,H,2,Eibar_Malaga_2016
+232,2,La Coruna,18,4,1,0,2,0,0,5,13,H,11,2017-02-25,Leganes,SP1,3,5,2,7,H,7,Leganes_La Coruna_2016
+233,1,Granada,14,3,0,1,2,0,1,5,16,H,7,2017-02-26,Ath Bilbao,SP1,2,7,0,14,H,3,Ath Bilbao_Granada_2016
+234,4,Barcelona,28,1,0,2,0,0,0,2,14,A,15,2017-02-26,Ath Madrid,SP1,6,4,6,12,D,5,Ath Madrid_Barcelona_2016
+235,1,Osasuna,11,3,1,0,1,0,0,4,10,H,4,2017-02-26,Espanol,SP1,1,6,10,18,H,2,Espanol_Osasuna_2016
+236,2,Celta,9,1,0,1,0,1,0,4,17,D,16,2017-02-26,Sp Gijon,SP1,5,6,7,20,D,5,Sp Gijon_Celta_2016
+237,4,Real Madrid,15,2,0,3,0,0,0,1,6,A,25,2017-02-26,Villarreal,SP1,6,4,5,11,D,5,Villarreal_Real Madrid_2016
+238,3,Betis,8,1,0,2,1,0,0,5,16,A,11,2017-02-28,Malaga,SP1,5,4,7,15,H,5,Malaga_Betis_2016
+239,3,Eibar,12,2,1,2,1,1,1,4,20,D,13,2017-02-28,Sociedad,SP1,4,7,3,14,D,5,Sociedad_Eibar_2016
+240,3,Leganes,12,1,1,0,1,0,0,2,26,H,3,2017-02-28,Valencia,SP1,0,6,7,16,H,3,Valencia_Leganes_2016
+241,1,Sp Gijon,14,6,0,1,3,0,1,3,12,H,5,2017-03-01,Barcelona,SP1,2,9,10,25,H,3,Barcelona_Sp Gijon_2016
+242,2,Espanol,16,2,0,2,2,1,2,2,8,D,8,2017-03-01,Celta,SP1,2,4,1,8,D,3,Celta_Espanol_2016
+243,6,Alaves,19,2,2,1,1,0,0,4,15,H,11,2017-03-01,Granada,SP1,5,6,4,13,H,4,Granada_Alaves_2016
+244,3,Villarreal,10,1,0,4,0,0,2,3,13,A,12,2017-03-01,Osasuna,SP1,6,3,8,17,A,2,Osasuna_Villarreal_2016
+245,4,Las Palmas,15,3,0,3,1,1,1,3,16,D,17,2017-03-01,Real Madrid,SP1,8,7,7,20,D,4,Real Madrid_Las Palmas_2016
+246,2,Ath Madrid,14,1,0,1,1,0,0,1,10,D,10,2017-03-02,La Coruna,SP1,4,2,7,13,H,2,La Coruna_Ath Madrid_2016
+247,6,Ath Bilbao,16,1,0,0,1,0,0,2,10,H,14,2017-03-02,Sevilla,SP1,4,4,6,14,H,9,Sevilla_Ath Bilbao_2016
+248,4,Sociedad,18,2,0,3,1,0,2,2,15,A,9,2017-03-03,Betis,SP1,6,5,7,12,A,6,Betis_Sociedad_2016
+249,1,Celta,10,5,0,0,2,0,0,3,16,H,7,2017-03-04,Barcelona,SP1,2,9,10,19,H,1,Barcelona_Celta_2016
+250,1,Real Madrid,13,1,0,4,0,0,3,1,14,A,12,2017-03-04,Eibar,SP1,7,2,4,12,A,4,Eibar_Real Madrid_2016
+251,3,Granada,17,1,0,0,0,0,0,2,19,H,1,2017-03-04,Leganes,SP1,1,4,7,16,D,4,Leganes_Granada_2016
+252,2,Espanol,13,2,0,0,1,0,0,2,18,H,8,2017-03-04,Villarreal,SP1,2,6,1,11,H,1,Villarreal_Espanol_2016
+253,3,Malaga,13,1,0,0,0,0,0,5,18,H,8,2017-03-05,Ath Bilbao,SP1,2,3,8,15,D,2,Ath Bilbao_Malaga_2016
+254,1,Valencia,17,3,0,0,1,0,0,2,9,H,6,2017-03-05,Ath Madrid,SP1,2,8,6,18,H,2,Ath Madrid_Valencia_2016
+255,4,Osasuna,7,5,0,2,1,0,2,4,21,H,10,2017-03-05,Las Palmas,SP1,4,8,5,16,A,1,Las Palmas_Osasuna_2016
+256,4,La Coruna,11,0,0,1,0,0,1,5,13,A,7,2017-03-05,Sp Gijon,SP1,3,2,6,9,A,4,Sp Gijon_La Coruna_2016
+257,2,Sevilla,12,1,0,1,0,0,1,5,16,D,9,2017-03-06,Alaves,SP1,1,4,2,18,A,2,Alaves_Sevilla_2016
+258,4,Betis,22,1,0,1,0,0,0,7,17,D,5,2017-03-08,La Coruna,SP1,3,5,6,15,D,4,La Coruna_Betis_2016
+259,2,Las Palmas,18,4,0,3,2,0,1,4,12,H,12,2017-03-10,Espanol,SP1,5,6,2,12,H,5,Espanol_Las Palmas_2016
+260,3,Ath Madrid,14,0,0,1,0,1,0,3,15,A,15,2017-03-11,Granada,SP1,6,2,4,12,D,9,Granada_Ath Madrid_2016
+261,2,Alaves,17,1,1,2,0,0,1,1,13,A,4,2017-03-11,Malaga,SP1,2,9,5,15,A,3,Malaga_Alaves_2016
+262,2,Leganes,20,1,0,1,1,0,1,3,20,D,12,2017-03-11,Sevilla,SP1,4,4,4,12,D,1,Sevilla_Leganes_2016
+263,3,Sp Gijon,15,1,0,1,0,0,0,5,20,D,10,2017-03-11,Valencia,SP1,4,7,7,20,D,9,Valencia_Sp Gijon_2016
+264,4,Villarreal,8,0,0,1,0,0,1,5,11,A,8,2017-03-12,Celta,SP1,4,1,4,12,A,3,Celta_Villarreal_2016
+265,2,Barcelona,7,2,0,1,1,0,0,0,8,H,16,2017-03-12,La Coruna,SP1,5,9,4,14,H,8,La Coruna_Barcelona_2016
+266,1,Betis,8,2,1,1,1,0,1,0,21,H,9,2017-03-12,Real Madrid,SP1,4,4,8,14,D,4,Real Madrid_Betis_2016
+267,3,Ath Bilbao,15,0,0,2,0,0,1,6,22,A,9,2017-03-12,Sociedad,SP1,5,4,8,16,A,3,Sociedad_Ath Bilbao_2016
+268,4,Eibar,15,1,0,1,0,0,0,4,14,D,14,2017-03-13,Osasuna,SP1,7,6,6,10,D,6,Osasuna_Eibar_2016
+269,2,Villarreal,14,1,1,0,1,0,0,2,14,H,8,2017-03-17,Las Palmas,SP1,3,10,8,19,H,5,Las Palmas_Villarreal_2016
+270,3,Sociedad,14,1,1,0,1,0,0,3,13,H,10,2017-03-18,Alaves,SP1,2,5,5,10,H,8,Alaves_Sociedad_2016
+271,1,Real Madrid,1,1,0,2,0,0,1,4,4,A,9,2017-03-18,Ath Bilbao,SP1,4,5,5,12,A,5,Ath Bilbao_Real Madrid_2016
+272,0,Osasuna,12,2,0,0,2,0,0,3,15,H,13,2017-03-18,Betis,SP1,5,5,5,9,H,0,Betis_Osasuna_2016
+273,2,Espanol,12,1,0,1,1,0,0,4,13,D,4,2017-03-18,Eibar,SP1,1,4,6,16,H,2,Eibar_Espanol_2016
+274,4,Sevilla,16,3,0,1,1,0,0,3,14,H,9,2017-03-19,Ath Madrid,SP1,2,8,2,15,H,2,Ath Madrid_Sevilla_2016
+275,3,Valencia,4,4,1,2,2,0,2,4,12,H,6,2017-03-19,Barcelona,SP1,5,12,6,28,D,3,Barcelona_Valencia_2016
+276,4,Celta,21,0,0,1,0,0,0,4,12,A,9,2017-03-19,La Coruna,SP1,2,2,3,9,D,1,La Coruna_Celta_2016
+277,4,Malaga,11,0,0,0,0,0,0,2,16,D,8,2017-03-19,Leganes,SP1,1,2,6,14,D,7,Leganes_Malaga_2016
+278,2,Granada,12,3,0,1,0,0,0,4,14,H,12,2017-03-19,Sp Gijon,SP1,5,11,6,15,D,3,Sp Gijon_Granada_2016
+279,3,Betis,16,2,0,1,0,0,0,2,14,H,10,2017-03-31,Espanol,SP1,3,5,4,8,D,4,Espanol_Betis_2016
+280,2,Ath Madrid,9,0,0,2,0,0,1,2,11,A,7,2017-04-01,Malaga,SP1,6,5,6,21,A,0,Malaga_Ath Madrid_2016
+281,4,Ath Bilbao,19,1,0,2,0,0,2,2,9,A,9,2017-04-01,Osasuna,SP1,4,6,6,8,A,3,Osasuna_Ath Bilbao_2016
+282,2,Leganes,10,1,0,1,0,0,1,3,16,D,6,2017-04-01,Sociedad,SP1,3,5,7,14,A,0,Sociedad_Leganes_2016
+283,4,Eibar,9,2,0,3,1,0,0,3,10,A,14,2017-04-01,Villarreal,SP1,4,7,11,15,H,5,Villarreal_Eibar_2016
+284,1,Barcelona,15,1,0,4,0,1,1,3,10,A,26,2017-04-02,Granada,SP1,13,5,1,7,A,9,Granada_Barcelona_2016
+285,0,Alaves,12,3,0,0,1,0,0,2,16,H,12,2017-04-02,Real Madrid,SP1,3,6,3,18,H,3,Real Madrid_Alaves_2016
+286,3,Sp Gijon,17,0,0,0,0,0,0,4,13,D,8,2017-04-02,Sevilla,SP1,2,6,9,18,D,5,Sevilla_Sp Gijon_2016
+287,3,La Coruna,17,3,0,0,2,0,0,1,13,H,13,2017-04-02,Valencia,SP1,5,8,3,14,H,6,Valencia_La Coruna_2016
+288,3,Las Palmas,15,3,0,1,2,0,0,3,10,H,12,2017-04-03,Celta,SP1,5,6,4,13,H,6,Celta_Las Palmas_2016
+289,1,Espanol,19,2,0,0,2,0,0,3,16,H,5,2017-04-04,Ath Bilbao,SP1,2,5,5,13,H,1,Ath Bilbao_Espanol_2016
+290,0,Sociedad,18,1,0,0,1,0,0,4,13,H,10,2017-04-04,Ath Madrid,SP1,1,8,6,20,H,4,Ath Madrid_Sociedad_2016
+291,2,Villarreal,12,0,0,1,0,0,0,2,15,A,6,2017-04-04,Betis,SP1,2,3,5,15,D,2,Betis_Villarreal_2016
+292,5,Osasuna,20,0,0,1,0,0,0,1,12,A,7,2017-04-05,Alaves,SP1,6,3,5,15,D,1,Alaves_Osasuna_2016
+293,4,Sevilla,16,3,1,0,3,0,0,2,13,H,7,2017-04-05,Barcelona,SP1,3,7,4,15,H,4,Barcelona_Sevilla_2016
+294,1,Granada,14,0,0,0,0,0,0,4,10,D,10,2017-04-05,La Coruna,SP1,2,3,6,12,D,3,La Coruna_Granada_2016
+295,2,Real Madrid,14,2,0,4,2,0,3,1,16,A,18,2017-04-05,Leganes,SP1,8,3,4,14,A,4,Leganes_Real Madrid_2016
+296,2,Malaga,12,0,0,1,0,0,1,5,18,A,11,2017-04-05,Sp Gijon,SP1,3,5,7,14,A,1,Sp Gijon_Malaga_2016
+297,2,Las Palmas,14,3,0,1,2,0,0,5,12,H,8,2017-04-06,Eibar,SP1,6,6,9,11,H,2,Eibar_Las Palmas_2016
+298,1,Celta,16,3,0,2,1,0,1,1,9,H,12,2017-04-06,Valencia,SP1,3,10,6,15,D,2,Valencia_Celta_2016
+299,6,Ath Bilbao,16,3,0,1,1,1,1,3,16,H,11,2017-04-07,Villarreal,SP1,5,5,4,10,D,5,Villarreal_Ath Bilbao_2016
+300,3,Alaves,11,1,0,0,0,0,0,3,13,H,9,2017-04-08,Espanol,SP1,0,6,5,15,D,3,Espanol_Alaves_2016
+301,4,Barcelona,26,2,1,0,1,0,0,3,20,H,11,2017-04-08,Malaga,SP1,3,4,2,8,H,3,Malaga_Barcelona_2016
+302,2,Ath Madrid,12,1,0,1,0,0,0,3,13,D,10,2017-04-08,Real Madrid,SP1,4,6,6,20,D,2,Real Madrid_Ath Madrid_2016
+303,3,La Coruna,19,4,0,2,3,0,2,3,15,H,9,2017-04-08,Sevilla,SP1,4,13,4,19,H,2,Sevilla_La Coruna_2016
+304,1,Eibar,10,0,0,2,0,0,1,3,16,A,11,2017-04-09,Celta,SP1,6,3,0,12,A,3,Celta_Eibar_2016
+305,2,Valencia,9,1,0,3,0,0,2,2,13,A,17,2017-04-09,Granada,SP1,8,5,5,21,A,2,Granada_Valencia_2016
+306,3,Betis,16,4,0,1,1,0,0,4,18,H,13,2017-04-09,Las Palmas,SP1,5,6,2,9,H,6,Las Palmas_Betis_2016
+307,3,Leganes,14,2,0,1,1,0,1,4,14,H,17,2017-04-09,Osasuna,SP1,2,6,4,11,D,8,Osasuna_Leganes_2016
+308,1,Sp Gijon,20,3,0,1,2,0,0,5,19,H,10,2017-04-10,Sociedad,SP1,3,7,7,20,H,4,Sociedad_Sp Gijon_2016
+309,1,Las Palmas,22,5,0,1,3,0,1,2,10,H,8,2017-04-14,Ath Bilbao,SP1,2,7,14,18,H,5,Ath Bilbao_Las Palmas_2016
+310,1,Osasuna,11,3,0,0,1,0,0,5,14,H,3,2017-04-15,Ath Madrid,SP1,0,8,5,19,H,2,Ath Madrid_Osasuna_2016
+311,3,Sociedad,15,3,0,2,3,0,2,2,17,H,14,2017-04-15,Barcelona,SP1,7,9,5,16,H,4,Barcelona_Sociedad_2016
+312,3,Malaga,15,2,0,0,0,0,0,4,17,H,11,2017-04-15,La Coruna,SP1,3,4,1,11,D,4,La Coruna_Malaga_2016
+313,5,Real Madrid,17,2,0,3,1,0,1,1,12,A,18,2017-04-15,Sp Gijon,SP1,6,2,4,4,D,8,Sp Gijon_Real Madrid_2016
+314,4,Eibar,15,2,0,0,1,0,0,4,19,H,10,2017-04-16,Betis,SP1,3,4,4,6,H,6,Betis_Eibar_2016
+315,5,Celta,17,0,0,3,0,0,1,2,9,A,15,2017-04-16,Granada,SP1,4,4,8,17,A,1,Granada_Celta_2016
+316,1,Espanol,20,0,0,1,0,0,0,1,14,A,7,2017-04-16,Leganes,SP1,2,5,5,15,D,1,Leganes_Espanol_2016
+317,3,Sevilla,19,0,0,0,0,0,0,2,20,D,10,2017-04-16,Valencia,SP1,2,3,4,14,D,2,Valencia_Sevilla_2016
+318,2,Villarreal,8,2,0,1,2,0,0,4,13,H,11,2017-04-17,Alaves,SP1,5,5,5,11,H,11,Alaves_Villarreal_2016
+319,1,Granada,18,2,0,0,1,0,0,2,11,H,9,2017-04-21,Sevilla,SP1,2,12,7,28,H,2,Sevilla_Granada_2016
+320,3,Ath Madrid,13,0,0,1,0,0,0,2,10,A,13,2017-04-22,Espanol,SP1,3,2,5,10,D,3,Espanol_Ath Madrid_2016
+321,3,Valencia,16,2,0,0,2,0,0,3,13,H,13,2017-04-22,Malaga,SP1,2,4,7,10,H,6,Malaga_Valencia_2016
+322,3,Sp Gijon,25,2,0,2,1,0,0,4,10,D,12,2017-04-22,Osasuna,SP1,4,1,1,7,H,5,Osasuna_Sp Gijon_2016
+323,1,Leganes,9,2,0,1,0,0,0,3,19,H,8,2017-04-22,Villarreal,SP1,4,5,3,11,D,8,Villarreal_Leganes_2016
+324,3,Betis,16,0,0,1,0,0,0,5,15,A,17,2017-04-23,Celta,SP1,6,4,5,8,D,6,Celta_Betis_2016
+325,4,Alaves,16,1,0,1,1,1,0,1,14,D,12,2017-04-23,Las Palmas,SP1,5,3,3,14,H,9,Las Palmas_Alaves_2016
+326,2,Barcelona,13,2,0,3,1,1,1,2,8,A,16,2017-04-23,Real Madrid,SP1,9,14,7,22,D,4,Real Madrid_Barcelona_2016
+327,1,La Coruna,16,1,0,0,1,0,0,3,16,H,5,2017-04-23,Sociedad,SP1,1,3,11,17,H,1,Sociedad_La Coruna_2016
+328,4,Ath Bilbao,15,0,0,1,0,1,0,2,9,A,9,2017-04-24,Eibar,SP1,3,2,5,7,D,5,Eibar_Ath Bilbao_2016
+329,2,Villarreal,15,0,0,1,0,0,0,6,16,A,6,2017-04-25,Ath Madrid,SP1,2,9,5,23,D,1,Ath Madrid_Villarreal_2016
+330,5,Malaga,22,0,0,2,0,0,0,0,13,A,17,2017-04-25,Granada,SP1,6,1,2,3,D,4,Granada_Malaga_2016
+331,1,Espanol,9,1,0,1,1,0,0,2,11,D,14,2017-04-25,Sp Gijon,SP1,5,6,7,16,H,2,Sp Gijon_Espanol_2016
+332,0,Osasuna,3,7,0,1,2,0,0,0,7,H,3,2017-04-26,Barcelona,SP1,2,9,10,19,H,1,Barcelona_Osasuna_2016
+333,3,Real Madrid,12,2,0,6,1,0,3,1,5,A,22,2017-04-26,La Coruna,SP1,11,7,4,19,A,5,La Coruna_Real Madrid_2016
+334,1,Las Palmas,14,3,0,0,0,0,0,0,17,H,7,2017-04-26,Leganes,SP1,0,5,6,16,D,3,Leganes_Las Palmas_2016
+335,4,Sociedad,15,2,0,3,0,0,2,3,21,A,8,2017-04-26,Valencia,SP1,2,3,2,14,A,3,Valencia_Sociedad_2016
+336,4,Eibar,13,0,1,0,0,0,0,2,14,D,6,2017-04-27,Alaves,SP1,4,4,3,14,D,2,Alaves_Eibar_2016
+337,1,Betis,10,2,0,1,0,0,0,3,17,H,9,2017-04-27,Ath Bilbao,SP1,3,9,11,18,D,1,Ath Bilbao_Betis_2016
+338,1,Celta,20,2,1,1,0,0,0,2,18,H,10,2017-04-27,Sevilla,SP1,1,5,5,16,D,1,Sevilla_Celta_2016
+339,2,Sp Gijon,9,3,0,1,1,0,0,1,10,H,14,2017-04-28,Villarreal,SP1,7,6,4,18,H,7,Villarreal_Sp Gijon_2016
+340,3,Barcelona,19,0,0,3,0,0,0,0,18,A,15,2017-04-29,Espanol,SP1,9,3,4,6,D,5,Espanol_Barcelona_2016
+341,4,Ath Madrid,6,0,0,5,0,1,3,4,13,A,8,2017-04-29,Las Palmas,SP1,7,3,7,15,A,1,Las Palmas_Ath Madrid_2016
+342,3,Valencia,13,2,0,1,1,0,0,4,10,H,9,2017-04-29,Real Madrid,SP1,2,5,2,20,H,3,Real Madrid_Valencia_2016
+343,0,Granada,14,2,0,1,1,0,0,3,16,H,5,2017-04-29,Sociedad,SP1,3,5,7,13,H,1,Sociedad_Granada_2016
+344,1,Alaves,14,1,0,4,1,0,0,5,16,A,9,2017-04-30,Betis,SP1,5,3,4,11,H,0,Betis_Alaves_2016
+345,1,Ath Bilbao,8,0,0,3,0,0,1,1,11,A,22,2017-04-30,Celta,SP1,12,0,0,5,A,11,Celta_Ath Bilbao_2016
+346,1,Leganes,12,2,0,0,0,0,0,1,9,H,12,2017-04-30,Eibar,SP1,1,5,2,9,D,11,Eibar_Leganes_2016
+347,2,La Coruna,9,2,0,2,1,0,1,3,11,D,15,2017-04-30,Osasuna,SP1,5,5,7,16,D,7,Osasuna_La Coruna_2016
+348,3,Sevilla,14,4,0,2,1,0,1,5,18,H,9,2017-05-01,Malaga,SP1,4,5,1,11,D,3,Malaga_Sevilla_2016
+349,4,Sociedad,20,1,1,1,1,0,0,3,10,D,9,2017-05-05,Sevilla,SP1,3,3,10,11,H,3,Sevilla_Sociedad_2016
+350,3,Eibar,6,1,0,0,0,1,0,3,10,H,7,2017-05-06,Ath Madrid,SP1,3,5,6,14,D,5,Ath Madrid_Eibar_2016
+351,2,Villarreal,10,4,0,1,2,0,1,4,13,H,8,2017-05-06,Barcelona,SP1,4,8,4,20,H,3,Barcelona_Villarreal_2016
+352,1,Real Madrid,14,0,0,4,0,0,4,0,8,A,16,2017-05-06,Granada,SP1,8,3,6,13,A,3,Granada_Real Madrid_2016
+353,4,Las Palmas,19,1,0,0,0,0,0,3,15,H,8,2017-05-06,Sp Gijon,SP1,2,3,5,16,D,4,Sp Gijon_Las Palmas_2016
+354,1,Ath Bilbao,14,1,0,0,0,0,0,4,11,H,20,2017-05-07,Alaves,SP1,6,3,3,9,D,10,Alaves_Ath Bilbao_2016
+355,1,Espanol,10,1,0,2,0,0,2,2,14,A,9,2017-05-07,La Coruna,SP1,3,5,12,21,A,4,La Coruna_Espanol_2016
+356,2,Celta,13,3,0,0,1,0,0,4,18,H,5,2017-05-07,Malaga,SP1,2,8,2,14,H,1,Malaga_Celta_2016
+357,3,Osasuna,15,4,0,1,2,0,0,2,11,H,9,2017-05-07,Valencia,SP1,4,8,9,19,H,2,Valencia_Osasuna_2016
+358,3,Betis,18,4,0,0,2,0,0,0,13,H,13,2017-05-08,Leganes,SP1,3,4,2,6,H,2,Leganes_Betis_2016
+359,0,Valencia,19,0,0,1,0,0,0,4,14,A,9,2017-05-13,Espanol,SP1,3,3,7,15,D,2,Espanol_Valencia_2016
+360,1,Granada,11,2,0,1,1,0,1,3,9,H,9,2017-05-13,Osasuna,SP1,3,7,8,19,D,3,Osasuna_Granada_2016
+361,1,Celta,11,3,0,1,3,0,0,3,13,H,15,2017-05-14,Alaves,SP1,4,4,4,11,H,4,Alaves_Celta_2016
+362,2,Leganes,12,1,0,1,1,0,0,7,8,D,5,2017-05-14,Ath Bilbao,SP1,2,6,10,15,H,1,Ath Bilbao_Leganes_2016
+363,4,Ath Madrid,7,1,0,1,0,0,0,4,16,D,5,2017-05-14,Betis,SP1,2,5,3,13,D,5,Betis_Ath Madrid_2016
+364,2,Sp Gijon,9,0,0,1,0,0,1,2,10,A,11,2017-05-14,Eibar,SP1,4,2,5,10,A,6,Eibar_Sp Gijon_2016
+365,0,Barcelona,13,1,0,4,0,0,2,1,15,A,11,2017-05-14,Las Palmas,SP1,5,5,3,11,A,6,Las Palmas_Barcelona_2016
+366,4,Sevilla,14,4,0,1,2,0,0,2,19,H,11,2017-05-14,Real Madrid,SP1,6,7,4,14,H,5,Real Madrid_Sevilla_2016
+367,1,Malaga,10,2,0,2,1,0,1,2,16,D,9,2017-05-14,Sociedad,SP1,4,5,9,15,D,3,Sociedad_Malaga_2016
+368,2,La Coruna,15,0,0,0,0,0,0,4,21,D,3,2017-05-14,Villarreal,SP1,1,4,11,21,D,3,Villarreal_La Coruna_2016
+369,4,Real Madrid,17,1,0,4,0,1,1,2,9,A,13,2017-05-17,Celta,SP1,8,6,4,17,A,6,Celta_Real Madrid_2016
+370,0,Espanol,12,1,0,2,1,0,2,3,9,A,5,2017-05-19,Granada,SP1,3,7,3,16,A,3,Granada_Espanol_2016
+371,4,Las Palmas,25,3,1,0,3,0,0,2,14,H,13,2017-05-20,La Coruna,SP1,4,5,0,9,H,9,La Coruna_Las Palmas_2016
+372,0,Alaves,9,1,0,1,0,0,0,1,14,D,17,2017-05-20,Leganes,SP1,5,4,8,15,D,4,Leganes_Alaves_2016
+373,3,Osasuna,11,5,0,0,3,0,0,1,8,H,5,2017-05-20,Sevilla,SP1,2,7,1,17,H,1,Sevilla_Osasuna_2016
+374,0,Betis,15,2,0,2,1,0,1,2,14,D,21,2017-05-20,Sp Gijon,SP1,9,5,2,11,D,3,Sp Gijon_Betis_2016
+375,2,Ath Bilbao,13,3,0,1,2,0,0,0,11,H,16,2017-05-21,Ath Madrid,SP1,1,4,2,12,H,5,Ath Madrid_Ath Bilbao_2016
+376,1,Eibar,3,4,1,2,0,0,1,2,16,H,6,2017-05-21,Barcelona,SP1,4,11,10,18,A,4,Barcelona_Eibar_2016
+377,2,Sociedad,8,2,0,2,0,0,0,1,17,D,18,2017-05-21,Celta,SP1,8,5,3,13,D,7,Celta_Sociedad_2016
+378,2,Real Madrid,6,0,0,2,0,0,1,0,9,A,16,2017-05-21,Malaga,SP1,8,6,9,22,A,7,Malaga_Real Madrid_2016
+379,2,Villarreal,15,1,0,3,0,0,1,2,10,A,14,2017-05-21,Valencia,SP1,6,5,9,16,A,0,Valencia_Villarreal_2016

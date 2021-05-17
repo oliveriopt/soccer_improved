@@ -1,0 +1,307 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Sp Lisbon,15,0,0,2,0,0,1,0,16,A,12,2017-08-06,Aves,P1,9,2,6,12,A,3,Aves_Sp Lisbon_2017
+1,1,Moreirense,18,1,0,1,1,1,0,3,22,D,12,2017-08-06,Setubal,P1,4,2,4,6,H,8,Setubal_Moreirense_2017
+2,4,Tondela,19,1,0,1,0,0,1,1,25,D,13,2017-08-07,Feirense,P1,6,5,5,12,A,3,Feirense_Tondela_2017
+3,1,Boavista,14,2,0,1,0,0,1,1,10,H,5,2017-08-07,Portimonense,P1,2,4,9,12,A,4,Portimonense_Boavista_2017
+4,2,Belenenses,17,1,0,0,1,0,0,2,23,H,10,2017-08-07,Rio Ave,P1,3,5,4,11,H,8,Rio Ave_Belenenses_2017
+5,2,Pacos Ferreira,13,1,0,0,0,0,0,2,14,H,4,2017-08-08,Maritimo,P1,1,3,0,7,D,7,Maritimo_Pacos Ferreira_2017
+6,2,Sp Braga,13,3,0,1,2,0,1,3,18,H,6,2017-08-09,Benfica,P1,1,9,6,15,H,2,Benfica_Sp Braga_2017
+7,1,Estoril,18,4,0,0,1,0,0,1,12,H,10,2017-08-09,Porto,P1,4,8,10,17,H,5,Porto_Estoril_2017
+8,1,Chaves,21,3,0,2,2,0,0,4,13,H,15,2017-08-10,Guimaraes,P1,3,8,9,16,H,7,Guimaraes_Chaves_2017
+9,1,Setubal,16,1,0,0,0,0,0,2,24,H,3,2017-08-11,Sp Lisbon,P1,1,5,7,12,D,1,Sp Lisbon_Setubal_2017
+10,3,Maritimo,20,1,0,0,0,0,0,1,18,H,7,2017-08-12,Belenenses,P1,5,4,9,10,D,4,Belenenses_Maritimo_2017
+11,3,Rio Ave,17,1,0,2,0,0,1,3,17,A,7,2017-08-12,Boavista,P1,2,2,2,5,A,3,Boavista_Rio Ave_2017
+12,1,Feirense,18,0,0,0,0,0,0,2,23,D,6,2017-08-12,Moreirense,P1,4,0,8,11,D,4,Moreirense_Feirense_2017
+13,1,Aves,17,2,0,2,0,0,2,3,20,D,7,2017-08-13,Pacos Ferreira,P1,3,5,2,16,A,3,Pacos Ferreira_Aves_2017
+14,3,Portimonense,14,2,0,1,1,0,1,3,21,H,8,2017-08-13,Sp Braga,P1,1,4,5,8,D,7,Sp Braga_Portimonense_2017
+15,3,Porto,22,0,0,1,0,0,1,2,10,A,15,2017-08-13,Tondela,P1,6,2,2,5,A,6,Tondela_Porto_2017
+16,1,Benfica,12,0,0,1,0,0,0,2,15,A,21,2017-08-14,Chaves,P1,9,4,5,9,D,13,Chaves_Benfica_2017
+17,2,Guimaraes,16,3,2,0,1,1,0,3,13,H,11,2017-08-14,Estoril,P1,1,5,4,18,H,7,Estoril_Guimaraes_2017
+18,0,Portimonense,15,2,0,0,0,0,0,0,11,H,11,2017-08-18,Rio Ave,P1,4,7,4,11,D,6,Rio Ave_Portimonense_2017
+19,0,Belenenses,22,5,0,0,3,0,0,1,11,H,7,2017-08-19,Benfica,P1,4,14,6,20,H,2,Benfica_Belenenses_2017
+20,3,Sp Lisbon,18,0,0,5,0,0,3,2,20,A,13,2017-08-19,Guimaraes,P1,10,3,5,8,A,3,Guimaraes_Sp Lisbon_2017
+21,3,Estoril,23,2,0,3,0,0,2,2,18,A,8,2017-08-19,Tondela,P1,4,7,6,14,A,1,Tondela_Estoril_2017
+22,1,Sp Braga,14,0,0,2,0,1,0,0,10,A,18,2017-08-20,Aves,P1,9,4,4,9,D,8,Aves_Sp Braga_2017
+23,0,Boavista,20,1,0,0,0,0,0,1,10,H,9,2017-08-20,Maritimo,P1,1,2,2,10,D,6,Maritimo_Boavista_2017
+24,0,Moreirense,12,3,0,0,2,0,0,2,9,H,6,2017-08-20,Porto,P1,2,11,13,27,H,3,Porto_Moreirense_2017
+25,1,Chaves,16,1,1,1,0,0,0,4,16,D,5,2017-08-20,Setubal,P1,2,9,8,19,D,1,Setubal_Chaves_2017
+26,2,Pacos Ferreira,20,2,0,1,1,0,1,2,18,H,12,2017-08-21,Feirense,P1,3,7,5,12,D,5,Feirense_Pacos Ferreira_2017
+27,3,Setubal,24,1,0,1,1,1,0,2,16,D,12,2017-08-25,Belenenses,P1,4,5,6,12,H,6,Belenenses_Setubal_2017
+28,1,Feirense,12,0,0,2,0,0,1,4,14,A,7,2017-08-26,Chaves,P1,5,5,13,17,A,3,Chaves_Feirense_2017
+29,3,Tondela,11,0,0,3,0,1,1,1,21,A,12,2017-08-26,Moreirense,P1,6,3,8,11,A,5,Moreirense_Tondela_2017
+30,3,Guimaraes,14,0,0,0,0,1,0,4,20,D,14,2017-08-26,Pacos Ferreira,P1,2,4,4,7,D,7,Pacos Ferreira_Guimaraes_2017
+31,4,Benfica,16,1,0,1,0,0,0,2,26,D,10,2017-08-26,Rio Ave,P1,4,3,4,9,D,5,Rio Ave_Benfica_2017
+32,2,Aves,26,1,1,0,0,0,0,1,12,H,14,2017-08-27,Boavista,P1,4,3,2,12,D,2,Boavista_Aves_2017
+33,3,Porto,21,0,0,1,0,0,1,4,10,A,21,2017-08-27,Sp Braga,P1,7,0,5,14,A,7,Sp Braga_Porto_2017
+34,4,Estoril,18,2,0,1,2,0,0,5,24,H,8,2017-08-27,Sp Lisbon,P1,3,4,7,13,H,3,Sp Lisbon_Estoril_2017
+35,1,Maritimo,11,1,0,2,0,0,0,3,15,A,7,2017-08-28,Portimonense,P1,3,3,4,13,D,5,Portimonense_Maritimo_2017
+36,0,Portimonense,11,2,1,1,0,0,0,4,16,H,5,2017-09-08,Benfica,P1,2,8,5,15,D,3,Benfica_Portimonense_2017
+37,3,Sp Lisbon,13,2,0,3,0,0,0,1,16,A,13,2017-09-08,Feirense,P1,10,7,5,10,D,10,Feirense_Sp Lisbon_2017
+38,0,Rio Ave,16,1,1,0,0,0,0,3,21,H,4,2017-09-09,Maritimo,P1,1,4,8,9,D,3,Maritimo_Rio Ave_2017
+39,1,Chaves,16,3,0,0,0,0,0,3,14,H,8,2017-09-09,Porto,P1,3,7,8,14,D,2,Porto_Chaves_2017
+40,1,Pacos Ferreira,0,2,0,2,1,0,0,4,0,D,10,2017-09-09,Tondela,P1,7,8,10,12,H,4,Tondela_Pacos Ferreira_2017
+41,2,Moreirense,0,0,0,2,0,0,1,3,0,A,6,2017-09-10,Estoril,P1,4,8,7,13,A,4,Estoril_Moreirense_2017
+42,1,Boavista,0,1,0,0,0,0,0,1,0,H,5,2017-09-10,Guimaraes,P1,5,4,10,7,D,5,Guimaraes_Boavista_2017
+43,3,Sp Braga,0,2,0,0,2,0,0,3,0,H,9,2017-09-10,Setubal,P1,4,3,2,5,H,8,Setubal_Sp Braga_2017
+44,2,Belenenses,17,2,0,1,1,0,1,3,18,H,7,2017-09-11,Aves,P1,4,4,4,13,D,3,Aves_Belenenses_2017
+45,4,Setubal,17,1,0,0,0,0,0,3,12,H,9,2017-09-15,Pacos Ferreira,P1,4,3,5,5,D,4,Pacos Ferreira_Setubal_2017
+46,2,Benfica,15,2,0,1,0,0,1,1,19,H,13,2017-09-16,Boavista,P1,9,4,3,6,A,11,Boavista_Benfica_2017
+47,3,Aves,18,2,0,1,2,0,0,2,12,H,11,2017-09-16,Maritimo,P1,6,5,3,7,H,7,Maritimo_Aves_2017
+48,2,Tondela,14,2,0,0,1,0,0,3,20,H,1,2017-09-16,Sp Lisbon,P1,0,4,3,8,H,4,Sp Lisbon_Tondela_2017
+49,4,Estoril,18,2,1,1,0,0,0,3,18,H,14,2017-09-17,Belenenses,P1,7,7,6,12,D,4,Belenenses_Estoril_2017
+50,5,Porto,10,1,0,2,0,1,0,4,24,A,8,2017-09-17,Rio Ave,P1,5,2,2,5,D,4,Rio Ave_Porto_2017
+51,3,Guimaraes,24,2,0,1,2,0,1,3,18,H,5,2017-09-17,Sp Braga,P1,2,3,1,8,H,1,Sp Braga_Guimaraes_2017
+52,0,Moreirense,15,3,0,0,1,0,0,2,15,H,9,2017-09-18,Chaves,P1,4,4,3,9,H,2,Chaves_Moreirense_2017
+53,2,Feirense,18,2,0,1,2,0,1,3,13,H,5,2017-09-18,Portimonense,P1,1,7,7,12,H,4,Portimonense_Feirense_2017
+54,2,Portimonense,13,5,0,2,3,0,1,2,9,H,9,2017-09-22,Porto,P1,6,9,5,16,H,4,Porto_Portimonense_2017
+55,3,Pacos Ferreira,12,2,0,0,1,0,0,2,11,H,3,2017-09-23,Benfica,P1,2,9,11,17,H,2,Benfica_Pacos Ferreira_2017
+56,2,Chaves,15,0,0,2,0,0,1,0,13,A,10,2017-09-23,Estoril,P1,5,1,10,7,A,6,Estoril_Chaves_2017
+57,3,Sp Lisbon,25,1,0,1,1,0,0,4,15,D,5,2017-09-23,Moreirense,P1,1,6,3,11,H,8,Moreirense_Sp Lisbon_2017
+58,3,Rio Ave,17,0,0,0,0,0,0,2,10,D,9,2017-09-24,Aves,P1,1,6,2,10,D,3,Aves_Rio Ave_2017
+59,1,Belenenses,17,1,0,4,0,0,3,3,15,A,14,2017-09-24,Feirense,P1,7,3,8,7,A,1,Feirense_Belenenses_2017
+60,2,Maritimo,17,2,1,1,1,1,1,2,19,H,5,2017-09-24,Guimaraes,P1,2,5,10,12,D,4,Guimaraes_Maritimo_2017
+61,2,Sp Braga,14,1,0,2,1,1,1,3,21,A,11,2017-09-24,Tondela,P1,3,2,3,6,D,6,Tondela_Sp Braga_2017
+62,0,Boavista,11,1,0,1,0,0,0,1,20,D,9,2017-09-25,Setubal,P1,4,4,4,7,D,6,Setubal_Boavista_2017
+63,2,Tondela,11,1,2,1,1,0,1,2,16,D,5,2017-09-29,Chaves,P1,1,7,10,15,D,3,Chaves_Tondela_2017
+64,3,Feirense,15,1,0,0,1,0,0,4,15,H,5,2017-09-30,Boavista,P1,3,2,6,9,H,8,Boavista_Feirense_2017
+65,4,Moreirense,20,3,0,2,2,0,1,1,19,H,13,2017-09-30,Pacos Ferreira,P1,8,5,2,6,H,6,Pacos Ferreira_Moreirense_2017
+66,3,Aves,15,2,0,2,1,0,1,2,7,D,8,2017-09-30,Portimonense,P1,2,5,11,15,D,1,Portimonense_Aves_2017
+67,3,Setubal,12,2,0,1,0,0,0,2,20,H,5,2017-09-30,Rio Ave,P1,1,6,3,9,D,4,Rio Ave_Setubal_2017
+68,4,Guimaraes,15,1,0,0,1,0,0,1,15,H,8,2017-10-01,Belenenses,P1,2,2,1,4,H,11,Belenenses_Guimaraes_2017
+69,2,Benfica,12,1,0,1,0,0,1,1,17,D,11,2017-10-01,Maritimo,P1,5,6,4,10,A,8,Maritimo_Benfica_2017
+70,0,Estoril,21,6,0,0,2,0,0,2,17,H,10,2017-10-01,Sp Braga,P1,3,9,4,12,H,5,Sp Braga_Estoril_2017
+71,2,Porto,13,0,0,0,0,0,0,3,17,D,9,2017-10-01,Sp Lisbon,P1,6,1,10,3,D,2,Sp Lisbon_Porto_2017
+72,2,Boavista,15,0,0,3,0,0,2,4,13,A,9,2017-10-20,Estoril,P1,6,4,11,11,A,2,Estoril_Boavista_2017
+73,5,Rio Ave,18,1,2,0,1,1,0,5,12,H,6,2017-10-21,Feirense,P1,3,2,5,6,H,5,Feirense_Rio Ave_2017
+74,2,Pacos Ferreira,12,6,0,1,4,0,1,4,20,H,6,2017-10-21,Porto,P1,3,12,6,17,H,2,Porto_Pacos Ferreira_2017
+75,0,Maritimo,18,3,1,1,0,0,1,2,21,H,4,2017-10-21,Setubal,P1,3,6,6,14,A,2,Setubal_Maritimo_2017
+76,1,Benfica,7,1,0,3,0,0,1,3,18,A,17,2017-10-22,Aves,P1,12,3,5,8,A,10,Aves_Benfica_2017
+77,1,Chaves,15,5,0,1,3,0,0,1,11,H,7,2017-10-22,Sp Lisbon,P1,2,5,4,8,H,4,Sp Lisbon_Chaves_2017
+78,4,Belenenses,19,2,1,0,0,0,0,4,23,H,8,2017-10-22,Tondela,P1,2,5,2,16,D,1,Tondela_Belenenses_2017
+79,1,Portimonense,16,3,0,3,1,0,3,2,18,D,8,2017-10-23,Guimaraes,P1,6,8,8,14,A,3,Guimaraes_Portimonense_2017
+80,3,Sp Braga,21,0,0,1,0,0,0,2,22,A,13,2017-10-23,Moreirense,P1,6,1,4,1,D,7,Moreirense_Sp Braga_2017
+81,0,Feirense,20,1,0,0,1,0,0,3,16,H,6,2017-10-27,Benfica,P1,4,5,7,11,H,6,Benfica_Feirense_2017
+82,0,Sp Lisbon,12,0,0,1,0,0,0,2,12,A,5,2017-10-27,Rio Ave,P1,1,5,8,19,D,3,Rio Ave_Sp Lisbon_2017
+83,3,Moreirense,19,3,0,0,1,0,0,1,12,H,9,2017-10-28,Belenenses,P1,2,4,3,7,H,6,Belenenses_Moreirense_2017
+84,6,Porto,18,0,0,3,0,0,0,5,19,A,12,2017-10-28,Boavista,P1,6,1,7,6,D,5,Boavista_Porto_2017
+85,4,Tondela,18,2,0,0,1,0,0,3,21,H,9,2017-10-28,Maritimo,P1,3,4,3,7,H,2,Maritimo_Tondela_2017
+86,1,Guimaraes,18,1,0,3,1,0,2,2,12,A,9,2017-10-29,Aves,P1,5,4,6,12,A,1,Aves_Guimaraes_2017
+87,5,Estoril,25,1,0,0,1,1,0,1,13,H,6,2017-10-29,Pacos Ferreira,P1,1,1,6,5,H,7,Pacos Ferreira_Estoril_2017
+88,3,Chaves,20,1,0,0,0,0,0,1,12,H,6,2017-10-29,Sp Braga,P1,2,5,12,8,D,5,Sp Braga_Chaves_2017
+89,3,Setubal,23,5,1,2,3,0,1,3,9,H,7,2017-10-30,Portimonense,P1,4,11,4,13,H,2,Portimonense_Setubal_2017
+90,3,Aves,12,0,0,1,0,1,0,4,23,A,6,2017-11-03,Setubal,P1,5,4,2,7,D,7,Setubal_Aves_2017
+91,3,Rio Ave,22,0,0,2,0,0,1,2,22,A,12,2017-11-04,Estoril,P1,8,3,2,8,A,5,Estoril_Rio Ave_2017
+92,2,Portimonense,18,1,0,1,1,0,1,1,9,D,12,2017-11-04,Moreirense,P1,4,5,3,7,D,4,Moreirense_Portimonense_2017
+93,0,Belenenses,12,2,0,0,1,0,0,1,10,H,6,2017-11-04,Porto,P1,3,9,8,17,H,3,Porto_Belenenses_2017
+94,1,Boavista,14,3,0,2,0,0,0,2,18,H,11,2017-11-04,Tondela,P1,4,6,3,15,D,9,Tondela_Boavista_2017
+95,3,Pacos Ferreira,10,4,0,2,1,0,1,2,19,H,12,2017-11-05,Chaves,P1,6,7,7,12,D,4,Chaves_Pacos Ferreira_2017
+96,3,Maritimo,15,0,1,1,0,0,1,6,17,A,6,2017-11-05,Feirense,P1,4,1,9,8,A,4,Feirense_Maritimo_2017
+97,0,Benfica,19,1,0,3,0,0,1,4,22,A,9,2017-11-05,Guimaraes,P1,5,1,7,6,A,5,Guimaraes_Benfica_2017
+98,1,Sp Braga,15,2,0,2,0,0,0,3,22,D,8,2017-11-05,Sp Lisbon,P1,4,6,5,11,D,9,Sp Lisbon_Sp Braga_2017
+99,4,Chaves,17,0,0,1,0,1,1,2,27,A,8,2017-11-24,Belenenses,P1,1,4,10,8,A,4,Belenenses_Chaves_2017
+100,4,Porto,17,1,1,1,0,0,1,3,15,D,8,2017-11-25,Aves,P1,1,3,2,11,A,4,Aves_Porto_2017
+101,2,Moreirense,14,1,0,0,1,0,0,3,21,H,6,2017-11-25,Boavista,P1,1,3,3,10,H,6,Boavista_Moreirense_2017
+102,1,Tondela,16,2,0,0,1,0,0,0,22,H,8,2017-11-25,Portimonense,P1,3,7,5,13,H,5,Portimonense_Tondela_2017
+103,2,Setubal,20,6,1,0,2,0,0,2,15,H,3,2017-11-26,Benfica,P1,2,12,12,17,H,2,Benfica_Setubal_2017
+104,1,Estoril,13,0,0,0,0,0,0,2,18,D,13,2017-11-26,Maritimo,P1,4,1,2,2,D,6,Maritimo_Estoril_2017
+105,5,Sp Lisbon,14,1,0,2,0,0,1,5,16,A,7,2017-11-26,Pacos Ferreira,P1,5,5,10,12,A,5,Pacos Ferreira_Sp Lisbon_2017
+106,0,Guimaraes,16,0,0,1,0,0,1,4,21,A,6,2017-11-27,Rio Ave,P1,2,4,12,11,A,5,Rio Ave_Guimaraes_2017
+107,0,Feirense,16,3,0,1,3,0,1,2,20,H,8,2017-11-27,Sp Braga,P1,4,7,6,10,H,3,Sp Braga_Feirense_2017
+108,1,Benfica,5,0,1,0,0,0,0,3,15,D,3,2017-12-01,Porto,P1,1,5,7,9,D,5,Porto_Benfica_2017
+109,1,Belenenses,15,1,0,0,1,0,0,3,16,H,8,2017-12-01,Sp Lisbon,P1,3,4,5,8,H,3,Sp Lisbon_Belenenses_2017
+110,1,Boavista,13,0,0,0,0,0,0,5,18,D,7,2017-12-02,Chaves,P1,5,3,6,9,D,1,Chaves_Boavista_2017
+111,3,Maritimo,15,1,0,1,1,1,1,1,15,D,2,2017-12-02,Moreirense,P1,2,5,8,11,D,3,Moreirense_Maritimo_2017
+112,2,Rio Ave,14,1,0,3,0,0,1,2,3,A,7,2017-12-02,Tondela,P1,3,2,4,4,A,2,Tondela_Rio Ave_2017
+113,3,Aves,18,0,0,1,0,1,0,2,14,A,15,2017-12-03,Feirense,P1,8,3,4,6,D,9,Feirense_Aves_2017
+114,2,Guimaraes,17,1,0,2,0,0,1,5,25,A,6,2017-12-03,Setubal,P1,2,4,7,13,A,3,Setubal_Guimaraes_2017
+115,2,Pacos Ferreira,15,3,1,0,0,0,0,3,20,H,2,2017-12-03,Sp Braga,P1,1,6,8,11,D,4,Sp Braga_Pacos Ferreira_2017
+116,1,Portimonense,8,0,0,0,0,0,0,4,17,D,7,2017-12-04,Estoril,P1,2,6,7,14,D,4,Estoril_Portimonense_2017
+117,3,Moreirense,8,2,0,1,0,0,0,4,23,H,4,2017-12-08,Rio Ave,P1,2,6,3,11,D,1,Rio Ave_Moreirense_2017
+118,3,Tondela,16,0,0,1,0,1,0,2,18,A,10,2017-12-09,Aves,P1,4,8,1,16,D,4,Aves_Tondela_2017
+119,3,Estoril,17,3,0,1,2,0,1,2,12,H,7,2017-12-09,Benfica,P1,5,3,5,7,H,9,Benfica_Estoril_2017
+120,1,Sp Lisbon,18,1,0,3,0,0,1,2,16,A,9,2017-12-09,Boavista,P1,6,2,2,4,A,5,Boavista_Sp Lisbon_2017
+121,1,Pacos Ferreira,11,1,1,1,0,0,1,5,17,D,6,2017-12-10,Belenenses,P1,3,4,10,11,A,3,Belenenses_Pacos Ferreira_2017
+122,3,Chaves,18,0,0,1,0,0,0,3,18,A,3,2017-12-10,Portimonense,P1,1,7,8,14,D,7,Portimonense_Chaves_2017
+123,2,Porto,16,0,0,5,0,0,3,2,21,A,14,2017-12-10,Setubal,P1,9,1,2,4,A,7,Setubal_Porto_2017
+124,3,Feirense,22,1,0,0,0,0,0,4,24,H,2,2017-12-11,Guimaraes,P1,0,3,8,9,D,2,Guimaraes_Feirense_2017
+125,2,Sp Braga,31,1,0,0,0,0,0,3,22,H,7,2017-12-11,Maritimo,P1,2,2,2,5,D,4,Maritimo_Sp Braga_2017
+126,3,Boavista,23,1,0,2,1,0,0,1,9,A,5,2017-12-15,Pacos Ferreira,P1,4,6,4,11,H,4,Pacos Ferreira_Boavista_2017
+127,3,Aves,17,3,0,2,1,0,1,1,14,H,6,2017-12-16,Estoril,P1,4,11,5,17,D,3,Estoril_Aves_2017
+128,0,Belenenses,18,4,0,0,1,0,0,0,17,H,3,2017-12-16,Sp Braga,P1,2,6,1,12,H,3,Sp Braga_Belenenses_2017
+129,3,Rio Ave,25,1,1,1,0,0,1,4,18,D,9,2017-12-17,Chaves,P1,5,7,9,10,A,4,Chaves_Rio Ave_2017
+130,4,Setubal,29,1,0,0,1,0,0,2,18,H,4,2017-12-17,Feirense,P1,2,1,4,3,H,2,Feirense_Setubal_2017
+131,1,Portimonense,10,2,1,0,1,0,0,3,11,H,6,2017-12-17,Sp Lisbon,P1,1,6,3,11,H,2,Sp Lisbon_Portimonense_2017
+132,2,Benfica,7,1,0,5,0,0,3,2,10,A,8,2017-12-17,Tondela,P1,7,1,2,2,A,6,Tondela_Benfica_2017
+133,3,Guimaraes,20,2,1,1,2,0,0,3,16,H,10,2017-12-18,Moreirense,P1,4,5,5,8,H,8,Moreirense_Guimaraes_2017
+134,1,Maritimo,13,3,1,1,2,0,1,3,11,H,4,2017-12-18,Porto,P1,2,5,9,15,H,1,Porto_Maritimo_2017
+135,3,Tondela,13,0,0,1,0,0,0,2,24,A,8,2017-12-23,Guimaraes,P1,3,6,9,14,D,4,Guimaraes_Tondela_2017
+136,3,Moreirense,20,1,0,2,0,0,2,3,16,A,8,2018-01-03,Aves,P1,3,7,6,17,A,5,Aves_Moreirense_2017
+137,1,Sp Lisbon,14,1,0,1,0,0,1,3,16,D,5,2018-01-03,Benfica,P1,3,3,10,14,A,5,Benfica_Sp Lisbon_2017
+138,5,Sp Braga,19,1,1,3,0,1,1,6,15,A,5,2018-01-03,Boavista,P1,4,5,6,6,A,2,Boavista_Sp Braga_2017
+139,4,Porto,19,1,1,2,1,0,1,5,18,A,10,2018-01-03,Feirense,P1,5,2,2,2,D,10,Feirense_Porto_2017
+140,4,Chaves,14,1,0,2,0,0,1,2,14,A,10,2018-01-03,Maritimo,P1,5,7,6,13,A,3,Maritimo_Chaves_2017
+141,0,Pacos Ferreira,12,4,0,2,1,1,0,1,21,H,8,2018-01-03,Rio Ave,P1,5,8,5,15,H,3,Rio Ave_Pacos Ferreira_2017
+142,1,Belenenses,16,0,0,0,0,0,0,1,14,D,7,2018-01-04,Portimonense,P1,3,3,3,12,D,3,Portimonense_Belenenses_2017
+143,2,Estoril,25,2,0,2,0,0,0,2,20,D,8,2018-01-04,Setubal,P1,3,3,8,5,D,4,Setubal_Estoril_2017
+144,4,Rio Ave,22,2,0,1,1,0,1,2,16,H,12,2018-01-06,Sp Braga,P1,5,4,5,12,D,5,Sp Braga_Rio Ave_2017
+145,1,Aves,14,1,0,1,0,0,1,3,17,D,8,2018-01-07,Chaves,P1,5,5,9,9,A,0,Chaves_Aves_2017
+146,1,Benfica,17,0,0,2,0,0,1,0,7,A,13,2018-01-07,Moreirense,P1,11,2,2,5,A,10,Moreirense_Benfica_2017
+147,0,Guimaraes,13,4,0,2,0,0,1,3,16,H,4,2018-01-07,Porto,P1,2,8,5,14,A,3,Porto_Guimaraes_2017
+148,0,Maritimo,13,5,0,0,1,0,0,1,15,H,6,2018-01-07,Sp Lisbon,P1,2,6,7,13,H,5,Sp Lisbon_Maritimo_2017
+149,2,Feirense,19,0,0,2,0,0,1,4,24,A,2,2018-01-08,Estoril,P1,2,1,5,6,A,4,Estoril_Feirense_2017
+150,2,Portimonense,16,1,1,1,0,0,0,5,13,D,7,2018-01-08,Pacos Ferreira,P1,5,5,10,11,D,3,Pacos Ferreira_Portimonense_2017
+151,1,Boavista,16,1,0,1,1,0,0,3,13,D,6,2018-01-09,Belenenses,P1,4,4,5,7,H,4,Belenenses_Boavista_2017
+152,1,Setubal,17,1,0,1,1,0,1,2,16,D,5,2018-01-09,Tondela,P1,2,2,4,11,D,7,Tondela_Setubal_2017
+153,1,Guimaraes,9,4,0,3,3,0,3,3,11,H,10,2018-01-12,Chaves,P1,7,8,5,19,D,2,Chaves_Guimaraes_2017
+154,1,Maritimo,13,0,0,0,0,0,0,2,9,D,3,2018-01-13,Pacos Ferreira,P1,2,1,8,9,D,1,Pacos Ferreira_Maritimo_2017
+155,2,Benfica,14,1,0,3,0,0,1,3,13,A,10,2018-01-13,Sp Braga,P1,7,5,4,9,A,2,Sp Braga_Benfica_2017
+156,6,Rio Ave,22,1,0,2,0,1,1,4,15,A,6,2018-01-14,Belenenses,P1,4,6,3,8,A,5,Belenenses_Rio Ave_2017
+157,4,Portimonense,21,2,2,0,2,0,0,2,14,H,10,2018-01-14,Boavista,P1,5,6,4,11,H,6,Boavista_Portimonense_2017
+158,0,Aves,14,3,0,0,1,0,0,0,15,H,6,2018-01-14,Sp Lisbon,P1,3,5,4,11,H,7,Sp Lisbon_Aves_2017
+159,5,Feirense,19,3,1,1,0,0,0,4,13,H,8,2018-01-14,Tondela,P1,4,6,4,11,D,9,Tondela_Feirense_2017
+160,2,Setubal,24,2,0,2,1,0,2,6,27,D,5,2018-01-15,Moreirense,P1,3,6,7,9,A,2,Moreirense_Setubal_2017
+161,0,Tondela,13,1,0,0,1,0,0,1,14,H,2,2018-01-19,Porto,P1,0,10,12,17,H,7,Porto_Tondela_2017
+162,4,Sp Lisbon,16,1,0,1,0,0,1,3,17,D,10,2018-01-19,Setubal,P1,2,1,0,3,A,8,Setubal_Sp Lisbon_2017
+163,0,Chaves,14,3,0,0,2,0,0,0,10,H,6,2018-01-20,Benfica,P1,1,8,8,11,H,2,Benfica_Chaves_2017
+164,1,Belenenses,23,0,1,0,0,0,0,5,20,D,10,2018-01-20,Maritimo,P1,3,1,2,3,D,4,Maritimo_Belenenses_2017
+165,1,Sp Braga,22,1,0,2,0,0,2,4,18,A,4,2018-01-20,Portimonense,P1,2,4,6,11,A,2,Portimonense_Sp Braga_2017
+166,3,Pacos Ferreira,17,0,0,2,0,0,1,5,26,A,8,2018-01-21,Aves,P1,5,4,12,10,A,7,Aves_Pacos Ferreira_2017
+167,3,Moreirense,16,1,0,0,1,0,0,4,19,H,9,2018-01-21,Feirense,P1,4,1,2,1,H,6,Feirense_Moreirense_2017
+168,4,Estoril,21,3,1,1,1,0,1,2,14,H,13,2018-01-21,Guimaraes,P1,5,7,10,13,D,3,Guimaraes_Estoril_2017
+169,2,Boavista,14,2,0,0,1,0,0,3,16,H,7,2018-01-21,Rio Ave,P1,3,9,3,12,H,7,Rio Ave_Boavista_2017
+170,3,Benfica,15,1,0,1,0,0,0,1,12,D,6,2018-01-29,Belenenses,P1,2,2,7,5,D,6,Belenenses_Benfica_2017
+171,0,Feirense,18,2,0,1,1,0,1,2,20,H,6,2018-01-29,Pacos Ferreira,P1,5,3,6,8,D,6,Pacos Ferreira_Feirense_2017
+172,3,Rio Ave,25,4,0,1,3,0,0,4,10,H,5,2018-01-29,Portimonense,P1,1,7,1,10,H,3,Portimonense_Rio Ave_2017
+173,0,Tondela,18,3,0,0,2,0,0,0,18,H,6,2018-01-30,Estoril,P1,2,4,1,10,H,4,Estoril_Tondela_2017
+174,4,Porto,20,0,0,0,0,1,0,1,11,D,12,2018-01-30,Moreirense,P1,2,0,2,1,D,4,Moreirense_Porto_2017
+175,0,Aves,21,2,0,0,1,0,0,1,18,H,6,2018-01-30,Sp Braga,P1,2,8,4,15,H,6,Sp Braga_Aves_2017
+176,1,Maritimo,13,2,0,1,1,0,1,2,21,H,6,2018-01-31,Boavista,P1,2,8,2,12,D,3,Boavista_Maritimo_2017
+177,1,Setubal,14,2,0,2,1,0,1,2,22,D,8,2018-01-31,Chaves,P1,5,5,4,7,D,8,Chaves_Setubal_2017
+178,0,Guimaraes,7,1,0,0,0,0,0,2,17,H,7,2018-01-31,Sp Lisbon,P1,4,5,9,12,D,3,Sp Lisbon_Guimaraes_2017
+179,1,Rio Ave,13,5,0,1,0,0,1,2,12,H,2,2018-02-03,Benfica,P1,1,8,10,13,A,3,Benfica_Rio Ave_2017
+180,1,Sp Braga,23,3,0,1,2,0,1,2,13,H,7,2018-02-03,Porto,P1,3,6,7,11,H,3,Porto_Sp Braga_2017
+181,0,Sp Lisbon,18,2,0,0,2,0,0,3,11,H,11,2018-02-04,Estoril,P1,7,6,10,13,H,16,Estoril_Sp Lisbon_2017
+182,2,Chaves,22,1,0,2,1,0,1,0,11,A,8,2018-02-04,Feirense,P1,5,1,8,6,D,5,Feirense_Chaves_2017
+183,2,Pacos Ferreira,14,3,0,2,2,0,1,2,16,H,5,2018-02-04,Guimaraes,P1,1,4,6,8,H,4,Guimaraes_Pacos Ferreira_2017
+184,1,Moreirense,13,1,0,2,1,0,1,1,17,A,7,2018-02-04,Tondela,P1,5,6,7,12,D,4,Tondela_Moreirense_2017
+185,4,Portimonense,18,0,0,3,0,0,3,1,18,A,8,2018-02-05,Maritimo,P1,3,2,7,9,A,1,Maritimo_Portimonense_2017
+186,0,Belenenses,18,3,0,0,1,0,0,3,12,H,4,2018-02-05,Setubal,P1,2,4,3,11,H,7,Setubal_Belenenses_2017
+187,4,Boavista,21,3,0,0,2,0,0,5,13,H,3,2018-02-06,Aves,P1,1,7,5,14,H,5,Aves_Boavista_2017
+188,4,Tondela,15,0,1,2,0,1,2,2,16,A,6,2018-02-09,Pacos Ferreira,P1,3,2,2,7,A,7,Pacos Ferreira_Tondela_2017
+189,3,Benfica,16,1,0,3,0,0,1,2,19,A,11,2018-02-10,Portimonense,P1,7,2,5,6,A,4,Portimonense_Benfica_2017
+190,1,Maritimo,10,3,1,0,2,0,0,6,18,H,4,2018-02-10,Rio Ave,P1,2,5,4,7,H,2,Rio Ave_Maritimo_2017
+191,2,Setubal,19,3,0,1,1,0,0,4,16,H,3,2018-02-10,Sp Braga,P1,3,6,7,10,H,2,Sp Braga_Setubal_2017
+192,0,Aves,7,2,0,5,1,0,4,3,16,A,6,2018-02-11,Belenenses,P1,4,3,4,9,A,5,Belenenses_Aves_2017
+193,2,Guimaraes,14,1,0,0,0,0,0,3,19,H,5,2018-02-11,Boavista,P1,2,4,4,11,D,4,Boavista_Guimaraes_2017
+194,2,Porto,7,0,0,4,0,0,2,4,20,A,12,2018-02-11,Chaves,P1,6,2,1,5,A,3,Chaves_Porto_2017
+195,4,Feirense,11,2,0,0,0,0,0,7,22,H,5,2018-02-11,Sp Lisbon,P1,1,10,15,17,D,5,Sp Lisbon_Feirense_2017
+196,3,Estoril,20,1,0,2,1,0,0,2,4,A,7,2018-02-12,Moreirense,P1,4,2,1,7,H,3,Moreirense_Estoril_2017
+197,4,Portimonense,19,1,0,3,1,0,1,3,22,A,10,2018-02-16,Feirense,P1,7,4,6,10,D,3,Feirense_Portimonense_2017
+198,2,Maritimo,13,0,0,0,0,0,0,4,20,D,4,2018-02-17,Aves,P1,1,3,6,7,D,5,Aves_Maritimo_2017
+199,2,Boavista,11,4,0,0,2,0,0,0,10,H,4,2018-02-17,Benfica,P1,1,11,9,15,H,6,Benfica_Boavista_2017
+200,1,Belenenses,11,0,0,2,0,1,1,0,12,A,8,2018-02-17,Estoril,P1,4,3,6,10,A,4,Estoril_Belenenses_2017
+201,1,Sp Braga,7,0,0,5,0,1,3,0,13,A,13,2018-02-18,Guimaraes,P1,7,0,8,5,A,6,Guimaraes_Sp Braga_2017
+202,3,Chaves,19,0,0,1,0,1,0,3,14,A,2,2018-02-18,Moreirense,P1,2,1,8,6,D,0,Moreirense_Chaves_2017
+203,2,Rio Ave,25,5,0,0,3,0,0,2,12,H,5,2018-02-18,Porto,P1,4,7,9,12,H,4,Porto_Rio Ave_2017
+204,2,Pacos Ferreira,20,1,0,0,0,0,0,3,25,H,11,2018-02-18,Setubal,P1,2,2,2,8,D,3,Setubal_Pacos Ferreira_2017
+205,5,Sp Lisbon,23,1,1,2,1,1,1,3,12,A,16,2018-02-19,Tondela,P1,6,3,5,7,D,9,Tondela_Sp Lisbon_2017
+206,3,Porto,27,1,0,3,1,0,0,3,19,A,24,2018-02-21,Estoril,P1,13,3,3,11,H,7,Estoril_Porto_2017
+207,1,Aves,9,0,0,0,0,1,0,4,17,D,8,2018-02-23,Rio Ave,P1,4,6,8,13,D,2,Rio Ave_Aves_2017
+208,1,Feirense,23,1,0,0,0,0,0,1,13,H,3,2018-02-24,Belenenses,P1,1,4,9,7,D,2,Belenenses_Feirense_2017
+209,1,Guimaraes,20,3,0,2,3,0,1,3,13,H,4,2018-02-24,Maritimo,P1,2,4,6,7,H,1,Maritimo_Guimaraes_2017
+210,2,Benfica,16,1,0,3,1,1,0,2,14,A,11,2018-02-24,Pacos Ferreira,P1,7,3,2,7,H,12,Pacos Ferreira_Benfica_2017
+211,2,Setubal,24,4,0,0,2,0,0,3,16,H,8,2018-02-25,Boavista,P1,2,5,5,9,H,5,Boavista_Setubal_2017
+212,2,Estoril,12,2,0,0,1,0,0,3,13,H,12,2018-02-25,Chaves,P1,3,4,7,6,H,10,Chaves_Estoril_2017
+213,1,Porto,23,1,0,5,0,0,3,0,19,A,7,2018-02-25,Portimonense,P1,6,5,1,9,A,4,Portimonense_Porto_2017
+214,3,Tondela,12,1,0,0,0,0,0,2,12,H,6,2018-02-26,Sp Braga,P1,2,11,9,16,D,4,Sp Braga_Tondela_2017
+215,5,Moreirense,15,1,0,0,0,2,0,4,17,H,8,2018-02-26,Sp Lisbon,P1,3,7,4,13,D,5,Sp Lisbon_Moreirense_2017
+216,2,Sp Lisbon,23,2,0,1,1,0,1,2,10,H,11,2018-03-02,Porto,P1,5,3,7,8,D,9,Porto_Sp Lisbon_2017
+217,1,Maritimo,10,5,1,0,4,0,0,3,17,H,4,2018-03-03,Benfica,P1,1,7,6,14,H,2,Benfica_Maritimo_2017
+218,3,Sp Braga,14,0,0,6,0,0,3,1,19,A,10,2018-03-03,Estoril,P1,6,3,5,13,A,4,Estoril_Sp Braga_2017
+219,1,Boavista,21,3,0,0,1,0,0,2,20,H,6,2018-03-03,Feirense,P1,5,8,7,14,H,8,Feirense_Boavista_2017
+220,3,Belenenses,17,0,0,0,0,0,0,2,21,D,6,2018-03-04,Guimaraes,P1,3,6,4,10,D,5,Guimaraes_Belenenses_2017
+221,4,Pacos Ferreira,15,2,0,0,1,0,0,3,21,H,7,2018-03-04,Moreirense,P1,6,7,12,10,H,7,Moreirense_Pacos Ferreira_2017
+222,3,Rio Ave,21,1,0,0,0,1,0,2,20,H,6,2018-03-04,Setubal,P1,2,4,5,7,D,5,Setubal_Rio Ave_2017
+223,4,Chaves,23,2,0,0,1,0,0,3,14,H,12,2018-03-04,Tondela,P1,5,7,4,9,H,8,Tondela_Chaves_2017
+224,2,Portimonense,19,3,0,0,1,0,0,3,13,H,9,2018-03-05,Aves,P1,2,6,3,11,H,4,Aves_Portimonense_2017
+225,1,Moreirense,13,3,0,0,1,0,0,2,10,H,9,2018-03-09,Sp Braga,P1,0,4,4,12,H,15,Sp Braga_Moreirense_2017
+226,2,Aves,14,2,0,0,0,0,0,4,16,H,6,2018-03-10,Benfica,P1,1,7,14,12,D,1,Benfica_Aves_2017
+227,3,Estoril,19,1,0,0,0,0,0,3,19,H,7,2018-03-10,Boavista,P1,3,2,4,5,D,3,Boavista_Estoril_2017
+228,3,Feirense,17,2,0,1,0,0,1,5,22,H,7,2018-03-10,Rio Ave,P1,6,6,6,10,A,3,Rio Ave_Feirense_2017
+229,1,Tondela,16,0,0,0,0,0,0,1,18,D,8,2018-03-11,Belenenses,P1,2,1,4,8,D,7,Belenenses_Tondela_2017
+230,3,Setubal,14,4,0,2,3,0,0,3,17,H,6,2018-03-11,Maritimo,P1,5,8,3,10,H,3,Maritimo_Setubal_2017
+231,4,Porto,15,1,0,0,1,0,0,2,21,H,9,2018-03-11,Pacos Ferreira,P1,3,4,3,9,H,15,Pacos Ferreira_Porto_2017
+232,3,Guimaraes,16,2,1,1,1,0,1,1,17,H,4,2018-03-11,Portimonense,P1,4,6,6,16,D,5,Portimonense_Guimaraes_2017
+233,0,Sp Lisbon,12,1,0,2,0,0,0,1,15,A,10,2018-03-12,Chaves,P1,6,6,9,10,D,5,Chaves_Sp Lisbon_2017
+234,1,Portimonense,16,1,0,1,1,0,1,2,21,D,5,2018-03-16,Setubal,P1,4,3,5,7,D,7,Setubal_Portimonense_2017
+235,2,Pacos Ferreira,15,1,0,1,1,0,0,5,16,D,6,2018-03-17,Estoril,P1,4,4,4,10,H,3,Estoril_Pacos Ferreira_2017
+236,4,Benfica,13,0,0,2,0,2,0,2,12,A,25,2018-03-17,Feirense,P1,16,1,0,4,D,9,Feirense_Benfica_2017
+237,2,Boavista,17,2,0,0,1,0,0,4,11,H,4,2018-03-17,Porto,P1,2,5,10,9,H,3,Porto_Boavista_2017
+238,2,Maritimo,17,1,0,2,1,0,1,1,7,A,9,2018-03-17,Tondela,P1,8,2,5,6,D,6,Tondela_Maritimo_2017
+239,1,Sp Braga,11,1,0,4,0,0,2,1,21,A,12,2018-03-18,Chaves,P1,8,5,2,11,A,6,Chaves_Sp Braga_2017
+240,2,Aves,19,2,0,1,1,0,1,1,21,H,10,2018-03-18,Guimaraes,P1,6,5,2,9,D,2,Guimaraes_Aves_2017
+241,7,Belenenses,19,2,0,1,1,0,0,3,11,H,5,2018-03-18,Moreirense,P1,4,6,9,9,H,4,Moreirense_Belenenses_2017
+242,3,Rio Ave,25,2,0,0,1,0,0,1,12,H,3,2018-03-18,Sp Lisbon,P1,1,6,7,11,H,1,Sp Lisbon_Rio Ave_2017
+243,0,Setubal,12,1,0,4,1,0,0,2,13,A,10,2018-03-29,Aves,P1,6,2,7,5,H,3,Aves_Setubal_2017
+244,3,Tondela,12,1,0,1,1,0,1,4,24,D,5,2018-03-30,Boavista,P1,3,6,8,7,D,12,Boavista_Tondela_2017
+245,1,Feirense,19,4,0,1,0,0,0,3,16,H,10,2018-03-30,Maritimo,P1,7,10,13,13,D,3,Maritimo_Feirense_2017
+246,3,Estoril,25,2,1,0,2,0,0,2,20,H,11,2018-03-30,Rio Ave,P1,5,9,3,9,H,6,Rio Ave_Estoril_2017
+247,2,Guimaraes,9,2,0,0,1,0,0,3,12,H,3,2018-03-31,Benfica,P1,2,6,5,13,H,4,Benfica_Guimaraes_2017
+248,1,Chaves,15,2,0,0,1,0,0,0,10,H,9,2018-03-31,Pacos Ferreira,P1,3,2,9,6,H,5,Pacos Ferreira_Chaves_2017
+249,1,Moreirense,10,4,3,3,0,0,2,5,17,H,9,2018-03-31,Portimonense,P1,7,5,5,8,A,1,Portimonense_Moreirense_2017
+250,3,Sp Lisbon,15,1,1,0,0,0,0,3,20,H,6,2018-03-31,Sp Braga,P1,2,6,4,13,D,4,Sp Braga_Sp Lisbon_2017
+251,1,Porto,10,2,0,0,1,0,0,3,15,H,17,2018-04-02,Belenenses,P1,8,3,0,4,H,9,Belenenses_Porto_2017
+252,0,Rio Ave,11,3,0,0,3,0,0,1,17,H,12,2018-04-06,Guimaraes,P1,4,6,5,11,H,7,Guimaraes_Rio Ave_2017
+253,3,Maritimo,15,1,0,1,1,0,0,5,15,D,4,2018-04-07,Estoril,P1,2,4,5,13,H,4,Estoril_Maritimo_2017
+254,2,Sp Braga,20,2,0,2,0,0,1,5,13,D,10,2018-04-07,Feirense,P1,4,4,4,15,A,6,Feirense_Sp Braga_2017
+255,2,Benfica,16,1,0,2,1,0,1,2,18,A,9,2018-04-07,Setubal,P1,5,2,3,6,D,5,Setubal_Benfica_2017
+256,2,Portimonense,25,2,0,2,2,0,1,1,8,D,12,2018-04-07,Tondela,P1,7,4,3,8,H,5,Tondela_Portimonense_2017
+257,2,Belenenses,12,1,0,1,0,0,0,3,10,D,9,2018-04-08,Chaves,P1,6,3,4,11,D,5,Chaves_Belenenses_2017
+258,0,Aves,11,2,0,0,2,0,0,2,22,H,4,2018-04-08,Porto,P1,0,8,7,16,H,4,Porto_Aves_2017
+259,1,Pacos Ferreira,11,2,0,0,1,0,0,2,10,H,4,2018-04-08,Sp Lisbon,P1,2,5,5,8,H,4,Sp Lisbon_Pacos Ferreira_2017
+260,2,Boavista,10,1,0,0,0,0,0,4,20,H,5,2018-04-09,Moreirense,P1,3,4,7,7,D,7,Moreirense_Boavista_2017
+261,1,Sp Braga,4,1,0,5,0,1,2,4,14,A,13,2018-04-13,Pacos Ferreira,P1,10,3,7,6,A,10,Pacos Ferreira_Sp Braga_2017
+262,4,Feirense,18,1,0,0,1,0,0,2,21,H,7,2018-04-14,Aves,P1,1,2,5,4,H,6,Aves_Feirense_2017
+263,4,Chaves,22,3,0,3,2,0,1,2,14,D,8,2018-04-14,Boavista,P1,4,5,4,12,H,2,Boavista_Chaves_2017
+264,2,Setubal,22,1,0,1,1,0,1,3,18,D,6,2018-04-14,Guimaraes,P1,1,4,3,5,D,6,Guimaraes_Setubal_2017
+265,1,Estoril,16,0,1,1,0,0,1,3,15,A,9,2018-04-14,Portimonense,P1,4,3,7,8,A,7,Portimonense_Estoril_2017
+266,3,Sp Lisbon,14,3,0,4,1,2,3,6,16,A,10,2018-04-15,Belenenses,P1,6,6,3,9,A,4,Belenenses_Sp Lisbon_2017
+267,2,Porto,19,0,0,1,0,0,0,5,15,A,6,2018-04-15,Benfica,P1,2,2,7,5,D,3,Benfica_Porto_2017
+268,2,Moreirense,10,1,0,1,0,0,0,2,16,D,4,2018-04-15,Maritimo,P1,1,5,5,10,D,3,Maritimo_Moreirense_2017
+269,3,Tondela,11,1,0,1,1,0,0,2,28,D,6,2018-04-16,Rio Ave,P1,4,3,9,8,H,5,Rio Ave_Tondela_2017
+270,2,Maritimo,17,2,0,0,0,0,0,3,14,H,3,2018-04-20,Sp Braga,P1,2,4,9,11,D,8,Sp Braga_Maritimo_2017
+271,4,Benfica,14,1,0,2,0,0,1,3,13,A,10,2018-04-21,Estoril,P1,7,3,3,7,A,3,Estoril_Benfica_2017
+272,2,Guimaraes,21,2,0,1,1,0,1,3,18,H,9,2018-04-21,Feirense,P1,3,7,5,13,D,4,Feirense_Guimaraes_2017
+273,2,Belenenses,9,1,0,1,1,1,0,1,11,D,7,2018-04-21,Pacos Ferreira,P1,3,4,6,10,H,3,Pacos Ferreira_Belenenses_2017
+274,1,Portimonense,10,2,0,1,0,0,0,1,13,H,13,2018-04-22,Chaves,P1,7,9,11,13,D,4,Chaves_Portimonense_2017
+275,3,Rio Ave,20,2,0,1,1,0,1,2,12,H,12,2018-04-22,Moreirense,P1,4,5,4,8,D,14,Moreirense_Rio Ave_2017
+276,1,Boavista,18,1,0,0,1,0,0,5,20,H,1,2018-04-22,Sp Lisbon,P1,0,8,9,13,H,3,Sp Lisbon_Boavista_2017
+277,0,Aves,16,3,0,0,0,0,0,1,7,H,9,2018-04-22,Tondela,P1,4,4,5,5,D,10,Tondela_Aves_2017
+278,2,Setubal,21,5,0,1,4,0,1,1,13,H,7,2018-04-23,Porto,P1,3,5,3,6,H,3,Porto_Setubal_2017
+279,0,Moreirense,13,1,0,0,0,0,0,0,10,H,2,2018-04-27,Guimaraes,P1,2,3,2,10,D,3,Guimaraes_Moreirense_2017
+280,2,Tondela,16,2,0,3,1,0,2,3,14,A,3,2018-04-28,Benfica,P1,3,8,14,15,A,0,Benfica_Tondela_2017
+281,0,Sp Lisbon,17,1,0,2,1,0,1,1,11,A,14,2018-04-28,Portimonense,P1,7,4,4,8,D,5,Portimonense_Sp Lisbon_2017
+282,2,Feirense,12,0,0,2,0,0,0,2,24,A,7,2018-04-28,Setubal,P1,4,3,6,9,D,4,Setubal_Feirense_2017
+283,1,Sp Braga,11,0,0,1,0,0,0,2,9,A,14,2018-04-29,Belenenses,P1,7,2,5,8,D,5,Belenenses_Sp Braga_2017
+284,2,Pacos Ferreira,19,1,0,0,0,0,0,3,18,H,2,2018-04-29,Boavista,P1,1,3,1,7,D,7,Boavista_Pacos Ferreira_2017
+285,3,Porto,18,0,0,1,0,2,0,3,18,A,12,2018-04-29,Maritimo,P1,6,1,3,2,D,7,Maritimo_Porto_2017
+286,7,Chaves,22,2,2,1,0,0,0,4,21,H,4,2018-04-29,Rio Ave,P1,2,5,1,10,D,6,Rio Ave_Chaves_2017
+287,3,Estoril,13,1,0,0,0,0,0,3,16,H,8,2018-04-30,Aves,P1,3,3,7,5,D,7,Aves_Estoril_2017
+288,1,Boavista,13,1,1,1,0,0,1,3,13,D,11,2018-05-04,Sp Braga,P1,2,6,6,11,A,3,Sp Braga_Boavista_2017
+289,1,Portimonense,13,3,0,2,1,0,2,4,21,H,10,2018-05-05,Belenenses,P1,5,6,4,8,A,5,Belenenses_Portimonense_2017
+290,3,Benfica,16,0,0,0,0,0,0,1,17,D,5,2018-05-05,Sp Lisbon,P1,1,1,8,5,D,3,Sp Lisbon_Benfica_2017
+291,1,Guimaraes,10,1,0,4,1,0,2,2,13,A,7,2018-05-05,Tondela,P1,4,2,2,8,A,4,Tondela_Guimaraes_2017
+292,1,Maritimo,12,4,0,1,2,0,1,3,20,H,15,2018-05-06,Chaves,P1,3,5,6,14,H,3,Chaves_Maritimo_2017
+293,4,Setubal,18,2,0,1,1,0,0,1,15,H,14,2018-05-06,Estoril,P1,4,5,0,8,H,10,Estoril_Setubal_2017
+294,2,Aves,20,0,0,3,0,0,1,1,21,A,11,2018-05-06,Moreirense,P1,8,2,4,7,A,6,Moreirense_Aves_2017
+295,1,Feirense,11,2,0,1,1,0,0,3,16,H,6,2018-05-06,Porto,P1,1,4,3,16,H,5,Porto_Feirense_2017
+296,3,Rio Ave,23,0,0,0,0,0,0,3,17,D,5,2018-05-07,Pacos Ferreira,P1,1,4,7,10,D,6,Pacos Ferreira_Rio Ave_2017
+297,2,Chaves,15,2,0,3,2,0,1,2,19,A,13,2018-05-11,Aves,P1,7,5,2,12,H,7,Aves_Chaves_2017
+298,3,Belenenses,21,1,1,0,1,0,0,4,13,H,7,2018-05-12,Boavista,P1,4,6,4,13,H,4,Boavista_Belenenses_2017
+299,1,Porto,21,0,0,1,0,0,0,0,16,A,16,2018-05-12,Guimaraes,P1,8,2,0,5,D,8,Guimaraes_Porto_2017
+300,3,Moreirense,16,1,0,0,0,0,0,4,13,H,2,2018-05-13,Benfica,P1,1,2,6,8,D,3,Benfica_Moreirense_2017
+301,2,Estoril,21,0,1,0,0,0,0,1,14,D,13,2018-05-13,Feirense,P1,5,4,1,8,D,5,Feirense_Estoril_2017
+302,0,Sp Lisbon,12,2,0,1,1,0,1,0,14,H,7,2018-05-13,Maritimo,P1,2,2,4,5,D,8,Maritimo_Sp Lisbon_2017
+303,2,Pacos Ferreira,14,3,0,1,1,0,0,3,12,H,9,2018-05-13,Portimonense,P1,4,5,6,11,H,10,Portimonense_Pacos Ferreira_2017
+304,2,Sp Braga,15,1,0,0,1,0,0,4,16,H,8,2018-05-13,Rio Ave,P1,3,4,7,7,H,9,Rio Ave_Sp Braga_2017
+305,2,Tondela,17,1,0,0,1,0,0,4,31,H,2,2018-05-13,Setubal,P1,1,2,8,7,H,6,Setubal_Tondela_2017

@@ -1,0 +1,331 @@
+,Time,HY,AwayTeam,HF,AR,FTHG,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,15:00:00,4,Celta,17,0,0,0,0,1,0,4,13,D,6,2020-09-12,Eibar,SP1,3,1,3,8,D,3,Eibar_Celta_2020
+1,17:30:00,3,Ath Bilbao,8,0,2,0,0,0,0,4,10,H,9,2020-09-12,Granada,SP1,2,2,1,4,D,2,Granada_Ath Bilbao_2020
+2,20:00:00,2,Osasuna,14,0,0,2,0,0,1,2,21,A,6,2020-09-12,Cadiz,SP1,4,3,6,12,A,2,Cadiz_Osasuna_2020
+3,13:00:00,3,Betis,19,0,0,1,0,0,0,3,17,A,11,2020-09-13,Alaves,SP1,4,2,6,7,D,4,Alaves_Betis_2020
+4,15:00:00,4,Sociedad,15,0,1,1,1,0,0,1,17,D,8,2020-09-13,Valladolid,SP1,2,3,5,8,H,3,Valladolid_Sociedad_2020
+5,17:30:00,1,Huesca,10,0,1,1,0,0,1,1,22,D,10,2020-09-13,Villarreal,SP1,3,4,6,15,A,6,Villarreal_Huesca_2020
+6,20:00:00,1,Levante,9,0,4,2,2,0,2,3,14,H,19,2020-09-13,Valencia,SP1,8,8,3,14,D,4,Valencia_Levante_2020
+7,15:00:00,1,Eibar,5,0,2,1,0,0,0,1,12,H,12,2020-09-19,Villarreal,SP1,4,8,4,14,D,3,Villarreal_Eibar_2020
+8,17:30:00,4,Osasuna,19,0,1,0,0,0,0,2,13,H,10,2020-09-19,Getafe,SP1,3,1,4,7,D,1,Getafe_Osasuna_2020
+9,20:00:00,3,Valencia,12,0,2,1,1,0,0,1,13,H,9,2020-09-19,Celta,SP1,3,6,6,23,H,6,Celta_Valencia_2020
+10,15:00:00,3,Cadiz,18,0,0,2,0,0,1,3,23,A,6,2020-09-20,Huesca,SP1,4,0,2,4,A,1,Huesca_Cadiz_2020
+11,17:30:00,3,Valladolid,18,0,2,0,2,0,0,0,10,H,9,2020-09-20,Betis,SP1,2,6,5,16,H,3,Betis_Valladolid_2020
+12,17:30:00,0,Alaves,9,0,2,1,1,0,1,3,12,H,5,2020-09-20,Granada,SP1,3,3,4,10,D,4,Granada_Alaves_2020
+13,20:00:00,2,Real Madrid,17,0,0,0,0,0,0,2,12,D,16,2020-09-20,Sociedad,SP1,4,1,1,6,D,11,Sociedad_Real Madrid_2020
+14,12:00:00,2,Getafe,13,0,0,0,0,0,0,2,13,D,11,2020-09-26,Alaves,SP1,4,0,1,9,D,5,Alaves_Getafe_2020
+15,15:00:00,0,Huesca,14,0,1,1,1,0,0,1,20,D,17,2020-09-26,Valencia,SP1,4,2,4,5,H,4,Valencia_Huesca_2020
+16,17:30:00,3,Sociedad,11,0,0,3,0,0,0,1,12,A,27,2020-09-26,Elche,SP1,7,2,2,5,D,11,Elche_Sociedad_2020
+17,20:00:00,5,Real Madrid,9,0,2,3,2,1,1,2,10,A,11,2020-09-26,Betis,SP1,4,5,8,15,H,3,Betis_Real Madrid_2020
+18,11:00:00,2,Levante,15,0,1,3,1,0,1,0,16,A,11,2020-09-27,Osasuna,SP1,5,4,3,9,D,7,Osasuna_Levante_2020
+19,13:00:00,1,Ath Bilbao,15,0,1,2,0,0,1,0,12,A,9,2020-09-27,Eibar,SP1,5,1,5,7,A,4,Eibar_Ath Bilbao_2020
+20,15:00:00,3,Granada,16,0,6,1,1,0,0,1,14,H,11,2020-09-27,Ath Madrid,SP1,6,10,1,17,H,1,Ath Madrid_Granada_2020
+21,17:30:00,4,Sevilla,9,0,1,3,0,0,0,2,14,A,14,2020-09-27,Cadiz,SP1,5,5,6,12,D,5,Cadiz_Sevilla_2020
+22,17:30:00,3,Celta,26,0,1,1,0,0,1,4,18,D,5,2020-09-27,Valladolid,SP1,1,4,4,10,A,1,Valladolid_Celta_2020
+23,20:00:00,0,Villarreal,9,0,4,0,4,0,0,1,10,H,5,2020-09-27,Barcelona,SP1,1,9,8,17,H,4,Barcelona_Villarreal_2020
+24,18:00:00,1,Valencia,16,0,0,1,0,0,0,5,15,A,9,2020-09-29,Sociedad,SP1,5,3,9,11,D,3,Sociedad_Valencia_2020
+25,20:30:00,4,Betis,15,1,3,0,3,0,0,4,17,H,10,2020-09-29,Getafe,SP1,2,4,1,8,H,4,Getafe_Betis_2020
+26,18:00:00,1,Ath Madrid,13,0,0,0,0,0,0,0,10,D,16,2020-09-30,Huesca,SP1,2,3,5,9,D,7,Huesca_Ath Madrid_2020
+27,18:00:00,0,Alaves,11,0,3,1,2,0,1,2,13,H,8,2020-09-30,Villarreal,SP1,3,6,2,10,H,0,Villarreal_Alaves_2020
+28,20:30:00,2,Elche,9,0,0,1,0,0,1,2,14,A,5,2020-09-30,Eibar,SP1,2,4,3,12,A,2,Eibar_Elche_2020
+29,20:30:00,2,Valladolid,11,0,1,0,0,0,0,1,7,H,11,2020-09-30,Real Madrid,SP1,5,5,4,15,D,7,Real Madrid_Valladolid_2020
+30,18:00:00,3,Cadiz,15,2,0,1,0,0,0,5,16,A,3,2020-10-01,Ath Bilbao,SP1,1,4,5,13,D,2,Ath Bilbao_Cadiz_2020
+31,18:00:00,5,Levante,14,0,1,0,0,0,0,2,17,H,3,2020-10-01,Sevilla,SP1,1,2,2,16,D,4,Sevilla_Levante_2020
+32,20:30:00,5,Barcelona,22,1,0,3,0,0,1,5,10,A,6,2020-10-01,Celta,SP1,3,3,3,10,A,7,Celta_Barcelona_2020
+33,12:00:00,2,Eibar,11,1,1,2,1,0,1,3,21,A,11,2020-10-03,Valladolid,SP1,5,3,3,9,D,4,Valladolid_Eibar_2020
+34,15:00:00,1,Villarreal,11,0,0,0,0,0,0,2,7,D,6,2020-10-03,Ath Madrid,SP1,2,1,9,14,D,1,Ath Madrid_Villarreal_2020
+35,17:30:00,0,Huesca,8,0,0,0,0,0,0,2,26,D,18,2020-10-03,Elche,SP1,4,0,0,2,D,5,Elche_Huesca_2020
+36,17:30:00,3,Getafe,21,0,3,0,1,0,0,3,13,H,5,2020-10-03,Sociedad,SP1,1,6,5,11,H,4,Sociedad_Getafe_2020
+37,20:00:00,2,Betis,11,0,0,2,0,0,1,2,14,A,17,2020-10-03,Valencia,SP1,8,2,4,5,A,7,Valencia_Betis_2020
+38,11:00:00,3,Celta,19,0,2,0,1,0,0,3,10,H,9,2020-10-04,Osasuna,SP1,3,5,6,14,H,5,Osasuna_Celta_2020
+39,13:00:00,2,Ath Bilbao,20,0,1,0,0,1,0,3,17,H,8,2020-10-04,Alaves,SP1,0,3,0,8,D,6,Alaves_Ath Bilbao_2020
+40,15:00:00,2,Real Madrid,14,0,0,2,0,0,1,1,8,A,13,2020-10-04,Levante,SP1,3,4,4,11,A,6,Levante_Real Madrid_2020
+41,17:30:00,2,Granada,16,0,1,1,0,0,1,2,16,D,13,2020-10-04,Cadiz,SP1,5,4,2,14,A,5,Cadiz_Granada_2020
+42,20:00:00,1,Sevilla,11,0,1,1,1,0,1,1,18,D,13,2020-10-04,Barcelona,SP1,1,5,6,12,D,5,Barcelona_Sevilla_2020
+43,12:00:00,4,Sevilla,16,1,1,0,0,0,0,4,11,H,8,2020-10-17,Granada,SP1,3,3,5,13,D,1,Granada_Sevilla_2020
+44,15:00:00,3,Ath Madrid,16,0,0,2,0,0,1,4,18,A,9,2020-10-17,Celta,SP1,4,5,8,15,A,4,Celta_Ath Madrid_2020
+45,17:30:00,2,Cadiz,7,0,0,1,0,0,1,0,5,A,14,2020-10-17,Real Madrid,SP1,5,2,4,14,A,11,Real Madrid_Cadiz_2020
+46,20:00:00,4,Barcelona,20,0,1,0,0,0,0,3,10,H,7,2020-10-17,Getafe,SP1,1,4,7,9,D,2,Getafe_Barcelona_2020
+47,11:00:00,2,Osasuna,14,1,0,0,0,0,0,3,14,D,8,2020-10-18,Eibar,SP1,2,6,6,10,D,7,Eibar_Osasuna_2020
+48,13:00:00,3,Levante,11,0,2,0,0,0,0,1,10,H,6,2020-10-18,Ath Bilbao,SP1,1,5,9,14,D,3,Ath Bilbao_Levante_2020
+49,15:00:00,4,Valencia,13,0,2,1,1,1,1,1,8,H,11,2020-10-18,Villarreal,SP1,3,6,3,16,D,7,Villarreal_Valencia_2020
+50,17:30:00,2,Elche,11,0,0,2,0,0,1,5,11,A,7,2020-10-18,Alaves,SP1,3,2,2,13,A,6,Alaves_Elche_2020
+51,17:30:00,1,Valladolid,14,0,2,2,0,0,1,2,24,D,5,2020-10-18,Huesca,SP1,3,7,3,12,A,1,Huesca_Valladolid_2020
+52,20:00:00,2,Sociedad,11,0,0,3,0,0,1,1,18,A,8,2020-10-18,Betis,SP1,5,1,6,7,A,2,Betis_Sociedad_2020
+53,20:00:00,3,Valencia,15,0,2,1,2,0,0,2,8,H,14,2020-10-23,Elche,SP1,4,2,0,3,H,7,Elche_Valencia_2020
+54,15:00:00,3,Real Madrid,11,0,1,3,1,0,1,2,13,A,15,2020-10-24,Barcelona,SP1,9,4,7,10,D,7,Barcelona_Real Madrid_2020
+55,17:30:00,3,Ath Bilbao,18,0,1,0,0,0,0,2,10,H,13,2020-10-24,Osasuna,SP1,5,2,2,7,D,5,Osasuna_Ath Bilbao_2020
+56,17:30:00,0,Eibar,11,0,0,1,0,0,1,3,12,A,3,2020-10-24,Sevilla,SP1,1,3,13,21,A,3,Sevilla_Eibar_2020
+57,20:00:00,2,Betis,19,1,2,0,0,0,0,0,12,H,12,2020-10-24,Ath Madrid,SP1,3,6,8,13,D,5,Ath Madrid_Betis_2020
+58,13:00:00,1,Alaves,9,0,0,2,0,1,0,0,7,A,14,2020-10-25,Valladolid,SP1,4,1,2,5,D,4,Valladolid_Alaves_2020
+59,15:00:00,2,Villarreal,15,0,0,0,0,0,0,2,7,D,7,2020-10-25,Cadiz,SP1,2,0,0,5,D,5,Cadiz_Villarreal_2020
+60,17:30:00,4,Granada,19,0,0,1,0,0,1,2,23,A,5,2020-10-25,Getafe,SP1,2,1,6,10,A,1,Getafe_Granada_2020
+61,20:00:00,2,Huesca,12,0,4,1,1,0,0,1,11,H,6,2020-10-25,Sociedad,SP1,4,6,4,13,H,5,Sociedad_Huesca_2020
+62,20:00:00,2,Celta,11,0,1,1,0,0,0,2,19,D,10,2020-10-26,Levante,SP1,3,3,3,10,D,2,Levante_Celta_2020
+63,20:00:00,1,Cadiz,10,0,0,2,0,0,2,1,10,A,6,2020-10-30,Eibar,SP1,4,3,7,9,A,2,Eibar_Cadiz_2020
+64,13:00:00,0,Huesca,16,0,4,1,2,0,0,2,9,H,9,2020-10-31,Real Madrid,SP1,2,6,6,13,H,3,Real Madrid_Huesca_2020
+65,15:15:00,5,Sevilla,17,0,2,1,0,0,1,5,19,H,7,2020-10-31,Ath Bilbao,SP1,3,5,6,16,A,1,Ath Bilbao_Sevilla_2020
+66,17:30:00,1,Ath Madrid,12,0,1,3,0,0,1,2,10,A,11,2020-10-31,Osasuna,SP1,6,3,3,8,A,2,Osasuna_Ath Madrid_2020
+67,20:00:00,4,Barcelona,16,0,1,1,1,1,0,3,4,D,25,2020-10-31,Alaves,SP1,9,3,2,4,H,14,Alaves_Barcelona_2020
+68,13:00:00,2,Elche,13,0,3,1,2,0,0,1,12,H,4,2020-11-01,Betis,SP1,2,10,1,17,H,1,Betis_Elche_2020
+69,15:00:00,2,Sociedad,19,0,1,4,0,1,2,5,16,A,9,2020-11-01,Celta,SP1,7,2,2,9,A,3,Celta_Sociedad_2020
+70,17:30:00,2,Levante,7,0,1,1,1,1,1,3,14,D,19,2020-11-01,Granada,SP1,4,2,2,5,D,8,Granada_Levante_2020
+71,20:00:00,8,Getafe,18,1,2,2,1,1,0,5,25,D,16,2020-11-01,Valencia,SP1,5,5,0,11,H,3,Valencia_Getafe_2020
+72,20:00:00,1,Valladolid,13,0,2,0,2,0,0,3,13,H,11,2020-11-02,Villarreal,SP1,1,5,6,11,H,4,Villarreal_Valladolid_2020
+73,20:00:00,3,Celta,18,0,1,1,1,0,1,4,12,D,14,2020-11-06,Elche,SP1,6,1,3,8,D,3,Elche_Celta_2020
+74,13:00:00,2,Eibar,16,0,1,1,0,0,1,0,30,D,8,2020-11-07,Huesca,SP1,3,6,4,14,A,3,Huesca_Eibar_2020
+75,15:15:00,2,Betis,8,1,5,2,1,0,1,2,10,H,12,2020-11-07,Barcelona,SP1,6,9,9,18,D,5,Barcelona_Betis_2020
+76,17:30:00,2,Osasuna,11,0,1,0,0,0,0,3,19,H,10,2020-11-07,Sevilla,SP1,2,1,3,9,D,0,Sevilla_Osasuna_2020
+77,20:00:00,1,Cadiz,10,0,4,0,2,0,0,1,9,H,10,2020-11-07,Ath Madrid,SP1,3,7,2,17,H,7,Ath Madrid_Cadiz_2020
+78,13:00:00,3,Villarreal,18,0,1,3,1,0,2,4,11,A,9,2020-11-08,Getafe,SP1,5,5,3,13,A,3,Getafe_Villarreal_2020
+79,15:15:00,2,Granada,8,0,2,0,2,1,0,1,11,H,2,2020-11-08,Sociedad,SP1,1,9,15,22,H,0,Sociedad_Granada_2020
+80,17:30:00,1,Alaves,12,1,1,1,0,0,1,6,16,D,6,2020-11-08,Levante,SP1,2,5,12,18,A,1,Levante_Alaves_2020
+81,17:30:00,4,Ath Bilbao,23,0,2,1,1,0,0,2,11,H,17,2020-11-08,Valladolid,SP1,2,4,2,7,H,11,Valladolid_Ath Bilbao_2020
+82,20:00:00,3,Real Madrid,13,0,4,1,2,0,1,2,14,H,16,2020-11-08,Valencia,SP1,6,4,1,7,H,8,Valencia_Real Madrid_2020
+83,20:00:00,2,Huesca,14,0,1,1,0,0,1,3,15,D,6,2020-11-20,Osasuna,SP1,5,7,4,18,A,3,Osasuna_Huesca_2020
+84,13:00:00,1,Elche,15,0,1,1,1,0,0,4,11,D,11,2020-11-21,Levante,SP1,5,5,5,13,H,4,Levante_Elche_2020
+85,15:15:00,1,Real Madrid,16,0,1,1,0,0,1,2,14,D,6,2020-11-21,Villarreal,SP1,1,1,4,13,A,2,Villarreal_Real Madrid_2020
+86,17:30:00,2,Celta,14,0,4,2,2,0,2,2,20,H,10,2020-11-21,Sevilla,SP1,7,10,3,15,D,2,Sevilla_Celta_2020
+87,20:00:00,4,Barcelona,12,0,1,0,1,0,0,0,6,H,13,2020-11-21,Ath Madrid,SP1,4,2,8,9,H,8,Ath Madrid_Barcelona_2020
+88,13:00:00,3,Getafe,16,0,0,0,0,1,0,4,22,D,8,2020-11-22,Eibar,SP1,3,5,3,15,D,4,Eibar_Getafe_2020
+89,15:15:00,2,Sociedad,14,0,0,1,0,0,0,1,14,A,14,2020-11-22,Cadiz,SP1,4,0,1,2,D,6,Cadiz_Sociedad_2020
+90,17:30:00,4,Valladolid,16,0,1,3,0,0,1,3,14,A,9,2020-11-22,Granada,SP1,3,6,5,16,A,3,Granada_Valladolid_2020
+91,20:00:00,1,Valencia,21,0,2,2,2,0,0,1,16,D,13,2020-11-22,Alaves,SP1,5,3,4,13,H,5,Alaves_Valencia_2020
+92,20:00:00,0,Betis,16,0,4,0,2,0,0,0,8,H,7,2020-11-23,Ath Bilbao,SP1,1,9,6,14,H,3,Ath Bilbao_Betis_2020
+93,20:00:00,0,Levante,18,0,1,1,0,0,0,3,11,D,10,2020-11-27,Valladolid,SP1,3,4,3,10,D,11,Valladolid_Levante_2020
+94,13:00:00,6,Cadiz,16,0,1,1,1,1,0,2,15,D,7,2020-11-28,Elche,SP1,2,3,1,4,H,9,Elche_Cadiz_2020
+95,15:15:00,2,Ath Madrid,12,0,0,1,0,0,0,5,15,A,14,2020-11-28,Valencia,SP1,6,2,2,5,D,7,Valencia_Ath Madrid_2020
+96,17:30:00,4,Sevilla,14,0,0,1,0,0,0,3,9,A,16,2020-11-28,Huesca,SP1,4,1,1,5,D,10,Huesca_Sevilla_2020
+97,20:00:00,2,Alaves,8,0,1,2,0,0,1,3,17,A,11,2020-11-28,Real Madrid,SP1,6,9,12,20,A,9,Real Madrid_Alaves_2020
+98,13:00:00,1,Osasuna,8,0,4,0,2,0,0,0,12,H,10,2020-11-29,Barcelona,SP1,5,11,5,20,H,3,Barcelona_Osasuna_2020
+99,15:15:00,2,Ath Bilbao,16,0,1,1,0,0,1,4,23,D,5,2020-11-29,Getafe,SP1,2,3,3,11,A,2,Getafe_Ath Bilbao_2020
+100,17:30:00,4,Granada,14,0,3,1,1,1,1,3,13,H,9,2020-11-29,Celta,SP1,2,8,8,17,D,0,Celta_Granada_2020
+101,20:00:00,5,Villarreal,18,0,1,1,1,0,1,3,12,D,10,2020-11-29,Sociedad,SP1,2,4,4,8,D,4,Sociedad_Villarreal_2020
+102,20:00:00,2,Eibar,13,0,0,2,0,0,0,1,14,A,11,2020-11-30,Betis,SP1,6,3,6,7,D,2,Betis_Eibar_2020
+103,20:00:00,2,Celta,7,0,0,2,0,0,0,1,15,A,6,2020-12-04,Ath Bilbao,SP1,4,0,4,10,D,5,Ath Bilbao_Celta_2020
+104,13:00:00,2,Getafe,12,2,3,0,2,0,0,7,13,H,9,2020-12-05,Levante,SP1,0,8,5,12,H,5,Levante_Getafe_2020
+105,15:15:00,1,Real Madrid,15,0,0,1,0,0,0,3,20,A,10,2020-12-05,Sevilla,SP1,3,2,4,12,D,3,Sevilla_Real Madrid_2020
+106,17:30:00,4,Valladolid,10,0,2,0,0,0,0,2,10,H,13,2020-12-05,Ath Madrid,SP1,3,4,4,15,D,4,Ath Madrid_Valladolid_2020
+107,20:00:00,0,Barcelona,10,0,2,1,1,0,0,2,7,H,21,2020-12-05,Cadiz,SP1,8,3,5,7,H,13,Cadiz_Barcelona_2020
+108,13:00:00,2,Huesca,12,0,3,3,1,0,1,0,16,D,16,2020-12-06,Granada,SP1,7,6,4,15,D,2,Granada_Huesca_2020
+109,15:15:00,3,Betis,16,0,0,2,0,0,0,2,12,A,12,2020-12-06,Osasuna,SP1,5,0,2,10,D,5,Osasuna_Betis_2020
+110,17:30:00,3,Elche,16,0,0,0,0,0,0,2,13,D,3,2020-12-06,Villarreal,SP1,0,3,4,12,D,0,Villarreal_Elche_2020
+111,20:00:00,1,Sociedad,3,0,0,0,0,1,0,0,11,D,13,2020-12-06,Alaves,SP1,5,1,2,5,D,3,Alaves_Sociedad_2020
+112,20:00:00,3,Valencia,15,0,0,0,0,0,0,2,10,D,6,2020-12-07,Eibar,SP1,4,3,8,19,D,0,Eibar_Valencia_2020
+113,20:00:00,4,Osasuna,14,0,3,2,1,0,2,5,18,H,13,2020-12-11,Valladolid,SP1,6,6,3,11,A,3,Valladolid_Osasuna_2020
+114,13:00:00,2,Ath Bilbao,19,0,2,2,1,0,0,6,16,D,13,2020-12-12,Valencia,SP1,5,2,0,11,H,10,Valencia_Ath Bilbao_2020
+115,15:15:00,2,Sevilla,14,0,0,1,0,0,0,3,13,A,8,2020-12-12,Getafe,SP1,0,2,5,8,D,3,Getafe_Sevilla_2020
+116,17:30:00,1,Alaves,14,0,1,0,0,0,0,4,20,H,3,2020-12-12,Huesca,SP1,1,3,5,11,D,2,Huesca_Alaves_2020
+117,20:00:00,1,Ath Madrid,7,0,2,0,1,0,0,3,16,H,5,2020-12-12,Real Madrid,SP1,1,3,3,11,H,6,Real Madrid_Ath Madrid_2020
+118,13:00:00,4,Eibar,14,0,1,1,1,0,0,3,11,D,16,2020-12-13,Sociedad,SP1,4,2,5,8,H,4,Sociedad_Eibar_2020
+119,15:15:00,2,Villarreal,13,0,1,1,0,0,1,3,14,D,7,2020-12-13,Betis,SP1,2,5,4,11,A,8,Betis_Villarreal_2020
+120,17:30:00,4,Granada,16,0,0,1,0,0,1,2,15,A,13,2020-12-13,Elche,SP1,5,1,6,9,A,5,Elche_Granada_2020
+121,20:00:00,2,Levante,4,0,1,0,0,0,0,1,15,H,7,2020-12-13,Barcelona,SP1,3,13,12,24,D,4,Barcelona_Levante_2020
+122,20:00:00,2,Cadiz,24,0,4,0,4,0,0,1,9,H,12,2020-12-14,Celta,SP1,2,5,1,8,H,5,Celta_Cadiz_2020
+123,21:00:00,1,Ath Bilbao,8,1,3,1,1,0,0,3,9,H,10,2020-12-15,Real Madrid,SP1,4,5,6,18,H,6,Real Madrid_Ath Bilbao_2020
+124,20:00:00,3,Sociedad,18,0,2,1,2,0,1,3,14,H,12,2020-12-16,Barcelona,SP1,5,4,2,14,H,3,Barcelona_Sociedad_2020
+125,20:00:00,0,Huesca,9,1,2,0,0,0,0,3,16,H,6,2020-12-18,Ath Bilbao,SP1,1,3,5,10,D,5,Ath Bilbao_Huesca_2020
+126,13:00:00,1,Elche,13,0,3,1,1,0,0,2,14,H,8,2020-12-19,Ath Madrid,SP1,3,6,2,12,H,5,Ath Madrid_Elche_2020
+127,15:15:00,4,Valencia,10,0,2,2,1,0,1,2,14,D,12,2020-12-19,Barcelona,SP1,4,9,8,25,D,3,Barcelona_Valencia_2020
+128,17:30:00,2,Sociedad,19,0,2,1,1,0,1,1,14,H,15,2020-12-19,Levante,SP1,5,5,3,13,D,4,Levante_Sociedad_2020
+129,17:30:00,2,Villarreal,17,0,1,3,0,1,2,2,16,A,13,2020-12-19,Osasuna,SP1,6,1,2,6,A,2,Osasuna_Villarreal_2020
+130,20:00:00,3,Valladolid,14,0,1,1,1,0,0,4,10,D,12,2020-12-19,Sevilla,SP1,5,3,7,14,H,7,Sevilla_Valladolid_2020
+131,13:00:00,2,Alaves,18,0,2,0,1,0,0,2,12,H,8,2020-12-20,Celta,SP1,2,3,3,11,H,5,Celta_Alaves_2020
+132,15:15:00,3,Betis,21,0,2,0,2,0,0,4,16,H,14,2020-12-20,Granada,SP1,1,3,1,8,H,10,Granada_Betis_2020
+133,17:30:00,1,Getafe,6,0,0,2,0,0,1,6,22,A,6,2020-12-20,Cadiz,SP1,4,1,2,8,A,4,Cadiz_Getafe_2020
+134,20:00:00,1,Real Madrid,11,0,1,3,1,0,2,0,7,A,11,2020-12-20,Eibar,SP1,5,3,4,10,A,4,Eibar_Real Madrid_2020
+135,16:30:00,1,Osasuna,8,1,2,2,0,0,1,2,17,D,15,2020-12-22,Elche,SP1,6,2,4,7,A,4,Elche_Osasuna_2020
+136,16:30:00,3,Sevilla,11,0,0,1,0,0,0,2,17,A,19,2020-12-22,Valencia,SP1,3,4,3,10,D,5,Valencia_Sevilla_2020
+137,18:45:00,2,Levante,10,0,1,1,1,0,0,3,17,D,9,2020-12-22,Huesca,SP1,1,2,10,11,H,3,Huesca_Levante_2020
+138,18:45:00,3,Ath Madrid,20,0,0,2,0,0,0,3,17,A,8,2020-12-22,Sociedad,SP1,3,1,5,6,D,5,Sociedad_Ath Madrid_2020
+139,21:00:00,1,Barcelona,12,0,0,3,0,0,2,2,10,A,21,2020-12-22,Valladolid,SP1,10,5,4,12,A,5,Valladolid_Barcelona_2020
+140,21:00:00,1,Ath Bilbao,10,0,1,1,0,0,1,1,18,D,9,2020-12-22,Villarreal,SP1,3,6,6,17,A,4,Villarreal_Ath Bilbao_2020
+141,16:30:00,3,Celta,17,0,1,1,1,0,1,3,16,D,2,2020-12-23,Getafe,SP1,1,3,1,6,D,4,Getafe_Celta_2020
+142,18:45:00,2,Granada,13,0,2,0,0,0,0,1,11,H,10,2020-12-23,Real Madrid,SP1,1,6,8,23,D,1,Real Madrid_Granada_2020
+143,21:00:00,4,Eibar,10,0,2,1,2,0,1,2,14,H,8,2020-12-23,Alaves,SP1,4,3,2,13,H,7,Alaves_Eibar_2020
+144,21:00:00,1,Cadiz,18,0,1,0,0,0,0,1,9,H,6,2020-12-23,Betis,SP1,3,1,5,6,D,5,Betis_Cadiz_2020
+145,16:00:00,1,Villarreal,13,0,2,0,1,0,0,4,14,H,6,2020-12-29,Sevilla,SP1,2,3,4,10,H,7,Sevilla_Villarreal_2020
+146,18:15:00,0,Eibar,6,0,1,1,0,0,0,2,15,D,9,2020-12-29,Barcelona,SP1,3,5,5,16,D,7,Barcelona_Eibar_2020
+147,20:30:00,3,Valladolid,14,0,0,0,0,0,0,2,13,D,7,2020-12-29,Cadiz,SP1,1,3,1,8,D,6,Cadiz_Valladolid_2020
+148,20:30:00,3,Betis,9,0,4,3,3,1,1,2,14,H,19,2020-12-29,Levante,SP1,7,5,3,10,H,6,Levante_Betis_2020
+149,16:00:00,4,Valencia,16,2,2,1,1,1,1,4,15,H,16,2020-12-30,Granada,SP1,6,5,6,24,D,6,Granada_Valencia_2020
+150,18:15:00,2,Getafe,7,0,1,0,1,0,0,3,12,H,10,2020-12-30,Ath Madrid,SP1,2,3,5,10,H,2,Ath Madrid_Getafe_2020
+151,18:15:00,2,Huesca,19,0,2,1,1,0,0,0,8,H,17,2020-12-30,Celta,SP1,6,6,0,15,H,5,Celta_Huesca_2020
+152,20:30:00,1,Real Madrid,8,0,1,1,0,0,1,4,18,D,14,2020-12-30,Elche,SP1,6,3,2,6,A,3,Elche_Real Madrid_2020
+153,13:00:00,5,Sociedad,23,0,0,1,0,0,1,4,18,A,13,2020-12-31,Ath Bilbao,SP1,3,0,2,4,A,4,Ath Bilbao_Sociedad_2020
+154,15:15:00,3,Alaves,12,0,1,1,0,1,0,4,9,D,15,2020-12-31,Osasuna,SP1,1,3,5,8,D,4,Osasuna_Alaves_2020
+155,13:00:00,1,Levante,12,0,2,1,1,0,0,1,11,H,9,2021-01-02,Villarreal,SP1,2,7,3,12,H,5,Villarreal_Levante_2020
+156,15:15:00,5,Sevilla,15,0,1,1,0,0,0,2,18,D,6,2021-01-02,Betis,SP1,2,3,2,16,D,1,Betis_Sevilla_2020
+157,17:30:00,3,Valladolid,13,0,0,1,0,0,1,2,13,A,8,2021-01-02,Getafe,SP1,2,4,5,11,A,9,Getafe_Valladolid_2020
+158,20:00:00,4,Celta,14,0,2,0,1,0,0,2,14,H,6,2021-01-02,Real Madrid,SP1,1,2,1,9,H,5,Real Madrid_Celta_2020
+159,13:00:00,2,Elche,15,0,1,0,1,0,0,1,13,H,5,2021-01-03,Ath Bilbao,SP1,2,2,5,13,H,4,Ath Bilbao_Elche_2020
+160,15:15:00,0,Ath Madrid,14,0,1,2,0,1,1,2,12,A,8,2021-01-03,Alaves,SP1,4,1,1,4,A,5,Alaves_Ath Madrid_2020
+161,17:30:00,2,Granada,10,0,2,0,0,0,0,1,9,H,6,2021-01-03,Eibar,SP1,3,7,4,15,D,2,Eibar_Granada_2020
+162,17:30:00,1,Osasuna,15,0,1,1,0,0,1,1,8,D,6,2021-01-03,Sociedad,SP1,2,2,7,8,A,2,Sociedad_Osasuna_2020
+163,20:00:00,1,Barcelona,12,0,0,1,0,0,1,0,11,A,20,2021-01-03,Huesca,SP1,7,4,2,4,A,6,Huesca_Barcelona_2020
+164,20:00:00,2,Cadiz,11,0,1,1,0,0,0,2,17,D,9,2021-01-04,Valencia,SP1,2,4,9,11,D,7,Valencia_Cadiz_2020
+165,20:00:00,2,Barcelona,10,0,2,3,1,0,2,1,6,A,13,2021-01-06,Ath Bilbao,SP1,9,3,3,8,A,4,Ath Bilbao_Barcelona_2020
+166,20:00:00,1,Villarreal,15,0,0,4,0,0,4,0,18,A,15,2021-01-08,Celta,SP1,6,3,3,8,A,4,Celta_Villarreal_2020
+167,13:00:00,0,Sociedad,8,0,3,2,2,0,2,3,18,H,10,2021-01-09,Sevilla,SP1,4,7,2,12,D,9,Sevilla_Sociedad_2020
+168,17:30:00,2,Barcelona,16,0,0,4,0,1,3,3,3,A,13,2021-01-09,Granada,SP1,4,4,4,8,A,1,Granada_Barcelona_2020
+169,20:00:00,0,Real Madrid,9,0,0,0,0,0,0,0,3,D,9,2021-01-09,Osasuna,SP1,1,2,2,8,D,4,Osasuna_Real Madrid_2020
+170,13:00:00,2,Eibar,12,0,2,1,0,0,0,0,8,H,17,2021-01-10,Levante,SP1,4,2,4,4,D,9,Levante_Eibar_2020
+171,15:15:00,1,Alaves,17,1,3,1,1,0,1,4,10,H,5,2021-01-10,Cadiz,SP1,2,7,4,10,D,1,Cadiz_Alaves_2020
+172,20:00:00,2,Valencia,14,0,0,1,0,0,0,3,14,A,17,2021-01-10,Valladolid,SP1,6,4,0,11,D,4,Valladolid_Valencia_2020
+173,18:00:00,4,Getafe,14,0,1,3,1,1,1,2,16,A,14,2021-01-11,Elche,SP1,7,4,1,7,D,7,Elche_Getafe_2020
+174,20:00:00,2,Betis,12,1,0,2,0,0,0,2,13,A,15,2021-01-11,Huesca,SP1,5,3,3,10,D,6,Huesca_Betis_2020
+175,18:00:00,1,Osasuna,16,0,2,0,2,0,0,4,17,H,15,2021-01-12,Granada,SP1,3,2,4,9,H,4,Granada_Osasuna_2020
+176,20:30:00,2,Sevilla,14,0,2,0,1,0,0,0,11,H,13,2021-01-12,Ath Madrid,SP1,2,4,3,5,H,12,Ath Madrid_Sevilla_2020
+177,18:00:00,3,Levante,13,0,2,2,2,0,2,1,11,D,8,2021-01-19,Cadiz,SP1,5,2,5,8,D,2,Cadiz_Levante_2020
+178,18:00:00,1,Elche,14,0,2,2,0,1,2,3,19,D,9,2021-01-19,Valladolid,SP1,3,2,4,13,A,5,Valladolid_Elche_2020
+179,20:30:00,3,Sevilla,15,0,1,2,1,0,2,3,14,A,7,2021-01-19,Alaves,SP1,3,3,3,12,A,2,Alaves_Sevilla_2020
+180,18:00:00,2,Huesca,15,0,1,0,0,0,0,4,14,H,15,2021-01-20,Getafe,SP1,3,5,3,12,D,8,Getafe_Huesca_2020
+181,20:00:00,2,Celta,13,0,2,1,2,0,1,3,15,H,10,2021-01-20,Betis,SP1,3,4,5,12,H,6,Betis_Celta_2020
+182,20:30:00,2,Granada,11,1,2,2,1,0,1,4,11,D,3,2021-01-20,Villarreal,SP1,2,3,3,9,D,0,Villarreal_Granada_2020
+183,18:00:00,1,Osasuna,8,0,1,1,0,0,1,3,17,D,14,2021-01-21,Valencia,SP1,5,3,9,10,A,4,Valencia_Osasuna_2020
+184,20:30:00,2,Ath Madrid,24,0,1,2,1,0,1,2,9,A,9,2021-01-21,Eibar,SP1,4,2,3,12,D,3,Eibar_Ath Madrid_2020
+185,20:00:00,0,Valladolid,16,0,2,2,0,0,0,1,12,D,7,2021-01-22,Levante,SP1,3,3,8,11,D,2,Levante_Valladolid_2020
+186,13:00:00,3,Villarreal,9,0,0,0,0,0,0,1,15,D,8,2021-01-23,Huesca,SP1,2,1,1,5,D,2,Huesca_Villarreal_2020
+187,15:15:00,1,Cadiz,12,0,3,0,2,0,0,3,6,H,9,2021-01-23,Sevilla,SP1,3,7,7,15,H,6,Sevilla_Cadiz_2020
+188,17:30:00,2,Betis,14,0,2,2,0,0,0,2,13,D,7,2021-01-23,Sociedad,SP1,4,6,8,12,D,3,Sociedad_Betis_2020
+189,20:00:00,5,Real Madrid,16,0,1,4,0,0,3,3,7,A,10,2021-01-23,Alaves,SP1,7,4,4,14,A,4,Alaves_Real Madrid_2020
+190,13:00:00,5,Granada,15,0,3,1,2,1,0,4,15,H,12,2021-01-24,Osasuna,SP1,1,4,1,7,H,5,Osasuna_Granada_2020
+191,15:15:00,0,Barcelona,15,0,0,2,0,0,1,2,9,A,15,2021-01-24,Elche,SP1,8,2,0,4,A,7,Elche_Barcelona_2020
+192,17:30:00,4,Eibar,10,0,1,1,1,0,0,3,16,D,9,2021-01-24,Celta,SP1,2,4,0,7,H,6,Celta_Eibar_2020
+193,20:00:00,2,Valencia,11,0,3,1,1,0,1,0,14,H,8,2021-01-24,Ath Madrid,SP1,4,5,7,14,D,7,Ath Madrid_Valencia_2020
+194,20:00:00,4,Getafe,13,0,5,1,1,0,1,4,18,H,6,2021-01-25,Ath Bilbao,SP1,2,8,4,11,D,4,Ath Bilbao_Getafe_2020
+195,20:00:00,2,Huesca,12,0,1,3,0,0,1,2,12,A,11,2021-01-29,Valladolid,SP1,5,4,6,14,A,7,Valladolid_Huesca_2020
+196,13:00:00,4,Sevilla,10,0,0,2,0,0,1,3,12,A,7,2021-01-30,Eibar,SP1,4,6,6,17,A,2,Eibar_Sevilla_2020
+197,15:15:00,1,Levante,9,0,1,2,1,1,1,2,20,A,14,2021-01-30,Real Madrid,SP1,8,2,3,8,D,7,Real Madrid_Levante_2020
+198,17:30:00,1,Elche,18,0,1,0,1,0,0,7,15,H,10,2021-01-30,Valencia,SP1,1,4,4,14,H,10,Valencia_Elche_2020
+199,20:00:00,1,Sociedad,10,0,1,1,1,0,0,3,17,D,12,2021-01-30,Villarreal,SP1,3,2,1,4,H,7,Villarreal_Sociedad_2020
+200,13:00:00,3,Alaves,20,0,0,0,0,0,0,3,17,D,5,2021-01-31,Getafe,SP1,1,1,5,5,D,2,Getafe_Alaves_2020
+201,15:15:00,1,Ath Madrid,7,0,2,4,1,0,2,5,7,A,9,2021-01-31,Cadiz,SP1,4,6,2,11,A,2,Cadiz_Ath Madrid_2020
+202,17:30:00,2,Celta,16,0,0,0,0,0,0,4,19,D,7,2021-01-31,Granada,SP1,1,5,6,10,D,5,Granada_Celta_2020
+203,20:00:00,2,Ath Bilbao,12,0,2,1,1,0,0,3,20,H,7,2021-01-31,Barcelona,SP1,2,6,7,12,H,3,Barcelona_Ath Bilbao_2020
+204,20:00:00,1,Osasuna,12,0,1,0,0,0,0,1,6,H,15,2021-02-01,Betis,SP1,5,4,3,8,D,4,Betis_Osasuna_2020
+205,20:00:00,4,Valladolid,11,0,1,0,0,0,0,4,17,H,3,2021-02-05,Alaves,SP1,1,5,11,20,D,1,Alaves_Valladolid_2020
+206,13:00:00,1,Granada,12,0,2,2,1,0,1,3,13,D,11,2021-02-06,Levante,SP1,5,7,6,11,D,2,Levante_Granada_2020
+207,15:15:00,2,Real Madrid,18,0,1,2,0,0,0,1,9,A,18,2021-02-06,Huesca,SP1,7,2,3,13,D,10,Huesca_Real Madrid_2020
+208,17:30:00,1,Villarreal,17,0,2,2,0,0,2,2,5,D,9,2021-02-06,Elche,SP1,4,2,4,8,A,2,Elche_Villarreal_2020
+209,20:00:00,1,Getafe,10,1,3,0,0,0,0,4,11,H,5,2021-02-06,Sevilla,SP1,1,5,3,17,D,1,Sevilla_Getafe_2020
+210,13:00:00,0,Cadiz,7,1,4,1,2,0,0,2,7,H,2,2021-02-07,Sociedad,SP1,1,6,5,17,H,1,Sociedad_Cadiz_2020
+211,15:15:00,2,Valencia,10,0,1,1,1,0,0,1,8,D,15,2021-02-07,Ath Bilbao,SP1,2,2,6,11,H,6,Ath Bilbao_Valencia_2020
+212,17:30:00,0,Eibar,10,0,2,1,1,0,1,0,11,H,12,2021-02-07,Osasuna,SP1,3,4,2,12,D,1,Osasuna_Eibar_2020
+213,20:00:00,1,Barcelona,21,0,2,3,1,0,0,3,7,A,12,2021-02-07,Betis,SP1,4,5,3,8,H,5,Betis_Barcelona_2020
+214,20:00:00,2,Celta,12,0,2,2,1,0,1,2,17,D,7,2021-02-08,Ath Madrid,SP1,2,2,1,9,D,4,Ath Madrid_Celta_2020
+215,20:00:00,1,Getafe,8,0,2,0,0,0,0,1,16,H,1,2021-02-09,Real Madrid,SP1,0,4,8,14,D,1,Real Madrid_Getafe_2020
+216,20:00:00,3,Elche,11,0,3,1,2,0,0,2,15,H,7,2021-02-12,Celta,SP1,2,6,3,9,H,6,Celta_Elche_2020
+217,13:00:00,0,Ath Madrid,14,0,1,2,0,0,0,5,20,A,10,2021-02-13,Granada,SP1,4,1,7,6,D,3,Granada_Ath Madrid_2020
+218,15:15:00,3,Huesca,14,0,1,0,0,0,0,4,15,H,9,2021-02-13,Sevilla,SP1,5,4,6,14,D,6,Sevilla_Huesca_2020
+219,17:30:00,2,Valladolid,15,0,1,1,1,0,1,3,12,D,5,2021-02-13,Eibar,SP1,1,2,7,14,D,3,Eibar_Valladolid_2020
+220,20:00:00,0,Alaves,10,0,5,1,2,0,0,2,14,H,6,2021-02-13,Barcelona,SP1,2,9,5,17,H,4,Barcelona_Alaves_2020
+221,13:00:00,3,Sociedad,23,0,0,1,0,1,1,3,19,A,3,2021-02-14,Getafe,SP1,2,0,2,4,A,5,Getafe_Sociedad_2020
+222,15:15:00,0,Valencia,13,0,2,0,2,0,0,3,12,H,4,2021-02-14,Real Madrid,SP1,1,7,6,16,H,1,Real Madrid_Valencia_2020
+223,17:30:00,1,Osasuna,13,0,0,1,0,0,0,2,10,A,7,2021-02-14,Levante,SP1,2,4,2,13,D,1,Levante_Osasuna_2020
+224,20:00:00,3,Betis,19,0,1,2,0,0,1,2,13,A,15,2021-02-14,Villarreal,SP1,4,5,7,9,A,3,Villarreal_Betis_2020
+225,20:00:00,3,Ath Bilbao,15,0,0,4,0,0,3,2,13,A,13,2021-02-15,Cadiz,SP1,8,2,5,11,A,8,Cadiz_Ath Bilbao_2020
+226,18:00:00,1,Ath Madrid,10,0,1,1,1,0,1,3,10,D,14,2021-02-17,Levante,SP1,6,4,1,7,D,8,Levante_Ath Madrid_2020
+227,20:00:00,5,Getafe,17,0,1,0,0,1,0,4,18,H,6,2021-02-19,Betis,SP1,1,5,5,12,D,2,Betis_Getafe_2020
+228,13:00:00,2,Eibar,16,0,1,0,1,0,0,1,9,H,13,2021-02-20,Elche,SP1,3,2,1,6,H,4,Elche_Eibar_2020
+229,15:15:00,2,Levante,10,0,0,2,0,0,1,3,15,A,6,2021-02-20,Ath Madrid,SP1,1,11,12,28,A,2,Ath Madrid_Levante_2020
+230,17:30:00,2,Celta,9,1,2,0,0,0,0,3,19,H,5,2021-02-20,Valencia,SP1,2,3,6,10,D,1,Valencia_Celta_2020
+231,20:00:00,4,Real Madrid,13,0,0,1,0,0,0,2,11,A,10,2021-02-20,Valladolid,SP1,2,5,4,9,D,5,Valladolid_Real Madrid_2020
+232,13:00:00,0,Cadiz,13,0,1,1,1,0,0,2,12,D,3,2021-02-21,Barcelona,SP1,1,4,8,20,H,0,Barcelona_Cadiz_2020
+233,15:15:00,3,Alaves,17,0,4,0,1,0,0,2,16,H,7,2021-02-21,Sociedad,SP1,2,4,4,8,H,3,Sociedad_Alaves_2020
+234,17:30:00,3,Granada,13,1,3,2,3,0,1,3,14,H,8,2021-02-21,Huesca,SP1,5,6,5,15,H,2,Huesca_Granada_2020
+235,20:00:00,2,Villarreal,12,0,1,1,1,0,1,2,12,D,3,2021-02-21,Ath Bilbao,SP1,2,8,6,18,D,0,Ath Bilbao_Villarreal_2020
+236,20:00:00,2,Sevilla,14,0,0,2,0,0,1,2,15,A,10,2021-02-22,Osasuna,SP1,5,0,3,6,A,5,Osasuna_Sevilla_2020
+237,18:00:00,0,Elche,8,0,3,0,0,0,0,0,8,H,6,2021-02-24,Barcelona,SP1,1,5,6,9,D,3,Barcelona_Elche_2020
+238,20:00:00,3,Ath Bilbao,11,1,1,1,1,0,0,1,13,D,11,2021-02-26,Levante,SP1,5,4,2,10,H,10,Levante_Ath Bilbao_2020
+239,13:00:00,2,Huesca,19,0,1,1,0,0,0,2,11,D,4,2021-02-27,Eibar,SP1,1,3,6,17,D,2,Eibar_Huesca_2020
+240,15:15:00,5,Barcelona,20,0,0,2,0,0,1,2,9,A,9,2021-02-27,Sevilla,SP1,5,2,3,4,A,3,Sevilla_Barcelona_2020
+241,17:30:00,3,Osasuna,18,0,0,1,0,0,0,4,20,A,6,2021-02-27,Alaves,SP1,3,1,5,4,D,2,Alaves_Osasuna_2020
+242,20:00:00,5,Valencia,21,1,3,0,1,0,0,2,12,H,5,2021-02-27,Getafe,SP1,0,4,3,15,H,6,Getafe_Valencia_2020
+243,13:00:00,3,Valladolid,20,0,1,1,0,0,0,5,20,D,7,2021-02-28,Celta,SP1,3,2,3,11,D,5,Celta_Valladolid_2020
+244,15:15:00,1,Betis,9,0,0,1,0,0,0,2,13,A,9,2021-02-28,Cadiz,SP1,4,3,3,5,D,7,Cadiz_Betis_2020
+245,17:30:00,3,Elche,14,0,2,1,1,0,1,2,12,H,12,2021-02-28,Granada,SP1,4,4,5,13,D,5,Granada_Elche_2020
+246,20:00:00,2,Ath Madrid,15,0,0,2,0,0,1,3,19,A,6,2021-02-28,Villarreal,SP1,5,6,10,19,A,2,Villarreal_Ath Madrid_2020
+247,20:00:00,0,Sociedad,5,0,1,1,0,0,0,1,10,D,6,2021-03-01,Real Madrid,SP1,2,2,13,21,D,4,Real Madrid_Sociedad_2020
+248,20:00:00,4,Villarreal,12,0,2,1,0,0,1,3,10,H,10,2021-03-05,Valencia,SP1,5,4,5,25,A,3,Valencia_Villarreal_2020
+249,13:00:00,2,Getafe,16,1,2,1,2,0,1,2,19,H,9,2021-03-06,Valladolid,SP1,2,3,1,4,H,6,Valladolid_Getafe_2020
+250,15:15:00,4,Sevilla,16,0,2,1,0,0,0,0,11,H,11,2021-03-06,Elche,SP1,3,3,6,6,D,3,Elche_Sevilla_2020
+251,17:30:00,2,Eibar,7,0,1,0,1,0,0,2,11,H,16,2021-03-06,Cadiz,SP1,1,2,0,6,H,12,Cadiz_Eibar_2020
+252,20:00:00,0,Barcelona,4,0,0,2,0,0,1,2,12,A,13,2021-03-06,Osasuna,SP1,6,3,3,10,A,4,Osasuna_Barcelona_2020
+253,13:00:00,0,Celta,12,0,3,4,2,0,2,2,21,A,10,2021-03-07,Huesca,SP1,7,7,6,19,D,3,Huesca_Celta_2020
+254,15:15:00,5,Real Madrid,19,0,1,1,1,0,0,1,9,D,18,2021-03-07,Ath Madrid,SP1,8,5,1,11,H,6,Ath Madrid_Real Madrid_2020
+255,17:30:00,0,Levante,13,0,1,0,1,0,0,2,14,H,6,2021-03-07,Sociedad,SP1,1,8,7,25,H,5,Sociedad_Levante_2020
+256,20:00:00,2,Granada,10,0,2,1,1,0,0,2,10,H,13,2021-03-07,Ath Bilbao,SP1,3,5,6,7,H,9,Ath Bilbao_Granada_2020
+257,20:00:00,0,Alaves,13,0,3,2,0,0,2,3,11,H,4,2021-03-08,Betis,SP1,3,8,12,23,A,1,Betis_Alaves_2020
+258,18:00:00,2,Ath Bilbao,12,0,2,1,1,0,1,2,13,H,4,2021-03-10,Ath Madrid,SP1,2,5,5,11,D,4,Ath Madrid_Ath Bilbao_2020
+259,20:00:00,3,Valencia,17,0,1,0,1,0,0,4,13,H,11,2021-03-12,Levante,SP1,2,3,3,11,H,3,Levante_Valencia_2020
+260,13:00:00,3,Cadiz,22,0,1,1,1,1,0,3,6,D,9,2021-03-13,Alaves,SP1,1,3,2,9,H,5,Alaves_Cadiz_2020
+261,15:15:00,1,Elche,11,0,2,1,0,0,0,1,16,H,3,2021-03-13,Real Madrid,SP1,2,4,6,17,D,1,Real Madrid_Elche_2020
+262,17:30:00,2,Valladolid,12,0,0,0,0,0,0,3,9,D,12,2021-03-13,Osasuna,SP1,2,2,7,14,D,3,Osasuna_Valladolid_2020
+263,20:00:00,1,Ath Madrid,9,0,0,0,0,1,0,4,17,D,15,2021-03-13,Getafe,SP1,7,2,3,11,D,11,Getafe_Ath Madrid_2020
+264,13:00:00,3,Ath Bilbao,20,0,0,0,0,0,0,1,13,D,6,2021-03-14,Celta,SP1,1,3,1,13,D,3,Celta_Ath Bilbao_2020
+265,15:15:00,2,Sociedad,23,0,1,0,0,0,0,3,16,H,7,2021-03-14,Granada,SP1,1,2,4,7,D,6,Granada_Sociedad_2020
+266,17:30:00,2,Villarreal,12,1,1,3,0,0,2,2,9,A,13,2021-03-14,Eibar,SP1,8,7,7,16,A,2,Eibar_Villarreal_2020
+267,20:00:00,3,Betis,12,0,1,0,1,0,0,5,14,H,13,2021-03-14,Sevilla,SP1,3,3,3,9,H,6,Sevilla_Betis_2020
+268,20:00:00,0,Huesca,8,0,4,1,2,0,1,2,13,H,8,2021-03-15,Barcelona,SP1,4,5,7,12,H,3,Barcelona_Huesca_2020
+269,18:00:00,2,Elche,9,0,2,0,1,0,0,1,8,H,11,2021-03-17,Sevilla,SP1,5,8,4,13,H,1,Sevilla_Elche_2020
+270,20:00:00,2,Levante,14,0,2,0,0,0,0,0,10,H,7,2021-03-19,Betis,SP1,1,6,4,15,D,1,Betis_Levante_2020
+271,13:00:00,1,Eibar,5,0,1,1,1,0,1,1,15,D,4,2021-03-20,Ath Bilbao,SP1,2,4,10,18,D,1,Ath Bilbao_Eibar_2020
+272,15:15:00,3,Real Madrid,23,0,1,3,1,0,2,4,13,A,16,2021-03-20,Celta,SP1,4,3,1,8,A,7,Celta_Real Madrid_2020
+273,17:30:00,1,Osasuna,9,0,0,0,0,0,0,2,13,D,7,2021-03-20,Huesca,SP1,2,3,5,15,D,1,Huesca_Osasuna_2020
+274,20:00:00,3,Sevilla,17,0,1,1,1,0,0,1,10,D,12,2021-03-20,Valladolid,SP1,4,2,2,3,H,8,Valladolid_Sevilla_2020
+275,13:00:00,3,Elche,17,0,1,1,0,0,1,7,21,D,6,2021-03-21,Getafe,SP1,2,5,4,12,A,8,Getafe_Elche_2020
+276,15:15:00,0,Granada,11,0,2,1,1,0,0,3,11,H,15,2021-03-21,Valencia,SP1,3,9,3,18,H,4,Valencia_Granada_2020
+277,15:15:00,3,Cadiz,14,0,2,1,1,0,0,3,6,H,9,2021-03-21,Villarreal,SP1,3,4,5,13,H,6,Villarreal_Cadiz_2020
+278,17:30:00,3,Alaves,17,0,1,0,0,0,0,3,12,H,9,2021-03-21,Ath Madrid,SP1,3,4,5,8,D,5,Ath Madrid_Alaves_2020
+279,20:00:00,3,Barcelona,11,0,1,6,0,0,2,2,12,A,14,2021-03-21,Sociedad,SP1,10,5,1,10,A,1,Sociedad_Barcelona_2020
+280,20:00:00,2,Huesca,15,0,0,2,0,0,1,2,7,A,6,2021-04-02,Levante,SP1,2,3,8,13,A,2,Levante_Huesca_2020
+281,13:00:00,2,Villarreal,14,0,0,3,0,0,2,2,14,A,15,2021-04-03,Granada,SP1,6,2,3,6,A,5,Granada_Villarreal_2020
+282,15:15:00,0,Eibar,6,0,2,0,1,0,0,2,8,H,10,2021-04-03,Real Madrid,SP1,4,8,6,21,H,9,Real Madrid_Eibar_2020
+283,17:30:00,2,Getafe,23,0,0,0,0,0,0,3,18,D,6,2021-04-03,Osasuna,SP1,2,1,2,4,D,4,Osasuna_Getafe_2020
+284,13:00:00,4,Celta,9,1,1,3,0,0,3,5,21,A,8,2021-04-04,Alaves,SP1,6,7,6,17,A,2,Alaves_Celta_2020
+285,15:15:00,1,Betis,9,0,1,1,1,0,1,4,15,D,13,2021-04-04,Elche,SP1,3,3,7,7,D,2,Elche_Betis_2020
+286,17:30:00,2,Valencia,10,0,2,1,1,0,1,2,7,H,12,2021-04-04,Cadiz,SP1,6,2,4,6,D,13,Cadiz_Valencia_2020
+287,20:00:00,2,Ath Madrid,13,0,1,0,0,0,0,4,11,H,9,2021-04-04,Sevilla,SP1,4,5,3,18,D,2,Sevilla_Ath Madrid_2020
+288,20:00:00,3,Valladolid,12,1,1,0,0,0,0,3,13,H,7,2021-04-05,Barcelona,SP1,2,10,4,25,D,1,Barcelona_Valladolid_2020
+289,20:00:00,3,Ath Bilbao,18,0,1,1,0,0,0,1,7,D,11,2021-04-07,Sociedad,SP1,2,2,3,12,D,6,Sociedad_Ath Bilbao_2020
+290,20:00:00,2,Elche,17,0,3,1,2,0,1,2,13,H,8,2021-04-09,Huesca,SP1,2,5,6,8,H,6,Huesca_Elche_2020
+291,13:00:00,3,Cadiz,10,0,0,1,0,0,0,2,13,A,8,2021-04-10,Getafe,SP1,3,4,10,19,D,4,Getafe_Cadiz_2020
+292,15:15:00,2,Alaves,13,0,0,0,0,0,0,2,15,D,9,2021-04-10,Ath Bilbao,SP1,0,4,6,11,D,6,Ath Bilbao_Alaves_2020
+293,17:30:00,3,Levante,9,0,0,1,0,0,1,2,7,A,6,2021-04-10,Eibar,SP1,1,4,6,10,A,3,Eibar_Levante_2020
+294,20:00:00,3,Barcelona,16,0,2,1,2,1,0,4,10,H,18,2021-04-10,Real Madrid,SP1,4,3,5,14,H,6,Real Madrid_Barcelona_2020
+295,13:00:00,0,Osasuna,6,0,1,2,0,0,0,0,12,A,12,2021-04-11,Villarreal,SP1,4,6,6,15,D,5,Villarreal_Osasuna_2020
+296,15:15:00,6,Sociedad,11,0,2,2,0,1,2,4,17,D,16,2021-04-11,Valencia,SP1,5,2,4,9,A,5,Valencia_Sociedad_2020
+297,17:30:00,4,Granada,14,0,1,2,1,0,0,2,15,A,12,2021-04-11,Valladolid,SP1,6,3,2,7,H,4,Valladolid_Granada_2020
+298,20:00:00,0,Ath Madrid,12,0,1,1,1,0,1,0,13,D,10,2021-04-11,Betis,SP1,4,4,5,8,D,5,Betis_Ath Madrid_2020
+299,20:00:00,3,Sevilla,18,0,3,4,3,0,2,2,15,A,13,2021-04-12,Celta,SP1,6,5,5,12,H,2,Celta_Sevilla_2020
+300,13:00:00,2,Elche,14,0,2,0,1,0,0,1,15,H,8,2021-04-18,Osasuna,SP1,2,3,4,9,H,5,Osasuna_Elche_2020
+301,13:00:00,3,Sevilla,20,0,1,2,1,0,2,2,15,A,15,2021-04-18,Sociedad,SP1,7,2,7,5,A,3,Sociedad_Sevilla_2020
+302,15:15:00,1,Huesca,15,0,1,0,0,0,0,2,13,H,9,2021-04-18,Alaves,SP1,1,2,7,10,D,3,Alaves_Huesca_2020
+303,15:15:00,0,Eibar,10,0,5,0,2,0,0,1,10,H,0,2021-04-18,Ath Madrid,SP1,0,7,8,10,H,3,Ath Madrid_Eibar_2020
+304,17:30:00,3,Valencia,12,0,2,2,2,0,1,1,10,D,9,2021-04-18,Betis,SP1,3,5,6,9,H,3,Betis_Valencia_2020
+305,17:30:00,0,Celta,6,0,0,0,0,0,0,1,13,D,11,2021-04-18,Cadiz,SP1,4,2,4,5,D,7,Cadiz_Celta_2020
+306,20:00:00,3,Real Madrid,17,0,0,0,0,0,0,1,8,D,10,2021-04-18,Getafe,SP1,2,6,6,19,D,6,Getafe_Real Madrid_2020
+307,20:00:00,2,Villarreal,9,0,1,5,1,0,2,1,7,A,14,2021-04-18,Levante,SP1,7,3,4,12,A,5,Levante_Villarreal_2020
+308,18:00:00,4,Sevilla,15,0,0,1,0,0,0,1,13,A,10,2021-04-21,Levante,SP1,3,1,2,6,D,3,Levante_Sevilla_2020
+309,18:00:00,1,Valencia,17,0,3,1,2,0,1,2,11,H,10,2021-04-21,Osasuna,SP1,5,9,5,18,H,6,Osasuna_Valencia_2020
+310,19:00:00,3,Ath Bilbao,10,0,0,0,0,1,0,2,16,D,16,2021-04-21,Betis,SP1,4,2,5,6,D,4,Betis_Ath Bilbao_2020
+311,20:00:00,2,Villarreal,8,0,2,1,1,0,0,1,11,H,10,2021-04-21,Alaves,SP1,5,4,3,9,H,8,Alaves_Villarreal_2020
+312,20:00:00,5,Valladolid,23,0,1,1,1,0,0,3,11,D,12,2021-04-21,Elche,SP1,4,3,4,9,H,6,Elche_Valladolid_2020
+313,21:00:00,4,Real Madrid,13,0,0,3,0,0,3,3,21,A,14,2021-04-21,Cadiz,SP1,4,3,7,14,A,3,Cadiz_Real Madrid_2020
+314,18:00:00,2,Huesca,9,0,2,0,1,0,0,0,11,H,5,2021-04-22,Ath Madrid,SP1,2,12,8,18,H,1,Ath Madrid_Huesca_2020
+315,20:00:00,1,Eibar,13,0,4,1,2,0,0,1,10,H,16,2021-04-22,Granada,SP1,3,4,4,8,H,7,Granada_Eibar_2020
+316,20:00:00,4,Celta,17,0,2,1,2,0,1,5,17,H,10,2021-04-22,Sociedad,SP1,3,3,2,7,H,4,Sociedad_Celta_2020
+317,21:00:00,2,Getafe,8,0,5,2,3,0,1,0,15,H,5,2021-04-22,Barcelona,SP1,1,6,3,9,H,1,Barcelona_Getafe_2020
+318,13:00:00,3,Levante,10,0,1,0,1,0,0,4,14,H,6,2021-04-24,Elche,SP1,1,3,4,8,H,2,Elche_Levante_2020
+319,15:15:00,1,Cadiz,11,0,1,1,1,0,0,3,20,D,6,2021-04-24,Valladolid,SP1,2,6,5,13,H,7,Valladolid_Cadiz_2020
+320,17:30:00,4,Alaves,17,1,1,1,0,0,0,0,16,D,6,2021-04-24,Valencia,SP1,2,2,7,9,D,2,Valencia_Alaves_2020
+321,20:00:00,1,Betis,17,0,0,0,0,0,0,2,13,D,6,2021-04-24,Real Madrid,SP1,2,5,8,17,D,2,Real Madrid_Betis_2020
+322,13:00:00,2,Getafe,16,0,0,2,0,0,1,4,22,A,6,2021-04-25,Huesca,SP1,4,1,1,8,A,0,Huesca_Getafe_2020
+323,15:15:00,2,Barcelona,16,0,1,2,1,1,2,3,10,A,15,2021-04-25,Villarreal,SP1,5,4,6,10,A,1,Villarreal_Barcelona_2020
+324,17:30:00,1,Osasuna,13,0,2,1,1,0,0,4,12,H,12,2021-04-25,Celta,SP1,3,2,2,7,H,8,Celta_Osasuna_2020
+325,17:30:00,2,Granada,11,0,2,1,1,0,0,3,14,H,4,2021-04-25,Sevilla,SP1,2,4,5,10,H,5,Sevilla_Granada_2020
+326,20:00:00,4,Ath Madrid,20,0,2,1,1,0,0,2,7,H,14,2021-04-25,Ath Bilbao,SP1,3,3,4,11,H,11,Ath Bilbao_Ath Madrid_2020
+327,20:00:00,5,Sociedad,8,0,0,1,0,0,1,1,20,A,5,2021-04-26,Eibar,SP1,2,5,2,14,A,3,Eibar_Sociedad_2020
+328,18:00:00,1,Valladolid,8,0,2,2,1,0,0,1,13,D,14,2021-04-28,Ath Bilbao,SP1,4,7,5,13,H,7,Ath Bilbao_Valladolid_2020
+329,18:00:00,0,Granada,10,0,1,2,1,0,0,4,22,A,6,2021-04-29,Barcelona,SP1,2,4,6,16,H,1,Barcelona_Granada_2020

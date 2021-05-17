@@ -1,0 +1,229 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Hamilton,22,4,0,0,2,D McDonald,0,0,1,12,H,10,2010-08-14,Aberdeen,SC0,3,3,4,7,H,5,Aberdeen_Hamilton_2010
+1,2,St Johnstone,12,1,1,1,1,S O'Reilly,0,1,2,12,D,6,2010-08-14,Hearts,SC0,3,1,9,8,D,4,Hearts_St Johnstone_2010
+2,0,Celtic,11,0,0,1,0,C Murray,0,0,0,7,A,22,2010-08-14,Inverness C,SC0,15,3,1,8,D,12,Inverness C_Celtic_2010
+3,0,Kilmarnock,14,2,0,1,1,W Collum,0,0,1,8,H,7,2010-08-14,Rangers,SC0,3,12,12,20,H,6,Rangers_Kilmarnock_2010
+4,2,Dundee United,11,1,0,1,0,B Winter,0,0,3,15,D,14,2010-08-14,St Mirren,SC0,5,2,4,3,D,11,St Mirren_Dundee United_2010
+5,0,Hibernian,8,2,0,3,1,C Thomson,0,1,2,13,A,15,2010-08-15,Motherwell,SC0,10,10,5,15,D,7,Motherwell_Hibernian_2010
+6,1,Hearts,14,0,1,4,0,S Finnie,1,2,2,11,A,8,2010-08-21,Hamilton,SC0,4,1,7,2,A,6,Hamilton_Hearts_2010
+7,2,Aberdeen,15,0,0,1,0,S McLean,0,0,3,14,A,9,2010-08-21,St Johnstone,SC0,4,2,5,6,D,4,St Johnstone_Aberdeen_2010
+8,1,St Mirren,7,4,0,0,2,E Norris,0,0,2,6,H,1,2010-08-22,Celtic,SC0,1,8,12,16,H,0,Celtic_St Mirren_2010
+9,0,Inverness C,7,0,0,4,0,A Muir,0,1,0,8,A,9,2010-08-22,Dundee United,SC0,6,3,9,5,A,4,Dundee United_Inverness C_2010
+10,2,Rangers,17,0,1,3,0,I Brines,1,0,2,12,A,9,2010-08-22,Hibernian,SC0,7,7,4,11,D,5,Hibernian_Rangers_2010
+11,2,Motherwell,7,0,0,1,0,M Tumilty,0,1,3,20,A,3,2010-08-22,Kilmarnock,SC0,3,2,9,8,A,2,Kilmarnock_Motherwell_2010
+12,1,Kilmarnock,6,0,0,1,0,B Winter,0,0,1,9,A,19,2010-08-28,Aberdeen,SC0,12,5,6,10,D,6,Aberdeen_Kilmarnock_2010
+13,2,Hamilton,13,0,0,1,0,J McKendrick,0,1,1,14,A,8,2010-08-28,Inverness C,SC0,4,1,6,2,A,5,Inverness C_Hamilton_2010
+14,3,St Johnstone,13,2,0,1,1,C Murray,0,1,2,14,H,6,2010-08-28,Rangers,SC0,3,10,1,15,D,3,Rangers_St Johnstone_2010
+15,1,Dundee United,14,1,0,1,1,C Thomson,0,0,2,13,D,7,2010-08-29,Hearts,SC0,5,7,8,14,H,9,Hearts_Dundee United_2010
+16,1,Celtic,11,0,0,1,0,D McDonald,1,0,2,13,A,18,2010-08-29,Motherwell,SC0,6,2,3,5,D,5,Motherwell_Celtic_2010
+17,3,Hibernian,11,1,0,0,0,S O'Reilly,0,0,1,13,H,7,2010-08-29,St Mirren,SC0,1,2,0,4,D,5,St Mirren_Hibernian_2010
+18,0,Hearts,10,3,0,0,2,W Collum,0,0,1,12,H,6,2010-09-11,Celtic,SC0,3,8,3,12,H,4,Celtic_Hearts_2010
+19,0,Aberdeen,8,3,0,1,3,M Tumilty,0,1,4,14,H,4,2010-09-11,Dundee United,SC0,4,4,9,7,H,10,Dundee United_Aberdeen_2010
+20,2,Rangers,17,1,0,2,0,A Muir,0,1,2,18,A,7,2010-09-11,Hamilton,SC0,6,3,4,6,A,6,Hamilton_Rangers_2010
+21,2,Inverness C,11,1,0,1,1,C Allan,0,0,1,6,D,11,2010-09-11,Hibernian,SC0,2,4,5,9,H,7,Hibernian_Inverness C_2010
+22,1,St Mirren,8,2,1,1,1,S McLean,0,0,2,11,H,6,2010-09-11,Kilmarnock,SC0,2,8,5,22,H,4,Kilmarnock_St Mirren_2010
+23,0,Motherwell,13,0,0,2,0,I Brines,0,2,0,10,A,6,2010-09-11,St Johnstone,SC0,2,1,7,6,A,1,St Johnstone_Motherwell_2010
+24,1,Hamilton,13,1,0,1,1,E Norris,0,1,1,12,D,6,2010-09-18,Hibernian,SC0,3,3,5,8,D,8,Hibernian_Hamilton_2010
+25,2,Hearts,11,1,0,3,1,I Brines,0,1,2,9,A,11,2010-09-18,Inverness C,SC0,8,8,5,11,D,9,Inverness C_Hearts_2010
+26,1,Aberdeen,14,1,0,1,1,S O'Reilly,0,0,0,9,D,5,2010-09-18,Motherwell,SC0,2,4,2,9,H,2,Motherwell_Aberdeen_2010
+27,0,Dundee United,6,4,0,0,1,D McDonald,0,0,2,12,H,5,2010-09-18,Rangers,SC0,2,12,4,17,H,5,Rangers_Dundee United_2010
+28,0,St Mirren,13,2,0,1,2,J McKendrick,0,1,2,14,H,4,2010-09-18,St Johnstone,SC0,1,6,2,9,H,3,St Johnstone_St Mirren_2010
+29,3,Celtic,10,1,0,2,1,C Thomson,0,1,2,10,A,6,2010-09-19,Kilmarnock,SC0,3,1,2,2,D,10,Kilmarnock_Celtic_2010
+30,1,Hibernian,11,2,0,1,1,C Murray,0,0,1,7,H,4,2010-09-25,Celtic,SC0,1,6,9,12,H,0,Celtic_Hibernian_2010
+31,3,St Johnstone,11,1,0,0,0,B Winter,0,0,7,9,H,5,2010-09-25,Dundee United,SC0,1,3,7,7,D,5,Dundee United_St Johnstone_2010
+32,5,Kilmarnock,12,2,0,2,2,C Allan,0,0,0,15,D,6,2010-09-25,Hamilton,SC0,3,6,9,8,H,4,Hamilton_Kilmarnock_2010
+33,2,Motherwell,20,0,0,2,0,M Tumilty,0,0,1,10,A,14,2010-09-25,Hearts,SC0,11,1,6,6,D,5,Hearts_Motherwell_2010
+34,1,Inverness C,9,1,0,2,0,S Finnie,0,1,2,16,A,10,2010-09-25,St Mirren,SC0,3,4,8,8,A,7,St Mirren_Inverness C_2010
+35,2,Rangers,20,2,0,3,2,W Collum,1,1,1,9,A,13,2010-09-26,Aberdeen,SC0,8,4,4,6,H,4,Aberdeen_Rangers_2010
+36,1,Hamilton,11,3,0,1,1,S O'Reilly,0,1,1,10,H,8,2010-10-02,Celtic,SC0,6,7,9,15,D,5,Celtic_Hamilton_2010
+37,5,Rangers,20,1,0,2,1,C Thompson,0,0,1,12,A,20,2010-10-02,Hearts,SC0,12,6,4,9,H,9,Hearts_Rangers_2010
+38,1,Aberdeen,6,2,0,0,1,C Murray,0,0,3,14,H,7,2010-10-02,Inverness C,SC0,2,3,4,8,H,4,Inverness C_Aberdeen_2010
+39,1,Dundee United,7,1,0,2,0,J McKendrick,1,1,3,16,A,13,2010-10-02,Kilmarnock,SC0,11,9,7,20,A,3,Kilmarnock_Dundee United_2010
+40,1,St Mirren,12,3,0,1,1,I Brines,0,0,4,18,H,11,2010-10-02,Motherwell,SC0,4,10,6,12,H,2,Motherwell_St Mirren_2010
+41,0,Hibernian,5,2,0,0,0,D McDonald,0,0,2,9,H,8,2010-10-02,St Johnstone,SC0,2,5,6,13,D,2,St Johnstone_Hibernian_2010
+42,3,Hearts,13,0,0,1,0,M Tumilty,0,0,4,14,A,14,2010-10-16,Aberdeen,SC0,6,2,3,5,D,7,Aberdeen_Hearts_2010
+43,1,Kilmarnock,12,2,0,1,2,I Brines,0,1,1,14,H,8,2010-10-16,Hibernian,SC0,3,3,4,5,H,7,Hibernian_Kilmarnock_2010
+44,2,St Johnstone,14,1,0,1,0,A Muir,0,1,3,18,D,8,2010-10-16,Inverness C,SC0,2,6,7,9,A,6,Inverness C_St Johnstone_2010
+45,2,Motherwell,4,4,0,1,0,S Finnie,0,1,1,8,H,11,2010-10-16,Rangers,SC0,4,8,5,17,A,3,Rangers_Motherwell_2010
+46,5,Hamilton,16,2,0,2,0,W Collum,0,1,3,16,D,5,2010-10-16,St Mirren,SC0,4,3,6,3,A,8,St Mirren_Hamilton_2010
+47,4,Celtic,12,1,0,2,1,D McDonald,0,1,4,11,A,25,2010-10-17,Dundee United,SC0,14,8,9,12,D,11,Dundee United_Celtic_2010
+48,0,Hibernian,10,4,0,2,2,C Thomson,0,0,2,11,H,14,2010-10-23,Aberdeen,SC0,8,4,4,6,H,8,Aberdeen_Hibernian_2010
+49,3,St Johnstone,12,1,0,2,0,M Tumilty,0,1,3,10,A,4,2010-10-23,Hamilton,SC0,2,3,4,4,A,4,Hamilton_St Johnstone_2010
+50,0,St Mirren,13,3,0,0,2,C Murray,0,0,2,14,H,5,2010-10-23,Hearts,SC0,3,5,8,9,H,2,Hearts_St Mirren_2010
+51,3,Inverness C,14,1,0,2,0,E Norris,0,1,2,6,A,8,2010-10-23,Kilmarnock,SC0,5,6,6,11,A,9,Kilmarnock_Inverness C_2010
+52,2,Dundee United,7,2,0,1,1,S McLean,0,0,2,21,H,1,2010-10-23,Motherwell,SC0,0,5,10,10,H,3,Motherwell_Dundee United_2010
+53,3,Rangers,16,1,0,3,1,W Collum,0,0,2,15,A,7,2010-10-24,Celtic,SC0,4,7,11,15,H,1,Celtic_Rangers_2010
+54,1,Hibernian,12,1,0,0,0,S Finnie,0,0,1,14,H,2,2010-10-30,Dundee United,SC0,0,5,3,8,D,6,Dundee United_Hibernian_2010
+55,1,Hamilton,14,0,0,1,0,C Thomson,0,1,3,13,A,10,2010-10-30,Motherwell,SC0,5,1,10,7,A,2,Motherwell_Hamilton_2010
+56,2,Inverness C,11,1,0,1,1,I Brines,0,0,2,13,D,7,2010-10-30,Rangers,SC0,2,13,14,20,H,2,Rangers_Inverness C_2010
+57,2,Celtic,14,0,0,3,0,C Murray,1,2,1,10,A,19,2010-10-30,St Johnstone,SC0,8,2,1,6,A,5,St Johnstone_Celtic_2010
+58,0,Aberdeen,13,2,0,1,1,C Allan,0,0,3,17,H,3,2010-10-30,St Mirren,SC0,1,2,4,4,H,5,St Mirren_Aberdeen_2010
+59,3,Kilmarnock,9,0,0,3,0,S O'Reilly,0,1,2,6,A,14,2010-10-31,Hearts,SC0,7,5,6,12,A,5,Hearts_Kilmarnock_2010
+60,1,Aberdeen,7,9,1,0,4,A Muir,1,0,2,11,H,4,2010-11-06,Celtic,SC0,3,8,8,16,H,1,Celtic_Aberdeen_2010
+61,2,Dundee United,17,0,0,1,0,C Murray,0,0,0,7,A,10,2010-11-06,Hamilton,SC0,6,1,5,4,D,5,Hamilton_Dundee United_2010
+62,0,Motherwell,9,1,0,2,0,M Tumilty,0,2,0,16,A,11,2010-11-06,Inverness C,SC0,7,5,4,10,A,7,Inverness C_Motherwell_2010
+63,3,Kilmarnock,13,0,0,3,0,I Brines,0,1,2,9,A,9,2010-11-06,St Johnstone,SC0,6,1,3,7,A,3,St Johnstone_Kilmarnock_2010
+64,2,Hearts,13,0,0,2,0,W Collum,1,1,2,13,A,9,2010-11-07,Hibernian,SC0,4,3,4,6,A,6,Hibernian_Hearts_2010
+65,2,Rangers,16,1,0,3,0,C Thomson,0,0,2,13,A,18,2010-11-07,St Mirren,SC0,12,6,3,10,D,3,St Mirren_Rangers_2010
+66,5,Inverness C,16,1,0,2,0,J McKendrick,0,1,0,11,A,9,2010-11-09,Aberdeen,SC0,2,5,6,12,A,4,Aberdeen_Inverness C_2010
+67,2,St Mirren,9,1,0,2,0,E Norris,0,1,3,10,A,8,2010-11-10,Dundee United,SC0,3,3,5,5,A,1,Dundee United_St Mirren_2010
+68,2,Celtic,18,2,1,0,1,C Thomson,0,0,5,17,H,6,2010-11-10,Hearts,SC0,2,5,5,9,H,4,Hearts_Celtic_2010
+69,2,Hamilton,9,3,0,0,1,W Collum,0,0,4,15,H,7,2010-11-10,Kilmarnock,SC0,4,6,3,13,H,2,Kilmarnock_Hamilton_2010
+70,0,St Johnstone,13,4,0,0,3,C Allan,0,0,1,12,H,6,2010-11-10,Motherwell,SC0,4,8,2,10,H,7,Motherwell_St Johnstone_2010
+71,1,Hibernian,11,0,0,3,0,S O'Reilly,0,2,2,11,A,7,2010-11-10,Rangers,SC0,6,13,17,13,A,4,Rangers_Hibernian_2010
+72,2,Kilmarnock,4,1,0,1,1,A Muir,0,1,3,2,D,5,2010-11-13,Dundee United,SC0,1,1,9,6,D,7,Dundee United_Kilmarnock_2010
+73,2,Inverness C,9,1,0,3,1,S McLean,0,0,2,15,A,3,2010-11-13,Hamilton,SC0,3,1,3,2,H,5,Hamilton_Inverness C_2010
+74,3,Motherwell,11,2,0,1,2,D McDonald,0,1,4,13,H,5,2010-11-13,Hibernian,SC0,2,7,4,12,H,5,Hibernian_Motherwell_2010
+75,3,Aberdeen,9,2,0,0,2,C Murray,0,0,2,14,H,4,2010-11-13,Rangers,SC0,1,9,5,19,H,2,Rangers_Aberdeen_2010
+76,3,Hearts,9,0,0,2,0,M Tumilty,0,0,2,15,A,13,2010-11-13,St Johnstone,SC0,7,2,2,8,D,4,St Johnstone_Hearts_2010
+77,2,Celtic,9,0,0,1,0,I Brines,0,0,1,12,A,22,2010-11-14,St Mirren,SC0,10,2,4,6,D,8,St Mirren_Celtic_2010
+78,1,St Johnstone,15,0,0,1,0,W Collum,1,0,3,10,A,10,2010-11-20,Aberdeen,SC0,6,4,6,14,D,6,Aberdeen_St Johnstone_2010
+79,1,Dundee United,7,1,0,1,1,M Tumilty,0,0,3,9,D,3,2010-11-20,Celtic,SC0,2,7,6,14,H,6,Celtic_Dundee United_2010
+80,1,Hamilton,18,2,0,0,1,I Brines,0,0,0,16,H,6,2010-11-20,Hearts,SC0,5,10,3,15,H,6,Hearts_Hamilton_2010
+81,1,Hibernian,5,4,1,2,1,S Conroy,0,0,0,3,H,7,2010-11-20,Inverness C,SC0,3,5,5,10,H,4,Inverness C_Hibernian_2010
+82,3,Rangers,15,2,0,3,1,E Norris,1,1,1,12,A,11,2010-11-20,Kilmarnock,SC0,3,6,7,13,D,3,Kilmarnock_Rangers_2010
+83,3,Motherwell,18,1,0,1,1,A Muir,1,0,4,16,D,13,2010-11-20,St Mirren,SC0,3,2,5,8,H,5,St Mirren_Motherwell_2010
+84,0,Inverness C,10,2,0,2,1,A Hamer,0,0,1,11,D,7,2010-11-27,Celtic,SC0,4,3,5,11,H,11,Celtic_Inverness C_2010
+85,3,St Mirren,17,0,0,0,0,M Levi,0,0,1,11,D,4,2010-11-27,Hamilton,SC0,1,1,13,5,D,4,Hamilton_St Mirren_2010
+86,0,St Johnstone,15,0,0,0,0,C Lautiar,0,0,0,14,D,3,2010-11-27,Hibernian,SC0,1,3,3,5,D,3,Hibernian_St Johnstone_2010
+87,1,Aberdeen,8,2,0,0,1,E Hacmon,0,0,1,13,H,5,2010-11-27,Kilmarnock,SC0,3,6,4,9,H,7,Kilmarnock_Aberdeen_2010
+88,3,Aberdeen,11,5,0,0,2,M Tumilty,0,0,2,9,H,4,2010-12-11,Hearts,SC0,3,7,4,13,H,5,Hearts_Aberdeen_2010
+89,3,Rangers,17,1,0,1,1,C Murray,0,0,3,5,D,9,2010-12-11,Inverness C,SC0,3,4,2,8,H,8,Inverness C_Rangers_2010
+90,1,St Johnstone,17,1,0,2,0,S Finnie,0,0,4,12,A,12,2010-12-11,St Mirren,SC0,7,4,2,7,D,4,St Mirren_St Johnstone_2010
+91,2,Hearts,12,1,0,2,1,S O'Reilly,1,1,0,10,A,9,2010-12-14,Motherwell,SC0,2,1,1,3,D,0,Motherwell_Hearts_2010
+92,1,Inverness C,9,1,0,1,1,B Winter,0,1,2,13,D,7,2010-12-18,Hearts,SC0,5,3,8,12,D,2,Hearts_Inverness C_2010
+93,3,Hibernian,3,2,1,1,2,C Thomson,0,0,2,17,H,7,2010-12-18,Kilmarnock,SC0,5,6,8,7,H,6,Kilmarnock_Hibernian_2010
+94,0,Kilmarnock,11,1,0,1,0,W Collum,0,0,3,6,D,2,2010-12-21,Celtic,SC0,1,6,16,12,D,4,Celtic_Kilmarnock_2010
+95,2,St Johnstone,12,2,0,0,0,C Murray,0,0,2,8,H,3,2010-12-26,Celtic,SC0,1,6,10,12,D,0,Celtic_St Johnstone_2010
+96,0,Aberdeen,12,1,0,2,1,S O'Reilly,0,1,1,12,A,9,2010-12-26,Hibernian,SC0,7,7,4,12,D,2,Hibernian_Aberdeen_2010
+97,1,St Mirren,9,1,0,2,1,C Thomson,0,1,2,8,A,10,2010-12-26,Inverness C,SC0,7,2,7,9,D,5,Inverness C_St Mirren_2010
+98,1,Rangers,10,1,0,4,0,I Brines,0,2,1,9,A,14,2010-12-26,Motherwell,SC0,13,4,3,10,A,3,Motherwell_Rangers_2010
+99,3,Motherwell,8,1,0,0,1,S Finnie,1,0,3,10,H,0,2010-12-29,Celtic,SC0,0,2,6,7,H,5,Celtic_Motherwell_2010
+100,2,Aberdeen,10,0,0,1,0,C Thomson,0,0,1,13,A,5,2010-12-29,Hamilton,SC0,4,2,4,6,D,2,Hamilton_Aberdeen_2010
+101,2,Dundee United,12,2,1,2,1,S O'Reilly,0,2,2,18,D,6,2010-12-29,Hibernian,SC0,3,10,11,12,A,3,Hibernian_Dundee United_2010
+102,4,Kilmarnock,5,1,0,3,0,W Collum,0,1,1,7,A,14,2010-12-29,Inverness C,SC0,8,4,8,8,A,6,Inverness C_Kilmarnock_2010
+103,1,Hearts,15,0,0,2,0,C Allan,1,0,2,17,A,15,2010-12-29,St Mirren,SC0,10,5,3,10,D,15,St Mirren_Hearts_2010
+104,2,Dundee United,6,1,0,1,1,W Collum,0,0,3,11,D,10,2011-01-01,Aberdeen,SC0,5,1,5,6,H,4,Aberdeen_Dundee United_2010
+105,2,Motherwell,18,0,0,0,0,S O'Reilly,0,0,1,13,D,6,2011-01-01,Hamilton,SC0,2,7,4,14,D,5,Hamilton_Motherwell_2010
+106,1,Hibernian,13,1,0,0,0,C Murray,0,0,3,17,H,5,2011-01-01,Hearts,SC0,1,9,8,20,D,4,Hearts_Hibernian_2010
+107,2,Celtic,15,0,0,2,0,C Thompson,0,0,4,11,A,10,2011-01-02,Rangers,SC0,2,1,4,8,D,8,Rangers_Celtic_2010
+108,0,Inverness C,14,1,0,0,0,G Salmond,0,0,0,13,H,7,2011-01-02,St Johnstone,SC0,6,7,5,14,D,5,St Johnstone_Inverness C_2010
+109,2,Kilmarnock,12,0,0,2,0,B Winter,0,0,1,10,A,14,2011-01-03,St Mirren,SC0,10,2,7,11,D,7,St Mirren_Kilmarnock_2010
+110,1,Motherwell,4,2,0,0,0,I Brines,0,0,0,6,H,4,2011-01-12,Dundee United,SC0,2,8,5,10,D,0,Dundee United_Motherwell_2010
+111,0,Celtic,12,1,1,1,1,W Collum,2,0,2,10,D,13,2011-01-12,Hamilton,SC0,5,3,2,4,H,6,Hamilton_Celtic_2010
+112,2,St Mirren,9,2,0,0,0,C Murray,0,0,1,11,H,7,2011-01-15,Aberdeen,SC0,0,9,3,16,D,2,Aberdeen_St Mirren_2010
+113,3,Celtic,16,0,0,3,0,C Thomson,0,1,1,8,A,11,2011-01-15,Hibernian,SC0,8,1,3,4,A,10,Hibernian_Celtic_2010
+114,1,St Johnstone,6,1,0,1,1,S McLean,0,0,1,14,D,11,2011-01-15,Kilmarnock,SC0,5,4,5,7,H,7,Kilmarnock_St Johnstone_2010
+115,1,Inverness C,13,0,0,0,0,E Norris,0,0,1,11,D,7,2011-01-15,Motherwell,SC0,5,2,4,5,D,5,Motherwell_Inverness C_2010
+116,0,Hamilton,6,4,0,0,3,B Winter,0,0,1,13,H,3,2011-01-15,Rangers,SC0,2,14,12,25,H,1,Rangers_Hamilton_2010
+117,1,Hearts,6,1,0,2,1,S Conroy,0,0,2,9,A,10,2011-01-18,Kilmarnock,SC0,4,2,4,4,H,11,Kilmarnock_Hearts_2010
+118,1,Inverness C,8,1,0,0,1,C Thomson,0,0,2,17,H,6,2011-01-18,Rangers,SC0,5,7,4,17,H,2,Rangers_Inverness C_2010
+119,1,Aberdeen,10,1,0,0,1,I Brines,0,0,1,16,H,4,2011-01-22,Celtic,SC0,0,4,7,9,H,8,Celtic_Aberdeen_2010
+120,3,Rangers,10,1,0,0,0,M Tumilty,0,0,2,11,H,18,2011-01-22,Hearts,SC0,11,1,2,4,D,6,Hearts_Rangers_2010
+121,2,Hamilton,14,1,0,1,1,S Finnie,0,1,3,6,D,6,2011-01-22,Inverness C,SC0,1,3,4,7,D,0,Inverness C_Hamilton_2010
+122,1,Dundee United,14,1,2,1,1,G Salmond,1,0,2,12,D,8,2011-01-22,Kilmarnock,SC0,2,8,3,22,H,5,Kilmarnock_Dundee United_2010
+123,1,Hibernian,17,2,0,0,2,A Muir,0,0,4,20,H,9,2011-01-22,Motherwell,SC0,2,2,4,5,H,2,Motherwell_Hibernian_2010
+124,0,St Mirren,13,0,0,0,0,W Collum,0,0,2,15,D,6,2011-01-22,St Johnstone,SC0,4,4,6,7,D,2,St Johnstone_St Mirren_2010
+125,4,Hearts,12,4,0,0,1,E Norris,0,0,3,14,H,0,2011-01-26,Celtic,SC0,0,5,3,9,H,3,Celtic_Hearts_2010
+126,5,Rangers,15,0,0,2,0,S O'Reily,0,2,2,17,A,3,2011-01-26,Hibernian,SC0,3,4,2,6,A,3,Hibernian_Rangers_2010
+127,0,Aberdeen,4,0,0,2,0,S Conroy,1,1,1,11,A,10,2011-01-26,Inverness C,SC0,5,4,8,8,A,7,Inverness C_Aberdeen_2010
+128,3,Motherwell,6,1,0,0,0,C Murray,0,0,2,13,H,9,2011-01-26,St Johnstone,SC0,1,2,7,6,D,3,St Johnstone_Motherwell_2010
+129,2,Dundee United,11,1,0,1,1,C Thomson,0,0,3,12,D,14,2011-01-26,St Mirren,SC0,5,5,7,10,H,6,St Mirren_Dundee United_2010
+130,1,Kilmarnock,10,1,1,1,0,B Winter,0,1,1,9,D,16,2011-01-29,Hamilton,SC0,10,3,6,9,A,8,Hamilton_Kilmarnock_2010
+131,2,St Johnstone,15,1,0,0,1,C Allan,0,0,1,9,H,6,2011-01-29,Hearts,SC0,4,5,2,10,H,2,Hearts_St Johnstone_2010
+132,1,Hibernian,8,3,0,0,1,I Brines,0,0,1,14,H,11,2011-01-30,Dundee United,SC0,4,4,3,12,H,8,Dundee United_Hibernian_2010
+133,4,Celtic,18,0,0,3,0,A Muir,1,1,1,10,A,14,2011-02-01,Aberdeen,SC0,6,4,3,7,A,8,Aberdeen_Celtic_2010
+134,1,Hamilton,9,2,0,0,1,E Norris,0,0,1,7,H,4,2011-02-01,St Johnstone,SC0,4,6,4,8,H,8,St Johnstone_Hamilton_2010
+135,4,St Mirren,15,2,0,0,0,M Tumilty,0,0,2,11,H,5,2011-02-02,Hibernian,SC0,4,6,4,15,D,2,Hibernian_St Mirren_2010
+136,1,Kilmarnock,8,0,1,1,0,S O'Reilly,0,0,3,14,A,8,2011-02-02,Motherwell,SC0,3,9,6,16,D,2,Motherwell_Kilmarnock_2010
+137,0,Hearts,8,1,0,0,1,B Winter,0,0,6,19,H,4,2011-02-02,Rangers,SC0,3,4,3,6,H,1,Rangers_Hearts_2010
+138,2,Hearts,12,0,0,2,0,S O'Reilly,0,1,1,13,A,10,2011-02-12,Hamilton,SC0,6,2,3,3,A,7,Hamilton_Hearts_2010
+139,4,Kilmarnock,17,2,0,1,0,S Conroy,1,0,2,8,H,11,2011-02-12,Hibernian,SC0,4,2,2,6,D,6,Hibernian_Kilmarnock_2010
+140,1,Motherwell,12,6,0,0,3,A Muir,0,0,3,13,H,6,2011-02-12,Rangers,SC0,4,12,5,19,H,5,Rangers_Motherwell_2010
+141,2,Inverness C,13,3,0,3,2,B Madden,0,2,1,11,D,7,2011-02-12,St Mirren,SC0,5,8,7,15,D,1,St Mirren_Inverness C_2010
+142,1,Celtic,11,1,0,3,0,M Tumilty,0,2,3,5,A,12,2011-02-13,Dundee United,SC0,5,3,4,7,A,5,Dundee United_Celtic_2010
+143,2,Motherwell,9,1,0,2,1,S McLean,1,1,4,12,A,15,2011-02-15,Aberdeen,SC0,7,3,6,9,D,5,Aberdeen_Motherwell_2010
+144,2,Kilmarnock,19,5,0,0,2,G Salmond,0,0,3,9,H,6,2011-02-19,Aberdeen,SC0,3,5,5,7,H,5,Aberdeen_Kilmarnock_2010
+145,2,Dundee United,16,2,0,1,1,C Murray,1,1,3,9,H,6,2011-02-19,Hearts,SC0,2,4,4,8,D,3,Hearts_Dundee United_2010
+146,0,St Johnstone,11,2,0,0,1,W Collum,0,0,0,10,H,6,2011-02-19,Inverness C,SC0,3,4,3,9,H,5,Inverness C_St Johnstone_2010
+147,1,Hamilton,13,1,0,0,1,C Allan,0,0,3,17,H,5,2011-02-19,Motherwell,SC0,1,6,3,12,H,1,Motherwell_Hamilton_2010
+148,1,Rangers,7,3,0,0,2,I Brines,0,0,5,18,H,9,2011-02-20,Celtic,SC0,2,6,6,8,H,7,Celtic_Rangers_2010
+149,0,Hibernian,14,0,0,1,0,E Norris,0,0,2,14,A,12,2011-02-20,St Mirren,SC0,5,2,2,6,D,7,St Mirren_Hibernian_2010
+150,2,Hamilton,15,1,0,0,1,S Finnie,0,0,2,15,H,10,2011-02-22,Aberdeen,SC0,3,2,4,11,H,2,Aberdeen_Hamilton_2010
+151,2,Dundee United,11,0,0,0,0,J McKendrick,0,0,2,9,D,7,2011-02-22,St Johnstone,SC0,0,0,4,7,D,10,St Johnstone_Dundee United_2010
+152,2,St Mirren,11,0,0,1,0,S Conroy,0,0,2,14,A,9,2011-02-23,Motherwell,SC0,6,2,3,9,D,1,Motherwell_St Mirren_2010
+153,0,Hearts,8,0,0,0,0,M Tumilty,0,0,2,13,D,8,2011-02-26,Aberdeen,SC0,4,6,8,10,D,4,Aberdeen_Hearts_2010
+154,2,Dundee United,17,1,0,1,1,A Muir,0,0,1,9,D,5,2011-02-26,Hamilton,SC0,2,0,2,1,H,5,Hamilton_Dundee United_2010
+155,0,Inverness C,11,2,0,0,0,C Thomson,0,0,0,9,H,5,2011-02-26,Hibernian,SC0,4,9,4,17,D,5,Hibernian_Inverness C_2010
+156,2,St Mirren,15,2,0,0,2,C Murray,0,0,2,14,H,11,2011-02-26,Kilmarnock,SC0,5,6,4,9,H,6,Kilmarnock_St Mirren_2010
+157,4,Celtic,22,2,0,0,1,E Norris,0,0,2,21,H,13,2011-02-27,Motherwell,SC0,7,6,4,9,H,5,Motherwell_Celtic_2010
+158,0,St Johnstone,11,4,0,0,2,S McLean,0,0,1,9,H,6,2011-02-27,Rangers,SC0,3,9,2,17,H,2,Rangers_St Johnstone_2010
+159,1,Hibernian,14,1,0,2,0,G Salmond,0,1,0,12,A,4,2011-03-01,Hamilton,SC0,3,3,8,4,A,7,Hamilton_Hibernian_2010
+160,2,Dundee United,18,0,0,2,0,S McLean,0,0,0,11,A,13,2011-03-01,Inverness C,SC0,4,2,3,9,D,5,Inverness C_Dundee United_2010
+161,2,Aberdeen,14,0,0,0,0,C Thomson,0,0,1,14,D,7,2011-03-02,St Johnstone,SC0,5,7,9,15,D,4,St Johnstone_Aberdeen_2010
+162,2,Hamilton,15,2,0,0,1,S O'Reilly,0,0,3,7,H,4,2011-03-05,Celtic,SC0,1,7,7,11,H,2,Celtic_Hamilton_2010
+163,3,Kilmarnock,14,0,1,2,0,S McLean,0,0,2,9,A,11,2011-03-05,Hearts,SC0,5,6,8,13,D,3,Hearts_Kilmarnock_2010
+164,0,Motherwell,13,3,0,0,1,I Brines,0,0,0,8,H,2,2011-03-05,Inverness C,SC0,1,6,1,7,H,3,Inverness C_Motherwell_2010
+165,3,Hibernian,9,1,0,1,0,C Allan,0,0,2,9,D,7,2011-03-05,St Johnstone,SC0,5,2,7,10,D,3,St Johnstone_Hibernian_2010
+166,1,Rangers,14,0,0,1,0,W Collum,0,1,0,13,A,8,2011-03-06,St Mirren,SC0,3,2,6,8,A,5,St Mirren_Rangers_2010
+167,0,Aberdeen,6,3,0,1,2,B Winter,0,0,2,9,H,5,2011-03-07,Dundee United,SC0,5,4,6,10,H,9,Dundee United_Aberdeen_2010
+168,0,Hamilton,12,2,0,1,1,W Collum,0,1,1,6,H,11,2011-03-10,Dundee United,SC0,3,5,8,8,D,7,Dundee United_Hamilton_2010
+169,3,Kilmarnock,12,2,0,1,1,A Muir,0,0,2,5,H,5,2011-03-13,Rangers,SC0,0,7,13,19,H,11,Rangers_Kilmarnock_2010
+170,3,Hearts,7,2,0,0,0,I Brines,0,0,2,12,H,5,2011-03-16,Dundee United,SC0,1,3,8,5,D,2,Dundee United_Hearts_2010
+171,0,Inverness C,8,1,0,0,1,G Salmond,0,0,2,14,H,4,2011-03-19,Dundee United,SC0,2,2,6,5,H,6,Dundee United_Inverness C_2010
+172,2,St Johnstone,11,0,0,0,0,B Madden,1,0,1,13,D,7,2011-03-19,Hamilton,SC0,1,3,5,9,D,3,Hamilton_St Johnstone_2010
+173,0,St Mirren,13,3,0,2,0,S Finnie,0,1,3,13,H,11,2011-03-19,Hearts,SC0,6,7,4,16,A,3,Hearts_St Mirren_2010
+174,1,Motherwell,6,3,0,1,2,M Tumilty,0,1,4,13,H,11,2011-03-19,Kilmarnock,SC0,5,12,8,18,H,5,Kilmarnock_Motherwell_2010
+175,2,Aberdeen,7,2,0,1,1,S McLean,0,0,3,10,H,6,2011-04-02,Motherwell,SC0,4,4,5,8,H,8,Motherwell_Aberdeen_2010
+176,1,Dundee United,9,2,0,3,1,S Conroy,0,1,2,11,A,8,2011-04-02,Rangers,SC0,3,6,6,9,D,2,Rangers_Dundee United_2010
+177,1,Kilmarnock,8,0,0,0,0,S Finnie,0,0,1,7,D,3,2011-04-02,St Johnstone,SC0,1,1,6,6,D,2,St Johnstone_Kilmarnock_2010
+178,2,Hamilton,19,3,1,1,0,W Collum,0,1,1,17,H,3,2011-04-02,St Mirren,SC0,2,3,3,4,A,5,St Mirren_Hamilton_2010
+179,2,Hearts,12,2,1,2,1,I Brines,0,1,2,6,D,7,2011-04-03,Hibernian,SC0,4,9,3,18,D,6,Hibernian_Hearts_2010
+180,2,Rangers,6,0,0,2,0,C Allan,0,1,1,9,A,10,2011-04-05,St Johnstone,SC0,5,5,4,6,A,3,St Johnstone_Rangers_2010
+181,2,Hibernian,7,3,0,1,3,E Norris,0,0,4,13,H,4,2011-04-06,Celtic,SC0,1,7,4,14,H,5,Celtic_Hibernian_2010
+182,0,Dundee United,7,2,0,1,2,S O'Reilly,0,0,0,16,H,12,2011-04-06,Motherwell,SC0,8,4,2,5,H,8,Motherwell_Dundee United_2010
+183,2,Aberdeen,17,3,0,2,1,G Salmond,0,0,1,13,H,11,2011-04-06,St Mirren,SC0,3,6,3,7,H,8,St Mirren_Aberdeen_2010
+184,1,Hibernian,9,0,0,1,0,B Madden,0,1,2,11,A,4,2011-04-09,Aberdeen,SC0,2,4,8,13,A,2,Aberdeen_Hibernian_2010
+185,0,St Mirren,7,1,0,0,0,C Murray,0,0,1,9,H,6,2011-04-09,Celtic,SC0,1,2,6,11,D,3,Celtic_St Mirren_2010
+186,3,St Johnstone,10,2,1,0,1,M Tumilty,0,0,3,9,H,5,2011-04-09,Dundee United,SC0,2,2,7,8,H,5,Dundee United_St Johnstone_2010
+187,2,Motherwell,8,0,0,0,0,C Thomson,0,0,1,5,D,4,2011-04-09,Hearts,SC0,0,2,8,7,D,3,Hearts_Motherwell_2010
+188,0,Inverness C,6,1,0,1,1,J McKendrick,0,1,1,13,D,6,2011-04-09,Kilmarnock,SC0,2,5,7,6,D,4,Kilmarnock_Inverness C_2010
+189,1,Rangers,9,0,0,1,0,A Muir,0,1,3,10,A,10,2011-04-10,Hamilton,SC0,7,1,3,6,A,2,Hamilton_Rangers_2010
+190,2,Celtic,11,0,0,1,0,I Brines,0,1,1,17,A,12,2011-04-12,St Johnstone,SC0,7,2,3,4,A,5,St Johnstone_Celtic_2010
+191,1,Rangers,16,0,0,1,0,C Murray,0,1,2,9,A,10,2011-04-13,Aberdeen,SC0,5,3,1,8,A,7,Aberdeen_Rangers_2010
+192,4,Hearts,12,1,0,1,1,C Allan,1,0,2,9,D,8,2011-04-16,Inverness C,SC0,7,6,5,12,H,8,Inverness C_Hearts_2010
+193,0,St Mirren,11,2,0,1,1,E Norris,0,1,2,14,H,5,2011-04-16,Rangers,SC0,3,3,4,10,D,3,Rangers_St Mirren_2010
+194,1,Hamilton,8,1,0,2,0,B Winter,0,2,1,8,A,6,2011-04-17,Hibernian,SC0,1,15,16,24,A,2,Hibernian_Hamilton_2010
+195,1,Rangers,14,0,0,4,0,W Collum,3,1,2,11,A,9,2011-04-19,Dundee United,SC0,4,1,2,2,A,7,Dundee United_Rangers_2010
+196,2,Celtic,6,0,0,4,0,A Muir,0,3,2,5,A,16,2011-04-20,Kilmarnock,SC0,9,4,1,4,A,8,Kilmarnock_Celtic_2010
+197,3,Kilmarnock,11,4,0,2,2,B Winter,0,0,3,7,H,10,2011-04-23,Dundee United,SC0,9,6,7,16,H,6,Dundee United_Kilmarnock_2010
+198,2,Motherwell,14,3,0,3,2,W Collum,0,0,4,14,D,10,2011-04-23,Hearts,SC0,8,5,7,14,H,11,Hearts_Motherwell_2010
+199,1,St Mirren,14,1,0,1,1,A Muir,0,1,3,9,D,3,2011-04-24,Hibernian,SC0,2,2,2,7,D,6,Hibernian_St Mirren_2010
+200,2,Celtic,14,0,0,0,0,C Thomson,0,0,3,21,D,13,2011-04-24,Rangers,SC0,9,4,8,13,D,8,Rangers_Celtic_2010
+201,1,Aberdeen,12,1,0,1,0,C Murray,0,0,1,11,D,15,2011-04-25,Hamilton,SC0,9,9,8,15,D,6,Hamilton_Aberdeen_2010
+202,2,Inverness C,11,0,0,3,0,B Madden,0,1,0,17,A,12,2011-04-25,St Johnstone,SC0,7,11,6,19,A,5,St Johnstone_Inverness C_2010
+203,1,Inverness C,21,1,0,0,0,G Salmond,0,0,2,15,H,10,2011-04-30,Aberdeen,SC0,5,5,5,11,D,6,Aberdeen_Inverness C_2010
+204,2,St Johnstone,18,1,0,2,1,C Allan,0,0,1,12,A,9,2011-04-30,Hibernian,SC0,3,3,6,7,H,4,Hibernian_St Johnstone_2010
+205,5,Hearts,11,2,0,2,0,E Norris,0,0,3,20,D,6,2011-04-30,Kilmarnock,SC0,2,6,4,14,D,4,Kilmarnock_Hearts_2010
+206,3,Rangers,8,0,0,5,0,M Tumilty,0,1,1,8,A,13,2011-04-30,Motherwell,SC0,10,3,5,5,A,2,Motherwell_Rangers_2010
+207,0,Dundee United,6,4,0,1,1,I Brines,0,0,1,8,H,7,2011-05-01,Celtic,SC0,3,15,10,22,H,4,Celtic_Dundee United_2010
+208,1,Hamilton,15,0,1,1,0,C Thomson,1,0,2,14,A,19,2011-05-02,St Mirren,SC0,11,6,7,9,D,2,St Mirren_Hamilton_2010
+209,2,Celtic,16,3,0,2,1,S O'Reilly,0,1,2,10,H,14,2011-05-04,Inverness C,SC0,6,5,5,9,D,11,Inverness C_Celtic_2010
+210,1,St Johnstone,8,0,0,2,0,J McKendrick,0,1,0,2,A,7,2011-05-07,Aberdeen,SC0,3,1,3,2,A,6,Aberdeen_St Johnstone_2010
+211,0,Motherwell,6,4,0,0,2,B Winter,0,0,2,12,H,1,2011-05-07,Dundee United,SC0,0,8,5,14,H,5,Dundee United_Motherwell_2010
+212,0,Hibernian,6,1,1,0,1,M Tumilty,0,0,2,7,H,10,2011-05-07,Hamilton,SC0,2,7,6,13,H,4,Hamilton_Hibernian_2010
+213,0,St Mirren,12,1,0,0,0,B Madden,1,0,1,11,H,10,2011-05-07,Inverness C,SC0,4,3,5,8,D,6,Inverness C_St Mirren_2010
+214,4,Hearts,14,4,1,0,3,I Brines,0,0,3,8,H,6,2011-05-07,Rangers,SC0,2,9,10,16,H,0,Rangers_Hearts_2010
+215,2,Celtic,11,0,0,2,0,W Collum,0,1,2,17,A,9,2011-05-08,Kilmarnock,SC0,2,1,2,3,A,5,Kilmarnock_Celtic_2010
+216,2,St Mirren,16,0,0,1,0,E Norris,0,0,1,14,A,3,2011-05-10,Aberdeen,SC0,2,1,1,4,D,5,Aberdeen_St Mirren_2010
+217,0,Dundee United,9,2,0,0,2,C Murray,0,0,0,11,H,8,2011-05-10,Rangers,SC0,3,7,5,13,H,4,Rangers_Dundee United_2010
+218,0,Hamilton,4,1,1,0,1,S Conroy,0,0,1,9,H,6,2011-05-10,St Johnstone,SC0,3,4,7,7,H,2,St Johnstone_Hamilton_2010
+219,3,Celtic,19,0,1,3,0,C Thomson,1,1,2,14,A,13,2011-05-11,Hearts,SC0,9,2,3,4,A,5,Hearts_Celtic_2010
+220,0,Hibernian,9,2,0,0,1,S Finnie,0,0,0,10,H,11,2011-05-11,Inverness C,SC0,3,6,6,7,H,8,Inverness C_Hibernian_2010
+221,1,Kilmarnock,13,1,0,1,1,C Allan,0,0,1,3,D,14,2011-05-11,Motherwell,SC0,12,6,3,7,H,7,Motherwell_Kilmarnock_2010
+222,1,Inverness C,11,1,0,2,0,I Brines,0,1,1,14,A,2,2011-05-14,Hamilton,SC0,2,3,6,6,A,2,Hamilton_Inverness C_2010
+223,2,Aberdeen,11,1,0,3,1,W Collum,0,0,0,10,A,11,2011-05-14,Hibernian,SC0,10,7,5,15,H,7,Hibernian_Aberdeen_2010
+224,0,St Johnstone,11,0,0,0,0,C Murray,0,0,1,18,D,11,2011-05-14,St Mirren,SC0,2,4,4,11,D,2,St Mirren_St Johnstone_2010
+225,1,Motherwell,7,4,0,0,2,A Muir,0,0,1,13,H,6,2011-05-15,Celtic,SC0,1,15,9,22,H,3,Celtic_Motherwell_2010
+226,2,Hearts,3,2,0,1,1,S O'Reilly,0,1,3,8,H,4,2011-05-15,Dundee United,SC0,4,5,10,10,D,3,Dundee United_Hearts_2010
+227,2,Rangers,16,1,0,5,0,C Thomson,0,3,2,14,A,15,2011-05-15,Kilmarnock,SC0,10,10,3,14,A,8,Kilmarnock_Rangers_2010

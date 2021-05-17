@@ -1,0 +1,211 @@
+,Time,HY,AwayTeam,HF,AR,FTHG,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,12:30:00,1,Rangers,18,0,0,1,0,B Madden,1,1,0,14,A,15,2020-08-01,Aberdeen,SC0,4,0,2,4,A,6,Aberdeen_Rangers_2020
+1,15:00:00,1,St Johnstone,12,1,1,1,1,K Clancy,0,0,2,8,D,9,2020-08-01,Dundee United,SC0,4,4,3,16,H,3,Dundee United_St Johnstone_2020
+2,15:00:00,1,Kilmarnock,13,0,2,1,2,J Beaton,0,1,1,12,H,12,2020-08-01,Hibernian,SC0,2,3,5,11,H,4,Hibernian_Kilmarnock_2020
+3,15:00:00,3,Livingston,16,0,1,0,1,D Robertson,0,0,2,16,H,12,2020-08-01,St Mirren,SC0,3,2,2,6,H,5,St Mirren_Livingston_2020
+4,16:30:00,1,Hamilton,9,0,5,1,2,W Collum,0,1,3,8,H,7,2020-08-02,Celtic,SC0,2,15,11,25,H,8,Celtic_Hamilton_2020
+5,19:45:00,3,Motherwell,24,1,1,0,1,N Walsh,0,0,1,12,H,15,2020-08-03,Ross County,SC0,1,3,5,9,H,8,Ross County_Motherwell_2020
+6,15:00:00,0,Ross County,14,0,0,1,0,B Madden,0,0,1,15,A,10,2020-08-08,Hamilton,SC0,6,4,9,9,D,1,Hamilton_Ross County_2020
+7,15:00:00,1,Hibernian,17,0,1,4,0,E Anderson,0,3,1,11,A,18,2020-08-08,Livingston,SC0,8,3,5,12,A,4,Livingston_Hibernian_2020
+8,15:00:00,2,Dundee United,11,0,0,1,0,S McLean,0,0,0,12,A,11,2020-08-08,Motherwell,SC0,3,4,7,18,D,8,Motherwell_Dundee United_2020
+9,15:00:00,0,St Mirren,9,0,3,0,1,A Dallas,0,0,2,8,H,4,2020-08-09,Rangers,SC0,2,12,14,28,H,1,Rangers_St Mirren_2020
+10,16:30:00,2,Celtic,13,0,1,1,1,A Muir,0,1,1,14,D,17,2020-08-09,Kilmarnock,SC0,2,1,1,6,D,2,Kilmarnock_Celtic_2020
+11,18:00:00,3,Hibernian,16,0,0,1,0,D Robertson,0,0,2,13,A,8,2020-08-11,Dundee United,SC0,3,1,7,10,D,3,Dundee United_Hibernian_2020
+12,19:45:00,2,Livingston,13,0,2,2,2,C Steven,0,1,1,18,D,15,2020-08-12,Motherwell,SC0,5,3,4,9,H,6,Motherwell_Livingston_2020
+13,19:45:00,0,St Johnstone,10,0,3,0,2,E Anderson,0,0,2,10,H,4,2020-08-12,Rangers,SC0,2,5,6,15,H,2,Rangers_St Johnstone_2020
+14,19:45:00,3,Kilmarnock,18,0,2,2,1,G Duncan,0,0,2,11,D,12,2020-08-12,Ross County,SC0,5,5,3,14,H,3,Ross County_Kilmarnock_2020
+15,15:00:00,0,St Mirren,6,0,0,1,0,S Kirkland,0,1,3,12,A,19,2020-08-15,Hamilton,SC0,7,5,2,12,A,9,Hamilton_St Mirren_2020
+16,15:00:00,1,St Johnstone,10,0,1,2,0,A Dallas,1,0,2,9,A,17,2020-08-15,Kilmarnock,SC0,5,4,11,11,D,1,Kilmarnock_St Johnstone_2020
+17,15:00:00,2,Dundee United,13,0,1,2,1,C Napier,0,1,1,13,A,13,2020-08-15,Ross County,SC0,4,2,5,12,D,7,Ross County_Dundee United_2020
+18,17:30:00,0,Motherwell,10,0,0,0,0,G Aitken,0,0,1,17,D,17,2020-08-15,Hibernian,SC0,2,2,6,12,D,10,Hibernian_Motherwell_2020
+19,16:30:00,0,Rangers,10,0,0,0,0,N Walsh,0,0,1,7,D,23,2020-08-16,Livingston,SC0,3,1,0,2,D,9,Livingston_Rangers_2020
+20,19:30:00,1,Aberdeen,17,0,0,1,0,W Collum,0,0,3,13,A,6,2020-08-20,St Johnstone,SC0,3,1,5,11,D,1,St Johnstone_Aberdeen_2020
+21,15:00:00,2,Hamilton,17,0,0,1,0,A Muir,0,0,1,12,A,8,2020-08-22,Motherwell,SC0,2,4,13,17,D,5,Motherwell_Hamilton_2020
+22,15:00:00,1,Kilmarnock,18,0,2,0,0,K Clancy,0,0,1,9,H,2,2020-08-22,Rangers,SC0,0,10,9,26,D,2,Rangers_Kilmarnock_2020
+23,15:00:00,0,Ross County,11,0,1,1,1,M Roncone,1,0,2,12,D,18,2020-08-22,St Mirren,SC0,2,6,3,12,H,4,St Mirren_Ross County_2020
+24,17:30:00,2,Celtic,18,0,0,1,0,A Dallas,0,0,2,10,A,23,2020-08-22,Dundee United,SC0,9,1,6,7,D,10,Dundee United_Celtic_2020
+25,15:00:00,0,Livingston,11,0,2,1,0,S McLean,0,0,2,16,H,10,2020-08-23,Aberdeen,SC0,2,5,1,7,D,3,Aberdeen_Livingston_2020
+26,16:30:00,2,Hibernian,16,0,0,1,0,J Beaton,1,0,2,14,A,10,2020-08-23,St Johnstone,SC0,3,0,5,10,D,4,St Johnstone_Hibernian_2020
+27,15:00:00,3,Dundee United,13,0,4,0,2,D Munro,0,0,1,12,H,18,2020-08-29,Kilmarnock,SC0,1,9,2,15,H,10,Kilmarnock_Dundee United_2020
+28,15:00:00,1,Ross County,15,1,1,0,0,J Beaton,0,0,3,16,H,4,2020-08-29,Livingston,SC0,1,3,14,9,D,5,Livingston_Ross County_2020
+29,15:00:00,0,St Mirren,7,0,1,0,0,K Clancy,0,0,1,12,H,5,2020-08-29,St Johnstone,SC0,2,6,11,21,D,2,St Johnstone_St Mirren_2020
+30,17:30:00,1,Rangers,11,0,0,2,0,W Collum,1,2,2,12,A,24,2020-08-29,Hamilton,SC0,6,2,6,5,A,3,Hamilton_Rangers_2020
+31,15:00:00,1,Motherwell,11,0,3,0,1,D Robertson,0,0,2,10,H,5,2020-08-30,Celtic,SC0,1,6,7,17,H,3,Celtic_Motherwell_2020
+32,16:30:00,0,Aberdeen,11,0,0,1,0,N Walsh,0,1,1,18,A,14,2020-08-30,Hibernian,SC0,7,3,6,9,A,4,Hibernian_Aberdeen_2020
+33,15:00:00,0,Kilmarnock,8,0,1,0,1,B Madden,0,0,1,14,H,7,2020-09-12,Aberdeen,SC0,1,3,10,13,H,10,Aberdeen_Kilmarnock_2020
+34,15:00:00,2,Hamilton,20,0,1,2,1,D Robertson,0,0,2,13,A,12,2020-09-12,Livingston,SC0,4,3,8,18,H,2,Livingston_Hamilton_2020
+35,15:00:00,4,St Johnstone,16,0,1,0,1,E Anderson,0,0,0,11,H,12,2020-09-12,Motherwell,SC0,3,2,2,6,H,3,Motherwell_St Johnstone_2020
+36,15:00:00,1,Dundee United,4,0,4,0,2,K Clancy,0,0,3,16,H,6,2020-09-12,Rangers,SC0,1,9,6,25,H,2,Rangers_Dundee United_2020
+37,15:00:00,1,Celtic,13,0,0,5,0,A Dallas,0,2,1,11,A,18,2020-09-12,Ross County,SC0,10,5,4,9,A,7,Ross County_Celtic_2020
+38,15:00:00,2,Hibernian,14,0,0,3,0,W Collum,0,2,2,14,A,15,2020-09-12,St Mirren,SC0,5,3,8,15,A,7,St Mirren_Hibernian_2020
+39,19:45:00,3,Celtic,13,0,1,2,1,J Beaton,0,2,1,11,A,17,2020-09-16,St Mirren,SC0,9,2,4,8,A,3,St Mirren_Celtic_2020
+40,15:00:00,1,Livingston,8,0,3,2,2,G Duncan,0,1,1,11,H,7,2020-09-19,Celtic,SC0,3,6,3,17,H,1,Celtic_Livingston_2020
+41,15:00:00,3,St Mirren,11,1,2,1,1,C Steven,0,0,1,13,H,16,2020-09-19,Dundee United,SC0,4,8,8,17,H,4,Dundee United_St Mirren_2020
+42,15:00:00,1,Hamilton,10,0,2,1,1,N Walsh,1,1,3,12,H,15,2020-09-19,Kilmarnock,SC0,4,8,6,17,D,8,Kilmarnock_Hamilton_2020
+43,15:00:00,2,Ross County,15,0,0,1,0,D Munro,0,1,3,18,A,5,2020-09-19,St Johnstone,SC0,2,1,9,11,A,3,St Johnstone_Ross County_2020
+44,12:00:00,4,Rangers,17,0,2,2,1,D Robertson,0,1,1,14,D,19,2020-09-20,Hibernian,SC0,7,5,6,7,D,5,Hibernian_Rangers_2020
+45,15:00:00,3,Motherwell,13,0,0,3,0,J Beaton,0,3,0,15,A,9,2020-09-20,Aberdeen,SC0,3,0,4,9,A,5,Aberdeen_Motherwell_2020
+46,15:00:00,4,Dundee United,18,0,1,1,0,A Muir,0,1,1,18,D,12,2020-09-26,Hamilton,SC0,2,1,7,12,A,5,Hamilton_Dundee United_2020
+47,15:00:00,2,St Johnstone,18,0,2,0,2,C Napier,0,0,0,11,H,13,2020-09-26,Livingston,SC0,2,2,8,8,H,7,Livingston_St Johnstone_2020
+48,15:00:00,5,Kilmarnock,16,0,0,1,0,D Munro,0,1,0,12,A,5,2020-09-26,St Mirren,SC0,3,0,5,6,A,6,St Mirren_Kilmarnock_2020
+49,12:00:00,1,Rangers,14,0,1,5,0,B Madden,0,3,0,8,A,16,2020-09-27,Motherwell,SC0,9,1,7,7,A,4,Motherwell_Rangers_2020
+50,15:00:00,0,Hibernian,9,0,3,0,2,S McLean,0,0,2,11,H,9,2020-09-27,Celtic,SC0,0,9,6,20,H,5,Celtic_Hibernian_2020
+51,15:00:00,1,Aberdeen,16,0,0,3,0,W Collum,1,1,0,14,A,18,2020-09-27,Ross County,SC0,8,0,2,8,A,6,Ross County_Aberdeen_2020
+52,19:45:00,1,St Mirren,14,0,2,1,0,G Duncan,0,0,1,11,H,11,2020-10-02,Aberdeen,SC0,1,6,5,15,D,6,Aberdeen_St Mirren_2020
+53,19:45:00,0,Livingston,15,0,1,2,1,J Beaton,0,0,0,11,A,14,2020-10-02,Dundee United,SC0,6,1,3,1,H,11,Dundee United_Livingston_2020
+54,19:45:00,1,Hamilton,10,0,3,2,2,B Madden,0,0,2,12,H,8,2020-10-02,Hibernian,SC0,4,9,7,18,H,2,Hibernian_Hamilton_2020
+55,12:00:00,3,Celtic,13,0,0,2,0,N Walsh,0,0,2,14,A,19,2020-10-04,St Johnstone,SC0,3,0,1,7,D,11,St Johnstone_Celtic_2020
+56,15:00:00,0,Ross County,9,0,2,0,1,G Aitken,0,0,1,13,H,4,2020-10-04,Rangers,SC0,0,4,14,15,H,2,Rangers_Ross County_2020
+57,12:30:00,2,Rangers,13,0,0,2,0,J Beaton,0,1,2,18,A,9,2020-10-17,Celtic,SC0,5,0,1,5,A,5,Celtic_Rangers_2020
+58,15:00:00,1,Aberdeen,9,0,0,0,0,A Muir,0,0,2,18,D,18,2020-10-17,Dundee United,SC0,7,3,2,6,D,11,Dundee United_Aberdeen_2020
+59,15:00:00,1,St Johnstone,18,0,3,5,2,K Clancy,0,3,0,11,A,22,2020-10-17,Hamilton,SC0,8,4,3,10,A,7,Hamilton_St Johnstone_2020
+60,15:00:00,4,Kilmarnock,14,0,1,3,1,G Aitken,0,2,0,14,A,11,2020-10-17,Livingston,SC0,5,2,6,14,A,3,Livingston_Kilmarnock_2020
+61,15:00:00,1,Hibernian,11,0,0,0,0,N Walsh,1,0,1,10,D,28,2020-10-17,Ross County,SC0,6,2,3,16,D,5,Ross County_Hibernian_2020
+62,19:00:00,1,Hamilton,17,0,4,2,4,N Walsh,0,1,1,11,H,10,2020-10-20,Aberdeen,SC0,6,6,10,18,H,2,Aberdeen_Hamilton_2020
+63,15:00:00,2,Hibernian,17,0,0,1,0,C Steven,0,1,1,20,A,11,2020-10-24,Kilmarnock,SC0,2,0,1,8,A,6,Kilmarnock_Hibernian_2020
+64,15:00:00,2,Ross County,12,0,4,0,1,C Napier,0,0,1,14,H,11,2020-10-24,Motherwell,SC0,5,5,4,14,H,6,Motherwell_Ross County_2020
+65,15:00:00,1,Dundee United,12,0,0,0,0,A Dallas,0,0,1,9,D,3,2020-10-24,St Johnstone,SC0,0,3,5,14,D,0,St Johnstone_Dundee United_2020
+66,12:00:00,2,Celtic,12,0,3,3,1,W Collum,0,0,1,18,D,14,2020-10-25,Aberdeen,SC0,7,5,3,13,H,5,Aberdeen_Celtic_2020
+67,15:00:00,1,Livingston,9,0,2,0,2,N Walsh,0,0,1,14,H,4,2020-10-25,Rangers,SC0,1,7,5,11,H,3,Rangers_Livingston_2020
+68,15:00:00,1,Ross County,11,0,2,1,1,S Kirkland,0,0,4,16,H,13,2020-10-31,Dundee United,SC0,3,3,2,8,H,8,Dundee United_Ross County_2020
+69,15:00:00,2,Motherwell,14,0,0,2,0,J Beaton,0,2,2,12,A,8,2020-10-31,Livingston,SC0,4,3,5,13,A,5,Livingston_Motherwell_2020
+70,12:00:00,3,Rangers,14,0,0,1,0,A Dallas,0,1,3,14,A,20,2020-11-01,Kilmarnock,SC0,4,4,4,8,A,9,Kilmarnock_Rangers_2020
+71,19:45:00,0,Hibernian,23,0,2,0,2,E Anderson,0,0,3,11,H,6,2020-11-06,Aberdeen,SC0,2,2,3,7,H,4,Aberdeen_Hibernian_2020
+72,19:45:00,1,Livingston,10,0,1,1,1,K Clancy,0,0,1,3,D,7,2020-11-06,Ross County,SC0,2,2,3,7,H,3,Ross County_Livingston_2020
+73,19:45:00,2,Kilmarnock,18,0,1,0,0,G Duncan,0,0,1,12,H,8,2020-11-06,St Johnstone,SC0,0,2,4,11,D,5,St Johnstone_Kilmarnock_2020
+74,19:45:00,1,Dundee United,13,0,0,0,0,D Munro,0,0,1,15,D,4,2020-11-06,St Mirren,SC0,1,0,5,16,D,4,St Mirren_Dundee United_2020
+75,12:00:00,3,Celtic,8,0,1,4,0,A Dallas,0,2,0,11,A,21,2020-11-08,Motherwell,SC0,6,3,6,14,A,5,Motherwell_Celtic_2020
+76,15:00:00,0,Hamilton,9,0,8,0,4,S McLean,0,0,2,10,H,0,2020-11-08,Rangers,SC0,0,14,7,24,H,0,Rangers_Hamilton_2020
+77,15:00:00,3,Hamilton,14,0,2,1,0,C Napier,0,0,3,15,H,8,2020-11-21,Dundee United,SC0,2,3,2,7,D,1,Dundee United_Hamilton_2020
+78,15:00:00,4,Celtic,14,0,2,2,0,B Madden,0,0,0,10,D,21,2020-11-21,Hibernian,SC0,12,3,5,12,D,8,Hibernian_Celtic_2020
+79,15:00:00,1,Ross County,10,0,3,1,1,C Steven,1,1,0,17,H,17,2020-11-21,Kilmarnock,SC0,2,6,4,12,D,10,Kilmarnock_Ross County_2020
+80,15:00:00,1,St Mirren,13,0,0,1,0,W Collum,0,0,1,8,A,7,2020-11-21,Livingston,SC0,3,2,1,5,D,5,Livingston_St Mirren_2020
+81,15:00:00,3,Motherwell,11,0,1,1,1,S Kirkland,0,1,1,11,D,8,2020-11-21,St Johnstone,SC0,2,5,4,16,D,1,St Johnstone_Motherwell_2020
+82,12:00:00,0,Aberdeen,9,0,4,0,2,N Walsh,0,0,1,9,H,7,2020-11-22,Rangers,SC0,3,5,9,18,H,6,Rangers_Aberdeen_2020
+83,19:00:00,1,St Johnstone,10,0,2,2,1,K Clancy,0,1,0,8,D,12,2020-11-24,Hibernian,SC0,3,4,4,11,D,4,Hibernian_St Johnstone_2020
+84,19:00:00,2,Aberdeen,13,0,1,1,0,G Duncan,0,1,0,14,D,10,2020-11-25,Hamilton,SC0,3,2,1,4,A,7,Hamilton_Aberdeen_2020
+85,15:00:00,3,Kilmarnock,22,1,1,0,0,W Collum,0,0,2,8,H,17,2020-12-05,Hamilton,SC0,2,6,3,16,D,2,Hamilton_Kilmarnock_2020
+86,15:00:00,5,Dundee United,11,0,2,0,0,D Robertson,0,0,2,12,H,7,2020-12-05,Livingston,SC0,2,4,6,11,D,2,Livingston_Dundee United_2020
+87,15:00:00,1,Hibernian,13,0,0,3,0,A Dallas,0,0,1,10,A,12,2020-12-05,Motherwell,SC0,5,1,7,12,D,6,Motherwell_Hibernian_2020
+88,15:00:00,2,Aberdeen,14,1,1,1,1,B Madden,0,1,1,15,D,9,2020-12-05,St Mirren,SC0,2,12,7,25,D,1,St Mirren_Aberdeen_2020
+89,12:00:00,3,Rangers,12,0,0,4,0,J Beaton,0,1,0,7,A,16,2020-12-06,Ross County,SC0,5,1,0,4,A,5,Ross County_Rangers_2020
+90,15:00:00,1,St Johnstone,14,0,1,1,0,D Munro,0,0,5,8,D,6,2020-12-06,Celtic,SC0,1,5,8,17,D,2,Celtic_St Johnstone_2020
+91,15:00:00,1,Ross County,11,0,2,0,1,N Walsh,0,0,1,13,H,5,2020-12-12,Aberdeen,SC0,1,3,4,5,H,3,Aberdeen_Ross County_2020
+92,15:00:00,3,Hibernian,14,0,0,4,0,K Clancy,0,2,0,10,A,16,2020-12-12,Hamilton,SC0,8,1,1,3,A,6,Hamilton_Hibernian_2020
+93,15:00:00,1,St Mirren,13,0,0,1,0,E Anderson,0,1,4,7,A,8,2020-12-12,Motherwell,SC0,3,9,4,19,A,4,Motherwell_St Mirren_2020
+94,15:00:00,2,Livingston,14,0,1,2,0,J Beaton,0,0,2,16,A,7,2020-12-12,St Johnstone,SC0,4,3,4,10,D,3,St Johnstone_Livingston_2020
+95,12:00:00,1,Rangers,13,0,1,2,1,S McLean,0,2,1,11,A,18,2020-12-13,Dundee United,SC0,5,2,3,7,A,12,Dundee United_Rangers_2020
+96,15:00:00,0,Kilmarnock,14,0,2,0,0,D Robertson,0,0,2,12,H,2,2020-12-13,Celtic,SC0,1,10,11,26,D,3,Celtic_Kilmarnock_2020
+97,15:00:00,1,Dundee United,15,0,1,1,1,G Duncan,0,0,3,16,D,10,2020-12-19,Hibernian,SC0,3,8,10,13,H,5,Hibernian_Dundee United_2020
+98,15:00:00,0,Motherwell,9,0,3,1,0,D Robertson,0,1,2,9,H,4,2020-12-19,Rangers,SC0,2,8,14,20,A,2,Rangers_Motherwell_2020
+99,15:00:00,1,Hamilton,11,0,0,2,0,W Collum,0,1,1,13,A,9,2020-12-19,Ross County,SC0,3,3,7,19,A,3,Ross County_Hamilton_2020
+100,15:00:00,1,St Johnstone,11,1,3,2,1,S McLean,0,2,2,15,H,6,2020-12-19,St Mirren,SC0,4,4,4,14,A,3,St Mirren_St Johnstone_2020
+101,12:00:00,1,Aberdeen,10,0,0,2,0,D Munro,1,0,0,15,A,14,2020-12-20,Kilmarnock,SC0,3,2,10,7,D,1,Kilmarnock_Aberdeen_2020
+102,18:00:00,0,Ross County,10,0,2,0,1,E Anderson,0,0,0,5,H,5,2020-12-23,Celtic,SC0,3,7,10,25,H,3,Celtic_Ross County_2020
+103,18:00:00,2,Livingston,14,0,0,2,0,G Duncan,0,0,0,11,A,16,2020-12-23,Hamilton,SC0,3,0,3,2,D,7,Hamilton_Livingston_2020
+104,18:00:00,1,St Mirren,14,1,1,0,1,S Kirkland,1,0,0,16,H,13,2020-12-23,Hibernian,SC0,4,4,1,10,H,3,Hibernian_St Mirren_2020
+105,18:00:00,1,Rangers,13,0,0,3,0,N Walsh,1,2,0,15,A,10,2020-12-23,St Johnstone,SC0,5,2,2,9,A,5,St Johnstone_Rangers_2020
+106,18:15:00,0,Aberdeen,14,0,0,0,0,G Aitken,0,0,1,16,D,8,2020-12-23,Motherwell,SC0,1,1,3,4,D,7,Motherwell_Aberdeen_2020
+107,18:30:00,2,Kilmarnock,11,0,2,0,2,S McLean,0,0,1,13,H,13,2020-12-23,Dundee United,SC0,2,5,2,9,H,7,Dundee United_Kilmarnock_2020
+108,12:30:00,0,Hibernian,13,0,1,0,1,W Collum,0,0,1,11,H,9,2020-12-26,Rangers,SC0,1,5,5,15,H,8,Rangers_Hibernian_2020
+109,15:00:00,1,St Johnstone,20,1,2,1,1,A Muir,0,1,2,15,H,12,2020-12-26,Aberdeen,SC0,3,3,5,9,D,4,Aberdeen_St Johnstone_2020
+110,15:00:00,3,Motherwell,16,0,1,1,0,B Madden,0,1,0,9,D,22,2020-12-26,Dundee United,SC0,7,5,4,10,A,5,Dundee United_Motherwell_2020
+111,15:00:00,1,Celtic,13,0,0,3,0,D Robertson,0,0,1,7,A,23,2020-12-26,Hamilton,SC0,8,0,3,3,D,7,Hamilton_Celtic_2020
+112,15:00:00,2,Livingston,11,0,1,2,0,K Clancy,0,0,2,10,A,9,2020-12-26,Kilmarnock,SC0,4,2,5,9,D,2,Kilmarnock_Livingston_2020
+113,15:00:00,0,St Mirren,15,0,0,2,0,C Steven,2,0,1,10,A,23,2020-12-26,Ross County,SC0,9,4,3,8,D,14,Ross County_St Mirren_2020
+114,15:00:00,0,Dundee United,11,0,3,0,2,W Collum,0,0,2,5,H,8,2020-12-30,Celtic,SC0,3,9,5,24,H,3,Celtic_Dundee United_2020
+115,15:00:00,0,Hamilton,12,0,0,0,0,D Munro,0,0,2,10,D,10,2020-12-30,St Johnstone,SC0,2,3,9,28,D,1,St Johnstone_Hamilton_2020
+116,15:00:00,2,Rangers,15,0,0,2,0,A Muir,0,2,1,13,A,10,2020-12-30,St Mirren,SC0,3,3,6,8,A,1,St Mirren_Rangers_2020
+117,18:00:00,2,Ross County,10,0,0,2,0,D Robertson,0,1,1,20,A,6,2020-12-30,Hibernian,SC0,4,4,8,13,A,5,Hibernian_Ross County_2020
+118,18:15:00,2,Kilmarnock,11,0,0,2,0,J Beaton,1,1,1,14,A,15,2020-12-30,Motherwell,SC0,6,1,3,7,A,6,Motherwell_Kilmarnock_2020
+119,12:30:00,3,Celtic,15,1,1,0,0,B Madden,0,0,3,19,H,13,2021-01-02,Rangers,SC0,3,0,2,10,D,6,Rangers_Celtic_2020
+120,15:00:00,1,Dundee United,12,0,0,0,0,K Clancy,0,0,2,13,D,9,2021-01-02,Aberdeen,SC0,1,3,5,18,D,2,Aberdeen_Dundee United_2020
+121,15:00:00,0,Motherwell,12,0,3,0,1,C Steven,0,0,1,12,H,10,2021-01-02,Hamilton,SC0,6,4,3,8,H,2,Hamilton_Motherwell_2020
+122,15:00:00,1,Livingston,11,0,0,3,0,D Munro,0,2,1,13,A,12,2021-01-02,Hibernian,SC0,6,1,5,5,A,4,Hibernian_Livingston_2020
+123,15:00:00,3,St Mirren,15,0,1,1,1,C Napier,0,0,2,14,D,8,2021-01-02,Kilmarnock,SC0,1,3,7,9,H,7,Kilmarnock_St Mirren_2020
+124,15:00:00,2,St Johnstone,13,0,1,1,1,W Collum,0,1,2,8,D,14,2021-01-02,Ross County,SC0,6,5,10,10,D,0,Ross County_St Johnstone_2020
+125,15:00:00,0,Hamilton,13,0,2,0,1,G Irvine,0,0,1,11,H,6,2021-01-09,Kilmarnock,SC0,1,3,5,18,H,3,Kilmarnock_Hamilton_2020
+126,15:00:00,1,Motherwell,8,0,1,1,0,B Madden,0,1,1,11,D,11,2021-01-09,St Mirren,SC0,3,2,4,16,A,9,St Mirren_Motherwell_2020
+127,15:00:00,2,Rangers,19,0,1,2,0,J Beaton,1,1,1,7,A,17,2021-01-10,Aberdeen,SC0,7,2,1,4,A,6,Aberdeen_Rangers_2020
+128,15:00:00,1,Ross County,12,0,3,1,1,A Muir,0,1,5,17,H,6,2021-01-10,Livingston,SC0,2,4,2,12,D,1,Livingston_Ross County_2020
+129,19:45:00,1,Hibernian,9,0,1,1,0,N Walsh,0,0,2,15,D,16,2021-01-11,Celtic,SC0,7,6,3,10,D,10,Celtic_Hibernian_2020
+130,18:30:00,3,St Johnstone,18,0,2,2,1,C Steven,0,2,2,16,D,23,2021-01-12,Dundee United,SC0,6,2,3,9,A,5,Dundee United_St Johnstone_2020
+131,15:00:00,1,Livingston,12,0,0,0,0,J Beaton,0,0,2,10,D,15,2021-01-16,Celtic,SC0,1,1,2,7,D,9,Celtic_Livingston_2020
+132,15:00:00,1,Dundee United,12,0,0,0,0,G Aitken,0,0,3,6,D,6,2021-01-16,Hamilton,SC0,2,3,9,11,D,6,Hamilton_Dundee United_2020
+133,15:00:00,0,Kilmarnock,17,0,2,0,0,W Collum,0,0,1,12,H,7,2021-01-16,Hibernian,SC0,0,5,4,6,D,9,Hibernian_Kilmarnock_2020
+134,15:00:00,3,Aberdeen,20,0,4,1,2,B Madden,0,1,0,9,H,15,2021-01-16,Ross County,SC0,5,5,6,9,H,6,Ross County_Aberdeen_2020
+135,15:00:00,2,St Mirren,16,1,1,0,0,S McLean,0,0,0,12,H,5,2021-01-16,St Johnstone,SC0,0,2,4,8,D,2,St Johnstone_St Mirren_2020
+136,12:00:00,3,Rangers,10,0,1,1,1,D Robertson,0,0,1,9,D,16,2021-01-17,Motherwell,SC0,5,3,1,5,H,10,Motherwell_Rangers_2020
+137,20:15:00,0,Celtic,10,1,2,2,1,W Collum,0,2,0,10,D,18,2021-01-20,Livingston,SC0,6,2,4,6,A,7,Livingston_Celtic_2020
+138,15:00:00,2,Motherwell,11,1,2,0,1,C Napier,0,0,1,11,H,6,2021-01-23,Aberdeen,SC0,3,8,8,26,H,1,Aberdeen_Motherwell_2020
+139,15:00:00,1,Ross County,12,0,5,0,3,W Anderson,0,0,2,11,H,7,2021-01-23,Rangers,SC0,2,11,11,28,H,2,Rangers_Ross County_2020
+140,18:00:00,2,St Mirren,18,0,1,5,0,J Beaton,0,3,1,14,A,19,2021-01-27,Dundee United,SC0,6,4,4,12,A,11,Dundee United_St Mirren_2020
+141,18:00:00,5,Motherwell,23,0,1,2,1,N Walsh,0,0,0,13,A,12,2021-01-27,Ross County,SC0,6,5,5,11,H,10,Ross County_Motherwell_2020
+142,18:00:00,1,Aberdeen,22,0,0,0,0,D Robertson,0,0,1,15,D,16,2021-01-27,St Johnstone,SC0,3,2,2,8,D,6,St Johnstone_Aberdeen_2020
+143,19:45:00,0,Hamilton,14,0,2,0,1,C Steven,0,0,0,8,H,4,2021-01-27,Celtic,SC0,0,7,6,24,H,4,Celtic_Hamilton_2020
+144,19:45:00,3,Rangers,14,0,0,1,0,K Clancy,0,0,0,8,A,11,2021-01-27,Hibernian,SC0,3,2,4,8,D,2,Hibernian_Rangers_2020
+145,19:45:00,2,Kilmarnock,8,0,2,0,0,S Kirkland,0,0,3,11,H,5,2021-01-27,Livingston,SC0,2,3,10,12,D,0,Livingston_Kilmarnock_2020
+146,15:00:00,0,St Mirren,11,0,1,2,1,B Madden,0,2,0,5,A,11,2021-01-30,Celtic,SC0,5,4,4,19,A,3,Celtic_St Mirren_2020
+147,15:00:00,0,Hibernian,12,0,0,2,0,G Duncan,0,1,1,14,A,12,2021-01-30,Dundee United,SC0,5,3,5,10,A,5,Dundee United_Hibernian_2020
+148,15:00:00,1,St Johnstone,9,0,2,3,2,G Aitken,0,0,1,10,A,15,2021-01-30,Kilmarnock,SC0,6,5,2,13,H,12,Kilmarnock_St Johnstone_2020
+149,15:00:00,1,Aberdeen,16,0,0,0,0,S McLean,0,0,0,13,D,9,2021-01-30,Livingston,SC0,2,2,3,6,D,2,Livingston_Aberdeen_2020
+150,18:00:00,2,Livingston,11,0,0,2,0,N Walsh,0,2,1,16,A,7,2021-02-02,Aberdeen,SC0,2,3,3,8,A,2,Aberdeen_Livingston_2020
+151,18:00:00,2,Hibernian,11,0,1,2,0,A Muir,1,0,1,12,A,11,2021-02-02,St Mirren,SC0,4,1,2,4,D,3,St Mirren_Hibernian_2020
+152,19:45:00,1,Celtic,13,0,0,4,0,K Clancy,0,1,0,10,A,12,2021-02-02,Kilmarnock,SC0,6,3,9,12,A,4,Kilmarnock_Celtic_2020
+153,18:00:00,1,Ross County,13,0,1,2,1,W Collum,0,0,2,6,A,16,2021-02-03,Hamilton,SC0,5,4,4,7,H,7,Hamilton_Ross County_2020
+154,18:00:00,0,Dundee United,7,0,2,1,2,D Robertson,0,0,1,7,H,15,2021-02-03,Motherwell,SC0,3,6,4,13,H,4,Motherwell_Dundee United_2020
+155,19:45:00,1,St Johnstone,13,0,1,0,0,D Munro,0,0,1,12,H,5,2021-02-03,Rangers,SC0,3,2,2,9,D,2,Rangers_St Johnstone_2020
+156,15:00:00,0,Motherwell,16,0,2,1,1,N Walsh,0,0,3,8,H,7,2021-02-06,Celtic,SC0,5,9,5,22,H,3,Celtic_Motherwell_2020
+157,15:00:00,1,Aberdeen,12,0,2,0,1,W Collum,0,0,0,8,H,11,2021-02-06,Hibernian,SC0,1,5,3,11,H,5,Hibernian_Aberdeen_2020
+158,15:00:00,2,St Johnstone,17,0,1,2,0,E Anderson,0,1,1,16,A,15,2021-02-06,Livingston,SC0,6,3,1,7,A,7,Livingston_St Johnstone_2020
+159,15:00:00,1,Dundee United,14,0,0,2,0,G Irvine,0,0,3,14,A,17,2021-02-06,Ross County,SC0,6,5,5,14,D,6,Ross County_Dundee United_2020
+160,15:00:00,1,Kilmarnock,10,0,2,0,1,J Beaton,0,0,4,15,H,13,2021-02-06,St Mirren,SC0,1,5,3,14,H,3,St Mirren_Kilmarnock_2020
+161,12:00:00,1,Rangers,17,0,1,1,0,B Madden,0,0,1,13,D,15,2021-02-07,Hamilton,SC0,2,7,5,12,D,4,Hamilton_Rangers_2020
+162,18:00:00,0,Motherwell,14,0,0,1,0,W Collum,0,0,2,15,A,11,2021-02-10,Kilmarnock,SC0,4,5,6,18,D,1,Kilmarnock_Motherwell_2020
+163,20:00:00,2,Celtic,15,0,0,4,0,D Robertson,0,1,1,13,A,18,2021-02-10,St Mirren,SC0,6,2,3,13,A,3,St Mirren_Celtic_2020
+164,15:00:00,1,St Mirren,14,0,0,0,0,E Anderson,0,0,1,13,D,7,2021-02-13,Aberdeen,SC0,2,3,1,9,D,4,Aberdeen_St Mirren_2020
+165,15:00:00,2,Livingston,11,1,3,0,2,N Walsh,1,0,1,12,H,13,2021-02-13,Dundee United,SC0,9,6,3,11,H,4,Dundee United_Livingston_2020
+166,15:00:00,3,Hamilton,13,0,1,4,0,D Munro,1,3,3,18,A,15,2021-02-13,Motherwell,SC0,5,1,7,11,A,5,Motherwell_Hamilton_2020
+167,15:00:00,0,Kilmarnock,16,0,1,0,1,D Robertson,0,0,2,16,H,2,2021-02-13,Rangers,SC0,0,6,10,13,H,3,Rangers_Kilmarnock_2020
+168,12:00:00,0,Celtic,13,0,1,2,0,S McLean,0,0,2,13,A,10,2021-02-14,St Johnstone,SC0,5,1,3,6,D,9,St Johnstone_Celtic_2020
+169,18:00:00,0,Aberdeen,12,0,1,0,1,A Muir,0,0,2,18,H,10,2021-02-17,Celtic,SC0,2,3,4,12,H,6,Celtic_Aberdeen_2020
+170,18:00:00,2,Hamilton,15,0,1,1,0,S McLean,0,0,1,7,D,12,2021-02-17,St Mirren,SC0,4,3,6,15,D,5,St Mirren_Hamilton_2020
+171,15:00:00,1,Kilmarnock,12,0,1,0,1,D Robertson,0,0,2,11,H,8,2021-02-20,Aberdeen,SC0,4,4,2,10,H,3,Aberdeen_Kilmarnock_2020
+172,15:00:00,1,Hamilton,12,1,2,0,1,C Napier,0,0,1,11,H,8,2021-02-20,Hibernian,SC0,6,8,8,17,H,3,Hibernian_Hamilton_2020
+173,15:00:00,1,St Johnstone,10,0,0,3,0,J Beaton,0,2,0,13,A,22,2021-02-20,Motherwell,SC0,7,1,6,1,A,7,Motherwell_St Johnstone_2020
+174,15:00:00,0,Livingston,7,0,1,1,1,W Collum,0,1,1,14,D,7,2021-02-20,St Mirren,SC0,1,4,6,16,D,8,St Mirren_Livingston_2020
+175,15:00:00,0,Dundee United,6,0,4,1,2,N Walsh,0,0,3,9,H,7,2021-02-21,Rangers,SC0,4,11,7,22,H,0,Rangers_Dundee United_2020
+176,19:30:00,0,Celtic,9,0,1,0,0,D Munro,0,0,0,8,H,19,2021-02-21,Ross County,SC0,4,4,2,6,D,9,Ross County_Celtic_2020
+177,18:00:00,2,Motherwell,8,0,0,0,0,K Clancy,0,0,1,11,D,13,2021-02-24,St Mirren,SC0,2,2,5,7,D,9,St Mirren_Motherwell_2020
+178,15:00:00,0,Aberdeen,8,0,1,0,1,W Collum,0,0,1,17,H,9,2021-02-27,Celtic,SC0,3,3,7,12,H,4,Celtic_Aberdeen_2020
+179,15:00:00,2,Motherwell,9,0,0,2,0,A Muir,0,1,0,12,A,12,2021-02-27,Hibernian,SC0,2,3,6,16,A,4,Hibernian_Motherwell_2020
+180,15:00:00,1,Dundee United,14,0,1,1,0,D Munro,0,1,4,16,D,11,2021-02-27,Kilmarnock,SC0,4,5,4,13,A,2,Kilmarnock_Dundee United_2020
+181,15:00:00,1,Ross County,8,0,1,0,0,G Aitken,0,0,1,13,H,11,2021-02-27,St Mirren,SC0,4,4,4,13,D,8,St Mirren_Ross County_2020
+182,18:00:00,2,St Johnstone,16,0,1,1,1,G Irvine,0,0,3,13,D,17,2021-03-03,Hamilton,SC0,5,3,8,12,H,8,Hamilton_St Johnstone_2020
+183,18:00:00,6,Rangers,20,0,0,1,0,J Beaton,0,0,2,10,A,11,2021-03-03,Livingston,SC0,4,0,4,7,D,5,Livingston_Rangers_2020
+184,15:00:00,2,Hamilton,9,0,0,0,0,B Madden,0,0,1,10,D,10,2021-03-06,Aberdeen,SC0,2,3,4,15,D,4,Aberdeen_Hamilton_2020
+185,15:00:00,1,Livingston,9,0,3,1,1,C Steven,0,0,4,20,H,10,2021-03-06,Motherwell,SC0,4,6,2,14,H,3,Motherwell_Livingston_2020
+186,15:00:00,1,St Mirren,12,0,3,0,2,S McLean,0,0,2,10,H,5,2021-03-06,Rangers,SC0,1,7,7,10,H,6,Rangers_St Mirren_2020
+187,15:00:00,2,Kilmarnock,19,1,3,2,1,E Anderson,0,1,1,12,H,10,2021-03-06,Ross County,SC0,2,5,3,9,D,8,Ross County_Kilmarnock_2020
+188,15:00:00,1,Hibernian,10,0,1,0,1,D Dickinson,0,0,2,20,H,13,2021-03-06,St Johnstone,SC0,2,2,0,6,H,9,St Johnstone_Hibernian_2020
+189,12:00:00,5,Celtic,15,0,0,0,0,K Clancy,0,0,2,4,D,27,2021-03-07,Dundee United,SC0,12,4,5,9,D,9,Dundee United_Celtic_2020
+190,15:00:00,2,Hamilton,14,0,2,1,2,K Clancy,0,1,2,18,H,4,2021-03-13,Livingston,SC0,1,3,3,9,H,3,Livingston_Hamilton_2020
+191,15:00:00,1,Hibernian,11,0,1,2,0,J Beaton,0,0,3,11,A,14,2021-03-13,Ross County,SC0,6,4,1,9,D,7,Ross County_Hibernian_2020
+192,15:00:00,0,Aberdeen,12,0,1,0,0,G Aitken,0,0,1,12,H,9,2021-03-20,Dundee United,SC0,1,2,8,7,D,10,Dundee United_Aberdeen_2020
+193,15:00:00,0,St Mirren,15,0,1,1,0,D Robertson,0,1,1,11,D,17,2021-03-20,Hamilton,SC0,4,2,5,9,A,8,Hamilton_St Mirren_2020
+194,15:00:00,3,Motherwell,14,0,4,1,1,A Muir,0,1,1,14,H,9,2021-03-20,Kilmarnock,SC0,3,5,4,13,D,6,Kilmarnock_Motherwell_2020
+195,15:00:00,1,Hibernian,15,0,1,1,1,N Walsh,0,1,0,13,D,12,2021-03-20,Livingston,SC0,2,5,2,12,D,6,Livingston_Hibernian_2020
+196,15:00:00,0,Ross County,15,0,1,0,0,C Napier,0,0,3,17,H,2,2021-03-20,St Johnstone,SC0,0,8,13,22,D,3,St Johnstone_Ross County_2020
+197,12:00:00,3,Rangers,16,0,1,1,1,W Collum,0,1,1,13,D,9,2021-03-21,Celtic,SC0,3,8,10,16,D,5,Celtic_Rangers_2020
+198,15:00:00,0,Livingston,10,0,6,0,2,N Walsh,0,0,0,11,H,4,2021-04-10,Celtic,SC0,2,11,6,18,H,1,Celtic_Livingston_2020
+199,15:00:00,1,Dundee United,7,0,0,1,0,B Madden,0,1,2,9,A,13,2021-04-10,Hamilton,SC0,4,6,10,27,A,3,Hamilton_Dundee United_2020
+200,15:00:00,3,Ross County,14,0,2,2,2,W Collum,0,1,3,17,D,13,2021-04-10,Kilmarnock,SC0,4,6,6,14,H,1,Kilmarnock_Ross County_2020
+201,15:00:00,1,St Mirren,14,0,1,0,0,K Clancy,0,0,3,6,H,15,2021-04-10,Motherwell,SC0,7,3,5,11,D,4,Motherwell_St Mirren_2020
+202,15:00:00,1,Aberdeen,11,0,0,1,0,J Beaton,0,0,2,13,A,9,2021-04-10,St Johnstone,SC0,3,3,7,15,D,5,St Johnstone_Aberdeen_2020
+203,15:00:00,3,Hibernian,11,0,2,1,1,D Robertson,0,0,1,13,H,9,2021-04-11,Rangers,SC0,5,4,3,12,H,6,Rangers_Hibernian_2020
+204,18:00:00,2,Motherwell,11,0,0,1,0,K Clancy,1,1,1,16,A,12,2021-04-21,Hamilton,SC0,3,1,4,5,A,6,Hamilton_Motherwell_2020
+205,18:00:00,3,Livingston,9,0,2,1,2,C Napier,0,0,3,14,H,9,2021-04-21,Hibernian,SC0,2,6,6,11,H,4,Hibernian_Livingston_2020
+206,19:00:00,3,Rangers,8,0,1,1,0,E Anderson,0,0,4,16,D,6,2021-04-21,St Johnstone,SC0,2,3,4,11,D,6,St Johnstone_Rangers_2020
+207,19:45:00,0,Celtic,7,0,1,1,1,W Collum,0,0,1,5,D,23,2021-04-21,Aberdeen,SC0,6,4,4,9,H,10,Aberdeen_Celtic_2020
+208,19:45:00,1,Dundee United,16,0,3,0,3,A Muir,0,0,2,21,H,13,2021-04-21,Kilmarnock,SC0,5,5,5,16,H,4,Kilmarnock_Dundee United_2020
+209,19:45:00,1,St Mirren,12,0,1,3,1,B Madden,0,0,0,11,A,15,2021-04-21,Ross County,SC0,5,3,7,12,H,4,Ross County_St Mirren_2020

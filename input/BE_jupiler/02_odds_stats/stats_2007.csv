@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0.0,B1,Anderlecht,A,0.0,2007-08-03,D,Mechelen,0,1,Mechelen_Anderlecht_2007
+1,1.0,B1,Roeselare,D,0.0,2007-08-04,H,Charleroi,1,1,Charleroi_Roeselare_2007
+2,1.0,B1,Bergen,H,1.0,2007-08-04,D,Club Brugge,2,1,Club Brugge_Bergen_2007
+3,0.0,B1,Germinal,A,0.0,2007-08-04,D,Dender,1,2,Dender_Germinal_2007
+4,0.0,B1,Westerlo,A,0.0,2007-08-04,D,FC Brussels,0,1,FC Brussels_Westerlo_2007
+5,3.0,B1,Cercle Brugge,H,1.0,2007-08-04,H,Genk,3,1,Genk_Cercle Brugge_2007
+6,1.0,B1,St Truiden,H,0.0,2007-08-04,H,Lokeren,2,1,Lokeren_St Truiden_2007
+7,1.0,B1,Gent,A,2.0,2007-08-05,A,Mouscron,1,4,Mouscron_Gent_2007
+8,1.0,B1,Standard,A,1.0,2007-08-05,D,Waregem,1,4,Waregem_Standard_2007
+9,1.0,B1,Charleroi,H,0.0,2007-08-10,H,Westerlo,1,0,Westerlo_Charleroi_2007
+10,0.0,B1,Lokeren,H,0.0,2007-08-11,D,Anderlecht,1,0,Anderlecht_Lokeren_2007
+11,0.0,B1,Mechelen,D,0.0,2007-08-11,D,Bergen,1,1,Bergen_Mechelen_2007
+12,1.0,B1,Waregem,H,0.0,2007-08-11,H,Cercle Brugge,2,0,Cercle Brugge_Waregem_2007
+13,1.0,B1,Genk,H,0.0,2007-08-11,H,Gent,5,0,Gent_Genk_2007
+14,2.0,B1,Dender,H,0.0,2007-08-11,H,Roeselare,3,1,Roeselare_Dender_2007
+15,0.0,B1,Mouscron,A,0.0,2007-08-11,D,St Truiden,0,2,St Truiden_Mouscron_2007
+16,2.0,B1,FC Brussels,H,0.0,2007-08-11,H,Standard,4,1,Standard_FC Brussels_2007
+17,0.0,B1,Club Brugge,A,0.0,2007-08-12,D,Germinal,0,1,Germinal_Club Brugge_2007
+18,1.0,B1,St Truiden,H,2.0,2007-08-17,A,Club Brugge,3,2,Club Brugge_St Truiden_2007
+19,0.0,B1,Mechelen,H,0.0,2007-08-18,D,Charleroi,1,0,Charleroi_Mechelen_2007
+20,2.0,B1,Anderlecht,D,2.0,2007-08-18,D,Dender,2,2,Dender_Anderlecht_2007
+21,0.0,B1,Gent,A,0.0,2007-08-18,D,FC Brussels,0,2,FC Brussels_Gent_2007
+22,0.0,B1,Roeselare,D,0.0,2007-08-18,D,Genk,0,0,Genk_Roeselare_2007
+23,0.0,B1,Germinal,D,0.0,2007-08-18,D,Lokeren,0,0,Lokeren_Germinal_2007
+24,2.0,B1,Bergen,H,1.0,2007-08-18,H,Mouscron,3,1,Mouscron_Bergen_2007
+25,1.0,B1,Westerlo,H,0.0,2007-08-18,H,Waregem,1,0,Waregem_Westerlo_2007
+26,3.0,B1,Cercle Brugge,H,1.0,2007-08-19,H,Standard,4,1,Standard_Cercle Brugge_2007
+27,2.0,B1,FC Brussels,H,0.0,2007-08-25,H,Anderlecht,3,0,Anderlecht_FC Brussels_2007
+28,0.0,B1,Lokeren,A,1.0,2007-08-25,A,Bergen,0,1,Bergen_Lokeren_2007
+29,1.0,B1,Dender,H,0.0,2007-08-25,H,Cercle Brugge,3,0,Cercle Brugge_Dender_2007
+30,1.0,B1,Waregem,D,1.0,2007-08-25,D,Gent,1,1,Gent_Waregem_2007
+31,0.0,B1,Genk,A,1.0,2007-08-25,A,Germinal,1,2,Germinal_Genk_2007
+32,0.0,B1,Standard,A,2.0,2007-08-25,A,Roeselare,0,4,Roeselare_Standard_2007
+33,0.0,B1,Mouscron,A,0.0,2007-08-25,D,Westerlo,0,2,Westerlo_Mouscron_2007
+34,0.0,B1,Charleroi,A,1.0,2007-08-26,A,St Truiden,1,3,St Truiden_Charleroi_2007
+35,0.0,B1,Club Brugge,D,1.0,2007-08-27,A,Mechelen,1,1,Mechelen_Club Brugge_2007
+36,1.0,B1,Bergen,H,1.0,2007-08-31,D,Charleroi,3,1,Charleroi_Bergen_2007
+37,2.0,B1,Gent,H,0.0,2007-09-01,H,Cercle Brugge,4,1,Cercle Brugge_Gent_2007
+38,0.0,B1,St Truiden,H,0.0,2007-09-01,D,Dender,1,0,Dender_St Truiden_2007
+39,0.0,B1,Roeselare,D,0.0,2007-09-01,D,FC Brussels,0,0,FC Brussels_Roeselare_2007
+40,0.0,B1,Westerlo,H,0.0,2007-09-01,D,Genk,1,0,Genk_Westerlo_2007
+41,2.0,B1,Mechelen,H,0.0,2007-09-01,H,Lokeren,3,1,Lokeren_Mechelen_2007
+42,1.0,B1,Germinal,H,1.0,2007-09-01,D,Waregem,2,1,Waregem_Germinal_2007
+43,1.0,B1,Anderlecht,A,1.0,2007-09-02,D,Mouscron,1,2,Mouscron_Anderlecht_2007
+44,0.0,B1,Club Brugge,H,0.0,2007-09-02,D,Standard,2,1,Standard_Club Brugge_2007
+45,1.0,B1,Waregem,D,0.0,2007-09-15,H,Anderlecht,2,2,Anderlecht_Waregem_2007
+46,0.0,B1,FC Brussels,H,1.0,2007-09-15,A,Bergen,2,1,Bergen_FC Brussels_2007
+47,0.0,B1,Lokeren,D,0.0,2007-09-15,D,Club Brugge,1,1,Club Brugge_Lokeren_2007
+48,0.0,B1,Charleroi,H,0.0,2007-09-15,D,Germinal,1,0,Germinal_Charleroi_2007
+49,0.0,B1,Mouscron,D,1.0,2007-09-15,A,Mechelen,2,2,Mechelen_Mouscron_2007
+50,0.0,B1,Cercle Brugge,A,0.0,2007-09-15,D,Roeselare,0,2,Roeselare_Cercle Brugge_2007
+51,0.0,B1,Dender,D,0.0,2007-09-15,D,Westerlo,0,0,Westerlo_Dender_2007
+52,0.0,B1,Standard,D,1.0,2007-09-16,A,Gent,1,1,Gent_Standard_2007
+53,1.0,B1,Genk,A,2.0,2007-09-16,A,St Truiden,1,2,St Truiden_Genk_2007
+54,1.0,B1,Germinal,D,1.0,2007-09-22,D,Cercle Brugge,1,1,Cercle Brugge_Germinal_2007
+55,0.0,B1,Bergen,A,1.0,2007-09-22,A,Dender,0,3,Dender_Bergen_2007
+56,0.0,B1,St Truiden,H,0.0,2007-09-22,D,FC Brussels,2,0,FC Brussels_St Truiden_2007
+57,1.0,B1,Roeselare,D,1.0,2007-09-22,D,Gent,1,1,Gent_Roeselare_2007
+58,1.0,B1,Lokeren,H,0.0,2007-09-22,H,Mouscron,2,0,Mouscron_Lokeren_2007
+59,0.0,B1,Mechelen,H,0.0,2007-09-22,D,Waregem,2,0,Waregem_Mechelen_2007
+60,0.0,B1,Club Brugge,D,0.0,2007-09-23,D,Charleroi,1,1,Charleroi_Club Brugge_2007
+61,0.0,B1,Anderlecht,D,0.0,2007-09-23,D,Genk,1,1,Genk_Anderlecht_2007
+62,1.0,B1,Westerlo,H,1.0,2007-09-24,D,Standard,2,1,Standard_Westerlo_2007
+63,0.0,B1,Genk,D,1.0,2007-09-28,A,Bergen,1,1,Bergen_Genk_2007
+64,0.0,B1,Charleroi,A,1.0,2007-09-29,A,Anderlecht,0,1,Anderlecht_Charleroi_2007
+65,0.0,B1,Mouscron,H,0.0,2007-09-29,D,Club Brugge,1,0,Club Brugge_Mouscron_2007
+66,0.0,B1,FC Brussels,A,0.0,2007-09-29,D,Lokeren,0,1,Lokeren_FC Brussels_2007
+67,1.0,B1,Waregem,H,1.0,2007-09-29,D,Roeselare,3,2,Roeselare_Waregem_2007
+68,0.0,B1,Standard,D,0.0,2007-09-29,D,St Truiden,0,0,St Truiden_Standard_2007
+69,0.0,B1,Cercle Brugge,D,1.0,2007-09-29,A,Westerlo,1,1,Westerlo_Cercle Brugge_2007
+70,0.0,B1,Gent,D,2.0,2007-09-30,A,Germinal,2,2,Germinal_Gent_2007
+71,1.0,B1,Dender,D,2.0,2007-09-30,A,Mechelen,2,2,Mechelen_Dender_2007
+72,1.0,B1,Mouscron,A,1.0,2007-10-05,D,Charleroi,1,3,Charleroi_Mouscron_2007
+73,2.0,B1,St Truiden,H,1.0,2007-10-06,H,Cercle Brugge,5,1,Cercle Brugge_St Truiden_2007
+74,0.0,B1,Lokeren,A,0.0,2007-10-06,D,Dender,0,1,Dender_Lokeren_2007
+75,1.0,B1,Mechelen,H,0.0,2007-10-06,H,Genk,2,1,Genk_Mechelen_2007
+76,1.0,B1,Westerlo,D,0.0,2007-10-06,H,Gent,1,1,Gent_Westerlo_2007
+77,1.0,B1,Bergen,H,0.0,2007-10-06,H,Waregem,2,1,Waregem_Bergen_2007
+78,0.0,B1,Club Brugge,A,3.0,2007-10-07,A,FC Brussels,1,3,FC Brussels_Club Brugge_2007
+79,1.0,B1,Anderlecht,D,0.0,2007-10-07,H,Roeselare,2,2,Roeselare_Anderlecht_2007
+80,3.0,B1,Germinal,H,1.0,2007-10-07,H,Standard,3,1,Standard_Germinal_2007
+81,0.0,B1,Dender,H,0.0,2007-10-20,D,Club Brugge,2,0,Club Brugge_Dender_2007
+82,1.0,B1,FC Brussels,H,0.0,2007-10-20,H,Germinal,3,0,Germinal_FC Brussels_2007
+83,0.0,B1,Charleroi,H,0.0,2007-10-20,D,Lokeren,1,0,Lokeren_Charleroi_2007
+84,0.0,B1,Cercle Brugge,A,1.0,2007-10-20,A,Mechelen,0,4,Mechelen_Cercle Brugge_2007
+85,0.0,B1,Genk,D,1.0,2007-10-20,A,Mouscron,1,1,Mouscron_Genk_2007
+86,1.0,B1,Waregem,H,1.0,2007-10-20,D,St Truiden,2,1,St Truiden_Waregem_2007
+87,2.0,B1,Roeselare,H,0.0,2007-10-20,H,Westerlo,6,0,Westerlo_Roeselare_2007
+88,2.0,B1,Gent,H,0.0,2007-10-21,H,Anderlecht,2,1,Anderlecht_Gent_2007
+89,0.0,B1,Standard,D,0.0,2007-10-21,D,Bergen,1,1,Bergen_Standard_2007
+90,2.0,B1,Bergen,H,0.0,2007-10-26,H,Gent,2,0,Gent_Bergen_2007
+91,0.0,B1,Mouscron,A,1.0,2007-10-27,A,Dender,0,3,Dender_Mouscron_2007
+92,1.0,B1,Charleroi,A,1.0,2007-10-27,D,FC Brussels,1,2,FC Brussels_Charleroi_2007
+93,1.0,B1,St Truiden,H,0.0,2007-10-27,H,Roeselare,2,0,Roeselare_St Truiden_2007
+94,1.0,B1,Mechelen,D,1.0,2007-10-27,D,Standard,2,2,Standard_Mechelen_2007
+95,1.0,B1,Lokeren,D,0.0,2007-10-27,H,Waregem,1,1,Waregem_Lokeren_2007
+96,1.0,B1,Germinal,A,0.0,2007-10-27,H,Westerlo,1,2,Westerlo_Germinal_2007
+97,0.0,B1,Anderlecht,D,0.0,2007-10-28,D,Cercle Brugge,0,0,Cercle Brugge_Anderlecht_2007
+98,0.0,B1,Club Brugge,A,1.0,2007-10-28,A,Genk,1,2,Genk_Club Brugge_2007
+99,0.0,B1,Standard,D,0.0,2007-11-02,D,Mouscron,0,0,Mouscron_Standard_2007
+100,1.0,B1,Westerlo,H,1.0,2007-11-03,D,Anderlecht,3,1,Anderlecht_Westerlo_2007
+101,0.0,B1,Cercle Brugge,A,1.0,2007-11-03,A,Bergen,0,2,Bergen_Cercle Brugge_2007
+102,0.0,B1,Dender,H,0.0,2007-11-03,D,Charleroi,1,0,Charleroi_Dender_2007
+103,1.0,B1,Waregem,H,0.0,2007-11-03,H,Club Brugge,1,0,Club Brugge_Waregem_2007
+104,1.0,B1,Roeselare,H,0.0,2007-11-03,H,Germinal,2,0,Germinal_Roeselare_2007
+105,0.0,B1,Gent,H,0.0,2007-11-03,D,St Truiden,2,1,St Truiden_Gent_2007
+106,0.0,B1,Genk,D,1.0,2007-11-04,A,Lokeren,1,1,Lokeren_Genk_2007
+107,2.0,B1,FC Brussels,H,0.0,2007-11-04,H,Mechelen,4,0,Mechelen_FC Brussels_2007
+108,1.0,B1,Club Brugge,A,1.0,2007-11-09,D,Cercle Brugge,1,2,Cercle Brugge_Club Brugge_2007
+109,1.0,B1,Dender,H,0.0,2007-11-10,H,FC Brussels,4,1,FC Brussels_Dender_2007
+110,1.0,B1,Charleroi,H,0.0,2007-11-10,H,Genk,1,0,Genk_Charleroi_2007
+111,1.0,B1,Lokeren,H,0.0,2007-11-10,H,Standard,1,0,Standard_Lokeren_2007
+112,2.0,B1,Mouscron,H,0.0,2007-11-10,H,Waregem,2,1,Waregem_Mouscron_2007
+113,0.0,B1,St Truiden,H,0.0,2007-11-10,D,Westerlo,2,0,Westerlo_St Truiden_2007
+114,3.0,B1,Mechelen,H,1.0,2007-11-11,H,Gent,4,1,Gent_Mechelen_2007
+115,1.0,B1,Anderlecht,H,0.0,2007-11-11,H,Germinal,2,0,Germinal_Anderlecht_2007
+116,2.0,B1,Bergen,H,1.0,2007-11-12,H,Roeselare,4,3,Roeselare_Bergen_2007
+117,0.0,B1,Standard,D,0.0,2007-11-30,D,Anderlecht,0,0,Anderlecht_Standard_2007
+118,0.0,B1,Westerlo,A,1.0,2007-12-01,A,Bergen,1,3,Bergen_Westerlo_2007
+119,1.0,B1,Waregem,A,2.0,2007-12-01,A,Charleroi,2,3,Charleroi_Waregem_2007
+120,1.0,B1,Cercle Brugge,D,0.0,2007-12-01,H,Lokeren,1,1,Lokeren_Cercle Brugge_2007
+121,3.0,B1,Roeselare,H,1.0,2007-12-01,H,Mechelen,4,3,Mechelen_Roeselare_2007
+122,0.0,B1,FC Brussels,D,0.0,2007-12-01,D,Mouscron,1,1,Mouscron_FC Brussels_2007
+123,0.0,B1,Germinal,A,0.0,2007-12-01,D,St Truiden,0,3,St Truiden_Germinal_2007
+124,0.0,B1,Gent,D,0.0,2007-12-02,D,Club Brugge,0,0,Club Brugge_Gent_2007
+125,1.0,B1,Genk,H,0.0,2007-12-02,H,Dender,2,0,Dender_Genk_2007
+126,3.0,B1,Charleroi,H,0.0,2007-12-07,H,Standard,5,1,Standard_Charleroi_2007
+127,2.0,B1,Mouscron,H,0.0,2007-12-08,H,Cercle Brugge,3,0,Cercle Brugge_Mouscron_2007
+128,,B1,Genk,A,,2007-12-08,,FC Brussels,0,5,FC Brussels_Genk_2007
+129,1.0,B1,Lokeren,H,0.0,2007-12-08,H,Gent,4,2,Gent_Lokeren_2007
+130,0.0,B1,Bergen,H,0.0,2007-12-08,D,Germinal,2,0,Germinal_Bergen_2007
+131,1.0,B1,Dender,A,0.0,2007-12-08,H,Waregem,1,2,Waregem_Dender_2007
+132,0.0,B1,Mechelen,D,1.0,2007-12-08,A,Westerlo,1,1,Westerlo_Mechelen_2007
+133,1.0,B1,Club Brugge,A,0.0,2007-12-09,H,Roeselare,1,2,Roeselare_Club Brugge_2007
+134,2.0,B1,Anderlecht,H,3.0,2007-12-09,A,St Truiden,4,3,St Truiden_Anderlecht_2007
+135,1.0,B1,Waregem,H,2.0,2007-12-14,A,Genk,5,2,Genk_Waregem_2007
+136,0.0,B1,St Truiden,D,0.0,2007-12-15,D,Bergen,0,0,Bergen_St Truiden_2007
+137,0.0,B1,Standard,D,0.0,2007-12-15,D,Dender,0,0,Dender_Standard_2007
+138,0.0,B1,Cercle Brugge,A,3.0,2007-12-15,A,FC Brussels,1,4,FC Brussels_Cercle Brugge_2007
+139,1.0,B1,Westerlo,D,0.0,2007-12-15,H,Lokeren,1,1,Lokeren_Westerlo_2007
+140,1.0,B1,Germinal,A,1.0,2007-12-15,D,Mechelen,1,2,Mechelen_Germinal_2007
+141,0.0,B1,Roeselare,A,2.0,2007-12-15,A,Mouscron,1,3,Mouscron_Roeselare_2007
+142,0.0,B1,Gent,A,1.0,2007-12-16,A,Charleroi,1,2,Charleroi_Gent_2007
+143,0.0,B1,Anderlecht,H,0.0,2007-12-16,D,Club Brugge,1,0,Club Brugge_Anderlecht_2007
+144,3.0,B1,Bergen,H,1.0,2007-12-22,H,Anderlecht,3,2,Anderlecht_Bergen_2007
+145,1.0,B1,Dender,A,2.0,2007-12-22,A,Gent,2,4,Gent_Dender_2007
+146,2.0,B1,Mouscron,H,0.0,2007-12-22,H,Germinal,3,0,Germinal_Mouscron_2007
+147,0.0,B1,Mechelen,A,1.0,2007-12-22,A,St Truiden,0,1,St Truiden_Mechelen_2007
+148,0.0,B1,FC Brussels,H,0.0,2007-12-22,D,Waregem,1,0,Waregem_FC Brussels_2007
+149,1.0,B1,Charleroi,H,0.0,2007-12-23,H,Cercle Brugge,3,1,Cercle Brugge_Charleroi_2007
+150,1.0,B1,Genk,H,0.0,2007-12-23,H,Standard,3,1,Standard_Genk_2007
+151,0.0,B1,Club Brugge,A,0.0,2008-01-18,D,Bergen,0,1,Bergen_Club Brugge_2007
+152,1.0,B1,Mechelen,H,0.0,2008-01-19,H,Anderlecht,1,0,Anderlecht_Mechelen_2007
+153,1.0,B1,Dender,H,0.0,2008-01-19,H,Germinal,1,0,Germinal_Dender_2007
+154,1.0,B1,Charleroi,A,1.0,2008-01-19,D,Roeselare,1,2,Roeselare_Charleroi_2007
+155,0.0,B1,Lokeren,D,1.0,2008-01-19,A,St Truiden,1,1,St Truiden_Lokeren_2007
+156,1.0,B1,Waregem,H,1.0,2008-01-19,D,Standard,3,1,Standard_Waregem_2007
+157,4.0,B1,FC Brussels,H,2.0,2008-01-19,H,Westerlo,7,2,Westerlo_FC Brussels_2007
+158,1.0,B1,Genk,H,0.0,2008-01-20,H,Cercle Brugge,5,1,Cercle Brugge_Genk_2007
+159,1.0,B1,Mouscron,H,0.0,2008-01-20,H,Gent,2,0,Gent_Mouscron_2007
+160,1.0,B1,Lokeren,D,0.0,2008-01-22,H,Roeselare,1,1,Roeselare_Lokeren_2007
+161,0.0,B1,Club Brugge,D,0.0,2008-01-22,D,Westerlo,0,0,Westerlo_Club Brugge_2007
+162,0.0,B1,Cercle Brugge,A,2.0,2008-01-25,A,Waregem,0,3,Waregem_Cercle Brugge_2007
+163,0.0,B1,Westerlo,D,0.0,2008-01-26,D,Charleroi,1,1,Charleroi_Westerlo_2007
+164,0.0,B1,Germinal,H,0.0,2008-01-26,D,Club Brugge,3,0,Club Brugge_Germinal_2007
+165,1.0,B1,Roeselare,H,1.0,2008-01-26,D,Dender,2,1,Dender_Roeselare_2007
+166,1.0,B1,Gent,D,2.0,2008-01-26,A,Genk,3,3,Genk_Gent_2007
+167,1.0,B1,Bergen,H,0.0,2008-01-26,H,Mechelen,2,0,Mechelen_Bergen_2007
+168,0.0,B1,St Truiden,D,0.0,2008-01-26,D,Mouscron,0,0,Mouscron_St Truiden_2007
+169,0.0,B1,Standard,A,1.0,2008-01-27,A,FC Brussels,0,1,FC Brussels_Standard_2007
+170,0.0,B1,Anderlecht,D,0.0,2008-01-27,D,Lokeren,0,0,Lokeren_Anderlecht_2007
+171,1.0,B1,Dender,H,0.0,2008-02-02,H,Anderlecht,1,0,Anderlecht_Dender_2007
+172,0.0,B1,Mouscron,H,0.0,2008-02-02,D,Bergen,2,0,Bergen_Mouscron_2007
+173,1.0,B1,FC Brussels,H,0.0,2008-02-02,H,Gent,1,0,Gent_FC Brussels_2007
+174,0.0,B1,Charleroi,H,0.0,2008-02-02,D,Mechelen,1,0,Mechelen_Charleroi_2007
+175,0.0,B1,Genk,D,0.0,2008-02-02,D,Roeselare,0,0,Roeselare_Genk_2007
+176,1.0,B1,Waregem,D,0.0,2008-02-02,H,Westerlo,1,1,Westerlo_Waregem_2007
+177,0.0,B1,Standard,D,0.0,2008-02-03,D,Cercle Brugge,0,0,Cercle Brugge_Standard_2007
+178,0.0,B1,Lokeren,D,1.0,2008-02-03,A,Germinal,1,1,Germinal_Lokeren_2007
+179,0.0,B1,Club Brugge,D,0.0,2008-02-03,D,St Truiden,1,1,St Truiden_Club Brugge_2007
+180,1.0,B1,St Truiden,D,1.0,2008-02-09,D,Charleroi,1,1,Charleroi_St Truiden_2007
+181,1.0,B1,Mechelen,H,0.0,2008-02-09,H,Club Brugge,2,0,Club Brugge_Mechelen_2007
+182,1.0,B1,Cercle Brugge,A,1.0,2008-02-09,D,Dender,2,4,Dender_Cercle Brugge_2007
+183,1.0,B1,Anderlecht,A,2.0,2008-02-09,A,FC Brussels,2,4,FC Brussels_Anderlecht_2007
+184,0.0,B1,Bergen,A,1.0,2008-02-09,A,Lokeren,1,2,Lokeren_Bergen_2007
+185,0.0,B1,Westerlo,A,2.0,2008-02-09,A,Mouscron,1,2,Mouscron_Westerlo_2007
+186,0.0,B1,Roeselare,D,0.0,2008-02-09,D,Standard,0,0,Standard_Roeselare_2007
+187,0.0,B1,Germinal,A,0.0,2008-02-10,D,Genk,1,3,Genk_Germinal_2007
+188,1.0,B1,Gent,H,0.0,2008-02-10,H,Waregem,2,1,Waregem_Gent_2007
+189,1.0,B1,Cercle Brugge,H,0.0,2008-02-15,H,Gent,3,2,Gent_Cercle Brugge_2007
+190,0.0,B1,Charleroi,D,0.0,2008-02-16,D,Bergen,0,0,Bergen_Charleroi_2007
+191,0.0,B1,Waregem,D,0.0,2008-02-16,D,Germinal,0,0,Germinal_Waregem_2007
+192,0.0,B1,Lokeren,D,0.0,2008-02-16,D,Mechelen,1,1,Mechelen_Lokeren_2007
+193,1.0,B1,FC Brussels,H,0.0,2008-02-16,H,Roeselare,2,0,Roeselare_FC Brussels_2007
+194,0.0,B1,Dender,A,0.0,2008-02-16,D,St Truiden,1,2,St Truiden_Dender_2007
+195,1.0,B1,Genk,H,1.0,2008-02-16,D,Westerlo,2,1,Westerlo_Genk_2007
+196,2.0,B1,Mouscron,H,0.0,2008-02-17,H,Anderlecht,2,1,Anderlecht_Mouscron_2007
+197,0.0,B1,Standard,A,0.0,2008-02-17,D,Club Brugge,1,2,Club Brugge_Standard_2007
+198,0.0,B1,St Truiden,A,0.0,2008-02-22,D,Genk,0,1,Genk_St Truiden_2007
+199,0.0,B1,Roeselare,D,0.0,2008-02-23,D,Cercle Brugge,0,0,Cercle Brugge_Roeselare_2007
+200,0.0,B1,Germinal,D,0.0,2008-02-23,D,Charleroi,0,0,Charleroi_Germinal_2007
+201,1.0,B1,Westerlo,H,0.0,2008-02-23,H,Dender,2,0,Dender_Westerlo_2007
+202,0.0,B1,Bergen,D,1.0,2008-02-23,A,FC Brussels,1,1,FC Brussels_Bergen_2007
+203,0.0,B1,Mechelen,A,1.0,2008-02-23,A,Mouscron,0,1,Mouscron_Mechelen_2007
+204,0.0,B1,Gent,D,0.0,2008-02-23,D,Standard,0,0,Standard_Gent_2007
+205,0.0,B1,Club Brugge,A,0.0,2008-02-24,D,Lokeren,0,1,Lokeren_Club Brugge_2007
+206,1.0,B1,Anderlecht,H,0.0,2008-02-24,H,Waregem,1,0,Waregem_Anderlecht_2007
+207,0.0,B1,Charleroi,A,0.0,2008-02-29,D,Club Brugge,0,2,Club Brugge_Charleroi_2007
+208,1.0,B1,Dender,D,2.0,2008-03-01,A,Bergen,2,2,Bergen_Dender_2007
+209,0.0,B1,Mouscron,D,0.0,2008-03-01,D,Lokeren,0,0,Lokeren_Mouscron_2007
+210,1.0,B1,Waregem,H,0.0,2008-03-01,H,Mechelen,2,1,Mechelen_Waregem_2007
+211,0.0,B1,Gent,A,0.0,2008-03-01,D,Roeselare,0,1,Roeselare_Gent_2007
+212,1.0,B1,FC Brussels,D,0.0,2008-03-01,H,St Truiden,1,1,St Truiden_FC Brussels_2007
+213,1.0,B1,Standard,A,0.0,2008-03-01,H,Westerlo,1,3,Westerlo_Standard_2007
+214,1.0,B1,Genk,H,0.0,2008-03-02,H,Anderlecht,1,0,Anderlecht_Genk_2007
+215,2.0,B1,Cercle Brugge,H,0.0,2008-03-02,H,Germinal,3,0,Germinal_Cercle Brugge_2007
+216,2.0,B1,St Truiden,H,1.0,2008-03-07,H,Standard,2,1,Standard_St Truiden_2007
+217,1.0,B1,Westerlo,H,0.0,2008-03-08,H,Cercle Brugge,1,0,Cercle Brugge_Westerlo_2007
+218,0.0,B1,Mechelen,A,1.0,2008-03-08,A,Dender,0,3,Dender_Mechelen_2007
+219,2.0,B1,Lokeren,H,0.0,2008-03-08,H,FC Brussels,2,0,FC Brussels_Lokeren_2007
+220,1.0,B1,Bergen,A,1.0,2008-03-08,D,Genk,1,2,Genk_Bergen_2007
+221,1.0,B1,Club Brugge,H,0.0,2008-03-08,H,Mouscron,2,0,Mouscron_Club Brugge_2007
+222,2.0,B1,Roeselare,H,0.0,2008-03-08,H,Waregem,3,1,Waregem_Roeselare_2007
+223,0.0,B1,Anderlecht,A,2.0,2008-03-09,A,Charleroi,0,2,Charleroi_Anderlecht_2007
+224,1.0,B1,Germinal,H,0.0,2008-03-09,H,Gent,2,1,Gent_Germinal_2007
+225,0.0,B1,Standard,A,2.0,2008-03-14,A,Germinal,1,2,Germinal_Standard_2007
+226,1.0,B1,Waregem,H,0.0,2008-03-15,H,Bergen,3,0,Bergen_Waregem_2007
+227,0.0,B1,FC Brussels,H,0.0,2008-03-15,D,Club Brugge,1,0,Club Brugge_FC Brussels_2007
+228,1.0,B1,Dender,H,0.0,2008-03-15,H,Lokeren,1,0,Lokeren_Dender_2007
+229,1.0,B1,Charleroi,H,0.0,2008-03-15,H,Mouscron,3,1,Mouscron_Charleroi_2007
+230,0.0,B1,Cercle Brugge,D,0.0,2008-03-15,D,St Truiden,0,0,St Truiden_Cercle Brugge_2007
+231,1.0,B1,Gent,H,0.0,2008-03-15,H,Westerlo,2,0,Westerlo_Gent_2007
+232,3.0,B1,Roeselare,H,0.0,2008-03-16,H,Anderlecht,5,0,Anderlecht_Roeselare_2007
+233,1.0,B1,Genk,D,1.0,2008-03-16,D,Mechelen,2,2,Mechelen_Genk_2007
+234,1.0,B1,Mouscron,H,1.0,2008-03-21,D,Genk,3,1,Genk_Mouscron_2007
+235,1.0,B1,Mechelen,H,0.0,2008-03-22,H,Cercle Brugge,2,0,Cercle Brugge_Mechelen_2007
+236,0.0,B1,Lokeren,H,0.0,2008-03-22,D,Charleroi,1,0,Charleroi_Lokeren_2007
+237,0.0,B1,Club Brugge,H,0.0,2008-03-22,D,Dender,1,0,Dender_Club Brugge_2007
+238,1.0,B1,Germinal,A,0.0,2008-03-22,H,FC Brussels,1,2,FC Brussels_Germinal_2007
+239,0.0,B1,Westerlo,A,0.0,2008-03-22,D,Roeselare,0,2,Roeselare_Westerlo_2007
+240,1.0,B1,St Truiden,H,0.0,2008-03-22,H,Waregem,3,2,Waregem_St Truiden_2007
+241,0.0,B1,Anderlecht,A,2.0,2008-03-23,A,Gent,2,3,Gent_Anderlecht_2007
+242,0.0,B1,Bergen,H,0.0,2008-03-23,D,Standard,2,0,Standard_Bergen_2007
+243,2.0,B1,Gent,H,0.0,2008-03-29,H,Bergen,4,0,Bergen_Gent_2007
+244,0.0,B1,FC Brussels,H,0.0,2008-03-29,D,Charleroi,1,0,Charleroi_FC Brussels_2007
+245,0.0,B1,Westerlo,A,0.0,2008-03-29,D,Germinal,0,2,Germinal_Westerlo_2007
+246,0.0,B1,Waregem,D,0.0,2008-03-29,D,Lokeren,0,0,Lokeren_Waregem_2007
+247,0.0,B1,Standard,A,0.0,2008-03-29,D,Mechelen,0,1,Mechelen_Standard_2007
+248,1.0,B1,Dender,H,1.0,2008-03-29,D,Mouscron,2,1,Mouscron_Dender_2007
+249,0.0,B1,Roeselare,A,0.0,2008-03-29,D,St Truiden,0,1,St Truiden_Roeselare_2007
+250,1.0,B1,Cercle Brugge,H,1.0,2008-03-30,D,Anderlecht,3,1,Anderlecht_Cercle Brugge_2007
+251,1.0,B1,Genk,A,4.0,2008-03-30,A,Club Brugge,2,6,Club Brugge_Genk_2007
+252,0.0,B1,St Truiden,A,2.0,2008-04-04,A,Gent,2,3,Gent_St Truiden_2007
+253,0.0,B1,Bergen,D,0.0,2008-04-05,D,Cercle Brugge,0,0,Cercle Brugge_Bergen_2007
+254,1.0,B1,Charleroi,A,1.0,2008-04-05,D,Dender,2,4,Dender_Charleroi_2007
+255,1.0,B1,Mechelen,D,2.0,2008-04-05,A,FC Brussels,2,2,FC Brussels_Mechelen_2007
+256,0.0,B1,Lokeren,A,0.0,2008-04-05,D,Genk,2,3,Genk_Lokeren_2007
+257,1.0,B1,Germinal,H,0.0,2008-04-05,H,Roeselare,1,0,Roeselare_Germinal_2007
+258,0.0,B1,Club Brugge,A,2.0,2008-04-05,A,Waregem,2,3,Waregem_Club Brugge_2007
+259,0.0,B1,Mouscron,H,0.0,2008-04-06,D,Standard,1,0,Standard_Mouscron_2007
+260,0.0,B1,Anderlecht,A,2.0,2008-04-06,A,Westerlo,0,2,Westerlo_Anderlecht_2007
+261,0.0,B1,Standard,D,0.0,2008-04-11,D,Lokeren,0,0,Lokeren_Standard_2007
+262,1.0,B1,Roeselare,D,1.0,2008-04-12,D,Bergen,1,1,Bergen_Roeselare_2007
+263,2.0,B1,Genk,H,1.0,2008-04-12,H,Charleroi,3,1,Charleroi_Genk_2007
+264,0.0,B1,FC Brussels,D,0.0,2008-04-12,D,Dender,1,1,Dender_FC Brussels_2007
+265,0.0,B1,Gent,H,0.0,2008-04-12,D,Mechelen,1,0,Mechelen_Gent_2007
+266,0.0,B1,Waregem,A,1.0,2008-04-12,A,Mouscron,0,2,Mouscron_Waregem_2007
+267,0.0,B1,Westerlo,A,0.0,2008-04-12,D,St Truiden,0,2,St Truiden_Westerlo_2007
+268,0.0,B1,Germinal,H,0.0,2008-04-13,D,Anderlecht,2,0,Anderlecht_Germinal_2007
+269,0.0,B1,Cercle Brugge,H,0.0,2008-04-13,D,Club Brugge,1,0,Club Brugge_Cercle Brugge_2007
+270,1.0,B1,Lokeren,H,1.0,2008-04-18,D,Cercle Brugge,3,2,Cercle Brugge_Lokeren_2007
+271,0.0,B1,Mouscron,A,1.0,2008-04-19,A,FC Brussels,0,2,FC Brussels_Mouscron_2007
+272,0.0,B1,Dender,H,0.0,2008-04-19,D,Genk,2,0,Genk_Dender_2007
+273,2.0,B1,St Truiden,H,0.0,2008-04-19,H,Germinal,2,1,Germinal_St Truiden_2007
+274,2.0,B1,Mechelen,D,2.0,2008-04-19,D,Roeselare,2,2,Roeselare_Mechelen_2007
+275,0.0,B1,Charleroi,D,2.0,2008-04-19,A,Waregem,2,2,Waregem_Charleroi_2007
+276,0.0,B1,Bergen,D,0.0,2008-04-19,D,Westerlo,0,0,Westerlo_Bergen_2007
+277,0.0,B1,Club Brugge,D,0.0,2008-04-20,D,Gent,0,0,Gent_Club Brugge_2007
+278,0.0,B1,Anderlecht,H,0.0,2008-04-20,D,Standard,2,0,Standard_Anderlecht_2007
+279,0.0,B1,Gent,D,0.0,2008-04-25,D,Lokeren,1,1,Lokeren_Gent_2007
+280,0.0,B1,St Truiden,H,1.0,2008-04-26,A,Anderlecht,4,1,Anderlecht_St Truiden_2007
+281,0.0,B1,Germinal,D,0.0,2008-04-26,D,Bergen,0,0,Bergen_Germinal_2007
+282,0.0,B1,Waregem,H,1.0,2008-04-26,A,Dender,2,1,Dender_Waregem_2007
+283,2.0,B1,FC Brussels,H,1.0,2008-04-26,H,Genk,2,1,Genk_FC Brussels_2007
+284,0.0,B1,Westerlo,H,0.0,2008-04-26,D,Mechelen,1,0,Mechelen_Westerlo_2007
+285,1.0,B1,Cercle Brugge,H,0.0,2008-04-26,H,Mouscron,1,0,Mouscron_Cercle Brugge_2007
+286,1.0,B1,Standard,H,1.0,2008-04-27,D,Charleroi,2,1,Charleroi_Standard_2007
+287,1.0,B1,Roeselare,H,0.0,2008-04-27,H,Club Brugge,1,0,Club Brugge_Roeselare_2007
+288,0.0,B1,Genk,D,2.0,2008-05-02,A,Waregem,2,2,Waregem_Genk_2007
+289,2.0,B1,Club Brugge,H,0.0,2008-05-03,H,Anderlecht,2,0,Anderlecht_Club Brugge_2007
+290,0.0,B1,FC Brussels,D,0.0,2008-05-03,D,Cercle Brugge,0,0,Cercle Brugge_FC Brussels_2007
+291,1.0,B1,Charleroi,H,0.0,2008-05-03,H,Gent,2,1,Gent_Charleroi_2007
+292,2.0,B1,Mechelen,H,0.0,2008-05-03,H,Germinal,4,3,Germinal_Mechelen_2007
+293,1.0,B1,Mouscron,H,1.0,2008-05-03,D,Roeselare,2,1,Roeselare_Mouscron_2007
+294,0.0,B1,Bergen,D,1.0,2008-05-03,A,St Truiden,1,1,St Truiden_Bergen_2007
+295,2.0,B1,Dender,H,0.0,2008-05-03,H,Standard,3,0,Standard_Dender_2007
+296,1.0,B1,Lokeren,A,0.0,2008-05-03,H,Westerlo,1,2,Westerlo_Lokeren_2007
+297,0.0,B1,Waregem,A,2.0,2008-05-09,A,FC Brussels,1,2,FC Brussels_Waregem_2007
+298,0.0,B1,Anderlecht,A,1.0,2008-05-10,A,Bergen,1,2,Bergen_Anderlecht_2007
+299,0.0,B1,Cercle Brugge,A,2.0,2008-05-10,A,Charleroi,1,3,Charleroi_Cercle Brugge_2007
+300,2.0,B1,Westerlo,H,0.0,2008-05-10,H,Club Brugge,4,0,Club Brugge_Westerlo_2007
+301,0.0,B1,Gent,A,2.0,2008-05-10,A,Dender,0,3,Dender_Gent_2007
+302,0.0,B1,Standard,A,1.0,2008-05-10,A,Genk,0,2,Genk_Standard_2007
+303,1.0,B1,Roeselare,H,0.0,2008-05-10,H,Lokeren,3,0,Lokeren_Roeselare_2007
+304,0.0,B1,St Truiden,A,3.0,2008-05-10,A,Mechelen,2,3,Mechelen_St Truiden_2007
+305,0.0,B1,Germinal,H,0.0,2008-05-10,D,Mouscron,1,0,Mouscron_Germinal_2007

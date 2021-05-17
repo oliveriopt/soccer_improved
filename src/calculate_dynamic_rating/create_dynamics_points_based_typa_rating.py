@@ -1,5 +1,6 @@
 from src.utils.get_root_path import get_project_root
 from src.utils.measure_time import measure_time
+from src.define_paths import define_path
 
 import src.cons_paths as cons_path
 import src.cons_input_data as cons_input
@@ -13,8 +14,9 @@ pd.set_option('display.width', 1000)
 
 class CreateDynamicsPoints:
 
-    def __init__(self):
+    def __init__(self, league: str):
         self.path = str(get_project_root())
+        self.path_dict = define_path(league=league)
         self.stats = pd.DataFrame()
         self.teams = pd.DataFrame()
         self.data_team_total = pd.DataFrame()
@@ -35,14 +37,16 @@ class CreateDynamicsPoints:
         self.data_team_total = self.data_team_home.append(self.data_team_away).sort_values(
             by="Date").reset_index(drop=True)
 
-    def __read_file(self, year: int) -> pd.DataFrame:
-        self.stats = pd.read_csv(self.path + cons_path.path_odds_stats + cons_path.stats + str(year) + cons_path.csv,
+    def __read_file(self, year: int) -> None:
+        self.stats = pd.read_csv(self.path + self.path_dict.get("path_odds_stats") + cons_path.stats + str(year) +
+                                 cons_path.csv,
                                  sep=",",
                                  encoding='unicode_escape', index_col=0)
         self.stats['Date'] = pd.to_datetime(self.stats['Date'].astype(str), format='%d/%m/%Y')
 
     def __write_file(self):
-        self.output.to_csv(self.path + cons_path.path_rating_macro + cons_path.corrected_rating_macro + cons_path.csv, \
+        self.output.to_csv(self.path + self.path_dict.get("path_rating_macro") + cons_path.corrected_rating_macro +
+                           cons_path.csv, \
                            index=False)
 
     def __read_teams(self):

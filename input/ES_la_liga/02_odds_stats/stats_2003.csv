@@ -1,0 +1,381 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,SP1,Osasuna,A,1,2003-08-30,A,Albacete,0,2,Albacete_Osasuna_2003
+1,0,SP1,Barcelona,A,1,2003-08-30,A,Ath Bilbao,0,1,Ath Bilbao_Barcelona_2003
+2,1,SP1,Sociedad,D,0,2003-08-30,H,Espanol,1,1,Espanol_Sociedad_2003
+3,0,SP1,Villarreal,D,0,2003-08-30,D,Malaga,0,0,Malaga_Villarreal_2003
+4,1,SP1,Betis,H,1,2003-08-30,D,Real Madrid,2,1,Real Madrid_Betis_2003
+5,0,SP1,Valladolid,D,1,2003-08-30,A,Valencia,1,1,Valencia_Valladolid_2003
+6,1,SP1,Murcia,D,0,2003-08-31,H,Celta,1,1,Celta_Murcia_2003
+7,1,SP1,Mallorca,H,0,2003-08-31,H,Santander,2,1,Santander_Mallorca_2003
+8,1,SP1,Ath Madrid,H,0,2003-08-31,H,Sevilla,1,0,Sevilla_Ath Madrid_2003
+9,0,SP1,La Coruna,A,0,2003-08-31,D,Zaragoza,0,1,Zaragoza_La Coruna_2003
+10,0,SP1,Valencia,A,0,2003-09-02,D,Osasuna,0,1,Osasuna_Valencia_2003
+11,1,SP1,Celta,D,0,2003-09-02,H,Sociedad,1,1,Sociedad_Celta_2003
+12,0,SP1,Real Madrid,D,0,2003-09-02,D,Villarreal,1,1,Villarreal_Real Madrid_2003
+13,0,SP1,Albacete,H,0,2003-09-03,D,Ath Madrid,1,0,Ath Madrid_Albacete_2003
+14,0,SP1,Sevilla,D,1,2003-09-03,A,Barcelona,1,1,Barcelona_Sevilla_2003
+15,2,SP1,Espanol,D,0,2003-09-03,H,Betis,2,2,Betis_Espanol_2003
+16,1,SP1,Ath Bilbao,H,0,2003-09-03,H,La Coruna,2,0,La Coruna_Ath Bilbao_2003
+17,1,SP1,Zaragoza,H,0,2003-09-03,H,Mallorca,2,0,Mallorca_Zaragoza_2003
+18,1,SP1,Santander,D,1,2003-09-03,D,Murcia,1,1,Murcia_Santander_2003
+19,1,SP1,Malaga,H,0,2003-09-03,H,Valladolid,1,0,Valladolid_Malaga_2003
+20,0,SP1,Betis,A,1,2003-09-13,A,Celta,0,2,Celta_Betis_2003
+21,3,SP1,Valladolid,H,0,2003-09-13,H,Real Madrid,7,2,Real Madrid_Valladolid_2003
+22,0,SP1,Sociedad,A,1,2003-09-13,A,Santander,0,1,Santander_Sociedad_2003
+23,0,SP1,La Coruna,A,1,2003-09-13,A,Sevilla,1,2,Sevilla_La Coruna_2003
+24,0,SP1,Barcelona,A,1,2003-09-14,A,Albacete,1,2,Albacete_Barcelona_2003
+25,2,SP1,Mallorca,H,0,2003-09-14,H,Ath Bilbao,4,0,Ath Bilbao_Mallorca_2003
+26,1,SP1,Villarreal,A,1,2003-09-14,D,Espanol,1,2,Espanol_Villarreal_2003
+27,1,SP1,Ath Madrid,H,0,2003-09-14,H,Osasuna,1,0,Osasuna_Ath Madrid_2003
+28,1,SP1,Malaga,H,0,2003-09-14,H,Valencia,1,0,Valencia_Malaga_2003
+29,3,SP1,Murcia,H,0,2003-09-14,H,Zaragoza,3,0,Zaragoza_Murcia_2003
+30,0,SP1,Valencia,A,0,2003-09-20,D,Ath Madrid,0,3,Ath Madrid_Valencia_2003
+31,0,SP1,Osasuna,D,0,2003-09-20,D,Barcelona,1,1,Barcelona_Osasuna_2003
+32,0,SP1,Santander,D,0,2003-09-21,D,Betis,0,0,Betis_Santander_2003
+33,0,SP1,Albacete,H,0,2003-09-21,D,La Coruna,3,0,La Coruna_Albacete_2003
+34,0,SP1,Real Madrid,A,1,2003-09-21,A,Malaga,1,3,Malaga_Real Madrid_2003
+35,1,SP1,Sevilla,D,1,2003-09-21,D,Mallorca,1,1,Mallorca_Sevilla_2003
+36,1,SP1,Ath Bilbao,D,1,2003-09-21,D,Murcia,2,2,Murcia_Ath Bilbao_2003
+37,0,SP1,Zaragoza,H,0,2003-09-21,D,Sociedad,3,0,Sociedad_Zaragoza_2003
+38,2,SP1,Espanol,H,1,2003-09-21,H,Valladolid,3,1,Valladolid_Espanol_2003
+39,0,SP1,Celta,D,0,2003-09-21,D,Villarreal,1,1,Villarreal_Celta_2003
+40,0,SP1,Sociedad,H,0,2003-09-27,D,Ath Bilbao,1,0,Ath Bilbao_Sociedad_2003
+41,0,SP1,Valladolid,H,1,2003-09-27,A,Celta,3,2,Celta_Valladolid_2003
+42,3,SP1,La Coruna,H,1,2003-09-27,H,Osasuna,3,2,Osasuna_La Coruna_2003
+43,1,SP1,Real Madrid,H,0,2003-09-27,H,Valencia,2,0,Valencia_Real Madrid_2003
+44,1,SP1,Mallorca,H,0,2003-09-28,H,Albacete,2,0,Albacete_Mallorca_2003
+45,0,SP1,Barcelona,D,0,2003-09-28,D,Ath Madrid,0,0,Ath Madrid_Barcelona_2003
+46,0,SP1,Malaga,A,1,2003-09-28,A,Espanol,1,2,Espanol_Malaga_2003
+47,0,SP1,Villarreal,A,0,2003-09-28,D,Santander,0,2,Santander_Villarreal_2003
+48,0,SP1,Murcia,H,0,2003-09-28,D,Sevilla,1,0,Sevilla_Murcia_2003
+49,0,SP1,Betis,A,0,2003-09-28,D,Zaragoza,0,1,Zaragoza_Betis_2003
+50,0,SP1,Ath Bilbao,D,0,2003-10-04,D,Betis,1,1,Betis_Ath Bilbao_2003
+51,2,SP1,Ath Madrid,H,1,2003-10-04,H,La Coruna,5,1,La Coruna_Ath Madrid_2003
+52,1,SP1,Zaragoza,D,1,2003-10-04,D,Villarreal,1,1,Villarreal_Zaragoza_2003
+53,0,SP1,Valencia,A,1,2003-10-05,A,Barcelona,0,1,Barcelona_Valencia_2003
+54,1,SP1,Celta,H,0,2003-10-05,H,Malaga,2,1,Malaga_Celta_2003
+55,0,SP1,Osasuna,D,0,2003-10-05,D,Mallorca,1,1,Mallorca_Osasuna_2003
+56,1,SP1,Albacete,H,0,2003-10-05,H,Murcia,1,0,Murcia_Albacete_2003
+57,0,SP1,Espanol,H,0,2003-10-05,D,Real Madrid,2,1,Real Madrid_Espanol_2003
+58,1,SP1,Sevilla,D,1,2003-10-05,D,Sociedad,1,1,Sociedad_Sevilla_2003
+59,0,SP1,Santander,A,1,2003-10-05,A,Valladolid,0,4,Valladolid_Santander_2003
+60,0,SP1,Sociedad,H,0,2003-10-18,D,Albacete,3,1,Albacete_Sociedad_2003
+61,0,SP1,La Coruna,A,1,2003-10-18,A,Barcelona,0,2,Barcelona_La Coruna_2003
+62,0,SP1,Real Madrid,A,1,2003-10-18,A,Celta,0,2,Celta_Real Madrid_2003
+63,0,SP1,Villarreal,H,0,2003-10-19,D,Ath Bilbao,2,0,Ath Bilbao_Villarreal_2003
+64,1,SP1,Mallorca,H,1,2003-10-19,D,Ath Madrid,2,1,Ath Madrid_Mallorca_2003
+65,1,SP1,Murcia,H,1,2003-10-19,D,Osasuna,2,1,Osasuna_Murcia_2003
+66,0,SP1,Malaga,H,1,2003-10-19,A,Santander,4,2,Santander_Malaga_2003
+67,0,SP1,Betis,D,0,2003-10-19,D,Sevilla,2,2,Sevilla_Betis_2003
+68,3,SP1,Espanol,H,0,2003-10-19,H,Valencia,4,0,Valencia_Espanol_2003
+69,1,SP1,Valladolid,H,0,2003-10-19,H,Zaragoza,1,0,Zaragoza_Valladolid_2003
+70,1,SP1,Valencia,H,0,2003-10-25,H,La Coruna,2,1,La Coruna_Valencia_2003
+71,2,SP1,Zaragoza,H,0,2003-10-25,H,Malaga,2,1,Malaga_Zaragoza_2003
+72,1,SP1,Santander,H,1,2003-10-25,D,Real Madrid,3,1,Real Madrid_Santander_2003
+73,2,SP1,Albacete,H,1,2003-10-26,H,Betis,3,2,Betis_Albacete_2003
+74,0,SP1,Celta,A,1,2003-10-26,A,Espanol,0,4,Espanol_Celta_2003
+75,0,SP1,Barcelona,A,2,2003-10-26,A,Mallorca,1,3,Mallorca_Barcelona_2003
+76,0,SP1,Ath Madrid,A,2,2003-10-26,A,Murcia,1,3,Murcia_Ath Madrid_2003
+77,0,SP1,Osasuna,H,0,2003-10-26,D,Sociedad,1,0,Sociedad_Osasuna_2003
+78,1,SP1,Ath Bilbao,H,0,2003-10-26,H,Valladolid,2,0,Valladolid_Ath Bilbao_2003
+79,1,SP1,Sevilla,D,2,2003-10-26,A,Villarreal,3,3,Villarreal_Sevilla_2003
+80,0,SP1,Real Madrid,D,0,2003-10-28,D,Zaragoza,0,0,Zaragoza_Real Madrid_2003
+81,0,SP1,Villarreal,H,0,2003-10-29,D,Albacete,2,0,Albacete_Villarreal_2003
+82,0,SP1,Malaga,H,1,2003-10-29,A,Ath Bilbao,2,1,Ath Bilbao_Malaga_2003
+83,1,SP1,Murcia,H,0,2003-10-29,H,Barcelona,3,0,Barcelona_Murcia_2003
+84,0,SP1,Mallorca,A,0,2003-10-29,D,La Coruna,0,2,La Coruna_Mallorca_2003
+85,0,SP1,Betis,H,0,2003-10-29,D,Osasuna,2,0,Osasuna_Betis_2003
+86,0,SP1,Espanol,A,0,2003-10-29,D,Santander,0,1,Santander_Espanol_2003
+87,1,SP1,Valladolid,D,0,2003-10-29,H,Sevilla,1,1,Sevilla_Valladolid_2003
+88,1,SP1,Celta,D,0,2003-10-29,H,Valencia,2,2,Valencia_Celta_2003
+89,1,SP1,Sociedad,H,0,2003-10-30,H,Ath Madrid,4,0,Ath Madrid_Sociedad_2003
+90,0,SP1,Santander,A,1,2003-11-01,A,Celta,0,1,Celta_Santander_2003
+91,0,SP1,La Coruna,D,0,2003-11-01,D,Murcia,0,0,Murcia_La Coruna_2003
+92,1,SP1,Ath Bilbao,H,0,2003-11-01,H,Real Madrid,3,0,Real Madrid_Ath Bilbao_2003
+93,1,SP1,Ath Madrid,A,1,2003-11-02,D,Betis,1,2,Betis_Ath Madrid_2003
+94,0,SP1,Zaragoza,A,2,2003-11-02,A,Espanol,0,2,Espanol_Zaragoza_2003
+95,2,SP1,Sevilla,H,0,2003-11-02,H,Malaga,2,0,Malaga_Sevilla_2003
+96,0,SP1,Valencia,A,3,2003-11-02,A,Mallorca,0,5,Mallorca_Valencia_2003
+97,0,SP1,Barcelona,D,1,2003-11-02,A,Sociedad,3,3,Sociedad_Barcelona_2003
+98,1,SP1,Albacete,H,0,2003-11-02,H,Valladolid,2,0,Valladolid_Albacete_2003
+99,1,SP1,Osasuna,H,0,2003-11-02,H,Villarreal,1,0,Villarreal_Osasuna_2003
+100,1,SP1,Espanol,H,0,2003-11-08,H,Ath Bilbao,1,0,Ath Bilbao_Espanol_2003
+101,0,SP1,Sociedad,H,1,2003-11-08,A,La Coruna,2,1,La Coruna_Sociedad_2003
+102,1,SP1,Celta,D,1,2003-11-08,D,Zaragoza,1,1,Zaragoza_Celta_2003
+103,0,SP1,Malaga,A,0,2003-11-09,D,Albacete,0,1,Albacete_Malaga_2003
+104,0,SP1,Villarreal,H,0,2003-11-09,D,Ath Madrid,1,0,Ath Madrid_Villarreal_2003
+105,1,SP1,Betis,H,0,2003-11-09,H,Barcelona,2,1,Barcelona_Betis_2003
+106,3,SP1,Murcia,H,1,2003-11-09,H,Mallorca,4,1,Mallorca_Murcia_2003
+107,1,SP1,Valladolid,D,1,2003-11-09,D,Osasuna,1,1,Osasuna_Valladolid_2003
+108,4,SP1,Real Madrid,H,0,2003-11-09,H,Sevilla,4,1,Sevilla_Real Madrid_2003
+109,1,SP1,Santander,A,1,2003-11-09,D,Valencia,1,2,Valencia_Santander_2003
+110,0,SP1,La Coruna,D,0,2003-11-22,D,Betis,0,0,Betis_La Coruna_2003
+111,0,SP1,Mallorca,A,1,2003-11-22,A,Sociedad,0,1,Sociedad_Mallorca_2003
+112,1,SP1,Barcelona,H,0,2003-11-22,H,Villarreal,2,1,Villarreal_Barcelona_2003
+113,0,SP1,Ath Bilbao,A,0,2003-11-23,D,Celta,0,2,Celta_Ath Bilbao_2003
+114,0,SP1,Sevilla,H,0,2003-11-23,D,Espanol,1,0,Espanol_Sevilla_2003
+115,0,SP1,Osasuna,D,0,2003-11-23,D,Malaga,0,0,Malaga_Osasuna_2003
+116,1,SP1,Valencia,D,1,2003-11-23,D,Murcia,2,2,Murcia_Valencia_2003
+117,1,SP1,Albacete,H,1,2003-11-23,D,Real Madrid,2,1,Real Madrid_Albacete_2003
+118,1,SP1,Zaragoza,A,1,2003-11-23,D,Santander,1,2,Santander_Zaragoza_2003
+119,2,SP1,Ath Madrid,H,1,2003-11-23,H,Valladolid,3,1,Valladolid_Ath Madrid_2003
+120,1,SP1,Malaga,H,0,2003-11-29,H,Ath Madrid,2,0,Ath Madrid_Malaga_2003
+121,0,SP1,Sociedad,D,1,2003-11-29,A,Murcia,2,2,Murcia_Sociedad_2003
+122,1,SP1,Real Madrid,D,0,2003-11-29,H,Osasuna,1,1,Osasuna_Real Madrid_2003
+123,3,SP1,Zaragoza,H,0,2003-11-29,H,Valencia,3,2,Valencia_Zaragoza_2003
+124,1,SP1,Espanol,H,1,2003-11-30,D,Albacete,2,1,Albacete_Espanol_2003
+125,1,SP1,Santander,A,1,2003-11-30,D,Ath Bilbao,1,2,Ath Bilbao_Santander_2003
+126,0,SP1,Valladolid,D,0,2003-11-30,D,Barcelona,0,0,Barcelona_Valladolid_2003
+127,0,SP1,Villarreal,A,0,2003-11-30,D,La Coruna,0,1,La Coruna_Villarreal_2003
+128,1,SP1,Betis,H,1,2003-11-30,D,Mallorca,2,1,Mallorca_Betis_2003
+129,0,SP1,Celta,A,1,2003-11-30,A,Sevilla,0,1,Sevilla_Celta_2003
+130,0,SP1,Valencia,D,0,2003-12-02,D,Sociedad,0,0,Sociedad_Valencia_2003
+131,0,SP1,Murcia,D,0,2003-12-03,D,Betis,1,1,Betis_Murcia_2003
+132,1,SP1,Albacete,D,1,2003-12-03,D,Celta,2,2,Celta_Albacete_2003
+133,0,SP1,Osasuna,A,0,2003-12-03,D,Espanol,0,1,Espanol_Osasuna_2003
+134,2,SP1,Barcelona,H,0,2003-12-03,H,Malaga,5,1,Malaga_Barcelona_2003
+135,2,SP1,Ath Madrid,H,0,2003-12-03,H,Real Madrid,2,0,Real Madrid_Ath Madrid_2003
+136,0,SP1,La Coruna,D,0,2003-12-03,D,Valladolid,1,1,Valladolid_La Coruna_2003
+137,0,SP1,Mallorca,A,0,2003-12-03,D,Villarreal,0,2,Villarreal_Mallorca_2003
+138,0,SP1,Sevilla,A,3,2003-12-04,A,Santander,0,4,Santander_Sevilla_2003
+139,1,SP1,Ath Bilbao,D,2,2003-12-04,A,Zaragoza,2,2,Zaragoza_Ath Bilbao_2003
+140,0,SP1,Real Madrid,A,1,2003-12-06,A,Barcelona,1,2,Barcelona_Real Madrid_2003
+141,0,SP1,Malaga,H,0,2003-12-06,D,La Coruna,1,0,La Coruna_Malaga_2003
+142,1,SP1,Celta,H,1,2003-12-06,D,Osasuna,3,2,Osasuna_Celta_2003
+143,0,SP1,Betis,A,2,2003-12-06,A,Sociedad,0,4,Sociedad_Betis_2003
+144,1,SP1,Santander,H,0,2003-12-07,H,Albacete,4,0,Albacete_Santander_2003
+145,1,SP1,Espanol,H,0,2003-12-07,H,Ath Madrid,2,0,Ath Madrid_Espanol_2003
+146,1,SP1,Valladolid,H,0,2003-12-07,H,Mallorca,1,0,Mallorca_Valladolid_2003
+147,1,SP1,Villarreal,D,0,2003-12-07,H,Murcia,1,1,Murcia_Villarreal_2003
+148,1,SP1,Zaragoza,H,2,2003-12-07,A,Sevilla,3,2,Sevilla_Zaragoza_2003
+149,1,SP1,Ath Bilbao,H,0,2003-12-07,H,Valencia,2,1,Valencia_Ath Bilbao_2003
+150,2,SP1,Ath Madrid,D,1,2003-12-13,H,Celta,2,2,Celta_Ath Madrid_2003
+151,1,SP1,Barcelona,A,3,2003-12-13,A,Espanol,1,3,Espanol_Barcelona_2003
+152,2,SP1,Sociedad,H,0,2003-12-13,H,Villarreal,2,0,Villarreal_Sociedad_2003
+153,2,SP1,Sevilla,H,1,2003-12-14,H,Ath Bilbao,2,1,Ath Bilbao_Sevilla_2003
+154,0,SP1,Valencia,A,1,2003-12-14,A,Betis,0,1,Betis_Valencia_2003
+155,1,SP1,Mallorca,H,1,2003-12-14,D,Malaga,3,1,Malaga_Mallorca_2003
+156,1,SP1,La Coruna,H,0,2003-12-14,H,Real Madrid,2,1,Real Madrid_La Coruna_2003
+157,0,SP1,Osasuna,D,0,2003-12-14,D,Santander,0,0,Santander_Osasuna_2003
+158,0,SP1,Murcia,D,0,2003-12-14,D,Valladolid,0,0,Valladolid_Murcia_2003
+159,0,SP1,Albacete,A,0,2003-12-14,D,Zaragoza,0,1,Zaragoza_Albacete_2003
+160,0,SP1,Santander,D,0,2003-12-20,D,Ath Madrid,2,2,Ath Madrid_Santander_2003
+161,1,SP1,Valladolid,A,1,2003-12-20,D,Sociedad,1,3,Sociedad_Valladolid_2003
+162,0,SP1,Sevilla,H,0,2003-12-20,D,Valencia,1,0,Valencia_Sevilla_2003
+163,1,SP1,Ath Bilbao,D,1,2003-12-21,D,Albacete,1,1,Albacete_Ath Bilbao_2003
+164,0,SP1,Celta,D,1,2003-12-21,A,Barcelona,1,1,Barcelona_Celta_2003
+165,0,SP1,Villarreal,A,0,2003-12-21,D,Betis,1,3,Betis_Villarreal_2003
+166,1,SP1,Espanol,H,1,2003-12-21,D,La Coruna,2,1,La Coruna_Espanol_2003
+167,1,SP1,Real Madrid,A,1,2003-12-21,D,Mallorca,1,3,Mallorca_Real Madrid_2003
+168,1,SP1,Malaga,A,1,2003-12-21,D,Murcia,1,2,Murcia_Malaga_2003
+169,0,SP1,Zaragoza,A,1,2003-12-21,A,Osasuna,0,1,Osasuna_Zaragoza_2003
+170,0,SP1,La Coruna,A,2,2004-01-03,A,Celta,0,5,Celta_La Coruna_2003
+171,1,SP1,Murcia,H,0,2004-01-03,H,Real Madrid,1,0,Real Madrid_Murcia_2003
+172,0,SP1,Ath Madrid,D,0,2004-01-03,D,Zaragoza,0,0,Zaragoza_Ath Madrid_2003
+173,1,SP1,Osasuna,D,1,2004-01-04,D,Ath Bilbao,1,1,Ath Bilbao_Osasuna_2003
+174,1,SP1,Mallorca,H,0,2004-01-04,H,Espanol,2,0,Espanol_Mallorca_2003
+175,1,SP1,Sociedad,A,2,2004-01-04,A,Malaga,1,2,Malaga_Sociedad_2003
+176,0,SP1,Barcelona,H,0,2004-01-04,D,Santander,3,0,Santander_Barcelona_2003
+177,1,SP1,Albacete,H,0,2004-01-04,H,Sevilla,2,0,Sevilla_Albacete_2003
+178,0,SP1,Villarreal,H,1,2004-01-04,A,Valencia,4,2,Valencia_Villarreal_2003
+179,0,SP1,Betis,D,0,2004-01-04,D,Valladolid,0,0,Valladolid_Betis_2003
+180,0,SP1,Valencia,A,1,2004-01-10,A,Albacete,0,1,Albacete_Valencia_2003
+181,1,SP1,Celta,A,1,2004-01-10,D,Mallorca,2,4,Mallorca_Celta_2003
+182,0,SP1,Real Madrid,H,0,2004-01-10,D,Sociedad,1,0,Sociedad_Real Madrid_2003
+183,0,SP1,Ath Bilbao,H,0,2004-01-11,D,Ath Madrid,3,0,Ath Madrid_Ath Bilbao_2003
+184,2,SP1,Zaragoza,H,0,2004-01-11,H,Barcelona,3,0,Barcelona_Zaragoza_2003
+185,1,SP1,Malaga,H,0,2004-01-11,H,Betis,3,0,Betis_Malaga_2003
+186,1,SP1,Santander,D,0,2004-01-11,H,La Coruna,1,1,La Coruna_Santander_2003
+187,0,SP1,Espanol,A,1,2004-01-11,A,Murcia,0,1,Murcia_Espanol_2003
+188,0,SP1,Sevilla,D,0,2004-01-11,D,Osasuna,1,1,Osasuna_Sevilla_2003
+189,1,SP1,Valladolid,H,0,2004-01-11,H,Villarreal,3,1,Villarreal_Valladolid_2003
+190,0,SP1,Ath Bilbao,D,0,2004-01-17,D,Barcelona,1,1,Barcelona_Ath Bilbao_2003
+191,0,SP1,Celta,D,2,2004-01-17,A,Murcia,2,2,Murcia_Celta_2003
+192,0,SP1,Valencia,D,0,2004-01-17,D,Valladolid,0,0,Valladolid_Valencia_2003
+193,1,SP1,Sevilla,H,0,2004-01-18,H,Ath Madrid,2,1,Ath Madrid_Sevilla_2003
+194,1,SP1,Real Madrid,D,0,2004-01-18,H,Betis,1,1,Betis_Real Madrid_2003
+195,1,SP1,Zaragoza,H,1,2004-01-18,D,La Coruna,4,1,La Coruna_Zaragoza_2003
+196,0,SP1,Santander,D,0,2004-01-18,D,Mallorca,1,1,Mallorca_Santander_2003
+197,1,SP1,Albacete,D,1,2004-01-18,D,Osasuna,1,1,Osasuna_Albacete_2003
+198,1,SP1,Espanol,H,0,2004-01-18,H,Sociedad,3,1,Sociedad_Espanol_2003
+199,0,SP1,Malaga,H,0,2004-01-18,D,Villarreal,2,0,Villarreal_Malaga_2003
+200,0,SP1,Ath Madrid,D,1,2004-01-24,A,Albacete,1,1,Albacete_Ath Madrid_2003
+201,1,SP1,Villarreal,H,0,2004-01-24,H,Real Madrid,2,1,Real Madrid_Villarreal_2003
+202,0,SP1,La Coruna,H,0,2004-01-25,D,Ath Bilbao,1,0,Ath Bilbao_La Coruna_2003
+203,1,SP1,Sociedad,A,2,2004-01-25,A,Celta,2,5,Celta_Sociedad_2003
+204,0,SP1,Betis,A,2,2004-01-25,A,Espanol,1,2,Espanol_Betis_2003
+205,1,SP1,Valladolid,A,1,2004-01-25,D,Malaga,2,3,Malaga_Valladolid_2003
+206,1,SP1,Murcia,H,1,2004-01-25,D,Santander,3,2,Santander_Murcia_2003
+207,0,SP1,Barcelona,A,1,2004-01-25,A,Sevilla,0,1,Sevilla_Barcelona_2003
+208,0,SP1,Osasuna,A,1,2004-01-25,A,Valencia,0,1,Valencia_Osasuna_2003
+209,0,SP1,Mallorca,A,2,2004-01-25,A,Zaragoza,1,3,Zaragoza_Mallorca_2003
+210,0,SP1,Osasuna,D,1,2004-01-31,A,Ath Madrid,1,1,Ath Madrid_Osasuna_2003
+211,1,SP1,Celta,H,0,2004-01-31,H,Betis,1,0,Betis_Celta_2003
+212,0,SP1,Valencia,A,2,2004-01-31,A,Malaga,1,6,Malaga_Valencia_2003
+213,1,SP1,Albacete,H,0,2004-02-01,H,Barcelona,5,0,Barcelona_Albacete_2003
+214,1,SP1,Sevilla,H,0,2004-02-01,H,La Coruna,1,0,La Coruna_Sevilla_2003
+215,1,SP1,Ath Bilbao,A,1,2004-02-01,D,Mallorca,1,3,Mallorca_Ath Bilbao_2003
+216,1,SP1,Zaragoza,H,0,2004-02-01,H,Murcia,1,0,Murcia_Zaragoza_2003
+217,0,SP1,Santander,H,0,2004-02-01,D,Sociedad,1,0,Sociedad_Santander_2003
+218,2,SP1,Real Madrid,A,0,2004-02-01,H,Valladolid,2,3,Valladolid_Real Madrid_2003
+219,0,SP1,Espanol,A,0,2004-02-01,D,Villarreal,0,1,Villarreal_Espanol_2003
+220,1,SP1,Malaga,H,0,2004-02-07,H,Real Madrid,2,1,Real Madrid_Malaga_2003
+221,1,SP1,Ath Madrid,H,0,2004-02-07,H,Valencia,3,0,Valencia_Ath Madrid_2003
+222,0,SP1,La Coruna,A,0,2004-02-08,D,Albacete,0,2,Albacete_La Coruna_2003
+223,2,SP1,Murcia,H,1,2004-02-08,H,Ath Bilbao,2,1,Ath Bilbao_Murcia_2003
+224,1,SP1,Villarreal,H,0,2004-02-08,H,Celta,2,1,Celta_Villarreal_2003
+225,0,SP1,Valladolid,H,0,2004-02-08,D,Espanol,2,0,Espanol_Valladolid_2003
+226,0,SP1,Barcelona,A,1,2004-02-08,A,Osasuna,1,2,Osasuna_Barcelona_2003
+227,1,SP1,Betis,A,1,2004-02-08,D,Santander,1,2,Santander_Betis_2003
+228,0,SP1,Mallorca,H,0,2004-02-08,D,Sevilla,3,0,Sevilla_Mallorca_2003
+229,1,SP1,Sociedad,H,1,2004-02-08,D,Zaragoza,2,1,Zaragoza_Sociedad_2003
+230,0,SP1,Sevilla,A,1,2004-02-14,A,Murcia,1,3,Murcia_Sevilla_2003
+231,1,SP1,Ath Bilbao,D,1,2004-02-14,D,Sociedad,1,1,Sociedad_Ath Bilbao_2003
+232,3,SP1,Ath Madrid,H,1,2004-02-15,H,Barcelona,3,1,Barcelona_Ath Madrid_2003
+233,2,SP1,Zaragoza,H,1,2004-02-15,H,Betis,2,1,Betis_Zaragoza_2003
+234,2,SP1,Osasuna,H,0,2004-02-15,H,La Coruna,2,0,La Coruna_Osasuna_2003
+235,3,SP1,Espanol,H,1,2004-02-15,H,Malaga,5,2,Malaga_Espanol_2003
+236,0,SP1,Albacete,D,0,2004-02-15,D,Mallorca,0,0,Mallorca_Albacete_2003
+237,0,SP1,Valencia,D,0,2004-02-15,D,Real Madrid,1,1,Real Madrid_Valencia_2003
+238,0,SP1,Celta,A,0,2004-02-15,D,Valladolid,0,2,Valladolid_Celta_2003
+239,3,SP1,Santander,H,1,2004-02-15,H,Villarreal,6,3,Villarreal_Santander_2003
+240,0,SP1,La Coruna,D,0,2004-02-21,D,Ath Madrid,0,0,Ath Madrid_La Coruna_2003
+241,0,SP1,Malaga,A,1,2004-02-21,A,Celta,0,2,Celta_Malaga_2003
+242,1,SP1,Real Madrid,A,1,2004-02-21,D,Espanol,2,4,Espanol_Real Madrid_2003
+243,0,SP1,Sociedad,H,0,2004-02-21,D,Sevilla,1,0,Sevilla_Sociedad_2003
+244,0,SP1,Barcelona,A,0,2004-02-21,D,Valencia,0,1,Valencia_Barcelona_2003
+245,1,SP1,Murcia,H,0,2004-02-22,H,Albacete,1,0,Albacete_Murcia_2003
+246,0,SP1,Betis,D,0,2004-02-22,D,Ath Bilbao,1,1,Ath Bilbao_Betis_2003
+247,1,SP1,Mallorca,D,1,2004-02-22,D,Osasuna,1,1,Osasuna_Mallorca_2003
+248,0,SP1,Valladolid,H,0,2004-02-22,D,Santander,1,0,Santander_Valladolid_2003
+249,3,SP1,Villarreal,H,0,2004-02-22,H,Zaragoza,4,1,Zaragoza_Villarreal_2003
+250,1,SP1,Sevilla,D,1,2004-02-28,D,Betis,1,1,Betis_Sevilla_2003
+251,1,SP1,Zaragoza,A,1,2004-02-28,D,Valladolid,1,2,Valladolid_Zaragoza_2003
+252,1,SP1,Valencia,H,0,2004-02-29,H,Espanol,2,1,Espanol_Valencia_2003
+253,0,SP1,Barcelona,A,2,2004-02-29,A,La Coruna,2,3,La Coruna_Barcelona_2003
+254,1,SP1,Santander,H,0,2004-02-29,H,Malaga,1,0,Malaga_Santander_2003
+255,0,SP1,Ath Madrid,A,0,2004-02-29,D,Mallorca,0,1,Mallorca_Ath Madrid_2003
+256,0,SP1,Osasuna,A,1,2004-02-29,A,Murcia,0,1,Murcia_Osasuna_2003
+257,0,SP1,Celta,H,1,2004-02-29,A,Real Madrid,4,2,Real Madrid_Celta_2003
+258,0,SP1,Albacete,A,0,2004-02-29,D,Sociedad,0,1,Sociedad_Albacete_2003
+259,0,SP1,Ath Bilbao,A,1,2004-02-29,A,Villarreal,0,1,Villarreal_Ath Bilbao_2003
+260,0,SP1,Espanol,A,2,2004-03-06,A,Celta,1,5,Celta_Espanol_2003
+261,1,SP1,Sociedad,D,0,2004-03-06,H,Osasuna,1,1,Osasuna_Sociedad_2003
+262,1,SP1,Real Madrid,D,1,2004-03-06,D,Santander,1,1,Santander_Real Madrid_2003
+263,1,SP1,La Coruna,H,0,2004-03-06,H,Valencia,3,0,Valencia_La Coruna_2003
+264,1,SP1,Betis,H,0,2004-03-07,H,Albacete,1,0,Albacete_Betis_2003
+265,0,SP1,Valladolid,A,3,2004-03-07,A,Ath Bilbao,1,4,Ath Bilbao_Valladolid_2003
+266,0,SP1,Murcia,D,0,2004-03-07,D,Ath Madrid,1,1,Ath Madrid_Murcia_2003
+267,2,SP1,Mallorca,H,0,2004-03-07,H,Barcelona,3,2,Barcelona_Mallorca_2003
+268,0,SP1,Villarreal,H,0,2004-03-07,D,Sevilla,2,0,Sevilla_Villarreal_2003
+269,0,SP1,Malaga,H,0,2004-03-07,D,Zaragoza,1,0,Zaragoza_Malaga_2003
+270,1,SP1,Zaragoza,D,1,2004-03-13,D,Real Madrid,1,1,Real Madrid_Zaragoza_2003
+271,2,SP1,Ath Madrid,H,0,2004-03-13,H,Sociedad,2,1,Sociedad_Ath Madrid_2003
+272,1,SP1,Osasuna,D,1,2004-03-14,D,Betis,1,1,Betis_Osasuna_2003
+273,0,SP1,Valencia,A,1,2004-03-14,A,Celta,0,2,Celta_Valencia_2003
+274,0,SP1,Santander,A,0,2004-03-14,D,Espanol,0,1,Espanol_Santander_2003
+275,0,SP1,Ath Bilbao,H,1,2004-03-14,A,Malaga,2,1,Malaga_Ath Bilbao_2003
+276,2,SP1,La Coruna,H,1,2004-03-14,H,Mallorca,4,2,Mallorca_La Coruna_2003
+277,0,SP1,Barcelona,A,1,2004-03-14,A,Murcia,0,2,Murcia_Barcelona_2003
+278,0,SP1,Sevilla,H,0,2004-03-14,D,Valladolid,2,0,Valladolid_Sevilla_2003
+279,0,SP1,Albacete,H,1,2004-03-14,A,Villarreal,2,1,Villarreal_Albacete_2003
+280,2,SP1,Real Madrid,H,0,2004-03-20,H,Ath Bilbao,4,2,Ath Bilbao_Real Madrid_2003
+281,0,SP1,Betis,H,0,2004-03-20,D,Ath Madrid,2,1,Ath Madrid_Betis_2003
+282,1,SP1,Murcia,H,0,2004-03-20,H,La Coruna,1,0,La Coruna_Murcia_2003
+283,1,SP1,Valladolid,H,0,2004-03-21,H,Albacete,2,0,Albacete_Valladolid_2003
+284,0,SP1,Sociedad,H,0,2004-03-21,D,Barcelona,1,0,Barcelona_Sociedad_2003
+285,1,SP1,Villarreal,H,0,2004-03-21,H,Osasuna,2,1,Osasuna_Villarreal_2003
+286,2,SP1,Celta,D,1,2004-03-21,H,Santander,4,4,Santander_Celta_2003
+287,0,SP1,Malaga,A,0,2004-03-21,D,Sevilla,0,1,Sevilla_Malaga_2003
+288,1,SP1,Mallorca,H,0,2004-03-21,H,Valencia,5,1,Valencia_Mallorca_2003
+289,1,SP1,Espanol,D,1,2004-03-21,D,Zaragoza,1,1,Zaragoza_Espanol_2003
+290,1,SP1,Ath Bilbao,H,0,2004-03-27,H,Espanol,2,1,Espanol_Ath Bilbao_2003
+291,1,SP1,La Coruna,A,1,2004-03-27,D,Sociedad,1,2,Sociedad_La Coruna_2003
+292,0,SP1,Zaragoza,A,0,2004-03-28,D,Celta,0,2,Celta_Zaragoza_2003
+293,0,SP1,Albacete,D,1,2004-03-28,A,Malaga,1,1,Malaga_Albacete_2003
+294,1,SP1,Mallorca,H,0,2004-03-28,H,Murcia,2,0,Murcia_Mallorca_2003
+295,2,SP1,Sevilla,H,0,2004-03-28,H,Real Madrid,5,1,Real Madrid_Sevilla_2003
+296,0,SP1,Valencia,A,2,2004-03-28,A,Santander,0,3,Santander_Valencia_2003
+297,1,SP1,Osasuna,D,0,2004-03-28,H,Valladolid,1,1,Valladolid_Osasuna_2003
+298,0,SP1,Ath Madrid,D,0,2004-03-28,D,Villarreal,0,0,Villarreal_Ath Madrid_2003
+299,0,SP1,Real Madrid,A,1,2004-04-03,A,Albacete,1,2,Albacete_Real Madrid_2003
+300,0,SP1,Villarreal,D,0,2004-04-03,D,Barcelona,0,0,Barcelona_Villarreal_2003
+301,0,SP1,Espanol,H,0,2004-04-03,D,Sevilla,1,0,Sevilla_Espanol_2003
+302,0,SP1,Celta,D,0,2004-04-04,D,Ath Bilbao,0,0,Ath Bilbao_Celta_2003
+303,2,SP1,Valladolid,H,0,2004-04-04,H,Ath Madrid,2,1,Ath Madrid_Valladolid_2003
+304,2,SP1,Betis,D,1,2004-04-04,H,La Coruna,2,2,La Coruna_Betis_2003
+305,0,SP1,Sociedad,D,1,2004-04-04,A,Mallorca,1,1,Mallorca_Sociedad_2003
+306,1,SP1,Malaga,D,0,2004-04-04,H,Osasuna,1,1,Osasuna_Malaga_2003
+307,0,SP1,Murcia,H,0,2004-04-04,D,Valencia,2,0,Valencia_Murcia_2003
+308,1,SP1,Santander,D,0,2004-04-04,H,Zaragoza,2,2,Zaragoza_Santander_2003
+309,0,SP1,Sevilla,D,0,2004-04-10,D,Celta,0,0,Celta_Sevilla_2003
+310,2,SP1,Ath Madrid,H,1,2004-04-10,H,Malaga,3,1,Malaga_Ath Madrid_2003
+311,0,SP1,Barcelona,A,2,2004-04-10,A,Valladolid,1,3,Valladolid_Barcelona_2003
+312,0,SP1,Mallorca,A,1,2004-04-11,A,Betis,0,2,Betis_Mallorca_2003
+313,0,SP1,Albacete,D,1,2004-04-11,A,Espanol,1,1,Espanol_Albacete_2003
+314,0,SP1,Osasuna,A,2,2004-04-11,A,Real Madrid,0,3,Real Madrid_Osasuna_2003
+315,0,SP1,Ath Bilbao,A,1,2004-04-11,A,Santander,1,2,Santander_Ath Bilbao_2003
+316,0,SP1,Murcia,H,0,2004-04-11,D,Sociedad,2,0,Sociedad_Murcia_2003
+317,0,SP1,La Coruna,A,1,2004-04-11,A,Villarreal,0,2,Villarreal_La Coruna_2003
+318,0,SP1,Valencia,A,0,2004-04-11,D,Zaragoza,0,1,Zaragoza_Valencia_2003
+319,1,SP1,Barcelona,D,1,2004-04-14,D,Betis,1,1,Betis_Barcelona_2003
+320,1,SP1,Zaragoza,H,0,2004-04-17,H,Ath Bilbao,4,0,Ath Bilbao_Zaragoza_2003
+321,0,SP1,Real Madrid,A,1,2004-04-17,A,Ath Madrid,1,2,Ath Madrid_Real Madrid_2003
+322,0,SP1,Valladolid,D,1,2004-04-17,A,La Coruna,1,1,La Coruna_Valladolid_2003
+323,0,SP1,Celta,A,1,2004-04-18,A,Albacete,0,2,Albacete_Celta_2003
+324,3,SP1,Malaga,H,0,2004-04-18,H,Barcelona,3,0,Barcelona_Malaga_2003
+325,1,SP1,Villarreal,A,1,2004-04-18,D,Mallorca,1,2,Mallorca_Villarreal_2003
+326,0,SP1,Betis,A,1,2004-04-18,A,Murcia,0,1,Murcia_Betis_2003
+327,0,SP1,Espanol,A,1,2004-04-18,A,Osasuna,1,3,Osasuna_Espanol_2003
+328,2,SP1,Santander,H,0,2004-04-18,H,Sevilla,5,2,Sevilla_Santander_2003
+329,0,SP1,Sociedad,D,0,2004-04-18,D,Valencia,2,2,Valencia_Sociedad_2003
+330,0,SP1,Ath Madrid,H,0,2004-04-24,D,Espanol,3,1,Espanol_Ath Madrid_2003
+331,1,SP1,La Coruna,D,1,2004-04-24,D,Malaga,1,1,Malaga_La Coruna_2003
+332,1,SP1,Valencia,D,1,2004-04-25,D,Ath Bilbao,1,1,Ath Bilbao_Valencia_2003
+333,2,SP1,Sociedad,H,1,2004-04-25,H,Betis,2,1,Betis_Sociedad_2003
+334,0,SP1,Osasuna,H,0,2004-04-25,D,Celta,1,0,Celta_Osasuna_2003
+335,0,SP1,Barcelona,A,0,2004-04-25,D,Real Madrid,1,2,Real Madrid_Barcelona_2003
+336,0,SP1,Albacete,A,1,2004-04-25,A,Santander,0,2,Santander_Albacete_2003
+337,0,SP1,Mallorca,A,1,2004-04-25,A,Valladolid,1,3,Valladolid_Mallorca_2003
+338,0,SP1,Murcia,H,0,2004-04-25,D,Villarreal,1,0,Villarreal_Murcia_2003
+339,2,SP1,Sevilla,D,1,2004-04-25,H,Zaragoza,4,4,Zaragoza_Sevilla_2003
+340,3,SP1,Celta,H,1,2004-05-01,H,Ath Madrid,3,2,Ath Madrid_Celta_2003
+341,1,SP1,Real Madrid,H,0,2004-05-01,H,La Coruna,2,0,La Coruna_Real Madrid_2003
+342,1,SP1,Zaragoza,H,0,2004-05-02,H,Albacete,3,1,Albacete_Zaragoza_2003
+343,2,SP1,Espanol,H,1,2004-05-02,H,Barcelona,4,1,Barcelona_Espanol_2003
+344,1,SP1,Malaga,H,0,2004-05-02,H,Mallorca,2,1,Mallorca_Malaga_2003
+345,1,SP1,Valladolid,H,1,2004-05-02,D,Murcia,2,1,Murcia_Valladolid_2003
+346,0,SP1,Santander,A,0,2004-05-02,D,Osasuna,1,2,Osasuna_Santander_2003
+347,1,SP1,Ath Bilbao,H,0,2004-05-02,H,Sevilla,2,0,Sevilla_Ath Bilbao_2003
+348,1,SP1,Villarreal,D,1,2004-05-02,D,Sociedad,2,2,Sociedad_Villarreal_2003
+349,1,SP1,Betis,H,0,2004-05-02,H,Valencia,2,0,Valencia_Betis_2003
+350,1,SP1,Barcelona,H,0,2004-05-08,H,Celta,1,0,Celta_Barcelona_2003
+351,1,SP1,Mallorca,A,3,2004-05-08,A,Real Madrid,2,3,Real Madrid_Mallorca_2003
+352,0,SP1,Albacete,D,0,2004-05-09,D,Ath Bilbao,1,1,Ath Bilbao_Albacete_2003
+353,1,SP1,La Coruna,H,0,2004-05-09,H,Espanol,2,0,Espanol_La Coruna_2003
+354,0,SP1,Murcia,H,0,2004-05-09,D,Malaga,1,0,Malaga_Murcia_2003
+355,0,SP1,Ath Madrid,D,1,2004-05-09,A,Santander,2,2,Santander_Ath Madrid_2003
+356,0,SP1,Valencia,A,1,2004-05-09,A,Sevilla,0,2,Sevilla_Valencia_2003
+357,1,SP1,Sociedad,D,2,2004-05-09,A,Valladolid,2,2,Valladolid_Sociedad_2003
+358,0,SP1,Betis,H,0,2004-05-09,D,Villarreal,1,0,Villarreal_Betis_2003
+359,0,SP1,Osasuna,H,0,2004-05-09,D,Zaragoza,1,0,Zaragoza_Osasuna_2003
+360,2,SP1,Valencia,H,1,2004-05-14,H,Villarreal,2,1,Villarreal_Valencia_2003
+361,0,SP1,Valladolid,H,0,2004-05-15,D,Betis,1,0,Betis_Valladolid_2003
+362,3,SP1,Celta,H,0,2004-05-15,H,La Coruna,3,0,La Coruna_Celta_2003
+363,0,SP1,Sevilla,A,1,2004-05-16,A,Albacete,1,4,Albacete_Sevilla_2003
+364,0,SP1,Zaragoza,A,0,2004-05-16,D,Ath Madrid,1,2,Ath Madrid_Zaragoza_2003
+365,1,SP1,Santander,H,0,2004-05-16,H,Barcelona,1,0,Barcelona_Santander_2003
+366,0,SP1,Espanol,H,2,2004-05-16,A,Mallorca,4,2,Mallorca_Espanol_2003
+367,2,SP1,Real Madrid,H,0,2004-05-16,H,Murcia,2,1,Murcia_Real Madrid_2003
+368,0,SP1,Ath Bilbao,A,0,2004-05-16,D,Osasuna,1,2,Osasuna_Ath Bilbao_2003
+369,0,SP1,Malaga,D,0,2004-05-16,D,Sociedad,1,1,Sociedad_Malaga_2003
+370,1,SP1,Ath Madrid,A,3,2004-05-23,A,Ath Bilbao,3,4,Ath Bilbao_Ath Madrid_2003
+371,0,SP1,Mallorca,A,0,2004-05-23,D,Celta,1,2,Celta_Mallorca_2003
+372,0,SP1,Murcia,H,0,2004-05-23,D,Espanol,2,0,Espanol_Murcia_2003
+373,2,SP1,Betis,A,0,2004-05-23,H,Malaga,2,3,Malaga_Betis_2003
+374,1,SP1,Sociedad,A,3,2004-05-23,A,Real Madrid,1,4,Real Madrid_Sociedad_2003
+375,0,SP1,La Coruna,A,1,2004-05-23,A,Santander,0,1,Santander_La Coruna_2003
+376,0,SP1,Osasuna,H,0,2004-05-23,D,Sevilla,1,0,Sevilla_Osasuna_2003
+377,0,SP1,Albacete,A,0,2004-05-23,D,Valencia,0,1,Valencia_Albacete_2003
+378,1,SP1,Villarreal,H,0,2004-05-23,H,Valladolid,3,0,Valladolid_Villarreal_2003
+379,1,SP1,Barcelona,H,1,2004-05-23,D,Zaragoza,2,1,Zaragoza_Barcelona_2003

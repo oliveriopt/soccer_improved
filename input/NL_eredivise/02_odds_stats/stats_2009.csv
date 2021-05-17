@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,N1,Roda JC,D,0,2009-07-31,D,Heerenveen,0,0,Heerenveen_Roda JC_2009
+1,1,N1,AZ Alkmaar,H,0,2009-08-01,H,Heracles,3,2,Heracles_AZ Alkmaar_2009
+2,0,N1,Twente,A,1,2009-08-01,A,Sparta,0,2,Sparta_Twente_2009
+3,0,N1,Utrecht,A,1,2009-08-01,A,Waalwijk,0,1,Waalwijk_Utrecht_2009
+4,2,N1,Vitesse,H,0,2009-08-01,H,Willem II,3,1,Willem II_Vitesse_2009
+5,0,N1,NAC Breda,A,1,2009-08-02,A,Den Haag,1,2,Den Haag_NAC Breda_2009
+6,1,N1,Nijmegen,H,0,2009-08-02,H,Feyenoord,2,0,Feyenoord_Nijmegen_2009
+7,0,N1,Ajax,A,1,2009-08-02,A,Groningen,0,2,Groningen_Ajax_2009
+8,2,N1,VVV Venlo,D,0,2009-08-02,H,PSV Eindhoven,3,3,PSV Eindhoven_VVV Venlo_2009
+9,1,N1,Sparta,H,0,2009-08-07,H,AZ Alkmaar,2,0,AZ Alkmaar_Sparta_2009
+10,1,N1,Heerenveen,H,0,2009-08-07,H,Nijmegen,4,1,Nijmegen_Heerenveen_2009
+11,1,N1,Waalwijk,H,1,2009-08-08,D,Ajax,4,1,Ajax_Waalwijk_2009
+12,1,N1,Groningen,D,1,2009-08-08,D,Roda JC,1,1,Roda JC_Groningen_2009
+13,0,N1,Heracles,D,0,2009-08-09,D,NAC Breda,0,0,NAC Breda_Heracles_2009
+14,1,N1,PSV Eindhoven,D,1,2009-08-09,D,Twente,1,1,Twente_PSV Eindhoven_2009
+15,1,N1,Willem II,H,0,2009-08-09,H,Utrecht,1,0,Utrecht_Willem II_2009
+16,0,N1,Feyenoord,D,0,2009-08-09,D,Vitesse,0,0,Vitesse_Feyenoord_2009
+17,1,N1,Den Haag,D,2,2009-08-09,A,VVV Venlo,2,2,VVV Venlo_Den Haag_2009
+18,0,N1,Twente,A,0,2009-08-15,D,Den Haag,0,1,Den Haag_Twente_2009
+19,1,N1,Vitesse,H,0,2009-08-15,H,Heerenveen,1,0,Heerenveen_Vitesse_2009
+20,0,N1,Willem II,H,1,2009-08-15,A,Sparta,2,1,Sparta_Willem II_2009
+21,0,N1,AZ Alkmaar,A,1,2009-08-15,A,Waalwijk,0,6,Waalwijk_AZ Alkmaar_2009
+22,0,N1,NAC Breda,A,1,2009-08-16,A,Groningen,1,2,Groningen_NAC Breda_2009
+23,0,N1,Feyenoord,A,0,2009-08-16,D,Heracles,0,1,Heracles_Feyenoord_2009
+24,1,N1,Ajax,H,2,2009-08-16,A,PSV Eindhoven,4,3,PSV Eindhoven_Ajax_2009
+25,0,N1,Nijmegen,H,0,2009-08-16,D,Roda JC,1,0,Roda JC_Nijmegen_2009
+26,1,N1,VVV Venlo,D,1,2009-08-16,D,Utrecht,2,2,Utrecht_VVV Venlo_2009
+27,0,N1,Den Haag,A,2,2009-08-22,A,Vitesse,1,3,Vitesse_Den Haag_2009
+28,2,N1,Groningen,D,2,2009-08-22,D,VVV Venlo,2,2,VVV Venlo_Groningen_2009
+29,0,N1,Heracles,A,0,2009-08-22,D,Willem II,0,1,Willem II_Heracles_2009
+30,0,N1,Sparta,D,0,2009-08-23,D,Ajax,0,0,Ajax_Sparta_2009
+31,3,N1,Roda JC,H,0,2009-08-23,H,Feyenoord,4,0,Feyenoord_Roda JC_2009
+32,0,N1,AZ Alkmaar,A,1,2009-08-23,A,Heerenveen,0,2,Heerenveen_AZ Alkmaar_2009
+33,0,N1,NAC Breda,H,1,2009-08-23,A,PSV Eindhoven,3,1,PSV Eindhoven_NAC Breda_2009
+34,2,N1,Waalwijk,H,0,2009-08-23,H,Twente,2,1,Twente_Waalwijk_2009
+35,1,N1,Vitesse,A,2,2009-08-28,A,Roda JC,3,4,Roda JC_Vitesse_2009
+36,0,N1,Den Haag,A,1,2009-08-28,A,Waalwijk,0,2,Waalwijk_Den Haag_2009
+37,2,N1,Willem II,H,1,2009-08-29,H,AZ Alkmaar,2,1,AZ Alkmaar_Willem II_2009
+38,0,N1,VVV Venlo,D,1,2009-08-29,A,Nijmegen,1,1,Nijmegen_VVV Venlo_2009
+39,0,N1,Sparta,H,0,2009-08-29,D,Utrecht,2,0,Utrecht_Sparta_2009
+40,0,N1,Twente,D,0,2009-08-30,D,Feyenoord,1,1,Feyenoord_Twente_2009
+41,0,N1,PSV Eindhoven,A,0,2009-08-30,D,Groningen,0,2,Groningen_PSV Eindhoven_2009
+42,0,N1,Ajax,A,0,2009-08-30,D,Heracles,0,3,Heracles_Ajax_2009
+43,0,N1,Heerenveen,H,0,2009-08-30,D,NAC Breda,2,0,NAC Breda_Heerenveen_2009
+44,1,N1,AZ Alkmaar,H,0,2009-09-12,H,Den Haag,2,1,Den Haag_AZ Alkmaar_2009
+45,0,N1,Groningen,A,0,2009-09-12,D,Heerenveen,0,1,Heerenveen_Groningen_2009
+46,1,N1,Roda JC,H,0,2009-09-12,H,PSV Eindhoven,3,0,PSV Eindhoven_Roda JC_2009
+47,1,N1,Utrecht,H,1,2009-09-12,D,Twente,3,2,Twente_Utrecht_2009
+48,4,N1,NAC Breda,H,0,2009-09-13,H,Ajax,6,0,Ajax_NAC Breda_2009
+49,1,N1,Waalwijk,H,0,2009-09-13,H,Sparta,1,0,Sparta_Waalwijk_2009
+50,1,N1,Nijmegen,D,0,2009-09-13,H,Vitesse,2,2,Vitesse_Nijmegen_2009
+51,1,N1,Heracles,H,0,2009-09-13,H,VVV Venlo,1,0,VVV Venlo_Heracles_2009
+52,2,N1,Feyenoord,A,2,2009-09-13,D,Willem II,2,3,Willem II_Feyenoord_2009
+53,2,N1,Groningen,H,1,2009-09-18,H,Willem II,2,1,Willem II_Groningen_2009
+54,0,N1,Nijmegen,A,0,2009-09-19,D,AZ Alkmaar,0,1,AZ Alkmaar_Nijmegen_2009
+55,0,N1,Sparta,D,1,2009-09-19,A,Heracles,1,1,Heracles_Sparta_2009
+56,0,N1,NAC Breda,H,0,2009-09-19,D,Roda JC,2,0,Roda JC_NAC Breda_2009
+57,2,N1,Waalwijk,H,1,2009-09-19,H,Vitesse,3,1,Vitesse_Waalwijk_2009
+58,0,N1,Utrecht,A,0,2009-09-20,D,Den Haag,0,1,Den Haag_Utrecht_2009
+59,1,N1,PSV Eindhoven,A,3,2009-09-20,A,Feyenoord,1,3,Feyenoord_PSV Eindhoven_2009
+60,0,N1,Twente,A,1,2009-09-20,A,Heerenveen,0,2,Heerenveen_Twente_2009
+61,0,N1,Ajax,A,1,2009-09-20,A,VVV Venlo,0,4,VVV Venlo_Ajax_2009
+62,3,N1,Willem II,H,0,2009-09-26,H,PSV Eindhoven,3,1,PSV Eindhoven_Willem II_2009
+63,2,N1,VVV Venlo,H,1,2009-09-26,H,Twente,2,1,Twente_VVV Venlo_2009
+64,1,N1,AZ Alkmaar,H,0,2009-09-26,H,Utrecht,1,0,Utrecht_AZ Alkmaar_2009
+65,2,N1,Roda JC,H,1,2009-09-26,H,Waalwijk,4,1,Waalwijk_Roda JC_2009
+66,1,N1,Den Haag,H,0,2009-09-27,H,Ajax,3,0,Ajax_Den Haag_2009
+67,1,N1,Vitesse,H,0,2009-09-27,H,Groningen,1,0,Groningen_Vitesse_2009
+68,0,N1,Feyenoord,A,0,2009-09-27,D,NAC Breda,0,2,NAC Breda_Feyenoord_2009
+69,0,N1,Heracles,A,2,2009-09-27,A,Nijmegen,0,2,Nijmegen_Heracles_2009
+70,0,N1,Heerenveen,A,1,2009-09-27,A,Sparta,0,2,Sparta_Heerenveen_2009
+71,0,N1,Utrecht,D,1,2009-09-30,A,Nijmegen,1,1,Nijmegen_Utrecht_2009
+72,1,N1,Sparta,H,0,2009-10-02,H,Vitesse,2,0,Vitesse_Sparta_2009
+73,1,N1,NAC Breda,H,0,2009-10-03,H,AZ Alkmaar,1,0,AZ Alkmaar_NAC Breda_2009
+74,0,N1,Groningen,D,1,2009-10-03,A,Den Haag,1,1,Den Haag_Groningen_2009
+75,1,N1,Waalwijk,H,0,2009-10-03,H,Feyenoord,3,0,Feyenoord_Waalwijk_2009
+76,0,N1,Nijmegen,D,1,2009-10-03,A,Willem II,1,1,Willem II_Nijmegen_2009
+77,0,N1,VVV Venlo,D,0,2009-10-04,D,Heerenveen,1,1,Heerenveen_VVV Venlo_2009
+78,1,N1,Twente,A,1,2009-10-04,D,Heracles,1,3,Heracles_Twente_2009
+79,1,N1,Ajax,D,1,2009-10-04,D,Roda JC,2,2,Roda JC_Ajax_2009
+80,0,N1,PSV Eindhoven,D,0,2009-10-04,D,Utrecht,0,0,Utrecht_PSV Eindhoven_2009
+81,1,N1,Willem II,H,0,2009-10-17,H,Ajax,4,0,Ajax_Willem II_2009
+82,2,N1,Vitesse,H,0,2009-10-17,H,NAC Breda,4,0,NAC Breda_Vitesse_2009
+83,0,N1,Heerenveen,H,0,2009-10-17,D,PSV Eindhoven,1,0,PSV Eindhoven_Heerenveen_2009
+84,1,N1,AZ Alkmaar,H,0,2009-10-17,H,Twente,3,2,Twente_AZ Alkmaar_2009
+85,0,N1,Utrecht,D,0,2009-10-18,D,Groningen,0,0,Groningen_Utrecht_2009
+86,0,N1,Den Haag,D,1,2009-10-18,A,Nijmegen,1,1,Nijmegen_Den Haag_2009
+87,0,N1,Feyenoord,H,1,2009-10-18,A,Sparta,2,1,Sparta_Feyenoord_2009
+88,0,N1,Roda JC,D,1,2009-10-18,A,VVV Venlo,1,1,VVV Venlo_Roda JC_2009
+89,0,N1,Heracles,A,1,2009-10-18,A,Waalwijk,0,1,Waalwijk_Heracles_2009
+90,1,N1,Roda JC,H,0,2009-10-23,H,Utrecht,2,1,Utrecht_Roda JC_2009
+91,2,N1,Sparta,A,2,2009-10-24,D,Den Haag,2,3,Den Haag_Sparta_2009
+92,1,N1,VVV Venlo,H,0,2009-10-24,H,Feyenoord,1,0,Feyenoord_VVV Venlo_2009
+93,1,N1,Waalwijk,H,0,2009-10-24,H,NAC Breda,1,0,NAC Breda_Waalwijk_2009
+94,0,N1,Heracles,A,1,2009-10-24,A,Vitesse,0,2,Vitesse_Heracles_2009
+95,1,N1,Ajax,A,0,2009-10-25,H,AZ Alkmaar,2,4,AZ Alkmaar_Ajax_2009
+96,0,N1,PSV Eindhoven,A,2,2009-10-25,A,Nijmegen,0,4,Nijmegen_PSV Eindhoven_2009
+97,2,N1,Groningen,H,0,2009-10-25,H,Twente,4,0,Twente_Groningen_2009
+98,0,N1,Heerenveen,H,0,2009-10-25,D,Willem II,4,1,Willem II_Heerenveen_2009
+99,1,N1,NAC Breda,D,0,2009-10-30,H,VVV Venlo,1,1,VVV Venlo_NAC Breda_2009
+100,0,N1,AZ Alkmaar,A,0,2009-10-31,D,Groningen,0,1,Groningen_AZ Alkmaar_2009
+101,1,N1,Den Haag,H,0,2009-10-31,H,Heerenveen,3,0,Heerenveen_Den Haag_2009
+102,0,N1,Vitesse,H,0,2009-10-31,D,PSV Eindhoven,1,0,PSV Eindhoven_Vitesse_2009
+103,0,N1,Twente,A,2,2009-10-31,A,Roda JC,1,2,Roda JC_Twente_2009
+104,1,N1,Feyenoord,H,0,2009-11-01,H,Ajax,5,1,Ajax_Feyenoord_2009
+105,2,N1,Utrecht,H,1,2009-11-01,H,Heracles,3,1,Heracles_Utrecht_2009
+106,1,N1,Nijmegen,H,0,2009-11-01,H,Sparta,2,0,Sparta_Nijmegen_2009
+107,0,N1,Willem II,A,0,2009-11-01,D,Waalwijk,0,1,Waalwijk_Willem II_2009
+108,2,N1,Heracles,H,1,2009-11-06,H,Groningen,4,1,Groningen_Heracles_2009
+109,0,N1,Waalwijk,A,1,2009-11-07,A,Nijmegen,0,1,Nijmegen_Waalwijk_2009
+110,1,N1,Roda JC,A,1,2009-11-07,D,Sparta,1,2,Sparta_Roda JC_2009
+111,1,N1,VVV Venlo,H,0,2009-11-07,H,Vitesse,2,0,Vitesse_VVV Venlo_2009
+112,0,N1,Feyenoord,D,1,2009-11-08,A,AZ Alkmaar,1,1,AZ Alkmaar_Feyenoord_2009
+113,0,N1,PSV Eindhoven,A,3,2009-11-08,A,Den Haag,1,5,Den Haag_PSV Eindhoven_2009
+114,4,N1,Willem II,H,0,2009-11-08,H,NAC Breda,4,0,NAC Breda_Willem II_2009
+115,0,N1,Ajax,H,0,2009-11-08,D,Twente,1,0,Twente_Ajax_2009
+116,0,N1,Heerenveen,A,1,2009-11-08,A,Utrecht,2,3,Utrecht_Heerenveen_2009
+117,1,N1,Nijmegen,D,1,2009-11-21,D,NAC Breda,3,3,NAC Breda_Nijmegen_2009
+118,1,N1,AZ Alkmaar,A,1,2009-11-21,D,Roda JC,2,4,Roda JC_AZ Alkmaar_2009
+119,0,N1,Vitesse,H,0,2009-11-21,D,Twente,1,0,Twente_Vitesse_2009
+120,2,N1,Groningen,H,1,2009-11-21,H,Waalwijk,3,1,Waalwijk_Groningen_2009
+121,5,N1,Heerenveen,H,1,2009-11-22,H,Ajax,5,1,Ajax_Heerenveen_2009
+122,0,N1,Utrecht,D,0,2009-11-22,D,Feyenoord,0,0,Feyenoord_Utrecht_2009
+123,1,N1,Heracles,H,0,2009-11-22,H,PSV Eindhoven,4,0,PSV Eindhoven_Heracles_2009
+124,4,N1,Sparta,H,0,2009-11-22,H,VVV Venlo,5,0,VVV Venlo_Sparta_2009
+125,0,N1,Den Haag,D,0,2009-11-22,D,Willem II,1,1,Willem II_Den Haag_2009
+126,1,N1,PSV Eindhoven,A,1,2009-11-27,D,Sparta,2,3,Sparta_PSV Eindhoven_2009
+127,1,N1,VVV Venlo,H,0,2009-11-28,H,AZ Alkmaar,2,0,AZ Alkmaar_VVV Venlo_2009
+128,1,N1,Waalwijk,H,0,2009-11-28,H,Heerenveen,3,1,Heerenveen_Waalwijk_2009
+129,1,N1,Roda JC,H,0,2009-11-28,H,Heracles,3,2,Heracles_Roda JC_2009
+130,1,N1,Twente,A,2,2009-11-28,A,Willem II,1,3,Willem II_Twente_2009
+131,0,N1,Feyenoord,A,1,2009-11-29,A,Den Haag,0,2,Den Haag_Feyenoord_2009
+132,1,N1,Nijmegen,D,1,2009-11-29,D,Groningen,2,2,Groningen_Nijmegen_2009
+133,0,N1,NAC Breda,H,0,2009-11-29,D,Utrecht,3,1,Utrecht_NAC Breda_2009
+134,1,N1,Ajax,A,2,2009-11-29,A,Vitesse,1,5,Vitesse_Ajax_2009
+135,1,N1,Vitesse,A,0,2009-12-04,H,AZ Alkmaar,1,2,AZ Alkmaar_Vitesse_2009
+136,0,N1,Sparta,D,1,2009-12-04,A,NAC Breda,2,2,NAC Breda_Sparta_2009
+137,1,N1,Den Haag,D,0,2009-12-04,H,Roda JC,1,1,Roda JC_Den Haag_2009
+138,0,N1,Willem II,H,0,2009-12-04,D,VVV Venlo,2,1,VVV Venlo_Willem II_2009
+139,0,N1,Groningen,H,1,2009-12-06,A,Feyenoord,3,1,Feyenoord_Groningen_2009
+140,2,N1,Heerenveen,H,0,2009-12-06,H,Heracles,3,1,Heracles_Heerenveen_2009
+141,3,N1,Twente,A,3,2009-12-06,D,Nijmegen,3,4,Nijmegen_Twente_2009
+142,0,N1,Ajax,H,0,2009-12-06,D,Utrecht,2,0,Utrecht_Ajax_2009
+143,0,N1,PSV Eindhoven,A,0,2009-12-06,D,Waalwijk,0,2,Waalwijk_PSV Eindhoven_2009
+144,1,N1,Nijmegen,H,0,2009-12-11,H,Ajax,3,0,Ajax_Nijmegen_2009
+145,0,N1,Feyenoord,A,0,2009-12-12,D,Heerenveen,0,2,Heerenveen_Feyenoord_2009
+146,0,N1,AZ Alkmaar,H,0,2009-12-12,D,PSV Eindhoven,1,0,PSV Eindhoven_AZ Alkmaar_2009
+147,0,N1,NAC Breda,H,1,2009-12-12,A,Twente,3,1,Twente_NAC Breda_2009
+148,2,N1,Waalwijk,H,0,2009-12-12,H,VVV Venlo,3,0,VVV Venlo_Waalwijk_2009
+149,0,N1,Heracles,A,2,2009-12-13,A,Den Haag,1,4,Den Haag_Heracles_2009
+150,1,N1,Groningen,A,4,2009-12-13,A,Sparta,2,4,Sparta_Groningen_2009
+151,1,N1,Utrecht,D,2,2009-12-13,A,Vitesse,2,2,Vitesse_Utrecht_2009
+152,1,N1,Roda JC,A,1,2009-12-13,D,Willem II,1,3,Willem II_Roda JC_2009
+153,0,N1,VVV Venlo,H,0,2009-12-18,D,Heracles,1,0,Heracles_VVV Venlo_2009
+154,2,N1,Den Haag,H,0,2009-12-19,H,AZ Alkmaar,3,0,AZ Alkmaar_Den Haag_2009
+155,1,N1,Willem II,H,0,2009-12-19,H,Feyenoord,1,0,Feyenoord_Willem II_2009
+156,3,N1,Sparta,H,0,2009-12-19,H,Waalwijk,4,1,Waalwijk_Sparta_2009
+157,1,N1,Ajax,D,1,2010-01-17,D,NAC Breda,1,1,NAC Breda_Ajax_2009
+158,1,N1,Vitesse,H,1,2010-01-17,D,Nijmegen,2,1,Nijmegen_Vitesse_2009
+159,0,N1,Twente,D,0,2010-01-17,D,Utrecht,0,0,Utrecht_Twente_2009
+160,0,N1,PSV Eindhoven,A,1,2010-01-19,A,Roda JC,0,1,Roda JC_PSV Eindhoven_2009
+161,1,N1,Heerenveen,H,0,2010-01-20,H,Groningen,2,0,Groningen_Heerenveen_2009
+162,1,N1,Nijmegen,H,0,2010-01-22,H,PSV Eindhoven,3,0,PSV Eindhoven_Nijmegen_2009
+163,0,N1,Willem II,H,0,2010-01-23,D,Heerenveen,4,2,Heerenveen_Willem II_2009
+164,0,N1,Vitesse,A,0,2010-01-23,D,Heracles,1,2,Heracles_Vitesse_2009
+165,1,N1,Utrecht,H,0,2010-01-23,H,Roda JC,2,0,Roda JC_Utrecht_2009
+166,0,N1,NAC Breda,A,0,2010-01-23,D,Waalwijk,0,1,Waalwijk_NAC Breda_2009
+167,0,N1,AZ Alkmaar,H,0,2010-01-24,D,Ajax,1,0,Ajax_AZ Alkmaar_2009
+168,0,N1,Twente,D,0,2010-01-24,D,Groningen,0,0,Groningen_Twente_2009
+169,0,N1,Den Haag,D,0,2010-01-24,D,Sparta,0,0,Sparta_Den Haag_2009
+170,0,N1,Feyenoord,D,0,2010-01-24,D,VVV Venlo,1,1,VVV Venlo_Feyenoord_2009
+171,1,N1,Waalwijk,H,1,2010-01-29,D,Willem II,2,1,Willem II_Waalwijk_2009
+172,0,N1,Groningen,A,0,2010-01-30,D,AZ Alkmaar,0,1,AZ Alkmaar_Groningen_2009
+173,0,N1,Heerenveen,H,1,2010-01-30,A,Den Haag,2,1,Den Haag_Heerenveen_2009
+174,1,N1,VVV Venlo,H,0,2010-01-30,H,NAC Breda,2,0,NAC Breda_VVV Venlo_2009
+175,0,N1,Sparta,H,0,2010-01-30,D,Nijmegen,1,0,Nijmegen_Sparta_2009
+176,0,N1,Ajax,D,1,2010-01-31,A,Feyenoord,1,1,Feyenoord_Ajax_2009
+177,0,N1,Roda JC,H,0,2010-01-31,D,Twente,2,0,Twente_Roda JC_2009
+178,0,N1,Heracles,D,0,2010-01-31,D,Utrecht,0,0,Utrecht_Heracles_2009
+179,0,N1,PSV Eindhoven,D,0,2010-01-31,D,Vitesse,0,0,Vitesse_PSV Eindhoven_2009
+180,0,N1,AZ Alkmaar,D,0,2010-02-02,D,NAC Breda,1,1,NAC Breda_AZ Alkmaar_2009
+181,3,N1,Heerenveen,H,1,2010-02-02,H,VVV Venlo,3,1,VVV Venlo_Heerenveen_2009
+182,0,N1,Roda JC,H,0,2010-02-03,D,Ajax,4,0,Ajax_Roda JC_2009
+183,1,N1,Den Haag,H,0,2010-02-03,H,Groningen,2,0,Groningen_Den Haag_2009
+184,1,N1,Utrecht,H,1,2010-02-03,D,PSV Eindhoven,2,1,PSV Eindhoven_Utrecht_2009
+185,0,N1,Vitesse,D,0,2010-02-03,D,Sparta,1,1,Sparta_Vitesse_2009
+186,1,N1,Heracles,H,0,2010-02-03,H,Twente,2,0,Twente_Heracles_2009
+187,0,N1,Feyenoord,A,0,2010-02-04,D,Waalwijk,0,1,Waalwijk_Feyenoord_2009
+188,1,N1,NAC Breda,A,1,2010-02-05,D,Willem II,1,2,Willem II_NAC Breda_2009
+189,1,N1,Utrecht,H,0,2010-02-06,H,Heerenveen,2,0,Heerenveen_Utrecht_2009
+190,0,N1,Groningen,H,2,2010-02-06,A,Heracles,4,3,Heracles_Groningen_2009
+191,1,N1,Den Haag,H,0,2010-02-06,H,PSV Eindhoven,2,0,PSV Eindhoven_Den Haag_2009
+192,1,N1,Sparta,H,0,2010-02-06,H,Roda JC,2,1,Roda JC_Sparta_2009
+193,2,N1,Twente,H,0,2010-02-07,H,Ajax,3,0,Ajax_Twente_2009
+194,1,N1,AZ Alkmaar,A,1,2010-02-07,D,Feyenoord,1,2,Feyenoord_AZ Alkmaar_2009
+195,1,N1,Vitesse,H,0,2010-02-07,H,VVV Venlo,2,0,VVV Venlo_Vitesse_2009
+196,0,N1,Nijmegen,A,0,2010-02-07,D,Waalwijk,0,1,Waalwijk_Nijmegen_2009
+197,2,N1,NAC Breda,H,2,2010-02-12,D,Nijmegen,4,2,Nijmegen_NAC Breda_2009
+198,0,N1,Roda JC,H,0,2010-02-13,D,AZ Alkmaar,2,0,AZ Alkmaar_Roda JC_2009
+199,1,N1,Willem II,H,0,2010-02-13,H,Den Haag,3,0,Den Haag_Willem II_2009
+200,0,N1,Ajax,A,0,2010-02-13,D,Heerenveen,0,2,Heerenveen_Ajax_2009
+201,0,N1,Twente,A,0,2010-02-13,D,Vitesse,1,2,Vitesse_Twente_2009
+202,1,N1,Waalwijk,H,0,2010-02-14,H,Groningen,2,1,Groningen_Waalwijk_2009
+203,0,N1,PSV Eindhoven,A,0,2010-02-14,D,Heracles,0,1,Heracles_PSV Eindhoven_2009
+204,2,N1,VVV Venlo,H,0,2010-02-14,H,Sparta,2,0,Sparta_VVV Venlo_2009
+205,0,N1,Feyenoord,D,0,2010-02-14,D,Utrecht,0,0,Utrecht_Feyenoord_2009
+206,2,N1,Willem II,H,0,2010-02-17,H,Nijmegen,2,1,Nijmegen_Willem II_2009
+207,0,N1,Heracles,H,1,2010-02-19,A,Roda JC,2,1,Roda JC_Heracles_2009
+208,0,N1,Utrecht,A,1,2010-02-20,A,NAC Breda,0,2,NAC Breda_Utrecht_2009
+209,0,N1,Groningen,A,1,2010-02-20,A,Nijmegen,0,2,Nijmegen_Groningen_2009
+210,0,N1,AZ Alkmaar,D,1,2010-02-20,A,VVV Venlo,3,3,VVV Venlo_AZ Alkmaar_2009
+211,0,N1,Heerenveen,A,1,2010-02-20,A,Waalwijk,1,2,Waalwijk_Heerenveen_2009
+212,3,N1,Vitesse,H,0,2010-02-21,H,Ajax,4,0,Ajax_Vitesse_2009
+213,1,N1,Den Haag,D,1,2010-02-21,D,Feyenoord,2,2,Feyenoord_Den Haag_2009
+214,1,N1,Sparta,D,0,2010-02-21,H,PSV Eindhoven,1,1,PSV Eindhoven_Sparta_2009
+215,0,N1,Willem II,H,0,2010-02-21,D,Twente,1,0,Twente_Willem II_2009
+216,1,N1,Roda JC,A,1,2010-02-26,D,Den Haag,1,2,Den Haag_Roda JC_2009
+217,0,N1,Heracles,A,0,2010-02-27,D,Heerenveen,1,2,Heerenveen_Heracles_2009
+218,0,N1,AZ Alkmaar,A,1,2010-02-27,A,Vitesse,0,3,Vitesse_AZ Alkmaar_2009
+219,1,N1,VVV Venlo,H,1,2010-02-27,D,Willem II,2,1,Willem II_VVV Venlo_2009
+220,1,N1,Utrecht,H,0,2010-02-28,H,Ajax,4,0,Ajax_Utrecht_2009
+221,0,N1,Feyenoord,A,0,2010-02-28,D,Groningen,2,3,Groningen_Feyenoord_2009
+222,4,N1,Waalwijk,H,0,2010-02-28,H,PSV Eindhoven,5,1,PSV Eindhoven_Waalwijk_2009
+223,1,N1,NAC Breda,D,1,2010-02-28,D,Sparta,2,2,Sparta_NAC Breda_2009
+224,1,N1,Nijmegen,H,0,2010-02-28,H,Twente,2,1,Twente_Nijmegen_2009
+225,2,N1,Heerenveen,H,1,2010-03-06,H,AZ Alkmaar,4,1,AZ Alkmaar_Heerenveen_2009
+226,0,N1,Vitesse,D,0,2010-03-06,D,Den Haag,1,1,Den Haag_Vitesse_2009
+227,2,N1,Willem II,H,1,2010-03-06,H,Heracles,3,2,Heracles_Willem II_2009
+228,1,N1,PSV Eindhoven,H,1,2010-03-06,D,NAC Breda,2,1,NAC Breda_PSV Eindhoven_2009
+229,0,N1,VVV Venlo,H,0,2010-03-07,D,Groningen,1,0,Groningen_VVV Venlo_2009
+230,0,N1,Feyenoord,A,1,2010-03-07,A,Roda JC,2,4,Roda JC_Feyenoord_2009
+231,0,N1,Ajax,A,2,2010-03-07,A,Sparta,0,3,Sparta_Ajax_2009
+232,0,N1,Nijmegen,H,0,2010-03-07,D,Utrecht,1,0,Utrecht_Nijmegen_2009
+233,0,N1,Twente,A,0,2010-03-07,D,Waalwijk,0,1,Waalwijk_Twente_2009
+234,1,N1,Den Haag,H,1,2010-03-12,D,Twente,3,1,Twente_Den Haag_2009
+235,4,N1,Waalwijk,H,1,2010-03-13,H,AZ Alkmaar,6,2,AZ Alkmaar_Waalwijk_2009
+236,0,N1,Groningen,A,2,2010-03-13,A,NAC Breda,0,3,NAC Breda_Groningen_2009
+237,0,N1,Roda JC,A,1,2010-03-13,A,Nijmegen,0,2,Nijmegen_Roda JC_2009
+238,0,N1,Utrecht,A,0,2010-03-13,D,VVV Venlo,0,1,VVV Venlo_Utrecht_2009
+239,2,N1,PSV Eindhoven,H,0,2010-03-14,H,Ajax,4,1,Ajax_PSV Eindhoven_2009
+240,0,N1,Heracles,D,0,2010-03-14,D,Feyenoord,1,1,Feyenoord_Heracles_2009
+241,0,N1,Heerenveen,A,0,2010-03-14,D,Vitesse,0,1,Vitesse_Heerenveen_2009
+242,2,N1,Sparta,H,0,2010-03-14,H,Willem II,3,1,Willem II_Sparta_2009
+243,1,N1,Nijmegen,H,1,2010-03-19,D,Heerenveen,4,1,Heerenveen_Nijmegen_2009
+244,2,N1,NAC Breda,H,0,2010-03-20,H,Heracles,3,0,Heracles_NAC Breda_2009
+245,0,N1,Twente,D,0,2010-03-20,D,PSV Eindhoven,1,1,PSV Eindhoven_Twente_2009
+246,0,N1,Utrecht,A,1,2010-03-20,A,Willem II,0,3,Willem II_Utrecht_2009
+247,0,N1,VVV Venlo,D,0,2010-03-21,D,Den Haag,0,0,Den Haag_VVV Venlo_2009
+248,1,N1,Roda JC,H,0,2010-03-21,H,Groningen,1,0,Groningen_Roda JC_2009
+249,0,N1,AZ Alkmaar,A,1,2010-03-21,A,Sparta,0,1,Sparta_AZ Alkmaar_2009
+250,1,N1,Ajax,A,1,2010-03-21,D,Waalwijk,1,5,Waalwijk_Ajax_2009
+251,1,N1,Den Haag,H,0,2010-03-26,H,NAC Breda,3,0,NAC Breda_Den Haag_2009
+252,1,N1,Heracles,H,0,2010-03-27,H,AZ Alkmaar,3,2,AZ Alkmaar_Heracles_2009
+253,4,N1,Heerenveen,H,0,2010-03-27,H,Roda JC,4,2,Roda JC_Heerenveen_2009
+254,0,N1,Sparta,H,0,2010-03-27,D,Twente,3,0,Twente_Sparta_2009
+255,1,N1,Willem II,H,1,2010-03-27,D,Vitesse,2,1,Vitesse_Willem II_2009
+256,1,N1,Groningen,H,0,2010-03-28,H,Ajax,3,0,Ajax_Groningen_2009
+257,0,N1,Feyenoord,D,0,2010-03-28,D,Nijmegen,0,0,Nijmegen_Feyenoord_2009
+258,2,N1,Waalwijk,H,0,2010-03-28,H,Utrecht,2,0,Utrecht_Waalwijk_2009
+259,0,N1,PSV Eindhoven,A,2,2010-03-28,A,VVV Venlo,2,4,VVV Venlo_PSV Eindhoven_2009
+260,1,N1,Vitesse,H,1,2010-03-31,D,Feyenoord,2,1,Feyenoord_Vitesse_2009
+261,0,N1,Groningen,H,0,2010-04-02,D,Vitesse,3,0,Vitesse_Groningen_2009
+262,1,N1,Utrecht,H,0,2010-04-03,H,AZ Alkmaar,2,0,AZ Alkmaar_Utrecht_2009
+263,3,N1,Sparta,H,0,2010-04-03,H,Heerenveen,4,1,Heerenveen_Sparta_2009
+264,2,N1,Waalwijk,H,1,2010-04-03,H,Roda JC,5,1,Roda JC_Waalwijk_2009
+265,0,N1,Twente,A,1,2010-04-03,A,VVV Venlo,0,2,VVV Venlo_Twente_2009
+266,0,N1,Ajax,A,0,2010-04-04,D,Den Haag,0,1,Den Haag_Ajax_2009
+267,0,N1,NAC Breda,D,0,2010-04-04,D,Feyenoord,0,0,Feyenoord_NAC Breda_2009
+268,0,N1,Nijmegen,H,0,2010-04-04,D,Heracles,2,0,Heracles_Nijmegen_2009
+269,0,N1,PSV Eindhoven,A,0,2010-04-04,D,Willem II,0,1,Willem II_PSV Eindhoven_2009
+270,2,N1,Vitesse,H,0,2010-04-09,H,Waalwijk,4,1,Waalwijk_Vitesse_2009
+271,1,N1,Roda JC,H,0,2010-04-10,H,NAC Breda,1,0,NAC Breda_Roda JC_2009
+272,0,N1,AZ Alkmaar,D,0,2010-04-10,D,Nijmegen,0,0,Nijmegen_AZ Alkmaar_2009
+273,0,N1,Heracles,D,0,2010-04-10,D,Sparta,1,1,Sparta_Heracles_2009
+274,0,N1,Heerenveen,H,0,2010-04-10,D,Twente,2,0,Twente_Heerenveen_2009
+275,5,N1,VVV Venlo,H,0,2010-04-11,H,Ajax,7,0,Ajax_VVV Venlo_2009
+276,3,N1,Willem II,H,0,2010-04-11,H,Groningen,4,0,Groningen_Willem II_2009
+277,0,N1,Feyenoord,D,0,2010-04-11,D,PSV Eindhoven,0,0,PSV Eindhoven_Feyenoord_2009
+278,0,N1,Den Haag,A,2,2010-04-11,A,Utrecht,0,2,Utrecht_Den Haag_2009
+279,1,N1,Twente,H,0,2010-04-13,H,AZ Alkmaar,1,0,AZ Alkmaar_Twente_2009
+280,1,N1,Waalwijk,H,0,2010-04-13,H,Heracles,4,1,Heracles_Waalwijk_2009
+281,1,N1,NAC Breda,D,0,2010-04-13,H,Vitesse,1,1,Vitesse_NAC Breda_2009
+282,1,N1,Nijmegen,A,0,2010-04-14,H,Den Haag,2,3,Den Haag_Nijmegen_2009
+283,1,N1,Sparta,H,0,2010-04-14,H,Feyenoord,3,0,Feyenoord_Sparta_2009
+284,0,N1,PSV Eindhoven,D,0,2010-04-14,D,Heerenveen,2,2,Heerenveen_PSV Eindhoven_2009
+285,2,N1,VVV Venlo,H,2,2010-04-14,D,Roda JC,4,2,Roda JC_VVV Venlo_2009
+286,1,N1,Groningen,D,1,2010-04-14,D,Utrecht,1,1,Utrecht_Groningen_2009
+287,0,N1,Ajax,A,1,2010-04-14,A,Willem II,0,2,Willem II_Ajax_2009
+288,2,N1,Heracles,H,0,2010-04-18,H,Ajax,4,0,Ajax_Heracles_2009
+289,2,N1,Waalwijk,H,0,2010-04-18,H,Den Haag,4,0,Den Haag_Waalwijk_2009
+290,0,N1,NAC Breda,D,0,2010-04-18,D,Heerenveen,0,0,Heerenveen_NAC Breda_2009
+291,1,N1,Groningen,H,1,2010-04-18,D,PSV Eindhoven,3,1,PSV Eindhoven_Groningen_2009
+292,0,N1,Utrecht,A,1,2010-04-18,A,Sparta,0,3,Sparta_Utrecht_2009
+293,1,N1,Feyenoord,H,0,2010-04-18,H,Twente,2,0,Twente_Feyenoord_2009
+294,1,N1,Roda JC,A,3,2010-04-18,A,Vitesse,2,5,Vitesse_Roda JC_2009
+295,1,N1,Nijmegen,H,0,2010-04-18,H,VVV Venlo,2,0,VVV Venlo_Nijmegen_2009
+296,0,N1,AZ Alkmaar,A,1,2010-04-18,A,Willem II,0,3,Willem II_AZ Alkmaar_2009
+297,0,N1,PSV Eindhoven,D,0,2010-05-02,D,AZ Alkmaar,1,1,AZ Alkmaar_PSV Eindhoven_2009
+298,2,N1,Heerenveen,H,2,2010-05-02,D,Feyenoord,6,2,Feyenoord_Heerenveen_2009
+299,1,N1,Sparta,H,0,2010-05-02,H,Groningen,3,1,Groningen_Sparta_2009
+300,2,N1,Den Haag,H,0,2010-05-02,H,Heracles,4,2,Heracles_Den Haag_2009
+301,0,N1,Twente,A,1,2010-05-02,A,NAC Breda,0,2,NAC Breda_Twente_2009
+302,0,N1,Ajax,A,3,2010-05-02,A,Nijmegen,1,4,Nijmegen_Ajax_2009
+303,1,N1,Willem II,H,0,2010-05-02,H,Roda JC,3,2,Roda JC_Willem II_2009
+304,1,N1,Vitesse,D,0,2010-05-02,H,Utrecht,2,2,Utrecht_Vitesse_2009
+305,0,N1,VVV Venlo,A,0,2010-05-02,D,Waalwijk,1,2,Waalwijk_VVV Venlo_2009

@@ -1,0 +1,307 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,0,N1,Feyenoord,A,0,2011-08-05,D,Excelsior,0,2,Excelsior_Feyenoord_2011
+1,0,N1,Nijmegen,D,0,2011-08-06,D,Heerenveen,2,2,Heerenveen_Nijmegen_2011
+2,0,N1,Groningen,H,1,2011-08-06,A,Roda,2,1,Roda_Groningen_2011
+3,0,N1,Utrecht,D,0,2011-08-06,D,VVV Venlo,0,0,VVV Venlo_Utrecht_2011
+4,0,N1,Heracles,D,1,2011-08-06,A,Waalwijk,2,2,Waalwijk_Heracles_2011
+5,2,N1,PSV Eindhoven,H,1,2011-08-07,H,AZ Alkmaar,3,1,AZ Alkmaar_PSV Eindhoven_2011
+6,0,N1,Vitesse,D,0,2011-08-07,D,Den Haag,0,0,Den Haag_Vitesse_2011
+7,1,N1,Ajax,A,2,2011-08-07,A,Graafschap,1,4,Graafschap_Ajax_2011
+8,0,N1,Twente,A,1,2011-08-07,A,NAC Breda,0,1,NAC Breda_Twente_2011
+9,1,N1,Roda,H,0,2011-08-13,H,Feyenoord,3,0,Feyenoord_Roda_2011
+10,1,N1,Waalwijk,H,0,2011-08-13,H,PSV Eindhoven,1,0,PSV Eindhoven_Waalwijk_2011
+11,1,N1,AZ Alkmaar,H,0,2011-08-13,H,Twente,2,0,Twente_AZ Alkmaar_2011
+12,2,N1,VVV Venlo,H,0,2011-08-13,H,Vitesse,4,0,Vitesse_VVV Venlo_2011
+13,2,N1,Heerenveen,H,1,2011-08-14,H,Ajax,5,1,Ajax_Heerenveen_2011
+14,3,N1,Den Haag,H,0,2011-08-14,H,Groningen,4,2,Groningen_Den Haag_2011
+15,0,N1,NAC Breda,H,1,2011-08-14,A,Heracles,2,1,Heracles_NAC Breda_2011
+16,0,N1,Graafschap,D,1,2011-08-14,A,Utrecht,2,2,Utrecht_Graafschap_2011
+17,0,N1,Excelsior,H,0,2011-08-15,D,Nijmegen,2,0,Nijmegen_Excelsior_2011
+18,0,N1,Waalwijk,A,0,2011-08-19,D,Roda,0,2,Roda_Waalwijk_2011
+19,0,N1,Graafschap,D,1,2011-08-20,A,Excelsior,1,1,Excelsior_Graafschap_2011
+20,0,N1,Twente,A,3,2011-08-20,A,Heerenveen,1,5,Heerenveen_Twente_2011
+21,0,N1,Groningen,D,2,2011-08-20,A,NAC Breda,2,2,NAC Breda_Groningen_2011
+22,1,N1,Utrecht,H,1,2011-08-20,D,Vitesse,2,1,Vitesse_Utrecht_2011
+23,0,N1,Nijmegen,H,0,2011-08-21,D,AZ Alkmaar,4,0,AZ Alkmaar_Nijmegen_2011
+24,0,N1,PSV Eindhoven,A,3,2011-08-21,A,Den Haag,0,3,Den Haag_PSV Eindhoven_2011
+25,0,N1,Feyenoord,D,0,2011-08-21,D,Heracles,1,1,Heracles_Feyenoord_2011
+26,0,N1,Ajax,D,0,2011-08-21,D,VVV Venlo,2,2,VVV Venlo_Ajax_2011
+27,0,N1,Vitesse,H,0,2011-08-26,D,Ajax,4,1,Ajax_Vitesse_2011
+28,2,N1,Heracles,H,1,2011-08-27,H,Nijmegen,2,1,Nijmegen_Heracles_2011
+29,3,N1,VVV Venlo,H,1,2011-08-27,H,Twente,4,1,Twente_VVV Venlo_2011
+30,1,N1,Roda,H,1,2011-08-27,D,Utrecht,3,1,Utrecht_Roda_2011
+31,1,N1,NAC Breda,H,0,2011-08-27,H,Waalwijk,2,1,Waalwijk_NAC Breda_2011
+32,1,N1,Heerenveen,D,1,2011-08-28,D,Feyenoord,2,2,Feyenoord_Heerenveen_2011
+33,0,N1,Den Haag,A,1,2011-08-28,A,Graafschap,0,3,Graafschap_Den Haag_2011
+34,0,N1,AZ Alkmaar,A,1,2011-08-28,A,Groningen,0,3,Groningen_AZ Alkmaar_2011
+35,1,N1,Excelsior,H,1,2011-08-28,D,PSV Eindhoven,6,1,PSV Eindhoven_Excelsior_2011
+36,4,N1,Vitesse,H,0,2011-09-10,H,AZ Alkmaar,4,0,AZ Alkmaar_Vitesse_2011
+37,0,N1,Waalwijk,A,1,2011-09-10,A,Den Haag,0,1,Den Haag_Waalwijk_2011
+38,1,N1,Nijmegen,H,0,2011-09-10,H,Graafschap,1,0,Graafschap_Nijmegen_2011
+39,1,N1,Ajax,A,1,2011-09-10,D,Heracles,2,3,Heracles_Ajax_2011
+40,1,N1,Twente,H,1,2011-09-10,D,Roda,2,1,Roda_Twente_2011
+41,1,N1,Utrecht,A,2,2011-09-11,A,Excelsior,2,3,Excelsior_Utrecht_2011
+42,1,N1,Groningen,H,0,2011-09-11,H,Heerenveen,3,0,Heerenveen_Groningen_2011
+43,1,N1,Feyenoord,A,1,2011-09-11,D,NAC Breda,1,3,NAC Breda_Feyenoord_2011
+44,0,N1,PSV Eindhoven,D,2,2011-09-11,A,VVV Venlo,3,3,VVV Venlo_PSV Eindhoven_2011
+45,1,N1,NAC Breda,A,0,2011-09-16,H,Nijmegen,1,2,Nijmegen_NAC Breda_2011
+46,0,N1,Graafschap,H,0,2011-09-17,D,Feyenoord,4,0,Feyenoord_Graafschap_2011
+47,1,N1,Excelsior,H,0,2011-09-17,H,Groningen,2,0,Groningen_Excelsior_2011
+48,0,N1,Roda,H,0,2011-09-17,D,Vitesse,5,0,Vitesse_Roda_2011
+49,0,N1,Heerenveen,A,0,2011-09-17,D,VVV Venlo,0,3,VVV Venlo_Heerenveen_2011
+50,1,N1,Ajax,D,1,2011-09-18,D,PSV Eindhoven,2,2,PSV Eindhoven_Ajax_2011
+51,1,N1,Den Haag,H,1,2011-09-18,D,Twente,5,2,Twente_Den Haag_2011
+52,1,N1,Heracles,D,2,2011-09-18,A,Utrecht,2,2,Utrecht_Heracles_2011
+53,1,N1,AZ Alkmaar,A,1,2011-09-18,D,Waalwijk,1,2,Waalwijk_AZ Alkmaar_2011
+54,1,N1,Twente,D,0,2011-09-24,H,Ajax,1,1,Ajax_Twente_2011
+55,2,N1,VVV Venlo,H,0,2011-09-24,H,Den Haag,2,0,Den Haag_VVV Venlo_2011
+56,1,N1,Heracles,D,0,2011-09-24,H,Heerenveen,1,1,Heerenveen_Heracles_2011
+57,0,N1,Utrecht,H,0,2011-09-24,D,NAC Breda,1,0,NAC Breda_Utrecht_2011
+58,4,N1,Roda,H,0,2011-09-24,H,PSV Eindhoven,7,1,PSV Eindhoven_Roda_2011
+59,0,N1,Feyenoord,H,1,2011-09-25,A,AZ Alkmaar,2,1,AZ Alkmaar_Feyenoord_2011
+60,0,N1,Vitesse,A,2,2011-09-25,A,Excelsior,0,2,Excelsior_Vitesse_2011
+61,0,N1,Groningen,A,0,2011-09-25,D,Graafschap,2,3,Graafschap_Groningen_2011
+62,1,N1,Nijmegen,H,0,2011-09-25,H,Waalwijk,2,0,Waalwijk_Nijmegen_2011
+63,1,N1,Graafschap,H,0,2011-09-30,H,Heracles,2,0,Heracles_Graafschap_2011
+64,3,N1,NAC Breda,H,1,2011-10-01,H,Roda,4,3,Roda_NAC Breda_2011
+65,1,N1,Waalwijk,H,0,2011-10-01,H,Utrecht,3,0,Utrecht_Waalwijk_2011
+66,0,N1,Heerenveen,D,0,2011-10-01,D,Vitesse,1,1,Vitesse_Heerenveen_2011
+67,0,N1,Den Haag,A,2,2011-10-02,A,Feyenoord,0,3,Feyenoord_Den Haag_2011
+68,0,N1,Ajax,H,0,2011-10-02,D,Groningen,1,0,Groningen_Ajax_2011
+69,0,N1,PSV Eindhoven,A,0,2011-10-02,D,Nijmegen,0,2,Nijmegen_PSV Eindhoven_2011
+70,1,N1,Excelsior,D,0,2011-10-02,H,Twente,2,2,Twente_Excelsior_2011
+71,0,N1,AZ Alkmaar,A,1,2011-10-02,A,VVV Venlo,1,3,VVV Venlo_AZ Alkmaar_2011
+72,0,N1,AZ Alkmaar,D,2,2011-10-15,A,Ajax,2,2,Ajax_AZ Alkmaar_2011
+73,1,N1,Graafschap,D,1,2011-10-15,D,Heerenveen,1,1,Heerenveen_Graafschap_2011
+74,1,N1,Groningen,H,0,2011-10-15,H,Heracles,2,1,Heracles_Groningen_2011
+75,0,N1,Utrecht,H,0,2011-10-15,D,PSV Eindhoven,1,0,PSV Eindhoven_Utrecht_2011
+76,0,N1,Twente,A,1,2011-10-15,A,Waalwijk,0,4,Waalwijk_Twente_2011
+77,1,N1,VVV Venlo,H,0,2011-10-16,H,Feyenoord,4,0,Feyenoord_VVV Venlo_2011
+78,1,N1,Excelsior,H,0,2011-10-16,H,NAC Breda,2,0,NAC Breda_Excelsior_2011
+79,0,N1,Vitesse,A,1,2011-10-16,A,Nijmegen,0,1,Nijmegen_Vitesse_2011
+80,1,N1,Den Haag,H,1,2011-10-16,D,Roda,4,1,Roda_Den Haag_2011
+81,1,N1,NAC Breda,H,0,2011-10-21,H,Graafschap,3,1,Graafschap_NAC Breda_2011
+82,1,N1,Nijmegen,H,0,2011-10-22,H,Den Haag,1,0,Den Haag_Nijmegen_2011
+83,0,N1,Heracles,A,1,2011-10-22,A,Excelsior,0,2,Excelsior_Heracles_2011
+84,0,N1,Heerenveen,A,1,2011-10-22,A,Utrecht,1,4,Utrecht_Heerenveen_2011
+85,2,N1,Waalwijk,H,0,2011-10-22,H,VVV Venlo,4,1,VVV Venlo_Waalwijk_2011
+86,0,N1,Feyenoord,D,0,2011-10-23,D,Ajax,1,1,Ajax_Feyenoord_2011
+87,0,N1,Roda,H,0,2011-10-23,D,AZ Alkmaar,1,0,AZ Alkmaar_Roda_2011
+88,0,N1,Twente,D,1,2011-10-23,A,Groningen,1,1,Groningen_Twente_2011
+89,0,N1,PSV Eindhoven,D,1,2011-10-23,A,Vitesse,1,1,Vitesse_PSV Eindhoven_2011
+90,3,N1,VVV Venlo,H,1,2011-10-28,H,NAC Breda,3,1,NAC Breda_VVV Venlo_2011
+91,1,N1,Waalwijk,H,0,2011-10-29,H,Excelsior,1,0,Excelsior_Waalwijk_2011
+92,1,N1,Den Haag,H,0,2011-10-29,H,Heerenveen,4,0,Heerenveen_Den Haag_2011
+93,0,N1,Ajax,A,1,2011-10-29,A,Roda,0,4,Roda_Ajax_2011
+94,1,N1,PSV Eindhoven,D,1,2011-10-29,D,Twente,2,2,Twente_PSV Eindhoven_2011
+95,0,N1,Vitesse,A,0,2011-10-30,D,Graafschap,0,1,Graafschap_Vitesse_2011
+96,3,N1,Feyenoord,H,0,2011-10-30,H,Groningen,6,0,Groningen_Feyenoord_2011
+97,0,N1,AZ Alkmaar,A,0,2011-10-30,D,Heracles,0,1,Heracles_AZ Alkmaar_2011
+98,2,N1,Utrecht,H,0,2011-10-30,H,Nijmegen,3,1,Nijmegen_Utrecht_2011
+99,0,N1,Excelsior,D,0,2011-11-04,D,VVV Venlo,0,0,VVV Venlo_Excelsior_2011
+100,0,N1,Nijmegen,A,1,2011-11-05,A,Feyenoord,0,1,Feyenoord_Nijmegen_2011
+101,1,N1,Vitesse,H,0,2011-11-05,H,NAC Breda,1,0,NAC Breda_Vitesse_2011
+102,0,N1,Heerenveen,A,1,2011-11-05,A,Roda,1,2,Roda_Heerenveen_2011
+103,1,N1,Groningen,D,0,2011-11-05,H,Waalwijk,1,1,Waalwijk_Groningen_2011
+104,1,N1,Den Haag,H,0,2011-11-06,H,AZ Alkmaar,3,0,AZ Alkmaar_Den Haag_2011
+105,0,N1,Heracles,H,1,2011-11-06,A,PSV Eindhoven,4,1,PSV Eindhoven_Heracles_2011
+106,1,N1,Graafschap,H,0,2011-11-06,H,Twente,4,0,Twente_Graafschap_2011
+107,2,N1,Ajax,H,3,2011-11-06,A,Utrecht,6,4,Utrecht_Ajax_2011
+108,1,N1,NAC Breda,D,0,2011-11-19,H,Ajax,2,2,Ajax_NAC Breda_2011
+109,1,N1,PSV Eindhoven,A,1,2011-11-19,D,Graafschap,1,3,Graafschap_PSV Eindhoven_2011
+110,0,N1,Waalwijk,D,1,2011-11-19,A,Heerenveen,1,1,Heerenveen_Waalwijk_2011
+111,0,N1,Twente,D,0,2011-11-19,D,Heracles,1,1,Heracles_Twente_2011
+112,0,N1,Roda,A,0,2011-11-19,D,Nijmegen,1,2,Nijmegen_Roda_2011
+113,1,N1,Utrecht,D,1,2011-11-20,D,Den Haag,2,2,Den Haag_Utrecht_2011
+114,1,N1,VVV Venlo,H,1,2011-11-20,D,Groningen,2,1,Groningen_VVV Venlo_2011
+115,0,N1,Feyenoord,A,3,2011-11-20,A,Vitesse,0,4,Vitesse_Feyenoord_2011
+116,0,N1,Utrecht,H,0,2011-11-25,D,AZ Alkmaar,2,0,AZ Alkmaar_Utrecht_2011
+117,2,N1,Heerenveen,D,1,2011-11-26,H,NAC Breda,2,2,NAC Breda_Heerenveen_2011
+118,3,N1,Groningen,H,0,2011-11-26,H,PSV Eindhoven,6,1,PSV Eindhoven_Groningen_2011
+119,0,N1,Heracles,H,0,2011-11-26,D,Roda,3,1,Roda_Heracles_2011
+120,1,N1,Graafschap,A,0,2011-11-26,H,VVV Venlo,1,2,VVV Venlo_Graafschap_2011
+121,1,N1,Den Haag,D,0,2011-11-27,H,Excelsior,1,1,Excelsior_Den Haag_2011
+122,0,N1,Ajax,A,0,2011-11-27,D,Nijmegen,0,3,Nijmegen_Ajax_2011
+123,0,N1,Vitesse,D,0,2011-11-27,D,Twente,0,0,Twente_Vitesse_2011
+124,1,N1,Feyenoord,A,0,2011-11-27,H,Waalwijk,1,2,Waalwijk_Feyenoord_2011
+125,2,N1,VVV Venlo,H,0,2011-12-02,H,Heracles,7,0,Heracles_VVV Venlo_2011
+126,2,N1,Excelsior,H,1,2011-12-03,H,Ajax,4,1,Ajax_Excelsior_2011
+127,1,N1,NAC Breda,H,0,2011-12-03,H,Den Haag,3,0,Den Haag_NAC Breda_2011
+128,0,N1,Roda,A,0,2011-12-03,D,Graafschap,1,2,Graafschap_Roda_2011
+129,1,N1,Nijmegen,D,1,2011-12-03,D,Groningen,3,3,Groningen_Nijmegen_2011
+130,1,N1,PSV Eindhoven,H,0,2011-12-04,H,Feyenoord,2,0,Feyenoord_PSV Eindhoven_2011
+131,2,N1,AZ Alkmaar,H,1,2011-12-04,H,Heerenveen,5,1,Heerenveen_AZ Alkmaar_2011
+132,0,N1,Twente,A,2,2011-12-04,A,Utrecht,2,6,Utrecht_Twente_2011
+133,3,N1,Waalwijk,H,0,2011-12-04,H,Vitesse,4,0,Vitesse_Waalwijk_2011
+134,0,N1,AZ Alkmaar,D,0,2011-12-07,D,Excelsior,0,0,Excelsior_AZ Alkmaar_2011
+135,1,N1,Heracles,H,0,2011-12-09,H,Den Haag,2,0,Den Haag_Heracles_2011
+136,2,N1,Graafschap,H,0,2011-12-10,H,AZ Alkmaar,4,0,AZ Alkmaar_Graafschap_2011
+137,0,N1,Heerenveen,A,3,2011-12-10,A,Excelsior,0,5,Excelsior_Heerenveen_2011
+138,1,N1,NAC Breda,H,0,2011-12-10,H,PSV Eindhoven,1,0,PSV Eindhoven_NAC Breda_2011
+139,0,N1,Nijmegen,H,0,2011-12-10,D,Twente,2,0,Twente_Nijmegen_2011
+140,1,N1,Feyenoord,D,1,2011-12-11,D,Utrecht,2,2,Utrecht_Feyenoord_2011
+141,0,N1,Groningen,D,0,2011-12-11,D,Vitesse,0,0,Vitesse_Groningen_2011
+142,1,N1,Roda,H,0,2011-12-11,H,VVV Venlo,2,0,VVV Venlo_Roda_2011
+143,0,N1,Ajax,A,1,2011-12-11,A,Waalwijk,0,1,Waalwijk_Ajax_2011
+144,1,N1,Waalwijk,A,1,2011-12-16,D,Graafschap,1,3,Graafschap_Waalwijk_2011
+145,0,N1,Utrecht,H,0,2011-12-17,D,Groningen,1,0,Groningen_Utrecht_2011
+146,0,N1,Vitesse,A,0,2011-12-17,D,Heracles,0,1,Heracles_Vitesse_2011
+147,1,N1,VVV Venlo,H,0,2011-12-17,H,Nijmegen,2,0,Nijmegen_VVV Venlo_2011
+148,3,N1,Excelsior,H,0,2011-12-17,H,Roda,7,0,Roda_Excelsior_2011
+149,1,N1,Den Haag,H,0,2011-12-18,H,Ajax,4,0,Ajax_Den Haag_2011
+150,3,N1,Twente,H,0,2011-12-18,H,Feyenoord,3,2,Feyenoord_Twente_2011
+151,0,N1,PSV Eindhoven,A,3,2011-12-18,A,Heerenveen,1,5,Heerenveen_PSV Eindhoven_2011
+152,1,N1,AZ Alkmaar,H,1,2011-12-18,D,NAC Breda,2,1,NAC Breda_AZ Alkmaar_2011
+153,2,N1,Roda,D,1,2012-01-20,H,Den Haag,3,3,Den Haag_Roda_2011
+154,1,N1,NAC Breda,H,0,2012-01-21,H,Excelsior,3,0,Excelsior_NAC Breda_2011
+155,0,N1,Heerenveen,A,1,2012-01-21,A,Graafschap,0,2,Graafschap_Heerenveen_2011
+156,2,N1,Waalwijk,H,0,2012-01-21,H,Twente,5,0,Twente_Waalwijk_2011
+157,1,N1,Ajax,D,0,2012-01-22,H,AZ Alkmaar,1,1,AZ Alkmaar_Ajax_2011
+158,0,N1,Heracles,H,1,2012-01-22,A,Groningen,2,1,Groningen_Heracles_2011
+159,0,N1,PSV Eindhoven,D,0,2012-01-22,D,Utrecht,1,1,Utrecht_PSV Eindhoven_2011
+160,0,N1,Nijmegen,A,0,2012-01-22,D,Vitesse,0,1,Vitesse_Nijmegen_2011
+161,2,N1,Feyenoord,H,1,2012-01-22,H,VVV Venlo,2,1,VVV Venlo_Feyenoord_2011
+162,1,N1,Vitesse,H,0,2012-01-27,H,PSV Eindhoven,3,1,PSV Eindhoven_Vitesse_2011
+163,2,N1,Utrecht,H,0,2012-01-28,H,Heerenveen,2,0,Heerenveen_Utrecht_2011
+164,2,N1,Excelsior,H,0,2012-01-28,H,Heracles,3,0,Heracles_Excelsior_2011
+165,1,N1,Graafschap,D,1,2012-01-28,D,NAC Breda,1,1,NAC Breda_Graafschap_2011
+166,2,N1,AZ Alkmaar,H,0,2012-01-28,H,Roda,2,0,Roda_AZ Alkmaar_2011
+167,2,N1,Ajax,H,1,2012-01-29,H,Feyenoord,4,2,Feyenoord_Ajax_2011
+168,2,N1,Den Haag,H,0,2012-01-29,H,Nijmegen,2,0,Nijmegen_Den Haag_2011
+169,2,N1,Groningen,H,0,2012-01-29,H,Twente,4,1,Twente_Groningen_2011
+170,2,N1,VVV Venlo,H,0,2012-01-29,H,Waalwijk,4,0,Waalwijk_VVV Venlo_2011
+171,2,N1,Roda,H,2,2012-02-03,D,Heerenveen,4,3,Heerenveen_Roda_2011
+172,1,N1,VVV Venlo,H,0,2012-02-04,H,Excelsior,3,1,Excelsior_VVV Venlo_2011
+173,1,N1,NAC Breda,H,0,2012-02-04,H,Vitesse,1,0,Vitesse_NAC Breda_2011
+174,0,N1,Utrecht,A,1,2012-02-05,A,Ajax,0,2,Ajax_Utrecht_2011
+175,0,N1,Waalwijk,A,2,2012-02-05,A,Groningen,0,3,Groningen_Waalwijk_2011
+176,0,N1,PSV Eindhoven,D,1,2012-02-05,A,Heracles,1,1,Heracles_PSV Eindhoven_2011
+177,0,N1,Feyenoord,A,1,2012-02-05,A,Nijmegen,0,2,Nijmegen_Feyenoord_2011
+178,0,N1,AZ Alkmaar,A,1,2012-02-08,A,Den Haag,0,6,Den Haag_AZ Alkmaar_2011
+179,0,N1,Heracles,A,1,2012-02-10,A,Twente,2,3,Twente_Heracles_2011
+180,0,N1,Excelsior,H,0,2012-02-11,D,AZ Alkmaar,2,0,AZ Alkmaar_Excelsior_2011
+181,0,N1,Ajax,A,0,2012-02-11,D,NAC Breda,0,2,NAC Breda_Ajax_2011
+182,0,N1,Nijmegen,H,0,2012-02-11,D,Roda,1,0,Roda_Nijmegen_2011
+183,2,N1,Groningen,H,0,2012-02-11,H,VVV Venlo,2,0,VVV Venlo_Groningen_2011
+184,2,N1,Vitesse,H,1,2012-02-12,H,Feyenoord,3,1,Feyenoord_Vitesse_2011
+185,4,N1,Graafschap,H,0,2012-02-12,H,PSV Eindhoven,4,1,PSV Eindhoven_Graafschap_2011
+186,1,N1,Den Haag,D,1,2012-02-12,D,Utrecht,1,1,Utrecht_Den Haag_2011
+187,0,N1,Heerenveen,A,1,2012-02-12,A,Waalwijk,0,1,Waalwijk_Heerenveen_2011
+188,1,N1,NAC Breda,H,0,2012-02-17,H,Heerenveen,1,0,Heerenveen_NAC Breda_2011
+189,1,N1,Excelsior,D,0,2012-02-18,H,Den Haag,1,1,Den Haag_Excelsior_2011
+190,0,N1,Waalwijk,D,0,2012-02-18,D,Feyenoord,1,1,Feyenoord_Waalwijk_2011
+191,1,N1,VVV Venlo,A,0,2012-02-18,H,Graafschap,1,4,Graafschap_VVV Venlo_2011
+192,0,N1,Roda,H,1,2012-02-18,A,Heracles,2,1,Heracles_Roda_2011
+193,3,N1,Nijmegen,H,0,2012-02-19,H,Ajax,4,1,Ajax_Nijmegen_2011
+194,1,N1,PSV Eindhoven,H,0,2012-02-19,H,Groningen,3,0,Groningen_PSV Eindhoven_2011
+195,3,N1,AZ Alkmaar,H,0,2012-02-19,H,Utrecht,3,0,Utrecht_AZ Alkmaar_2011
+196,0,N1,Twente,A,1,2012-02-19,A,Vitesse,1,4,Vitesse_Twente_2011
+197,1,N1,Vitesse,H,0,2012-02-24,H,Waalwijk,1,0,Waalwijk_Vitesse_2011
+198,2,N1,Den Haag,H,0,2012-02-25,H,NAC Breda,4,0,NAC Breda_Den Haag_2011
+199,2,N1,Groningen,H,0,2012-02-25,H,Nijmegen,4,0,Nijmegen_Groningen_2011
+200,0,N1,Graafschap,A,1,2012-02-25,A,Roda,0,2,Roda_Graafschap_2011
+201,2,N1,Heracles,H,1,2012-02-25,H,VVV Venlo,3,1,VVV Venlo_Heracles_2011
+202,1,N1,Heerenveen,D,0,2012-02-26,H,AZ Alkmaar,3,3,AZ Alkmaar_Heerenveen_2011
+203,0,N1,Ajax,A,2,2012-02-26,A,Excelsior,1,4,Excelsior_Ajax_2011
+204,1,N1,Feyenoord,H,0,2012-02-26,H,PSV Eindhoven,3,2,PSV Eindhoven_Feyenoord_2011
+205,1,N1,Utrecht,H,0,2012-02-26,H,Twente,1,0,Twente_Utrecht_2011
+206,2,N1,Heracles,H,0,2012-03-03,H,AZ Alkmaar,3,1,AZ Alkmaar_Heracles_2011
+207,0,N1,Heerenveen,D,0,2012-03-03,D,Den Haag,0,0,Den Haag_Heerenveen_2011
+208,0,N1,NAC Breda,H,0,2012-03-03,D,VVV Venlo,2,1,VVV Venlo_NAC Breda_2011
+209,1,N1,Excelsior,H,0,2012-03-03,H,Waalwijk,1,0,Waalwijk_Excelsior_2011
+210,0,N1,Roda,H,1,2012-03-04,A,Ajax,4,1,Ajax_Roda_2011
+211,1,N1,Groningen,H,0,2012-03-04,H,Feyenoord,1,0,Feyenoord_Groningen_2011
+212,0,N1,Twente,A,4,2012-03-04,A,PSV Eindhoven,2,6,PSV Eindhoven_Twente_2011
+213,0,N1,Nijmegen,D,0,2012-03-04,D,Utrecht,0,0,Utrecht_Nijmegen_2011
+214,1,N1,Graafschap,H,0,2012-03-04,H,Vitesse,2,0,Vitesse_Graafschap_2011
+215,0,N1,VVV Venlo,H,1,2012-03-09,A,Roda,3,1,Roda_VVV Venlo_2011
+216,0,N1,Vitesse,A,1,2012-03-10,A,Groningen,1,3,Groningen_Vitesse_2011
+217,3,N1,Excelsior,H,1,2012-03-10,H,Heerenveen,4,2,Heerenveen_Excelsior_2011
+218,0,N1,Den Haag,A,1,2012-03-10,A,Heracles,0,2,Heracles_Den Haag_2011
+219,1,N1,Waalwijk,H,0,2012-03-11,H,Ajax,3,0,Ajax_Waalwijk_2011
+220,1,N1,Utrecht,D,0,2012-03-11,H,Feyenoord,1,1,Feyenoord_Utrecht_2011
+221,0,N1,AZ Alkmaar,A,0,2012-03-11,D,Graafschap,0,2,Graafschap_AZ Alkmaar_2011
+222,2,N1,PSV Eindhoven,H,1,2012-03-11,H,NAC Breda,3,1,NAC Breda_PSV Eindhoven_2011
+223,1,N1,Twente,H,0,2012-03-11,H,Nijmegen,3,1,Nijmegen_Twente_2011
+224,1,N1,Heracles,H,0,2012-03-16,H,Vitesse,2,0,Vitesse_Heracles_2011
+225,1,N1,Roda,H,0,2012-03-17,H,Excelsior,2,1,Excelsior_Roda_2011
+226,0,N1,Nijmegen,A,1,2012-03-17,A,VVV Venlo,0,2,VVV Venlo_Nijmegen_2011
+227,0,N1,Graafschap,H,0,2012-03-17,D,Waalwijk,1,0,Waalwijk_Graafschap_2011
+228,0,N1,NAC Breda,D,0,2012-03-18,D,AZ Alkmaar,0,0,AZ Alkmaar_NAC Breda_2011
+229,0,N1,Ajax,A,0,2012-03-18,D,Den Haag,0,2,Den Haag_Ajax_2011
+230,1,N1,Heerenveen,H,0,2012-03-18,H,PSV Eindhoven,5,1,PSV Eindhoven_Heerenveen_2011
+231,0,N1,Feyenoord,A,0,2012-03-18,D,Twente,0,2,Twente_Feyenoord_2011
+232,1,N1,Groningen,H,1,2012-03-18,D,Utrecht,3,1,Utrecht_Groningen_2011
+233,1,N1,Twente,A,1,2012-03-21,D,Graafschap,1,2,Graafschap_Twente_2011
+234,0,N1,Groningen,A,1,2012-03-23,A,Excelsior,0,1,Excelsior_Groningen_2011
+235,1,N1,Twente,D,0,2012-03-24,H,Den Haag,1,1,Den Haag_Twente_2011
+236,2,N1,VVV Venlo,H,0,2012-03-24,H,Heerenveen,4,1,Heerenveen_VVV Venlo_2011
+237,0,N1,Nijmegen,D,1,2012-03-24,A,NAC Breda,1,1,NAC Breda_Nijmegen_2011
+238,2,N1,Vitesse,H,1,2012-03-24,H,Roda,3,1,Roda_Vitesse_2011
+239,0,N1,PSV Eindhoven,H,0,2012-03-25,D,Ajax,2,0,Ajax_PSV Eindhoven_2011
+240,0,N1,Waalwijk,H,0,2012-03-25,D,AZ Alkmaar,1,0,AZ Alkmaar_Waalwijk_2011
+241,0,N1,Feyenoord,A,0,2012-03-25,D,Graafschap,0,3,Graafschap_Feyenoord_2011
+242,1,N1,Utrecht,H,0,2012-03-25,H,Heracles,3,1,Heracles_Utrecht_2011
+243,1,N1,Excelsior,H,1,2012-03-30,D,Utrecht,3,2,Utrecht_Excelsior_2011
+244,3,N1,NAC Breda,H,1,2012-03-31,H,Feyenoord,3,1,Feyenoord_NAC Breda_2011
+245,1,N1,Heerenveen,A,2,2012-03-31,A,Groningen,1,3,Groningen_Heerenveen_2011
+246,1,N1,VVV Venlo,H,0,2012-03-31,H,PSV Eindhoven,2,0,PSV Eindhoven_VVV Venlo_2011
+247,0,N1,Roda,H,0,2012-03-31,D,Twente,2,0,Twente_Roda_2011
+248,1,N1,Heracles,H,0,2012-04-01,H,Ajax,6,0,Ajax_Heracles_2011
+249,1,N1,Graafschap,H,0,2012-04-01,H,Nijmegen,2,0,Nijmegen_Graafschap_2011
+250,1,N1,AZ Alkmaar,D,1,2012-04-01,D,Vitesse,2,2,Vitesse_AZ Alkmaar_2011
+251,1,N1,Den Haag,H,0,2012-04-01,H,Waalwijk,1,0,Waalwijk_Den Haag_2011
+252,0,N1,Nijmegen,A,1,2012-04-10,A,Excelsior,0,2,Excelsior_Nijmegen_2011
+253,1,N1,Twente,D,1,2012-04-11,D,AZ Alkmaar,2,2,AZ Alkmaar_Twente_2011
+254,0,N1,Ajax,A,4,2012-04-11,A,Heerenveen,0,5,Heerenveen_Ajax_2011
+255,1,N1,Heracles,A,0,2012-04-11,H,NAC Breda,1,2,NAC Breda_Heracles_2011
+256,0,N1,Feyenoord,D,0,2012-04-11,D,Roda,0,0,Roda_Feyenoord_2011
+257,0,N1,PSV Eindhoven,H,0,2012-04-11,D,Waalwijk,2,1,Waalwijk_PSV Eindhoven_2011
+258,1,N1,Groningen,H,0,2012-04-12,H,Den Haag,3,0,Den Haag_Groningen_2011
+259,1,N1,Utrecht,H,0,2012-04-12,H,Graafschap,3,0,Graafschap_Utrecht_2011
+260,0,N1,Vitesse,A,2,2012-04-12,A,VVV Venlo,1,3,VVV Venlo_Vitesse_2011
+261,1,N1,Excelsior,H,0,2012-04-14,H,Feyenoord,3,0,Feyenoord_Excelsior_2011
+262,2,N1,Heerenveen,A,0,2012-04-14,H,Nijmegen,2,4,Nijmegen_Heerenveen_2011
+263,1,N1,AZ Alkmaar,H,2,2012-04-14,A,PSV Eindhoven,3,2,PSV Eindhoven_AZ Alkmaar_2011
+264,0,N1,NAC Breda,D,0,2012-04-14,D,Twente,2,2,Twente_NAC Breda_2011
+265,3,N1,Graafschap,H,1,2012-04-15,H,Ajax,3,1,Ajax_Graafschap_2011
+266,0,N1,Roda,A,1,2012-04-15,A,Groningen,0,1,Groningen_Roda_2011
+267,1,N1,Waalwijk,D,0,2012-04-15,H,Heracles,1,1,Heracles_Waalwijk_2011
+268,2,N1,VVV Venlo,H,2,2012-04-15,D,Utrecht,4,2,Utrecht_VVV Venlo_2011
+269,0,N1,Den Haag,H,0,2012-04-15,D,Vitesse,1,0,Vitesse_Den Haag_2011
+270,0,N1,Roda,A,0,2012-04-20,D,NAC Breda,0,3,NAC Breda_Roda_2011
+271,0,N1,Twente,A,0,2012-04-21,D,Excelsior,0,1,Excelsior_Twente_2011
+272,1,N1,Heracles,A,2,2012-04-21,A,Graafschap,2,3,Graafschap_Heracles_2011
+273,1,N1,Vitesse,D,0,2012-04-21,H,Heerenveen,1,1,Heerenveen_Vitesse_2011
+274,0,N1,Utrecht,A,0,2012-04-21,D,Waalwijk,0,2,Waalwijk_Utrecht_2011
+275,1,N1,Groningen,H,0,2012-04-22,H,Ajax,2,0,Ajax_Groningen_2011
+276,0,N1,VVV Venlo,H,0,2012-04-22,D,AZ Alkmaar,2,1,AZ Alkmaar_VVV Venlo_2011
+277,0,N1,Feyenoord,A,0,2012-04-22,D,Den Haag,1,2,Den Haag_Feyenoord_2011
+278,0,N1,Nijmegen,H,1,2012-04-22,A,PSV Eindhoven,2,1,PSV Eindhoven_Nijmegen_2011
+279,1,N1,Graafschap,D,0,2012-04-27,H,Groningen,1,1,Groningen_Graafschap_2011
+280,0,N1,Heerenveen,A,1,2012-04-28,A,Heracles,2,4,Heracles_Heerenveen_2011
+281,1,N1,NAC Breda,A,0,2012-04-28,H,Utrecht,1,3,Utrecht_NAC Breda_2011
+282,1,N1,Excelsior,H,2,2012-04-28,A,Vitesse,3,2,Vitesse_Excelsior_2011
+283,2,N1,Den Haag,H,1,2012-04-28,H,VVV Venlo,2,1,VVV Venlo_Den Haag_2011
+284,0,N1,AZ Alkmaar,H,0,2012-04-29,D,Feyenoord,1,0,Feyenoord_AZ Alkmaar_2011
+285,0,N1,Waalwijk,D,0,2012-04-29,D,Nijmegen,1,1,Nijmegen_Waalwijk_2011
+286,0,N1,PSV Eindhoven,A,2,2012-04-29,A,Roda,1,3,Roda_PSV Eindhoven_2011
+287,0,N1,Ajax,A,1,2012-04-29,A,Twente,1,2,Twente_Ajax_2011
+288,1,N1,VVV Venlo,H,0,2012-05-02,H,Ajax,2,0,Ajax_VVV Venlo_2011
+289,1,N1,Heracles,H,0,2012-05-02,H,Feyenoord,4,1,Feyenoord_Heracles_2011
+290,1,N1,Excelsior,D,1,2012-05-02,D,Graafschap,2,2,Graafschap_Excelsior_2011
+291,0,N1,NAC Breda,D,1,2012-05-02,A,Groningen,1,1,Groningen_NAC Breda_2011
+292,1,N1,AZ Alkmaar,D,0,2012-05-02,H,Nijmegen,1,1,Nijmegen_AZ Alkmaar_2011
+293,2,N1,Den Haag,H,0,2012-05-02,H,PSV Eindhoven,5,0,PSV Eindhoven_Den Haag_2011
+294,2,N1,Heerenveen,A,1,2012-05-02,H,Twente,3,4,Twente_Heerenveen_2011
+295,1,N1,Vitesse,D,1,2012-05-02,D,Utrecht,2,2,Utrecht_Vitesse_2011
+296,4,N1,Roda,H,1,2012-05-02,H,Waalwijk,5,2,Waalwijk_Roda_2011
+297,1,N1,Groningen,H,0,2012-05-06,H,AZ Alkmaar,1,0,AZ Alkmaar_Groningen_2011
+298,2,N1,Graafschap,A,2,2012-05-06,D,Den Haag,3,5,Den Haag_Graafschap_2011
+299,0,N1,PSV Eindhoven,A,2,2012-05-06,A,Excelsior,1,3,Excelsior_PSV Eindhoven_2011
+300,0,N1,Feyenoord,A,0,2012-05-06,D,Heerenveen,2,3,Heerenveen_Feyenoord_2011
+301,0,N1,Nijmegen,A,1,2012-05-06,A,Heracles,1,2,Heracles_Nijmegen_2011
+302,1,N1,Waalwijk,H,1,2012-05-06,D,NAC Breda,3,2,NAC Breda_Waalwijk_2011
+303,0,N1,Utrecht,A,1,2012-05-06,A,Roda,1,3,Roda_Utrecht_2011
+304,1,N1,Ajax,A,1,2012-05-06,D,Vitesse,1,3,Vitesse_Ajax_2011
+305,1,N1,Twente,H,1,2012-05-06,D,VVV Venlo,4,2,VVV Venlo_Twente_2011

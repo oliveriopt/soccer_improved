@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,4,Nott'm Forest,16,1,0,0,0,K Stroud,0,0,2,11,H,17,2015-08-07,Brighton,E1,3,7,10,18,D,3,Brighton_Nott'm Forest_2015
+1,4,Reading,14,2,0,1,1,P Bankes,0,0,5,16,H,20,2015-08-08,Birmingham,E1,7,3,2,5,H,5,Birmingham_Reading_2015
+2,2,Wolves,5,1,0,2,1,M Haywood,0,2,3,16,A,10,2015-08-08,Blackburn,E1,3,5,4,14,A,3,Blackburn_Wolves_2015
+3,1,Derby,15,0,0,0,0,A Madley,1,0,1,13,D,8,2015-08-08,Bolton,E1,1,2,4,12,D,9,Bolton_Derby_2015
+4,1,Ipswich,12,2,0,2,0,D Coote,0,1,0,11,D,15,2015-08-08,Brentford,E1,9,5,9,23,A,5,Brentford_Ipswich_2015
+5,1,Fulham,8,1,0,1,0,D Bond,0,0,1,6,D,8,2015-08-08,Cardiff,E1,1,4,7,17,D,3,Cardiff_Fulham_2015
+6,3,QPR,12,2,0,0,0,R Madley,0,0,2,13,H,11,2015-08-08,Charlton,E1,4,4,3,14,D,11,Charlton_QPR_2015
+7,1,Huddersfield,12,2,0,0,1,K Hill,0,0,3,18,H,6,2015-08-08,Hull,E1,1,5,8,11,H,4,Hull_Huddersfield_2015
+8,1,Burnley,10,1,0,1,0,K Friend,0,0,2,10,D,10,2015-08-08,Leeds,E1,4,4,4,15,D,4,Leeds_Burnley_2015
+9,1,Milton Keynes Dons,9,1,0,4,1,N Miller,0,3,3,12,A,8,2015-08-08,Rotherham,E1,4,6,12,15,A,2,Rotherham_Milton Keynes Dons_2015
+10,1,Bristol City,15,2,0,0,0,J Adcock,0,0,3,14,H,6,2015-08-08,Sheffield Weds,E1,3,5,7,13,D,2,Sheffield Weds_Bristol City_2015
+11,2,Middlesbrough,13,0,0,0,0,C Kavanagh,0,0,1,11,D,7,2015-08-09,Preston,E1,0,2,1,9,D,1,Preston_Middlesbrough_2015
+12,1,Brentford,15,2,0,4,2,K Stroud,1,2,1,13,A,14,2015-08-15,Bristol City,E1,4,5,4,15,D,4,Bristol City_Brentford_2015
+13,3,Birmingham,11,2,0,2,0,D Coote,0,1,1,11,D,13,2015-08-15,Burnley,E1,4,7,8,19,A,5,Burnley_Birmingham_2015
+14,0,Charlton,3,1,0,1,0,N Miller,0,0,2,19,D,10,2015-08-15,Derby,E1,3,6,14,27,D,4,Derby_Charlton_2015
+15,2,Brighton,9,1,0,2,1,N Swarbrick,0,1,2,9,A,16,2015-08-15,Fulham,E1,6,5,4,13,D,9,Fulham_Brighton_2015
+16,2,Blackburn,13,1,0,1,1,P Bankes,0,0,0,8,D,5,2015-08-15,Huddersfield,E1,2,5,7,16,H,3,Huddersfield_Blackburn_2015
+17,2,Sheffield Weds,16,2,0,1,1,J Linington,0,1,2,8,H,7,2015-08-15,Ipswich,E1,3,8,13,17,D,8,Ipswich_Sheffield Weds_2015
+18,0,Bolton,9,3,0,0,3,J Adcock,0,0,0,6,H,8,2015-08-15,Middlesbrough,E1,1,7,7,17,H,3,Middlesbrough_Bolton_2015
+19,1,Preston,10,0,1,1,0,A Madley,0,1,3,17,A,12,2015-08-15,Milton Keynes Dons,E1,1,2,10,14,A,6,Milton Keynes Dons_Preston_2015
+20,2,Rotherham,10,2,0,1,1,D Bond,0,1,3,17,H,15,2015-08-15,Nott'm Forest,E1,4,9,11,20,D,7,Nott'm Forest_Rotherham_2015
+21,0,Cardiff,17,2,0,2,1,S Hooper,0,0,0,9,D,13,2015-08-15,QPR,E1,5,6,9,16,H,5,QPR_Cardiff_2015
+22,1,Leeds,18,0,0,0,0,C Kavanagh,0,0,3,9,D,9,2015-08-16,Reading,E1,1,3,5,14,D,4,Reading_Leeds_2015
+23,0,Hull,8,1,0,1,0,A Marriner,0,1,1,4,D,17,2015-08-16,Wolves,E1,6,5,6,15,A,2,Wolves_Hull_2015
+24,2,Cardiff,9,1,0,1,0,S Duncan,0,1,3,11,D,7,2015-08-18,Blackburn,E1,2,7,4,18,A,4,Blackburn_Cardiff_2015
+25,1,Middlesbrough,9,1,0,1,0,S Martin,0,1,2,16,D,7,2015-08-18,Derby,E1,2,4,4,6,A,3,Derby_Middlesbrough_2015
+26,2,Brighton,11,1,0,1,0,E Ilderton,0,1,3,9,D,12,2015-08-18,Huddersfield,E1,4,3,6,12,A,3,Huddersfield_Brighton_2015
+27,0,Burnley,13,2,0,0,0,S Hooper,0,0,1,9,H,7,2015-08-18,Ipswich,E1,4,3,9,13,D,3,Ipswich_Burnley_2015
+28,2,Bolton,9,1,0,0,0,S Atwell,0,0,3,16,H,18,2015-08-18,Milton Keynes Dons,E1,5,3,2,11,D,13,Milton Keynes Dons_Bolton_2015
+29,3,Charlton,9,0,0,0,0,D Drysdale,0,0,1,11,D,10,2015-08-18,Nott'm Forest,E1,2,1,4,20,D,4,Nott'm Forest_Charlton_2015
+30,4,Preston,14,0,0,0,0,D Coote,0,0,2,11,D,8,2015-08-18,Rotherham,E1,4,0,1,9,D,4,Rotherham_Preston_2015
+31,2,Leeds,5,2,0,2,0,G Ward,0,1,5,15,D,7,2015-08-19,Bristol City,E1,3,11,8,18,A,3,Bristol City_Leeds_2015
+32,0,Fulham,8,2,0,1,1,G Salisbury,0,0,3,9,H,8,2015-08-19,Hull,E1,4,2,6,10,H,1,Hull_Fulham_2015
+33,2,Reading,14,1,0,1,0,P Tierney,0,0,2,13,D,15,2015-08-19,Sheffield Weds,E1,3,2,1,4,D,5,Sheffield Weds_Reading_2015
+34,3,QPR,10,2,0,3,2,P Bankes,0,1,2,13,A,20,2015-08-19,Wolves,E1,10,6,5,16,H,2,Wolves_QPR_2015
+35,0,Derby,8,1,0,1,1,L Mason,0,0,2,13,D,20,2015-08-21,Birmingham,E1,6,7,5,19,H,8,Birmingham_Derby_2015
+36,1,Nott'm Forest,9,1,0,1,0,C Boyeson,0,0,4,14,D,10,2015-08-22,Bolton,E1,3,3,8,21,D,3,Bolton_Nott'm Forest_2015
+37,4,Blackburn,14,1,0,0,1,A Madley,0,0,3,13,H,12,2015-08-22,Brighton,E1,5,2,4,11,H,6,Brighton_Blackburn_2015
+38,1,Brentford,13,1,0,0,1,D Webb,0,0,2,10,H,7,2015-08-22,Burnley,E1,4,3,10,13,H,1,Burnley_Brentford_2015
+39,2,Wolves,8,2,0,0,1,A Davies,0,0,1,10,H,8,2015-08-22,Cardiff,E1,0,4,3,9,H,4,Cardiff_Wolves_2015
+40,2,Hull,8,2,0,1,0,T Robinson,0,0,1,8,H,12,2015-08-22,Charlton,E1,3,5,5,13,D,4,Charlton_Hull_2015
+41,1,Huddersfield,7,1,0,1,0,J Adcock,0,0,2,16,D,13,2015-08-22,Fulham,E1,6,5,10,16,D,9,Fulham_Huddersfield_2015
+42,2,Sheffield Weds,12,1,0,1,0,M Jones,0,1,4,20,D,9,2015-08-22,Leeds,E1,3,3,3,20,A,4,Leeds_Sheffield Weds_2015
+43,1,Bristol City,12,0,0,1,0,P Tierney,0,1,1,9,A,12,2015-08-22,Middlesbrough,E1,4,6,8,19,A,1,Middlesbrough_Bristol City_2015
+44,3,Ipswich,12,1,0,2,1,M Brown,0,1,0,11,A,4,2015-08-22,Preston,E1,2,5,3,16,D,4,Preston_Ipswich_2015
+45,1,Rotherham,13,4,0,2,1,D Whitestone,0,0,2,12,H,11,2015-08-22,QPR,E1,4,5,5,14,H,6,QPR_Rotherham_2015
+46,1,Milton Keynes Dons,14,0,0,0,0,D Coote,0,0,3,16,D,3,2015-08-22,Reading,E1,0,7,8,20,D,2,Reading_Milton Keynes Dons_2015
+47,3,Bolton,16,0,1,0,0,P Tierney,0,0,4,15,D,8,2015-08-28,Blackburn,E1,1,1,9,18,D,6,Blackburn_Bolton_2015
+48,5,Reading,21,1,0,3,0,A Madley,0,2,3,12,A,16,2015-08-29,Brentford,E1,9,1,4,9,A,4,Brentford_Reading_2015
+49,0,Burnley,3,1,0,2,0,M Dean,0,2,0,10,A,9,2015-08-29,Bristol City,E1,3,8,5,15,A,5,Bristol City_Burnley_2015
+50,1,Leeds,16,1,0,2,0,D Bond,0,1,0,8,A,13,2015-08-29,Derby,E1,2,3,6,12,A,7,Derby_Leeds_2015
+51,1,QPR,11,0,0,1,0,K Wright,0,0,3,18,A,9,2015-08-29,Huddersfield,E1,2,1,8,14,D,2,Huddersfield_QPR_2015
+52,2,Preston,8,2,0,0,1,F Graham,0,0,3,11,H,7,2015-08-29,Hull,E1,1,4,6,15,H,6,Hull_Preston_2015
+53,4,Brighton,10,2,0,3,0,K Hill,0,2,3,11,A,22,2015-08-29,Ipswich,E1,6,3,5,10,A,5,Ipswich_Brighton_2015
+54,2,Birmingham,9,0,0,2,0,R Atkin,0,0,2,15,A,12,2015-08-29,Milton Keynes Dons,E1,3,0,3,10,D,4,Milton Keynes Dons_Birmingham_2015
+55,0,Cardiff,9,1,0,2,0,O Langford,0,1,4,7,A,13,2015-08-29,Nott'm Forest,E1,5,5,11,17,A,2,Nott'm Forest_Cardiff_2015
+56,1,Fulham,10,1,0,3,0,G Eltringham,0,2,2,13,A,15,2015-08-29,Rotherham,E1,6,7,2,13,A,6,Rotherham_Fulham_2015
+57,2,Middlesbrough,16,1,0,3,0,M Heywood,0,1,3,18,A,13,2015-08-29,Sheffield Weds,E1,5,4,5,10,A,9,Sheffield Weds_Middlesbrough_2015
+58,0,Charlton,13,2,0,1,0,C Kavanagh,0,0,1,10,H,9,2015-08-29,Wolves,E1,2,6,4,14,D,3,Wolves_Charlton_2015
+59,0,Ipswich,10,5,0,1,2,R East,0,1,4,10,H,12,2015-09-11,Reading,E1,3,6,3,10,H,2,Reading_Ipswich_2015
+60,2,Bristol City,11,4,0,2,3,M Brown,0,1,3,17,H,10,2015-09-12,Birmingham,E1,2,6,6,14,H,3,Birmingham_Bristol City_2015
+61,1,Wolves,12,2,0,1,2,S Duncan,0,0,1,11,H,21,2015-09-12,Bolton,E1,9,5,8,11,H,9,Bolton_Wolves_2015
+62,3,Hull,15,1,0,0,1,S Hooper,0,0,2,10,H,12,2015-09-12,Brighton,E1,3,3,3,14,H,5,Brighton_Hull_2015
+63,0,Sheffield Weds,10,3,0,1,1,S Martin,0,1,2,10,H,13,2015-09-12,Burnley,E1,2,6,5,12,D,6,Burnley_Sheffield Weds_2015
+64,1,Huddersfield,12,2,0,0,0,P Tierney,0,0,1,7,H,8,2015-09-12,Cardiff,E1,0,6,1,12,D,5,Cardiff_Huddersfield_2015
+65,2,Rotherham,9,1,0,1,0,K Stroud,0,1,2,10,D,7,2015-09-12,Charlton,E1,4,8,8,21,A,6,Charlton_Rotherham_2015
+66,2,Brentford,12,1,0,1,0,N Miller,0,1,3,18,D,15,2015-09-12,Leeds,E1,2,5,2,17,A,4,Leeds_Brentford_2015
+67,1,Milton Keynes Dons,11,2,0,0,0,J Simpson,0,0,2,12,H,8,2015-09-12,Middlesbrough,E1,5,7,8,17,D,6,Middlesbrough_Milton Keynes Dons_2015
+68,2,Derby,17,1,0,2,0,R Clark,0,2,2,17,A,14,2015-09-12,Preston,E1,4,6,5,19,A,1,Preston_Derby_2015
+69,1,Nott'm Forest,11,1,0,2,0,K Hill,1,0,2,16,A,21,2015-09-12,QPR,E1,7,2,4,9,D,4,QPR_Nott'm Forest_2015
+70,1,Blackburn,12,2,0,1,2,T Harrington,0,0,4,13,H,23,2015-09-13,Fulham,E1,9,9,4,16,H,7,Fulham_Blackburn_2015
+71,4,Nott'm Forest,11,0,0,1,0,M Heywood,0,0,2,12,A,13,2015-09-15,Birmingham,E1,3,1,3,6,D,6,Birmingham_Nott'm Forest_2015
+72,2,Sheffield Weds,8,0,0,0,0,P Bankes,0,0,4,17,D,10,2015-09-15,Bolton,E1,3,4,6,14,D,2,Bolton_Sheffield Weds_2015
+73,1,Rotherham,14,2,0,1,1,J Linington,0,0,1,10,H,6,2015-09-15,Brighton,E1,1,8,7,21,H,3,Brighton_Rotherham_2015
+74,0,Milton Keynes Dons,18,2,0,1,1,K Wright,0,1,3,8,H,10,2015-09-15,Burnley,E1,1,7,8,17,D,3,Burnley_Milton Keynes Dons_2015
+75,4,Hull,11,0,0,2,0,C Sarginson,0,1,3,10,A,13,2015-09-15,Cardiff,E1,5,3,12,15,A,3,Cardiff_Hull_2015
+76,1,Huddersfield,13,1,0,2,1,C Breakspear,0,2,4,12,A,16,2015-09-15,Charlton,E1,5,4,2,18,A,8,Charlton_Huddersfield_2015
+77,3,Ipswich,10,0,0,1,0,J Adcock,0,1,1,14,A,12,2015-09-15,Leeds,E1,4,1,5,11,A,3,Leeds_Ipswich_2015
+78,3,Brentford,6,3,0,1,1,G Salisbury,0,0,3,11,H,17,2015-09-15,Middlesbrough,E1,4,4,4,18,H,1,Middlesbrough_Brentford_2015
+79,0,Bristol City,7,1,0,1,0,E Ilderton,0,0,0,12,D,15,2015-09-15,Preston,E1,5,3,5,13,D,12,Preston_Bristol City_2015
+80,2,Derby,13,0,0,1,0,A Davies,1,0,2,8,A,10,2015-09-15,Reading,E1,2,2,7,12,D,5,Reading_Derby_2015
+81,2,Blackburn,8,2,0,2,0,D Deadman,0,1,2,12,D,11,2015-09-16,QPR,E1,6,3,11,17,A,13,QPR_Blackburn_2015
+82,2,Birmingham,12,1,0,1,1,K Stroud,0,1,2,10,D,14,2015-09-18,Ipswich,E1,4,4,7,18,D,1,Ipswich_Birmingham_2015
+83,1,Charlton,9,3,0,0,1,C Boyeson,0,0,0,8,H,9,2015-09-19,Blackburn,E1,3,8,11,16,H,7,Blackburn_Charlton_2015
+84,3,Preston,14,2,0,1,0,T Robinson,0,1,4,11,H,13,2015-09-19,Brentford,E1,4,7,6,14,A,5,Brentford_Preston_2015
+85,2,Reading,10,0,0,2,0,S Martin,0,2,1,11,A,14,2015-09-19,Bristol City,E1,3,2,11,6,A,4,Bristol City_Reading_2015
+86,0,Bolton,8,4,1,1,1,T Kettle,0,1,2,11,H,7,2015-09-19,Huddersfield,E1,2,7,2,16,D,1,Huddersfield_Bolton_2015
+87,0,QPR,6,1,0,1,1,O Langford,0,1,0,8,D,9,2015-09-19,Hull,E1,3,3,12,11,D,4,Hull_QPR_2015
+88,1,Leeds,8,1,0,2,0,D Webb,1,2,2,12,A,14,2015-09-19,Milton Keynes Dons,E1,5,8,13,26,A,3,Milton Keynes Dons_Leeds_2015
+89,2,Middlesbrough,10,1,0,2,1,L Mason,0,2,6,16,A,11,2015-09-19,Nott'm Forest,E1,9,8,11,21,A,1,Nott'm Forest_Middlesbrough_2015
+90,2,Cardiff,10,2,1,1,1,K Hill,0,1,2,14,H,5,2015-09-19,Rotherham,E1,3,5,5,18,D,4,Rotherham_Cardiff_2015
+91,1,Fulham,17,3,0,2,2,S Hooper,0,1,2,11,H,8,2015-09-19,Sheffield Weds,E1,3,5,6,10,H,1,Sheffield Weds_Fulham_2015
+92,1,Brighton,10,0,0,0,0,J Simpson,1,0,2,17,D,19,2015-09-19,Wolves,E1,8,1,3,6,D,4,Wolves_Brighton_2015
+93,0,Burnley,4,0,0,0,0,D Whitestone,0,0,0,10,D,9,2015-09-21,Derby,E1,3,4,7,21,D,5,Derby_Burnley_2015
+94,1,Nott'm Forest,13,1,0,1,0,G Salisbury,0,1,1,11,D,8,2015-09-24,Huddersfield,E1,4,2,11,13,A,2,Huddersfield_Nott'm Forest_2015
+95,0,QPR,5,4,0,0,3,K Friend,0,0,1,10,H,7,2015-09-25,Fulham,E1,2,7,5,13,H,2,Fulham_QPR_2015
+96,0,Rotherham,10,0,0,2,0,A Woolmer,0,1,0,11,A,18,2015-09-26,Birmingham,E1,6,1,8,17,A,2,Birmingham_Rotherham_2015
+97,1,Brighton,7,2,1,2,1,M Haywood,0,2,2,8,D,11,2015-09-26,Bolton,E1,3,8,9,15,A,4,Bolton_Brighton_2015
+98,2,Sheffield Weds,8,1,1,2,0,G Eltringham,1,1,1,19,A,15,2015-09-26,Brentford,E1,6,5,6,11,A,3,Brentford_Sheffield Weds_2015
+99,1,Reading,8,1,0,2,0,T Harrington,0,2,2,9,A,17,2015-09-26,Burnley,E1,6,5,7,9,A,3,Burnley_Reading_2015
+100,1,Charlton,6,2,0,1,0,A Madley,0,0,1,6,H,13,2015-09-26,Cardiff,E1,7,5,9,20,D,4,Cardiff_Charlton_2015
+101,2,Blackburn,9,1,0,1,0,A Haines,0,0,3,15,D,14,2015-09-26,Hull,E1,3,4,6,23,D,7,Hull_Blackburn_2015
+102,0,Bristol City,8,2,0,2,0,P Bankes,0,0,3,7,D,10,2015-09-26,Ipswich,E1,3,5,11,20,D,7,Ipswich_Bristol City_2015
+103,1,Derby,11,1,0,3,0,C Kavanagh,0,0,3,18,A,10,2015-09-26,Milton Keynes Dons,E1,5,4,8,26,D,2,Milton Keynes Dons_Derby_2015
+104,3,Wolves,12,1,0,1,1,T Kettle,2,0,2,12,D,15,2015-09-26,Preston,E1,4,2,3,8,H,7,Preston_Wolves_2015
+105,3,Leeds,16,3,0,0,2,N Swarbrick,0,0,0,12,H,12,2015-09-27,Middlesbrough,E1,6,2,8,6,H,4,Middlesbrough_Leeds_2015
+106,2,Birmingham,10,0,0,2,0,K Hill,0,0,1,6,A,17,2015-09-29,Brentford,E1,3,3,5,12,D,6,Brentford_Birmingham_2015
+107,0,Wolves,11,0,0,3,0,D Drysdale,1,0,0,14,A,16,2015-09-29,Fulham,E1,9,3,1,5,D,3,Fulham_Wolves_2015
+108,3,Burnley,11,1,0,2,0,P Bankes,0,1,1,9,A,12,2015-10-02,Rotherham,E1,5,3,3,15,A,4,Rotherham_Burnley_2015
+109,2,Ipswich,11,2,0,0,2,A Marriner,0,0,3,15,H,10,2015-10-03,Blackburn,E1,3,4,5,15,H,8,Blackburn_Ipswich_2015
+110,0,Cardiff,6,1,0,1,1,C Breakspear,0,1,4,12,D,6,2015-10-03,Brighton,E1,3,8,11,20,D,2,Brighton_Cardiff_2015
+111,3,Milton Keynes Dons,13,1,0,1,1,D Bond,0,0,5,13,D,11,2015-10-03,Bristol City,E1,4,3,1,6,H,3,Bristol City_Milton Keynes Dons_2015
+112,3,Brentford,11,2,0,0,2,J Simpson,0,0,3,14,H,11,2015-10-03,Derby,E1,5,6,12,21,H,3,Derby_Brentford_2015
+113,3,Birmingham,17,0,0,2,0,P Tierney,0,1,1,17,A,13,2015-10-03,Leeds,E1,5,4,13,13,A,5,Leeds_Birmingham_2015
+114,2,Hull,11,0,0,1,0,N Miller,1,1,3,8,A,15,2015-10-03,Nott'm Forest,E1,8,8,9,28,A,8,Nott'm Forest_Hull_2015
+115,3,Bolton,15,4,0,3,2,D Drysdale,0,2,0,14,H,11,2015-10-03,QPR,E1,4,10,4,19,D,3,QPR_Bolton_2015
+116,1,Middlesbrough,17,2,0,0,1,K Stroud,0,0,2,11,H,6,2015-10-03,Reading,E1,1,4,3,14,H,3,Reading_Middlesbrough_2015
+117,0,Preston,9,3,0,1,1,A Woolmer,0,0,1,13,H,10,2015-10-03,Sheffield Weds,E1,4,6,6,13,H,8,Sheffield Weds_Preston_2015
+118,3,Huddersfield,14,3,0,0,1,C Kavanagh,0,0,2,13,H,12,2015-10-03,Wolves,E1,6,8,6,14,H,4,Wolves_Huddersfield_2015
+119,1,Fulham,8,2,0,2,0,J Linington,0,1,1,8,D,18,2015-10-04,Charlton,E1,8,7,10,21,A,5,Charlton_Fulham_2015
+120,1,Nott'm Forest,11,2,0,0,2,L Mason,0,0,2,14,H,18,2015-10-16,Bristol City,E1,5,7,6,14,H,10,Bristol City_Nott'm Forest_2015
+121,1,QPR,8,2,0,1,1,C Boyeson,0,1,2,18,H,8,2015-10-17,Birmingham,E1,4,3,5,8,D,2,Birmingham_QPR_2015
+122,2,Rotherham,20,2,0,1,1,I Williamson,0,0,2,15,H,14,2015-10-17,Brentford,E1,6,4,5,8,H,4,Brentford_Rotherham_2015
+123,2,Bolton,13,2,0,0,0,G Scott,0,0,3,10,H,14,2015-10-17,Burnley,E1,7,7,5,10,D,4,Burnley_Bolton_2015
+124,3,Huddersfield,13,0,1,0,0,A Davies,0,0,1,8,D,7,2015-10-17,Ipswich,E1,3,4,4,11,D,6,Ipswich_Huddersfield_2015
+125,0,Brighton,10,1,0,2,1,D Deadman,0,1,2,13,A,14,2015-10-17,Leeds,E1,5,2,3,6,D,7,Leeds_Brighton_2015
+126,3,Fulham,10,0,0,0,0,P Bankes,0,0,3,5,D,13,2015-10-17,Middlesbrough,E1,3,6,6,18,D,1,Middlesbrough_Fulham_2015
+127,2,Blackburn,9,3,1,0,1,J Linington,0,0,2,8,H,10,2015-10-17,Milton Keynes Dons,E1,3,9,8,21,H,4,Milton Keynes Dons_Blackburn_2015
+128,0,Cardiff,4,0,0,0,0,S Atwell,0,0,1,8,D,17,2015-10-17,Preston,E1,2,1,6,18,D,1,Preston_Cardiff_2015
+129,0,Charlton,4,1,1,0,0,R Lewis,0,0,2,19,H,2,2015-10-17,Reading,E1,1,4,7,23,D,1,Reading_Charlton_2015
+130,2,Hull,13,1,0,1,1,K Stroud,0,0,2,13,D,16,2015-10-17,Sheffield Weds,E1,6,2,5,10,H,6,Sheffield Weds_Hull_2015
+131,1,Wolves,8,4,0,2,3,A Madley,0,1,2,16,H,7,2015-10-18,Derby,E1,2,11,7,20,H,2,Derby_Wolves_2015
+132,4,Birmingham,22,0,0,1,0,G Eltringham,0,1,3,10,A,14,2015-10-20,Bolton,E1,8,6,6,16,A,4,Bolton_Birmingham_2015
+133,3,Bristol City,10,2,0,1,0,I Williamson,0,1,3,9,H,8,2015-10-20,Brighton,E1,5,6,4,18,A,5,Brighton_Bristol City_2015
+134,2,Middlesbrough,11,1,0,0,0,D Whitestone,0,0,2,12,H,17,2015-10-20,Cardiff,E1,5,5,5,14,D,6,Cardiff_Middlesbrough_2015
+135,2,Preston,9,0,0,3,0,S Hooper,0,2,3,13,A,18,2015-10-20,Charlton,E1,5,1,2,8,A,6,Charlton_Preston_2015
+136,4,Milton Keynes Dons,13,2,0,0,0,P Bankes,0,0,2,9,H,9,2015-10-20,Huddersfield,E1,1,5,4,9,D,5,Huddersfield_Milton Keynes Dons_2015
+137,2,Ipswich,9,3,0,0,2,C Kavanagh,0,0,1,13,H,15,2015-10-20,Hull,E1,2,5,2,15,H,4,Hull_Ipswich_2015
+138,3,Burnley,8,1,0,1,0,S Atwell,1,0,2,6,D,15,2015-10-20,Nott'm Forest,E1,2,5,5,12,D,6,Nott'm Forest_Burnley_2015
+139,1,Sheffield Weds,14,0,0,0,0,A Haines,0,0,0,9,D,6,2015-10-20,QPR,E1,0,2,5,19,D,4,QPR_Sheffield Weds_2015
+140,2,Reading,14,1,0,1,0,J Simpson,0,1,1,8,D,17,2015-10-20,Rotherham,E1,6,6,6,19,A,6,Rotherham_Reading_2015
+141,4,Derby,9,0,0,0,0,D Drysdale,0,0,2,12,D,10,2015-10-21,Blackburn,E1,1,3,6,10,D,2,Blackburn_Derby_2015
+142,4,Leeds,16,1,0,1,1,K Hill,0,0,1,10,D,16,2015-10-21,Fulham,E1,8,2,3,11,H,6,Fulham_Leeds_2015
+143,1,Brentford,7,0,0,2,0,P Tierney,0,1,2,13,A,15,2015-10-21,Wolves,E1,7,3,4,15,A,3,Wolves_Brentford_2015
+144,2,Sheffield Weds,13,1,0,2,0,M Jones,0,0,4,18,A,16,2015-10-23,Rotherham,E1,6,3,1,11,D,1,Rotherham_Sheffield Weds_2015
+145,0,Burnley,10,0,0,1,0,K Stroud,0,0,0,12,A,5,2015-10-24,Blackburn,E1,2,6,4,18,D,0,Blackburn_Burnley_2015
+146,0,Leeds,15,1,0,1,1,S Hooper,1,0,1,8,D,12,2015-10-24,Bolton,E1,3,3,4,8,H,7,Bolton_Leeds_2015
+147,1,Preston,9,0,0,0,0,A Davies,0,0,3,8,D,11,2015-10-24,Brighton,E1,3,1,6,10,D,7,Brighton_Preston_2015
+148,1,Brentford,11,0,0,3,0,S Atwell,0,1,0,9,A,16,2015-10-24,Charlton,E1,4,6,1,13,A,4,Charlton_Brentford_2015
+149,2,Reading,12,4,0,2,0,F Graham,0,1,3,9,H,9,2015-10-24,Fulham,E1,4,7,10,11,A,3,Fulham_Reading_2015
+150,2,Derby,9,1,0,2,1,T Harrington,0,1,0,9,A,17,2015-10-24,Huddersfield,E1,8,6,8,15,D,9,Huddersfield_Derby_2015
+151,2,Birmingham,9,2,0,0,2,E Ilderton,0,0,2,9,H,7,2015-10-24,Hull,E1,3,6,7,15,H,5,Hull_Birmingham_2015
+152,0,Ipswich,9,1,0,1,0,P Tierney,0,0,4,15,D,9,2015-10-24,Nott'm Forest,E1,3,5,8,18,D,4,Nott'm Forest_Ipswich_2015
+153,1,Milton Keynes Dons,13,3,0,0,0,S Duncan,0,0,1,4,H,4,2015-10-24,QPR,E1,1,7,11,21,D,8,QPR_Milton Keynes Dons_2015
+154,2,Middlesbrough,11,1,0,3,1,J Linington,0,0,5,12,A,15,2015-10-24,Wolves,E1,8,5,7,18,H,3,Wolves_Middlesbrough_2015
+155,1,Bristol City,9,0,0,0,0,C Pawson,0,0,0,12,D,20,2015-10-26,Cardiff,E1,6,0,4,9,D,9,Cardiff_Bristol City_2015
+156,1,Blackburn,9,0,0,2,0,T Robinson,0,2,2,20,A,9,2015-10-29,Leeds,E1,4,2,3,8,A,1,Leeds_Blackburn_2015
+157,2,QPR,6,1,0,0,0,S Hooper,0,0,3,12,H,7,2015-10-30,Brentford,E1,2,5,2,11,D,1,Brentford_QPR_2015
+158,0,Wolves,10,0,0,2,0,P Bankes,0,1,1,10,A,13,2015-10-31,Birmingham,E1,6,1,8,15,A,6,Birmingham_Wolves_2015
+159,2,Fulham,11,1,0,4,0,A Woolmer,0,4,1,5,A,10,2015-10-31,Bristol City,E1,7,3,7,15,A,1,Bristol City_Fulham_2015
+160,1,Huddersfield,6,2,0,1,2,O Langford,0,0,2,10,H,12,2015-10-31,Burnley,E1,3,6,4,12,H,13,Burnley_Huddersfield_2015
+161,1,Rotherham,10,3,0,0,2,S Duncan,0,0,2,19,H,6,2015-10-31,Derby,E1,3,5,8,16,H,0,Derby_Rotherham_2015
+162,3,Cardiff,9,0,0,0,0,D Coote,0,0,5,11,D,9,2015-10-31,Ipswich,E1,3,2,3,8,D,4,Ipswich_Cardiff_2015
+163,1,Charlton,3,3,0,0,0,A Madley,0,0,5,16,H,5,2015-10-31,Middlesbrough,E1,1,10,15,25,D,2,Middlesbrough_Charlton_2015
+164,3,Hull,13,0,0,2,0,G Scott,0,1,2,12,A,8,2015-10-31,Milton Keynes Dons,E1,4,1,4,8,A,1,Milton Keynes Dons_Hull_2015
+165,1,Bolton,12,0,0,0,0,D Whitestone,0,0,1,10,D,8,2015-10-31,Preston,E1,2,5,9,12,D,3,Preston_Bolton_2015
+166,0,Brighton,3,1,0,1,0,N Swarbrick,0,0,0,10,D,10,2015-10-31,Reading,E1,2,5,4,21,D,9,Reading_Brighton_2015
+167,3,Nott'm Forest,11,1,0,0,0,J Simpson,0,0,4,11,H,5,2015-10-31,Sheffield Weds,E1,1,5,6,21,D,2,Sheffield Weds_Nott'm Forest_2015
+168,2,Blackburn,12,0,0,0,0,C Kavanagh,0,0,2,10,D,7,2015-11-03,Birmingham,E1,1,3,12,15,D,2,Birmingham_Blackburn_2015
+169,0,Hull,8,0,0,2,0,G Ward,0,0,2,11,A,23,2015-11-03,Brentford,E1,9,5,1,12,D,9,Brentford_Hull_2015
+170,1,Wolves,15,1,0,0,1,S Hooper,0,0,0,12,H,7,2015-11-03,Bristol City,E1,2,5,1,11,H,7,Bristol City_Wolves_2015
+171,0,Fulham,5,3,0,1,2,A Madley,0,0,0,8,H,14,2015-11-03,Burnley,E1,4,5,5,14,H,11,Burnley_Fulham_2015
+172,4,QPR,9,1,1,0,0,K Stroud,0,0,3,15,H,11,2015-11-03,Derby,E1,1,4,8,15,D,4,Derby_QPR_2015
+173,2,Bolton,13,2,0,0,1,D Deadman,0,0,2,12,H,10,2015-11-03,Ipswich,E1,2,10,6,21,H,6,Ipswich_Bolton_2015
+174,1,Cardiff,11,1,0,0,0,C Boyeson,0,0,1,9,H,6,2015-11-03,Leeds,E1,2,2,3,10,D,4,Leeds_Cardiff_2015
+175,0,Rotherham,9,1,0,0,1,P Tierney,0,0,1,9,H,8,2015-11-03,Middlesbrough,E1,1,3,4,19,H,2,Middlesbrough_Rotherham_2015
+176,1,Charlton,12,1,0,0,1,A Davies,0,0,5,19,H,8,2015-11-03,Milton Keynes Dons,E1,3,4,4,16,H,3,Milton Keynes Dons_Charlton_2015
+177,2,Nott'm Forest,9,1,0,0,1,T Harrington,0,0,1,14,H,15,2015-11-03,Preston,E1,6,4,0,10,H,6,Preston_Nott'm Forest_2015
+178,1,Huddersfield,9,2,0,2,1,B Malone,0,2,3,11,D,6,2015-11-03,Reading,E1,4,6,5,19,A,2,Reading_Huddersfield_2015
+179,0,Brighton,9,0,0,0,0,K Wright,0,0,0,11,D,8,2015-11-03,Sheffield Weds,E1,1,2,4,9,D,2,Sheffield Weds_Brighton_2015
+180,3,Derby,16,1,0,0,1,S Hooper,0,0,1,9,H,14,2015-11-06,Nott'm Forest,E1,2,4,2,15,H,5,Nott'm Forest_Derby_2015
+181,1,Brentford,9,1,0,1,1,A Woolmer,0,1,3,15,D,10,2015-11-07,Blackburn,E1,4,4,8,10,D,3,Blackburn_Brentford_2015
+182,3,Bristol City,15,0,0,0,0,S Atwell,0,0,2,14,D,9,2015-11-07,Bolton,E1,1,4,2,10,D,6,Bolton_Bristol City_2015
+183,2,Milton Keynes Dons,10,2,0,1,2,D Whitestone,0,1,2,12,H,7,2015-11-07,Brighton,E1,2,6,6,21,H,3,Brighton_Milton Keynes Dons_2015
+184,3,Reading,14,2,0,0,1,K Stroud,0,0,1,11,H,19,2015-11-07,Cardiff,E1,10,5,4,10,H,8,Cardiff_Reading_2015
+185,2,Sheffield Weds,15,3,0,1,2,G Ward,0,0,3,8,H,10,2015-11-07,Charlton,E1,2,4,3,13,H,2,Charlton_Sheffield Weds_2015
+186,2,Birmingham,9,2,0,5,0,I Williamson,1,3,0,12,A,19,2015-11-07,Fulham,E1,8,6,3,16,A,6,Fulham_Birmingham_2015
+187,1,Leeds,10,0,0,3,0,G Scott,0,2,2,9,A,8,2015-11-07,Huddersfield,E1,4,6,3,19,A,6,Huddersfield_Leeds_2015
+188,1,Middlesbrough,14,3,0,0,1,J Simpson,0,0,0,12,H,6,2015-11-07,Hull,E1,1,6,7,16,H,3,Hull_Middlesbrough_2015
+189,2,Preston,13,0,0,0,0,R Lewis,0,0,0,7,D,6,2015-11-07,QPR,E1,2,1,5,8,D,4,QPR_Preston_2015
+190,1,Ipswich,5,2,0,5,0,D Drysdale,0,3,0,5,A,19,2015-11-07,Rotherham,E1,10,2,5,11,A,6,Rotherham_Ipswich_2015
+191,2,Burnley,8,0,0,0,0,J Moss,0,0,2,10,D,6,2015-11-07,Wolves,E1,4,2,3,11,D,1,Wolves_Burnley_2015
+192,1,QPR,10,1,1,0,0,C Kavanagh,0,0,3,13,H,6,2015-11-20,Middlesbrough,E1,5,1,9,11,D,3,Middlesbrough_QPR_2015
+193,0,Charlton,2,0,0,1,0,D Drysdale,0,0,0,9,A,8,2015-11-21,Birmingham,E1,4,6,7,21,D,4,Birmingham_Charlton_2015
+194,1,Nott'm Forest,8,2,0,1,0,B Malone,1,0,0,12,H,17,2015-11-21,Brentford,E1,8,5,3,12,D,6,Brentford_Nott'm Forest_2015
+195,1,Hull,15,1,0,1,1,P Tierney,0,0,4,13,D,18,2015-11-21,Bristol City,E1,4,2,1,4,H,12,Bristol City_Hull_2015
+196,1,Cardiff,5,2,0,0,0,E Ilderton,0,0,1,7,H,9,2015-11-21,Derby,E1,2,10,8,20,D,3,Derby_Cardiff_2015
+197,1,Wolves,13,2,0,2,1,G Ward,0,1,2,8,D,12,2015-11-21,Ipswich,E1,4,6,3,14,D,3,Ipswich_Wolves_2015
+198,3,Rotherham,14,0,1,1,0,K Stroud,1,0,4,21,A,9,2015-11-21,Leeds,E1,3,3,9,14,D,4,Leeds_Rotherham_2015
+199,0,Fulham,9,1,0,1,1,D Handley,0,1,2,11,D,14,2015-11-21,Milton Keynes Dons,E1,5,7,5,11,D,2,Milton Keynes Dons_Fulham_2015
+200,2,Blackburn,13,1,0,2,0,M Dean,1,1,2,15,A,11,2015-11-21,Preston,E1,3,2,4,9,A,2,Preston_Blackburn_2015
+201,1,Bolton,14,2,0,1,2,J Linington,0,0,1,18,H,14,2015-11-21,Reading,E1,5,4,10,19,H,3,Reading_Bolton_2015
+202,2,Huddersfield,12,3,0,1,0,C Boyeson,0,0,3,15,H,7,2015-11-21,Sheffield Weds,E1,4,10,3,15,D,6,Sheffield Weds_Huddersfield_2015
+203,1,Brighton,12,1,0,1,1,S Hooper,0,1,3,18,D,14,2015-11-22,Burnley,E1,3,3,8,11,D,5,Burnley_Brighton_2015
+204,0,Derby,10,0,0,2,0,G Eltringham,0,2,0,8,A,9,2015-11-27,Hull,E1,4,2,10,23,A,4,Hull_Derby_2015
+205,1,Sheffield Weds,13,2,0,2,2,F Graham,0,1,2,14,D,9,2015-11-28,Blackburn,E1,2,5,8,12,H,3,Blackburn_Sheffield Weds_2015
+206,4,Birmingham,9,2,0,1,1,G Ward,0,1,4,10,H,15,2015-11-28,Brighton,E1,5,9,9,22,D,6,Brighton_Birmingham_2015
+207,1,Burnley,9,2,0,2,1,D Drysdale,0,0,0,6,D,11,2015-11-28,Cardiff,E1,3,7,8,18,H,4,Cardiff_Burnley_2015
+208,2,Ipswich,7,0,0,3,0,S Duncan,0,2,0,9,A,14,2015-11-28,Charlton,E1,7,6,7,14,A,4,Charlton_Ipswich_2015
+209,2,Preston,9,1,0,1,0,G Horwood,0,1,2,12,D,17,2015-11-28,Fulham,E1,3,3,3,11,A,6,Fulham_Preston_2015
+210,3,Middlesbrough,10,0,0,2,0,E Ilderton,0,1,1,11,A,3,2015-11-28,Huddersfield,E1,3,3,3,6,A,2,Huddersfield_Middlesbrough_2015
+211,1,Reading,17,3,0,1,2,K Hill,1,1,3,13,H,20,2015-11-28,Nott'm Forest,E1,6,5,4,12,H,9,Nott'm Forest_Reading_2015
+212,0,Leeds,12,1,0,0,0,P Bankes,0,0,3,12,H,7,2015-11-28,QPR,E1,1,4,8,20,D,1,QPR_Leeds_2015
+213,1,Bristol City,12,3,0,0,2,T Robinson,0,0,4,13,H,10,2015-11-28,Rotherham,E1,2,5,2,12,H,5,Rotherham_Bristol City_2015
+214,0,Milton Keynes Dons,7,0,0,0,0,N Miller,0,0,5,23,D,6,2015-11-28,Wolves,E1,3,6,5,16,D,1,Wolves_Milton Keynes Dons_2015
+215,3,Brentford,15,1,0,1,0,C Boyeson,0,1,2,15,D,11,2015-11-30,Bolton,E1,6,8,10,25,A,4,Bolton_Brentford_2015
+216,1,QPR,11,0,0,1,0,A Madley,0,0,2,17,A,9,2015-12-03,Reading,E1,2,0,3,10,D,7,Reading_QPR_2015
+217,1,Middlesbrough,7,0,0,2,0,T Robinson,0,0,2,13,A,15,2015-12-04,Ipswich,E1,8,5,5,12,D,3,Ipswich_Middlesbrough_2015
+218,1,Huddersfield,13,0,0,2,0,S Martin,0,1,2,10,A,13,2015-12-05,Birmingham,E1,2,2,8,6,A,5,Birmingham_Huddersfield_2015
+219,1,Cardiff,14,2,0,3,1,T Harrington,1,1,2,12,A,16,2015-12-05,Bolton,E1,7,5,4,18,D,5,Bolton_Cardiff_2015
+220,1,Milton Keynes Dons,12,2,0,0,1,O Langford,0,0,1,7,H,9,2015-12-05,Brentford,E1,3,6,7,19,H,4,Brentford_Milton Keynes Dons_2015
+221,3,Charlton,6,3,1,2,0,K Stroud,0,2,4,17,H,7,2015-12-05,Brighton,E1,5,7,11,21,A,1,Brighton_Charlton_2015
+222,0,Blackburn,12,0,0,2,0,G Eltringham,1,0,1,13,A,14,2015-12-05,Bristol City,E1,7,1,4,7,D,4,Bristol City_Blackburn_2015
+223,2,Preston,11,0,0,2,0,K Friend,0,0,2,12,A,10,2015-12-05,Burnley,E1,3,2,9,8,D,3,Burnley_Preston_2015
+224,3,Hull,10,2,0,1,2,C Kavanagh,0,0,0,9,H,16,2015-12-05,Leeds,E1,5,6,2,11,H,6,Leeds_Hull_2015
+225,0,Fulham,11,3,0,0,1,C Boyeson,0,0,0,10,H,11,2015-12-05,Nott'm Forest,E1,4,5,6,11,H,7,Nott'm Forest_Fulham_2015
+226,0,Wolves,6,1,0,2,1,D Deadman,0,2,1,6,A,12,2015-12-05,Rotherham,E1,5,2,5,13,A,7,Rotherham_Wolves_2015
+227,4,Derby,13,0,0,0,0,G Scott,0,0,2,9,D,8,2015-12-06,Sheffield Weds,E1,2,1,5,10,D,2,Sheffield Weds_Derby_2015
+228,0,Rotherham,15,1,0,0,1,T Harrington,0,0,1,12,H,11,2015-12-11,Blackburn,E1,3,4,7,7,H,4,Blackburn_Rotherham_2015
+229,2,Nott'm Forest,8,1,0,1,1,K Stroud,0,0,4,16,D,10,2015-12-11,Wolves,E1,3,4,7,14,H,5,Wolves_Nott'm Forest_2015
+230,3,Sheffield Weds,12,2,0,2,2,C Breakspear,0,0,1,10,D,14,2015-12-12,Cardiff,E1,6,6,3,15,H,6,Cardiff_Sheffield Weds_2015
+231,3,Leeds,12,0,0,0,0,A Davies,0,0,5,11,D,18,2015-12-12,Charlton,E1,3,6,4,14,D,8,Charlton_Leeds_2015
+232,1,Brighton,9,2,0,2,1,L Mason,0,1,1,11,D,8,2015-12-12,Derby,E1,3,7,7,19,D,4,Derby_Brighton_2015
+233,2,Brentford,11,2,0,2,1,D Coote,0,1,2,9,D,14,2015-12-12,Fulham,E1,6,3,10,8,D,4,Fulham_Brentford_2015
+234,1,Bristol City,10,1,0,2,0,J Simpson,0,2,2,9,A,11,2015-12-12,Huddersfield,E1,5,7,7,23,A,2,Huddersfield_Bristol City_2015
+235,2,Bolton,17,1,0,0,1,M Bull,0,0,2,16,H,8,2015-12-12,Hull,E1,2,5,2,11,H,1,Hull_Bolton_2015
+236,2,Birmingham,10,0,0,0,0,D Bond,1,0,2,8,D,15,2015-12-12,Middlesbrough,E1,3,7,8,20,D,7,Middlesbrough_Birmingham_2015
+237,0,Ipswich,8,0,0,1,0,G Ward,0,1,3,17,A,10,2015-12-12,Milton Keynes Dons,E1,2,5,14,20,A,2,Milton Keynes Dons_Ipswich_2015
+238,0,Reading,13,1,0,0,0,G Eltringham,0,0,3,17,H,11,2015-12-12,Preston,E1,3,4,4,15,D,4,Preston_Reading_2015
+239,0,Burnley,8,0,0,0,0,S Atwell,0,0,0,6,D,9,2015-12-12,QPR,E1,2,4,6,17,D,5,QPR_Burnley_2015
+240,3,Nott'm Forest,9,0,0,0,0,C Kavanagh,0,0,2,7,D,10,2015-12-14,Blackburn,E1,3,5,8,10,D,1,Blackburn_Nott'm Forest_2015
+241,1,Brentford,11,3,0,2,2,S Hooper,0,0,1,8,H,10,2015-12-15,Cardiff,E1,4,8,4,16,H,9,Cardiff_Brentford_2015
+242,3,Bolton,14,2,0,2,2,G Horwood,0,2,1,14,D,18,2015-12-15,Charlton,E1,6,5,3,12,D,8,Charlton_Bolton_2015
+243,1,Bristol City,14,4,0,0,1,A Woolmer,0,0,1,10,H,6,2015-12-15,Derby,E1,1,6,5,15,H,3,Derby_Bristol City_2015
+244,0,Ipswich,5,1,0,2,1,T Kettle,0,1,0,9,A,11,2015-12-15,Fulham,E1,4,2,10,15,D,5,Fulham_Ipswich_2015
+245,1,Rotherham,14,2,0,0,1,M Brown,0,0,1,11,H,11,2015-12-15,Huddersfield,E1,3,3,5,11,H,4,Huddersfield_Rotherham_2015
+246,0,Burnley,5,1,0,0,0,G Eltringham,0,0,2,16,H,7,2015-12-15,Middlesbrough,E1,2,5,7,17,D,2,Middlesbrough_Burnley_2015
+247,0,Sheffield Weds,8,2,0,1,1,D Deadman,0,0,2,13,H,8,2015-12-15,Milton Keynes Dons,E1,2,3,6,9,H,3,Milton Keynes Dons_Sheffield Weds_2015
+248,2,Birmingham,14,1,0,1,1,K Wright,0,0,3,12,D,18,2015-12-15,Preston,E1,6,4,5,10,H,7,Preston_Birmingham_2015
+249,3,Brighton,10,2,1,2,0,P Tierney,0,0,0,10,D,14,2015-12-15,QPR,E1,6,7,10,21,D,7,QPR_Brighton_2015
+250,1,Reading,13,2,0,1,0,O Langford,0,1,1,7,H,9,2015-12-16,Hull,E1,3,10,6,16,A,3,Hull_Reading_2015
+251,0,Leeds,4,2,0,3,1,S Atwell,0,1,1,10,A,14,2015-12-17,Wolves,E1,6,3,6,10,D,2,Wolves_Leeds_2015
+252,3,Cardiff,12,1,0,0,1,K Stroud,0,0,1,14,H,10,2015-12-18,Birmingham,E1,3,3,7,14,H,4,Birmingham_Cardiff_2015
+253,0,Fulham,9,2,0,2,0,N Miller,0,1,1,9,D,13,2015-12-19,Bolton,E1,4,3,5,16,A,5,Bolton_Fulham_2015
+254,1,Huddersfield,12,4,0,2,3,P Gibbs,0,0,2,11,H,11,2015-12-19,Brentford,E1,4,8,5,11,H,5,Brentford_Huddersfield_2015
+255,0,Middlesbrough,6,0,0,3,0,C Pawson,0,2,1,7,A,10,2015-12-19,Brighton,E1,6,2,3,14,A,4,Brighton_Middlesbrough_2015
+256,0,QPR,5,1,0,1,0,M Haywood,0,0,0,6,D,8,2015-12-19,Bristol City,E1,4,5,7,11,D,5,Bristol City_QPR_2015
+257,0,Charlton,7,4,0,0,1,P Tierney,0,0,0,7,H,12,2015-12-19,Burnley,E1,6,7,7,19,H,5,Burnley_Charlton_2015
+258,2,Derby,8,0,0,1,0,K Hill,0,1,2,11,A,7,2015-12-19,Ipswich,E1,4,2,9,11,A,3,Ipswich_Derby_2015
+259,1,Milton Keynes Dons,12,2,0,1,2,S Hooper,0,0,1,9,H,13,2015-12-19,Nott'm Forest,E1,4,4,4,12,H,6,Nott'm Forest_Milton Keynes Dons_2015
+260,2,Hull,9,2,0,0,1,E Ilderton,0,0,1,8,H,18,2015-12-19,Rotherham,E1,3,5,3,12,H,10,Rotherham_Hull_2015
+261,1,Preston,9,1,1,0,0,G Ward,0,0,5,17,H,9,2015-12-20,Leeds,E1,7,2,8,12,D,5,Leeds_Preston_2015
+262,1,Blackburn,8,1,0,0,1,P Bankes,0,0,4,12,H,8,2015-12-20,Reading,E1,3,7,6,13,H,1,Reading_Blackburn_2015
+263,0,Wolves,13,4,0,1,2,D Whitestone,0,1,2,15,H,11,2015-12-20,Sheffield Weds,E1,2,8,2,24,H,3,Sheffield Weds_Wolves_2015
+264,1,Brighton,8,0,0,0,0,D Deadman,0,0,3,14,D,4,2015-12-26,Brentford,E1,3,4,10,20,D,1,Brentford_Brighton_2015
+265,2,Charlton,6,1,0,1,1,O Langford,0,0,1,18,D,7,2015-12-26,Bristol City,E1,4,2,7,18,H,3,Bristol City_Charlton_2015
+266,1,Fulham,8,2,0,0,0,S Duncan,0,0,1,7,H,11,2015-12-26,Derby,E1,4,1,4,19,D,4,Derby_Fulham_2015
+267,4,Preston,10,3,0,1,1,C Kavanagh,0,0,3,9,H,10,2015-12-26,Huddersfield,E1,4,11,4,21,H,4,Huddersfield_Preston_2015
+268,0,Burnley,12,3,0,0,0,M Clattenburg,0,0,0,14,H,8,2015-12-26,Hull,E1,2,6,8,17,D,2,Hull_Burnley_2015
+269,1,QPR,6,2,0,1,0,D Drysdale,0,1,2,8,H,13,2015-12-26,Ipswich,E1,5,2,6,15,A,5,Ipswich_QPR_2015
+270,3,Cardiff,11,2,0,1,0,I Williamson,0,0,2,14,H,15,2015-12-26,Milton Keynes Dons,E1,4,2,1,10,D,3,Milton Keynes Dons_Cardiff_2015
+271,1,Bolton,19,4,0,0,0,G Eltringham,0,0,1,14,H,7,2015-12-26,Rotherham,E1,2,10,12,18,D,1,Rotherham_Bolton_2015
+272,0,Birmingham,14,3,0,0,2,T Harrington,0,0,2,15,H,11,2015-12-26,Sheffield Weds,E1,2,8,3,18,H,4,Sheffield Weds_Birmingham_2015
+273,2,Reading,12,1,0,0,1,S Hooper,0,0,1,9,H,24,2015-12-26,Wolves,E1,3,1,9,6,H,8,Wolves_Reading_2015
+274,3,Leeds,16,1,0,1,1,J Linington,0,0,2,8,D,15,2015-12-27,Nott'm Forest,E1,2,3,5,16,H,6,Nott'm Forest_Leeds_2015
+275,1,Milton Keynes Dons,13,1,0,0,0,A Davies,0,0,4,15,H,7,2015-12-28,Birmingham,E1,2,6,11,17,D,2,Birmingham_Milton Keynes Dons_2015
+276,4,Blackburn,14,1,0,0,0,J Moss,0,0,3,16,H,15,2015-12-28,Bolton,E1,1,3,2,12,D,7,Bolton_Blackburn_2015
+277,1,Bristol City,13,4,0,0,2,A Madley,0,0,1,8,H,14,2015-12-28,Burnley,E1,3,4,8,18,H,3,Burnley_Bristol City_2015
+278,1,Wolves,10,0,0,2,0,M Buonassisi,0,0,0,9,A,9,2015-12-28,Charlton,E1,3,2,6,10,D,8,Charlton_Wolves_2015
+279,1,Sheffield Weds,12,1,0,0,1,D Coote,0,0,4,23,H,6,2015-12-28,Middlesbrough,E1,1,2,3,5,H,5,Middlesbrough_Sheffield Weds_2015
+280,0,Hull,11,1,0,0,0,P Bankes,0,0,4,12,H,10,2015-12-28,Preston,E1,4,4,2,16,D,6,Preston_Hull_2015
+281,0,Huddersfield,10,1,0,1,0,B Malone,0,0,2,10,D,11,2015-12-28,QPR,E1,4,2,4,11,D,8,QPR_Huddersfield_2015
+282,2,Brentford,13,1,0,2,0,K Stroud,1,1,4,18,A,10,2015-12-28,Reading,E1,4,4,12,15,A,3,Reading_Brentford_2015
+283,1,Ipswich,5,0,0,1,0,S Atwell,0,1,1,8,A,11,2015-12-29,Brighton,E1,4,3,5,14,A,8,Brighton_Ipswich_2015
+284,1,Nott'm Forest,10,1,0,1,1,T Robinson,0,1,1,7,D,6,2015-12-29,Cardiff,E1,2,5,4,17,D,1,Cardiff_Nott'm Forest_2015
+285,0,Rotherham,5,4,0,1,2,S Hooper,0,1,0,11,H,22,2015-12-29,Fulham,E1,8,8,4,16,H,8,Fulham_Rotherham_2015
+286,3,Derby,13,2,0,2,1,M Heywood,0,1,2,13,D,13,2015-12-29,Leeds,E1,4,4,3,12,D,9,Leeds_Derby_2015
+287,1,Wolves,9,0,0,1,0,C Kavanagh,0,1,1,9,A,6,2016-01-01,Brighton,E1,4,6,10,19,A,4,Brighton_Wolves_2015
+288,1,Hull,10,1,0,2,0,K Stroud,0,0,1,10,A,12,2016-01-01,QPR,E1,2,2,6,14,D,8,QPR_Hull_2015
+289,4,Brentford,14,2,0,1,0,G Scott,0,0,2,11,H,15,2016-01-02,Birmingham,E1,3,3,0,10,D,5,Birmingham_Brentford_2015
+290,2,Huddersfield,14,0,0,2,0,A Haines,0,0,1,18,A,18,2016-01-02,Bolton,E1,4,1,2,14,D,7,Bolton_Huddersfield_2015
+291,2,Ipswich,10,0,0,0,0,P Bankes,0,0,0,13,D,14,2016-01-02,Burnley,E1,3,1,2,8,D,8,Burnley_Ipswich_2015
+292,1,Blackburn,8,1,0,0,0,A Woolmer,0,0,2,11,H,10,2016-01-02,Cardiff,E1,2,5,6,13,D,5,Cardiff_Blackburn_2015
+293,0,Nott'm Forest,16,1,0,1,0,T Kettle,1,1,1,9,D,16,2016-01-02,Charlton,E1,6,4,6,11,A,8,Charlton_Nott'm Forest_2015
+294,2,Sheffield Weds,15,0,0,1,0,K Johnson,0,1,1,14,A,14,2016-01-02,Fulham,E1,6,1,4,11,A,7,Fulham_Sheffield Weds_2015
+295,2,Milton Keynes Dons,15,1,0,1,0,J Simpson,0,1,5,13,D,7,2016-01-02,Leeds,E1,2,0,6,3,A,5,Leeds_Milton Keynes Dons_2015
+296,0,Derby,13,2,0,0,0,N Swarbrick,0,0,2,6,H,10,2016-01-02,Middlesbrough,E1,2,4,5,16,D,7,Middlesbrough_Derby_2015
+297,0,Rotherham,11,2,0,1,0,C Breakspear,0,1,1,10,H,7,2016-01-02,Preston,E1,3,6,7,17,A,5,Preston_Rotherham_2015
+298,3,Bristol City,7,1,0,0,0,D Handley,0,0,0,14,H,8,2016-01-02,Reading,E1,0,3,6,19,D,5,Reading_Bristol City_2015
+299,0,QPR,11,1,0,1,0,E Ilderton,0,1,0,10,D,10,2016-01-12,Blackburn,E1,3,7,7,14,A,3,Blackburn_QPR_2015
+300,1,Middlesbrough,7,0,0,1,0,G Ward,0,0,3,14,A,10,2016-01-12,Brentford,E1,6,6,11,13,D,5,Brentford_Middlesbrough_2015
+301,2,Preston,10,1,0,2,0,J Linington,0,0,0,12,A,5,2016-01-12,Bristol City,E1,2,5,8,9,D,2,Bristol City_Preston_2015
+302,3,Reading,14,1,0,1,1,D Coote,0,1,2,14,D,14,2016-01-12,Derby,E1,5,2,4,8,D,7,Derby_Reading_2015
+303,0,Charlton,13,5,1,0,2,G Eltringham,0,0,3,16,H,7,2016-01-12,Huddersfield,E1,2,7,7,15,H,3,Huddersfield_Charlton_2015
+304,2,Leeds,7,2,0,1,0,F Graham,0,1,1,4,H,4,2016-01-12,Ipswich,E1,2,7,7,17,A,2,Ipswich_Leeds_2015
+305,0,Burnley,4,0,0,5,0,S Martin,1,1,2,16,A,13,2016-01-12,Milton Keynes Dons,E1,7,5,4,16,A,4,Milton Keynes Dons_Burnley_2015
+306,4,Birmingham,13,1,0,1,1,M Brown,1,1,2,16,D,7,2016-01-12,Nott'm Forest,E1,4,4,0,14,D,4,Nott'm Forest_Birmingham_2015
+307,0,Brighton,10,2,0,0,1,O Langford,0,0,0,12,H,8,2016-01-12,Rotherham,E1,2,8,3,14,H,7,Rotherham_Brighton_2015
+308,2,Bolton,17,3,0,2,1,S Hooper,0,1,1,13,H,14,2016-01-12,Sheffield Weds,E1,5,7,2,13,D,0,Sheffield Weds_Bolton_2015
+309,0,Fulham,4,3,0,2,2,R Lewis,0,1,3,12,H,11,2016-01-12,Wolves,E1,4,8,4,17,H,5,Wolves_Fulham_2015
+310,1,Cardiff,12,2,0,0,1,S Duncan,0,0,0,8,H,5,2016-01-13,Hull,E1,0,8,6,19,H,1,Hull_Cardiff_2015
+311,0,Burnley,7,1,0,3,0,C Kavanagh,0,3,0,10,A,17,2016-01-15,Brentford,E1,6,3,3,19,A,3,Brentford_Burnley_2015
+312,2,Brighton,12,0,0,1,0,K Wright,0,1,1,16,A,8,2016-01-16,Blackburn,E1,3,2,5,15,A,6,Blackburn_Brighton_2015
+313,2,Middlesbrough,10,1,0,0,0,C Boyeson,0,0,2,14,H,12,2016-01-16,Bristol City,E1,2,5,7,17,D,3,Bristol City_Middlesbrough_2015
+314,2,Birmingham,14,0,0,3,0,T Robinson,0,0,1,16,A,11,2016-01-16,Derby,E1,8,4,6,14,D,3,Derby_Birmingham_2015
+315,2,Fulham,11,1,0,1,1,C Sarginson,0,1,1,11,D,13,2016-01-16,Huddersfield,E1,3,3,7,9,D,2,Huddersfield_Fulham_2015
+316,0,Charlton,5,6,0,0,4,R Clark,0,0,2,17,H,6,2016-01-16,Hull,E1,3,10,6,27,H,1,Hull_Charlton_2015
+317,1,Preston,10,1,0,1,1,S Hooper,0,1,3,15,D,12,2016-01-16,Ipswich,E1,3,6,5,19,D,2,Ipswich_Preston_2015
+318,2,Reading,17,1,0,0,0,C Breakspear,0,0,3,12,H,14,2016-01-16,Milton Keynes Dons,E1,4,4,7,10,D,8,Milton Keynes Dons_Reading_2015
+319,0,Bolton,8,3,1,0,2,E Ilderton,0,0,1,10,H,3,2016-01-16,Nott'm Forest,E1,1,6,5,22,H,4,Nott'm Forest_Bolton_2015
+320,1,QPR,10,0,0,3,0,J Adcock,0,0,0,10,A,8,2016-01-16,Rotherham,E1,3,3,9,21,D,2,Rotherham_QPR_2015
+321,2,Leeds,11,2,0,0,0,A Taylor,0,0,2,9,H,12,2016-01-16,Sheffield Weds,E1,4,5,2,11,D,7,Sheffield Weds_Leeds_2015
+322,1,Cardiff,7,1,0,3,1,D Whitestone,0,2,2,9,A,17,2016-01-16,Wolves,E1,7,2,7,18,A,5,Wolves_Cardiff_2015
+323,2,Ipswich,9,3,1,0,1,M Bull,0,0,1,11,H,18,2016-01-23,Birmingham,E1,5,5,5,13,H,4,Birmingham_Ipswich_2015
+324,2,Milton Keynes Dons,19,3,0,1,2,K Wright,0,0,2,12,H,8,2016-01-23,Bolton,E1,4,11,9,22,H,10,Bolton_Milton Keynes Dons_2015
+325,1,Huddersfield,18,2,1,1,1,G Horwood,0,1,3,15,H,10,2016-01-23,Brighton,E1,3,2,1,8,D,5,Brighton_Huddersfield_2015
+326,1,Rotherham,10,2,0,2,1,J Simpson,1,1,0,16,D,5,2016-01-23,Cardiff,E1,3,3,5,11,D,4,Cardiff_Rotherham_2015
+327,0,Blackburn,16,1,0,1,1,R Lewis,0,1,1,18,D,10,2016-01-23,Charlton,E1,2,2,1,6,D,4,Charlton_Blackburn_2015
+328,1,Hull,9,0,0,1,0,P Tierney,0,0,3,15,A,12,2016-01-23,Fulham,E1,3,2,4,9,D,4,Fulham_Hull_2015
+329,4,Bristol City,13,1,0,0,0,C Breakspear,0,0,2,17,H,10,2016-01-23,Leeds,E1,3,1,6,7,D,5,Leeds_Bristol City_2015
+330,2,Nott'm Forest,9,0,0,1,0,F Graham,0,0,2,9,A,6,2016-01-23,Middlesbrough,E1,4,2,4,11,D,3,Middlesbrough_Nott'm Forest_2015
+331,4,Brentford,17,1,0,3,1,D Webb,0,2,2,12,A,8,2016-01-23,Preston,E1,3,5,3,15,A,2,Preston_Brentford_2015
+332,0,Wolves,12,1,0,1,1,A Woolmer,0,0,0,11,D,13,2016-01-23,QPR,E1,5,5,6,14,H,1,QPR_Wolves_2015
+333,0,Sheffield Weds,8,1,0,1,0,S Martin,0,1,2,13,D,9,2016-01-23,Reading,E1,2,2,7,16,A,6,Reading_Sheffield Weds_2015
+334,0,Derby,12,4,0,1,1,M Oliver,0,1,2,11,H,14,2016-01-25,Burnley,E1,4,6,3,9,D,11,Burnley_Derby_2015
+335,1,Leeds,10,1,0,1,1,I Williamson,0,0,4,4,D,10,2016-01-26,Brentford,E1,3,4,4,9,H,4,Brentford_Leeds_2015
+336,1,QPR,11,0,0,0,0,P Tierney,0,0,2,13,D,17,2016-01-26,Nott'm Forest,E1,4,5,6,14,D,7,Nott'm Forest_QPR_2015
+337,3,Birmingham,16,0,0,0,0,R Lewis,0,0,1,8,D,9,2016-01-30,Bristol City,E1,2,5,3,15,D,0,Bristol City_Birmingham_2015
+338,2,Cardiff,10,2,0,3,1,D Webb,0,1,3,16,A,7,2016-01-30,Huddersfield,E1,4,4,4,12,D,2,Huddersfield_Cardiff_2015
+339,1,Charlton,9,1,0,4,1,K Stroud,0,2,3,10,A,9,2016-01-30,Rotherham,E1,6,4,4,20,A,3,Rotherham_Charlton_2015
+340,1,Preston,6,0,0,0,0,O Langford,0,0,2,8,D,11,2016-02-02,Derby,E1,4,0,10,16,D,2,Derby_Preston_2015
+341,1,Reading,10,2,0,1,0,T Robinson,0,0,2,11,H,12,2016-02-02,Ipswich,E1,3,5,12,18,D,2,Ipswich_Reading_2015
+342,1,Burnley,12,1,0,1,0,A Woolmer,0,1,2,10,D,11,2016-02-02,Sheffield Weds,E1,5,5,3,14,A,2,Sheffield Weds_Burnley_2015
+343,0,Bolton,10,2,0,2,1,F Graham,0,0,0,10,D,13,2016-02-02,Wolves,E1,5,3,4,6,H,5,Wolves_Bolton_2015
+344,1,Brentford,15,3,0,0,2,K Stroud,0,0,1,9,H,8,2016-02-05,Brighton,E1,1,4,3,12,H,6,Brighton_Brentford_2015
+345,2,Sheffield Weds,8,1,0,2,1,J Adcock,0,0,3,11,A,16,2016-02-06,Birmingham,E1,5,4,6,12,H,8,Birmingham_Sheffield Weds_2015
+346,0,Rotherham,7,2,0,1,1,S Atwell,0,1,2,8,H,13,2016-02-06,Bolton,E1,4,4,7,13,D,6,Bolton_Rotherham_2015
+347,1,Hull,6,1,0,0,0,G Scott,0,0,1,11,H,11,2016-02-06,Burnley,E1,3,4,8,14,D,6,Burnley_Hull_2015
+348,0,Milton Keynes Dons,14,0,0,0,0,K Johnson,0,0,0,7,D,10,2016-02-06,Cardiff,E1,2,5,10,15,D,5,Cardiff_Milton Keynes Dons_2015
+349,3,Bristol City,14,0,0,1,0,M Jones,0,1,3,16,A,12,2016-02-06,Charlton,E1,6,3,4,9,A,5,Charlton_Bristol City_2015
+350,2,Derby,12,1,0,1,1,D Deadman,0,1,1,6,D,16,2016-02-06,Fulham,E1,3,3,5,14,D,5,Fulham_Derby_2015
+351,1,Nott'm Forest,8,0,0,1,0,S Duncan,0,0,0,7,A,16,2016-02-06,Leeds,E1,7,4,5,12,D,1,Leeds_Nott'm Forest_2015
+352,2,Blackburn,12,1,0,1,0,D Whitestone,0,0,5,7,D,15,2016-02-06,Middlesbrough,E1,2,2,6,13,D,6,Middlesbrough_Blackburn_2015
+353,0,Huddersfield,12,2,0,1,0,D Drysdale,0,0,2,10,H,20,2016-02-06,Preston,E1,7,4,2,10,D,5,Preston_Huddersfield_2015
+354,2,Ipswich,10,1,0,0,0,C Breakspear,0,0,1,10,H,13,2016-02-06,QPR,E1,7,8,5,18,D,6,QPR_Ipswich_2015
+355,1,Wolves,10,0,0,0,0,T Harrington,0,0,2,12,D,9,2016-02-06,Reading,E1,2,2,8,19,D,7,Reading_Wolves_2015
+356,1,Middlesbrough,8,1,0,1,1,A Davies,0,0,1,16,D,12,2016-02-09,Milton Keynes Dons,E1,4,3,4,6,H,10,Milton Keynes Dons_Middlesbrough_2015
+357,0,Hull,9,0,0,2,0,O Langford,0,0,0,11,A,14,2016-02-13,Blackburn,E1,4,5,7,15,D,2,Blackburn_Hull_2015
+358,2,Bolton,8,3,0,2,2,R Lewis,0,1,1,10,H,8,2016-02-13,Brighton,E1,3,7,5,15,H,2,Brighton_Bolton_2015
+359,1,Ipswich,8,2,0,1,2,T Harrington,0,0,1,7,H,14,2016-02-13,Bristol City,E1,3,4,13,16,H,6,Bristol City_Ipswich_2015
+360,2,Cardiff,17,0,1,0,0,I Williamson,0,0,0,10,D,18,2016-02-13,Charlton,E1,3,3,4,14,D,8,Charlton_Cardiff_2015
+361,2,Milton Keynes Dons,16,0,0,1,0,G Eltringham,0,0,2,14,A,8,2016-02-13,Derby,E1,1,4,7,13,D,4,Derby_Milton Keynes Dons_2015
+362,2,Huddersfield,13,0,0,2,0,D Deadman,0,1,2,12,A,18,2016-02-13,Nott'm Forest,E1,7,4,5,11,A,3,Nott'm Forest_Huddersfield_2015
+363,2,Fulham,9,1,0,3,0,T Robinson,0,3,2,8,A,16,2016-02-13,QPR,E1,9,6,11,11,A,5,QPR_Fulham_2015
+364,2,Burnley,10,0,0,0,0,J Adcock,0,0,1,15,D,17,2016-02-13,Reading,E1,4,3,4,14,D,4,Reading_Burnley_2015
+365,0,Birmingham,13,0,0,0,0,R Clark,2,0,2,5,D,10,2016-02-13,Rotherham,E1,3,2,7,10,D,2,Rotherham_Birmingham_2015
+366,0,Brentford,13,4,1,0,3,S Duncan,0,0,0,6,H,7,2016-02-13,Sheffield Weds,E1,5,8,5,15,H,1,Sheffield Weds_Brentford_2015
+367,0,Preston,12,1,0,2,0,K Johnson,0,1,1,12,A,8,2016-02-13,Wolves,E1,3,2,3,11,A,3,Wolves_Preston_2015
+368,2,Middlesbrough,13,0,1,0,0,C Pawson,0,0,1,12,D,11,2016-02-15,Leeds,E1,5,2,10,16,D,3,Leeds_Middlesbrough_2015
+369,1,Fulham,8,3,0,0,1,P Gibbs,0,0,3,14,H,9,2016-02-16,Blackburn,E1,3,7,4,16,H,5,Blackburn_Fulham_2015
+370,1,Brighton,9,0,0,0,0,A Madley,0,0,0,9,D,5,2016-02-16,Hull,E1,1,3,4,12,D,2,Hull_Brighton_2015
+371,0,QPR,7,1,0,1,0,J Simpson,0,0,2,13,D,10,2016-02-20,Bolton,E1,4,2,2,9,D,4,Bolton_QPR_2015
+372,1,Derby,9,1,0,3,0,D Drysdale,0,0,0,9,A,11,2016-02-20,Brentford,E1,8,4,7,12,D,3,Brentford_Derby_2015
+373,2,Rotherham,10,2,0,0,1,T Robinson,0,0,2,10,H,7,2016-02-20,Burnley,E1,1,5,6,17,H,1,Burnley_Rotherham_2015
+374,1,Brighton,6,4,0,1,3,D Bond,0,0,1,12,H,8,2016-02-20,Cardiff,E1,2,6,3,12,H,6,Cardiff_Brighton_2015
+375,3,Charlton,9,3,0,0,1,K Friend,0,0,1,15,H,19,2016-02-20,Fulham,E1,5,5,9,17,H,6,Fulham_Charlton_2015
+376,2,Wolves,13,1,0,0,0,K Wright,0,0,2,16,H,9,2016-02-20,Huddersfield,E1,1,1,4,14,D,6,Huddersfield_Wolves_2015
+377,3,Bristol City,15,0,0,2,0,K Hill,0,1,2,20,A,11,2016-02-20,Milton Keynes Dons,E1,3,0,2,3,A,3,Milton Keynes Dons_Bristol City_2015
+378,3,Sheffield Weds,10,1,1,0,0,K Stroud,0,0,2,12,H,8,2016-02-20,Preston,E1,0,4,7,13,D,5,Preston_Sheffield Weds_2015
+379,2,Bolton,18,1,0,0,1,S Duncan,0,0,2,17,H,3,2016-02-23,Birmingham,E1,1,5,6,13,H,3,Birmingham_Bolton_2015
+380,1,Wolves,7,3,0,0,1,C Breakspear,0,0,1,11,H,8,2016-02-23,Brentford,E1,5,8,10,20,H,4,Brentford_Wolves_2015
+381,0,Brighton,9,0,0,4,0,D Coote,0,2,1,16,A,11,2016-02-23,Bristol City,E1,3,4,9,17,A,3,Bristol City_Brighton_2015
+382,0,Nott'm Forest,10,1,0,0,0,A Madley,0,0,1,11,H,8,2016-02-23,Burnley,E1,1,4,6,14,D,6,Burnley_Nott'm Forest_2015
+383,1,Hull,10,0,0,1,0,B Malone,0,0,0,8,A,14,2016-02-23,Ipswich,E1,4,0,4,10,D,4,Ipswich_Hull_2015
+384,2,Fulham,8,1,1,1,1,K Wright,0,1,1,15,D,9,2016-02-23,Leeds,E1,6,3,5,12,D,6,Leeds_Fulham_2015
+385,0,Cardiff,7,3,0,1,1,T Kettle,0,1,0,12,H,15,2016-02-23,Middlesbrough,E1,5,9,4,15,D,5,Middlesbrough_Cardiff_2015
+386,1,Huddersfield,15,1,1,1,1,M Bull,0,0,2,21,D,11,2016-02-23,Milton Keynes Dons,E1,2,5,3,11,H,4,Milton Keynes Dons_Huddersfield_2015
+387,2,Charlton,9,2,1,1,1,J Adcock,0,1,1,15,H,9,2016-02-23,Preston,E1,4,4,2,12,D,3,Preston_Charlton_2015
+388,1,Rotherham,8,1,0,0,0,K Johnson,0,0,5,17,H,7,2016-02-23,Reading,E1,1,5,4,14,D,3,Reading_Rotherham_2015
+389,1,QPR,15,1,0,1,0,A Davies,0,0,1,9,D,9,2016-02-23,Sheffield Weds,E1,2,7,9,17,D,4,Sheffield Weds_QPR_2015
+390,0,Blackburn,8,1,0,0,1,N Miller,0,0,0,12,H,16,2016-02-24,Derby,E1,3,3,1,10,H,2,Derby_Blackburn_2015
+391,0,Sheffield Weds,8,0,1,0,0,T Robinson,0,0,1,13,D,6,2016-02-26,Hull,E1,2,7,5,16,D,2,Hull_Sheffield Weds_2015
+392,3,Milton Keynes Dons,18,3,0,2,0,S Hooper,0,1,1,8,H,11,2016-02-27,Blackburn,E1,4,7,6,18,A,2,Blackburn_Milton Keynes Dons_2015
+393,0,Burnley,9,1,0,2,0,S Martin,0,0,1,12,A,13,2016-02-27,Bolton,E1,4,2,10,13,D,3,Bolton_Burnley_2015
+394,2,Preston,12,2,0,1,1,B Malone,0,0,2,9,H,7,2016-02-27,Cardiff,E1,2,7,2,16,H,2,Cardiff_Preston_2015
+395,1,Reading,12,3,0,4,1,N Miller,0,3,1,6,A,16,2016-02-27,Charlton,E1,8,11,2,15,A,7,Charlton_Reading_2015
+396,2,Middlesbrough,11,0,0,2,0,C Breakspear,1,2,0,11,A,13,2016-02-27,Fulham,E1,3,2,3,12,A,11,Fulham_Middlesbrough_2015
+397,1,Ipswich,13,0,0,1,0,D Bond,0,1,3,11,A,6,2016-02-27,Huddersfield,E1,1,5,4,22,A,1,Huddersfield_Ipswich_2015
+398,1,Bristol City,7,1,0,2,1,D Webb,0,1,0,9,A,21,2016-02-27,Nott'm Forest,E1,5,3,1,10,D,6,Nott'm Forest_Bristol City_2015
+399,0,Birmingham,17,2,0,0,2,R East,0,0,4,11,H,13,2016-02-27,QPR,E1,4,8,6,16,H,6,QPR_Birmingham_2015
+400,1,Brentford,12,2,0,1,1,M Brown,0,1,2,20,H,10,2016-02-27,Rotherham,E1,4,8,6,16,D,2,Rotherham_Brentford_2015
+401,4,Derby,17,2,0,1,1,G Scott,0,1,1,12,H,9,2016-02-27,Wolves,E1,4,2,3,7,D,3,Wolves_Derby_2015
+402,3,Leeds,9,4,0,0,4,P Bankes,0,0,4,14,H,17,2016-02-29,Brighton,E1,1,6,5,11,H,8,Brighton_Leeds_2015
+403,3,Middlesbrough,14,2,0,1,0,A Madley,0,0,1,7,H,18,2016-03-01,Blackburn,E1,4,3,3,9,D,4,Blackburn_Middlesbrough_2015
+404,0,Hull,7,1,0,0,1,S Martin,0,0,0,11,H,24,2016-03-03,Birmingham,E1,6,3,4,11,H,4,Birmingham_Hull_2015
+405,1,Wolves,8,2,0,1,1,S Atwell,0,0,2,9,H,13,2016-03-04,Middlesbrough,E1,1,7,6,19,H,5,Middlesbrough_Wolves_2015
+406,3,Charlton,9,1,0,2,1,B Malone,0,1,4,10,A,6,2016-03-05,Brentford,E1,3,5,11,16,D,7,Brentford_Charlton_2015
+407,2,Cardiff,8,0,0,2,0,G Scott,0,1,1,13,A,9,2016-03-05,Bristol City,E1,5,3,7,11,A,2,Bristol City_Cardiff_2015
+408,2,Blackburn,17,1,0,0,1,M Jones,0,0,4,14,H,15,2016-03-05,Burnley,E1,3,4,4,8,H,8,Burnley_Blackburn_2015
+409,1,Huddersfield,6,2,0,0,1,E Ilderton,0,0,2,13,H,5,2016-03-05,Derby,E1,4,4,5,17,H,5,Derby_Huddersfield_2015
+410,1,Nott'm Forest,9,1,0,0,0,A Woolmer,0,0,4,7,H,16,2016-03-05,Ipswich,E1,3,6,4,16,D,7,Ipswich_Nott'm Forest_2015
+411,1,Bolton,16,2,0,1,1,T Harrington,0,0,0,14,H,15,2016-03-05,Leeds,E1,3,4,12,13,H,9,Leeds_Bolton_2015
+412,3,QPR,7,2,0,0,0,K Stroud,0,0,1,21,H,12,2016-03-05,Milton Keynes Dons,E1,1,5,6,12,D,4,Milton Keynes Dons_QPR_2015
+413,1,Brighton,7,0,0,0,0,M Heywood,0,0,1,11,D,11,2016-03-05,Preston,E1,2,2,7,14,D,5,Preston_Brighton_2015
+414,0,Fulham,9,2,0,2,2,S Hooper,0,1,4,12,D,8,2016-03-05,Reading,E1,4,6,7,18,H,5,Reading_Fulham_2015
+415,0,Rotherham,7,0,0,1,0,C Kavanagh,0,1,0,13,A,9,2016-03-05,Sheffield Weds,E1,2,4,6,13,A,2,Sheffield Weds_Rotherham_2015
+416,4,Birmingham,12,2,0,0,2,S Atwell,0,0,1,5,H,10,2016-03-08,Blackburn,E1,3,5,5,14,H,5,Blackburn_Birmingham_2015
+417,2,Ipswich,8,2,0,2,0,M Haywood,0,1,0,10,D,6,2016-03-08,Bolton,E1,3,8,9,23,A,2,Bolton_Ipswich_2015
+418,1,Sheffield Weds,11,0,0,0,0,D Drysdale,0,0,2,7,D,7,2016-03-08,Brighton,E1,2,0,5,4,D,8,Brighton_Sheffield Weds_2015
+419,1,Leeds,9,0,0,2,0,D Deadman,1,1,4,9,A,10,2016-03-08,Cardiff,E1,5,10,13,25,A,3,Cardiff_Leeds_2015
+420,0,Milton Keynes Dons,13,0,0,0,0,C Breakspear,1,0,3,15,D,14,2016-03-08,Charlton,E1,3,1,8,7,D,7,Charlton_Milton Keynes Dons_2015
+421,1,Burnley,9,2,0,3,2,D Whitestone,0,1,2,12,A,10,2016-03-08,Fulham,E1,3,6,5,18,H,6,Fulham_Burnley_2015
+422,1,Reading,12,3,0,1,0,P Tierney,0,0,2,11,H,11,2016-03-08,Huddersfield,E1,2,7,5,15,D,3,Huddersfield_Reading_2015
+423,3,Preston,14,1,0,0,1,M Brown,0,0,3,11,H,14,2016-03-08,Nott'm Forest,E1,6,3,3,15,H,8,Nott'm Forest_Preston_2015
+424,2,Derby,14,2,0,0,1,N Swarbrick,0,0,0,8,H,12,2016-03-08,QPR,E1,3,4,2,9,H,11,QPR_Derby_2015
+425,2,Middlesbrough,13,1,0,0,0,P Bankes,1,0,1,11,H,13,2016-03-08,Rotherham,E1,2,1,8,7,D,2,Rotherham_Middlesbrough_2015
+426,0,Bristol City,15,2,0,1,0,S Duncan,0,0,0,14,H,12,2016-03-08,Wolves,E1,2,5,4,9,D,8,Wolves_Bristol City_2015
+427,1,Leeds,16,1,0,2,0,K Stroud,0,1,4,12,A,13,2016-03-12,Blackburn,E1,5,5,8,9,A,4,Blackburn_Leeds_2015
+428,1,Preston,14,1,0,2,1,P Tierney,0,0,2,20,A,9,2016-03-12,Bolton,E1,3,5,7,11,H,2,Bolton_Preston_2015
+429,0,Ipswich,10,1,0,0,1,A Madley,0,0,0,13,H,11,2016-03-12,Cardiff,E1,2,3,6,8,H,9,Cardiff_Ipswich_2015
+430,2,Bristol City,12,1,0,2,1,P Gibbs,0,0,1,12,A,10,2016-03-12,Fulham,E1,5,6,3,16,H,5,Fulham_Bristol City_2015
+431,0,Burnley,12,1,0,3,1,S Duncan,0,3,0,7,A,10,2016-03-12,Huddersfield,E1,4,1,4,16,A,3,Huddersfield_Burnley_2015
+432,2,Milton Keynes Dons,13,1,0,1,0,J Simpson,0,0,3,8,D,6,2016-03-12,Hull,E1,4,4,8,23,D,2,Hull_Milton Keynes Dons_2015
+433,0,Sheffield Weds,7,0,1,3,0,G Scott,0,1,0,10,A,15,2016-03-12,Nott'm Forest,E1,8,5,8,14,A,5,Nott'm Forest_Sheffield Weds_2015
+434,4,Brentford,16,3,0,0,1,F Graham,0,0,2,9,H,11,2016-03-12,QPR,E1,3,9,3,12,H,5,QPR_Brentford_2015
+435,1,Derby,7,3,0,3,0,D Webb,0,0,0,4,D,22,2016-03-12,Rotherham,E1,8,5,6,14,D,5,Rotherham_Derby_2015
+436,4,Middlesbrough,8,2,0,0,0,D Deadman,0,0,2,6,H,11,2016-03-13,Charlton,E1,5,4,2,10,D,12,Charlton_Middlesbrough_2015
+437,1,Birmingham,11,0,0,0,0,D Drysdale,0,0,2,13,D,8,2016-03-13,Wolves,E1,1,3,2,12,D,10,Wolves_Birmingham_2015
+438,1,Reading,16,1,0,0,1,S Martin,0,0,1,15,H,12,2016-03-15,Brighton,E1,2,3,4,10,H,1,Brighton_Reading_2015
+439,2,Nott'm Forest,7,1,0,1,0,A Davies,0,1,2,11,D,9,2016-03-15,Hull,E1,3,4,8,19,A,4,Hull_Nott'm Forest_2015
+440,2,Blackburn,9,2,0,0,0,I Williamson,0,0,1,14,H,8,2016-03-15,Ipswich,E1,2,5,3,15,D,5,Ipswich_Blackburn_2015
+441,2,Hull,8,1,0,0,0,A Marriner,0,0,1,8,H,13,2016-03-18,Middlesbrough,E1,5,2,4,15,D,5,Middlesbrough_Hull_2015
+442,0,Fulham,9,1,0,1,0,D Handley,0,1,5,12,D,10,2016-03-19,Birmingham,E1,3,3,6,13,A,3,Birmingham_Fulham_2015
+443,1,Blackburn,19,0,1,1,0,M Bull,0,0,5,17,A,7,2016-03-19,Brentford,E1,4,3,6,16,D,4,Brentford_Blackburn_2015
+444,0,Bolton,5,6,0,0,2,J Adcock,0,0,2,9,H,6,2016-03-19,Bristol City,E1,2,8,2,15,H,3,Bristol City_Bolton_2015
+445,2,Wolves,6,1,0,1,0,F Graham,0,0,1,11,D,15,2016-03-19,Burnley,E1,3,1,3,8,D,7,Burnley_Wolves_2015
+446,2,Nott'm Forest,11,1,0,0,0,K Stroud,0,0,1,17,H,8,2016-03-19,Derby,E1,1,2,2,10,D,7,Derby_Nott'm Forest_2015
+447,1,Rotherham,11,0,0,1,0,S Martin,0,1,1,18,A,9,2016-03-19,Ipswich,E1,3,3,10,11,A,1,Ipswich_Rotherham_2015
+448,6,Huddersfield,11,1,0,4,1,G Scott,0,1,2,18,A,13,2016-03-19,Leeds,E1,9,1,0,7,D,6,Leeds_Huddersfield_2015
+449,0,Brighton,9,1,0,2,0,C Kavanagh,1,0,6,17,A,12,2016-03-19,Milton Keynes Dons,E1,6,4,7,14,D,4,Milton Keynes Dons_Brighton_2015
+450,2,QPR,8,1,0,1,0,A Woolmer,0,1,4,10,D,14,2016-03-19,Preston,E1,5,2,10,12,A,3,Preston_QPR_2015
+451,1,Cardiff,9,1,0,1,1,D Drysdale,0,0,2,10,D,12,2016-03-19,Reading,E1,2,5,3,11,H,1,Reading_Cardiff_2015
+452,2,Charlton,8,3,0,0,0,S Atwell,0,0,3,14,H,5,2016-03-19,Sheffield Weds,E1,0,8,7,21,D,1,Sheffield Weds_Charlton_2015
+453,1,Middlesbrough,13,2,0,3,1,S Hooper,0,1,0,8,A,12,2016-04-01,QPR,E1,6,4,3,11,D,6,QPR_Middlesbrough_2015
+454,3,Preston,8,1,0,2,1,E Ilderton,1,2,2,11,A,16,2016-04-02,Blackburn,E1,7,3,4,6,A,4,Blackburn_Preston_2015
+455,1,Reading,8,0,0,1,0,G Eltringham,1,0,4,5,A,22,2016-04-02,Bolton,E1,6,1,3,4,D,7,Bolton_Reading_2015
+456,1,Burnley,8,2,0,2,2,C Pawson,0,1,0,8,D,18,2016-04-02,Brighton,E1,5,6,4,22,H,9,Brighton_Burnley_2015
+457,2,Derby,9,2,0,1,1,C Kavanagh,0,0,1,5,H,4,2016-04-02,Cardiff,E1,1,4,6,12,H,2,Cardiff_Derby_2015
+458,2,Birmingham,12,2,0,1,1,P Tierney,0,1,1,12,H,11,2016-04-02,Charlton,E1,3,5,8,16,D,3,Charlton_Birmingham_2015
+459,4,Milton Keynes Dons,18,2,0,1,0,T Robinson,0,0,1,10,H,12,2016-04-02,Fulham,E1,3,9,5,22,D,6,Fulham_Milton Keynes Dons_2015
+460,1,Sheffield Weds,14,0,0,1,0,I Williamson,0,0,1,16,A,7,2016-04-02,Huddersfield,E1,3,3,6,10,D,2,Huddersfield_Sheffield Weds_2015
+461,0,Bristol City,5,4,0,0,2,S Atwell,0,0,1,6,H,13,2016-04-02,Hull,E1,4,6,10,22,H,1,Hull_Bristol City_2015
+462,2,Brentford,12,0,0,3,0,P Bankes,1,0,4,12,A,11,2016-04-02,Nott'm Forest,E1,6,5,2,12,D,2,Nott'm Forest_Brentford_2015
+463,1,Leeds,10,2,1,1,1,K Friend,1,0,2,5,H,26,2016-04-02,Rotherham,E1,8,3,3,11,H,6,Rotherham_Leeds_2015
+464,0,Ipswich,9,0,0,0,0,R Lewis,0,0,0,9,D,14,2016-04-02,Wolves,E1,4,2,4,9,D,6,Wolves_Ipswich_2015
+465,2,Brighton,12,1,0,2,1,A Madley,0,1,0,9,A,15,2016-04-05,Birmingham,E1,5,2,1,9,D,6,Birmingham_Brighton_2015
+466,0,Bolton,9,3,0,1,3,A Davies,0,0,4,20,H,7,2016-04-05,Brentford,E1,2,7,6,17,H,5,Brentford_Bolton_2015
+467,1,Rotherham,11,1,0,1,0,G Ward,0,1,0,13,D,12,2016-04-05,Bristol City,E1,5,6,7,13,A,1,Bristol City_Rotherham_2015
+468,0,Cardiff,4,0,0,0,0,G Eltringham,0,0,0,8,D,14,2016-04-05,Burnley,E1,5,4,6,13,D,2,Burnley_Cardiff_2015
+469,0,Hull,14,4,1,0,2,T Harrington,0,0,1,13,H,15,2016-04-05,Derby,E1,2,7,3,17,H,6,Derby_Hull_2015
+470,1,Charlton,8,0,0,0,0,O Langford,0,0,2,10,D,16,2016-04-05,Ipswich,E1,6,3,3,13,D,8,Ipswich_Charlton_2015
+471,0,QPR,9,1,0,1,0,J Adcock,0,0,0,12,D,12,2016-04-05,Leeds,E1,3,5,7,9,D,3,Leeds_QPR_2015
+472,0,Huddersfield,10,3,0,0,2,S Martin,0,0,1,10,H,11,2016-04-05,Middlesbrough,E1,3,7,5,15,H,1,Middlesbrough_Huddersfield_2015
+473,4,Wolves,9,1,0,2,1,M Heywood,0,0,1,15,A,10,2016-04-05,Milton Keynes Dons,E1,4,3,8,14,H,5,Milton Keynes Dons_Wolves_2015
+474,3,Fulham,10,1,0,2,0,S Duncan,0,1,3,14,A,7,2016-04-05,Preston,E1,4,6,10,20,A,1,Preston_Fulham_2015
+475,0,Nott'm Forest,6,2,0,1,0,D Whitestone,0,1,1,15,H,6,2016-04-05,Reading,E1,4,6,6,26,A,2,Reading_Nott'm Forest_2015
+476,1,Blackburn,6,2,1,1,0,D Webb,0,0,0,8,H,10,2016-04-05,Sheffield Weds,E1,1,6,7,17,D,3,Sheffield Weds_Blackburn_2015
+477,1,Sheffield Weds,11,4,0,1,3,C Breakspear,0,0,1,17,H,12,2016-04-09,Bristol City,E1,2,7,2,13,H,4,Bristol City_Sheffield Weds_2015
+478,1,Leeds,12,1,0,0,1,L Mason,0,0,1,8,H,20,2016-04-09,Burnley,E1,3,2,2,9,H,11,Burnley_Leeds_2015
+479,1,Bolton,15,4,0,1,2,A Woolmer,0,0,2,13,H,8,2016-04-09,Derby,E1,3,8,7,25,H,6,Derby_Bolton_2015
+480,1,Cardiff,4,2,0,1,0,J Simpson,0,1,0,5,H,20,2016-04-09,Fulham,E1,3,5,7,12,A,6,Fulham_Cardiff_2015
+481,2,Hull,14,2,0,2,1,D Deadman,0,0,2,9,D,15,2016-04-09,Huddersfield,E1,3,5,5,12,H,1,Huddersfield_Hull_2015
+482,1,Brentford,10,1,0,3,0,P Gibbs,1,1,1,10,A,15,2016-04-09,Ipswich,E1,6,3,8,13,A,2,Ipswich_Brentford_2015
+483,0,Preston,9,1,0,0,1,O Langford,0,0,2,14,H,12,2016-04-09,Middlesbrough,E1,2,5,4,14,H,4,Middlesbrough_Preston_2015
+484,1,Rotherham,11,0,0,4,0,I Williamson,0,2,3,17,A,14,2016-04-09,Milton Keynes Dons,E1,8,3,9,13,A,1,Milton Keynes Dons_Rotherham_2015
+485,3,Charlton,15,2,0,1,1,A Madley,0,0,0,7,H,14,2016-04-09,QPR,E1,5,6,6,15,H,4,QPR_Charlton_2015
+486,3,Birmingham,13,0,0,2,0,N Miller,0,2,2,8,A,7,2016-04-09,Reading,E1,3,2,7,14,A,0,Reading_Birmingham_2015
+487,1,Blackburn,11,0,0,0,0,M Brown,0,0,3,12,D,5,2016-04-09,Wolves,E1,3,1,5,7,D,4,Wolves_Blackburn_2015
+488,3,Brighton,13,1,0,2,0,A Davies,0,1,1,10,A,13,2016-04-11,Nott'm Forest,E1,4,4,3,13,A,6,Nott'm Forest_Brighton_2015
+489,1,Leeds,11,1,1,2,0,C Kavanagh,0,1,2,9,A,11,2016-04-12,Birmingham,E1,3,8,9,12,A,5,Birmingham_Leeds_2015
+490,0,Reading,7,2,0,1,1,S Duncan,0,0,2,6,H,13,2016-04-12,Middlesbrough,E1,3,11,13,23,H,4,Middlesbrough_Reading_2015
+491,1,Fulham,10,5,0,0,2,A Woolmer,0,0,3,9,H,8,2016-04-15,Brighton,E1,3,11,8,19,H,3,Brighton_Fulham_2015
+492,0,Wolves,4,2,0,1,1,J Adcock,0,1,0,16,H,9,2016-04-15,Hull,E1,4,3,7,16,D,7,Hull_Wolves_2015
+493,0,Burnley,13,1,0,2,0,M Heywood,1,1,3,17,A,11,2016-04-16,Birmingham,E1,3,5,6,21,A,3,Birmingham_Burnley_2015
+494,3,Huddersfield,8,0,0,2,0,C Boyeson,0,1,0,11,A,8,2016-04-16,Blackburn,E1,3,4,3,15,A,4,Blackburn_Huddersfield_2015
+495,3,Middlesbrough,12,1,0,2,0,K Stroud,0,0,2,11,A,22,2016-04-16,Bolton,E1,5,2,1,5,D,11,Bolton_Middlesbrough_2015
+496,1,Bristol City,12,1,0,1,0,D Handley,0,1,3,12,D,5,2016-04-16,Brentford,E1,2,5,12,18,A,4,Brentford_Bristol City_2015
+497,2,QPR,10,0,0,0,0,S Martin,0,0,1,15,D,7,2016-04-16,Cardiff,E1,2,2,6,12,D,4,Cardiff_QPR_2015
+498,1,Derby,10,0,0,1,0,D Bond,0,0,3,11,A,22,2016-04-16,Charlton,E1,6,4,6,15,D,11,Charlton_Derby_2015
+499,2,Reading,11,3,0,2,0,J Simpson,0,1,3,12,H,18,2016-04-16,Leeds,E1,4,4,6,13,A,6,Leeds_Reading_2015
+500,1,Milton Keynes Dons,12,1,1,1,1,S Atwell,0,0,1,9,D,10,2016-04-16,Preston,E1,3,8,5,21,H,9,Preston_Milton Keynes Dons_2015
+501,1,Nott'm Forest,11,0,0,0,0,S Hooper,0,0,1,13,D,8,2016-04-16,Rotherham,E1,3,1,5,14,D,4,Rotherham_Nott'm Forest_2015
+502,1,Ipswich,4,1,0,1,1,R Madley,0,0,3,15,D,9,2016-04-16,Sheffield Weds,E1,4,6,7,18,H,4,Sheffield Weds_Ipswich_2015
+503,2,Preston,13,2,0,2,1,K Stroud,0,0,5,19,D,17,2016-04-19,Birmingham,E1,6,4,4,9,H,4,Birmingham_Preston_2015
+504,0,Charlton,9,0,0,0,0,E Ilderton,0,0,0,14,D,7,2016-04-19,Bolton,E1,2,3,7,16,D,4,Bolton_Charlton_2015
+505,2,Cardiff,10,2,0,1,0,S Atwell,0,0,2,9,H,16,2016-04-19,Brentford,E1,6,4,2,16,D,5,Brentford_Cardiff_2015
+506,1,QPR,11,4,0,0,1,M Heywood,0,0,2,13,H,13,2016-04-19,Brighton,E1,2,6,4,13,H,3,Brighton_QPR_2015
+507,0,Derby,10,2,0,3,2,A Davies,0,1,1,5,A,15,2016-04-19,Bristol City,E1,7,2,4,7,H,6,Bristol City_Derby_2015
+508,1,Middlesbrough,14,1,0,1,0,M Jones,0,0,2,9,D,10,2016-04-19,Burnley,E1,1,1,7,19,D,3,Burnley_Middlesbrough_2015
+509,1,Fulham,7,1,0,1,0,P Tierney,0,0,1,11,D,12,2016-04-19,Ipswich,E1,3,3,4,7,D,7,Ipswich_Fulham_2015
+510,0,Wolves,6,2,0,1,0,D Coote,0,0,1,10,H,9,2016-04-19,Leeds,E1,2,5,5,19,D,2,Leeds_Wolves_2015
+511,2,Blackburn,7,1,0,1,1,C Kavanagh,0,1,3,9,D,10,2016-04-19,Nott'm Forest,E1,2,5,5,15,D,2,Nott'm Forest_Blackburn_2015
+512,0,Hull,9,1,0,2,1,D Drysdale,0,1,0,10,A,13,2016-04-19,Reading,E1,5,5,7,13,D,7,Reading_Hull_2015
+513,0,Huddersfield,10,1,0,1,1,F Graham,0,1,1,10,D,20,2016-04-19,Rotherham,E1,6,3,7,13,D,2,Rotherham_Huddersfield_2015
+514,4,Milton Keynes Dons,17,0,0,0,0,P Bankes,1,0,1,9,D,6,2016-04-19,Sheffield Weds,E1,3,4,10,20,D,2,Sheffield Weds_Milton Keynes Dons_2015
+515,3,Burnley,19,0,0,1,0,K Friend,0,1,5,14,A,16,2016-04-22,Preston,E1,2,1,3,15,A,1,Preston_Burnley_2015
+516,0,Bristol City,9,2,1,2,1,T Robinson,0,0,0,6,D,9,2016-04-23,Blackburn,E1,5,4,4,10,H,8,Blackburn_Bristol City_2015
+517,1,Bolton,11,2,1,1,0,L Collins,0,1,0,8,H,6,2016-04-23,Cardiff,E1,5,8,7,26,A,5,Cardiff_Bolton_2015
+518,0,Brighton,16,1,0,3,0,S Hooper,0,1,0,9,A,12,2016-04-23,Charlton,E1,7,3,6,12,A,6,Charlton_Brighton_2015
+519,5,Sheffield Weds,11,1,0,1,0,L Mason,0,0,4,13,D,8,2016-04-23,Derby,E1,3,7,9,12,D,7,Derby_Sheffield Weds_2015
+520,2,Nott'm Forest,16,1,0,3,0,R Lewis,0,2,1,13,A,13,2016-04-23,Fulham,E1,5,6,5,22,A,2,Fulham_Nott'm Forest_2015
+521,2,Birmingham,13,1,0,1,0,D Webb,0,0,3,6,D,5,2016-04-23,Huddersfield,E1,2,3,15,18,D,2,Huddersfield_Birmingham_2015
+522,3,Leeds,10,2,0,2,2,I Williamson,0,1,2,9,D,5,2016-04-23,Hull,E1,4,6,10,21,H,3,Hull_Leeds_2015
+523,1,Ipswich,7,0,0,0,0,D Bond,0,0,1,9,D,4,2016-04-23,Middlesbrough,E1,1,5,8,16,D,0,Middlesbrough_Ipswich_2015
+524,0,Brentford,12,1,0,4,1,A Woolmer,0,1,0,11,A,18,2016-04-23,Milton Keynes Dons,E1,6,4,7,9,D,7,Milton Keynes Dons_Brentford_2015
+525,0,Reading,6,1,0,1,1,K Hill,0,1,1,3,D,20,2016-04-23,QPR,E1,4,7,7,18,D,7,QPR_Reading_2015
+526,0,Rotherham,8,0,0,0,0,J Simpson,0,0,2,11,D,7,2016-04-23,Wolves,E1,4,6,6,15,D,4,Wolves_Rotherham_2015
+527,0,Brentford,11,2,0,0,2,D Bond,0,0,3,7,H,7,2016-04-26,Hull,E1,2,7,10,16,H,3,Hull_Brentford_2015
+528,0,Middlesbrough,13,2,0,2,1,S Hooper,0,1,0,14,D,16,2016-04-29,Birmingham,E1,7,7,4,16,D,2,Birmingham_Middlesbrough_2015
+529,2,Hull,6,1,0,0,0,G Scott,0,0,2,12,H,12,2016-04-30,Bolton,E1,3,4,3,10,D,11,Bolton_Hull_2015
+530,1,Fulham,10,3,0,0,3,M Haywood,0,0,0,7,H,12,2016-04-30,Brentford,E1,2,11,6,20,H,3,Brentford_Fulham_2015
+531,0,Huddersfield,5,4,0,0,1,F Graham,0,0,3,12,H,14,2016-04-30,Bristol City,E1,2,5,1,19,H,6,Bristol City_Huddersfield_2015
+532,1,Milton Keynes Dons,16,3,0,2,1,K Stroud,0,1,1,10,H,7,2016-04-30,Ipswich,E1,3,5,6,17,D,2,Ipswich_Milton Keynes Dons_2015
+533,0,Charlton,9,1,0,2,0,K Hill,0,1,2,15,A,8,2016-04-30,Leeds,E1,2,5,9,25,A,4,Leeds_Charlton_2015
+534,3,Wolves,12,1,0,1,0,I Williamson,0,0,0,8,D,11,2016-04-30,Nott'm Forest,E1,2,2,6,15,D,7,Nott'm Forest_Wolves_2015
+535,0,Preston,6,1,0,2,0,D Deadman,0,0,0,9,A,20,2016-04-30,Reading,E1,8,4,6,16,D,6,Reading_Preston_2015
+536,0,Blackburn,11,0,0,1,0,S Martin,0,1,0,11,A,12,2016-04-30,Rotherham,E1,6,5,3,16,A,5,Rotherham_Blackburn_2015
+537,1,Cardiff,6,3,0,0,0,P Tierney,0,0,3,11,H,9,2016-04-30,Sheffield Weds,E1,2,5,6,17,D,3,Sheffield Weds_Cardiff_2015
+538,0,Derby,11,1,0,1,0,R Madley,1,0,3,16,D,8,2016-05-02,Brighton,E1,5,4,11,16,D,7,Brighton_Derby_2015
+539,0,QPR,13,1,0,0,0,J Moss,0,0,2,15,H,11,2016-05-02,Burnley,E1,6,2,3,7,D,5,Burnley_QPR_2015
+540,0,Reading,8,3,0,1,2,A Madley,0,1,0,12,H,5,2016-05-07,Blackburn,E1,2,5,8,16,H,1,Blackburn_Reading_2015
+541,4,Birmingham,16,1,0,1,1,P Bankes,0,1,2,7,D,14,2016-05-07,Cardiff,E1,6,6,5,14,D,5,Cardiff_Birmingham_2015
+542,1,Burnley,7,0,0,3,0,R East,0,1,1,7,A,14,2016-05-07,Charlton,E1,4,7,7,15,A,4,Charlton_Burnley_2015
+543,2,Ipswich,8,0,0,1,0,T Robinson,0,1,2,16,A,8,2016-05-07,Derby,E1,4,4,7,19,A,4,Derby_Ipswich_2015
+544,0,Bolton,8,1,0,0,0,O Langford,0,0,0,5,H,7,2016-05-07,Fulham,E1,0,8,12,26,D,4,Fulham_Bolton_2015
+545,1,Brentford,15,1,0,5,0,D Whitestone,0,1,3,11,A,12,2016-05-07,Huddersfield,E1,8,2,2,8,A,2,Huddersfield_Brentford_2015
+546,0,Rotherham,10,5,0,1,4,S Duncan,0,1,1,11,H,11,2016-05-07,Hull,E1,4,12,11,26,H,3,Hull_Rotherham_2015
+547,0,Brighton,13,1,1,1,1,M Dean,0,0,3,16,D,7,2016-05-07,Middlesbrough,E1,1,5,4,13,H,4,Middlesbrough_Brighton_2015
+548,0,Nott'm Forest,10,1,1,2,1,S Martin,0,1,1,12,A,10,2016-05-07,Milton Keynes Dons,E1,5,4,7,20,D,5,Milton Keynes Dons_Nott'm Forest_2015
+549,0,Leeds,10,1,0,1,0,B Malone,0,0,0,9,D,10,2016-05-07,Preston,E1,2,5,7,16,D,6,Preston_Leeds_2015
+550,0,Bristol City,12,1,0,0,0,J Simpson,0,0,0,12,H,17,2016-05-07,QPR,E1,2,6,7,17,D,11,QPR_Bristol City_2015
+551,0,Sheffield Weds,13,2,0,1,2,D Bond,0,0,0,7,H,15,2016-05-07,Wolves,E1,3,1,4,7,H,8,Wolves_Sheffield Weds_2015

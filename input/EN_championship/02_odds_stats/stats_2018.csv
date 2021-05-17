@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,Referee,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,3.0,Derby,14.0,1,0.0,2,0.0,R Jones,0.0,0.0,4.0,16.0,A,11.0,2018-08-03,Reading,E1,3.0,5.0,2.0,8.0,D,4.0,Reading_Derby_2018
+1,0.0,Norwich,15.0,2,0.0,2,0.0,P Bankes,0.0,0.0,3.0,10.0,D,16.0,2018-08-04,Birmingham,E1,7.0,7.0,4.0,16.0,D,4.0,Birmingham_Norwich_2018
+2,0.0,Rotherham,15.0,5,0.0,1,2.0,O Langford,0.0,0.0,2.0,10.0,H,9.0,2018-08-04,Brentford,E1,5.0,10.0,13.0,14.0,H,3.0,Brentford_Rotherham_2018
+3,0.0,Nott'm Forest,8.0,1,0.0,1,1.0,D Bond,0.0,0.0,4.0,17.0,D,16.0,2018-08-04,Bristol City,E1,6.0,6.0,7.0,18.0,H,9.0,Bristol City_Nott'm Forest_2018
+4,2.0,Blackburn,11.0,2,0.0,2,1.0,A Davies,0.0,2.0,3.0,21.0,D,6.0,2018-08-04,Ipswich,E1,2.0,3.0,3.0,9.0,A,0.0,Ipswich_Blackburn_2018
+5,3.0,Middlesbrough,13.0,2,0.0,2,2.0,K Friend,0.0,0.0,2.0,6.0,D,12.0,2018-08-04,Millwall,E1,3.0,2.0,6.0,9.0,H,6.0,Millwall_Middlesbrough_2018
+6,0.0,QPR,15.0,1,0.0,0,0.0,D England,0.0,0.0,2.0,13.0,H,8.0,2018-08-04,Preston,E1,2.0,3.0,6.0,15.0,D,4.0,Preston_QPR_2018
+7,0.0,Swansea,6.0,1,0.0,2,0.0,J Simpson,0.0,0.0,0.0,6.0,A,9.0,2018-08-04,Sheffield United,E1,4.0,2.0,5.0,12.0,D,1.0,Sheffield United_Swansea_2018
+8,1.0,Bolton,9.0,1,0.0,2,1.0,G Eltringham,0.0,1.0,0.0,14.0,A,11.0,2018-08-04,West Brom,E1,4.0,3.0,10.0,20.0,D,6.0,West Brom_Bolton_2018
+9,1.0,Sheffield Weds,12.0,3,1.0,2,2.0,T Robinson,0.0,1.0,3.0,12.0,H,8.0,2018-08-04,Wigan,E1,4.0,10.0,3.0,21.0,H,3.0,Wigan_Sheffield Weds_2018
+10,0.0,Stoke,14.0,3,0.0,1,2.0,S Duncan,0.0,0.0,0.0,8.0,H,9.0,2018-08-05,Leeds,E1,5.0,5.0,3.0,11.0,H,3.0,Leeds_Stoke_2018
+11,0.0,Aston Villa,12.0,1,0.0,3,1.0,A Madley,0.0,1.0,2.0,9.0,A,9.0,2018-08-06,Hull,E1,5.0,3.0,4.0,11.0,D,2.0,Hull_Aston Villa_2018
+12,0.0,Sheffield United,10.0,3,0.0,0,3.0,R Jones,0.0,0.0,3.0,13.0,H,17.0,2018-08-07,Middlesbrough,E1,4.0,5.0,7.0,13.0,H,6.0,Middlesbrough_Sheffield United_2018
+13,2.0,West Brom,12.0,1,0.0,1,0.0,D England,0.0,0.0,1.0,10.0,D,10.0,2018-08-07,Nott'm Forest,E1,2.0,5.0,7.0,20.0,D,6.0,Nott'm Forest_West Brom_2018
+14,1.0,Wigan,17.0,3,0.0,2,1.0,J Simpson,0.0,1.0,4.0,16.0,H,10.0,2018-08-11,Aston Villa,E1,3.0,6.0,3.0,17.0,D,4.0,Aston Villa_Wigan_2018
+15,0.0,Millwall,13.0,0,0.0,0,0.0,G Ward,0.0,0.0,1.0,13.0,D,7.0,2018-08-11,Blackburn,E1,0.0,4.0,7.0,10.0,D,1.0,Blackburn_Millwall_2018
+16,6.0,Bristol City,20.0,2,0.0,2,0.0,J Brooks,0.0,0.0,2.0,6.0,D,16.0,2018-08-11,Bolton,E1,5.0,2.0,4.0,7.0,D,10.0,Bolton_Bristol City_2018
+17,4.0,Leeds,10.0,1,0.0,4,1.0,P Bankes,0.0,2.0,2.0,19.0,A,17.0,2018-08-11,Derby,E1,7.0,4.0,3.0,12.0,A,5.0,Derby_Leeds_2018
+18,0.0,Birmingham,9.0,1,1.0,0,1.0,A Madley,0.0,0.0,1.0,11.0,H,11.0,2018-08-11,Middlesbrough,E1,4.0,2.0,3.0,10.0,H,9.0,Middlesbrough_Birmingham_2018
+19,0.0,West Brom,12.0,3,0.0,4,1.0,L Mason,0.0,1.0,0.0,14.0,A,13.0,2018-08-11,Norwich,E1,7.0,10.0,4.0,20.0,D,2.0,Norwich_West Brom_2018
+20,0.0,Reading,15.0,1,0.0,0,0.0,S Martin,0.0,0.0,1.0,11.0,H,8.0,2018-08-11,Nott'm Forest,E1,3.0,3.0,6.0,12.0,D,4.0,Nott'm Forest_Reading_2018
+21,1.0,Sheffield United,12.0,1,0.0,2,1.0,S Duncan,0.0,1.0,1.0,11.0,A,8.0,2018-08-11,QPR,E1,5.0,6.0,4.0,14.0,D,6.0,QPR_Sheffield United_2018
+22,2.0,Ipswich,8.0,1,0.0,0,0.0,D Webb,0.0,0.0,0.0,9.0,H,16.0,2018-08-11,Rotherham,E1,3.0,4.0,0.0,10.0,D,12.0,Rotherham_Ipswich_2018
+23,3.0,Hull,5.0,1,0.0,1,0.0,S Attwell,0.0,1.0,1.0,7.0,D,16.0,2018-08-11,Sheffield Weds,E1,4.0,6.0,5.0,12.0,A,6.0,Sheffield Weds_Hull_2018
+24,2.0,Brentford,15.0,1,0.0,1,1.0,A Davies,0.0,0.0,0.0,6.0,D,17.0,2018-08-11,Stoke,E1,5.0,3.0,2.0,9.0,H,6.0,Stoke_Brentford_2018
+25,0.0,Preston,6.0,1,0.0,0,1.0,J Linington,0.0,0.0,1.0,14.0,H,12.0,2018-08-11,Swansea,E1,5.0,7.0,4.0,10.0,H,5.0,Swansea_Preston_2018
+26,1.0,Swansea,13.0,0,0.0,0,0.0,D England,0.0,0.0,1.0,11.0,D,6.0,2018-08-17,Birmingham,E1,0.0,6.0,10.0,17.0,D,1.0,Birmingham_Swansea_2018
+27,1.0,Middlesbrough,9.0,0,0.0,2,0.0,O Langford,0.0,2.0,2.0,11.0,A,13.0,2018-08-18,Bristol City,E1,3.0,4.0,4.0,18.0,A,4.0,Bristol City_Middlesbrough_2018
+28,1.0,Blackburn,12.0,0,0.0,1,0.0,D Coote,0.0,1.0,3.0,13.0,A,16.0,2018-08-18,Hull,E1,7.0,3.0,5.0,10.0,A,1.0,Hull_Blackburn_2018
+29,1.0,Aston Villa,13.0,1,0.0,1,1.0,T Robinson,1.0,1.0,2.0,15.0,D,10.0,2018-08-18,Ipswich,E1,3.0,1.0,2.0,9.0,D,7.0,Ipswich_Aston Villa_2018
+30,0.0,Rotherham,10.0,2,0.0,0,0.0,R Jones,0.0,0.0,1.0,8.0,H,9.0,2018-08-18,Leeds,E1,4.0,7.0,7.0,17.0,D,1.0,Leeds_Rotherham_2018
+31,1.0,Derby,15.0,2,0.0,1,2.0,S Martin,0.0,0.0,1.0,10.0,H,12.0,2018-08-18,Millwall,E1,4.0,4.0,4.0,12.0,H,10.0,Millwall_Derby_2018
+32,2.0,Stoke,13.0,2,0.0,2,2.0,A Madley,0.0,1.0,3.0,15.0,D,8.0,2018-08-18,Preston,E1,3.0,6.0,4.0,15.0,H,2.0,Preston_Stoke_2018
+33,2.0,Bolton,11.0,0,0.0,1,0.0,J Linington,0.0,0.0,1.0,15.0,A,9.0,2018-08-18,Reading,E1,4.0,3.0,5.0,15.0,D,3.0,Reading_Bolton_2018
+34,2.0,Norwich,15.0,2,0.0,1,1.0,D Bond,0.0,1.0,2.0,7.0,H,11.0,2018-08-18,Sheffield United,E1,2.0,5.0,9.0,14.0,D,4.0,Sheffield United_Norwich_2018
+35,2.0,QPR,14.0,7,0.0,1,1.0,T Harrington,0.0,1.0,1.0,15.0,H,6.0,2018-08-18,West Brom,E1,2.0,9.0,3.0,15.0,D,5.0,West Brom_QPR_2018
+36,2.0,Nott'm Forest,18.0,2,0.0,2,2.0,G Eltringham,0.0,1.0,4.0,18.0,D,9.0,2018-08-18,Wigan,E1,4.0,4.0,8.0,17.0,H,14.0,Wigan_Nott'm Forest_2018
+37,1.0,Sheffield Weds,11.0,2,0.0,0,1.0,D Webb,0.0,0.0,1.0,9.0,H,4.0,2018-08-19,Brentford,E1,1.0,9.0,9.0,14.0,H,0.0,Brentford_Sheffield Weds_2018
+38,2.0,Ipswich,10.0,2,0.0,0,0.0,S Duncan,0.0,0.0,2.0,10.0,H,11.0,2018-08-21,Derby,E1,2.0,2.0,4.0,10.0,D,4.0,Derby_Ipswich_2018
+39,1.0,Bristol City,16.0,0,0.0,3,0.0,P Bankes,0.0,1.0,3.0,10.0,A,11.0,2018-08-21,QPR,E1,5.0,4.0,2.0,14.0,A,3.0,QPR_Bristol City_2018
+40,1.0,Hull,11.0,2,0.0,3,1.0,J Simpson,0.0,2.0,1.0,10.0,A,14.0,2018-08-21,Rotherham,E1,6.0,4.0,7.0,15.0,A,4.0,Rotherham_Hull_2018
+41,0.0,Leeds,13.0,2,0.0,2,1.0,A Davies,0.0,1.0,4.0,17.0,D,8.0,2018-08-21,Swansea,E1,3.0,4.0,2.0,12.0,D,5.0,Swansea_Leeds_2018
+42,3.0,Brentford,9.0,2,0.0,2,1.0,J Moss,0.0,1.0,2.0,18.0,D,13.0,2018-08-22,Aston Villa,E1,7.0,7.0,13.0,16.0,D,6.0,Aston Villa_Brentford_2018
+43,1.0,Reading,7.0,2,0.0,2,0.0,O Langford,0.0,2.0,0.0,9.0,D,8.0,2018-08-22,Blackburn,E1,4.0,4.0,6.0,16.0,A,1.0,Blackburn_Reading_2018
+44,2.0,Birmingham,11.0,1,0.0,0,0.0,L Probert,0.0,0.0,3.0,15.0,H,18.0,2018-08-22,Bolton,E1,6.0,4.0,3.0,8.0,D,10.0,Bolton_Birmingham_2018
+45,2.0,Preston,13.0,2,0.0,0,0.0,G Ward,0.0,0.0,2.0,16.0,H,9.0,2018-08-22,Norwich,E1,3.0,4.0,11.0,12.0,D,4.0,Norwich_Preston_2018
+46,2.0,Millwall,8.0,2,0.0,1,1.0,A Madley,0.0,0.0,0.0,10.0,H,12.0,2018-08-22,Sheffield Weds,E1,4.0,3.0,7.0,13.0,H,4.0,Sheffield Weds_Millwall_2018
+47,3.0,Wigan,16.0,0,0.0,3,0.0,J Brooks,1.0,2.0,2.0,16.0,A,10.0,2018-08-22,Stoke,E1,4.0,0.0,4.0,9.0,A,3.0,Stoke_Wigan_2018
+48,3.0,West Brom,12.0,1,0.0,0,0.0,J Brooks,0.0,0.0,2.0,11.0,H,13.0,2018-08-24,Middlesbrough,E1,2.0,4.0,10.0,18.0,D,4.0,Middlesbrough_West Brom_2018
+49,0.0,Reading,9.0,1,0.0,1,0.0,D England,0.0,0.0,2.0,13.0,D,10.0,2018-08-25,Aston Villa,E1,7.0,8.0,4.0,21.0,D,9.0,Aston Villa_Reading_2018
+50,0.0,Brentford,12.0,1,0.0,0,0.0,T Harrington,0.0,0.0,1.0,10.0,H,8.0,2018-08-25,Blackburn,E1,3.0,1.0,3.0,2.0,D,4.0,Blackburn_Brentford_2018
+51,2.0,Sheffield United,6.0,0,0.0,3,0.0,A Madley,0.0,2.0,1.0,14.0,A,17.0,2018-08-25,Bolton,E1,6.0,2.0,8.0,10.0,A,10.0,Bolton_Sheffield United_2018
+52,3.0,Preston,17.0,2,0.0,0,1.0,D Webb,0.0,0.0,1.0,10.0,H,6.0,2018-08-25,Derby,E1,4.0,4.0,9.0,15.0,H,4.0,Derby_Preston_2018
+53,1.0,Leeds,13.0,0,0.0,3,0.0,S Hooper,0.0,2.0,2.0,16.0,A,12.0,2018-08-25,Norwich,E1,5.0,2.0,10.0,10.0,A,4.0,Norwich_Leeds_2018
+54,4.0,Birmingham,17.0,2,0.0,2,0.0,T Robinson,0.0,1.0,0.0,20.0,D,9.0,2018-08-25,Nott'm Forest,E1,3.0,3.0,0.0,9.0,A,4.0,Nott'm Forest_Birmingham_2018
+55,2.0,Wigan,17.0,1,0.0,0,1.0,S Martin,0.0,0.0,1.0,14.0,H,18.0,2018-08-25,QPR,E1,5.0,3.0,7.0,12.0,H,3.0,QPR_Wigan_2018
+56,2.0,Ipswich,13.0,2,1.0,1,1.0,J Simpson,0.0,1.0,2.0,15.0,H,13.0,2018-08-25,Sheffield Weds,E1,3.0,3.0,7.0,13.0,D,7.0,Sheffield Weds_Ipswich_2018
+57,1.0,Hull,8.0,2,1.0,0,1.0,D Bond,0.0,0.0,0.0,11.0,H,4.0,2018-08-25,Stoke,E1,0.0,5.0,8.0,11.0,H,5.0,Stoke_Hull_2018
+58,0.0,Bristol City,8.0,0,0.0,1,0.0,G Ward,0.0,1.0,1.0,11.0,A,10.0,2018-08-25,Swansea,E1,6.0,3.0,4.0,12.0,A,5.0,Swansea_Bristol City_2018
+59,1.0,Millwall,14.0,1,0.0,0,1.0,G Eltringham,0.0,0.0,2.0,9.0,H,12.0,2018-08-26,Rotherham,E1,5.0,3.0,2.0,12.0,H,9.0,Rotherham_Millwall_2018
+60,4.0,Middlesbrough,11.0,0,0.0,0,0.0,T Robinson,0.0,0.0,4.0,16.0,D,9.0,2018-08-31,Leeds,E1,3.0,3.0,6.0,11.0,D,5.0,Leeds_Middlesbrough_2018
+61,2.0,QPR,22.0,0,0.0,0,0.0,J Simpson,0.0,0.0,0.0,19.0,D,12.0,2018-09-01,Birmingham,E1,5.0,1.0,5.0,5.0,D,2.0,Birmingham_QPR_2018
+62,5.0,Nott'm Forest,10.0,2,0.0,1,1.0,P Bankes,0.0,0.0,7.0,16.0,H,6.0,2018-09-01,Brentford,E1,2.0,6.0,9.0,20.0,H,2.0,Brentford_Nott'm Forest_2018
+63,2.0,Derby,10.0,1,0.0,2,0.0,J Brooks,0.0,1.0,1.0,16.0,A,11.0,2018-09-01,Hull,E1,5.0,2.0,7.0,18.0,A,10.0,Hull_Derby_2018
+64,1.0,Swansea,12.0,1,1.0,2,0.0,G Scott,0.0,0.0,1.0,8.0,A,8.0,2018-09-01,Millwall,E1,2.0,2.0,5.0,11.0,D,3.0,Millwall_Swansea_2018
+65,1.0,Bolton,8.0,2,0.0,2,2.0,A Davies,1.0,2.0,3.0,11.0,D,14.0,2018-09-01,Preston,E1,6.0,4.0,7.0,12.0,D,4.0,Preston_Bolton_2018
+66,1.0,Sheffield Weds,12.0,1,0.0,2,0.0,G Ward,0.0,1.0,1.0,20.0,A,10.0,2018-09-01,Reading,E1,4.0,4.0,9.0,12.0,A,6.0,Reading_Sheffield Weds_2018
+67,1.0,Aston Villa,18.0,4,0.0,1,3.0,J Linington,0.0,0.0,1.0,12.0,H,9.0,2018-09-01,Sheffield United,E1,2.0,6.0,9.0,9.0,H,1.0,Sheffield United_Aston Villa_2018
+68,3.0,Stoke,9.0,2,0.0,1,1.0,S Hooper,0.0,0.0,1.0,14.0,H,16.0,2018-09-01,West Brom,E1,5.0,6.0,3.0,12.0,H,7.0,West Brom_Stoke_2018
+69,2.0,Rotherham,10.0,1,0.0,0,0.0,S Duncan,0.0,0.0,3.0,13.0,H,16.0,2018-09-01,Wigan,E1,4.0,5.0,3.0,16.0,D,6.0,Wigan_Rotherham_2018
+70,0.0,Blackburn,8.0,4,0.0,1,1.0,D Webb,0.0,1.0,0.0,8.0,H,13.0,2018-09-02,Bristol City,E1,2.0,11.0,8.0,19.0,D,5.0,Bristol City_Blackburn_2018
+71,2.0,Norwich,12.0,1,0.0,1,0.0,R Jones,0.0,0.0,1.0,21.0,D,11.0,2018-09-02,Ipswich,E1,2.0,6.0,7.0,19.0,D,6.0,Ipswich_Norwich_2018
+72,2.0,West Brom,15.0,1,0.0,1,1.0,A Madley,0.0,1.0,1.0,14.0,D,15.0,2018-09-14,Birmingham,E1,3.0,4.0,6.0,13.0,D,3.0,Birmingham_West Brom_2018
+73,3.0,Aston Villa,8.0,1,0.0,1,0.0,S Martin,0.0,0.0,2.0,11.0,D,15.0,2018-09-15,Blackburn,E1,5.0,3.0,8.0,13.0,D,3.0,Blackburn_Aston Villa_2018
+74,1.0,QPR,13.0,1,0.0,2,0.0,O Langford,0.0,1.0,0.0,14.0,A,11.0,2018-09-15,Bolton,E1,2.0,3.0,12.0,9.0,A,1.0,Bolton_QPR_2018
+75,2.0,Wigan,11.0,2,1.0,0,1.0,D England,0.0,0.0,3.0,15.0,H,8.0,2018-09-15,Brentford,E1,1.0,10.0,9.0,20.0,H,3.0,Brentford_Wigan_2018
+76,1.0,Sheffield United,13.0,1,0.0,0,0.0,J Brooks,0.0,0.0,4.0,15.0,H,11.0,2018-09-15,Bristol City,E1,1.0,3.0,3.0,11.0,D,4.0,Bristol City_Sheffield United_2018
+77,2.0,Ipswich,12.0,2,0.0,0,1.0,T Harrington,0.0,0.0,0.0,21.0,H,6.0,2018-09-15,Hull,E1,1.0,7.0,7.0,13.0,H,5.0,Hull_Ipswich_2018
+78,1.0,Leeds,14.0,1,0.0,1,0.0,C Kavanagh,0.0,0.0,0.0,7.0,D,11.0,2018-09-15,Millwall,E1,4.0,2.0,6.0,16.0,D,4.0,Millwall_Leeds_2018
+79,3.0,Middlesbrough,13.0,1,0.0,0,0.0,J Linington,0.0,0.0,1.0,12.0,H,8.0,2018-09-15,Norwich,E1,2.0,6.0,0.0,16.0,D,4.0,Norwich_Middlesbrough_2018
+80,1.0,Reading,11.0,2,0.0,3,1.0,D Bond,0.0,1.0,1.0,9.0,A,9.0,2018-09-15,Preston,E1,5.0,10.0,9.0,23.0,D,2.0,Preston_Reading_2018
+81,4.0,Derby,15.0,1,1.0,0,0.0,P Bankes,0.0,0.0,4.0,12.0,H,12.0,2018-09-15,Rotherham,E1,4.0,6.0,9.0,16.0,D,5.0,Rotherham_Derby_2018
+82,1.0,Stoke,11.0,2,0.0,2,1.0,G Eltringham,0.0,2.0,0.0,7.0,D,14.0,2018-09-15,Sheffield Weds,E1,4.0,4.0,7.0,12.0,A,13.0,Sheffield Weds_Stoke_2018
+83,0.0,Nott'm Forest,4.0,0,0.0,0,0.0,S Duncan,0.0,0.0,3.0,13.0,D,16.0,2018-09-15,Swansea,E1,4.0,2.0,3.0,5.0,D,10.0,Swansea_Nott'm Forest_2018
+84,2.0,Rotherham,9.0,2,0.0,0,1.0,A Davies,0.0,0.0,2.0,16.0,H,13.0,2018-09-18,Aston Villa,E1,3.0,4.0,3.0,14.0,H,3.0,Aston Villa_Rotherham_2018
+85,2.0,Blackburn,18.0,0,0.0,0,0.0,D England,0.0,0.0,3.0,13.0,D,6.0,2018-09-18,Derby,E1,2.0,3.0,3.0,22.0,D,1.0,Derby_Blackburn_2018
+86,1.0,Brentford,16.0,1,0.0,1,0.0,D Bond,0.0,1.0,2.0,9.0,D,14.0,2018-09-18,Ipswich,E1,6.0,5.0,8.0,10.0,A,6.0,Ipswich_Brentford_2018
+87,1.0,Preston,12.0,3,0.0,0,1.0,G Eltringham,0.0,0.0,2.0,12.0,H,5.0,2018-09-18,Leeds,E1,3.0,5.0,4.0,17.0,H,3.0,Leeds_Preston_2018
+88,2.0,Swansea,13.0,1,0.0,0,0.0,P Tierney,0.0,0.0,1.0,13.0,H,14.0,2018-09-18,Stoke,E1,5.0,3.0,1.0,8.0,D,3.0,Stoke_Swansea_2018
+89,2.0,Bristol City,11.0,4,0.0,2,3.0,J Simpson,0.0,0.0,1.0,13.0,H,23.0,2018-09-18,West Brom,E1,8.0,7.0,2.0,11.0,H,7.0,West Brom_Bristol City_2018
+90,1.0,Hull,12.0,2,0.0,1,2.0,D Webb,0.0,1.0,3.0,10.0,H,7.0,2018-09-18,Wigan,E1,4.0,7.0,7.0,18.0,H,3.0,Wigan_Hull_2018
+91,1.0,Bolton,7.0,2,0.0,0,1.0,D Coote,0.0,0.0,4.0,13.0,H,7.0,2018-09-19,Middlesbrough,E1,2.0,4.0,10.0,19.0,H,1.0,Middlesbrough_Bolton_2018
+92,2.0,Sheffield Weds,13.0,2,0.0,1,1.0,T Harrington,0.0,0.0,0.0,12.0,H,6.0,2018-09-19,Nott'm Forest,E1,3.0,6.0,2.0,13.0,H,2.0,Nott'm Forest_Sheffield Weds_2018
+93,3.0,Millwall,15.0,2,0.0,0,2.0,R Jones,0.0,0.0,2.0,18.0,H,14.0,2018-09-19,QPR,E1,2.0,9.0,3.0,20.0,H,5.0,QPR_Millwall_2018
+94,2.0,Norwich,9.0,1,0.0,2,0.0,T Robinson,0.0,1.0,3.0,16.0,A,11.0,2018-09-19,Reading,E1,5.0,2.0,6.0,13.0,A,7.0,Reading_Norwich_2018
+95,1.0,Birmingham,10.0,0,0.0,0,0.0,G Ward,0.0,0.0,0.0,11.0,D,13.0,2018-09-19,Sheffield United,E1,5.0,3.0,9.0,6.0,D,5.0,Sheffield United_Birmingham_2018
+96,2.0,Bristol City,12.0,1,0.0,0,0.0,O Langford,0.0,0.0,1.0,13.0,H,9.0,2018-09-21,Wigan,E1,3.0,1.0,2.0,9.0,D,4.0,Wigan_Bristol City_2018
+97,2.0,Sheffield Weds,15.0,1,0.0,2,0.0,D Webb,0.0,0.0,1.0,12.0,A,13.0,2018-09-22,Aston Villa,E1,5.0,4.0,3.0,18.0,D,7.0,Aston Villa_Sheffield Weds_2018
+98,2.0,Brentford,9.0,3,0.0,1,3.0,A Madley,0.0,1.0,1.0,9.0,H,16.0,2018-09-22,Derby,E1,2.0,6.0,3.0,16.0,H,9.0,Derby_Brentford_2018
+99,2.0,Bolton,14.0,0,1.0,0,0.0,S Martin,0.0,0.0,0.0,9.0,D,7.0,2018-09-22,Ipswich,E1,0.0,2.0,6.0,9.0,D,4.0,Ipswich_Bolton_2018
+100,2.0,Birmingham,13.0,1,0.0,2,0.0,P Bankes,0.0,2.0,4.0,21.0,A,4.0,2018-09-22,Leeds,E1,3.0,5.0,7.0,17.0,A,4.0,Leeds_Birmingham_2018
+101,3.0,Swansea,13.0,0,0.0,0,0.0,S Hooper,0.0,0.0,0.0,11.0,D,5.0,2018-09-22,Middlesbrough,E1,2.0,5.0,10.0,16.0,D,3.0,Middlesbrough_Swansea_2018
+102,1.0,Rotherham,11.0,1,0.0,0,0.0,R Jones,0.0,0.0,3.0,20.0,H,4.0,2018-09-22,Nott'm Forest,E1,1.0,2.0,4.0,9.0,D,4.0,Nott'm Forest_Rotherham_2018
+103,0.0,Norwich,17.0,0,0.0,1,0.0,D Bond,0.0,0.0,2.0,12.0,A,9.0,2018-09-22,QPR,E1,4.0,3.0,2.0,10.0,D,2.0,QPR_Norwich_2018
+104,0.0,Hull,12.0,3,0.0,0,1.0,J Simpson,1.0,0.0,2.0,10.0,H,9.0,2018-09-22,Reading,E1,2.0,6.0,4.0,14.0,H,4.0,Reading_Hull_2018
+105,1.0,Preston,10.0,3,0.0,2,1.0,S Duncan,0.0,0.0,2.0,6.0,H,10.0,2018-09-22,Sheffield United,E1,3.0,3.0,4.0,13.0,H,3.0,Sheffield United_Preston_2018
+106,2.0,Blackburn,11.0,2,0.0,3,0.0,T Harrington,0.0,2.0,1.0,14.0,A,8.0,2018-09-22,Stoke,E1,4.0,3.0,9.0,17.0,A,2.0,Stoke_Blackburn_2018
+107,0.0,Millwall,7.0,2,0.0,0,0.0,T Robinson,0.0,0.0,0.0,6.0,H,10.0,2018-09-22,West Brom,E1,2.0,4.0,7.0,14.0,D,2.0,West Brom_Millwall_2018
+108,2.0,Aston Villa,15.0,1,0.0,1,1.0,T Robinson,0.0,1.0,2.0,18.0,D,12.0,2018-09-28,Bristol City,E1,5.0,3.0,3.0,7.0,D,8.0,Bristol City_Aston Villa_2018
+109,2.0,Leeds,14.0,1,0.0,1,1.0,R Jones,0.0,0.0,1.0,9.0,D,25.0,2018-09-28,Sheffield Weds,E1,7.0,4.0,3.0,10.0,H,11.0,Sheffield Weds_Leeds_2018
+110,0.0,Ipswich,11.0,2,1.0,2,0.0,J Brooks,0.0,2.0,1.0,16.0,D,7.0,2018-09-29,Birmingham,E1,3.0,9.0,10.0,22.0,A,2.0,Birmingham_Ipswich_2018
+111,0.0,Nott'm Forest,5.0,2,0.0,2,0.0,A Madley,0.0,0.0,1.0,11.0,D,17.0,2018-09-29,Blackburn,E1,5.0,9.0,6.0,17.0,D,8.0,Blackburn_Nott'm Forest_2018
+112,3.0,Derby,16.0,1,0.0,0,1.0,S Duncan,0.0,0.0,1.0,8.0,H,17.0,2018-09-29,Bolton,E1,1.0,2.0,2.0,8.0,H,9.0,Bolton_Derby_2018
+113,4.0,Reading,17.0,2,0.0,2,1.0,G Eltringham,1.0,1.0,1.0,17.0,D,10.0,2018-09-29,Brentford,E1,4.0,3.0,6.0,13.0,D,4.0,Brentford_Reading_2018
+114,3.0,Middlesbrough,9.0,1,0.0,1,0.0,D England,0.0,0.0,2.0,17.0,D,12.0,2018-09-29,Hull,E1,4.0,3.0,2.0,10.0,D,4.0,Hull_Middlesbrough_2018
+115,2.0,Sheffield United,11.0,2,0.0,3,0.0,A Davies,0.0,1.0,3.0,10.0,A,15.0,2018-09-29,Millwall,E1,7.0,5.0,5.0,11.0,A,10.0,Millwall_Sheffield United_2018
+116,1.0,Wigan,12.0,1,0.0,0,0.0,G Ward,0.0,0.0,3.0,19.0,H,11.0,2018-09-29,Norwich,E1,0.0,4.0,9.0,14.0,D,4.0,Norwich_Wigan_2018
+117,0.0,West Brom,10.0,2,0.0,3,0.0,T Harrington,0.0,0.0,4.0,12.0,A,12.0,2018-09-29,Preston,E1,7.0,4.0,2.0,13.0,D,2.0,Preston_West Brom_2018
+118,0.0,Stoke,8.0,2,0.0,2,0.0,D Webb,0.0,0.0,0.0,7.0,D,19.0,2018-09-29,Rotherham,E1,7.0,2.0,6.0,13.0,D,8.0,Rotherham_Stoke_2018
+119,0.0,QPR,6.0,3,0.0,0,1.0,K Friend,0.0,0.0,3.0,13.0,H,14.0,2018-09-29,Swansea,E1,1.0,4.0,5.0,10.0,H,5.0,Swansea_QPR_2018
+120,2.0,Preston,13.0,3,0.0,3,2.0,P Bankes,1.0,0.0,4.0,13.0,D,19.0,2018-10-02,Aston Villa,E1,7.0,6.0,4.0,12.0,H,4.0,Aston Villa_Preston_2018
+121,3.0,Birmingham,13.0,1,1.0,1,1.0,T Robinson,0.0,1.0,5.0,13.0,D,14.0,2018-10-02,Brentford,E1,6.0,7.0,9.0,18.0,D,7.0,Brentford_Birmingham_2018
+122,1.0,Leeds,13.0,0,0.0,1,0.0,D Bond,0.0,0.0,3.0,9.0,A,11.0,2018-10-02,Hull,E1,1.0,1.0,3.0,10.0,D,4.0,Hull_Leeds_2018
+123,0.0,Middlesbrough,9.0,0,1.0,2,0.0,A Madley,1.0,2.0,0.0,10.0,A,14.0,2018-10-02,Ipswich,E1,4.0,1.0,5.0,7.0,A,1.0,Ipswich_Middlesbrough_2018
+124,3.0,QPR,14.0,0,0.0,1,0.0,A Davies,0.0,0.0,0.0,14.0,A,10.0,2018-10-02,Reading,E1,4.0,1.0,4.0,14.0,D,5.0,Reading_QPR_2018
+125,1.0,Bolton,16.0,2,0.0,0,1.0,J Simpson,0.0,0.0,2.0,17.0,H,6.0,2018-10-02,Stoke,E1,1.0,7.0,9.0,14.0,H,3.0,Stoke_Bolton_2018
+126,1.0,Swansea,14.0,0,0.0,0,0.0,J Brooks,0.0,0.0,0.0,8.0,D,17.0,2018-10-02,Wigan,E1,5.0,1.0,4.0,10.0,D,9.0,Wigan_Swansea_2018
+127,1.0,Sheffield United,16.0,0,0.0,2,0.0,R Jones,0.0,0.0,2.0,9.0,A,13.0,2018-10-03,Blackburn,E1,7.0,2.0,4.0,13.0,D,7.0,Blackburn_Sheffield United_2018
+128,1.0,Norwich,12.0,1,0.0,1,0.0,G Eltringham,0.0,0.0,2.0,17.0,D,14.0,2018-10-03,Derby,E1,5.0,6.0,7.0,14.0,D,8.0,Derby_Norwich_2018
+129,1.0,Millwall,16.0,2,0.0,2,1.0,J Moss,0.0,0.0,2.0,11.0,D,20.0,2018-10-03,Nott'm Forest,E1,10.0,2.0,2.0,7.0,H,7.0,Nott'm Forest_Millwall_2018
+130,2.0,Bristol City,12.0,0,0.0,0,0.0,G Ward,0.0,0.0,3.0,15.0,D,13.0,2018-10-03,Rotherham,E1,3.0,6.0,6.0,21.0,D,3.0,Rotherham_Bristol City_2018
+131,2.0,West Brom,12.0,2,0.0,2,2.0,O Langford,0.0,0.0,3.0,15.0,D,19.0,2018-10-03,Sheffield Weds,E1,4.0,5.0,3.0,14.0,H,4.0,Sheffield Weds_West Brom_2018
+132,0.0,Rotherham,13.0,3,0.0,1,2.0,K Stroud,0.0,0.0,1.0,13.0,H,11.0,2018-10-06,Birmingham,E1,6.0,6.0,3.0,13.0,H,5.0,Birmingham_Rotherham_2018
+133,3.0,Blackburn,14.0,0,0.0,1,0.0,D Bond,0.0,1.0,3.0,11.0,A,7.0,2018-10-06,Bolton,E1,4.0,4.0,7.0,13.0,A,3.0,Bolton_Blackburn_2018
+134,2.0,Brentford,18.0,1,0.0,1,0.0,J Simpson,1.0,0.0,2.0,15.0,D,13.0,2018-10-06,Leeds,E1,7.0,3.0,2.0,13.0,D,3.0,Leeds_Brentford_2018
+135,2.0,Nott'm Forest,15.0,0,1.0,2,0.0,J Brooks,0.0,0.0,1.0,16.0,A,16.0,2018-10-06,Middlesbrough,E1,5.0,4.0,11.0,17.0,D,4.0,Middlesbrough_Nott'm Forest_2018
+136,0.0,Aston Villa,13.0,2,0.0,1,1.0,T Harrington,0.0,1.0,1.0,10.0,H,6.0,2018-10-06,Millwall,E1,3.0,4.0,9.0,18.0,D,4.0,Millwall_Aston Villa_2018
+137,0.0,Stoke,14.0,0,0.0,1,0.0,D Coote,0.0,1.0,1.0,15.0,A,6.0,2018-10-06,Norwich,E1,2.0,3.0,5.0,15.0,A,1.0,Norwich_Stoke_2018
+138,3.0,Wigan,11.0,4,1.0,0,1.0,L Probert,0.0,0.0,3.0,15.0,H,11.0,2018-10-06,Preston,E1,3.0,3.0,6.0,16.0,H,5.0,Preston_Wigan_2018
+139,3.0,Derby,19.0,1,0.0,1,0.0,D Webb,0.0,1.0,2.0,12.0,D,14.0,2018-10-06,QPR,E1,5.0,3.0,1.0,13.0,A,10.0,QPR_Derby_2018
+140,2.0,Hull,11.0,1,0.0,0,0.0,P Bankes,0.0,0.0,1.0,9.0,H,8.0,2018-10-06,Sheffield United,E1,3.0,3.0,7.0,12.0,D,5.0,Sheffield United_Hull_2018
+141,1.0,Ipswich,5.0,2,0.0,3,1.0,O Langford,0.0,2.0,2.0,13.0,A,8.0,2018-10-06,Swansea,E1,3.0,3.0,13.0,18.0,A,6.0,Swansea_Ipswich_2018
+142,2.0,Reading,10.0,4,0.0,1,0.0,D England,0.0,1.0,3.0,11.0,H,15.0,2018-10-06,West Brom,E1,6.0,5.0,7.0,14.0,A,7.0,West Brom_Reading_2018
+143,1.0,Sheffield Weds,7.0,1,0.0,2,0.0,A Davies,0.0,0.0,5.0,22.0,A,9.0,2018-10-07,Bristol City,E1,5.0,5.0,5.0,12.0,D,5.0,Bristol City_Sheffield Weds_2018
+144,1.0,Middlesbrough,14.0,1,0.0,2,0.0,P Bankes,0.0,0.0,3.0,19.0,A,15.0,2018-10-19,Sheffield Weds,E1,5.0,3.0,3.0,14.0,D,8.0,Sheffield Weds_Middlesbrough_2018
+145,1.0,Swansea,13.0,1,0.0,0,1.0,A Madley,0.0,0.0,1.0,8.0,H,15.0,2018-10-20,Aston Villa,E1,4.0,5.0,3.0,11.0,H,8.0,Aston Villa_Swansea_2018
+146,3.0,Leeds,10.0,2,0.0,1,1.0,D England,0.0,1.0,2.0,16.0,H,20.0,2018-10-20,Blackburn,E1,6.0,6.0,7.0,18.0,D,11.0,Blackburn_Leeds_2018
+147,3.0,Bristol City,17.0,0,0.0,1,0.0,R Jones,1.0,0.0,3.0,17.0,A,12.0,2018-10-20,Brentford,E1,5.0,4.0,8.0,11.0,D,7.0,Brentford_Bristol City_2018
+148,0.0,Sheffield United,8.0,2,0.0,1,1.0,O Langford,0.0,1.0,1.0,12.0,H,13.0,2018-10-20,Derby,E1,4.0,4.0,4.0,12.0,D,9.0,Derby_Sheffield United_2018
+149,1.0,Preston,9.0,1,0.0,1,0.0,G Ward,0.0,0.0,4.0,11.0,D,14.0,2018-10-20,Hull,E1,4.0,5.0,8.0,14.0,D,3.0,Hull_Preston_2018
+150,0.0,QPR,9.0,0,0.0,2,0.0,G Eltringham,0.0,2.0,1.0,17.0,A,13.0,2018-10-20,Ipswich,E1,5.0,1.0,2.0,3.0,A,12.0,Ipswich_QPR_2018
+151,3.0,Norwich,17.0,1,0.0,2,1.0,K Stroud,0.0,0.0,3.0,11.0,A,19.0,2018-10-20,Nott'm Forest,E1,7.0,2.0,0.0,7.0,H,12.0,Nott'm Forest_Norwich_2018
+152,1.0,Millwall,15.0,3,0.0,1,2.0,D Webb,0.0,1.0,2.0,9.0,H,26.0,2018-10-20,Reading,E1,11.0,4.0,6.0,9.0,H,14.0,Reading_Millwall_2018
+153,2.0,Bolton,21.0,1,0.0,1,0.0,T Robinson,0.0,0.0,2.0,18.0,D,12.0,2018-10-20,Rotherham,E1,3.0,3.0,5.0,16.0,D,4.0,Rotherham_Bolton_2018
+154,1.0,Birmingham,11.0,0,0.0,1,0.0,R East,0.0,0.0,2.0,17.0,A,13.0,2018-10-20,Stoke,E1,6.0,3.0,11.0,19.0,D,4.0,Stoke_Birmingham_2018
+155,3.0,West Brom,12.0,1,1.0,0,0.0,J Simpson,0.0,0.0,4.0,14.0,H,7.0,2018-10-20,Wigan,E1,1.0,3.0,4.0,11.0,D,3.0,Wigan_West Brom_2018
+156,1.0,Reading,11.0,2,0.0,1,0.0,T Harrington,0.0,0.0,2.0,8.0,H,11.0,2018-10-23,Birmingham,E1,7.0,5.0,7.0,14.0,D,8.0,Birmingham_Reading_2018
+157,0.0,Rotherham,6.0,0,0.0,0,0.0,D Bond,0.0,0.0,1.0,11.0,D,8.0,2018-10-23,Middlesbrough,E1,2.0,5.0,13.0,20.0,D,7.0,Middlesbrough_Rotherham_2018
+158,3.0,Wigan,17.0,2,0.0,1,0.0,J Linington,0.0,1.0,2.0,17.0,H,9.0,2018-10-23,Millwall,E1,1.0,5.0,10.0,21.0,A,2.0,Millwall_Wigan_2018
+159,2.0,Aston Villa,15.0,2,0.0,1,0.0,S Hooper,0.0,1.0,1.0,13.0,H,8.0,2018-10-23,Norwich,E1,1.0,2.0,7.0,10.0,A,7.0,Norwich_Aston Villa_2018
+160,0.0,Sheffield Weds,10.0,3,0.0,0,1.0,J Brooks,0.0,0.0,0.0,10.0,H,14.0,2018-10-23,QPR,E1,4.0,8.0,4.0,22.0,H,9.0,QPR_Sheffield Weds_2018
+161,1.0,Stoke,13.0,1,0.0,1,0.0,G Ward,0.0,0.0,1.0,10.0,D,10.0,2018-10-23,Sheffield United,E1,4.0,6.0,14.0,22.0,D,4.0,Sheffield United_Stoke_2018
+162,0.0,Blackburn,11.0,3,0.0,1,0.0,G Eltringham,0.0,1.0,2.0,13.0,H,9.0,2018-10-23,Swansea,E1,3.0,2.0,5.0,16.0,A,4.0,Swansea_Blackburn_2018
+163,1.0,Nott'm Forest,10.0,0,0.0,3,0.0,A Davies,0.0,1.0,2.0,13.0,A,12.0,2018-10-24,Bolton,E1,8.0,1.0,4.0,10.0,A,4.0,Bolton_Nott'm Forest_2018
+164,1.0,Hull,10.0,1,0.0,0,0.0,P Bankes,0.0,0.0,1.0,11.0,H,13.0,2018-10-24,Bristol City,E1,2.0,7.0,7.0,17.0,D,7.0,Bristol City_Hull_2018
+165,1.0,Ipswich,10.0,2,0.0,0,1.0,C Pawson,0.0,0.0,3.0,12.0,H,3.0,2018-10-24,Leeds,E1,2.0,5.0,15.0,18.0,H,0.0,Leeds_Ipswich_2018
+166,2.0,Brentford,8.0,4,0.0,3,3.0,S Duncan,0.0,1.0,2.0,16.0,H,15.0,2018-10-24,Preston,E1,8.0,8.0,4.0,15.0,H,6.0,Preston_Brentford_2018
+167,1.0,Derby,9.0,1,0.0,4,0.0,R Joyce,0.0,2.0,2.0,16.0,A,20.0,2018-10-24,West Brom,E1,9.0,5.0,4.0,16.0,A,2.0,West Brom_Derby_2018
+168,3.0,Aston Villa,23.0,1,0.0,0,1.0,D England,0.0,0.0,0.0,12.0,H,18.0,2018-10-26,QPR,E1,5.0,7.0,5.0,16.0,H,9.0,QPR_Aston Villa_2018
+169,0.0,Sheffield Weds,2.0,3,0.0,1,1.0,D Bond,0.0,1.0,1.0,12.0,H,12.0,2018-10-27,Birmingham,E1,4.0,4.0,10.0,16.0,D,6.0,Birmingham_Sheffield Weds_2018
+170,1.0,Hull,12.0,0,0.0,1,0.0,D Webb,0.0,1.0,2.0,13.0,A,7.0,2018-10-27,Bolton,E1,2.0,3.0,3.0,16.0,A,2.0,Bolton_Hull_2018
+171,1.0,Stoke,9.0,0,0.0,1,0.0,A Madley,0.0,1.0,2.0,11.0,A,8.0,2018-10-27,Bristol City,E1,3.0,8.0,7.0,22.0,A,11.0,Bristol City_Stoke_2018
+172,1.0,Nott'm Forest,11.0,1,0.0,1,0.0,G Eltringham,0.0,1.0,4.0,17.0,D,3.0,2018-10-27,Leeds,E1,1.0,3.0,6.0,18.0,A,3.0,Leeds_Nott'm Forest_2018
+173,1.0,Derby,12.0,1,0.0,1,0.0,S Hooper,0.0,1.0,1.0,10.0,D,18.0,2018-10-27,Middlesbrough,E1,7.0,0.0,9.0,10.0,A,4.0,Middlesbrough_Derby_2018
+174,0.0,Ipswich,21.0,3,0.0,0,1.0,R Jones,0.0,0.0,1.0,13.0,H,4.0,2018-10-27,Millwall,E1,0.0,4.0,4.0,7.0,H,2.0,Millwall_Ipswich_2018
+175,0.0,Brentford,14.0,1,0.0,0,1.0,O Langford,0.0,0.0,1.0,13.0,H,11.0,2018-10-27,Norwich,E1,5.0,3.0,4.0,11.0,H,5.0,Norwich_Brentford_2018
+176,1.0,Rotherham,8.0,1,0.0,1,1.0,J Simpson,0.0,0.0,1.0,15.0,D,12.0,2018-10-27,Preston,E1,5.0,6.0,8.0,15.0,H,7.0,Preston_Rotherham_2018
+177,3.0,Wigan,15.0,4,0.0,2,2.0,T Harrington,0.0,1.0,2.0,12.0,H,15.0,2018-10-27,Sheffield United,E1,7.0,4.0,6.0,12.0,H,11.0,Sheffield United_Wigan_2018
+178,2.0,Reading,5.0,2,0.0,0,1.0,K Stroud,0.0,0.0,1.0,14.0,H,14.0,2018-10-27,Swansea,E1,4.0,9.0,7.0,25.0,H,8.0,Swansea_Reading_2018
+179,1.0,Blackburn,8.0,1,0.0,1,1.0,S Duncan,0.0,0.0,1.0,6.0,D,9.0,2018-10-27,West Brom,E1,5.0,7.0,6.0,19.0,H,3.0,West Brom_Blackburn_2018
+180,0.0,Bolton,8.0,2,0.0,0,1.0,O Langford,0.0,0.0,3.0,16.0,H,11.0,2018-11-02,Aston Villa,E1,3.0,3.0,2.0,17.0,H,8.0,Aston Villa_Bolton_2018
+181,4.0,QPR,13.0,1,0.0,0,0.0,P Bankes,0.0,0.0,4.0,16.0,H,5.0,2018-11-03,Blackburn,E1,1.0,2.0,5.0,10.0,D,2.0,Blackburn_QPR_2018
+182,1.0,Millwall,8.0,2,0.0,0,0.0,S Hooper,0.0,0.0,1.0,11.0,H,10.0,2018-11-03,Brentford,E1,1.0,4.0,9.0,18.0,D,3.0,Brentford_Millwall_2018
+183,0.0,Birmingham,5.0,3,0.0,1,0.0,C Kavanagh,0.0,1.0,3.0,11.0,H,6.0,2018-11-03,Derby,E1,3.0,10.0,6.0,18.0,A,7.0,Derby_Birmingham_2018
+184,1.0,West Brom,8.0,1,0.0,0,1.0,K Stroud,0.0,0.0,0.0,10.0,H,9.0,2018-11-03,Hull,E1,2.0,3.0,4.0,13.0,H,4.0,Hull_West Brom_2018
+185,4.0,Preston,17.0,1,1.0,1,1.0,A Woolmer,0.0,0.0,2.0,9.0,D,8.0,2018-11-03,Ipswich,E1,3.0,2.0,8.0,13.0,H,6.0,Ipswich_Preston_2018
+186,3.0,Sheffield United,12.0,1,0.0,0,0.0,S Duncan,0.0,0.0,1.0,9.0,H,11.0,2018-11-03,Nott'm Forest,E1,1.0,2.0,4.0,12.0,D,9.0,Nott'm Forest_Sheffield United_2018
+187,5.0,Bristol City,11.0,3,0.0,2,2.0,J Linington,0.0,2.0,2.0,10.0,H,21.0,2018-11-03,Reading,E1,7.0,3.0,1.0,8.0,D,6.0,Reading_Bristol City_2018
+188,2.0,Swansea,17.0,2,0.0,1,0.0,T Harrington,0.0,1.0,4.0,12.0,H,12.0,2018-11-03,Rotherham,E1,4.0,4.0,3.0,7.0,A,2.0,Rotherham_Swansea_2018
+189,4.0,Norwich,20.0,0,0.0,4,0.0,S Martin,0.0,0.0,2.0,4.0,A,16.0,2018-11-03,Sheffield Weds,E1,10.0,4.0,4.0,16.0,D,6.0,Sheffield Weds_Norwich_2018
+190,1.0,Middlesbrough,8.0,0,0.0,0,0.0,R Jones,0.0,0.0,1.0,10.0,D,11.0,2018-11-03,Stoke,E1,4.0,1.0,7.0,13.0,D,2.0,Stoke_Middlesbrough_2018
+191,2.0,Leeds,12.0,1,0.0,2,1.0,A Davies,0.0,1.0,2.0,15.0,A,12.0,2018-11-04,Wigan,E1,4.0,1.0,4.0,6.0,D,6.0,Wigan_Leeds_2018
+192,0.0,Sheffield Weds,5.0,0,0.0,0,0.0,A Madley,0.0,0.0,3.0,11.0,D,7.0,2018-11-09,Sheffield United,E1,1.0,5.0,12.0,19.0,D,4.0,Sheffield United_Sheffield Weds_2018
+193,1.0,Hull,9.0,3,0.0,3,2.0,G Ward,0.0,0.0,3.0,11.0,D,12.0,2018-11-10,Birmingham,E1,5.0,4.0,3.0,11.0,H,3.0,Birmingham_Hull_2018
+194,0.0,Rotherham,9.0,1,0.0,1,0.0,D Webb,0.0,0.0,1.0,10.0,D,13.0,2018-11-10,Blackburn,E1,1.0,9.0,11.0,25.0,D,3.0,Blackburn_Rotherham_2018
+195,3.0,Swansea,14.0,0,0.0,1,0.0,G Scott,0.0,1.0,3.0,9.0,A,10.0,2018-11-10,Bolton,E1,2.0,3.0,2.0,12.0,A,6.0,Bolton_Swansea_2018
+196,1.0,Preston,15.0,0,0.0,1,0.0,G Eltringham,0.0,1.0,2.0,14.0,A,9.0,2018-11-10,Bristol City,E1,3.0,1.0,3.0,6.0,A,2.0,Bristol City_Preston_2018
+197,3.0,Aston Villa,17.0,0,0.0,3,0.0,J Brooks,0.0,0.0,2.0,10.0,A,21.0,2018-11-10,Derby,E1,5.0,5.0,2.0,11.0,D,5.0,Derby_Aston Villa_2018
+198,1.0,Wigan,16.0,2,0.0,0,2.0,D England,0.0,0.0,2.0,12.0,H,13.0,2018-11-10,Middlesbrough,E1,1.0,4.0,4.0,19.0,H,4.0,Middlesbrough_Wigan_2018
+199,2.0,Millwall,11.0,4,0.0,3,0.0,J Simpson,0.0,1.0,5.0,17.0,H,8.0,2018-11-10,Norwich,E1,4.0,7.0,6.0,21.0,A,3.0,Norwich_Millwall_2018
+200,1.0,Stoke,11.0,0,0.0,0,0.0,O Langford,0.0,0.0,0.0,10.0,D,8.0,2018-11-10,Nott'm Forest,E1,2.0,4.0,4.0,12.0,D,4.0,Nott'm Forest_Stoke_2018
+201,2.0,Brentford,13.0,3,0.0,2,0.0,J Linington,0.0,1.0,1.0,12.0,H,12.0,2018-11-10,QPR,E1,6.0,7.0,2.0,17.0,A,5.0,QPR_Brentford_2018
+202,1.0,Ipswich,6.0,2,0.0,2,1.0,D Bond,0.0,2.0,2.0,10.0,D,11.0,2018-11-10,Reading,E1,5.0,4.0,4.0,12.0,A,5.0,Reading_Ipswich_2018
+203,2.0,Leeds,10.0,4,0.0,1,0.0,L Mason,0.0,0.0,0.0,12.0,H,15.0,2018-11-10,West Brom,E1,3.0,6.0,3.0,20.0,D,3.0,West Brom_Leeds_2018
+204,1.0,West Brom,9.0,1,0.0,2,0.0,K Stroud,0.0,1.0,3.0,13.0,A,13.0,2018-11-23,Ipswich,E1,3.0,2.0,8.0,12.0,A,5.0,Ipswich_West Brom_2018
+205,1.0,Middlesbrough,6.0,1,0.0,2,0.0,J Brooks,0.0,0.0,2.0,11.0,A,11.0,2018-11-24,Brentford,E1,4.0,9.0,9.0,17.0,D,4.0,Brentford_Middlesbrough_2018
+206,2.0,Nott'm Forest,10.0,0,0.0,2,0.0,G Scott,0.0,0.0,0.0,6.0,A,15.0,2018-11-24,Hull,E1,6.0,1.0,6.0,7.0,D,5.0,Hull_Nott'm Forest_2018
+207,1.0,Bristol City,7.0,2,1.0,0,0.0,S Duncan,0.0,0.0,0.0,9.0,H,7.0,2018-11-24,Leeds,E1,1.0,6.0,10.0,20.0,D,8.0,Leeds_Bristol City_2018
+208,1.0,Bolton,12.0,1,0.0,1,0.0,L Swabey,0.0,1.0,2.0,12.0,D,9.0,2018-11-24,Millwall,E1,4.0,5.0,10.0,13.0,A,4.0,Millwall_Bolton_2018
+209,1.0,Blackburn,8.0,4,0.0,1,2.0,A Madley,0.0,0.0,2.0,7.0,H,11.0,2018-11-24,Preston,E1,6.0,5.0,4.0,15.0,H,5.0,Preston_Blackburn_2018
+210,0.0,Sheffield United,14.0,2,0.0,2,0.0,P Bankes,0.0,1.0,1.0,12.0,D,6.0,2018-11-24,Rotherham,E1,4.0,8.0,6.0,26.0,A,5.0,Rotherham_Sheffield United_2018
+211,0.0,Derby,11.0,1,0.0,2,1.0,J Simpson,0.0,2.0,3.0,14.0,A,9.0,2018-11-24,Sheffield Weds,E1,3.0,3.0,6.0,14.0,A,9.0,Sheffield Weds_Derby_2018
+212,1.0,QPR,8.0,2,0.0,2,1.0,A Davies,0.0,1.0,4.0,13.0,D,8.0,2018-11-24,Stoke,E1,4.0,3.0,6.0,14.0,D,2.0,Stoke_QPR_2018
+213,0.0,Norwich,11.0,1,0.0,4,1.0,D Bond,0.0,3.0,2.0,13.0,A,11.0,2018-11-24,Swansea,E1,7.0,6.0,7.0,13.0,A,2.0,Swansea_Norwich_2018
+214,3.0,Reading,14.0,0,0.0,0,0.0,O Langford,0.0,0.0,1.0,14.0,D,8.0,2018-11-24,Wigan,E1,2.0,5.0,9.0,18.0,D,7.0,Wigan_Reading_2018
+215,2.0,Birmingham,9.0,4,0.0,2,2.0,R Jones,0.0,1.0,3.0,20.0,H,10.0,2018-11-25,Aston Villa,E1,3.0,5.0,3.0,12.0,H,6.0,Aston Villa_Birmingham_2018
+216,1.0,Sheffield United,6.0,2,0.0,3,1.0,S Martin,0.0,2.0,1.0,7.0,A,18.0,2018-11-27,Brentford,E1,5.0,3.0,2.0,14.0,A,9.0,Brentford_Sheffield United_2018
+217,0.0,Norwich,9.0,0,0.0,0,0.0,G Eltringham,0.0,0.0,0.0,8.0,D,18.0,2018-11-27,Hull,E1,4.0,4.0,4.0,14.0,D,7.0,Hull_Norwich_2018
+218,3.0,Reading,12.0,1,0.0,0,0.0,M Dean,0.0,0.0,2.0,9.0,H,9.0,2018-11-27,Leeds,E1,2.0,5.0,3.0,19.0,D,3.0,Leeds_Reading_2018
+219,1.0,Middlesbrough,15.0,1,0.0,1,1.0,P Bankes,0.0,0.0,4.0,14.0,D,11.0,2018-11-27,Preston,E1,3.0,4.0,7.0,13.0,H,5.0,Preston_Middlesbrough_2018
+220,0.0,QPR,15.0,2,0.0,2,2.0,A Woolmer,0.0,1.0,2.0,10.0,D,17.0,2018-11-27,Rotherham,E1,6.0,7.0,3.0,13.0,H,6.0,Rotherham_QPR_2018
+221,1.0,Bolton,13.0,1,0.0,0,0.0,G Ward,0.0,0.0,0.0,19.0,H,8.0,2018-11-27,Sheffield Weds,E1,1.0,1.0,6.0,13.0,D,5.0,Sheffield Weds_Bolton_2018
+222,3.0,Nott'm Forest,9.0,5,1.0,5,3.0,S Hooper,0.0,3.0,3.0,18.0,D,8.0,2018-11-28,Aston Villa,E1,5.0,12.0,12.0,26.0,D,2.0,Aston Villa_Nott'm Forest_2018
+223,3.0,Bristol City,13.0,2,0.0,3,1.0,D Webb,0.0,0.0,1.0,9.0,A,9.0,2018-11-28,Ipswich,E1,4.0,3.0,6.0,10.0,H,2.0,Ipswich_Bristol City_2018
+224,1.0,Birmingham,8.0,0,0.0,2,0.0,S Duncan,1.0,1.0,2.0,12.0,A,13.0,2018-11-28,Millwall,E1,3.0,3.0,6.0,5.0,A,4.0,Millwall_Birmingham_2018
+225,2.0,Derby,12.0,2,0.0,1,1.0,D England,1.0,0.0,3.0,10.0,H,16.0,2018-11-28,Stoke,E1,8.0,4.0,6.0,8.0,H,7.0,Stoke_Derby_2018
+226,2.0,West Brom,11.0,1,0.0,2,1.0,J Linington,0.0,2.0,0.0,11.0,A,11.0,2018-11-28,Swansea,E1,3.0,4.0,8.0,19.0,A,4.0,Swansea_West Brom_2018
+227,3.0,Blackburn,10.0,3,0.0,1,1.0,K Stroud,0.0,0.0,1.0,15.0,H,6.0,2018-11-28,Wigan,E1,2.0,9.0,5.0,17.0,H,4.0,Wigan_Blackburn_2018
+228,0.0,Preston,10.0,3,0.0,0,0.0,D Webb,0.0,0.0,0.0,8.0,H,8.0,2018-12-01,Birmingham,E1,4.0,7.0,9.0,16.0,D,2.0,Birmingham_Preston_2018
+229,1.0,Sheffield Weds,14.0,4,0.0,2,1.0,R Jones,0.0,0.0,1.0,14.0,H,7.0,2018-12-01,Blackburn,E1,2.0,7.0,9.0,18.0,H,7.0,Blackburn_Sheffield Weds_2018
+230,3.0,Wigan,12.0,1,0.0,1,1.0,S Hooper,0.0,1.0,2.0,14.0,D,7.0,2018-12-01,Bolton,E1,2.0,1.0,5.0,11.0,D,6.0,Bolton_Wigan_2018
+231,0.0,Swansea,7.0,2,0.0,1,2.0,A Madley,0.0,0.0,0.0,7.0,H,7.0,2018-12-01,Derby,E1,2.0,4.0,5.0,16.0,H,5.0,Derby_Swansea_2018
+232,1.0,Aston Villa,12.0,0,0.0,3,0.0,A Davies,0.0,1.0,0.0,11.0,A,20.0,2018-12-01,Middlesbrough,E1,7.0,3.0,2.0,10.0,A,7.0,Middlesbrough_Aston Villa_2018
+233,0.0,Rotherham,7.0,3,0.0,1,0.0,S Martin,0.0,1.0,0.0,14.0,H,10.0,2018-12-01,Norwich,E1,4.0,7.0,7.0,19.0,A,5.0,Norwich_Rotherham_2018
+234,2.0,Ipswich,11.0,2,0.0,0,2.0,J Linington,0.0,0.0,1.0,14.0,H,9.0,2018-12-01,Nott'm Forest,E1,2.0,6.0,3.0,17.0,H,4.0,Nott'm Forest_Ipswich_2018
+235,2.0,Hull,10.0,2,0.0,3,1.0,J Simpson,0.0,2.0,1.0,11.0,A,16.0,2018-12-01,QPR,E1,7.0,7.0,9.0,22.0,A,4.0,QPR_Hull_2018
+236,2.0,Stoke,7.0,2,0.0,2,1.0,D Coote,0.0,0.0,1.0,6.0,D,14.0,2018-12-01,Reading,E1,6.0,3.0,5.0,13.0,H,5.0,Reading_Stoke_2018
+237,4.0,Leeds,14.0,0,0.0,1,0.0,O Langford,0.0,0.0,3.0,9.0,A,11.0,2018-12-01,Sheffield United,E1,6.0,2.0,9.0,12.0,D,3.0,Sheffield United_Leeds_2018
+238,2.0,Millwall,8.0,1,0.0,1,0.0,D England,0.0,0.0,3.0,12.0,D,3.0,2018-12-02,Bristol City,E1,3.0,1.0,4.0,14.0,D,2.0,Bristol City_Millwall_2018
+239,0.0,Brentford,9.0,1,0.0,1,0.0,D Bond,0.0,0.0,2.0,9.0,D,13.0,2018-12-03,West Brom,E1,2.0,5.0,7.0,23.0,D,3.0,West Brom_Brentford_2018
+240,2.0,Aston Villa,17.0,2,0.0,2,1.0,D England,0.0,1.0,1.0,12.0,D,15.0,2018-12-07,West Brom,E1,7.0,6.0,5.0,14.0,D,2.0,West Brom_Aston Villa_2018
+241,4.0,Bristol City,16.0,0,0.0,1,0.0,J Brooks,0.0,0.0,3.0,12.0,A,6.0,2018-12-08,Birmingham,E1,2.0,3.0,6.0,8.0,D,4.0,Birmingham_Bristol City_2018
+242,1.0,Swansea,11.0,2,0.0,3,1.0,A Woolmer,0.0,3.0,2.0,9.0,A,13.0,2018-12-08,Brentford,E1,5.0,5.0,11.0,18.0,A,3.0,Brentford_Swansea_2018
+243,2.0,QPR,11.0,2,0.0,1,1.0,P Bankes,0.0,1.0,4.0,21.0,H,10.0,2018-12-08,Leeds,E1,4.0,7.0,3.0,20.0,D,2.0,Leeds_QPR_2018
+244,2.0,Blackburn,14.0,1,0.0,1,0.0,S Hooper,1.0,1.0,2.0,12.0,D,15.0,2018-12-08,Middlesbrough,E1,5.0,5.0,4.0,12.0,A,8.0,Middlesbrough_Blackburn_2018
+245,0.0,Hull,7.0,2,0.0,2,1.0,K Stroud,0.0,1.0,2.0,11.0,D,7.0,2018-12-08,Millwall,E1,2.0,4.0,8.0,16.0,D,3.0,Millwall_Hull_2018
+246,1.0,Bolton,7.0,3,1.0,2,1.0,S Duncan,0.0,0.0,1.0,13.0,H,12.0,2018-12-08,Norwich,E1,4.0,7.0,6.0,21.0,H,0.0,Norwich_Bolton_2018
+247,1.0,Preston,11.0,0,0.0,1,0.0,S Martin,0.0,0.0,1.0,12.0,A,8.0,2018-12-08,Nott'm Forest,E1,3.0,3.0,10.0,14.0,D,2.0,Nott'm Forest_Preston_2018
+248,1.0,Sheffield United,10.0,0,0.0,2,0.0,J Linington,0.0,0.0,1.0,17.0,A,13.0,2018-12-08,Reading,E1,5.0,0.0,4.0,6.0,D,9.0,Reading_Sheffield United_2018
+249,1.0,Rotherham,12.0,2,0.0,2,1.0,D Bond,0.0,0.0,0.0,7.0,D,15.0,2018-12-08,Sheffield Weds,E1,4.0,4.0,4.0,12.0,H,2.0,Sheffield Weds_Rotherham_2018
+250,0.0,Ipswich,16.0,2,0.0,0,1.0,G Eltringham,0.0,0.0,1.0,15.0,H,9.0,2018-12-08,Stoke,E1,2.0,2.0,1.0,6.0,H,5.0,Stoke_Ipswich_2018
+251,1.0,Derby,9.0,0,0.0,1,0.0,G Ward,1.0,1.0,2.0,14.0,A,16.0,2018-12-08,Wigan,E1,5.0,2.0,1.0,7.0,A,6.0,Wigan_Derby_2018
+252,1.0,West Brom,8.0,1,0.0,2,1.0,J Simpson,0.0,1.0,0.0,12.0,A,14.0,2018-12-14,Sheffield United,E1,5.0,3.0,5.0,10.0,D,5.0,Sheffield United_West Brom_2018
+253,2.0,Stoke,10.0,2,0.0,2,0.0,P Bankes,0.0,0.0,4.0,16.0,D,16.0,2018-12-15,Aston Villa,E1,8.0,5.0,8.0,9.0,D,3.0,Aston Villa_Stoke_2018
+254,1.0,Birmingham,11.0,2,0.0,2,1.0,T Harrington,0.0,0.0,2.0,13.0,D,12.0,2018-12-15,Blackburn,E1,6.0,5.0,2.0,8.0,H,2.0,Blackburn_Birmingham_2018
+255,2.0,Leeds,14.0,0,0.0,1,0.0,R Jones,0.0,0.0,1.0,11.0,A,12.0,2018-12-15,Bolton,E1,4.0,0.0,4.0,4.0,D,10.0,Bolton_Leeds_2018
+256,1.0,Norwich,10.0,2,0.0,2,1.0,R East,0.0,1.0,3.0,16.0,D,9.0,2018-12-15,Bristol City,E1,5.0,6.0,7.0,13.0,D,1.0,Bristol City_Norwich_2018
+257,0.0,Brentford,6.0,2,0.0,0,2.0,A Davies,0.0,0.0,1.0,10.0,H,16.0,2018-12-15,Hull,E1,1.0,3.0,3.0,7.0,H,7.0,Hull_Brentford_2018
+258,3.0,Wigan,14.0,1,0.0,0,0.0,S Duncan,0.0,0.0,2.0,9.0,H,16.0,2018-12-15,Ipswich,E1,2.0,1.0,3.0,3.0,D,7.0,Ipswich_Wigan_2018
+259,1.0,Millwall,10.0,3,0.0,2,2.0,J Duncan,0.0,0.0,3.0,10.0,H,17.0,2018-12-15,Preston,E1,4.0,7.0,8.0,14.0,H,10.0,Preston_Millwall_2018
+260,0.0,Middlesbrough,17.0,2,0.0,1,1.0,O Langford,0.0,0.0,3.0,12.0,H,8.0,2018-12-15,QPR,E1,1.0,2.0,7.0,17.0,H,5.0,QPR_Middlesbrough_2018
+261,1.0,Reading,19.0,1,0.0,1,0.0,R Joyce,0.0,1.0,2.0,12.0,D,20.0,2018-12-15,Rotherham,E1,5.0,10.0,13.0,26.0,A,4.0,Rotherham_Reading_2018
+262,0.0,Sheffield Weds,6.0,2,0.0,1,0.0,D Webb,0.0,0.0,2.0,13.0,H,11.0,2018-12-15,Swansea,E1,2.0,4.0,7.0,12.0,D,8.0,Swansea_Sheffield Weds_2018
+263,3.0,Nott'm Forest,21.0,0,0.0,0,0.0,K Stroud,0.0,0.0,3.0,11.0,D,14.0,2018-12-17,Derby,E1,4.0,3.0,2.0,12.0,D,4.0,Derby_Nott'm Forest_2018
+264,2.0,Norwich,12.0,0,0.0,1,0.0,D England,0.0,0.0,3.0,14.0,A,11.0,2018-12-22,Blackburn,E1,4.0,1.0,6.0,10.0,D,4.0,Blackburn_Norwich_2018
+265,1.0,Bolton,8.0,1,0.0,0,0.0,J Linington,0.0,0.0,3.0,19.0,H,10.0,2018-12-22,Brentford,E1,1.0,4.0,7.0,13.0,D,4.0,Brentford_Bolton_2018
+266,0.0,Bristol City,9.0,1,0.0,1,1.0,D Bond,0.0,1.0,1.0,8.0,D,15.0,2018-12-22,Derby,E1,3.0,7.0,9.0,21.0,D,3.0,Derby_Bristol City_2018
+267,1.0,Swansea,13.0,3,0.0,2,0.0,O Langford,0.0,1.0,2.0,8.0,H,15.0,2018-12-22,Hull,E1,4.0,8.0,7.0,13.0,A,2.0,Hull_Swansea_2018
+268,2.0,Sheffield United,16.0,1,0.0,1,1.0,A Woolmer,0.0,0.0,2.0,11.0,D,16.0,2018-12-22,Ipswich,E1,3.0,3.0,6.0,7.0,H,5.0,Ipswich_Sheffield United_2018
+269,3.0,QPR,13.0,0,0.0,1,0.0,G Ward,0.0,1.0,1.0,8.0,A,7.0,2018-12-22,Nott'm Forest,E1,2.0,2.0,4.0,12.0,A,3.0,Nott'm Forest_QPR_2018
+270,2.0,Middlesbrough,12.0,0,0.0,1,0.0,S Martin,0.0,0.0,2.0,5.0,A,16.0,2018-12-22,Reading,E1,6.0,4.0,9.0,12.0,D,8.0,Reading_Middlesbrough_2018
+271,1.0,West Brom,6.0,0,0.0,4,0.0,T Harrington,0.0,3.0,2.0,13.0,A,11.0,2018-12-22,Rotherham,E1,5.0,4.0,8.0,18.0,A,3.0,Rotherham_West Brom_2018
+272,1.0,Preston,22.0,1,1.0,0,0.0,D Coote,0.0,0.0,3.0,13.0,H,4.0,2018-12-22,Sheffield Weds,E1,1.0,4.0,5.0,16.0,D,4.0,Sheffield Weds_Preston_2018
+273,1.0,Millwall,6.0,1,0.0,0,0.0,C Kavanagh,0.0,0.0,3.0,17.0,H,9.0,2018-12-22,Stoke,E1,2.0,2.0,8.0,8.0,D,4.0,Stoke_Millwall_2018
+274,1.0,Birmingham,11.0,0,0.0,3,0.0,R Joyce,0.0,2.0,2.0,15.0,A,10.0,2018-12-22,Wigan,E1,3.0,1.0,4.0,6.0,A,3.0,Wigan_Birmingham_2018
+275,2.0,Leeds,12.0,2,0.0,3,2.0,A Madley,0.0,0.0,3.0,13.0,A,16.0,2018-12-23,Aston Villa,E1,7.0,2.0,6.0,10.0,H,8.0,Aston Villa_Leeds_2018
+276,1.0,Stoke,11.0,2,0.0,0,1.0,D Bond,0.0,0.0,4.0,10.0,H,14.0,2018-12-26,Birmingham,E1,4.0,6.0,10.0,20.0,H,5.0,Birmingham_Stoke_2018
+277,1.0,Rotherham,8.0,2,0.0,1,1.0,J Simpson,0.0,1.0,1.0,12.0,H,12.0,2018-12-26,Bolton,E1,2.0,4.0,2.0,12.0,D,4.0,Bolton_Rotherham_2018
+278,0.0,Brentford,8.0,1,0.0,1,1.0,D Webb,0.0,0.0,1.0,14.0,D,14.0,2018-12-26,Bristol City,E1,3.0,2.0,3.0,7.0,H,4.0,Bristol City_Brentford_2018
+279,2.0,Blackburn,13.0,3,0.0,2,1.0,S Martin,0.0,0.0,2.0,13.0,H,8.0,2018-12-26,Leeds,E1,2.0,10.0,6.0,24.0,H,2.0,Leeds_Blackburn_2018
+280,3.0,Sheffield Weds,13.0,0,0.0,1,0.0,P Bankes,0.0,1.0,2.0,12.0,A,4.0,2018-12-26,Middlesbrough,E1,2.0,3.0,5.0,12.0,A,1.0,Middlesbrough_Sheffield Weds_2018
+281,3.0,Reading,18.0,1,2.0,0,1.0,A Davies,0.0,0.0,1.0,16.0,H,8.0,2018-12-26,Millwall,E1,2.0,4.0,8.0,17.0,H,4.0,Millwall_Reading_2018
+282,4.0,Nott'm Forest,11.0,3,0.0,3,0.0,J Brooks,0.0,1.0,4.0,18.0,D,9.0,2018-12-26,Norwich,E1,7.0,11.0,4.0,27.0,A,1.0,Norwich_Nott'm Forest_2018
+283,0.0,Hull,6.0,1,0.0,2,0.0,S Duncan,0.0,1.0,1.0,9.0,A,10.0,2018-12-26,Preston,E1,4.0,6.0,6.0,22.0,A,7.0,Preston_Hull_2018
+284,1.0,Ipswich,17.0,3,0.0,0,2.0,K Stroud,0.0,0.0,2.0,14.0,H,7.0,2018-12-26,QPR,E1,2.0,8.0,5.0,13.0,H,5.0,QPR_Ipswich_2018
+285,3.0,Derby,13.0,3,0.0,1,1.0,G Eltringham,0.0,0.0,5.0,10.0,H,9.0,2018-12-26,Sheffield United,E1,3.0,6.0,2.0,16.0,H,6.0,Sheffield United_Derby_2018
+286,2.0,Aston Villa,8.0,0,0.0,1,0.0,R East,0.0,0.0,2.0,11.0,A,13.0,2018-12-26,Swansea,E1,5.0,5.0,9.0,19.0,D,4.0,Swansea_Aston Villa_2018
+287,2.0,Wigan,13.0,2,0.0,0,1.0,R Jones,0.0,0.0,2.0,13.0,H,18.0,2018-12-26,West Brom,E1,3.0,5.0,6.0,17.0,H,6.0,West Brom_Wigan_2018
+288,0.0,Brentford,13.0,0,0.0,0,0.0,P Bankes,0.0,0.0,5.0,12.0,D,7.0,2018-12-29,Birmingham,E1,2.0,1.0,4.0,5.0,D,3.0,Birmingham_Brentford_2018
+289,2.0,Stoke,15.0,0,0.0,0,0.0,K Stroud,0.0,0.0,3.0,9.0,D,11.0,2018-12-29,Bolton,E1,3.0,5.0,1.0,13.0,D,6.0,Bolton_Stoke_2018
+290,2.0,Rotherham,7.0,1,2.0,0,0.0,S Duncan,0.0,0.0,1.0,17.0,H,18.0,2018-12-29,Bristol City,E1,3.0,8.0,13.0,22.0,D,8.0,Bristol City_Rotherham_2018
+291,3.0,Hull,13.0,0,0.0,2,0.0,J Brooks,0.0,1.0,2.0,14.0,A,9.0,2018-12-29,Leeds,E1,3.0,7.0,8.0,22.0,A,2.0,Leeds_Hull_2018
+292,1.0,Ipswich,16.0,2,0.0,0,1.0,J Simpson,0.0,0.0,2.0,12.0,H,6.0,2018-12-29,Middlesbrough,E1,4.0,9.0,5.0,19.0,H,3.0,Middlesbrough_Ipswich_2018
+293,2.0,Nott'm Forest,11.0,1,0.0,0,1.0,T Harrington,0.0,0.0,2.0,8.0,H,9.0,2018-12-29,Millwall,E1,4.0,1.0,10.0,10.0,H,5.0,Millwall_Nott'm Forest_2018
+294,3.0,Derby,13.0,3,0.0,4,2.0,D Webb,0.0,2.0,3.0,12.0,A,19.0,2018-12-29,Norwich,E1,5.0,7.0,5.0,24.0,D,7.0,Norwich_Derby_2018
+295,2.0,Aston Villa,14.0,1,0.0,1,0.0,G Eltringham,0.0,1.0,2.0,10.0,D,15.0,2018-12-29,Preston,E1,5.0,4.0,6.0,13.0,A,5.0,Preston_Aston Villa_2018
+296,3.0,Reading,16.0,0,0.0,0,0.0,R Jones,0.0,0.0,2.0,12.0,D,13.0,2018-12-29,QPR,E1,5.0,4.0,7.0,16.0,D,7.0,QPR_Reading_2018
+297,4.0,Blackburn,18.0,3,1.0,0,0.0,A Taylor,1.0,0.0,1.0,9.0,H,10.0,2018-12-29,Sheffield United,E1,1.0,5.0,6.0,14.0,D,4.0,Sheffield United_Blackburn_2018
+298,3.0,Wigan,16.0,2,0.0,2,0.0,J Linington,0.0,2.0,4.0,18.0,D,16.0,2018-12-29,Swansea,E1,5.0,6.0,7.0,13.0,A,5.0,Swansea_Wigan_2018
+299,2.0,Sheffield Weds,6.0,1,0.0,1,0.0,A Davies,1.0,1.0,2.0,8.0,D,9.0,2018-12-29,West Brom,E1,5.0,3.0,10.0,10.0,A,4.0,West Brom_Sheffield Weds_2018
+300,2.0,QPR,10.0,2,0.0,2,1.0,J Linington,0.0,1.0,5.0,21.0,D,11.0,2019-01-01,Aston Villa,E1,4.0,5.0,9.0,22.0,D,1.0,Aston Villa_QPR_2018
+301,3.0,West Brom,14.0,2,1.0,1,0.0,O Langford,0.0,0.0,3.0,12.0,H,14.0,2019-01-01,Blackburn,E1,6.0,4.0,3.0,10.0,D,6.0,Blackburn_West Brom_2018
+302,4.0,Norwich,10.0,1,0.0,1,1.0,G Ward,0.0,0.0,2.0,16.0,D,8.0,2019-01-01,Brentford,E1,3.0,4.0,5.0,16.0,H,8.0,Brentford_Norwich_2018
+303,0.0,Middlesbrough,8.0,1,0.0,1,1.0,R Jones,0.0,0.0,2.0,12.0,D,11.0,2019-01-01,Derby,E1,2.0,2.0,4.0,8.0,H,5.0,Derby_Middlesbrough_2018
+304,2.0,Bolton,16.0,6,0.0,0,1.0,T Harrington,0.0,0.0,2.0,12.0,H,5.0,2019-01-01,Hull,E1,0.0,10.0,6.0,20.0,H,1.0,Hull_Bolton_2018
+305,0.0,Millwall,8.0,2,0.0,3,1.0,S Martin,0.0,0.0,1.0,13.0,A,10.0,2019-01-01,Ipswich,E1,4.0,5.0,6.0,14.0,H,3.0,Ipswich_Millwall_2018
+306,2.0,Leeds,13.0,4,1.0,2,1.0,D England,0.0,0.0,0.0,13.0,H,14.0,2019-01-01,Nott'm Forest,E1,7.0,6.0,6.0,13.0,H,8.0,Nott'm Forest_Leeds_2018
+307,2.0,Swansea,13.0,1,0.0,4,0.0,T Robinson,0.0,3.0,1.0,12.0,A,8.0,2019-01-01,Reading,E1,5.0,5.0,7.0,16.0,A,1.0,Reading_Swansea_2018
+308,5.0,Preston,13.0,2,0.0,1,1.0,L Probert,0.0,0.0,1.0,9.0,H,17.0,2019-01-01,Rotherham,E1,5.0,3.0,3.0,8.0,H,5.0,Rotherham_Preston_2018
+309,1.0,Birmingham,13.0,1,0.0,1,1.0,A Woolmer,0.0,0.0,3.0,15.0,D,11.0,2019-01-01,Sheffield Weds,E1,1.0,7.0,6.0,15.0,H,4.0,Sheffield Weds_Birmingham_2018
+310,3.0,Bristol City,17.0,0,0.0,2,0.0,P Tierney,0.0,1.0,1.0,15.0,A,6.0,2019-01-01,Stoke,E1,2.0,7.0,7.0,16.0,A,0.0,Stoke_Bristol City_2018
+311,2.0,Sheffield United,7.0,0,0.0,3,0.0,A Madley,0.0,1.0,2.0,14.0,A,13.0,2019-01-01,Wigan,E1,4.0,2.0,7.0,13.0,A,8.0,Wigan_Sheffield United_2018
+312,1.0,Derby,12.0,2,0.0,0,1.0,A Davies,0.0,0.0,4.0,14.0,H,7.0,2019-01-11,Leeds,E1,2.0,5.0,8.0,15.0,H,2.0,Leeds_Derby_2018
+313,2.0,Middlesbrough,11.0,1,0.0,2,0.0,G Scott,0.0,1.0,1.0,11.0,A,8.0,2019-01-12,Birmingham,E1,5.0,4.0,2.0,15.0,A,4.0,Birmingham_Middlesbrough_2018
+314,0.0,Stoke,13.0,3,0.0,1,2.0,T Robinson,0.0,1.0,2.0,13.0,H,2.0,2019-01-12,Brentford,E1,1.0,5.0,6.0,16.0,H,3.0,Brentford_Stoke_2018
+315,0.0,Bolton,11.0,2,0.0,1,0.0,S Martin,0.0,0.0,2.0,18.0,H,8.0,2019-01-12,Bristol City,E1,4.0,5.0,9.0,20.0,D,0.0,Bristol City_Bolton_2018
+316,0.0,Sheffield Weds,5.0,3,0.0,0,1.0,G Eltringham,0.0,0.0,2.0,13.0,H,3.0,2019-01-12,Hull,E1,0.0,7.0,5.0,17.0,H,1.0,Hull_Sheffield Weds_2018
+317,2.0,Rotherham,17.0,1,0.0,0,1.0,J Linington,0.0,0.0,1.0,10.0,H,18.0,2019-01-12,Ipswich,E1,2.0,1.0,1.0,3.0,H,4.0,Ipswich_Rotherham_2018
+318,0.0,Blackburn,14.0,0,0.0,2,0.0,R Jones,0.0,0.0,0.0,13.0,A,5.0,2019-01-12,Millwall,E1,2.0,2.0,2.0,7.0,D,1.0,Millwall_Blackburn_2018
+319,0.0,Swansea,16.0,1,0.0,1,0.0,K Stroud,1.0,0.0,3.0,16.0,D,12.0,2019-01-12,Preston,E1,3.0,5.0,3.0,8.0,D,4.0,Preston_Swansea_2018
+320,3.0,Nott'm Forest,14.0,2,1.0,0,1.0,O Langford,0.0,0.0,3.0,16.0,H,8.0,2019-01-12,Reading,E1,3.0,5.0,6.0,13.0,H,2.0,Reading_Nott'm Forest_2018
+321,2.0,QPR,18.0,1,0.0,0,1.0,A Woolmer,0.0,0.0,1.0,11.0,H,6.0,2019-01-12,Sheffield United,E1,2.0,2.0,6.0,10.0,H,2.0,Sheffield United_QPR_2018
+322,3.0,Norwich,15.0,1,0.0,1,1.0,D England,0.0,0.0,4.0,12.0,D,12.0,2019-01-12,West Brom,E1,4.0,5.0,6.0,14.0,H,5.0,West Brom_Norwich_2018
+323,3.0,Aston Villa,12.0,3,0.0,0,1.0,T Harrington,0.0,0.0,2.0,13.0,H,4.0,2019-01-12,Wigan,E1,0.0,6.0,8.0,13.0,H,6.0,Wigan_Aston Villa_2018
+324,0.0,Birmingham,5.0,3,0.0,1,3.0,T Robinson,0.0,1.0,4.0,22.0,H,8.0,2019-01-18,Norwich,E1,4.0,4.0,5.0,10.0,H,6.0,Norwich_Birmingham_2018
+325,2.0,Hull,14.0,2,0.0,2,1.0,D Bond,0.0,2.0,3.0,11.0,D,12.0,2019-01-19,Aston Villa,E1,4.0,2.0,7.0,18.0,A,5.0,Aston Villa_Hull_2018
+326,2.0,Ipswich,14.0,2,0.0,0,0.0,D England,0.0,0.0,1.0,18.0,H,11.0,2019-01-19,Blackburn,E1,3.0,4.0,6.0,16.0,D,5.0,Blackburn_Ipswich_2018
+327,2.0,Reading,9.0,2,0.0,1,2.0,A Woolmer,0.0,0.0,1.0,10.0,H,9.0,2019-01-19,Derby,E1,2.0,4.0,4.0,10.0,H,3.0,Derby_Reading_2018
+328,3.0,Millwall,13.0,1,0.0,1,0.0,K Stroud,0.0,1.0,1.0,10.0,D,7.0,2019-01-19,Middlesbrough,E1,3.0,2.0,8.0,16.0,A,4.0,Middlesbrough_Millwall_2018
+329,2.0,Bristol City,12.0,0,0.0,1,0.0,J Simpson,0.0,0.0,0.0,8.0,A,13.0,2019-01-19,Nott'm Forest,E1,7.0,4.0,10.0,15.0,D,4.0,Nott'm Forest_Bristol City_2018
+330,3.0,Preston,10.0,1,0.0,4,0.0,A Madley,0.0,1.0,2.0,12.0,A,13.0,2019-01-19,QPR,E1,6.0,5.0,5.0,13.0,A,6.0,QPR_Preston_2018
+331,1.0,Brentford,12.0,2,0.0,4,1.0,T Harrington,0.0,1.0,0.0,12.0,A,15.0,2019-01-19,Rotherham,E1,7.0,4.0,5.0,13.0,D,1.0,Rotherham_Brentford_2018
+332,0.0,Wigan,12.0,1,0.0,0,0.0,P Bankes,0.0,0.0,2.0,16.0,H,8.0,2019-01-19,Sheffield Weds,E1,1.0,8.0,9.0,21.0,D,1.0,Sheffield Weds_Wigan_2018
+333,1.0,Leeds,11.0,2,1.0,1,0.0,G Ward,0.0,0.0,2.0,10.0,H,17.0,2019-01-19,Stoke,E1,4.0,5.0,6.0,12.0,D,8.0,Stoke_Leeds_2018
+334,0.0,Sheffield United,8.0,1,0.0,0,0.0,J Brooks,0.0,0.0,4.0,17.0,H,12.0,2019-01-19,Swansea,E1,4.0,3.0,3.0,11.0,D,7.0,Swansea_Sheffield United_2018
+335,2.0,West Brom,16.0,0,0.0,2,0.0,D Webb,0.0,1.0,2.0,8.0,A,12.0,2019-01-21,Bolton,E1,3.0,3.0,10.0,10.0,A,5.0,Bolton_West Brom_2018
+336,3.0,Ipswich,14.0,2,0.0,1,1.0,K Stroud,0.0,0.0,1.0,19.0,H,8.0,2019-01-26,Aston Villa,E1,4.0,13.0,9.0,23.0,H,3.0,Aston Villa_Ipswich_2018
+337,1.0,Hull,15.0,3,0.0,0,2.0,J Simpson,0.0,0.0,1.0,9.0,H,4.0,2019-01-26,Blackburn,E1,2.0,4.0,6.0,11.0,H,3.0,Blackburn_Hull_2018
+338,3.0,Sheffield United,16.0,2,0.0,2,1.0,J Linington,0.0,1.0,2.0,14.0,D,17.0,2019-01-26,Norwich,E1,3.0,5.0,10.0,7.0,D,3.0,Norwich_Sheffield United_2018
+339,4.0,Wigan,16.0,3,0.0,1,1.0,A Davies,0.0,1.0,2.0,13.0,H,12.0,2019-01-26,Nott'm Forest,E1,7.0,3.0,3.0,12.0,D,4.0,Nott'm Forest_Wigan_2018
+340,1.0,Leeds,16.0,1,0.0,2,1.0,T Robinson,0.0,0.0,2.0,13.0,A,14.0,2019-01-26,Rotherham,E1,4.0,3.0,4.0,5.0,H,5.0,Rotherham_Leeds_2018
+341,2.0,Preston,11.0,0,0.0,2,0.0,O Langford,0.0,1.0,1.0,11.0,A,12.0,2019-01-26,Stoke,E1,5.0,1.0,9.0,10.0,A,8.0,Stoke_Preston_2018
+342,2.0,Reading,12.0,1,0.0,1,0.0,S Duncan,0.0,0.0,3.0,11.0,D,16.0,2019-01-29,Bolton,E1,7.0,6.0,3.0,13.0,D,2.0,Bolton_Reading_2018
+343,2.0,Birmingham,15.0,3,1.0,3,1.0,S Martin,0.0,1.0,4.0,15.0,D,9.0,2019-01-29,Swansea,E1,3.0,7.0,12.0,16.0,D,4.0,Swansea_Birmingham_2018
+344,1.0,Derby,8.0,0,0.0,0,0.0,D Bond,0.0,0.0,1.0,17.0,D,7.0,2019-02-01,Preston,E1,0.0,3.0,11.0,23.0,D,1.0,Preston_Derby_2018
+345,2.0,Nott'm Forest,13.0,2,1.0,0,1.0,D Webb,0.0,0.0,1.0,11.0,H,12.0,2019-02-02,Birmingham,E1,3.0,5.0,4.0,14.0,H,5.0,Birmingham_Nott'm Forest_2018
+346,1.0,Blackburn,6.0,5,0.0,2,1.0,A Davies,0.0,2.0,1.0,12.0,H,10.0,2019-02-02,Brentford,E1,4.0,9.0,5.0,20.0,A,5.0,Brentford_Blackburn_2018
+347,0.0,Swansea,9.0,2,0.0,0,0.0,A Woolmer,0.0,0.0,1.0,10.0,H,11.0,2019-02-02,Bristol City,E1,4.0,4.0,6.0,13.0,D,3.0,Bristol City_Swansea_2018
+348,2.0,Stoke,11.0,2,0.0,0,1.0,P Bankes,0.0,0.0,2.0,15.0,H,9.0,2019-02-02,Hull,E1,2.0,3.0,3.0,7.0,H,3.0,Hull_Stoke_2018
+349,1.0,Sheffield Weds,16.0,0,0.0,1,0.0,O Langford,0.0,0.0,2.0,16.0,A,17.0,2019-02-02,Ipswich,E1,3.0,2.0,3.0,8.0,D,2.0,Ipswich_Sheffield Weds_2018
+350,3.0,Norwich,16.0,1,0.0,3,0.0,S Attwell,0.0,2.0,2.0,14.0,A,14.0,2019-02-02,Leeds,E1,5.0,6.0,4.0,21.0,A,4.0,Leeds_Norwich_2018
+351,0.0,Rotherham,16.0,0,0.0,0,0.0,A Madley,0.0,0.0,4.0,21.0,D,8.0,2019-02-02,Millwall,E1,3.0,1.0,7.0,9.0,D,6.0,Millwall_Rotherham_2018
+352,3.0,Aston Villa,16.0,0,0.0,0,0.0,G Eltringham,0.0,0.0,4.0,17.0,D,13.0,2019-02-02,Reading,E1,3.0,2.0,5.0,7.0,D,6.0,Reading_Aston Villa_2018
+353,0.0,Bolton,8.0,2,0.0,0,0.0,K Stroud,0.0,0.0,1.0,14.0,H,6.0,2019-02-02,Sheffield United,E1,1.0,2.0,13.0,12.0,D,3.0,Sheffield United_Bolton_2018
+354,1.0,Middlesbrough,6.0,2,0.0,3,1.0,T Robinson,0.0,1.0,4.0,21.0,A,14.0,2019-02-02,West Brom,E1,5.0,6.0,9.0,19.0,D,1.0,West Brom_Middlesbrough_2018
+355,3.0,QPR,11.0,2,0.0,1,1.0,S Duncan,0.0,0.0,1.0,12.0,H,21.0,2019-02-02,Wigan,E1,5.0,3.0,3.0,7.0,H,6.0,Wigan_QPR_2018
+356,3.0,Sheffield United,11.0,3,0.0,3,0.0,T Harrington,0.0,1.0,3.0,17.0,D,11.0,2019-02-08,Aston Villa,E1,7.0,4.0,2.0,11.0,A,2.0,Aston Villa_Sheffield United_2018
+357,1.0,Bristol City,8.0,0,0.0,1,0.0,J Linington,0.0,0.0,3.0,7.0,A,13.0,2019-02-09,Blackburn,E1,6.0,2.0,4.0,10.0,D,8.0,Blackburn_Bristol City_2018
+358,2.0,Preston,13.0,1,0.0,2,0.0,A Madley,0.0,1.0,0.0,5.0,A,16.0,2019-02-09,Bolton,E1,7.0,3.0,4.0,7.0,A,10.0,Bolton_Preston_2018
+359,1.0,Hull,8.0,2,0.0,0,1.0,G Ward,0.0,0.0,1.0,11.0,H,7.0,2019-02-09,Derby,E1,1.0,10.0,5.0,20.0,H,3.0,Derby_Hull_2018
+360,2.0,Leeds,11.0,1,0.0,1,0.0,D England,0.0,0.0,1.0,8.0,D,17.0,2019-02-09,Middlesbrough,E1,4.0,3.0,2.0,9.0,D,9.0,Middlesbrough_Leeds_2018
+361,2.0,Brentford,14.0,2,0.0,1,1.0,R Jones,0.0,0.0,1.0,13.0,H,21.0,2019-02-09,Nott'm Forest,E1,7.0,6.0,2.0,9.0,H,10.0,Nott'm Forest_Brentford_2018
+362,1.0,Birmingham,14.0,3,0.0,4,1.0,D Bond,0.0,4.0,1.0,15.0,A,12.0,2019-02-09,QPR,E1,7.0,11.0,6.0,20.0,A,3.0,QPR_Birmingham_2018
+363,1.0,Wigan,17.0,1,0.0,1,1.0,O Langford,0.0,1.0,3.0,12.0,D,8.0,2019-02-09,Rotherham,E1,3.0,5.0,12.0,17.0,D,2.0,Rotherham_Wigan_2018
+364,0.0,Reading,11.0,0,0.0,0,0.0,J Brooks,0.0,0.0,0.0,10.0,D,12.0,2019-02-09,Sheffield Weds,E1,5.0,7.0,5.0,20.0,D,6.0,Sheffield Weds_Reading_2018
+365,1.0,West Brom,11.0,0,0.0,1,0.0,J Simpson,0.0,1.0,2.0,11.0,A,11.0,2019-02-09,Stoke,E1,2.0,1.0,5.0,13.0,A,4.0,Stoke_West Brom_2018
+366,0.0,Millwall,8.0,1,0.0,0,1.0,K Friend,0.0,0.0,2.0,10.0,H,11.0,2019-02-09,Swansea,E1,3.0,5.0,9.0,15.0,H,5.0,Swansea_Millwall_2018
+367,4.0,Ipswich,14.0,3,0.0,0,1.0,P Bankes,0.0,0.0,3.0,19.0,H,15.0,2019-02-10,Norwich,E1,2.0,3.0,5.0,11.0,H,7.0,Norwich_Ipswich_2018
+368,1.0,Bolton,10.0,0,0.0,1,0.0,A Davies,0.0,0.0,2.0,14.0,A,6.0,2019-02-12,Birmingham,E1,2.0,3.0,3.0,13.0,D,4.0,Birmingham_Bolton_2018
+369,2.0,QPR,12.0,2,0.0,1,0.0,T Harrington,0.0,1.0,6.0,21.0,H,11.0,2019-02-12,Bristol City,E1,3.0,7.0,8.0,15.0,A,1.0,Bristol City_QPR_2018
+370,0.0,Rotherham,6.0,2,0.0,2,2.0,S Duncan,0.0,0.0,1.0,13.0,D,14.0,2019-02-12,Hull,E1,5.0,3.0,5.0,8.0,H,5.0,Hull_Rotherham_2018
+371,1.0,Sheffield Weds,14.0,0,0.0,0,0.0,T Robinson,0.0,0.0,2.0,13.0,D,9.0,2019-02-12,Millwall,E1,2.0,6.0,5.0,10.0,D,4.0,Millwall_Sheffield Weds_2018
+372,2.0,Nott'm Forest,12.0,2,0.0,2,0.0,L Mason,0.0,1.0,2.0,11.0,D,7.0,2019-02-12,West Brom,E1,3.0,4.0,7.0,14.0,A,3.0,West Brom_Nott'm Forest_2018
+373,0.0,Aston Villa,7.0,1,0.0,0,0.0,G Ward,0.0,0.0,1.0,10.0,H,6.0,2019-02-13,Brentford,E1,3.0,6.0,8.0,23.0,D,5.0,Brentford_Aston Villa_2018
+374,3.0,Derby,18.0,1,0.0,1,0.0,A Madley,0.0,1.0,4.0,16.0,D,15.0,2019-02-13,Ipswich,E1,5.0,3.0,7.0,16.0,A,4.0,Ipswich_Derby_2018
+375,1.0,Swansea,12.0,2,0.0,1,2.0,D Webb,0.0,0.0,0.0,5.0,H,9.0,2019-02-13,Leeds,E1,4.0,7.0,6.0,19.0,H,4.0,Leeds_Swansea_2018
+376,3.0,Norwich,13.0,3,0.0,1,2.0,G Eltringham,0.0,0.0,2.0,13.0,H,22.0,2019-02-13,Preston,E1,10.0,4.0,3.0,11.0,H,8.0,Preston_Norwich_2018
+377,1.0,Blackburn,13.0,2,0.0,1,1.0,S Martin,0.0,0.0,1.0,6.0,H,15.0,2019-02-13,Reading,E1,5.0,4.0,4.0,12.0,H,5.0,Reading_Blackburn_2018
+378,2.0,Middlesbrough,6.0,1,1.0,0,0.0,A Woolmer,0.0,0.0,1.0,14.0,H,10.0,2019-02-13,Sheffield United,E1,4.0,5.0,4.0,15.0,D,4.0,Sheffield United_Middlesbrough_2018
+379,1.0,Stoke,11.0,0,0.0,0,0.0,K Stroud,0.0,0.0,3.0,13.0,D,11.0,2019-02-13,Wigan,E1,2.0,3.0,6.0,8.0,D,7.0,Wigan_Stoke_2018
+380,3.0,West Brom,9.0,0,0.0,2,0.0,J Linington,0.0,2.0,2.0,14.0,A,10.0,2019-02-16,Aston Villa,E1,3.0,2.0,9.0,11.0,A,2.0,Aston Villa_West Brom_2018
+381,1.0,Norwich,20.0,0,0.0,4,0.0,A Woolmer,0.0,3.0,0.0,14.0,A,23.0,2019-02-16,Bolton,E1,12.0,3.0,3.0,12.0,A,8.0,Bolton_Norwich_2018
+382,0.0,Stoke,12.0,1,0.0,1,0.0,S Duncan,0.0,1.0,1.0,8.0,D,11.0,2019-02-16,Ipswich,E1,1.0,3.0,5.0,9.0,A,6.0,Ipswich_Stoke_2018
+383,1.0,Nott'm Forest,10.0,0,0.0,0,0.0,T Robinson,0.0,0.0,0.0,18.0,D,10.0,2019-02-16,Preston,E1,2.0,3.0,4.0,10.0,D,6.0,Preston_Nott'm Forest_2018
+384,4.0,Sheffield Weds,15.0,2,1.0,2,1.0,D England,0.0,1.0,1.0,13.0,D,11.0,2019-02-16,Rotherham,E1,4.0,6.0,5.0,25.0,D,4.0,Rotherham_Sheffield Weds_2018
+385,2.0,Reading,14.0,4,0.0,0,3.0,R Jones,0.0,0.0,1.0,12.0,H,10.0,2019-02-16,Sheffield United,E1,2.0,10.0,4.0,14.0,H,5.0,Sheffield United_Reading_2018
+386,1.0,Middlesbrough,8.0,0,0.0,1,0.0,D Bond,1.0,1.0,0.0,9.0,A,26.0,2019-02-17,Blackburn,E1,7.0,1.0,4.0,5.0,A,5.0,Blackburn_Middlesbrough_2018
+387,0.0,West Brom,12.0,2,0.0,3,1.0,J Brooks,0.0,1.0,1.0,9.0,A,11.0,2019-02-19,QPR,E1,6.0,4.0,4.0,13.0,D,9.0,QPR_West Brom_2018
+388,2.0,Millwall,13.0,0,0.0,1,0.0,J Linington,0.0,0.0,3.0,11.0,A,4.0,2019-02-20,Derby,E1,1.0,1.0,6.0,13.0,D,1.0,Derby_Millwall_2018
+389,0.0,Blackburn,11.0,2,0.0,2,1.0,P Bankes,0.0,0.0,2.0,18.0,D,6.0,2019-02-23,Birmingham,E1,3.0,7.0,8.0,16.0,H,3.0,Birmingham_Blackburn_2018
+390,1.0,Hull,10.0,5,0.0,1,3.0,T Robinson,0.0,1.0,3.0,18.0,H,7.0,2019-02-23,Brentford,E1,3.0,10.0,3.0,25.0,H,6.0,Brentford_Hull_2018
+391,1.0,Bolton,10.0,2,0.0,1,1.0,T Harrington,0.0,1.0,4.0,14.0,H,12.0,2019-02-23,Leeds,E1,6.0,8.0,8.0,21.0,D,4.0,Leeds_Bolton_2018
+392,2.0,QPR,13.0,2,0.0,0,2.0,A Madley,0.0,0.0,1.0,11.0,H,9.0,2019-02-23,Middlesbrough,E1,4.0,4.0,4.0,10.0,H,3.0,Middlesbrough_QPR_2018
+393,2.0,Preston,12.0,1,0.0,3,0.0,S Martin,0.0,3.0,1.0,11.0,A,12.0,2019-02-23,Millwall,E1,5.0,3.0,4.0,12.0,A,6.0,Millwall_Preston_2018
+394,1.0,Bristol City,7.0,3,0.0,2,1.0,G Ward,0.0,2.0,3.0,17.0,H,12.0,2019-02-23,Norwich,E1,6.0,8.0,10.0,23.0,A,4.0,Norwich_Bristol City_2018
+395,1.0,Rotherham,10.0,1,0.0,1,1.0,J Simpson,0.0,0.0,3.0,14.0,D,13.0,2019-02-23,Reading,E1,2.0,5.0,5.0,15.0,H,6.0,Reading_Rotherham_2018
+396,1.0,Swansea,7.0,3,0.0,1,3.0,G Eltringham,0.0,0.0,0.0,6.0,H,12.0,2019-02-23,Sheffield Weds,E1,6.0,7.0,4.0,16.0,H,1.0,Sheffield Weds_Swansea_2018
+397,3.0,Aston Villa,18.0,1,0.0,1,1.0,D Webb,0.0,0.0,1.0,13.0,D,10.0,2019-02-23,Stoke,E1,3.0,4.0,2.0,7.0,H,6.0,Stoke_Aston Villa_2018
+398,2.0,Sheffield United,8.0,0,0.0,1,0.0,O Langford,0.0,1.0,3.0,8.0,A,7.0,2019-02-23,West Brom,E1,4.0,3.0,5.0,17.0,A,3.0,West Brom_Sheffield United_2018
+399,2.0,Ipswich,3.0,1,1.0,1,0.0,L Probert,0.0,1.0,2.0,16.0,D,12.0,2019-02-23,Wigan,E1,4.0,6.0,5.0,27.0,A,4.0,Wigan_Ipswich_2018
+400,2.0,Derby,17.0,1,0.0,0,1.0,R Jones,0.0,0.0,3.0,13.0,H,6.0,2019-02-25,Nott'm Forest,E1,2.0,2.0,2.0,15.0,H,3.0,Nott'm Forest_Derby_2018
+401,3.0,Birmingham,12.0,1,0.0,2,0.0,G Eltringham,0.0,1.0,2.0,13.0,A,11.0,2019-02-26,Bristol City,E1,5.0,2.0,4.0,9.0,A,1.0,Bristol City_Birmingham_2018
+402,1.0,Millwall,10.0,2,0.0,1,2.0,D Bond,0.0,1.0,2.0,10.0,H,16.0,2019-02-26,Hull,E1,6.0,3.0,3.0,13.0,H,3.0,Hull_Millwall_2018
+403,4.0,Leeds,14.0,1,0.0,0,0.0,A Davies,0.0,0.0,1.0,14.0,H,11.0,2019-02-26,QPR,E1,4.0,5.0,2.0,13.0,D,13.0,QPR_Leeds_2018
+404,1.0,Brentford,12.0,2,0.0,0,1.0,S Duncan,0.0,0.0,0.0,9.0,H,8.0,2019-02-26,Sheffield Weds,E1,3.0,6.0,5.0,16.0,H,5.0,Sheffield Weds_Brentford_2018
+405,0.0,West Brom,13.0,4,0.0,0,2.0,T Robinson,0.0,0.0,1.0,14.0,H,7.0,2019-03-01,Leeds,E1,1.0,9.0,3.0,13.0,H,4.0,Leeds_West Brom_2018
+406,2.0,Derby,5.0,4,0.0,0,4.0,L Mason,0.0,0.0,2.0,14.0,H,3.0,2019-03-02,Aston Villa,E1,0.0,6.0,8.0,13.0,H,1.0,Aston Villa_Derby_2018
+407,2.0,QPR,10.0,3,0.0,0,0.0,K Stroud,0.0,0.0,2.0,17.0,H,10.0,2019-03-02,Brentford,E1,1.0,6.0,3.0,11.0,D,5.0,Brentford_QPR_2018
+408,2.0,Birmingham,7.0,2,0.0,0,1.0,T Harrington,0.0,0.0,1.0,17.0,H,18.0,2019-03-02,Hull,E1,5.0,7.0,1.0,12.0,H,8.0,Hull_Birmingham_2018
+409,3.0,Reading,19.0,1,0.0,2,0.0,G Eltringham,0.0,1.0,4.0,13.0,A,12.0,2019-03-02,Ipswich,E1,4.0,6.0,3.0,17.0,A,1.0,Ipswich_Reading_2018
+410,2.0,Norwich,11.0,1,0.0,3,1.0,D Webb,0.0,1.0,0.0,11.0,A,11.0,2019-03-02,Millwall,E1,7.0,8.0,8.0,17.0,D,6.0,Millwall_Norwich_2018
+411,0.0,Bristol City,9.0,1,0.0,1,1.0,J Simpson,0.0,0.0,3.0,16.0,D,15.0,2019-03-02,Preston,E1,3.0,3.0,5.0,17.0,H,5.0,Preston_Bristol City_2018
+412,3.0,Blackburn,10.0,3,0.0,2,1.0,J Brooks,0.0,0.0,1.0,10.0,H,15.0,2019-03-02,Rotherham,E1,5.0,4.0,1.0,13.0,H,4.0,Rotherham_Blackburn_2018
+413,2.0,Nott'm Forest,16.0,2,0.0,0,1.0,R East,0.0,0.0,2.0,12.0,H,14.0,2019-03-02,Stoke,E1,2.0,4.0,6.0,8.0,H,3.0,Stoke_Nott'm Forest_2018
+414,1.0,Bolton,9.0,2,2.0,0,0.0,G Ward,0.0,0.0,0.0,15.0,H,5.0,2019-03-02,Swansea,E1,3.0,11.0,6.0,29.0,D,1.0,Swansea_Bolton_2018
+415,1.0,Middlesbrough,11.0,0,0.0,0,0.0,S Martin,0.0,0.0,2.0,14.0,D,15.0,2019-03-02,Wigan,E1,1.0,2.0,5.0,6.0,D,7.0,Wigan_Middlesbrough_2018
+416,0.0,Sheffield United,16.0,0,0.0,0,0.0,P Bankes,0.0,0.0,0.0,18.0,D,7.0,2019-03-04,Sheffield Weds,E1,1.0,1.0,2.0,9.0,D,10.0,Sheffield Weds_Sheffield United_2018
+417,4.0,Wigan,16.0,2,0.0,1,0.0,T Harrington,0.0,1.0,1.0,13.0,H,13.0,2019-03-05,Derby,E1,3.0,5.0,6.0,17.0,A,5.0,Derby_Wigan_2018
+418,1.0,Swansea,13.0,1,0.0,0,0.0,R Jones,0.0,0.0,1.0,15.0,H,12.0,2019-03-08,Norwich,E1,5.0,1.0,7.0,8.0,D,8.0,Norwich_Swansea_2018
+419,2.0,Preston,11.0,0,1.0,1,0.0,O Langford,0.0,1.0,0.0,7.0,A,6.0,2019-03-09,Blackburn,E1,3.0,5.0,8.0,20.0,A,5.0,Blackburn_Preston_2018
+420,0.0,Millwall,11.0,2,0.0,1,0.0,S Hooper,0.0,0.0,3.0,17.0,H,11.0,2019-03-09,Bolton,E1,4.0,4.0,5.0,15.0,D,8.0,Bolton_Millwall_2018
+421,4.0,Leeds,15.0,0,0.0,1,0.0,P Bankes,0.0,1.0,4.0,18.0,A,16.0,2019-03-09,Bristol City,E1,3.0,1.0,1.0,4.0,A,2.0,Bristol City_Leeds_2018
+422,2.0,Sheffield Weds,12.0,1,0.0,1,1.0,K Stroud,0.0,0.0,3.0,18.0,D,13.0,2019-03-09,Derby,E1,3.0,5.0,6.0,10.0,H,2.0,Derby_Sheffield Weds_2018
+423,5.0,Brentford,14.0,1,0.0,2,1.0,J Simpson,0.0,0.0,1.0,10.0,A,14.0,2019-03-09,Middlesbrough,E1,3.0,6.0,3.0,19.0,H,3.0,Middlesbrough_Brentford_2018
+424,2.0,Hull,14.0,3,0.0,0,0.0,J Linington,0.0,0.0,1.0,15.0,H,10.0,2019-03-09,Nott'm Forest,E1,3.0,7.0,4.0,20.0,D,2.0,Nott'm Forest_Hull_2018
+425,1.0,Stoke,16.0,0,1.0,0,0.0,G Ward,1.0,0.0,2.0,9.0,D,7.0,2019-03-09,QPR,E1,0.0,4.0,8.0,17.0,D,1.0,QPR_Stoke_2018
+426,3.0,Wigan,12.0,3,0.0,2,1.0,A Davies,0.0,1.0,3.0,16.0,H,18.0,2019-03-09,Reading,E1,8.0,4.0,3.0,9.0,D,3.0,Reading_Wigan_2018
+427,0.0,Rotherham,9.0,2,1.0,0,1.0,G Eltringham,0.0,0.0,0.0,9.0,H,3.0,2019-03-09,Sheffield United,E1,0.0,11.0,5.0,19.0,H,3.0,Sheffield United_Rotherham_2018
+428,3.0,Ipswich,12.0,1,0.0,1,1.0,A Woolmer,0.0,0.0,2.0,9.0,D,22.0,2019-03-09,West Brom,E1,7.0,5.0,8.0,16.0,H,7.0,West Brom_Ipswich_2018
+429,3.0,Aston Villa,15.0,0,0.0,1,0.0,T Robinson,0.0,0.0,3.0,12.0,A,9.0,2019-03-10,Birmingham,E1,3.0,4.0,6.0,14.0,D,3.0,Birmingham_Aston Villa_2018
+430,3.0,Wigan,12.0,3,0.0,0,1.0,C Kavanagh,0.0,0.0,4.0,13.0,H,11.0,2019-03-12,Blackburn,E1,1.0,9.0,5.0,18.0,H,6.0,Blackburn_Wigan_2018
+431,0.0,Sheffield Weds,10.0,0,0.0,2,0.0,S Martin,0.0,1.0,0.0,18.0,A,10.0,2019-03-12,Bolton,E1,7.0,2.0,3.0,11.0,A,3.0,Bolton_Sheffield Weds_2018
+432,1.0,Ipswich,13.0,1,0.0,1,1.0,D Bond,0.0,0.0,3.0,11.0,D,7.0,2019-03-12,Bristol City,E1,4.0,1.0,5.0,12.0,H,5.0,Bristol City_Ipswich_2018
+433,1.0,Leeds,17.0,0,0.0,3,0.0,G Ward,0.0,3.0,3.0,12.0,A,13.0,2019-03-12,Reading,E1,6.0,5.0,3.0,9.0,A,3.0,Reading_Leeds_2018
+434,1.0,Brentford,6.0,2,0.0,0,1.0,T Harrington,1.0,0.0,0.0,8.0,H,29.0,2019-03-12,Sheffield United,E1,5.0,4.0,3.0,10.0,H,12.0,Sheffield United_Brentford_2018
+435,1.0,Millwall,13.0,0,0.0,2,0.0,J Brooks,0.0,2.0,2.0,12.0,A,6.0,2019-03-13,Birmingham,E1,2.0,1.0,7.0,11.0,A,3.0,Birmingham_Millwall_2018
+436,0.0,Stoke,9.0,0,0.0,0,0.0,O Langford,0.0,0.0,2.0,11.0,D,5.0,2019-03-13,Derby,E1,0.0,4.0,4.0,19.0,D,3.0,Derby_Stoke_2018
+437,0.0,Preston,9.0,1,0.0,2,1.0,K Stroud,1.0,0.0,2.0,8.0,A,17.0,2019-03-13,Middlesbrough,E1,6.0,4.0,10.0,22.0,H,7.0,Middlesbrough_Preston_2018
+438,1.0,Hull,11.0,3,0.0,2,2.0,A Madley,0.0,1.0,3.0,17.0,H,6.0,2019-03-13,Norwich,E1,2.0,7.0,8.0,17.0,H,2.0,Norwich_Hull_2018
+439,3.0,Aston Villa,17.0,1,0.0,3,1.0,M Dean,0.0,2.0,3.0,13.0,A,11.0,2019-03-13,Nott'm Forest,E1,4.0,2.0,8.0,14.0,A,6.0,Nott'm Forest_Aston Villa_2018
+440,2.0,Rotherham,13.0,1,0.0,2,0.0,D Webb,0.0,0.0,1.0,8.0,A,12.0,2019-03-13,QPR,E1,4.0,3.0,5.0,9.0,D,3.0,QPR_Rotherham_2018
+441,0.0,Swansea,10.0,3,0.0,0,1.0,S Duncan,0.0,0.0,0.0,5.0,H,15.0,2019-03-13,West Brom,E1,6.0,5.0,4.0,17.0,H,4.0,West Brom_Swansea_2018
+442,0.0,Middlesbrough,9.0,3,0.0,0,2.0,D Bond,0.0,0.0,1.0,16.0,H,4.0,2019-03-16,Aston Villa,E1,1.0,5.0,6.0,18.0,H,2.0,Aston Villa_Middlesbrough_2018
+443,2.0,West Brom,12.0,0,0.0,1,0.0,A Madley,0.0,0.0,1.0,15.0,A,11.0,2019-03-16,Brentford,E1,6.0,7.0,6.0,13.0,D,14.0,Brentford_West Brom_2018
+444,2.0,QPR,12.0,2,0.0,2,2.0,S Martin,0.0,0.0,3.0,16.0,D,16.0,2019-03-16,Hull,E1,5.0,6.0,4.0,14.0,H,4.0,Hull_QPR_2018
+445,0.0,Nott'm Forest,16.0,1,0.0,1,1.0,K Stroud,0.0,1.0,2.0,12.0,D,12.0,2019-03-16,Ipswich,E1,5.0,6.0,6.0,16.0,D,5.0,Ipswich_Nott'm Forest_2018
+446,0.0,Sheffield United,9.0,0,0.0,1,0.0,D Coote,1.0,0.0,2.0,12.0,A,10.0,2019-03-16,Leeds,E1,1.0,0.0,3.0,17.0,D,6.0,Leeds_Sheffield United_2018
+447,3.0,Birmingham,13.0,1,0.0,0,0.0,S Duncan,0.0,0.0,3.0,18.0,H,11.0,2019-03-16,Preston,E1,3.0,1.0,3.0,12.0,D,6.0,Preston_Birmingham_2018
+448,2.0,Norwich,13.0,1,0.0,2,0.0,O Langford,0.0,1.0,2.0,7.0,A,13.0,2019-03-16,Rotherham,E1,4.0,5.0,4.0,13.0,A,6.0,Rotherham_Norwich_2018
+449,4.0,Blackburn,14.0,4,0.0,2,1.0,J Linington,0.0,0.0,0.0,11.0,H,8.0,2019-03-16,Sheffield Weds,E1,4.0,4.0,2.0,10.0,H,3.0,Sheffield Weds_Blackburn_2018
+450,3.0,Reading,14.0,0,0.0,0,0.0,J Simpson,0.0,0.0,3.0,13.0,D,8.0,2019-03-16,Stoke,E1,1.0,3.0,6.0,11.0,D,2.0,Stoke_Reading_2018
+451,0.0,Bolton,13.0,5,0.0,2,1.0,R Jones,0.0,0.0,1.0,16.0,H,13.0,2019-03-16,Wigan,E1,4.0,7.0,4.0,10.0,H,9.0,Wigan_Bolton_2018
+452,2.0,Birmingham,7.0,3,0.0,2,0.0,D Webb,0.0,1.0,4.0,13.0,H,12.0,2019-03-29,West Brom,E1,4.0,3.0,6.0,11.0,A,7.0,West Brom_Birmingham_2018
+453,1.0,Blackburn,8.0,2,0.0,1,1.0,R Jones,0.0,0.0,1.0,15.0,H,12.0,2019-03-30,Aston Villa,E1,2.0,10.0,4.0,15.0,H,5.0,Aston Villa_Blackburn_2018
+454,0.0,Rotherham,9.0,6,0.0,1,3.0,T Robinson,0.0,0.0,1.0,12.0,H,8.0,2019-03-30,Derby,E1,4.0,7.0,1.0,15.0,H,5.0,Derby_Rotherham_2018
+455,1.0,Hull,13.0,0,0.0,2,0.0,J Brooks,0.0,1.0,2.0,7.0,A,7.0,2019-03-30,Ipswich,E1,3.0,6.0,5.0,15.0,A,3.0,Ipswich_Hull_2018
+456,3.0,Millwall,14.0,3,0.0,2,1.0,D Bond,0.0,1.0,4.0,11.0,H,7.0,2019-03-30,Leeds,E1,3.0,8.0,7.0,18.0,D,2.0,Leeds_Millwall_2018
+457,3.0,Norwich,17.0,0,0.0,1,0.0,D Coote,0.0,0.0,4.0,9.0,A,16.0,2019-03-30,Middlesbrough,E1,5.0,6.0,4.0,17.0,D,6.0,Middlesbrough_Norwich_2018
+458,4.0,Swansea,15.0,2,0.0,1,0.0,J Simpson,0.0,0.0,1.0,8.0,H,14.0,2019-03-30,Nott'm Forest,E1,6.0,3.0,7.0,11.0,D,5.0,Nott'm Forest_Swansea_2018
+459,0.0,Bolton,9.0,1,0.0,2,0.0,G Eltringham,0.0,1.0,1.0,12.0,A,12.0,2019-03-30,QPR,E1,6.0,7.0,9.0,21.0,A,1.0,QPR_Bolton_2018
+460,0.0,Preston,10.0,2,0.0,1,2.0,T Harrington,0.0,0.0,1.0,8.0,H,11.0,2019-03-30,Reading,E1,2.0,3.0,1.0,13.0,H,6.0,Reading_Preston_2018
+461,1.0,Bristol City,11.0,2,0.0,3,1.0,J Linington,0.0,1.0,4.0,10.0,A,14.0,2019-03-30,Sheffield United,E1,9.0,5.0,4.0,12.0,D,2.0,Sheffield United_Bristol City_2018
+462,1.0,Sheffield Weds,9.0,0,0.0,0,0.0,A Madley,0.0,0.0,3.0,18.0,D,3.0,2019-03-30,Stoke,E1,1.0,3.0,13.0,12.0,D,2.0,Stoke_Sheffield Weds_2018
+463,1.0,Brentford,19.0,0,0.0,0,0.0,A Woolmer,0.0,0.0,2.0,14.0,D,13.0,2019-03-30,Wigan,E1,1.0,3.0,6.0,10.0,D,5.0,Wigan_Brentford_2018
+464,1.0,Bristol City,10.0,0,0.0,1,0.0,G Ward,0.0,1.0,3.0,9.0,A,15.0,2019-04-02,Middlesbrough,E1,5.0,7.0,5.0,23.0,A,6.0,Middlesbrough_Bristol City_2018
+465,0.0,Brentford,9.0,3,0.0,0,2.0,P Bankes,0.0,0.0,4.0,15.0,H,6.0,2019-04-02,Swansea,E1,1.0,6.0,1.0,13.0,H,2.0,Swansea_Brentford_2018
+466,1.0,Leeds,11.0,1,0.0,0,1.0,M Dean,0.0,0.0,3.0,13.0,H,9.0,2019-04-06,Birmingham,E1,1.0,7.0,4.0,10.0,H,8.0,Birmingham_Leeds_2018
+467,2.0,Stoke,12.0,0,0.0,1,0.0,G Eltringham,0.0,1.0,0.0,9.0,A,8.0,2019-04-06,Blackburn,E1,3.0,3.0,5.0,11.0,A,4.0,Blackburn_Stoke_2018
+468,0.0,Ipswich,16.0,1,0.0,2,0.0,P Bankes,0.0,2.0,0.0,20.0,A,5.0,2019-04-06,Bolton,E1,3.0,2.0,5.0,12.0,A,4.0,Bolton_Ipswich_2018
+469,3.0,Derby,17.0,3,0.0,3,2.0,J Brooks,0.0,2.0,5.0,22.0,D,12.0,2019-04-06,Brentford,E1,8.0,6.0,7.0,15.0,D,3.0,Brentford_Derby_2018
+470,1.0,Wigan,12.0,2,0.0,2,0.0,K Stroud,0.0,1.0,1.0,14.0,D,17.0,2019-04-06,Bristol City,E1,6.0,6.0,13.0,15.0,A,8.0,Bristol City_Wigan_2018
+471,3.0,Reading,12.0,3,0.0,1,0.0,T Robinson,0.0,1.0,2.0,8.0,H,7.0,2019-04-06,Hull,E1,3.0,4.0,5.0,16.0,A,3.0,Hull_Reading_2018
+472,3.0,West Brom,10.0,2,1.0,0,1.0,J Linington,0.0,0.0,2.0,15.0,H,9.0,2019-04-06,Millwall,E1,1.0,6.0,6.0,16.0,H,7.0,Millwall_West Brom_2018
+473,0.0,QPR,8.0,4,0.0,0,3.0,S Duncan,1.0,0.0,2.0,25.0,H,6.0,2019-04-06,Norwich,E1,4.0,8.0,5.0,17.0,H,4.0,Norwich_QPR_2018
+474,3.0,Sheffield United,7.0,0,0.0,1,0.0,G Ward,0.0,1.0,1.0,16.0,A,15.0,2019-04-06,Preston,E1,5.0,3.0,5.0,11.0,A,8.0,Preston_Sheffield United_2018
+475,0.0,Nott'm Forest,10.0,2,0.0,1,1.0,S Martin,0.0,1.0,1.0,14.0,H,13.0,2019-04-06,Rotherham,E1,4.0,5.0,4.0,17.0,D,4.0,Rotherham_Nott'm Forest_2018
+476,1.0,Aston Villa,13.0,1,0.0,3,1.0,O Langford,0.0,1.0,3.0,8.0,A,9.0,2019-04-06,Sheffield Weds,E1,5.0,3.0,6.0,12.0,D,3.0,Sheffield Weds_Aston Villa_2018
+477,1.0,Middlesbrough,11.0,3,0.0,1,2.0,A Woolmer,0.0,0.0,1.0,13.0,H,13.0,2019-04-06,Swansea,E1,1.0,7.0,3.0,16.0,H,4.0,Swansea_Middlesbrough_2018
+478,2.0,Derby,10.0,2,0.0,0,0.0,J Simpson,0.0,0.0,0.0,13.0,H,6.0,2019-04-09,Blackburn,E1,1.0,5.0,9.0,23.0,D,3.0,Blackburn_Derby_2018
+479,0.0,Middlesbrough,11.0,0,0.0,2,0.0,S Martin,0.0,2.0,0.0,6.0,A,18.0,2019-04-09,Bolton,E1,5.0,2.0,8.0,14.0,A,9.0,Bolton_Middlesbrough_2018
+480,2.0,West Brom,8.0,3,0.0,2,3.0,S Hooper,0.0,0.0,1.0,15.0,H,13.0,2019-04-09,Bristol City,E1,5.0,6.0,4.0,14.0,H,5.0,Bristol City_West Brom_2018
+481,1.0,Leeds,7.0,0,0.0,2,0.0,R Jones,1.0,0.0,2.0,16.0,A,22.0,2019-04-09,Preston,E1,7.0,0.0,3.0,5.0,D,6.0,Preston_Leeds_2018
+482,2.0,Nott'm Forest,14.0,3,0.0,0,0.0,L Mason,0.0,0.0,2.0,15.0,H,14.0,2019-04-09,Sheffield Weds,E1,6.0,5.0,1.0,14.0,D,2.0,Sheffield Weds_Nott'm Forest_2018
+483,0.0,Stoke,5.0,3,2.0,1,2.0,J Linington,0.0,1.0,1.0,17.0,H,2.0,2019-04-09,Swansea,E1,1.0,8.0,6.0,31.0,H,1.0,Swansea_Stoke_2018
+484,2.0,Sheffield United,10.0,1,0.0,1,1.0,D Bond,0.0,1.0,0.0,9.0,D,8.0,2019-04-10,Birmingham,E1,3.0,5.0,5.0,8.0,D,4.0,Birmingham_Sheffield United_2018
+485,1.0,Ipswich,5.0,2,0.0,0,2.0,A Davies,0.0,0.0,1.0,17.0,H,4.0,2019-04-10,Brentford,E1,0.0,4.0,6.0,16.0,H,1.0,Brentford_Ipswich_2018
+486,2.0,Wigan,10.0,2,0.0,1,0.0,D Webb,0.0,1.0,1.0,15.0,H,11.0,2019-04-10,Hull,E1,2.0,4.0,12.0,14.0,A,2.0,Hull_Wigan_2018
+487,2.0,QPR,13.0,0,0.0,0,0.0,J Brooks,0.0,0.0,3.0,15.0,D,15.0,2019-04-10,Millwall,E1,3.0,3.0,9.0,7.0,D,3.0,Millwall_QPR_2018
+488,0.0,Reading,6.0,2,0.0,2,0.0,K Stroud,0.0,1.0,2.0,17.0,D,5.0,2019-04-10,Norwich,E1,2.0,7.0,13.0,23.0,A,2.0,Norwich_Reading_2018
+489,3.0,Aston Villa,17.0,1,1.0,2,1.0,A Madley,0.0,0.0,1.0,8.0,A,15.0,2019-04-10,Rotherham,E1,8.0,6.0,8.0,19.0,H,7.0,Rotherham_Aston Villa_2018
+490,1.0,Bristol City,7.0,2,0.0,1,0.0,S Duncan,0.0,0.0,6.0,13.0,H,11.0,2019-04-13,Aston Villa,E1,1.0,11.0,10.0,25.0,D,4.0,Aston Villa_Bristol City_2018
+491,1.0,Bolton,14.0,4,0.0,0,2.0,A Davies,0.0,0.0,1.0,8.0,H,8.0,2019-04-13,Derby,E1,2.0,9.0,10.0,20.0,H,3.0,Derby_Bolton_2018
+492,5.0,Birmingham,18.0,1,0.0,1,0.0,J Simpson,0.0,1.0,1.0,14.0,D,17.0,2019-04-13,Ipswich,E1,5.0,3.0,7.0,12.0,A,5.0,Ipswich_Birmingham_2018
+493,2.0,Sheffield Weds,7.0,1,0.0,0,0.0,T Robinson,0.0,0.0,2.0,13.0,H,8.0,2019-04-13,Leeds,E1,2.0,6.0,8.0,28.0,D,2.0,Leeds_Sheffield Weds_2018
+494,1.0,Hull,7.0,1,0.0,0,1.0,R Jones,0.0,0.0,1.0,10.0,H,15.0,2019-04-13,Middlesbrough,E1,4.0,4.0,4.0,15.0,H,5.0,Middlesbrough_Hull_2018
+495,2.0,Blackburn,12.0,1,0.0,2,0.0,D Bond,0.0,1.0,3.0,19.0,A,15.0,2019-04-13,Nott'm Forest,E1,9.0,1.0,3.0,22.0,A,5.0,Nott'm Forest_Blackburn_2018
+496,4.0,Swansea,13.0,4,0.0,0,3.0,A Madley,0.0,0.0,1.0,10.0,H,9.0,2019-04-13,QPR,E1,1.0,7.0,8.0,15.0,H,8.0,QPR_Swansea_2018
+497,4.0,Brentford,14.0,2,0.0,1,2.0,S Martin,0.0,1.0,1.0,14.0,H,15.0,2019-04-13,Reading,E1,8.0,4.0,3.0,11.0,H,12.0,Reading_Brentford_2018
+498,1.0,Millwall,9.0,1,0.0,1,0.0,D Webb,1.0,0.0,2.0,8.0,D,13.0,2019-04-13,Sheffield United,E1,7.0,2.0,10.0,14.0,D,7.0,Sheffield United_Millwall_2018
+499,0.0,Rotherham,9.0,2,0.0,2,2.0,A Woolmer,0.0,0.0,1.0,12.0,D,16.0,2019-04-13,Stoke,E1,7.0,3.0,4.0,4.0,H,8.0,Stoke_Rotherham_2018
+500,2.0,Preston,8.0,4,0.0,1,3.0,R East,0.0,0.0,1.0,7.0,H,10.0,2019-04-13,West Brom,E1,2.0,10.0,9.0,22.0,H,6.0,West Brom_Preston_2018
+501,2.0,Norwich,19.0,1,0.0,1,1.0,J Linington,0.0,0.0,2.0,13.0,D,13.0,2019-04-14,Wigan,E1,4.0,4.0,5.0,17.0,H,8.0,Wigan_Norwich_2018
+502,3.0,Derby,17.0,2,0.0,2,2.0,S Hooper,0.0,2.0,3.0,14.0,D,11.0,2019-04-19,Birmingham,E1,5.0,3.0,9.0,20.0,D,4.0,Birmingham_Derby_2018
+503,2.0,Aston Villa,16.0,0,0.0,2,0.0,J Brooks,0.0,0.0,1.0,8.0,A,21.0,2019-04-19,Bolton,E1,9.0,1.0,2.0,6.0,D,16.0,Bolton_Aston Villa_2018
+504,0.0,Reading,11.0,1,0.0,1,0.0,O Langford,0.0,0.0,0.0,6.0,D,8.0,2019-04-19,Bristol City,E1,4.0,6.0,9.0,17.0,D,6.0,Bristol City_Reading_2018
+505,3.0,Wigan,11.0,1,1.0,2,1.0,S Duncan,0.0,1.0,3.0,7.0,A,8.0,2019-04-19,Leeds,E1,2.0,10.0,15.0,16.0,D,2.0,Leeds_Wigan_2018
+506,1.0,Stoke,12.0,1,0.0,0,1.0,D Bond,0.0,0.0,1.0,8.0,H,14.0,2019-04-19,Middlesbrough,E1,1.0,2.0,2.0,7.0,H,10.0,Middlesbrough_Stoke_2018
+507,1.0,Brentford,9.0,1,1.0,1,1.0,J Simpson,0.0,1.0,3.0,8.0,D,10.0,2019-04-19,Millwall,E1,3.0,2.0,7.0,7.0,D,3.0,Millwall_Brentford_2018
+508,1.0,Sheffield Weds,13.0,2,0.0,2,1.0,G Eltringham,0.0,1.0,2.0,19.0,D,12.0,2019-04-19,Norwich,E1,6.0,5.0,13.0,15.0,D,2.0,Norwich_Sheffield Weds_2018
+509,0.0,Ipswich,8.0,4,0.0,0,2.0,S Martin,0.0,0.0,1.0,13.0,H,18.0,2019-04-19,Preston,E1,5.0,10.0,3.0,17.0,H,4.0,Preston_Ipswich_2018
+510,3.0,Blackburn,14.0,1,0.0,2,0.0,T Robinson,0.0,1.0,3.0,8.0,A,12.0,2019-04-19,QPR,E1,5.0,3.0,8.0,19.0,A,4.0,QPR_Blackburn_2018
+511,3.0,Nott'm Forest,16.0,2,1.0,0,0.0,A Madley,0.0,0.0,2.0,8.0,H,9.0,2019-04-19,Sheffield United,E1,1.0,4.0,9.0,14.0,D,2.0,Sheffield United_Nott'm Forest_2018
+512,0.0,Rotherham,4.0,4,0.0,3,1.0,K Stroud,0.0,2.0,1.0,13.0,H,16.0,2019-04-19,Swansea,E1,8.0,8.0,6.0,15.0,A,9.0,Swansea_Rotherham_2018
+513,0.0,Hull,9.0,3,0.0,2,1.0,P Bankes,0.0,0.0,0.0,13.0,H,11.0,2019-04-19,West Brom,E1,3.0,5.0,5.0,10.0,H,9.0,West Brom_Hull_2018
+514,2.0,Millwall,17.0,1,0.0,0,1.0,T Robinson,0.0,0.0,2.0,8.0,H,13.0,2019-04-22,Aston Villa,E1,1.0,7.0,12.0,18.0,H,3.0,Aston Villa_Millwall_2018
+515,0.0,Bolton,9.0,2,0.0,0,1.0,A Woolmer,0.0,0.0,0.0,8.0,H,13.0,2019-04-22,Blackburn,E1,4.0,6.0,3.0,15.0,H,2.0,Blackburn_Bolton_2018
+516,3.0,Leeds,10.0,2,0.0,0,1.0,K Friend,0.0,0.0,1.0,11.0,H,18.0,2019-04-22,Brentford,E1,3.0,3.0,5.0,12.0,H,10.0,Brentford_Leeds_2018
+517,1.0,QPR,10.0,2,0.0,0,0.0,D Webb,0.0,0.0,3.0,16.0,H,11.0,2019-04-22,Derby,E1,2.0,8.0,8.0,17.0,D,2.0,Derby_QPR_2018
+518,0.0,Sheffield United,5.0,0,0.0,3,0.0,G Scott,0.0,3.0,0.0,13.0,A,11.0,2019-04-22,Hull,E1,5.0,2.0,7.0,11.0,A,4.0,Hull_Sheffield United_2018
+519,2.0,Swansea,15.0,0,0.0,1,0.0,D England,0.0,0.0,3.0,7.0,A,17.0,2019-04-22,Ipswich,E1,5.0,2.0,4.0,13.0,D,4.0,Ipswich_Swansea_2018
+520,1.0,Middlesbrough,9.0,3,0.0,0,1.0,P Bankes,0.0,0.0,1.0,14.0,H,3.0,2019-04-22,Nott'm Forest,E1,1.0,9.0,7.0,20.0,H,2.0,Nott'm Forest_Middlesbrough_2018
+521,2.0,West Brom,13.0,0,0.0,0,0.0,G Ward,0.0,0.0,1.0,10.0,D,14.0,2019-04-22,Reading,E1,6.0,5.0,4.0,14.0,D,4.0,Reading_West Brom_2018
+522,3.0,Birmingham,14.0,1,0.0,3,1.0,A Davies,0.0,0.0,1.0,13.0,A,16.0,2019-04-22,Rotherham,E1,8.0,1.0,7.0,9.0,H,6.0,Rotherham_Birmingham_2018
+523,1.0,Bristol City,13.0,2,0.0,0,2.0,R Jones,0.0,0.0,2.0,14.0,H,13.0,2019-04-22,Sheffield Weds,E1,4.0,6.0,4.0,10.0,H,4.0,Sheffield Weds_Bristol City_2018
+524,0.0,Norwich,13.0,2,0.0,2,0.0,T Harrington,0.0,1.0,0.0,6.0,D,17.0,2019-04-22,Stoke,E1,5.0,9.0,5.0,18.0,A,7.0,Stoke_Norwich_2018
+525,1.0,Preston,12.0,2,1.0,0,1.0,A Madley,0.0,0.0,2.0,8.0,H,12.0,2019-04-22,Wigan,E1,1.0,5.0,2.0,14.0,H,8.0,Wigan_Preston_2018
+526,1.0,Wigan,14.0,1,0.0,1,1.0,S Martin,0.0,1.0,1.0,8.0,D,13.0,2019-04-27,Birmingham,E1,5.0,3.0,1.0,12.0,D,3.0,Birmingham_Wigan_2018
+527,,Brentford,,0,,1,,,,,,,A,,2019-04-27,Bolton,E1,,,,,,,Bolton_Brentford_2018
+528,0.0,Derby,8.0,0,0.0,2,0.0,D Bond,1.0,1.0,4.0,19.0,A,8.0,2019-04-27,Bristol City,E1,4.0,11.0,5.0,23.0,A,2.0,Bristol City_Derby_2018
+529,3.0,Reading,14.0,2,0.0,1,2.0,J jBrooks,0.0,1.0,1.0,12.0,H,12.0,2019-04-27,Middlesbrough,E1,4.0,6.0,7.0,18.0,H,4.0,Middlesbrough_Reading_2018
+530,1.0,Stoke,13.0,0,0.0,0,0.0,O Langford,0.0,0.0,2.0,10.0,D,12.0,2019-04-27,Millwall,E1,2.0,1.0,3.0,13.0,D,5.0,Millwall_Stoke_2018
+531,1.0,Blackburn,8.0,2,0.0,1,2.0,A Madley,0.0,1.0,3.0,8.0,H,8.0,2019-04-27,Norwich,E1,1.0,7.0,11.0,24.0,H,2.0,Norwich_Blackburn_2018
+532,1.0,Sheffield Weds,8.0,3,1.0,3,2.0,J Simpson,0.0,0.0,2.0,19.0,D,16.0,2019-04-27,Preston,E1,8.0,5.0,5.0,13.0,H,4.0,Preston_Sheffield Weds_2018
+533,1.0,Nott'm Forest,11.0,0,0.0,1,0.0,S Duncan,0.0,0.0,2.0,15.0,A,7.0,2019-04-27,QPR,E1,4.0,7.0,8.0,21.0,D,4.0,QPR_Nott'm Forest_2018
+534,0.0,Ipswich,17.0,2,0.0,0,1.0,T Robinson,0.0,0.0,1.0,10.0,H,4.0,2019-04-27,Sheffield United,E1,1.0,3.0,9.0,12.0,H,1.0,Sheffield United_Ipswich_2018
+535,1.0,Hull,7.0,2,0.0,2,1.0,G Eltringham,0.0,0.0,4.0,15.0,D,8.0,2019-04-27,Swansea,E1,4.0,7.0,10.0,14.0,H,6.0,Swansea_Hull_2018
+536,0.0,Rotherham,12.0,2,0.0,1,0.0,R Jones,0.0,0.0,2.0,16.0,H,13.0,2019-04-27,West Brom,E1,2.0,2.0,7.0,10.0,D,10.0,West Brom_Rotherham_2018
+537,4.0,Aston Villa,14.0,1,1.0,1,0.0,S Attwell,0.0,0.0,2.0,8.0,D,13.0,2019-04-28,Leeds,E1,4.0,5.0,7.0,27.0,D,3.0,Leeds_Aston Villa_2018
+538,0.0,Bristol City,12.0,1,0.0,2,1.0,A Madley,0.0,0.0,3.0,9.0,A,13.0,2019-04-30,Millwall,E1,4.0,5.0,3.0,16.0,H,4.0,Millwall_Bristol City_2018
+539,3.0,Derby,7.0,1,0.0,1,0.0,P Bankes,0.0,1.0,4.0,16.0,D,13.0,2019-05-01,Swansea,E1,4.0,6.0,4.0,12.0,A,8.0,Swansea_Derby_2018
+540,1.0,Norwich,12.0,1,0.0,2,1.0,P Bankes,0.0,1.0,3.0,13.0,A,23.0,2019-05-05,Aston Villa,E1,5.0,4.0,9.0,14.0,D,9.0,Aston Villa_Norwich_2018
+541,1.0,Swansea,9.0,2,0.0,2,1.0,J Gillett,0.0,2.0,1.0,9.0,D,10.0,2019-05-05,Blackburn,E1,3.0,4.0,11.0,11.0,A,3.0,Blackburn_Swansea_2018
+542,0.0,Preston,10.0,3,0.0,0,1.0,J Linington,0.0,0.0,2.0,11.0,H,8.0,2019-05-05,Brentford,E1,3.0,8.0,8.0,21.0,H,3.0,Brentford_Preston_2018
+543,1.0,West Brom,12.0,3,1.0,1,1.0,T Robinson,0.0,0.0,5.0,14.0,H,8.0,2019-05-05,Derby,E1,2.0,13.0,5.0,23.0,H,2.0,Derby_West Brom_2018
+544,2.0,Bristol City,15.0,1,0.0,1,0.0,J Brooks,0.0,0.0,2.0,8.0,D,15.0,2019-05-05,Hull,E1,2.0,3.0,3.0,15.0,D,6.0,Hull_Bristol City_2018
+545,2.0,Leeds,11.0,3,0.0,2,1.0,G Ward,1.0,1.0,1.0,11.0,H,27.0,2019-05-05,Ipswich,E1,7.0,3.0,2.0,6.0,D,11.0,Ipswich_Leeds_2018
+546,0.0,Bolton,10.0,1,0.0,0,1.0,O Langford,0.0,0.0,0.0,14.0,H,7.0,2019-05-05,Nott'm Forest,E1,2.0,3.0,3.0,12.0,H,3.0,Nott'm Forest_Bolton_2018
+547,0.0,Birmingham,8.0,0,0.0,0,0.0,K Stroud,0.0,0.0,1.0,14.0,D,19.0,2019-05-05,Reading,E1,4.0,3.0,5.0,15.0,D,5.0,Reading_Birmingham_2018
+548,0.0,Middlesbrough,12.0,1,0.0,2,0.0,A Madley,0.0,2.0,1.0,16.0,A,12.0,2019-05-05,Rotherham,E1,4.0,4.0,6.0,18.0,A,5.0,Rotherham_Middlesbrough_2018
+549,2.0,QPR,12.0,1,0.0,2,0.0,A Davies,0.0,1.0,2.0,17.0,A,16.0,2019-05-05,Sheffield Weds,E1,8.0,2.0,9.0,8.0,A,5.0,Sheffield Weds_QPR_2018
+550,1.0,Sheffield United,8.0,2,0.0,2,1.0,G Eltringham,0.0,0.0,1.0,11.0,D,11.0,2019-05-05,Stoke,E1,6.0,4.0,4.0,14.0,H,6.0,Stoke_Sheffield United_2018
+551,0.0,Millwall,17.0,1,0.0,0,1.0,A Woolmer,0.0,0.0,0.0,11.0,H,10.0,2019-05-05,Wigan,E1,3.0,4.0,5.0,15.0,H,8.0,Wigan_Millwall_2018

@@ -1,0 +1,553 @@
+,HY,AwayTeam,HF,FTHG,AR,FTAG,HTHG,HR,HTAG,AY,AF,FTR,AS,Date,HomeTeam,Div,AST,HST,HC,HS,HTR,AC,idGame
+0,1,Huddersfield,11,1,0,0,0,0,0,3,8,H,12,2012-08-17,Cardiff,E1,6,5,7,13,D,4,Cardiff_Huddersfield_2012
+1,3,Middlesbrough,9,1,0,0,1,0,0,2,9,H,12,2012-08-18,Barnsley,E1,5,9,11,16,H,3,Barnsley_Middlesbrough_2012
+2,0,Charlton,9,1,0,1,0,0,0,1,10,D,9,2012-08-18,Birmingham,E1,4,7,3,14,D,7,Birmingham_Charlton_2012
+3,1,Bolton,10,2,0,0,1,0,0,2,11,H,11,2012-08-18,Burnley,E1,5,7,7,14,H,9,Burnley_Bolton_2012
+4,0,Watford,10,2,0,3,2,0,1,2,8,A,13,2012-08-18,Crystal Palace,E1,5,2,4,4,H,4,Crystal Palace_Watford_2012
+5,1,Sheffield Weds,7,2,0,2,2,0,1,2,14,D,7,2012-08-18,Derby,E1,6,4,9,6,H,4,Derby_Sheffield Weds_2012
+6,2,Brighton,10,1,0,0,0,0,0,1,16,H,18,2012-08-18,Hull,E1,4,8,3,13,D,4,Hull_Brighton_2012
+7,1,Blackburn,8,1,0,1,0,0,1,2,19,D,7,2012-08-18,Ipswich,E1,2,7,5,12,A,2,Ipswich_Blackburn_2012
+8,4,Wolves,10,1,0,0,1,0,0,2,16,H,6,2012-08-18,Leeds,E1,1,7,8,12,H,8,Leeds_Wolves_2012
+9,2,Peterboro,9,2,0,0,0,0,0,2,9,H,3,2012-08-18,Leicester,E1,2,4,9,7,D,3,Leicester_Peterboro_2012
+10,1,Blackpool,8,0,0,2,0,0,1,2,7,A,11,2012-08-18,Millwall,E1,8,3,8,9,A,4,Millwall_Blackpool_2012
+11,1,Bristol City,4,1,0,0,0,0,0,1,4,H,6,2012-08-18,Nott'm Forest,E1,3,4,4,10,D,7,Nott'm Forest_Bristol City_2012
+12,0,Leeds,6,2,0,1,0,0,1,2,14,H,5,2012-08-21,Blackpool,E1,3,8,5,20,A,4,Blackpool_Leeds_2012
+13,3,Derby,13,2,0,0,0,0,0,1,15,H,7,2012-08-21,Bolton,E1,4,10,6,16,D,5,Bolton_Derby_2012
+14,0,Cardiff,5,0,0,0,0,0,0,1,10,D,10,2012-08-21,Brighton,E1,6,9,14,16,D,5,Brighton_Cardiff_2012
+15,2,Crystal Palace,12,4,0,1,2,0,0,2,12,H,7,2012-08-21,Bristol City,E1,4,6,7,13,H,2,Bristol City_Crystal Palace_2012
+16,0,Leicester,6,2,0,1,2,0,0,1,11,H,15,2012-08-21,Charlton,E1,6,7,6,9,H,4,Charlton_Leicester_2012
+17,1,Nott'm Forest,10,1,0,1,0,0,0,3,13,D,11,2012-08-21,Huddersfield,E1,6,1,4,12,D,7,Huddersfield_Nott'm Forest_2012
+18,1,Burnley,4,3,0,2,1,0,1,1,9,H,12,2012-08-21,Middlesbrough,E1,6,6,4,10,D,5,Middlesbrough_Burnley_2012
+19,1,Millwall,8,1,0,2,1,0,1,2,11,A,18,2012-08-21,Peterboro,E1,10,4,1,9,D,8,Peterboro_Millwall_2012
+20,1,Birmingham,9,3,0,2,2,0,0,1,8,H,11,2012-08-21,Sheffield Weds,E1,5,5,5,13,H,6,Sheffield Weds_Birmingham_2012
+21,1,Ipswich,12,0,0,1,0,0,0,0,7,A,14,2012-08-21,Watford,E1,4,5,4,7,D,5,Watford_Ipswich_2012
+22,0,Barnsley,11,3,0,1,1,0,0,1,13,H,13,2012-08-21,Wolves,E1,4,9,6,14,H,3,Wolves_Barnsley_2012
+23,1,Hull,11,1,0,0,0,0,0,0,4,H,12,2012-08-22,Blackburn,E1,5,5,8,10,D,5,Blackburn_Hull_2012
+24,3,Nott'm Forest,16,2,0,2,1,0,1,3,14,D,13,2012-08-24,Bolton,E1,6,7,8,15,D,7,Bolton_Nott'm Forest_2012
+25,1,Leicester,6,2,0,1,1,0,0,1,15,H,12,2012-08-25,Blackburn,E1,7,4,3,8,H,12,Blackburn_Leicester_2012
+26,1,Ipswich,7,6,0,0,2,0,0,1,7,H,5,2012-08-25,Blackpool,E1,3,7,5,11,H,5,Blackpool_Ipswich_2012
+27,1,Barnsley,4,5,0,1,3,0,1,3,6,H,6,2012-08-25,Brighton,E1,3,6,4,11,H,4,Brighton_Barnsley_2012
+28,0,Cardiff,10,4,0,2,2,0,0,1,7,H,14,2012-08-25,Bristol City,E1,8,6,5,13,H,6,Bristol City_Cardiff_2012
+29,0,Hull,10,0,0,0,0,0,0,0,9,D,13,2012-08-25,Charlton,E1,8,6,8,9,D,6,Charlton_Hull_2012
+30,1,Burnley,11,2,0,0,1,0,0,0,6,H,6,2012-08-25,Huddersfield,E1,3,7,6,10,H,9,Huddersfield_Burnley_2012
+31,1,Crystal Palace,9,2,0,1,1,0,0,2,15,H,9,2012-08-25,Middlesbrough,E1,7,10,9,19,H,3,Middlesbrough_Crystal Palace_2012
+32,4,Leeds,13,1,0,2,0,0,1,0,17,A,9,2012-08-25,Peterboro,E1,4,7,8,13,A,5,Peterboro_Leeds_2012
+33,4,Millwall,11,3,0,2,1,0,2,1,14,H,7,2012-08-25,Sheffield Weds,E1,4,8,7,17,A,2,Sheffield Weds_Millwall_2012
+34,1,Birmingham,9,2,0,0,2,0,0,0,9,H,8,2012-08-25,Watford,E1,3,3,5,10,H,2,Watford_Birmingham_2012
+35,0,Derby,9,1,0,1,1,0,0,0,5,D,12,2012-08-25,Wolves,E1,11,3,4,7,H,7,Wolves_Derby_2012
+36,1,Bristol City,7,1,0,0,0,1,0,1,9,H,12,2012-09-01,Barnsley,E1,5,7,7,14,D,5,Barnsley_Bristol City_2012
+37,3,Peterboro,8,1,0,0,1,0,0,1,7,H,7,2012-09-01,Birmingham,E1,1,5,2,14,H,4,Birmingham_Peterboro_2012
+38,2,Brighton,10,1,0,3,0,0,1,4,10,A,17,2012-09-01,Burnley,E1,10,4,4,10,A,11,Burnley_Brighton_2012
+39,2,Sheffield Weds,14,2,0,1,1,0,0,3,19,H,11,2012-09-01,Crystal Palace,E1,8,5,2,10,H,10,Crystal Palace_Sheffield Weds_2012
+40,1,Watford,7,5,0,1,3,0,0,1,13,H,4,2012-09-01,Derby,E1,1,11,6,12,H,3,Derby_Watford_2012
+41,1,Bolton,13,3,0,1,1,0,1,1,7,H,12,2012-09-01,Hull,E1,6,5,5,11,D,8,Hull_Bolton_2012
+42,1,Huddersfield,6,2,0,2,0,0,1,1,13,D,15,2012-09-01,Ipswich,E1,8,5,10,15,A,3,Ipswich_Huddersfield_2012
+43,2,Blackburn,20,3,0,3,1,0,2,3,17,D,15,2012-09-01,Leeds,E1,8,8,5,14,A,9,Leeds_Blackburn_2012
+44,0,Blackpool,6,1,0,0,0,0,0,2,5,H,6,2012-09-01,Leicester,E1,1,3,14,7,D,7,Leicester_Blackpool_2012
+45,3,Middlesbrough,9,3,0,1,2,0,1,3,6,H,13,2012-09-01,Millwall,E1,6,6,3,9,H,4,Millwall_Middlesbrough_2012
+46,4,Charlton,11,2,0,1,1,0,0,3,11,H,4,2012-09-01,Nott'm Forest,E1,1,5,6,10,H,7,Nott'm Forest_Charlton_2012
+47,1,Wolves,15,3,0,1,2,0,1,1,8,H,7,2012-09-02,Cardiff,E1,4,10,11,12,H,6,Cardiff_Wolves_2012
+48,1,Sheffield Weds,7,3,0,0,1,0,0,2,9,H,8,2012-09-14,Brighton,E1,4,6,5,9,H,6,Brighton_Sheffield Weds_2012
+49,2,Crystal Palace,6,0,0,1,0,0,0,3,14,A,12,2012-09-14,Charlton,E1,6,6,2,17,D,9,Charlton_Crystal Palace_2012
+50,0,Blackpool,7,1,0,1,1,0,1,1,11,D,14,2012-09-15,Barnsley,E1,9,3,4,7,D,7,Barnsley_Blackpool_2012
+51,2,Watford,14,2,0,1,2,0,0,2,17,H,10,2012-09-15,Bolton,E1,4,7,6,15,H,10,Bolton_Watford_2012
+52,0,Blackburn,9,3,0,5,1,0,1,0,8,A,10,2012-09-15,Bristol City,E1,9,4,3,6,D,1,Bristol City_Blackburn_2012
+53,1,Peterboro,8,5,0,2,2,0,2,1,9,H,11,2012-09-15,Burnley,E1,6,13,9,26,D,11,Burnley_Peterboro_2012
+54,1,Leeds,10,2,0,1,0,0,0,2,10,H,5,2012-09-15,Cardiff,E1,3,7,5,17,D,0,Cardiff_Leeds_2012
+55,3,Derby,10,1,0,0,1,0,0,1,14,H,5,2012-09-15,Huddersfield,E1,1,3,7,5,H,10,Huddersfield_Derby_2012
+56,1,Millwall,7,4,0,1,4,0,0,2,7,H,7,2012-09-15,Hull,E1,4,17,4,26,H,5,Hull_Millwall_2012
+57,1,Ipswich,13,2,0,0,1,0,0,0,6,H,16,2012-09-15,Middlesbrough,E1,6,5,2,12,H,10,Middlesbrough_Ipswich_2012
+58,4,Birmingham,12,2,0,2,0,0,0,0,8,D,12,2012-09-15,Nott'm Forest,E1,7,4,4,9,D,3,Nott'm Forest_Birmingham_2012
+59,1,Leicester,9,2,0,1,2,0,0,2,16,H,20,2012-09-16,Wolves,E1,10,9,6,15,H,5,Wolves_Leicester_2012
+60,1,Bolton,12,2,0,1,1,0,1,3,16,H,17,2012-09-18,Birmingham,E1,12,7,4,10,D,5,Birmingham_Bolton_2012
+61,1,Barnsley,7,2,0,1,1,0,1,1,12,H,15,2012-09-18,Blackburn,E1,5,7,5,11,D,4,Blackburn_Barnsley_2012
+62,0,Middlesbrough,10,4,0,1,2,0,1,3,7,H,8,2012-09-18,Blackpool,E1,2,8,7,14,H,5,Blackpool_Middlesbrough_2012
+63,1,Nott'm Forest,7,1,1,1,0,0,0,3,14,D,7,2012-09-18,Crystal Palace,E1,2,6,8,14,D,4,Crystal Palace_Nott'm Forest_2012
+64,1,Charlton,17,3,0,2,1,0,0,2,15,H,9,2012-09-18,Derby,E1,5,8,5,17,H,4,Derby_Charlton_2012
+65,3,Hull,14,2,0,3,1,0,2,2,7,A,9,2012-09-18,Leeds,E1,4,7,5,13,A,7,Leeds_Hull_2012
+66,2,Cardiff,13,0,0,2,0,0,0,2,12,A,10,2012-09-18,Millwall,E1,6,8,6,11,D,4,Millwall_Cardiff_2012
+67,4,Bristol City,11,1,0,2,0,0,0,3,10,A,8,2012-09-18,Peterboro,E1,5,2,3,9,D,3,Peterboro_Bristol City_2012
+68,4,Brighton,12,0,0,1,0,0,0,3,11,A,9,2012-09-18,Watford,E1,4,4,2,14,D,3,Watford_Brighton_2012
+69,1,Wolves,10,0,0,2,0,0,0,1,11,A,10,2012-09-19,Ipswich,E1,7,4,4,12,D,4,Ipswich_Wolves_2012
+70,3,Burnley,9,2,0,1,0,0,1,1,4,H,5,2012-09-19,Leicester,E1,3,4,7,7,A,2,Leicester_Burnley_2012
+71,5,Huddersfield,11,1,1,3,1,1,2,3,15,A,7,2012-09-19,Sheffield Weds,E1,4,11,11,22,A,2,Sheffield Weds_Huddersfield_2012
+72,3,Middlesbrough,12,1,0,2,0,0,1,1,12,A,15,2012-09-21,Blackburn,E1,11,7,10,12,A,5,Blackburn_Middlesbrough_2012
+73,1,Barnsley,9,0,0,5,0,0,0,2,10,A,14,2012-09-22,Birmingham,E1,9,2,2,3,D,6,Birmingham_Barnsley_2012
+74,1,Cardiff,9,3,0,2,0,0,2,4,15,H,6,2012-09-22,Crystal Palace,E1,2,8,10,15,A,4,Crystal Palace_Cardiff_2012
+75,0,Burnley,14,1,0,2,1,0,1,2,11,A,11,2012-09-22,Derby,E1,9,9,11,17,D,6,Derby_Burnley_2012
+76,2,Charlton,6,1,0,2,0,0,0,0,9,A,13,2012-09-22,Ipswich,E1,9,11,6,22,D,5,Ipswich_Charlton_2012
+77,3,Nott'm Forest,15,2,0,1,2,0,0,1,9,H,16,2012-09-22,Leeds,E1,8,5,9,10,H,7,Leeds_Nott'm Forest_2012
+78,1,Brighton,7,1,0,2,0,1,1,0,3,A,15,2012-09-22,Millwall,E1,9,6,11,9,A,7,Millwall_Brighton_2012
+79,2,Wolves,13,0,0,2,0,0,1,2,8,A,17,2012-09-22,Peterboro,E1,10,7,5,11,A,7,Peterboro_Wolves_2012
+80,2,Bolton,8,1,0,2,0,0,1,4,16,A,12,2012-09-22,Sheffield Weds,E1,6,5,8,10,A,9,Sheffield Weds_Bolton_2012
+81,1,Bristol City,10,2,0,2,0,0,0,2,8,D,10,2012-09-22,Watford,E1,5,13,7,22,D,3,Watford_Bristol City_2012
+82,0,Hull,4,3,0,1,2,0,1,0,4,H,4,2012-09-23,Leicester,E1,3,5,12,6,H,4,Leicester_Hull_2012
+83,1,Huddersfield,12,1,0,3,1,0,2,3,14,A,12,2012-09-24,Blackpool,E1,6,3,5,11,A,3,Blackpool_Huddersfield_2012
+84,0,Ipswich,9,1,0,1,0,0,1,5,15,D,7,2012-09-29,Barnsley,E1,3,8,3,12,A,2,Barnsley_Ipswich_2012
+85,1,Crystal Palace,14,0,0,1,0,0,0,1,9,A,9,2012-09-29,Bolton,E1,6,3,4,5,D,8,Bolton_Crystal Palace_2012
+86,1,Birmingham,10,0,0,1,0,0,1,1,10,A,3,2012-09-29,Brighton,E1,2,3,12,8,A,0,Brighton_Birmingham_2012
+87,2,Leeds,9,2,0,3,0,0,0,0,7,A,8,2012-09-29,Bristol City,E1,8,5,3,9,D,4,Bristol City_Leeds_2012
+88,4,Millwall,8,2,0,2,2,0,1,4,13,D,17,2012-09-29,Burnley,E1,8,8,7,18,H,7,Burnley_Millwall_2012
+89,2,Blackpool,9,3,0,0,2,0,0,2,7,H,9,2012-09-29,Cardiff,E1,2,5,5,12,H,4,Cardiff_Blackpool_2012
+90,0,Blackburn,6,1,0,1,1,0,1,2,13,D,7,2012-09-29,Charlton,E1,3,10,6,19,D,1,Charlton_Blackburn_2012
+91,0,Watford,12,2,0,3,1,0,0,2,7,A,10,2012-09-29,Huddersfield,E1,3,5,4,9,H,7,Huddersfield_Watford_2012
+92,0,Peterboro,3,1,0,3,0,0,2,2,15,A,5,2012-09-29,Hull,E1,4,7,13,15,A,3,Hull_Peterboro_2012
+93,1,Leicester,10,1,0,2,0,0,0,0,3,A,7,2012-09-29,Middlesbrough,E1,3,3,1,6,D,6,Middlesbrough_Leicester_2012
+94,2,Sheffield Weds,6,1,0,0,1,0,0,1,10,H,3,2012-09-29,Wolves,E1,1,1,7,7,H,4,Wolves_Sheffield Weds_2012
+95,4,Derby,11,0,0,1,0,1,0,2,17,A,4,2012-09-30,Nott'm Forest,E1,2,6,2,8,D,4,Nott'm Forest_Derby_2012
+96,0,Peterboro,7,0,0,2,0,0,2,2,14,A,14,2012-10-02,Barnsley,E1,8,5,8,10,A,4,Barnsley_Peterboro_2012
+97,2,Leeds,15,2,0,2,1,0,1,2,21,D,6,2012-10-02,Bolton,E1,3,10,8,16,D,4,Bolton_Leeds_2012
+98,3,Ipswich,14,1,0,1,0,0,1,0,6,D,8,2012-10-02,Brighton,E1,5,11,9,15,A,1,Brighton_Ipswich_2012
+99,1,Millwall,6,1,0,1,1,0,1,1,7,D,9,2012-10-02,Bristol City,E1,2,2,5,12,D,5,Bristol City_Millwall_2012
+100,1,Sheffield Weds,9,3,0,3,2,0,1,1,10,D,14,2012-10-02,Burnley,E1,8,10,5,17,H,5,Burnley_Sheffield Weds_2012
+101,2,Birmingham,11,2,0,1,1,0,0,1,14,H,8,2012-10-02,Cardiff,E1,5,5,5,12,H,1,Cardiff_Birmingham_2012
+102,2,Watford,11,1,1,2,1,0,1,5,14,A,10,2012-10-02,Charlton,E1,9,11,7,16,D,2,Charlton_Watford_2012
+103,1,Leicester,7,0,0,2,0,0,1,1,7,A,12,2012-10-02,Huddersfield,E1,6,1,4,2,A,5,Huddersfield_Leicester_2012
+104,0,Blackpool,8,2,0,3,1,0,1,0,9,A,12,2012-10-02,Hull,E1,9,7,10,12,D,1,Hull_Blackpool_2012
+105,1,Crystal Palace,10,1,0,2,0,0,0,0,14,A,13,2012-10-02,Wolves,E1,6,6,11,14,D,5,Wolves_Crystal Palace_2012
+106,1,Derby,11,2,0,2,1,0,1,1,13,D,6,2012-10-03,Middlesbrough,E1,5,5,3,10,D,8,Middlesbrough_Derby_2012
+107,0,Blackburn,8,0,0,0,0,0,0,0,5,D,5,2012-10-03,Nott'm Forest,E1,1,1,9,17,D,6,Nott'm Forest_Blackburn_2012
+108,1,Huddersfield,10,0,0,1,0,1,1,1,11,A,16,2012-10-06,Birmingham,E1,6,3,9,11,A,8,Birmingham_Huddersfield_2012
+109,0,Wolves,3,0,0,1,0,0,0,2,6,A,11,2012-10-06,Blackburn,E1,3,8,6,14,D,3,Blackburn_Wolves_2012
+110,1,Charlton,6,0,0,2,0,0,0,0,3,A,6,2012-10-06,Blackpool,E1,4,5,9,13,D,7,Blackpool_Charlton_2012
+111,0,Burnley,2,4,0,3,1,0,2,2,9,H,9,2012-10-06,Crystal Palace,E1,5,8,3,14,A,1,Crystal Palace_Burnley_2012
+112,1,Brighton,13,0,0,0,0,0,0,2,11,D,11,2012-10-06,Derby,E1,3,2,11,4,D,7,Derby_Brighton_2012
+113,1,Cardiff,4,1,0,2,1,0,0,0,6,A,13,2012-10-06,Ipswich,E1,8,9,9,16,H,8,Ipswich_Cardiff_2012
+114,4,Barnsley,17,1,0,0,1,0,0,1,12,H,12,2012-10-06,Leeds,E1,6,1,4,4,H,2,Leeds_Barnsley_2012
+115,0,Bristol City,2,2,0,0,1,0,0,2,9,H,4,2012-10-06,Leicester,E1,1,6,5,7,H,4,Leicester_Bristol City_2012
+116,1,Bolton,18,2,0,1,1,0,0,4,21,H,12,2012-10-06,Millwall,E1,2,5,5,11,H,3,Millwall_Bolton_2012
+117,0,Nott'm Forest,7,0,0,1,0,0,0,1,8,A,17,2012-10-06,Peterboro,E1,9,6,6,13,D,4,Peterboro_Nott'm Forest_2012
+118,1,Hull,12,0,0,1,0,0,0,3,14,A,9,2012-10-06,Sheffield Weds,E1,4,5,5,11,D,7,Sheffield Weds_Hull_2012
+119,0,Middlesbrough,9,1,0,2,1,1,1,2,13,A,15,2012-10-06,Watford,E1,8,9,2,13,D,8,Watford_Middlesbrough_2012
+120,2,Leeds,10,1,0,1,1,0,0,1,11,D,5,2012-10-19,Sheffield Weds,E1,4,8,9,9,H,3,Sheffield Weds_Leeds_2012
+121,3,Leicester,11,1,0,1,1,1,0,2,12,D,6,2012-10-20,Birmingham,E1,3,2,3,3,H,10,Birmingham_Leicester_2012
+122,0,Bristol City,8,3,0,2,1,0,2,3,2,H,7,2012-10-20,Bolton,E1,2,11,12,16,A,15,Bolton_Bristol City_2012
+123,1,Middlesbrough,10,0,0,1,0,0,1,1,10,A,4,2012-10-20,Brighton,E1,2,4,8,16,A,2,Brighton_Middlesbrough_2012
+124,2,Blackpool,9,1,0,0,1,0,0,2,13,H,10,2012-10-20,Burnley,E1,5,10,8,14,H,3,Burnley_Blackpool_2012
+125,3,Barnsley,15,0,0,1,0,0,0,2,8,A,9,2012-10-20,Charlton,E1,4,4,4,6,D,5,Charlton_Barnsley_2012
+126,5,Millwall,11,2,0,2,2,1,1,5,18,D,11,2012-10-20,Crystal Palace,E1,3,5,5,8,H,7,Crystal Palace_Millwall_2012
+127,0,Blackburn,13,1,0,1,0,0,1,1,10,D,10,2012-10-20,Derby,E1,7,6,7,17,A,5,Derby_Blackburn_2012
+128,2,Wolves,11,2,0,1,2,0,0,1,7,H,13,2012-10-20,Huddersfield,E1,5,6,4,12,H,7,Huddersfield_Wolves_2012
+129,0,Ipswich,7,2,0,1,0,0,1,4,13,H,9,2012-10-20,Hull,E1,6,9,11,21,A,5,Hull_Ipswich_2012
+130,2,Cardiff,5,3,0,1,2,1,0,2,12,H,8,2012-10-20,Nott'm Forest,E1,2,6,3,6,H,9,Nott'm Forest_Cardiff_2012
+131,3,Peterboro,6,1,0,0,0,0,0,3,12,H,8,2012-10-20,Watford,E1,0,0,4,16,D,9,Watford_Peterboro_2012
+132,1,Crystal Palace,8,1,0,1,0,0,1,0,11,D,9,2012-10-23,Barnsley,E1,6,8,8,12,A,7,Barnsley_Crystal Palace_2012
+133,1,Nott'm Forest,7,2,0,2,0,0,1,1,6,D,10,2012-10-23,Blackpool,E1,6,5,3,13,A,5,Blackpool_Nott'm Forest_2012
+134,0,Burnley,8,3,0,4,1,0,1,4,13,A,10,2012-10-23,Bristol City,E1,7,6,5,13,D,3,Bristol City_Burnley_2012
+135,1,Watford,6,2,2,1,0,0,1,3,11,H,11,2012-10-23,Cardiff,E1,6,8,8,18,A,4,Cardiff_Watford_2012
+136,2,Derby,9,1,0,2,1,0,1,1,12,A,15,2012-10-23,Ipswich,E1,6,9,7,13,D,6,Ipswich_Derby_2012
+137,1,Charlton,9,1,0,1,1,0,0,4,10,D,11,2012-10-23,Leeds,E1,3,4,8,8,H,5,Leeds_Charlton_2012
+138,1,Brighton,15,1,0,0,1,0,0,1,11,H,7,2012-10-23,Leicester,E1,2,12,6,16,H,6,Leicester_Brighton_2012
+139,1,Hull,10,2,0,0,0,0,0,0,8,H,8,2012-10-23,Middlesbrough,E1,1,16,8,18,D,4,Middlesbrough_Hull_2012
+140,1,Birmingham,8,3,0,3,3,0,1,2,6,D,9,2012-10-23,Millwall,E1,6,6,10,10,H,2,Millwall_Birmingham_2012
+141,3,Huddersfield,10,3,0,1,2,0,0,0,10,H,12,2012-10-23,Peterboro,E1,5,9,10,14,H,2,Peterboro_Huddersfield_2012
+142,0,Bolton,10,2,0,2,2,0,1,0,9,D,17,2012-10-23,Wolves,E1,12,7,4,13,H,6,Wolves_Bolton_2012
+143,2,Sheffield Weds,12,1,0,0,1,0,0,1,10,H,12,2012-10-24,Blackburn,E1,3,5,4,14,H,6,Blackburn_Sheffield Weds_2012
+144,0,Nott'm Forest,7,1,0,4,1,0,3,1,7,A,15,2012-10-27,Barnsley,E1,9,3,5,8,A,1,Barnsley_Nott'm Forest_2012
+145,3,Watford,17,1,0,0,0,0,0,1,12,H,12,2012-10-27,Blackburn,E1,4,5,8,13,D,3,Blackburn_Watford_2012
+146,3,Brighton,12,1,0,1,0,0,0,2,10,D,6,2012-10-27,Blackpool,E1,3,9,13,22,D,2,Blackpool_Brighton_2012
+147,1,Hull,9,1,0,2,1,0,1,1,3,A,18,2012-10-27,Bristol City,E1,8,3,6,10,D,8,Bristol City_Hull_2012
+148,0,Burnley,4,4,0,0,2,0,0,1,4,H,9,2012-10-27,Cardiff,E1,5,8,6,15,H,6,Cardiff_Burnley_2012
+149,2,Sheffield Weds,8,0,0,3,0,0,1,2,17,A,10,2012-10-27,Ipswich,E1,6,4,5,12,A,3,Ipswich_Sheffield Weds_2012
+150,0,Birmingham,10,0,0,1,0,0,0,0,14,A,13,2012-10-27,Leeds,E1,6,8,11,13,D,3,Leeds_Birmingham_2012
+151,2,Crystal Palace,7,1,0,2,0,0,2,1,4,A,6,2012-10-27,Leicester,E1,4,2,16,7,A,7,Leicester_Crystal Palace_2012
+152,0,Bolton,11,2,0,1,0,0,1,2,7,H,11,2012-10-27,Middlesbrough,E1,3,9,5,18,A,1,Middlesbrough_Bolton_2012
+153,1,Huddersfield,8,4,0,0,1,1,0,1,3,H,5,2012-10-27,Millwall,E1,0,3,4,6,H,10,Millwall_Huddersfield_2012
+154,2,Derby,13,3,1,0,1,0,0,2,9,H,9,2012-10-27,Peterboro,E1,3,16,8,19,H,5,Peterboro_Derby_2012
+155,0,Charlton,5,1,0,1,1,0,0,1,12,D,9,2012-10-27,Wolves,E1,3,6,2,8,H,2,Wolves_Charlton_2012
+156,3,Leeds,15,2,0,2,1,0,1,2,12,D,6,2012-11-02,Brighton,E1,4,10,7,16,D,3,Brighton_Leeds_2012
+157,0,Ipswich,5,0,0,1,0,0,1,1,9,A,5,2012-11-03,Birmingham,E1,3,4,4,10,A,8,Birmingham_Ipswich_2012
+158,3,Cardiff,11,2,0,1,0,1,1,1,8,H,6,2012-11-03,Bolton,E1,5,8,7,13,A,13,Bolton_Cardiff_2012
+159,3,Wolves,12,2,0,0,1,0,0,2,8,H,12,2012-11-03,Burnley,E1,4,6,1,12,H,3,Burnley_Wolves_2012
+160,1,Middlesbrough,8,1,0,4,1,0,1,2,11,A,12,2012-11-03,Charlton,E1,8,1,6,8,D,7,Charlton_Middlesbrough_2012
+161,0,Blackburn,9,2,0,0,1,0,0,0,12,H,6,2012-11-03,Crystal Palace,E1,2,7,6,14,H,3,Crystal Palace_Blackburn_2012
+162,0,Blackpool,6,4,0,1,2,0,0,3,9,H,11,2012-11-03,Derby,E1,5,6,12,9,H,4,Derby_Blackpool_2012
+163,1,Bristol City,7,1,0,0,1,0,0,2,11,H,10,2012-11-03,Huddersfield,E1,3,3,3,7,H,2,Huddersfield_Bristol City_2012
+164,1,Barnsley,10,1,0,0,1,0,0,1,10,H,4,2012-11-03,Hull,E1,0,4,9,13,H,3,Hull_Barnsley_2012
+165,1,Millwall,10,1,0,4,1,0,1,1,9,A,10,2012-11-03,Nott'm Forest,E1,6,5,4,7,D,3,Nott'm Forest_Millwall_2012
+166,1,Peterboro,8,2,0,1,0,0,0,1,10,H,7,2012-11-03,Sheffield Weds,E1,5,6,3,12,D,4,Sheffield Weds_Peterboro_2012
+167,0,Leicester,8,2,1,1,1,0,0,2,7,H,7,2012-11-03,Watford,E1,3,8,8,15,H,3,Watford_Leicester_2012
+168,1,Bristol City,6,2,0,0,0,0,0,0,7,H,9,2012-11-06,Birmingham,E1,4,12,3,20,D,9,Birmingham_Bristol City_2012
+169,2,Leicester,10,0,0,0,0,0,0,0,13,D,15,2012-11-06,Bolton,E1,10,9,7,10,D,16,Bolton_Leicester_2012
+170,0,Peterboro,4,1,0,0,0,0,0,1,8,H,7,2012-11-06,Brighton,E1,2,9,19,20,D,2,Brighton_Peterboro_2012
+171,1,Leeds,14,1,0,0,0,0,0,1,9,H,8,2012-11-06,Burnley,E1,5,9,5,16,D,5,Burnley_Leeds_2012
+172,4,Cardiff,12,5,0,4,2,0,2,3,10,H,22,2012-11-06,Charlton,E1,12,13,8,16,D,8,Charlton_Cardiff_2012
+173,2,Ipswich,8,5,0,0,1,0,0,2,9,H,6,2012-11-06,Crystal Palace,E1,4,6,5,11,H,8,Crystal Palace_Ipswich_2012
+174,0,Barnsley,9,2,0,0,0,0,0,4,17,H,11,2012-11-06,Derby,E1,5,7,5,12,D,7,Derby_Barnsley_2012
+175,3,Blackburn,18,2,0,2,1,0,1,1,8,D,10,2012-11-06,Huddersfield,E1,7,4,7,11,D,9,Huddersfield_Blackburn_2012
+176,1,Wolves,13,2,0,1,1,0,0,1,6,H,7,2012-11-06,Hull,E1,2,4,4,9,H,3,Hull_Wolves_2012
+177,1,Middlesbrough,7,0,0,0,0,0,0,1,5,D,9,2012-11-06,Nott'm Forest,E1,2,4,7,13,D,5,Nott'm Forest_Middlesbrough_2012
+178,1,Blackpool,13,0,0,2,0,0,1,1,5,A,11,2012-11-06,Sheffield Weds,E1,5,4,4,9,A,2,Sheffield Weds_Blackpool_2012
+179,3,Millwall,11,0,0,0,0,0,0,2,10,D,13,2012-11-06,Watford,E1,5,6,4,15,D,2,Watford_Millwall_2012
+180,0,Sheffield Weds,5,3,0,1,1,0,0,0,13,H,9,2012-11-09,Middlesbrough,E1,5,9,6,13,H,2,Middlesbrough_Sheffield Weds_2012
+181,1,Huddersfield,6,0,0,1,0,0,1,2,6,A,9,2012-11-10,Barnsley,E1,5,2,4,9,A,10,Barnsley_Huddersfield_2012
+182,0,Birmingham,5,1,0,1,1,0,1,2,14,D,11,2012-11-10,Blackburn,E1,6,8,5,16,D,4,Blackburn_Birmingham_2012
+183,0,Bolton,7,2,0,2,1,0,1,0,9,D,9,2012-11-10,Blackpool,E1,8,8,5,16,D,2,Blackpool_Bolton_2012
+184,2,Hull,11,2,0,1,1,0,0,0,11,H,11,2012-11-10,Cardiff,E1,5,8,11,14,H,1,Cardiff_Hull_2012
+185,1,Burnley,17,2,0,1,0,0,0,2,10,H,10,2012-11-10,Ipswich,E1,4,7,2,9,D,1,Ipswich_Burnley_2012
+186,5,Watford,11,1,0,6,0,1,1,2,13,A,11,2012-11-10,Leeds,E1,8,3,4,5,A,5,Leeds_Watford_2012
+187,0,Nott'm Forest,9,2,0,2,2,0,1,0,6,D,7,2012-11-10,Leicester,E1,2,8,8,14,H,1,Leicester_Nott'm Forest_2012
+188,1,Derby,9,2,0,1,1,0,0,3,9,H,9,2012-11-10,Millwall,E1,6,8,5,14,H,4,Millwall_Derby_2012
+189,2,Crystal Palace,11,1,0,2,1,0,0,1,8,A,22,2012-11-10,Peterboro,E1,11,4,5,8,H,12,Peterboro_Crystal Palace_2012
+190,0,Brighton,6,3,0,3,1,1,1,0,10,D,15,2012-11-10,Wolves,E1,6,4,6,6,D,8,Wolves_Brighton_2012
+191,0,Charlton,9,0,0,2,0,0,1,0,9,A,13,2012-11-11,Bristol City,E1,6,3,5,10,A,5,Bristol City_Charlton_2012
+192,1,Hull,13,2,0,3,1,0,3,1,6,A,10,2012-11-17,Birmingham,E1,4,4,8,7,A,2,Birmingham_Hull_2012
+193,2,Barnsley,18,1,0,1,1,0,0,1,12,D,12,2012-11-17,Bolton,E1,6,10,2,16,H,7,Bolton_Barnsley_2012
+194,1,Blackpool,5,1,0,1,0,0,0,2,12,D,11,2012-11-17,Bristol City,E1,8,4,4,7,D,3,Bristol City_Blackpool_2012
+195,0,Charlton,8,0,0,1,0,1,0,1,15,A,10,2012-11-17,Burnley,E1,5,4,8,12,D,7,Burnley_Charlton_2012
+196,1,Middlesbrough,12,1,0,0,1,0,0,2,8,H,19,2012-11-17,Cardiff,E1,10,2,3,6,H,7,Cardiff_Middlesbrough_2012
+197,1,Derby,9,3,0,0,1,0,0,2,7,H,5,2012-11-17,Crystal Palace,E1,1,8,12,18,H,4,Crystal Palace_Derby_2012
+198,3,Brighton,10,1,0,2,0,0,2,1,7,A,9,2012-11-17,Huddersfield,E1,5,4,11,9,A,3,Huddersfield_Brighton_2012
+199,0,Ipswich,7,6,0,0,4,0,0,1,7,H,1,2012-11-17,Leicester,E1,1,5,3,5,H,5,Leicester_Ipswich_2012
+200,0,Sheffield Weds,7,1,0,0,0,0,0,1,12,H,13,2012-11-17,Nott'm Forest,E1,8,6,11,14,D,9,Nott'm Forest_Sheffield Weds_2012
+201,1,Blackburn,12,1,0,4,0,0,3,0,2,A,18,2012-11-17,Peterboro,E1,10,2,5,6,A,4,Peterboro_Blackburn_2012
+202,2,Wolves,10,2,1,1,1,0,0,1,7,H,7,2012-11-17,Watford,E1,4,8,9,19,H,5,Watford_Wolves_2012
+203,3,Leeds,16,1,1,0,0,0,0,1,5,H,4,2012-11-18,Millwall,E1,2,3,5,17,D,3,Millwall_Leeds_2012
+204,2,Cardiff,13,1,1,2,0,0,1,3,11,A,13,2012-11-24,Barnsley,E1,7,8,8,15,A,8,Barnsley_Cardiff_2012
+205,0,Millwall,5,0,0,2,0,0,0,3,13,A,9,2012-11-24,Blackburn,E1,6,9,14,22,D,2,Blackburn_Millwall_2012
+206,1,Watford,13,2,0,2,0,0,2,2,13,D,4,2012-11-24,Blackpool,E1,3,9,5,17,A,2,Blackpool_Watford_2012
+207,0,Bolton,11,1,0,1,0,0,0,3,13,D,14,2012-11-24,Brighton,E1,7,11,10,20,D,3,Brighton_Bolton_2012
+208,1,Huddersfield,11,1,1,1,0,0,0,2,9,D,10,2012-11-24,Charlton,E1,8,7,5,11,D,5,Charlton_Huddersfield_2012
+209,1,Birmingham,8,3,0,2,1,0,0,1,7,H,12,2012-11-24,Derby,E1,6,10,8,18,H,0,Derby_Birmingham_2012
+210,0,Burnley,5,0,0,1,0,0,1,4,11,A,11,2012-11-24,Hull,E1,6,2,5,10,A,7,Hull_Burnley_2012
+211,1,Peterboro,10,1,0,1,0,0,1,0,9,D,9,2012-11-24,Ipswich,E1,4,1,5,4,A,5,Ipswich_Peterboro_2012
+212,1,Crystal Palace,12,2,0,1,0,0,0,2,10,H,11,2012-11-24,Leeds,E1,5,5,3,10,D,9,Leeds_Crystal Palace_2012
+213,2,Bristol City,9,1,0,3,1,0,1,2,6,A,9,2012-11-24,Middlesbrough,E1,4,7,13,15,D,4,Middlesbrough_Bristol City_2012
+214,2,Leicester,7,0,0,2,0,0,1,2,12,A,14,2012-11-24,Sheffield Weds,E1,10,5,3,6,A,7,Sheffield Weds_Leicester_2012
+215,1,Nott'm Forest,11,1,0,2,1,0,1,1,11,A,11,2012-11-24,Wolves,E1,4,8,8,12,D,2,Wolves_Nott'm Forest_2012
+216,0,Burnley,8,1,0,1,1,0,1,1,14,D,7,2012-11-27,Barnsley,E1,4,4,6,7,D,3,Barnsley_Burnley_2012
+217,1,Birmingham,9,1,0,1,1,0,0,1,7,D,4,2012-11-27,Blackpool,E1,1,6,7,8,H,3,Blackpool_Birmingham_2012
+218,0,Bristol City,3,2,0,0,2,0,0,0,8,H,5,2012-11-27,Brighton,E1,2,3,1,6,H,5,Brighton_Bristol City_2012
+219,2,Peterboro,13,2,0,0,0,0,0,1,7,H,15,2012-11-27,Charlton,E1,8,7,6,14,D,8,Charlton_Peterboro_2012
+220,2,Cardiff,9,1,1,1,0,0,1,2,15,D,7,2012-11-27,Derby,E1,2,9,11,19,A,2,Derby_Cardiff_2012
+221,4,Crystal Palace,11,0,0,0,0,0,0,1,9,D,4,2012-11-27,Hull,E1,3,6,12,17,D,3,Hull_Crystal Palace_2012
+222,2,Nott'm Forest,13,3,0,1,1,0,0,2,10,H,8,2012-11-27,Ipswich,E1,5,10,5,17,H,6,Ipswich_Nott'm Forest_2012
+223,0,Leicester,9,1,0,0,1,0,0,1,11,H,12,2012-11-27,Leeds,E1,8,1,7,5,H,5,Leeds_Leicester_2012
+224,1,Huddersfield,8,3,0,0,1,0,0,0,11,H,11,2012-11-27,Middlesbrough,E1,3,6,3,14,H,4,Middlesbrough_Huddersfield_2012
+225,1,Watford,11,1,0,4,1,0,1,2,15,A,11,2012-11-27,Sheffield Weds,E1,10,6,1,10,D,9,Sheffield Weds_Watford_2012
+226,0,Millwall,11,0,0,1,0,0,0,0,10,A,12,2012-11-27,Wolves,E1,8,2,7,8,D,7,Wolves_Millwall_2012
+227,1,Bolton,13,1,0,2,0,0,1,2,13,A,16,2012-11-28,Blackburn,E1,11,11,5,20,A,3,Blackburn_Bolton_2012
+228,1,Middlesbrough,12,3,0,2,1,0,1,1,13,H,13,2012-11-30,Birmingham,E1,6,8,3,11,D,3,Birmingham_Middlesbrough_2012
+229,1,Ipswich,8,1,0,2,1,0,0,2,9,A,7,2012-12-01,Bolton,E1,5,3,4,10,H,4,Bolton_Ipswich_2012
+230,2,Wolves,7,1,0,4,0,0,4,0,9,A,15,2012-12-01,Bristol City,E1,10,3,6,7,A,7,Bristol City_Wolves_2012
+231,2,Brighton,8,3,1,0,1,0,0,4,14,H,7,2012-12-01,Crystal Palace,E1,5,7,5,13,H,3,Crystal Palace_Brighton_2012
+232,1,Leeds,10,2,0,4,2,0,2,1,8,A,11,2012-12-01,Huddersfield,E1,7,3,4,7,D,4,Huddersfield_Leeds_2012
+233,0,Derby,13,4,0,1,2,0,1,1,10,H,9,2012-12-01,Leicester,E1,9,11,8,16,H,5,Leicester_Derby_2012
+234,0,Charlton,7,0,0,0,0,0,0,2,18,D,3,2012-12-01,Millwall,E1,2,6,8,15,D,5,Millwall_Charlton_2012
+235,0,Hull,9,1,0,2,1,0,1,4,11,A,2,2012-12-01,Nott'm Forest,E1,1,0,7,4,D,4,Nott'm Forest_Hull_2012
+236,0,Blackpool,12,1,0,4,0,0,0,2,11,A,12,2012-12-01,Peterboro,E1,8,6,5,8,D,3,Peterboro_Blackpool_2012
+237,0,Barnsley,6,4,0,1,1,0,0,0,11,H,13,2012-12-01,Watford,E1,8,12,7,23,H,10,Watford_Barnsley_2012
+238,1,Blackburn,12,1,0,1,0,0,0,1,12,D,11,2012-12-02,Burnley,E1,5,10,11,20,D,3,Burnley_Blackburn_2012
+239,1,Sheffield Weds,11,1,0,0,0,0,0,3,17,H,8,2012-12-02,Cardiff,E1,5,15,11,22,D,5,Cardiff_Sheffield Weds_2012
+240,3,Cardiff,18,1,0,4,0,0,1,3,11,A,9,2012-12-07,Blackburn,E1,4,7,7,13,A,2,Blackburn_Cardiff_2012
+241,1,Brighton,16,2,0,2,1,0,1,1,9,D,16,2012-12-08,Charlton,E1,7,7,4,13,D,9,Charlton_Brighton_2012
+242,3,Blackpool,10,2,0,2,0,0,1,5,16,D,11,2012-12-08,Crystal Palace,E1,4,4,7,10,A,7,Crystal Palace_Blackpool_2012
+243,3,Leeds,14,3,0,1,1,0,1,0,10,H,11,2012-12-08,Derby,E1,6,11,10,15,D,2,Derby_Leeds_2012
+244,5,Bolton,15,2,0,2,1,0,0,1,8,D,14,2012-12-08,Huddersfield,E1,9,6,7,13,H,8,Huddersfield_Bolton_2012
+245,1,Millwall,8,3,0,0,1,0,0,2,10,H,9,2012-12-08,Ipswich,E1,4,8,6,15,H,6,Ipswich_Millwall_2012
+246,2,Barnsley,7,2,0,2,1,0,2,1,16,D,5,2012-12-08,Leicester,E1,3,17,11,25,A,2,Leicester_Barnsley_2012
+247,2,Burnley,12,2,0,0,0,0,0,3,9,H,9,2012-12-08,Nott'm Forest,E1,2,4,5,7,D,5,Nott'm Forest_Burnley_2012
+248,1,Middlesbrough,7,2,0,3,1,0,2,0,9,A,9,2012-12-08,Peterboro,E1,4,5,6,12,A,4,Peterboro_Middlesbrough_2012
+249,3,Bristol City,12,2,0,3,1,0,1,0,8,A,8,2012-12-08,Sheffield Weds,E1,7,6,6,16,D,9,Sheffield Weds_Bristol City_2012
+250,0,Hull,9,1,0,2,0,0,1,2,7,A,12,2012-12-08,Watford,E1,7,7,8,11,A,4,Watford_Hull_2012
+251,1,Birmingham,10,1,0,0,1,0,0,2,7,H,10,2012-12-08,Wolves,E1,5,4,7,14,H,5,Wolves_Birmingham_2012
+252,2,Sheffield Weds,11,0,0,1,0,0,1,3,17,A,7,2012-12-15,Barnsley,E1,6,13,8,20,A,1,Barnsley_Sheffield Weds_2012
+253,2,Crystal Palace,9,2,0,2,0,0,1,1,11,D,5,2012-12-15,Birmingham,E1,1,4,3,14,A,7,Birmingham_Crystal Palace_2012
+254,0,Blackburn,13,2,0,0,1,0,0,1,17,H,7,2012-12-15,Blackpool,E1,3,7,8,13,H,6,Blackpool_Blackburn_2012
+255,1,Charlton,10,2,0,0,0,0,0,2,9,H,8,2012-12-15,Bolton,E1,4,11,3,16,D,8,Bolton_Charlton_2012
+256,1,Nott'm Forest,7,0,0,0,0,0,0,2,18,D,2,2012-12-15,Brighton,E1,0,0,6,7,D,3,Brighton_Nott'm Forest_2012
+257,1,Derby,8,0,0,2,0,0,2,2,8,A,11,2012-12-15,Bristol City,E1,7,7,4,12,A,6,Bristol City_Derby_2012
+258,1,Watford,10,1,0,1,1,0,1,2,13,D,9,2012-12-15,Burnley,E1,5,5,7,10,D,5,Burnley_Watford_2012
+259,4,Peterboro,9,1,0,2,0,0,1,4,17,A,15,2012-12-15,Cardiff,E1,11,7,13,17,A,7,Cardiff_Peterboro_2012
+260,2,Huddersfield,7,2,0,0,1,0,0,1,14,H,5,2012-12-15,Hull,E1,0,10,8,16,H,2,Hull_Huddersfield_2012
+261,1,Ipswich,7,2,0,0,1,0,0,0,11,H,6,2012-12-15,Leeds,E1,3,5,5,9,H,5,Leeds_Ipswich_2012
+262,1,Wolves,7,2,0,0,0,0,0,0,4,H,7,2012-12-15,Middlesbrough,E1,2,2,2,7,D,8,Middlesbrough_Wolves_2012
+263,2,Leicester,13,1,0,0,0,0,0,3,15,H,11,2012-12-15,Millwall,E1,6,6,2,13,D,8,Millwall_Leicester_2012
+264,1,Millwall,7,2,0,2,0,0,1,4,15,D,6,2012-12-18,Brighton,E1,4,2,9,9,A,3,Brighton_Millwall_2012
+265,2,Wolves,8,1,0,2,0,0,1,1,12,A,5,2012-12-21,Blackpool,E1,2,15,6,24,A,3,Blackpool_Wolves_2012
+266,0,Hull,12,1,0,2,1,0,1,3,12,A,3,2012-12-21,Derby,E1,2,8,9,15,D,3,Derby_Hull_2012
+267,4,Burnley,8,2,0,2,1,0,0,2,7,D,10,2012-12-22,Birmingham,E1,3,7,10,10,H,2,Birmingham_Burnley_2012
+268,0,Huddersfield,10,1,1,1,1,1,0,3,13,D,5,2012-12-22,Crystal Palace,E1,4,1,4,4,H,8,Crystal Palace_Huddersfield_2012
+269,0,Bristol City,9,1,0,1,1,0,1,0,9,D,15,2012-12-22,Ipswich,E1,10,6,8,13,D,4,Ipswich_Bristol City_2012
+270,1,Middlesbrough,8,2,0,1,1,0,1,1,11,H,14,2012-12-22,Leeds,E1,5,7,1,9,D,9,Leeds_Middlesbrough_2012
+271,0,Cardiff,7,0,0,1,0,0,1,3,14,A,4,2012-12-22,Leicester,E1,3,13,6,18,A,3,Leicester_Cardiff_2012
+272,2,Barnsley,15,1,0,2,0,1,1,4,14,A,15,2012-12-22,Millwall,E1,7,9,8,12,A,2,Millwall_Barnsley_2012
+273,0,Bolton,9,5,0,4,2,0,1,4,13,H,12,2012-12-22,Peterboro,E1,10,12,9,19,H,11,Peterboro_Bolton_2012
+274,1,Charlton,10,2,0,0,1,0,0,1,4,H,3,2012-12-22,Sheffield Weds,E1,2,8,3,13,H,3,Sheffield Weds_Charlton_2012
+275,3,Nott'm Forest,9,2,1,0,2,0,0,4,10,H,7,2012-12-22,Watford,E1,5,11,7,19,H,5,Watford_Nott'm Forest_2012
+276,1,Birmingham,10,1,0,2,1,0,1,1,9,A,4,2012-12-26,Barnsley,E1,3,3,5,6,D,14,Barnsley_Birmingham_2012
+277,0,Sheffield Weds,10,0,0,1,0,0,1,1,9,A,7,2012-12-26,Bolton,E1,2,6,6,8,A,5,Bolton_Sheffield Weds_2012
+278,4,Derby,14,2,0,0,1,0,0,1,10,H,6,2012-12-26,Burnley,E1,3,9,3,13,H,3,Burnley_Derby_2012
+279,3,Crystal Palace,12,2,0,1,1,0,1,4,24,H,10,2012-12-26,Cardiff,E1,3,6,3,12,D,5,Cardiff_Crystal Palace_2012
+280,1,Ipswich,9,1,0,2,0,0,2,0,9,A,8,2012-12-26,Charlton,E1,5,7,7,11,A,1,Charlton_Ipswich_2012
+281,0,Blackpool,4,1,0,1,0,0,0,3,5,D,14,2012-12-26,Huddersfield,E1,5,1,3,3,D,6,Huddersfield_Blackpool_2012
+282,0,Leicester,8,0,0,0,0,0,0,2,14,D,11,2012-12-26,Hull,E1,5,11,8,15,D,8,Hull_Leicester_2012
+283,1,Blackburn,6,1,0,0,0,0,0,1,10,H,13,2012-12-26,Middlesbrough,E1,7,5,4,16,D,4,Middlesbrough_Blackburn_2012
+284,0,Leeds,8,4,0,2,1,0,1,2,10,H,10,2012-12-26,Nott'm Forest,E1,7,7,7,14,D,4,Nott'm Forest_Leeds_2012
+285,1,Peterboro,5,0,0,3,0,0,2,0,10,A,11,2012-12-26,Wolves,E1,7,7,8,11,A,4,Wolves_Peterboro_2012
+286,1,Blackburn,15,1,0,3,0,0,2,2,13,A,9,2012-12-29,Barnsley,E1,6,8,5,13,A,5,Barnsley_Blackburn_2012
+287,1,Birmingham,10,3,1,1,2,0,1,3,14,H,3,2012-12-29,Bolton,E1,3,7,10,14,H,1,Bolton_Birmingham_2012
+288,1,Watford,7,1,0,3,0,0,0,2,8,A,13,2012-12-29,Brighton,E1,9,6,6,9,D,5,Brighton_Watford_2012
+289,3,Peterboro,9,4,1,2,2,0,1,1,7,H,7,2012-12-29,Bristol City,E1,2,10,9,20,H,2,Bristol City_Peterboro_2012
+290,3,Leicester,3,0,0,1,0,0,1,2,8,A,15,2012-12-29,Burnley,E1,10,5,5,11,A,10,Burnley_Leicester_2012
+291,1,Millwall,7,1,0,0,1,0,0,0,13,H,14,2012-12-29,Cardiff,E1,6,9,6,15,H,3,Cardiff_Millwall_2012
+292,2,Derby,12,1,0,1,1,1,0,3,8,D,10,2012-12-29,Charlton,E1,6,5,3,8,H,16,Charlton_Derby_2012
+293,3,Sheffield Weds,9,0,0,0,0,0,0,3,10,D,8,2012-12-29,Huddersfield,E1,3,2,4,5,D,5,Huddersfield_Sheffield Weds_2012
+294,1,Leeds,12,2,0,0,0,0,0,4,11,H,4,2012-12-29,Hull,E1,1,11,5,20,D,3,Hull_Leeds_2012
+295,1,Blackpool,10,4,0,2,2,0,0,0,6,H,6,2012-12-29,Middlesbrough,E1,3,4,13,7,H,10,Middlesbrough_Blackpool_2012
+296,3,Crystal Palace,11,2,0,2,1,0,1,1,7,D,7,2012-12-29,Nott'm Forest,E1,2,6,10,11,D,9,Nott'm Forest_Crystal Palace_2012
+297,1,Ipswich,6,0,0,2,0,0,1,2,9,A,11,2012-12-29,Wolves,E1,6,2,3,5,A,2,Wolves_Ipswich_2012
+298,2,Cardiff,9,0,0,1,0,0,1,0,11,A,6,2013-01-01,Birmingham,E1,3,2,3,5,A,4,Birmingham_Cardiff_2012
+299,2,Nott'm Forest,10,3,0,0,0,0,0,1,12,H,13,2013-01-01,Blackburn,E1,5,6,3,11,D,4,Blackburn_Nott'm Forest_2012
+300,1,Hull,7,0,0,0,0,0,0,0,9,D,7,2013-01-01,Blackpool,E1,3,5,6,9,D,3,Blackpool_Hull_2012
+301,2,Wolves,13,3,0,1,2,0,0,2,15,H,6,2013-01-01,Crystal Palace,E1,3,7,2,16,H,2,Crystal Palace_Wolves_2012
+302,1,Middlesbrough,15,3,0,1,2,0,0,3,18,H,7,2013-01-01,Derby,E1,5,8,7,17,H,3,Derby_Middlesbrough_2012
+303,1,Brighton,10,0,0,3,0,0,2,2,14,A,6,2013-01-01,Ipswich,E1,4,4,8,9,A,5,Ipswich_Brighton_2012
+304,1,Bolton,10,1,0,0,0,0,0,2,21,H,9,2013-01-01,Leeds,E1,3,3,7,12,D,3,Leeds_Bolton_2012
+305,0,Huddersfield,6,6,0,1,3,0,0,1,3,H,5,2013-01-01,Leicester,E1,2,9,6,15,H,6,Leicester_Huddersfield_2012
+306,1,Bristol City,15,2,0,1,1,0,0,2,10,H,6,2013-01-01,Millwall,E1,4,6,7,11,H,3,Millwall_Bristol City_2012
+307,3,Barnsley,12,2,0,1,1,0,0,4,13,H,12,2013-01-01,Peterboro,E1,7,7,1,12,H,9,Peterboro_Barnsley_2012
+308,0,Burnley,8,0,0,2,0,0,0,1,7,A,11,2013-01-01,Sheffield Weds,E1,7,6,6,8,D,6,Sheffield Weds_Burnley_2012
+309,3,Charlton,8,3,0,4,1,0,2,3,12,A,15,2013-01-01,Watford,E1,7,7,4,9,A,7,Watford_Charlton_2012
+310,4,Blackburn,17,1,0,1,0,0,1,4,14,D,10,2013-01-11,Wolves,E1,7,5,8,11,A,2,Wolves_Blackburn_2012
+311,0,Leeds,11,2,0,0,0,0,0,1,13,H,8,2013-01-12,Barnsley,E1,0,4,11,12,D,0,Barnsley_Leeds_2012
+312,1,Millwall,11,1,0,1,1,0,1,2,16,D,10,2013-01-12,Bolton,E1,4,5,6,17,D,4,Bolton_Millwall_2012
+313,2,Derby,12,2,0,1,2,0,0,4,12,H,5,2013-01-12,Brighton,E1,2,5,5,8,H,5,Brighton_Derby_2012
+314,0,Leicester,4,0,0,4,0,0,3,0,6,A,15,2013-01-12,Bristol City,E1,8,3,5,7,A,5,Bristol City_Leicester_2012
+315,1,Crystal Palace,11,1,0,0,0,0,0,0,7,H,8,2013-01-12,Burnley,E1,3,7,5,16,D,6,Burnley_Crystal Palace_2012
+316,0,Ipswich,9,0,0,0,0,0,0,2,15,D,6,2013-01-12,Cardiff,E1,2,3,10,8,D,4,Cardiff_Ipswich_2012
+317,1,Blackpool,10,2,0,1,2,0,0,0,6,H,11,2013-01-12,Charlton,E1,6,6,9,9,H,2,Charlton_Blackpool_2012
+318,3,Birmingham,10,1,0,1,0,0,1,4,12,D,11,2013-01-12,Huddersfield,E1,6,5,9,11,A,3,Huddersfield_Birmingham_2012
+319,1,Sheffield Weds,8,1,0,3,0,0,1,0,10,A,12,2013-01-12,Hull,E1,7,7,14,11,A,6,Hull_Sheffield Weds_2012
+320,1,Watford,14,1,0,2,0,0,1,0,6,A,7,2013-01-12,Middlesbrough,E1,4,7,9,17,A,3,Middlesbrough_Watford_2012
+321,1,Peterboro,7,2,0,1,1,0,0,1,9,H,6,2013-01-12,Nott'm Forest,E1,4,4,9,12,H,6,Nott'm Forest_Peterboro_2012
+322,2,Middlesbrough,10,1,0,0,0,0,0,1,9,H,17,2013-01-18,Leicester,E1,7,10,11,17,D,8,Leicester_Middlesbrough_2012
+323,1,Brighton,10,2,0,2,1,0,2,4,8,D,9,2013-01-19,Birmingham,E1,5,6,7,11,A,8,Birmingham_Brighton_2012
+324,0,Charlton,10,1,0,2,0,0,1,0,10,A,8,2013-01-19,Blackburn,E1,6,4,4,10,A,2,Blackburn_Charlton_2012
+325,0,Cardiff,8,1,0,2,0,0,0,3,10,A,12,2013-01-19,Blackpool,E1,7,10,4,14,D,2,Blackpool_Cardiff_2012
+326,1,Bolton,9,0,0,0,0,0,0,3,9,D,9,2013-01-19,Crystal Palace,E1,5,3,10,8,D,5,Crystal Palace_Bolton_2012
+327,0,Nott'm Forest,7,1,0,1,0,0,1,1,16,D,12,2013-01-19,Derby,E1,2,9,5,16,A,3,Derby_Nott'm Forest_2012
+328,0,Barnsley,5,1,0,1,0,0,0,1,5,D,14,2013-01-19,Ipswich,E1,3,8,5,15,D,6,Ipswich_Barnsley_2012
+329,0,Bristol City,6,1,0,0,0,0,0,3,14,H,6,2013-01-19,Leeds,E1,1,8,5,15,D,4,Leeds_Bristol City_2012
+330,0,Burnley,9,0,0,2,0,0,1,2,8,A,19,2013-01-19,Millwall,E1,10,5,8,9,A,4,Millwall_Burnley_2012
+331,0,Hull,9,1,0,1,0,0,1,2,13,D,14,2013-01-19,Peterboro,E1,8,1,1,7,A,6,Peterboro_Hull_2012
+332,1,Wolves,10,0,0,0,0,0,0,2,15,D,2,2013-01-19,Sheffield Weds,E1,0,2,5,11,D,3,Sheffield Weds_Wolves_2012
+333,1,Huddersfield,6,4,0,0,1,0,0,2,9,H,4,2013-01-19,Watford,E1,3,4,5,13,H,4,Watford_Huddersfield_2012
+334,3,Brighton,19,1,0,1,1,0,0,3,15,D,7,2013-01-22,Blackburn,E1,2,7,5,12,H,1,Blackburn_Brighton_2012
+335,1,Ipswich,6,2,0,1,0,0,1,0,8,H,9,2013-01-26,Bristol City,E1,5,5,2,7,A,6,Bristol City_Ipswich_2012
+336,1,Birmingham,10,1,0,2,0,1,1,0,13,A,6,2013-01-26,Burnley,E1,4,5,3,11,A,5,Burnley_Birmingham_2012
+337,1,Sheffield Weds,10,1,0,2,0,0,0,3,16,A,15,2013-01-26,Charlton,E1,9,3,3,9,D,6,Charlton_Sheffield Weds_2012
+338,1,Watford,14,0,0,3,0,0,2,3,12,A,14,2013-01-26,Nott'm Forest,E1,9,5,4,13,A,3,Nott'm Forest_Watford_2012
+339,1,Blackpool,9,1,0,2,1,1,1,1,11,A,8,2013-01-26,Wolves,E1,5,6,11,7,D,4,Wolves_Blackpool_2012
+340,0,Millwall,7,2,0,0,0,0,0,2,12,H,5,2013-01-29,Barnsley,E1,2,4,6,9,D,2,Barnsley_Millwall_2012
+341,0,Watford,4,2,0,0,1,0,0,3,6,H,5,2013-01-29,Bristol City,E1,2,4,6,7,H,3,Bristol City_Watford_2012
+342,2,Crystal Palace,11,1,0,0,0,0,0,1,12,H,9,2013-01-30,Huddersfield,E1,3,6,5,8,D,0,Huddersfield_Crystal Palace_2012
+343,0,Wolves,4,2,0,1,1,0,0,1,8,H,10,2013-01-31,Leicester,E1,5,5,4,12,H,9,Leicester_Wolves_2012
+344,2,Nott'm Forest,10,2,0,1,1,0,0,0,10,H,9,2013-02-02,Birmingham,E1,6,2,4,9,H,7,Birmingham_Nott'm Forest_2012
+345,1,Bristol City,10,2,0,0,1,0,0,0,9,H,9,2013-02-02,Blackburn,E1,4,8,2,16,H,0,Blackburn_Bristol City_2012
+346,1,Barnsley,11,1,0,2,0,1,1,0,9,A,8,2013-02-02,Blackpool,E1,6,7,12,16,A,5,Blackpool_Barnsley_2012
+347,0,Charlton,9,2,0,1,0,0,1,0,12,H,10,2013-02-02,Crystal Palace,E1,7,7,5,15,A,7,Crystal Palace_Charlton_2012
+348,2,Huddersfield,13,3,0,0,2,0,0,1,11,H,9,2013-02-02,Derby,E1,2,10,9,21,H,4,Derby_Huddersfield_2012
+349,1,Middlesbrough,13,4,0,0,1,0,0,0,7,H,5,2013-02-02,Ipswich,E1,1,7,7,14,H,2,Ipswich_Middlesbrough_2012
+350,1,Cardiff,15,0,0,1,0,0,0,3,18,A,6,2013-02-02,Leeds,E1,3,7,6,13,D,4,Leeds_Cardiff_2012
+351,3,Hull,15,0,0,1,0,0,1,1,9,A,9,2013-02-02,Millwall,E1,6,7,4,11,A,6,Millwall_Hull_2012
+352,0,Burnley,7,2,0,2,0,0,1,2,8,D,10,2013-02-02,Peterboro,E1,6,7,6,11,A,4,Peterboro_Burnley_2012
+353,2,Brighton,16,3,1,1,2,0,0,2,11,H,7,2013-02-02,Sheffield Weds,E1,3,5,5,9,H,10,Sheffield Weds_Brighton_2012
+354,2,Bolton,14,2,0,1,1,0,1,4,7,H,7,2013-02-02,Watford,E1,3,3,7,9,D,5,Watford_Bolton_2012
+355,5,Crystal Palace,15,2,0,2,2,0,0,2,10,D,17,2013-02-08,Watford,E1,11,7,4,12,H,10,Watford_Crystal Palace_2012
+356,1,Ipswich,5,1,0,0,0,0,0,0,16,H,9,2013-02-09,Blackburn,E1,2,4,6,11,D,2,Blackburn_Ipswich_2012
+357,0,Millwall,9,2,0,1,0,0,1,3,11,H,11,2013-02-09,Blackpool,E1,6,8,4,15,A,3,Blackpool_Millwall_2012
+358,1,Burnley,8,2,0,1,0,0,0,2,11,H,5,2013-02-09,Bolton,E1,2,8,8,18,D,9,Bolton_Burnley_2012
+359,1,Hull,12,1,0,0,0,0,0,1,9,H,16,2013-02-09,Brighton,E1,3,5,4,8,D,7,Brighton_Hull_2012
+360,1,Nott'm Forest,3,2,0,0,0,0,0,1,12,H,9,2013-02-09,Bristol City,E1,4,5,6,8,D,6,Bristol City_Nott'm Forest_2012
+361,1,Birmingham,14,1,1,1,0,0,0,1,5,D,15,2013-02-09,Charlton,E1,8,10,11,16,D,3,Charlton_Birmingham_2012
+362,2,Cardiff,14,0,0,0,0,0,0,3,12,D,7,2013-02-09,Huddersfield,E1,3,0,4,3,D,6,Huddersfield_Cardiff_2012
+363,2,Barnsley,11,2,0,3,0,0,1,2,10,A,5,2013-02-09,Middlesbrough,E1,4,4,4,7,A,5,Middlesbrough_Barnsley_2012
+364,0,Leicester,11,2,0,1,0,0,0,1,7,H,13,2013-02-09,Peterboro,E1,11,9,8,14,D,4,Peterboro_Leicester_2012
+365,2,Derby,13,2,0,2,0,0,1,2,8,D,3,2013-02-09,Sheffield Weds,E1,3,8,7,11,A,3,Sheffield Weds_Derby_2012
+366,0,Leeds,10,2,0,2,0,0,0,0,7,D,4,2013-02-09,Wolves,E1,1,1,9,8,D,7,Wolves_Leeds_2012
+367,2,Blackburn,13,1,0,1,0,0,1,5,8,D,8,2013-02-12,Brighton,E1,5,10,9,17,A,2,Brighton_Blackburn_2012
+368,3,Derby,13,2,1,1,0,0,0,3,16,H,7,2013-02-12,Hull,E1,3,3,3,11,D,1,Hull_Derby_2012
+369,3,Leeds,13,1,0,0,0,1,0,1,15,H,11,2013-02-12,Middlesbrough,E1,4,4,5,6,D,2,Middlesbrough_Leeds_2012
+370,2,Watford,11,0,0,4,0,0,2,0,2,A,12,2013-02-16,Birmingham,E1,9,2,8,7,A,7,Birmingham_Watford_2012
+371,0,Bristol City,6,2,0,1,1,0,0,1,12,H,9,2013-02-16,Cardiff,E1,6,11,8,13,H,3,Cardiff_Bristol City_2012
+372,0,Middlesbrough,7,4,0,1,1,0,0,1,5,H,6,2013-02-16,Crystal Palace,E1,5,6,7,11,H,4,Crystal Palace_Middlesbrough_2012
+373,1,Wolves,9,0,0,0,0,0,0,2,14,D,8,2013-02-16,Derby,E1,3,5,5,9,D,5,Derby_Wolves_2012
+374,1,Charlton,10,1,0,0,1,0,0,2,11,H,5,2013-02-16,Hull,E1,2,8,5,12,H,4,Hull_Charlton_2012
+375,1,Blackpool,8,1,0,0,0,0,0,0,7,H,9,2013-02-16,Ipswich,E1,4,5,2,11,D,7,Ipswich_Blackpool_2012
+376,1,Bolton,14,1,1,1,0,0,0,4,16,D,4,2013-02-16,Nott'm Forest,E1,4,12,8,14,D,3,Nott'm Forest_Bolton_2012
+377,1,Wolves,9,2,0,1,0,0,1,0,7,H,9,2013-02-19,Barnsley,E1,4,4,8,12,A,6,Barnsley_Wolves_2012
+378,0,Sheffield Weds,11,0,0,0,0,0,0,4,6,D,15,2013-02-19,Birmingham,E1,3,4,0,11,D,8,Birmingham_Sheffield Weds_2012
+379,2,Middlesbrough,10,0,0,0,0,0,0,2,11,D,9,2013-02-19,Burnley,E1,5,5,12,12,D,1,Burnley_Middlesbrough_2012
+380,1,Brighton,13,0,0,2,0,0,1,3,13,A,5,2013-02-19,Cardiff,E1,4,12,13,19,A,1,Cardiff_Brighton_2012
+381,1,Bristol City,16,2,0,1,1,0,0,3,14,H,6,2013-02-19,Crystal Palace,E1,3,7,5,14,H,4,Crystal Palace_Bristol City_2012
+382,0,Bolton,15,1,0,1,0,0,1,1,17,D,10,2013-02-19,Derby,E1,6,10,7,22,A,4,Derby_Bolton_2012
+383,1,Blackburn,12,2,0,0,0,0,0,4,9,H,1,2013-02-19,Hull,E1,1,7,10,8,D,3,Hull_Blackburn_2012
+384,2,Watford,9,0,0,2,0,0,1,4,12,A,13,2013-02-19,Ipswich,E1,7,7,8,15,A,2,Ipswich_Watford_2012
+385,0,Charlton,9,1,0,2,0,0,1,1,8,A,6,2013-02-19,Leicester,E1,3,4,11,9,A,2,Leicester_Charlton_2012
+386,3,Peterboro,12,1,0,5,1,1,2,0,8,A,10,2013-02-19,Millwall,E1,6,5,7,5,A,3,Millwall_Peterboro_2012
+387,0,Huddersfield,5,6,0,1,4,0,1,2,9,H,7,2013-02-19,Nott'm Forest,E1,4,10,3,14,H,5,Nott'm Forest_Huddersfield_2012
+388,0,Blackpool,8,2,0,0,0,0,0,0,3,H,11,2013-02-20,Leeds,E1,6,10,7,16,D,5,Leeds_Blackpool_2012
+389,1,Leeds,7,0,0,0,0,0,0,0,8,D,12,2013-02-23,Blackburn,E1,7,6,3,12,D,5,Blackburn_Leeds_2012
+390,2,Leicester,10,0,0,0,0,0,0,1,16,D,7,2013-02-23,Blackpool,E1,2,6,2,12,D,6,Blackpool_Leicester_2012
+391,2,Hull,11,4,0,1,3,0,0,1,5,H,9,2013-02-23,Bolton,E1,4,5,3,7,H,8,Bolton_Hull_2012
+392,2,Burnley,8,1,0,0,1,0,0,3,13,H,13,2013-02-23,Brighton,E1,6,3,6,7,H,6,Brighton_Burnley_2012
+393,0,Barnsley,8,5,0,3,2,0,0,1,5,H,21,2013-02-23,Bristol City,E1,14,12,9,16,H,6,Bristol City_Barnsley_2012
+394,0,Nott'm Forest,6,0,0,2,0,1,0,1,14,A,22,2013-02-23,Charlton,E1,12,1,3,3,D,9,Charlton_Nott'm Forest_2012
+395,1,Ipswich,8,0,0,0,0,0,0,0,8,D,1,2013-02-23,Huddersfield,E1,1,4,8,7,D,5,Huddersfield_Ipswich_2012
+396,0,Millwall,10,1,0,2,0,0,2,3,13,A,6,2013-02-23,Middlesbrough,E1,3,5,11,14,A,4,Middlesbrough_Millwall_2012
+397,0,Birmingham,9,0,0,2,0,0,1,1,9,A,13,2013-02-23,Peterboro,E1,6,9,7,12,A,1,Peterboro_Birmingham_2012
+398,2,Crystal Palace,9,1,0,0,0,0,0,2,8,H,8,2013-02-23,Sheffield Weds,E1,7,5,3,7,D,7,Sheffield Weds_Crystal Palace_2012
+399,0,Derby,10,2,0,1,1,0,0,2,5,H,7,2013-02-23,Watford,E1,3,8,6,13,H,4,Watford_Derby_2012
+400,1,Cardiff,15,1,0,2,0,0,1,1,8,A,11,2013-02-24,Wolves,E1,7,2,1,6,A,7,Wolves_Cardiff_2012
+401,1,Peterboro,9,1,0,0,1,0,0,0,10,H,6,2013-02-26,Bolton,E1,4,5,6,14,H,5,Bolton_Peterboro_2012
+402,3,Huddersfield,13,0,0,1,0,0,0,3,7,A,8,2013-02-26,Burnley,E1,5,5,8,13,D,1,Burnley_Huddersfield_2012
+403,0,Blackburn,6,3,0,0,2,0,0,0,4,H,6,2013-02-26,Leicester,E1,2,7,11,14,H,4,Leicester_Blackburn_2012
+404,2,Crystal Palace,11,0,0,1,0,0,1,3,16,A,8,2013-03-01,Derby,E1,4,12,9,18,A,4,Derby_Crystal Palace_2012
+405,1,Watford,12,1,0,1,0,0,1,1,2,D,16,2013-03-01,Wolves,E1,11,10,5,13,A,6,Wolves_Watford_2012
+406,1,Bolton,9,2,0,3,0,0,2,1,18,A,8,2013-03-02,Barnsley,E1,7,9,12,16,A,6,Barnsley_Bolton_2012
+407,2,Peterboro,14,2,0,3,0,0,3,1,4,A,10,2013-03-02,Blackburn,E1,6,8,2,13,A,2,Blackburn_Peterboro_2012
+408,1,Bristol City,9,0,0,0,0,0,0,1,8,D,10,2013-03-02,Blackpool,E1,7,4,2,6,D,4,Blackpool_Bristol City_2012
+409,0,Huddersfield,4,4,0,1,1,0,1,4,14,H,5,2013-03-02,Brighton,E1,3,8,12,13,D,6,Brighton_Huddersfield_2012
+410,0,Burnley,13,0,0,1,0,0,1,4,15,A,6,2013-03-02,Charlton,E1,4,5,11,14,A,4,Charlton_Burnley_2012
+411,1,Birmingham,8,5,0,2,3,0,0,0,6,H,7,2013-03-02,Hull,E1,6,9,2,16,H,6,Hull_Birmingham_2012
+412,1,Leicester,6,1,0,0,0,0,0,2,11,H,11,2013-03-02,Ipswich,E1,4,6,6,10,D,5,Ipswich_Leicester_2012
+413,0,Millwall,16,1,0,0,0,0,0,3,14,H,9,2013-03-02,Leeds,E1,3,6,6,10,D,7,Leeds_Millwall_2012
+414,2,Cardiff,11,2,0,1,2,0,0,3,10,H,13,2013-03-02,Middlesbrough,E1,6,5,6,11,H,13,Middlesbrough_Cardiff_2012
+415,1,Nott'm Forest,15,0,0,1,0,0,1,4,11,A,9,2013-03-02,Sheffield Weds,E1,4,3,5,8,A,2,Sheffield Weds_Nott'm Forest_2012
+416,0,Blackpool,7,1,0,1,1,0,0,1,8,D,10,2013-03-05,Birmingham,E1,4,4,6,19,H,5,Birmingham_Blackpool_2012
+417,1,Blackburn,13,1,0,0,0,0,0,2,10,H,9,2013-03-05,Bolton,E1,7,10,5,19,D,5,Bolton_Blackburn_2012
+418,0,Brighton,10,0,0,0,0,0,0,0,8,D,0,2013-03-05,Bristol City,E1,0,8,8,13,D,2,Bristol City_Brighton_2012
+419,1,Barnsley,4,1,0,1,1,0,0,2,8,D,9,2013-03-05,Burnley,E1,5,5,5,7,H,7,Burnley_Barnsley_2012
+420,2,Derby,10,1,0,1,0,0,0,2,10,D,8,2013-03-05,Cardiff,E1,6,8,5,12,D,6,Cardiff_Derby_2012
+421,1,Hull,9,4,0,2,1,0,0,1,16,H,12,2013-03-05,Crystal Palace,E1,6,9,2,11,H,5,Crystal Palace_Hull_2012
+422,0,Middlesbrough,8,2,0,1,0,0,0,2,8,H,9,2013-03-05,Huddersfield,E1,3,5,4,12,D,2,Huddersfield_Middlesbrough_2012
+423,1,Leeds,9,1,0,1,0,0,0,1,7,D,6,2013-03-05,Leicester,E1,5,7,9,14,D,5,Leicester_Leeds_2012
+424,0,Wolves,10,0,0,2,0,0,1,2,6,A,2,2013-03-05,Millwall,E1,2,2,5,5,A,5,Millwall_Wolves_2012
+425,4,Ipswich,12,1,2,0,0,0,0,1,14,H,7,2013-03-05,Nott'm Forest,E1,5,6,4,14,D,3,Nott'm Forest_Ipswich_2012
+426,1,Charlton,7,2,0,2,1,0,0,1,10,D,12,2013-03-05,Peterboro,E1,6,7,10,13,H,6,Peterboro_Charlton_2012
+427,2,Sheffield Weds,11,2,0,1,0,0,1,4,11,H,15,2013-03-05,Watford,E1,9,3,10,9,A,5,Watford_Sheffield Weds_2012
+428,2,Derby,12,3,0,1,0,0,1,0,9,H,11,2013-03-09,Birmingham,E1,8,3,1,8,A,10,Birmingham_Derby_2012
+429,1,Brighton,11,1,1,0,1,0,0,0,9,H,21,2013-03-09,Bolton,E1,12,8,5,13,H,14,Bolton_Brighton_2012
+430,0,Middlesbrough,8,2,0,0,1,0,0,1,10,H,4,2013-03-09,Bristol City,E1,3,7,3,11,H,4,Bristol City_Middlesbrough_2012
+431,0,Leeds,8,2,0,2,1,0,0,4,12,D,11,2013-03-09,Crystal Palace,E1,6,7,4,17,H,4,Crystal Palace_Leeds_2012
+432,2,Charlton,9,0,0,1,0,0,1,3,15,A,6,2013-03-09,Huddersfield,E1,4,7,9,10,A,3,Huddersfield_Charlton_2012
+433,1,Sheffield Weds,7,0,0,1,0,0,0,1,12,A,4,2013-03-09,Leicester,E1,3,4,8,10,D,3,Leicester_Sheffield Weds_2012
+434,0,Wolves,8,3,1,1,1,0,0,0,11,H,6,2013-03-09,Nott'm Forest,E1,2,4,8,7,H,5,Nott'm Forest_Wolves_2012
+435,2,Ipswich,11,0,0,0,0,0,0,0,5,D,16,2013-03-09,Peterboro,E1,8,4,4,8,D,7,Peterboro_Ipswich_2012
+436,1,Blackpool,12,1,0,2,1,0,0,0,14,A,9,2013-03-09,Watford,E1,4,2,4,6,H,6,Watford_Blackpool_2012
+437,0,Hull,9,0,0,1,0,0,0,1,4,A,8,2013-03-11,Burnley,E1,5,3,5,9,D,3,Burnley_Hull_2012
+438,3,Brighton,16,2,0,1,1,0,0,1,16,H,9,2013-03-12,Barnsley,E1,4,5,3,9,H,5,Barnsley_Brighton_2012
+439,2,Leicester,7,1,0,1,0,0,0,3,11,D,8,2013-03-12,Cardiff,E1,6,4,5,7,D,5,Cardiff_Leicester_2012
+440,3,Peterboro,13,1,0,1,0,0,1,0,10,D,16,2013-03-12,Leeds,E1,9,9,8,20,A,4,Leeds_Peterboro_2012
+441,3,Watford,13,1,0,0,1,0,0,2,16,H,5,2013-03-16,Barnsley,E1,2,4,4,7,H,4,Barnsley_Watford_2012
+442,2,Peterboro,8,0,0,1,0,0,1,1,6,A,11,2013-03-16,Blackpool,E1,5,10,6,14,A,5,Blackpool_Peterboro_2012
+443,1,Millwall,13,0,0,2,0,0,0,2,11,A,12,2013-03-16,Charlton,E1,5,3,2,10,D,2,Charlton_Millwall_2012
+444,3,Leicester,8,2,0,1,2,0,0,2,12,H,17,2013-03-16,Derby,E1,7,5,3,9,H,5,Derby_Leicester_2012
+445,2,Nott'm Forest,8,1,0,2,1,0,0,5,18,A,12,2013-03-16,Hull,E1,6,12,6,21,H,2,Hull_Nott'm Forest_2012
+446,0,Bolton,4,1,0,0,0,0,0,2,6,H,8,2013-03-16,Ipswich,E1,2,5,1,10,D,7,Ipswich_Bolton_2012
+447,3,Huddersfield,7,1,0,2,0,0,0,1,12,A,13,2013-03-16,Leeds,E1,10,7,7,11,D,3,Leeds_Huddersfield_2012
+448,0,Birmingham,6,0,0,1,0,0,0,2,8,A,9,2013-03-16,Middlesbrough,E1,4,5,10,12,D,7,Middlesbrough_Birmingham_2012
+449,3,Cardiff,8,0,0,2,0,0,1,2,15,A,2,2013-03-16,Sheffield Weds,E1,1,5,3,6,A,6,Sheffield Weds_Cardiff_2012
+450,0,Bristol City,8,2,0,1,0,0,1,0,8,H,5,2013-03-16,Wolves,E1,2,5,8,11,A,0,Wolves_Bristol City_2012
+451,2,Burnley,12,1,1,1,0,0,1,2,16,D,11,2013-03-17,Blackburn,E1,3,9,5,16,A,3,Blackburn_Burnley_2012
+452,2,Crystal Palace,13,3,0,0,2,0,0,1,15,H,8,2013-03-17,Brighton,E1,2,8,4,11,H,4,Brighton_Crystal Palace_2012
+453,0,Blackpool,7,1,0,1,0,0,0,2,4,D,11,2013-03-29,Blackburn,E1,6,6,2,17,D,4,Blackburn_Blackpool_2012
+454,1,Birmingham,8,0,0,4,0,0,2,3,16,A,9,2013-03-29,Crystal Palace,E1,6,3,7,13,A,1,Crystal Palace_Birmingham_2012
+455,1,Bristol City,8,3,0,0,1,0,0,2,11,H,12,2013-03-29,Derby,E1,2,4,7,9,H,4,Derby_Bristol City_2012
+456,0,Millwall,13,0,0,1,0,1,0,4,11,A,11,2013-03-29,Leicester,E1,9,3,5,7,D,11,Leicester_Millwall_2012
+457,1,Burnley,9,3,0,3,2,0,2,3,11,D,13,2013-03-29,Watford,E1,7,5,5,10,D,6,Watford_Burnley_2012
+458,3,Bolton,12,3,2,2,1,0,2,4,14,H,10,2013-03-30,Charlton,E1,8,12,9,18,A,2,Charlton_Bolton_2012
+459,4,Hull,7,0,0,1,0,0,0,4,9,A,6,2013-03-30,Huddersfield,E1,4,3,4,9,D,3,Huddersfield_Hull_2012
+460,2,Leeds,12,3,1,0,1,0,0,3,7,H,19,2013-03-30,Ipswich,E1,9,13,2,18,H,7,Ipswich_Leeds_2012
+461,3,Brighton,15,2,0,2,0,0,0,2,7,D,6,2013-03-30,Nott'm Forest,E1,5,7,12,12,D,3,Nott'm Forest_Brighton_2012
+462,0,Cardiff,7,2,0,1,0,0,1,2,12,H,16,2013-03-30,Peterboro,E1,9,7,9,13,A,3,Peterboro_Cardiff_2012
+463,3,Barnsley,10,2,0,1,0,1,0,2,13,H,11,2013-03-30,Sheffield Weds,E1,7,5,2,7,D,5,Sheffield Weds_Barnsley_2012
+464,2,Middlesbrough,8,3,0,2,1,0,1,1,8,H,16,2013-03-30,Wolves,E1,6,15,13,17,D,6,Wolves_Middlesbrough_2012
+465,1,Leicester,10,2,0,0,2,0,0,2,13,H,10,2013-04-01,Barnsley,E1,7,7,5,10,H,7,Barnsley_Leicester_2012
+466,2,Wolves,10,2,0,3,0,0,3,4,17,A,5,2013-04-01,Birmingham,E1,3,3,5,13,A,5,Birmingham_Wolves_2012
+467,1,Crystal Palace,11,1,0,0,0,1,0,1,5,H,8,2013-04-01,Blackpool,E1,4,3,2,6,D,7,Blackpool_Crystal Palace_2012
+468,2,Sheffield Weds,10,1,0,1,0,0,1,6,11,D,7,2013-04-01,Bristol City,E1,1,9,7,13,A,5,Bristol City_Sheffield Weds_2012
+469,2,Nott'm Forest,6,1,0,1,0,0,0,1,10,D,8,2013-04-01,Burnley,E1,6,4,2,9,D,10,Burnley_Nott'm Forest_2012
+470,0,Blackburn,10,3,0,0,1,0,0,4,16,H,2,2013-04-01,Cardiff,E1,0,15,12,20,H,0,Cardiff_Blackburn_2012
+471,1,Derby,15,1,0,2,0,0,0,0,15,A,7,2013-04-01,Leeds,E1,7,3,6,10,D,6,Leeds_Derby_2012
+472,3,Ipswich,15,0,0,0,0,0,0,2,17,D,6,2013-04-01,Millwall,E1,4,1,7,7,D,4,Millwall_Ipswich_2012
+473,0,Huddersfield,7,1,0,0,0,0,0,3,10,H,14,2013-04-02,Bolton,E1,6,7,4,13,D,11,Bolton_Huddersfield_2012
+474,1,Charlton,7,0,0,0,0,0,0,2,13,D,6,2013-04-02,Brighton,E1,2,5,14,12,D,2,Brighton_Charlton_2012
+475,0,Watford,11,0,0,1,0,0,1,1,11,A,6,2013-04-02,Hull,E1,3,10,8,15,A,1,Hull_Watford_2012
+476,0,Peterboro,10,0,0,0,0,0,0,0,8,D,11,2013-04-02,Middlesbrough,E1,7,5,6,16,D,6,Middlesbrough_Peterboro_2012
+477,4,Millwall,10,1,0,1,0,0,0,1,11,D,6,2013-04-06,Birmingham,E1,1,7,6,10,D,3,Birmingham_Millwall_2012
+478,2,Wolves,11,2,0,0,2,0,0,2,11,H,7,2013-04-06,Bolton,E1,2,8,8,15,H,7,Bolton_Wolves_2012
+479,1,Leicester,5,1,0,1,0,0,0,2,10,D,19,2013-04-06,Brighton,E1,10,7,7,12,D,6,Brighton_Leicester_2012
+480,3,Bristol City,11,3,0,1,0,0,1,1,8,H,3,2013-04-06,Burnley,E1,2,13,6,25,A,8,Burnley_Bristol City_2012
+481,1,Leeds,12,2,0,1,0,0,0,3,13,H,6,2013-04-06,Charlton,E1,3,7,6,11,D,1,Charlton_Leeds_2012
+482,2,Barnsley,8,0,0,0,0,0,0,5,19,D,3,2013-04-06,Crystal Palace,E1,0,12,9,23,D,1,Crystal Palace_Barnsley_2012
+483,1,Ipswich,10,0,0,1,0,0,0,2,14,A,8,2013-04-06,Derby,E1,4,9,9,14,D,2,Derby_Ipswich_2012
+484,5,Peterboro,10,2,0,2,1,0,0,1,12,D,9,2013-04-06,Huddersfield,E1,5,4,7,10,H,2,Huddersfield_Peterboro_2012
+485,4,Middlesbrough,11,1,0,0,0,0,0,0,7,H,13,2013-04-06,Hull,E1,6,8,5,18,D,10,Hull_Middlesbrough_2012
+486,3,Blackpool,15,1,1,1,0,0,1,2,7,D,6,2013-04-06,Nott'm Forest,E1,5,12,7,20,A,1,Nott'm Forest_Blackpool_2012
+487,5,Blackburn,20,3,0,2,2,0,1,5,14,H,11,2013-04-06,Sheffield Weds,E1,5,6,5,8,H,8,Sheffield Weds_Blackburn_2012
+488,1,Cardiff,10,0,0,0,0,0,0,2,13,D,10,2013-04-06,Watford,E1,7,5,6,10,D,3,Watford_Cardiff_2012
+489,2,Barnsley,10,1,0,1,0,0,0,1,10,D,9,2013-04-09,Cardiff,E1,5,14,8,19,D,2,Cardiff_Barnsley_2012
+490,1,Sheffield Weds,8,1,0,2,1,0,1,2,14,A,7,2013-04-09,Millwall,E1,5,6,7,11,D,7,Millwall_Sheffield Weds_2012
+491,0,Birmingham,9,2,0,2,1,0,0,1,5,D,10,2013-04-12,Leicester,E1,6,8,8,16,H,7,Leicester_Birmingham_2012
+492,0,Charlton,5,0,0,6,0,2,2,0,11,A,15,2013-04-13,Barnsley,E1,9,10,5,14,A,6,Barnsley_Charlton_2012
+493,3,Derby,13,2,0,0,2,0,0,1,17,H,12,2013-04-13,Blackburn,E1,9,3,3,7,H,6,Blackburn_Derby_2012
+494,3,Burnley,8,1,0,0,0,0,0,0,11,H,8,2013-04-13,Blackpool,E1,5,4,5,10,D,6,Blackpool_Burnley_2012
+495,1,Bolton,4,1,0,2,0,0,1,2,6,A,12,2013-04-13,Bristol City,E1,6,5,12,19,A,4,Bristol City_Bolton_2012
+496,1,Nott'm Forest,11,3,1,0,1,0,0,6,14,H,9,2013-04-13,Cardiff,E1,6,8,7,17,H,2,Cardiff_Nott'm Forest_2012
+497,1,Hull,10,1,0,2,0,0,1,1,7,A,11,2013-04-13,Ipswich,E1,6,4,2,9,A,7,Ipswich_Hull_2012
+498,0,Sheffield Weds,10,2,0,1,0,0,1,3,19,H,9,2013-04-13,Leeds,E1,5,7,6,12,A,3,Leeds_Sheffield Weds_2012
+499,2,Brighton,7,0,0,2,0,0,0,2,8,A,3,2013-04-13,Middlesbrough,E1,2,2,6,6,D,4,Middlesbrough_Brighton_2012
+500,2,Watford,18,3,1,2,1,0,0,2,9,H,17,2013-04-13,Peterboro,E1,8,6,5,12,H,9,Peterboro_Watford_2012
+501,2,Huddersfield,12,1,0,3,1,1,1,3,12,A,7,2013-04-13,Wolves,E1,5,3,12,7,D,4,Wolves_Huddersfield_2012
+502,2,Derby,16,1,0,1,0,0,0,0,12,D,10,2013-04-16,Barnsley,E1,6,4,2,5,D,3,Barnsley_Derby_2012
+503,1,Huddersfield,7,1,0,0,1,0,0,4,14,H,7,2013-04-16,Blackburn,E1,5,9,5,15,H,5,Blackburn_Huddersfield_2012
+504,3,Sheffield Weds,13,0,0,0,0,0,0,3,13,D,7,2013-04-16,Blackpool,E1,5,5,5,14,D,6,Blackpool_Sheffield Weds_2012
+505,0,Birmingham,6,0,0,1,0,0,1,1,3,A,8,2013-04-16,Bristol City,E1,3,6,15,12,A,2,Bristol City_Birmingham_2012
+506,0,Charlton,9,0,0,0,0,0,0,1,16,D,9,2013-04-16,Cardiff,E1,4,5,6,14,D,5,Cardiff_Charlton_2012
+507,4,Crystal Palace,15,3,0,0,3,0,0,3,10,H,14,2013-04-16,Ipswich,E1,7,3,3,9,H,11,Ipswich_Crystal Palace_2012
+508,2,Burnley,8,1,0,0,0,0,0,4,12,H,5,2013-04-16,Leeds,E1,0,3,9,8,D,3,Leeds_Burnley_2012
+509,1,Bolton,6,3,0,2,2,0,1,1,8,H,7,2013-04-16,Leicester,E1,3,4,6,9,H,7,Leicester_Bolton_2012
+510,2,Nott'm Forest,8,1,0,0,1,0,0,1,9,H,18,2013-04-16,Middlesbrough,E1,8,6,6,10,H,5,Middlesbrough_Nott'm Forest_2012
+511,1,Watford,12,1,0,0,0,0,0,0,12,H,9,2013-04-16,Millwall,E1,4,3,3,4,D,7,Millwall_Watford_2012
+512,1,Brighton,9,0,0,0,0,0,0,2,13,D,11,2013-04-16,Peterboro,E1,5,6,4,11,D,9,Peterboro_Brighton_2012
+513,1,Hull,12,1,0,0,0,0,0,3,12,H,9,2013-04-16,Wolves,E1,3,4,1,8,D,8,Wolves_Hull_2012
+514,0,Bristol City,7,0,0,0,0,0,0,0,11,D,8,2013-04-19,Hull,E1,4,4,3,7,D,3,Hull_Bristol City_2012
+515,0,Leeds,7,1,0,0,0,0,0,0,9,H,7,2013-04-20,Birmingham,E1,5,5,4,13,D,5,Birmingham_Leeds_2012
+516,0,Middlesbrough,10,2,1,1,0,0,0,1,13,H,8,2013-04-20,Bolton,E1,4,7,5,11,D,3,Bolton_Middlesbrough_2012
+517,1,Blackpool,4,6,0,1,3,0,0,1,3,H,7,2013-04-20,Brighton,E1,1,12,6,15,H,2,Brighton_Blackpool_2012
+518,2,Cardiff,10,1,0,1,0,0,1,1,6,D,10,2013-04-20,Burnley,E1,3,6,2,9,A,3,Burnley_Cardiff_2012
+519,0,Wolves,9,2,0,1,0,0,0,4,9,H,4,2013-04-20,Charlton,E1,1,6,6,8,D,6,Charlton_Wolves_2012
+520,3,Leicester,13,2,0,2,1,0,1,1,11,D,26,2013-04-20,Crystal Palace,E1,18,8,7,13,D,6,Crystal Palace_Leicester_2012
+521,3,Peterboro,11,3,0,1,1,1,0,1,10,H,8,2013-04-20,Derby,E1,5,12,19,17,H,2,Derby_Peterboro_2012
+522,1,Millwall,15,3,0,0,1,0,0,3,9,H,5,2013-04-20,Huddersfield,E1,3,7,6,10,H,3,Huddersfield_Millwall_2012
+523,1,Barnsley,14,0,0,0,0,0,0,2,8,D,2,2013-04-20,Nott'm Forest,E1,1,8,15,14,D,2,Nott'm Forest_Barnsley_2012
+524,0,Ipswich,5,1,0,1,0,0,1,0,12,D,7,2013-04-20,Sheffield Weds,E1,4,5,4,8,A,6,Sheffield Weds_Ipswich_2012
+525,2,Blackburn,7,4,1,0,0,0,0,3,10,H,3,2013-04-20,Watford,E1,0,9,12,12,D,1,Watford_Blackburn_2012
+526,4,Blackburn,15,1,0,2,1,0,0,2,15,A,5,2013-04-23,Millwall,E1,4,3,8,4,H,6,Millwall_Blackburn_2012
+527,2,Watford,12,1,0,2,0,0,2,1,8,A,10,2013-04-26,Leicester,E1,6,4,9,9,A,7,Leicester_Watford_2012
+528,1,Hull,9,2,0,0,1,0,0,0,15,H,7,2013-04-27,Barnsley,E1,2,2,4,5,H,2,Barnsley_Hull_2012
+529,0,Crystal Palace,11,1,0,1,1,0,1,1,11,D,10,2013-04-27,Blackburn,E1,2,4,0,12,D,8,Blackburn_Crystal Palace_2012
+530,3,Derby,17,2,0,1,1,0,0,3,17,H,12,2013-04-27,Blackpool,E1,6,8,3,14,H,6,Blackpool_Derby_2012
+531,0,Huddersfield,9,1,0,3,0,0,2,0,15,A,8,2013-04-27,Bristol City,E1,5,2,2,8,A,3,Bristol City_Huddersfield_2012
+532,0,Bolton,13,1,0,1,0,0,1,3,12,D,9,2013-04-27,Cardiff,E1,5,8,7,11,A,2,Cardiff_Bolton_2012
+533,2,Birmingham,11,3,0,1,2,0,0,0,9,H,14,2013-04-27,Ipswich,E1,9,5,4,12,H,1,Ipswich_Birmingham_2012
+534,1,Brighton,5,1,1,2,0,2,1,2,15,A,10,2013-04-27,Leeds,E1,4,3,8,8,A,2,Leeds_Brighton_2012
+535,2,Charlton,9,2,0,2,0,0,2,0,11,D,5,2013-04-27,Middlesbrough,E1,1,7,8,11,A,3,Middlesbrough_Charlton_2012
+536,1,Nott'm Forest,6,0,0,1,0,0,1,2,17,A,7,2013-04-27,Millwall,E1,6,2,5,4,A,7,Millwall_Nott'm Forest_2012
+537,0,Sheffield Weds,10,1,0,0,0,0,0,3,12,H,12,2013-04-27,Peterboro,E1,6,5,6,12,D,8,Peterboro_Sheffield Weds_2012
+538,2,Burnley,7,1,1,2,0,0,1,3,12,A,9,2013-04-27,Wolves,E1,5,9,11,20,A,3,Wolves_Burnley_2012
+539,4,Crystal Palace,12,0,0,0,0,0,0,1,9,D,3,2013-04-30,Millwall,E1,1,1,5,3,D,5,Millwall_Crystal Palace_2012
+540,0,Blackburn,6,1,0,1,1,0,0,0,11,D,9,2013-05-04,Birmingham,E1,5,6,5,11,H,7,Birmingham_Blackburn_2012
+541,3,Blackpool,6,2,0,2,2,0,2,4,12,D,5,2013-05-04,Bolton,E1,2,7,11,19,D,4,Bolton_Blackpool_2012
+542,0,Wolves,8,2,0,0,2,0,0,1,7,H,8,2013-05-04,Brighton,E1,2,3,2,7,H,9,Brighton_Wolves_2012
+543,1,Ipswich,8,2,0,0,0,0,0,0,6,H,13,2013-05-04,Burnley,E1,7,9,7,19,D,6,Burnley_Ipswich_2012
+544,2,Bristol City,11,4,0,1,0,0,0,0,2,H,10,2013-05-04,Charlton,E1,6,9,7,18,D,2,Charlton_Bristol City_2012
+545,3,Peterboro,10,3,0,2,1,0,1,1,9,H,9,2013-05-04,Crystal Palace,E1,6,7,6,11,D,6,Crystal Palace_Peterboro_2012
+546,0,Millwall,6,1,0,0,0,0,0,3,14,H,6,2013-05-04,Derby,E1,4,4,5,8,D,11,Derby_Millwall_2012
+547,3,Barnsley,12,2,0,2,0,0,1,3,12,D,11,2013-05-04,Huddersfield,E1,8,3,1,6,A,5,Huddersfield_Barnsley_2012
+548,2,Cardiff,15,2,1,2,0,0,0,3,20,D,6,2013-05-04,Hull,E1,4,12,6,16,D,5,Hull_Cardiff_2012
+549,1,Leicester,5,2,0,3,1,0,2,2,8,A,17,2013-05-04,Nott'm Forest,E1,10,9,4,13,A,11,Nott'm Forest_Leicester_2012
+550,0,Middlesbrough,14,2,0,0,2,0,0,1,10,H,3,2013-05-04,Sheffield Weds,E1,1,4,5,9,H,2,Sheffield Weds_Middlesbrough_2012
+551,3,Leeds,9,1,0,2,1,1,1,2,12,A,7,2013-05-04,Watford,E1,3,8,4,15,D,2,Watford_Leeds_2012

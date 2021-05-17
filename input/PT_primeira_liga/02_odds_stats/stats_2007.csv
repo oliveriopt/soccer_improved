@@ -1,0 +1,241 @@
+,HTHG,Div,AwayTeam,FTR,HTAG,Date,HTR,HomeTeam,FTHG,FTAG,idGame
+0,2,P1,Academica,H,0,2007-08-17,H,Sp Lisbon,4,1,Sp Lisbon_Academica_2007
+1,0,P1,Benfica,D,0,2007-08-18,D,Leixoes,1,1,Leixoes_Benfica_2007
+2,3,P1,Pacos Ferreira,H,0,2007-08-18,H,Maritimo,3,1,Maritimo_Pacos Ferreira_2007
+3,0,P1,Est Amadora,D,0,2007-08-18,D,Nacional,0,0,Nacional_Est Amadora_2007
+4,0,P1,Porto,A,1,2007-08-18,A,Sp Braga,1,2,Sp Braga_Porto_2007
+5,1,P1,Setubal,D,1,2007-08-19,D,Guimaraes,1,1,Guimaraes_Setubal_2007
+6,0,P1,Boavista,D,0,2007-08-19,D,Leiria,0,0,Leiria_Boavista_2007
+7,0,P1,Belenenses,D,0,2007-08-20,D,Naval,1,1,Naval_Belenenses_2007
+8,0,P1,Sp Braga,A,1,2007-08-25,A,Belenenses,0,2,Belenenses_Sp Braga_2007
+9,0,P1,Guimaraes,D,0,2007-08-25,D,Benfica,0,0,Benfica_Guimaraes_2007
+10,0,P1,Leiria,D,0,2007-08-26,D,Academica,1,1,Academica_Leiria_2007
+11,0,P1,Maritimo,A,2,2007-08-26,A,Boavista,0,2,Boavista_Maritimo_2007
+12,1,P1,Naval,H,1,2007-08-26,D,Est Amadora,3,1,Est Amadora_Naval_2007
+13,0,P1,Leixoes,D,0,2007-08-26,D,Pacos Ferreira,1,1,Pacos Ferreira_Leixoes_2007
+14,0,P1,Sp Lisbon,H,0,2007-08-26,D,Porto,1,0,Porto_Sp Lisbon_2007
+15,1,P1,Nacional,D,1,2007-08-27,D,Setubal,1,1,Setubal_Nacional_2007
+16,2,P1,Guimaraes,D,1,2007-08-31,H,Leixoes,2,2,Leixoes_Guimaraes_2007
+17,1,P1,Boavista,D,0,2007-09-01,H,Pacos Ferreira,1,1,Pacos Ferreira_Boavista_2007
+18,0,P1,Est Amadora,H,1,2007-09-01,A,Sp Braga,2,1,Sp Braga_Est Amadora_2007
+19,0,P1,Porto,A,1,2007-09-02,A,Leiria,0,3,Leiria_Porto_2007
+20,1,P1,Academica,H,0,2007-09-02,H,Maritimo,2,0,Maritimo_Academica_2007
+21,0,P1,Benfica,A,1,2007-09-02,A,Nacional,0,3,Nacional_Benfica_2007
+22,0,P1,Setubal,D,0,2007-09-02,D,Naval,0,0,Naval_Setubal_2007
+23,0,P1,Belenenses,H,0,2007-09-02,D,Sp Lisbon,1,0,Sp Lisbon_Belenenses_2007
+24,1,P1,Sp Braga,H,0,2007-09-14,H,Setubal,3,1,Setubal_Sp Braga_2007
+25,2,P1,Naval,H,0,2007-09-15,H,Benfica,3,0,Benfica_Naval_2007
+26,0,P1,Leixoes,D,0,2007-09-15,D,Boavista,0,0,Boavista_Leixoes_2007
+27,0,P1,Maritimo,H,0,2007-09-15,D,Porto,1,0,Porto_Maritimo_2007
+28,0,P1,Pacos Ferreira,H,0,2007-09-16,D,Academica,1,0,Academica_Pacos Ferreira_2007
+29,0,P1,Leiria,H,1,2007-09-16,A,Belenenses,2,1,Belenenses_Leiria_2007
+30,0,P1,Sp Lisbon,A,2,2007-09-16,A,Est Amadora,0,2,Est Amadora_Sp Lisbon_2007
+31,0,P1,Nacional,H,0,2007-09-17,D,Guimaraes,1,0,Guimaraes_Nacional_2007
+32,1,P1,Guimaraes,A,2,2007-09-21,A,Naval,1,4,Naval_Guimaraes_2007
+33,0,P1,Est Amadora,D,0,2007-09-23,D,Leiria,0,0,Leiria_Est Amadora_2007
+34,0,P1,Nacional,D,1,2007-09-23,A,Leixoes,1,1,Leixoes_Nacional_2007
+35,1,P1,Belenenses,H,0,2007-09-23,H,Maritimo,2,0,Maritimo_Belenenses_2007
+36,0,P1,Porto,A,1,2007-09-23,A,Pacos Ferreira,0,2,Pacos Ferreira_Porto_2007
+37,0,P1,Benfica,D,0,2007-09-23,D,Sp Braga,0,0,Sp Braga_Benfica_2007
+38,0,P1,Setubal,D,1,2007-09-23,A,Sp Lisbon,2,2,Sp Lisbon_Setubal_2007
+39,0,P1,Academica,D,0,2007-09-24,D,Boavista,0,0,Boavista_Academica_2007
+40,0,P1,Sp Lisbon,D,0,2007-09-29,D,Benfica,0,0,Benfica_Sp Lisbon_2007
+41,1,P1,Boavista,H,0,2007-09-29,H,Porto,2,0,Porto_Boavista_2007
+42,1,P1,Pacos Ferreira,H,0,2007-09-30,H,Belenenses,1,0,Belenenses_Pacos Ferreira_2007
+43,0,P1,Maritimo,D,0,2007-09-30,D,Est Amadora,1,1,Est Amadora_Maritimo_2007
+44,0,P1,Sp Braga,H,0,2007-09-30,D,Guimaraes,1,0,Guimaraes_Sp Braga_2007
+45,0,P1,Naval,H,0,2007-09-30,D,Nacional,2,0,Nacional_Naval_2007
+46,0,P1,Leiria,H,0,2007-09-30,D,Setubal,2,0,Setubal_Leiria_2007
+47,0,P1,Leixoes,D,0,2007-10-01,D,Academica,1,1,Academica_Leixoes_2007
+48,0,P1,Guimaraes,H,0,2007-10-06,D,Sp Lisbon,3,0,Sp Lisbon_Guimaraes_2007
+49,0,P1,Porto,A,1,2007-10-07,A,Academica,0,1,Academica_Porto_2007
+50,1,P1,Benfica,A,1,2007-10-07,D,Leiria,1,2,Leiria_Benfica_2007
+51,0,P1,Naval,A,1,2007-10-07,A,Leixoes,0,1,Leixoes_Naval_2007
+52,0,P1,Setubal,D,0,2007-10-07,D,Maritimo,0,0,Maritimo_Setubal_2007
+53,1,P1,Belenenses,A,1,2007-10-08,D,Boavista,2,4,Boavista_Belenenses_2007
+54,0,P1,Est Amadora,H,0,2007-10-08,D,Pacos Ferreira,2,1,Pacos Ferreira_Est Amadora_2007
+55,0,P1,Nacional,H,0,2007-10-08,D,Sp Braga,1,0,Sp Braga_Nacional_2007
+56,0,P1,Leiria,H,1,2007-10-26,A,Guimaraes,2,1,Guimaraes_Leiria_2007
+57,0,P1,Academica,D,0,2007-10-27,D,Belenenses,0,0,Belenenses_Academica_2007
+58,0,P1,Sp Lisbon,D,0,2007-10-27,D,Nacional,0,0,Nacional_Sp Lisbon_2007
+59,1,P1,Pacos Ferreira,H,0,2007-10-27,H,Setubal,3,1,Setubal_Pacos Ferreira_2007
+60,1,P1,Maritimo,H,1,2007-10-28,D,Benfica,2,1,Benfica_Maritimo_2007
+61,0,P1,Boavista,D,0,2007-10-28,D,Est Amadora,0,0,Est Amadora_Boavista_2007
+62,1,P1,Sp Braga,D,0,2007-10-29,H,Naval,1,1,Naval_Sp Braga_2007
+63,2,P1,Leixoes,H,0,2007-10-29,H,Porto,3,0,Porto_Leixoes_2007
+64,1,P1,Belenenses,D,0,2007-11-02,H,Porto,1,1,Porto_Belenenses_2007
+65,2,P1,Sp Braga,H,0,2007-11-03,H,Leixoes,3,0,Leixoes_Sp Braga_2007
+66,1,P1,Benfica,A,1,2007-11-03,D,Pacos Ferreira,1,2,Pacos Ferreira_Benfica_2007
+67,1,P1,Est Amadora,D,1,2007-11-04,D,Academica,3,3,Academica_Est Amadora_2007
+68,2,P1,Setubal,D,1,2007-11-04,H,Boavista,3,3,Boavista_Setubal_2007
+69,0,P1,Nacional,A,1,2007-11-04,A,Leiria,1,3,Leiria_Nacional_2007
+70,1,P1,Naval,H,1,2007-11-04,D,Sp Lisbon,4,1,Sp Lisbon_Naval_2007
+71,0,P1,Guimaraes,A,0,2007-11-05,D,Maritimo,0,1,Maritimo_Guimaraes_2007
+72,1,P1,Leixoes,D,0,2007-11-09,H,Belenenses,1,1,Belenenses_Leixoes_2007
+73,0,P1,Pacos Ferreira,D,0,2007-11-10,D,Guimaraes,0,0,Guimaraes_Pacos Ferreira_2007
+74,1,P1,Boavista,H,0,2007-11-11,H,Benfica,6,1,Benfica_Boavista_2007
+75,0,P1,Porto,D,1,2007-11-11,A,Est Amadora,2,2,Est Amadora_Porto_2007
+76,0,P1,Leiria,H,0,2007-11-11,D,Naval,1,0,Naval_Leiria_2007
+77,2,P1,Academica,H,0,2007-11-11,H,Setubal,3,1,Setubal_Academica_2007
+78,1,P1,Sp Lisbon,H,0,2007-11-11,H,Sp Braga,3,0,Sp Braga_Sp Lisbon_2007
+79,0,P1,Maritimo,A,1,2007-11-12,A,Nacional,0,2,Nacional_Maritimo_2007
+80,0,P1,Sp Braga,D,0,2007-11-23,D,Leiria,0,0,Leiria_Sp Braga_2007
+81,1,P1,Benfica,A,1,2007-11-24,D,Academica,1,3,Academica_Benfica_2007
+82,1,P1,Sp Lisbon,D,0,2007-11-24,H,Leixoes,1,1,Leixoes_Sp Lisbon_2007
+83,0,P1,Est Amadora,D,0,2007-11-25,D,Belenenses,0,0,Belenenses_Est Amadora_2007
+84,0,P1,Naval,A,1,2007-11-25,A,Maritimo,0,1,Maritimo_Naval_2007
+85,1,P1,Nacional,H,0,2007-11-25,H,Pacos Ferreira,1,0,Pacos Ferreira_Nacional_2007
+86,1,P1,Setubal,H,0,2007-11-25,H,Porto,2,0,Porto_Setubal_2007
+87,2,P1,Guimaraes,H,1,2007-11-26,H,Boavista,3,2,Boavista_Guimaraes_2007
+88,1,P1,Belenenses,D,1,2007-11-30,D,Setubal,1,1,Setubal_Belenenses_2007
+89,0,P1,Porto,A,1,2007-12-01,A,Benfica,0,1,Benfica_Porto_2007
+90,0,P1,Leixoes,H,0,2007-12-02,D,Est Amadora,2,0,Est Amadora_Leixoes_2007
+91,0,P1,Boavista,H,0,2007-12-02,D,Nacional,2,0,Nacional_Boavista_2007
+92,0,P1,Pacos Ferreira,H,0,2007-12-02,D,Naval,2,1,Naval_Pacos Ferreira_2007
+93,0,P1,Maritimo,H,0,2007-12-02,D,Sp Braga,2,1,Sp Braga_Maritimo_2007
+94,0,P1,Leiria,D,0,2007-12-02,D,Sp Lisbon,1,1,Sp Lisbon_Leiria_2007
+95,0,P1,Academica,H,1,2007-12-03,A,Guimaraes,2,1,Guimaraes_Academica_2007
+96,0,P1,Sp Braga,A,1,2007-12-14,A,Pacos Ferreira,0,2,Pacos Ferreira_Sp Braga_2007
+97,0,P1,Benfica,H,0,2007-12-15,D,Belenenses,1,0,Belenenses_Benfica_2007
+98,0,P1,Guimaraes,H,0,2007-12-15,D,Porto,2,0,Porto_Guimaraes_2007
+99,0,P1,Nacional,H,0,2007-12-16,D,Academica,1,0,Academica_Nacional_2007
+100,2,P1,Naval,H,0,2007-12-16,H,Boavista,2,0,Boavista_Naval_2007
+101,0,P1,Setubal,A,0,2007-12-16,D,Est Amadora,0,1,Est Amadora_Setubal_2007
+102,2,P1,Leiria,H,0,2007-12-16,H,Leixoes,2,1,Leixoes_Leiria_2007
+103,0,P1,Sp Lisbon,A,0,2007-12-16,D,Maritimo,1,2,Maritimo_Sp Lisbon_2007
+104,0,P1,Est Amadora,H,0,2007-12-18,D,Benfica,3,0,Benfica_Est Amadora_2007
+105,0,P1,Porto,H,0,2007-12-21,D,Nacional,1,0,Nacional_Porto_2007
+106,1,P1,Belenenses,H,0,2007-12-22,H,Guimaraes,1,0,Guimaraes_Belenenses_2007
+107,0,P1,Academica,A,0,2007-12-22,D,Naval,0,1,Naval_Academica_2007
+108,1,P1,Pacos Ferreira,H,1,2007-12-22,D,Sp Lisbon,2,1,Sp Lisbon_Pacos Ferreira_2007
+109,1,P1,Maritimo,A,1,2007-12-23,D,Leiria,1,2,Leiria_Maritimo_2007
+110,1,P1,Setubal,D,1,2007-12-23,D,Leixoes,1,1,Leixoes_Setubal_2007
+111,0,P1,Boavista,D,0,2007-12-23,D,Sp Braga,0,0,Sp Braga_Boavista_2007
+112,1,P1,Sp Braga,D,1,2008-01-04,D,Academica,3,3,Academica_Sp Braga_2007
+113,1,P1,Sp Lisbon,H,0,2008-01-05,H,Boavista,2,0,Boavista_Sp Lisbon_2007
+114,0,P1,Benfica,D,0,2008-01-05,D,Setubal,1,1,Setubal_Benfica_2007
+115,0,P1,Guimaraes,H,1,2008-01-06,A,Est Amadora,4,1,Est Amadora_Guimaraes_2007
+116,2,P1,Leixoes,H,1,2008-01-06,H,Maritimo,2,1,Maritimo_Leixoes_2007
+117,0,P1,Leiria,H,0,2008-01-06,D,Pacos Ferreira,2,1,Pacos Ferreira_Leiria_2007
+118,0,P1,Naval,H,0,2008-01-06,D,Porto,1,0,Porto_Naval_2007
+119,0,P1,Nacional,D,0,2008-01-07,D,Belenenses,1,1,Belenenses_Nacional_2007
+120,3,P1,Maritimo,H,1,2008-01-11,H,Pacos Ferreira,3,1,Pacos Ferreira_Maritimo_2007
+121,0,P1,Leixoes,D,0,2008-01-12,D,Benfica,0,0,Benfica_Leixoes_2007
+122,2,P1,Sp Braga,H,0,2008-01-12,H,Porto,4,0,Porto_Sp Braga_2007
+123,0,P1,Sp Lisbon,D,0,2008-01-13,D,Academica,1,1,Academica_Sp Lisbon_2007
+124,1,P1,Naval,H,1,2008-01-13,D,Belenenses,2,1,Belenenses_Naval_2007
+125,0,P1,Leiria,H,1,2008-01-13,A,Boavista,3,1,Boavista_Leiria_2007
+126,0,P1,Nacional,A,0,2008-01-13,D,Est Amadora,0,1,Est Amadora_Nacional_2007
+127,0,P1,Guimaraes,A,0,2008-01-14,D,Setubal,0,1,Setubal_Guimaraes_2007
+128,0,P1,Belenenses,D,1,2008-01-25,A,Sp Braga,1,1,Sp Braga_Belenenses_2007
+129,0,P1,Benfica,A,2,2008-01-26,A,Guimaraes,1,3,Guimaraes_Benfica_2007
+130,1,P1,Academica,H,0,2008-01-27,H,Leiria,3,1,Leiria_Academica_2007
+131,0,P1,Pacos Ferreira,H,0,2008-01-27,D,Leixoes,1,0,Leixoes_Pacos Ferreira_2007
+132,0,P1,Setubal,D,0,2008-01-27,D,Nacional,0,0,Nacional_Setubal_2007
+133,1,P1,Est Amadora,D,0,2008-01-27,H,Naval,1,1,Naval_Est Amadora_2007
+134,2,P1,Porto,H,0,2008-01-27,H,Sp Lisbon,2,0,Sp Lisbon_Porto_2007
+135,2,P1,Boavista,H,0,2008-01-28,H,Maritimo,2,0,Maritimo_Boavista_2007
+136,0,P1,Sp Braga,D,0,2008-02-01,D,Est Amadora,1,1,Est Amadora_Sp Braga_2007
+137,0,P1,Nacional,D,0,2008-02-02,D,Benfica,0,0,Benfica_Nacional_2007
+138,3,P1,Leiria,H,0,2008-02-02,H,Porto,4,0,Porto_Leiria_2007
+139,1,P1,Maritimo,H,0,2008-02-03,H,Academica,1,0,Academica_Maritimo_2007
+140,1,P1,Sp Lisbon,H,0,2008-02-03,H,Belenenses,1,0,Belenenses_Sp Lisbon_2007
+141,3,P1,Pacos Ferreira,H,2,2008-02-03,H,Boavista,4,3,Boavista_Pacos Ferreira_2007
+142,0,P1,Leixoes,H,1,2008-02-03,A,Guimaraes,2,1,Guimaraes_Leixoes_2007
+143,0,P1,Naval,A,1,2008-02-04,A,Setubal,1,2,Setubal_Naval_2007
+144,0,P1,Porto,A,1,2008-02-15,A,Maritimo,0,3,Maritimo_Porto_2007
+145,0,P1,Boavista,D,0,2008-02-16,D,Leixoes,2,2,Leixoes_Boavista_2007
+146,0,P1,Guimaraes,H,0,2008-02-16,D,Nacional,1,0,Nacional_Guimaraes_2007
+147,0,P1,Benfica,A,1,2008-02-17,A,Naval,0,2,Naval_Benfica_2007
+148,0,P1,Academica,D,0,2008-02-17,D,Pacos Ferreira,1,1,Pacos Ferreira_Academica_2007
+149,1,P1,Setubal,A,2,2008-02-17,A,Sp Braga,2,3,Sp Braga_Setubal_2007
+150,1,P1,Est Amadora,H,0,2008-02-17,H,Sp Lisbon,2,0,Sp Lisbon_Est Amadora_2007
+151,0,P1,Belenenses,A,1,2008-02-18,A,Leiria,1,2,Leiria_Belenenses_2007
+152,1,P1,Naval,H,0,2008-02-22,H,Guimaraes,1,0,Guimaraes_Naval_2007
+153,1,P1,Maritimo,A,1,2008-02-23,D,Belenenses,1,3,Belenenses_Maritimo_2007
+154,0,P1,Leiria,H,2,2008-02-23,A,Est Amadora,4,2,Est Amadora_Leiria_2007
+155,1,P1,Pacos Ferreira,H,0,2008-02-23,H,Porto,3,0,Porto_Pacos Ferreira_2007
+156,1,P1,Sp Braga,D,1,2008-02-24,D,Benfica,1,1,Benfica_Sp Braga_2007
+157,0,P1,Leixoes,H,0,2008-02-24,D,Nacional,1,0,Nacional_Leixoes_2007
+158,1,P1,Sp Lisbon,H,0,2008-02-24,H,Setubal,1,0,Setubal_Sp Lisbon_2007
+159,0,P1,Boavista,D,0,2008-02-25,D,Academica,1,1,Academica_Boavista_2007
+160,0,P1,Guimaraes,D,0,2008-02-29,D,Sp Braga,0,0,Sp Braga_Guimaraes_2007
+161,0,P1,Porto,D,0,2008-03-01,D,Boavista,0,0,Boavista_Porto_2007
+162,0,P1,Setubal,A,1,2008-03-01,A,Leiria,0,2,Leiria_Setubal_2007
+163,1,P1,Academica,D,1,2008-03-01,D,Leixoes,2,2,Leixoes_Academica_2007
+164,0,P1,Est Amadora,D,1,2008-03-02,A,Maritimo,1,1,Maritimo_Est Amadora_2007
+165,0,P1,Nacional,D,1,2008-03-02,A,Naval,1,1,Naval_Nacional_2007
+166,1,P1,Benfica,D,1,2008-03-02,D,Sp Lisbon,1,1,Sp Lisbon_Benfica_2007
+167,1,P1,Belenenses,A,2,2008-03-03,A,Pacos Ferreira,1,2,Pacos Ferreira_Belenenses_2007
+168,0,P1,Maritimo,H,0,2008-03-07,D,Setubal,1,0,Setubal_Maritimo_2007
+169,1,P1,Pacos Ferreira,H,0,2008-03-08,H,Est Amadora,1,0,Est Amadora_Pacos Ferreira_2007
+170,0,P1,Sp Braga,A,1,2008-03-08,A,Nacional,0,1,Nacional_Sp Braga_2007
+171,0,P1,Leiria,D,1,2008-03-09,A,Benfica,2,2,Benfica_Leiria_2007
+172,1,P1,Sp Lisbon,H,0,2008-03-09,H,Guimaraes,2,0,Guimaraes_Sp Lisbon_2007
+173,1,P1,Leixoes,H,1,2008-03-09,D,Naval,2,1,Naval_Leixoes_2007
+174,1,P1,Academica,H,0,2008-03-09,H,Porto,1,0,Porto_Academica_2007
+175,2,P1,Boavista,A,2,2008-03-10,D,Belenenses,2,3,Belenenses_Boavista_2007
+176,0,P1,Guimaraes,A,0,2008-03-14,D,Leiria,0,1,Leiria_Guimaraes_2007
+177,0,P1,Belenenses,D,0,2008-03-15,D,Academica,0,0,Academica_Belenenses_2007
+178,0,P1,Porto,A,0,2008-03-15,D,Leixoes,1,2,Leixoes_Porto_2007
+179,0,P1,Est Amadora,H,0,2008-03-16,D,Boavista,2,1,Boavista_Est Amadora_2007
+180,0,P1,Benfica,D,1,2008-03-16,A,Maritimo,1,1,Maritimo_Benfica_2007
+181,1,P1,Setubal,H,0,2008-03-16,H,Pacos Ferreira,2,1,Pacos Ferreira_Setubal_2007
+182,1,P1,Naval,H,0,2008-03-16,H,Sp Braga,3,0,Sp Braga_Naval_2007
+183,0,P1,Nacional,H,0,2008-03-17,D,Sp Lisbon,4,1,Sp Lisbon_Nacional_2007
+184,0,P1,Maritimo,H,0,2008-03-28,D,Guimaraes,1,0,Guimaraes_Maritimo_2007
+185,2,P1,Academica,H,1,2008-03-29,H,Est Amadora,3,1,Est Amadora_Academica_2007
+186,1,P1,Porto,A,0,2008-03-30,H,Belenenses,1,2,Belenenses_Porto_2007
+187,1,P1,Pacos Ferreira,H,1,2008-03-30,D,Benfica,4,1,Benfica_Pacos Ferreira_2007
+188,1,P1,Leiria,H,0,2008-03-30,H,Nacional,2,0,Nacional_Leiria_2007
+189,1,P1,Sp Lisbon,A,3,2008-03-30,A,Naval,1,4,Naval_Sp Lisbon_2007
+190,0,P1,Leixoes,D,0,2008-03-30,D,Sp Braga,0,0,Sp Braga_Leixoes_2007
+191,2,P1,Boavista,H,1,2008-03-31,H,Setubal,3,1,Setubal_Boavista_2007
+192,0,P1,Guimaraes,D,1,2008-04-04,A,Pacos Ferreira,2,2,Pacos Ferreira_Guimaraes_2007
+193,0,P1,Setubal,D,0,2008-04-05,D,Academica,0,0,Academica_Setubal_2007
+194,2,P1,Est Amadora,H,0,2008-04-05,H,Porto,6,0,Porto_Est Amadora_2007
+195,0,P1,Benfica,D,0,2008-04-06,D,Boavista,0,0,Boavista_Benfica_2007
+196,0,P1,Naval,A,1,2008-04-06,A,Leiria,0,2,Leiria_Naval_2007
+197,0,P1,Nacional,H,0,2008-04-06,D,Maritimo,1,0,Maritimo_Nacional_2007
+198,2,P1,Sp Braga,H,0,2008-04-06,H,Sp Lisbon,2,0,Sp Lisbon_Sp Braga_2007
+199,0,P1,Belenenses,A,1,2008-04-07,A,Leixoes,1,2,Leixoes_Belenenses_2007
+200,0,P1,Academica,A,2,2008-04-11,A,Benfica,0,3,Benfica_Academica_2007
+201,0,P1,Belenenses,A,1,2008-04-12,A,Est Amadora,0,2,Est Amadora_Belenenses_2007
+202,1,P1,Boavista,H,0,2008-04-12,H,Guimaraes,1,0,Guimaraes_Boavista_2007
+203,1,P1,Porto,A,2,2008-04-12,A,Setubal,1,2,Setubal_Porto_2007
+204,0,P1,Pacos Ferreira,A,2,2008-04-13,A,Nacional,1,2,Nacional_Pacos Ferreira_2007
+205,0,P1,Maritimo,A,2,2008-04-13,A,Naval,0,3,Naval_Maritimo_2007
+206,0,P1,Leixoes,H,0,2008-04-13,D,Sp Lisbon,2,0,Sp Lisbon_Leixoes_2007
+207,0,P1,Leiria,A,0,2008-04-14,D,Sp Braga,0,1,Sp Braga_Leiria_2007
+208,0,P1,Guimaraes,D,0,2008-04-18,D,Academica,0,0,Academica_Guimaraes_2007
+209,0,P1,Sp Braga,H,1,2008-04-19,A,Maritimo,4,1,Maritimo_Sp Braga_2007
+210,0,P1,Nacional,H,0,2008-04-20,D,Boavista,1,0,Boavista_Nacional_2007
+211,2,P1,Sp Lisbon,H,0,2008-04-20,H,Leiria,4,1,Leiria_Sp Lisbon_2007
+212,0,P1,Est Amadora,D,0,2008-04-20,D,Leixoes,0,0,Leixoes_Est Amadora_2007
+213,1,P1,Naval,D,1,2008-04-20,D,Pacos Ferreira,2,2,Pacos Ferreira_Naval_2007
+214,1,P1,Benfica,H,0,2008-04-20,H,Porto,2,0,Porto_Benfica_2007
+215,3,P1,Setubal,H,0,2008-04-21,H,Belenenses,5,0,Belenenses_Setubal_2007
+216,1,P1,Pacos Ferreira,H,0,2008-04-25,H,Sp Braga,2,1,Sp Braga_Pacos Ferreira_2007
+217,1,P1,Belenenses,H,0,2008-04-26,H,Benfica,2,0,Benfica_Belenenses_2007
+218,0,P1,Porto,A,0,2008-04-27,D,Guimaraes,0,5,Guimaraes_Porto_2007
+219,1,P1,Leixoes,A,1,2008-04-27,D,Leiria,1,3,Leiria_Leixoes_2007
+220,0,P1,Academica,A,2,2008-04-27,A,Nacional,0,3,Nacional_Academica_2007
+221,1,P1,Boavista,H,0,2008-04-27,H,Naval,1,0,Naval_Boavista_2007
+222,1,P1,Maritimo,H,1,2008-04-27,D,Sp Lisbon,2,1,Sp Lisbon_Maritimo_2007
+223,0,P1,Est Amadora,D,0,2008-04-28,D,Setubal,0,0,Setubal_Est Amadora_2007
+224,0,P1,Nacional,A,2,2008-05-03,A,Porto,0,3,Porto_Nacional_2007
+225,0,P1,Naval,D,1,2008-05-04,A,Academica,1,1,Academica_Naval_2007
+226,1,P1,Guimaraes,D,1,2008-05-04,D,Belenenses,1,1,Belenenses_Guimaraes_2007
+227,0,P1,Sp Braga,D,0,2008-05-04,D,Boavista,0,0,Boavista_Sp Braga_2007
+228,0,P1,Benfica,D,0,2008-05-04,D,Est Amadora,0,0,Est Amadora_Benfica_2007
+229,1,P1,Leiria,H,0,2008-05-04,H,Maritimo,2,0,Maritimo_Leiria_2007
+230,0,P1,Sp Lisbon,A,1,2008-05-04,A,Pacos Ferreira,0,1,Pacos Ferreira_Sp Lisbon_2007
+231,1,P1,Leixoes,H,0,2008-05-04,H,Setubal,2,0,Setubal_Leixoes_2007
+232,0,P1,Belenenses,A,0,2008-05-10,D,Nacional,1,2,Nacional_Belenenses_2007
+233,0,P1,Porto,A,2,2008-05-10,A,Naval,0,2,Naval_Porto_2007
+234,0,P1,Academica,H,0,2008-05-10,D,Sp Braga,2,1,Sp Braga_Academica_2007
+235,2,P1,Setubal,H,0,2008-05-11,H,Benfica,3,0,Benfica_Setubal_2007
+236,1,P1,Est Amadora,H,0,2008-05-11,H,Guimaraes,4,0,Guimaraes_Est Amadora_2007
+237,0,P1,Pacos Ferreira,D,1,2008-05-11,A,Leiria,1,1,Leiria_Pacos Ferreira_2007
+238,0,P1,Maritimo,A,0,2008-05-11,D,Leixoes,0,1,Leixoes_Maritimo_2007
+239,2,P1,Boavista,H,1,2008-05-11,H,Sp Lisbon,2,1,Sp Lisbon_Boavista_2007
