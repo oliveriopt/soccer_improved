@@ -1,0 +1,457 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2008-08-09,Aberdeen_Inverness C_2008,Aberdeen,1,1,1,1
+2008-08-09,Kilmarnock_Hibernian_2008,Kilmarnock,1,1,1,1
+2008-08-09,Kilmarnock_Hibernian_2008,Hibernian,1,1,1,1
+2008-08-09,Falkirk_Rangers_2008,Falkirk,1,1,1,1
+2008-08-09,Falkirk_Rangers_2008,Rangers,1,1,1,1
+2008-08-09,Hearts_Motherwell_2008,Hearts,1,1,1,1
+2008-08-09,Aberdeen_Inverness C_2008,Inverness C,1,1,1,1
+2008-08-09,Hearts_Motherwell_2008,Motherwell,1,1,1,1
+2008-08-10,Celtic_St Mirren_2008,St Mirren,1,1,1,1
+2008-08-10,Celtic_St Mirren_2008,Celtic,1,1,1,1
+2008-08-11,Hamilton_Dundee United_2008,Hamilton,1,1,1,1
+2008-08-11,Hamilton_Dundee United_2008,Dundee United,1,1,1,1
+2008-08-16,St Mirren_Kilmarnock_2008,St Mirren,1,1,2,2
+2008-08-16,Motherwell_Aberdeen_2008,Motherwell,1,1,2,2
+2008-08-16,Rangers_Hearts_2008,Hearts,1,1,2,2
+2008-08-16,Motherwell_Aberdeen_2008,Aberdeen,1,1,2,2
+2008-08-16,St Mirren_Kilmarnock_2008,Kilmarnock,1,1,2,2
+2008-08-16,Inverness C_Hamilton_2008,Hamilton,1,1,2,2
+2008-08-16,Hibernian_Falkirk_2008,Hibernian,1,1,2,2
+2008-08-16,Rangers_Hearts_2008,Rangers,1,1,2,2
+2008-08-16,Inverness C_Hamilton_2008,Inverness C,1,1,2,2
+2008-08-16,Hibernian_Falkirk_2008,Falkirk,1,1,2,2
+2008-08-17,Dundee United_Celtic_2008,Dundee United,1,1,2,2
+2008-08-17,Dundee United_Celtic_2008,Celtic,1,1,2,2
+2008-08-23,Aberdeen_Rangers_2008,Rangers,1,2,3,3
+2008-08-23,Hearts_St Mirren_2008,St Mirren,1,2,3,3
+2008-08-23,Aberdeen_Rangers_2008,Aberdeen,2,1,3,3
+2008-08-23,Inverness C_Hibernian_2008,Hibernian,1,2,3,3
+2008-08-23,Kilmarnock_Hamilton_2008,Kilmarnock,2,1,3,3
+2008-08-23,Inverness C_Hibernian_2008,Inverness C,2,1,3,3
+2008-08-23,Celtic_Falkirk_2008,Falkirk,1,2,3,3
+2008-08-23,Hearts_St Mirren_2008,Hearts,2,1,3,3
+2008-08-23,Motherwell_Dundee United_2008,Dundee United,1,2,3,3
+2008-08-23,Kilmarnock_Hamilton_2008,Hamilton,1,2,3,3
+2008-08-23,Motherwell_Dundee United_2008,Motherwell,2,1,3,3
+2008-08-23,Celtic_Falkirk_2008,Celtic,2,1,3,3
+2008-08-30,St Mirren_Aberdeen_2008,St Mirren,2,2,4,4
+2008-08-30,Hibernian_Motherwell_2008,Motherwell,2,2,4,4
+2008-08-30,St Mirren_Aberdeen_2008,Aberdeen,2,2,4,4
+2008-08-30,Falkirk_Inverness C_2008,Falkirk,2,2,4,4
+2008-08-30,Hamilton_Hearts_2008,Hamilton,2,2,4,4
+2008-08-30,Falkirk_Inverness C_2008,Inverness C,2,2,4,4
+2008-08-30,Dundee United_Kilmarnock_2008,Dundee United,2,2,4,4
+2008-08-30,Dundee United_Kilmarnock_2008,Kilmarnock,2,2,4,4
+2008-08-30,Hibernian_Motherwell_2008,Hibernian,2,2,4,4
+2008-08-30,Hamilton_Hearts_2008,Hearts,2,2,4,4
+2008-08-31,Celtic_Rangers_2008,Rangers,1,3,4,4
+2008-08-31,Celtic_Rangers_2008,Celtic,3,1,4,4
+2008-09-13,Rangers_Kilmarnock_2008,Rangers,2,3,5,6
+2008-09-13,Motherwell_Celtic_2008,Motherwell,3,2,5,6
+2008-09-13,Aberdeen_Hamilton_2008,Hamilton,2,3,5,6
+2008-09-13,Aberdeen_Hamilton_2008,Aberdeen,3,2,5,6
+2008-09-13,Falkirk_Hearts_2008,Falkirk,3,2,5,6
+2008-09-13,Motherwell_Celtic_2008,Celtic,3,2,5,6
+2008-09-13,Falkirk_Hearts_2008,Hearts,2,3,5,6
+2008-09-13,Rangers_Kilmarnock_2008,Kilmarnock,2,3,5,6
+2008-09-13,Inverness C_St Mirren_2008,Inverness C,3,2,5,6
+2008-09-13,Inverness C_St Mirren_2008,St Mirren,2,3,5,6
+2008-09-13,Hibernian_Dundee United_2008,Dundee United,2,3,5,6
+2008-09-13,Hibernian_Dundee United_2008,Hibernian,3,2,5,6
+2008-09-20,St Mirren_Falkirk_2008,St Mirren,3,3,6,7
+2008-09-20,Hearts_Inverness C_2008,Hearts,3,3,6,7
+2008-09-20,St Mirren_Falkirk_2008,Falkirk,3,3,6,7
+2008-09-20,Hamilton_Hibernian_2008,Hamilton,3,3,6,7
+2008-09-20,Hearts_Inverness C_2008,Inverness C,3,3,6,7
+2008-09-20,Aberdeen_Dundee United_2008,Aberdeen,4,2,6,7
+2008-09-20,Aberdeen_Dundee United_2008,Dundee United,2,4,6,7
+2008-09-20,Hamilton_Hibernian_2008,Hibernian,3,3,6,7
+2008-09-21,Rangers_Motherwell_2008,Motherwell,3,3,6,7
+2008-09-21,Kilmarnock_Celtic_2008,Kilmarnock,3,3,6,7
+2008-09-21,Rangers_Motherwell_2008,Rangers,3,3,6,7
+2008-09-21,Kilmarnock_Celtic_2008,Celtic,3,3,6,7
+2008-09-27,Motherwell_St Mirren_2008,St Mirren,3,4,7,8
+2008-09-27,Inverness C_Kilmarnock_2008,Inverness C,4,3,7,8
+2008-09-27,Dundee United_Hearts_2008,Hearts,3,4,7,8
+2008-09-27,Motherwell_St Mirren_2008,Motherwell,4,3,7,8
+2008-09-27,Falkirk_Hamilton_2008,Hamilton,3,4,7,8
+2008-09-27,Celtic_Aberdeen_2008,Aberdeen,4,3,7,8
+2008-09-27,Celtic_Aberdeen_2008,Celtic,4,3,7,8
+2008-09-27,Dundee United_Hearts_2008,Dundee United,3,4,7,8
+2008-09-27,Inverness C_Kilmarnock_2008,Kilmarnock,3,4,7,8
+2008-09-27,Falkirk_Hamilton_2008,Falkirk,4,3,7,8
+2008-09-28,Hibernian_Rangers_2008,Hibernian,4,3,7,8
+2008-09-28,Hibernian_Rangers_2008,Rangers,3,4,7,8
+2008-10-04,Dundee United_Inverness C_2008,Inverness C,4,4,8,9
+2008-10-04,Hearts_Kilmarnock_2008,Hearts,4,4,8,9
+2008-10-04,Aberdeen_Hibernian_2008,Hibernian,4,4,8,9
+2008-10-04,Celtic_Hamilton_2008,Celtic,5,3,8,9
+2008-10-04,Aberdeen_Hibernian_2008,Aberdeen,5,3,8,9
+2008-10-04,Dundee United_Inverness C_2008,Dundee United,4,4,8,9
+2008-10-04,Hearts_Kilmarnock_2008,Kilmarnock,3,5,8,9
+2008-10-04,Celtic_Hamilton_2008,Hamilton,3,5,8,9
+2008-10-05,St Mirren_Rangers_2008,Rangers,3,5,8,9
+2008-10-05,Motherwell_Falkirk_2008,Motherwell,5,3,8,9
+2008-10-05,Motherwell_Falkirk_2008,Falkirk,4,4,8,9
+2008-10-05,St Mirren_Rangers_2008,St Mirren,4,4,8,9
+2008-10-18,Hamilton_St Mirren_2008,St Mirren,4,5,9,11
+2008-10-18,Falkirk_Aberdeen_2008,Falkirk,5,4,9,11
+2008-10-18,Kilmarnock_Motherwell_2008,Motherwell,5,4,9,11
+2008-10-18,Kilmarnock_Motherwell_2008,Kilmarnock,4,5,9,11
+2008-10-18,Inverness C_Celtic_2008,Celtic,5,4,9,11
+2008-10-18,Falkirk_Aberdeen_2008,Aberdeen,5,4,9,11
+2008-10-18,Inverness C_Celtic_2008,Inverness C,5,4,9,11
+2008-10-18,Hamilton_St Mirren_2008,Hamilton,4,5,9,11
+2008-10-19,Hibernian_Hearts_2008,Hibernian,5,4,9,11
+2008-10-19,Hibernian_Hearts_2008,Hearts,4,5,9,11
+2008-10-25,Dundee United_St Mirren_2008,St Mirren,4,6,10,12
+2008-10-25,Inverness C_Motherwell_2008,Motherwell,5,5,10,12
+2008-10-25,Hearts_Aberdeen_2008,Aberdeen,5,5,10,12
+2008-10-25,Kilmarnock_Falkirk_2008,Falkirk,5,5,10,12
+2008-10-25,Celtic_Hibernian_2008,Hibernian,5,5,10,12
+2008-10-25,Inverness C_Motherwell_2008,Inverness C,6,4,10,12
+2008-10-25,Hearts_Aberdeen_2008,Hearts,5,5,10,12
+2008-10-25,Dundee United_St Mirren_2008,Dundee United,5,4,9,12
+2008-10-25,Hamilton_Rangers_2008,Hamilton,5,5,10,12
+2008-10-25,Celtic_Hibernian_2008,Celtic,6,4,10,12
+2008-10-25,Kilmarnock_Falkirk_2008,Kilmarnock,5,5,10,12
+2008-10-25,Hamilton_Rangers_2008,Rangers,3,6,9,12
+2008-11-01,St Mirren_Hibernian_2008,St Mirren,5,6,11,13
+2008-11-01,Rangers_Inverness C_2008,Rangers,4,6,10,13
+2008-11-01,Motherwell_Hamilton_2008,Hamilton,5,6,11,13
+2008-11-01,Falkirk_Dundee United_2008,Dundee United,5,5,10,13
+2008-11-01,Rangers_Inverness C_2008,Inverness C,6,5,11,13
+2008-11-01,Aberdeen_Kilmarnock_2008,Kilmarnock,5,6,11,13
+2008-11-01,Motherwell_Hamilton_2008,Motherwell,6,5,11,13
+2008-11-01,St Mirren_Hibernian_2008,Hibernian,5,6,11,13
+2008-11-01,Aberdeen_Kilmarnock_2008,Aberdeen,6,5,11,13
+2008-11-01,Falkirk_Dundee United_2008,Falkirk,6,5,11,13
+2008-11-02,Hearts_Celtic_2008,Celtic,6,5,11,13
+2008-11-02,Hearts_Celtic_2008,Hearts,6,5,11,13
+2008-11-04,Rangers_Dundee United_2008,Rangers,5,6,11,14
+2008-11-04,Rangers_Dundee United_2008,Dundee United,5,6,11,14
+2008-11-08,St Mirren_Hearts_2008,St Mirren,6,6,12,14
+2008-11-08,Celtic_Motherwell_2008,Motherwell,6,6,12,14
+2008-11-08,Hibernian_Inverness C_2008,Inverness C,6,6,12,14
+2008-11-08,Hibernian_Inverness C_2008,Hibernian,6,6,12,14
+2008-11-08,St Mirren_Hearts_2008,Hearts,6,6,12,14
+2008-11-08,Celtic_Motherwell_2008,Celtic,7,5,12,14
+2008-11-08,Hamilton_Falkirk_2008,Hamilton,6,6,12,14
+2008-11-08,Dundee United_Aberdeen_2008,Aberdeen,6,6,12,14
+2008-11-08,Dundee United_Aberdeen_2008,Dundee United,6,6,12,14
+2008-11-08,Hamilton_Falkirk_2008,Falkirk,6,6,12,14
+2008-11-09,Kilmarnock_Rangers_2008,Kilmarnock,6,6,12,14
+2008-11-09,Kilmarnock_Rangers_2008,Rangers,5,7,12,14
+2008-11-11,Aberdeen_St Mirren_2008,Aberdeen,7,6,13,15
+2008-11-11,Aberdeen_St Mirren_2008,St Mirren,6,7,13,15
+2008-11-12,Motherwell_Rangers_2008,Rangers,5,8,13,15
+2008-11-12,Inverness C_Falkirk_2008,Inverness C,7,6,13,15
+2008-11-12,Celtic_Kilmarnock_2008,Celtic,8,5,13,15
+2008-11-12,Hearts_Hamilton_2008,Hearts,7,6,13,15
+2008-11-12,Hearts_Hamilton_2008,Hamilton,6,7,13,15
+2008-11-12,Inverness C_Falkirk_2008,Falkirk,6,7,13,15
+2008-11-12,Dundee United_Hibernian_2008,Dundee United,7,6,13,15
+2008-11-12,Dundee United_Hibernian_2008,Hibernian,6,7,13,15
+2008-11-12,Motherwell_Rangers_2008,Motherwell,7,6,13,15
+2008-11-12,Celtic_Kilmarnock_2008,Kilmarnock,6,7,13,15
+2008-11-15,Falkirk_Motherwell_2008,Motherwell,7,7,14,15
+2008-11-15,Hibernian_Aberdeen_2008,Hibernian,7,7,14,15
+2008-11-15,Kilmarnock_Dundee United_2008,Kilmarnock,7,7,14,15
+2008-11-15,Inverness C_Hearts_2008,Inverness C,8,6,14,15
+2008-11-15,Rangers_St Mirren_2008,St Mirren,6,8,14,15
+2008-11-15,Rangers_St Mirren_2008,Rangers,6,8,14,15
+2008-11-15,Falkirk_Motherwell_2008,Falkirk,7,7,14,15
+2008-11-15,Hibernian_Aberdeen_2008,Aberdeen,7,7,14,15
+2008-11-15,Inverness C_Hearts_2008,Hearts,7,7,14,15
+2008-11-15,Kilmarnock_Dundee United_2008,Dundee United,7,7,14,15
+2008-11-16,Hamilton_Celtic_2008,Hamilton,7,7,14,15
+2008-11-16,Hamilton_Celtic_2008,Celtic,8,6,14,15
+2008-11-22,Rangers_Aberdeen_2008,Rangers,7,8,15,16
+2008-11-22,Dundee United_Hamilton_2008,Hamilton,7,8,15,16
+2008-11-22,St Mirren_Celtic_2008,Celtic,8,7,15,16
+2008-11-22,Motherwell_Hibernian_2008,Hibernian,7,8,15,16
+2008-11-22,Dundee United_Hamilton_2008,Dundee United,8,7,15,16
+2008-11-22,Rangers_Aberdeen_2008,Aberdeen,7,8,15,16
+2008-11-22,Motherwell_Hibernian_2008,Motherwell,8,7,15,16
+2008-11-22,St Mirren_Celtic_2008,St Mirren,7,8,15,16
+2008-11-22,Hearts_Falkirk_2008,Hearts,8,7,15,16
+2008-11-22,Hearts_Falkirk_2008,Falkirk,7,8,15,16
+2008-11-22,Kilmarnock_Inverness C_2008,Kilmarnock,8,7,15,16
+2008-11-22,Kilmarnock_Inverness C_2008,Inverness C,8,7,15,16
+2008-11-29,St Mirren_Dundee United_2008,St Mirren,8,8,16,17
+2008-11-29,Falkirk_Hibernian_2008,Falkirk,8,8,16,17
+2008-11-29,St Mirren_Dundee United_2008,Dundee United,8,8,16,17
+2008-11-29,Aberdeen_Motherwell_2008,Aberdeen,8,8,16,17
+2008-11-29,Hamilton_Kilmarnock_2008,Kilmarnock,8,8,16,17
+2008-11-29,Hearts_Rangers_2008,Hearts,9,7,16,17
+2008-11-29,Celtic_Inverness C_2008,Celtic,9,7,16,17
+2008-11-29,Hearts_Rangers_2008,Rangers,7,9,16,17
+2008-11-29,Aberdeen_Motherwell_2008,Motherwell,8,8,16,17
+2008-11-29,Falkirk_Hibernian_2008,Hibernian,7,9,16,17
+2008-11-29,Celtic_Inverness C_2008,Inverness C,8,8,16,17
+2008-11-29,Hamilton_Kilmarnock_2008,Hamilton,8,8,16,17
+2008-12-06,Inverness C_Dundee United_2008,Inverness C,9,8,17,18
+2008-12-06,Inverness C_Dundee United_2008,Dundee United,8,9,17,18
+2008-12-06,Falkirk_St Mirren_2008,Falkirk,9,8,17,18
+2008-12-06,Rangers_Hamilton_2008,Rangers,8,9,17,18
+2008-12-06,Rangers_Hamilton_2008,Hamilton,8,9,17,18
+2008-12-06,Falkirk_St Mirren_2008,St Mirren,8,9,17,18
+2008-12-07,Hibernian_Celtic_2008,Celtic,9,8,17,18
+2008-12-07,Hibernian_Celtic_2008,Hibernian,8,9,17,18
+2008-12-13,St Mirren_Inverness C_2008,St Mirren,9,9,18,19
+2008-12-13,St Mirren_Inverness C_2008,Inverness C,9,9,18,19
+2008-12-13,Celtic_Hearts_2008,Celtic,10,8,18,19
+2008-12-13,Dundee United_Rangers_2008,Dundee United,9,9,18,19
+2008-12-13,Hibernian_Hamilton_2008,Hibernian,9,9,18,19
+2008-12-13,Celtic_Hearts_2008,Hearts,9,8,17,19
+2008-12-13,Aberdeen_Falkirk_2008,Falkirk,9,9,18,19
+2008-12-13,Hibernian_Hamilton_2008,Hamilton,8,10,18,19
+2008-12-13,Dundee United_Rangers_2008,Rangers,8,10,18,19
+2008-12-13,Aberdeen_Falkirk_2008,Aberdeen,9,8,17,19
+2008-12-15,Motherwell_Kilmarnock_2008,Kilmarnock,8,9,17,19
+2008-12-15,Motherwell_Kilmarnock_2008,Motherwell,9,8,17,19
+2008-12-20,Hearts_Dundee United_2008,Dundee United,9,10,19,20
+2008-12-20,Hamilton_Motherwell_2008,Hamilton,9,10,19,20
+2008-12-20,Rangers_Hibernian_2008,Hibernian,9,10,19,20
+2008-12-20,Kilmarnock_St Mirren_2008,Kilmarnock,9,9,18,20
+2008-12-20,Rangers_Hibernian_2008,Rangers,9,10,19,20
+2008-12-20,Hearts_Dundee United_2008,Hearts,10,8,18,20
+2008-12-20,Kilmarnock_St Mirren_2008,St Mirren,9,10,19,20
+2008-12-20,Inverness C_Aberdeen_2008,Inverness C,10,9,19,20
+2008-12-20,Hamilton_Motherwell_2008,Motherwell,9,9,18,20
+2008-12-20,Inverness C_Aberdeen_2008,Aberdeen,9,9,18,20
+2008-12-21,Falkirk_Celtic_2008,Celtic,10,9,19,20
+2008-12-21,Falkirk_Celtic_2008,Falkirk,10,9,19,20
+2008-12-27,Aberdeen_Hearts_2008,Aberdeen,10,9,19,21
+2008-12-27,Motherwell_Inverness C_2008,Inverness C,10,10,20,21
+2008-12-27,Motherwell_Inverness C_2008,Motherwell,10,9,19,21
+2008-12-27,Rangers_Celtic_2008,Celtic,10,10,20,21
+2008-12-27,St Mirren_Hamilton_2008,St Mirren,10,10,20,21
+2008-12-27,Hibernian_Kilmarnock_2008,Kilmarnock,9,10,19,21
+2008-12-27,Hibernian_Kilmarnock_2008,Hibernian,10,10,20,21
+2008-12-27,Dundee United_Falkirk_2008,Falkirk,10,10,20,21
+2008-12-27,Dundee United_Falkirk_2008,Dundee United,10,10,20,21
+2008-12-27,St Mirren_Hamilton_2008,Hamilton,9,11,20,21
+2008-12-27,Aberdeen_Hearts_2008,Hearts,10,9,19,21
+2008-12-27,Rangers_Celtic_2008,Rangers,10,10,20,21
+2009-01-03,Hamilton_Aberdeen_2008,Aberdeen,10,10,20,22
+2009-01-03,Celtic_Dundee United_2008,Dundee United,10,11,21,22
+2009-01-03,Falkirk_Kilmarnock_2008,Kilmarnock,9,11,20,22
+2009-01-03,Celtic_Dundee United_2008,Celtic,11,10,21,22
+2009-01-03,Hamilton_Aberdeen_2008,Hamilton,10,11,21,22
+2009-01-03,St Mirren_Motherwell_2008,St Mirren,11,10,21,22
+2009-01-03,Falkirk_Kilmarnock_2008,Falkirk,11,10,21,22
+2009-01-03,St Mirren_Motherwell_2008,Motherwell,10,10,20,22
+2009-01-03,Hearts_Hibernian_2008,Hearts,11,9,20,22
+2009-01-03,Hearts_Hibernian_2008,Hibernian,10,11,21,22
+2009-01-04,Inverness C_Rangers_2008,Inverness C,11,10,21,22
+2009-01-04,Inverness C_Rangers_2008,Rangers,10,11,21,22
+2009-01-07,Motherwell_Hearts_2008,Hearts,11,10,21,23
+2009-01-07,Motherwell_Hearts_2008,Motherwell,11,10,21,23
+2009-01-13,Kilmarnock_Aberdeen_2008,Aberdeen,10,11,21,24
+2009-01-13,Kilmarnock_Aberdeen_2008,Kilmarnock,10,11,21,24
+2009-01-17,Kilmarnock_Hearts_2008,Hearts,11,11,22,24
+2009-01-17,Hibernian_St Mirren_2008,St Mirren,11,11,22,24
+2009-01-17,Hamilton_Inverness C_2008,Hamilton,11,11,22,24
+2009-01-17,Hamilton_Inverness C_2008,Inverness C,11,11,22,24
+2009-01-17,Hibernian_St Mirren_2008,Hibernian,11,11,22,24
+2009-01-17,Kilmarnock_Hearts_2008,Kilmarnock,11,11,22,24
+2009-01-17,Rangers_Falkirk_2008,Falkirk,11,11,22,24
+2009-01-17,Rangers_Falkirk_2008,Rangers,11,11,22,24
+2009-01-18,Aberdeen_Celtic_2008,Aberdeen,11,11,22,24
+2009-01-18,Aberdeen_Celtic_2008,Celtic,11,11,22,24
+2009-01-18,Dundee United_Motherwell_2008,Motherwell,11,11,22,24
+2009-01-18,Dundee United_Motherwell_2008,Dundee United,11,11,22,24
+2009-01-24,Dundee United_St Mirren_2008,St Mirren,11,12,23,25
+2009-01-24,Celtic_Hibernian_2008,Celtic,12,11,23,25
+2009-01-24,Aberdeen_Rangers_2008,Aberdeen,12,11,23,25
+2009-01-24,Motherwell_Falkirk_2008,Motherwell,12,11,23,25
+2009-01-24,Aberdeen_Rangers_2008,Rangers,11,12,23,25
+2009-01-24,Celtic_Hibernian_2008,Hibernian,11,12,23,25
+2009-01-24,Hearts_Inverness C_2008,Inverness C,11,12,23,25
+2009-01-24,Hearts_Inverness C_2008,Hearts,12,11,23,25
+2009-01-24,Motherwell_Falkirk_2008,Falkirk,11,12,23,25
+2009-01-24,Dundee United_St Mirren_2008,Dundee United,12,11,23,25
+2009-01-25,Kilmarnock_Hamilton_2008,Kilmarnock,12,11,23,25
+2009-01-25,Kilmarnock_Hamilton_2008,Hamilton,11,12,23,25
+2009-01-31,St Mirren_Kilmarnock_2008,St Mirren,12,12,24,26
+2009-01-31,Rangers_Dundee United_2008,Rangers,12,12,24,26
+2009-01-31,Hibernian_Motherwell_2008,Hibernian,12,12,24,26
+2009-01-31,St Mirren_Kilmarnock_2008,Kilmarnock,12,12,24,26
+2009-01-31,Hibernian_Motherwell_2008,Motherwell,12,12,24,26
+2009-01-31,Falkirk_Aberdeen_2008,Falkirk,12,12,24,26
+2009-01-31,Hamilton_Hearts_2008,Hamilton,12,12,24,26
+2009-01-31,Falkirk_Aberdeen_2008,Aberdeen,12,12,24,26
+2009-01-31,Rangers_Dundee United_2008,Dundee United,12,12,24,26
+2009-01-31,Hamilton_Hearts_2008,Hearts,12,12,24,26
+2009-02-01,Inverness C_Celtic_2008,Inverness C,12,12,24,26
+2009-02-01,Inverness C_Celtic_2008,Celtic,12,12,24,26
+2009-02-14,Kilmarnock_Hibernian_2008,Kilmarnock,13,12,25,28
+2009-02-14,Dundee United_Inverness C_2008,Inverness C,12,13,25,28
+2009-02-14,Dundee United_Inverness C_2008,Dundee United,13,12,25,28
+2009-02-14,Kilmarnock_Hibernian_2008,Hibernian,12,13,25,28
+2009-02-14,Motherwell_Hamilton_2008,Motherwell,13,12,25,28
+2009-02-14,Hearts_Aberdeen_2008,Aberdeen,12,13,25,28
+2009-02-14,St Mirren_Falkirk_2008,Falkirk,12,13,25,28
+2009-02-14,St Mirren_Falkirk_2008,St Mirren,13,12,25,28
+2009-02-14,Motherwell_Hamilton_2008,Hamilton,12,13,25,28
+2009-02-14,Hearts_Aberdeen_2008,Hearts,13,12,25,28
+2009-02-15,Celtic_Rangers_2008,Celtic,13,12,25,28
+2009-02-15,Celtic_Rangers_2008,Rangers,12,13,25,28
+2009-02-21,Aberdeen_Dundee United_2008,Dundee United,13,13,26,29
+2009-02-21,Falkirk_Hamilton_2008,Falkirk,13,13,26,29
+2009-02-21,Hearts_St Mirren_2008,Hearts,14,12,26,29
+2009-02-21,Inverness C_Hibernian_2008,Inverness C,13,13,26,29
+2009-02-21,Falkirk_Hamilton_2008,Hamilton,12,14,26,29
+2009-02-21,Aberdeen_Dundee United_2008,Aberdeen,13,13,26,29
+2009-02-21,Rangers_Kilmarnock_2008,Rangers,13,13,26,29
+2009-02-21,Inverness C_Hibernian_2008,Hibernian,12,14,26,29
+2009-02-21,Hearts_St Mirren_2008,St Mirren,13,13,26,29
+2009-02-21,Rangers_Kilmarnock_2008,Kilmarnock,13,13,26,29
+2009-02-22,Motherwell_Celtic_2008,Motherwell,14,12,26,29
+2009-02-22,Motherwell_Celtic_2008,Celtic,13,13,26,29
+2009-02-28,Inverness C_Motherwell_2008,Inverness C,14,13,27,30
+2009-02-28,Dundee United_Hearts_2008,Dundee United,14,13,27,30
+2009-02-28,Hamilton_Rangers_2008,Hamilton,13,14,27,30
+2009-02-28,Hibernian_Falkirk_2008,Hibernian,13,14,27,30
+2009-02-28,Hamilton_Rangers_2008,Rangers,13,14,27,30
+2009-02-28,Aberdeen_Kilmarnock_2008,Kilmarnock,13,14,27,30
+2009-02-28,Aberdeen_Kilmarnock_2008,Aberdeen,14,13,27,30
+2009-02-28,Hibernian_Falkirk_2008,Falkirk,13,14,27,30
+2009-02-28,Inverness C_Motherwell_2008,Motherwell,14,13,27,30
+2009-02-28,Celtic_St Mirren_2008,St Mirren,13,14,27,30
+2009-02-28,Dundee United_Hearts_2008,Hearts,14,13,27,30
+2009-02-28,Celtic_St Mirren_2008,Celtic,14,13,27,30
+2009-03-03,St Mirren_Aberdeen_2008,St Mirren,14,14,28,31
+2009-03-03,Falkirk_Dundee United_2008,Falkirk,14,14,28,31
+2009-03-03,St Mirren_Aberdeen_2008,Aberdeen,14,14,28,31
+2009-03-03,Falkirk_Dundee United_2008,Dundee United,14,14,28,31
+2009-03-04,Hamilton_Hibernian_2008,Hamilton,14,14,28,31
+2009-03-04,Hearts_Motherwell_2008,Motherwell,14,14,28,31
+2009-03-04,Rangers_Inverness C_2008,Inverness C,14,14,28,31
+2009-03-04,Kilmarnock_Celtic_2008,Celtic,14,14,28,31
+2009-03-04,Hamilton_Hibernian_2008,Hibernian,13,15,28,31
+2009-03-04,Hearts_Motherwell_2008,Hearts,15,13,28,31
+2009-03-04,Rangers_Inverness C_2008,Rangers,14,14,28,31
+2009-03-04,Kilmarnock_Celtic_2008,Kilmarnock,14,14,28,31
+2009-03-14,Hibernian_Hearts_2008,Hibernian,14,15,29,32
+2009-03-14,Aberdeen_Hamilton_2008,Hamilton,14,15,29,32
+2009-03-14,Motherwell_Dundee United_2008,Motherwell,15,14,29,32
+2009-03-14,Motherwell_Dundee United_2008,Dundee United,14,15,29,32
+2009-03-14,Aberdeen_Hamilton_2008,Aberdeen,15,14,29,32
+2009-03-14,Hibernian_Hearts_2008,Hearts,15,14,29,32
+2009-03-14,Inverness C_Kilmarnock_2008,Kilmarnock,14,15,29,32
+2009-03-14,Inverness C_Kilmarnock_2008,Inverness C,15,14,29,32
+2009-03-21,Hamilton_St Mirren_2008,St Mirren,14,15,29,33
+2009-03-21,Rangers_Hearts_2008,Rangers,15,14,29,33
+2009-03-21,Hibernian_Aberdeen_2008,Aberdeen,15,15,30,33
+2009-03-21,Kilmarnock_Motherwell_2008,Kilmarnock,15,15,30,33
+2009-03-21,Kilmarnock_Motherwell_2008,Motherwell,15,15,30,33
+2009-03-21,Falkirk_Inverness C_2008,Inverness C,15,15,30,33
+2009-03-21,Hamilton_St Mirren_2008,Hamilton,15,15,30,33
+2009-03-21,Falkirk_Inverness C_2008,Falkirk,15,14,29,33
+2009-03-21,Hibernian_Aberdeen_2008,Hibernian,15,15,30,33
+2009-03-21,Rangers_Hearts_2008,Hearts,15,15,30,33
+2009-03-22,Dundee United_Celtic_2008,Celtic,14,15,29,33
+2009-03-22,Dundee United_Celtic_2008,Dundee United,15,15,30,33
+2009-04-04,Dundee United_Hibernian_2008,Hibernian,15,16,31,35
+2009-04-04,Celtic_Hamilton_2008,Celtic,15,15,30,35
+2009-04-04,Celtic_Hamilton_2008,Hamilton,15,16,31,35
+2009-04-04,Dundee United_Hibernian_2008,Dundee United,16,15,31,35
+2009-04-04,Hearts_Kilmarnock_2008,Kilmarnock,15,16,31,35
+2009-04-04,Motherwell_Aberdeen_2008,Aberdeen,15,16,31,35
+2009-04-04,Hearts_Kilmarnock_2008,Hearts,16,15,31,35
+2009-04-04,Inverness C_St Mirren_2008,Inverness C,16,15,31,35
+2009-04-04,Motherwell_Aberdeen_2008,Motherwell,16,15,31,35
+2009-04-04,Inverness C_St Mirren_2008,St Mirren,14,16,30,35
+2009-04-05,Falkirk_Rangers_2008,Rangers,15,15,30,35
+2009-04-05,Falkirk_Rangers_2008,Falkirk,16,14,30,35
+2009-04-08,St Mirren_Rangers_2008,St Mirren,15,16,31,36
+2009-04-08,Celtic_Falkirk_2008,Falkirk,16,15,31,36
+2009-04-08,Celtic_Falkirk_2008,Celtic,16,15,31,36
+2009-04-08,St Mirren_Rangers_2008,Rangers,15,16,31,36
+2009-04-11,Kilmarnock_Falkirk_2008,Kilmarnock,16,16,32,36
+2009-04-11,Rangers_Motherwell_2008,Motherwell,16,16,32,36
+2009-04-11,Aberdeen_Inverness C_2008,Inverness C,16,16,32,36
+2009-04-11,Hearts_Celtic_2008,Hearts,17,15,32,36
+2009-04-11,Aberdeen_Inverness C_2008,Aberdeen,16,16,32,36
+2009-04-11,Hearts_Celtic_2008,Celtic,16,16,32,36
+2009-04-11,Hamilton_Dundee United_2008,Dundee United,16,16,32,36
+2009-04-11,Kilmarnock_Falkirk_2008,Falkirk,16,16,32,36
+2009-04-11,Rangers_Motherwell_2008,Rangers,16,16,32,36
+2009-04-11,Hamilton_Dundee United_2008,Hamilton,16,16,32,36
+2009-04-13,St Mirren_Hibernian_2008,Hibernian,15,17,32,36
+2009-04-13,St Mirren_Hibernian_2008,St Mirren,16,16,32,36
+2009-04-18,Motherwell_St Mirren_2008,St Mirren,16,17,33,37
+2009-04-18,Inverness C_Hamilton_2008,Hamilton,16,17,33,37
+2009-04-18,Dundee United_Kilmarnock_2008,Dundee United,17,16,33,37
+2009-04-18,Falkirk_Hearts_2008,Hearts,17,16,33,37
+2009-04-18,Celtic_Aberdeen_2008,Aberdeen,16,17,33,37
+2009-04-18,Motherwell_St Mirren_2008,Motherwell,17,16,33,37
+2009-04-18,Inverness C_Hamilton_2008,Inverness C,17,16,33,37
+2009-04-18,Celtic_Aberdeen_2008,Celtic,17,16,33,37
+2009-04-18,Dundee United_Kilmarnock_2008,Kilmarnock,16,17,33,37
+2009-04-18,Falkirk_Hearts_2008,Falkirk,17,16,33,37
+2009-04-19,Hibernian_Rangers_2008,Rangers,16,17,33,37
+2009-04-19,Hibernian_Rangers_2008,Hibernian,16,17,33,37
+2009-05-02,Aberdeen_Celtic_2008,Celtic,17,17,34,39
+2009-05-02,St Mirren_Inverness C_2008,Inverness C,17,17,34,39
+2009-05-02,Hamilton_Kilmarnock_2008,Hamilton,17,17,34,39
+2009-05-02,Aberdeen_Celtic_2008,Aberdeen,17,17,34,39
+2009-05-02,Falkirk_Motherwell_2008,Falkirk,18,16,34,39
+2009-05-02,Falkirk_Motherwell_2008,Motherwell,17,17,34,39
+2009-05-02,Hibernian_Dundee United_2008,Dundee United,17,17,34,39
+2009-05-02,Hibernian_Dundee United_2008,Hibernian,17,17,34,39
+2009-05-02,Hamilton_Kilmarnock_2008,Kilmarnock,16,18,34,39
+2009-05-02,St Mirren_Inverness C_2008,St Mirren,17,17,34,39
+2009-05-03,Rangers_Hearts_2008,Rangers,17,17,34,39
+2009-05-03,Rangers_Hearts_2008,Hearts,17,17,34,39
+2009-05-07,Dundee United_Aberdeen_2008,Aberdeen,17,18,35,40
+2009-05-07,Hearts_Hibernian_2008,Hearts,18,17,35,40
+2009-05-07,Dundee United_Aberdeen_2008,Dundee United,18,17,35,40
+2009-05-07,Hearts_Hibernian_2008,Hibernian,17,18,35,40
+2009-05-09,Rangers_Celtic_2008,Rangers,18,17,35,40
+2009-05-09,St Mirren_Motherwell_2008,Motherwell,17,18,35,40
+2009-05-09,Rangers_Celtic_2008,Celtic,17,18,35,40
+2009-05-09,Kilmarnock_Falkirk_2008,Kilmarnock,17,18,35,40
+2009-05-09,St Mirren_Motherwell_2008,St Mirren,18,17,35,40
+2009-05-09,Kilmarnock_Falkirk_2008,Falkirk,18,17,35,40
+2009-05-10,Inverness C_Hamilton_2008,Hamilton,17,18,35,40
+2009-05-10,Inverness C_Hamilton_2008,Inverness C,18,17,35,40
+2009-05-12,Celtic_Dundee United_2008,Dundee United,18,18,36,41
+2009-05-12,Aberdeen_Hearts_2008,Hearts,18,18,36,41
+2009-05-12,Aberdeen_Hearts_2008,Aberdeen,18,18,36,41
+2009-05-12,Celtic_Dundee United_2008,Celtic,18,18,36,41
+2009-05-13,Kilmarnock_St Mirren_2008,St Mirren,18,18,36,41
+2009-05-13,Kilmarnock_St Mirren_2008,Kilmarnock,18,18,36,41
+2009-05-13,Hibernian_Rangers_2008,Rangers,18,18,36,41
+2009-05-13,Motherwell_Inverness C_2008,Inverness C,18,18,36,41
+2009-05-13,Hamilton_Falkirk_2008,Hamilton,18,18,36,41
+2009-05-13,Motherwell_Inverness C_2008,Motherwell,18,18,36,41
+2009-05-13,Hamilton_Falkirk_2008,Falkirk,18,18,36,41
+2009-05-13,Hibernian_Rangers_2008,Hibernian,18,18,36,41
+2009-05-16,Falkirk_St Mirren_2008,St Mirren,18,19,37,41
+2009-05-16,Rangers_Aberdeen_2008,Aberdeen,18,19,37,41
+2009-05-16,Hearts_Dundee United_2008,Dundee United,18,19,37,41
+2009-05-16,Kilmarnock_Inverness C_2008,Kilmarnock,19,18,37,41
+2009-05-16,Falkirk_St Mirren_2008,Falkirk,19,18,37,41
+2009-05-16,Hearts_Dundee United_2008,Hearts,19,18,37,41
+2009-05-16,Rangers_Aberdeen_2008,Rangers,19,18,37,41
+2009-05-16,Kilmarnock_Inverness C_2008,Inverness C,18,19,37,41
+2009-05-16,Hamilton_Motherwell_2008,Hamilton,19,18,37,41
+2009-05-16,Hamilton_Motherwell_2008,Motherwell,18,19,37,41
+2009-05-17,Hibernian_Celtic_2008,Hibernian,19,18,37,41
+2009-05-17,Hibernian_Celtic_2008,Celtic,18,19,37,41
+2009-05-23,St Mirren_Hamilton_2008,St Mirren,19,19,38,42
+2009-05-23,Motherwell_Kilmarnock_2008,Kilmarnock,19,19,38,42
+2009-05-23,Inverness C_Falkirk_2008,Falkirk,19,19,38,42
+2009-05-23,St Mirren_Hamilton_2008,Hamilton,19,19,38,42
+2009-05-23,Inverness C_Falkirk_2008,Inverness C,19,19,38,42
+2009-05-23,Motherwell_Kilmarnock_2008,Motherwell,19,19,38,42
+2009-05-24,Celtic_Hearts_2008,Celtic,19,19,38,42
+2009-05-24,Dundee United_Rangers_2008,Dundee United,19,19,38,42
+2009-05-24,Celtic_Hearts_2008,Hearts,19,19,38,42
+2009-05-24,Aberdeen_Hibernian_2008,Hibernian,19,19,38,42
+2009-05-24,Aberdeen_Hibernian_2008,Aberdeen,19,19,38,42
+2009-05-24,Dundee United_Rangers_2008,Rangers,19,19,38,42

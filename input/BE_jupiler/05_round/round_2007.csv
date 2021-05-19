@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2007-08-03,Mechelen_Anderlecht_2007,Anderlecht,1,1,1,1
+2007-08-03,Mechelen_Anderlecht_2007,Mechelen,1,1,1,1
+2007-08-04,Lokeren_St Truiden_2007,St Truiden,1,1,1,1
+2007-08-04,Charleroi_Roeselare_2007,Roeselare,1,1,1,1
+2007-08-04,Genk_Cercle Brugge_2007,Genk,1,1,1,1
+2007-08-04,Genk_Cercle Brugge_2007,Cercle Brugge,1,1,1,1
+2007-08-04,Lokeren_St Truiden_2007,Lokeren,1,1,1,1
+2007-08-04,FC Brussels_Westerlo_2007,Westerlo,1,1,1,1
+2007-08-04,Club Brugge_Bergen_2007,Bergen,1,1,1,1
+2007-08-04,Charleroi_Roeselare_2007,Charleroi,1,1,1,1
+2007-08-04,Club Brugge_Bergen_2007,Club Brugge,1,1,1,1
+2007-08-04,Dender_Germinal_2007,Dender,1,1,1,1
+2007-08-04,FC Brussels_Westerlo_2007,FC Brussels,1,1,1,1
+2007-08-04,Dender_Germinal_2007,Germinal,1,1,1,1
+2007-08-05,Waregem_Standard_2007,Waregem,1,1,1,1
+2007-08-05,Mouscron_Gent_2007,Gent,1,1,1,1
+2007-08-05,Waregem_Standard_2007,Standard,1,1,1,1
+2007-08-05,Mouscron_Gent_2007,Mouscron,1,1,1,1
+2007-08-10,Westerlo_Charleroi_2007,Charleroi,1,1,2,2
+2007-08-10,Westerlo_Charleroi_2007,Westerlo,1,1,2,2
+2007-08-11,Anderlecht_Lokeren_2007,Lokeren,1,1,2,2
+2007-08-11,Bergen_Mechelen_2007,Bergen,1,1,2,2
+2007-08-11,St Truiden_Mouscron_2007,St Truiden,1,1,2,2
+2007-08-11,Anderlecht_Lokeren_2007,Anderlecht,1,1,2,2
+2007-08-11,St Truiden_Mouscron_2007,Mouscron,1,1,2,2
+2007-08-11,Roeselare_Dender_2007,Dender,1,1,2,2
+2007-08-11,Gent_Genk_2007,Gent,1,1,2,2
+2007-08-11,Roeselare_Dender_2007,Roeselare,1,1,2,2
+2007-08-11,Gent_Genk_2007,Genk,1,1,2,2
+2007-08-11,Standard_FC Brussels_2007,FC Brussels,1,1,2,2
+2007-08-11,Cercle Brugge_Waregem_2007,Cercle Brugge,1,1,2,2
+2007-08-11,Cercle Brugge_Waregem_2007,Waregem,1,1,2,2
+2007-08-11,Standard_FC Brussels_2007,Standard,1,1,2,2
+2007-08-11,Bergen_Mechelen_2007,Mechelen,1,1,2,2
+2007-08-12,Germinal_Club Brugge_2007,Club Brugge,1,1,2,2
+2007-08-12,Germinal_Club Brugge_2007,Germinal,1,1,2,2
+2007-08-17,Club Brugge_St Truiden_2007,St Truiden,1,2,3,3
+2007-08-17,Club Brugge_St Truiden_2007,Club Brugge,2,1,3,3
+2007-08-18,Waregem_Westerlo_2007,Waregem,2,1,3,3
+2007-08-18,Waregem_Westerlo_2007,Westerlo,1,2,3,3
+2007-08-18,Mouscron_Bergen_2007,Mouscron,2,1,3,3
+2007-08-18,Charleroi_Mechelen_2007,Mechelen,1,2,3,3
+2007-08-18,Genk_Roeselare_2007,Roeselare,1,2,3,3
+2007-08-18,Charleroi_Mechelen_2007,Charleroi,2,1,3,3
+2007-08-18,FC Brussels_Gent_2007,FC Brussels,2,1,3,3
+2007-08-18,Dender_Anderlecht_2007,Dender,2,1,3,3
+2007-08-18,Lokeren_Germinal_2007,Germinal,1,2,3,3
+2007-08-18,Mouscron_Bergen_2007,Bergen,1,2,3,3
+2007-08-18,FC Brussels_Gent_2007,Gent,1,2,3,3
+2007-08-18,Dender_Anderlecht_2007,Anderlecht,1,2,3,3
+2007-08-18,Lokeren_Germinal_2007,Lokeren,2,1,3,3
+2007-08-18,Genk_Roeselare_2007,Genk,2,1,3,3
+2007-08-19,Standard_Cercle Brugge_2007,Cercle Brugge,1,2,3,3
+2007-08-19,Standard_Cercle Brugge_2007,Standard,2,1,3,3
+2007-08-25,Westerlo_Mouscron_2007,Westerlo,2,2,4,4
+2007-08-25,Roeselare_Standard_2007,Standard,2,2,4,4
+2007-08-25,Bergen_Lokeren_2007,Lokeren,2,2,4,4
+2007-08-25,Cercle Brugge_Dender_2007,Dender,2,2,4,4
+2007-08-25,Westerlo_Mouscron_2007,Mouscron,2,2,4,4
+2007-08-25,Gent_Waregem_2007,Waregem,2,2,4,4
+2007-08-25,Roeselare_Standard_2007,Roeselare,2,2,4,4
+2007-08-25,Cercle Brugge_Dender_2007,Cercle Brugge,2,2,4,4
+2007-08-25,Anderlecht_FC Brussels_2007,Anderlecht,2,2,4,4
+2007-08-25,Gent_Waregem_2007,Gent,2,2,4,4
+2007-08-25,Bergen_Lokeren_2007,Bergen,2,2,4,4
+2007-08-25,Germinal_Genk_2007,Genk,2,2,4,4
+2007-08-25,Germinal_Genk_2007,Germinal,2,2,4,4
+2007-08-25,Anderlecht_FC Brussels_2007,FC Brussels,2,2,4,4
+2007-08-26,St Truiden_Charleroi_2007,Charleroi,2,2,4,4
+2007-08-26,St Truiden_Charleroi_2007,St Truiden,2,2,4,4
+2007-08-27,Mechelen_Club Brugge_2007,Club Brugge,2,2,4,4
+2007-08-27,Mechelen_Club Brugge_2007,Mechelen,2,2,4,4
+2007-08-31,Charleroi_Bergen_2007,Bergen,2,3,5,5
+2007-08-31,Charleroi_Bergen_2007,Charleroi,3,2,5,5
+2007-09-01,Genk_Westerlo_2007,Genk,3,2,5,5
+2007-09-01,FC Brussels_Roeselare_2007,FC Brussels,3,2,5,5
+2007-09-01,Genk_Westerlo_2007,Westerlo,2,3,5,5
+2007-09-01,FC Brussels_Roeselare_2007,Roeselare,2,3,5,5
+2007-09-01,Lokeren_Mechelen_2007,Mechelen,2,3,5,5
+2007-09-01,Waregem_Germinal_2007,Germinal,2,3,5,5
+2007-09-01,Lokeren_Mechelen_2007,Lokeren,3,2,5,5
+2007-09-01,Cercle Brugge_Gent_2007,Cercle Brugge,3,2,5,5
+2007-09-01,Dender_St Truiden_2007,St Truiden,2,3,5,5
+2007-09-01,Dender_St Truiden_2007,Dender,3,2,5,5
+2007-09-01,Waregem_Germinal_2007,Waregem,3,2,5,5
+2007-09-01,Cercle Brugge_Gent_2007,Gent,2,3,5,5
+2007-09-02,Mouscron_Anderlecht_2007,Anderlecht,2,3,5,5
+2007-09-02,Standard_Club Brugge_2007,Club Brugge,2,3,5,5
+2007-09-02,Mouscron_Anderlecht_2007,Mouscron,3,2,5,5
+2007-09-02,Standard_Club Brugge_2007,Standard,3,2,5,5
+2007-09-15,Westerlo_Dender_2007,Westerlo,3,3,6,7
+2007-09-15,Mechelen_Mouscron_2007,Mouscron,3,3,6,7
+2007-09-15,Roeselare_Cercle Brugge_2007,Cercle Brugge,3,3,6,7
+2007-09-15,Germinal_Charleroi_2007,Germinal,3,3,6,7
+2007-09-15,Westerlo_Dender_2007,Dender,3,3,6,7
+2007-09-15,Club Brugge_Lokeren_2007,Lokeren,3,3,6,7
+2007-09-15,Anderlecht_Waregem_2007,Waregem,3,3,6,7
+2007-09-15,Anderlecht_Waregem_2007,Anderlecht,3,3,6,7
+2007-09-15,Bergen_FC Brussels_2007,Bergen,3,3,6,7
+2007-09-15,Mechelen_Mouscron_2007,Mechelen,3,3,6,7
+2007-09-15,Germinal_Charleroi_2007,Charleroi,3,3,6,7
+2007-09-15,Roeselare_Cercle Brugge_2007,Roeselare,3,3,6,7
+2007-09-15,Club Brugge_Lokeren_2007,Club Brugge,3,3,6,7
+2007-09-15,Bergen_FC Brussels_2007,FC Brussels,3,3,6,7
+2007-09-16,Gent_Standard_2007,Gent,3,3,6,7
+2007-09-16,Gent_Standard_2007,Standard,3,3,6,7
+2007-09-16,St Truiden_Genk_2007,Genk,3,3,6,7
+2007-09-16,St Truiden_Genk_2007,St Truiden,3,3,6,7
+2007-09-22,Gent_Roeselare_2007,Gent,4,3,7,8
+2007-09-22,Dender_Bergen_2007,Dender,4,3,7,8
+2007-09-22,FC Brussels_St Truiden_2007,FC Brussels,4,3,7,8
+2007-09-22,FC Brussels_St Truiden_2007,St Truiden,3,4,7,8
+2007-09-22,Cercle Brugge_Germinal_2007,Germinal,3,4,7,8
+2007-09-22,Gent_Roeselare_2007,Roeselare,3,4,7,8
+2007-09-22,Waregem_Mechelen_2007,Waregem,4,3,7,8
+2007-09-22,Dender_Bergen_2007,Bergen,3,4,7,8
+2007-09-22,Mouscron_Lokeren_2007,Lokeren,3,4,7,8
+2007-09-22,Waregem_Mechelen_2007,Mechelen,3,4,7,8
+2007-09-22,Mouscron_Lokeren_2007,Mouscron,4,3,7,8
+2007-09-22,Cercle Brugge_Germinal_2007,Cercle Brugge,4,3,7,8
+2007-09-23,Charleroi_Club Brugge_2007,Charleroi,4,3,7,8
+2007-09-23,Genk_Anderlecht_2007,Genk,4,3,7,8
+2007-09-23,Genk_Anderlecht_2007,Anderlecht,3,4,7,8
+2007-09-23,Charleroi_Club Brugge_2007,Club Brugge,3,4,7,8
+2007-09-24,Standard_Westerlo_2007,Westerlo,3,4,7,8
+2007-09-24,Standard_Westerlo_2007,Standard,4,3,7,8
+2007-09-28,Bergen_Genk_2007,Bergen,4,4,8,9
+2007-09-28,Bergen_Genk_2007,Genk,4,4,8,9
+2007-09-29,Westerlo_Cercle Brugge_2007,Westerlo,4,4,8,9
+2007-09-29,Roeselare_Waregem_2007,Roeselare,4,4,8,9
+2007-09-29,Club Brugge_Mouscron_2007,Mouscron,4,4,8,9
+2007-09-29,St Truiden_Standard_2007,Standard,4,4,8,9
+2007-09-29,Anderlecht_Charleroi_2007,Charleroi,4,4,8,9
+2007-09-29,Roeselare_Waregem_2007,Waregem,4,4,8,9
+2007-09-29,Lokeren_FC Brussels_2007,Lokeren,4,4,8,9
+2007-09-29,Anderlecht_Charleroi_2007,Anderlecht,4,4,8,9
+2007-09-29,St Truiden_Standard_2007,St Truiden,4,4,8,9
+2007-09-29,Westerlo_Cercle Brugge_2007,Cercle Brugge,4,4,8,9
+2007-09-29,Club Brugge_Mouscron_2007,Club Brugge,4,4,8,9
+2007-09-29,Lokeren_FC Brussels_2007,FC Brussels,4,4,8,9
+2007-09-30,Germinal_Gent_2007,Germinal,4,4,8,9
+2007-09-30,Mechelen_Dender_2007,Dender,4,4,8,9
+2007-09-30,Germinal_Gent_2007,Gent,4,4,8,9
+2007-09-30,Mechelen_Dender_2007,Mechelen,4,4,8,9
+2007-10-05,Charleroi_Mouscron_2007,Charleroi,5,4,9,10
+2007-10-05,Charleroi_Mouscron_2007,Mouscron,4,5,9,10
+2007-10-06,Dender_Lokeren_2007,Dender,5,4,9,10
+2007-10-06,Waregem_Bergen_2007,Bergen,4,5,9,10
+2007-10-06,Cercle Brugge_St Truiden_2007,Cercle Brugge,5,4,9,10
+2007-10-06,Waregem_Bergen_2007,Waregem,5,4,9,10
+2007-10-06,Genk_Mechelen_2007,Mechelen,4,5,9,10
+2007-10-06,Genk_Mechelen_2007,Genk,5,4,9,10
+2007-10-06,Dender_Lokeren_2007,Lokeren,4,5,9,10
+2007-10-06,Gent_Westerlo_2007,Westerlo,4,5,9,10
+2007-10-06,Cercle Brugge_St Truiden_2007,St Truiden,4,5,9,10
+2007-10-06,Gent_Westerlo_2007,Gent,5,4,9,10
+2007-10-07,Standard_Germinal_2007,Germinal,4,5,9,10
+2007-10-07,Roeselare_Anderlecht_2007,Roeselare,5,4,9,10
+2007-10-07,Standard_Germinal_2007,Standard,5,4,9,10
+2007-10-07,Roeselare_Anderlecht_2007,Anderlecht,4,5,9,10
+2007-10-07,FC Brussels_Club Brugge_2007,FC Brussels,5,4,9,10
+2007-10-07,FC Brussels_Club Brugge_2007,Club Brugge,4,5,9,10
+2007-10-20,Mechelen_Cercle Brugge_2007,Cercle Brugge,5,5,10,12
+2007-10-20,Westerlo_Roeselare_2007,Westerlo,5,5,10,12
+2007-10-20,Lokeren_Charleroi_2007,Charleroi,5,5,10,12
+2007-10-20,Lokeren_Charleroi_2007,Lokeren,5,5,10,12
+2007-10-20,St Truiden_Waregem_2007,Waregem,5,5,10,12
+2007-10-20,Mouscron_Genk_2007,Genk,5,5,10,12
+2007-10-20,Germinal_FC Brussels_2007,FC Brussels,5,5,10,12
+2007-10-20,Club Brugge_Dender_2007,Dender,5,5,10,12
+2007-10-20,Mouscron_Genk_2007,Mouscron,5,5,10,12
+2007-10-20,Mechelen_Cercle Brugge_2007,Mechelen,5,5,10,12
+2007-10-20,Germinal_FC Brussels_2007,Germinal,5,5,10,12
+2007-10-20,St Truiden_Waregem_2007,St Truiden,5,5,10,12
+2007-10-20,Westerlo_Roeselare_2007,Roeselare,5,5,10,12
+2007-10-20,Club Brugge_Dender_2007,Club Brugge,5,5,10,12
+2007-10-21,Bergen_Standard_2007,Bergen,5,5,10,12
+2007-10-21,Anderlecht_Gent_2007,Anderlecht,5,5,10,12
+2007-10-21,Bergen_Standard_2007,Standard,5,5,10,12
+2007-10-21,Anderlecht_Gent_2007,Gent,5,5,10,12
+2007-10-26,Gent_Bergen_2007,Bergen,5,6,11,13
+2007-10-26,Gent_Bergen_2007,Gent,6,5,11,13
+2007-10-27,FC Brussels_Charleroi_2007,FC Brussels,6,5,11,13
+2007-10-27,Westerlo_Germinal_2007,Germinal,5,6,11,13
+2007-10-27,Standard_Mechelen_2007,Standard,6,5,11,13
+2007-10-27,Roeselare_St Truiden_2007,Roeselare,6,5,11,13
+2007-10-27,Westerlo_Germinal_2007,Westerlo,6,5,11,13
+2007-10-27,Waregem_Lokeren_2007,Lokeren,5,6,11,13
+2007-10-27,Dender_Mouscron_2007,Mouscron,5,6,11,13
+2007-10-27,Roeselare_St Truiden_2007,St Truiden,5,6,11,13
+2007-10-27,Dender_Mouscron_2007,Dender,6,5,11,13
+2007-10-27,Waregem_Lokeren_2007,Waregem,6,5,11,13
+2007-10-27,Standard_Mechelen_2007,Mechelen,5,6,11,13
+2007-10-27,FC Brussels_Charleroi_2007,Charleroi,5,6,11,13
+2007-10-28,Cercle Brugge_Anderlecht_2007,Cercle Brugge,6,5,11,13
+2007-10-28,Cercle Brugge_Anderlecht_2007,Anderlecht,5,6,11,13
+2007-10-28,Genk_Club Brugge_2007,Club Brugge,5,6,11,13
+2007-10-28,Genk_Club Brugge_2007,Genk,6,5,11,13
+2007-11-02,Mouscron_Standard_2007,Mouscron,6,6,12,14
+2007-11-02,Mouscron_Standard_2007,Standard,6,6,12,14
+2007-11-03,Club Brugge_Waregem_2007,Waregem,6,6,12,14
+2007-11-03,Germinal_Roeselare_2007,Roeselare,6,6,12,14
+2007-11-03,Bergen_Cercle Brugge_2007,Bergen,6,6,12,14
+2007-11-03,Charleroi_Dender_2007,Charleroi,6,6,12,14
+2007-11-03,St Truiden_Gent_2007,St Truiden,6,6,12,14
+2007-11-03,Bergen_Cercle Brugge_2007,Cercle Brugge,6,6,12,14
+2007-11-03,Charleroi_Dender_2007,Dender,6,6,12,14
+2007-11-03,Germinal_Roeselare_2007,Germinal,6,6,12,14
+2007-11-03,St Truiden_Gent_2007,Gent,6,6,12,14
+2007-11-03,Anderlecht_Westerlo_2007,Anderlecht,6,6,12,14
+2007-11-03,Club Brugge_Waregem_2007,Club Brugge,6,6,12,14
+2007-11-03,Anderlecht_Westerlo_2007,Westerlo,6,6,12,14
+2007-11-04,Lokeren_Genk_2007,Genk,6,6,12,14
+2007-11-04,Mechelen_FC Brussels_2007,FC Brussels,6,6,12,14
+2007-11-04,Mechelen_FC Brussels_2007,Mechelen,6,6,12,14
+2007-11-04,Lokeren_Genk_2007,Lokeren,6,6,12,14
+2007-11-09,Cercle Brugge_Club Brugge_2007,Cercle Brugge,7,6,13,15
+2007-11-09,Cercle Brugge_Club Brugge_2007,Club Brugge,6,7,13,15
+2007-11-10,Waregem_Mouscron_2007,Waregem,7,6,13,15
+2007-11-10,Waregem_Mouscron_2007,Mouscron,6,7,13,15
+2007-11-10,Westerlo_St Truiden_2007,Westerlo,7,6,13,15
+2007-11-10,Genk_Charleroi_2007,Charleroi,6,7,13,15
+2007-11-10,Genk_Charleroi_2007,Genk,7,6,13,15
+2007-11-10,FC Brussels_Dender_2007,Dender,6,7,13,15
+2007-11-10,Westerlo_St Truiden_2007,St Truiden,6,7,13,15
+2007-11-10,Standard_Lokeren_2007,Standard,7,6,13,15
+2007-11-10,FC Brussels_Dender_2007,FC Brussels,7,6,13,15
+2007-11-10,Standard_Lokeren_2007,Lokeren,6,7,13,15
+2007-11-11,Gent_Mechelen_2007,Gent,7,6,13,15
+2007-11-11,Germinal_Anderlecht_2007,Germinal,7,6,13,15
+2007-11-11,Germinal_Anderlecht_2007,Anderlecht,6,7,13,15
+2007-11-11,Gent_Mechelen_2007,Mechelen,6,7,13,15
+2007-11-12,Roeselare_Bergen_2007,Roeselare,7,6,13,15
+2007-11-12,Roeselare_Bergen_2007,Bergen,6,7,13,15
+2007-11-30,Anderlecht_Standard_2007,Standard,7,7,14,18
+2007-11-30,Anderlecht_Standard_2007,Anderlecht,7,7,14,18
+2007-12-01,Mouscron_FC Brussels_2007,FC Brussels,7,7,14,18
+2007-12-01,Bergen_Westerlo_2007,Westerlo,7,7,14,18
+2007-12-01,Mechelen_Roeselare_2007,Roeselare,7,7,14,18
+2007-12-01,Charleroi_Waregem_2007,Waregem,7,7,14,18
+2007-12-01,Lokeren_Cercle Brugge_2007,Lokeren,7,7,14,18
+2007-12-01,Mechelen_Roeselare_2007,Mechelen,7,7,14,18
+2007-12-01,St Truiden_Germinal_2007,Germinal,7,7,14,18
+2007-12-01,Bergen_Westerlo_2007,Bergen,7,7,14,18
+2007-12-01,Mouscron_FC Brussels_2007,Mouscron,7,7,14,18
+2007-12-01,St Truiden_Germinal_2007,St Truiden,7,7,14,18
+2007-12-01,Lokeren_Cercle Brugge_2007,Cercle Brugge,7,7,14,18
+2007-12-01,Charleroi_Waregem_2007,Charleroi,7,7,14,18
+2007-12-02,Dender_Genk_2007,Genk,7,7,14,18
+2007-12-02,Dender_Genk_2007,Dender,7,7,14,18
+2007-12-02,Club Brugge_Gent_2007,Club Brugge,7,7,14,18
+2007-12-02,Club Brugge_Gent_2007,Gent,7,7,14,18
+2007-12-07,Standard_Charleroi_2007,Charleroi,7,8,15,19
+2007-12-07,Standard_Charleroi_2007,Standard,8,7,15,19
+2007-12-08,Westerlo_Mechelen_2007,Westerlo,8,7,15,19
+2007-12-08,FC Brussels_Genk_2007,Genk,7,8,15,19
+2007-12-08,Waregem_Dender_2007,Dender,7,8,15,19
+2007-12-08,Waregem_Dender_2007,Waregem,8,7,15,19
+2007-12-08,Cercle Brugge_Mouscron_2007,Mouscron,7,8,15,19
+2007-12-08,Westerlo_Mechelen_2007,Mechelen,7,8,15,19
+2007-12-08,Gent_Lokeren_2007,Gent,8,7,15,19
+2007-12-08,Gent_Lokeren_2007,Lokeren,7,8,15,19
+2007-12-08,Cercle Brugge_Mouscron_2007,Cercle Brugge,8,7,15,19
+2007-12-08,FC Brussels_Genk_2007,FC Brussels,8,7,15,19
+2007-12-08,Germinal_Bergen_2007,Bergen,7,8,15,19
+2007-12-08,Germinal_Bergen_2007,Germinal,8,7,15,19
+2007-12-09,St Truiden_Anderlecht_2007,Anderlecht,7,8,15,19
+2007-12-09,St Truiden_Anderlecht_2007,St Truiden,8,7,15,19
+2007-12-09,Roeselare_Club Brugge_2007,Club Brugge,7,8,15,19
+2007-12-09,Roeselare_Club Brugge_2007,Roeselare,8,7,15,19
+2007-12-14,Genk_Waregem_2007,Genk,8,8,16,20
+2007-12-14,Genk_Waregem_2007,Waregem,8,8,16,20
+2007-12-15,Lokeren_Westerlo_2007,Westerlo,8,8,16,20
+2007-12-15,FC Brussels_Cercle Brugge_2007,FC Brussels,9,7,16,20
+2007-12-15,Bergen_St Truiden_2007,Bergen,8,8,16,20
+2007-12-15,Bergen_St Truiden_2007,St Truiden,8,8,16,20
+2007-12-15,Mouscron_Roeselare_2007,Roeselare,8,8,16,20
+2007-12-15,Mechelen_Germinal_2007,Germinal,8,8,16,20
+2007-12-15,Mechelen_Germinal_2007,Mechelen,8,8,16,20
+2007-12-15,Dender_Standard_2007,Dender,8,8,16,20
+2007-12-15,Lokeren_Westerlo_2007,Lokeren,8,8,16,20
+2007-12-15,FC Brussels_Cercle Brugge_2007,Cercle Brugge,8,8,16,20
+2007-12-15,Dender_Standard_2007,Standard,8,8,16,20
+2007-12-15,Mouscron_Roeselare_2007,Mouscron,8,8,16,20
+2007-12-16,Charleroi_Gent_2007,Gent,8,8,16,20
+2007-12-16,Club Brugge_Anderlecht_2007,Club Brugge,8,8,16,20
+2007-12-16,Charleroi_Gent_2007,Charleroi,8,8,16,20
+2007-12-16,Club Brugge_Anderlecht_2007,Anderlecht,7,9,16,20
+2007-12-22,Waregem_FC Brussels_2007,FC Brussels,9,8,17,21
+2007-12-22,St Truiden_Mechelen_2007,St Truiden,9,8,17,21
+2007-12-22,Germinal_Mouscron_2007,Mouscron,8,9,17,21
+2007-12-22,Anderlecht_Bergen_2007,Anderlecht,8,9,17,21
+2007-12-22,St Truiden_Mechelen_2007,Mechelen,8,9,17,21
+2007-12-22,Gent_Dender_2007,Gent,9,8,17,21
+2007-12-22,Gent_Dender_2007,Dender,8,9,17,21
+2007-12-22,Waregem_FC Brussels_2007,Waregem,9,8,17,21
+2007-12-22,Germinal_Mouscron_2007,Germinal,9,8,17,21
+2007-12-22,Anderlecht_Bergen_2007,Bergen,8,9,17,21
+2007-12-23,Cercle Brugge_Charleroi_2007,Cercle Brugge,9,8,17,21
+2007-12-23,Standard_Genk_2007,Genk,8,9,17,21
+2007-12-23,Cercle Brugge_Charleroi_2007,Charleroi,8,9,17,21
+2007-12-23,Standard_Genk_2007,Standard,9,8,17,21
+2008-01-18,Bergen_Club Brugge_2007,Bergen,9,9,18,25
+2008-01-18,Bergen_Club Brugge_2007,Club Brugge,8,9,17,25
+2008-01-19,Germinal_Dender_2007,Germinal,10,8,18,25
+2008-01-19,Roeselare_Charleroi_2007,Charleroi,8,10,18,25
+2008-01-19,Standard_Waregem_2007,Standard,10,8,18,25
+2008-01-19,St Truiden_Lokeren_2007,St Truiden,10,8,18,25
+2008-01-19,Anderlecht_Mechelen_2007,Anderlecht,9,9,18,25
+2008-01-19,Westerlo_FC Brussels_2007,FC Brussels,9,9,18,25
+2008-01-19,Germinal_Dender_2007,Dender,8,10,18,25
+2008-01-19,Roeselare_Charleroi_2007,Roeselare,9,8,17,25
+2008-01-19,Anderlecht_Mechelen_2007,Mechelen,8,10,18,25
+2008-01-19,St Truiden_Lokeren_2007,Lokeren,8,9,17,25
+2008-01-19,Westerlo_FC Brussels_2007,Westerlo,9,8,17,25
+2008-01-19,Standard_Waregem_2007,Waregem,9,9,18,25
+2008-01-20,Cercle Brugge_Genk_2007,Genk,8,10,18,25
+2008-01-20,Gent_Mouscron_2007,Gent,10,8,18,25
+2008-01-20,Gent_Mouscron_2007,Mouscron,8,10,18,25
+2008-01-20,Cercle Brugge_Genk_2007,Cercle Brugge,10,8,18,25
+2008-01-22,Westerlo_Club Brugge_2007,Westerlo,10,8,18,26
+2008-01-22,Roeselare_Lokeren_2007,Lokeren,8,10,18,26
+2008-01-22,Roeselare_Lokeren_2007,Roeselare,10,8,18,26
+2008-01-22,Westerlo_Club Brugge_2007,Club Brugge,8,10,18,26
+2008-01-25,Waregem_Cercle Brugge_2007,Cercle Brugge,10,9,19,26
+2008-01-25,Waregem_Cercle Brugge_2007,Waregem,10,9,19,26
+2008-01-26,Genk_Gent_2007,Genk,9,10,19,26
+2008-01-26,Charleroi_Westerlo_2007,Charleroi,9,10,19,26
+2008-01-26,Mouscron_St Truiden_2007,St Truiden,10,9,19,26
+2008-01-26,Mechelen_Bergen_2007,Mechelen,9,10,19,26
+2008-01-26,Dender_Roeselare_2007,Dender,9,10,19,26
+2008-01-26,Mouscron_St Truiden_2007,Mouscron,9,10,19,26
+2008-01-26,Mechelen_Bergen_2007,Bergen,9,10,19,26
+2008-01-26,Dender_Roeselare_2007,Roeselare,10,9,19,26
+2008-01-26,Club Brugge_Germinal_2007,Germinal,10,9,19,26
+2008-01-26,Charleroi_Westerlo_2007,Westerlo,10,9,19,26
+2008-01-26,Genk_Gent_2007,Gent,10,9,19,26
+2008-01-26,Club Brugge_Germinal_2007,Club Brugge,9,10,19,26
+2008-01-27,FC Brussels_Standard_2007,Standard,10,9,19,26
+2008-01-27,Lokeren_Anderlecht_2007,Lokeren,9,10,19,26
+2008-01-27,Lokeren_Anderlecht_2007,Anderlecht,9,10,19,26
+2008-01-27,FC Brussels_Standard_2007,FC Brussels,10,9,19,26
+2008-02-02,Gent_FC Brussels_2007,Gent,11,9,20,27
+2008-02-02,Westerlo_Waregem_2007,Westerlo,11,9,20,27
+2008-02-02,Anderlecht_Dender_2007,Anderlecht,10,10,20,27
+2008-02-02,Mechelen_Charleroi_2007,Charleroi,9,11,20,27
+2008-02-02,Mechelen_Charleroi_2007,Mechelen,10,10,20,27
+2008-02-02,Gent_FC Brussels_2007,FC Brussels,10,10,20,27
+2008-02-02,Roeselare_Genk_2007,Roeselare,11,9,20,27
+2008-02-02,Anderlecht_Dender_2007,Dender,9,11,20,27
+2008-02-02,Westerlo_Waregem_2007,Waregem,10,10,20,27
+2008-02-02,Roeselare_Genk_2007,Genk,9,11,20,27
+2008-02-02,Bergen_Mouscron_2007,Bergen,10,10,20,27
+2008-02-02,Bergen_Mouscron_2007,Mouscron,9,11,20,27
+2008-02-03,Germinal_Lokeren_2007,Germinal,11,9,20,27
+2008-02-03,Cercle Brugge_Standard_2007,Cercle Brugge,11,9,20,27
+2008-02-03,Germinal_Lokeren_2007,Lokeren,9,11,20,27
+2008-02-03,St Truiden_Club Brugge_2007,Club Brugge,9,11,20,27
+2008-02-03,St Truiden_Club Brugge_2007,St Truiden,11,9,20,27
+2008-02-03,Cercle Brugge_Standard_2007,Standard,10,10,20,27
+2008-02-09,FC Brussels_Anderlecht_2007,Anderlecht,10,11,21,28
+2008-02-09,Mouscron_Westerlo_2007,Westerlo,11,10,21,28
+2008-02-09,Club Brugge_Mechelen_2007,Club Brugge,10,11,21,28
+2008-02-09,FC Brussels_Anderlecht_2007,FC Brussels,11,10,21,28
+2008-02-09,Club Brugge_Mechelen_2007,Mechelen,10,11,21,28
+2008-02-09,Mouscron_Westerlo_2007,Mouscron,10,11,21,28
+2008-02-09,Lokeren_Bergen_2007,Lokeren,10,11,21,28
+2008-02-09,Standard_Roeselare_2007,Roeselare,11,10,21,28
+2008-02-09,Dender_Cercle Brugge_2007,Dender,10,11,21,28
+2008-02-09,Charleroi_St Truiden_2007,Charleroi,10,11,21,28
+2008-02-09,Charleroi_St Truiden_2007,St Truiden,11,10,21,28
+2008-02-09,Lokeren_Bergen_2007,Bergen,10,11,21,28
+2008-02-09,Standard_Roeselare_2007,Standard,11,10,21,28
+2008-02-09,Dender_Cercle Brugge_2007,Cercle Brugge,11,10,21,28
+2008-02-10,Waregem_Gent_2007,Gent,11,10,21,28
+2008-02-10,Genk_Germinal_2007,Germinal,11,10,21,28
+2008-02-10,Genk_Germinal_2007,Genk,10,11,21,28
+2008-02-10,Waregem_Gent_2007,Waregem,11,10,21,28
+2008-02-15,Gent_Cercle Brugge_2007,Gent,12,10,22,29
+2008-02-15,Gent_Cercle Brugge_2007,Cercle Brugge,11,11,22,29
+2008-02-16,Mechelen_Lokeren_2007,Lokeren,10,12,22,29
+2008-02-16,Mechelen_Lokeren_2007,Mechelen,11,11,22,29
+2008-02-16,Roeselare_FC Brussels_2007,Roeselare,12,10,22,29
+2008-02-16,Westerlo_Genk_2007,Genk,10,12,22,29
+2008-02-16,St Truiden_Dender_2007,Dender,10,12,22,29
+2008-02-16,Germinal_Waregem_2007,Germinal,12,10,22,29
+2008-02-16,Roeselare_FC Brussels_2007,FC Brussels,11,11,22,29
+2008-02-16,St Truiden_Dender_2007,St Truiden,12,10,22,29
+2008-02-16,Bergen_Charleroi_2007,Charleroi,10,12,22,29
+2008-02-16,Westerlo_Genk_2007,Westerlo,12,10,22,29
+2008-02-16,Germinal_Waregem_2007,Waregem,11,11,22,29
+2008-02-16,Bergen_Charleroi_2007,Bergen,11,11,22,29
+2008-02-17,Anderlecht_Mouscron_2007,Mouscron,10,12,22,29
+2008-02-17,Anderlecht_Mouscron_2007,Anderlecht,11,11,22,29
+2008-02-17,Club Brugge_Standard_2007,Club Brugge,11,11,22,29
+2008-02-17,Club Brugge_Standard_2007,Standard,11,11,22,29
+2008-02-22,Genk_St Truiden_2007,Genk,11,12,23,30
+2008-02-22,Genk_St Truiden_2007,St Truiden,12,11,23,30
+2008-02-23,Cercle Brugge_Roeselare_2007,Cercle Brugge,12,11,23,30
+2008-02-23,Charleroi_Germinal_2007,Charleroi,11,12,23,30
+2008-02-23,Standard_Gent_2007,Standard,12,11,23,30
+2008-02-23,Dender_Westerlo_2007,Westerlo,12,11,23,30
+2008-02-23,Dender_Westerlo_2007,Dender,11,12,23,30
+2008-02-23,Mouscron_Mechelen_2007,Mechelen,11,12,23,30
+2008-02-23,Cercle Brugge_Roeselare_2007,Roeselare,12,11,23,30
+2008-02-23,Standard_Gent_2007,Gent,12,11,23,30
+2008-02-23,FC Brussels_Bergen_2007,FC Brussels,12,11,23,30
+2008-02-23,Mouscron_Mechelen_2007,Mouscron,11,12,23,30
+2008-02-23,Charleroi_Germinal_2007,Germinal,12,11,23,30
+2008-02-23,FC Brussels_Bergen_2007,Bergen,11,12,23,30
+2008-02-24,Lokeren_Club Brugge_2007,Club Brugge,11,12,23,30
+2008-02-24,Lokeren_Club Brugge_2007,Lokeren,11,12,23,30
+2008-02-24,Waregem_Anderlecht_2007,Waregem,12,11,23,30
+2008-02-24,Waregem_Anderlecht_2007,Anderlecht,11,12,23,30
+2008-02-29,Club Brugge_Charleroi_2007,Charleroi,11,13,24,31
+2008-02-29,Club Brugge_Charleroi_2007,Club Brugge,12,12,24,31
+2008-03-01,Roeselare_Gent_2007,Roeselare,13,11,24,31
+2008-03-01,St Truiden_FC Brussels_2007,St Truiden,13,11,24,31
+2008-03-01,St Truiden_FC Brussels_2007,FC Brussels,12,12,24,31
+2008-03-01,Roeselare_Gent_2007,Gent,12,12,24,31
+2008-03-01,Bergen_Dender_2007,Dender,11,13,24,31
+2008-03-01,Bergen_Dender_2007,Bergen,12,12,24,31
+2008-03-01,Mechelen_Waregem_2007,Waregem,12,12,24,31
+2008-03-01,Lokeren_Mouscron_2007,Lokeren,12,12,24,31
+2008-03-01,Lokeren_Mouscron_2007,Mouscron,11,13,24,31
+2008-03-01,Westerlo_Standard_2007,Standard,12,12,24,31
+2008-03-01,Mechelen_Waregem_2007,Mechelen,12,12,24,31
+2008-03-01,Westerlo_Standard_2007,Westerlo,13,11,24,31
+2008-03-02,Germinal_Cercle Brugge_2007,Cercle Brugge,12,12,24,31
+2008-03-02,Germinal_Cercle Brugge_2007,Germinal,13,11,24,31
+2008-03-02,Anderlecht_Genk_2007,Anderlecht,12,12,24,31
+2008-03-02,Anderlecht_Genk_2007,Genk,11,13,24,31
+2008-03-07,Standard_St Truiden_2007,Standard,13,12,25,32
+2008-03-07,Standard_St Truiden_2007,St Truiden,13,12,25,32
+2008-03-08,Mouscron_Club Brugge_2007,Club Brugge,12,13,25,32
+2008-03-08,Cercle Brugge_Westerlo_2007,Westerlo,13,12,25,32
+2008-03-08,Genk_Bergen_2007,Bergen,12,13,25,32
+2008-03-08,Mouscron_Club Brugge_2007,Mouscron,12,13,25,32
+2008-03-08,Waregem_Roeselare_2007,Roeselare,13,12,25,32
+2008-03-08,Dender_Mechelen_2007,Mechelen,12,13,25,32
+2008-03-08,Cercle Brugge_Westerlo_2007,Cercle Brugge,13,12,25,32
+2008-03-08,Dender_Mechelen_2007,Dender,12,13,25,32
+2008-03-08,FC Brussels_Lokeren_2007,FC Brussels,13,12,25,32
+2008-03-08,Waregem_Roeselare_2007,Waregem,13,12,25,32
+2008-03-08,FC Brussels_Lokeren_2007,Lokeren,12,13,25,32
+2008-03-08,Genk_Bergen_2007,Genk,12,13,25,32
+2008-03-09,Charleroi_Anderlecht_2007,Anderlecht,12,13,25,32
+2008-03-09,Gent_Germinal_2007,Germinal,13,12,25,32
+2008-03-09,Gent_Germinal_2007,Gent,13,12,25,32
+2008-03-09,Charleroi_Anderlecht_2007,Charleroi,12,13,25,32
+2008-03-14,Germinal_Standard_2007,Standard,13,13,26,33
+2008-03-14,Germinal_Standard_2007,Germinal,14,12,26,33
+2008-03-15,Westerlo_Gent_2007,Westerlo,14,12,26,33
+2008-03-15,Bergen_Waregem_2007,Waregem,13,13,26,33
+2008-03-15,St Truiden_Cercle Brugge_2007,St Truiden,14,12,26,33
+2008-03-15,Mouscron_Charleroi_2007,Charleroi,12,14,26,33
+2008-03-15,Bergen_Waregem_2007,Bergen,13,13,26,33
+2008-03-15,Westerlo_Gent_2007,Gent,13,13,26,33
+2008-03-15,St Truiden_Cercle Brugge_2007,Cercle Brugge,13,13,26,33
+2008-03-15,Club Brugge_FC Brussels_2007,FC Brussels,13,13,26,33
+2008-03-15,Lokeren_Dender_2007,Lokeren,13,13,26,33
+2008-03-15,Lokeren_Dender_2007,Dender,12,14,26,33
+2008-03-15,Mouscron_Charleroi_2007,Mouscron,13,13,26,33
+2008-03-15,Club Brugge_FC Brussels_2007,Club Brugge,13,13,26,33
+2008-03-16,Mechelen_Genk_2007,Genk,12,14,26,33
+2008-03-16,Anderlecht_Roeselare_2007,Anderlecht,13,13,26,33
+2008-03-16,Mechelen_Genk_2007,Mechelen,13,13,26,33
+2008-03-16,Anderlecht_Roeselare_2007,Roeselare,13,13,26,33
+2008-03-21,Genk_Mouscron_2007,Genk,13,14,27,34
+2008-03-21,Genk_Mouscron_2007,Mouscron,13,14,27,34
+2008-03-22,Dender_Club Brugge_2007,Dender,13,14,27,34
+2008-03-22,Cercle Brugge_Mechelen_2007,Mechelen,13,14,27,34
+2008-03-22,Waregem_St Truiden_2007,St Truiden,14,13,27,34
+2008-03-22,Charleroi_Lokeren_2007,Lokeren,13,14,27,34
+2008-03-22,Roeselare_Westerlo_2007,Roeselare,14,13,27,34
+2008-03-22,FC Brussels_Germinal_2007,Germinal,14,13,27,34
+2008-03-22,Waregem_St Truiden_2007,Waregem,14,13,27,34
+2008-03-22,Dender_Club Brugge_2007,Club Brugge,13,14,27,34
+2008-03-22,Roeselare_Westerlo_2007,Westerlo,14,13,27,34
+2008-03-22,Cercle Brugge_Mechelen_2007,Cercle Brugge,14,13,27,34
+2008-03-22,Charleroi_Lokeren_2007,Charleroi,13,14,27,34
+2008-03-22,FC Brussels_Germinal_2007,FC Brussels,14,13,27,34
+2008-03-23,Gent_Anderlecht_2007,Anderlecht,13,14,27,34
+2008-03-23,Standard_Bergen_2007,Standard,14,13,27,34
+2008-03-23,Gent_Anderlecht_2007,Gent,14,13,27,34
+2008-03-23,Standard_Bergen_2007,Bergen,13,14,27,34
+2008-03-29,Germinal_Westerlo_2007,Westerlo,14,14,28,35
+2008-03-29,Bergen_Gent_2007,Gent,14,14,28,35
+2008-03-29,Charleroi_FC Brussels_2007,FC Brussels,14,14,28,35
+2008-03-29,Lokeren_Waregem_2007,Waregem,14,14,28,35
+2008-03-29,Bergen_Gent_2007,Bergen,14,14,28,35
+2008-03-29,Mechelen_Standard_2007,Standard,14,14,28,35
+2008-03-29,Mouscron_Dender_2007,Dender,13,15,28,35
+2008-03-29,St Truiden_Roeselare_2007,Roeselare,14,14,28,35
+2008-03-29,St Truiden_Roeselare_2007,St Truiden,15,13,28,35
+2008-03-29,Lokeren_Waregem_2007,Lokeren,14,14,28,35
+2008-03-29,Mouscron_Dender_2007,Mouscron,14,14,28,35
+2008-03-29,Germinal_Westerlo_2007,Germinal,15,13,28,35
+2008-03-29,Mechelen_Standard_2007,Mechelen,14,14,28,35
+2008-03-29,Charleroi_FC Brussels_2007,Charleroi,14,14,28,35
+2008-03-30,Club Brugge_Genk_2007,Genk,13,15,28,35
+2008-03-30,Club Brugge_Genk_2007,Club Brugge,14,14,28,35
+2008-03-30,Anderlecht_Cercle Brugge_2007,Cercle Brugge,14,14,28,35
+2008-03-30,Anderlecht_Cercle Brugge_2007,Anderlecht,14,14,28,35
+2008-04-04,Gent_St Truiden_2007,Gent,15,14,29,36
+2008-04-04,Gent_St Truiden_2007,St Truiden,15,14,29,36
+2008-04-05,Waregem_Club Brugge_2007,Waregem,15,14,29,36
+2008-04-05,Dender_Charleroi_2007,Dender,14,15,29,36
+2008-04-05,Genk_Lokeren_2007,Lokeren,14,15,29,36
+2008-04-05,Genk_Lokeren_2007,Genk,14,15,29,36
+2008-04-05,Cercle Brugge_Bergen_2007,Bergen,14,15,29,36
+2008-04-05,FC Brussels_Mechelen_2007,Mechelen,14,15,29,36
+2008-04-05,FC Brussels_Mechelen_2007,FC Brussels,15,14,29,36
+2008-04-05,Waregem_Club Brugge_2007,Club Brugge,14,15,29,36
+2008-04-05,Cercle Brugge_Bergen_2007,Cercle Brugge,15,14,29,36
+2008-04-05,Roeselare_Germinal_2007,Germinal,15,14,29,36
+2008-04-05,Roeselare_Germinal_2007,Roeselare,15,14,29,36
+2008-04-05,Dender_Charleroi_2007,Charleroi,14,15,29,36
+2008-04-06,Westerlo_Anderlecht_2007,Westerlo,15,14,29,36
+2008-04-06,Westerlo_Anderlecht_2007,Anderlecht,14,15,29,36
+2008-04-06,Standard_Mouscron_2007,Mouscron,14,15,29,36
+2008-04-06,Standard_Mouscron_2007,Standard,15,14,29,36
+2008-04-11,Lokeren_Standard_2007,Standard,15,15,30,37
+2008-04-11,Lokeren_Standard_2007,Lokeren,15,15,30,37
+2008-04-12,Charleroi_Genk_2007,Genk,14,16,30,37
+2008-04-12,St Truiden_Westerlo_2007,St Truiden,16,14,30,37
+2008-04-12,Mechelen_Gent_2007,Gent,15,15,30,37
+2008-04-12,St Truiden_Westerlo_2007,Westerlo,15,15,30,37
+2008-04-12,Mouscron_Waregem_2007,Mouscron,15,15,30,37
+2008-04-12,Dender_FC Brussels_2007,Dender,15,15,30,37
+2008-04-12,Charleroi_Genk_2007,Charleroi,15,15,30,37
+2008-04-12,Dender_FC Brussels_2007,FC Brussels,15,15,30,37
+2008-04-12,Mouscron_Waregem_2007,Waregem,15,15,30,37
+2008-04-12,Mechelen_Gent_2007,Mechelen,15,15,30,37
+2008-04-12,Bergen_Roeselare_2007,Roeselare,15,15,30,37
+2008-04-12,Bergen_Roeselare_2007,Bergen,15,15,30,37
+2008-04-13,Anderlecht_Germinal_2007,Anderlecht,15,15,30,37
+2008-04-13,Club Brugge_Cercle Brugge_2007,Club Brugge,15,15,30,37
+2008-04-13,Club Brugge_Cercle Brugge_2007,Cercle Brugge,15,15,30,37
+2008-04-13,Anderlecht_Germinal_2007,Germinal,15,15,30,37
+2008-04-18,Cercle Brugge_Lokeren_2007,Lokeren,15,16,31,38
+2008-04-18,Cercle Brugge_Lokeren_2007,Cercle Brugge,16,15,31,38
+2008-04-19,Roeselare_Mechelen_2007,Mechelen,15,16,31,38
+2008-04-19,Waregem_Charleroi_2007,Charleroi,15,16,31,38
+2008-04-19,FC Brussels_Mouscron_2007,Mouscron,15,16,31,38
+2008-04-19,Roeselare_Mechelen_2007,Roeselare,16,15,31,38
+2008-04-19,FC Brussels_Mouscron_2007,FC Brussels,16,15,31,38
+2008-04-19,Westerlo_Bergen_2007,Westerlo,16,15,31,38
+2008-04-19,Westerlo_Bergen_2007,Bergen,15,16,31,38
+2008-04-19,Germinal_St Truiden_2007,St Truiden,16,15,31,38
+2008-04-19,Germinal_St Truiden_2007,Germinal,16,15,31,38
+2008-04-19,Waregem_Charleroi_2007,Waregem,16,15,31,38
+2008-04-19,Genk_Dender_2007,Dender,15,16,31,38
+2008-04-19,Genk_Dender_2007,Genk,15,16,31,38
+2008-04-20,Standard_Anderlecht_2007,Anderlecht,15,16,31,38
+2008-04-20,Gent_Club Brugge_2007,Club Brugge,15,16,31,38
+2008-04-20,Standard_Anderlecht_2007,Standard,16,15,31,38
+2008-04-20,Gent_Club Brugge_2007,Gent,16,15,31,38
+2008-04-25,Lokeren_Gent_2007,Lokeren,16,16,32,39
+2008-04-25,Lokeren_Gent_2007,Gent,16,16,32,39
+2008-04-26,Genk_FC Brussels_2007,Genk,16,16,32,39
+2008-04-26,Bergen_Germinal_2007,Germinal,16,16,32,39
+2008-04-26,Mechelen_Westerlo_2007,Westerlo,16,16,32,39
+2008-04-26,Anderlecht_St Truiden_2007,Anderlecht,16,16,32,39
+2008-04-26,Mouscron_Cercle Brugge_2007,Mouscron,16,16,32,39
+2008-04-26,Mechelen_Westerlo_2007,Mechelen,16,16,32,39
+2008-04-26,Bergen_Germinal_2007,Bergen,16,16,32,39
+2008-04-26,Mouscron_Cercle Brugge_2007,Cercle Brugge,16,16,32,39
+2008-04-26,Dender_Waregem_2007,Dender,16,16,32,39
+2008-04-26,Dender_Waregem_2007,Waregem,16,16,32,39
+2008-04-26,Anderlecht_St Truiden_2007,St Truiden,16,16,32,39
+2008-04-26,Genk_FC Brussels_2007,FC Brussels,16,16,32,39
+2008-04-27,Charleroi_Standard_2007,Standard,16,16,32,39
+2008-04-27,Club Brugge_Roeselare_2007,Roeselare,16,16,32,39
+2008-04-27,Club Brugge_Roeselare_2007,Club Brugge,16,16,32,39
+2008-04-27,Charleroi_Standard_2007,Charleroi,16,16,32,39
+2008-05-02,Waregem_Genk_2007,Genk,16,17,33,40
+2008-05-02,Waregem_Genk_2007,Waregem,17,16,33,40
+2008-05-03,Westerlo_Lokeren_2007,Westerlo,17,16,33,40
+2008-05-03,Standard_Dender_2007,Standard,17,16,33,40
+2008-05-03,Westerlo_Lokeren_2007,Lokeren,16,17,33,40
+2008-05-03,Roeselare_Mouscron_2007,Mouscron,16,17,33,40
+2008-05-03,Anderlecht_Club Brugge_2007,Anderlecht,17,16,33,40
+2008-05-03,Germinal_Mechelen_2007,Germinal,17,16,33,40
+2008-05-03,St Truiden_Bergen_2007,St Truiden,17,16,33,40
+2008-05-03,Gent_Charleroi_2007,Charleroi,16,17,33,40
+2008-05-03,Cercle Brugge_FC Brussels_2007,FC Brussels,16,17,33,40
+2008-05-03,Cercle Brugge_FC Brussels_2007,Cercle Brugge,17,16,33,40
+2008-05-03,Anderlecht_Club Brugge_2007,Club Brugge,16,17,33,40
+2008-05-03,Roeselare_Mouscron_2007,Roeselare,17,16,33,40
+2008-05-03,Gent_Charleroi_2007,Gent,17,16,33,40
+2008-05-03,Standard_Dender_2007,Dender,16,17,33,40
+2008-05-03,St Truiden_Bergen_2007,Bergen,16,17,33,40
+2008-05-03,Germinal_Mechelen_2007,Mechelen,16,17,33,40
+2008-05-09,FC Brussels_Waregem_2007,Waregem,17,17,34,41
+2008-05-09,FC Brussels_Waregem_2007,FC Brussels,17,17,34,41
+2008-05-10,Bergen_Anderlecht_2007,Anderlecht,17,17,34,41
+2008-05-10,Genk_Standard_2007,Standard,17,17,34,41
+2008-05-10,Mechelen_St Truiden_2007,St Truiden,17,17,34,41
+2008-05-10,Lokeren_Roeselare_2007,Roeselare,17,17,34,41
+2008-05-10,Mouscron_Germinal_2007,Germinal,17,17,34,41
+2008-05-10,Mouscron_Germinal_2007,Mouscron,17,17,34,41
+2008-05-10,Charleroi_Cercle Brugge_2007,Charleroi,17,17,34,41
+2008-05-10,Lokeren_Roeselare_2007,Lokeren,17,17,34,41
+2008-05-10,Club Brugge_Westerlo_2007,Club Brugge,17,17,34,41
+2008-05-10,Dender_Gent_2007,Dender,17,17,34,41
+2008-05-10,Genk_Standard_2007,Genk,17,17,34,41
+2008-05-10,Charleroi_Cercle Brugge_2007,Cercle Brugge,17,17,34,41
+2008-05-10,Bergen_Anderlecht_2007,Bergen,17,17,34,41
+2008-05-10,Mechelen_St Truiden_2007,Mechelen,17,17,34,41
+2008-05-10,Dender_Gent_2007,Gent,17,17,34,41
+2008-05-10,Club Brugge_Westerlo_2007,Westerlo,17,17,34,41

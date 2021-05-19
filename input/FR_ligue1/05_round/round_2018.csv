@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2018-08-10,Marseille_Toulouse_2018,Marseille,1,1,1,1
+2018-08-10,Marseille_Toulouse_2018,Toulouse,1,1,1,1
+2018-08-11,Montpellier_Dijon_2018,Montpellier,1,1,1,1
+2018-08-11,Nice_Reims_2018,Nice,1,1,1,1
+2018-08-11,Angers_Nimes_2018,Angers,1,1,1,1
+2018-08-11,St Etienne_Guingamp_2018,Guingamp,1,1,1,1
+2018-08-11,St Etienne_Guingamp_2018,St Etienne,1,1,1,1
+2018-08-11,Montpellier_Dijon_2018,Dijon,1,1,1,1
+2018-08-11,Nantes_Monaco_2018,Monaco,1,1,1,1
+2018-08-11,Lille_Rennes_2018,Lille,1,1,1,1
+2018-08-11,Lille_Rennes_2018,Rennes,1,1,1,1
+2018-08-11,Nantes_Monaco_2018,Nantes,1,1,1,1
+2018-08-11,Angers_Nimes_2018,Nimes,1,1,1,1
+2018-08-11,Nice_Reims_2018,Reims,1,1,1,1
+2018-08-12,Lyon_Amiens_2018,Amiens,1,1,1,1
+2018-08-12,Paris SG_Caen_2018,Caen,1,1,1,1
+2018-08-12,Paris SG_Caen_2018,Paris SG,1,1,1,1
+2018-08-12,Bordeaux_Strasbourg_2018,Bordeaux,1,1,1,1
+2018-08-12,Lyon_Amiens_2018,Lyon,1,1,1,1
+2018-08-12,Bordeaux_Strasbourg_2018,Strasbourg,1,1,1,1
+2018-08-17,Reims_Lyon_2018,Reims,1,1,2,2
+2018-08-17,Reims_Lyon_2018,Lyon,1,1,2,2
+2018-08-18,Guingamp_Paris SG_2018,Guingamp,1,1,2,2
+2018-08-18,Guingamp_Paris SG_2018,Paris SG,1,1,2,2
+2018-08-18,Caen_Nice_2018,Nice,1,1,2,2
+2018-08-18,Dijon_Nantes_2018,Dijon,1,1,2,2
+2018-08-18,Monaco_Lille_2018,Monaco,1,1,2,2
+2018-08-18,Monaco_Lille_2018,Lille,1,1,2,2
+2018-08-18,Dijon_Nantes_2018,Nantes,1,1,2,2
+2018-08-18,Rennes_Angers_2018,Rennes,1,1,2,2
+2018-08-18,Rennes_Angers_2018,Angers,1,1,2,2
+2018-08-18,Caen_Nice_2018,Caen,1,1,2,2
+2018-08-18,Amiens_Montpellier_2018,Amiens,1,1,2,2
+2018-08-18,Amiens_Montpellier_2018,Montpellier,1,1,2,2
+2018-08-19,Strasbourg_St Etienne_2018,Strasbourg,1,1,2,2
+2018-08-19,Nimes_Marseille_2018,Nimes,1,1,2,2
+2018-08-19,Toulouse_Bordeaux_2018,Toulouse,1,1,2,2
+2018-08-19,Strasbourg_St Etienne_2018,St Etienne,1,1,2,2
+2018-08-19,Toulouse_Bordeaux_2018,Bordeaux,1,1,2,2
+2018-08-19,Nimes_Marseille_2018,Marseille,1,1,2,2
+2018-08-24,Lyon_Strasbourg_2018,Strasbourg,1,2,3,3
+2018-08-24,Lyon_Strasbourg_2018,Lyon,2,1,3,3
+2018-08-25,Amiens_Reims_2018,Reims,1,2,3,3
+2018-08-25,Toulouse_Nimes_2018,Nimes,1,2,3,3
+2018-08-25,Nice_Dijon_2018,Nice,2,1,3,3
+2018-08-25,Nantes_Caen_2018,Caen,1,2,3,3
+2018-08-25,Amiens_Reims_2018,Amiens,2,1,3,3
+2018-08-25,Toulouse_Nimes_2018,Toulouse,2,1,3,3
+2018-08-25,Paris SG_Angers_2018,Angers,1,2,3,3
+2018-08-25,Nice_Dijon_2018,Dijon,1,2,3,3
+2018-08-25,Montpellier_St Etienne_2018,Montpellier,2,1,3,3
+2018-08-25,Nantes_Caen_2018,Nantes,2,1,3,3
+2018-08-25,Montpellier_St Etienne_2018,St Etienne,1,2,3,3
+2018-08-25,Paris SG_Angers_2018,Paris SG,2,1,3,3
+2018-08-26,Marseille_Rennes_2018,Rennes,1,2,3,3
+2018-08-26,Lille_Guingamp_2018,Guingamp,1,2,3,3
+2018-08-26,Lille_Guingamp_2018,Lille,2,1,3,3
+2018-08-26,Bordeaux_Monaco_2018,Bordeaux,2,1,3,3
+2018-08-26,Bordeaux_Monaco_2018,Monaco,1,2,3,3
+2018-08-26,Marseille_Rennes_2018,Marseille,2,1,3,3
+2018-08-31,Lyon_Nice_2018,Lyon,3,1,4,4
+2018-08-31,Lyon_Nice_2018,Nice,2,2,4,4
+2018-09-01,Guingamp_Toulouse_2018,Guingamp,2,2,4,4
+2018-09-01,Dijon_Caen_2018,Dijon,2,2,4,4
+2018-09-01,Guingamp_Toulouse_2018,Toulouse,2,2,4,4
+2018-09-01,Strasbourg_Nantes_2018,Strasbourg,2,2,4,4
+2018-09-01,Angers_Lille_2018,Angers,2,2,4,4
+2018-09-01,Strasbourg_Nantes_2018,Nantes,2,2,4,4
+2018-09-01,Nimes_Paris SG_2018,Paris SG,2,2,4,4
+2018-09-01,Dijon_Caen_2018,Caen,1,3,4,4
+2018-09-01,Reims_Montpellier_2018,Montpellier,2,2,4,4
+2018-09-01,Reims_Montpellier_2018,Reims,2,2,4,4
+2018-09-01,Nimes_Paris SG_2018,Nimes,2,2,4,4
+2018-09-01,Angers_Lille_2018,Lille,2,2,4,4
+2018-09-02,Rennes_Bordeaux_2018,Bordeaux,2,2,4,4
+2018-09-02,Rennes_Bordeaux_2018,Rennes,2,2,4,4
+2018-09-02,Monaco_Marseille_2018,Monaco,2,2,4,4
+2018-09-02,St Etienne_Amiens_2018,St Etienne,2,2,4,4
+2018-09-02,St Etienne_Amiens_2018,Amiens,2,2,4,4
+2018-09-02,Monaco_Marseille_2018,Marseille,2,2,4,4
+2018-09-14,Nice_Rennes_2018,Rennes,2,3,5,6
+2018-09-14,Paris SG_St Etienne_2018,Paris SG,3,2,5,6
+2018-09-14,Paris SG_St Etienne_2018,St Etienne,2,3,5,6
+2018-09-14,Nice_Rennes_2018,Nice,3,2,5,6
+2018-09-15,Montpellier_Strasbourg_2018,Strasbourg,2,3,5,6
+2018-09-15,Amiens_Lille_2018,Lille,2,3,5,6
+2018-09-15,Toulouse_Monaco_2018,Toulouse,3,2,5,6
+2018-09-15,Caen_Lyon_2018,Caen,2,3,5,6
+2018-09-15,Montpellier_Strasbourg_2018,Montpellier,3,2,5,6
+2018-09-15,Toulouse_Monaco_2018,Monaco,2,3,5,6
+2018-09-15,Dijon_Angers_2018,Angers,2,3,5,6
+2018-09-15,Caen_Lyon_2018,Lyon,3,2,5,6
+2018-09-15,Amiens_Lille_2018,Amiens,3,2,5,6
+2018-09-15,Dijon_Angers_2018,Dijon,3,2,5,6
+2018-09-16,Marseille_Guingamp_2018,Guingamp,2,3,5,6
+2018-09-16,Bordeaux_Nimes_2018,Bordeaux,3,2,5,6
+2018-09-16,Marseille_Guingamp_2018,Marseille,3,2,5,6
+2018-09-16,Nantes_Reims_2018,Reims,2,3,5,6
+2018-09-16,Bordeaux_Nimes_2018,Nimes,2,3,5,6
+2018-09-16,Nantes_Reims_2018,Nantes,3,2,5,6
+2018-09-21,Monaco_Nimes_2018,Monaco,3,3,6,7
+2018-09-21,Monaco_Nimes_2018,Nimes,2,4,6,7
+2018-09-22,St Etienne_Caen_2018,Caen,2,4,6,7
+2018-09-22,St Etienne_Caen_2018,St Etienne,3,3,6,7
+2018-09-22,Angers_Toulouse_2018,Toulouse,3,3,6,7
+2018-09-22,Strasbourg_Amiens_2018,Amiens,3,3,6,7
+2018-09-22,Montpellier_Nice_2018,Nice,3,3,6,7
+2018-09-22,Montpellier_Nice_2018,Montpellier,4,2,6,7
+2018-09-22,Lille_Nantes_2018,Nantes,3,3,6,7
+2018-09-22,Reims_Dijon_2018,Dijon,3,3,6,7
+2018-09-22,Angers_Toulouse_2018,Angers,3,3,6,7
+2018-09-22,Lille_Nantes_2018,Lille,3,3,6,7
+2018-09-22,Reims_Dijon_2018,Reims,3,3,6,7
+2018-09-22,Strasbourg_Amiens_2018,Strasbourg,3,3,6,7
+2018-09-23,Guingamp_Bordeaux_2018,Guingamp,3,3,6,7
+2018-09-23,Rennes_Paris SG_2018,Rennes,3,3,6,7
+2018-09-23,Guingamp_Bordeaux_2018,Bordeaux,3,3,6,7
+2018-09-23,Lyon_Marseille_2018,Lyon,4,2,6,7
+2018-09-23,Rennes_Paris SG_2018,Paris SG,3,3,6,7
+2018-09-23,Lyon_Marseille_2018,Marseille,3,3,6,7
+2018-09-25,Monaco_Angers_2018,Monaco,4,3,7,8
+2018-09-25,Toulouse_St Etienne_2018,St Etienne,3,4,7,8
+2018-09-25,Toulouse_St Etienne_2018,Toulouse,4,3,7,8
+2018-09-25,Nantes_Nice_2018,Nantes,4,3,7,8
+2018-09-25,Monaco_Angers_2018,Angers,3,4,7,8
+2018-09-25,Nantes_Nice_2018,Nice,3,4,7,8
+2018-09-26,Amiens_Rennes_2018,Rennes,3,4,7,8
+2018-09-26,Bordeaux_Lille_2018,Bordeaux,4,3,7,8
+2018-09-26,Marseille_Strasbourg_2018,Marseille,4,3,7,8
+2018-09-26,Paris SG_Reims_2018,Paris SG,4,3,7,8
+2018-09-26,Amiens_Rennes_2018,Amiens,4,3,7,8
+2018-09-26,Dijon_Lyon_2018,Dijon,4,3,7,8
+2018-09-26,Nimes_Guingamp_2018,Guingamp,3,4,7,8
+2018-09-26,Caen_Montpellier_2018,Montpellier,4,3,7,8
+2018-09-26,Dijon_Lyon_2018,Lyon,4,3,7,8
+2018-09-26,Paris SG_Reims_2018,Reims,3,4,7,8
+2018-09-26,Nimes_Guingamp_2018,Nimes,3,4,7,8
+2018-09-26,Bordeaux_Lille_2018,Lille,3,4,7,8
+2018-09-26,Caen_Montpellier_2018,Caen,3,4,7,8
+2018-09-26,Marseille_Strasbourg_2018,Strasbourg,3,4,7,8
+2018-09-28,St Etienne_Monaco_2018,St Etienne,4,4,8,8
+2018-09-28,St Etienne_Monaco_2018,Monaco,4,4,8,8
+2018-09-29,Lyon_Nantes_2018,Nantes,4,4,8,8
+2018-09-29,Nice_Paris SG_2018,Paris SG,4,4,8,8
+2018-09-29,Reims_Bordeaux_2018,Bordeaux,4,4,8,8
+2018-09-29,Strasbourg_Dijon_2018,Strasbourg,4,4,8,8
+2018-09-29,Caen_Amiens_2018,Caen,4,4,8,8
+2018-09-29,Lyon_Nantes_2018,Lyon,5,3,8,8
+2018-09-29,Angers_Guingamp_2018,Guingamp,3,5,8,8
+2018-09-29,Reims_Bordeaux_2018,Reims,4,4,8,8
+2018-09-29,Nice_Paris SG_2018,Nice,4,4,8,8
+2018-09-29,Angers_Guingamp_2018,Angers,4,4,8,8
+2018-09-29,Strasbourg_Dijon_2018,Dijon,4,4,8,8
+2018-09-29,Caen_Amiens_2018,Amiens,4,4,8,8
+2018-09-30,Montpellier_Nimes_2018,Nimes,3,5,8,8
+2018-09-30,Montpellier_Nimes_2018,Montpellier,5,3,8,8
+2018-09-30,Rennes_Toulouse_2018,Rennes,4,4,8,8
+2018-09-30,Lille_Marseille_2018,Lille,4,4,8,8
+2018-09-30,Lille_Marseille_2018,Marseille,4,4,8,8
+2018-09-30,Rennes_Toulouse_2018,Toulouse,4,4,8,8
+2018-10-05,Toulouse_Nice_2018,Nice,4,5,9,9
+2018-10-05,Toulouse_Nice_2018,Toulouse,5,4,9,9
+2018-10-06,Angers_Strasbourg_2018,Angers,5,4,9,9
+2018-10-06,Guingamp_Montpellier_2018,Montpellier,5,4,9,9
+2018-10-06,Guingamp_Montpellier_2018,Guingamp,4,5,9,9
+2018-10-06,Amiens_Dijon_2018,Amiens,5,4,9,9
+2018-10-06,Nimes_Reims_2018,Reims,4,5,9,9
+2018-10-06,Nimes_Reims_2018,Nimes,4,5,9,9
+2018-10-06,Lille_St Etienne_2018,Lille,5,4,9,9
+2018-10-06,Amiens_Dijon_2018,Dijon,4,5,9,9
+2018-10-06,Lille_St Etienne_2018,St Etienne,4,5,9,9
+2018-10-06,Angers_Strasbourg_2018,Strasbourg,4,5,9,9
+2018-10-07,Bordeaux_Nantes_2018,Nantes,4,5,9,9
+2018-10-07,Monaco_Rennes_2018,Rennes,4,5,9,9
+2018-10-07,Marseille_Caen_2018,Marseille,5,4,9,9
+2018-10-07,Monaco_Rennes_2018,Monaco,5,4,9,9
+2018-10-07,Paris SG_Lyon_2018,Paris SG,5,4,9,9
+2018-10-07,Paris SG_Lyon_2018,Lyon,5,4,9,9
+2018-10-07,Bordeaux_Nantes_2018,Bordeaux,5,4,9,9
+2018-10-07,Marseille_Caen_2018,Caen,4,5,9,9
+2018-10-19,Lyon_Nimes_2018,Nimes,4,6,10,11
+2018-10-19,Lyon_Nimes_2018,Lyon,6,4,10,11
+2018-10-20,Strasbourg_Monaco_2018,Strasbourg,5,5,10,11
+2018-10-20,Nantes_Toulouse_2018,Toulouse,5,5,10,11
+2018-10-20,Dijon_Lille_2018,Lille,5,5,10,11
+2018-10-20,Dijon_Lille_2018,Dijon,5,5,10,11
+2018-10-20,Reims_Angers_2018,Angers,5,5,10,11
+2018-10-20,Reims_Angers_2018,Reims,5,5,10,11
+2018-10-20,Paris SG_Amiens_2018,Amiens,5,5,10,11
+2018-10-20,Nantes_Toulouse_2018,Nantes,5,5,10,11
+2018-10-20,Caen_Guingamp_2018,Guingamp,4,6,10,11
+2018-10-20,Paris SG_Amiens_2018,Paris SG,6,4,10,11
+2018-10-20,Strasbourg_Monaco_2018,Monaco,5,5,10,11
+2018-10-20,Caen_Guingamp_2018,Caen,5,5,10,11
+2018-10-21,Montpellier_Bordeaux_2018,Bordeaux,5,5,10,11
+2018-10-21,St Etienne_Rennes_2018,St Etienne,5,5,10,11
+2018-10-21,Montpellier_Bordeaux_2018,Montpellier,6,4,10,11
+2018-10-21,Nice_Marseille_2018,Marseille,5,5,10,11
+2018-10-21,Nice_Marseille_2018,Nice,5,5,10,11
+2018-10-21,St Etienne_Rennes_2018,Rennes,4,6,10,11
+2018-10-26,Nimes_St Etienne_2018,Nimes,5,6,11,12
+2018-10-26,Nimes_St Etienne_2018,St Etienne,5,6,11,12
+2018-10-27,Guingamp_Strasbourg_2018,Strasbourg,5,6,11,12
+2018-10-27,Toulouse_Montpellier_2018,Toulouse,6,5,11,12
+2018-10-27,Monaco_Dijon_2018,Dijon,5,6,11,12
+2018-10-27,Monaco_Dijon_2018,Monaco,6,5,11,12
+2018-10-27,Toulouse_Montpellier_2018,Montpellier,6,5,11,12
+2018-10-27,Lille_Caen_2018,Lille,6,5,11,12
+2018-10-27,Angers_Lyon_2018,Angers,6,5,11,12
+2018-10-27,Lille_Caen_2018,Caen,5,6,11,12
+2018-10-27,Amiens_Nantes_2018,Amiens,6,5,11,12
+2018-10-27,Guingamp_Strasbourg_2018,Guingamp,5,6,11,12
+2018-10-27,Angers_Lyon_2018,Lyon,6,5,11,12
+2018-10-27,Amiens_Nantes_2018,Nantes,5,6,11,12
+2018-10-28,Marseille_Paris SG_2018,Paris SG,6,5,11,12
+2018-10-28,Rennes_Reims_2018,Reims,5,6,11,12
+2018-10-28,Marseille_Paris SG_2018,Marseille,6,5,11,12
+2018-10-28,Rennes_Reims_2018,Rennes,5,6,11,12
+2018-10-28,Bordeaux_Nice_2018,Bordeaux,6,5,11,12
+2018-10-28,Bordeaux_Nice_2018,Nice,5,6,11,12
+2018-11-02,Paris SG_Lille_2018,Paris SG,7,5,12,13
+2018-11-02,Paris SG_Lille_2018,Lille,6,6,12,13
+2018-11-03,Strasbourg_Toulouse_2018,Toulouse,6,6,12,13
+2018-11-03,Reims_Monaco_2018,Monaco,6,6,12,13
+2018-11-03,Lyon_Bordeaux_2018,Bordeaux,6,6,12,13
+2018-11-03,Caen_Rennes_2018,Caen,6,6,12,13
+2018-11-03,Strasbourg_Toulouse_2018,Strasbourg,6,6,12,13
+2018-11-03,Caen_Rennes_2018,Rennes,5,7,12,13
+2018-11-03,Nice_Amiens_2018,Nice,6,6,12,13
+2018-11-03,Lyon_Bordeaux_2018,Lyon,7,5,12,13
+2018-11-03,Dijon_Nimes_2018,Nimes,5,7,12,13
+2018-11-03,Dijon_Nimes_2018,Dijon,6,6,12,13
+2018-11-03,Nice_Amiens_2018,Amiens,6,6,12,13
+2018-11-03,Reims_Monaco_2018,Reims,6,6,12,13
+2018-11-04,Nantes_Guingamp_2018,Guingamp,5,7,12,13
+2018-11-04,St Etienne_Angers_2018,St Etienne,6,6,12,13
+2018-11-04,Nantes_Guingamp_2018,Nantes,6,6,12,13
+2018-11-04,Montpellier_Marseille_2018,Marseille,6,6,12,13
+2018-11-04,St Etienne_Angers_2018,Angers,6,6,12,13
+2018-11-04,Montpellier_Marseille_2018,Montpellier,7,5,12,13
+2018-11-09,Lille_Strasbourg_2018,Strasbourg,6,7,13,14
+2018-11-09,Lille_Strasbourg_2018,Lille,7,6,13,14
+2018-11-10,Nimes_Nice_2018,Nimes,6,7,13,14
+2018-11-10,Angers_Montpellier_2018,Montpellier,7,6,13,14
+2018-11-10,Toulouse_Amiens_2018,Amiens,6,7,13,14
+2018-11-10,Nimes_Nice_2018,Nice,6,7,13,14
+2018-11-10,Guingamp_Lyon_2018,Lyon,7,6,13,14
+2018-11-10,St Etienne_Reims_2018,St Etienne,7,6,13,14
+2018-11-10,Angers_Montpellier_2018,Angers,7,6,13,14
+2018-11-10,St Etienne_Reims_2018,Reims,6,7,13,14
+2018-11-10,Toulouse_Amiens_2018,Toulouse,7,6,13,14
+2018-11-10,Guingamp_Lyon_2018,Guingamp,6,7,13,14
+2018-11-11,Rennes_Nantes_2018,Rennes,6,7,13,14
+2018-11-11,Bordeaux_Caen_2018,Bordeaux,7,6,13,14
+2018-11-11,Monaco_Paris SG_2018,Paris SG,7,6,13,14
+2018-11-11,Marseille_Dijon_2018,Marseille,7,6,13,14
+2018-11-11,Monaco_Paris SG_2018,Monaco,7,6,13,14
+2018-11-11,Marseille_Dijon_2018,Dijon,6,7,13,14
+2018-11-11,Bordeaux_Caen_2018,Caen,6,7,13,14
+2018-11-11,Rennes_Nantes_2018,Nantes,6,7,13,14
+2018-11-23,Lyon_St Etienne_2018,Lyon,8,6,14,16
+2018-11-23,Lyon_St Etienne_2018,St Etienne,7,7,14,16
+2018-11-24,Strasbourg_Nimes_2018,Nimes,6,8,14,16
+2018-11-24,Nantes_Angers_2018,Angers,7,7,14,16
+2018-11-24,Nantes_Angers_2018,Nantes,7,7,14,16
+2018-11-24,Strasbourg_Nimes_2018,Strasbourg,7,7,14,16
+2018-11-24,Paris SG_Toulouse_2018,Toulouse,7,7,14,16
+2018-11-24,Dijon_Bordeaux_2018,Bordeaux,7,7,14,16
+2018-11-24,Reims_Guingamp_2018,Reims,7,7,14,16
+2018-11-24,Dijon_Bordeaux_2018,Dijon,7,7,14,16
+2018-11-24,Reims_Guingamp_2018,Guingamp,6,8,14,16
+2018-11-24,Caen_Monaco_2018,Monaco,7,7,14,16
+2018-11-24,Paris SG_Toulouse_2018,Paris SG,8,6,14,16
+2018-11-24,Caen_Monaco_2018,Caen,7,7,14,16
+2018-11-25,Montpellier_Rennes_2018,Rennes,6,8,14,16
+2018-11-25,Amiens_Marseille_2018,Amiens,7,7,14,16
+2018-11-25,Amiens_Marseille_2018,Marseille,7,7,14,16
+2018-11-25,Nice_Lille_2018,Nice,7,7,14,16
+2018-11-25,Montpellier_Rennes_2018,Montpellier,8,6,14,16
+2018-11-25,Nice_Lille_2018,Lille,7,7,14,16
+2018-11-30,St Etienne_Nantes_2018,Nantes,7,8,15,17
+2018-11-30,St Etienne_Nantes_2018,St Etienne,8,7,15,17
+2018-12-01,Nimes_Amiens_2018,Amiens,7,8,15,17
+2018-12-01,Guingamp_Nice_2018,Guingamp,7,8,15,17
+2018-12-01,Angers_Caen_2018,Angers,8,7,15,17
+2018-12-01,Monaco_Montpellier_2018,Monaco,8,7,15,17
+2018-12-01,Lille_Lyon_2018,Lyon,8,7,15,17
+2018-12-01,Nimes_Amiens_2018,Nimes,7,8,15,17
+2018-12-01,Guingamp_Nice_2018,Nice,7,8,15,17
+2018-12-01,Lille_Lyon_2018,Lille,8,7,15,17
+2018-12-01,Angers_Caen_2018,Caen,7,8,15,17
+2018-12-01,Monaco_Montpellier_2018,Montpellier,8,7,15,17
+2018-12-02,Rennes_Strasbourg_2018,Strasbourg,7,8,15,17
+2018-12-02,Toulouse_Dijon_2018,Toulouse,8,7,15,17
+2018-12-02,Rennes_Strasbourg_2018,Rennes,7,8,15,17
+2018-12-02,Bordeaux_Paris SG_2018,Paris SG,8,7,15,17
+2018-12-02,Marseille_Reims_2018,Reims,7,8,15,17
+2018-12-02,Bordeaux_Paris SG_2018,Bordeaux,8,7,15,17
+2018-12-02,Marseille_Reims_2018,Marseille,8,7,15,17
+2018-12-02,Toulouse_Dijon_2018,Dijon,7,8,15,17
+2018-12-04,Montpellier_Lille_2018,Lille,8,8,16,18
+2018-12-04,Montpellier_Lille_2018,Montpellier,9,7,16,18
+2018-12-04,Amiens_Monaco_2018,Monaco,8,8,16,18
+2018-12-04,Nice_Angers_2018,Angers,8,8,16,18
+2018-12-04,Nice_Angers_2018,Nice,8,8,16,18
+2018-12-04,Amiens_Monaco_2018,Amiens,8,8,16,18
+2018-12-05,Reims_Toulouse_2018,Reims,8,8,16,18
+2018-12-05,Reims_Toulouse_2018,Toulouse,8,8,16,18
+2018-12-05,Caen_Nimes_2018,Caen,8,8,16,18
+2018-12-05,Strasbourg_Paris SG_2018,Strasbourg,8,8,16,18
+2018-12-05,Nantes_Marseille_2018,Nantes,8,8,16,18
+2018-12-05,Bordeaux_St Etienne_2018,St Etienne,8,8,16,18
+2018-12-05,Dijon_Guingamp_2018,Dijon,8,8,16,18
+2018-12-05,Strasbourg_Paris SG_2018,Paris SG,8,8,16,18
+2018-12-05,Lyon_Rennes_2018,Rennes,7,9,16,18
+2018-12-05,Nantes_Marseille_2018,Marseille,8,8,16,18
+2018-12-05,Lyon_Rennes_2018,Lyon,9,7,16,18
+2018-12-05,Dijon_Guingamp_2018,Guingamp,7,9,16,18
+2018-12-05,Bordeaux_St Etienne_2018,Bordeaux,9,7,16,18
+2018-12-05,Caen_Nimes_2018,Nimes,7,9,16,18
+2018-12-08,Rennes_Dijon_2018,Rennes,8,9,17,18
+2018-12-08,Rennes_Dijon_2018,Dijon,8,9,17,18
+2018-12-08,Guingamp_Amiens_2018,Guingamp,8,9,17,18
+2018-12-08,Guingamp_Amiens_2018,Amiens,8,9,17,18
+2018-12-09,Lille_Reims_2018,Lille,9,8,17,18
+2018-12-09,Strasbourg_Caen_2018,Strasbourg,9,8,17,18
+2018-12-09,Strasbourg_Caen_2018,Caen,8,9,17,18
+2018-12-09,Lille_Reims_2018,Reims,8,9,17,18
+2018-12-15,Reims_Strasbourg_2018,Strasbourg,9,9,18,19
+2018-12-15,Reims_Strasbourg_2018,Reims,9,9,18,19
+2018-12-16,Lyon_Monaco_2018,Monaco,8,9,17,19
+2018-12-16,Nice_St Etienne_2018,St Etienne,8,9,17,19
+2018-12-16,Lyon_Monaco_2018,Lyon,10,7,17,19
+2018-12-16,Nimes_Lille_2018,Lille,9,9,18,19
+2018-12-16,Nimes_Lille_2018,Nimes,8,9,17,19
+2018-12-16,Nice_St Etienne_2018,Nice,9,8,17,19
+2018-12-18,Caen_Toulouse_2018,Toulouse,8,9,17,20
+2018-12-18,Caen_Toulouse_2018,Caen,9,9,18,20
+2018-12-22,Montpellier_Lyon_2018,Montpellier,10,7,17,20
+2018-12-22,Lille_Toulouse_2018,Toulouse,8,10,18,20
+2018-12-22,Paris SG_Nantes_2018,Paris SG,9,8,17,20
+2018-12-22,Lille_Toulouse_2018,Lille,10,9,19,20
+2018-12-22,St Etienne_Dijon_2018,Dijon,8,10,18,20
+2018-12-22,Reims_Caen_2018,Caen,9,10,19,20
+2018-12-22,Montpellier_Lyon_2018,Lyon,10,8,18,20
+2018-12-22,Angers_Marseille_2018,Angers,9,8,17,20
+2018-12-22,Strasbourg_Nice_2018,Nice,9,9,18,20
+2018-12-22,Rennes_Nimes_2018,Nimes,8,10,18,20
+2018-12-22,Monaco_Guingamp_2018,Monaco,9,9,18,20
+2018-12-22,St Etienne_Dijon_2018,St Etienne,9,9,18,20
+2018-12-22,Strasbourg_Nice_2018,Strasbourg,10,9,19,20
+2018-12-22,Rennes_Nimes_2018,Rennes,9,9,18,20
+2018-12-22,Reims_Caen_2018,Reims,10,9,19,20
+2018-12-22,Angers_Marseille_2018,Marseille,8,9,17,20
+2018-12-22,Monaco_Guingamp_2018,Guingamp,8,10,18,20
+2018-12-22,Paris SG_Nantes_2018,Nantes,8,9,17,20
+2018-12-23,Bordeaux_Amiens_2018,Bordeaux,10,7,17,20
+2018-12-23,Bordeaux_Amiens_2018,Amiens,8,10,18,20
+2019-01-08,Nantes_Montpellier_2018,Nantes,9,9,18,23
+2019-01-08,Nantes_Montpellier_2018,Montpellier,10,8,18,23
+2019-01-08,Amiens_Angers_2018,Amiens,9,10,19,23
+2019-01-08,Amiens_Angers_2018,Angers,9,9,18,23
+2019-01-11,Lyon_Reims_2018,Reims,10,10,20,23
+2019-01-11,Caen_Lille_2018,Caen,10,10,20,23
+2019-01-11,Caen_Lille_2018,Lille,10,10,20,23
+2019-01-11,Lyon_Reims_2018,Lyon,11,8,19,23
+2019-01-12,Nice_Bordeaux_2018,Nice,10,9,19,23
+2019-01-12,Amiens_Paris SG_2018,Amiens,10,10,20,23
+2019-01-12,Guingamp_St Etienne_2018,St Etienne,9,10,19,23
+2019-01-12,Nice_Bordeaux_2018,Bordeaux,10,8,18,23
+2019-01-12,Guingamp_St Etienne_2018,Guingamp,9,10,19,23
+2019-01-12,Amiens_Paris SG_2018,Paris SG,9,9,18,23
+2019-01-13,Toulouse_Strasbourg_2018,Strasbourg,10,10,20,23
+2019-01-13,Dijon_Montpellier_2018,Dijon,9,10,19,23
+2019-01-13,Marseille_Monaco_2018,Marseille,9,9,18,23
+2019-01-13,Dijon_Montpellier_2018,Montpellier,10,9,19,23
+2019-01-13,Toulouse_Strasbourg_2018,Toulouse,9,10,19,23
+2019-01-13,Marseille_Monaco_2018,Monaco,9,10,19,23
+2019-01-13,Nantes_Rennes_2018,Nantes,10,9,19,23
+2019-01-13,Nantes_Rennes_2018,Rennes,9,10,19,23
+2019-01-15,Angers_Bordeaux_2018,Bordeaux,10,9,19,24
+2019-01-15,Angers_Bordeaux_2018,Angers,10,9,19,24
+2019-01-16,Guingamp_Rennes_2018,Guingamp,10,10,20,24
+2019-01-16,Nimes_Nantes_2018,Nantes,10,10,20,24
+2019-01-16,Toulouse_Lyon_2018,Lyon,11,9,20,24
+2019-01-16,Toulouse_Lyon_2018,Toulouse,10,10,20,24
+2019-01-16,Monaco_Nice_2018,Nice,10,10,20,24
+2019-01-16,Nimes_Nantes_2018,Nimes,9,10,19,24
+2019-01-16,St Etienne_Marseille_2018,St Etienne,10,10,20,24
+2019-01-16,Guingamp_Rennes_2018,Rennes,9,11,20,24
+2019-01-16,Monaco_Nice_2018,Monaco,10,10,20,24
+2019-01-16,St Etienne_Marseille_2018,Marseille,9,10,19,24
+2019-01-18,Lille_Amiens_2018,Amiens,10,11,21,24
+2019-01-18,Lille_Amiens_2018,Lille,11,10,21,24
+2019-01-19,Nimes_Toulouse_2018,Toulouse,10,11,21,24
+2019-01-19,Paris SG_Guingamp_2018,Paris SG,10,9,19,24
+2019-01-19,Reims_Nice_2018,Reims,11,10,21,24
+2019-01-19,Nimes_Toulouse_2018,Nimes,10,10,20,24
+2019-01-19,Paris SG_Guingamp_2018,Guingamp,10,11,21,24
+2019-01-19,Monaco_Strasbourg_2018,Monaco,11,10,21,24
+2019-01-19,Reims_Nice_2018,Nice,10,11,21,24
+2019-01-19,Monaco_Strasbourg_2018,Strasbourg,10,11,21,24
+2019-01-20,Angers_Nantes_2018,Angers,11,9,20,24
+2019-01-20,St Etienne_Lyon_2018,St Etienne,11,10,21,24
+2019-01-20,Angers_Nantes_2018,Nantes,10,11,21,24
+2019-01-20,St Etienne_Lyon_2018,Lyon,11,10,21,24
+2019-01-20,Rennes_Montpellier_2018,Montpellier,10,10,20,24
+2019-01-20,Bordeaux_Dijon_2018,Dijon,9,11,20,24
+2019-01-20,Caen_Marseille_2018,Marseille,9,11,20,24
+2019-01-20,Caen_Marseille_2018,Caen,11,10,21,24
+2019-01-20,Rennes_Montpellier_2018,Rennes,10,11,21,24
+2019-01-20,Bordeaux_Dijon_2018,Bordeaux,11,9,20,24
+2019-01-23,Nimes_Angers_2018,Nimes,11,10,21,25
+2019-01-23,Nimes_Angers_2018,Angers,11,10,21,25
+2019-01-25,Marseille_Lille_2018,Lille,11,11,22,25
+2019-01-25,Marseille_Lille_2018,Marseille,10,11,21,25
+2019-01-26,Nice_Nimes_2018,Nice,11,11,22,25
+2019-01-26,Strasbourg_Bordeaux_2018,Strasbourg,11,11,22,25
+2019-01-26,Guingamp_Reims_2018,Reims,11,11,22,25
+2019-01-26,Nice_Nimes_2018,Nimes,11,11,22,25
+2019-01-26,Dijon_Monaco_2018,Dijon,10,11,21,25
+2019-01-26,Guingamp_Reims_2018,Guingamp,11,11,22,25
+2019-01-26,Dijon_Monaco_2018,Monaco,11,11,22,25
+2019-01-26,Strasbourg_Bordeaux_2018,Bordeaux,11,10,21,25
+2019-01-27,Montpellier_Caen_2018,Montpellier,11,10,21,25
+2019-01-27,Toulouse_Angers_2018,Toulouse,11,11,22,25
+2019-01-27,Toulouse_Angers_2018,Angers,11,11,22,25
+2019-01-27,Amiens_Lyon_2018,Lyon,11,11,22,25
+2019-01-27,Montpellier_Caen_2018,Caen,11,11,22,25
+2019-01-27,Paris SG_Rennes_2018,Rennes,10,12,22,25
+2019-01-27,Paris SG_Rennes_2018,Paris SG,11,9,20,25
+2019-01-27,Amiens_Lyon_2018,Amiens,11,11,22,25
+2019-01-30,Nantes_St Etienne_2018,St Etienne,11,11,22,26
+2019-01-30,Nantes_St Etienne_2018,Nantes,11,11,22,26
+2019-02-01,Lille_Nice_2018,Nice,11,12,23,26
+2019-02-01,Lille_Nice_2018,Lille,12,11,23,26
+2019-02-02,Rennes_Amiens_2018,Amiens,11,12,23,26
+2019-02-02,Monaco_Toulouse_2018,Toulouse,11,12,23,26
+2019-02-02,Angers_Dijon_2018,Dijon,10,12,22,26
+2019-02-02,Reims_Marseille_2018,Marseille,10,12,22,26
+2019-02-02,Rennes_Amiens_2018,Rennes,11,12,23,26
+2019-02-02,Angers_Dijon_2018,Angers,12,11,23,26
+2019-02-02,Monaco_Toulouse_2018,Monaco,12,11,23,26
+2019-02-02,Reims_Marseille_2018,Reims,12,11,23,26
+2019-02-03,Nimes_Montpellier_2018,Montpellier,11,11,22,26
+2019-02-03,Lyon_Paris SG_2018,Paris SG,11,10,21,26
+2019-02-03,Lyon_Paris SG_2018,Lyon,12,11,23,26
+2019-02-03,Nimes_Montpellier_2018,Nimes,12,11,23,26
+2019-02-05,Marseille_Bordeaux_2018,Marseille,11,12,23,27
+2019-02-05,Marseille_Bordeaux_2018,Bordeaux,11,11,22,27
+2019-02-08,Dijon_Marseille_2018,Marseille,11,13,24,27
+2019-02-08,Dijon_Marseille_2018,Dijon,11,12,23,27
+2019-02-09,Amiens_Caen_2018,Amiens,12,12,24,27
+2019-02-09,Strasbourg_Angers_2018,Angers,12,12,24,27
+2019-02-09,Paris SG_Bordeaux_2018,Paris SG,12,10,22,27
+2019-02-09,Amiens_Caen_2018,Caen,11,12,23,27
+2019-02-09,Paris SG_Bordeaux_2018,Bordeaux,11,12,23,27
+2019-02-09,Strasbourg_Angers_2018,Strasbourg,12,11,23,27
+2019-02-10,Nantes_Nimes_2018,Nimes,12,12,24,27
+2019-02-10,Toulouse_Reims_2018,Reims,12,12,24,27
+2019-02-10,Rennes_St Etienne_2018,St Etienne,11,12,23,27
+2019-02-10,Montpellier_Monaco_2018,Montpellier,12,11,23,27
+2019-02-10,Nantes_Nimes_2018,Nantes,12,11,23,27
+2019-02-10,Nice_Lyon_2018,Nice,12,12,24,27
+2019-02-10,Toulouse_Reims_2018,Toulouse,12,12,24,27
+2019-02-10,Montpellier_Monaco_2018,Monaco,12,12,24,27
+2019-02-10,Nice_Lyon_2018,Lyon,12,12,24,27
+2019-02-10,Guingamp_Lille_2018,Lille,12,12,24,27
+2019-02-10,Rennes_St Etienne_2018,Rennes,12,12,24,27
+2019-02-10,Guingamp_Lille_2018,Guingamp,12,11,23,27
+2019-02-13,St Etienne_Strasbourg_2018,St Etienne,12,12,24,28
+2019-02-13,Caen_Nantes_2018,Nantes,12,12,24,28
+2019-02-13,Caen_Nantes_2018,Caen,12,12,24,28
+2019-02-13,St Etienne_Strasbourg_2018,Strasbourg,12,12,24,28
+2019-02-15,Lyon_Guingamp_2018,Guingamp,12,12,24,28
+2019-02-15,Lyon_Guingamp_2018,Lyon,13,12,25,28
+2019-02-15,Nimes_Dijon_2018,Dijon,11,13,24,28
+2019-02-15,Nimes_Dijon_2018,Nimes,13,12,25,28
+2019-02-16,Angers_Nice_2018,Nice,12,13,25,28
+2019-02-16,Angers_Nice_2018,Angers,13,12,25,28
+2019-02-16,Marseille_Amiens_2018,Amiens,12,13,25,28
+2019-02-16,Marseille_Amiens_2018,Marseille,12,13,25,28
+2019-02-16,Monaco_Nantes_2018,Nantes,12,13,25,28
+2019-02-16,Monaco_Nantes_2018,Monaco,13,12,25,28
+2019-02-17,Reims_Rennes_2018,Rennes,12,13,25,28
+2019-02-17,St Etienne_Paris SG_2018,St Etienne,13,12,25,28
+2019-02-17,St Etienne_Paris SG_2018,Paris SG,12,11,23,28
+2019-02-17,Caen_Strasbourg_2018,Caen,13,12,25,28
+2019-02-17,Bordeaux_Toulouse_2018,Bordeaux,12,12,24,28
+2019-02-17,Lille_Montpellier_2018,Montpellier,12,12,24,28
+2019-02-17,Reims_Rennes_2018,Reims,13,12,25,28
+2019-02-17,Bordeaux_Toulouse_2018,Toulouse,12,13,25,28
+2019-02-17,Caen_Strasbourg_2018,Strasbourg,12,13,25,28
+2019-02-17,Lille_Montpellier_2018,Lille,13,12,25,28
+2019-02-20,Bordeaux_Guingamp_2018,Bordeaux,13,12,25,29
+2019-02-20,Paris SG_Montpellier_2018,Paris SG,13,11,24,29
+2019-02-20,Paris SG_Montpellier_2018,Montpellier,12,13,25,29
+2019-02-20,Bordeaux_Guingamp_2018,Guingamp,12,13,25,29
+2019-02-22,Strasbourg_Lille_2018,Strasbourg,13,13,26,29
+2019-02-22,Strasbourg_Lille_2018,Lille,13,13,26,29
+2019-02-22,Dijon_St Etienne_2018,St Etienne,13,13,26,29
+2019-02-22,Dijon_St Etienne_2018,Dijon,12,13,25,29
+2019-02-23,Paris SG_Nimes_2018,Paris SG,14,11,25,29
+2019-02-23,Paris SG_Nimes_2018,Nimes,13,13,26,29
+2019-02-23,Guingamp_Angers_2018,Guingamp,13,13,26,29
+2019-02-23,Amiens_Nice_2018,Nice,12,14,26,29
+2019-02-23,Guingamp_Angers_2018,Angers,13,13,26,29
+2019-02-23,Amiens_Nice_2018,Amiens,13,13,26,29
+2019-02-24,Nantes_Bordeaux_2018,Nantes,13,13,26,29
+2019-02-24,Montpellier_Reims_2018,Reims,13,13,26,29
+2019-02-24,Toulouse_Caen_2018,Caen,13,13,26,29
+2019-02-24,Monaco_Lyon_2018,Lyon,13,13,26,29
+2019-02-24,Monaco_Lyon_2018,Monaco,14,12,26,29
+2019-02-24,Montpellier_Reims_2018,Montpellier,13,13,26,29
+2019-02-24,Nantes_Bordeaux_2018,Bordeaux,13,13,26,29
+2019-02-24,Rennes_Marseille_2018,Marseille,12,14,26,29
+2019-02-24,Toulouse_Caen_2018,Toulouse,13,13,26,29
+2019-02-24,Rennes_Marseille_2018,Rennes,13,13,26,29
+2019-03-02,Caen_Paris SG_2018,Caen,14,13,27,30
+2019-03-02,Angers_Monaco_2018,Monaco,14,13,27,30
+2019-03-02,Reims_Amiens_2018,Reims,14,13,27,30
+2019-03-02,Caen_Paris SG_2018,Paris SG,14,12,26,30
+2019-03-02,Angers_Monaco_2018,Angers,14,13,27,30
+2019-03-02,Reims_Amiens_2018,Amiens,13,14,27,30
+2019-03-03,Lille_Dijon_2018,Dijon,12,14,26,30
+2019-03-03,Lyon_Toulouse_2018,Lyon,14,13,27,30
+2019-03-03,Lille_Dijon_2018,Lille,14,13,27,30
+2019-03-03,Nice_Strasbourg_2018,Strasbourg,13,14,27,30
+2019-03-03,Guingamp_Nantes_2018,Guingamp,14,13,27,30
+2019-03-03,Marseille_St Etienne_2018,St Etienne,13,14,27,30
+2019-03-03,Marseille_St Etienne_2018,Marseille,13,14,27,30
+2019-03-03,Lyon_Toulouse_2018,Toulouse,13,14,27,30
+2019-03-03,Guingamp_Nantes_2018,Nantes,13,14,27,30
+2019-03-03,Nice_Strasbourg_2018,Nice,13,14,27,30
+2019-03-05,Bordeaux_Montpellier_2018,Montpellier,13,14,27,31
+2019-03-05,Bordeaux_Montpellier_2018,Bordeaux,14,13,27,31
+2019-03-09,Amiens_Nimes_2018,Amiens,14,14,28,31
+2019-03-09,Amiens_Nimes_2018,Nimes,13,14,27,31
+2019-03-09,Strasbourg_Lyon_2018,Lyon,14,14,28,31
+2019-03-09,Dijon_Reims_2018,Reims,14,14,28,31
+2019-03-09,Dijon_Reims_2018,Dijon,13,14,27,31
+2019-03-09,Strasbourg_Lyon_2018,Strasbourg,14,14,28,31
+2019-03-09,Monaco_Bordeaux_2018,Monaco,15,13,28,31
+2019-03-09,Monaco_Bordeaux_2018,Bordeaux,14,14,28,31
+2019-03-10,Marseille_Nice_2018,Marseille,14,14,28,31
+2019-03-10,Montpellier_Angers_2018,Montpellier,14,14,28,31
+2019-03-10,Rennes_Caen_2018,Caen,14,14,28,31
+2019-03-10,Marseille_Nice_2018,Nice,13,15,28,31
+2019-03-10,Toulouse_Guingamp_2018,Toulouse,14,14,28,31
+2019-03-10,Montpellier_Angers_2018,Angers,14,14,28,31
+2019-03-10,St Etienne_Lille_2018,Lille,14,14,28,31
+2019-03-10,Toulouse_Guingamp_2018,Guingamp,14,14,28,31
+2019-03-10,Rennes_Caen_2018,Rennes,14,13,27,31
+2019-03-10,St Etienne_Lille_2018,St Etienne,14,14,28,31
+2019-03-12,Dijon_Paris SG_2018,Dijon,14,14,28,32
+2019-03-12,Dijon_Paris SG_2018,Paris SG,14,13,27,32
+2019-03-15,Lille_Monaco_2018,Lille,15,14,29,32
+2019-03-15,Lille_Monaco_2018,Monaco,15,14,29,32
+2019-03-15,Nice_Toulouse_2018,Toulouse,14,15,29,32
+2019-03-15,Nice_Toulouse_2018,Nice,14,15,29,32
+2019-03-16,Nimes_Strasbourg_2018,Nimes,14,14,28,32
+2019-03-16,Caen_St Etienne_2018,Caen,15,14,29,32
+2019-03-16,Guingamp_Dijon_2018,Guingamp,15,14,29,32
+2019-03-16,Angers_Amiens_2018,Amiens,14,15,29,32
+2019-03-16,Nimes_Strasbourg_2018,Strasbourg,14,15,29,32
+2019-03-16,Caen_St Etienne_2018,St Etienne,14,15,29,32
+2019-03-16,Guingamp_Dijon_2018,Dijon,14,15,29,32
+2019-03-16,Angers_Amiens_2018,Angers,15,14,29,32
+2019-03-17,Paris SG_Marseille_2018,Paris SG,15,13,28,32
+2019-03-17,Lyon_Montpellier_2018,Lyon,15,14,29,32
+2019-03-17,Lyon_Montpellier_2018,Montpellier,14,15,29,32
+2019-03-17,Bordeaux_Rennes_2018,Bordeaux,15,14,29,32
+2019-03-17,Reims_Nantes_2018,Nantes,13,15,28,32
+2019-03-17,Paris SG_Marseille_2018,Marseille,14,15,29,32
+2019-03-17,Bordeaux_Rennes_2018,Rennes,14,14,28,32
+2019-03-17,Reims_Nantes_2018,Reims,15,14,29,32
+2019-03-29,Rennes_Lyon_2018,Rennes,15,14,29,34
+2019-03-29,Rennes_Lyon_2018,Lyon,15,15,30,34
+2019-03-30,Marseille_Angers_2018,Marseille,15,15,30,34
+2019-03-30,Marseille_Angers_2018,Angers,15,15,30,34
+2019-03-31,Dijon_Nice_2018,Dijon,15,15,30,34
+2019-03-31,Toulouse_Paris SG_2018,Toulouse,15,15,30,34
+2019-03-31,Monaco_Caen_2018,Caen,15,15,30,34
+2019-03-31,Amiens_Bordeaux_2018,Amiens,15,15,30,34
+2019-03-31,Monaco_Caen_2018,Monaco,16,14,30,34
+2019-03-31,Nantes_Lille_2018,Nantes,14,15,29,34
+2019-03-31,Dijon_Nice_2018,Nice,14,16,30,34
+2019-03-31,Amiens_Bordeaux_2018,Bordeaux,15,15,30,34
+2019-03-31,Toulouse_Paris SG_2018,Paris SG,15,14,29,34
+2019-03-31,Nantes_Lille_2018,Lille,15,15,30,34
+2019-04-01,St Etienne_Nimes_2018,Nimes,14,15,29,34
+2019-04-01,St Etienne_Nimes_2018,St Etienne,15,15,30,34
+2019-04-03,Strasbourg_Reims_2018,Reims,15,15,30,35
+2019-04-03,Montpellier_Guingamp_2018,Montpellier,15,15,30,35
+2019-04-03,Strasbourg_Reims_2018,Strasbourg,15,15,30,35
+2019-04-03,Montpellier_Guingamp_2018,Guingamp,15,15,30,35
+2019-04-05,Bordeaux_Marseille_2018,Bordeaux,16,15,31,35
+2019-04-05,Bordeaux_Marseille_2018,Marseille,15,16,31,35
+2019-04-06,Angers_Rennes_2018,Angers,16,15,31,35
+2019-04-06,Guingamp_Monaco_2018,Monaco,16,15,31,35
+2019-04-06,Amiens_St Etienne_2018,St Etienne,15,16,31,35
+2019-04-06,Guingamp_Monaco_2018,Guingamp,16,15,31,35
+2019-04-06,Lyon_Dijon_2018,Dijon,15,16,31,35
+2019-04-06,Nimes_Caen_2018,Nimes,15,15,30,35
+2019-04-06,Angers_Rennes_2018,Rennes,15,15,30,35
+2019-04-06,Amiens_St Etienne_2018,Amiens,16,15,31,35
+2019-04-06,Nimes_Caen_2018,Caen,15,16,31,35
+2019-04-06,Lyon_Dijon_2018,Lyon,16,15,31,35
+2019-04-07,Paris SG_Strasbourg_2018,Paris SG,16,14,30,35
+2019-04-07,Paris SG_Strasbourg_2018,Strasbourg,15,16,31,35
+2019-04-07,Reims_Lille_2018,Reims,16,15,31,35
+2019-04-07,Nice_Montpellier_2018,Nice,15,16,31,35
+2019-04-07,Nice_Montpellier_2018,Montpellier,15,16,31,35
+2019-04-07,Toulouse_Nantes_2018,Toulouse,16,15,31,35
+2019-04-07,Reims_Lille_2018,Lille,15,16,31,35
+2019-04-07,Toulouse_Nantes_2018,Nantes,14,16,30,35
+2019-04-09,Nimes_Rennes_2018,Nimes,16,15,31,36
+2019-04-09,Nimes_Rennes_2018,Rennes,15,16,31,36
+2019-04-12,Nantes_Lyon_2018,Nantes,15,16,31,36
+2019-04-12,Dijon_Amiens_2018,Amiens,16,16,32,36
+2019-04-12,Nantes_Lyon_2018,Lyon,16,16,32,36
+2019-04-12,Dijon_Amiens_2018,Dijon,16,16,32,36
+2019-04-13,Caen_Angers_2018,Caen,16,16,32,36
+2019-04-13,Monaco_Reims_2018,Monaco,17,15,32,36
+2019-04-13,Monaco_Reims_2018,Reims,16,16,32,36
+2019-04-13,Marseille_Nimes_2018,Marseille,16,16,32,36
+2019-04-13,Strasbourg_Guingamp_2018,Strasbourg,16,16,32,36
+2019-04-13,Caen_Angers_2018,Angers,16,16,32,36
+2019-04-13,Strasbourg_Guingamp_2018,Guingamp,16,16,32,36
+2019-04-13,Marseille_Nimes_2018,Nimes,16,16,32,36
+2019-04-14,St Etienne_Bordeaux_2018,Bordeaux,16,16,32,36
+2019-04-14,Lille_Paris SG_2018,Lille,16,16,32,36
+2019-04-14,Rennes_Nice_2018,Rennes,16,16,32,36
+2019-04-14,Montpellier_Toulouse_2018,Toulouse,16,16,32,36
+2019-04-14,Montpellier_Toulouse_2018,Montpellier,16,16,32,36
+2019-04-14,Lille_Paris SG_2018,Paris SG,16,15,31,36
+2019-04-14,St Etienne_Bordeaux_2018,St Etienne,16,16,32,36
+2019-04-14,Rennes_Nice_2018,Nice,15,17,32,36
+2019-04-17,Nantes_Paris SG_2018,Paris SG,16,16,32,37
+2019-04-17,Nantes_Paris SG_2018,Nantes,16,16,32,37
+2019-04-19,Dijon_Rennes_2018,Dijon,17,16,33,37
+2019-04-19,Lyon_Angers_2018,Lyon,17,16,33,37
+2019-04-19,Lyon_Angers_2018,Angers,16,17,33,37
+2019-04-19,Dijon_Rennes_2018,Rennes,16,17,33,37
+2019-04-20,Nimes_Bordeaux_2018,Nimes,17,16,33,37
+2019-04-20,Strasbourg_Montpellier_2018,Strasbourg,17,16,33,37
+2019-04-20,Strasbourg_Montpellier_2018,Montpellier,16,17,33,37
+2019-04-20,Nimes_Bordeaux_2018,Bordeaux,16,17,33,37
+2019-04-20,Nice_Caen_2018,Caen,16,17,33,37
+2019-04-20,Guingamp_Marseille_2018,Guingamp,17,16,33,37
+2019-04-20,Guingamp_Marseille_2018,Marseille,16,17,33,37
+2019-04-20,Nice_Caen_2018,Nice,16,17,33,37
+2019-04-21,Toulouse_Lille_2018,Toulouse,17,16,33,37
+2019-04-21,Nantes_Amiens_2018,Amiens,16,17,33,37
+2019-04-21,Reims_St Etienne_2018,St Etienne,16,17,33,37
+2019-04-21,Nantes_Amiens_2018,Nantes,17,16,33,37
+2019-04-21,Paris SG_Monaco_2018,Paris SG,17,16,33,37
+2019-04-21,Reims_St Etienne_2018,Reims,17,16,33,37
+2019-04-21,Paris SG_Monaco_2018,Monaco,17,16,33,37
+2019-04-21,Toulouse_Lille_2018,Lille,16,17,33,37
+2019-04-26,Bordeaux_Lyon_2018,Lyon,17,17,34,38
+2019-04-26,Bordeaux_Lyon_2018,Bordeaux,17,17,34,38
+2019-04-28,Lille_Nimes_2018,Nimes,17,17,34,38
+2019-04-28,Lille_Nimes_2018,Lille,17,17,34,38
+2019-04-28,Caen_Dijon_2018,Dijon,17,17,34,38
+2019-04-28,Nice_Guingamp_2018,Guingamp,17,17,34,38
+2019-04-28,Angers_Reims_2018,Reims,17,17,34,38
+2019-04-28,St Etienne_Toulouse_2018,Toulouse,17,17,34,38
+2019-04-28,Caen_Dijon_2018,Caen,17,17,34,38
+2019-04-28,St Etienne_Toulouse_2018,St Etienne,17,17,34,38
+2019-04-28,Amiens_Strasbourg_2018,Strasbourg,17,17,34,38
+2019-04-28,Marseille_Nantes_2018,Marseille,17,17,34,38
+2019-04-28,Nice_Guingamp_2018,Nice,17,17,34,38
+2019-04-28,Angers_Reims_2018,Angers,17,17,34,38
+2019-04-28,Marseille_Nantes_2018,Nantes,17,17,34,38
+2019-04-28,Amiens_Strasbourg_2018,Amiens,17,17,34,38
+2019-04-30,Montpellier_Paris SG_2018,Montpellier,17,17,34,39
+2019-04-30,Montpellier_Paris SG_2018,Paris SG,17,17,34,39
+2019-05-01,Rennes_Monaco_2018,Rennes,17,17,34,39
+2019-05-01,Rennes_Monaco_2018,Monaco,17,17,34,39
+2019-05-03,Strasbourg_Marseille_2018,Strasbourg,18,17,35,39
+2019-05-03,Strasbourg_Marseille_2018,Marseille,17,18,35,39
+2019-05-04,Bordeaux_Angers_2018,Bordeaux,18,17,35,39
+2019-05-04,Reims_Nimes_2018,Nimes,17,18,35,39
+2019-05-04,Guingamp_Caen_2018,Caen,17,18,35,39
+2019-05-04,Reims_Nimes_2018,Reims,18,17,35,39
+2019-05-04,Guingamp_Caen_2018,Guingamp,18,17,35,39
+2019-05-04,Paris SG_Nice_2018,Nice,17,18,35,39
+2019-05-04,Paris SG_Nice_2018,Paris SG,18,17,35,39
+2019-05-04,Bordeaux_Angers_2018,Angers,17,18,35,39
+2019-05-05,Montpellier_Amiens_2018,Amiens,17,18,35,39
+2019-05-05,Nantes_Dijon_2018,Nantes,18,17,35,39
+2019-05-05,Lyon_Lille_2018,Lille,17,18,35,39
+2019-05-05,Toulouse_Rennes_2018,Rennes,17,18,35,39
+2019-05-05,Montpellier_Amiens_2018,Montpellier,18,17,35,39
+2019-05-05,Monaco_St Etienne_2018,St Etienne,17,18,35,39
+2019-05-05,Nantes_Dijon_2018,Dijon,17,18,35,39
+2019-05-05,Monaco_St Etienne_2018,Monaco,18,17,35,39
+2019-05-05,Lyon_Lille_2018,Lyon,18,17,35,39
+2019-05-05,Toulouse_Rennes_2018,Toulouse,18,17,35,39
+2019-05-10,St Etienne_Montpellier_2018,St Etienne,18,18,36,40
+2019-05-10,St Etienne_Montpellier_2018,Montpellier,18,18,36,40
+2019-05-11,Amiens_Toulouse_2018,Amiens,18,18,36,40
+2019-05-11,Dijon_Strasbourg_2018,Strasbourg,18,18,36,40
+2019-05-11,Amiens_Toulouse_2018,Toulouse,18,18,36,40
+2019-05-11,Angers_Paris SG_2018,Paris SG,18,18,36,40
+2019-05-11,Caen_Reims_2018,Caen,18,18,36,40
+2019-05-11,Nimes_Monaco_2018,Monaco,18,18,36,40
+2019-05-11,Nice_Nantes_2018,Nice,18,18,36,40
+2019-05-11,Caen_Reims_2018,Reims,18,18,36,40
+2019-05-11,Dijon_Strasbourg_2018,Dijon,18,18,36,40
+2019-05-11,Nice_Nantes_2018,Nantes,18,18,36,40
+2019-05-11,Nimes_Monaco_2018,Nimes,18,18,36,40
+2019-05-11,Angers_Paris SG_2018,Angers,18,18,36,40
+2019-05-12,Marseille_Lyon_2018,Marseille,18,18,36,40
+2019-05-12,Marseille_Lyon_2018,Lyon,18,18,36,40
+2019-05-12,Lille_Bordeaux_2018,Bordeaux,18,18,36,40
+2019-05-12,Rennes_Guingamp_2018,Guingamp,18,18,36,40
+2019-05-12,Rennes_Guingamp_2018,Rennes,18,18,36,40
+2019-05-12,Lille_Bordeaux_2018,Lille,18,18,36,40
+2019-05-18,Guingamp_Nimes_2018,Nimes,18,19,37,41
+2019-05-18,Toulouse_Marseille_2018,Toulouse,19,18,37,41
+2019-05-18,Lyon_Caen_2018,Lyon,19,18,37,41
+2019-05-18,Lille_Angers_2018,Angers,18,19,37,41
+2019-05-18,St Etienne_Nice_2018,St Etienne,19,18,37,41
+2019-05-18,Paris SG_Dijon_2018,Dijon,18,19,37,41
+2019-05-18,Monaco_Amiens_2018,Monaco,19,18,37,41
+2019-05-18,Bordeaux_Reims_2018,Reims,18,19,37,41
+2019-05-18,Paris SG_Dijon_2018,Paris SG,19,18,37,41
+2019-05-18,Monaco_Amiens_2018,Amiens,18,19,37,41
+2019-05-18,Bordeaux_Reims_2018,Bordeaux,19,18,37,41
+2019-05-18,Montpellier_Nantes_2018,Nantes,18,19,37,41
+2019-05-18,St Etienne_Nice_2018,Nice,18,19,37,41
+2019-05-18,Lille_Angers_2018,Lille,19,18,37,41
+2019-05-18,Toulouse_Marseille_2018,Marseille,18,19,37,41
+2019-05-18,Guingamp_Nimes_2018,Guingamp,19,18,37,41
+2019-05-18,Strasbourg_Rennes_2018,Strasbourg,19,18,37,41
+2019-05-18,Lyon_Caen_2018,Caen,18,19,37,41
+2019-05-18,Montpellier_Nantes_2018,Montpellier,19,18,37,41
+2019-05-18,Strasbourg_Rennes_2018,Rennes,18,19,37,41
+2019-05-24,Angers_St Etienne_2018,St Etienne,19,19,38,42
+2019-05-24,Reims_Paris SG_2018,Reims,19,19,38,42
+2019-05-24,Nimes_Lyon_2018,Lyon,19,19,38,42
+2019-05-24,Nantes_Strasbourg_2018,Strasbourg,19,19,38,42
+2019-05-24,Marseille_Montpellier_2018,Montpellier,19,19,38,42
+2019-05-24,Dijon_Toulouse_2018,Dijon,19,19,38,42
+2019-05-24,Marseille_Montpellier_2018,Marseille,19,19,38,42
+2019-05-24,Caen_Bordeaux_2018,Bordeaux,19,19,38,42
+2019-05-24,Rennes_Lille_2018,Lille,19,19,38,42
+2019-05-24,Caen_Bordeaux_2018,Caen,19,19,38,42
+2019-05-24,Nice_Monaco_2018,Nice,19,19,38,42
+2019-05-24,Nantes_Strasbourg_2018,Nantes,19,19,38,42
+2019-05-24,Reims_Paris SG_2018,Paris SG,19,19,38,42
+2019-05-24,Nimes_Lyon_2018,Nimes,19,19,38,42
+2019-05-24,Rennes_Lille_2018,Rennes,19,19,38,42
+2019-05-24,Angers_St Etienne_2018,Angers,19,19,38,42
+2019-05-24,Amiens_Guingamp_2018,Guingamp,19,19,38,42
+2019-05-24,Nice_Monaco_2018,Monaco,19,19,38,42
+2019-05-24,Amiens_Guingamp_2018,Amiens,19,19,38,42
+2019-05-24,Dijon_Toulouse_2018,Toulouse,19,19,38,42

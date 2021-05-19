@@ -1,0 +1,359 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2019-08-03,Celtic_St Johnstone_2019,Celtic,1,1,1,1
+2019-08-03,Livingston_Motherwell_2019,Livingston,1,1,1,1
+2019-08-03,Ross County_Hamilton_2019,Ross County,1,1,1,1
+2019-08-03,Ross County_Hamilton_2019,Hamilton,1,1,1,1
+2019-08-03,Hibernian_St Mirren_2019,St Mirren,1,1,1,1
+2019-08-03,Hibernian_St Mirren_2019,Hibernian,1,1,1,1
+2019-08-03,Celtic_St Johnstone_2019,St Johnstone,1,1,1,1
+2019-08-03,Livingston_Motherwell_2019,Motherwell,1,1,1,1
+2019-08-04,Kilmarnock_Rangers_2019,Kilmarnock,1,1,1,1
+2019-08-04,Aberdeen_Hearts_2019,Hearts,1,1,1,1
+2019-08-04,Kilmarnock_Rangers_2019,Rangers,1,1,1,1
+2019-08-04,Aberdeen_Hearts_2019,Aberdeen,1,1,1,1
+2019-08-10,St Johnstone_Livingston_2019,St Johnstone,1,1,2,2
+2019-08-10,Motherwell_Celtic_2019,Celtic,1,1,2,2
+2019-08-10,Hamilton_Kilmarnock_2019,Hamilton,1,1,2,2
+2019-08-10,Motherwell_Celtic_2019,Motherwell,1,1,2,2
+2019-08-10,Hamilton_Kilmarnock_2019,Kilmarnock,1,1,2,2
+2019-08-10,Hearts_Ross County_2019,Hearts,1,1,2,2
+2019-08-10,Hearts_Ross County_2019,Ross County,1,1,2,2
+2019-08-10,St Johnstone_Livingston_2019,Livingston,1,1,2,2
+2019-08-11,St Mirren_Aberdeen_2019,Aberdeen,1,1,2,2
+2019-08-11,Rangers_Hibernian_2019,Hibernian,1,1,2,2
+2019-08-11,Rangers_Hibernian_2019,Rangers,1,1,2,2
+2019-08-11,St Mirren_Aberdeen_2019,St Mirren,1,1,2,2
+2019-08-24,Hamilton_Motherwell_2019,Hamilton,2,1,3,4
+2019-08-24,Kilmarnock_Aberdeen_2019,Aberdeen,1,2,3,4
+2019-08-24,Hibernian_St Johnstone_2019,Hibernian,2,1,3,4
+2019-08-24,Ross County_Livingston_2019,Livingston,1,2,3,4
+2019-08-24,Kilmarnock_Aberdeen_2019,Kilmarnock,2,1,3,4
+2019-08-24,Hamilton_Motherwell_2019,Motherwell,1,2,3,4
+2019-08-24,Hibernian_St Johnstone_2019,St Johnstone,1,2,3,4
+2019-08-24,Ross County_Livingston_2019,Ross County,2,1,3,4
+2019-08-25,St Mirren_Rangers_2019,St Mirren,2,1,3,4
+2019-08-25,St Mirren_Rangers_2019,Rangers,1,2,3,4
+2019-08-25,Celtic_Hearts_2019,Hearts,1,2,3,4
+2019-08-25,Celtic_Hearts_2019,Celtic,2,1,3,4
+2019-08-31,Motherwell_Hibernian_2019,Hibernian,2,2,4,5
+2019-08-31,Livingston_St Mirren_2019,St Mirren,2,2,4,5
+2019-08-31,St Johnstone_Kilmarnock_2019,St Johnstone,2,2,4,5
+2019-08-31,Livingston_St Mirren_2019,Livingston,2,2,4,5
+2019-08-31,Hearts_Hamilton_2019,Hamilton,2,2,4,5
+2019-08-31,Motherwell_Hibernian_2019,Motherwell,2,2,4,5
+2019-08-31,St Johnstone_Kilmarnock_2019,Kilmarnock,2,2,4,5
+2019-08-31,Aberdeen_Ross County_2019,Aberdeen,2,2,4,5
+2019-08-31,Hearts_Hamilton_2019,Hearts,2,2,4,5
+2019-08-31,Aberdeen_Ross County_2019,Ross County,2,2,4,5
+2019-09-01,Rangers_Celtic_2019,Rangers,2,2,4,5
+2019-09-01,Rangers_Celtic_2019,Celtic,2,2,4,5
+2019-09-14,Ross County_St Mirren_2019,St Mirren,2,3,5,7
+2019-09-14,Ross County_St Mirren_2019,Ross County,3,2,5,7
+2019-09-14,Kilmarnock_Hibernian_2019,Hibernian,2,3,5,7
+2019-09-14,Hamilton_Celtic_2019,Hamilton,3,2,5,7
+2019-09-14,Hearts_Motherwell_2019,Hearts,3,2,5,7
+2019-09-14,Hearts_Motherwell_2019,Motherwell,2,3,5,7
+2019-09-14,Aberdeen_St Johnstone_2019,St Johnstone,2,3,5,7
+2019-09-14,Rangers_Livingston_2019,Livingston,2,3,5,7
+2019-09-14,Hamilton_Celtic_2019,Celtic,2,3,5,7
+2019-09-14,Aberdeen_St Johnstone_2019,Aberdeen,3,2,5,7
+2019-09-14,Rangers_Livingston_2019,Rangers,3,2,5,7
+2019-09-14,Kilmarnock_Hibernian_2019,Kilmarnock,3,2,5,7
+2019-09-21,Livingston_Aberdeen_2019,Livingston,3,3,6,8
+2019-09-21,St Mirren_Hamilton_2019,St Mirren,3,3,6,8
+2019-09-21,Motherwell_Ross County_2019,Motherwell,3,3,6,8
+2019-09-21,St Mirren_Hamilton_2019,Hamilton,3,3,6,8
+2019-09-21,Livingston_Aberdeen_2019,Aberdeen,3,3,6,8
+2019-09-21,Motherwell_Ross County_2019,Ross County,3,3,6,8
+2019-09-22,Celtic_Kilmarnock_2019,Kilmarnock,3,3,6,8
+2019-09-22,Hibernian_Hearts_2019,Hibernian,3,3,6,8
+2019-09-22,St Johnstone_Rangers_2019,Rangers,3,3,6,8
+2019-09-22,Hibernian_Hearts_2019,Hearts,3,3,6,8
+2019-09-22,St Johnstone_Rangers_2019,St Johnstone,3,3,6,8
+2019-09-22,Celtic_Kilmarnock_2019,Celtic,3,3,6,8
+2019-09-28,St Mirren_Hearts_2019,St Mirren,4,3,7,9
+2019-09-28,St Johnstone_Motherwell_2019,Motherwell,3,4,7,9
+2019-09-28,Hibernian_Celtic_2019,Celtic,3,4,7,9
+2019-09-28,Rangers_Aberdeen_2019,Rangers,4,3,7,9
+2019-09-28,Hamilton_Livingston_2019,Hamilton,4,3,7,9
+2019-09-28,Hamilton_Livingston_2019,Livingston,3,4,7,9
+2019-09-28,Kilmarnock_Ross County_2019,Ross County,3,4,7,9
+2019-09-28,St Johnstone_Motherwell_2019,St Johnstone,4,3,7,9
+2019-09-28,Kilmarnock_Ross County_2019,Kilmarnock,4,3,7,9
+2019-09-28,St Mirren_Hearts_2019,Hearts,3,4,7,9
+2019-09-28,Rangers_Aberdeen_2019,Aberdeen,3,4,7,9
+2019-09-28,Hibernian_Celtic_2019,Hibernian,4,3,7,9
+2019-10-05,Motherwell_St Mirren_2019,St Mirren,4,4,8,10
+2019-10-05,Motherwell_St Mirren_2019,Motherwell,4,4,8,10
+2019-10-05,Ross County_St Johnstone_2019,St Johnstone,4,4,8,10
+2019-10-05,Hearts_Kilmarnock_2019,Kilmarnock,4,4,8,10
+2019-10-05,Ross County_St Johnstone_2019,Ross County,4,4,8,10
+2019-10-05,Aberdeen_Hibernian_2019,Hibernian,4,4,8,10
+2019-10-05,Hearts_Kilmarnock_2019,Hearts,4,4,8,10
+2019-10-05,Aberdeen_Hibernian_2019,Aberdeen,4,4,8,10
+2019-10-06,Rangers_Hamilton_2019,Rangers,5,3,8,10
+2019-10-06,Livingston_Celtic_2019,Celtic,3,5,8,10
+2019-10-06,Rangers_Hamilton_2019,Hamilton,4,4,8,10
+2019-10-06,Livingston_Celtic_2019,Livingston,4,4,8,10
+2019-10-19,St Mirren_St Johnstone_2019,St Mirren,5,4,9,12
+2019-10-19,Motherwell_Aberdeen_2019,Motherwell,5,4,9,12
+2019-10-19,Hamilton_Hibernian_2019,Hamilton,5,4,9,12
+2019-10-19,St Mirren_St Johnstone_2019,St Johnstone,4,5,9,12
+2019-10-19,Hamilton_Hibernian_2019,Hibernian,4,5,9,12
+2019-10-19,Celtic_Ross County_2019,Ross County,4,5,9,12
+2019-10-19,Celtic_Ross County_2019,Celtic,4,5,9,12
+2019-10-19,Motherwell_Aberdeen_2019,Aberdeen,4,5,9,12
+2019-10-19,Kilmarnock_Livingston_2019,Kilmarnock,5,4,9,12
+2019-10-19,Kilmarnock_Livingston_2019,Livingston,4,5,9,12
+2019-10-20,Hearts_Rangers_2019,Hearts,5,4,9,12
+2019-10-20,Hearts_Rangers_2019,Rangers,5,4,9,12
+2019-10-26,St Johnstone_Hamilton_2019,St Johnstone,5,5,10,13
+2019-10-26,Kilmarnock_St Mirren_2019,Kilmarnock,6,4,10,13
+2019-10-26,Hibernian_Ross County_2019,Hibernian,5,5,10,13
+2019-10-26,Livingston_Hearts_2019,Hearts,5,5,10,13
+2019-10-26,Livingston_Hearts_2019,Livingston,5,5,10,13
+2019-10-26,St Johnstone_Hamilton_2019,Hamilton,5,5,10,13
+2019-10-26,Kilmarnock_St Mirren_2019,St Mirren,5,5,10,13
+2019-10-26,Hibernian_Ross County_2019,Ross County,4,6,10,13
+2019-10-27,Rangers_Motherwell_2019,Rangers,6,4,10,13
+2019-10-27,Aberdeen_Celtic_2019,Celtic,4,6,10,13
+2019-10-27,Aberdeen_Celtic_2019,Aberdeen,5,5,10,13
+2019-10-27,Rangers_Motherwell_2019,Motherwell,5,5,10,13
+2019-10-30,Hamilton_Aberdeen_2019,Hamilton,6,5,11,14
+2019-10-30,Hibernian_Livingston_2019,Livingston,5,6,11,14
+2019-10-30,St Johnstone_Hearts_2019,St Johnstone,6,5,11,14
+2019-10-30,Ross County_Rangers_2019,Ross County,5,6,11,14
+2019-10-30,Celtic_St Mirren_2019,Celtic,5,6,11,14
+2019-10-30,Motherwell_Kilmarnock_2019,Kilmarnock,6,5,11,14
+2019-10-30,St Johnstone_Hearts_2019,Hearts,5,6,11,14
+2019-10-30,Hamilton_Aberdeen_2019,Aberdeen,5,6,11,14
+2019-10-30,Celtic_St Mirren_2019,St Mirren,5,6,11,14
+2019-10-30,Motherwell_Kilmarnock_2019,Motherwell,6,5,11,14
+2019-10-30,Ross County_Rangers_2019,Rangers,6,5,11,14
+2019-10-30,Hibernian_Livingston_2019,Hibernian,6,5,11,14
+2019-11-02,Aberdeen_Kilmarnock_2019,Kilmarnock,6,6,12,14
+2019-11-02,Hamilton_Ross County_2019,Hamilton,7,5,12,14
+2019-11-02,Motherwell_Livingston_2019,Motherwell,7,5,12,14
+2019-11-02,Motherwell_Livingston_2019,Livingston,5,7,12,14
+2019-11-02,Aberdeen_Kilmarnock_2019,Aberdeen,6,6,12,14
+2019-11-02,Hamilton_Ross County_2019,Ross County,5,7,12,14
+2019-11-09,St Johnstone_Hibernian_2019,Hibernian,6,6,12,15
+2019-11-09,St Johnstone_Hibernian_2019,St Johnstone,7,5,12,15
+2019-11-09,Ross County_Aberdeen_2019,Aberdeen,6,7,13,15
+2019-11-09,Ross County_Aberdeen_2019,Ross County,6,7,13,15
+2019-11-09,Kilmarnock_Hamilton_2019,Hamilton,7,6,13,15
+2019-11-09,Hearts_St Mirren_2019,St Mirren,5,7,12,15
+2019-11-09,Kilmarnock_Hamilton_2019,Kilmarnock,7,6,13,15
+2019-11-09,Hearts_St Mirren_2019,Hearts,6,6,12,15
+2019-11-10,Celtic_Motherwell_2019,Celtic,6,6,12,15
+2019-11-10,Livingston_Rangers_2019,Livingston,6,7,13,15
+2019-11-10,Celtic_Motherwell_2019,Motherwell,7,6,13,15
+2019-11-10,Livingston_Rangers_2019,Rangers,6,6,12,15
+2019-11-23,St Mirren_Ross County_2019,St Mirren,6,7,13,17
+2019-11-23,Hibernian_Motherwell_2019,Hibernian,7,6,13,17
+2019-11-23,Celtic_Livingston_2019,Celtic,7,6,13,17
+2019-11-23,St Mirren_Ross County_2019,Ross County,6,8,14,17
+2019-11-23,Kilmarnock_Hearts_2019,Hearts,6,7,13,17
+2019-11-23,Kilmarnock_Hearts_2019,Kilmarnock,8,6,14,17
+2019-11-23,Hibernian_Motherwell_2019,Motherwell,7,7,14,17
+2019-11-23,Celtic_Livingston_2019,Livingston,6,8,14,17
+2019-11-24,St Johnstone_Aberdeen_2019,St Johnstone,8,5,13,17
+2019-11-24,Hamilton_Rangers_2019,Rangers,6,7,13,17
+2019-11-24,St Johnstone_Aberdeen_2019,Aberdeen,6,8,14,17
+2019-11-24,Hamilton_Rangers_2019,Hamilton,8,6,14,17
+2019-11-26,St Mirren_Hibernian_2019,Hibernian,7,7,14,18
+2019-11-26,St Mirren_Hibernian_2019,St Mirren,7,7,14,18
+2019-11-30,Hibernian_Kilmarnock_2019,Kilmarnock,8,7,15,18
+2019-11-30,Aberdeen_St Mirren_2019,St Mirren,7,8,15,18
+2019-11-30,Motherwell_St Johnstone_2019,St Johnstone,8,6,14,18
+2019-11-30,Livingston_Hamilton_2019,Hamilton,8,7,15,18
+2019-11-30,Motherwell_St Johnstone_2019,Motherwell,8,7,15,18
+2019-11-30,Hibernian_Kilmarnock_2019,Hibernian,8,7,15,18
+2019-11-30,Livingston_Hamilton_2019,Livingston,7,8,15,18
+2019-11-30,Aberdeen_St Mirren_2019,Aberdeen,7,8,15,18
+2019-12-01,Ross County_Celtic_2019,Celtic,7,7,14,18
+2019-12-01,Rangers_Hearts_2019,Hearts,6,8,14,18
+2019-12-01,Rangers_Hearts_2019,Rangers,7,7,14,18
+2019-12-01,Ross County_Celtic_2019,Ross County,7,8,15,18
+2019-12-04,Ross County_Hibernian_2019,Hibernian,8,8,16,19
+2019-12-04,Kilmarnock_St Johnstone_2019,St Johnstone,8,7,15,19
+2019-12-04,Celtic_Hamilton_2019,Celtic,8,7,15,19
+2019-12-04,St Mirren_Motherwell_2019,Motherwell,8,8,16,19
+2019-12-04,Celtic_Hamilton_2019,Hamilton,8,8,16,19
+2019-12-04,Kilmarnock_St Johnstone_2019,Kilmarnock,9,7,16,19
+2019-12-04,St Mirren_Motherwell_2019,St Mirren,8,8,16,19
+2019-12-04,Aberdeen_Rangers_2019,Rangers,7,8,15,19
+2019-12-04,Hearts_Livingston_2019,Livingston,7,9,16,19
+2019-12-04,Ross County_Hibernian_2019,Ross County,8,8,16,19
+2019-12-04,Aberdeen_Rangers_2019,Aberdeen,8,8,16,19
+2019-12-04,Hearts_Livingston_2019,Hearts,7,8,15,19
+2019-12-07,Hamilton_St Mirren_2019,St Mirren,8,9,17,19
+2019-12-07,Livingston_Kilmarnock_2019,Livingston,8,9,17,19
+2019-12-07,Motherwell_Hearts_2019,Motherwell,9,8,17,19
+2019-12-07,Livingston_Kilmarnock_2019,Kilmarnock,9,8,17,19
+2019-12-07,Motherwell_Hearts_2019,Hearts,7,9,16,19
+2019-12-07,Hibernian_Aberdeen_2019,Hibernian,9,8,17,19
+2019-12-07,Hibernian_Aberdeen_2019,Aberdeen,8,9,17,19
+2019-12-07,Hamilton_St Mirren_2019,Hamilton,9,8,17,19
+2019-12-14,Hearts_St Johnstone_2019,Hearts,8,9,17,20
+2019-12-14,St Mirren_Livingston_2019,St Mirren,9,9,18,20
+2019-12-14,Hearts_St Johnstone_2019,St Johnstone,8,8,16,20
+2019-12-14,Ross County_Kilmarnock_2019,Ross County,9,8,17,20
+2019-12-14,Ross County_Kilmarnock_2019,Kilmarnock,9,9,18,20
+2019-12-14,St Mirren_Livingston_2019,Livingston,8,10,18,20
+2019-12-14,Aberdeen_Hamilton_2019,Aberdeen,9,9,18,20
+2019-12-14,Aberdeen_Hamilton_2019,Hamilton,9,9,18,20
+2019-12-15,Celtic_Hibernian_2019,Hibernian,9,9,18,20
+2019-12-15,Motherwell_Rangers_2019,Motherwell,10,8,18,20
+2019-12-15,Celtic_Hibernian_2019,Celtic,9,7,16,20
+2019-12-15,Motherwell_Rangers_2019,Rangers,7,9,16,20
+2019-12-18,Hearts_Celtic_2019,Hearts,9,9,18,21
+2019-12-18,Hearts_Celtic_2019,Celtic,9,8,17,21
+2019-12-20,Hibernian_Rangers_2019,Rangers,7,10,17,21
+2019-12-20,Hibernian_Rangers_2019,Hibernian,10,9,19,21
+2019-12-21,Livingston_Ross County_2019,Ross County,9,9,18,21
+2019-12-21,Livingston_Ross County_2019,Livingston,9,10,19,21
+2019-12-21,Celtic_Aberdeen_2019,Celtic,10,8,18,21
+2019-12-21,Kilmarnock_Motherwell_2019,Motherwell,10,9,19,21
+2019-12-21,Kilmarnock_Motherwell_2019,Kilmarnock,10,9,19,21
+2019-12-21,Hamilton_Hearts_2019,Hearts,9,10,19,21
+2019-12-21,Hamilton_Hearts_2019,Hamilton,10,9,19,21
+2019-12-21,Celtic_Aberdeen_2019,Aberdeen,9,10,19,21
+2019-12-21,St Johnstone_St Mirren_2019,St Mirren,9,10,19,21
+2019-12-21,St Johnstone_St Mirren_2019,St Johnstone,9,8,17,21
+2019-12-26,Ross County_Motherwell_2019,Motherwell,10,10,20,22
+2019-12-26,Aberdeen_Livingston_2019,Aberdeen,10,10,20,22
+2019-12-26,Rangers_Kilmarnock_2019,Rangers,8,10,18,22
+2019-12-26,Hearts_Hibernian_2019,Hibernian,10,10,20,22
+2019-12-26,St Mirren_Celtic_2019,Celtic,10,9,19,22
+2019-12-26,St Mirren_Celtic_2019,St Mirren,10,10,20,22
+2019-12-26,Aberdeen_Livingston_2019,Livingston,9,11,20,22
+2019-12-26,Hamilton_St Johnstone_2019,St Johnstone,9,9,18,22
+2019-12-26,Rangers_Kilmarnock_2019,Kilmarnock,10,10,20,22
+2019-12-26,Hamilton_St Johnstone_2019,Hamilton,11,9,20,22
+2019-12-26,Hearts_Hibernian_2019,Hearts,10,10,20,22
+2019-12-26,Ross County_Motherwell_2019,Ross County,10,9,19,22
+2019-12-29,Celtic_Rangers_2019,Rangers,8,11,19,22
+2019-12-29,St Mirren_Kilmarnock_2019,St Mirren,11,10,21,22
+2019-12-29,St Johnstone_Ross County_2019,Ross County,10,10,20,22
+2019-12-29,Motherwell_Hamilton_2019,Motherwell,11,10,21,22
+2019-12-29,Hearts_Aberdeen_2019,Hearts,11,10,21,22
+2019-12-29,Hearts_Aberdeen_2019,Aberdeen,10,11,21,22
+2019-12-29,St Mirren_Kilmarnock_2019,Kilmarnock,10,11,21,22
+2019-12-29,Celtic_Rangers_2019,Celtic,11,9,20,22
+2019-12-29,St Johnstone_Ross County_2019,St Johnstone,10,9,19,22
+2019-12-29,Livingston_Hibernian_2019,Hibernian,10,11,21,22
+2019-12-29,Livingston_Hibernian_2019,Livingston,10,11,21,22
+2019-12-29,Motherwell_Hamilton_2019,Hamilton,11,10,21,22
+2020-01-22,Ross County_Hearts_2019,Hearts,11,11,22,26
+2020-01-22,Livingston_St Johnstone_2019,St Johnstone,10,10,20,26
+2020-01-22,Aberdeen_Motherwell_2019,Motherwell,11,11,22,26
+2020-01-22,Rangers_St Mirren_2019,Rangers,9,11,20,26
+2020-01-22,Ross County_Hearts_2019,Ross County,11,10,21,26
+2020-01-22,Aberdeen_Motherwell_2019,Aberdeen,11,11,22,26
+2020-01-22,Hibernian_Hamilton_2019,Hamilton,11,11,22,26
+2020-01-22,Rangers_St Mirren_2019,St Mirren,11,11,22,26
+2020-01-22,Kilmarnock_Celtic_2019,Celtic,11,10,21,26
+2020-01-22,Livingston_St Johnstone_2019,Livingston,11,11,22,26
+2020-01-22,Hibernian_Hamilton_2019,Hibernian,11,11,22,26
+2020-01-22,Kilmarnock_Celtic_2019,Kilmarnock,11,11,22,26
+2020-01-25,Celtic_Ross County_2019,Celtic,12,10,22,26
+2020-01-25,St Johnstone_Kilmarnock_2019,St Johnstone,11,10,21,26
+2020-01-25,St Johnstone_Kilmarnock_2019,Kilmarnock,11,12,23,26
+2020-01-25,Celtic_Ross County_2019,Ross County,11,11,22,26
+2020-01-25,Motherwell_Hibernian_2019,Hibernian,11,12,23,26
+2020-01-25,Motherwell_Hibernian_2019,Motherwell,12,11,23,26
+2020-01-25,Hamilton_Livingston_2019,Hamilton,12,11,23,26
+2020-01-25,Hamilton_Livingston_2019,Livingston,11,12,23,26
+2020-01-26,Hearts_Rangers_2019,Hearts,12,11,23,26
+2020-01-26,St Mirren_Aberdeen_2019,Aberdeen,11,12,23,26
+2020-01-26,St Mirren_Aberdeen_2019,St Mirren,12,11,23,26
+2020-01-26,Hearts_Rangers_2019,Rangers,9,12,21,26
+2020-01-29,St Johnstone_Celtic_2019,St Johnstone,12,10,22,27
+2020-01-29,St Johnstone_Celtic_2019,Celtic,12,11,23,27
+2020-01-29,Rangers_Ross County_2019,Rangers,10,12,22,27
+2020-01-29,Rangers_Ross County_2019,Ross County,11,12,23,27
+2020-02-01,St Johnstone_Hearts_2019,Hearts,12,12,24,27
+2020-02-01,Kilmarnock_Ross County_2019,Ross County,11,13,24,27
+2020-02-01,Livingston_Motherwell_2019,Livingston,12,12,24,27
+2020-02-01,Kilmarnock_Ross County_2019,Kilmarnock,12,12,24,27
+2020-02-01,Livingston_Motherwell_2019,Motherwell,12,12,24,27
+2020-02-01,Rangers_Aberdeen_2019,Rangers,11,12,23,27
+2020-02-01,St Johnstone_Hearts_2019,St Johnstone,13,10,23,27
+2020-02-01,Rangers_Aberdeen_2019,Aberdeen,11,13,24,27
+2020-02-01,Hibernian_St Mirren_2019,Hibernian,12,12,24,27
+2020-02-01,Hibernian_St Mirren_2019,St Mirren,12,12,24,27
+2020-02-02,Hamilton_Celtic_2019,Celtic,12,12,24,27
+2020-02-02,Hamilton_Celtic_2019,Hamilton,13,11,24,27
+2020-02-05,Rangers_Hibernian_2019,Rangers,12,12,24,28
+2020-02-05,Hearts_Kilmarnock_2019,Kilmarnock,12,13,25,28
+2020-02-05,Ross County_Livingston_2019,Ross County,12,13,25,28
+2020-02-05,Ross County_Livingston_2019,Livingston,12,13,25,28
+2020-02-05,Motherwell_Celtic_2019,Motherwell,13,12,25,28
+2020-02-05,St Mirren_Hamilton_2019,Hamilton,13,12,25,28
+2020-02-05,Rangers_Hibernian_2019,Hibernian,12,13,25,28
+2020-02-05,Aberdeen_St Johnstone_2019,St Johnstone,13,11,24,28
+2020-02-05,Hearts_Kilmarnock_2019,Hearts,13,12,25,28
+2020-02-05,Aberdeen_St Johnstone_2019,Aberdeen,12,13,25,28
+2020-02-05,St Mirren_Hamilton_2019,St Mirren,13,12,25,28
+2020-02-05,Motherwell_Celtic_2019,Celtic,12,13,25,28
+2020-02-11,Hamilton_Aberdeen_2019,Hamilton,14,12,26,29
+2020-02-11,Hamilton_Aberdeen_2019,Aberdeen,12,14,26,29
+2020-02-12,Celtic_Hearts_2019,Hearts,13,13,26,29
+2020-02-12,Livingston_St Mirren_2019,St Mirren,13,13,26,29
+2020-02-12,Celtic_Hearts_2019,Celtic,13,13,26,29
+2020-02-12,St Johnstone_Motherwell_2019,St Johnstone,14,11,25,29
+2020-02-12,Hibernian_Ross County_2019,Ross County,12,14,26,29
+2020-02-12,Kilmarnock_Rangers_2019,Rangers,12,13,25,29
+2020-02-12,Livingston_St Mirren_2019,Livingston,13,13,26,29
+2020-02-12,St Johnstone_Motherwell_2019,Motherwell,13,13,26,29
+2020-02-12,Hibernian_Ross County_2019,Hibernian,13,13,26,29
+2020-02-12,Kilmarnock_Rangers_2019,Kilmarnock,13,13,26,29
+2020-02-15,Ross County_St Johnstone_2019,St Johnstone,14,12,26,29
+2020-02-15,Ross County_St Johnstone_2019,Ross County,13,14,27,29
+2020-02-15,Hearts_Hamilton_2019,Hearts,14,13,27,29
+2020-02-15,Hearts_Hamilton_2019,Hamilton,14,13,27,29
+2020-02-16,Rangers_Livingston_2019,Rangers,13,13,26,29
+2020-02-16,Kilmarnock_Hibernian_2019,Hibernian,13,14,27,29
+2020-02-16,Kilmarnock_Hibernian_2019,Kilmarnock,14,13,27,29
+2020-02-16,Rangers_Livingston_2019,Livingston,13,14,27,29
+2020-02-16,Aberdeen_Celtic_2019,Aberdeen,13,14,27,29
+2020-02-16,Aberdeen_Celtic_2019,Celtic,13,14,27,29
+2020-02-22,Hamilton_Motherwell_2019,Hamilton,15,13,28,30
+2020-02-22,Aberdeen_Ross County_2019,Ross County,13,15,28,30
+2020-02-22,Hamilton_Motherwell_2019,Motherwell,13,14,27,30
+2020-02-22,Hibernian_Livingston_2019,Livingston,13,15,28,30
+2020-02-22,Aberdeen_Ross County_2019,Aberdeen,14,14,28,30
+2020-02-22,Hibernian_Livingston_2019,Hibernian,14,14,28,30
+2020-02-23,St Johnstone_Rangers_2019,St Johnstone,15,12,27,30
+2020-02-23,Celtic_Kilmarnock_2019,Celtic,14,14,28,30
+2020-02-23,Celtic_Kilmarnock_2019,Kilmarnock,14,14,28,30
+2020-02-23,St Johnstone_Rangers_2019,Rangers,13,14,27,30
+2020-02-25,Motherwell_St Mirren_2019,Motherwell,14,14,28,31
+2020-02-25,Motherwell_St Mirren_2019,St Mirren,13,14,27,31
+2020-03-03,Hibernian_Hearts_2019,Hearts,14,14,28,32
+2020-03-03,Hibernian_Hearts_2019,Hibernian,15,14,29,32
+2020-03-04,Livingston_Celtic_2019,Celtic,14,15,29,32
+2020-03-04,St Mirren_St Johnstone_2019,St Johnstone,15,13,28,32
+2020-03-04,Motherwell_Ross County_2019,Ross County,13,16,29,32
+2020-03-04,Kilmarnock_Aberdeen_2019,Kilmarnock,15,14,29,32
+2020-03-04,Rangers_Hamilton_2019,Rangers,14,14,28,32
+2020-03-04,Livingston_Celtic_2019,Livingston,14,15,29,32
+2020-03-04,Rangers_Hamilton_2019,Hamilton,15,14,29,32
+2020-03-04,Kilmarnock_Aberdeen_2019,Aberdeen,14,15,29,32
+2020-03-04,St Mirren_St Johnstone_2019,St Mirren,14,14,28,32
+2020-03-04,Motherwell_Ross County_2019,Motherwell,15,14,29,32
+2020-03-07,St Johnstone_Livingston_2019,St Johnstone,16,13,29,32
+2020-03-07,Celtic_St Mirren_2019,Celtic,15,15,30,32
+2020-03-07,Aberdeen_Hibernian_2019,Hibernian,15,15,30,32
+2020-03-07,Hearts_Motherwell_2019,Hearts,15,14,29,32
+2020-03-07,Hamilton_Kilmarnock_2019,Kilmarnock,15,15,30,32
+2020-03-07,St Johnstone_Livingston_2019,Livingston,14,16,30,32
+2020-03-07,Aberdeen_Hibernian_2019,Aberdeen,15,15,30,32
+2020-03-07,Hamilton_Kilmarnock_2019,Hamilton,16,14,30,32
+2020-03-07,Hearts_Motherwell_2019,Motherwell,15,15,30,32
+2020-03-07,Celtic_St Mirren_2019,St Mirren,14,15,29,32
+2020-03-08,Ross County_Rangers_2019,Rangers,14,15,29,32
+2020-03-08,Ross County_Rangers_2019,Ross County,14,16,30,32
+2020-03-11,St Mirren_Hearts_2019,Hearts,15,15,30,33
+2020-03-11,St Mirren_Hearts_2019,St Mirren,15,15,30,33

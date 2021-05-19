@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2014-08-22,Bayern Munich_Wolfsburg_2014,Bayern Munich,1,1,1,1
+2014-08-22,Bayern Munich_Wolfsburg_2014,Wolfsburg,1,1,1,1
+2014-08-23,Ein Frankfurt_Freiburg_2014,Freiburg,1,1,1,1
+2014-08-23,Hannover_Schalke 04_2014,Hannover,1,1,1,1
+2014-08-23,Hoffenheim_Augsburg_2014,Hoffenheim,1,1,1,1
+2014-08-23,Dortmund_Leverkusen_2014,Dortmund,1,1,1,1
+2014-08-23,Hertha_Werder Bremen_2014,Werder Bremen,1,1,1,1
+2014-08-23,Ein Frankfurt_Freiburg_2014,Ein Frankfurt,1,1,1,1
+2014-08-23,Dortmund_Leverkusen_2014,Leverkusen,1,1,1,1
+2014-08-23,Hertha_Werder Bremen_2014,Hertha,1,1,1,1
+2014-08-23,Hoffenheim_Augsburg_2014,Augsburg,1,1,1,1
+2014-08-23,FC Koln_Hamburg_2014,FC Koln,1,1,1,1
+2014-08-23,FC Koln_Hamburg_2014,Hamburg,1,1,1,1
+2014-08-23,Hannover_Schalke 04_2014,Schalke 04,1,1,1,1
+2014-08-24,Paderborn_Mainz_2014,Mainz,1,1,1,1
+2014-08-24,M'gladbach_Stuttgart_2014,Stuttgart,1,1,1,1
+2014-08-24,M'gladbach_Stuttgart_2014,M'gladbach,1,1,1,1
+2014-08-24,Paderborn_Mainz_2014,Paderborn,1,1,1,1
+2014-08-29,Augsburg_Dortmund_2014,Augsburg,1,1,2,2
+2014-08-29,Augsburg_Dortmund_2014,Dortmund,1,1,2,2
+2014-08-30,Werder Bremen_Hoffenheim_2014,Hoffenheim,1,1,2,2
+2014-08-30,Wolfsburg_Ein Frankfurt_2014,Wolfsburg,1,1,2,2
+2014-08-30,Leverkusen_Hertha_2014,Leverkusen,1,1,2,2
+2014-08-30,Werder Bremen_Hoffenheim_2014,Werder Bremen,1,1,2,2
+2014-08-30,Stuttgart_FC Koln_2014,Stuttgart,1,1,2,2
+2014-08-30,Hamburg_Paderborn_2014,Paderborn,1,1,2,2
+2014-08-30,Stuttgart_FC Koln_2014,FC Koln,1,1,2,2
+2014-08-30,Leverkusen_Hertha_2014,Hertha,1,1,2,2
+2014-08-30,Hamburg_Paderborn_2014,Hamburg,1,1,2,2
+2014-08-30,Schalke 04_Bayern Munich_2014,Schalke 04,1,1,2,2
+2014-08-30,Wolfsburg_Ein Frankfurt_2014,Ein Frankfurt,1,1,2,2
+2014-08-30,Schalke 04_Bayern Munich_2014,Bayern Munich,1,1,2,2
+2014-08-31,Freiburg_M'gladbach_2014,M'gladbach,1,1,2,2
+2014-08-31,Mainz_Hannover_2014,Hannover,1,1,2,2
+2014-08-31,Freiburg_M'gladbach_2014,Freiburg,1,1,2,2
+2014-08-31,Mainz_Hannover_2014,Mainz,1,1,2,2
+2014-09-12,Leverkusen_Werder Bremen_2014,Werder Bremen,1,2,3,4
+2014-09-12,Leverkusen_Werder Bremen_2014,Leverkusen,2,1,3,4
+2014-09-13,Paderborn_FC Koln_2014,FC Koln,1,2,3,4
+2014-09-13,Hoffenheim_Wolfsburg_2014,Hoffenheim,2,1,3,4
+2014-09-13,Paderborn_FC Koln_2014,Paderborn,2,1,3,4
+2014-09-13,M'gladbach_Schalke 04_2014,M'gladbach,2,1,3,4
+2014-09-13,Hertha_Mainz_2014,Hertha,2,1,3,4
+2014-09-13,Hoffenheim_Wolfsburg_2014,Wolfsburg,1,2,3,4
+2014-09-13,M'gladbach_Schalke 04_2014,Schalke 04,1,2,3,4
+2014-09-13,Bayern Munich_Stuttgart_2014,Stuttgart,1,2,3,4
+2014-09-13,Dortmund_Freiburg_2014,Dortmund,2,1,3,4
+2014-09-13,Dortmund_Freiburg_2014,Freiburg,1,2,3,4
+2014-09-13,Bayern Munich_Stuttgart_2014,Bayern Munich,2,1,3,4
+2014-09-13,Hertha_Mainz_2014,Mainz,1,2,3,4
+2014-09-14,Ein Frankfurt_Augsburg_2014,Augsburg,1,2,3,4
+2014-09-14,Hannover_Hamburg_2014,Hamburg,1,2,3,4
+2014-09-14,Ein Frankfurt_Augsburg_2014,Ein Frankfurt,2,1,3,4
+2014-09-14,Hannover_Hamburg_2014,Hannover,2,1,3,4
+2014-09-19,Freiburg_Hertha_2014,Freiburg,2,2,4,5
+2014-09-19,Freiburg_Hertha_2014,Hertha,2,2,4,5
+2014-09-20,Hamburg_Bayern Munich_2014,Hamburg,2,2,4,5
+2014-09-20,Paderborn_Hannover_2014,Hannover,2,2,4,5
+2014-09-20,Schalke 04_Ein Frankfurt_2014,Ein Frankfurt,2,2,4,5
+2014-09-20,Hamburg_Bayern Munich_2014,Bayern Munich,2,2,4,5
+2014-09-20,Schalke 04_Ein Frankfurt_2014,Schalke 04,2,2,4,5
+2014-09-20,Paderborn_Hannover_2014,Paderborn,3,1,4,5
+2014-09-20,Mainz_Dortmund_2014,Dortmund,2,2,4,5
+2014-09-20,Augsburg_Werder Bremen_2014,Augsburg,2,2,4,5
+2014-09-20,Stuttgart_Hoffenheim_2014,Stuttgart,2,2,4,5
+2014-09-20,Augsburg_Werder Bremen_2014,Werder Bremen,1,3,4,5
+2014-09-20,Mainz_Dortmund_2014,Mainz,2,2,4,5
+2014-09-20,Stuttgart_Hoffenheim_2014,Hoffenheim,2,2,4,5
+2014-09-21,FC Koln_M'gladbach_2014,FC Koln,2,2,4,5
+2014-09-21,Wolfsburg_Leverkusen_2014,Leverkusen,2,2,4,5
+2014-09-21,FC Koln_M'gladbach_2014,M'gladbach,2,2,4,5
+2014-09-21,Wolfsburg_Leverkusen_2014,Wolfsburg,2,2,4,5
+2014-09-23,Ein Frankfurt_Mainz_2014,Ein Frankfurt,3,2,5,6
+2014-09-23,Ein Frankfurt_Mainz_2014,Mainz,2,3,5,6
+2014-09-23,Bayern Munich_Paderborn_2014,Paderborn,3,2,5,6
+2014-09-23,Bayern Munich_Paderborn_2014,Bayern Munich,3,2,5,6
+2014-09-23,Hoffenheim_Freiburg_2014,Hoffenheim,3,2,5,6
+2014-09-23,Hoffenheim_Freiburg_2014,Freiburg,2,3,5,6
+2014-09-23,Werder Bremen_Schalke 04_2014,Werder Bremen,2,3,5,6
+2014-09-23,Werder Bremen_Schalke 04_2014,Schalke 04,2,3,5,6
+2014-09-24,Hertha_Wolfsburg_2014,Wolfsburg,2,3,5,6
+2014-09-24,M'gladbach_Hamburg_2014,Hamburg,2,3,5,6
+2014-09-24,Dortmund_Stuttgart_2014,Dortmund,3,2,5,6
+2014-09-24,M'gladbach_Hamburg_2014,M'gladbach,3,2,5,6
+2014-09-24,Hannover_FC Koln_2014,Hannover,3,2,5,6
+2014-09-24,Leverkusen_Augsburg_2014,Augsburg,2,3,5,6
+2014-09-24,Leverkusen_Augsburg_2014,Leverkusen,3,2,5,6
+2014-09-24,Hannover_FC Koln_2014,FC Koln,2,3,5,6
+2014-09-24,Dortmund_Stuttgart_2014,Stuttgart,2,3,5,6
+2014-09-24,Hertha_Wolfsburg_2014,Hertha,3,2,5,6
+2014-09-26,Mainz_Hoffenheim_2014,Mainz,3,3,6,6
+2014-09-26,Mainz_Hoffenheim_2014,Hoffenheim,3,3,6,6
+2014-09-27,Wolfsburg_Werder Bremen_2014,Wolfsburg,3,3,6,6
+2014-09-27,FC Koln_Bayern Munich_2014,FC Koln,3,3,6,6
+2014-09-27,FC Koln_Bayern Munich_2014,Bayern Munich,3,3,6,6
+2014-09-27,Paderborn_M'gladbach_2014,Paderborn,4,2,6,6
+2014-09-27,Stuttgart_Hannover_2014,Stuttgart,3,3,6,6
+2014-09-27,Freiburg_Leverkusen_2014,Freiburg,3,3,6,6
+2014-09-27,Wolfsburg_Werder Bremen_2014,Werder Bremen,2,4,6,6
+2014-09-27,Freiburg_Leverkusen_2014,Leverkusen,3,3,6,6
+2014-09-27,Stuttgart_Hannover_2014,Hannover,3,3,6,6
+2014-09-27,Schalke 04_Dortmund_2014,Schalke 04,3,3,6,6
+2014-09-27,Schalke 04_Dortmund_2014,Dortmund,3,3,6,6
+2014-09-27,Paderborn_M'gladbach_2014,M'gladbach,3,3,6,6
+2014-09-28,Augsburg_Hertha_2014,Hertha,3,3,6,6
+2014-09-28,Hamburg_Ein Frankfurt_2014,Ein Frankfurt,3,3,6,6
+2014-09-28,Hamburg_Ein Frankfurt_2014,Hamburg,3,3,6,6
+2014-09-28,Augsburg_Hertha_2014,Augsburg,3,3,6,6
+2014-10-03,Hertha_Stuttgart_2014,Hertha,4,3,7,7
+2014-10-03,Hertha_Stuttgart_2014,Stuttgart,3,4,7,7
+2014-10-04,Bayern Munich_Hannover_2014,Bayern Munich,4,3,7,7
+2014-10-04,Dortmund_Hamburg_2014,Dortmund,4,3,7,7
+2014-10-04,Leverkusen_Paderborn_2014,Paderborn,4,3,7,7
+2014-10-04,Bayern Munich_Hannover_2014,Hannover,3,4,7,7
+2014-10-04,Hoffenheim_Schalke 04_2014,Hoffenheim,4,3,7,7
+2014-10-04,Hoffenheim_Schalke 04_2014,Schalke 04,3,4,7,7
+2014-10-04,Ein Frankfurt_FC Koln_2014,FC Koln,3,4,7,7
+2014-10-04,Dortmund_Hamburg_2014,Hamburg,3,4,7,7
+2014-10-04,Ein Frankfurt_FC Koln_2014,Ein Frankfurt,4,3,7,7
+2014-10-04,Leverkusen_Paderborn_2014,Leverkusen,4,3,7,7
+2014-10-04,Werder Bremen_Freiburg_2014,Werder Bremen,3,4,7,7
+2014-10-04,Werder Bremen_Freiburg_2014,Freiburg,3,4,7,7
+2014-10-05,M'gladbach_Mainz_2014,Mainz,3,4,7,7
+2014-10-05,M'gladbach_Mainz_2014,M'gladbach,4,3,7,7
+2014-10-05,Wolfsburg_Augsburg_2014,Augsburg,3,4,7,7
+2014-10-05,Wolfsburg_Augsburg_2014,Wolfsburg,4,3,7,7
+2014-10-18,Bayern Munich_Werder Bremen_2014,Bayern Munich,5,3,8,9
+2014-10-18,Freiburg_Wolfsburg_2014,Wolfsburg,4,4,8,9
+2014-10-18,Mainz_Augsburg_2014,Augsburg,3,5,8,9
+2014-10-18,Hannover_M'gladbach_2014,M'gladbach,4,4,8,9
+2014-10-18,Mainz_Augsburg_2014,Mainz,4,4,8,9
+2014-10-18,Bayern Munich_Werder Bremen_2014,Werder Bremen,3,5,8,9
+2014-10-18,Stuttgart_Leverkusen_2014,Stuttgart,4,4,8,9
+2014-10-18,Schalke 04_Hertha_2014,Schalke 04,4,4,8,9
+2014-10-18,FC Koln_Dortmund_2014,FC Koln,4,4,8,9
+2014-10-18,Hannover_M'gladbach_2014,Hannover,4,4,8,9
+2014-10-18,Freiburg_Wolfsburg_2014,Freiburg,4,4,8,9
+2014-10-18,FC Koln_Dortmund_2014,Dortmund,4,4,8,9
+2014-10-18,Stuttgart_Leverkusen_2014,Leverkusen,4,4,8,9
+2014-10-18,Schalke 04_Hertha_2014,Hertha,4,4,8,9
+2014-10-19,Hamburg_Hoffenheim_2014,Hamburg,4,4,8,9
+2014-10-19,Hamburg_Hoffenheim_2014,Hoffenheim,4,4,8,9
+2014-10-19,Paderborn_Ein Frankfurt_2014,Ein Frankfurt,4,4,8,9
+2014-10-19,Paderborn_Ein Frankfurt_2014,Paderborn,5,3,8,9
+2014-10-24,Werder Bremen_FC Koln_2014,FC Koln,4,5,9,10
+2014-10-24,Werder Bremen_FC Koln_2014,Werder Bremen,4,5,9,10
+2014-10-25,Hertha_Hamburg_2014,Hamburg,4,5,9,10
+2014-10-25,Dortmund_Hannover_2014,Hannover,4,5,9,10
+2014-10-25,Leverkusen_Schalke 04_2014,Schalke 04,4,5,9,10
+2014-10-25,Hertha_Hamburg_2014,Hertha,5,4,9,10
+2014-10-25,Dortmund_Hannover_2014,Dortmund,5,4,9,10
+2014-10-25,Hoffenheim_Paderborn_2014,Hoffenheim,5,4,9,10
+2014-10-25,Augsburg_Freiburg_2014,Augsburg,4,5,9,10
+2014-10-25,Ein Frankfurt_Stuttgart_2014,Stuttgart,4,5,9,10
+2014-10-25,Ein Frankfurt_Stuttgart_2014,Ein Frankfurt,5,4,9,10
+2014-10-25,Leverkusen_Schalke 04_2014,Leverkusen,5,4,9,10
+2014-10-25,Augsburg_Freiburg_2014,Freiburg,4,5,9,10
+2014-10-25,Hoffenheim_Paderborn_2014,Paderborn,5,4,9,10
+2014-10-26,Wolfsburg_Mainz_2014,Wolfsburg,5,4,9,10
+2014-10-26,M'gladbach_Bayern Munich_2014,M'gladbach,5,4,9,10
+2014-10-26,Wolfsburg_Mainz_2014,Mainz,4,5,9,10
+2014-10-26,M'gladbach_Bayern Munich_2014,Bayern Munich,5,4,9,10
+2014-10-31,Schalke 04_Augsburg_2014,Schalke 04,5,5,10,11
+2014-10-31,Schalke 04_Augsburg_2014,Augsburg,4,6,10,11
+2014-11-01,Stuttgart_Wolfsburg_2014,Wolfsburg,5,5,10,11
+2014-11-01,Hamburg_Leverkusen_2014,Hamburg,5,5,10,11
+2014-11-01,Bayern Munich_Dortmund_2014,Dortmund,5,5,10,11
+2014-11-01,Mainz_Werder Bremen_2014,Werder Bremen,4,6,10,11
+2014-11-01,Stuttgart_Wolfsburg_2014,Stuttgart,5,5,10,11
+2014-11-01,Mainz_Werder Bremen_2014,Mainz,5,5,10,11
+2014-11-01,Hamburg_Leverkusen_2014,Leverkusen,5,5,10,11
+2014-11-01,Hannover_Ein Frankfurt_2014,Ein Frankfurt,5,5,10,11
+2014-11-01,Bayern Munich_Dortmund_2014,Bayern Munich,6,4,10,11
+2014-11-01,Hannover_Ein Frankfurt_2014,Hannover,5,5,10,11
+2014-11-02,M'gladbach_Hoffenheim_2014,M'gladbach,6,4,10,11
+2014-11-02,Paderborn_Hertha_2014,Hertha,5,5,10,11
+2014-11-02,M'gladbach_Hoffenheim_2014,Hoffenheim,5,5,10,11
+2014-11-02,FC Koln_Freiburg_2014,FC Koln,5,5,10,11
+2014-11-02,Paderborn_Hertha_2014,Paderborn,6,4,10,11
+2014-11-02,FC Koln_Freiburg_2014,Freiburg,4,6,10,11
+2014-11-07,Hertha_Hannover_2014,Hannover,5,6,11,12
+2014-11-07,Hertha_Hannover_2014,Hertha,6,5,11,12
+2014-11-08,Augsburg_Paderborn_2014,Augsburg,5,6,11,12
+2014-11-08,Werder Bremen_Stuttgart_2014,Stuttgart,5,6,11,12
+2014-11-08,Hoffenheim_FC Koln_2014,Hoffenheim,6,5,11,12
+2014-11-08,Ein Frankfurt_Bayern Munich_2014,Bayern Munich,6,5,11,12
+2014-11-08,Freiburg_Schalke 04_2014,Freiburg,5,6,11,12
+2014-11-08,Werder Bremen_Stuttgart_2014,Werder Bremen,5,6,11,12
+2014-11-08,Freiburg_Schalke 04_2014,Schalke 04,5,6,11,12
+2014-11-08,Ein Frankfurt_Bayern Munich_2014,Ein Frankfurt,6,5,11,12
+2014-11-08,Leverkusen_Mainz_2014,Leverkusen,6,5,11,12
+2014-11-08,Hoffenheim_FC Koln_2014,FC Koln,5,6,11,12
+2014-11-08,Leverkusen_Mainz_2014,Mainz,5,6,11,12
+2014-11-08,Augsburg_Paderborn_2014,Paderborn,6,5,11,12
+2014-11-09,Dortmund_M'gladbach_2014,M'gladbach,6,5,11,12
+2014-11-09,Dortmund_M'gladbach_2014,Dortmund,6,5,11,12
+2014-11-09,Wolfsburg_Hamburg_2014,Hamburg,5,6,11,12
+2014-11-09,Wolfsburg_Hamburg_2014,Wolfsburg,6,5,11,12
+2014-11-22,FC Koln_Hertha_2014,Hertha,6,6,12,14
+2014-11-22,Schalke 04_Wolfsburg_2014,Wolfsburg,6,6,12,14
+2014-11-22,Mainz_Freiburg_2014,Freiburg,5,7,12,14
+2014-11-22,Mainz_Freiburg_2014,Mainz,6,6,12,14
+2014-11-22,Hannover_Leverkusen_2014,Hannover,6,6,12,14
+2014-11-22,Schalke 04_Wolfsburg_2014,Schalke 04,6,6,12,14
+2014-11-22,Hannover_Leverkusen_2014,Leverkusen,6,6,12,14
+2014-11-22,M'gladbach_Ein Frankfurt_2014,Ein Frankfurt,6,6,12,14
+2014-11-22,Bayern Munich_Hoffenheim_2014,Bayern Munich,7,5,12,14
+2014-11-22,Bayern Munich_Hoffenheim_2014,Hoffenheim,6,6,12,14
+2014-11-22,M'gladbach_Ein Frankfurt_2014,M'gladbach,7,5,12,14
+2014-11-22,Paderborn_Dortmund_2014,Dortmund,6,6,12,14
+2014-11-22,FC Koln_Hertha_2014,FC Koln,6,6,12,14
+2014-11-22,Paderborn_Dortmund_2014,Paderborn,7,5,12,14
+2014-11-23,Stuttgart_Augsburg_2014,Augsburg,5,7,12,14
+2014-11-23,Stuttgart_Augsburg_2014,Stuttgart,6,6,12,14
+2014-11-23,Hamburg_Werder Bremen_2014,Werder Bremen,5,7,12,14
+2014-11-23,Hamburg_Werder Bremen_2014,Hamburg,6,6,12,14
+2014-11-28,Freiburg_Stuttgart_2014,Freiburg,6,7,13,15
+2014-11-28,Freiburg_Stuttgart_2014,Stuttgart,6,7,13,15
+2014-11-29,Schalke 04_Mainz_2014,Schalke 04,7,6,13,15
+2014-11-29,Augsburg_Hamburg_2014,Augsburg,6,7,13,15
+2014-11-29,Werder Bremen_Paderborn_2014,Paderborn,7,6,13,15
+2014-11-29,Hoffenheim_Hannover_2014,Hannover,6,7,13,15
+2014-11-29,Werder Bremen_Paderborn_2014,Werder Bremen,6,7,13,15
+2014-11-29,Leverkusen_FC Koln_2014,FC Koln,6,7,13,15
+2014-11-29,Hertha_Bayern Munich_2014,Bayern Munich,7,6,13,15
+2014-11-29,Augsburg_Hamburg_2014,Hamburg,6,7,13,15
+2014-11-29,Hertha_Bayern Munich_2014,Hertha,7,6,13,15
+2014-11-29,Hoffenheim_Hannover_2014,Hoffenheim,7,6,13,15
+2014-11-29,Schalke 04_Mainz_2014,Mainz,6,7,13,15
+2014-11-29,Leverkusen_FC Koln_2014,Leverkusen,7,6,13,15
+2014-11-30,Wolfsburg_M'gladbach_2014,Wolfsburg,7,6,13,15
+2014-11-30,Ein Frankfurt_Dortmund_2014,Dortmund,6,7,13,15
+2014-11-30,Wolfsburg_M'gladbach_2014,M'gladbach,7,6,13,15
+2014-11-30,Ein Frankfurt_Dortmund_2014,Ein Frankfurt,7,6,13,15
+2014-12-05,Dortmund_Hoffenheim_2014,Dortmund,7,7,14,16
+2014-12-05,Dortmund_Hoffenheim_2014,Hoffenheim,7,7,14,16
+2014-12-06,Hannover_Wolfsburg_2014,Wolfsburg,7,7,14,16
+2014-12-06,Stuttgart_Schalke 04_2014,Schalke 04,7,7,14,16
+2014-12-06,Hannover_Wolfsburg_2014,Hannover,7,7,14,16
+2014-12-06,Stuttgart_Schalke 04_2014,Stuttgart,7,7,14,16
+2014-12-06,Paderborn_Freiburg_2014,Freiburg,6,8,14,16
+2014-12-06,Bayern Munich_Leverkusen_2014,Bayern Munich,8,6,14,16
+2014-12-06,Paderborn_Freiburg_2014,Paderborn,8,6,14,16
+2014-12-06,FC Koln_Augsburg_2014,Augsburg,6,8,14,16
+2014-12-06,M'gladbach_Hertha_2014,Hertha,7,7,14,16
+2014-12-06,M'gladbach_Hertha_2014,M'gladbach,8,6,14,16
+2014-12-06,Bayern Munich_Leverkusen_2014,Leverkusen,7,7,14,16
+2014-12-06,FC Koln_Augsburg_2014,FC Koln,7,7,14,16
+2014-12-07,Hamburg_Mainz_2014,Mainz,6,8,14,16
+2014-12-07,Hamburg_Mainz_2014,Hamburg,7,7,14,16
+2014-12-07,Ein Frankfurt_Werder Bremen_2014,Werder Bremen,6,8,14,16
+2014-12-07,Ein Frankfurt_Werder Bremen_2014,Ein Frankfurt,8,6,14,16
+2014-12-12,Hoffenheim_Ein Frankfurt_2014,Ein Frankfurt,8,7,15,17
+2014-12-12,Hoffenheim_Ein Frankfurt_2014,Hoffenheim,8,7,15,17
+2014-12-13,Hertha_Dortmund_2014,Hertha,8,7,15,17
+2014-12-13,Freiburg_Hamburg_2014,Hamburg,7,8,15,17
+2014-12-13,Werder Bremen_Hannover_2014,Werder Bremen,7,8,15,17
+2014-12-13,Augsburg_Bayern Munich_2014,Bayern Munich,8,7,15,17
+2014-12-13,Hertha_Dortmund_2014,Dortmund,7,8,15,17
+2014-12-13,Werder Bremen_Hannover_2014,Hannover,7,8,15,17
+2014-12-13,Mainz_Stuttgart_2014,Mainz,7,8,15,17
+2014-12-13,Augsburg_Bayern Munich_2014,Augsburg,7,8,15,17
+2014-12-13,Freiburg_Hamburg_2014,Freiburg,7,8,15,17
+2014-12-13,Schalke 04_FC Koln_2014,Schalke 04,8,7,15,17
+2014-12-13,Schalke 04_FC Koln_2014,FC Koln,7,8,15,17
+2014-12-13,Mainz_Stuttgart_2014,Stuttgart,7,8,15,17
+2014-12-14,Leverkusen_M'gladbach_2014,M'gladbach,8,7,15,17
+2014-12-14,Wolfsburg_Paderborn_2014,Paderborn,8,7,15,17
+2014-12-14,Wolfsburg_Paderborn_2014,Wolfsburg,8,7,15,17
+2014-12-14,Leverkusen_M'gladbach_2014,Leverkusen,8,7,15,17
+2014-12-16,Bayern Munich_Freiburg_2014,Freiburg,7,9,16,18
+2014-12-16,FC Koln_Mainz_2014,Mainz,7,9,16,18
+2014-12-16,Hannover_Augsburg_2014,Hannover,8,8,16,18
+2014-12-16,Hamburg_Stuttgart_2014,Hamburg,8,8,16,18
+2014-12-16,Hamburg_Stuttgart_2014,Stuttgart,7,9,16,18
+2014-12-16,Hannover_Augsburg_2014,Augsburg,7,9,16,18
+2014-12-16,Bayern Munich_Freiburg_2014,Bayern Munich,9,7,16,18
+2014-12-16,FC Koln_Mainz_2014,FC Koln,8,8,16,18
+2014-12-17,Ein Frankfurt_Hertha_2014,Hertha,8,8,16,18
+2014-12-17,Paderborn_Schalke 04_2014,Schalke 04,8,8,16,18
+2014-12-17,Hoffenheim_Leverkusen_2014,Leverkusen,8,8,16,18
+2014-12-17,Paderborn_Schalke 04_2014,Paderborn,9,7,16,18
+2014-12-17,M'gladbach_Werder Bremen_2014,M'gladbach,9,7,16,18
+2014-12-17,Hoffenheim_Leverkusen_2014,Hoffenheim,9,7,16,18
+2014-12-17,Ein Frankfurt_Hertha_2014,Ein Frankfurt,9,7,16,18
+2014-12-17,Dortmund_Wolfsburg_2014,Dortmund,8,8,16,18
+2014-12-17,M'gladbach_Werder Bremen_2014,Werder Bremen,7,9,16,18
+2014-12-17,Dortmund_Wolfsburg_2014,Wolfsburg,8,8,16,18
+2014-12-19,Mainz_Bayern Munich_2014,Bayern Munich,9,8,17,18
+2014-12-19,Mainz_Bayern Munich_2014,Mainz,8,9,17,18
+2014-12-20,Werder Bremen_Dortmund_2014,Werder Bremen,8,9,17,18
+2014-12-20,Augsburg_M'gladbach_2014,Augsburg,8,9,17,18
+2014-12-20,Augsburg_M'gladbach_2014,M'gladbach,9,8,17,18
+2014-12-20,Schalke 04_Hamburg_2014,Hamburg,8,9,17,18
+2014-12-20,Leverkusen_Ein Frankfurt_2014,Leverkusen,9,8,17,18
+2014-12-20,Stuttgart_Paderborn_2014,Paderborn,9,8,17,18
+2014-12-20,Werder Bremen_Dortmund_2014,Dortmund,8,9,17,18
+2014-12-20,Leverkusen_Ein Frankfurt_2014,Ein Frankfurt,9,8,17,18
+2014-12-20,Schalke 04_Hamburg_2014,Schalke 04,9,8,17,18
+2014-12-20,Stuttgart_Paderborn_2014,Stuttgart,8,9,17,18
+2014-12-20,Wolfsburg_FC Koln_2014,FC Koln,8,9,17,18
+2014-12-20,Wolfsburg_FC Koln_2014,Wolfsburg,9,8,17,18
+2014-12-21,Freiburg_Hannover_2014,Hannover,8,9,17,18
+2014-12-21,Hertha_Hoffenheim_2014,Hertha,9,8,17,18
+2014-12-21,Hertha_Hoffenheim_2014,Hoffenheim,9,8,17,18
+2014-12-21,Freiburg_Hannover_2014,Freiburg,8,9,17,18
+2015-01-30,Wolfsburg_Bayern Munich_2014,Bayern Munich,9,9,18,24
+2015-01-30,Wolfsburg_Bayern Munich_2014,Wolfsburg,10,8,18,24
+2015-01-31,Freiburg_Ein Frankfurt_2014,Ein Frankfurt,9,9,18,24
+2015-01-31,Schalke 04_Hannover_2014,Schalke 04,10,8,18,24
+2015-01-31,Leverkusen_Dortmund_2014,Dortmund,8,10,18,24
+2015-01-31,Mainz_Paderborn_2014,Mainz,9,9,18,24
+2015-01-31,Hamburg_FC Koln_2014,Hamburg,9,9,18,24
+2015-01-31,Hamburg_FC Koln_2014,FC Koln,8,10,18,24
+2015-01-31,Mainz_Paderborn_2014,Paderborn,9,9,18,24
+2015-01-31,Schalke 04_Hannover_2014,Hannover,8,10,18,24
+2015-01-31,Leverkusen_Dortmund_2014,Leverkusen,10,8,18,24
+2015-01-31,Stuttgart_M'gladbach_2014,Stuttgart,9,9,18,24
+2015-01-31,Freiburg_Ein Frankfurt_2014,Freiburg,9,9,18,24
+2015-01-31,Stuttgart_M'gladbach_2014,M'gladbach,9,9,18,24
+2015-02-01,Werder Bremen_Hertha_2014,Werder Bremen,9,9,18,24
+2015-02-01,Werder Bremen_Hertha_2014,Hertha,9,9,18,24
+2015-02-01,Augsburg_Hoffenheim_2014,Augsburg,9,9,18,24
+2015-02-01,Augsburg_Hoffenheim_2014,Hoffenheim,9,9,18,24
+2015-02-03,Bayern Munich_Schalke 04_2014,Schalke 04,10,9,19,25
+2015-02-03,Ein Frankfurt_Wolfsburg_2014,Wolfsburg,10,9,19,25
+2015-02-03,M'gladbach_Freiburg_2014,Freiburg,9,10,19,25
+2015-02-03,M'gladbach_Freiburg_2014,M'gladbach,10,9,19,25
+2015-02-03,Bayern Munich_Schalke 04_2014,Bayern Munich,10,9,19,25
+2015-02-03,Ein Frankfurt_Wolfsburg_2014,Ein Frankfurt,10,9,19,25
+2015-02-03,Hannover_Mainz_2014,Hannover,9,10,19,25
+2015-02-03,Hannover_Mainz_2014,Mainz,9,10,19,25
+2015-02-04,FC Koln_Stuttgart_2014,FC Koln,9,10,19,25
+2015-02-04,Paderborn_Hamburg_2014,Paderborn,10,9,19,25
+2015-02-04,Hertha_Leverkusen_2014,Hertha,10,9,19,25
+2015-02-04,Paderborn_Hamburg_2014,Hamburg,9,10,19,25
+2015-02-04,FC Koln_Stuttgart_2014,Stuttgart,9,10,19,25
+2015-02-04,Dortmund_Augsburg_2014,Augsburg,9,10,19,25
+2015-02-04,Dortmund_Augsburg_2014,Dortmund,9,10,19,25
+2015-02-04,Hertha_Leverkusen_2014,Leverkusen,10,9,19,25
+2015-02-04,Hoffenheim_Werder Bremen_2014,Hoffenheim,10,9,19,25
+2015-02-04,Hoffenheim_Werder Bremen_2014,Werder Bremen,9,10,19,25
+2015-02-06,Schalke 04_M'gladbach_2014,Schalke 04,11,9,20,25
+2015-02-06,Schalke 04_M'gladbach_2014,M'gladbach,10,10,20,25
+2015-02-07,Hamburg_Hannover_2014,Hamburg,10,10,20,25
+2015-02-07,FC Koln_Paderborn_2014,Paderborn,10,10,20,25
+2015-02-07,FC Koln_Paderborn_2014,FC Koln,10,10,20,25
+2015-02-07,Mainz_Hertha_2014,Hertha,10,10,20,25
+2015-02-07,Stuttgart_Bayern Munich_2014,Bayern Munich,10,10,20,25
+2015-02-07,Wolfsburg_Hoffenheim_2014,Hoffenheim,10,10,20,25
+2015-02-07,Wolfsburg_Hoffenheim_2014,Wolfsburg,11,9,20,25
+2015-02-07,Mainz_Hertha_2014,Mainz,10,10,20,25
+2015-02-07,Freiburg_Dortmund_2014,Dortmund,9,11,20,25
+2015-02-07,Stuttgart_Bayern Munich_2014,Stuttgart,10,10,20,25
+2015-02-07,Freiburg_Dortmund_2014,Freiburg,10,10,20,25
+2015-02-07,Hamburg_Hannover_2014,Hannover,9,11,20,25
+2015-02-08,Augsburg_Ein Frankfurt_2014,Ein Frankfurt,10,10,20,25
+2015-02-08,Werder Bremen_Leverkusen_2014,Leverkusen,10,10,20,25
+2015-02-08,Werder Bremen_Leverkusen_2014,Werder Bremen,10,10,20,25
+2015-02-08,Augsburg_Ein Frankfurt_2014,Augsburg,10,10,20,25
+2015-02-13,Dortmund_Mainz_2014,Dortmund,10,11,21,26
+2015-02-13,Dortmund_Mainz_2014,Mainz,10,11,21,26
+2015-02-14,Bayern Munich_Hamburg_2014,Hamburg,10,11,21,26
+2015-02-14,Leverkusen_Wolfsburg_2014,Leverkusen,11,10,21,26
+2015-02-14,Werder Bremen_Augsburg_2014,Werder Bremen,11,10,21,26
+2015-02-14,Hoffenheim_Stuttgart_2014,Hoffenheim,11,10,21,26
+2015-02-14,M'gladbach_FC Koln_2014,M'gladbach,11,10,21,26
+2015-02-14,Bayern Munich_Hamburg_2014,Bayern Munich,11,10,21,26
+2015-02-14,M'gladbach_FC Koln_2014,FC Koln,10,11,21,26
+2015-02-14,Ein Frankfurt_Schalke 04_2014,Schalke 04,11,10,21,26
+2015-02-14,Ein Frankfurt_Schalke 04_2014,Ein Frankfurt,11,10,21,26
+2015-02-14,Hoffenheim_Stuttgart_2014,Stuttgart,10,11,21,26
+2015-02-14,Werder Bremen_Augsburg_2014,Augsburg,10,11,21,26
+2015-02-14,Leverkusen_Wolfsburg_2014,Wolfsburg,11,10,21,26
+2015-02-15,Hertha_Freiburg_2014,Hertha,11,10,21,26
+2015-02-15,Hannover_Paderborn_2014,Paderborn,10,11,21,26
+2015-02-15,Hertha_Freiburg_2014,Freiburg,10,11,21,26
+2015-02-15,Hannover_Paderborn_2014,Hannover,10,11,21,26
+2015-02-20,Stuttgart_Dortmund_2014,Stuttgart,11,11,22,27
+2015-02-20,Stuttgart_Dortmund_2014,Dortmund,10,12,22,27
+2015-02-21,Paderborn_Bayern Munich_2014,Bayern Munich,11,11,22,27
+2015-02-21,Schalke 04_Werder Bremen_2014,Schalke 04,12,10,22,27
+2015-02-21,FC Koln_Hannover_2014,FC Koln,11,11,22,27
+2015-02-21,Paderborn_Bayern Munich_2014,Paderborn,11,11,22,27
+2015-02-21,Freiburg_Hoffenheim_2014,Hoffenheim,11,11,22,27
+2015-02-21,Augsburg_Leverkusen_2014,Augsburg,11,11,22,27
+2015-02-21,Schalke 04_Werder Bremen_2014,Werder Bremen,11,11,22,27
+2015-02-21,FC Koln_Hannover_2014,Hannover,10,12,22,27
+2015-02-21,Mainz_Ein Frankfurt_2014,Ein Frankfurt,11,11,22,27
+2015-02-21,Augsburg_Leverkusen_2014,Leverkusen,11,11,22,27
+2015-02-21,Freiburg_Hoffenheim_2014,Freiburg,11,11,22,27
+2015-02-21,Mainz_Ein Frankfurt_2014,Mainz,11,11,22,27
+2015-02-22,Hamburg_M'gladbach_2014,Hamburg,11,11,22,27
+2015-02-22,Wolfsburg_Hertha_2014,Hertha,11,11,22,27
+2015-02-22,Hamburg_M'gladbach_2014,M'gladbach,11,11,22,27
+2015-02-22,Wolfsburg_Hertha_2014,Wolfsburg,12,10,22,27
+2015-02-27,Bayern Munich_FC Koln_2014,Bayern Munich,12,11,23,28
+2015-02-27,Bayern Munich_FC Koln_2014,FC Koln,11,12,23,28
+2015-02-28,Hoffenheim_Mainz_2014,Hoffenheim,12,11,23,28
+2015-02-28,Leverkusen_Freiburg_2014,Leverkusen,12,11,23,28
+2015-02-28,Hertha_Augsburg_2014,Hertha,12,11,23,28
+2015-02-28,Dortmund_Schalke 04_2014,Schalke 04,12,11,23,28
+2015-02-28,Hannover_Stuttgart_2014,Stuttgart,11,12,23,28
+2015-02-28,Ein Frankfurt_Hamburg_2014,Ein Frankfurt,12,11,23,28
+2015-02-28,Hertha_Augsburg_2014,Augsburg,11,12,23,28
+2015-02-28,Hannover_Stuttgart_2014,Hannover,11,12,23,28
+2015-02-28,Dortmund_Schalke 04_2014,Dortmund,11,12,23,28
+2015-02-28,Hoffenheim_Mainz_2014,Mainz,11,12,23,28
+2015-02-28,Leverkusen_Freiburg_2014,Freiburg,11,12,23,28
+2015-02-28,Ein Frankfurt_Hamburg_2014,Hamburg,11,12,23,28
+2015-03-01,M'gladbach_Paderborn_2014,Paderborn,11,12,23,28
+2015-03-01,M'gladbach_Paderborn_2014,M'gladbach,12,11,23,28
+2015-03-01,Werder Bremen_Wolfsburg_2014,Wolfsburg,12,11,23,28
+2015-03-01,Werder Bremen_Wolfsburg_2014,Werder Bremen,12,11,23,28
+2015-03-06,Stuttgart_Hertha_2014,Hertha,12,12,24,29
+2015-03-06,Stuttgart_Hertha_2014,Stuttgart,12,12,24,29
+2015-03-07,Schalke 04_Hoffenheim_2014,Schalke 04,13,11,24,29
+2015-03-07,Hannover_Bayern Munich_2014,Bayern Munich,12,12,24,29
+2015-03-07,Hannover_Bayern Munich_2014,Hannover,12,12,24,29
+2015-03-07,Mainz_M'gladbach_2014,Mainz,12,12,24,29
+2015-03-07,Hamburg_Dortmund_2014,Dortmund,11,13,24,29
+2015-03-07,Hamburg_Dortmund_2014,Hamburg,12,12,24,29
+2015-03-07,Freiburg_Werder Bremen_2014,Werder Bremen,12,12,24,29
+2015-03-07,Schalke 04_Hoffenheim_2014,Hoffenheim,12,12,24,29
+2015-03-07,Freiburg_Werder Bremen_2014,Freiburg,12,12,24,29
+2015-03-07,Augsburg_Wolfsburg_2014,Augsburg,12,12,24,29
+2015-03-07,Mainz_M'gladbach_2014,M'gladbach,12,12,24,29
+2015-03-07,Augsburg_Wolfsburg_2014,Wolfsburg,12,12,24,29
+2015-03-08,Paderborn_Leverkusen_2014,Paderborn,12,12,24,29
+2015-03-08,Paderborn_Leverkusen_2014,Leverkusen,12,12,24,29
+2015-03-08,FC Koln_Ein Frankfurt_2014,FC Koln,12,12,24,29
+2015-03-08,FC Koln_Ein Frankfurt_2014,Ein Frankfurt,12,12,24,29
+2015-03-13,Leverkusen_Stuttgart_2014,Leverkusen,13,12,25,30
+2015-03-13,Leverkusen_Stuttgart_2014,Stuttgart,12,13,25,30
+2015-03-14,Hoffenheim_Hamburg_2014,Hamburg,12,13,25,30
+2015-03-14,Ein Frankfurt_Paderborn_2014,Paderborn,12,13,25,30
+2015-03-14,Hertha_Schalke 04_2014,Schalke 04,13,12,25,30
+2015-03-14,Ein Frankfurt_Paderborn_2014,Ein Frankfurt,13,12,25,30
+2015-03-14,Hoffenheim_Hamburg_2014,Hoffenheim,13,12,25,30
+2015-03-14,Augsburg_Mainz_2014,Mainz,12,13,25,30
+2015-03-14,Dortmund_FC Koln_2014,Dortmund,12,13,25,30
+2015-03-14,Dortmund_FC Koln_2014,FC Koln,12,13,25,30
+2015-03-14,Hertha_Schalke 04_2014,Hertha,13,12,25,30
+2015-03-14,Werder Bremen_Bayern Munich_2014,Werder Bremen,13,12,25,30
+2015-03-14,Augsburg_Mainz_2014,Augsburg,13,12,25,30
+2015-03-14,Werder Bremen_Bayern Munich_2014,Bayern Munich,12,13,25,30
+2015-03-15,Wolfsburg_Freiburg_2014,Wolfsburg,13,12,25,30
+2015-03-15,M'gladbach_Hannover_2014,Hannover,12,13,25,30
+2015-03-15,M'gladbach_Hannover_2014,M'gladbach,13,12,25,30
+2015-03-15,Wolfsburg_Freiburg_2014,Freiburg,12,13,25,30
+2015-03-20,Hamburg_Hertha_2014,Hertha,13,13,26,31
+2015-03-20,Hamburg_Hertha_2014,Hamburg,13,13,26,31
+2015-03-21,FC Koln_Werder Bremen_2014,Werder Bremen,13,13,26,31
+2015-03-21,Hannover_Dortmund_2014,Hannover,13,13,26,31
+2015-03-21,Stuttgart_Ein Frankfurt_2014,Stuttgart,13,13,26,31
+2015-03-21,Hannover_Dortmund_2014,Dortmund,12,14,26,31
+2015-03-21,Freiburg_Augsburg_2014,Augsburg,13,13,26,31
+2015-03-21,Stuttgart_Ein Frankfurt_2014,Ein Frankfurt,13,13,26,31
+2015-03-21,FC Koln_Werder Bremen_2014,FC Koln,13,13,26,31
+2015-03-21,Schalke 04_Leverkusen_2014,Schalke 04,14,12,26,31
+2015-03-21,Paderborn_Hoffenheim_2014,Paderborn,13,13,26,31
+2015-03-21,Freiburg_Augsburg_2014,Freiburg,13,13,26,31
+2015-03-21,Paderborn_Hoffenheim_2014,Hoffenheim,13,13,26,31
+2015-03-21,Schalke 04_Leverkusen_2014,Leverkusen,13,13,26,31
+2015-03-22,Mainz_Wolfsburg_2014,Wolfsburg,13,13,26,31
+2015-03-22,Bayern Munich_M'gladbach_2014,Bayern Munich,13,13,26,31
+2015-03-22,Mainz_Wolfsburg_2014,Mainz,13,13,26,31
+2015-03-22,Bayern Munich_M'gladbach_2014,M'gladbach,13,13,26,31
+2015-04-04,Leverkusen_Hamburg_2014,Hamburg,13,14,27,33
+2015-04-04,Leverkusen_Hamburg_2014,Leverkusen,14,13,27,33
+2015-04-04,Hoffenheim_M'gladbach_2014,M'gladbach,13,14,27,33
+2015-04-04,Dortmund_Bayern Munich_2014,Bayern Munich,13,14,27,33
+2015-04-04,Ein Frankfurt_Hannover_2014,Hannover,13,14,27,33
+2015-04-04,Hoffenheim_M'gladbach_2014,Hoffenheim,14,13,27,33
+2015-04-04,Wolfsburg_Stuttgart_2014,Stuttgart,13,14,27,33
+2015-04-04,Dortmund_Bayern Munich_2014,Dortmund,13,14,27,33
+2015-04-04,Ein Frankfurt_Hannover_2014,Ein Frankfurt,14,13,27,33
+2015-04-04,Werder Bremen_Mainz_2014,Werder Bremen,14,13,27,33
+2015-04-04,Wolfsburg_Stuttgart_2014,Wolfsburg,14,13,27,33
+2015-04-04,Freiburg_FC Koln_2014,Freiburg,14,13,27,33
+2015-04-04,Werder Bremen_Mainz_2014,Mainz,13,14,27,33
+2015-04-04,Freiburg_FC Koln_2014,FC Koln,13,14,27,33
+2015-04-05,Hertha_Paderborn_2014,Paderborn,13,14,27,33
+2015-04-05,Hertha_Paderborn_2014,Hertha,14,13,27,33
+2015-04-05,Augsburg_Schalke 04_2014,Schalke 04,14,13,27,33
+2015-04-05,Augsburg_Schalke 04_2014,Augsburg,14,13,27,33
+2015-04-10,Hannover_Hertha_2014,Hertha,14,14,28,34
+2015-04-10,Hannover_Hertha_2014,Hannover,14,14,28,34
+2015-04-11,Hamburg_Wolfsburg_2014,Wolfsburg,14,14,28,34
+2015-04-11,Bayern Munich_Ein Frankfurt_2014,Ein Frankfurt,14,14,28,34
+2015-04-11,Bayern Munich_Ein Frankfurt_2014,Bayern Munich,14,14,28,34
+2015-04-11,M'gladbach_Dortmund_2014,Dortmund,13,15,28,34
+2015-04-11,M'gladbach_Dortmund_2014,M'gladbach,14,14,28,34
+2015-04-11,Schalke 04_Freiburg_2014,Freiburg,14,14,28,34
+2015-04-11,Mainz_Leverkusen_2014,Mainz,14,14,28,34
+2015-04-11,Paderborn_Augsburg_2014,Paderborn,14,14,28,34
+2015-04-11,Mainz_Leverkusen_2014,Leverkusen,14,14,28,34
+2015-04-11,Hamburg_Wolfsburg_2014,Hamburg,14,14,28,34
+2015-04-11,Paderborn_Augsburg_2014,Augsburg,14,14,28,34
+2015-04-11,Schalke 04_Freiburg_2014,Schalke 04,15,13,28,34
+2015-04-12,FC Koln_Hoffenheim_2014,FC Koln,14,14,28,34
+2015-04-12,FC Koln_Hoffenheim_2014,Hoffenheim,14,14,28,34
+2015-04-12,Stuttgart_Werder Bremen_2014,Werder Bremen,14,14,28,34
+2015-04-12,Stuttgart_Werder Bremen_2014,Stuttgart,14,14,28,34
+2015-04-17,Ein Frankfurt_M'gladbach_2014,Ein Frankfurt,15,14,29,35
+2015-04-17,Ein Frankfurt_M'gladbach_2014,M'gladbach,14,15,29,35
+2015-04-18,Dortmund_Paderborn_2014,Dortmund,14,15,29,35
+2015-04-18,Dortmund_Paderborn_2014,Paderborn,14,15,29,35
+2015-04-18,Leverkusen_Hannover_2014,Hannover,14,15,29,35
+2015-04-18,Leverkusen_Hannover_2014,Leverkusen,15,14,29,35
+2015-04-18,Augsburg_Stuttgart_2014,Augsburg,15,14,29,35
+2015-04-18,Augsburg_Stuttgart_2014,Stuttgart,14,15,29,35
+2015-04-18,Freiburg_Mainz_2014,Freiburg,15,14,29,35
+2015-04-18,Hertha_FC Koln_2014,Hertha,15,14,29,35
+2015-04-18,Hertha_FC Koln_2014,FC Koln,14,15,29,35
+2015-04-18,Hoffenheim_Bayern Munich_2014,Hoffenheim,15,14,29,35
+2015-04-18,Hoffenheim_Bayern Munich_2014,Bayern Munich,14,15,29,35
+2015-04-18,Freiburg_Mainz_2014,Mainz,14,15,29,35
+2015-04-19,Wolfsburg_Schalke 04_2014,Wolfsburg,15,14,29,35
+2015-04-19,Werder Bremen_Hamburg_2014,Werder Bremen,15,14,29,35
+2015-04-19,Werder Bremen_Hamburg_2014,Hamburg,14,15,29,35
+2015-04-19,Wolfsburg_Schalke 04_2014,Schalke 04,15,14,29,35
+2015-04-24,Mainz_Schalke 04_2014,Schalke 04,15,15,30,36
+2015-04-24,Mainz_Schalke 04_2014,Mainz,15,15,30,36
+2015-04-25,FC Koln_Leverkusen_2014,FC Koln,15,15,30,36
+2015-04-25,Dortmund_Ein Frankfurt_2014,Dortmund,15,15,30,36
+2015-04-25,FC Koln_Leverkusen_2014,Leverkusen,15,15,30,36
+2015-04-25,Hamburg_Augsburg_2014,Augsburg,15,15,30,36
+2015-04-25,Stuttgart_Freiburg_2014,Stuttgart,15,15,30,36
+2015-04-25,Hamburg_Augsburg_2014,Hamburg,15,15,30,36
+2015-04-25,Dortmund_Ein Frankfurt_2014,Ein Frankfurt,15,15,30,36
+2015-04-25,Bayern Munich_Hertha_2014,Hertha,15,15,30,36
+2015-04-25,Hannover_Hoffenheim_2014,Hoffenheim,15,15,30,36
+2015-04-25,Hannover_Hoffenheim_2014,Hannover,15,15,30,36
+2015-04-25,Bayern Munich_Hertha_2014,Bayern Munich,15,15,30,36
+2015-04-25,Stuttgart_Freiburg_2014,Freiburg,15,15,30,36
+2015-04-26,M'gladbach_Wolfsburg_2014,Wolfsburg,15,15,30,36
+2015-04-26,M'gladbach_Wolfsburg_2014,M'gladbach,15,15,30,36
+2015-04-26,Paderborn_Werder Bremen_2014,Paderborn,15,15,30,36
+2015-04-26,Paderborn_Werder Bremen_2014,Werder Bremen,15,15,30,36
+2015-05-02,Freiburg_Paderborn_2014,Freiburg,16,15,31,37
+2015-05-02,Augsburg_FC Koln_2014,Augsburg,16,15,31,37
+2015-05-02,Hoffenheim_Dortmund_2014,Hoffenheim,16,15,31,37
+2015-05-02,Freiburg_Paderborn_2014,Paderborn,15,16,31,37
+2015-05-02,Leverkusen_Bayern Munich_2014,Bayern Munich,15,16,31,37
+2015-05-02,Werder Bremen_Ein Frankfurt_2014,Ein Frankfurt,15,16,31,37
+2015-05-02,Wolfsburg_Hannover_2014,Hannover,15,16,31,37
+2015-05-02,Schalke 04_Stuttgart_2014,Stuttgart,15,16,31,37
+2015-05-02,Werder Bremen_Ein Frankfurt_2014,Werder Bremen,16,15,31,37
+2015-05-02,Wolfsburg_Hannover_2014,Wolfsburg,16,15,31,37
+2015-05-02,Hoffenheim_Dortmund_2014,Dortmund,15,16,31,37
+2015-05-02,Schalke 04_Stuttgart_2014,Schalke 04,16,15,31,37
+2015-05-02,Leverkusen_Bayern Munich_2014,Leverkusen,16,15,31,37
+2015-05-02,Augsburg_FC Koln_2014,FC Koln,15,16,31,37
+2015-05-03,Hertha_M'gladbach_2014,M'gladbach,15,16,31,37
+2015-05-03,Mainz_Hamburg_2014,Hamburg,15,16,31,37
+2015-05-03,Hertha_M'gladbach_2014,Hertha,16,15,31,37
+2015-05-03,Mainz_Hamburg_2014,Mainz,16,15,31,37
+2015-05-08,Hamburg_Freiburg_2014,Freiburg,16,16,32,38
+2015-05-08,Hamburg_Freiburg_2014,Hamburg,16,16,32,38
+2015-05-09,Dortmund_Hertha_2014,Dortmund,16,16,32,38
+2015-05-09,Ein Frankfurt_Hoffenheim_2014,Ein Frankfurt,16,16,32,38
+2015-05-09,Ein Frankfurt_Hoffenheim_2014,Hoffenheim,16,16,32,38
+2015-05-09,Hannover_Werder Bremen_2014,Werder Bremen,16,16,32,38
+2015-05-09,Dortmund_Hertha_2014,Hertha,16,16,32,38
+2015-05-09,Bayern Munich_Augsburg_2014,Bayern Munich,16,16,32,38
+2015-05-09,M'gladbach_Leverkusen_2014,M'gladbach,16,16,32,38
+2015-05-09,Bayern Munich_Augsburg_2014,Augsburg,16,16,32,38
+2015-05-09,Stuttgart_Mainz_2014,Stuttgart,16,16,32,38
+2015-05-09,M'gladbach_Leverkusen_2014,Leverkusen,16,16,32,38
+2015-05-09,Hannover_Werder Bremen_2014,Hannover,16,16,32,38
+2015-05-09,Stuttgart_Mainz_2014,Mainz,16,16,32,38
+2015-05-10,FC Koln_Schalke 04_2014,FC Koln,16,16,32,38
+2015-05-10,FC Koln_Schalke 04_2014,Schalke 04,16,16,32,38
+2015-05-10,Paderborn_Wolfsburg_2014,Paderborn,16,16,32,38
+2015-05-10,Paderborn_Wolfsburg_2014,Wolfsburg,16,16,32,38
+2015-05-16,Wolfsburg_Dortmund_2014,Wolfsburg,17,16,33,39
+2015-05-16,Schalke 04_Paderborn_2014,Paderborn,16,17,33,39
+2015-05-16,Stuttgart_Hamburg_2014,Stuttgart,17,16,33,39
+2015-05-16,Werder Bremen_M'gladbach_2014,Werder Bremen,17,16,33,39
+2015-05-16,Mainz_FC Koln_2014,FC Koln,16,17,33,39
+2015-05-16,Freiburg_Bayern Munich_2014,Freiburg,17,16,33,39
+2015-05-16,Schalke 04_Paderborn_2014,Schalke 04,17,16,33,39
+2015-05-16,Hertha_Ein Frankfurt_2014,Ein Frankfurt,16,17,33,39
+2015-05-16,Augsburg_Hannover_2014,Hannover,16,17,33,39
+2015-05-16,Leverkusen_Hoffenheim_2014,Hoffenheim,16,17,33,39
+2015-05-16,Freiburg_Bayern Munich_2014,Bayern Munich,16,17,33,39
+2015-05-16,Werder Bremen_M'gladbach_2014,M'gladbach,16,17,33,39
+2015-05-16,Leverkusen_Hoffenheim_2014,Leverkusen,17,16,33,39
+2015-05-16,Wolfsburg_Dortmund_2014,Dortmund,16,17,33,39
+2015-05-16,Hertha_Ein Frankfurt_2014,Hertha,17,16,33,39
+2015-05-16,Mainz_FC Koln_2014,Mainz,17,16,33,39
+2015-05-16,Stuttgart_Hamburg_2014,Hamburg,16,17,33,39
+2015-05-16,Augsburg_Hannover_2014,Augsburg,17,16,33,39
+2015-05-23,Paderborn_Stuttgart_2014,Stuttgart,17,17,34,40
+2015-05-23,Ein Frankfurt_Leverkusen_2014,Leverkusen,17,17,34,40
+2015-05-23,Hamburg_Schalke 04_2014,Schalke 04,17,17,34,40
+2015-05-23,FC Koln_Wolfsburg_2014,FC Koln,17,17,34,40
+2015-05-23,M'gladbach_Augsburg_2014,M'gladbach,17,17,34,40
+2015-05-23,Dortmund_Werder Bremen_2014,Dortmund,17,17,34,40
+2015-05-23,Hannover_Freiburg_2014,Freiburg,17,17,34,40
+2015-05-23,Ein Frankfurt_Leverkusen_2014,Ein Frankfurt,17,17,34,40
+2015-05-23,Dortmund_Werder Bremen_2014,Werder Bremen,17,17,34,40
+2015-05-23,Bayern Munich_Mainz_2014,Bayern Munich,17,17,34,40
+2015-05-23,Hannover_Freiburg_2014,Hannover,17,17,34,40
+2015-05-23,Hoffenheim_Hertha_2014,Hertha,17,17,34,40
+2015-05-23,Bayern Munich_Mainz_2014,Mainz,17,17,34,40
+2015-05-23,Hamburg_Schalke 04_2014,Hamburg,17,17,34,40
+2015-05-23,Hoffenheim_Hertha_2014,Hoffenheim,17,17,34,40
+2015-05-23,Paderborn_Stuttgart_2014,Paderborn,17,17,34,40
+2015-05-23,M'gladbach_Augsburg_2014,Augsburg,17,17,34,40
+2015-05-23,FC Koln_Wolfsburg_2014,Wolfsburg,17,17,34,40

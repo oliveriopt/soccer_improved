@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2013-08-16,Pacos Ferreira_Sp Braga_2013,Pacos Ferreira,1,1,1,1
+2013-08-16,Pacos Ferreira_Sp Braga_2013,Sp Braga,1,1,1,1
+2013-08-17,Estoril_Nacional_2013,Estoril,1,1,1,1
+2013-08-17,Guimaraes_Olhanense_2013,Guimaraes,1,1,1,1
+2013-08-17,Guimaraes_Olhanense_2013,Olhanense,1,1,1,1
+2013-08-17,Estoril_Nacional_2013,Nacional,1,1,1,1
+2013-08-18,Sp Lisbon_Arouca_2013,Arouca,1,1,1,1
+2013-08-18,Belenenses_Rio Ave_2013,Belenenses,1,1,1,1
+2013-08-18,Gil Vicente_Academica_2013,Gil Vicente,1,1,1,1
+2013-08-18,Maritimo_Benfica_2013,Benfica,1,1,1,1
+2013-08-18,Setubal_Porto_2013,Porto,1,1,1,1
+2013-08-18,Maritimo_Benfica_2013,Maritimo,1,1,1,1
+2013-08-18,Belenenses_Rio Ave_2013,Rio Ave,1,1,1,1
+2013-08-18,Setubal_Porto_2013,Setubal,1,1,1,1
+2013-08-18,Sp Lisbon_Arouca_2013,Sp Lisbon,1,1,1,1
+2013-08-18,Gil Vicente_Academica_2013,Academica,1,1,1,1
+2013-08-24,Academica_Sp Lisbon_2013,Academica,1,1,2,2
+2013-08-24,Olhanense_Pacos Ferreira_2013,Olhanense,1,1,2,2
+2013-08-24,Olhanense_Pacos Ferreira_2013,Pacos Ferreira,1,1,2,2
+2013-08-24,Academica_Sp Lisbon_2013,Sp Lisbon,1,1,2,2
+2013-08-25,Porto_Maritimo_2013,Porto,1,1,2,2
+2013-08-25,Arouca_Estoril_2013,Arouca,1,1,2,2
+2013-08-25,Porto_Maritimo_2013,Maritimo,1,1,2,2
+2013-08-25,Benfica_Gil Vicente_2013,Benfica,1,1,2,2
+2013-08-25,Benfica_Gil Vicente_2013,Gil Vicente,1,1,2,2
+2013-08-25,Rio Ave_Setubal_2013,Rio Ave,1,1,2,2
+2013-08-25,Rio Ave_Setubal_2013,Setubal,1,1,2,2
+2013-08-25,Nacional_Guimaraes_2013,Guimaraes,1,1,2,2
+2013-08-25,Nacional_Guimaraes_2013,Nacional,1,1,2,2
+2013-08-25,Arouca_Estoril_2013,Estoril,1,1,2,2
+2013-08-26,Sp Braga_Belenenses_2013,Belenenses,1,1,2,2
+2013-08-26,Sp Braga_Belenenses_2013,Sp Braga,1,1,2,2
+2013-08-31,Guimaraes_Setubal_2013,Setubal,1,2,3,3
+2013-08-31,Sp Lisbon_Benfica_2013,Benfica,1,2,3,3
+2013-08-31,Guimaraes_Setubal_2013,Guimaraes,2,1,3,3
+2013-08-31,Sp Lisbon_Benfica_2013,Sp Lisbon,2,1,3,3
+2013-09-01,Arouca_Rio Ave_2013,Rio Ave,1,2,3,3
+2013-09-01,Arouca_Rio Ave_2013,Arouca,2,1,3,3
+2013-09-01,Pacos Ferreira_Porto_2013,Pacos Ferreira,2,1,3,3
+2013-09-01,Belenenses_Nacional_2013,Belenenses,2,1,3,3
+2013-09-01,Gil Vicente_Sp Braga_2013,Sp Braga,1,2,3,3
+2013-09-01,Gil Vicente_Sp Braga_2013,Gil Vicente,2,1,3,3
+2013-09-01,Maritimo_Olhanense_2013,Olhanense,1,2,3,3
+2013-09-01,Pacos Ferreira_Porto_2013,Porto,1,2,3,3
+2013-09-01,Belenenses_Nacional_2013,Nacional,1,2,3,3
+2013-09-01,Maritimo_Olhanense_2013,Maritimo,2,1,3,3
+2013-09-02,Estoril_Academica_2013,Academica,1,2,3,3
+2013-09-02,Estoril_Academica_2013,Estoril,2,1,3,3
+2013-09-14,Porto_Gil Vicente_2013,Porto,2,2,4,5
+2013-09-14,Porto_Gil Vicente_2013,Gil Vicente,2,2,4,5
+2013-09-14,Rio Ave_Guimaraes_2013,Guimaraes,2,2,4,5
+2013-09-14,Benfica_Pacos Ferreira_2013,Benfica,2,2,4,5
+2013-09-14,Benfica_Pacos Ferreira_2013,Pacos Ferreira,2,2,4,5
+2013-09-14,Rio Ave_Guimaraes_2013,Rio Ave,2,2,4,5
+2013-09-15,Sp Braga_Estoril_2013,Sp Braga,2,2,4,5
+2013-09-15,Nacional_Arouca_2013,Arouca,2,2,4,5
+2013-09-15,Sp Braga_Estoril_2013,Estoril,2,2,4,5
+2013-09-15,Nacional_Arouca_2013,Nacional,2,2,4,5
+2013-09-15,Academica_Belenenses_2013,Academica,2,2,4,5
+2013-09-15,Olhanense_Sp Lisbon_2013,Olhanense,2,2,4,5
+2013-09-15,Academica_Belenenses_2013,Belenenses,2,2,4,5
+2013-09-15,Setubal_Maritimo_2013,Maritimo,2,2,4,5
+2013-09-15,Olhanense_Sp Lisbon_2013,Sp Lisbon,2,2,4,5
+2013-09-15,Setubal_Maritimo_2013,Setubal,2,2,4,5
+2013-09-20,Arouca_Sp Braga_2013,Arouca,3,2,5,6
+2013-09-20,Arouca_Sp Braga_2013,Sp Braga,2,3,5,6
+2013-09-21,Sp Lisbon_Rio Ave_2013,Rio Ave,2,3,5,6
+2013-09-21,Belenenses_Maritimo_2013,Maritimo,2,3,5,6
+2013-09-21,Belenenses_Maritimo_2013,Belenenses,3,2,5,6
+2013-09-21,Gil Vicente_Olhanense_2013,Gil Vicente,3,2,5,6
+2013-09-21,Gil Vicente_Olhanense_2013,Olhanense,2,3,5,6
+2013-09-21,Sp Lisbon_Rio Ave_2013,Sp Lisbon,3,2,5,6
+2013-09-22,Estoril_Porto_2013,Estoril,3,2,5,6
+2013-09-22,Nacional_Academica_2013,Academica,2,3,5,6
+2013-09-22,Estoril_Porto_2013,Porto,2,3,5,6
+2013-09-22,Guimaraes_Benfica_2013,Benfica,2,3,5,6
+2013-09-22,Guimaraes_Benfica_2013,Guimaraes,3,2,5,6
+2013-09-22,Nacional_Academica_2013,Nacional,3,2,5,6
+2013-09-23,Pacos Ferreira_Setubal_2013,Pacos Ferreira,3,2,5,6
+2013-09-23,Pacos Ferreira_Setubal_2013,Setubal,2,3,5,6
+2013-09-27,Porto_Guimaraes_2013,Guimaraes,3,3,6,7
+2013-09-27,Porto_Guimaraes_2013,Porto,3,3,6,7
+2013-09-28,Academica_Arouca_2013,Academica,3,3,6,7
+2013-09-28,Rio Ave_Nacional_2013,Nacional,3,3,6,7
+2013-09-28,Academica_Arouca_2013,Arouca,3,3,6,7
+2013-09-28,Maritimo_Pacos Ferreira_2013,Pacos Ferreira,3,3,6,7
+2013-09-28,Olhanense_Estoril_2013,Estoril,3,3,6,7
+2013-09-28,Rio Ave_Nacional_2013,Rio Ave,3,3,6,7
+2013-09-28,Sp Braga_Sp Lisbon_2013,Sp Braga,3,3,6,7
+2013-09-28,Olhanense_Estoril_2013,Olhanense,3,3,6,7
+2013-09-28,Sp Braga_Sp Lisbon_2013,Sp Lisbon,3,3,6,7
+2013-09-28,Benfica_Belenenses_2013,Belenenses,3,3,6,7
+2013-09-28,Maritimo_Pacos Ferreira_2013,Maritimo,3,3,6,7
+2013-09-28,Benfica_Belenenses_2013,Benfica,3,3,6,7
+2013-09-30,Setubal_Gil Vicente_2013,Gil Vicente,3,3,6,7
+2013-09-30,Setubal_Gil Vicente_2013,Setubal,3,3,6,7
+2013-10-04,Academica_Rio Ave_2013,Academica,4,3,7,8
+2013-10-04,Academica_Rio Ave_2013,Rio Ave,3,4,7,8
+2013-10-05,Belenenses_Olhanense_2013,Olhanense,3,4,7,8
+2013-10-05,Belenenses_Olhanense_2013,Belenenses,4,3,7,8
+2013-10-05,Sp Lisbon_Setubal_2013,Setubal,3,4,7,8
+2013-10-05,Sp Lisbon_Setubal_2013,Sp Lisbon,4,3,7,8
+2013-10-06,Nacional_Sp Braga_2013,Sp Braga,3,4,7,8
+2013-10-06,Gil Vicente_Pacos Ferreira_2013,Pacos Ferreira,3,4,7,8
+2013-10-06,Estoril_Benfica_2013,Benfica,3,4,7,8
+2013-10-06,Arouca_Porto_2013,Porto,3,4,7,8
+2013-10-06,Estoril_Benfica_2013,Estoril,4,3,7,8
+2013-10-06,Nacional_Sp Braga_2013,Nacional,4,3,7,8
+2013-10-06,Gil Vicente_Pacos Ferreira_2013,Gil Vicente,4,3,7,8
+2013-10-06,Arouca_Porto_2013,Arouca,4,3,7,8
+2013-10-07,Guimaraes_Maritimo_2013,Maritimo,3,4,7,8
+2013-10-07,Guimaraes_Maritimo_2013,Guimaraes,4,3,7,8
+2013-10-25,Sp Braga_Academica_2013,Academica,4,4,8,11
+2013-10-25,Sp Braga_Academica_2013,Sp Braga,4,4,8,11
+2013-10-26,Setubal_Belenenses_2013,Belenenses,4,4,8,11
+2013-10-26,Setubal_Belenenses_2013,Setubal,4,4,8,11
+2013-10-26,Rio Ave_Gil Vicente_2013,Rio Ave,4,4,8,11
+2013-10-26,Rio Ave_Gil Vicente_2013,Gil Vicente,4,4,8,11
+2013-10-26,Olhanense_Arouca_2013,Arouca,4,4,8,11
+2013-10-26,Olhanense_Arouca_2013,Olhanense,4,4,8,11
+2013-10-27,Benfica_Nacional_2013,Benfica,4,4,8,11
+2013-10-27,Benfica_Nacional_2013,Nacional,4,4,8,11
+2013-10-27,Porto_Sp Lisbon_2013,Sp Lisbon,4,4,8,11
+2013-10-27,Maritimo_Estoril_2013,Estoril,4,4,8,11
+2013-10-27,Maritimo_Estoril_2013,Maritimo,4,4,8,11
+2013-10-27,Porto_Sp Lisbon_2013,Porto,4,4,8,11
+2013-10-28,Pacos Ferreira_Guimaraes_2013,Guimaraes,4,4,8,11
+2013-10-28,Pacos Ferreira_Guimaraes_2013,Pacos Ferreira,4,4,8,11
+2013-11-01,Academica_Benfica_2013,Academica,5,4,9,12
+2013-11-01,Academica_Benfica_2013,Benfica,4,5,9,12
+2013-11-02,Sp Lisbon_Maritimo_2013,Sp Lisbon,5,4,9,12
+2013-11-02,Sp Lisbon_Maritimo_2013,Maritimo,4,5,9,12
+2013-11-02,Belenenses_Porto_2013,Porto,4,5,9,12
+2013-11-02,Belenenses_Porto_2013,Belenenses,5,4,9,12
+2013-11-03,Arouca_Pacos Ferreira_2013,Pacos Ferreira,4,5,9,12
+2013-11-03,Nacional_Olhanense_2013,Olhanense,4,5,9,12
+2013-11-03,Sp Braga_Rio Ave_2013,Sp Braga,5,4,9,12
+2013-11-03,Gil Vicente_Guimaraes_2013,Guimaraes,4,5,9,12
+2013-11-03,Estoril_Setubal_2013,Setubal,4,5,9,12
+2013-11-03,Estoril_Setubal_2013,Estoril,5,4,9,12
+2013-11-03,Sp Braga_Rio Ave_2013,Rio Ave,4,5,9,12
+2013-11-03,Gil Vicente_Guimaraes_2013,Gil Vicente,5,4,9,12
+2013-11-03,Arouca_Pacos Ferreira_2013,Arouca,5,4,9,12
+2013-11-03,Nacional_Olhanense_2013,Nacional,5,4,9,12
+2013-11-23,Porto_Nacional_2013,Porto,5,5,10,15
+2013-11-23,Benfica_Sp Braga_2013,Benfica,5,5,10,15
+2013-11-23,Porto_Nacional_2013,Nacional,5,5,10,15
+2013-11-23,Benfica_Sp Braga_2013,Sp Braga,5,5,10,15
+2013-11-24,Maritimo_Gil Vicente_2013,Maritimo,5,5,10,15
+2013-11-24,Setubal_Arouca_2013,Setubal,5,5,10,15
+2013-11-24,Pacos Ferreira_Belenenses_2013,Belenenses,5,5,10,15
+2013-11-24,Rio Ave_Estoril_2013,Rio Ave,5,5,10,15
+2013-11-24,Pacos Ferreira_Belenenses_2013,Pacos Ferreira,5,5,10,15
+2013-11-24,Rio Ave_Estoril_2013,Estoril,5,5,10,15
+2013-11-24,Guimaraes_Sp Lisbon_2013,Sp Lisbon,5,5,10,15
+2013-11-24,Maritimo_Gil Vicente_2013,Gil Vicente,5,5,10,15
+2013-11-24,Guimaraes_Sp Lisbon_2013,Guimaraes,5,5,10,15
+2013-11-24,Setubal_Arouca_2013,Arouca,5,5,10,15
+2013-11-25,Olhanense_Academica_2013,Academica,5,5,10,15
+2013-11-25,Olhanense_Academica_2013,Olhanense,5,5,10,15
+2013-11-29,Sp Braga_Olhanense_2013,Sp Braga,6,5,11,16
+2013-11-29,Sp Braga_Olhanense_2013,Olhanense,5,6,11,16
+2013-11-30,Academica_Porto_2013,Porto,5,6,11,16
+2013-11-30,Academica_Porto_2013,Academica,6,5,11,16
+2013-12-01,Arouca_Maritimo_2013,Arouca,6,5,11,16
+2013-12-01,Arouca_Maritimo_2013,Maritimo,5,6,11,16
+2013-12-01,Belenenses_Gil Vicente_2013,Belenenses,6,5,11,16
+2013-12-01,Rio Ave_Benfica_2013,Benfica,5,6,11,16
+2013-12-01,Nacional_Setubal_2013,Nacional,6,5,11,16
+2013-12-01,Nacional_Setubal_2013,Setubal,5,6,11,16
+2013-12-01,Sp Lisbon_Pacos Ferreira_2013,Pacos Ferreira,5,6,11,16
+2013-12-01,Rio Ave_Benfica_2013,Rio Ave,6,5,11,16
+2013-12-01,Belenenses_Gil Vicente_2013,Gil Vicente,5,6,11,16
+2013-12-01,Sp Lisbon_Pacos Ferreira_2013,Sp Lisbon,6,5,11,16
+2013-12-02,Estoril_Guimaraes_2013,Guimaraes,5,6,11,16
+2013-12-02,Estoril_Guimaraes_2013,Estoril,6,5,11,16
+2013-12-06,Benfica_Arouca_2013,Benfica,6,6,12,17
+2013-12-06,Benfica_Arouca_2013,Arouca,6,6,12,17
+2013-12-07,Porto_Sp Braga_2013,Porto,6,6,12,17
+2013-12-07,Guimaraes_Belenenses_2013,Guimaraes,6,6,12,17
+2013-12-07,Pacos Ferreira_Estoril_2013,Pacos Ferreira,6,6,12,17
+2013-12-07,Guimaraes_Belenenses_2013,Belenenses,6,6,12,17
+2013-12-07,Porto_Sp Braga_2013,Sp Braga,6,6,12,17
+2013-12-07,Pacos Ferreira_Estoril_2013,Estoril,6,6,12,17
+2013-12-08,Gil Vicente_Sp Lisbon_2013,Gil Vicente,6,6,12,17
+2013-12-08,Gil Vicente_Sp Lisbon_2013,Sp Lisbon,6,6,12,17
+2013-12-08,Maritimo_Nacional_2013,Nacional,6,6,12,17
+2013-12-08,Olhanense_Rio Ave_2013,Rio Ave,6,6,12,17
+2013-12-08,Maritimo_Nacional_2013,Maritimo,6,6,12,17
+2013-12-08,Olhanense_Rio Ave_2013,Olhanense,6,6,12,17
+2013-12-09,Setubal_Academica_2013,Academica,6,6,12,17
+2013-12-09,Setubal_Academica_2013,Setubal,6,6,12,17
+2013-12-13,Academica_Maritimo_2013,Maritimo,6,7,13,18
+2013-12-13,Academica_Maritimo_2013,Academica,7,6,13,18
+2013-12-14,Sp Lisbon_Belenenses_2013,Sp Lisbon,7,6,13,18
+2013-12-14,Sp Braga_Setubal_2013,Sp Braga,7,6,13,18
+2013-12-14,Sp Braga_Setubal_2013,Setubal,6,7,13,18
+2013-12-14,Sp Lisbon_Belenenses_2013,Belenenses,6,7,13,18
+2013-12-15,Arouca_Guimaraes_2013,Guimaraes,6,7,13,18
+2013-12-15,Arouca_Guimaraes_2013,Arouca,7,6,13,18
+2013-12-15,Olhanense_Benfica_2013,Olhanense,7,6,13,18
+2013-12-15,Olhanense_Benfica_2013,Benfica,6,7,13,18
+2013-12-15,Rio Ave_Porto_2013,Rio Ave,7,6,13,18
+2013-12-15,Rio Ave_Porto_2013,Porto,6,7,13,18
+2013-12-16,Nacional_Pacos Ferreira_2013,Nacional,7,6,13,18
+2013-12-16,Estoril_Gil Vicente_2013,Gil Vicente,6,7,13,18
+2013-12-16,Nacional_Pacos Ferreira_2013,Pacos Ferreira,6,7,13,18
+2013-12-16,Estoril_Gil Vicente_2013,Estoril,7,6,13,18
+2013-12-19,Maritimo_Sp Braga_2013,Maritimo,7,7,14,19
+2013-12-19,Maritimo_Sp Braga_2013,Sp Braga,7,7,14,19
+2013-12-20,Setubal_Benfica_2013,Benfica,6,8,14,19
+2013-12-20,Setubal_Benfica_2013,Setubal,7,7,14,19
+2013-12-20,Porto_Olhanense_2013,Olhanense,7,7,14,19
+2013-12-20,Porto_Olhanense_2013,Porto,7,7,14,19
+2013-12-21,Guimaraes_Academica_2013,Academica,7,7,14,19
+2013-12-21,Sp Lisbon_Nacional_2013,Nacional,7,7,14,19
+2013-12-21,Sp Lisbon_Nacional_2013,Sp Lisbon,8,6,14,19
+2013-12-21,Pacos Ferreira_Rio Ave_2013,Rio Ave,7,7,14,19
+2013-12-21,Guimaraes_Academica_2013,Guimaraes,7,7,14,19
+2013-12-21,Pacos Ferreira_Rio Ave_2013,Pacos Ferreira,7,7,14,19
+2013-12-22,Gil Vicente_Arouca_2013,Gil Vicente,7,7,14,19
+2013-12-22,Belenenses_Estoril_2013,Belenenses,7,7,14,19
+2013-12-22,Belenenses_Estoril_2013,Estoril,7,7,14,19
+2013-12-22,Gil Vicente_Arouca_2013,Arouca,7,7,14,19
+2014-01-10,Sp Braga_Guimaraes_2013,Sp Braga,8,7,15,22
+2014-01-10,Sp Braga_Guimaraes_2013,Guimaraes,7,8,15,22
+2014-01-11,Estoril_Sp Lisbon_2013,Estoril,8,7,15,22
+2014-01-11,Rio Ave_Maritimo_2013,Maritimo,7,8,15,22
+2014-01-11,Estoril_Sp Lisbon_2013,Sp Lisbon,8,7,15,22
+2014-01-11,Rio Ave_Maritimo_2013,Rio Ave,8,7,15,22
+2014-01-12,Arouca_Belenenses_2013,Belenenses,7,8,15,22
+2014-01-12,Academica_Pacos Ferreira_2013,Pacos Ferreira,7,8,15,22
+2014-01-12,Arouca_Belenenses_2013,Arouca,8,7,15,22
+2014-01-12,Benfica_Porto_2013,Benfica,7,8,15,22
+2014-01-12,Nacional_Gil Vicente_2013,Gil Vicente,7,8,15,22
+2014-01-12,Olhanense_Setubal_2013,Olhanense,8,7,15,22
+2014-01-12,Benfica_Porto_2013,Porto,7,8,15,22
+2014-01-12,Academica_Pacos Ferreira_2013,Academica,8,7,15,22
+2014-01-12,Olhanense_Setubal_2013,Setubal,7,8,15,22
+2014-01-12,Nacional_Gil Vicente_2013,Nacional,8,7,15,22
+2014-01-17,Olhanense_Guimaraes_2013,Guimaraes,7,9,16,23
+2014-01-17,Olhanense_Guimaraes_2013,Olhanense,9,7,16,23
+2014-01-18,Arouca_Sp Lisbon_2013,Arouca,9,7,16,23
+2014-01-18,Arouca_Sp Lisbon_2013,Sp Lisbon,8,8,16,23
+2014-01-19,Rio Ave_Belenenses_2013,Rio Ave,9,7,16,23
+2014-01-19,Porto_Setubal_2013,Setubal,7,9,16,23
+2014-01-19,Porto_Setubal_2013,Porto,8,8,16,23
+2014-01-19,Rio Ave_Belenenses_2013,Belenenses,7,9,16,23
+2014-01-19,Sp Braga_Pacos Ferreira_2013,Sp Braga,9,7,16,23
+2014-01-19,Benfica_Maritimo_2013,Maritimo,7,9,16,23
+2014-01-19,Sp Braga_Pacos Ferreira_2013,Pacos Ferreira,7,9,16,23
+2014-01-19,Benfica_Maritimo_2013,Benfica,8,8,16,23
+2014-01-19,Academica_Gil Vicente_2013,Academica,9,7,16,23
+2014-01-19,Academica_Gil Vicente_2013,Gil Vicente,7,9,16,23
+2014-01-20,Nacional_Estoril_2013,Nacional,9,7,16,23
+2014-01-20,Nacional_Estoril_2013,Estoril,8,8,16,23
+2014-01-31,Estoril_Arouca_2013,Estoril,9,8,17,25
+2014-01-31,Estoril_Arouca_2013,Arouca,9,8,17,25
+2014-02-01,Gil Vicente_Benfica_2013,Gil Vicente,8,9,17,25
+2014-02-01,Setubal_Rio Ave_2013,Rio Ave,9,8,17,25
+2014-02-01,Maritimo_Porto_2013,Porto,8,9,17,25
+2014-02-01,Gil Vicente_Benfica_2013,Benfica,8,9,17,25
+2014-02-01,Maritimo_Porto_2013,Maritimo,8,9,17,25
+2014-02-01,Setubal_Rio Ave_2013,Setubal,8,9,17,25
+2014-02-02,Belenenses_Sp Braga_2013,Belenenses,8,9,17,25
+2014-02-02,Sp Lisbon_Academica_2013,Academica,9,8,17,25
+2014-02-02,Sp Lisbon_Academica_2013,Sp Lisbon,9,8,17,25
+2014-02-02,Belenenses_Sp Braga_2013,Sp Braga,9,8,17,25
+2014-02-03,Guimaraes_Nacional_2013,Nacional,9,8,17,25
+2014-02-03,Guimaraes_Nacional_2013,Guimaraes,8,9,17,25
+2014-02-05,Pacos Ferreira_Olhanense_2013,Pacos Ferreira,8,9,17,26
+2014-02-05,Pacos Ferreira_Olhanense_2013,Olhanense,9,8,17,26
+2014-02-08,Setubal_Guimaraes_2013,Guimaraes,8,10,18,26
+2014-02-08,Nacional_Belenenses_2013,Belenenses,8,10,18,26
+2014-02-08,Setubal_Guimaraes_2013,Setubal,9,9,18,26
+2014-02-08,Nacional_Belenenses_2013,Nacional,10,8,18,26
+2014-02-09,Porto_Pacos Ferreira_2013,Pacos Ferreira,8,10,18,26
+2014-02-09,Porto_Pacos Ferreira_2013,Porto,9,9,18,26
+2014-02-09,Sp Braga_Gil Vicente_2013,Sp Braga,10,8,18,26
+2014-02-09,Sp Braga_Gil Vicente_2013,Gil Vicente,8,10,18,26
+2014-02-09,Olhanense_Maritimo_2013,Olhanense,10,8,18,26
+2014-02-09,Rio Ave_Arouca_2013,Arouca,9,9,18,26
+2014-02-09,Olhanense_Maritimo_2013,Maritimo,8,10,18,26
+2014-02-09,Rio Ave_Arouca_2013,Rio Ave,10,8,18,26
+2014-02-10,Academica_Estoril_2013,Estoril,9,9,18,26
+2014-02-10,Academica_Estoril_2013,Academica,10,8,18,26
+2014-02-11,Benfica_Sp Lisbon_2013,Benfica,9,9,18,27
+2014-02-11,Benfica_Sp Lisbon_2013,Sp Lisbon,9,9,18,27
+2014-02-15,Belenenses_Academica_2013,Belenenses,9,10,19,27
+2014-02-15,Sp Lisbon_Olhanense_2013,Sp Lisbon,10,9,19,27
+2014-02-15,Belenenses_Academica_2013,Academica,10,9,19,27
+2014-02-15,Sp Lisbon_Olhanense_2013,Olhanense,10,9,19,27
+2014-02-16,Pacos Ferreira_Benfica_2013,Benfica,9,10,19,27
+2014-02-16,Gil Vicente_Porto_2013,Gil Vicente,9,10,19,27
+2014-02-16,Arouca_Nacional_2013,Arouca,10,9,19,27
+2014-02-16,Pacos Ferreira_Benfica_2013,Pacos Ferreira,9,10,19,27
+2014-02-16,Maritimo_Setubal_2013,Maritimo,9,10,19,27
+2014-02-16,Maritimo_Setubal_2013,Setubal,9,10,19,27
+2014-02-16,Gil Vicente_Porto_2013,Porto,9,10,19,27
+2014-02-16,Arouca_Nacional_2013,Nacional,10,9,19,27
+2014-02-16,Guimaraes_Rio Ave_2013,Rio Ave,10,9,19,27
+2014-02-16,Guimaraes_Rio Ave_2013,Guimaraes,9,10,19,27
+2014-02-17,Estoril_Sp Braga_2013,Sp Braga,10,9,19,27
+2014-02-17,Estoril_Sp Braga_2013,Estoril,10,9,19,27
+2014-02-21,Academica_Nacional_2013,Academica,11,9,20,28
+2014-02-21,Academica_Nacional_2013,Nacional,10,10,20,28
+2014-02-22,Rio Ave_Sp Lisbon_2013,Rio Ave,11,9,20,28
+2014-02-22,Sp Braga_Arouca_2013,Arouca,10,10,20,28
+2014-02-22,Rio Ave_Sp Lisbon_2013,Sp Lisbon,10,10,20,28
+2014-02-22,Sp Braga_Arouca_2013,Sp Braga,11,9,20,28
+2014-02-23,Porto_Estoril_2013,Porto,10,10,20,28
+2014-02-23,Maritimo_Belenenses_2013,Belenenses,9,11,20,28
+2014-02-23,Olhanense_Gil Vicente_2013,Gil Vicente,9,11,20,28
+2014-02-23,Olhanense_Gil Vicente_2013,Olhanense,11,9,20,28
+2014-02-23,Setubal_Pacos Ferreira_2013,Pacos Ferreira,9,11,20,28
+2014-02-23,Porto_Estoril_2013,Estoril,10,10,20,28
+2014-02-23,Setubal_Pacos Ferreira_2013,Setubal,10,10,20,28
+2014-02-23,Maritimo_Belenenses_2013,Maritimo,10,10,20,28
+2014-02-24,Benfica_Guimaraes_2013,Guimaraes,9,11,20,28
+2014-02-24,Benfica_Guimaraes_2013,Benfica,10,10,20,28
+2014-03-01,Sp Lisbon_Sp Braga_2013,Sp Lisbon,11,10,21,29
+2014-03-01,Estoril_Olhanense_2013,Olhanense,11,10,21,29
+2014-03-01,Sp Lisbon_Sp Braga_2013,Sp Braga,11,10,21,29
+2014-03-01,Estoril_Olhanense_2013,Estoril,11,10,21,29
+2014-03-02,Guimaraes_Porto_2013,Porto,10,11,21,29
+2014-03-02,Gil Vicente_Setubal_2013,Setubal,10,11,21,29
+2014-03-02,Pacos Ferreira_Maritimo_2013,Maritimo,10,11,21,29
+2014-03-02,Belenenses_Benfica_2013,Belenenses,10,11,21,29
+2014-03-02,Pacos Ferreira_Maritimo_2013,Pacos Ferreira,10,11,21,29
+2014-03-02,Gil Vicente_Setubal_2013,Gil Vicente,10,11,21,29
+2014-03-02,Nacional_Rio Ave_2013,Nacional,11,10,21,29
+2014-03-02,Belenenses_Benfica_2013,Benfica,10,11,21,29
+2014-03-02,Guimaraes_Porto_2013,Guimaraes,10,11,21,29
+2014-03-02,Nacional_Rio Ave_2013,Rio Ave,11,10,21,29
+2014-03-03,Arouca_Academica_2013,Academica,11,10,21,29
+2014-03-03,Arouca_Academica_2013,Arouca,11,10,21,29
+2014-03-07,Rio Ave_Academica_2013,Academica,11,11,22,30
+2014-03-07,Rio Ave_Academica_2013,Rio Ave,12,10,22,30
+2014-03-08,Sp Braga_Nacional_2013,Nacional,11,11,22,30
+2014-03-08,Sp Braga_Nacional_2013,Sp Braga,12,10,22,30
+2014-03-09,Pacos Ferreira_Gil Vicente_2013,Pacos Ferreira,11,11,22,30
+2014-03-09,Olhanense_Belenenses_2013,Olhanense,12,10,22,30
+2014-03-09,Benfica_Estoril_2013,Estoril,11,11,22,30
+2014-03-09,Olhanense_Belenenses_2013,Belenenses,10,12,22,30
+2014-03-09,Benfica_Estoril_2013,Benfica,11,11,22,30
+2014-03-09,Setubal_Sp Lisbon_2013,Setubal,11,11,22,30
+2014-03-09,Porto_Arouca_2013,Arouca,11,11,22,30
+2014-03-09,Setubal_Sp Lisbon_2013,Sp Lisbon,11,11,22,30
+2014-03-09,Porto_Arouca_2013,Porto,11,11,22,30
+2014-03-09,Pacos Ferreira_Gil Vicente_2013,Gil Vicente,10,12,22,30
+2014-03-10,Maritimo_Guimaraes_2013,Guimaraes,10,12,22,30
+2014-03-10,Maritimo_Guimaraes_2013,Maritimo,11,11,22,30
+2014-03-14,Academica_Sp Braga_2013,Sp Braga,12,11,23,31
+2014-03-14,Academica_Sp Braga_2013,Academica,12,11,23,31
+2014-03-15,Guimaraes_Pacos Ferreira_2013,Pacos Ferreira,11,12,23,31
+2014-03-15,Gil Vicente_Rio Ave_2013,Gil Vicente,11,12,23,31
+2014-03-15,Guimaraes_Pacos Ferreira_2013,Guimaraes,11,12,23,31
+2014-03-15,Gil Vicente_Rio Ave_2013,Rio Ave,12,11,23,31
+2014-03-15,Estoril_Maritimo_2013,Estoril,12,11,23,31
+2014-03-15,Estoril_Maritimo_2013,Maritimo,11,12,23,31
+2014-03-16,Belenenses_Setubal_2013,Setubal,11,12,23,31
+2014-03-16,Arouca_Olhanense_2013,Arouca,12,11,23,31
+2014-03-16,Belenenses_Setubal_2013,Belenenses,11,12,23,31
+2014-03-16,Sp Lisbon_Porto_2013,Sp Lisbon,12,11,23,31
+2014-03-16,Sp Lisbon_Porto_2013,Porto,11,12,23,31
+2014-03-16,Arouca_Olhanense_2013,Olhanense,12,11,23,31
+2014-03-17,Nacional_Benfica_2013,Nacional,12,11,23,31
+2014-03-17,Nacional_Benfica_2013,Benfica,11,12,23,31
+2014-03-21,Rio Ave_Sp Braga_2013,Sp Braga,12,12,24,32
+2014-03-21,Rio Ave_Sp Braga_2013,Rio Ave,13,11,24,32
+2014-03-22,Maritimo_Sp Lisbon_2013,Sp Lisbon,12,12,24,32
+2014-03-22,Guimaraes_Gil Vicente_2013,Gil Vicente,11,13,24,32
+2014-03-22,Guimaraes_Gil Vicente_2013,Guimaraes,12,12,24,32
+2014-03-22,Maritimo_Sp Lisbon_2013,Maritimo,12,12,24,32
+2014-03-23,Olhanense_Nacional_2013,Nacional,12,12,24,32
+2014-03-23,Benfica_Academica_2013,Academica,12,12,24,32
+2014-03-23,Pacos Ferreira_Arouca_2013,Pacos Ferreira,12,12,24,32
+2014-03-23,Olhanense_Nacional_2013,Olhanense,13,11,24,32
+2014-03-23,Porto_Belenenses_2013,Porto,12,12,24,32
+2014-03-23,Benfica_Academica_2013,Benfica,12,12,24,32
+2014-03-23,Pacos Ferreira_Arouca_2013,Arouca,12,12,24,32
+2014-03-23,Porto_Belenenses_2013,Belenenses,11,13,24,32
+2014-03-24,Setubal_Estoril_2013,Setubal,12,12,24,32
+2014-03-24,Setubal_Estoril_2013,Estoril,12,12,24,32
+2014-03-28,Belenenses_Pacos Ferreira_2013,Belenenses,12,13,25,33
+2014-03-28,Belenenses_Pacos Ferreira_2013,Pacos Ferreira,12,13,25,33
+2014-03-29,Sp Lisbon_Guimaraes_2013,Guimaraes,12,13,25,33
+2014-03-29,Sp Lisbon_Guimaraes_2013,Sp Lisbon,13,12,25,33
+2014-03-30,Gil Vicente_Maritimo_2013,Maritimo,12,13,25,33
+2014-03-30,Gil Vicente_Maritimo_2013,Gil Vicente,12,13,25,33
+2014-03-30,Arouca_Setubal_2013,Setubal,12,13,25,33
+2014-03-30,Sp Braga_Benfica_2013,Sp Braga,13,12,25,33
+2014-03-30,Academica_Olhanense_2013,Olhanense,13,12,25,33
+2014-03-30,Arouca_Setubal_2013,Arouca,13,12,25,33
+2014-03-30,Estoril_Rio Ave_2013,Estoril,13,12,25,33
+2014-03-30,Sp Braga_Benfica_2013,Benfica,12,13,25,33
+2014-03-30,Nacional_Porto_2013,Porto,12,13,25,33
+2014-03-30,Estoril_Rio Ave_2013,Rio Ave,13,12,25,33
+2014-03-30,Nacional_Porto_2013,Nacional,13,12,25,33
+2014-03-30,Academica_Olhanense_2013,Academica,13,12,25,33
+2014-04-04,Guimaraes_Estoril_2013,Estoril,13,13,26,34
+2014-04-04,Guimaraes_Estoril_2013,Guimaraes,13,13,26,34
+2014-04-05,Olhanense_Sp Braga_2013,Sp Braga,13,13,26,34
+2014-04-05,Pacos Ferreira_Sp Lisbon_2013,Pacos Ferreira,13,13,26,34
+2014-04-05,Pacos Ferreira_Sp Lisbon_2013,Sp Lisbon,13,13,26,34
+2014-04-05,Olhanense_Sp Braga_2013,Olhanense,14,12,26,34
+2014-04-06,Maritimo_Arouca_2013,Maritimo,13,13,26,34
+2014-04-06,Porto_Academica_2013,Academica,13,13,26,34
+2014-04-06,Setubal_Nacional_2013,Nacional,13,13,26,34
+2014-04-06,Setubal_Nacional_2013,Setubal,13,13,26,34
+2014-04-06,Porto_Academica_2013,Porto,13,13,26,34
+2014-04-06,Gil Vicente_Belenenses_2013,Belenenses,12,14,26,34
+2014-04-06,Maritimo_Arouca_2013,Arouca,13,13,26,34
+2014-04-06,Gil Vicente_Belenenses_2013,Gil Vicente,13,13,26,34
+2014-04-07,Benfica_Rio Ave_2013,Benfica,13,13,26,34
+2014-04-07,Benfica_Rio Ave_2013,Rio Ave,13,13,26,34
+2014-04-11,Academica_Setubal_2013,Academica,14,13,27,35
+2014-04-11,Academica_Setubal_2013,Setubal,13,14,27,35
+2014-04-12,Belenenses_Guimaraes_2013,Belenenses,13,14,27,35
+2014-04-12,Sp Lisbon_Gil Vicente_2013,Sp Lisbon,14,13,27,35
+2014-04-12,Rio Ave_Olhanense_2013,Rio Ave,14,13,27,35
+2014-04-12,Nacional_Maritimo_2013,Maritimo,13,14,27,35
+2014-04-12,Sp Lisbon_Gil Vicente_2013,Gil Vicente,13,14,27,35
+2014-04-12,Nacional_Maritimo_2013,Nacional,14,13,27,35
+2014-04-12,Belenenses_Guimaraes_2013,Guimaraes,13,14,27,35
+2014-04-12,Rio Ave_Olhanense_2013,Olhanense,14,13,27,35
+2014-04-13,Sp Braga_Porto_2013,Sp Braga,14,13,27,35
+2014-04-13,Sp Braga_Porto_2013,Porto,13,14,27,35
+2014-04-13,Arouca_Benfica_2013,Benfica,13,14,27,35
+2014-04-13,Arouca_Benfica_2013,Arouca,14,13,27,35
+2014-04-14,Estoril_Pacos Ferreira_2013,Pacos Ferreira,13,14,27,35
+2014-04-14,Estoril_Pacos Ferreira_2013,Estoril,14,13,27,35
+2014-04-17,Guimaraes_Arouca_2013,Arouca,14,14,28,36
+2014-04-17,Guimaraes_Arouca_2013,Guimaraes,14,14,28,36
+2014-04-19,Benfica_Olhanense_2013,Olhanense,14,14,28,36
+2014-04-19,Belenenses_Sp Lisbon_2013,Belenenses,14,14,28,36
+2014-04-19,Gil Vicente_Estoril_2013,Gil Vicente,14,14,28,36
+2014-04-19,Belenenses_Sp Lisbon_2013,Sp Lisbon,14,14,28,36
+2014-04-19,Maritimo_Academica_2013,Academica,14,14,28,36
+2014-04-19,Gil Vicente_Estoril_2013,Estoril,14,14,28,36
+2014-04-19,Pacos Ferreira_Nacional_2013,Pacos Ferreira,14,14,28,36
+2014-04-19,Maritimo_Academica_2013,Maritimo,14,14,28,36
+2014-04-19,Benfica_Olhanense_2013,Benfica,14,14,28,36
+2014-04-19,Pacos Ferreira_Nacional_2013,Nacional,14,14,28,36
+2014-04-21,Porto_Rio Ave_2013,Porto,14,14,28,36
+2014-04-21,Porto_Rio Ave_2013,Rio Ave,14,14,28,36
+2014-04-21,Setubal_Sp Braga_2013,Setubal,14,14,28,36
+2014-04-21,Setubal_Sp Braga_2013,Sp Braga,14,14,28,36
+2014-05-03,Nacional_Sp Lisbon_2013,Nacional,15,14,29,38
+2014-05-03,Nacional_Sp Lisbon_2013,Sp Lisbon,14,15,29,38
+2014-05-04,Olhanense_Porto_2013,Olhanense,15,14,29,38
+2014-05-04,Rio Ave_Pacos Ferreira_2013,Pacos Ferreira,14,15,29,38
+2014-05-04,Estoril_Belenenses_2013,Belenenses,14,15,29,38
+2014-05-04,Academica_Guimaraes_2013,Guimaraes,14,15,29,38
+2014-05-04,Benfica_Setubal_2013,Setubal,14,15,29,38
+2014-05-04,Olhanense_Porto_2013,Porto,14,15,29,38
+2014-05-04,Sp Braga_Maritimo_2013,Maritimo,14,15,29,38
+2014-05-04,Arouca_Gil Vicente_2013,Gil Vicente,14,15,29,38
+2014-05-04,Arouca_Gil Vicente_2013,Arouca,15,14,29,38
+2014-05-04,Academica_Guimaraes_2013,Academica,15,14,29,38
+2014-05-04,Estoril_Belenenses_2013,Estoril,15,14,29,38
+2014-05-04,Benfica_Setubal_2013,Benfica,15,14,29,38
+2014-05-04,Rio Ave_Pacos Ferreira_2013,Rio Ave,15,14,29,38
+2014-05-04,Sp Braga_Maritimo_2013,Sp Braga,15,14,29,38
+2014-05-10,Setubal_Olhanense_2013,Olhanense,15,15,30,39
+2014-05-10,Belenenses_Arouca_2013,Belenenses,15,15,30,39
+2014-05-10,Porto_Benfica_2013,Benfica,15,15,30,39
+2014-05-10,Guimaraes_Sp Braga_2013,Sp Braga,15,15,30,39
+2014-05-10,Belenenses_Arouca_2013,Arouca,15,15,30,39
+2014-05-10,Porto_Benfica_2013,Porto,15,15,30,39
+2014-05-10,Pacos Ferreira_Academica_2013,Academica,15,15,30,39
+2014-05-10,Guimaraes_Sp Braga_2013,Guimaraes,15,15,30,39
+2014-05-10,Pacos Ferreira_Academica_2013,Pacos Ferreira,15,15,30,39
+2014-05-10,Setubal_Olhanense_2013,Setubal,15,15,30,39
+2014-05-11,Gil Vicente_Nacional_2013,Nacional,15,15,30,39
+2014-05-11,Sp Lisbon_Estoril_2013,Estoril,15,15,30,39
+2014-05-11,Maritimo_Rio Ave_2013,Rio Ave,15,15,30,39
+2014-05-11,Maritimo_Rio Ave_2013,Maritimo,15,15,30,39
+2014-05-11,Gil Vicente_Nacional_2013,Gil Vicente,15,15,30,39
+2014-05-11,Sp Lisbon_Estoril_2013,Sp Lisbon,15,15,30,39

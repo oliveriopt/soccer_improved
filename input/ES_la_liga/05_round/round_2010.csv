@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2010-08-28,Hercules_Ath Bilbao_2010,Ath Bilbao,1,1,1,1
+2010-08-28,Malaga_Valencia_2010,Malaga,1,1,1,1
+2010-08-28,Hercules_Ath Bilbao_2010,Hercules,1,1,1,1
+2010-08-28,Malaga_Valencia_2010,Valencia,1,1,1,1
+2010-08-28,Levante_Sevilla_2010,Levante,1,1,1,1
+2010-08-28,Levante_Sevilla_2010,Sevilla,1,1,1,1
+2010-08-29,Sociedad_Villarreal_2010,Sociedad,1,1,1,1
+2010-08-29,Osasuna_Almeria_2010,Almeria,1,1,1,1
+2010-08-29,Osasuna_Almeria_2010,Osasuna,1,1,1,1
+2010-08-29,Mallorca_Real Madrid_2010,Mallorca,1,1,1,1
+2010-08-29,La Coruna_Zaragoza_2010,La Coruna,1,1,1,1
+2010-08-29,La Coruna_Zaragoza_2010,Zaragoza,1,1,1,1
+2010-08-29,Espanol_Getafe_2010,Getafe,1,1,1,1
+2010-08-29,Mallorca_Real Madrid_2010,Real Madrid,1,1,1,1
+2010-08-29,Santander_Barcelona_2010,Santander,1,1,1,1
+2010-08-29,Santander_Barcelona_2010,Barcelona,1,1,1,1
+2010-08-29,Espanol_Getafe_2010,Espanol,1,1,1,1
+2010-08-29,Sociedad_Villarreal_2010,Villarreal,1,1,1,1
+2010-08-30,Ath Madrid_Sp Gijon_2010,Sp Gijon,1,1,1,1
+2010-08-30,Ath Madrid_Sp Gijon_2010,Ath Madrid,1,1,1,1
+2010-09-11,Real Madrid_Osasuna_2010,Real Madrid,1,1,2,3
+2010-09-11,Ath Bilbao_Ath Madrid_2010,Ath Madrid,1,1,2,3
+2010-09-11,Real Madrid_Osasuna_2010,Osasuna,1,1,2,3
+2010-09-11,Barcelona_Hercules_2010,Barcelona,1,1,2,3
+2010-09-11,Valencia_Santander_2010,Valencia,1,1,2,3
+2010-09-11,Valencia_Santander_2010,Santander,1,1,2,3
+2010-09-11,Barcelona_Hercules_2010,Hercules,1,1,2,3
+2010-09-11,Ath Bilbao_Ath Madrid_2010,Ath Bilbao,1,1,2,3
+2010-09-12,Sp Gijon_Mallorca_2010,Mallorca,1,1,2,3
+2010-09-12,Sevilla_La Coruna_2010,La Coruna,1,1,2,3
+2010-09-12,Villarreal_Espanol_2010,Espanol,1,1,2,3
+2010-09-12,Getafe_Levante_2010,Levante,1,1,2,3
+2010-09-12,Getafe_Levante_2010,Getafe,1,1,2,3
+2010-09-12,Sp Gijon_Mallorca_2010,Sp Gijon,1,1,2,3
+2010-09-12,Zaragoza_Malaga_2010,Malaga,1,1,2,3
+2010-09-12,Villarreal_Espanol_2010,Villarreal,1,1,2,3
+2010-09-12,Sevilla_La Coruna_2010,Sevilla,1,1,2,3
+2010-09-12,Zaragoza_Malaga_2010,Zaragoza,1,1,2,3
+2010-09-13,Almeria_Sociedad_2010,Almeria,1,1,2,3
+2010-09-13,Almeria_Sociedad_2010,Sociedad,1,1,2,3
+2010-09-18,Espanol_Almeria_2010,Almeria,1,2,3,4
+2010-09-18,Espanol_Almeria_2010,Espanol,2,1,3,4
+2010-09-18,Sp Gijon_Ath Bilbao_2010,Ath Bilbao,1,2,3,4
+2010-09-18,Sp Gijon_Ath Bilbao_2010,Sp Gijon,2,1,3,4
+2010-09-18,Mallorca_Osasuna_2010,Osasuna,1,2,3,4
+2010-09-18,Mallorca_Osasuna_2010,Mallorca,2,1,3,4
+2010-09-18,Sociedad_Real Madrid_2010,Sociedad,2,1,3,4
+2010-09-18,Sociedad_Real Madrid_2010,Real Madrid,1,2,3,4
+2010-09-19,Santander_Zaragoza_2010,Zaragoza,1,2,3,4
+2010-09-19,Levante_Villarreal_2010,Levante,2,1,3,4
+2010-09-19,Hercules_Valencia_2010,Hercules,2,1,3,4
+2010-09-19,Malaga_Sevilla_2010,Sevilla,1,2,3,4
+2010-09-19,Malaga_Sevilla_2010,Malaga,2,1,3,4
+2010-09-19,Ath Madrid_Barcelona_2010,Barcelona,1,2,3,4
+2010-09-19,Santander_Zaragoza_2010,Santander,2,1,3,4
+2010-09-19,Hercules_Valencia_2010,Valencia,1,2,3,4
+2010-09-19,Levante_Villarreal_2010,Villarreal,1,2,3,4
+2010-09-19,Ath Madrid_Barcelona_2010,Ath Madrid,2,1,3,4
+2010-09-20,La Coruna_Getafe_2010,La Coruna,2,1,3,4
+2010-09-20,La Coruna_Getafe_2010,Getafe,1,2,3,4
+2010-09-21,Ath Bilbao_Mallorca_2010,Ath Bilbao,2,2,4,5
+2010-09-21,Real Madrid_Espanol_2010,Espanol,2,2,4,5
+2010-09-21,Ath Bilbao_Mallorca_2010,Mallorca,2,2,4,5
+2010-09-21,Osasuna_Sociedad_2010,Osasuna,2,2,4,5
+2010-09-21,Osasuna_Sociedad_2010,Sociedad,2,2,4,5
+2010-09-21,Real Madrid_Espanol_2010,Real Madrid,2,2,4,5
+2010-09-22,Barcelona_Sp Gijon_2010,Sp Gijon,2,2,4,5
+2010-09-22,Barcelona_Sp Gijon_2010,Barcelona,2,2,4,5
+2010-09-22,Valencia_Ath Madrid_2010,Ath Madrid,2,2,4,5
+2010-09-22,Zaragoza_Hercules_2010,Hercules,2,2,4,5
+2010-09-22,Valencia_Ath Madrid_2010,Valencia,2,2,4,5
+2010-09-22,Almeria_Levante_2010,Levante,2,2,4,5
+2010-09-22,Almeria_Levante_2010,Almeria,2,2,4,5
+2010-09-22,Zaragoza_Hercules_2010,Zaragoza,2,2,4,5
+2010-09-23,Villarreal_La Coruna_2010,Villarreal,2,2,4,5
+2010-09-23,Getafe_Malaga_2010,Malaga,2,2,4,5
+2010-09-23,Villarreal_La Coruna_2010,La Coruna,2,2,4,5
+2010-09-23,Sevilla_Santander_2010,Santander,2,2,4,5
+2010-09-23,Getafe_Malaga_2010,Getafe,2,2,4,5
+2010-09-23,Sevilla_Santander_2010,Sevilla,2,2,4,5
+2010-09-25,Sp Gijon_Valencia_2010,Valencia,2,3,5,5
+2010-09-25,Levante_Real Madrid_2010,Real Madrid,2,3,5,5
+2010-09-25,Ath Bilbao_Barcelona_2010,Ath Bilbao,3,2,5,5
+2010-09-25,Levante_Real Madrid_2010,Levante,3,2,5,5
+2010-09-25,Ath Bilbao_Barcelona_2010,Barcelona,2,3,5,5
+2010-09-25,Sp Gijon_Valencia_2010,Sp Gijon,3,2,5,5
+2010-09-26,Espanol_Osasuna_2010,Osasuna,2,3,5,5
+2010-09-26,Hercules_Sevilla_2010,Sevilla,2,3,5,5
+2010-09-26,Ath Madrid_Zaragoza_2010,Zaragoza,2,3,5,5
+2010-09-26,La Coruna_Almeria_2010,Almeria,2,3,5,5
+2010-09-26,Espanol_Osasuna_2010,Espanol,3,2,5,5
+2010-09-26,Santander_Getafe_2010,Santander,3,2,5,5
+2010-09-26,Santander_Getafe_2010,Getafe,2,3,5,5
+2010-09-26,Ath Madrid_Zaragoza_2010,Ath Madrid,3,2,5,5
+2010-09-26,Hercules_Sevilla_2010,Hercules,3,2,5,5
+2010-09-26,Mallorca_Sociedad_2010,Mallorca,3,2,5,5
+2010-09-26,La Coruna_Almeria_2010,La Coruna,3,2,5,5
+2010-09-26,Mallorca_Sociedad_2010,Sociedad,2,3,5,5
+2010-09-27,Malaga_Villarreal_2010,Malaga,3,2,5,5
+2010-09-27,Malaga_Villarreal_2010,Villarreal,2,3,5,5
+2010-10-02,Sociedad_Espanol_2010,Sociedad,3,3,6,6
+2010-10-02,Zaragoza_Sp Gijon_2010,Sp Gijon,3,3,6,6
+2010-10-02,Valencia_Ath Bilbao_2010,Ath Bilbao,3,3,6,6
+2010-10-02,Sociedad_Espanol_2010,Espanol,3,3,6,6
+2010-10-02,Valencia_Ath Bilbao_2010,Valencia,3,3,6,6
+2010-10-02,Zaragoza_Sp Gijon_2010,Zaragoza,3,3,6,6
+2010-10-03,Osasuna_Levante_2010,Osasuna,3,3,6,6
+2010-10-03,Almeria_Malaga_2010,Malaga,3,3,6,6
+2010-10-03,Barcelona_Mallorca_2010,Mallorca,3,3,6,6
+2010-10-03,Sevilla_Ath Madrid_2010,Sevilla,3,3,6,6
+2010-10-03,Villarreal_Santander_2010,Villarreal,3,3,6,6
+2010-10-03,Real Madrid_La Coruna_2010,Real Madrid,3,3,6,6
+2010-10-03,Almeria_Malaga_2010,Almeria,3,3,6,6
+2010-10-03,Sevilla_Ath Madrid_2010,Ath Madrid,3,3,6,6
+2010-10-03,Getafe_Hercules_2010,Getafe,3,3,6,6
+2010-10-03,Osasuna_Levante_2010,Levante,3,3,6,6
+2010-10-03,Barcelona_Mallorca_2010,Barcelona,3,3,6,6
+2010-10-03,Real Madrid_La Coruna_2010,La Coruna,3,3,6,6
+2010-10-03,Getafe_Hercules_2010,Hercules,3,3,6,6
+2010-10-03,Villarreal_Santander_2010,Santander,3,3,6,6
+2010-10-16,Malaga_Real Madrid_2010,Malaga,4,3,7,8
+2010-10-16,Ath Madrid_Getafe_2010,Getafe,3,4,7,8
+2010-10-16,Ath Madrid_Getafe_2010,Ath Madrid,4,3,7,8
+2010-10-16,Barcelona_Valencia_2010,Valencia,3,4,7,8
+2010-10-16,Malaga_Real Madrid_2010,Real Madrid,3,4,7,8
+2010-10-16,Barcelona_Valencia_2010,Barcelona,4,3,7,8
+2010-10-17,Ath Bilbao_Zaragoza_2010,Zaragoza,3,4,7,8
+2010-10-17,Levante_Sociedad_2010,Levante,4,3,7,8
+2010-10-17,Santander_Almeria_2010,Almeria,3,4,7,8
+2010-10-17,Mallorca_Espanol_2010,Mallorca,4,3,7,8
+2010-10-17,La Coruna_Osasuna_2010,Osasuna,3,4,7,8
+2010-10-17,Sp Gijon_Sevilla_2010,Sp Gijon,4,3,7,8
+2010-10-17,Ath Bilbao_Zaragoza_2010,Ath Bilbao,4,3,7,8
+2010-10-17,Sp Gijon_Sevilla_2010,Sevilla,3,4,7,8
+2010-10-17,Santander_Almeria_2010,Santander,4,3,7,8
+2010-10-17,Levante_Sociedad_2010,Sociedad,3,4,7,8
+2010-10-17,La Coruna_Osasuna_2010,La Coruna,4,3,7,8
+2010-10-17,Mallorca_Espanol_2010,Espanol,3,4,7,8
+2010-10-18,Hercules_Villarreal_2010,Villarreal,3,4,7,8
+2010-10-18,Hercules_Villarreal_2010,Hercules,4,3,7,8
+2010-10-23,Zaragoza_Barcelona_2010,Zaragoza,4,4,8,9
+2010-10-23,Valencia_Mallorca_2010,Valencia,4,4,8,9
+2010-10-23,Real Madrid_Santander_2010,Santander,4,4,8,9
+2010-10-23,Valencia_Mallorca_2010,Mallorca,4,4,8,9
+2010-10-23,Zaragoza_Barcelona_2010,Barcelona,4,4,8,9
+2010-10-23,Real Madrid_Santander_2010,Real Madrid,4,4,8,9
+2010-10-24,Getafe_Sp Gijon_2010,Getafe,4,4,8,9
+2010-10-24,Villarreal_Ath Madrid_2010,Villarreal,4,4,8,9
+2010-10-24,Getafe_Sp Gijon_2010,Sp Gijon,4,4,8,9
+2010-10-24,Almeria_Hercules_2010,Hercules,4,4,8,9
+2010-10-24,Sevilla_Ath Bilbao_2010,Sevilla,4,4,8,9
+2010-10-24,Villarreal_Ath Madrid_2010,Ath Madrid,4,4,8,9
+2010-10-24,Almeria_Hercules_2010,Almeria,4,4,8,9
+2010-10-24,Osasuna_Malaga_2010,Osasuna,4,4,8,9
+2010-10-24,Espanol_Levante_2010,Levante,4,4,8,9
+2010-10-24,Osasuna_Malaga_2010,Malaga,4,4,8,9
+2010-10-24,Espanol_Levante_2010,Espanol,4,4,8,9
+2010-10-24,Sevilla_Ath Bilbao_2010,Ath Bilbao,4,4,8,9
+2010-10-25,Sociedad_La Coruna_2010,La Coruna,4,4,8,9
+2010-10-25,Sociedad_La Coruna_2010,Sociedad,4,4,8,9
+2010-10-30,Valencia_Zaragoza_2010,Zaragoza,4,5,9,10
+2010-10-30,Hercules_Real Madrid_2010,Hercules,5,4,9,10
+2010-10-30,Barcelona_Sevilla_2010,Barcelona,5,4,9,10
+2010-10-30,Valencia_Zaragoza_2010,Valencia,5,4,9,10
+2010-10-30,Hercules_Real Madrid_2010,Real Madrid,4,5,9,10
+2010-10-30,Barcelona_Sevilla_2010,Sevilla,4,5,9,10
+2010-10-31,Malaga_Sociedad_2010,Sociedad,4,5,9,10
+2010-10-31,Ath Bilbao_Getafe_2010,Ath Bilbao,5,4,9,10
+2010-10-31,Ath Madrid_Almeria_2010,Ath Madrid,5,4,9,10
+2010-10-31,Ath Bilbao_Getafe_2010,Getafe,4,5,9,10
+2010-10-31,Santander_Osasuna_2010,Osasuna,4,5,9,10
+2010-10-31,Malaga_Sociedad_2010,Malaga,5,4,9,10
+2010-10-31,Ath Madrid_Almeria_2010,Almeria,4,5,9,10
+2010-10-31,La Coruna_Espanol_2010,Espanol,4,5,9,10
+2010-10-31,Santander_Osasuna_2010,Santander,5,4,9,10
+2010-10-31,Sp Gijon_Villarreal_2010,Sp Gijon,5,4,9,10
+2010-10-31,La Coruna_Espanol_2010,La Coruna,5,4,9,10
+2010-10-31,Sp Gijon_Villarreal_2010,Villarreal,4,5,9,10
+2010-11-01,Mallorca_Levante_2010,Levante,4,5,9,10
+2010-11-01,Mallorca_Levante_2010,Mallorca,5,4,9,10
+2010-11-06,Sociedad_Santander_2010,Sociedad,5,5,10,11
+2010-11-06,Espanol_Malaga_2010,Espanol,5,5,10,11
+2010-11-06,Espanol_Malaga_2010,Malaga,5,5,10,11
+2010-11-06,Sociedad_Santander_2010,Santander,5,5,10,11
+2010-11-07,Zaragoza_Mallorca_2010,Zaragoza,5,5,10,11
+2010-11-07,Real Madrid_Ath Madrid_2010,Ath Madrid,5,5,10,11
+2010-11-07,Zaragoza_Mallorca_2010,Mallorca,5,5,10,11
+2010-11-07,Almeria_Sp Gijon_2010,Sp Gijon,5,5,10,11
+2010-11-07,Osasuna_Hercules_2010,Osasuna,5,5,10,11
+2010-11-07,Levante_La Coruna_2010,La Coruna,5,5,10,11
+2010-11-07,Getafe_Barcelona_2010,Barcelona,5,5,10,11
+2010-11-07,Villarreal_Ath Bilbao_2010,Ath Bilbao,5,5,10,11
+2010-11-07,Real Madrid_Ath Madrid_2010,Real Madrid,5,5,10,11
+2010-11-07,Getafe_Barcelona_2010,Getafe,5,5,10,11
+2010-11-07,Almeria_Sp Gijon_2010,Almeria,5,5,10,11
+2010-11-07,Villarreal_Ath Bilbao_2010,Villarreal,5,5,10,11
+2010-11-07,Osasuna_Hercules_2010,Hercules,5,5,10,11
+2010-11-07,Levante_La Coruna_2010,Levante,5,5,10,11
+2010-11-08,Sevilla_Valencia_2010,Sevilla,5,5,10,11
+2010-11-08,Sevilla_Valencia_2010,Valencia,5,5,10,11
+2010-11-13,Ath Bilbao_Almeria_2010,Almeria,5,6,11,12
+2010-11-13,Barcelona_Villarreal_2010,Barcelona,6,5,11,12
+2010-11-13,Ath Madrid_Osasuna_2010,Ath Madrid,6,5,11,12
+2010-11-13,Ath Bilbao_Almeria_2010,Ath Bilbao,6,5,11,12
+2010-11-13,Barcelona_Villarreal_2010,Villarreal,5,6,11,12
+2010-11-13,Ath Madrid_Osasuna_2010,Osasuna,5,6,11,12
+2010-11-14,Zaragoza_Sevilla_2010,Zaragoza,6,5,11,12
+2010-11-14,Malaga_Levante_2010,Levante,5,6,11,12
+2010-11-14,Sp Gijon_Real Madrid_2010,Real Madrid,5,6,11,12
+2010-11-14,Sp Gijon_Real Madrid_2010,Sp Gijon,6,5,11,12
+2010-11-14,Santander_Espanol_2010,Espanol,5,6,11,12
+2010-11-14,Hercules_Sociedad_2010,Sociedad,5,6,11,12
+2010-11-14,Santander_Espanol_2010,Santander,6,5,11,12
+2010-11-14,Mallorca_La Coruna_2010,Mallorca,6,5,11,12
+2010-11-14,Malaga_Levante_2010,Malaga,6,5,11,12
+2010-11-14,Mallorca_La Coruna_2010,La Coruna,5,6,11,12
+2010-11-14,Valencia_Getafe_2010,Valencia,6,5,11,12
+2010-11-14,Valencia_Getafe_2010,Getafe,5,6,11,12
+2010-11-14,Zaragoza_Sevilla_2010,Sevilla,5,6,11,12
+2010-11-14,Hercules_Sociedad_2010,Hercules,6,5,11,12
+2010-11-20,Almeria_Barcelona_2010,Almeria,6,6,12,13
+2010-11-20,Real Madrid_Ath Bilbao_2010,Real Madrid,6,6,12,13
+2010-11-20,Real Madrid_Ath Bilbao_2010,Ath Bilbao,6,6,12,13
+2010-11-20,Almeria_Barcelona_2010,Barcelona,6,6,12,13
+2010-11-20,Villarreal_Valencia_2010,Villarreal,6,6,12,13
+2010-11-20,Villarreal_Valencia_2010,Valencia,6,6,12,13
+2010-11-21,La Coruna_Malaga_2010,Malaga,6,6,12,13
+2010-11-21,Espanol_Hercules_2010,Espanol,6,6,12,13
+2010-11-21,Levante_Santander_2010,Levante,6,6,12,13
+2010-11-21,Sevilla_Mallorca_2010,Mallorca,6,6,12,13
+2010-11-21,Sociedad_Ath Madrid_2010,Ath Madrid,6,6,12,13
+2010-11-21,Espanol_Hercules_2010,Hercules,6,6,12,13
+2010-11-21,Levante_Santander_2010,Santander,6,6,12,13
+2010-11-21,Osasuna_Sp Gijon_2010,Sp Gijon,6,6,12,13
+2010-11-21,Sevilla_Mallorca_2010,Sevilla,6,6,12,13
+2010-11-21,La Coruna_Malaga_2010,La Coruna,6,6,12,13
+2010-11-21,Sociedad_Ath Madrid_2010,Sociedad,6,6,12,13
+2010-11-21,Osasuna_Sp Gijon_2010,Osasuna,6,6,12,13
+2010-11-22,Getafe_Zaragoza_2010,Getafe,6,6,12,13
+2010-11-22,Getafe_Zaragoza_2010,Zaragoza,6,6,12,13
+2010-11-27,Zaragoza_Villarreal_2010,Zaragoza,7,6,13,14
+2010-11-27,Zaragoza_Villarreal_2010,Villarreal,6,7,13,14
+2010-11-27,Ath Madrid_Espanol_2010,Ath Madrid,7,6,13,14
+2010-11-27,Sevilla_Getafe_2010,Getafe,6,7,13,14
+2010-11-27,Ath Madrid_Espanol_2010,Espanol,6,7,13,14
+2010-11-27,Sevilla_Getafe_2010,Sevilla,7,6,13,14
+2010-11-28,Ath Bilbao_Osasuna_2010,Osasuna,6,7,13,14
+2010-11-28,Santander_La Coruna_2010,La Coruna,6,7,13,14
+2010-11-28,Sp Gijon_Sociedad_2010,Sociedad,6,7,13,14
+2010-11-28,Hercules_Levante_2010,Hercules,7,6,13,14
+2010-11-28,Hercules_Levante_2010,Levante,6,7,13,14
+2010-11-28,Mallorca_Malaga_2010,Malaga,6,7,13,14
+2010-11-28,Santander_La Coruna_2010,Santander,7,6,13,14
+2010-11-28,Mallorca_Malaga_2010,Mallorca,7,6,13,14
+2010-11-28,Ath Bilbao_Osasuna_2010,Ath Bilbao,7,6,13,14
+2010-11-28,Sp Gijon_Sociedad_2010,Sp Gijon,7,6,13,14
+2010-11-28,Valencia_Almeria_2010,Valencia,7,6,13,14
+2010-11-28,Valencia_Almeria_2010,Almeria,6,7,13,14
+2010-11-29,Barcelona_Real Madrid_2010,Barcelona,7,6,13,14
+2010-11-29,Barcelona_Real Madrid_2010,Real Madrid,6,7,13,14
+2010-12-04,Osasuna_Barcelona_2010,Osasuna,7,7,14,15
+2010-12-04,Real Madrid_Valencia_2010,Valencia,7,7,14,15
+2010-12-04,Levante_Ath Madrid_2010,Ath Madrid,7,7,14,15
+2010-12-04,Osasuna_Barcelona_2010,Barcelona,7,7,14,15
+2010-12-04,Levante_Ath Madrid_2010,Levante,7,7,14,15
+2010-12-04,Real Madrid_Valencia_2010,Real Madrid,7,7,14,15
+2010-12-05,Getafe_Mallorca_2010,Mallorca,7,7,14,15
+2010-12-05,Getafe_Mallorca_2010,Getafe,7,7,14,15
+2010-12-05,Almeria_Zaragoza_2010,Almeria,7,7,14,15
+2010-12-05,Espanol_Sp Gijon_2010,Sp Gijon,7,7,14,15
+2010-12-05,Malaga_Santander_2010,Santander,7,7,14,15
+2010-12-05,Villarreal_Sevilla_2010,Villarreal,7,7,14,15
+2010-12-05,Sociedad_Ath Bilbao_2010,Ath Bilbao,7,7,14,15
+2010-12-05,Almeria_Zaragoza_2010,Zaragoza,7,7,14,15
+2010-12-05,Villarreal_Sevilla_2010,Sevilla,7,7,14,15
+2010-12-05,Malaga_Santander_2010,Malaga,7,7,14,15
+2010-12-05,Espanol_Sp Gijon_2010,Espanol,7,7,14,15
+2010-12-05,Sociedad_Ath Bilbao_2010,Sociedad,7,7,14,15
+2010-12-06,La Coruna_Hercules_2010,La Coruna,7,7,14,15
+2010-12-06,La Coruna_Hercules_2010,Hercules,7,7,14,15
+2010-12-11,Ath Madrid_La Coruna_2010,La Coruna,7,8,15,16
+2010-12-11,Sevilla_Almeria_2010,Sevilla,8,7,15,16
+2010-12-11,Getafe_Villarreal_2010,Getafe,8,7,15,16
+2010-12-11,Ath Madrid_La Coruna_2010,Ath Madrid,8,7,15,16
+2010-12-11,Sevilla_Almeria_2010,Almeria,7,8,15,16
+2010-12-11,Getafe_Villarreal_2010,Villarreal,7,8,15,16
+2010-12-12,Sp Gijon_Levante_2010,Sp Gijon,8,7,15,16
+2010-12-12,Sp Gijon_Levante_2010,Levante,7,8,15,16
+2010-12-12,Mallorca_Santander_2010,Santander,7,8,15,16
+2010-12-12,Ath Bilbao_Espanol_2010,Ath Bilbao,8,7,15,16
+2010-12-12,Barcelona_Sociedad_2010,Barcelona,8,7,15,16
+2010-12-12,Hercules_Malaga_2010,Malaga,7,8,15,16
+2010-12-12,Zaragoza_Real Madrid_2010,Real Madrid,7,8,15,16
+2010-12-12,Zaragoza_Real Madrid_2010,Zaragoza,8,7,15,16
+2010-12-12,Barcelona_Sociedad_2010,Sociedad,7,8,15,16
+2010-12-12,Hercules_Malaga_2010,Hercules,8,7,15,16
+2010-12-12,Mallorca_Santander_2010,Mallorca,8,7,15,16
+2010-12-12,Ath Bilbao_Espanol_2010,Espanol,7,8,15,16
+2010-12-13,Valencia_Osasuna_2010,Osasuna,7,8,15,16
+2010-12-13,Valencia_Osasuna_2010,Valencia,8,7,15,16
+2010-12-18,Sociedad_Valencia_2010,Sociedad,8,8,16,17
+2010-12-18,Sociedad_Valencia_2010,Valencia,8,8,16,17
+2010-12-18,La Coruna_Sp Gijon_2010,La Coruna,8,8,16,17
+2010-12-18,Espanol_Barcelona_2010,Espanol,8,8,16,17
+2010-12-18,Espanol_Barcelona_2010,Barcelona,8,8,16,17
+2010-12-18,Levante_Ath Bilbao_2010,Ath Bilbao,8,8,16,17
+2010-12-18,La Coruna_Sp Gijon_2010,Sp Gijon,8,8,16,17
+2010-12-18,Villarreal_Mallorca_2010,Villarreal,8,8,16,17
+2010-12-18,Levante_Ath Bilbao_2010,Levante,8,8,16,17
+2010-12-18,Villarreal_Mallorca_2010,Mallorca,8,8,16,17
+2010-12-19,Almeria_Getafe_2010,Getafe,8,8,16,17
+2010-12-19,Almeria_Getafe_2010,Almeria,8,8,16,17
+2010-12-19,Malaga_Ath Madrid_2010,Malaga,8,8,16,17
+2010-12-19,Osasuna_Zaragoza_2010,Osasuna,8,8,16,17
+2010-12-19,Real Madrid_Sevilla_2010,Sevilla,8,8,16,17
+2010-12-19,Real Madrid_Sevilla_2010,Real Madrid,8,8,16,17
+2010-12-19,Malaga_Ath Madrid_2010,Ath Madrid,8,8,16,17
+2010-12-19,Osasuna_Zaragoza_2010,Zaragoza,8,8,16,17
+2010-12-20,Santander_Hercules_2010,Hercules,8,8,16,17
+2010-12-20,Santander_Hercules_2010,Santander,8,8,16,17
+2011-01-02,Barcelona_Levante_2010,Barcelona,9,8,17,19
+2011-01-02,Ath Bilbao_La Coruna_2010,Ath Bilbao,9,8,17,19
+2011-01-02,Sp Gijon_Malaga_2010,Sp Gijon,9,8,17,19
+2011-01-02,Valencia_Espanol_2010,Espanol,8,9,17,19
+2011-01-02,Sevilla_Osasuna_2010,Sevilla,9,8,17,19
+2011-01-02,Sevilla_Osasuna_2010,Osasuna,8,9,17,19
+2011-01-02,Valencia_Espanol_2010,Valencia,9,8,17,19
+2011-01-02,Ath Bilbao_La Coruna_2010,La Coruna,8,9,17,19
+2011-01-02,Barcelona_Levante_2010,Levante,8,9,17,19
+2011-01-02,Sp Gijon_Malaga_2010,Malaga,8,9,17,19
+2011-01-03,Zaragoza_Sociedad_2010,Zaragoza,9,8,17,19
+2011-01-03,Zaragoza_Sociedad_2010,Sociedad,8,9,17,19
+2011-01-03,Ath Madrid_Santander_2010,Santander,8,9,17,19
+2011-01-03,Ath Madrid_Santander_2010,Ath Madrid,9,8,17,19
+2011-01-03,Mallorca_Hercules_2010,Hercules,8,9,17,19
+2011-01-03,Getafe_Real Madrid_2010,Real Madrid,8,9,17,19
+2011-01-03,Mallorca_Hercules_2010,Mallorca,9,8,17,19
+2011-01-03,Getafe_Real Madrid_2010,Getafe,9,8,17,19
+2011-01-03,Villarreal_Almeria_2010,Almeria,8,9,17,19
+2011-01-03,Villarreal_Almeria_2010,Villarreal,9,8,17,19
+2011-01-08,La Coruna_Barcelona_2010,Barcelona,9,9,18,20
+2011-01-08,Malaga_Ath Bilbao_2010,Malaga,9,9,18,20
+2011-01-08,Sociedad_Sevilla_2010,Sociedad,9,9,18,20
+2011-01-08,La Coruna_Barcelona_2010,La Coruna,9,9,18,20
+2011-01-08,Sociedad_Sevilla_2010,Sevilla,9,9,18,20
+2011-01-08,Malaga_Ath Bilbao_2010,Ath Bilbao,9,9,18,20
+2011-01-09,Espanol_Zaragoza_2010,Espanol,9,9,18,20
+2011-01-09,Mallorca_Almeria_2010,Mallorca,10,8,18,20
+2011-01-09,Levante_Valencia_2010,Valencia,9,9,18,20
+2011-01-09,Osasuna_Getafe_2010,Getafe,9,9,18,20
+2011-01-09,Levante_Valencia_2010,Levante,9,9,18,20
+2011-01-09,Real Madrid_Villarreal_2010,Real Madrid,9,9,18,20
+2011-01-09,Real Madrid_Villarreal_2010,Villarreal,9,9,18,20
+2011-01-09,Santander_Sp Gijon_2010,Sp Gijon,9,9,18,20
+2011-01-09,Santander_Sp Gijon_2010,Santander,9,9,18,20
+2011-01-09,Osasuna_Getafe_2010,Osasuna,9,9,18,20
+2011-01-09,Mallorca_Almeria_2010,Almeria,8,10,18,20
+2011-01-09,Espanol_Zaragoza_2010,Zaragoza,9,9,18,20
+2011-01-10,Hercules_Ath Madrid_2010,Hercules,9,9,18,20
+2011-01-10,Hercules_Ath Madrid_2010,Ath Madrid,9,9,18,20
+2011-01-15,Sp Gijon_Hercules_2010,Sp Gijon,10,9,19,21
+2011-01-15,Ath Bilbao_Santander_2010,Ath Bilbao,10,9,19,21
+2011-01-15,Zaragoza_Levante_2010,Levante,9,10,19,21
+2011-01-15,Getafe_Sociedad_2010,Sociedad,9,10,19,21
+2011-01-15,Sevilla_Espanol_2010,Sevilla,10,9,19,21
+2011-01-15,Sevilla_Espanol_2010,Espanol,9,10,19,21
+2011-01-15,Getafe_Sociedad_2010,Getafe,10,9,19,21
+2011-01-15,Villarreal_Osasuna_2010,Osasuna,9,10,19,21
+2011-01-15,Sp Gijon_Hercules_2010,Hercules,9,10,19,21
+2011-01-15,Villarreal_Osasuna_2010,Villarreal,10,9,19,21
+2011-01-15,Ath Bilbao_Santander_2010,Santander,9,10,19,21
+2011-01-15,Zaragoza_Levante_2010,Zaragoza,10,9,19,21
+2011-01-16,Almeria_Real Madrid_2010,Real Madrid,9,10,19,21
+2011-01-16,Barcelona_Malaga_2010,Barcelona,10,9,19,21
+2011-01-16,Valencia_La Coruna_2010,Valencia,10,9,19,21
+2011-01-16,Almeria_Real Madrid_2010,Almeria,9,10,19,21
+2011-01-16,Barcelona_Malaga_2010,Malaga,9,10,19,21
+2011-01-16,Valencia_La Coruna_2010,La Coruna,9,10,19,21
+2011-01-17,Ath Madrid_Mallorca_2010,Mallorca,10,9,19,21
+2011-01-17,Ath Madrid_Mallorca_2010,Ath Madrid,10,9,19,21
+2011-01-22,Sevilla_Levante_2010,Sevilla,11,9,20,22
+2011-01-22,Valencia_Malaga_2010,Malaga,9,11,20,22
+2011-01-22,Barcelona_Santander_2010,Barcelona,11,9,20,22
+2011-01-22,Valencia_Malaga_2010,Valencia,11,9,20,22
+2011-01-22,Barcelona_Santander_2010,Santander,9,11,20,22
+2011-01-22,Sevilla_Levante_2010,Levante,9,11,20,22
+2011-01-23,Sp Gijon_Ath Madrid_2010,Sp Gijon,11,9,20,22
+2011-01-23,Almeria_Osasuna_2010,Osasuna,9,11,20,22
+2011-01-23,Real Madrid_Mallorca_2010,Mallorca,10,10,20,22
+2011-01-23,Almeria_Osasuna_2010,Almeria,10,10,20,22
+2011-01-23,Zaragoza_La Coruna_2010,La Coruna,9,11,20,22
+2011-01-23,Zaragoza_La Coruna_2010,Zaragoza,11,9,20,22
+2011-01-23,Getafe_Espanol_2010,Getafe,11,9,20,22
+2011-01-23,Villarreal_Sociedad_2010,Sociedad,9,11,20,22
+2011-01-23,Sp Gijon_Ath Madrid_2010,Ath Madrid,10,10,20,22
+2011-01-23,Real Madrid_Mallorca_2010,Real Madrid,10,10,20,22
+2011-01-23,Getafe_Espanol_2010,Espanol,9,11,20,22
+2011-01-23,Villarreal_Sociedad_2010,Villarreal,11,9,20,22
+2011-01-24,Ath Bilbao_Hercules_2010,Ath Bilbao,11,9,20,22
+2011-01-24,Ath Bilbao_Hercules_2010,Hercules,9,11,20,22
+2011-01-29,La Coruna_Sevilla_2010,Sevilla,11,10,21,23
+2011-01-29,Malaga_Zaragoza_2010,Zaragoza,11,10,21,23
+2011-01-29,La Coruna_Sevilla_2010,La Coruna,10,11,21,23
+2011-01-29,Mallorca_Sp Gijon_2010,Mallorca,11,10,21,23
+2011-01-29,Hercules_Barcelona_2010,Hercules,10,11,21,23
+2011-01-29,Sociedad_Almeria_2010,Almeria,10,11,21,23
+2011-01-29,Levante_Getafe_2010,Getafe,11,10,21,23
+2011-01-29,Mallorca_Sp Gijon_2010,Sp Gijon,11,10,21,23
+2011-01-29,Malaga_Zaragoza_2010,Malaga,10,11,21,23
+2011-01-29,Hercules_Barcelona_2010,Barcelona,11,10,21,23
+2011-01-29,Sociedad_Almeria_2010,Sociedad,10,11,21,23
+2011-01-29,Levante_Getafe_2010,Levante,10,11,21,23
+2011-01-30,Espanol_Villarreal_2010,Espanol,10,11,21,23
+2011-01-30,Espanol_Villarreal_2010,Villarreal,11,10,21,23
+2011-01-30,Osasuna_Real Madrid_2010,Real Madrid,10,11,21,23
+2011-01-30,Ath Madrid_Ath Bilbao_2010,Ath Madrid,11,10,21,23
+2011-01-30,Osasuna_Real Madrid_2010,Osasuna,10,11,21,23
+2011-01-30,Ath Madrid_Ath Bilbao_2010,Ath Bilbao,11,10,21,23
+2011-01-31,Santander_Valencia_2010,Valencia,11,10,21,23
+2011-01-31,Santander_Valencia_2010,Santander,10,11,21,23
+2011-02-05,Zaragoza_Santander_2010,Zaragoza,12,10,22,24
+2011-02-05,Almeria_Espanol_2010,Almeria,11,11,22,24
+2011-02-05,Zaragoza_Santander_2010,Santander,10,12,22,24
+2011-02-05,Getafe_La Coruna_2010,Getafe,12,10,22,24
+2011-02-05,Ath Bilbao_Sp Gijon_2010,Sp Gijon,11,11,22,24
+2011-02-05,Villarreal_Levante_2010,Levante,10,12,22,24
+2011-02-05,Barcelona_Ath Madrid_2010,Ath Madrid,11,11,22,24
+2011-02-05,Barcelona_Ath Madrid_2010,Barcelona,12,10,22,24
+2011-02-05,Osasuna_Mallorca_2010,Mallorca,11,11,22,24
+2011-02-05,Villarreal_Levante_2010,Villarreal,12,10,22,24
+2011-02-05,Getafe_La Coruna_2010,La Coruna,10,12,22,24
+2011-02-05,Almeria_Espanol_2010,Espanol,10,12,22,24
+2011-02-05,Osasuna_Mallorca_2010,Osasuna,11,11,22,24
+2011-02-05,Ath Bilbao_Sp Gijon_2010,Ath Bilbao,12,10,22,24
+2011-02-06,Sevilla_Malaga_2010,Malaga,10,12,22,24
+2011-02-06,Real Madrid_Sociedad_2010,Real Madrid,11,11,22,24
+2011-02-06,Valencia_Hercules_2010,Hercules,10,12,22,24
+2011-02-06,Sevilla_Malaga_2010,Sevilla,12,10,22,24
+2011-02-06,Valencia_Hercules_2010,Valencia,12,10,22,24
+2011-02-06,Real Madrid_Sociedad_2010,Sociedad,10,12,22,24
+2011-02-12,Sp Gijon_Barcelona_2010,Sp Gijon,12,11,23,25
+2011-02-12,Santander_Sevilla_2010,Santander,11,12,23,25
+2011-02-12,Ath Madrid_Valencia_2010,Valencia,12,11,23,25
+2011-02-12,Ath Madrid_Valencia_2010,Ath Madrid,12,11,23,25
+2011-02-12,Sp Gijon_Barcelona_2010,Barcelona,12,11,23,25
+2011-02-12,Santander_Sevilla_2010,Sevilla,12,11,23,25
+2011-02-13,La Coruna_Villarreal_2010,Villarreal,12,11,23,25
+2011-02-13,Levante_Almeria_2010,Levante,11,12,23,25
+2011-02-13,Sociedad_Osasuna_2010,Osasuna,11,12,23,25
+2011-02-13,Espanol_Real Madrid_2010,Real Madrid,11,12,23,25
+2011-02-13,Levante_Almeria_2010,Almeria,11,12,23,25
+2011-02-13,Hercules_Zaragoza_2010,Hercules,11,12,23,25
+2011-02-13,Sociedad_Osasuna_2010,Sociedad,11,12,23,25
+2011-02-13,Espanol_Real Madrid_2010,Espanol,11,12,23,25
+2011-02-13,La Coruna_Villarreal_2010,La Coruna,11,12,23,25
+2011-02-13,Hercules_Zaragoza_2010,Zaragoza,12,11,23,25
+2011-02-13,Malaga_Getafe_2010,Malaga,11,12,23,25
+2011-02-13,Malaga_Getafe_2010,Getafe,12,11,23,25
+2011-02-14,Mallorca_Ath Bilbao_2010,Mallorca,12,11,23,25
+2011-02-14,Mallorca_Ath Bilbao_2010,Ath Bilbao,12,11,23,25
+2011-02-19,Zaragoza_Ath Madrid_2010,Zaragoza,13,11,24,26
+2011-02-19,Zaragoza_Ath Madrid_2010,Ath Madrid,12,12,24,26
+2011-02-19,Valencia_Sp Gijon_2010,Valencia,13,11,24,26
+2011-02-19,Valencia_Sp Gijon_2010,Sp Gijon,12,12,24,26
+2011-02-19,Real Madrid_Levante_2010,Real Madrid,12,12,24,26
+2011-02-19,Real Madrid_Levante_2010,Levante,11,13,24,26
+2011-02-20,Barcelona_Ath Bilbao_2010,Ath Bilbao,12,12,24,26
+2011-02-20,Getafe_Santander_2010,Santander,11,13,24,26
+2011-02-20,Osasuna_Espanol_2010,Espanol,11,13,24,26
+2011-02-20,Almeria_La Coruna_2010,Almeria,12,12,24,26
+2011-02-20,Osasuna_Espanol_2010,Osasuna,12,12,24,26
+2011-02-20,Sevilla_Hercules_2010,Hercules,11,13,24,26
+2011-02-20,Villarreal_Malaga_2010,Villarreal,13,11,24,26
+2011-02-20,Sevilla_Hercules_2010,Sevilla,13,11,24,26
+2011-02-20,Villarreal_Malaga_2010,Malaga,11,13,24,26
+2011-02-20,Getafe_Santander_2010,Getafe,13,11,24,26
+2011-02-20,Almeria_La Coruna_2010,La Coruna,11,13,24,26
+2011-02-20,Barcelona_Ath Bilbao_2010,Barcelona,13,11,24,26
+2011-02-21,Sociedad_Mallorca_2010,Mallorca,12,12,24,26
+2011-02-21,Sociedad_Mallorca_2010,Sociedad,12,12,24,26
+2011-02-26,Mallorca_Barcelona_2010,Barcelona,13,12,25,27
+2011-02-26,La Coruna_Real Madrid_2010,La Coruna,12,13,25,27
+2011-02-26,Ath Madrid_Sevilla_2010,Sevilla,13,12,25,27
+2011-02-26,Espanol_Sociedad_2010,Espanol,12,13,25,27
+2011-02-26,La Coruna_Real Madrid_2010,Real Madrid,12,13,25,27
+2011-02-26,Ath Madrid_Sevilla_2010,Ath Madrid,13,12,25,27
+2011-02-26,Mallorca_Barcelona_2010,Mallorca,13,12,25,27
+2011-02-26,Sp Gijon_Zaragoza_2010,Zaragoza,13,12,25,27
+2011-02-26,Espanol_Sociedad_2010,Sociedad,12,13,25,27
+2011-02-26,Sp Gijon_Zaragoza_2010,Sp Gijon,13,12,25,27
+2011-02-27,Levante_Osasuna_2010,Levante,12,13,25,27
+2011-02-27,Hercules_Getafe_2010,Hercules,12,13,25,27
+2011-02-27,Santander_Villarreal_2010,Villarreal,13,12,25,27
+2011-02-27,Ath Bilbao_Valencia_2010,Valencia,13,12,25,27
+2011-02-27,Hercules_Getafe_2010,Getafe,13,12,25,27
+2011-02-27,Santander_Villarreal_2010,Santander,12,13,25,27
+2011-02-27,Ath Bilbao_Valencia_2010,Ath Bilbao,13,12,25,27
+2011-02-27,Levante_Osasuna_2010,Osasuna,12,13,25,27
+2011-02-28,Malaga_Almeria_2010,Almeria,12,13,25,27
+2011-02-28,Malaga_Almeria_2010,Malaga,12,13,25,27
+2011-03-01,Sevilla_Sp Gijon_2010,Sp Gijon,13,13,26,28
+2011-03-01,Espanol_Mallorca_2010,Espanol,13,13,26,28
+2011-03-01,Espanol_Mallorca_2010,Mallorca,13,13,26,28
+2011-03-01,Sevilla_Sp Gijon_2010,Sevilla,14,12,26,28
+2011-03-02,Getafe_Ath Madrid_2010,Ath Madrid,13,13,26,28
+2011-03-02,Zaragoza_Ath Bilbao_2010,Zaragoza,14,12,26,28
+2011-03-02,Zaragoza_Ath Bilbao_2010,Ath Bilbao,13,13,26,28
+2011-03-02,Osasuna_La Coruna_2010,La Coruna,12,14,26,28
+2011-03-02,Villarreal_Hercules_2010,Villarreal,14,12,26,28
+2011-03-02,Valencia_Barcelona_2010,Valencia,14,12,26,28
+2011-03-02,Sociedad_Levante_2010,Levante,12,14,26,28
+2011-03-02,Osasuna_La Coruna_2010,Osasuna,13,13,26,28
+2011-03-02,Valencia_Barcelona_2010,Barcelona,13,13,26,28
+2011-03-02,Sociedad_Levante_2010,Sociedad,13,13,26,28
+2011-03-02,Getafe_Ath Madrid_2010,Getafe,14,12,26,28
+2011-03-02,Villarreal_Hercules_2010,Hercules,12,14,26,28
+2011-03-03,Real Madrid_Malaga_2010,Malaga,12,14,26,28
+2011-03-03,Almeria_Santander_2010,Almeria,13,13,26,28
+2011-03-03,Real Madrid_Malaga_2010,Real Madrid,13,13,26,28
+2011-03-03,Almeria_Santander_2010,Santander,12,14,26,28
+2011-03-05,Ath Madrid_Villarreal_2010,Villarreal,14,13,27,28
+2011-03-05,Mallorca_Valencia_2010,Mallorca,14,13,27,28
+2011-03-05,Barcelona_Zaragoza_2010,Barcelona,14,13,27,28
+2011-03-05,Barcelona_Zaragoza_2010,Zaragoza,14,13,27,28
+2011-03-05,Ath Madrid_Villarreal_2010,Ath Madrid,14,13,27,28
+2011-03-05,Mallorca_Valencia_2010,Valencia,14,13,27,28
+2011-03-06,Sp Gijon_Getafe_2010,Getafe,14,13,27,28
+2011-03-06,Ath Bilbao_Sevilla_2010,Ath Bilbao,14,13,27,28
+2011-03-06,Santander_Real Madrid_2010,Santander,13,14,27,28
+2011-03-06,Malaga_Osasuna_2010,Osasuna,13,14,27,28
+2011-03-06,Ath Bilbao_Sevilla_2010,Sevilla,14,13,27,28
+2011-03-06,Hercules_Almeria_2010,Hercules,13,14,27,28
+2011-03-06,Santander_Real Madrid_2010,Real Madrid,13,14,27,28
+2011-03-06,Hercules_Almeria_2010,Almeria,13,14,27,28
+2011-03-06,Sp Gijon_Getafe_2010,Sp Gijon,14,13,27,28
+2011-03-06,Levante_Espanol_2010,Levante,13,14,27,28
+2011-03-06,Malaga_Osasuna_2010,Malaga,13,14,27,28
+2011-03-06,Levante_Espanol_2010,Espanol,13,14,27,28
+2011-03-07,La Coruna_Sociedad_2010,La Coruna,13,14,27,28
+2011-03-07,La Coruna_Sociedad_2010,Sociedad,13,14,27,28
+2011-03-12,Real Madrid_Hercules_2010,Hercules,13,15,28,29
+2011-03-12,Zaragoza_Valencia_2010,Valencia,14,14,28,29
+2011-03-12,Real Madrid_Hercules_2010,Real Madrid,14,14,28,29
+2011-03-12,Almeria_Ath Madrid_2010,Almeria,14,14,28,29
+2011-03-12,Zaragoza_Valencia_2010,Zaragoza,15,13,28,29
+2011-03-12,Almeria_Ath Madrid_2010,Ath Madrid,14,14,28,29
+2011-03-13,Sociedad_Malaga_2010,Sociedad,14,14,28,29
+2011-03-13,Levante_Mallorca_2010,Mallorca,14,14,28,29
+2011-03-13,Espanol_La Coruna_2010,Espanol,14,14,28,29
+2011-03-13,Sociedad_Malaga_2010,Malaga,13,15,28,29
+2011-03-13,Osasuna_Santander_2010,Santander,13,15,28,29
+2011-03-13,Sevilla_Barcelona_2010,Barcelona,14,14,28,29
+2011-03-13,Villarreal_Sp Gijon_2010,Sp Gijon,14,14,28,29
+2011-03-13,Sevilla_Barcelona_2010,Sevilla,15,13,28,29
+2011-03-13,Espanol_La Coruna_2010,La Coruna,13,15,28,29
+2011-03-13,Villarreal_Sp Gijon_2010,Villarreal,15,13,28,29
+2011-03-13,Osasuna_Santander_2010,Osasuna,14,14,28,29
+2011-03-13,Levante_Mallorca_2010,Levante,14,14,28,29
+2011-03-14,Getafe_Ath Bilbao_2010,Getafe,15,13,28,29
+2011-03-14,Getafe_Ath Bilbao_2010,Ath Bilbao,14,14,28,29
+2011-03-19,Mallorca_Zaragoza_2010,Mallorca,15,14,29,30
+2011-03-19,Ath Madrid_Real Madrid_2010,Real Madrid,14,15,29,30
+2011-03-19,Barcelona_Getafe_2010,Getafe,15,14,29,30
+2011-03-19,Ath Madrid_Real Madrid_2010,Ath Madrid,15,14,29,30
+2011-03-19,Barcelona_Getafe_2010,Barcelona,15,14,29,30
+2011-03-19,Mallorca_Zaragoza_2010,Zaragoza,15,14,29,30
+2011-03-20,Malaga_Espanol_2010,Espanol,14,15,29,30
+2011-03-20,Sp Gijon_Almeria_2010,Sp Gijon,15,14,29,30
+2011-03-20,Ath Bilbao_Villarreal_2010,Ath Bilbao,15,14,29,30
+2011-03-20,Sp Gijon_Almeria_2010,Almeria,14,15,29,30
+2011-03-20,La Coruna_Levante_2010,La Coruna,14,15,29,30
+2011-03-20,Ath Bilbao_Villarreal_2010,Villarreal,15,14,29,30
+2011-03-20,Santander_Sociedad_2010,Sociedad,14,15,29,30
+2011-03-20,Hercules_Osasuna_2010,Osasuna,14,15,29,30
+2011-03-20,Hercules_Osasuna_2010,Hercules,14,15,29,30
+2011-03-20,Malaga_Espanol_2010,Malaga,14,15,29,30
+2011-03-20,Santander_Sociedad_2010,Santander,14,15,29,30
+2011-03-20,La Coruna_Levante_2010,Levante,14,15,29,30
+2011-03-20,Valencia_Sevilla_2010,Valencia,15,14,29,30
+2011-03-20,Valencia_Sevilla_2010,Sevilla,15,14,29,30
+2011-04-02,Villarreal_Barcelona_2010,Villarreal,16,14,30,32
+2011-04-02,Villarreal_Barcelona_2010,Barcelona,15,15,30,32
+2011-04-02,Getafe_Valencia_2010,Valencia,15,15,30,32
+2011-04-02,Getafe_Valencia_2010,Getafe,16,14,30,32
+2011-04-02,Real Madrid_Sp Gijon_2010,Real Madrid,15,15,30,32
+2011-04-02,Real Madrid_Sp Gijon_2010,Sp Gijon,15,15,30,32
+2011-04-03,Espanol_Santander_2010,Santander,14,16,30,32
+2011-04-03,Sociedad_Hercules_2010,Hercules,14,16,30,32
+2011-04-03,Osasuna_Ath Madrid_2010,Osasuna,15,15,30,32
+2011-04-03,Levante_Malaga_2010,Malaga,14,16,30,32
+2011-04-03,Levante_Malaga_2010,Levante,15,15,30,32
+2011-04-03,La Coruna_Mallorca_2010,La Coruna,15,15,30,32
+2011-04-03,Osasuna_Ath Madrid_2010,Ath Madrid,15,15,30,32
+2011-04-03,La Coruna_Mallorca_2010,Mallorca,15,15,30,32
+2011-04-03,Sevilla_Zaragoza_2010,Sevilla,16,14,30,32
+2011-04-03,Espanol_Santander_2010,Espanol,15,15,30,32
+2011-04-03,Sevilla_Zaragoza_2010,Zaragoza,15,15,30,32
+2011-04-03,Sociedad_Hercules_2010,Sociedad,15,15,30,32
+2011-04-04,Almeria_Ath Bilbao_2010,Ath Bilbao,15,15,30,32
+2011-04-04,Almeria_Ath Bilbao_2010,Almeria,15,15,30,32
+2011-04-09,Barcelona_Almeria_2010,Barcelona,16,15,31,33
+2011-04-09,Barcelona_Almeria_2010,Almeria,15,16,31,33
+2011-04-09,Mallorca_Sevilla_2010,Sevilla,16,15,31,33
+2011-04-09,Ath Bilbao_Real Madrid_2010,Real Madrid,15,16,31,33
+2011-04-09,Ath Bilbao_Real Madrid_2010,Ath Bilbao,16,15,31,33
+2011-04-09,Mallorca_Sevilla_2010,Mallorca,16,15,31,33
+2011-04-10,Sp Gijon_Osasuna_2010,Sp Gijon,16,15,31,33
+2011-04-10,Santander_Levante_2010,Santander,15,16,31,33
+2011-04-10,Malaga_La Coruna_2010,Malaga,15,16,31,33
+2011-04-10,Hercules_Espanol_2010,Hercules,15,16,31,33
+2011-04-10,Malaga_La Coruna_2010,La Coruna,15,16,31,33
+2011-04-10,Sp Gijon_Osasuna_2010,Osasuna,15,16,31,33
+2011-04-10,Valencia_Villarreal_2010,Valencia,16,15,31,33
+2011-04-10,Ath Madrid_Sociedad_2010,Sociedad,15,16,31,33
+2011-04-10,Valencia_Villarreal_2010,Villarreal,16,15,31,33
+2011-04-10,Hercules_Espanol_2010,Espanol,15,16,31,33
+2011-04-10,Santander_Levante_2010,Levante,15,16,31,33
+2011-04-10,Ath Madrid_Sociedad_2010,Ath Madrid,16,15,31,33
+2011-04-11,Zaragoza_Getafe_2010,Zaragoza,16,15,31,33
+2011-04-11,Zaragoza_Getafe_2010,Getafe,16,15,31,33
+2011-04-16,Real Madrid_Barcelona_2010,Real Madrid,16,16,32,34
+2011-04-16,Malaga_Mallorca_2010,Malaga,16,16,32,34
+2011-04-16,Real Madrid_Barcelona_2010,Barcelona,16,16,32,34
+2011-04-16,Getafe_Sevilla_2010,Getafe,17,15,32,34
+2011-04-16,Malaga_Mallorca_2010,Mallorca,16,16,32,34
+2011-04-16,Almeria_Valencia_2010,Valencia,16,16,32,34
+2011-04-16,Almeria_Valencia_2010,Almeria,16,16,32,34
+2011-04-16,Getafe_Sevilla_2010,Sevilla,16,16,32,34
+2011-04-17,Levante_Hercules_2010,Levante,16,16,32,34
+2011-04-17,Espanol_Ath Madrid_2010,Ath Madrid,16,16,32,34
+2011-04-17,Osasuna_Ath Bilbao_2010,Ath Bilbao,16,16,32,34
+2011-04-17,Levante_Hercules_2010,Hercules,15,17,32,34
+2011-04-17,Espanol_Ath Madrid_2010,Espanol,16,16,32,34
+2011-04-17,Sociedad_Sp Gijon_2010,Sp Gijon,16,16,32,34
+2011-04-17,Osasuna_Ath Bilbao_2010,Osasuna,16,16,32,34
+2011-04-17,Sociedad_Sp Gijon_2010,Sociedad,16,16,32,34
+2011-04-17,La Coruna_Santander_2010,Santander,15,17,32,34
+2011-04-17,La Coruna_Santander_2010,La Coruna,16,16,32,34
+2011-04-18,Villarreal_Zaragoza_2010,Zaragoza,16,16,32,34
+2011-04-18,Villarreal_Zaragoza_2010,Villarreal,17,15,32,34
+2011-04-23,Barcelona_Osasuna_2010,Barcelona,17,16,33,35
+2011-04-23,Valencia_Real Madrid_2010,Real Madrid,16,17,33,35
+2011-04-23,Ath Bilbao_Sociedad_2010,Sociedad,16,17,33,35
+2011-04-23,Valencia_Real Madrid_2010,Valencia,17,16,33,35
+2011-04-23,Ath Bilbao_Sociedad_2010,Ath Bilbao,17,16,33,35
+2011-04-23,Barcelona_Osasuna_2010,Osasuna,16,17,33,35
+2011-04-24,Hercules_La Coruna_2010,Hercules,16,17,33,35
+2011-04-24,Sp Gijon_Espanol_2010,Sp Gijon,17,16,33,35
+2011-04-24,Ath Madrid_Levante_2010,Ath Madrid,17,16,33,35
+2011-04-24,Santander_Malaga_2010,Malaga,16,17,33,35
+2011-04-24,Mallorca_Getafe_2010,Mallorca,17,16,33,35
+2011-04-24,Mallorca_Getafe_2010,Getafe,17,16,33,35
+2011-04-24,Santander_Malaga_2010,Santander,16,17,33,35
+2011-04-24,Sp Gijon_Espanol_2010,Espanol,16,17,33,35
+2011-04-24,Ath Madrid_Levante_2010,Levante,16,17,33,35
+2011-04-24,Hercules_La Coruna_2010,La Coruna,16,17,33,35
+2011-04-24,Sevilla_Villarreal_2010,Sevilla,17,16,33,35
+2011-04-24,Sevilla_Villarreal_2010,Villarreal,17,16,33,35
+2011-04-25,Zaragoza_Almeria_2010,Zaragoza,17,16,33,35
+2011-04-25,Zaragoza_Almeria_2010,Almeria,16,17,33,35
+2011-04-30,Real Madrid_Zaragoza_2010,Real Madrid,17,17,34,36
+2011-04-30,Real Madrid_Zaragoza_2010,Zaragoza,17,17,34,36
+2011-04-30,La Coruna_Ath Madrid_2010,La Coruna,17,17,34,36
+2011-04-30,Sociedad_Barcelona_2010,Barcelona,17,17,34,36
+2011-04-30,Sociedad_Barcelona_2010,Sociedad,17,17,34,36
+2011-04-30,La Coruna_Ath Madrid_2010,Ath Madrid,17,17,34,36
+2011-05-01,Malaga_Hercules_2010,Malaga,17,17,34,36
+2011-05-01,Osasuna_Valencia_2010,Valencia,17,17,34,36
+2011-05-01,Malaga_Hercules_2010,Hercules,16,18,34,36
+2011-05-01,Almeria_Sevilla_2010,Sevilla,17,17,34,36
+2011-05-01,Villarreal_Getafe_2010,Villarreal,18,16,34,36
+2011-05-01,Osasuna_Valencia_2010,Osasuna,17,17,34,36
+2011-05-01,Levante_Sp Gijon_2010,Sp Gijon,17,17,34,36
+2011-05-01,Santander_Mallorca_2010,Santander,17,17,34,36
+2011-05-01,Villarreal_Getafe_2010,Getafe,17,17,34,36
+2011-05-01,Levante_Sp Gijon_2010,Levante,17,17,34,36
+2011-05-01,Almeria_Sevilla_2010,Almeria,17,17,34,36
+2011-05-01,Santander_Mallorca_2010,Mallorca,17,17,34,36
+2011-05-02,Espanol_Ath Bilbao_2010,Ath Bilbao,17,17,34,36
+2011-05-02,Espanol_Ath Bilbao_2010,Espanol,17,17,34,36
+2011-05-07,Getafe_Almeria_2010,Getafe,18,17,35,37
+2011-05-07,Sevilla_Real Madrid_2010,Real Madrid,17,18,35,37
+2011-05-07,Sp Gijon_La Coruna_2010,La Coruna,17,18,35,37
+2011-05-07,Sevilla_Real Madrid_2010,Sevilla,18,17,35,37
+2011-05-07,Ath Bilbao_Levante_2010,Levante,17,18,35,37
+2011-05-07,Ath Madrid_Malaga_2010,Malaga,17,18,35,37
+2011-05-07,Sp Gijon_La Coruna_2010,Sp Gijon,18,17,35,37
+2011-05-07,Ath Bilbao_Levante_2010,Ath Bilbao,18,17,35,37
+2011-05-07,Valencia_Sociedad_2010,Valencia,18,17,35,37
+2011-05-07,Valencia_Sociedad_2010,Sociedad,17,18,35,37
+2011-05-07,Hercules_Santander_2010,Hercules,17,18,35,37
+2011-05-07,Getafe_Almeria_2010,Almeria,17,18,35,37
+2011-05-07,Hercules_Santander_2010,Santander,17,18,35,37
+2011-05-07,Ath Madrid_Malaga_2010,Ath Madrid,18,17,35,37
+2011-05-08,Zaragoza_Osasuna_2010,Zaragoza,18,17,35,37
+2011-05-08,Mallorca_Villarreal_2010,Villarreal,18,17,35,37
+2011-05-08,Barcelona_Espanol_2010,Barcelona,18,17,35,37
+2011-05-08,Barcelona_Espanol_2010,Espanol,17,18,35,37
+2011-05-08,Mallorca_Villarreal_2010,Mallorca,18,17,35,37
+2011-05-08,Zaragoza_Osasuna_2010,Osasuna,17,18,35,37
+2011-05-10,Malaga_Sp Gijon_2010,Malaga,18,18,36,38
+2011-05-10,Santander_Ath Madrid_2010,Santander,18,18,36,38
+2011-05-10,La Coruna_Ath Bilbao_2010,La Coruna,18,18,36,38
+2011-05-10,Real Madrid_Getafe_2010,Real Madrid,18,18,36,38
+2011-05-10,Santander_Ath Madrid_2010,Ath Madrid,18,18,36,38
+2011-05-10,Real Madrid_Getafe_2010,Getafe,18,18,36,38
+2011-05-10,La Coruna_Ath Bilbao_2010,Ath Bilbao,18,18,36,38
+2011-05-10,Malaga_Sp Gijon_2010,Sp Gijon,18,18,36,38
+2011-05-11,Sociedad_Zaragoza_2010,Zaragoza,18,18,36,38
+2011-05-11,Levante_Barcelona_2010,Barcelona,18,18,36,38
+2011-05-11,Osasuna_Sevilla_2010,Osasuna,18,18,36,38
+2011-05-11,Sociedad_Zaragoza_2010,Sociedad,18,18,36,38
+2011-05-11,Almeria_Villarreal_2010,Almeria,18,18,36,38
+2011-05-11,Espanol_Valencia_2010,Valencia,18,18,36,38
+2011-05-11,Levante_Barcelona_2010,Levante,18,18,36,38
+2011-05-11,Hercules_Mallorca_2010,Hercules,18,18,36,38
+2011-05-11,Espanol_Valencia_2010,Espanol,18,18,36,38
+2011-05-11,Osasuna_Sevilla_2010,Sevilla,18,18,36,38
+2011-05-11,Hercules_Mallorca_2010,Mallorca,18,18,36,38
+2011-05-11,Almeria_Villarreal_2010,Villarreal,18,18,36,38
+2011-05-15,Getafe_Osasuna_2010,Getafe,19,18,37,38
+2011-05-15,Sevilla_Sociedad_2010,Sociedad,18,19,37,38
+2011-05-15,Zaragoza_Espanol_2010,Zaragoza,19,18,37,38
+2011-05-15,Sp Gijon_Santander_2010,Sp Gijon,19,18,37,38
+2011-05-15,Sp Gijon_Santander_2010,Santander,18,19,37,38
+2011-05-15,Ath Madrid_Hercules_2010,Hercules,18,19,37,38
+2011-05-15,Ath Bilbao_Malaga_2010,Ath Bilbao,19,18,37,38
+2011-05-15,Almeria_Mallorca_2010,Almeria,19,18,37,38
+2011-05-15,Valencia_Levante_2010,Valencia,19,18,37,38
+2011-05-15,Ath Bilbao_Malaga_2010,Malaga,18,19,37,38
+2011-05-15,Getafe_Osasuna_2010,Osasuna,18,19,37,38
+2011-05-15,Barcelona_La Coruna_2010,La Coruna,18,19,37,38
+2011-05-15,Almeria_Mallorca_2010,Mallorca,18,19,37,38
+2011-05-15,Sevilla_Sociedad_2010,Sevilla,19,18,37,38
+2011-05-15,Villarreal_Real Madrid_2010,Real Madrid,18,19,37,38
+2011-05-15,Barcelona_La Coruna_2010,Barcelona,19,18,37,38
+2011-05-15,Valencia_Levante_2010,Levante,18,19,37,38
+2011-05-15,Ath Madrid_Hercules_2010,Ath Madrid,19,18,37,38
+2011-05-15,Villarreal_Real Madrid_2010,Villarreal,19,18,37,38
+2011-05-15,Zaragoza_Espanol_2010,Espanol,18,19,37,38
+2011-05-21,Levante_Zaragoza_2010,Levante,19,19,38,39
+2011-05-21,Real Madrid_Almeria_2010,Real Madrid,19,19,38,39
+2011-05-21,La Coruna_Valencia_2010,Valencia,19,19,38,39
+2011-05-21,Espanol_Sevilla_2010,Espanol,19,19,38,39
+2011-05-21,Hercules_Sp Gijon_2010,Hercules,19,19,38,39
+2011-05-21,Santander_Ath Bilbao_2010,Ath Bilbao,19,19,38,39
+2011-05-21,Malaga_Barcelona_2010,Malaga,19,19,38,39
+2011-05-21,Sociedad_Getafe_2010,Getafe,19,19,38,39
+2011-05-21,Mallorca_Ath Madrid_2010,Ath Madrid,19,19,38,39
+2011-05-21,Espanol_Sevilla_2010,Sevilla,19,19,38,39
+2011-05-21,Real Madrid_Almeria_2010,Almeria,19,19,38,39
+2011-05-21,Osasuna_Villarreal_2010,Osasuna,19,19,38,39
+2011-05-21,Osasuna_Villarreal_2010,Villarreal,19,19,38,39
+2011-05-21,Malaga_Barcelona_2010,Barcelona,19,19,38,39
+2011-05-21,La Coruna_Valencia_2010,La Coruna,19,19,38,39
+2011-05-21,Sociedad_Getafe_2010,Sociedad,19,19,38,39
+2011-05-21,Santander_Ath Bilbao_2010,Santander,19,19,38,39
+2011-05-21,Mallorca_Ath Madrid_2010,Mallorca,19,19,38,39
+2011-05-21,Hercules_Sp Gijon_2010,Sp Gijon,19,19,38,39
+2011-05-21,Levante_Zaragoza_2010,Zaragoza,19,19,38,39

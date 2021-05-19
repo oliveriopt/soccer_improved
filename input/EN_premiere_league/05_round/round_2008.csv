@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2008-08-16,Arsenal_West Brom_2008,Arsenal,1,1,1,1
+2008-08-16,Hull_Fulham_2008,Fulham,1,1,1,1
+2008-08-16,West Ham_Wigan_2008,West Ham,1,1,1,1
+2008-08-16,Bolton_Stoke_2008,Stoke,1,1,1,1
+2008-08-16,Middlesbrough_Tottenham_2008,Tottenham,1,1,1,1
+2008-08-16,Bolton_Stoke_2008,Bolton,1,1,1,1
+2008-08-16,West Ham_Wigan_2008,Wigan,1,1,1,1
+2008-08-16,Sunderland_Liverpool_2008,Liverpool,1,1,1,1
+2008-08-16,Sunderland_Liverpool_2008,Sunderland,1,1,1,1
+2008-08-16,Middlesbrough_Tottenham_2008,Middlesbrough,1,1,1,1
+2008-08-16,Arsenal_West Brom_2008,West Brom,1,1,1,1
+2008-08-16,Everton_Blackburn_2008,Everton,1,1,1,1
+2008-08-16,Hull_Fulham_2008,Hull,1,1,1,1
+2008-08-16,Everton_Blackburn_2008,Blackburn,1,1,1,1
+2008-08-17,Aston Villa_Man City_2008,Man City,1,1,1,1
+2008-08-17,Aston Villa_Man City_2008,Aston Villa,1,1,1,1
+2008-08-17,Man United_Newcastle_2008,Newcastle,1,1,1,1
+2008-08-17,Chelsea_Portsmouth_2008,Chelsea,1,1,1,1
+2008-08-17,Man United_Newcastle_2008,Man United,1,1,1,1
+2008-08-17,Chelsea_Portsmouth_2008,Portsmouth,1,1,1,1
+2008-08-23,Newcastle_Bolton_2008,Bolton,1,1,2,2
+2008-08-23,Liverpool_Middlesbrough_2008,Liverpool,1,1,2,2
+2008-08-23,Tottenham_Sunderland_2008,Tottenham,1,1,2,2
+2008-08-23,Blackburn_Hull_2008,Hull,1,1,2,2
+2008-08-23,Blackburn_Hull_2008,Blackburn,1,1,2,2
+2008-08-23,Liverpool_Middlesbrough_2008,Middlesbrough,1,1,2,2
+2008-08-23,West Brom_Everton_2008,Everton,1,1,2,2
+2008-08-23,Fulham_Arsenal_2008,Arsenal,1,1,2,2
+2008-08-23,Stoke_Aston Villa_2008,Aston Villa,1,1,2,2
+2008-08-23,Tottenham_Sunderland_2008,Sunderland,1,1,2,2
+2008-08-23,Fulham_Arsenal_2008,Fulham,1,1,2,2
+2008-08-23,West Brom_Everton_2008,West Brom,1,1,2,2
+2008-08-23,Stoke_Aston Villa_2008,Stoke,1,1,2,2
+2008-08-23,Newcastle_Bolton_2008,Newcastle,1,1,2,2
+2008-08-24,Man City_West Ham_2008,Man City,1,1,2,2
+2008-08-24,Wigan_Chelsea_2008,Chelsea,1,1,2,2
+2008-08-24,Wigan_Chelsea_2008,Wigan,1,1,2,2
+2008-08-24,Man City_West Ham_2008,West Ham,1,1,2,2
+2008-08-25,Portsmouth_Man United_2008,Portsmouth,1,1,2,2
+2008-08-25,Portsmouth_Man United_2008,Man United,1,1,2,2
+2008-08-30,Arsenal_Newcastle_2008,Arsenal,2,1,3,3
+2008-08-30,Bolton_West Brom_2008,West Brom,1,2,3,3
+2008-08-30,Hull_Wigan_2008,Wigan,1,2,3,3
+2008-08-30,West Ham_Blackburn_2008,West Ham,2,1,3,3
+2008-08-30,Everton_Portsmouth_2008,Portsmouth,1,2,3,3
+2008-08-30,Bolton_West Brom_2008,Bolton,2,1,3,3
+2008-08-30,Middlesbrough_Stoke_2008,Middlesbrough,2,1,3,3
+2008-08-30,Arsenal_Newcastle_2008,Newcastle,1,2,3,3
+2008-08-30,Middlesbrough_Stoke_2008,Stoke,1,2,3,3
+2008-08-30,West Ham_Blackburn_2008,Blackburn,1,2,3,3
+2008-08-30,Hull_Wigan_2008,Hull,2,1,3,3
+2008-08-30,Everton_Portsmouth_2008,Everton,2,1,3,3
+2008-08-31,Chelsea_Tottenham_2008,Tottenham,1,2,3,3
+2008-08-31,Aston Villa_Liverpool_2008,Liverpool,1,2,3,3
+2008-08-31,Sunderland_Man City_2008,Sunderland,2,1,3,3
+2008-08-31,Chelsea_Tottenham_2008,Chelsea,2,1,3,3
+2008-08-31,Aston Villa_Liverpool_2008,Aston Villa,2,1,3,3
+2008-08-31,Sunderland_Man City_2008,Man City,1,2,3,3
+2008-09-13,Liverpool_Man United_2008,Man United,1,2,3,5
+2008-09-13,Man City_Chelsea_2008,Man City,2,2,4,5
+2008-09-13,Portsmouth_Middlesbrough_2008,Middlesbrough,2,2,4,5
+2008-09-13,Blackburn_Arsenal_2008,Arsenal,2,2,4,5
+2008-09-13,West Brom_West Ham_2008,West Ham,2,2,4,5
+2008-09-13,Man City_Chelsea_2008,Chelsea,2,2,4,5
+2008-09-13,Newcastle_Hull_2008,Hull,2,2,4,5
+2008-09-13,Wigan_Sunderland_2008,Sunderland,2,2,4,5
+2008-09-13,Fulham_Bolton_2008,Fulham,2,1,3,5
+2008-09-13,West Brom_West Ham_2008,West Brom,2,2,4,5
+2008-09-13,Portsmouth_Middlesbrough_2008,Portsmouth,2,2,4,5
+2008-09-13,Liverpool_Man United_2008,Liverpool,2,2,4,5
+2008-09-13,Fulham_Bolton_2008,Bolton,2,2,4,5
+2008-09-13,Newcastle_Hull_2008,Newcastle,2,2,4,5
+2008-09-13,Wigan_Sunderland_2008,Wigan,2,2,4,5
+2008-09-13,Blackburn_Arsenal_2008,Blackburn,2,2,4,5
+2008-09-14,Stoke_Everton_2008,Stoke,2,2,4,5
+2008-09-14,Stoke_Everton_2008,Everton,2,2,4,5
+2008-09-15,Tottenham_Aston Villa_2008,Aston Villa,2,2,4,5
+2008-09-15,Tottenham_Aston Villa_2008,Tottenham,2,2,4,5
+2008-09-20,Bolton_Arsenal_2008,Arsenal,2,3,5,6
+2008-09-20,Bolton_Arsenal_2008,Bolton,3,2,5,6
+2008-09-20,Sunderland_Middlesbrough_2008,Middlesbrough,2,3,5,6
+2008-09-20,West Ham_Newcastle_2008,West Ham,3,2,5,6
+2008-09-20,Liverpool_Stoke_2008,Liverpool,3,2,5,6
+2008-09-20,West Ham_Newcastle_2008,Newcastle,2,3,5,6
+2008-09-20,Blackburn_Fulham_2008,Fulham,2,2,4,6
+2008-09-20,Blackburn_Fulham_2008,Blackburn,3,2,5,6
+2008-09-20,Sunderland_Middlesbrough_2008,Sunderland,3,2,5,6
+2008-09-20,Liverpool_Stoke_2008,Stoke,2,3,5,6
+2008-09-21,Hull_Everton_2008,Hull,3,2,5,6
+2008-09-21,Tottenham_Wigan_2008,Tottenham,3,2,5,6
+2008-09-21,Hull_Everton_2008,Everton,2,3,5,6
+2008-09-21,Chelsea_Man United_2008,Chelsea,3,2,5,6
+2008-09-21,Man City_Portsmouth_2008,Man City,3,2,5,6
+2008-09-21,Chelsea_Man United_2008,Man United,1,3,4,6
+2008-09-21,West Brom_Aston Villa_2008,Aston Villa,2,3,5,6
+2008-09-21,West Brom_Aston Villa_2008,West Brom,3,2,5,6
+2008-09-21,Tottenham_Wigan_2008,Wigan,2,3,5,6
+2008-09-21,Man City_Portsmouth_2008,Portsmouth,2,3,5,6
+2008-09-27,Arsenal_Hull_2008,Hull,3,3,6,7
+2008-09-27,Aston Villa_Sunderland_2008,Sunderland,3,3,6,7
+2008-09-27,Fulham_West Ham_2008,Fulham,3,2,5,7
+2008-09-27,Newcastle_Blackburn_2008,Blackburn,3,3,6,7
+2008-09-27,Middlesbrough_West Brom_2008,Middlesbrough,3,3,6,7
+2008-09-27,Everton_Liverpool_2008,Everton,3,3,6,7
+2008-09-27,Fulham_West Ham_2008,West Ham,3,3,6,7
+2008-09-27,Newcastle_Blackburn_2008,Newcastle,3,3,6,7
+2008-09-27,Stoke_Chelsea_2008,Stoke,3,3,6,7
+2008-09-27,Middlesbrough_West Brom_2008,West Brom,3,3,6,7
+2008-09-27,Man United_Bolton_2008,Bolton,3,3,6,7
+2008-09-27,Arsenal_Hull_2008,Arsenal,3,3,6,7
+2008-09-27,Everton_Liverpool_2008,Liverpool,3,3,6,7
+2008-09-27,Stoke_Chelsea_2008,Chelsea,3,3,6,7
+2008-09-27,Aston Villa_Sunderland_2008,Aston Villa,3,3,6,7
+2008-09-27,Man United_Bolton_2008,Man United,2,3,5,7
+2008-09-28,Wigan_Man City_2008,Man City,3,3,6,7
+2008-09-28,Portsmouth_Tottenham_2008,Portsmouth,3,3,6,7
+2008-09-28,Portsmouth_Tottenham_2008,Tottenham,3,3,6,7
+2008-09-28,Wigan_Man City_2008,Wigan,3,3,6,7
+2008-10-04,Blackburn_Man United_2008,Man United,2,4,6,8
+2008-10-04,Wigan_Middlesbrough_2008,Middlesbrough,3,4,7,8
+2008-10-04,Sunderland_Arsenal_2008,Sunderland,4,3,7,8
+2008-10-04,Blackburn_Man United_2008,Blackburn,4,3,7,8
+2008-10-04,Wigan_Middlesbrough_2008,Wigan,4,3,7,8
+2008-10-04,West Brom_Fulham_2008,Fulham,3,3,6,8
+2008-10-04,West Brom_Fulham_2008,West Brom,4,3,7,8
+2008-10-04,Sunderland_Arsenal_2008,Arsenal,3,4,7,8
+2008-10-05,Portsmouth_Stoke_2008,Stoke,3,4,7,8
+2008-10-05,Man City_Liverpool_2008,Liverpool,3,4,7,8
+2008-10-05,Portsmouth_Stoke_2008,Portsmouth,4,3,7,8
+2008-10-05,West Ham_Bolton_2008,Bolton,3,4,7,8
+2008-10-05,Tottenham_Hull_2008,Tottenham,4,3,7,8
+2008-10-05,Man City_Liverpool_2008,Man City,4,3,7,8
+2008-10-05,Chelsea_Aston Villa_2008,Chelsea,4,3,7,8
+2008-10-05,Chelsea_Aston Villa_2008,Aston Villa,3,4,7,8
+2008-10-05,Tottenham_Hull_2008,Hull,3,4,7,8
+2008-10-05,Everton_Newcastle_2008,Newcastle,3,4,7,8
+2008-10-05,Everton_Newcastle_2008,Everton,4,3,7,8
+2008-10-05,West Ham_Bolton_2008,West Ham,4,3,7,8
+2008-10-18,Arsenal_Everton_2008,Everton,4,4,8,10
+2008-10-18,Fulham_Sunderland_2008,Fulham,4,3,7,10
+2008-10-18,Liverpool_Wigan_2008,Liverpool,4,4,8,10
+2008-10-18,Arsenal_Everton_2008,Arsenal,4,4,8,10
+2008-10-18,Man United_West Brom_2008,Man United,3,4,7,10
+2008-10-18,Bolton_Blackburn_2008,Bolton,4,4,8,10
+2008-10-18,Aston Villa_Portsmouth_2008,Aston Villa,4,4,8,10
+2008-10-18,Man United_West Brom_2008,West Brom,4,4,8,10
+2008-10-18,Bolton_Blackburn_2008,Blackburn,4,4,8,10
+2008-10-18,Middlesbrough_Chelsea_2008,Middlesbrough,4,4,8,10
+2008-10-18,Aston Villa_Portsmouth_2008,Portsmouth,4,4,8,10
+2008-10-18,Middlesbrough_Chelsea_2008,Chelsea,4,4,8,10
+2008-10-18,Liverpool_Wigan_2008,Wigan,4,4,8,10
+2008-10-18,Fulham_Sunderland_2008,Sunderland,4,4,8,10
+2008-10-19,Hull_West Ham_2008,Hull,4,4,8,10
+2008-10-19,Stoke_Tottenham_2008,Stoke,4,4,8,10
+2008-10-19,Stoke_Tottenham_2008,Tottenham,4,4,8,10
+2008-10-19,Hull_West Ham_2008,West Ham,4,4,8,10
+2008-10-20,Newcastle_Man City_2008,Man City,4,4,8,10
+2008-10-20,Newcastle_Man City_2008,Newcastle,4,4,8,10
+2008-10-25,Everton_Man United_2008,Everton,5,4,9,11
+2008-10-25,West Brom_Hull_2008,Hull,4,5,9,11
+2008-10-25,Blackburn_Middlesbrough_2008,Blackburn,5,4,9,11
+2008-10-25,Sunderland_Newcastle_2008,Newcastle,4,5,9,11
+2008-10-25,Sunderland_Newcastle_2008,Sunderland,5,4,9,11
+2008-10-25,Blackburn_Middlesbrough_2008,Middlesbrough,4,5,9,11
+2008-10-25,West Brom_Hull_2008,West Brom,5,4,9,11
+2008-10-25,Everton_Man United_2008,Man United,3,5,8,11
+2008-10-26,Man City_Stoke_2008,Man City,5,4,9,11
+2008-10-26,Tottenham_Bolton_2008,Tottenham,5,4,9,11
+2008-10-26,West Ham_Arsenal_2008,Arsenal,4,5,9,11
+2008-10-26,Portsmouth_Fulham_2008,Fulham,4,4,8,11
+2008-10-26,Chelsea_Liverpool_2008,Chelsea,5,4,9,11
+2008-10-26,Chelsea_Liverpool_2008,Liverpool,4,5,9,11
+2008-10-26,Portsmouth_Fulham_2008,Portsmouth,5,4,9,11
+2008-10-26,Wigan_Aston Villa_2008,Aston Villa,4,5,9,11
+2008-10-26,West Ham_Arsenal_2008,West Ham,5,4,9,11
+2008-10-26,Wigan_Aston Villa_2008,Wigan,5,4,9,11
+2008-10-26,Tottenham_Bolton_2008,Bolton,4,5,9,11
+2008-10-26,Man City_Stoke_2008,Stoke,4,5,9,11
+2008-10-28,Newcastle_West Brom_2008,West Brom,5,5,10,12
+2008-10-28,Newcastle_West Brom_2008,Newcastle,5,5,10,12
+2008-10-29,Aston Villa_Blackburn_2008,Aston Villa,5,5,10,12
+2008-10-29,Middlesbrough_Man City_2008,Man City,5,5,10,12
+2008-10-29,Liverpool_Portsmouth_2008,Liverpool,5,5,10,12
+2008-10-29,Arsenal_Tottenham_2008,Arsenal,5,5,10,12
+2008-10-29,Fulham_Wigan_2008,Fulham,5,4,9,12
+2008-10-29,Bolton_Everton_2008,Bolton,5,5,10,12
+2008-10-29,Man United_West Ham_2008,West Ham,5,5,10,12
+2008-10-29,Aston Villa_Blackburn_2008,Blackburn,5,5,10,12
+2008-10-29,Stoke_Sunderland_2008,Stoke,5,5,10,12
+2008-10-29,Liverpool_Portsmouth_2008,Portsmouth,5,5,10,12
+2008-10-29,Stoke_Sunderland_2008,Sunderland,5,5,10,12
+2008-10-29,Hull_Chelsea_2008,Hull,5,5,10,12
+2008-10-29,Bolton_Everton_2008,Everton,5,5,10,12
+2008-10-29,Hull_Chelsea_2008,Chelsea,5,5,10,12
+2008-10-29,Man United_West Ham_2008,Man United,4,5,9,12
+2008-10-29,Middlesbrough_Man City_2008,Middlesbrough,5,5,10,12
+2008-10-29,Fulham_Wigan_2008,Wigan,5,5,10,12
+2008-10-29,Arsenal_Tottenham_2008,Tottenham,5,5,10,12
+2008-11-01,West Brom_Blackburn_2008,Blackburn,5,6,11,12
+2008-11-01,Everton_Fulham_2008,Everton,6,5,11,12
+2008-11-01,Middlesbrough_West Ham_2008,Middlesbrough,6,5,11,12
+2008-11-01,Chelsea_Sunderland_2008,Sunderland,5,6,11,12
+2008-11-01,Man United_Hull_2008,Man United,5,5,10,12
+2008-11-01,West Brom_Blackburn_2008,West Brom,6,5,11,12
+2008-11-01,Chelsea_Sunderland_2008,Chelsea,6,5,11,12
+2008-11-01,Stoke_Arsenal_2008,Stoke,6,5,11,12
+2008-11-01,Tottenham_Liverpool_2008,Liverpool,5,6,11,12
+2008-11-01,Tottenham_Liverpool_2008,Tottenham,6,5,11,12
+2008-11-01,Middlesbrough_West Ham_2008,West Ham,5,6,11,12
+2008-11-01,Man United_Hull_2008,Hull,5,6,11,12
+2008-11-01,Everton_Fulham_2008,Fulham,5,5,10,12
+2008-11-01,Stoke_Arsenal_2008,Arsenal,5,6,11,12
+2008-11-01,Portsmouth_Wigan_2008,Portsmouth,6,5,11,12
+2008-11-01,Portsmouth_Wigan_2008,Wigan,5,6,11,12
+2008-11-02,Bolton_Man City_2008,Man City,5,6,11,12
+2008-11-02,Bolton_Man City_2008,Bolton,6,5,11,12
+2008-11-03,Newcastle_Aston Villa_2008,Aston Villa,5,6,11,12
+2008-11-03,Newcastle_Aston Villa_2008,Newcastle,6,5,11,12
+2008-11-08,West Ham_Everton_2008,West Ham,6,6,12,13
+2008-11-08,Arsenal_Man United_2008,Man United,5,6,11,13
+2008-11-08,Wigan_Stoke_2008,Stoke,6,6,12,13
+2008-11-08,Liverpool_West Brom_2008,West Brom,6,6,12,13
+2008-11-08,Hull_Bolton_2008,Hull,6,6,12,13
+2008-11-08,Wigan_Stoke_2008,Wigan,6,6,12,13
+2008-11-08,Arsenal_Man United_2008,Arsenal,6,6,12,13
+2008-11-08,Hull_Bolton_2008,Bolton,6,6,12,13
+2008-11-08,Liverpool_West Brom_2008,Liverpool,6,6,12,13
+2008-11-08,Sunderland_Portsmouth_2008,Sunderland,6,6,12,13
+2008-11-08,West Ham_Everton_2008,Everton,6,6,12,13
+2008-11-08,Sunderland_Portsmouth_2008,Portsmouth,6,6,12,13
+2008-11-09,Blackburn_Chelsea_2008,Blackburn,6,6,12,13
+2008-11-09,Man City_Tottenham_2008,Tottenham,6,6,12,13
+2008-11-09,Man City_Tottenham_2008,Man City,6,6,12,13
+2008-11-09,Blackburn_Chelsea_2008,Chelsea,6,6,12,13
+2008-11-09,Fulham_Newcastle_2008,Newcastle,6,6,12,13
+2008-11-09,Aston Villa_Middlesbrough_2008,Aston Villa,6,6,12,13
+2008-11-09,Aston Villa_Middlesbrough_2008,Middlesbrough,6,6,12,13
+2008-11-09,Fulham_Newcastle_2008,Fulham,6,5,11,13
+2008-11-15,Man United_Stoke_2008,Stoke,6,7,13,14
+2008-11-15,Bolton_Liverpool_2008,Liverpool,6,7,13,14
+2008-11-15,Bolton_Liverpool_2008,Bolton,7,6,13,14
+2008-11-15,Arsenal_Aston Villa_2008,Aston Villa,6,7,13,14
+2008-11-15,West Ham_Portsmouth_2008,West Ham,7,6,13,14
+2008-11-15,West Brom_Chelsea_2008,West Brom,7,6,13,14
+2008-11-15,Arsenal_Aston Villa_2008,Arsenal,7,6,13,14
+2008-11-15,West Brom_Chelsea_2008,Chelsea,6,7,13,14
+2008-11-15,Newcastle_Wigan_2008,Wigan,6,7,13,14
+2008-11-15,Fulham_Tottenham_2008,Fulham,7,5,12,14
+2008-11-15,West Ham_Portsmouth_2008,Portsmouth,6,7,13,14
+2008-11-15,Man United_Stoke_2008,Man United,6,6,12,14
+2008-11-15,Blackburn_Sunderland_2008,Sunderland,6,7,13,14
+2008-11-15,Blackburn_Sunderland_2008,Blackburn,7,6,13,14
+2008-11-15,Newcastle_Wigan_2008,Newcastle,7,6,13,14
+2008-11-15,Fulham_Tottenham_2008,Tottenham,6,7,13,14
+2008-11-16,Everton_Middlesbrough_2008,Middlesbrough,6,7,13,14
+2008-11-16,Hull_Man City_2008,Man City,6,7,13,14
+2008-11-16,Hull_Man City_2008,Hull,7,6,13,14
+2008-11-16,Everton_Middlesbrough_2008,Everton,7,6,13,14
+2008-11-22,Middlesbrough_Bolton_2008,Bolton,7,7,14,15
+2008-11-22,Portsmouth_Hull_2008,Hull,7,7,14,15
+2008-11-22,Chelsea_Newcastle_2008,Chelsea,7,7,14,15
+2008-11-22,Man City_Arsenal_2008,Man City,7,7,14,15
+2008-11-22,Portsmouth_Hull_2008,Portsmouth,7,7,14,15
+2008-11-22,Aston Villa_Man United_2008,Man United,6,7,13,15
+2008-11-22,Chelsea_Newcastle_2008,Newcastle,7,7,14,15
+2008-11-22,Stoke_West Brom_2008,Stoke,7,7,14,15
+2008-11-22,Aston Villa_Man United_2008,Aston Villa,7,7,14,15
+2008-11-22,Stoke_West Brom_2008,West Brom,7,7,14,15
+2008-11-22,Middlesbrough_Bolton_2008,Middlesbrough,7,7,14,15
+2008-11-22,Liverpool_Fulham_2008,Liverpool,7,7,14,15
+2008-11-22,Man City_Arsenal_2008,Arsenal,7,7,14,15
+2008-11-22,Liverpool_Fulham_2008,Fulham,7,6,13,15
+2008-11-23,Sunderland_West Ham_2008,Sunderland,7,7,14,15
+2008-11-23,Sunderland_West Ham_2008,West Ham,7,7,14,15
+2008-11-23,Tottenham_Blackburn_2008,Tottenham,7,7,14,15
+2008-11-23,Tottenham_Blackburn_2008,Blackburn,7,7,14,15
+2008-11-24,Wigan_Everton_2008,Everton,7,7,14,15
+2008-11-24,Wigan_Everton_2008,Wigan,7,7,14,15
+2008-11-29,Stoke_Hull_2008,Hull,7,8,15,16
+2008-11-29,Aston Villa_Fulham_2008,Aston Villa,8,7,15,16
+2008-11-29,Wigan_West Brom_2008,Wigan,8,7,15,16
+2008-11-29,Sunderland_Bolton_2008,Sunderland,8,7,15,16
+2008-11-29,Middlesbrough_Newcastle_2008,Newcastle,7,8,15,16
+2008-11-29,Wigan_West Brom_2008,West Brom,7,8,15,16
+2008-11-29,Stoke_Hull_2008,Stoke,8,7,15,16
+2008-11-29,Sunderland_Bolton_2008,Bolton,7,8,15,16
+2008-11-29,Aston Villa_Fulham_2008,Fulham,7,7,14,16
+2008-11-29,Middlesbrough_Newcastle_2008,Middlesbrough,8,7,15,16
+2008-11-30,Chelsea_Arsenal_2008,Arsenal,7,8,15,16
+2008-11-30,Portsmouth_Blackburn_2008,Portsmouth,8,7,15,16
+2008-11-30,Man City_Man United_2008,Man City,8,7,15,16
+2008-11-30,Tottenham_Everton_2008,Tottenham,8,7,15,16
+2008-11-30,Tottenham_Everton_2008,Everton,7,8,15,16
+2008-11-30,Chelsea_Arsenal_2008,Chelsea,8,7,15,16
+2008-11-30,Man City_Man United_2008,Man United,6,8,14,16
+2008-11-30,Portsmouth_Blackburn_2008,Blackburn,7,8,15,16
+2008-12-01,Liverpool_West Ham_2008,Liverpool,8,7,15,16
+2008-12-01,Liverpool_West Ham_2008,West Ham,7,8,15,16
+2008-12-06,Fulham_Man City_2008,Fulham,8,7,15,17
+2008-12-06,Arsenal_Wigan_2008,Wigan,8,8,16,17
+2008-12-06,Man United_Sunderland_2008,Sunderland,8,8,16,17
+2008-12-06,Bolton_Chelsea_2008,Bolton,8,8,16,17
+2008-12-06,Man United_Sunderland_2008,Man United,7,8,15,17
+2008-12-06,Newcastle_Stoke_2008,Newcastle,8,8,16,17
+2008-12-06,Hull_Middlesbrough_2008,Hull,8,8,16,17
+2008-12-06,Blackburn_Liverpool_2008,Liverpool,8,8,16,17
+2008-12-06,Hull_Middlesbrough_2008,Middlesbrough,8,8,16,17
+2008-12-06,Blackburn_Liverpool_2008,Blackburn,8,8,16,17
+2008-12-06,Newcastle_Stoke_2008,Stoke,8,8,16,17
+2008-12-06,Bolton_Chelsea_2008,Chelsea,8,8,16,17
+2008-12-06,Arsenal_Wigan_2008,Arsenal,8,8,16,17
+2008-12-06,Fulham_Man City_2008,Man City,8,8,16,17
+2008-12-07,West Brom_Portsmouth_2008,Portsmouth,8,8,16,17
+2008-12-07,Everton_Aston Villa_2008,Everton,8,8,16,17
+2008-12-07,West Brom_Portsmouth_2008,West Brom,8,8,16,17
+2008-12-07,Everton_Aston Villa_2008,Aston Villa,8,8,16,17
+2008-12-08,West Ham_Tottenham_2008,Tottenham,8,8,16,17
+2008-12-08,West Ham_Tottenham_2008,West Ham,8,8,16,17
+2008-12-13,Wigan_Blackburn_2008,Blackburn,8,9,17,18
+2008-12-13,Liverpool_Hull_2008,Hull,8,9,17,18
+2008-12-13,Liverpool_Hull_2008,Liverpool,9,8,17,18
+2008-12-13,Man City_Everton_2008,Everton,8,9,17,18
+2008-12-13,Middlesbrough_Arsenal_2008,Middlesbrough,9,8,17,18
+2008-12-13,Man City_Everton_2008,Man City,9,8,17,18
+2008-12-13,Aston Villa_Bolton_2008,Aston Villa,9,8,17,18
+2008-12-13,Stoke_Fulham_2008,Stoke,9,8,17,18
+2008-12-13,Middlesbrough_Arsenal_2008,Arsenal,8,9,17,18
+2008-12-13,Aston Villa_Bolton_2008,Bolton,8,9,17,18
+2008-12-13,Stoke_Fulham_2008,Fulham,8,8,16,18
+2008-12-13,Tottenham_Man United_2008,Tottenham,9,8,17,18
+2008-12-13,Wigan_Blackburn_2008,Wigan,9,8,17,18
+2008-12-13,Sunderland_West Brom_2008,West Brom,8,9,17,18
+2008-12-13,Sunderland_West Brom_2008,Sunderland,9,8,17,18
+2008-12-13,Tottenham_Man United_2008,Man United,7,9,16,18
+2008-12-14,Portsmouth_Newcastle_2008,Newcastle,8,9,17,18
+2008-12-14,Chelsea_West Ham_2008,Chelsea,9,8,17,18
+2008-12-14,Portsmouth_Newcastle_2008,Portsmouth,9,8,17,18
+2008-12-14,Chelsea_West Ham_2008,West Ham,8,9,17,18
+2008-12-20,Bolton_Portsmouth_2008,Portsmouth,9,9,18,19
+2008-12-20,Bolton_Portsmouth_2008,Bolton,9,9,18,19
+2008-12-20,Blackburn_Stoke_2008,Stoke,9,9,18,19
+2008-12-20,West Ham_Aston Villa_2008,Aston Villa,9,9,18,19
+2008-12-20,West Ham_Aston Villa_2008,West Ham,9,9,18,19
+2008-12-20,Hull_Sunderland_2008,Hull,9,9,18,19
+2008-12-20,Fulham_Middlesbrough_2008,Middlesbrough,9,9,18,19
+2008-12-20,Fulham_Middlesbrough_2008,Fulham,9,8,17,19
+2008-12-20,Blackburn_Stoke_2008,Blackburn,9,9,18,19
+2008-12-20,Hull_Sunderland_2008,Sunderland,9,9,18,19
+2008-12-21,Newcastle_Tottenham_2008,Tottenham,9,9,18,19
+2008-12-21,West Brom_Man City_2008,West Brom,9,9,18,19
+2008-12-21,Arsenal_Liverpool_2008,Arsenal,9,9,18,19
+2008-12-21,Newcastle_Tottenham_2008,Newcastle,9,9,18,19
+2008-12-21,Arsenal_Liverpool_2008,Liverpool,9,9,18,19
+2008-12-21,West Brom_Man City_2008,Man City,9,9,18,19
+2008-12-22,Everton_Chelsea_2008,Chelsea,9,9,18,19
+2008-12-22,Everton_Chelsea_2008,Everton,9,9,18,19
+2008-12-26,Wigan_Newcastle_2008,Wigan,10,8,18,20
+2008-12-26,Tottenham_Fulham_2008,Fulham,9,9,18,20
+2008-12-26,Portsmouth_West Ham_2008,West Ham,9,10,19,20
+2008-12-26,Aston Villa_Arsenal_2008,Aston Villa,10,9,19,20
+2008-12-26,Chelsea_West Brom_2008,West Brom,9,10,19,20
+2008-12-26,Liverpool_Bolton_2008,Liverpool,10,9,19,20
+2008-12-26,Chelsea_West Brom_2008,Chelsea,10,9,19,20
+2008-12-26,Man City_Hull_2008,Man City,10,9,19,20
+2008-12-26,Stoke_Man United_2008,Man United,7,10,17,20
+2008-12-26,Man City_Hull_2008,Hull,9,10,19,20
+2008-12-26,Sunderland_Blackburn_2008,Blackburn,9,10,19,20
+2008-12-26,Tottenham_Fulham_2008,Tottenham,10,9,19,20
+2008-12-26,Stoke_Man United_2008,Stoke,10,9,19,20
+2008-12-26,Aston Villa_Arsenal_2008,Arsenal,9,10,19,20
+2008-12-26,Sunderland_Blackburn_2008,Sunderland,10,9,19,20
+2008-12-26,Wigan_Newcastle_2008,Newcastle,9,10,19,20
+2008-12-26,Portsmouth_West Ham_2008,Portsmouth,10,9,19,20
+2008-12-26,Middlesbrough_Everton_2008,Middlesbrough,10,9,19,20
+2008-12-26,Liverpool_Bolton_2008,Bolton,9,10,19,20
+2008-12-26,Middlesbrough_Everton_2008,Everton,9,10,19,20
+2008-12-28,Fulham_Chelsea_2008,Chelsea,10,10,20,20
+2008-12-28,Newcastle_Liverpool_2008,Newcastle,10,10,20,20
+2008-12-28,Arsenal_Portsmouth_2008,Arsenal,10,10,20,20
+2008-12-28,West Brom_Tottenham_2008,Tottenham,10,10,20,20
+2008-12-28,Everton_Sunderland_2008,Sunderland,10,10,20,20
+2008-12-28,Everton_Sunderland_2008,Everton,10,10,20,20
+2008-12-28,Blackburn_Man City_2008,Man City,10,10,20,20
+2008-12-28,Bolton_Wigan_2008,Wigan,10,9,19,20
+2008-12-28,West Ham_Stoke_2008,West Ham,10,10,20,20
+2008-12-28,Blackburn_Man City_2008,Blackburn,10,10,20,20
+2008-12-28,Fulham_Chelsea_2008,Fulham,10,9,19,20
+2008-12-28,West Brom_Tottenham_2008,West Brom,10,10,20,20
+2008-12-28,Newcastle_Liverpool_2008,Liverpool,10,10,20,20
+2008-12-28,Arsenal_Portsmouth_2008,Portsmouth,10,10,20,20
+2008-12-28,West Ham_Stoke_2008,Stoke,10,10,20,20
+2008-12-28,Bolton_Wigan_2008,Bolton,10,10,20,20
+2008-12-29,Man United_Middlesbrough_2008,Middlesbrough,10,10,20,20
+2008-12-29,Man United_Middlesbrough_2008,Man United,8,10,18,20
+2008-12-30,Hull_Aston Villa_2008,Hull,10,10,20,21
+2008-12-30,Hull_Aston Villa_2008,Aston Villa,10,10,20,21
+2009-01-10,Stoke_Liverpool_2008,Stoke,11,10,21,22
+2009-01-10,Middlesbrough_Sunderland_2008,Middlesbrough,11,10,21,22
+2009-01-10,Arsenal_Bolton_2008,Bolton,10,11,21,22
+2009-01-10,Everton_Hull_2008,Everton,11,10,21,22
+2009-01-10,Newcastle_West Ham_2008,West Ham,10,11,21,22
+2009-01-10,Aston Villa_West Brom_2008,Aston Villa,11,10,21,22
+2009-01-10,Aston Villa_West Brom_2008,West Brom,10,11,21,22
+2009-01-10,Arsenal_Bolton_2008,Arsenal,11,10,21,22
+2009-01-10,Stoke_Liverpool_2008,Liverpool,10,11,21,22
+2009-01-10,Everton_Hull_2008,Hull,10,11,21,22
+2009-01-10,Newcastle_West Ham_2008,Newcastle,11,10,21,22
+2009-01-10,Middlesbrough_Sunderland_2008,Sunderland,10,11,21,22
+2009-01-11,Wigan_Tottenham_2008,Wigan,11,9,20,22
+2009-01-11,Man United_Chelsea_2008,Man United,9,10,19,22
+2009-01-11,Wigan_Tottenham_2008,Tottenham,10,11,21,22
+2009-01-11,Man United_Chelsea_2008,Chelsea,10,11,21,22
+2009-01-14,Man United_Wigan_2008,Man United,10,10,20,23
+2009-01-14,Man United_Wigan_2008,Wigan,11,10,21,23
+2009-01-17,Bolton_Man United_2008,Man United,10,11,21,23
+2009-01-17,Blackburn_Newcastle_2008,Blackburn,11,10,21,23
+2009-01-17,Chelsea_Stoke_2008,Chelsea,11,11,22,23
+2009-01-17,Hull_Arsenal_2008,Hull,11,11,22,23
+2009-01-17,Chelsea_Stoke_2008,Stoke,11,11,22,23
+2009-01-17,Sunderland_Aston Villa_2008,Aston Villa,11,11,22,23
+2009-01-17,Man City_Wigan_2008,Man City,11,10,21,23
+2009-01-17,Bolton_Man United_2008,Bolton,11,11,22,23
+2009-01-17,West Brom_Middlesbrough_2008,West Brom,11,11,22,23
+2009-01-17,Man City_Wigan_2008,Wigan,11,11,22,23
+2009-01-17,West Brom_Middlesbrough_2008,Middlesbrough,11,11,22,23
+2009-01-17,Hull_Arsenal_2008,Arsenal,11,11,22,23
+2009-01-17,Sunderland_Aston Villa_2008,Sunderland,11,11,22,23
+2009-01-17,Blackburn_Newcastle_2008,Newcastle,11,11,22,23
+2009-01-18,West Ham_Fulham_2008,West Ham,11,11,22,23
+2009-01-18,West Ham_Fulham_2008,Fulham,10,10,20,23
+2009-01-18,Tottenham_Portsmouth_2008,Portsmouth,10,11,21,23
+2009-01-18,Tottenham_Portsmouth_2008,Tottenham,11,11,22,23
+2009-01-19,Liverpool_Everton_2008,Liverpool,11,11,22,23
+2009-01-19,Liverpool_Everton_2008,Everton,11,11,22,23
+2009-01-27,Tottenham_Stoke_2008,Tottenham,12,11,23,25
+2009-01-27,Sunderland_Fulham_2008,Sunderland,12,11,23,25
+2009-01-27,Tottenham_Stoke_2008,Stoke,11,12,23,25
+2009-01-27,West Brom_Man United_2008,Man United,10,12,22,25
+2009-01-27,Portsmouth_Aston Villa_2008,Aston Villa,11,12,23,25
+2009-01-27,Sunderland_Fulham_2008,Fulham,10,11,21,25
+2009-01-27,Portsmouth_Aston Villa_2008,Portsmouth,11,11,22,25
+2009-01-27,West Brom_Man United_2008,West Brom,12,11,23,25
+2009-01-28,Everton_Arsenal_2008,Arsenal,11,12,23,25
+2009-01-28,Chelsea_Middlesbrough_2008,Middlesbrough,11,12,23,25
+2009-01-28,Everton_Arsenal_2008,Everton,12,11,23,25
+2009-01-28,Chelsea_Middlesbrough_2008,Chelsea,12,11,23,25
+2009-01-28,West Ham_Hull_2008,Hull,11,12,23,25
+2009-01-28,Man City_Newcastle_2008,Newcastle,11,12,23,25
+2009-01-28,Wigan_Liverpool_2008,Liverpool,11,12,23,25
+2009-01-28,Blackburn_Bolton_2008,Blackburn,12,10,22,25
+2009-01-28,Blackburn_Bolton_2008,Bolton,11,12,23,25
+2009-01-28,West Ham_Hull_2008,West Ham,12,11,23,25
+2009-01-28,Wigan_Liverpool_2008,Wigan,12,11,23,25
+2009-01-28,Man City_Newcastle_2008,Man City,12,10,22,25
+2009-01-31,Fulham_Portsmouth_2008,Fulham,11,11,22,25
+2009-01-31,Hull_West Brom_2008,West Brom,12,12,24,25
+2009-01-31,Man United_Everton_2008,Everton,12,12,24,25
+2009-01-31,Hull_West Brom_2008,Hull,12,12,24,25
+2009-01-31,Arsenal_West Ham_2008,West Ham,12,12,24,25
+2009-01-31,Stoke_Man City_2008,Man City,12,11,23,25
+2009-01-31,Man United_Everton_2008,Man United,11,12,23,25
+2009-01-31,Bolton_Tottenham_2008,Bolton,12,12,24,25
+2009-01-31,Arsenal_West Ham_2008,Arsenal,12,12,24,25
+2009-01-31,Bolton_Tottenham_2008,Tottenham,12,12,24,25
+2009-01-31,Aston Villa_Wigan_2008,Wigan,12,12,24,25
+2009-01-31,Middlesbrough_Blackburn_2008,Middlesbrough,12,12,24,25
+2009-01-31,Middlesbrough_Blackburn_2008,Blackburn,12,11,23,25
+2009-01-31,Fulham_Portsmouth_2008,Portsmouth,11,12,23,25
+2009-01-31,Aston Villa_Wigan_2008,Aston Villa,12,12,24,25
+2009-01-31,Stoke_Man City_2008,Stoke,12,12,24,25
+2009-02-01,Newcastle_Sunderland_2008,Newcastle,12,12,24,25
+2009-02-01,Liverpool_Chelsea_2008,Liverpool,12,12,24,25
+2009-02-01,Newcastle_Sunderland_2008,Sunderland,12,12,24,25
+2009-02-01,Liverpool_Chelsea_2008,Chelsea,12,12,24,25
+2009-02-07,Wigan_Fulham_2008,Wigan,13,12,25,26
+2009-02-07,Sunderland_Stoke_2008,Stoke,12,13,25,26
+2009-02-07,Blackburn_Aston Villa_2008,Blackburn,13,11,24,26
+2009-02-07,West Brom_Newcastle_2008,West Brom,13,12,25,26
+2009-02-07,West Brom_Newcastle_2008,Newcastle,12,13,25,26
+2009-02-07,Man City_Middlesbrough_2008,Man City,13,11,24,26
+2009-02-07,Everton_Bolton_2008,Everton,13,12,25,26
+2009-02-07,Portsmouth_Liverpool_2008,Portsmouth,12,12,24,26
+2009-02-07,Chelsea_Hull_2008,Hull,12,13,25,26
+2009-02-07,Everton_Bolton_2008,Bolton,12,13,25,26
+2009-02-07,Portsmouth_Liverpool_2008,Liverpool,12,13,25,26
+2009-02-07,Man City_Middlesbrough_2008,Middlesbrough,12,13,25,26
+2009-02-07,Wigan_Fulham_2008,Fulham,11,12,23,26
+2009-02-07,Sunderland_Stoke_2008,Sunderland,13,12,25,26
+2009-02-07,Blackburn_Aston Villa_2008,Aston Villa,12,13,25,26
+2009-02-07,Chelsea_Hull_2008,Chelsea,13,12,25,26
+2009-02-08,Tottenham_Arsenal_2008,Tottenham,13,12,25,26
+2009-02-08,West Ham_Man United_2008,West Ham,13,12,25,26
+2009-02-08,West Ham_Man United_2008,Man United,11,13,24,26
+2009-02-08,Tottenham_Arsenal_2008,Arsenal,12,13,25,26
+2009-02-14,Portsmouth_Man City_2008,Man City,13,12,25,27
+2009-02-14,Portsmouth_Man City_2008,Portsmouth,13,12,25,27
+2009-02-18,Man United_Fulham_2008,Man United,12,13,25,28
+2009-02-18,Man United_Fulham_2008,Fulham,11,13,24,28
+2009-02-21,Stoke_Portsmouth_2008,Portsmouth,13,13,26,28
+2009-02-21,Man United_Blackburn_2008,Blackburn,13,12,25,28
+2009-02-21,Aston Villa_Chelsea_2008,Aston Villa,13,13,26,28
+2009-02-21,Arsenal_Sunderland_2008,Sunderland,13,13,26,28
+2009-02-21,Middlesbrough_Wigan_2008,Wigan,13,13,26,28
+2009-02-21,Man United_Blackburn_2008,Man United,13,13,26,28
+2009-02-21,Bolton_West Ham_2008,West Ham,13,13,26,28
+2009-02-21,Bolton_West Ham_2008,Bolton,13,13,26,28
+2009-02-21,Aston Villa_Chelsea_2008,Chelsea,13,13,26,28
+2009-02-21,Stoke_Portsmouth_2008,Stoke,13,13,26,28
+2009-02-21,Middlesbrough_Wigan_2008,Middlesbrough,13,13,26,28
+2009-02-21,Arsenal_Sunderland_2008,Arsenal,13,13,26,28
+2009-02-22,Fulham_West Brom_2008,West Brom,13,13,26,28
+2009-02-22,Liverpool_Man City_2008,Man City,13,13,26,28
+2009-02-22,Liverpool_Man City_2008,Liverpool,13,13,26,28
+2009-02-22,Fulham_West Brom_2008,Fulham,12,13,25,28
+2009-02-22,Newcastle_Everton_2008,Newcastle,13,13,26,28
+2009-02-22,Newcastle_Everton_2008,Everton,13,13,26,28
+2009-02-23,Hull_Tottenham_2008,Hull,13,13,26,28
+2009-02-23,Hull_Tottenham_2008,Tottenham,13,13,26,28
+2009-02-28,Chelsea_Wigan_2008,Wigan,13,14,27,29
+2009-02-28,Middlesbrough_Liverpool_2008,Middlesbrough,14,13,27,29
+2009-02-28,Arsenal_Fulham_2008,Arsenal,14,13,27,29
+2009-02-28,Chelsea_Wigan_2008,Chelsea,14,13,27,29
+2009-02-28,Arsenal_Fulham_2008,Fulham,12,14,26,29
+2009-02-28,Middlesbrough_Liverpool_2008,Liverpool,13,14,27,29
+2009-02-28,Everton_West Brom_2008,Everton,14,13,27,29
+2009-02-28,Everton_West Brom_2008,West Brom,13,14,27,29
+2009-03-01,West Ham_Man City_2008,West Ham,14,13,27,29
+2009-03-01,West Ham_Man City_2008,Man City,13,14,27,29
+2009-03-01,Hull_Blackburn_2008,Hull,14,13,27,29
+2009-03-01,Bolton_Newcastle_2008,Bolton,14,13,27,29
+2009-03-01,Bolton_Newcastle_2008,Newcastle,13,14,27,29
+2009-03-01,Aston Villa_Stoke_2008,Stoke,13,14,27,29
+2009-03-01,Aston Villa_Stoke_2008,Aston Villa,14,13,27,29
+2009-03-01,Hull_Blackburn_2008,Blackburn,13,13,26,29
+2009-03-03,Liverpool_Sunderland_2008,Liverpool,14,14,28,30
+2009-03-03,Portsmouth_Chelsea_2008,Portsmouth,14,13,27,30
+2009-03-03,Portsmouth_Chelsea_2008,Chelsea,14,14,28,30
+2009-03-03,West Brom_Arsenal_2008,West Brom,14,14,28,30
+2009-03-03,West Brom_Arsenal_2008,Arsenal,14,14,28,30
+2009-03-03,Liverpool_Sunderland_2008,Sunderland,13,14,27,30
+2009-03-04,Man City_Aston Villa_2008,Man City,14,14,28,30
+2009-03-04,Wigan_West Ham_2008,West Ham,14,14,28,30
+2009-03-04,Blackburn_Everton_2008,Everton,14,14,28,30
+2009-03-04,Fulham_Hull_2008,Hull,14,14,28,30
+2009-03-04,Stoke_Bolton_2008,Stoke,14,14,28,30
+2009-03-04,Stoke_Bolton_2008,Bolton,14,14,28,30
+2009-03-04,Tottenham_Middlesbrough_2008,Tottenham,14,13,27,30
+2009-03-04,Newcastle_Man United_2008,Man United,13,14,27,30
+2009-03-04,Tottenham_Middlesbrough_2008,Middlesbrough,14,14,28,30
+2009-03-04,Man City_Aston Villa_2008,Aston Villa,14,14,28,30
+2009-03-04,Fulham_Hull_2008,Fulham,13,14,27,30
+2009-03-04,Blackburn_Everton_2008,Blackburn,14,13,27,30
+2009-03-04,Wigan_West Ham_2008,Wigan,14,14,28,30
+2009-03-04,Newcastle_Man United_2008,Newcastle,14,14,28,30
+2009-03-07,Sunderland_Tottenham_2008,Sunderland,14,14,28,30
+2009-03-07,Sunderland_Tottenham_2008,Tottenham,14,14,28,30
+2009-03-11,Fulham_Blackburn_2008,Fulham,14,14,28,31
+2009-03-11,Fulham_Blackburn_2008,Blackburn,14,14,28,31
+2009-03-14,Sunderland_Wigan_2008,Sunderland,15,14,29,31
+2009-03-14,Hull_Newcastle_2008,Newcastle,14,15,29,31
+2009-03-14,Middlesbrough_Portsmouth_2008,Middlesbrough,15,14,29,31
+2009-03-14,Man United_Liverpool_2008,Liverpool,14,15,29,31
+2009-03-14,Arsenal_Blackburn_2008,Blackburn,14,15,29,31
+2009-03-14,Bolton_Fulham_2008,Fulham,14,15,29,31
+2009-03-14,Arsenal_Blackburn_2008,Arsenal,15,14,29,31
+2009-03-14,Everton_Stoke_2008,Stoke,14,15,29,31
+2009-03-14,Man United_Liverpool_2008,Man United,14,14,28,31
+2009-03-14,Middlesbrough_Portsmouth_2008,Portsmouth,14,14,28,31
+2009-03-14,Sunderland_Wigan_2008,Wigan,14,15,29,31
+2009-03-14,Hull_Newcastle_2008,Hull,15,14,29,31
+2009-03-14,Everton_Stoke_2008,Everton,15,14,29,31
+2009-03-14,Bolton_Fulham_2008,Bolton,15,14,29,31
+2009-03-15,Chelsea_Man City_2008,Man City,14,15,29,31
+2009-03-15,Aston Villa_Tottenham_2008,Aston Villa,15,14,29,31
+2009-03-15,Chelsea_Man City_2008,Chelsea,15,14,29,31
+2009-03-15,Aston Villa_Tottenham_2008,Tottenham,14,15,29,31
+2009-03-16,West Ham_West Brom_2008,West Brom,14,15,29,31
+2009-03-16,West Ham_West Brom_2008,West Ham,15,14,29,31
+2009-03-21,Tottenham_Chelsea_2008,Tottenham,15,15,30,32
+2009-03-21,West Brom_Bolton_2008,West Brom,15,15,30,32
+2009-03-21,Blackburn_West Ham_2008,Blackburn,15,15,30,32
+2009-03-21,Portsmouth_Everton_2008,Everton,15,15,30,32
+2009-03-21,Blackburn_West Ham_2008,West Ham,15,15,30,32
+2009-03-21,Stoke_Middlesbrough_2008,Middlesbrough,15,15,30,32
+2009-03-21,Newcastle_Arsenal_2008,Arsenal,15,15,30,32
+2009-03-21,Portsmouth_Everton_2008,Portsmouth,15,14,29,32
+2009-03-21,Stoke_Middlesbrough_2008,Stoke,15,15,30,32
+2009-03-21,West Brom_Bolton_2008,Bolton,15,15,30,32
+2009-03-21,Tottenham_Chelsea_2008,Chelsea,15,15,30,32
+2009-03-21,Fulham_Man United_2008,Fulham,15,15,30,32
+2009-03-21,Fulham_Man United_2008,Man United,14,15,29,32
+2009-03-21,Newcastle_Arsenal_2008,Newcastle,15,15,30,32
+2009-03-22,Wigan_Hull_2008,Hull,15,15,30,32
+2009-03-22,Man City_Sunderland_2008,Sunderland,15,15,30,32
+2009-03-22,Man City_Sunderland_2008,Man City,15,15,30,32
+2009-03-22,Liverpool_Aston Villa_2008,Liverpool,15,15,30,32
+2009-03-22,Liverpool_Aston Villa_2008,Aston Villa,15,15,30,32
+2009-03-22,Wigan_Hull_2008,Wigan,15,15,30,32
+2009-04-04,West Ham_Sunderland_2008,West Ham,16,15,31,34
+2009-04-04,Bolton_Middlesbrough_2008,Bolton,16,15,31,34
+2009-04-04,Hull_Portsmouth_2008,Hull,16,15,31,34
+2009-04-04,Arsenal_Man City_2008,Arsenal,16,15,31,34
+2009-04-04,Hull_Portsmouth_2008,Portsmouth,15,15,30,34
+2009-04-04,Bolton_Middlesbrough_2008,Middlesbrough,15,16,31,34
+2009-04-04,Fulham_Liverpool_2008,Fulham,16,15,31,34
+2009-04-04,Fulham_Liverpool_2008,Liverpool,15,16,31,34
+2009-04-04,Newcastle_Chelsea_2008,Chelsea,15,16,31,34
+2009-04-04,Blackburn_Tottenham_2008,Tottenham,15,16,31,34
+2009-04-04,Blackburn_Tottenham_2008,Blackburn,16,15,31,34
+2009-04-04,Arsenal_Man City_2008,Man City,15,16,31,34
+2009-04-04,West Brom_Stoke_2008,West Brom,16,15,31,34
+2009-04-04,West Ham_Sunderland_2008,Sunderland,15,16,31,34
+2009-04-04,West Brom_Stoke_2008,Stoke,15,16,31,34
+2009-04-04,Newcastle_Chelsea_2008,Newcastle,16,15,31,34
+2009-04-05,Man United_Aston Villa_2008,Man United,15,15,30,34
+2009-04-05,Everton_Wigan_2008,Wigan,15,16,31,34
+2009-04-05,Everton_Wigan_2008,Everton,16,15,31,34
+2009-04-05,Man United_Aston Villa_2008,Aston Villa,15,16,31,34
+2009-04-11,Sunderland_Man United_2008,Sunderland,16,16,32,35
+2009-04-11,Middlesbrough_Hull_2008,Middlesbrough,16,16,32,35
+2009-04-11,Wigan_Arsenal_2008,Arsenal,16,16,32,35
+2009-04-11,Middlesbrough_Hull_2008,Hull,16,16,32,35
+2009-04-11,Chelsea_Bolton_2008,Bolton,16,16,32,35
+2009-04-11,Stoke_Newcastle_2008,Stoke,16,16,32,35
+2009-04-11,Stoke_Newcastle_2008,Newcastle,16,16,32,35
+2009-04-11,Tottenham_West Ham_2008,Tottenham,16,16,32,35
+2009-04-11,Chelsea_Bolton_2008,Chelsea,16,16,32,35
+2009-04-11,Sunderland_Man United_2008,Man United,15,16,31,35
+2009-04-11,Portsmouth_West Brom_2008,Portsmouth,16,15,31,35
+2009-04-11,Portsmouth_West Brom_2008,West Brom,16,16,32,35
+2009-04-11,Liverpool_Blackburn_2008,Liverpool,16,16,32,35
+2009-04-11,Tottenham_West Ham_2008,West Ham,16,16,32,35
+2009-04-11,Wigan_Arsenal_2008,Wigan,16,16,32,35
+2009-04-11,Liverpool_Blackburn_2008,Blackburn,16,16,32,35
+2009-04-12,Man City_Fulham_2008,Fulham,16,16,32,35
+2009-04-12,Aston Villa_Everton_2008,Everton,16,16,32,35
+2009-04-12,Aston Villa_Everton_2008,Aston Villa,16,16,32,35
+2009-04-12,Man City_Fulham_2008,Man City,16,16,32,35
+2009-04-18,Aston Villa_West Ham_2008,West Ham,16,17,33,36
+2009-04-18,Sunderland_Hull_2008,Hull,16,17,33,36
+2009-04-18,Aston Villa_West Ham_2008,Aston Villa,17,16,33,36
+2009-04-18,Portsmouth_Bolton_2008,Bolton,16,17,33,36
+2009-04-18,Portsmouth_Bolton_2008,Portsmouth,17,15,32,36
+2009-04-18,Stoke_Blackburn_2008,Stoke,17,16,33,36
+2009-04-18,Middlesbrough_Fulham_2008,Fulham,16,17,33,36
+2009-04-18,Sunderland_Hull_2008,Sunderland,17,16,33,36
+2009-04-18,Middlesbrough_Fulham_2008,Middlesbrough,17,16,33,36
+2009-04-18,Stoke_Blackburn_2008,Blackburn,16,17,33,36
+2009-04-19,Tottenham_Newcastle_2008,Newcastle,16,17,33,36
+2009-04-19,Man City_West Brom_2008,West Brom,16,17,33,36
+2009-04-19,Tottenham_Newcastle_2008,Tottenham,17,16,33,36
+2009-04-19,Man City_West Brom_2008,Man City,17,16,33,36
+2009-04-21,Liverpool_Arsenal_2008,Arsenal,16,17,33,37
+2009-04-21,Liverpool_Arsenal_2008,Liverpool,17,16,33,37
+2009-04-22,Man United_Portsmouth_2008,Portsmouth,17,16,33,37
+2009-04-22,Chelsea_Everton_2008,Chelsea,17,16,33,37
+2009-04-22,Chelsea_Everton_2008,Everton,16,17,33,37
+2009-04-22,Man United_Portsmouth_2008,Man United,16,16,32,37
+2009-04-25,West Ham_Chelsea_2008,West Ham,17,17,34,37
+2009-04-25,West Brom_Sunderland_2008,West Brom,17,17,34,37
+2009-04-25,Everton_Man City_2008,Everton,17,17,34,37
+2009-04-25,Fulham_Stoke_2008,Fulham,17,17,34,37
+2009-04-25,Bolton_Aston Villa_2008,Aston Villa,17,17,34,37
+2009-04-25,West Brom_Sunderland_2008,Sunderland,17,17,34,37
+2009-04-25,Hull_Liverpool_2008,Liverpool,17,17,34,37
+2009-04-25,Fulham_Stoke_2008,Stoke,17,17,34,37
+2009-04-25,West Ham_Chelsea_2008,Chelsea,17,17,34,37
+2009-04-25,Bolton_Aston Villa_2008,Bolton,17,17,34,37
+2009-04-25,Hull_Liverpool_2008,Hull,17,17,34,37
+2009-04-25,Man United_Tottenham_2008,Man United,17,16,33,37
+2009-04-25,Everton_Man City_2008,Man City,17,17,34,37
+2009-04-25,Man United_Tottenham_2008,Tottenham,17,17,34,37
+2009-04-26,Blackburn_Wigan_2008,Blackburn,17,17,34,37
+2009-04-26,Arsenal_Middlesbrough_2008,Middlesbrough,17,17,34,37
+2009-04-26,Blackburn_Wigan_2008,Wigan,16,17,33,37
+2009-04-26,Arsenal_Middlesbrough_2008,Arsenal,17,17,34,37
+2009-04-27,Newcastle_Portsmouth_2008,Newcastle,17,17,34,37
+2009-04-27,Newcastle_Portsmouth_2008,Portsmouth,17,17,34,37
+2009-05-02,Tottenham_West Brom_2008,Tottenham,18,17,35,38
+2009-05-02,Portsmouth_Arsenal_2008,Portsmouth,18,17,35,38
+2009-05-02,Middlesbrough_Man United_2008,Middlesbrough,18,17,35,38
+2009-05-02,Stoke_West Ham_2008,Stoke,18,17,35,38
+2009-05-02,Wigan_Bolton_2008,Wigan,17,17,34,38
+2009-05-02,Stoke_West Ham_2008,West Ham,17,18,35,38
+2009-05-02,Man City_Blackburn_2008,Blackburn,17,18,35,38
+2009-05-02,Chelsea_Fulham_2008,Fulham,17,18,35,38
+2009-05-02,Wigan_Bolton_2008,Bolton,17,18,35,38
+2009-05-02,Tottenham_West Brom_2008,West Brom,17,18,35,38
+2009-05-02,Portsmouth_Arsenal_2008,Arsenal,17,18,35,38
+2009-05-02,Chelsea_Fulham_2008,Chelsea,18,17,35,38
+2009-05-02,Middlesbrough_Man United_2008,Man United,17,17,34,38
+2009-05-02,Man City_Blackburn_2008,Man City,18,17,35,38
+2009-05-03,Sunderland_Everton_2008,Everton,17,18,35,38
+2009-05-03,Liverpool_Newcastle_2008,Newcastle,17,18,35,38
+2009-05-03,Sunderland_Everton_2008,Sunderland,18,17,35,38
+2009-05-03,Liverpool_Newcastle_2008,Liverpool,18,17,35,38
+2009-05-04,Aston Villa_Hull_2008,Hull,17,18,35,38
+2009-05-04,Aston Villa_Hull_2008,Aston Villa,18,17,35,38
+2009-05-09,Blackburn_Portsmouth_2008,Portsmouth,18,18,36,39
+2009-05-09,Fulham_Aston Villa_2008,Fulham,18,18,36,39
+2009-05-09,Fulham_Aston Villa_2008,Aston Villa,18,18,36,39
+2009-05-09,West Brom_Wigan_2008,West Brom,18,18,36,39
+2009-05-09,Everton_Tottenham_2008,Tottenham,18,18,36,39
+2009-05-09,Bolton_Sunderland_2008,Bolton,18,18,36,39
+2009-05-09,Hull_Stoke_2008,Stoke,18,18,36,39
+2009-05-09,Hull_Stoke_2008,Hull,18,18,36,39
+2009-05-09,West Brom_Wigan_2008,Wigan,17,18,35,39
+2009-05-09,Blackburn_Portsmouth_2008,Blackburn,18,18,36,39
+2009-05-09,West Ham_Liverpool_2008,Liverpool,18,18,36,39
+2009-05-09,Bolton_Sunderland_2008,Sunderland,18,18,36,39
+2009-05-09,West Ham_Liverpool_2008,West Ham,18,18,36,39
+2009-05-09,Everton_Tottenham_2008,Everton,18,18,36,39
+2009-05-10,Arsenal_Chelsea_2008,Arsenal,18,18,36,39
+2009-05-10,Man United_Man City_2008,Man City,18,18,36,39
+2009-05-10,Man United_Man City_2008,Man United,18,17,35,39
+2009-05-10,Arsenal_Chelsea_2008,Chelsea,18,18,36,39
+2009-05-11,Newcastle_Middlesbrough_2008,Newcastle,18,18,36,39
+2009-05-11,Newcastle_Middlesbrough_2008,Middlesbrough,18,18,36,39
+2009-05-13,Wigan_Man United_2008,Wigan,18,18,36,40
+2009-05-13,Wigan_Man United_2008,Man United,18,18,36,40
+2009-05-16,Stoke_Wigan_2008,Stoke,19,18,37,40
+2009-05-16,Stoke_Wigan_2008,Wigan,18,19,37,40
+2009-05-16,Everton_West Ham_2008,West Ham,18,19,37,40
+2009-05-16,Man United_Arsenal_2008,Arsenal,18,19,37,40
+2009-05-16,Tottenham_Man City_2008,Tottenham,19,18,37,40
+2009-05-16,Bolton_Hull_2008,Bolton,19,18,37,40
+2009-05-16,Man United_Arsenal_2008,Man United,19,18,37,40
+2009-05-16,Middlesbrough_Aston Villa_2008,Middlesbrough,19,18,37,40
+2009-05-16,Bolton_Hull_2008,Hull,18,19,37,40
+2009-05-16,Everton_West Ham_2008,Everton,19,18,37,40
+2009-05-16,Middlesbrough_Aston Villa_2008,Aston Villa,18,19,37,40
+2009-05-16,Newcastle_Fulham_2008,Newcastle,19,18,37,40
+2009-05-16,Newcastle_Fulham_2008,Fulham,18,19,37,40
+2009-05-16,Tottenham_Man City_2008,Man City,18,19,37,40
+2009-05-17,Chelsea_Blackburn_2008,Blackburn,18,19,37,40
+2009-05-17,Chelsea_Blackburn_2008,Chelsea,19,18,37,40
+2009-05-17,West Brom_Liverpool_2008,Liverpool,18,19,37,40
+2009-05-17,West Brom_Liverpool_2008,West Brom,19,18,37,40
+2009-05-18,Portsmouth_Sunderland_2008,Sunderland,18,19,37,40
+2009-05-18,Portsmouth_Sunderland_2008,Portsmouth,19,18,37,40
+2009-05-24,Sunderland_Chelsea_2008,Chelsea,19,19,38,41
+2009-05-24,Blackburn_West Brom_2008,West Brom,19,19,38,41
+2009-05-24,Aston Villa_Newcastle_2008,Aston Villa,19,19,38,41
+2009-05-24,Arsenal_Stoke_2008,Arsenal,19,19,38,41
+2009-05-24,Man City_Bolton_2008,Bolton,19,19,38,41
+2009-05-24,West Ham_Middlesbrough_2008,Middlesbrough,19,19,38,41
+2009-05-24,Aston Villa_Newcastle_2008,Newcastle,19,19,38,41
+2009-05-24,West Ham_Middlesbrough_2008,West Ham,19,19,38,41
+2009-05-24,Liverpool_Tottenham_2008,Tottenham,19,19,38,41
+2009-05-24,Man City_Bolton_2008,Man City,19,19,38,41
+2009-05-24,Hull_Man United_2008,Man United,19,19,38,41
+2009-05-24,Blackburn_West Brom_2008,Blackburn,19,19,38,41
+2009-05-24,Fulham_Everton_2008,Everton,19,19,38,41
+2009-05-24,Wigan_Portsmouth_2008,Portsmouth,19,19,38,41
+2009-05-24,Fulham_Everton_2008,Fulham,19,19,38,41
+2009-05-24,Hull_Man United_2008,Hull,19,19,38,41
+2009-05-24,Sunderland_Chelsea_2008,Sunderland,19,19,38,41
+2009-05-24,Liverpool_Tottenham_2008,Liverpool,19,19,38,41
+2009-05-24,Arsenal_Stoke_2008,Stoke,19,19,38,41
+2009-05-24,Wigan_Portsmouth_2008,Wigan,19,19,38,41

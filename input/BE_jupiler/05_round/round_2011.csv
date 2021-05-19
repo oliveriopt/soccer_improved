@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-07-29,Oud-Heverlee Leuven_Anderlecht_2011,Anderlecht,1,1,1,1
+2011-07-29,Oud-Heverlee Leuven_Anderlecht_2011,Oud-Heverlee Leuven,1,1,1,1
+2011-07-30,Bergen_Standard_2011,Standard,1,1,1,1
+2011-07-30,Mechelen_St Truiden_2011,Mechelen,1,1,1,1
+2011-07-30,Kortrijk_Lierse_2011,Kortrijk,1,1,1,1
+2011-07-30,Gent_Cercle Brugge_2011,Gent,1,1,1,1
+2011-07-30,Bergen_Standard_2011,Bergen,1,1,1,1
+2011-07-30,Lokeren_Waregem_2011,Waregem,1,1,1,1
+2011-07-30,Mechelen_St Truiden_2011,St Truiden,1,1,1,1
+2011-07-30,Kortrijk_Lierse_2011,Lierse,1,1,1,1
+2011-07-30,Lokeren_Waregem_2011,Lokeren,1,1,1,1
+2011-07-30,Gent_Cercle Brugge_2011,Cercle Brugge,1,1,1,1
+2011-07-30,Genk_Germinal_2011,Germinal,1,1,1,1
+2011-07-30,Genk_Germinal_2011,Genk,1,1,1,1
+2011-07-31,Club Brugge_Westerlo_2011,Westerlo,1,1,1,1
+2011-07-31,Club Brugge_Westerlo_2011,Club Brugge,1,1,1,1
+2011-08-05,Anderlecht_Mechelen_2011,Anderlecht,1,1,2,2
+2011-08-05,Anderlecht_Mechelen_2011,Mechelen,1,1,2,2
+2011-08-06,Waregem_Oud-Heverlee Leuven_2011,Waregem,1,1,2,2
+2011-08-06,Lierse_Genk_2011,Genk,1,1,2,2
+2011-08-06,Germinal_Gent_2011,Gent,1,1,2,2
+2011-08-06,Lierse_Genk_2011,Lierse,1,1,2,2
+2011-08-06,Cercle Brugge_Bergen_2011,Cercle Brugge,1,1,2,2
+2011-08-06,Waregem_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,1,1,2,2
+2011-08-06,Cercle Brugge_Bergen_2011,Bergen,1,1,2,2
+2011-08-06,Germinal_Gent_2011,Germinal,1,1,2,2
+2011-08-07,Westerlo_Kortrijk_2011,Westerlo,1,1,2,2
+2011-08-07,St Truiden_Club Brugge_2011,St Truiden,1,1,2,2
+2011-08-07,Standard_Lokeren_2011,Standard,1,1,2,2
+2011-08-07,Westerlo_Kortrijk_2011,Kortrijk,1,1,2,2
+2011-08-07,St Truiden_Club Brugge_2011,Club Brugge,1,1,2,2
+2011-08-07,Standard_Lokeren_2011,Lokeren,1,1,2,2
+2011-08-13,Germinal_Westerlo_2011,Germinal,2,1,3,3
+2011-08-13,Club Brugge_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,1,2,3,3
+2011-08-13,Bergen_St Truiden_2011,St Truiden,1,2,3,3
+2011-08-13,Club Brugge_Oud-Heverlee Leuven_2011,Club Brugge,2,1,3,3
+2011-08-13,Germinal_Westerlo_2011,Westerlo,1,2,3,3
+2011-08-13,Kortrijk_Cercle Brugge_2011,Kortrijk,2,1,3,3
+2011-08-13,Kortrijk_Cercle Brugge_2011,Cercle Brugge,1,2,3,3
+2011-08-13,Gent_Standard_2011,Gent,2,1,3,3
+2011-08-13,Bergen_St Truiden_2011,Bergen,2,1,3,3
+2011-08-13,Gent_Standard_2011,Standard,1,2,3,3
+2011-08-13,Genk_Waregem_2011,Waregem,1,2,3,3
+2011-08-13,Genk_Waregem_2011,Genk,2,1,3,3
+2011-08-14,Mechelen_Lierse_2011,Lierse,1,2,3,3
+2011-08-14,Lokeren_Anderlecht_2011,Lokeren,2,1,3,3
+2011-08-14,Mechelen_Lierse_2011,Mechelen,2,1,3,3
+2011-08-14,Lokeren_Anderlecht_2011,Anderlecht,1,2,3,3
+2011-08-19,Lierse_Germinal_2011,Lierse,2,2,4,4
+2011-08-19,Lierse_Germinal_2011,Germinal,2,2,4,4
+2011-08-20,Cercle Brugge_Genk_2011,Genk,2,2,4,4
+2011-08-20,Oud-Heverlee Leuven_Mechelen_2011,Mechelen,2,2,4,4
+2011-08-20,St Truiden_Lokeren_2011,Lokeren,2,2,4,4
+2011-08-20,Cercle Brugge_Genk_2011,Cercle Brugge,2,2,4,4
+2011-08-20,St Truiden_Lokeren_2011,St Truiden,2,2,4,4
+2011-08-20,Westerlo_Gent_2011,Westerlo,2,2,4,4
+2011-08-20,Oud-Heverlee Leuven_Mechelen_2011,Oud-Heverlee Leuven,2,2,4,4
+2011-08-20,Westerlo_Gent_2011,Gent,2,2,4,4
+2011-08-21,Waregem_Club Brugge_2011,Waregem,2,2,4,4
+2011-08-21,Anderlecht_Bergen_2011,Anderlecht,2,2,4,4
+2011-08-21,Anderlecht_Bergen_2011,Bergen,2,2,4,4
+2011-08-21,Waregem_Club Brugge_2011,Club Brugge,2,2,4,4
+2011-08-21,Standard_Kortrijk_2011,Kortrijk,2,2,4,4
+2011-08-21,Standard_Kortrijk_2011,Standard,2,2,4,4
+2011-08-27,Bergen_Waregem_2011,Waregem,2,3,5,5
+2011-08-27,Gent_Lierse_2011,Gent,3,2,5,5
+2011-08-27,Gent_Lierse_2011,Lierse,2,3,5,5
+2011-08-27,Kortrijk_St Truiden_2011,Kortrijk,3,2,5,5
+2011-08-27,Westerlo_Cercle Brugge_2011,Cercle Brugge,2,3,5,5
+2011-08-27,Genk_Mechelen_2011,Mechelen,2,3,5,5
+2011-08-27,Bergen_Waregem_2011,Bergen,3,2,5,5
+2011-08-27,Genk_Mechelen_2011,Genk,3,2,5,5
+2011-08-27,Kortrijk_St Truiden_2011,St Truiden,2,3,5,5
+2011-08-27,Lokeren_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,2,3,5,5
+2011-08-27,Westerlo_Cercle Brugge_2011,Westerlo,3,2,5,5
+2011-08-27,Lokeren_Oud-Heverlee Leuven_2011,Lokeren,3,2,5,5
+2011-08-28,Germinal_Standard_2011,Standard,2,3,5,5
+2011-08-28,Club Brugge_Anderlecht_2011,Anderlecht,2,3,5,5
+2011-08-28,Club Brugge_Anderlecht_2011,Club Brugge,3,2,5,5
+2011-08-28,Germinal_Standard_2011,Germinal,3,2,5,5
+2011-09-09,St Truiden_Genk_2011,Genk,3,3,6,7
+2011-09-09,St Truiden_Genk_2011,St Truiden,3,3,6,7
+2011-09-10,Standard_Westerlo_2011,Westerlo,3,3,6,7
+2011-09-10,Oud-Heverlee Leuven_Bergen_2011,Bergen,3,3,6,7
+2011-09-10,Oud-Heverlee Leuven_Bergen_2011,Oud-Heverlee Leuven,3,3,6,7
+2011-09-10,Cercle Brugge_Germinal_2011,Germinal,3,3,6,7
+2011-09-10,Lierse_Lokeren_2011,Lokeren,3,3,6,7
+2011-09-10,Standard_Westerlo_2011,Standard,3,3,6,7
+2011-09-10,Lierse_Lokeren_2011,Lierse,3,3,6,7
+2011-09-10,Cercle Brugge_Germinal_2011,Cercle Brugge,3,3,6,7
+2011-09-11,Mechelen_Club Brugge_2011,Mechelen,3,3,6,7
+2011-09-11,Waregem_Gent_2011,Waregem,3,3,6,7
+2011-09-11,Anderlecht_Kortrijk_2011,Kortrijk,3,3,6,7
+2011-09-11,Anderlecht_Kortrijk_2011,Anderlecht,3,3,6,7
+2011-09-11,Mechelen_Club Brugge_2011,Club Brugge,3,3,6,7
+2011-09-11,Waregem_Gent_2011,Gent,3,3,6,7
+2011-09-17,Kortrijk_Oud-Heverlee Leuven_2011,Kortrijk,4,3,7,8
+2011-09-17,Bergen_Mechelen_2011,Mechelen,3,4,7,8
+2011-09-17,Germinal_Waregem_2011,Germinal,4,3,7,8
+2011-09-17,Cercle Brugge_Lierse_2011,Lierse,3,4,7,8
+2011-09-17,Westerlo_St Truiden_2011,St Truiden,3,4,7,8
+2011-09-17,Kortrijk_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,3,4,7,8
+2011-09-17,Cercle Brugge_Lierse_2011,Cercle Brugge,4,3,7,8
+2011-09-17,Westerlo_St Truiden_2011,Westerlo,4,3,7,8
+2011-09-17,Germinal_Waregem_2011,Waregem,3,4,7,8
+2011-09-17,Bergen_Mechelen_2011,Bergen,4,3,7,8
+2011-09-18,Genk_Standard_2011,Genk,4,3,7,8
+2011-09-18,Lokeren_Club Brugge_2011,Club Brugge,3,4,7,8
+2011-09-18,Lokeren_Club Brugge_2011,Lokeren,4,3,7,8
+2011-09-18,Gent_Anderlecht_2011,Anderlecht,3,4,7,8
+2011-09-18,Gent_Anderlecht_2011,Gent,4,3,7,8
+2011-09-18,Genk_Standard_2011,Standard,3,4,7,8
+2011-09-24,Club Brugge_Bergen_2011,Club Brugge,4,4,8,9
+2011-09-24,Lierse_Westerlo_2011,Westerlo,4,4,8,9
+2011-09-24,Waregem_Kortrijk_2011,Waregem,4,4,8,9
+2011-09-24,Waregem_Kortrijk_2011,Kortrijk,4,4,8,9
+2011-09-24,Mechelen_Lokeren_2011,Lokeren,4,4,8,9
+2011-09-24,Mechelen_Lokeren_2011,Mechelen,4,4,8,9
+2011-09-24,Club Brugge_Bergen_2011,Bergen,4,4,8,9
+2011-09-24,Oud-Heverlee Leuven_Genk_2011,Oud-Heverlee Leuven,4,4,8,9
+2011-09-24,Oud-Heverlee Leuven_Genk_2011,Genk,4,4,8,9
+2011-09-24,St Truiden_Gent_2011,St Truiden,4,4,8,9
+2011-09-24,Lierse_Westerlo_2011,Lierse,4,4,8,9
+2011-09-24,St Truiden_Gent_2011,Gent,4,4,8,9
+2011-09-25,Standard_Cercle Brugge_2011,Cercle Brugge,4,4,8,9
+2011-09-25,Anderlecht_Germinal_2011,Germinal,4,4,8,9
+2011-09-25,Anderlecht_Germinal_2011,Anderlecht,4,4,8,9
+2011-09-25,Standard_Cercle Brugge_2011,Standard,4,4,8,9
+2011-10-01,Westerlo_Waregem_2011,Westerlo,5,4,9,10
+2011-10-01,Gent_Oud-Heverlee Leuven_2011,Gent,5,4,9,10
+2011-10-01,Westerlo_Waregem_2011,Waregem,4,5,9,10
+2011-10-01,Bergen_Lokeren_2011,Bergen,5,4,9,10
+2011-10-01,Gent_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,4,5,9,10
+2011-10-01,Bergen_Lokeren_2011,Lokeren,4,5,9,10
+2011-10-01,Cercle Brugge_St Truiden_2011,St Truiden,4,5,9,10
+2011-10-01,Cercle Brugge_St Truiden_2011,Cercle Brugge,5,4,9,10
+2011-10-01,Kortrijk_Mechelen_2011,Mechelen,4,5,9,10
+2011-10-01,Kortrijk_Mechelen_2011,Kortrijk,5,4,9,10
+2011-10-02,Standard_Lierse_2011,Standard,5,4,9,10
+2011-10-02,Genk_Anderlecht_2011,Genk,5,4,9,10
+2011-10-02,Genk_Anderlecht_2011,Anderlecht,4,5,9,10
+2011-10-02,Standard_Lierse_2011,Lierse,4,5,9,10
+2011-10-02,Germinal_Club Brugge_2011,Club Brugge,4,5,9,10
+2011-10-02,Germinal_Club Brugge_2011,Germinal,5,4,9,10
+2011-10-15,Waregem_Lierse_2011,Waregem,5,5,10,12
+2011-10-15,St Truiden_Germinal_2011,St Truiden,5,5,10,12
+2011-10-15,Oud-Heverlee Leuven_Westerlo_2011,Westerlo,5,5,10,12
+2011-10-15,St Truiden_Germinal_2011,Germinal,5,5,10,12
+2011-10-15,Bergen_Kortrijk_2011,Bergen,6,4,10,12
+2011-10-15,Mechelen_Cercle Brugge_2011,Mechelen,5,5,10,12
+2011-10-15,Lokeren_Genk_2011,Lokeren,5,5,10,12
+2011-10-15,Lokeren_Genk_2011,Genk,5,5,10,12
+2011-10-15,Oud-Heverlee Leuven_Westerlo_2011,Oud-Heverlee Leuven,5,5,10,12
+2011-10-15,Waregem_Lierse_2011,Lierse,4,6,10,12
+2011-10-15,Mechelen_Cercle Brugge_2011,Cercle Brugge,5,5,10,12
+2011-10-15,Bergen_Kortrijk_2011,Kortrijk,5,5,10,12
+2011-10-16,Anderlecht_Standard_2011,Anderlecht,5,5,10,12
+2011-10-16,Club Brugge_Gent_2011,Gent,5,5,10,12
+2011-10-16,Club Brugge_Gent_2011,Club Brugge,5,5,10,12
+2011-10-16,Anderlecht_Standard_2011,Standard,5,5,10,12
+2011-10-22,Lierse_St Truiden_2011,Lierse,5,6,11,13
+2011-10-22,Gent_Lokeren_2011,Gent,6,5,11,13
+2011-10-22,Gent_Lokeren_2011,Lokeren,5,6,11,13
+2011-10-22,Cercle Brugge_Oud-Heverlee Leuven_2011,Cercle Brugge,6,5,11,13
+2011-10-22,Genk_Bergen_2011,Bergen,6,5,11,13
+2011-10-22,Genk_Bergen_2011,Genk,6,5,11,13
+2011-10-22,Cercle Brugge_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,5,6,11,13
+2011-10-22,Lierse_St Truiden_2011,St Truiden,5,6,11,13
+2011-10-22,Germinal_Mechelen_2011,Germinal,6,5,11,13
+2011-10-22,Germinal_Mechelen_2011,Mechelen,5,6,11,13
+2011-10-23,Standard_Waregem_2011,Standard,6,5,11,13
+2011-10-23,Kortrijk_Club Brugge_2011,Club Brugge,5,6,11,13
+2011-10-23,Westerlo_Anderlecht_2011,Westerlo,6,5,11,13
+2011-10-23,Standard_Waregem_2011,Waregem,5,6,11,13
+2011-10-23,Westerlo_Anderlecht_2011,Anderlecht,5,6,11,13
+2011-10-23,Kortrijk_Club Brugge_2011,Kortrijk,6,5,11,13
+2011-10-29,Mechelen_Westerlo_2011,Westerlo,6,6,12,14
+2011-10-29,Waregem_Cercle Brugge_2011,Waregem,6,6,12,14
+2011-10-29,Oud-Heverlee Leuven_Germinal_2011,Germinal,6,6,12,14
+2011-10-29,Mechelen_Westerlo_2011,Mechelen,6,6,12,14
+2011-10-29,Oud-Heverlee Leuven_Germinal_2011,Oud-Heverlee Leuven,6,6,12,14
+2011-10-29,Bergen_Gent_2011,Gent,6,6,12,14
+2011-10-29,Lokeren_Kortrijk_2011,Lokeren,6,6,12,14
+2011-10-29,Waregem_Cercle Brugge_2011,Cercle Brugge,6,6,12,14
+2011-10-29,Club Brugge_Genk_2011,Genk,6,6,12,14
+2011-10-29,Bergen_Gent_2011,Bergen,7,5,12,14
+2011-10-29,Lokeren_Kortrijk_2011,Kortrijk,6,6,12,14
+2011-10-29,Club Brugge_Genk_2011,Club Brugge,6,6,12,14
+2011-10-30,St Truiden_Standard_2011,Standard,6,6,12,14
+2011-10-30,Anderlecht_Lierse_2011,Anderlecht,6,6,12,14
+2011-10-30,Anderlecht_Lierse_2011,Lierse,5,7,12,14
+2011-10-30,St Truiden_Standard_2011,St Truiden,6,6,12,14
+2011-11-04,Gent_Mechelen_2011,Mechelen,6,7,13,15
+2011-11-04,Gent_Mechelen_2011,Gent,7,6,13,15
+2011-11-05,Westerlo_Lokeren_2011,Westerlo,7,6,13,15
+2011-11-05,Waregem_St Truiden_2011,Waregem,7,6,13,15
+2011-11-05,Westerlo_Lokeren_2011,Lokeren,6,7,13,15
+2011-11-05,Genk_Kortrijk_2011,Kortrijk,6,7,13,15
+2011-11-05,Lierse_Oud-Heverlee Leuven_2011,Lierse,6,7,13,15
+2011-11-05,Lierse_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,6,7,13,15
+2011-11-05,Waregem_St Truiden_2011,St Truiden,6,7,13,15
+2011-11-05,Germinal_Bergen_2011,Germinal,7,6,13,15
+2011-11-05,Germinal_Bergen_2011,Bergen,7,6,13,15
+2011-11-05,Genk_Kortrijk_2011,Genk,7,6,13,15
+2011-11-06,Cercle Brugge_Anderlecht_2011,Anderlecht,6,7,13,15
+2011-11-06,Standard_Club Brugge_2011,Club Brugge,6,7,13,15
+2011-11-06,Cercle Brugge_Anderlecht_2011,Cercle Brugge,7,6,13,15
+2011-11-06,Standard_Club Brugge_2011,Standard,7,6,13,15
+2011-11-18,Oud-Heverlee Leuven_Standard_2011,Oud-Heverlee Leuven,7,7,14,17
+2011-11-18,Oud-Heverlee Leuven_Standard_2011,Standard,7,7,14,17
+2011-11-19,Mechelen_Waregem_2011,Mechelen,7,7,14,17
+2011-11-19,Mechelen_Waregem_2011,Waregem,7,7,14,17
+2011-11-19,Lokeren_Germinal_2011,Lokeren,7,7,14,17
+2011-11-19,Bergen_Lierse_2011,Lierse,6,8,14,17
+2011-11-19,Kortrijk_Gent_2011,Gent,7,7,14,17
+2011-11-19,Genk_Westerlo_2011,Genk,8,6,14,17
+2011-11-19,Lokeren_Germinal_2011,Germinal,7,7,14,17
+2011-11-19,Bergen_Lierse_2011,Bergen,8,6,14,17
+2011-11-19,Kortrijk_Gent_2011,Kortrijk,7,7,14,17
+2011-11-19,Genk_Westerlo_2011,Westerlo,7,7,14,17
+2011-11-20,Anderlecht_St Truiden_2011,Anderlecht,7,7,14,17
+2011-11-20,Club Brugge_Cercle Brugge_2011,Club Brugge,7,7,14,17
+2011-11-20,Club Brugge_Cercle Brugge_2011,Cercle Brugge,7,7,14,17
+2011-11-20,Anderlecht_St Truiden_2011,St Truiden,6,8,14,17
+2011-11-25,Standard_Mechelen_2011,Standard,8,7,15,18
+2011-11-25,Standard_Mechelen_2011,Mechelen,7,8,15,18
+2011-11-26,Westerlo_Bergen_2011,Bergen,8,7,15,18
+2011-11-26,Lierse_Club Brugge_2011,Lierse,7,8,15,18
+2011-11-26,Waregem_Anderlecht_2011,Waregem,8,7,15,18
+2011-11-26,Cercle Brugge_Lokeren_2011,Lokeren,7,8,15,18
+2011-11-26,Germinal_Kortrijk_2011,Germinal,8,7,15,18
+2011-11-26,St Truiden_Oud-Heverlee Leuven_2011,St Truiden,7,8,15,18
+2011-11-26,Waregem_Anderlecht_2011,Anderlecht,7,8,15,18
+2011-11-26,Germinal_Kortrijk_2011,Kortrijk,7,8,15,18
+2011-11-26,St Truiden_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,7,8,15,18
+2011-11-26,Cercle Brugge_Lokeren_2011,Cercle Brugge,8,7,15,18
+2011-11-26,Lierse_Club Brugge_2011,Club Brugge,7,8,15,18
+2011-11-26,Westerlo_Bergen_2011,Westerlo,8,7,15,18
+2011-11-27,Gent_Genk_2011,Gent,8,7,15,18
+2011-11-27,Gent_Genk_2011,Genk,8,7,15,18
+2011-12-02,Germinal_Genk_2011,Germinal,9,7,16,19
+2011-12-02,Germinal_Genk_2011,Genk,8,8,16,19
+2011-12-03,Waregem_Lokeren_2011,Waregem,9,7,16,19
+2011-12-03,Lierse_Mechelen_2011,Lierse,8,8,16,19
+2011-12-03,Cercle Brugge_Kortrijk_2011,Cercle Brugge,9,7,16,19
+2011-12-03,Cercle Brugge_Kortrijk_2011,Kortrijk,7,9,16,19
+2011-12-03,Waregem_Lokeren_2011,Lokeren,7,9,16,19
+2011-12-03,St Truiden_Bergen_2011,St Truiden,8,8,16,19
+2011-12-03,St Truiden_Bergen_2011,Bergen,8,8,16,19
+2011-12-03,Lierse_Mechelen_2011,Mechelen,7,9,16,19
+2011-12-03,Westerlo_Club Brugge_2011,Westerlo,9,7,16,19
+2011-12-03,Westerlo_Club Brugge_2011,Club Brugge,7,9,16,19
+2011-12-04,Standard_Gent_2011,Standard,9,7,16,19
+2011-12-04,Anderlecht_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,7,9,16,19
+2011-12-04,Standard_Gent_2011,Gent,8,8,16,19
+2011-12-04,Anderlecht_Oud-Heverlee Leuven_2011,Anderlecht,8,8,16,19
+2011-12-09,Mechelen_Anderlecht_2011,Mechelen,8,9,17,20
+2011-12-09,Mechelen_Anderlecht_2011,Anderlecht,8,9,17,20
+2011-12-10,Genk_Lierse_2011,Genk,9,8,17,20
+2011-12-10,Kortrijk_Westerlo_2011,Westerlo,9,8,17,20
+2011-12-10,Bergen_Cercle Brugge_2011,Cercle Brugge,9,8,17,20
+2011-12-10,Gent_Germinal_2011,Germinal,9,8,17,20
+2011-12-10,Bergen_Cercle Brugge_2011,Bergen,9,8,17,20
+2011-12-10,Genk_Lierse_2011,Lierse,8,9,17,20
+2011-12-10,Lokeren_Standard_2011,Lokeren,8,9,17,20
+2011-12-10,Oud-Heverlee Leuven_Waregem_2011,Oud-Heverlee Leuven,8,9,17,20
+2011-12-10,Oud-Heverlee Leuven_Waregem_2011,Waregem,9,8,17,20
+2011-12-10,Lokeren_Standard_2011,Standard,9,8,17,20
+2011-12-10,Gent_Germinal_2011,Gent,9,8,17,20
+2011-12-10,Kortrijk_Westerlo_2011,Kortrijk,8,9,17,20
+2011-12-11,Club Brugge_St Truiden_2011,St Truiden,8,9,17,20
+2011-12-11,Club Brugge_St Truiden_2011,Club Brugge,8,9,17,20
+2011-12-17,Westerlo_Germinal_2011,Germinal,9,9,18,21
+2011-12-17,Westerlo_Germinal_2011,Westerlo,10,8,18,21
+2011-12-17,Waregem_Bergen_2011,Bergen,9,9,18,21
+2011-12-17,St Truiden_Mechelen_2011,Mechelen,8,10,18,21
+2011-12-17,Waregem_Bergen_2011,Waregem,10,8,18,21
+2011-12-17,Lierse_Kortrijk_2011,Lierse,9,9,18,21
+2011-12-17,Lierse_Kortrijk_2011,Kortrijk,8,10,18,21
+2011-12-17,St Truiden_Mechelen_2011,St Truiden,9,9,18,21
+2011-12-18,Standard_Genk_2011,Standard,10,8,18,21
+2011-12-18,Oud-Heverlee Leuven_Club Brugge_2011,Club Brugge,8,10,18,21
+2011-12-18,Anderlecht_Lokeren_2011,Lokeren,8,10,18,21
+2011-12-18,Oud-Heverlee Leuven_Club Brugge_2011,Oud-Heverlee Leuven,9,9,18,21
+2011-12-18,Cercle Brugge_Gent_2011,Gent,9,9,18,21
+2011-12-18,Standard_Genk_2011,Genk,9,9,18,21
+2011-12-18,Anderlecht_Lokeren_2011,Anderlecht,9,9,18,21
+2011-12-18,Cercle Brugge_Gent_2011,Cercle Brugge,10,8,18,21
+2011-12-26,Gent_Westerlo_2011,Westerlo,10,9,19,22
+2011-12-26,Club Brugge_Waregem_2011,Waregem,10,9,19,22
+2011-12-26,Lokeren_St Truiden_2011,Lokeren,9,10,19,22
+2011-12-26,Genk_Cercle Brugge_2011,Cercle Brugge,10,9,19,22
+2011-12-26,Club Brugge_Waregem_2011,Club Brugge,9,10,19,22
+2011-12-26,Germinal_Lierse_2011,Lierse,9,10,19,22
+2011-12-26,Lokeren_St Truiden_2011,St Truiden,9,10,19,22
+2011-12-26,Mechelen_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,9,10,19,22
+2011-12-26,Germinal_Lierse_2011,Germinal,10,9,19,22
+2011-12-26,Kortrijk_Standard_2011,Standard,10,9,19,22
+2011-12-26,Mechelen_Oud-Heverlee Leuven_2011,Mechelen,9,10,19,22
+2011-12-26,Kortrijk_Standard_2011,Kortrijk,9,10,19,22
+2011-12-26,Genk_Cercle Brugge_2011,Genk,10,9,19,22
+2011-12-26,Gent_Westerlo_2011,Gent,10,9,19,22
+2011-12-27,Bergen_Anderlecht_2011,Anderlecht,9,10,19,23
+2011-12-27,Bergen_Anderlecht_2011,Bergen,10,9,19,23
+2012-01-14,Standard_Germinal_2011,Germinal,10,10,20,25
+2012-01-14,St Truiden_Kortrijk_2011,Kortrijk,9,11,20,25
+2012-01-14,Oud-Heverlee Leuven_Lokeren_2011,Oud-Heverlee Leuven,10,10,20,25
+2012-01-14,St Truiden_Kortrijk_2011,St Truiden,10,10,20,25
+2012-01-14,Standard_Germinal_2011,Standard,11,9,20,25
+2012-01-14,Cercle Brugge_Westerlo_2011,Westerlo,10,10,20,25
+2012-01-14,Oud-Heverlee Leuven_Lokeren_2011,Lokeren,9,11,20,25
+2012-01-14,Mechelen_Bergen_2011,Mechelen,10,10,20,25
+2012-01-14,Cercle Brugge_Westerlo_2011,Cercle Brugge,11,9,20,25
+2012-01-14,Mechelen_Bergen_2011,Bergen,10,10,20,25
+2012-01-14,Lierse_Gent_2011,Gent,10,10,20,25
+2012-01-14,Lierse_Gent_2011,Lierse,10,10,20,25
+2012-01-15,Anderlecht_Club Brugge_2011,Club Brugge,9,11,20,25
+2012-01-15,Waregem_Genk_2011,Waregem,11,9,20,25
+2012-01-15,Waregem_Genk_2011,Genk,10,10,20,25
+2012-01-15,Anderlecht_Club Brugge_2011,Anderlecht,10,10,20,25
+2012-01-20,Genk_St Truiden_2011,St Truiden,10,11,21,26
+2012-01-20,Genk_St Truiden_2011,Genk,11,10,21,26
+2012-01-21,Lokeren_Lierse_2011,Lierse,10,11,21,26
+2012-01-21,Bergen_Oud-Heverlee Leuven_2011,Bergen,11,10,21,26
+2012-01-21,Lokeren_Lierse_2011,Lokeren,10,11,21,26
+2012-01-21,Bergen_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,10,11,21,26
+2012-01-21,Germinal_Cercle Brugge_2011,Germinal,11,10,21,26
+2012-01-21,Gent_Waregem_2011,Gent,11,10,21,26
+2012-01-21,Germinal_Cercle Brugge_2011,Cercle Brugge,11,10,21,26
+2012-01-21,Gent_Waregem_2011,Waregem,11,10,21,26
+2012-01-21,Kortrijk_Anderlecht_2011,Anderlecht,10,11,21,26
+2012-01-21,Kortrijk_Anderlecht_2011,Kortrijk,10,11,21,26
+2012-01-21,Club Brugge_Mechelen_2011,Club Brugge,10,11,21,26
+2012-01-21,Club Brugge_Mechelen_2011,Mechelen,10,11,21,26
+2012-01-22,Westerlo_Standard_2011,Standard,11,10,21,26
+2012-01-22,Westerlo_Standard_2011,Westerlo,11,10,21,26
+2012-01-24,Anderlecht_Gent_2011,Anderlecht,11,11,22,27
+2012-01-24,Anderlecht_Gent_2011,Gent,11,11,22,27
+2012-01-25,St Truiden_Westerlo_2011,Westerlo,11,11,22,27
+2012-01-25,Oud-Heverlee Leuven_Kortrijk_2011,Kortrijk,10,12,22,27
+2012-01-25,St Truiden_Westerlo_2011,St Truiden,11,11,22,27
+2012-01-25,Waregem_Germinal_2011,Waregem,12,10,22,27
+2012-01-25,Lierse_Cercle Brugge_2011,Lierse,11,11,22,27
+2012-01-25,Club Brugge_Lokeren_2011,Club Brugge,11,11,22,27
+2012-01-25,Club Brugge_Lokeren_2011,Lokeren,10,12,22,27
+2012-01-25,Lierse_Cercle Brugge_2011,Cercle Brugge,11,11,22,27
+2012-01-25,Oud-Heverlee Leuven_Kortrijk_2011,Oud-Heverlee Leuven,11,11,22,27
+2012-01-25,Mechelen_Genk_2011,Mechelen,11,11,22,27
+2012-01-25,Waregem_Germinal_2011,Germinal,11,11,22,27
+2012-01-25,Mechelen_Genk_2011,Genk,11,11,22,27
+2012-01-26,Standard_Bergen_2011,Bergen,11,11,22,27
+2012-01-26,Standard_Bergen_2011,Standard,12,10,22,27
+2012-01-28,Gent_St Truiden_2011,St Truiden,11,12,23,27
+2012-01-28,Germinal_Anderlecht_2011,Germinal,12,11,23,27
+2012-01-28,Lokeren_Mechelen_2011,Mechelen,11,12,23,27
+2012-01-28,Kortrijk_Waregem_2011,Kortrijk,11,12,23,27
+2012-01-28,Gent_St Truiden_2011,Gent,12,11,23,27
+2012-01-28,Genk_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,11,12,23,27
+2012-01-28,Genk_Oud-Heverlee Leuven_2011,Genk,12,11,23,27
+2012-01-28,Westerlo_Lierse_2011,Lierse,11,12,23,27
+2012-01-28,Germinal_Anderlecht_2011,Anderlecht,11,12,23,27
+2012-01-28,Lokeren_Mechelen_2011,Lokeren,11,12,23,27
+2012-01-28,Kortrijk_Waregem_2011,Waregem,12,11,23,27
+2012-01-28,Westerlo_Lierse_2011,Westerlo,12,11,23,27
+2012-01-29,Cercle Brugge_Standard_2011,Cercle Brugge,12,11,23,27
+2012-01-29,Bergen_Club Brugge_2011,Bergen,12,11,23,27
+2012-01-29,Cercle Brugge_Standard_2011,Standard,12,11,23,27
+2012-01-29,Bergen_Club Brugge_2011,Club Brugge,11,12,23,27
+2012-02-04,Lokeren_Bergen_2011,Bergen,12,12,24,28
+2012-02-04,St Truiden_Cercle Brugge_2011,St Truiden,12,12,24,28
+2012-02-04,Lokeren_Bergen_2011,Lokeren,12,12,24,28
+2012-02-04,Lierse_Standard_2011,Lierse,12,12,24,28
+2012-02-04,Oud-Heverlee Leuven_Gent_2011,Gent,12,12,24,28
+2012-02-04,Mechelen_Kortrijk_2011,Mechelen,12,12,24,28
+2012-02-04,St Truiden_Cercle Brugge_2011,Cercle Brugge,12,12,24,28
+2012-02-04,Mechelen_Kortrijk_2011,Kortrijk,11,13,24,28
+2012-02-04,Oud-Heverlee Leuven_Gent_2011,Oud-Heverlee Leuven,12,12,24,28
+2012-02-04,Waregem_Westerlo_2011,Waregem,13,11,24,28
+2012-02-04,Lierse_Standard_2011,Standard,12,12,24,28
+2012-02-04,Waregem_Westerlo_2011,Westerlo,12,12,24,28
+2012-02-05,Club Brugge_Germinal_2011,Club Brugge,12,12,24,28
+2012-02-05,Club Brugge_Germinal_2011,Germinal,12,12,24,28
+2012-02-05,Anderlecht_Genk_2011,Anderlecht,12,12,24,28
+2012-02-05,Anderlecht_Genk_2011,Genk,12,12,24,28
+2012-02-11,Westerlo_Oud-Heverlee Leuven_2011,Westerlo,13,12,25,29
+2012-02-11,Westerlo_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,12,13,25,29
+2012-02-11,Lierse_Waregem_2011,Waregem,13,12,25,29
+2012-02-11,Germinal_St Truiden_2011,St Truiden,12,13,25,29
+2012-02-11,Genk_Lokeren_2011,Genk,13,12,25,29
+2012-02-11,Cercle Brugge_Mechelen_2011,Cercle Brugge,13,12,25,29
+2012-02-11,Genk_Lokeren_2011,Lokeren,12,13,25,29
+2012-02-11,Germinal_St Truiden_2011,Germinal,13,12,25,29
+2012-02-11,Kortrijk_Bergen_2011,Kortrijk,12,13,25,29
+2012-02-11,Cercle Brugge_Mechelen_2011,Mechelen,12,13,25,29
+2012-02-11,Lierse_Waregem_2011,Lierse,13,12,25,29
+2012-02-11,Kortrijk_Bergen_2011,Bergen,12,13,25,29
+2012-02-12,Standard_Anderlecht_2011,Anderlecht,12,13,25,29
+2012-02-12,Standard_Anderlecht_2011,Standard,13,12,25,29
+2012-02-12,Gent_Club Brugge_2011,Gent,13,12,25,29
+2012-02-12,Gent_Club Brugge_2011,Club Brugge,12,13,25,29
+2012-02-18,Oud-Heverlee Leuven_Cercle Brugge_2011,Oud-Heverlee Leuven,13,13,26,30
+2012-02-18,Mechelen_Germinal_2011,Mechelen,13,13,26,30
+2012-02-18,Lokeren_Gent_2011,Lokeren,13,13,26,30
+2012-02-18,Lokeren_Gent_2011,Gent,13,13,26,30
+2012-02-18,Oud-Heverlee Leuven_Cercle Brugge_2011,Cercle Brugge,13,13,26,30
+2012-02-18,St Truiden_Lierse_2011,St Truiden,13,13,26,30
+2012-02-18,St Truiden_Lierse_2011,Lierse,13,13,26,30
+2012-02-18,Bergen_Genk_2011,Bergen,13,13,26,30
+2012-02-18,Bergen_Genk_2011,Genk,13,13,26,30
+2012-02-18,Mechelen_Germinal_2011,Germinal,13,13,26,30
+2012-02-19,Anderlecht_Westerlo_2011,Westerlo,13,13,26,30
+2012-02-19,Club Brugge_Kortrijk_2011,Kortrijk,12,14,26,30
+2012-02-19,Waregem_Standard_2011,Waregem,14,12,26,30
+2012-02-19,Waregem_Standard_2011,Standard,13,13,26,30
+2012-02-19,Anderlecht_Westerlo_2011,Anderlecht,13,13,26,30
+2012-02-19,Club Brugge_Kortrijk_2011,Club Brugge,13,13,26,30
+2012-02-25,Westerlo_Mechelen_2011,Mechelen,13,14,27,31
+2012-02-25,Germinal_Oud-Heverlee Leuven_2011,Germinal,14,13,27,31
+2012-02-25,Kortrijk_Lokeren_2011,Kortrijk,13,14,27,31
+2012-02-25,Kortrijk_Lokeren_2011,Lokeren,13,14,27,31
+2012-02-25,Cercle Brugge_Waregem_2011,Waregem,14,13,27,31
+2012-02-25,Westerlo_Mechelen_2011,Westerlo,14,13,27,31
+2012-02-25,Gent_Bergen_2011,Bergen,13,14,27,31
+2012-02-25,Germinal_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,13,14,27,31
+2012-02-25,Cercle Brugge_Waregem_2011,Cercle Brugge,14,13,27,31
+2012-02-25,Gent_Bergen_2011,Gent,14,13,27,31
+2012-02-26,Lierse_Anderlecht_2011,Lierse,14,13,27,31
+2012-02-26,Genk_Club Brugge_2011,Genk,14,13,27,31
+2012-02-26,Lierse_Anderlecht_2011,Anderlecht,13,14,27,31
+2012-02-26,Genk_Club Brugge_2011,Club Brugge,13,14,27,31
+2012-02-26,Standard_St Truiden_2011,St Truiden,13,14,27,31
+2012-02-26,Standard_St Truiden_2011,Standard,14,13,27,31
+2012-03-03,St Truiden_Waregem_2011,Waregem,14,14,28,32
+2012-03-03,Mechelen_Gent_2011,Mechelen,14,14,28,32
+2012-03-03,Lokeren_Westerlo_2011,Lokeren,14,14,28,32
+2012-03-03,Kortrijk_Genk_2011,Kortrijk,14,14,28,32
+2012-03-03,Oud-Heverlee Leuven_Lierse_2011,Lierse,14,14,28,32
+2012-03-03,Kortrijk_Genk_2011,Genk,14,14,28,32
+2012-03-03,Bergen_Germinal_2011,Bergen,14,14,28,32
+2012-03-03,Lokeren_Westerlo_2011,Westerlo,14,14,28,32
+2012-03-03,St Truiden_Waregem_2011,St Truiden,14,14,28,32
+2012-03-03,Bergen_Germinal_2011,Germinal,14,14,28,32
+2012-03-03,Oud-Heverlee Leuven_Lierse_2011,Oud-Heverlee Leuven,14,14,28,32
+2012-03-03,Mechelen_Gent_2011,Gent,14,14,28,32
+2012-03-04,Anderlecht_Cercle Brugge_2011,Cercle Brugge,14,14,28,32
+2012-03-04,Anderlecht_Cercle Brugge_2011,Anderlecht,14,14,28,32
+2012-03-04,Club Brugge_Standard_2011,Standard,14,14,28,32
+2012-03-04,Club Brugge_Standard_2011,Club Brugge,14,14,28,32
+2012-03-18,Westerlo_Genk_2011,Westerlo,15,14,29,34
+2012-03-18,Westerlo_Genk_2011,Genk,14,15,29,34
+2012-03-18,Germinal_Lokeren_2011,Germinal,15,14,29,34
+2012-03-18,Waregem_Mechelen_2011,Waregem,15,14,29,34
+2012-03-18,Lierse_Bergen_2011,Lierse,15,14,29,34
+2012-03-18,Cercle Brugge_Club Brugge_2011,Cercle Brugge,15,14,29,34
+2012-03-18,Standard_Oud-Heverlee Leuven_2011,Oud-Heverlee Leuven,14,15,29,34
+2012-03-18,Standard_Oud-Heverlee Leuven_2011,Standard,15,14,29,34
+2012-03-18,Gent_Kortrijk_2011,Kortrijk,14,15,29,34
+2012-03-18,St Truiden_Anderlecht_2011,Anderlecht,14,15,29,34
+2012-03-18,Cercle Brugge_Club Brugge_2011,Club Brugge,14,15,29,34
+2012-03-18,Germinal_Lokeren_2011,Lokeren,14,15,29,34
+2012-03-18,Waregem_Mechelen_2011,Mechelen,14,15,29,34
+2012-03-18,Gent_Kortrijk_2011,Gent,15,14,29,34
+2012-03-18,Lierse_Bergen_2011,Bergen,14,15,29,34
+2012-03-18,St Truiden_Anderlecht_2011,St Truiden,15,14,29,34
+2012-03-21,Mechelen_Standard_2011,Standard,15,15,30,35
+2012-03-21,Mechelen_Standard_2011,Mechelen,15,15,30,35
+2012-03-21,Lokeren_Cercle Brugge_2011,Cercle Brugge,15,15,30,35
+2012-03-21,Lokeren_Cercle Brugge_2011,Lokeren,15,15,30,35
+2012-03-21,Oud-Heverlee Leuven_St Truiden_2011,Oud-Heverlee Leuven,15,15,30,35
+2012-03-21,Club Brugge_Lierse_2011,Club Brugge,15,15,30,35
+2012-03-21,Club Brugge_Lierse_2011,Lierse,15,15,30,35
+2012-03-21,Oud-Heverlee Leuven_St Truiden_2011,St Truiden,15,15,30,35
+2012-03-21,Anderlecht_Waregem_2011,Anderlecht,15,15,30,35
+2012-03-21,Genk_Gent_2011,Gent,15,15,30,35
+2012-03-21,Genk_Gent_2011,Genk,15,15,30,35
+2012-03-21,Kortrijk_Germinal_2011,Germinal,15,15,30,35
+2012-03-21,Kortrijk_Germinal_2011,Kortrijk,15,15,30,35
+2012-03-21,Bergen_Westerlo_2011,Bergen,15,15,30,35
+2012-03-21,Anderlecht_Waregem_2011,Waregem,15,15,30,35
+2012-03-21,Bergen_Westerlo_2011,Westerlo,15,15,30,35

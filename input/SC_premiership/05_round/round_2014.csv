@@ -1,0 +1,457 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2014-08-09,Dundee_Kilmarnock_2014,Dundee,1,1,1,1
+2014-08-09,Dundee_Kilmarnock_2014,Kilmarnock,1,1,1,1
+2014-08-09,Hamilton_Inverness C_2014,Hamilton,1,1,1,1
+2014-08-09,Motherwell_St Mirren_2014,St Mirren,1,1,1,1
+2014-08-09,Hamilton_Inverness C_2014,Inverness C,1,1,1,1
+2014-08-09,Motherwell_St Mirren_2014,Motherwell,1,1,1,1
+2014-08-10,Aberdeen_Dundee United_2014,Aberdeen,1,1,1,1
+2014-08-10,Ross County_St Johnstone_2014,St Johnstone,1,1,1,1
+2014-08-10,Aberdeen_Dundee United_2014,Dundee United,1,1,1,1
+2014-08-10,Ross County_St Johnstone_2014,Ross County,1,1,1,1
+2014-08-13,St Mirren_Hamilton_2014,St Mirren,1,1,2,2
+2014-08-13,Partick_Ross County_2014,Ross County,1,1,2,2
+2014-08-13,Partick_Ross County_2014,Partick,1,1,1,2
+2014-08-13,Dundee United_Motherwell_2014,Motherwell,1,1,2,2
+2014-08-13,St Johnstone_Celtic_2014,Celtic,1,1,1,2
+2014-08-13,St Johnstone_Celtic_2014,St Johnstone,1,1,2,2
+2014-08-13,Dundee United_Motherwell_2014,Dundee United,1,1,2,2
+2014-08-13,Kilmarnock_Aberdeen_2014,Kilmarnock,1,1,2,2
+2014-08-13,St Mirren_Hamilton_2014,Hamilton,1,1,2,2
+2014-08-13,Inverness C_Dundee_2014,Dundee,1,1,2,2
+2014-08-13,Inverness C_Dundee_2014,Inverness C,1,1,2,2
+2014-08-13,Kilmarnock_Aberdeen_2014,Aberdeen,1,1,2,2
+2014-08-16,Celtic_Dundee United_2014,Celtic,1,1,2,2
+2014-08-16,Dundee_Partick_2014,Dundee,2,1,3,2
+2014-08-16,Ross County_Kilmarnock_2014,Kilmarnock,1,2,3,2
+2014-08-16,Celtic_Dundee United_2014,Dundee United,1,2,3,2
+2014-08-16,Ross County_Kilmarnock_2014,Ross County,2,1,3,2
+2014-08-16,Hamilton_St Johnstone_2014,St Johnstone,1,2,3,2
+2014-08-16,Hamilton_St Johnstone_2014,Hamilton,2,1,3,2
+2014-08-16,Motherwell_Inverness C_2014,Inverness C,1,2,3,2
+2014-08-16,Dundee_Partick_2014,Partick,1,1,2,2
+2014-08-16,Motherwell_Inverness C_2014,Motherwell,2,1,3,2
+2014-08-23,St Mirren_Dundee_2014,Dundee,2,2,4,3
+2014-08-23,Kilmarnock_Motherwell_2014,Motherwell,2,2,4,3
+2014-08-23,Dundee United_Ross County_2014,Ross County,2,2,4,3
+2014-08-23,Inverness C_Celtic_2014,Celtic,1,2,3,3
+2014-08-23,Partick_Hamilton_2014,Partick,2,1,3,3
+2014-08-23,Partick_Hamilton_2014,Hamilton,2,2,4,3
+2014-08-23,St Johnstone_Aberdeen_2014,St Johnstone,2,2,4,3
+2014-08-23,St Johnstone_Aberdeen_2014,Aberdeen,1,2,3,3
+2014-08-23,St Mirren_Dundee_2014,St Mirren,2,1,3,3
+2014-08-23,Dundee United_Ross County_2014,Dundee United,2,2,4,3
+2014-08-23,Kilmarnock_Motherwell_2014,Kilmarnock,2,2,4,3
+2014-08-23,Inverness C_Celtic_2014,Inverness C,2,2,4,3
+2014-08-30,Motherwell_St Johnstone_2014,St Johnstone,2,3,5,4
+2014-08-30,Hamilton_Ross County_2014,Hamilton,3,2,5,4
+2014-08-30,Aberdeen_Partick_2014,Aberdeen,2,2,4,4
+2014-08-30,Inverness C_Kilmarnock_2014,Kilmarnock,2,3,5,4
+2014-08-30,Hamilton_Ross County_2014,Ross County,2,3,5,4
+2014-08-30,Aberdeen_Partick_2014,Partick,2,2,4,4
+2014-08-30,Motherwell_St Johnstone_2014,Motherwell,3,2,5,4
+2014-08-30,St Mirren_Dundee United_2014,Dundee United,2,3,5,4
+2014-08-30,Inverness C_Kilmarnock_2014,Inverness C,3,2,5,4
+2014-08-30,St Mirren_Dundee United_2014,St Mirren,3,1,4,4
+2014-08-31,Dundee_Celtic_2014,Celtic,1,3,4,4
+2014-08-31,Dundee_Celtic_2014,Dundee,3,2,5,4
+2014-09-13,Ross County_Motherwell_2014,Motherwell,3,3,6,6
+2014-09-13,Dundee United_Hamilton_2014,Hamilton,3,3,6,6
+2014-09-13,Kilmarnock_St Mirren_2014,St Mirren,3,2,5,6
+2014-09-13,Partick_Inverness C_2014,Partick,3,2,5,6
+2014-09-13,Partick_Inverness C_2014,Inverness C,3,3,6,6
+2014-09-13,Dundee United_Hamilton_2014,Dundee United,3,3,6,6
+2014-09-13,Kilmarnock_St Mirren_2014,Kilmarnock,3,3,6,6
+2014-09-13,Celtic_Aberdeen_2014,Celtic,2,3,5,6
+2014-09-13,St Johnstone_Dundee_2014,St Johnstone,3,3,6,6
+2014-09-13,Celtic_Aberdeen_2014,Aberdeen,2,3,5,6
+2014-09-13,St Johnstone_Dundee_2014,Dundee,3,3,6,6
+2014-09-13,Ross County_Motherwell_2014,Ross County,3,3,6,6
+2014-09-19,Partick_St Mirren_2014,Partick,4,2,6,7
+2014-09-19,Partick_St Mirren_2014,St Mirren,3,3,6,7
+2014-09-20,Inverness C_St Johnstone_2014,St Johnstone,3,4,7,7
+2014-09-20,Inverness C_St Johnstone_2014,Inverness C,4,3,7,7
+2014-09-20,Hamilton_Kilmarnock_2014,Kilmarnock,3,4,7,7
+2014-09-20,Hamilton_Kilmarnock_2014,Hamilton,4,3,7,7
+2014-09-20,Aberdeen_Ross County_2014,Aberdeen,3,3,6,7
+2014-09-20,Aberdeen_Ross County_2014,Ross County,3,4,7,7
+2014-09-21,Celtic_Motherwell_2014,Celtic,3,3,6,7
+2014-09-21,Dundee_Dundee United_2014,Dundee United,3,4,7,7
+2014-09-21,Dundee_Dundee United_2014,Dundee,4,3,7,7
+2014-09-21,Celtic_Motherwell_2014,Motherwell,3,4,7,7
+2014-09-27,Dundee United_St Johnstone_2014,Dundee United,4,4,8,8
+2014-09-27,Aberdeen_Inverness C_2014,Inverness C,4,4,8,8
+2014-09-27,Motherwell_Hamilton_2014,Motherwell,4,4,8,8
+2014-09-27,Kilmarnock_Partick_2014,Partick,4,3,7,8
+2014-09-27,Aberdeen_Inverness C_2014,Aberdeen,4,3,7,8
+2014-09-27,Motherwell_Hamilton_2014,Hamilton,4,4,8,8
+2014-09-27,Kilmarnock_Partick_2014,Kilmarnock,4,4,8,8
+2014-09-27,Ross County_Dundee_2014,Dundee,4,4,8,8
+2014-09-27,Ross County_Dundee_2014,Ross County,4,4,8,8
+2014-09-27,St Mirren_Celtic_2014,Celtic,3,4,7,8
+2014-09-27,St Mirren_Celtic_2014,St Mirren,4,3,7,8
+2014-09-27,Dundee United_St Johnstone_2014,St Johnstone,3,5,8,8
+2014-09-30,Aberdeen_St Mirren_2014,Aberdeen,5,3,8,9
+2014-09-30,Aberdeen_St Mirren_2014,St Mirren,4,4,8,9
+2014-10-03,Kilmarnock_Dundee United_2014,Dundee United,4,5,9,9
+2014-10-03,Kilmarnock_Dundee United_2014,Kilmarnock,5,4,9,9
+2014-10-04,St Johnstone_St Mirren_2014,St Mirren,4,5,9,9
+2014-10-04,Dundee_Aberdeen_2014,Dundee,5,4,9,9
+2014-10-04,St Johnstone_St Mirren_2014,St Johnstone,4,5,9,9
+2014-10-04,Partick_Motherwell_2014,Motherwell,4,5,9,9
+2014-10-04,Partick_Motherwell_2014,Partick,5,3,8,9
+2014-10-04,Dundee_Aberdeen_2014,Aberdeen,5,4,9,9
+2014-10-05,Inverness C_Ross County_2014,Ross County,4,5,9,9
+2014-10-05,Celtic_Hamilton_2014,Hamilton,4,5,9,9
+2014-10-05,Inverness C_Ross County_2014,Inverness C,5,4,9,9
+2014-10-05,Celtic_Hamilton_2014,Celtic,4,4,8,9
+2014-10-17,Hamilton_Aberdeen_2014,Hamilton,5,5,10,11
+2014-10-17,Hamilton_Aberdeen_2014,Aberdeen,5,5,10,11
+2014-10-18,St Mirren_Inverness C_2014,St Mirren,5,5,10,11
+2014-10-18,Ross County_Celtic_2014,Ross County,5,5,10,11
+2014-10-18,St Johnstone_Kilmarnock_2014,St Johnstone,5,5,10,11
+2014-10-18,Dundee United_Partick_2014,Dundee United,5,5,10,11
+2014-10-18,St Johnstone_Kilmarnock_2014,Kilmarnock,5,5,10,11
+2014-10-18,Motherwell_Dundee_2014,Motherwell,5,5,10,11
+2014-10-18,Dundee United_Partick_2014,Partick,5,4,9,11
+2014-10-18,St Mirren_Inverness C_2014,Inverness C,5,5,10,11
+2014-10-18,Ross County_Celtic_2014,Celtic,4,5,9,11
+2014-10-18,Motherwell_Dundee_2014,Dundee,5,5,10,11
+2014-10-24,Aberdeen_Motherwell_2014,Motherwell,5,6,11,12
+2014-10-24,Aberdeen_Motherwell_2014,Aberdeen,6,5,11,12
+2014-10-25,St Mirren_Ross County_2014,St Mirren,6,5,11,12
+2014-10-25,Partick_St Johnstone_2014,St Johnstone,5,6,11,12
+2014-10-25,Dundee_Hamilton_2014,Dundee,6,5,11,12
+2014-10-25,Inverness C_Dundee United_2014,Dundee United,5,6,11,12
+2014-10-25,Inverness C_Dundee United_2014,Inverness C,6,5,11,12
+2014-10-25,Dundee_Hamilton_2014,Hamilton,5,6,11,12
+2014-10-25,St Mirren_Ross County_2014,Ross County,5,6,11,12
+2014-10-25,Partick_St Johnstone_2014,Partick,6,4,10,12
+2014-10-26,Celtic_Kilmarnock_2014,Kilmarnock,5,6,11,12
+2014-10-26,Celtic_Kilmarnock_2014,Celtic,5,5,10,12
+2014-10-31,St Johnstone_Motherwell_2014,Motherwell,5,7,12,13
+2014-10-31,St Johnstone_Motherwell_2014,St Johnstone,6,6,12,13
+2014-11-01,Dundee United_St Mirren_2014,St Mirren,6,6,12,13
+2014-11-01,Dundee United_St Mirren_2014,Dundee United,6,6,12,13
+2014-11-01,Celtic_Inverness C_2014,Celtic,6,5,11,13
+2014-11-01,Hamilton_Partick_2014,Hamilton,6,6,12,13
+2014-11-01,Celtic_Inverness C_2014,Inverness C,6,6,12,13
+2014-11-01,Kilmarnock_Dundee_2014,Dundee,6,6,12,13
+2014-11-01,Kilmarnock_Dundee_2014,Kilmarnock,6,6,12,13
+2014-11-01,Hamilton_Partick_2014,Partick,6,5,11,13
+2014-11-03,Ross County_Aberdeen_2014,Aberdeen,6,6,12,13
+2014-11-03,Ross County_Aberdeen_2014,Ross County,6,6,12,13
+2014-11-07,Motherwell_Dundee United_2014,Motherwell,6,7,13,14
+2014-11-07,Motherwell_Dundee United_2014,Dundee United,6,7,13,14
+2014-11-08,Dundee_St Johnstone_2014,Dundee,7,6,13,14
+2014-11-08,St Mirren_Partick_2014,St Mirren,7,6,13,14
+2014-11-08,Dundee_St Johnstone_2014,St Johnstone,6,7,13,14
+2014-11-08,Kilmarnock_Ross County_2014,Ross County,6,7,13,14
+2014-11-08,Inverness C_Hamilton_2014,Hamilton,6,7,13,14
+2014-11-08,St Mirren_Partick_2014,Partick,6,6,12,14
+2014-11-08,Kilmarnock_Ross County_2014,Kilmarnock,7,6,13,14
+2014-11-08,Inverness C_Hamilton_2014,Inverness C,7,6,13,14
+2014-11-09,Aberdeen_Celtic_2014,Celtic,6,6,12,14
+2014-11-09,Aberdeen_Celtic_2014,Aberdeen,7,6,13,14
+2014-11-22,St Johnstone_Ross County_2014,Ross County,6,8,14,16
+2014-11-22,Dundee United_Kilmarnock_2014,Dundee United,7,7,14,16
+2014-11-22,Dundee United_Kilmarnock_2014,Kilmarnock,7,7,14,16
+2014-11-22,Celtic_Dundee_2014,Dundee,7,7,14,16
+2014-11-22,Inverness C_Motherwell_2014,Motherwell,6,8,14,16
+2014-11-22,Inverness C_Motherwell_2014,Inverness C,8,6,14,16
+2014-11-22,Hamilton_St Mirren_2014,St Mirren,7,7,14,16
+2014-11-22,Hamilton_St Mirren_2014,Hamilton,7,7,14,16
+2014-11-22,Celtic_Dundee_2014,Celtic,7,6,13,16
+2014-11-22,St Johnstone_Ross County_2014,St Johnstone,7,7,14,16
+2014-11-23,Partick_Aberdeen_2014,Aberdeen,7,7,14,16
+2014-11-23,Partick_Aberdeen_2014,Partick,7,6,13,16
+2014-12-03,Celtic_Partick_2014,Celtic,8,6,14,18
+2014-12-03,Celtic_Partick_2014,Partick,7,7,14,18
+2014-12-05,Ross County_Dundee United_2014,Dundee United,7,8,15,18
+2014-12-05,Ross County_Dundee United_2014,Ross County,7,8,15,18
+2014-12-06,Partick_Kilmarnock_2014,Kilmarnock,7,8,15,18
+2014-12-06,Dundee_Inverness C_2014,Dundee,8,7,15,18
+2014-12-06,Aberdeen_Hamilton_2014,Hamilton,7,8,15,18
+2014-12-06,Motherwell_Celtic_2014,Motherwell,7,8,15,18
+2014-12-06,Motherwell_Celtic_2014,Celtic,8,7,15,18
+2014-12-06,Partick_Kilmarnock_2014,Partick,8,7,15,18
+2014-12-06,Dundee_Inverness C_2014,Inverness C,8,7,15,18
+2014-12-06,St Mirren_St Johnstone_2014,St Mirren,8,7,15,18
+2014-12-06,St Mirren_St Johnstone_2014,St Johnstone,7,8,15,18
+2014-12-06,Aberdeen_Hamilton_2014,Aberdeen,8,7,15,18
+2014-12-13,Kilmarnock_St Johnstone_2014,Kilmarnock,8,8,16,19
+2014-12-13,Hamilton_Dundee_2014,Dundee,8,8,16,19
+2014-12-13,Inverness C_Partick_2014,Inverness C,9,7,16,19
+2014-12-13,Motherwell_Ross County_2014,Ross County,7,9,16,19
+2014-12-13,Hamilton_Dundee_2014,Hamilton,8,8,16,19
+2014-12-13,Dundee United_Aberdeen_2014,Aberdeen,8,8,16,19
+2014-12-13,Dundee United_Aberdeen_2014,Dundee United,8,8,16,19
+2014-12-13,Kilmarnock_St Johnstone_2014,St Johnstone,7,9,16,19
+2014-12-13,Inverness C_Partick_2014,Partick,8,8,16,19
+2014-12-13,Motherwell_Ross County_2014,Motherwell,8,8,16,19
+2014-12-14,Celtic_St Mirren_2014,Celtic,9,7,16,19
+2014-12-14,Celtic_St Mirren_2014,St Mirren,8,8,16,19
+2014-12-20,St Mirren_Motherwell_2014,Motherwell,8,9,17,20
+2014-12-20,Partick_Dundee_2014,Dundee,8,9,17,20
+2014-12-20,St Johnstone_Inverness C_2014,St Johnstone,8,9,17,20
+2014-12-20,Aberdeen_Kilmarnock_2014,Aberdeen,9,8,17,20
+2014-12-20,Aberdeen_Kilmarnock_2014,Kilmarnock,8,9,17,20
+2014-12-20,Ross County_Hamilton_2014,Ross County,8,9,17,20
+2014-12-20,Partick_Dundee_2014,Partick,9,8,17,20
+2014-12-20,St Johnstone_Inverness C_2014,Inverness C,9,8,17,20
+2014-12-20,Ross County_Hamilton_2014,Hamilton,8,9,17,20
+2014-12-20,St Mirren_Motherwell_2014,St Mirren,9,8,17,20
+2014-12-21,Dundee United_Celtic_2014,Celtic,9,8,17,20
+2014-12-21,Dundee United_Celtic_2014,Dundee United,9,8,17,20
+2014-12-27,Dundee_St Mirren_2014,St Mirren,9,9,18,21
+2014-12-27,Kilmarnock_Hamilton_2014,Hamilton,8,10,18,21
+2014-12-27,St Johnstone_Dundee United_2014,St Johnstone,9,9,18,21
+2014-12-27,Motherwell_Partick_2014,Motherwell,9,9,18,21
+2014-12-27,Celtic_Ross County_2014,Ross County,8,10,18,21
+2014-12-27,Motherwell_Partick_2014,Partick,9,9,18,21
+2014-12-27,St Johnstone_Dundee United_2014,Dundee United,9,9,18,21
+2014-12-27,Kilmarnock_Hamilton_2014,Kilmarnock,9,9,18,21
+2014-12-27,Celtic_Ross County_2014,Celtic,10,8,18,21
+2014-12-27,Dundee_St Mirren_2014,Dundee,9,9,18,21
+2014-12-28,Inverness C_Aberdeen_2014,Aberdeen,9,9,18,21
+2014-12-28,Inverness C_Aberdeen_2014,Inverness C,10,8,18,21
+2015-01-01,Hamilton_Motherwell_2014,Motherwell,9,10,19,22
+2015-01-01,Hamilton_Motherwell_2014,Hamilton,9,10,19,22
+2015-01-01,Aberdeen_St Johnstone_2014,Aberdeen,10,9,19,22
+2015-01-01,Aberdeen_St Johnstone_2014,St Johnstone,9,10,19,22
+2015-01-01,Ross County_Inverness C_2014,Inverness C,10,9,19,22
+2015-01-01,Ross County_Inverness C_2014,Ross County,9,10,19,22
+2015-01-01,Dundee United_Dundee_2014,Dundee,9,10,19,22
+2015-01-01,St Mirren_Kilmarnock_2014,St Mirren,10,9,19,22
+2015-01-01,Dundee United_Dundee_2014,Dundee United,10,9,19,22
+2015-01-01,St Mirren_Kilmarnock_2014,Kilmarnock,9,10,19,22
+2015-01-04,Motherwell_Aberdeen_2014,Motherwell,10,10,20,22
+2015-01-04,Inverness C_St Mirren_2014,St Mirren,10,10,20,22
+2015-01-04,Inverness C_St Mirren_2014,Inverness C,11,9,20,22
+2015-01-04,Dundee_Ross County_2014,Ross County,9,11,20,22
+2015-01-04,Dundee_Ross County_2014,Dundee,10,10,20,22
+2015-01-04,St Johnstone_Hamilton_2014,Hamilton,9,11,20,22
+2015-01-04,Partick_Dundee United_2014,Partick,10,9,19,22
+2015-01-04,Motherwell_Aberdeen_2014,Aberdeen,10,10,20,22
+2015-01-04,Partick_Dundee United_2014,Dundee United,10,10,20,22
+2015-01-04,St Johnstone_Hamilton_2014,St Johnstone,10,10,20,22
+2015-01-05,Kilmarnock_Celtic_2014,Celtic,10,9,19,22
+2015-01-05,Kilmarnock_Celtic_2014,Kilmarnock,10,10,20,22
+2015-01-10,St Mirren_Aberdeen_2014,St Mirren,11,10,21,23
+2015-01-10,Kilmarnock_Inverness C_2014,Kilmarnock,11,10,21,23
+2015-01-10,Dundee_Motherwell_2014,Motherwell,10,11,21,23
+2015-01-10,St Mirren_Aberdeen_2014,Aberdeen,10,11,21,23
+2015-01-10,Kilmarnock_Inverness C_2014,Inverness C,11,10,21,23
+2015-01-10,Dundee_Motherwell_2014,Dundee,11,10,21,23
+2015-01-12,Hamilton_Dundee United_2014,Dundee United,10,11,21,23
+2015-01-12,Hamilton_Dundee United_2014,Hamilton,10,11,21,23
+2015-01-17,Ross County_St Mirren_2014,St Mirren,11,11,22,24
+2015-01-17,Ross County_St Mirren_2014,Ross County,10,11,21,24
+2015-01-17,Aberdeen_Dundee_2014,Dundee,11,11,22,24
+2015-01-17,St Johnstone_Partick_2014,Partick,10,10,20,24
+2015-01-17,Hamilton_Celtic_2014,Hamilton,11,11,22,24
+2015-01-17,Hamilton_Celtic_2014,Celtic,10,10,20,24
+2015-01-17,St Johnstone_Partick_2014,St Johnstone,11,10,21,24
+2015-01-17,Aberdeen_Dundee_2014,Aberdeen,11,11,22,24
+2015-01-20,Inverness C_St Johnstone_2014,St Johnstone,11,11,22,25
+2015-01-20,Inverness C_St Johnstone_2014,Inverness C,12,10,22,25
+2015-01-21,St Mirren_Dundee United_2014,Dundee United,10,12,22,25
+2015-01-21,Partick_Hamilton_2014,Partick,11,10,21,25
+2015-01-21,Partick_Hamilton_2014,Hamilton,11,12,23,25
+2015-01-21,Dundee_Kilmarnock_2014,Dundee,12,11,23,25
+2015-01-21,Dundee_Kilmarnock_2014,Kilmarnock,11,11,22,25
+2015-01-21,St Mirren_Dundee United_2014,St Mirren,12,11,23,25
+2015-01-21,Celtic_Motherwell_2014,Celtic,11,10,21,25
+2015-01-21,Celtic_Motherwell_2014,Motherwell,10,12,22,25
+2015-01-23,St Johnstone_Aberdeen_2014,St Johnstone,12,11,23,25
+2015-01-23,St Johnstone_Aberdeen_2014,Aberdeen,11,12,23,25
+2015-01-24,St Mirren_Dundee_2014,St Mirren,13,11,24,25
+2015-01-24,Hamilton_Inverness C_2014,Inverness C,12,11,23,25
+2015-01-24,Kilmarnock_Partick_2014,Kilmarnock,12,11,23,25
+2015-01-24,Ross County_Celtic_2014,Ross County,11,11,22,25
+2015-01-24,St Mirren_Dundee_2014,Dundee,12,12,24,25
+2015-01-24,Dundee United_Motherwell_2014,Dundee United,11,12,23,25
+2015-01-24,Kilmarnock_Partick_2014,Partick,11,11,22,25
+2015-01-24,Dundee United_Motherwell_2014,Motherwell,10,13,23,25
+2015-01-24,Ross County_Celtic_2014,Celtic,11,11,22,25
+2015-01-24,Hamilton_Inverness C_2014,Hamilton,12,12,24,25
+2015-01-30,Partick_St Mirren_2014,Partick,12,11,23,26
+2015-01-30,Partick_St Mirren_2014,St Mirren,13,12,25,26
+2015-01-31,Dundee_Hamilton_2014,Dundee,13,12,25,26
+2015-01-31,Motherwell_St Johnstone_2014,Motherwell,11,13,24,26
+2015-01-31,Motherwell_St Johnstone_2014,St Johnstone,12,12,24,26
+2015-01-31,Inverness C_Ross County_2014,Ross County,11,12,23,26
+2015-01-31,Inverness C_Ross County_2014,Inverness C,13,11,24,26
+2015-01-31,Dundee_Hamilton_2014,Hamilton,12,13,25,26
+2015-02-07,Aberdeen_Ross County_2014,Aberdeen,12,12,24,27
+2015-02-07,Aberdeen_Ross County_2014,Ross County,11,13,24,27
+2015-02-07,Hamilton_Kilmarnock_2014,Kilmarnock,12,12,24,27
+2015-02-07,Hamilton_Kilmarnock_2014,Hamilton,13,13,26,27
+2015-02-11,Partick_Celtic_2014,Celtic,11,12,23,28
+2015-02-11,Partick_Celtic_2014,Partick,13,11,24,28
+2015-02-14,Dundee_Partick_2014,Dundee,14,12,26,28
+2015-02-14,Ross County_Motherwell_2014,Ross County,12,13,25,28
+2015-02-14,Dundee_Partick_2014,Partick,13,12,25,28
+2015-02-14,St Mirren_Inverness C_2014,St Mirren,14,12,26,28
+2015-02-14,St Mirren_Inverness C_2014,Inverness C,13,12,25,28
+2015-02-14,Kilmarnock_Dundee United_2014,Dundee United,11,13,24,28
+2015-02-14,Kilmarnock_Dundee United_2014,Kilmarnock,13,12,25,28
+2015-02-14,St Johnstone_Celtic_2014,St Johnstone,13,12,25,28
+2015-02-14,Ross County_Motherwell_2014,Motherwell,11,14,25,28
+2015-02-14,St Johnstone_Celtic_2014,Celtic,11,13,24,28
+2015-02-15,Hamilton_Aberdeen_2014,Aberdeen,12,13,25,28
+2015-02-15,Hamilton_Aberdeen_2014,Hamilton,14,13,27,28
+2015-02-21,Dundee United_St Johnstone_2014,St Johnstone,13,13,26,29
+2015-02-21,Aberdeen_St Mirren_2014,St Mirren,14,13,27,29
+2015-02-21,Partick_Ross County_2014,Ross County,12,14,26,29
+2015-02-21,Dundee United_St Johnstone_2014,Dundee United,12,13,25,29
+2015-02-21,Inverness C_Kilmarnock_2014,Kilmarnock,13,13,26,29
+2015-02-21,Motherwell_Dundee_2014,Dundee,14,13,27,29
+2015-02-21,Partick_Ross County_2014,Partick,14,12,26,29
+2015-02-21,Motherwell_Dundee_2014,Motherwell,12,14,26,29
+2015-02-21,Aberdeen_St Mirren_2014,Aberdeen,13,13,26,29
+2015-02-21,Inverness C_Kilmarnock_2014,Inverness C,14,12,26,29
+2015-02-22,Celtic_Hamilton_2014,Hamilton,14,14,28,29
+2015-02-22,Celtic_Hamilton_2014,Celtic,12,13,25,29
+2015-02-24,Dundee United_Inverness C_2014,Inverness C,14,13,27,30
+2015-02-24,Dundee United_Inverness C_2014,Dundee United,13,13,26,30
+2015-02-28,Ross County_Dundee_2014,Ross County,13,14,27,30
+2015-02-28,St Mirren_Hamilton_2014,Hamilton,14,15,29,30
+2015-02-28,Ross County_Dundee_2014,Dundee,14,14,28,30
+2015-02-28,Dundee United_Partick_2014,Partick,14,13,27,30
+2015-02-28,Motherwell_Inverness C_2014,Inverness C,14,14,28,30
+2015-02-28,Motherwell_Inverness C_2014,Motherwell,13,14,27,30
+2015-02-28,Dundee United_Partick_2014,Dundee United,14,13,27,30
+2015-02-28,St Johnstone_Kilmarnock_2014,St Johnstone,14,13,27,30
+2015-02-28,St Mirren_Hamilton_2014,St Mirren,15,13,28,30
+2015-02-28,St Johnstone_Kilmarnock_2014,Kilmarnock,13,14,27,30
+2015-03-01,Celtic_Aberdeen_2014,Celtic,13,13,26,30
+2015-03-01,Celtic_Aberdeen_2014,Aberdeen,13,14,27,30
+2015-03-04,Celtic_St Johnstone_2014,Celtic,14,13,27,31
+2015-03-04,Celtic_St Johnstone_2014,St Johnstone,14,14,28,31
+2015-03-07,Motherwell_Kilmarnock_2014,Motherwell,14,14,28,31
+2015-03-07,Motherwell_Kilmarnock_2014,Kilmarnock,13,15,28,31
+2015-03-07,Ross County_Partick_2014,Partick,14,14,28,31
+2015-03-07,Ross County_Partick_2014,Ross County,14,14,28,31
+2015-03-13,Aberdeen_Motherwell_2014,Aberdeen,14,14,28,32
+2015-03-13,Aberdeen_Motherwell_2014,Motherwell,14,15,29,32
+2015-03-14,Kilmarnock_St Mirren_2014,St Mirren,15,14,29,32
+2015-03-14,Partick_St Johnstone_2014,St Johnstone,14,15,29,32
+2015-03-14,Hamilton_Ross County_2014,Ross County,14,15,29,32
+2015-03-14,Hamilton_Ross County_2014,Hamilton,15,15,30,32
+2015-03-14,Partick_St Johnstone_2014,Partick,15,14,29,32
+2015-03-14,Kilmarnock_St Mirren_2014,Kilmarnock,14,15,29,32
+2015-03-20,Motherwell_Hamilton_2014,Motherwell,15,15,30,33
+2015-03-20,Motherwell_Hamilton_2014,Hamilton,15,16,31,33
+2015-03-21,St Johnstone_St Mirren_2014,St Johnstone,15,15,30,33
+2015-03-21,Partick_Inverness C_2014,Partick,16,14,30,33
+2015-03-21,St Johnstone_St Mirren_2014,St Mirren,15,15,30,33
+2015-03-21,Dundee_Aberdeen_2014,Dundee,15,14,29,33
+2015-03-21,Dundee_Aberdeen_2014,Aberdeen,14,15,29,33
+2015-03-21,Ross County_Kilmarnock_2014,Kilmarnock,14,16,30,33
+2015-03-21,Celtic_Dundee United_2014,Dundee United,14,14,28,33
+2015-03-21,Ross County_Kilmarnock_2014,Ross County,15,15,30,33
+2015-03-21,Celtic_Dundee United_2014,Celtic,15,13,28,33
+2015-03-21,Partick_Inverness C_2014,Inverness C,14,15,29,33
+2015-04-03,St Mirren_Celtic_2014,Celtic,15,14,29,35
+2015-04-03,St Mirren_Celtic_2014,St Mirren,16,15,31,35
+2015-04-04,Dundee United_Ross County_2014,Dundee United,15,14,29,35
+2015-04-04,Inverness C_Dundee_2014,Dundee,15,15,30,35
+2015-04-04,Inverness C_Dundee_2014,Inverness C,15,15,30,35
+2015-04-04,Kilmarnock_Motherwell_2014,Motherwell,15,16,31,35
+2015-04-04,Aberdeen_Partick_2014,Aberdeen,15,15,30,35
+2015-04-04,Dundee United_Ross County_2014,Ross County,15,16,31,35
+2015-04-04,Aberdeen_Partick_2014,Partick,16,15,31,35
+2015-04-04,Hamilton_St Johnstone_2014,St Johnstone,15,16,31,35
+2015-04-04,Hamilton_St Johnstone_2014,Hamilton,16,16,32,35
+2015-04-04,Kilmarnock_Motherwell_2014,Kilmarnock,15,16,31,35
+2015-04-07,Ross County_St Johnstone_2014,St Johnstone,15,17,32,36
+2015-04-07,Motherwell_St Mirren_2014,St Mirren,16,16,32,36
+2015-04-07,Motherwell_St Mirren_2014,Motherwell,16,16,32,36
+2015-04-07,Ross County_St Johnstone_2014,Ross County,16,16,32,36
+2015-04-08,Celtic_Partick_2014,Celtic,16,14,30,36
+2015-04-08,Aberdeen_Inverness C_2014,Inverness C,15,16,31,36
+2015-04-08,Celtic_Partick_2014,Partick,16,16,32,36
+2015-04-08,Aberdeen_Inverness C_2014,Aberdeen,16,15,31,36
+2015-04-08,Dundee_Dundee United_2014,Dundee United,15,15,30,36
+2015-04-08,Dundee_Dundee United_2014,Dundee,16,15,31,36
+2015-04-11,Dundee United_Hamilton_2014,Dundee United,16,15,31,36
+2015-04-11,Inverness C_Celtic_2014,Inverness C,16,16,32,36
+2015-04-11,Partick_Motherwell_2014,Motherwell,16,17,33,36
+2015-04-11,Dundee United_Hamilton_2014,Hamilton,16,17,33,36
+2015-04-11,Inverness C_Celtic_2014,Celtic,16,15,31,36
+2015-04-11,St Johnstone_Dundee_2014,St Johnstone,16,17,33,36
+2015-04-11,St Johnstone_Dundee_2014,Dundee,16,16,32,36
+2015-04-11,Partick_Motherwell_2014,Partick,17,16,33,36
+2015-04-12,Kilmarnock_Aberdeen_2014,Aberdeen,16,16,32,36
+2015-04-12,Kilmarnock_Aberdeen_2014,Kilmarnock,16,16,32,36
+2015-04-13,St Mirren_Ross County_2014,Ross County,16,17,33,36
+2015-04-13,St Mirren_Ross County_2014,St Mirren,17,16,33,36
+2015-04-15,Celtic_Kilmarnock_2014,Celtic,17,15,32,37
+2015-04-15,Celtic_Kilmarnock_2014,Kilmarnock,16,17,33,37
+2015-04-18,Aberdeen_Dundee United_2014,Aberdeen,17,16,33,37
+2015-04-18,Aberdeen_Dundee United_2014,Dundee United,16,16,32,37
+2015-04-22,Dundee_Celtic_2014,Celtic,17,16,33,38
+2015-04-22,Dundee_Celtic_2014,Dundee,17,16,33,38
+2015-04-24,Hamilton_Motherwell_2014,Hamilton,17,17,34,38
+2015-04-24,Hamilton_Motherwell_2014,Motherwell,16,18,34,38
+2015-04-25,Ross County_Partick_2014,Partick,17,17,34,38
+2015-04-25,Dundee_St Johnstone_2014,St Johnstone,16,18,34,38
+2015-04-25,Inverness C_Aberdeen_2014,Aberdeen,17,17,34,38
+2015-04-25,Ross County_Partick_2014,Ross County,17,17,34,38
+2015-04-25,St Mirren_Kilmarnock_2014,Kilmarnock,16,18,34,38
+2015-04-25,Dundee_St Johnstone_2014,Dundee,18,16,34,38
+2015-04-25,Inverness C_Aberdeen_2014,Inverness C,17,16,33,38
+2015-04-25,St Mirren_Kilmarnock_2014,St Mirren,18,16,34,38
+2015-04-26,Dundee United_Celtic_2014,Dundee United,17,16,33,38
+2015-04-26,Dundee United_Celtic_2014,Celtic,17,17,34,38
+2015-05-01,Celtic_Dundee_2014,Celtic,18,17,35,39
+2015-05-01,Celtic_Dundee_2014,Dundee,18,17,35,39
+2015-05-02,Motherwell_Ross County_2014,Ross County,17,18,35,39
+2015-05-02,Kilmarnock_Hamilton_2014,Kilmarnock,17,18,35,39
+2015-05-02,St Johnstone_Inverness C_2014,St Johnstone,17,18,35,39
+2015-05-02,Dundee United_Aberdeen_2014,Dundee United,18,16,34,39
+2015-05-02,Kilmarnock_Hamilton_2014,Hamilton,17,18,35,39
+2015-05-02,St Johnstone_Inverness C_2014,Inverness C,17,17,34,39
+2015-05-02,Partick_St Mirren_2014,Partick,18,17,35,39
+2015-05-02,Motherwell_Ross County_2014,Motherwell,17,18,35,39
+2015-05-02,Dundee United_Aberdeen_2014,Aberdeen,17,18,35,39
+2015-05-02,Partick_St Mirren_2014,St Mirren,18,17,35,39
+2015-05-05,Inverness C_Dundee United_2014,Inverness C,18,17,35,40
+2015-05-05,Inverness C_Dundee United_2014,Dundee United,18,17,35,40
+2015-05-08,Motherwell_Kilmarnock_2014,Motherwell,18,18,36,40
+2015-05-08,Motherwell_Kilmarnock_2014,Kilmarnock,17,19,36,40
+2015-05-09,Dundee_Inverness C_2014,Dundee,19,17,36,40
+2015-05-09,Hamilton_Partick_2014,Partick,18,18,36,40
+2015-05-09,St Johnstone_Dundee United_2014,Dundee United,18,18,36,40
+2015-05-09,Hamilton_Partick_2014,Hamilton,18,18,36,40
+2015-05-09,Dundee_Inverness C_2014,Inverness C,18,18,36,40
+2015-05-09,St Johnstone_Dundee United_2014,St Johnstone,18,18,36,40
+2015-05-09,Ross County_St Mirren_2014,Ross County,18,18,36,40
+2015-05-09,Ross County_St Mirren_2014,St Mirren,18,18,36,40
+2015-05-10,Aberdeen_Celtic_2014,Celtic,18,18,36,40
+2015-05-10,Aberdeen_Celtic_2014,Aberdeen,18,18,36,40
+2015-05-15,St Johnstone_Celtic_2014,St Johnstone,19,18,37,41
+2015-05-15,St Johnstone_Celtic_2014,Celtic,18,19,37,41
+2015-05-16,Dundee_Aberdeen_2014,Dundee,20,17,37,41
+2015-05-16,Inverness C_Dundee United_2014,Inverness C,19,18,37,41
+2015-05-16,Partick_Kilmarnock_2014,Kilmarnock,17,20,37,41
+2015-05-16,Partick_Kilmarnock_2014,Partick,19,18,37,41
+2015-05-16,St Mirren_Motherwell_2014,St Mirren,19,18,37,41
+2015-05-16,St Mirren_Motherwell_2014,Motherwell,18,19,37,41
+2015-05-16,Ross County_Hamilton_2014,Ross County,19,18,37,41
+2015-05-16,Inverness C_Dundee United_2014,Dundee United,18,19,37,41
+2015-05-16,Dundee_Aberdeen_2014,Aberdeen,18,19,37,41
+2015-05-16,Ross County_Hamilton_2014,Hamilton,18,19,37,41
+2015-05-23,Hamilton_St Mirren_2014,St Mirren,19,19,38,42
+2015-05-23,Kilmarnock_Ross County_2014,Ross County,19,19,38,42
+2015-05-23,Motherwell_Partick_2014,Motherwell,19,19,38,42
+2015-05-23,Hamilton_St Mirren_2014,Hamilton,19,19,38,42
+2015-05-23,Kilmarnock_Ross County_2014,Kilmarnock,18,20,38,42
+2015-05-23,Motherwell_Partick_2014,Partick,19,19,38,42
+2015-05-24,Dundee United_Dundee_2014,Dundee,20,18,38,42
+2015-05-24,Celtic_Inverness C_2014,Celtic,19,19,38,42
+2015-05-24,Aberdeen_St Johnstone_2014,Aberdeen,19,19,38,42
+2015-05-24,Dundee United_Dundee_2014,Dundee United,19,19,38,42
+2015-05-24,Aberdeen_St Johnstone_2014,St Johnstone,19,19,38,42
+2015-05-24,Celtic_Inverness C_2014,Inverness C,19,19,38,42

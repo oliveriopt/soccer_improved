@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2015-08-14,Tondela_Sp Lisbon_2015,Sp Lisbon,1,1,1,1
+2015-08-14,Tondela_Sp Lisbon_2015,Tondela,1,1,1,1
+2015-08-15,Belenenses_Rio Ave_2015,Belenenses,1,1,1,1
+2015-08-15,Belenenses_Rio Ave_2015,Rio Ave,1,1,1,1
+2015-08-15,Porto_Guimaraes_2015,Porto,1,1,1,1
+2015-08-15,Porto_Guimaraes_2015,Guimaraes,1,1,1,1
+2015-08-16,Sp Braga_Nacional_2015,Nacional,1,1,1,1
+2015-08-16,Benfica_Estoril_2015,Estoril,1,1,1,1
+2015-08-16,Uniao Madeira_Maritimo_2015,Maritimo,1,1,1,1
+2015-08-16,Sp Braga_Nacional_2015,Sp Braga,1,1,1,1
+2015-08-16,Uniao Madeira_Maritimo_2015,Uniao Madeira,1,1,1,1
+2015-08-16,Moreirense_Arouca_2015,Moreirense,1,1,1,1
+2015-08-16,Setubal_Boavista_2015,Setubal,1,1,1,1
+2015-08-16,Moreirense_Arouca_2015,Arouca,1,1,1,1
+2015-08-16,Benfica_Estoril_2015,Benfica,1,1,1,1
+2015-08-16,Setubal_Boavista_2015,Boavista,1,1,1,1
+2015-08-17,Pacos Ferreira_Academica_2015,Pacos Ferreira,1,1,1,1
+2015-08-17,Pacos Ferreira_Academica_2015,Academica,1,1,1,1
+2015-08-21,Rio Ave_Sp Braga_2015,Sp Braga,1,1,2,2
+2015-08-21,Rio Ave_Sp Braga_2015,Rio Ave,1,1,2,2
+2015-08-22,Maritimo_Porto_2015,Maritimo,1,1,2,2
+2015-08-22,Maritimo_Porto_2015,Porto,1,1,2,2
+2015-08-22,Sp Lisbon_Pacos Ferreira_2015,Pacos Ferreira,1,1,2,2
+2015-08-22,Sp Lisbon_Pacos Ferreira_2015,Sp Lisbon,1,1,2,2
+2015-08-23,Arouca_Benfica_2015,Arouca,1,1,2,2
+2015-08-23,Guimaraes_Belenenses_2015,Guimaraes,1,1,2,2
+2015-08-23,Guimaraes_Belenenses_2015,Belenenses,1,1,2,2
+2015-08-23,Estoril_Moreirense_2015,Moreirense,1,1,2,2
+2015-08-23,Nacional_Uniao Madeira_2015,Nacional,1,1,2,2
+2015-08-23,Boavista_Tondela_2015,Boavista,1,1,2,2
+2015-08-23,Estoril_Moreirense_2015,Estoril,1,1,2,2
+2015-08-23,Nacional_Uniao Madeira_2015,Uniao Madeira,1,1,2,2
+2015-08-23,Boavista_Tondela_2015,Tondela,1,1,2,2
+2015-08-23,Arouca_Benfica_2015,Benfica,1,1,2,2
+2015-08-24,Academica_Setubal_2015,Setubal,1,1,2,2
+2015-08-24,Academica_Setubal_2015,Academica,1,1,2,2
+2015-08-29,Benfica_Moreirense_2015,Moreirense,1,2,3,3
+2015-08-29,Setubal_Rio Ave_2015,Rio Ave,1,2,3,3
+2015-08-29,Porto_Estoril_2015,Estoril,1,2,3,3
+2015-08-29,Benfica_Moreirense_2015,Benfica,2,1,3,3
+2015-08-29,Porto_Estoril_2015,Porto,2,1,3,3
+2015-08-29,Setubal_Rio Ave_2015,Setubal,2,1,3,3
+2015-08-30,Academica_Sp Lisbon_2015,Academica,2,1,3,3
+2015-08-30,Pacos Ferreira_Arouca_2015,Pacos Ferreira,2,1,3,3
+2015-08-30,Tondela_Nacional_2015,Nacional,1,2,3,3
+2015-08-30,Sp Braga_Boavista_2015,Sp Braga,2,1,3,3
+2015-08-30,Sp Braga_Boavista_2015,Boavista,1,2,3,3
+2015-08-30,Academica_Sp Lisbon_2015,Sp Lisbon,1,2,3,3
+2015-08-30,Tondela_Nacional_2015,Tondela,2,1,3,3
+2015-08-30,Pacos Ferreira_Arouca_2015,Arouca,1,2,3,3
+2015-08-31,Belenenses_Maritimo_2015,Maritimo,1,2,3,3
+2015-08-31,Uniao Madeira_Guimaraes_2015,Uniao Madeira,2,1,3,3
+2015-08-31,Belenenses_Maritimo_2015,Belenenses,2,1,3,3
+2015-08-31,Uniao Madeira_Guimaraes_2015,Guimaraes,1,2,3,3
+2015-09-11,Benfica_Belenenses_2015,Benfica,3,1,4,5
+2015-09-11,Benfica_Belenenses_2015,Belenenses,2,2,4,5
+2015-09-12,Estoril_Sp Braga_2015,Sp Braga,2,2,4,5
+2015-09-12,Arouca_Porto_2015,Porto,2,2,4,5
+2015-09-12,Estoril_Sp Braga_2015,Estoril,2,2,4,5
+2015-09-12,Arouca_Porto_2015,Arouca,2,2,4,5
+2015-09-13,Nacional_Academica_2015,Academica,2,2,4,5
+2015-09-13,Moreirense_Uniao Madeira_2015,Moreirense,2,2,4,5
+2015-09-13,Maritimo_Setubal_2015,Maritimo,2,2,4,5
+2015-09-13,Guimaraes_Tondela_2015,Guimaraes,2,2,4,5
+2015-09-13,Rio Ave_Sp Lisbon_2015,Sp Lisbon,1,3,4,5
+2015-09-13,Guimaraes_Tondela_2015,Tondela,2,2,4,5
+2015-09-13,Rio Ave_Sp Lisbon_2015,Rio Ave,2,2,4,5
+2015-09-13,Moreirense_Uniao Madeira_2015,Uniao Madeira,2,2,4,5
+2015-09-13,Maritimo_Setubal_2015,Setubal,2,2,4,5
+2015-09-13,Nacional_Academica_2015,Nacional,2,2,4,5
+2015-09-14,Boavista_Pacos Ferreira_2015,Boavista,2,2,4,5
+2015-09-14,Boavista_Pacos Ferreira_2015,Pacos Ferreira,2,2,4,5
+2015-09-18,Setubal_Guimaraes_2015,Setubal,3,2,5,6
+2015-09-18,Setubal_Guimaraes_2015,Guimaraes,2,3,5,6
+2015-09-19,Pacos Ferreira_Rio Ave_2015,Rio Ave,2,3,5,6
+2015-09-19,Pacos Ferreira_Rio Ave_2015,Pacos Ferreira,3,2,5,6
+2015-09-19,Tondela_Estoril_2015,Tondela,3,2,5,6
+2015-09-19,Tondela_Estoril_2015,Estoril,2,3,5,6
+2015-09-20,Academica_Boavista_2015,Academica,3,2,5,6
+2015-09-20,Porto_Benfica_2015,Porto,3,2,5,6
+2015-09-20,Porto_Benfica_2015,Benfica,3,2,5,6
+2015-09-20,Academica_Boavista_2015,Boavista,2,3,5,6
+2015-09-20,Uniao Madeira_Arouca_2015,Uniao Madeira,3,2,5,6
+2015-09-20,Uniao Madeira_Arouca_2015,Arouca,2,3,5,6
+2015-09-21,Belenenses_Moreirense_2015,Belenenses,3,2,5,6
+2015-09-21,Belenenses_Moreirense_2015,Moreirense,2,3,5,6
+2015-09-21,Sp Lisbon_Nacional_2015,Nacional,2,3,5,6
+2015-09-21,Sp Braga_Maritimo_2015,Sp Braga,3,2,5,6
+2015-09-21,Sp Lisbon_Nacional_2015,Sp Lisbon,2,3,5,6
+2015-09-21,Sp Braga_Maritimo_2015,Maritimo,2,3,5,6
+2015-09-25,Moreirense_Porto_2015,Porto,3,3,6,7
+2015-09-25,Moreirense_Porto_2015,Moreirense,3,3,6,7
+2015-09-26,Boavista_Sp Lisbon_2015,Boavista,3,3,6,7
+2015-09-26,Boavista_Sp Lisbon_2015,Sp Lisbon,2,4,6,7
+2015-09-26,Benfica_Pacos Ferreira_2015,Pacos Ferreira,3,3,6,7
+2015-09-26,Benfica_Pacos Ferreira_2015,Benfica,4,2,6,7
+2015-09-27,Estoril_Uniao Madeira_2015,Uniao Madeira,3,3,6,7
+2015-09-27,Guimaraes_Sp Braga_2015,Sp Braga,3,3,6,7
+2015-09-27,Maritimo_Tondela_2015,Maritimo,3,3,6,7
+2015-09-27,Guimaraes_Sp Braga_2015,Guimaraes,3,3,6,7
+2015-09-27,Arouca_Belenenses_2015,Arouca,3,3,6,7
+2015-09-27,Nacional_Setubal_2015,Nacional,3,3,6,7
+2015-09-27,Estoril_Uniao Madeira_2015,Estoril,3,3,6,7
+2015-09-27,Nacional_Setubal_2015,Setubal,3,3,6,7
+2015-09-27,Maritimo_Tondela_2015,Tondela,3,3,6,7
+2015-09-27,Arouca_Belenenses_2015,Belenenses,3,3,6,7
+2015-09-28,Rio Ave_Academica_2015,Academica,3,3,6,7
+2015-09-28,Rio Ave_Academica_2015,Rio Ave,3,3,6,7
+2015-10-02,Setubal_Estoril_2015,Setubal,4,3,7,8
+2015-10-02,Setubal_Estoril_2015,Estoril,3,4,7,8
+2015-10-03,Tondela_Moreirense_2015,Moreirense,3,4,7,8
+2015-10-03,Pacos Ferreira_Nacional_2015,Nacional,3,4,7,8
+2015-10-03,Pacos Ferreira_Nacional_2015,Pacos Ferreira,4,3,7,8
+2015-10-03,Tondela_Moreirense_2015,Tondela,4,3,7,8
+2015-10-03,Rio Ave_Boavista_2015,Rio Ave,4,3,7,8
+2015-10-03,Rio Ave_Boavista_2015,Boavista,3,4,7,8
+2015-10-03,Academica_Maritimo_2015,Maritimo,3,4,7,8
+2015-10-03,Academica_Maritimo_2015,Academica,4,3,7,8
+2015-10-04,Porto_Belenenses_2015,Porto,4,3,7,8
+2015-10-04,Sp Braga_Arouca_2015,Arouca,3,4,7,8
+2015-10-04,Sp Lisbon_Guimaraes_2015,Guimaraes,3,4,7,8
+2015-10-04,Sp Braga_Arouca_2015,Sp Braga,4,3,7,8
+2015-10-04,Sp Lisbon_Guimaraes_2015,Sp Lisbon,3,4,7,8
+2015-10-04,Porto_Belenenses_2015,Belenenses,3,4,7,8
+2015-10-23,Nacional_Boavista_2015,Nacional,4,4,8,11
+2015-10-23,Nacional_Boavista_2015,Boavista,3,5,8,11
+2015-10-24,Estoril_Rio Ave_2015,Rio Ave,4,4,8,11
+2015-10-24,Estoril_Rio Ave_2015,Estoril,4,4,8,11
+2015-10-24,Maritimo_Pacos Ferreira_2015,Pacos Ferreira,4,4,8,11
+2015-10-24,Maritimo_Pacos Ferreira_2015,Maritimo,4,4,8,11
+2015-10-24,Guimaraes_Academica_2015,Guimaraes,4,4,8,11
+2015-10-24,Guimaraes_Academica_2015,Academica,4,4,8,11
+2015-10-25,Benfica_Sp Lisbon_2015,Sp Lisbon,3,5,8,11
+2015-10-25,Arouca_Tondela_2015,Arouca,4,4,8,11
+2015-10-25,Porto_Sp Braga_2015,Sp Braga,4,4,8,11
+2015-10-25,Benfica_Sp Lisbon_2015,Benfica,5,2,7,11
+2015-10-25,Porto_Sp Braga_2015,Porto,5,3,8,11
+2015-10-25,Moreirense_Setubal_2015,Moreirense,4,4,8,11
+2015-10-25,Arouca_Tondela_2015,Tondela,4,4,8,11
+2015-10-25,Moreirense_Setubal_2015,Setubal,4,4,8,11
+2015-10-26,Belenenses_Uniao Madeira_2015,Belenenses,4,4,8,11
+2015-10-26,Belenenses_Uniao Madeira_2015,Uniao Madeira,3,4,7,11
+2015-10-30,Tondela_Benfica_2015,Benfica,5,3,8,12
+2015-10-30,Tondela_Benfica_2015,Tondela,5,4,9,12
+2015-10-31,Sp Braga_Belenenses_2015,Belenenses,4,5,9,12
+2015-10-31,Sp Lisbon_Estoril_2015,Estoril,4,5,9,12
+2015-10-31,Sp Lisbon_Estoril_2015,Sp Lisbon,4,5,9,12
+2015-10-31,Sp Braga_Belenenses_2015,Sp Braga,5,4,9,12
+2015-11-01,Boavista_Maritimo_2015,Maritimo,4,5,9,12
+2015-11-01,Academica_Moreirense_2015,Moreirense,4,5,9,12
+2015-11-01,Rio Ave_Nacional_2015,Nacional,4,5,9,12
+2015-11-01,Boavista_Maritimo_2015,Boavista,4,5,9,12
+2015-11-01,Setubal_Arouca_2015,Arouca,4,5,9,12
+2015-11-01,Setubal_Arouca_2015,Setubal,5,4,9,12
+2015-11-01,Rio Ave_Nacional_2015,Rio Ave,5,4,9,12
+2015-11-01,Academica_Moreirense_2015,Academica,5,4,9,12
+2015-11-02,Pacos Ferreira_Guimaraes_2015,Pacos Ferreira,5,4,9,12
+2015-11-02,Pacos Ferreira_Guimaraes_2015,Guimaraes,4,5,9,12
+2015-11-06,Estoril_Academica_2015,Estoril,5,5,10,13
+2015-11-06,Estoril_Academica_2015,Academica,5,5,10,13
+2015-11-07,Guimaraes_Nacional_2015,Nacional,4,6,10,13
+2015-11-07,Guimaraes_Nacional_2015,Guimaraes,5,5,10,13
+2015-11-08,Moreirense_Pacos Ferreira_2015,Pacos Ferreira,5,5,10,13
+2015-11-08,Maritimo_Rio Ave_2015,Maritimo,5,5,10,13
+2015-11-08,Arouca_Sp Lisbon_2015,Arouca,5,5,10,13
+2015-11-08,Benfica_Boavista_2015,Benfica,6,3,9,13
+2015-11-08,Arouca_Sp Lisbon_2015,Sp Lisbon,4,6,10,13
+2015-11-08,Porto_Setubal_2015,Porto,6,3,9,13
+2015-11-08,Porto_Setubal_2015,Setubal,5,5,10,13
+2015-11-08,Benfica_Boavista_2015,Boavista,4,6,10,13
+2015-11-08,Moreirense_Pacos Ferreira_2015,Moreirense,5,5,10,13
+2015-11-08,Maritimo_Rio Ave_2015,Rio Ave,5,5,10,13
+2015-11-09,Uniao Madeira_Sp Braga_2015,Uniao Madeira,4,4,8,13
+2015-11-09,Uniao Madeira_Sp Braga_2015,Sp Braga,5,5,10,13
+2015-11-09,Belenenses_Tondela_2015,Tondela,5,5,10,13
+2015-11-09,Belenenses_Tondela_2015,Belenenses,5,5,10,13
+2015-11-27,Nacional_Maritimo_2015,Maritimo,5,6,11,16
+2015-11-27,Nacional_Maritimo_2015,Nacional,5,6,11,16
+2015-11-28,Boavista_Guimaraes_2015,Boavista,5,6,11,16
+2015-11-28,Boavista_Guimaraes_2015,Guimaraes,5,6,11,16
+2015-11-28,Tondela_Porto_2015,Porto,6,4,10,16
+2015-11-28,Setubal_Uniao Madeira_2015,Uniao Madeira,4,5,9,16
+2015-11-28,Setubal_Uniao Madeira_2015,Setubal,6,5,11,16
+2015-11-28,Tondela_Porto_2015,Tondela,6,5,11,16
+2015-11-29,Pacos Ferreira_Estoril_2015,Estoril,5,6,11,16
+2015-11-29,Pacos Ferreira_Estoril_2015,Pacos Ferreira,6,5,11,16
+2015-11-29,Academica_Arouca_2015,Academica,6,5,11,16
+2015-11-29,Academica_Arouca_2015,Arouca,5,6,11,16
+2015-11-29,Rio Ave_Moreirense_2015,Moreirense,5,6,11,16
+2015-11-29,Rio Ave_Moreirense_2015,Rio Ave,6,5,11,16
+2015-11-30,Sp Braga_Benfica_2015,Benfica,6,4,10,16
+2015-11-30,Sp Braga_Benfica_2015,Sp Braga,6,5,11,16
+2015-11-30,Sp Lisbon_Belenenses_2015,Belenenses,5,6,11,16
+2015-11-30,Sp Lisbon_Belenenses_2015,Sp Lisbon,5,6,11,16
+2015-12-02,Uniao Madeira_Porto_2015,Uniao Madeira,5,5,10,17
+2015-12-02,Uniao Madeira_Porto_2015,Porto,6,5,11,17
+2015-12-04,Benfica_Academica_2015,Benfica,7,4,11,17
+2015-12-04,Benfica_Academica_2015,Academica,6,6,12,17
+2015-12-05,Maritimo_Sp Lisbon_2015,Sp Lisbon,5,7,12,17
+2015-12-05,Porto_Pacos Ferreira_2015,Pacos Ferreira,6,6,12,17
+2015-12-05,Porto_Pacos Ferreira_2015,Porto,7,5,12,17
+2015-12-05,Belenenses_Setubal_2015,Setubal,6,6,12,17
+2015-12-05,Maritimo_Sp Lisbon_2015,Maritimo,6,6,12,17
+2015-12-05,Belenenses_Setubal_2015,Belenenses,6,6,12,17
+2015-12-06,Uniao Madeira_Tondela_2015,Uniao Madeira,6,5,11,17
+2015-12-06,Arouca_Boavista_2015,Boavista,5,7,12,17
+2015-12-06,Uniao Madeira_Tondela_2015,Tondela,6,6,12,17
+2015-12-06,Arouca_Boavista_2015,Arouca,6,6,12,17
+2015-12-06,Estoril_Nacional_2015,Nacional,5,7,12,17
+2015-12-06,Moreirense_Sp Braga_2015,Sp Braga,6,6,12,17
+2015-12-06,Estoril_Nacional_2015,Estoril,6,6,12,17
+2015-12-06,Moreirense_Sp Braga_2015,Moreirense,6,6,12,17
+2015-12-07,Guimaraes_Rio Ave_2015,Rio Ave,6,6,12,17
+2015-12-07,Guimaraes_Rio Ave_2015,Guimaraes,6,6,12,17
+2015-12-11,Boavista_Estoril_2015,Estoril,6,7,13,18
+2015-12-11,Boavista_Estoril_2015,Boavista,6,7,13,18
+2015-12-12,Pacos Ferreira_Uniao Madeira_2015,Uniao Madeira,6,6,12,18
+2015-12-12,Rio Ave_Arouca_2015,Rio Ave,7,6,13,18
+2015-12-12,Setubal_Benfica_2015,Benfica,7,5,12,18
+2015-12-12,Rio Ave_Arouca_2015,Arouca,6,7,13,18
+2015-12-12,Guimaraes_Maritimo_2015,Maritimo,6,7,13,18
+2015-12-12,Pacos Ferreira_Uniao Madeira_2015,Pacos Ferreira,7,6,13,18
+2015-12-12,Guimaraes_Maritimo_2015,Guimaraes,7,6,13,18
+2015-12-12,Setubal_Benfica_2015,Setubal,7,6,13,18
+2015-12-13,Tondela_Sp Braga_2015,Sp Braga,6,7,13,18
+2015-12-13,Sp Lisbon_Moreirense_2015,Moreirense,6,7,13,18
+2015-12-13,Tondela_Sp Braga_2015,Tondela,7,6,13,18
+2015-12-13,Sp Lisbon_Moreirense_2015,Sp Lisbon,6,7,13,18
+2015-12-14,Nacional_Porto_2015,Nacional,6,7,13,18
+2015-12-14,Academica_Belenenses_2015,Belenenses,6,7,13,18
+2015-12-14,Nacional_Porto_2015,Porto,7,6,13,18
+2015-12-14,Academica_Belenenses_2015,Academica,7,6,13,18
+2015-12-15,Uniao Madeira_Benfica_2015,Uniao Madeira,7,6,13,19
+2015-12-15,Uniao Madeira_Benfica_2015,Benfica,7,6,13,19
+2015-12-19,Arouca_Maritimo_2015,Arouca,7,7,14,19
+2015-12-19,Estoril_Guimaraes_2015,Guimaraes,7,7,14,19
+2015-12-19,Estoril_Guimaraes_2015,Estoril,7,7,14,19
+2015-12-19,Arouca_Maritimo_2015,Maritimo,6,8,14,19
+2015-12-20,Uniao Madeira_Sp Lisbon_2015,Uniao Madeira,8,6,14,19
+2015-12-20,Tondela_Setubal_2015,Tondela,8,6,14,19
+2015-12-20,Moreirense_Nacional_2015,Nacional,6,8,14,19
+2015-12-20,Uniao Madeira_Sp Lisbon_2015,Sp Lisbon,6,8,14,19
+2015-12-20,Porto_Academica_2015,Porto,8,6,14,19
+2015-12-20,Benfica_Rio Ave_2015,Rio Ave,7,7,14,19
+2015-12-20,Porto_Academica_2015,Academica,7,7,14,19
+2015-12-20,Moreirense_Nacional_2015,Moreirense,7,7,14,19
+2015-12-20,Tondela_Setubal_2015,Setubal,7,7,14,19
+2015-12-20,Benfica_Rio Ave_2015,Benfica,8,6,14,19
+2015-12-21,Sp Braga_Pacos Ferreira_2015,Pacos Ferreira,7,7,14,19
+2015-12-21,Belenenses_Boavista_2015,Boavista,6,8,14,19
+2015-12-21,Belenenses_Boavista_2015,Belenenses,7,7,14,19
+2015-12-21,Sp Braga_Pacos Ferreira_2015,Sp Braga,7,7,14,19
+2016-01-02,Academica_Uniao Madeira_2015,Uniao Madeira,8,7,15,21
+2016-01-02,Maritimo_Estoril_2015,Estoril,7,8,15,21
+2016-01-02,Pacos Ferreira_Belenenses_2015,Pacos Ferreira,8,7,15,21
+2016-01-02,Guimaraes_Benfica_2015,Guimaraes,8,7,15,21
+2016-01-02,Maritimo_Estoril_2015,Maritimo,7,8,15,21
+2016-01-02,Sp Lisbon_Porto_2015,Porto,8,7,15,21
+2016-01-02,Guimaraes_Benfica_2015,Benfica,8,7,15,21
+2016-01-02,Nacional_Arouca_2015,Arouca,7,8,15,21
+2016-01-02,Setubal_Sp Braga_2015,Setubal,8,7,15,21
+2016-01-02,Boavista_Moreirense_2015,Moreirense,7,8,15,21
+2016-01-02,Setubal_Sp Braga_2015,Sp Braga,7,8,15,21
+2016-01-02,Pacos Ferreira_Belenenses_2015,Belenenses,7,8,15,21
+2016-01-02,Sp Lisbon_Porto_2015,Sp Lisbon,7,8,15,21
+2016-01-02,Academica_Uniao Madeira_2015,Academica,8,7,15,21
+2016-01-02,Boavista_Moreirense_2015,Boavista,7,8,15,21
+2016-01-02,Nacional_Arouca_2015,Nacional,7,8,15,21
+2016-01-03,Rio Ave_Tondela_2015,Rio Ave,8,7,15,21
+2016-01-03,Rio Ave_Tondela_2015,Tondela,8,7,15,21
+2016-01-06,Moreirense_Guimaraes_2015,Moreirense,8,8,16,22
+2016-01-06,Sp Braga_Academica_2015,Sp Braga,8,8,16,22
+2016-01-06,Benfica_Maritimo_2015,Maritimo,7,9,16,22
+2016-01-06,Benfica_Maritimo_2015,Benfica,9,7,16,22
+2016-01-06,Belenenses_Nacional_2015,Nacional,7,9,16,22
+2016-01-06,Tondela_Pacos Ferreira_2015,Tondela,9,7,16,22
+2016-01-06,Tondela_Pacos Ferreira_2015,Pacos Ferreira,8,8,16,22
+2016-01-06,Uniao Madeira_Boavista_2015,Boavista,7,9,16,22
+2016-01-06,Setubal_Sp Lisbon_2015,Sp Lisbon,7,9,16,22
+2016-01-06,Porto_Rio Ave_2015,Porto,9,7,16,22
+2016-01-06,Sp Braga_Academica_2015,Academica,8,8,16,22
+2016-01-06,Belenenses_Nacional_2015,Belenenses,8,8,16,22
+2016-01-06,Porto_Rio Ave_2015,Rio Ave,8,8,16,22
+2016-01-06,Setubal_Sp Lisbon_2015,Setubal,9,7,16,22
+2016-01-06,Arouca_Estoril_2015,Estoril,7,9,16,22
+2016-01-06,Moreirense_Guimaraes_2015,Guimaraes,8,8,16,22
+2016-01-06,Arouca_Estoril_2015,Arouca,8,8,16,22
+2016-01-06,Uniao Madeira_Boavista_2015,Uniao Madeira,9,7,16,22
+2016-01-09,Guimaraes_Arouca_2015,Guimaraes,9,8,17,22
+2016-01-09,Guimaraes_Arouca_2015,Arouca,8,9,17,22
+2016-01-10,Rio Ave_Uniao Madeira_2015,Rio Ave,9,8,17,22
+2016-01-10,Sp Lisbon_Sp Braga_2015,Sp Lisbon,8,9,17,22
+2016-01-10,Maritimo_Moreirense_2015,Maritimo,8,9,17,22
+2016-01-10,Estoril_Belenenses_2015,Estoril,8,9,17,22
+2016-01-10,Estoril_Belenenses_2015,Belenenses,8,9,17,22
+2016-01-10,Academica_Tondela_2015,Tondela,9,8,17,22
+2016-01-10,Academica_Tondela_2015,Academica,9,8,17,22
+2016-01-10,Boavista_Porto_2015,Porto,9,8,17,22
+2016-01-10,Maritimo_Moreirense_2015,Moreirense,8,9,17,22
+2016-01-10,Boavista_Porto_2015,Boavista,8,9,17,22
+2016-01-10,Sp Lisbon_Sp Braga_2015,Sp Braga,8,9,17,22
+2016-01-10,Rio Ave_Uniao Madeira_2015,Uniao Madeira,9,8,17,22
+2016-01-11,Nacional_Benfica_2015,Nacional,8,9,17,22
+2016-01-11,Nacional_Benfica_2015,Benfica,9,8,17,22
+2016-01-11,Pacos Ferreira_Setubal_2015,Setubal,9,8,17,22
+2016-01-11,Pacos Ferreira_Setubal_2015,Pacos Ferreira,9,8,17,22
+2016-01-15,Sp Lisbon_Tondela_2015,Sp Lisbon,9,9,18,23
+2016-01-15,Sp Lisbon_Tondela_2015,Tondela,9,9,18,23
+2016-01-16,Estoril_Benfica_2015,Estoril,9,9,18,23
+2016-01-16,Academica_Pacos Ferreira_2015,Academica,10,8,18,23
+2016-01-16,Maritimo_Uniao Madeira_2015,Maritimo,9,9,18,23
+2016-01-16,Estoril_Benfica_2015,Benfica,9,9,18,23
+2016-01-16,Maritimo_Uniao Madeira_2015,Uniao Madeira,9,9,18,23
+2016-01-16,Academica_Pacos Ferreira_2015,Pacos Ferreira,9,9,18,23
+2016-01-17,Arouca_Moreirense_2015,Arouca,9,9,18,23
+2016-01-17,Nacional_Sp Braga_2015,Nacional,9,9,18,23
+2016-01-17,Nacional_Sp Braga_2015,Sp Braga,8,10,18,23
+2016-01-17,Rio Ave_Belenenses_2015,Belenenses,8,10,18,23
+2016-01-17,Guimaraes_Porto_2015,Guimaraes,10,8,18,23
+2016-01-17,Rio Ave_Belenenses_2015,Rio Ave,10,8,18,23
+2016-01-17,Guimaraes_Porto_2015,Porto,9,9,18,23
+2016-01-17,Arouca_Moreirense_2015,Moreirense,8,10,18,23
+2016-01-18,Boavista_Setubal_2015,Boavista,9,9,18,23
+2016-01-18,Boavista_Setubal_2015,Setubal,9,9,18,23
+2016-01-22,Setubal_Academica_2015,Academica,10,9,19,24
+2016-01-22,Setubal_Academica_2015,Setubal,10,9,19,24
+2016-01-23,Benfica_Arouca_2015,Arouca,9,10,19,24
+2016-01-23,Uniao Madeira_Nacional_2015,Uniao Madeira,10,9,19,24
+2016-01-23,Pacos Ferreira_Sp Lisbon_2015,Pacos Ferreira,10,9,19,24
+2016-01-23,Moreirense_Estoril_2015,Estoril,9,10,19,24
+2016-01-23,Moreirense_Estoril_2015,Moreirense,9,10,19,24
+2016-01-23,Benfica_Arouca_2015,Benfica,10,9,19,24
+2016-01-23,Pacos Ferreira_Sp Lisbon_2015,Sp Lisbon,9,10,19,24
+2016-01-23,Uniao Madeira_Nacional_2015,Nacional,9,10,19,24
+2016-01-24,Sp Braga_Rio Ave_2015,Sp Braga,9,10,19,24
+2016-01-24,Sp Braga_Rio Ave_2015,Rio Ave,10,9,19,24
+2016-01-24,Porto_Maritimo_2015,Porto,10,9,19,24
+2016-01-24,Porto_Maritimo_2015,Maritimo,9,10,19,24
+2016-01-24,Belenenses_Guimaraes_2015,Belenenses,9,10,19,24
+2016-01-24,Belenenses_Guimaraes_2015,Guimaraes,10,9,19,24
+2016-01-25,Tondela_Boavista_2015,Tondela,10,9,19,24
+2016-01-25,Tondela_Boavista_2015,Boavista,9,10,19,24
+2016-01-29,Guimaraes_Uniao Madeira_2015,Uniao Madeira,10,10,20,25
+2016-01-29,Guimaraes_Uniao Madeira_2015,Guimaraes,11,9,20,25
+2016-01-30,Sp Lisbon_Academica_2015,Sp Lisbon,10,10,20,25
+2016-01-30,Estoril_Porto_2015,Estoril,10,10,20,25
+2016-01-30,Sp Lisbon_Academica_2015,Academica,10,10,20,25
+2016-01-30,Estoril_Porto_2015,Porto,10,10,20,25
+2016-01-31,Nacional_Tondela_2015,Nacional,10,10,20,25
+2016-01-31,Arouca_Pacos Ferreira_2015,Arouca,10,10,20,25
+2016-01-31,Boavista_Sp Braga_2015,Boavista,10,10,20,25
+2016-01-31,Moreirense_Benfica_2015,Benfica,10,10,20,25
+2016-01-31,Arouca_Pacos Ferreira_2015,Pacos Ferreira,10,10,20,25
+2016-01-31,Moreirense_Benfica_2015,Moreirense,10,10,20,25
+2016-01-31,Rio Ave_Setubal_2015,Rio Ave,11,9,20,25
+2016-01-31,Rio Ave_Setubal_2015,Setubal,10,10,20,25
+2016-01-31,Boavista_Sp Braga_2015,Sp Braga,9,11,20,25
+2016-01-31,Nacional_Tondela_2015,Tondela,10,10,20,25
+2016-02-01,Maritimo_Belenenses_2015,Maritimo,10,10,20,25
+2016-02-01,Maritimo_Belenenses_2015,Belenenses,9,11,20,25
+2016-02-05,Belenenses_Benfica_2015,Benfica,10,11,21,26
+2016-02-05,Belenenses_Benfica_2015,Belenenses,10,11,21,26
+2016-02-06,Tondela_Guimaraes_2015,Tondela,11,10,21,26
+2016-02-06,Tondela_Guimaraes_2015,Guimaraes,11,10,21,26
+2016-02-06,Setubal_Maritimo_2015,Setubal,11,10,21,26
+2016-02-06,Setubal_Maritimo_2015,Maritimo,10,11,21,26
+2016-02-07,Academica_Nacional_2015,Nacional,10,11,21,26
+2016-02-07,Uniao Madeira_Moreirense_2015,Uniao Madeira,11,10,21,26
+2016-02-07,Pacos Ferreira_Boavista_2015,Pacos Ferreira,11,10,21,26
+2016-02-07,Uniao Madeira_Moreirense_2015,Moreirense,10,11,21,26
+2016-02-07,Porto_Arouca_2015,Arouca,10,11,21,26
+2016-02-07,Academica_Nacional_2015,Academica,11,10,21,26
+2016-02-07,Pacos Ferreira_Boavista_2015,Boavista,10,11,21,26
+2016-02-07,Porto_Arouca_2015,Porto,11,10,21,26
+2016-02-08,Sp Braga_Estoril_2015,Sp Braga,10,11,21,26
+2016-02-08,Sp Lisbon_Rio Ave_2015,Sp Lisbon,11,10,21,26
+2016-02-08,Sp Lisbon_Rio Ave_2015,Rio Ave,11,10,21,26
+2016-02-08,Sp Braga_Estoril_2015,Estoril,10,11,21,26
+2016-02-12,Benfica_Porto_2015,Porto,11,11,22,27
+2016-02-12,Benfica_Porto_2015,Benfica,11,11,22,27
+2016-02-13,Nacional_Sp Lisbon_2015,Sp Lisbon,11,11,22,27
+2016-02-13,Guimaraes_Setubal_2015,Setubal,11,11,22,27
+2016-02-13,Moreirense_Belenenses_2015,Moreirense,11,11,22,27
+2016-02-13,Guimaraes_Setubal_2015,Guimaraes,12,10,22,27
+2016-02-13,Nacional_Sp Lisbon_2015,Nacional,11,11,22,27
+2016-02-13,Moreirense_Belenenses_2015,Belenenses,10,12,22,27
+2016-02-14,Arouca_Uniao Madeira_2015,Uniao Madeira,11,11,22,27
+2016-02-14,Maritimo_Sp Braga_2015,Maritimo,11,11,22,27
+2016-02-14,Estoril_Tondela_2015,Estoril,11,11,22,27
+2016-02-14,Arouca_Uniao Madeira_2015,Arouca,11,11,22,27
+2016-02-14,Boavista_Academica_2015,Boavista,11,11,22,27
+2016-02-14,Estoril_Tondela_2015,Tondela,11,11,22,27
+2016-02-14,Boavista_Academica_2015,Academica,11,11,22,27
+2016-02-14,Maritimo_Sp Braga_2015,Sp Braga,10,12,22,27
+2016-02-15,Rio Ave_Pacos Ferreira_2015,Rio Ave,12,10,22,27
+2016-02-15,Rio Ave_Pacos Ferreira_2015,Pacos Ferreira,11,11,22,27
+2016-02-19,Uniao Madeira_Estoril_2015,Estoril,11,12,23,28
+2016-02-19,Uniao Madeira_Estoril_2015,Uniao Madeira,12,11,23,28
+2016-02-20,Pacos Ferreira_Benfica_2015,Benfica,11,12,23,28
+2016-02-20,Pacos Ferreira_Benfica_2015,Pacos Ferreira,12,11,23,28
+2016-02-20,Academica_Rio Ave_2015,Academica,12,11,23,28
+2016-02-20,Academica_Rio Ave_2015,Rio Ave,12,11,23,28
+2016-02-21,Belenenses_Arouca_2015,Arouca,11,12,23,28
+2016-02-21,Sp Braga_Guimaraes_2015,Guimaraes,12,11,23,28
+2016-02-21,Tondela_Maritimo_2015,Tondela,12,11,23,28
+2016-02-21,Setubal_Nacional_2015,Nacional,11,12,23,28
+2016-02-21,Belenenses_Arouca_2015,Belenenses,11,12,23,28
+2016-02-21,Porto_Moreirense_2015,Porto,12,11,23,28
+2016-02-21,Sp Braga_Guimaraes_2015,Sp Braga,11,12,23,28
+2016-02-21,Porto_Moreirense_2015,Moreirense,11,12,23,28
+2016-02-21,Tondela_Maritimo_2015,Maritimo,11,12,23,28
+2016-02-21,Setubal_Nacional_2015,Setubal,12,11,23,28
+2016-02-22,Sp Lisbon_Boavista_2015,Boavista,11,12,23,28
+2016-02-22,Sp Lisbon_Boavista_2015,Sp Lisbon,12,11,23,28
+2016-02-26,Nacional_Pacos Ferreira_2015,Nacional,12,12,24,29
+2016-02-26,Nacional_Pacos Ferreira_2015,Pacos Ferreira,12,12,24,29
+2016-02-27,Boavista_Rio Ave_2015,Boavista,12,12,24,29
+2016-02-27,Boavista_Rio Ave_2015,Rio Ave,12,12,24,29
+2016-02-27,Estoril_Setubal_2015,Estoril,12,12,24,29
+2016-02-27,Arouca_Sp Braga_2015,Sp Braga,11,13,24,29
+2016-02-27,Estoril_Setubal_2015,Setubal,12,12,24,29
+2016-02-27,Arouca_Sp Braga_2015,Arouca,12,12,24,29
+2016-02-28,Maritimo_Academica_2015,Maritimo,12,12,24,29
+2016-02-28,Moreirense_Tondela_2015,Tondela,12,12,24,29
+2016-02-28,Maritimo_Academica_2015,Academica,12,12,24,29
+2016-02-28,Moreirense_Tondela_2015,Moreirense,12,12,24,29
+2016-02-28,Belenenses_Porto_2015,Porto,12,12,24,29
+2016-02-28,Belenenses_Porto_2015,Belenenses,12,12,24,29
+2016-02-29,Benfica_Uniao Madeira_2015,Uniao Madeira,12,12,24,29
+2016-02-29,Guimaraes_Sp Lisbon_2015,Guimaraes,13,11,24,29
+2016-02-29,Guimaraes_Sp Lisbon_2015,Sp Lisbon,12,12,24,29
+2016-02-29,Benfica_Uniao Madeira_2015,Benfica,12,12,24,29
+2016-03-04,Pacos Ferreira_Maritimo_2015,Pacos Ferreira,13,12,25,30
+2016-03-04,Pacos Ferreira_Maritimo_2015,Maritimo,12,13,25,30
+2016-03-05,Sp Lisbon_Benfica_2015,Sp Lisbon,13,12,25,30
+2016-03-05,Sp Lisbon_Benfica_2015,Benfica,12,13,25,30
+2016-03-06,Academica_Guimaraes_2015,Guimaraes,13,12,25,30
+2016-03-06,Uniao Madeira_Belenenses_2015,Uniao Madeira,13,12,25,30
+2016-03-06,Setubal_Moreirense_2015,Setubal,13,12,25,30
+2016-03-06,Sp Braga_Porto_2015,Sp Braga,12,13,25,30
+2016-03-06,Uniao Madeira_Belenenses_2015,Belenenses,12,13,25,30
+2016-03-06,Academica_Guimaraes_2015,Academica,13,12,25,30
+2016-03-06,Boavista_Nacional_2015,Boavista,13,12,25,30
+2016-03-06,Tondela_Arouca_2015,Arouca,12,13,25,30
+2016-03-06,Sp Braga_Porto_2015,Porto,12,13,25,30
+2016-03-06,Boavista_Nacional_2015,Nacional,12,13,25,30
+2016-03-06,Tondela_Arouca_2015,Tondela,13,12,25,30
+2016-03-06,Setubal_Moreirense_2015,Moreirense,12,13,25,30
+2016-03-07,Rio Ave_Estoril_2015,Rio Ave,13,12,25,30
+2016-03-07,Rio Ave_Estoril_2015,Estoril,12,13,25,30
+2016-03-11,Maritimo_Boavista_2015,Boavista,13,13,26,31
+2016-03-11,Maritimo_Boavista_2015,Maritimo,13,13,26,31
+2016-03-12,Estoril_Sp Lisbon_2015,Estoril,13,13,26,31
+2016-03-12,Estoril_Sp Lisbon_2015,Sp Lisbon,13,13,26,31
+2016-03-12,Porto_Uniao Madeira_2015,Porto,13,13,26,31
+2016-03-12,Porto_Uniao Madeira_2015,Uniao Madeira,13,13,26,31
+2016-03-13,Guimaraes_Pacos Ferreira_2015,Pacos Ferreira,13,13,26,31
+2016-03-13,Belenenses_Sp Braga_2015,Sp Braga,12,14,26,31
+2016-03-13,Moreirense_Academica_2015,Academica,13,13,26,31
+2016-03-13,Belenenses_Sp Braga_2015,Belenenses,13,13,26,31
+2016-03-13,Moreirense_Academica_2015,Moreirense,13,13,26,31
+2016-03-13,Guimaraes_Pacos Ferreira_2015,Guimaraes,14,12,26,31
+2016-03-13,Nacional_Rio Ave_2015,Nacional,13,13,26,31
+2016-03-13,Arouca_Setubal_2015,Arouca,13,13,26,31
+2016-03-13,Nacional_Rio Ave_2015,Rio Ave,13,13,26,31
+2016-03-13,Arouca_Setubal_2015,Setubal,13,13,26,31
+2016-03-14,Benfica_Tondela_2015,Benfica,13,13,26,31
+2016-03-14,Benfica_Tondela_2015,Tondela,13,13,26,31
+2016-03-18,Rio Ave_Maritimo_2015,Rio Ave,14,13,27,32
+2016-03-18,Rio Ave_Maritimo_2015,Maritimo,13,14,27,32
+2016-03-19,Sp Lisbon_Arouca_2015,Sp Lisbon,14,13,27,32
+2016-03-19,Sp Lisbon_Arouca_2015,Arouca,13,14,27,32
+2016-03-19,Setubal_Porto_2015,Porto,13,14,27,32
+2016-03-19,Setubal_Porto_2015,Setubal,14,13,27,32
+2016-03-20,Nacional_Guimaraes_2015,Nacional,14,13,27,32
+2016-03-20,Academica_Estoril_2015,Estoril,13,14,27,32
+2016-03-20,Pacos Ferreira_Moreirense_2015,Moreirense,13,14,27,32
+2016-03-20,Nacional_Guimaraes_2015,Guimaraes,14,13,27,32
+2016-03-20,Boavista_Benfica_2015,Boavista,14,13,27,32
+2016-03-20,Sp Braga_Uniao Madeira_2015,Sp Braga,13,14,27,32
+2016-03-20,Boavista_Benfica_2015,Benfica,13,14,27,32
+2016-03-20,Sp Braga_Uniao Madeira_2015,Uniao Madeira,13,14,27,32
+2016-03-20,Academica_Estoril_2015,Academica,14,13,27,32
+2016-03-20,Pacos Ferreira_Moreirense_2015,Pacos Ferreira,14,13,27,32
+2016-03-20,Tondela_Belenenses_2015,Tondela,14,13,27,32
+2016-03-20,Tondela_Belenenses_2015,Belenenses,13,14,27,32
+2016-04-01,Benfica_Sp Braga_2015,Benfica,14,14,28,34
+2016-04-01,Benfica_Sp Braga_2015,Sp Braga,13,15,28,34
+2016-04-02,Maritimo_Nacional_2015,Maritimo,14,14,28,34
+2016-04-02,Arouca_Academica_2015,Academica,14,14,28,34
+2016-04-02,Guimaraes_Boavista_2015,Boavista,14,14,28,34
+2016-04-02,Arouca_Academica_2015,Arouca,14,14,28,34
+2016-04-02,Guimaraes_Boavista_2015,Guimaraes,15,13,28,34
+2016-04-02,Maritimo_Nacional_2015,Nacional,14,14,28,34
+2016-04-03,Uniao Madeira_Setubal_2015,Uniao Madeira,14,14,28,34
+2016-04-03,Moreirense_Rio Ave_2015,Moreirense,14,14,28,34
+2016-04-03,Estoril_Pacos Ferreira_2015,Pacos Ferreira,14,14,28,34
+2016-04-03,Moreirense_Rio Ave_2015,Rio Ave,14,14,28,34
+2016-04-03,Estoril_Pacos Ferreira_2015,Estoril,14,14,28,34
+2016-04-03,Uniao Madeira_Setubal_2015,Setubal,14,14,28,34
+2016-04-04,Porto_Tondela_2015,Tondela,14,14,28,34
+2016-04-04,Belenenses_Sp Lisbon_2015,Sp Lisbon,14,14,28,34
+2016-04-04,Belenenses_Sp Lisbon_2015,Belenenses,14,14,28,34
+2016-04-04,Porto_Tondela_2015,Porto,14,14,28,34
+2016-04-08,Boavista_Arouca_2015,Boavista,15,14,29,35
+2016-04-08,Boavista_Arouca_2015,Arouca,14,15,29,35
+2016-04-09,Academica_Benfica_2015,Benfica,14,15,29,35
+2016-04-09,Academica_Benfica_2015,Academica,15,14,29,35
+2016-04-09,Sp Lisbon_Maritimo_2015,Maritimo,14,15,29,35
+2016-04-09,Sp Lisbon_Maritimo_2015,Sp Lisbon,15,14,29,35
+2016-04-10,Tondela_Uniao Madeira_2015,Uniao Madeira,14,15,29,35
+2016-04-10,Nacional_Estoril_2015,Estoril,14,15,29,35
+2016-04-10,Pacos Ferreira_Porto_2015,Porto,14,15,29,35
+2016-04-10,Pacos Ferreira_Porto_2015,Pacos Ferreira,15,14,29,35
+2016-04-10,Setubal_Belenenses_2015,Setubal,15,14,29,35
+2016-04-10,Sp Braga_Moreirense_2015,Sp Braga,14,15,29,35
+2016-04-10,Nacional_Estoril_2015,Nacional,15,14,29,35
+2016-04-10,Setubal_Belenenses_2015,Belenenses,14,15,29,35
+2016-04-10,Sp Braga_Moreirense_2015,Moreirense,14,15,29,35
+2016-04-10,Tondela_Uniao Madeira_2015,Tondela,15,14,29,35
+2016-04-11,Rio Ave_Guimaraes_2015,Rio Ave,15,14,29,35
+2016-04-11,Rio Ave_Guimaraes_2015,Guimaraes,15,14,29,35
+2016-04-16,Moreirense_Sp Lisbon_2015,Moreirense,15,15,30,36
+2016-04-16,Arouca_Rio Ave_2015,Arouca,15,15,30,36
+2016-04-16,Estoril_Boavista_2015,Boavista,15,15,30,36
+2016-04-16,Arouca_Rio Ave_2015,Rio Ave,15,15,30,36
+2016-04-16,Estoril_Boavista_2015,Estoril,15,15,30,36
+2016-04-16,Moreirense_Sp Lisbon_2015,Sp Lisbon,15,15,30,36
+2016-04-17,Uniao Madeira_Pacos Ferreira_2015,Uniao Madeira,15,15,30,36
+2016-04-17,Porto_Nacional_2015,Porto,15,15,30,36
+2016-04-17,Belenenses_Academica_2015,Belenenses,15,15,30,36
+2016-04-17,Porto_Nacional_2015,Nacional,15,15,30,36
+2016-04-17,Belenenses_Academica_2015,Academica,15,15,30,36
+2016-04-17,Uniao Madeira_Pacos Ferreira_2015,Pacos Ferreira,15,15,30,36
+2016-04-17,Maritimo_Guimaraes_2015,Guimaraes,15,15,30,36
+2016-04-17,Maritimo_Guimaraes_2015,Maritimo,15,15,30,36
+2016-04-18,Sp Braga_Tondela_2015,Sp Braga,15,15,30,36
+2016-04-18,Sp Braga_Tondela_2015,Tondela,15,15,30,36
+2016-04-18,Benfica_Setubal_2015,Benfica,15,15,30,36
+2016-04-18,Benfica_Setubal_2015,Setubal,15,15,30,36
+2016-04-22,Boavista_Belenenses_2015,Belenenses,15,16,31,37
+2016-04-22,Boavista_Belenenses_2015,Boavista,16,15,31,37
+2016-04-23,Pacos Ferreira_Sp Braga_2015,Sp Braga,15,16,31,37
+2016-04-23,Academica_Porto_2015,Academica,16,15,31,37
+2016-04-23,Academica_Porto_2015,Porto,15,16,31,37
+2016-04-23,Pacos Ferreira_Sp Braga_2015,Pacos Ferreira,16,15,31,37
+2016-04-23,Sp Lisbon_Uniao Madeira_2015,Sp Lisbon,16,15,31,37
+2016-04-23,Sp Lisbon_Uniao Madeira_2015,Uniao Madeira,15,16,31,37
+2016-04-24,Maritimo_Arouca_2015,Arouca,15,16,31,37
+2016-04-24,Guimaraes_Estoril_2015,Guimaraes,16,15,31,37
+2016-04-24,Setubal_Tondela_2015,Tondela,15,16,31,37
+2016-04-24,Nacional_Moreirense_2015,Nacional,16,15,31,37
+2016-04-24,Setubal_Tondela_2015,Setubal,16,15,31,37
+2016-04-24,Guimaraes_Estoril_2015,Estoril,15,16,31,37
+2016-04-24,Rio Ave_Benfica_2015,Rio Ave,16,15,31,37
+2016-04-24,Nacional_Moreirense_2015,Moreirense,15,16,31,37
+2016-04-24,Rio Ave_Benfica_2015,Benfica,15,16,31,37
+2016-04-24,Maritimo_Arouca_2015,Maritimo,16,15,31,37
+2016-04-29,Sp Braga_Setubal_2015,Setubal,16,16,32,38
+2016-04-29,Benfica_Guimaraes_2015,Guimaraes,16,16,32,38
+2016-04-29,Sp Braga_Setubal_2015,Sp Braga,16,16,32,38
+2016-04-29,Benfica_Guimaraes_2015,Benfica,16,16,32,38
+2016-04-30,Belenenses_Pacos Ferreira_2015,Pacos Ferreira,16,16,32,38
+2016-04-30,Tondela_Rio Ave_2015,Rio Ave,16,16,32,38
+2016-04-30,Porto_Sp Lisbon_2015,Porto,16,16,32,38
+2016-04-30,Porto_Sp Lisbon_2015,Sp Lisbon,16,16,32,38
+2016-04-30,Belenenses_Pacos Ferreira_2015,Belenenses,16,16,32,38
+2016-04-30,Tondela_Rio Ave_2015,Tondela,16,16,32,38
+2016-05-01,Uniao Madeira_Academica_2015,Uniao Madeira,16,16,32,38
+2016-05-01,Moreirense_Boavista_2015,Boavista,16,16,32,38
+2016-05-01,Moreirense_Boavista_2015,Moreirense,16,16,32,38
+2016-05-01,Arouca_Nacional_2015,Arouca,16,16,32,38
+2016-05-01,Estoril_Maritimo_2015,Estoril,16,16,32,38
+2016-05-01,Estoril_Maritimo_2015,Maritimo,16,16,32,38
+2016-05-01,Arouca_Nacional_2015,Nacional,16,16,32,38
+2016-05-01,Uniao Madeira_Academica_2015,Academica,16,16,32,38
+2016-05-06,Pacos Ferreira_Tondela_2015,Tondela,16,17,33,39
+2016-05-06,Pacos Ferreira_Tondela_2015,Pacos Ferreira,17,16,33,39
+2016-05-07,Academica_Sp Braga_2015,Sp Braga,16,17,33,39
+2016-05-07,Sp Lisbon_Setubal_2015,Setubal,16,17,33,39
+2016-05-07,Rio Ave_Porto_2015,Rio Ave,17,16,33,39
+2016-05-07,Rio Ave_Porto_2015,Porto,16,17,33,39
+2016-05-07,Sp Lisbon_Setubal_2015,Sp Lisbon,17,16,33,39
+2016-05-07,Academica_Sp Braga_2015,Academica,17,16,33,39
+2016-05-08,Boavista_Uniao Madeira_2015,Uniao Madeira,16,17,33,39
+2016-05-08,Nacional_Belenenses_2015,Nacional,17,16,33,39
+2016-05-08,Boavista_Uniao Madeira_2015,Boavista,17,16,33,39
+2016-05-08,Guimaraes_Moreirense_2015,Moreirense,16,17,33,39
+2016-05-08,Maritimo_Benfica_2015,Benfica,16,17,33,39
+2016-05-08,Guimaraes_Moreirense_2015,Guimaraes,17,16,33,39
+2016-05-08,Maritimo_Benfica_2015,Maritimo,17,16,33,39
+2016-05-08,Nacional_Belenenses_2015,Belenenses,16,17,33,39
+2016-05-09,Estoril_Arouca_2015,Estoril,17,16,33,39
+2016-05-09,Estoril_Arouca_2015,Arouca,16,17,33,39
+2016-05-14,Setubal_Pacos Ferreira_2015,Setubal,17,17,34,40
+2016-05-14,Setubal_Pacos Ferreira_2015,Pacos Ferreira,17,17,34,40
+2016-05-14,Porto_Boavista_2015,Porto,17,17,34,40
+2016-05-14,Tondela_Academica_2015,Academica,17,17,34,40
+2016-05-14,Uniao Madeira_Rio Ave_2015,Uniao Madeira,17,17,34,40
+2016-05-14,Tondela_Academica_2015,Tondela,17,17,34,40
+2016-05-14,Porto_Boavista_2015,Boavista,17,17,34,40
+2016-05-14,Arouca_Guimaraes_2015,Guimaraes,17,17,34,40
+2016-05-14,Belenenses_Estoril_2015,Estoril,17,17,34,40
+2016-05-14,Belenenses_Estoril_2015,Belenenses,17,17,34,40
+2016-05-14,Uniao Madeira_Rio Ave_2015,Rio Ave,17,17,34,40
+2016-05-14,Arouca_Guimaraes_2015,Arouca,17,17,34,40
+2016-05-15,Benfica_Nacional_2015,Nacional,17,17,34,40
+2016-05-15,Benfica_Nacional_2015,Benfica,17,17,34,40
+2016-05-15,Moreirense_Maritimo_2015,Maritimo,17,17,34,40
+2016-05-15,Sp Braga_Sp Lisbon_2015,Sp Lisbon,17,17,34,40
+2016-05-15,Sp Braga_Sp Lisbon_2015,Sp Braga,17,17,34,40
+2016-05-15,Moreirense_Maritimo_2015,Moreirense,17,17,34,40

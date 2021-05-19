@@ -1,0 +1,457 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2013-08-02,Partick_Dundee United_2013,Dundee United,1,1,1,1
+2013-08-02,Partick_Dundee United_2013,Partick,1,1,1,1
+2013-08-03,Celtic_Ross County_2013,Celtic,1,1,1,1
+2013-08-03,Aberdeen_Kilmarnock_2013,Kilmarnock,1,1,1,1
+2013-08-03,Inverness C_St Mirren_2013,St Mirren,1,1,1,1
+2013-08-03,Inverness C_St Mirren_2013,Inverness C,1,1,1,1
+2013-08-03,Celtic_Ross County_2013,Ross County,1,1,1,1
+2013-08-03,Aberdeen_Kilmarnock_2013,Aberdeen,1,1,1,1
+2013-08-04,Hibernian_Motherwell_2013,Hibernian,1,1,1,1
+2013-08-04,St Johnstone_Hearts_2013,St Johnstone,1,1,1,1
+2013-08-04,St Johnstone_Hearts_2013,Hearts,1,1,1,1
+2013-08-04,Hibernian_Motherwell_2013,Motherwell,1,1,1,1
+2013-08-10,Dundee United_Inverness C_2013,Inverness C,1,1,2,2
+2013-08-10,Ross County_Partick_2013,Ross County,1,1,2,2
+2013-08-10,Ross County_Partick_2013,Partick,1,1,2,2
+2013-08-10,Dundee United_Inverness C_2013,Dundee United,1,1,2,2
+2013-08-11,Motherwell_Aberdeen_2013,Aberdeen,1,1,2,2
+2013-08-11,Kilmarnock_St Johnstone_2013,St Johnstone,1,1,2,2
+2013-08-11,Motherwell_Aberdeen_2013,Motherwell,1,1,2,2
+2013-08-11,Kilmarnock_St Johnstone_2013,Kilmarnock,1,1,2,2
+2013-08-11,Hearts_Hibernian_2013,Hibernian,1,1,2,2
+2013-08-11,Hearts_Hibernian_2013,Hearts,1,1,2,2
+2013-08-16,Partick_Hearts_2013,Partick,2,1,3,3
+2013-08-16,Partick_Hearts_2013,Hearts,1,2,3,3
+2013-08-17,St Johnstone_Ross County_2013,Ross County,1,2,3,3
+2013-08-17,Inverness C_Motherwell_2013,Inverness C,2,1,3,3
+2013-08-17,Hibernian_Dundee United_2013,Hibernian,2,1,3,3
+2013-08-17,St Johnstone_Ross County_2013,St Johnstone,2,1,3,3
+2013-08-17,Inverness C_Motherwell_2013,Motherwell,1,2,3,3
+2013-08-17,Aberdeen_Celtic_2013,Celtic,1,1,2,3
+2013-08-17,Hibernian_Dundee United_2013,Dundee United,1,2,3,3
+2013-08-17,St Mirren_Kilmarnock_2013,Kilmarnock,1,2,3,3
+2013-08-17,Aberdeen_Celtic_2013,Aberdeen,2,1,3,3
+2013-08-17,St Mirren_Kilmarnock_2013,St Mirren,1,1,2,3
+2013-08-24,Ross County_St Mirren_2013,Ross County,2,2,4,4
+2013-08-24,Hearts_Aberdeen_2013,Aberdeen,2,2,4,4
+2013-08-24,Motherwell_Partick_2013,Motherwell,2,2,4,4
+2013-08-24,Celtic_Inverness C_2013,Inverness C,2,2,4,4
+2013-08-24,Celtic_Inverness C_2013,Celtic,2,1,3,4
+2013-08-24,Dundee United_St Johnstone_2013,Dundee United,2,2,4,4
+2013-08-24,Kilmarnock_Hibernian_2013,Hibernian,2,2,4,4
+2013-08-24,Kilmarnock_Hibernian_2013,Kilmarnock,2,2,4,4
+2013-08-24,Motherwell_Partick_2013,Partick,2,2,4,4
+2013-08-24,Hearts_Aberdeen_2013,Hearts,2,2,4,4
+2013-08-24,Dundee United_St Johnstone_2013,St Johnstone,2,2,4,4
+2013-08-24,Ross County_St Mirren_2013,St Mirren,1,2,3,4
+2013-08-31,St Mirren_Partick_2013,St Mirren,2,2,4,5
+2013-08-31,Dundee United_Celtic_2013,Dundee United,3,2,5,5
+2013-08-31,Hibernian_Ross County_2013,Hibernian,3,2,5,5
+2013-08-31,St Mirren_Partick_2013,Partick,2,3,5,5
+2013-08-31,Hibernian_Ross County_2013,Ross County,2,3,5,5
+2013-08-31,Motherwell_Kilmarnock_2013,Kilmarnock,2,3,5,5
+2013-08-31,Inverness C_Hearts_2013,Hearts,2,3,5,5
+2013-08-31,Dundee United_Celtic_2013,Celtic,2,2,4,5
+2013-08-31,Motherwell_Kilmarnock_2013,Motherwell,3,2,5,5
+2013-08-31,Inverness C_Hearts_2013,Inverness C,3,2,5,5
+2013-08-31,Aberdeen_St Johnstone_2013,St Johnstone,2,3,5,5
+2013-08-31,Aberdeen_St Johnstone_2013,Aberdeen,3,2,5,5
+2013-09-14,Hearts_Celtic_2013,Hearts,3,3,6,7
+2013-09-14,St Mirren_Motherwell_2013,St Mirren,3,2,5,7
+2013-09-14,St Johnstone_Hibernian_2013,Hibernian,3,3,6,7
+2013-09-14,Partick_Aberdeen_2013,Aberdeen,3,3,6,7
+2013-09-14,Hearts_Celtic_2013,Celtic,2,3,5,7
+2013-09-14,St Mirren_Motherwell_2013,Motherwell,3,3,6,7
+2013-09-14,Kilmarnock_Inverness C_2013,Inverness C,3,3,6,7
+2013-09-14,Kilmarnock_Inverness C_2013,Kilmarnock,3,3,6,7
+2013-09-14,St Johnstone_Hibernian_2013,St Johnstone,3,3,6,7
+2013-09-14,Partick_Aberdeen_2013,Partick,3,3,6,7
+2013-09-15,Ross County_Dundee United_2013,Dundee United,3,3,6,7
+2013-09-15,Ross County_Dundee United_2013,Ross County,3,3,6,7
+2013-09-21,Hibernian_St Mirren_2013,St Mirren,3,3,6,8
+2013-09-21,Aberdeen_Inverness C_2013,Aberdeen,4,3,7,8
+2013-09-21,Partick_Kilmarnock_2013,Partick,4,3,7,8
+2013-09-21,Ross County_Hearts_2013,Hearts,3,4,7,8
+2013-09-21,Aberdeen_Inverness C_2013,Inverness C,3,4,7,8
+2013-09-21,Celtic_St Johnstone_2013,Celtic,3,3,6,8
+2013-09-21,Ross County_Hearts_2013,Ross County,4,3,7,8
+2013-09-21,Celtic_St Johnstone_2013,St Johnstone,3,4,7,8
+2013-09-21,Partick_Kilmarnock_2013,Kilmarnock,3,4,7,8
+2013-09-21,Hibernian_St Mirren_2013,Hibernian,4,3,7,8
+2013-09-22,Dundee United_Motherwell_2013,Motherwell,3,4,7,8
+2013-09-22,Dundee United_Motherwell_2013,Dundee United,4,3,7,8
+2013-09-28,St Johnstone_Partick_2013,Partick,4,4,8,9
+2013-09-28,Hearts_Dundee United_2013,Dundee United,4,4,8,9
+2013-09-28,Kilmarnock_Celtic_2013,Kilmarnock,4,4,8,9
+2013-09-28,Motherwell_Ross County_2013,Motherwell,4,4,8,9
+2013-09-28,St Johnstone_Partick_2013,St Johnstone,4,4,8,9
+2013-09-28,Kilmarnock_Celtic_2013,Celtic,3,4,7,9
+2013-09-28,Motherwell_Ross County_2013,Ross County,4,4,8,9
+2013-09-28,Hearts_Dundee United_2013,Hearts,4,4,8,9
+2013-09-28,Inverness C_Hibernian_2013,Inverness C,4,4,8,9
+2013-09-28,Inverness C_Hibernian_2013,Hibernian,4,4,8,9
+2013-09-30,St Mirren_Aberdeen_2013,Aberdeen,4,4,8,9
+2013-09-30,St Mirren_Aberdeen_2013,St Mirren,4,3,7,9
+2013-10-05,Hearts_St Mirren_2013,St Mirren,4,4,8,10
+2013-10-05,Hearts_St Mirren_2013,Hearts,5,4,9,10
+2013-10-05,St Johnstone_Inverness C_2013,Inverness C,4,5,9,10
+2013-10-05,Celtic_Motherwell_2013,Motherwell,4,5,9,10
+2013-10-05,Dundee United_Kilmarnock_2013,Kilmarnock,4,5,9,10
+2013-10-05,Dundee United_Kilmarnock_2013,Dundee United,5,4,9,10
+2013-10-05,Ross County_Aberdeen_2013,Ross County,5,4,9,10
+2013-10-05,St Johnstone_Inverness C_2013,St Johnstone,5,4,9,10
+2013-10-05,Ross County_Aberdeen_2013,Aberdeen,4,5,9,10
+2013-10-05,Celtic_Motherwell_2013,Celtic,4,4,8,10
+2013-10-07,Partick_Hibernian_2013,Hibernian,4,5,9,10
+2013-10-07,Partick_Hibernian_2013,Partick,5,4,9,10
+2013-10-19,St Mirren_St Johnstone_2013,St Mirren,5,4,9,12
+2013-10-19,Hibernian_Celtic_2013,Hibernian,5,5,10,12
+2013-10-19,St Mirren_St Johnstone_2013,St Johnstone,5,5,10,12
+2013-10-19,Motherwell_Hearts_2013,Motherwell,5,5,10,12
+2013-10-19,Hibernian_Celtic_2013,Celtic,4,5,9,12
+2013-10-19,Aberdeen_Dundee United_2013,Dundee United,5,5,10,12
+2013-10-19,Kilmarnock_Ross County_2013,Kilmarnock,5,5,10,12
+2013-10-19,Motherwell_Hearts_2013,Hearts,5,5,10,12
+2013-10-19,Kilmarnock_Ross County_2013,Ross County,5,5,10,12
+2013-10-19,Aberdeen_Dundee United_2013,Aberdeen,5,5,10,12
+2013-10-20,Inverness C_Partick_2013,Inverness C,5,5,10,12
+2013-10-20,Inverness C_Partick_2013,Partick,5,5,10,12
+2013-10-26,Dundee United_St Mirren_2013,St Mirren,5,5,10,13
+2013-10-26,Kilmarnock_Hearts_2013,Kilmarnock,6,5,11,13
+2013-10-26,Dundee United_St Mirren_2013,Dundee United,6,5,11,13
+2013-10-26,Hibernian_Aberdeen_2013,Aberdeen,5,6,11,13
+2013-10-26,Hibernian_Aberdeen_2013,Hibernian,6,5,11,13
+2013-10-26,Kilmarnock_Hearts_2013,Hearts,5,6,11,13
+2013-10-27,Partick_Celtic_2013,Celtic,4,6,10,13
+2013-10-27,St Johnstone_Motherwell_2013,Motherwell,5,6,11,13
+2013-10-27,St Johnstone_Motherwell_2013,St Johnstone,6,5,11,13
+2013-10-27,Partick_Celtic_2013,Partick,6,5,11,13
+2013-11-02,Hearts_St Johnstone_2013,St Johnstone,6,6,12,14
+2013-11-02,Inverness C_Kilmarnock_2013,Kilmarnock,6,6,12,14
+2013-11-02,Inverness C_Kilmarnock_2013,Inverness C,6,5,11,14
+2013-11-02,Celtic_Dundee United_2013,Dundee United,6,6,12,14
+2013-11-02,Celtic_Dundee United_2013,Celtic,5,6,11,14
+2013-11-02,Hearts_St Johnstone_2013,Hearts,6,6,12,14
+2013-11-03,Motherwell_Hibernian_2013,Hibernian,6,6,12,14
+2013-11-03,Motherwell_Hibernian_2013,Motherwell,6,6,12,14
+2013-11-04,Aberdeen_Partick_2013,Partick,6,6,12,14
+2013-11-04,Aberdeen_Partick_2013,Aberdeen,6,6,12,14
+2013-11-09,Partick_St Mirren_2013,St Mirren,5,6,11,15
+2013-11-09,Hibernian_Inverness C_2013,Hibernian,7,6,13,15
+2013-11-09,Aberdeen_Hearts_2013,Aberdeen,7,6,13,15
+2013-11-09,Hibernian_Inverness C_2013,Inverness C,6,6,12,15
+2013-11-09,Partick_St Mirren_2013,Partick,7,6,13,15
+2013-11-09,Motherwell_Dundee United_2013,Motherwell,7,6,13,15
+2013-11-09,Aberdeen_Hearts_2013,Hearts,6,7,13,15
+2013-11-09,St Johnstone_Kilmarnock_2013,Kilmarnock,6,7,13,15
+2013-11-09,St Johnstone_Kilmarnock_2013,St Johnstone,7,6,13,15
+2013-11-09,Ross County_Celtic_2013,Ross County,6,5,11,15
+2013-11-09,Ross County_Celtic_2013,Celtic,5,7,12,15
+2013-11-09,Motherwell_Dundee United_2013,Dundee United,6,7,13,15
+2013-11-17,St Mirren_Ross County_2013,Ross County,6,6,12,16
+2013-11-17,St Mirren_Ross County_2013,St Mirren,6,6,12,16
+2013-11-23,Inverness C_St Johnstone_2013,St Johnstone,7,7,14,17
+2013-11-23,St Mirren_Hibernian_2013,St Mirren,7,6,13,17
+2013-11-23,Celtic_Aberdeen_2013,Aberdeen,7,7,14,17
+2013-11-23,Hearts_Ross County_2013,Hearts,7,7,14,17
+2013-11-23,Inverness C_St Johnstone_2013,Inverness C,7,6,13,17
+2013-11-23,Kilmarnock_Motherwell_2013,Motherwell,7,7,14,17
+2013-11-23,Celtic_Aberdeen_2013,Celtic,6,7,13,17
+2013-11-23,Dundee United_Partick_2013,Partick,7,7,14,17
+2013-11-23,Dundee United_Partick_2013,Dundee United,7,7,14,17
+2013-11-23,St Mirren_Hibernian_2013,Hibernian,7,7,14,17
+2013-11-23,Kilmarnock_Motherwell_2013,Kilmarnock,7,7,14,17
+2013-11-23,Hearts_Ross County_2013,Ross County,6,7,13,17
+2013-12-06,Motherwell_Celtic_2013,Motherwell,8,7,15,19
+2013-12-06,Motherwell_Celtic_2013,Celtic,6,8,14,19
+2013-12-07,Dundee United_Hearts_2013,Hearts,7,8,15,19
+2013-12-07,St Mirren_Inverness C_2013,St Mirren,8,6,14,19
+2013-12-07,St Johnstone_Aberdeen_2013,Aberdeen,7,8,15,19
+2013-12-07,Hibernian_Partick_2013,Partick,7,8,15,19
+2013-12-07,Dundee United_Hearts_2013,Dundee United,8,7,15,19
+2013-12-07,St Johnstone_Aberdeen_2013,St Johnstone,8,7,15,19
+2013-12-07,Ross County_Kilmarnock_2013,Ross County,7,7,14,19
+2013-12-07,Ross County_Kilmarnock_2013,Kilmarnock,7,8,15,19
+2013-12-07,St Mirren_Inverness C_2013,Inverness C,7,7,14,19
+2013-12-07,Hibernian_Partick_2013,Hibernian,8,7,15,19
+2013-12-14,Aberdeen_St Mirren_2013,St Mirren,8,7,15,20
+2013-12-14,Celtic_Hibernian_2013,Celtic,7,8,15,20
+2013-12-14,Ross County_Motherwell_2013,Motherwell,8,8,16,20
+2013-12-14,Hearts_Inverness C_2013,Inverness C,7,8,15,20
+2013-12-14,Hearts_Inverness C_2013,Hearts,8,8,16,20
+2013-12-14,Aberdeen_St Mirren_2013,Aberdeen,8,8,16,20
+2013-12-14,Kilmarnock_Dundee United_2013,Dundee United,8,8,16,20
+2013-12-14,Celtic_Hibernian_2013,Hibernian,8,8,16,20
+2013-12-14,Kilmarnock_Dundee United_2013,Kilmarnock,8,8,16,20
+2013-12-14,Ross County_Motherwell_2013,Ross County,8,7,15,20
+2013-12-21,Motherwell_St Mirren_2013,St Mirren,8,8,16,21
+2013-12-21,Dundee United_Ross County_2013,Ross County,8,8,16,21
+2013-12-21,Kilmarnock_Partick_2013,Partick,7,9,16,21
+2013-12-21,Kilmarnock_Partick_2013,Kilmarnock,9,8,17,21
+2013-12-21,Inverness C_Aberdeen_2013,Inverness C,8,8,16,21
+2013-12-21,Hibernian_St Johnstone_2013,Hibernian,9,8,17,21
+2013-12-21,Celtic_Hearts_2013,Hearts,8,9,17,21
+2013-12-21,Dundee United_Ross County_2013,Dundee United,9,8,17,21
+2013-12-21,Celtic_Hearts_2013,Celtic,8,8,16,21
+2013-12-21,Hibernian_St Johnstone_2013,St Johnstone,8,8,16,21
+2013-12-21,Motherwell_St Mirren_2013,Motherwell,9,8,17,21
+2013-12-21,Inverness C_Aberdeen_2013,Aberdeen,8,9,17,21
+2013-12-26,St Mirren_Dundee United_2013,St Mirren,9,8,17,22
+2013-12-26,Hearts_Kilmarnock_2013,Kilmarnock,9,9,18,22
+2013-12-26,Partick_Inverness C_2013,Inverness C,8,9,17,22
+2013-12-26,St Johnstone_Celtic_2013,St Johnstone,9,8,17,22
+2013-12-26,St Mirren_Dundee United_2013,Dundee United,9,9,18,22
+2013-12-26,Partick_Inverness C_2013,Partick,8,9,17,22
+2013-12-26,St Johnstone_Celtic_2013,Celtic,8,9,17,22
+2013-12-26,Hearts_Kilmarnock_2013,Hearts,9,9,18,22
+2013-12-26,Ross County_Hibernian_2013,Hibernian,9,9,18,22
+2013-12-26,Aberdeen_Motherwell_2013,Aberdeen,9,9,18,22
+2013-12-26,Ross County_Hibernian_2013,Ross County,9,8,17,22
+2013-12-26,Aberdeen_Motherwell_2013,Motherwell,9,9,18,22
+2013-12-29,Aberdeen_Ross County_2013,Ross County,9,9,18,22
+2013-12-29,Inverness C_Celtic_2013,Celtic,8,10,18,22
+2013-12-29,St Mirren_Hearts_2013,Hearts,9,10,19,22
+2013-12-29,Partick_Motherwell_2013,Partick,9,9,18,22
+2013-12-29,Inverness C_Celtic_2013,Inverness C,9,9,18,22
+2013-12-29,St Mirren_Hearts_2013,St Mirren,10,8,18,22
+2013-12-29,St Johnstone_Dundee United_2013,Dundee United,9,10,19,22
+2013-12-29,St Johnstone_Dundee United_2013,St Johnstone,10,8,18,22
+2013-12-29,Hibernian_Kilmarnock_2013,Hibernian,10,9,19,22
+2013-12-29,Hibernian_Kilmarnock_2013,Kilmarnock,9,10,19,22
+2013-12-29,Aberdeen_Ross County_2013,Aberdeen,10,9,19,22
+2013-12-29,Partick_Motherwell_2013,Motherwell,9,10,19,22
+2014-01-01,Dundee United_Aberdeen_2013,Dundee United,10,10,20,23
+2014-01-01,Inverness C_Ross County_2013,Inverness C,10,9,19,23
+2014-01-01,Motherwell_St Johnstone_2013,Motherwell,10,10,20,23
+2014-01-01,Celtic_Partick_2013,Celtic,9,10,19,23
+2014-01-01,Inverness C_Ross County_2013,Ross County,9,10,19,23
+2014-01-01,Celtic_Partick_2013,Partick,9,10,19,23
+2014-01-01,Dundee United_Aberdeen_2013,Aberdeen,10,10,20,23
+2014-01-01,Motherwell_St Johnstone_2013,St Johnstone,10,9,19,23
+2014-01-02,Kilmarnock_St Mirren_2013,St Mirren,10,9,19,23
+2014-01-02,Hibernian_Hearts_2013,Hibernian,11,9,20,23
+2014-01-02,Kilmarnock_St Mirren_2013,Kilmarnock,10,10,20,23
+2014-01-02,Hibernian_Hearts_2013,Hearts,9,11,20,23
+2014-01-04,Ross County_St Johnstone_2013,Ross County,10,10,20,23
+2014-01-04,Ross County_St Johnstone_2013,St Johnstone,10,10,20,23
+2014-01-05,Hearts_Partick_2013,Hearts,10,11,21,23
+2014-01-05,St Mirren_Celtic_2013,St Mirren,11,9,20,23
+2014-01-05,St Mirren_Celtic_2013,Celtic,9,11,20,23
+2014-01-05,Dundee United_Hibernian_2013,Dundee United,11,10,21,23
+2014-01-05,Kilmarnock_Aberdeen_2013,Kilmarnock,11,10,21,23
+2014-01-05,Dundee United_Hibernian_2013,Hibernian,11,10,21,23
+2014-01-05,Hearts_Partick_2013,Partick,9,11,20,23
+2014-01-05,Kilmarnock_Aberdeen_2013,Aberdeen,10,11,21,23
+2014-01-10,Aberdeen_Hibernian_2013,Hibernian,11,11,22,24
+2014-01-10,Aberdeen_Hibernian_2013,Aberdeen,11,11,22,24
+2014-01-11,St Johnstone_St Mirren_2013,St Mirren,11,10,21,24
+2014-01-11,Hearts_Motherwell_2013,Hearts,11,11,22,24
+2014-01-11,Hearts_Motherwell_2013,Motherwell,10,11,21,24
+2014-01-11,Partick_Ross County_2013,Partick,10,11,21,24
+2014-01-11,St Johnstone_St Mirren_2013,St Johnstone,11,10,21,24
+2014-01-11,Partick_Ross County_2013,Ross County,10,11,21,24
+2014-01-12,Inverness C_Dundee United_2013,Dundee United,11,11,22,24
+2014-01-12,Inverness C_Dundee United_2013,Inverness C,11,9,20,24
+2014-01-18,Aberdeen_Inverness C_2013,Inverness C,11,10,21,25
+2014-01-18,Celtic_Motherwell_2013,Motherwell,10,12,22,25
+2014-01-18,Celtic_Motherwell_2013,Celtic,10,11,21,25
+2014-01-18,St Johnstone_Hearts_2013,Hearts,11,12,23,25
+2014-01-18,Aberdeen_Inverness C_2013,Aberdeen,12,11,23,25
+2014-01-18,Partick_Kilmarnock_2013,Kilmarnock,11,11,22,25
+2014-01-18,St Johnstone_Hearts_2013,St Johnstone,12,10,22,25
+2014-01-18,Partick_Kilmarnock_2013,Partick,11,11,22,25
+2014-01-18,Ross County_Dundee United_2013,Ross County,11,11,22,25
+2014-01-18,Hibernian_St Mirren_2013,St Mirren,11,11,22,25
+2014-01-18,Hibernian_St Mirren_2013,Hibernian,12,11,23,25
+2014-01-18,Ross County_Dundee United_2013,Dundee United,11,12,23,25
+2014-01-21,Partick_St Johnstone_2013,St Johnstone,12,11,23,26
+2014-01-21,Partick_St Johnstone_2013,Partick,12,11,23,26
+2014-01-25,St Mirren_Partick_2013,St Mirren,12,11,23,26
+2014-01-25,St Mirren_Partick_2013,Partick,12,12,24,26
+2014-01-25,Ross County_Hearts_2013,Hearts,11,13,24,26
+2014-01-25,Motherwell_Aberdeen_2013,Motherwell,11,12,23,26
+2014-01-25,Motherwell_Aberdeen_2013,Aberdeen,12,12,24,26
+2014-01-25,Kilmarnock_Inverness C_2013,Kilmarnock,12,11,23,26
+2014-01-25,Ross County_Hearts_2013,Ross County,12,11,23,26
+2014-01-25,Kilmarnock_Inverness C_2013,Inverness C,11,11,22,26
+2014-01-26,Hibernian_Celtic_2013,Hibernian,13,11,24,26
+2014-01-26,Hibernian_Celtic_2013,Celtic,10,12,22,26
+2014-01-29,Hearts_St Mirren_2013,St Mirren,12,12,24,27
+2014-01-29,Hearts_St Mirren_2013,Hearts,12,13,25,27
+2014-01-29,Celtic_Kilmarnock_2013,Kilmarnock,12,12,24,27
+2014-01-29,Celtic_Kilmarnock_2013,Celtic,11,12,23,27
+2014-02-01,Partick_Dundee United_2013,Dundee United,11,13,24,27
+2014-02-01,Partick_Dundee United_2013,Partick,13,12,25,27
+2014-02-01,Kilmarnock_Ross County_2013,Ross County,12,12,24,27
+2014-02-01,Kilmarnock_Ross County_2013,Kilmarnock,13,12,25,27
+2014-02-02,Celtic_St Mirren_2013,Celtic,12,12,24,27
+2014-02-02,Celtic_St Mirren_2013,St Mirren,12,13,25,27
+2014-02-15,Inverness C_Hearts_2013,Inverness C,12,11,23,29
+2014-02-15,Motherwell_Partick_2013,Partick,13,13,26,29
+2014-02-15,Dundee United_Kilmarnock_2013,Kilmarnock,13,13,26,29
+2014-02-15,Hibernian_Ross County_2013,Hibernian,14,11,25,29
+2014-02-15,Motherwell_Partick_2013,Motherwell,12,12,24,29
+2014-02-15,Dundee United_Kilmarnock_2013,Dundee United,12,13,25,29
+2014-02-15,St Mirren_Aberdeen_2013,St Mirren,13,13,26,29
+2014-02-15,Inverness C_Hearts_2013,Hearts,12,14,26,29
+2014-02-15,Hibernian_Ross County_2013,Ross County,12,13,25,29
+2014-02-15,St Mirren_Aberdeen_2013,Aberdeen,12,13,25,29
+2014-02-16,Celtic_St Johnstone_2013,St Johnstone,12,12,24,29
+2014-02-16,Celtic_St Johnstone_2013,Celtic,13,12,25,29
+2014-02-21,Dundee United_Motherwell_2013,Motherwell,12,13,25,30
+2014-02-21,Dundee United_Motherwell_2013,Dundee United,13,13,26,30
+2014-02-22,Kilmarnock_Hibernian_2013,Hibernian,14,12,26,30
+2014-02-22,Ross County_St Mirren_2013,St Mirren,13,14,27,30
+2014-02-22,St Johnstone_Inverness C_2013,St Johnstone,13,12,25,30
+2014-02-22,St Johnstone_Inverness C_2013,Inverness C,12,12,24,30
+2014-02-22,Partick_Aberdeen_2013,Partick,14,13,27,30
+2014-02-22,Partick_Aberdeen_2013,Aberdeen,12,14,26,30
+2014-02-22,Hearts_Celtic_2013,Hearts,13,14,27,30
+2014-02-22,Ross County_St Mirren_2013,Ross County,13,13,26,30
+2014-02-22,Hearts_Celtic_2013,Celtic,13,13,26,30
+2014-02-22,Kilmarnock_Hibernian_2013,Kilmarnock,14,13,27,30
+2014-02-25,St Johnstone_Motherwell_2013,St Johnstone,14,12,26,31
+2014-02-25,Aberdeen_Celtic_2013,Celtic,13,14,27,31
+2014-02-25,Ross County_Inverness C_2013,Inverness C,12,13,25,31
+2014-02-25,St Johnstone_Motherwell_2013,Motherwell,12,14,26,31
+2014-02-25,Ross County_Inverness C_2013,Ross County,14,13,27,31
+2014-02-25,Aberdeen_Celtic_2013,Aberdeen,13,14,27,31
+2014-02-28,Hibernian_Dundee United_2013,Dundee United,13,14,27,31
+2014-02-28,Hibernian_Dundee United_2013,Hibernian,15,12,27,31
+2014-03-01,St Mirren_Kilmarnock_2013,St Mirren,14,14,28,31
+2014-03-01,Aberdeen_St Johnstone_2013,St Johnstone,14,13,27,31
+2014-03-01,Ross County_Partick_2013,Partick,14,14,28,31
+2014-03-01,Motherwell_Hearts_2013,Hearts,13,15,28,31
+2014-03-01,Motherwell_Hearts_2013,Motherwell,13,14,27,31
+2014-03-01,Celtic_Inverness C_2013,Inverness C,12,14,26,31
+2014-03-01,Aberdeen_St Johnstone_2013,Aberdeen,14,14,28,31
+2014-03-01,Ross County_Partick_2013,Ross County,15,13,28,31
+2014-03-01,Celtic_Inverness C_2013,Celtic,14,14,28,31
+2014-03-01,St Mirren_Kilmarnock_2013,Kilmarnock,14,14,28,31
+2014-03-08,Kilmarnock_Hearts_2013,Hearts,13,16,29,32
+2014-03-08,Kilmarnock_Hearts_2013,Kilmarnock,15,14,29,32
+2014-03-08,Hibernian_Motherwell_2013,Motherwell,13,15,28,32
+2014-03-08,Hibernian_Motherwell_2013,Hibernian,16,12,28,32
+2014-03-12,Dundee United_St Johnstone_2013,Dundee United,14,14,28,33
+2014-03-12,Inverness C_Hibernian_2013,Inverness C,13,14,27,33
+2014-03-12,Dundee United_St Johnstone_2013,St Johnstone,14,14,28,33
+2014-03-12,Inverness C_Hibernian_2013,Hibernian,16,13,29,33
+2014-03-14,Kilmarnock_Celtic_2013,Kilmarnock,16,14,30,33
+2014-03-14,Kilmarnock_Celtic_2013,Celtic,14,15,29,33
+2014-03-15,Dundee United_St Mirren_2013,St Mirren,14,15,29,33
+2014-03-15,St Johnstone_Ross County_2013,St Johnstone,15,14,29,33
+2014-03-15,St Johnstone_Ross County_2013,Ross County,15,14,29,33
+2014-03-15,Partick_Hibernian_2013,Hibernian,16,14,30,33
+2014-03-15,Partick_Hibernian_2013,Partick,15,14,29,33
+2014-03-15,Dundee United_St Mirren_2013,Dundee United,15,14,29,33
+2014-03-19,Motherwell_Inverness C_2013,Inverness C,13,15,28,34
+2014-03-19,Motherwell_Inverness C_2013,Motherwell,14,15,29,34
+2014-03-21,Hearts_Dundee United_2013,Hearts,14,16,30,34
+2014-03-21,Hearts_Dundee United_2013,Dundee United,15,15,30,34
+2014-03-22,Motherwell_Ross County_2013,Motherwell,15,15,30,34
+2014-03-22,Inverness C_Partick_2013,Partick,15,15,30,34
+2014-03-22,Inverness C_Partick_2013,Inverness C,14,15,29,34
+2014-03-22,Aberdeen_Kilmarnock_2013,Kilmarnock,16,15,31,34
+2014-03-22,St Johnstone_Hibernian_2013,St Johnstone,16,14,30,34
+2014-03-22,St Johnstone_Hibernian_2013,Hibernian,16,15,31,34
+2014-03-22,Celtic_St Mirren_2013,Celtic,15,15,30,34
+2014-03-22,Celtic_St Mirren_2013,St Mirren,14,16,30,34
+2014-03-22,Motherwell_Ross County_2013,Ross County,15,15,30,34
+2014-03-22,Aberdeen_Kilmarnock_2013,Aberdeen,15,14,29,34
+2014-03-25,St Mirren_St Johnstone_2013,St Johnstone,16,15,31,35
+2014-03-25,Ross County_Aberdeen_2013,Aberdeen,15,15,30,35
+2014-03-25,Ross County_Aberdeen_2013,Ross County,16,15,31,35
+2014-03-25,St Mirren_St Johnstone_2013,St Mirren,15,16,31,35
+2014-03-26,Partick_Celtic_2013,Celtic,15,16,31,35
+2014-03-26,Partick_Celtic_2013,Partick,16,15,31,35
+2014-03-26,Dundee United_Inverness C_2013,Dundee United,16,15,31,35
+2014-03-26,Dundee United_Inverness C_2013,Inverness C,14,16,30,35
+2014-03-29,Inverness C_St Mirren_2013,Inverness C,15,16,31,35
+2014-03-29,Celtic_Ross County_2013,Ross County,16,16,32,35
+2014-03-29,St Johnstone_Partick_2013,St Johnstone,17,15,32,35
+2014-03-29,Aberdeen_Dundee United_2013,Aberdeen,16,15,31,35
+2014-03-29,Inverness C_St Mirren_2013,St Mirren,15,17,32,35
+2014-03-29,Celtic_Ross County_2013,Celtic,16,16,32,35
+2014-03-29,Motherwell_Kilmarnock_2013,Motherwell,16,15,31,35
+2014-03-29,St Johnstone_Partick_2013,Partick,16,16,32,35
+2014-03-29,Motherwell_Kilmarnock_2013,Kilmarnock,16,16,32,35
+2014-03-29,Aberdeen_Dundee United_2013,Dundee United,16,16,32,35
+2014-03-30,Hearts_Hibernian_2013,Hearts,15,16,31,35
+2014-03-30,Hearts_Hibernian_2013,Hibernian,16,16,32,35
+2014-04-01,Inverness C_Motherwell_2013,Motherwell,16,16,32,36
+2014-04-01,Inverness C_Motherwell_2013,Inverness C,16,16,32,36
+2014-04-02,Hearts_Aberdeen_2013,Aberdeen,16,16,32,36
+2014-04-02,Hearts_Aberdeen_2013,Hearts,16,16,32,36
+2014-04-04,Ross County_Inverness C_2013,Ross County,17,16,33,36
+2014-04-04,Ross County_Inverness C_2013,Inverness C,16,17,33,36
+2014-04-05,St Mirren_Motherwell_2013,St Mirren,16,17,33,36
+2014-04-05,Kilmarnock_St Johnstone_2013,St Johnstone,17,16,33,36
+2014-04-05,Partick_Hearts_2013,Partick,17,16,33,36
+2014-04-05,Dundee United_Celtic_2013,Dundee United,17,16,33,36
+2014-04-05,Dundee United_Celtic_2013,Celtic,16,17,33,36
+2014-04-05,Kilmarnock_St Johnstone_2013,Kilmarnock,17,16,33,36
+2014-04-05,St Mirren_Motherwell_2013,Motherwell,16,17,33,36
+2014-04-05,Partick_Hearts_2013,Hearts,16,17,33,36
+2014-04-07,Hibernian_Aberdeen_2013,Hibernian,17,16,33,36
+2014-04-07,Hibernian_Aberdeen_2013,Aberdeen,16,17,33,36
+2014-04-18,Inverness C_Aberdeen_2013,Inverness C,17,17,34,38
+2014-04-18,Inverness C_Aberdeen_2013,Aberdeen,16,18,34,38
+2014-04-19,St Mirren_Hibernian_2013,St Mirren,17,17,34,38
+2014-04-19,Motherwell_Celtic_2013,Celtic,16,18,34,38
+2014-04-19,Kilmarnock_Partick_2013,Kilmarnock,18,16,34,38
+2014-04-19,Kilmarnock_Partick_2013,Partick,17,17,34,38
+2014-04-19,St Johnstone_Dundee United_2013,Dundee United,17,17,34,38
+2014-04-19,St Mirren_Hibernian_2013,Hibernian,17,17,34,38
+2014-04-19,Hearts_Ross County_2013,Hearts,17,17,34,38
+2014-04-19,Hearts_Ross County_2013,Ross County,17,17,34,38
+2014-04-19,Motherwell_Celtic_2013,Motherwell,17,17,34,38
+2014-04-19,St Johnstone_Dundee United_2013,St Johnstone,18,16,34,38
+2014-04-25,Partick_St Mirren_2013,St Mirren,17,18,35,39
+2014-04-25,Partick_St Mirren_2013,Partick,18,17,35,39
+2014-04-26,Aberdeen_St Johnstone_2013,Aberdeen,17,18,35,39
+2014-04-26,Dundee United_Motherwell_2013,Dundee United,18,17,35,39
+2014-04-26,Ross County_Kilmarnock_2013,Kilmarnock,18,17,35,39
+2014-04-26,Ross County_Kilmarnock_2013,Ross County,18,17,35,39
+2014-04-26,Dundee United_Motherwell_2013,Motherwell,17,18,35,39
+2014-04-26,Aberdeen_St Johnstone_2013,St Johnstone,18,17,35,39
+2014-04-27,Celtic_Inverness C_2013,Inverness C,17,18,35,39
+2014-04-27,Celtic_Inverness C_2013,Celtic,17,18,35,39
+2014-04-27,Hibernian_Hearts_2013,Hibernian,18,17,35,39
+2014-04-27,Hibernian_Hearts_2013,Hearts,17,18,35,39
+2014-05-03,Inverness C_Dundee United_2013,Dundee United,18,18,36,40
+2014-05-03,Celtic_Aberdeen_2013,Aberdeen,17,19,36,40
+2014-05-03,Hibernian_Partick_2013,Partick,18,18,36,40
+2014-05-03,Motherwell_St Johnstone_2013,Motherwell,18,18,36,40
+2014-05-03,Inverness C_Dundee United_2013,Inverness C,18,18,36,40
+2014-05-03,Celtic_Aberdeen_2013,Celtic,18,18,36,40
+2014-05-03,St Mirren_Ross County_2013,Ross County,18,18,36,40
+2014-05-03,Motherwell_St Johnstone_2013,St Johnstone,18,18,36,40
+2014-05-03,St Mirren_Ross County_2013,St Mirren,18,18,36,40
+2014-05-03,Hibernian_Partick_2013,Hibernian,19,17,36,40
+2014-05-04,Hearts_Kilmarnock_2013,Kilmarnock,18,18,36,40
+2014-05-04,Hearts_Kilmarnock_2013,Hearts,18,18,36,40
+2014-05-06,Ross County_Hibernian_2013,Hibernian,19,18,37,41
+2014-05-06,Dundee United_Aberdeen_2013,Dundee United,19,18,37,41
+2014-05-06,Ross County_Hibernian_2013,Ross County,19,18,37,41
+2014-05-06,Dundee United_Aberdeen_2013,Aberdeen,17,20,37,41
+2014-05-07,Kilmarnock_St Mirren_2013,St Mirren,18,19,37,41
+2014-05-07,St Johnstone_Celtic_2013,Celtic,18,19,37,41
+2014-05-07,Motherwell_Inverness C_2013,Inverness C,18,19,37,41
+2014-05-07,Motherwell_Inverness C_2013,Motherwell,19,18,37,41
+2014-05-07,Hearts_Partick_2013,Partick,18,19,37,41
+2014-05-07,Hearts_Partick_2013,Hearts,19,18,37,41
+2014-05-07,St Johnstone_Celtic_2013,St Johnstone,19,18,37,41
+2014-05-07,Kilmarnock_St Mirren_2013,Kilmarnock,19,18,37,41
+2014-05-10,St Mirren_Hearts_2013,St Mirren,19,19,38,41
+2014-05-10,Hibernian_Kilmarnock_2013,Hibernian,20,18,38,41
+2014-05-10,Partick_Ross County_2013,Partick,19,19,38,41
+2014-05-10,Hibernian_Kilmarnock_2013,Kilmarnock,19,19,38,41
+2014-05-10,Partick_Ross County_2013,Ross County,19,19,38,41
+2014-05-10,St Mirren_Hearts_2013,Hearts,19,19,38,41
+2014-05-11,Inverness C_St Johnstone_2013,Inverness C,19,19,38,41
+2014-05-11,Aberdeen_Motherwell_2013,Motherwell,19,19,38,41
+2014-05-11,Aberdeen_Motherwell_2013,Aberdeen,18,20,38,41
+2014-05-11,Celtic_Dundee United_2013,Celtic,19,19,38,41
+2014-05-11,Inverness C_St Johnstone_2013,St Johnstone,19,19,38,41
+2014-05-11,Celtic_Dundee United_2013,Dundee United,19,19,38,41

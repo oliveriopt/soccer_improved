@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-08-06,Ajaccio_Toulouse_2011,Ajaccio,1,1,1,1
+2011-08-06,Ajaccio_Toulouse_2011,Toulouse,1,1,1,1
+2011-08-06,Nice_Lyon_2011,Nice,1,1,1,1
+2011-08-06,Nancy_Lille_2011,Lille,1,1,1,1
+2011-08-06,Caen_Valenciennes_2011,Caen,1,1,1,1
+2011-08-06,Montpellier_Auxerre_2011,Montpellier,1,1,1,1
+2011-08-06,Nice_Lyon_2011,Lyon,1,1,1,1
+2011-08-06,Montpellier_Auxerre_2011,Auxerre,1,1,1,1
+2011-08-06,Caen_Valenciennes_2011,Valenciennes,1,1,1,1
+2011-08-06,Marseille_Sochaux_2011,Sochaux,1,1,1,1
+2011-08-06,Brest_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,1,1,1,1
+2011-08-06,Paris SG_Lorient_2011,Lorient,1,1,1,1
+2011-08-06,Marseille_Sochaux_2011,Marseille,1,1,1,1
+2011-08-06,Nancy_Lille_2011,Nancy,1,1,1,1
+2011-08-06,Brest_Evian Thonon Gaillard_2011,Brest,1,1,1,1
+2011-08-06,Paris SG_Lorient_2011,Paris SG,1,1,1,1
+2011-08-07,Dijon_Rennes_2011,Dijon,1,1,1,1
+2011-08-07,Bordeaux_St Etienne_2011,St Etienne,1,1,1,1
+2011-08-07,Bordeaux_St Etienne_2011,Bordeaux,1,1,1,1
+2011-08-07,Dijon_Rennes_2011,Rennes,1,1,1,1
+2011-08-13,Valenciennes_Brest_2011,Valenciennes,1,1,2,2
+2011-08-13,St Etienne_Nancy_2011,St Etienne,1,1,2,2
+2011-08-13,St Etienne_Nancy_2011,Nancy,1,1,2,2
+2011-08-13,Sochaux_Caen_2011,Caen,1,1,2,2
+2011-08-13,Rennes_Paris SG_2011,Paris SG,1,1,2,2
+2011-08-13,Toulouse_Dijon_2011,Toulouse,1,1,2,2
+2011-08-13,Sochaux_Caen_2011,Sochaux,1,1,2,2
+2011-08-13,Valenciennes_Brest_2011,Brest,1,1,2,2
+2011-08-13,Rennes_Paris SG_2011,Rennes,1,1,2,2
+2011-08-13,Lyon_Ajaccio_2011,Lyon,1,1,2,2
+2011-08-13,Lorient_Bordeaux_2011,Bordeaux,1,1,2,2
+2011-08-13,Lorient_Bordeaux_2011,Lorient,1,1,2,2
+2011-08-13,Toulouse_Dijon_2011,Dijon,1,1,2,2
+2011-08-13,Lyon_Ajaccio_2011,Ajaccio,1,1,2,2
+2011-08-14,Lille_Montpellier_2011,Lille,1,1,2,2
+2011-08-14,Auxerre_Marseille_2011,Auxerre,1,1,2,2
+2011-08-14,Lille_Montpellier_2011,Montpellier,1,1,2,2
+2011-08-14,Auxerre_Marseille_2011,Marseille,1,1,2,2
+2011-08-14,Evian Thonon Gaillard_Nice_2011,Evian Thonon Gaillard,1,1,2,2
+2011-08-14,Evian Thonon Gaillard_Nice_2011,Nice,1,1,2,2
+2011-08-20,Bordeaux_Auxerre_2011,Bordeaux,2,1,3,3
+2011-08-20,Nice_Toulouse_2011,Toulouse,1,2,3,3
+2011-08-20,Brest_Lyon_2011,Lyon,1,2,3,3
+2011-08-20,Ajaccio_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,1,2,3,3
+2011-08-20,Caen_Lille_2011,Caen,2,1,3,3
+2011-08-20,Brest_Lyon_2011,Brest,2,1,3,3
+2011-08-20,Bordeaux_Auxerre_2011,Auxerre,1,2,3,3
+2011-08-20,Dijon_Lorient_2011,Dijon,2,1,3,3
+2011-08-20,Nice_Toulouse_2011,Nice,2,1,3,3
+2011-08-20,Dijon_Lorient_2011,Lorient,1,2,3,3
+2011-08-20,Ajaccio_Evian Thonon Gaillard_2011,Ajaccio,2,1,3,3
+2011-08-20,Caen_Lille_2011,Lille,1,2,3,3
+2011-08-21,Paris SG_Valenciennes_2011,Valenciennes,1,2,3,3
+2011-08-21,Marseille_St Etienne_2011,Marseille,2,1,3,3
+2011-08-21,Nancy_Sochaux_2011,Nancy,2,1,3,3
+2011-08-21,Montpellier_Rennes_2011,Montpellier,2,1,3,3
+2011-08-21,Nancy_Sochaux_2011,Sochaux,1,2,3,3
+2011-08-21,Paris SG_Valenciennes_2011,Paris SG,2,1,3,3
+2011-08-21,Montpellier_Rennes_2011,Rennes,1,2,3,3
+2011-08-21,Marseille_St Etienne_2011,St Etienne,1,2,3,3
+2011-08-27,Valenciennes_Bordeaux_2011,Valenciennes,2,2,4,4
+2011-08-27,Nice_Brest_2011,Brest,2,2,4,4
+2011-08-27,Evian Thonon Gaillard_Dijon_2011,Evian Thonon Gaillard,2,2,4,4
+2011-08-27,Auxerre_Ajaccio_2011,Ajaccio,2,2,4,4
+2011-08-27,Lyon_Montpellier_2011,Montpellier,2,2,4,4
+2011-08-27,Lyon_Montpellier_2011,Lyon,2,2,4,4
+2011-08-27,Lorient_Nancy_2011,Lorient,2,2,4,4
+2011-08-27,Evian Thonon Gaillard_Dijon_2011,Dijon,2,2,4,4
+2011-08-27,Lorient_Nancy_2011,Nancy,2,2,4,4
+2011-08-27,Valenciennes_Bordeaux_2011,Bordeaux,2,2,4,4
+2011-08-27,Auxerre_Ajaccio_2011,Auxerre,2,2,4,4
+2011-08-27,Nice_Brest_2011,Nice,3,1,4,4
+2011-08-28,Sochaux_St Etienne_2011,Sochaux,2,2,4,4
+2011-08-28,Toulouse_Paris SG_2011,Paris SG,2,2,4,4
+2011-08-28,Toulouse_Paris SG_2011,Toulouse,2,2,4,4
+2011-08-28,Lille_Marseille_2011,Lille,2,2,4,4
+2011-08-28,Lille_Marseille_2011,Marseille,2,2,4,4
+2011-08-28,Rennes_Caen_2011,Rennes,2,2,4,4
+2011-08-28,Sochaux_St Etienne_2011,St Etienne,1,3,4,4
+2011-08-28,Rennes_Caen_2011,Caen,2,2,4,4
+2011-09-10,Ajaccio_Valenciennes_2011,Valenciennes,2,3,5,6
+2011-09-10,Caen_Toulouse_2011,Toulouse,2,3,5,6
+2011-09-10,Marseille_Rennes_2011,Rennes,2,3,5,6
+2011-09-10,Dijon_Lyon_2011,Dijon,3,2,5,6
+2011-09-10,Caen_Toulouse_2011,Caen,3,2,5,6
+2011-09-10,Dijon_Lyon_2011,Lyon,2,3,5,6
+2011-09-10,Ajaccio_Valenciennes_2011,Ajaccio,3,2,5,6
+2011-09-10,Sochaux_Lorient_2011,Sochaux,3,2,5,6
+2011-09-10,Bordeaux_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,2,3,5,6
+2011-09-10,Sochaux_Lorient_2011,Lorient,2,3,5,6
+2011-09-10,Bordeaux_Evian Thonon Gaillard_2011,Bordeaux,3,2,5,6
+2011-09-10,Marseille_Rennes_2011,Marseille,3,2,5,6
+2011-09-10,St Etienne_Lille_2011,Lille,2,3,5,6
+2011-09-10,St Etienne_Lille_2011,St Etienne,2,3,5,6
+2011-09-11,Paris SG_Brest_2011,Brest,2,3,5,6
+2011-09-11,Nancy_Auxerre_2011,Nancy,3,2,5,6
+2011-09-11,Montpellier_Nice_2011,Nice,3,2,5,6
+2011-09-11,Montpellier_Nice_2011,Montpellier,3,2,5,6
+2011-09-11,Nancy_Auxerre_2011,Auxerre,2,3,5,6
+2011-09-11,Paris SG_Brest_2011,Paris SG,3,2,5,6
+2011-09-17,Valenciennes_Dijon_2011,Valenciennes,3,3,6,7
+2011-09-17,Auxerre_Caen_2011,Caen,3,3,6,7
+2011-09-17,Toulouse_Bordeaux_2011,Toulouse,3,3,6,7
+2011-09-17,Lille_Sochaux_2011,Lille,3,3,6,7
+2011-09-17,Auxerre_Caen_2011,Auxerre,3,3,6,7
+2011-09-17,Nice_Ajaccio_2011,Ajaccio,3,3,6,7
+2011-09-17,Brest_Montpellier_2011,Brest,3,3,6,7
+2011-09-17,Nice_Ajaccio_2011,Nice,4,2,6,7
+2011-09-17,Brest_Montpellier_2011,Montpellier,3,3,6,7
+2011-09-17,Lille_Sochaux_2011,Sochaux,3,3,6,7
+2011-09-17,Lorient_St Etienne_2011,St Etienne,2,4,6,7
+2011-09-17,Toulouse_Bordeaux_2011,Bordeaux,3,3,6,7
+2011-09-17,Lorient_St Etienne_2011,Lorient,3,3,6,7
+2011-09-17,Valenciennes_Dijon_2011,Dijon,3,3,6,7
+2011-09-18,Evian Thonon Gaillard_Paris SG_2011,Evian Thonon Gaillard,3,3,6,7
+2011-09-18,Evian Thonon Gaillard_Paris SG_2011,Paris SG,3,3,6,7
+2011-09-18,Rennes_Nancy_2011,Rennes,3,3,6,7
+2011-09-18,Lyon_Marseille_2011,Marseille,3,3,6,7
+2011-09-18,Rennes_Nancy_2011,Nancy,3,3,6,7
+2011-09-18,Lyon_Marseille_2011,Lyon,3,3,6,7
+2011-09-20,Bordeaux_Lille_2011,Bordeaux,4,3,7,8
+2011-09-20,Bordeaux_Lille_2011,Lille,3,4,7,8
+2011-09-21,Dijon_Brest_2011,Brest,3,4,7,8
+2011-09-21,Nancy_Valenciennes_2011,Valenciennes,3,4,7,8
+2011-09-21,St Etienne_Toulouse_2011,St Etienne,3,4,7,8
+2011-09-21,St Etienne_Toulouse_2011,Toulouse,3,4,7,8
+2011-09-21,Ajaccio_Montpellier_2011,Ajaccio,4,3,7,8
+2011-09-21,Sochaux_Rennes_2011,Sochaux,4,3,7,8
+2011-09-21,Marseille_Evian Thonon Gaillard_2011,Marseille,4,3,7,8
+2011-09-21,Lorient_Auxerre_2011,Lorient,4,3,7,8
+2011-09-21,Lorient_Auxerre_2011,Auxerre,3,4,7,8
+2011-09-21,Ajaccio_Montpellier_2011,Montpellier,3,4,7,8
+2011-09-21,Caen_Lyon_2011,Lyon,3,4,7,8
+2011-09-21,Paris SG_Nice_2011,Paris SG,4,3,7,8
+2011-09-21,Sochaux_Rennes_2011,Rennes,3,4,7,8
+2011-09-21,Caen_Lyon_2011,Caen,4,3,7,8
+2011-09-21,Dijon_Brest_2011,Dijon,4,3,7,8
+2011-09-21,Paris SG_Nice_2011,Nice,4,3,7,8
+2011-09-21,Nancy_Valenciennes_2011,Nancy,4,3,7,8
+2011-09-21,Marseille_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,3,4,7,8
+2011-09-24,Nice_Dijon_2011,Dijon,4,4,8,8
+2011-09-24,Valenciennes_Marseille_2011,Valenciennes,4,4,8,8
+2011-09-24,Valenciennes_Marseille_2011,Marseille,4,4,8,8
+2011-09-24,Lyon_Bordeaux_2011,Lyon,4,4,8,8
+2011-09-24,Lyon_Bordeaux_2011,Bordeaux,4,4,8,8
+2011-09-24,Lille_Lorient_2011,Lille,4,4,8,8
+2011-09-24,Montpellier_Paris SG_2011,Paris SG,4,4,8,8
+2011-09-24,Nice_Dijon_2011,Nice,5,3,8,8
+2011-09-24,Lille_Lorient_2011,Lorient,4,4,8,8
+2011-09-24,Toulouse_Nancy_2011,Nancy,4,4,8,8
+2011-09-24,Toulouse_Nancy_2011,Toulouse,4,4,8,8
+2011-09-24,Evian Thonon Gaillard_Caen_2011,Evian Thonon Gaillard,4,4,8,8
+2011-09-24,Montpellier_Paris SG_2011,Montpellier,4,4,8,8
+2011-09-24,Evian Thonon Gaillard_Caen_2011,Caen,4,4,8,8
+2011-09-25,Brest_Ajaccio_2011,Ajaccio,4,4,8,8
+2011-09-25,Auxerre_Sochaux_2011,Auxerre,4,4,8,8
+2011-09-25,Brest_Ajaccio_2011,Brest,4,4,8,8
+2011-09-25,Rennes_St Etienne_2011,Rennes,4,4,8,8
+2011-09-25,Auxerre_Sochaux_2011,Sochaux,4,4,8,8
+2011-09-25,Rennes_St Etienne_2011,St Etienne,3,5,8,8
+2011-10-01,Lorient_Valenciennes_2011,Valenciennes,4,5,9,9
+2011-10-01,Caen_Nice_2011,Nice,5,4,9,9
+2011-10-01,Sochaux_Toulouse_2011,Toulouse,4,5,9,9
+2011-10-01,Caen_Nice_2011,Caen,5,4,9,9
+2011-10-01,Bordeaux_Montpellier_2011,Montpellier,4,5,9,9
+2011-10-01,St Etienne_Auxerre_2011,St Etienne,4,5,9,9
+2011-10-01,Sochaux_Toulouse_2011,Sochaux,5,4,9,9
+2011-10-01,Lorient_Valenciennes_2011,Lorient,5,4,9,9
+2011-10-01,Bordeaux_Montpellier_2011,Bordeaux,5,4,9,9
+2011-10-01,Dijon_Ajaccio_2011,Dijon,5,4,9,9
+2011-10-01,Nancy_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,4,5,9,9
+2011-10-01,Dijon_Ajaccio_2011,Ajaccio,4,5,9,9
+2011-10-01,St Etienne_Auxerre_2011,Auxerre,4,5,9,9
+2011-10-01,Nancy_Evian Thonon Gaillard_2011,Nancy,5,4,9,9
+2011-10-02,Lille_Rennes_2011,Rennes,4,5,9,9
+2011-10-02,Marseille_Brest_2011,Marseille,5,4,9,9
+2011-10-02,Paris SG_Lyon_2011,Lyon,4,5,9,9
+2011-10-02,Paris SG_Lyon_2011,Paris SG,5,4,9,9
+2011-10-02,Marseille_Brest_2011,Brest,4,5,9,9
+2011-10-02,Lille_Rennes_2011,Lille,5,4,9,9
+2011-10-15,Toulouse_Marseille_2011,Toulouse,5,5,10,11
+2011-10-15,Auxerre_Lille_2011,Auxerre,5,5,10,11
+2011-10-15,Nice_Bordeaux_2011,Nice,6,4,10,11
+2011-10-15,Evian Thonon Gaillard_St Etienne_2011,St Etienne,4,6,10,11
+2011-10-15,Montpellier_Dijon_2011,Montpellier,5,5,10,11
+2011-10-15,Toulouse_Marseille_2011,Marseille,5,5,10,11
+2011-10-15,Lyon_Nancy_2011,Nancy,5,5,10,11
+2011-10-15,Nice_Bordeaux_2011,Bordeaux,5,5,10,11
+2011-10-15,Brest_Caen_2011,Caen,5,5,10,11
+2011-10-15,Auxerre_Lille_2011,Lille,5,5,10,11
+2011-10-15,Montpellier_Dijon_2011,Dijon,5,5,10,11
+2011-10-15,Evian Thonon Gaillard_St Etienne_2011,Evian Thonon Gaillard,5,5,10,11
+2011-10-15,Brest_Caen_2011,Brest,5,5,10,11
+2011-10-15,Lyon_Nancy_2011,Lyon,5,5,10,11
+2011-10-16,Rennes_Lorient_2011,Rennes,5,5,10,11
+2011-10-16,Ajaccio_Paris SG_2011,Paris SG,5,5,10,11
+2011-10-16,Ajaccio_Paris SG_2011,Ajaccio,5,5,10,11
+2011-10-16,Rennes_Lorient_2011,Lorient,5,5,10,11
+2011-10-16,Valenciennes_Sochaux_2011,Sochaux,5,5,10,11
+2011-10-16,Valenciennes_Sochaux_2011,Valenciennes,5,5,10,11
+2011-10-22,St Etienne_Valenciennes_2011,Valenciennes,5,6,11,12
+2011-10-22,Lorient_Toulouse_2011,Toulouse,5,6,11,12
+2011-10-22,Caen_Montpellier_2011,Caen,6,5,11,12
+2011-10-22,Nancy_Nice_2011,Nice,6,5,11,12
+2011-10-22,Bordeaux_Brest_2011,Bordeaux,6,5,11,12
+2011-10-22,Marseille_Ajaccio_2011,Ajaccio,5,6,11,12
+2011-10-22,Bordeaux_Brest_2011,Brest,5,6,11,12
+2011-10-22,Sochaux_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,5,6,11,12
+2011-10-22,Caen_Montpellier_2011,Montpellier,5,6,11,12
+2011-10-22,Nancy_Nice_2011,Nancy,6,5,11,12
+2011-10-22,Marseille_Ajaccio_2011,Marseille,6,5,11,12
+2011-10-22,Lorient_Toulouse_2011,Lorient,6,5,11,12
+2011-10-22,Sochaux_Evian Thonon Gaillard_2011,Sochaux,6,5,11,12
+2011-10-22,St Etienne_Valenciennes_2011,St Etienne,5,6,11,12
+2011-10-23,Lille_Lyon_2011,Lyon,5,6,11,12
+2011-10-23,Auxerre_Rennes_2011,Auxerre,6,5,11,12
+2011-10-23,Paris SG_Dijon_2011,Paris SG,6,5,11,12
+2011-10-23,Lille_Lyon_2011,Lille,6,5,11,12
+2011-10-23,Paris SG_Dijon_2011,Dijon,5,6,11,12
+2011-10-23,Auxerre_Rennes_2011,Rennes,5,6,11,12
+2011-10-29,Lyon_St Etienne_2011,St Etienne,5,7,12,13
+2011-10-29,Ajaccio_Bordeaux_2011,Ajaccio,6,6,12,13
+2011-10-29,Paris SG_Caen_2011,Caen,6,6,12,13
+2011-10-29,Dijon_Marseille_2011,Dijon,6,6,12,13
+2011-10-29,Brest_Lorient_2011,Brest,6,6,12,13
+2011-10-29,Paris SG_Caen_2011,Paris SG,7,5,12,13
+2011-10-29,Montpellier_Nancy_2011,Nancy,6,6,12,13
+2011-10-29,Ajaccio_Bordeaux_2011,Bordeaux,6,6,12,13
+2011-10-29,Brest_Lorient_2011,Lorient,6,6,12,13
+2011-10-29,Montpellier_Nancy_2011,Montpellier,6,6,12,13
+2011-10-29,Evian Thonon Gaillard_Auxerre_2011,Evian Thonon Gaillard,6,6,12,13
+2011-10-29,Lyon_St Etienne_2011,Lyon,6,6,12,13
+2011-10-29,Evian Thonon Gaillard_Auxerre_2011,Auxerre,6,6,12,13
+2011-10-29,Dijon_Marseille_2011,Marseille,6,6,12,13
+2011-10-30,Toulouse_Rennes_2011,Rennes,5,7,12,13
+2011-10-30,Valenciennes_Lille_2011,Valenciennes,6,6,12,13
+2011-10-30,Valenciennes_Lille_2011,Lille,6,6,12,13
+2011-10-30,Nice_Sochaux_2011,Sochaux,6,6,12,13
+2011-10-30,Nice_Sochaux_2011,Nice,7,5,12,13
+2011-10-30,Toulouse_Rennes_2011,Toulouse,6,6,12,13
+2011-11-05,Lille_Evian Thonon Gaillard_2011,Lille,7,6,13,14
+2011-11-05,Lille_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,6,7,13,14
+2011-11-06,Auxerre_Toulouse_2011,Toulouse,6,7,13,14
+2011-11-06,Rennes_Valenciennes_2011,Valenciennes,6,7,13,14
+2011-11-06,Auxerre_Toulouse_2011,Auxerre,7,6,13,14
+2011-11-06,St Etienne_Montpellier_2011,Montpellier,6,7,13,14
+2011-11-06,Sochaux_Lyon_2011,Lyon,6,7,13,14
+2011-11-06,Sochaux_Lyon_2011,Sochaux,7,6,13,14
+2011-11-06,Marseille_Nice_2011,Marseille,7,6,13,14
+2011-11-06,Nancy_Brest_2011,Brest,6,7,13,14
+2011-11-06,Rennes_Valenciennes_2011,Rennes,6,7,13,14
+2011-11-06,Lorient_Ajaccio_2011,Ajaccio,6,7,13,14
+2011-11-06,Caen_Dijon_2011,Dijon,6,7,13,14
+2011-11-06,Lorient_Ajaccio_2011,Lorient,7,6,13,14
+2011-11-06,Bordeaux_Paris SG_2011,Paris SG,7,6,13,14
+2011-11-06,Nancy_Brest_2011,Nancy,7,6,13,14
+2011-11-06,Caen_Dijon_2011,Caen,7,6,13,14
+2011-11-06,Marseille_Nice_2011,Nice,7,6,13,14
+2011-11-06,St Etienne_Montpellier_2011,St Etienne,6,7,13,14
+2011-11-06,Bordeaux_Paris SG_2011,Bordeaux,7,6,13,14
+2011-11-18,Lyon_Rennes_2011,Rennes,6,8,14,16
+2011-11-18,Toulouse_Lille_2011,Lille,7,7,14,16
+2011-11-18,Lyon_Rennes_2011,Lyon,7,7,14,16
+2011-11-18,Toulouse_Lille_2011,Toulouse,7,7,14,16
+2011-11-19,Nice_St Etienne_2011,Nice,8,6,14,16
+2011-11-19,Ajaccio_Caen_2011,Caen,7,7,14,16
+2011-11-19,Montpellier_Marseille_2011,Marseille,7,7,14,16
+2011-11-19,Evian Thonon Gaillard_Lorient_2011,Evian Thonon Gaillard,7,7,14,16
+2011-11-19,Nice_St Etienne_2011,St Etienne,6,8,14,16
+2011-11-19,Ajaccio_Caen_2011,Ajaccio,7,7,14,16
+2011-11-19,Montpellier_Marseille_2011,Montpellier,7,7,14,16
+2011-11-19,Evian Thonon Gaillard_Lorient_2011,Lorient,7,7,14,16
+2011-11-19,Dijon_Bordeaux_2011,Bordeaux,7,7,14,16
+2011-11-19,Dijon_Bordeaux_2011,Dijon,7,7,14,16
+2011-11-20,Valenciennes_Auxerre_2011,Valenciennes,7,7,14,16
+2011-11-20,Paris SG_Nancy_2011,Paris SG,8,6,14,16
+2011-11-20,Valenciennes_Auxerre_2011,Auxerre,7,7,14,16
+2011-11-20,Brest_Sochaux_2011,Sochaux,7,7,14,16
+2011-11-20,Paris SG_Nancy_2011,Nancy,7,7,14,16
+2011-11-20,Brest_Sochaux_2011,Brest,7,7,14,16
+2011-11-26,Sochaux_Montpellier_2011,Sochaux,8,7,15,17
+2011-11-26,Sochaux_Montpellier_2011,Montpellier,7,8,15,17
+2011-11-26,Rennes_Evian Thonon Gaillard_2011,Rennes,7,8,15,17
+2011-11-26,Nancy_Dijon_2011,Nancy,8,7,15,17
+2011-11-26,Bordeaux_Caen_2011,Caen,7,8,15,17
+2011-11-26,St Etienne_Ajaccio_2011,Ajaccio,7,8,15,17
+2011-11-26,St Etienne_Ajaccio_2011,St Etienne,7,8,15,17
+2011-11-26,Rennes_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,7,8,15,17
+2011-11-26,Toulouse_Valenciennes_2011,Valenciennes,7,8,15,17
+2011-11-26,Nancy_Dijon_2011,Dijon,7,8,15,17
+2011-11-26,Lille_Brest_2011,Lille,8,7,15,17
+2011-11-26,Bordeaux_Caen_2011,Bordeaux,8,7,15,17
+2011-11-26,Toulouse_Valenciennes_2011,Toulouse,8,7,15,17
+2011-11-26,Lille_Brest_2011,Brest,7,8,15,17
+2011-11-27,Lorient_Nice_2011,Nice,8,7,15,17
+2011-11-27,Auxerre_Lyon_2011,Auxerre,8,7,15,17
+2011-11-27,Lorient_Nice_2011,Lorient,8,7,15,17
+2011-11-27,Auxerre_Lyon_2011,Lyon,7,8,15,17
+2011-11-27,Marseille_Paris SG_2011,Marseille,8,7,15,17
+2011-11-27,Marseille_Paris SG_2011,Paris SG,8,7,15,17
+2011-12-02,Caen_Marseille_2011,Marseille,8,8,16,18
+2011-12-02,Caen_Marseille_2011,Caen,8,8,16,18
+2011-12-03,Nice_Rennes_2011,Rennes,7,9,16,18
+2011-12-03,Dijon_Sochaux_2011,Dijon,8,8,16,18
+2011-12-03,Nice_Rennes_2011,Nice,9,7,16,18
+2011-12-03,Evian Thonon Gaillard_Valenciennes_2011,Evian Thonon Gaillard,8,8,16,18
+2011-12-03,Ajaccio_Lille_2011,Ajaccio,8,8,16,18
+2011-12-03,Dijon_Sochaux_2011,Sochaux,8,8,16,18
+2011-12-03,Montpellier_Lorient_2011,Lorient,8,8,16,18
+2011-12-03,Brest_St Etienne_2011,Brest,8,8,16,18
+2011-12-03,Brest_St Etienne_2011,St Etienne,7,9,16,18
+2011-12-03,Montpellier_Lorient_2011,Montpellier,8,8,16,18
+2011-12-03,Ajaccio_Lille_2011,Lille,8,8,16,18
+2011-12-03,Evian Thonon Gaillard_Valenciennes_2011,Valenciennes,7,9,16,18
+2011-12-04,Lyon_Toulouse_2011,Lyon,8,8,16,18
+2011-12-04,Lyon_Toulouse_2011,Toulouse,8,8,16,18
+2011-12-04,Paris SG_Auxerre_2011,Paris SG,9,7,16,18
+2011-12-04,Bordeaux_Nancy_2011,Nancy,8,8,16,18
+2011-12-04,Bordeaux_Nancy_2011,Bordeaux,9,7,16,18
+2011-12-04,Paris SG_Auxerre_2011,Auxerre,8,8,16,18
+2011-12-10,Marseille_Bordeaux_2011,Marseille,9,8,17,19
+2011-12-10,St Etienne_Caen_2011,Caen,8,9,17,19
+2011-12-10,Marseille_Bordeaux_2011,Bordeaux,9,8,17,19
+2011-12-10,Valenciennes_Montpellier_2011,Montpellier,8,9,17,19
+2011-12-10,Toulouse_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,8,9,17,19
+2011-12-10,Sochaux_Paris SG_2011,Paris SG,9,8,17,19
+2011-12-10,Nancy_Ajaccio_2011,Ajaccio,8,9,17,19
+2011-12-10,Valenciennes_Montpellier_2011,Valenciennes,8,9,17,19
+2011-12-10,Rennes_Brest_2011,Rennes,8,9,17,19
+2011-12-10,Rennes_Brest_2011,Brest,8,9,17,19
+2011-12-10,Toulouse_Evian Thonon Gaillard_2011,Toulouse,9,8,17,19
+2011-12-10,Nancy_Ajaccio_2011,Nancy,9,8,17,19
+2011-12-10,St Etienne_Caen_2011,St Etienne,8,9,17,19
+2011-12-10,Sochaux_Paris SG_2011,Sochaux,9,8,17,19
+2011-12-11,Lorient_Lyon_2011,Lorient,9,8,17,19
+2011-12-11,Lorient_Lyon_2011,Lyon,8,9,17,19
+2011-12-11,Auxerre_Nice_2011,Nice,9,8,17,19
+2011-12-11,Lille_Dijon_2011,Dijon,8,9,17,19
+2011-12-11,Auxerre_Nice_2011,Auxerre,9,8,17,19
+2011-12-11,Lille_Dijon_2011,Lille,9,8,17,19
+2011-12-17,Dijon_St Etienne_2011,St Etienne,8,10,18,20
+2011-12-17,Caen_Nancy_2011,Caen,9,9,18,20
+2011-12-17,Montpellier_Toulouse_2011,Montpellier,9,9,18,20
+2011-12-17,Brest_Auxerre_2011,Brest,9,9,18,20
+2011-12-17,Lyon_Evian Thonon Gaillard_2011,Lyon,9,9,18,20
+2011-12-17,Brest_Auxerre_2011,Auxerre,9,9,18,20
+2011-12-17,Nice_Valenciennes_2011,Nice,10,8,18,20
+2011-12-17,Nice_Valenciennes_2011,Valenciennes,8,10,18,20
+2011-12-17,Marseille_Lorient_2011,Lorient,9,9,18,20
+2011-12-17,Dijon_St Etienne_2011,Dijon,9,9,18,20
+2011-12-17,Montpellier_Toulouse_2011,Toulouse,9,9,18,20
+2011-12-17,Caen_Nancy_2011,Nancy,9,9,18,20
+2011-12-17,Marseille_Lorient_2011,Marseille,10,8,18,20
+2011-12-17,Lyon_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,8,10,18,20
+2011-12-18,Paris SG_Lille_2011,Paris SG,10,8,18,20
+2011-12-18,Ajaccio_Rennes_2011,Rennes,8,10,18,20
+2011-12-18,Bordeaux_Sochaux_2011,Sochaux,9,9,18,20
+2011-12-18,Bordeaux_Sochaux_2011,Bordeaux,10,8,18,20
+2011-12-18,Ajaccio_Rennes_2011,Ajaccio,9,9,18,20
+2011-12-18,Paris SG_Lille_2011,Lille,9,9,18,20
+2011-12-20,Nancy_Marseille_2011,Nancy,10,9,19,21
+2011-12-20,Nancy_Marseille_2011,Marseille,10,9,19,21
+2011-12-21,Valenciennes_Lyon_2011,Valenciennes,9,10,19,21
+2011-12-21,Rennes_Bordeaux_2011,Rennes,9,10,19,21
+2011-12-21,Auxerre_Dijon_2011,Dijon,9,10,19,21
+2011-12-21,Valenciennes_Lyon_2011,Lyon,9,10,19,21
+2011-12-21,Auxerre_Dijon_2011,Auxerre,10,9,19,21
+2011-12-21,Sochaux_Ajaccio_2011,Ajaccio,9,10,19,21
+2011-12-21,Sochaux_Ajaccio_2011,Sochaux,10,9,19,21
+2011-12-21,St Etienne_Paris SG_2011,St Etienne,9,10,19,21
+2011-12-21,Rennes_Bordeaux_2011,Bordeaux,10,9,19,21
+2011-12-21,Lorient_Caen_2011,Caen,9,10,19,21
+2011-12-21,St Etienne_Paris SG_2011,Paris SG,10,9,19,21
+2011-12-21,Evian Thonon Gaillard_Montpellier_2011,Montpellier,9,10,19,21
+2011-12-21,Lille_Nice_2011,Lille,10,9,19,21
+2011-12-21,Toulouse_Brest_2011,Toulouse,10,9,19,21
+2011-12-21,Toulouse_Brest_2011,Brest,9,10,19,21
+2011-12-21,Lorient_Caen_2011,Lorient,10,9,19,21
+2011-12-21,Evian Thonon Gaillard_Montpellier_2011,Evian Thonon Gaillard,9,10,19,21
+2011-12-21,Lille_Nice_2011,Nice,10,9,19,21
+2012-01-14,Brest_Nice_2011,Brest,10,10,20,24
+2012-01-14,Nancy_Lorient_2011,Nancy,11,9,20,24
+2012-01-14,Ajaccio_Auxerre_2011,Auxerre,10,10,20,24
+2012-01-14,Dijon_Evian Thonon Gaillard_2011,Dijon,10,10,20,24
+2012-01-14,St Etienne_Sochaux_2011,St Etienne,10,10,20,24
+2012-01-14,Dijon_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,9,11,20,24
+2012-01-14,Montpellier_Lyon_2011,Lyon,9,11,20,24
+2012-01-14,Nancy_Lorient_2011,Lorient,10,10,20,24
+2012-01-14,Brest_Nice_2011,Nice,10,10,20,24
+2012-01-14,Ajaccio_Auxerre_2011,Ajaccio,10,10,20,24
+2012-01-14,Paris SG_Toulouse_2011,Toulouse,10,10,20,24
+2012-01-14,St Etienne_Sochaux_2011,Sochaux,10,10,20,24
+2012-01-14,Caen_Rennes_2011,Rennes,9,11,20,24
+2012-01-14,Caen_Rennes_2011,Caen,10,10,20,24
+2012-01-14,Montpellier_Lyon_2011,Montpellier,10,10,20,24
+2012-01-14,Bordeaux_Valenciennes_2011,Valenciennes,9,11,20,24
+2012-01-14,Bordeaux_Valenciennes_2011,Bordeaux,11,9,20,24
+2012-01-14,Paris SG_Toulouse_2011,Paris SG,11,9,20,24
+2012-01-15,Marseille_Lille_2011,Lille,10,10,20,24
+2012-01-15,Marseille_Lille_2011,Marseille,11,9,20,24
+2012-01-28,Brest_Paris SG_2011,Brest,11,10,21,26
+2012-01-28,Lorient_Sochaux_2011,Lorient,11,10,21,26
+2012-01-28,Lille_St Etienne_2011,St Etienne,10,11,21,26
+2012-01-28,Nice_Montpellier_2011,Montpellier,10,11,21,26
+2012-01-28,Brest_Paris SG_2011,Paris SG,11,10,21,26
+2012-01-28,Toulouse_Caen_2011,Toulouse,11,10,21,26
+2012-01-28,Auxerre_Nancy_2011,Auxerre,11,10,21,26
+2012-01-28,Auxerre_Nancy_2011,Nancy,11,10,21,26
+2012-01-28,Lille_St Etienne_2011,Lille,11,10,21,26
+2012-01-28,Lorient_Sochaux_2011,Sochaux,10,11,21,26
+2012-01-28,Nice_Montpellier_2011,Nice,11,10,21,26
+2012-01-28,Toulouse_Caen_2011,Caen,10,11,21,26
+2012-01-28,Lyon_Dijon_2011,Lyon,10,11,21,26
+2012-01-28,Lyon_Dijon_2011,Dijon,10,11,21,26
+2012-01-29,Rennes_Marseille_2011,Marseille,11,10,21,26
+2012-01-29,Valenciennes_Ajaccio_2011,Valenciennes,10,11,21,26
+2012-01-29,Rennes_Marseille_2011,Rennes,10,11,21,26
+2012-01-29,Evian Thonon Gaillard_Bordeaux_2011,Evian Thonon Gaillard,10,11,21,26
+2012-01-29,Valenciennes_Ajaccio_2011,Ajaccio,10,11,21,26
+2012-01-29,Evian Thonon Gaillard_Bordeaux_2011,Bordeaux,11,10,21,26
+2012-02-04,Dijon_Valenciennes_2011,Valenciennes,10,12,22,27
+2012-02-04,Montpellier_Brest_2011,Montpellier,11,11,22,27
+2012-02-04,Paris SG_Evian Thonon Gaillard_2011,Paris SG,12,10,22,27
+2012-02-04,Ajaccio_Nice_2011,Ajaccio,11,11,22,27
+2012-02-04,Bordeaux_Toulouse_2011,Toulouse,11,11,22,27
+2012-02-04,Nancy_Rennes_2011,Nancy,12,10,22,27
+2012-02-04,Bordeaux_Toulouse_2011,Bordeaux,12,10,22,27
+2012-02-04,Paris SG_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,10,12,22,27
+2012-02-04,Dijon_Valenciennes_2011,Dijon,11,11,22,27
+2012-02-04,Nancy_Rennes_2011,Rennes,10,12,22,27
+2012-02-04,Montpellier_Brest_2011,Brest,11,11,22,27
+2012-02-04,Ajaccio_Nice_2011,Nice,11,11,22,27
+2012-02-05,Marseille_Lyon_2011,Marseille,12,10,22,27
+2012-02-05,Marseille_Lyon_2011,Lyon,10,12,22,27
+2012-02-11,Valenciennes_Nancy_2011,Valenciennes,11,12,23,28
+2012-02-11,Auxerre_Lorient_2011,Auxerre,12,10,22,28
+2012-02-11,Valenciennes_Nancy_2011,Nancy,12,11,23,28
+2012-02-11,Auxerre_Lorient_2011,Lorient,11,11,22,28
+2012-02-11,Rennes_Sochaux_2011,Sochaux,10,12,22,28
+2012-02-11,Lyon_Caen_2011,Caen,10,12,22,28
+2012-02-11,Montpellier_Ajaccio_2011,Ajaccio,11,12,23,28
+2012-02-11,Brest_Dijon_2011,Brest,12,11,23,28
+2012-02-11,Lyon_Caen_2011,Lyon,11,12,23,28
+2012-02-11,Brest_Dijon_2011,Dijon,11,12,23,28
+2012-02-11,Rennes_Sochaux_2011,Rennes,11,12,23,28
+2012-02-11,Montpellier_Ajaccio_2011,Montpellier,12,11,23,28
+2012-02-12,Nice_Paris SG_2011,Paris SG,12,11,23,28
+2012-02-12,Lille_Bordeaux_2011,Bordeaux,12,11,23,28
+2012-02-12,Nice_Paris SG_2011,Nice,12,11,23,28
+2012-02-12,Lille_Bordeaux_2011,Lille,12,10,22,28
+2012-02-12,Toulouse_St Etienne_2011,St Etienne,10,12,22,28
+2012-02-12,Toulouse_St Etienne_2011,Toulouse,12,11,23,28
+2012-02-18,Marseille_Valenciennes_2011,Valenciennes,11,13,24,29
+2012-02-18,Caen_Evian Thonon Gaillard_2011,Caen,11,12,23,29
+2012-02-18,Sochaux_Auxerre_2011,Sochaux,11,12,23,29
+2012-02-18,Caen_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,10,13,23,29
+2012-02-18,Ajaccio_Brest_2011,Brest,12,12,24,29
+2012-02-18,Lorient_Lille_2011,Lorient,12,11,23,29
+2012-02-18,Dijon_Nice_2011,Nice,12,12,24,29
+2012-02-18,Dijon_Nice_2011,Dijon,12,12,24,29
+2012-02-18,Ajaccio_Brest_2011,Ajaccio,12,12,24,29
+2012-02-18,Lorient_Lille_2011,Lille,12,11,23,29
+2012-02-18,Nancy_Toulouse_2011,Nancy,13,11,24,29
+2012-02-18,Marseille_Valenciennes_2011,Marseille,13,10,23,29
+2012-02-18,Nancy_Toulouse_2011,Toulouse,12,12,24,29
+2012-02-18,Sochaux_Auxerre_2011,Auxerre,12,11,23,29
+2012-02-19,St Etienne_Rennes_2011,Rennes,11,13,24,29
+2012-02-19,Paris SG_Montpellier_2011,Paris SG,13,11,24,29
+2012-02-19,St Etienne_Rennes_2011,St Etienne,11,12,23,29
+2012-02-19,Bordeaux_Lyon_2011,Bordeaux,13,11,24,29
+2012-02-19,Bordeaux_Lyon_2011,Lyon,11,13,24,29
+2012-02-19,Paris SG_Montpellier_2011,Montpellier,12,12,24,29
+2012-02-22,St Etienne_Lorient_2011,St Etienne,12,12,24,30
+2012-02-22,Sochaux_Lille_2011,Lille,12,12,24,30
+2012-02-22,Sochaux_Lille_2011,Sochaux,12,12,24,30
+2012-02-22,Caen_Auxerre_2011,Caen,12,12,24,30
+2012-02-22,St Etienne_Lorient_2011,Lorient,12,12,24,30
+2012-02-22,Caen_Auxerre_2011,Auxerre,12,12,24,30
+2012-02-25,Nice_Caen_2011,Caen,12,13,25,30
+2012-02-25,Lyon_Paris SG_2011,Lyon,12,13,25,30
+2012-02-25,Valenciennes_Lorient_2011,Valenciennes,12,13,25,30
+2012-02-25,Montpellier_Bordeaux_2011,Bordeaux,13,12,25,30
+2012-02-25,Auxerre_St Etienne_2011,Auxerre,13,12,25,30
+2012-02-25,Montpellier_Bordeaux_2011,Montpellier,13,12,25,30
+2012-02-25,Evian Thonon Gaillard_Nancy_2011,Evian Thonon Gaillard,11,13,24,30
+2012-02-25,Lyon_Paris SG_2011,Paris SG,13,12,25,30
+2012-02-25,Nice_Caen_2011,Nice,13,12,25,30
+2012-02-25,Auxerre_St Etienne_2011,St Etienne,12,13,25,30
+2012-02-25,Valenciennes_Lorient_2011,Lorient,12,13,25,30
+2012-02-25,Ajaccio_Dijon_2011,Ajaccio,13,12,25,30
+2012-02-25,Evian Thonon Gaillard_Nancy_2011,Nancy,13,12,25,30
+2012-02-25,Ajaccio_Dijon_2011,Dijon,12,13,25,30
+2012-02-26,Rennes_Lille_2011,Rennes,12,13,25,30
+2012-02-26,Brest_Marseille_2011,Marseille,13,11,24,30
+2012-02-26,Toulouse_Sochaux_2011,Toulouse,13,12,25,30
+2012-02-26,Toulouse_Sochaux_2011,Sochaux,12,13,25,30
+2012-02-26,Brest_Marseille_2011,Brest,13,12,25,30
+2012-02-26,Rennes_Lille_2011,Lille,12,13,25,30
+2012-03-03,Sochaux_Valenciennes_2011,Valenciennes,12,14,26,31
+2012-03-03,St Etienne_Evian Thonon Gaillard_2011,St Etienne,13,13,26,31
+2012-03-03,Nancy_Lyon_2011,Nancy,14,12,26,31
+2012-03-03,Lille_Auxerre_2011,Auxerre,13,13,26,31
+2012-03-03,Lille_Auxerre_2011,Lille,13,13,26,31
+2012-03-03,St Etienne_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,11,14,25,31
+2012-03-03,Bordeaux_Nice_2011,Bordeaux,14,12,26,31
+2012-03-03,Dijon_Montpellier_2011,Dijon,13,13,26,31
+2012-03-03,Dijon_Montpellier_2011,Montpellier,13,13,26,31
+2012-03-03,Sochaux_Valenciennes_2011,Sochaux,13,13,26,31
+2012-03-03,Marseille_Toulouse_2011,Toulouse,13,13,26,31
+2012-03-03,Marseille_Toulouse_2011,Marseille,14,11,25,31
+2012-03-03,Nancy_Lyon_2011,Lyon,12,14,26,31
+2012-03-03,Bordeaux_Nice_2011,Nice,13,13,26,31
+2012-03-04,Paris SG_Ajaccio_2011,Ajaccio,13,13,26,31
+2012-03-04,Lorient_Rennes_2011,Rennes,12,14,26,31
+2012-03-04,Caen_Brest_2011,Caen,13,13,26,31
+2012-03-04,Lorient_Rennes_2011,Lorient,13,13,26,31
+2012-03-04,Caen_Brest_2011,Brest,13,13,26,31
+2012-03-04,Paris SG_Ajaccio_2011,Paris SG,14,12,26,31
+2012-03-06,Evian Thonon Gaillard_Marseille_2011,Marseille,14,12,26,32
+2012-03-06,Evian Thonon Gaillard_Marseille_2011,Evian Thonon Gaillard,12,14,26,32
+2012-03-09,Ajaccio_Marseille_2011,Marseille,14,13,27,32
+2012-03-09,Ajaccio_Marseille_2011,Ajaccio,14,13,27,32
+2012-03-10,Valenciennes_St Etienne_2011,Valenciennes,13,14,27,32
+2012-03-10,Brest_Bordeaux_2011,Brest,14,13,27,32
+2012-03-10,Lyon_Lille_2011,Lille,13,14,27,32
+2012-03-10,Lyon_Lille_2011,Lyon,13,14,27,32
+2012-03-10,Valenciennes_St Etienne_2011,St Etienne,13,14,27,32
+2012-03-10,Toulouse_Lorient_2011,Lorient,13,14,27,32
+2012-03-10,Evian Thonon Gaillard_Sochaux_2011,Evian Thonon Gaillard,13,14,27,32
+2012-03-10,Evian Thonon Gaillard_Sochaux_2011,Sochaux,13,14,27,32
+2012-03-10,Brest_Bordeaux_2011,Bordeaux,14,13,27,32
+2012-03-10,Toulouse_Lorient_2011,Toulouse,14,13,27,32
+2012-03-10,Nice_Nancy_2011,Nice,14,13,27,32
+2012-03-10,Nice_Nancy_2011,Nancy,14,13,27,32
+2012-03-11,Rennes_Auxerre_2011,Auxerre,13,14,27,32
+2012-03-11,Montpellier_Caen_2011,Caen,13,14,27,32
+2012-03-11,Montpellier_Caen_2011,Montpellier,14,13,27,32
+2012-03-11,Rennes_Auxerre_2011,Rennes,13,14,27,32
+2012-03-11,Dijon_Paris SG_2011,Paris SG,14,13,27,32
+2012-03-11,Dijon_Paris SG_2011,Dijon,14,13,27,32
+2012-03-17,Nancy_Montpellier_2011,Montpellier,14,14,28,33
+2012-03-17,Lorient_Brest_2011,Lorient,14,14,28,33
+2012-03-17,Auxerre_Evian Thonon Gaillard_2011,Auxerre,14,14,28,33
+2012-03-17,Auxerre_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,13,15,28,33
+2012-03-17,St Etienne_Lyon_2011,Lyon,13,15,28,33
+2012-03-17,Lorient_Brest_2011,Brest,14,14,28,33
+2012-03-17,Marseille_Dijon_2011,Marseille,15,13,28,33
+2012-03-17,Caen_Paris SG_2011,Paris SG,14,14,28,33
+2012-03-17,Bordeaux_Ajaccio_2011,Ajaccio,14,14,28,33
+2012-03-17,Nancy_Montpellier_2011,Nancy,15,13,28,33
+2012-03-17,Caen_Paris SG_2011,Caen,14,14,28,33
+2012-03-17,St Etienne_Lyon_2011,St Etienne,14,14,28,33
+2012-03-17,Marseille_Dijon_2011,Dijon,14,14,28,33
+2012-03-17,Bordeaux_Ajaccio_2011,Bordeaux,15,13,28,33
+2012-03-18,Rennes_Toulouse_2011,Toulouse,14,14,28,33
+2012-03-18,Sochaux_Nice_2011,Nice,14,14,28,33
+2012-03-18,Rennes_Toulouse_2011,Rennes,14,14,28,33
+2012-03-18,Sochaux_Nice_2011,Sochaux,14,14,28,33
+2012-03-18,Lille_Valenciennes_2011,Lille,14,14,28,33
+2012-03-18,Lille_Valenciennes_2011,Valenciennes,13,15,28,33
+2012-03-24,Nice_Marseille_2011,Marseille,15,14,29,34
+2012-03-24,Lyon_Sochaux_2011,Lyon,14,15,29,34
+2012-03-24,Valenciennes_Rennes_2011,Rennes,14,15,29,34
+2012-03-24,Valenciennes_Rennes_2011,Valenciennes,14,15,29,34
+2012-03-24,Evian Thonon Gaillard_Lille_2011,Evian Thonon Gaillard,14,15,29,34
+2012-03-24,Montpellier_St Etienne_2011,Montpellier,15,14,29,34
+2012-03-24,Lyon_Sochaux_2011,Sochaux,14,15,29,34
+2012-03-24,Brest_Nancy_2011,Nancy,15,14,29,34
+2012-03-24,Ajaccio_Lorient_2011,Lorient,14,15,29,34
+2012-03-24,Brest_Nancy_2011,Brest,15,14,29,34
+2012-03-24,Nice_Marseille_2011,Nice,15,14,29,34
+2012-03-24,Evian Thonon Gaillard_Lille_2011,Lille,14,15,29,34
+2012-03-24,Montpellier_St Etienne_2011,St Etienne,14,15,29,34
+2012-03-24,Ajaccio_Lorient_2011,Ajaccio,15,14,29,34
+2012-03-25,Toulouse_Auxerre_2011,Auxerre,14,15,29,34
+2012-03-25,Paris SG_Bordeaux_2011,Bordeaux,15,14,29,34
+2012-03-25,Dijon_Caen_2011,Dijon,15,14,29,34
+2012-03-25,Paris SG_Bordeaux_2011,Paris SG,15,14,29,34
+2012-03-25,Dijon_Caen_2011,Caen,14,15,29,34
+2012-03-25,Toulouse_Auxerre_2011,Toulouse,15,14,29,34
+2012-03-31,Sochaux_Brest_2011,Brest,15,15,30,35
+2012-03-31,Auxerre_Valenciennes_2011,Valenciennes,14,16,30,35
+2012-03-31,Sochaux_Brest_2011,Sochaux,15,15,30,35
+2012-03-31,St Etienne_Nice_2011,St Etienne,15,15,30,35
+2012-03-31,Bordeaux_Dijon_2011,Dijon,15,15,30,35
+2012-03-31,Bordeaux_Dijon_2011,Bordeaux,16,14,30,35
+2012-03-31,Lorient_Evian Thonon Gaillard_2011,Lorient,15,15,30,35
+2012-03-31,Nancy_Paris SG_2011,Paris SG,15,15,30,35
+2012-03-31,Nancy_Paris SG_2011,Nancy,16,14,30,35
+2012-03-31,Auxerre_Valenciennes_2011,Auxerre,15,15,30,35
+2012-03-31,Lorient_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,14,16,30,35
+2012-03-31,St Etienne_Nice_2011,Nice,15,15,30,35
+2012-04-01,Caen_Ajaccio_2011,Caen,15,15,30,35
+2012-04-01,Rennes_Lyon_2011,Rennes,15,15,30,35
+2012-04-01,Caen_Ajaccio_2011,Ajaccio,15,15,30,35
+2012-04-01,Lille_Toulouse_2011,Lille,15,15,30,35
+2012-04-01,Rennes_Lyon_2011,Lyon,14,16,30,35
+2012-04-01,Lille_Toulouse_2011,Toulouse,15,15,30,35
+2012-04-07,Valenciennes_Toulouse_2011,Valenciennes,15,16,31,36
+2012-04-07,Dijon_Nancy_2011,Dijon,16,15,31,36
+2012-04-07,Brest_Lille_2011,Brest,16,15,31,36
+2012-04-07,Dijon_Nancy_2011,Nancy,16,15,31,36
+2012-04-07,Montpellier_Sochaux_2011,Sochaux,15,16,31,36
+2012-04-07,Valenciennes_Toulouse_2011,Toulouse,15,16,31,36
+2012-04-07,Lyon_Auxerre_2011,Auxerre,15,16,31,36
+2012-04-07,Brest_Lille_2011,Lille,15,16,31,36
+2012-04-07,Ajaccio_St Etienne_2011,Ajaccio,16,15,31,36
+2012-04-07,Lyon_Auxerre_2011,Lyon,15,16,31,36
+2012-04-07,Montpellier_Sochaux_2011,Montpellier,16,14,30,36
+2012-04-07,Ajaccio_St Etienne_2011,St Etienne,15,16,31,36
+2012-04-07,Evian Thonon Gaillard_Rennes_2011,Evian Thonon Gaillard,15,16,31,36
+2012-04-07,Evian Thonon Gaillard_Rennes_2011,Rennes,15,16,31,36
+2012-04-08,Caen_Bordeaux_2011,Caen,16,15,31,36
+2012-04-08,Caen_Bordeaux_2011,Bordeaux,16,15,31,36
+2012-04-08,Nice_Lorient_2011,Lorient,15,16,31,36
+2012-04-08,Paris SG_Marseille_2011,Marseille,15,15,30,36
+2012-04-08,Paris SG_Marseille_2011,Paris SG,16,15,31,36
+2012-04-08,Nice_Lorient_2011,Nice,16,15,31,36
+2012-04-11,Marseille_Montpellier_2011,Marseille,16,15,31,37
+2012-04-11,Marseille_Montpellier_2011,Montpellier,16,15,31,37
+2012-04-15,St Etienne_Brest_2011,Brest,16,16,32,37
+2012-04-15,Auxerre_Paris SG_2011,Auxerre,16,16,32,37
+2012-04-15,Lille_Ajaccio_2011,Lille,16,16,32,37
+2012-04-15,Sochaux_Dijon_2011,Dijon,16,16,32,37
+2012-04-15,Lorient_Montpellier_2011,Montpellier,16,16,32,37
+2012-04-15,Lille_Ajaccio_2011,Ajaccio,16,16,32,37
+2012-04-15,Valenciennes_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,15,17,32,37
+2012-04-15,Nancy_Bordeaux_2011,Bordeaux,16,16,32,37
+2012-04-15,Nancy_Bordeaux_2011,Nancy,17,15,32,37
+2012-04-15,Auxerre_Paris SG_2011,Paris SG,16,16,32,37
+2012-04-15,Valenciennes_Evian Thonon Gaillard_2011,Valenciennes,16,16,32,37
+2012-04-15,Lorient_Montpellier_2011,Lorient,16,16,32,37
+2012-04-15,St Etienne_Brest_2011,St Etienne,16,16,32,37
+2012-04-15,Sochaux_Dijon_2011,Sochaux,16,16,32,37
+2012-04-16,Rennes_Nice_2011,Nice,16,16,32,37
+2012-04-16,Rennes_Nice_2011,Rennes,16,16,32,37
+2012-04-18,Marseille_Caen_2011,Caen,16,16,32,38
+2012-04-18,Toulouse_Lyon_2011,Lyon,15,17,32,38
+2012-04-18,Marseille_Caen_2011,Marseille,17,15,32,38
+2012-04-18,Toulouse_Lyon_2011,Toulouse,16,16,32,38
+2012-04-21,Brest_Rennes_2011,Brest,17,16,33,38
+2012-04-21,Bordeaux_Marseille_2011,Bordeaux,17,16,33,38
+2012-04-21,Montpellier_Valenciennes_2011,Montpellier,17,16,33,38
+2012-04-21,Dijon_Lille_2011,Dijon,17,16,33,38
+2012-04-21,Caen_St Etienne_2011,Caen,17,16,33,38
+2012-04-21,Dijon_Lille_2011,Lille,16,17,33,38
+2012-04-21,Brest_Rennes_2011,Rennes,16,17,33,38
+2012-04-21,Nice_Auxerre_2011,Nice,17,16,33,38
+2012-04-21,Nice_Auxerre_2011,Auxerre,16,17,33,38
+2012-04-21,Evian Thonon Gaillard_Toulouse_2011,Evian Thonon Gaillard,16,17,33,38
+2012-04-21,Evian Thonon Gaillard_Toulouse_2011,Toulouse,16,17,33,38
+2012-04-21,Montpellier_Valenciennes_2011,Valenciennes,16,17,33,38
+2012-04-21,Caen_St Etienne_2011,St Etienne,16,17,33,38
+2012-04-21,Bordeaux_Marseille_2011,Marseille,17,16,33,38
+2012-04-22,Lyon_Lorient_2011,Lorient,16,17,33,38
+2012-04-22,Ajaccio_Nancy_2011,Nancy,17,16,33,38
+2012-04-22,Paris SG_Sochaux_2011,Sochaux,16,17,33,38
+2012-04-22,Paris SG_Sochaux_2011,Paris SG,17,16,33,38
+2012-04-22,Lyon_Lorient_2011,Lyon,16,17,33,38
+2012-04-22,Ajaccio_Nancy_2011,Ajaccio,17,16,33,38
+2012-04-27,Toulouse_Montpellier_2011,Toulouse,17,17,34,39
+2012-04-27,Lorient_Marseille_2011,Marseille,17,17,34,39
+2012-04-27,Toulouse_Montpellier_2011,Montpellier,17,17,34,39
+2012-04-27,Lorient_Marseille_2011,Lorient,17,17,34,39
+2012-04-29,Nancy_Caen_2011,Caen,17,17,34,39
+2012-04-29,Nancy_Caen_2011,Nancy,18,16,34,39
+2012-04-29,Lille_Paris SG_2011,Lille,17,17,34,39
+2012-04-29,Rennes_Ajaccio_2011,Rennes,17,17,34,39
+2012-04-29,Valenciennes_Nice_2011,Valenciennes,17,17,34,39
+2012-04-29,Valenciennes_Nice_2011,Nice,17,17,34,39
+2012-04-29,Rennes_Ajaccio_2011,Ajaccio,17,17,34,39
+2012-04-29,Sochaux_Bordeaux_2011,Sochaux,17,17,34,39
+2012-04-29,Auxerre_Brest_2011,Brest,17,17,34,39
+2012-04-29,Auxerre_Brest_2011,Auxerre,17,17,34,39
+2012-04-29,Sochaux_Bordeaux_2011,Bordeaux,17,17,34,39
+2012-04-29,St Etienne_Dijon_2011,St Etienne,17,17,34,39
+2012-04-29,St Etienne_Dijon_2011,Dijon,17,17,34,39
+2012-04-29,Lille_Paris SG_2011,Paris SG,17,17,34,39
+2012-05-01,Montpellier_Evian Thonon Gaillard_2011,Montpellier,18,17,35,40
+2012-05-01,Montpellier_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,16,18,34,40
+2012-05-02,Ajaccio_Sochaux_2011,Ajaccio,18,17,35,40
+2012-05-02,Bordeaux_Rennes_2011,Bordeaux,18,17,35,40
+2012-05-02,Caen_Lorient_2011,Lorient,17,18,35,40
+2012-05-02,Nice_Lille_2011,Lille,17,18,35,40
+2012-05-02,Marseille_Nancy_2011,Marseille,18,17,35,40
+2012-05-02,Lyon_Valenciennes_2011,Valenciennes,17,18,35,40
+2012-05-02,Brest_Toulouse_2011,Brest,18,17,35,40
+2012-05-02,Caen_Lorient_2011,Caen,18,17,35,40
+2012-05-02,Paris SG_St Etienne_2011,Paris SG,18,17,35,40
+2012-05-02,Paris SG_St Etienne_2011,St Etienne,17,18,35,40
+2012-05-02,Nice_Lille_2011,Nice,18,17,35,40
+2012-05-02,Ajaccio_Sochaux_2011,Sochaux,17,18,35,40
+2012-05-02,Bordeaux_Rennes_2011,Rennes,17,18,35,40
+2012-05-02,Brest_Toulouse_2011,Toulouse,17,18,35,40
+2012-05-02,Lyon_Valenciennes_2011,Lyon,17,17,34,40
+2012-05-02,Marseille_Nancy_2011,Nancy,18,17,35,40
+2012-05-03,Dijon_Auxerre_2011,Dijon,18,17,35,40
+2012-05-03,Dijon_Auxerre_2011,Auxerre,17,18,35,40
+2012-05-06,Evian Thonon Gaillard_Ajaccio_2011,Evian Thonon Gaillard,17,18,35,40
+2012-05-06,Valenciennes_Paris SG_2011,Paris SG,18,18,36,40
+2012-05-06,Lyon_Brest_2011,Brest,18,18,36,40
+2012-05-06,Lyon_Brest_2011,Lyon,18,17,35,40
+2012-05-06,Evian Thonon Gaillard_Ajaccio_2011,Ajaccio,18,18,36,40
+2012-05-06,Valenciennes_Paris SG_2011,Valenciennes,18,18,36,40
+2012-05-07,Lorient_Dijon_2011,Dijon,18,18,36,40
+2012-05-07,Lille_Caen_2011,Caen,18,18,36,40
+2012-05-07,Lorient_Dijon_2011,Lorient,18,18,36,40
+2012-05-07,Toulouse_Nice_2011,Toulouse,18,18,36,40
+2012-05-07,Lille_Caen_2011,Lille,18,18,36,40
+2012-05-07,St Etienne_Marseille_2011,Marseille,18,18,36,40
+2012-05-07,Auxerre_Bordeaux_2011,Auxerre,18,18,36,40
+2012-05-07,St Etienne_Marseille_2011,St Etienne,18,18,36,40
+2012-05-07,Sochaux_Nancy_2011,Nancy,18,18,36,40
+2012-05-07,Toulouse_Nice_2011,Nice,18,18,36,40
+2012-05-07,Rennes_Montpellier_2011,Montpellier,18,18,36,40
+2012-05-07,Auxerre_Bordeaux_2011,Bordeaux,18,18,36,40
+2012-05-07,Sochaux_Nancy_2011,Sochaux,18,18,36,40
+2012-05-07,Rennes_Montpellier_2011,Rennes,18,18,36,40
+2012-05-10,Evian Thonon Gaillard_Lyon_2011,Lyon,18,18,36,41
+2012-05-10,Evian Thonon Gaillard_Lyon_2011,Evian Thonon Gaillard,18,18,36,41
+2012-05-13,Nancy_St Etienne_2011,Nancy,19,18,37,41
+2012-05-13,Brest_Valenciennes_2011,Valenciennes,18,19,37,41
+2012-05-13,Bordeaux_Lorient_2011,Lorient,18,19,37,41
+2012-05-13,Ajaccio_Lyon_2011,Lyon,18,19,37,41
+2012-05-13,Bordeaux_Lorient_2011,Bordeaux,19,18,37,41
+2012-05-13,Nancy_St Etienne_2011,St Etienne,18,19,37,41
+2012-05-13,Nice_Evian Thonon Gaillard_2011,Nice,19,18,37,41
+2012-05-13,Paris SG_Rennes_2011,Paris SG,19,18,37,41
+2012-05-13,Dijon_Toulouse_2011,Dijon,19,18,37,41
+2012-05-13,Marseille_Auxerre_2011,Auxerre,18,19,37,41
+2012-05-13,Caen_Sochaux_2011,Sochaux,18,19,37,41
+2012-05-13,Paris SG_Rennes_2011,Rennes,18,19,37,41
+2012-05-13,Marseille_Auxerre_2011,Marseille,19,18,37,41
+2012-05-13,Montpellier_Lille_2011,Montpellier,19,18,37,41
+2012-05-13,Dijon_Toulouse_2011,Toulouse,18,19,37,41
+2012-05-13,Montpellier_Lille_2011,Lille,18,19,37,41
+2012-05-13,Ajaccio_Lyon_2011,Ajaccio,19,18,37,41
+2012-05-13,Nice_Evian Thonon Gaillard_2011,Evian Thonon Gaillard,18,19,37,41
+2012-05-13,Caen_Sochaux_2011,Caen,19,18,37,41
+2012-05-13,Brest_Valenciennes_2011,Brest,19,18,37,41
+2012-05-20,Lille_Nancy_2011,Lille,19,19,38,42
+2012-05-20,Lyon_Nice_2011,Lyon,19,19,38,42
+2012-05-20,Evian Thonon Gaillard_Brest_2011,Brest,19,19,38,42
+2012-05-20,Toulouse_Ajaccio_2011,Ajaccio,19,19,38,42
+2012-05-20,Sochaux_Marseille_2011,Sochaux,19,19,38,42
+2012-05-20,Auxerre_Montpellier_2011,Montpellier,19,19,38,42
+2012-05-20,Auxerre_Montpellier_2011,Auxerre,19,19,38,42
+2012-05-20,Lille_Nancy_2011,Nancy,19,19,38,42
+2012-05-20,Sochaux_Marseille_2011,Marseille,19,19,38,42
+2012-05-20,Lorient_Paris SG_2011,Paris SG,19,19,38,42
+2012-05-20,Rennes_Dijon_2011,Dijon,19,19,38,42
+2012-05-20,Rennes_Dijon_2011,Rennes,19,19,38,42
+2012-05-20,Lyon_Nice_2011,Nice,19,19,38,42
+2012-05-20,St Etienne_Bordeaux_2011,Bordeaux,19,19,38,42
+2012-05-20,Lorient_Paris SG_2011,Lorient,19,19,38,42
+2012-05-20,St Etienne_Bordeaux_2011,St Etienne,19,19,38,42
+2012-05-20,Valenciennes_Caen_2011,Caen,19,19,38,42
+2012-05-20,Toulouse_Ajaccio_2011,Toulouse,19,19,38,42
+2012-05-20,Evian Thonon Gaillard_Brest_2011,Evian Thonon Gaillard,19,19,38,42
+2012-05-20,Valenciennes_Caen_2011,Valenciennes,19,19,38,42

@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2009-08-29,Real Madrid_La Coruna_2009,La Coruna,1,1,1,1
+2009-08-29,Real Madrid_La Coruna_2009,Real Madrid,1,1,1,1
+2009-08-29,Zaragoza_Tenerife_2009,Zaragoza,1,1,1,1
+2009-08-29,Zaragoza_Tenerife_2009,Tenerife,1,1,1,1
+2009-08-30,Valencia_Sevilla_2009,Valencia,1,1,1,1
+2009-08-30,Santander_Getafe_2009,Getafe,1,1,1,1
+2009-08-30,Valencia_Sevilla_2009,Sevilla,1,1,1,1
+2009-08-30,Osasuna_Villarreal_2009,Osasuna,1,1,1,1
+2009-08-30,Ath Bilbao_Espanol_2009,Ath Bilbao,1,1,1,1
+2009-08-30,Ath Bilbao_Espanol_2009,Espanol,1,1,1,1
+2009-08-30,Mallorca_Xerez_2009,Xerez,1,1,1,1
+2009-08-30,Almeria_Valladolid_2009,Almeria,1,1,1,1
+2009-08-30,Almeria_Valladolid_2009,Valladolid,1,1,1,1
+2009-08-30,Malaga_Ath Madrid_2009,Ath Madrid,1,1,1,1
+2009-08-30,Osasuna_Villarreal_2009,Villarreal,1,1,1,1
+2009-08-30,Malaga_Ath Madrid_2009,Malaga,1,1,1,1
+2009-08-30,Mallorca_Xerez_2009,Mallorca,1,1,1,1
+2009-08-30,Santander_Getafe_2009,Santander,1,1,1,1
+2009-08-31,Barcelona_Sp Gijon_2009,Sp Gijon,1,1,1,1
+2009-08-31,Barcelona_Sp Gijon_2009,Barcelona,1,1,1,1
+2009-09-12,Getafe_Barcelona_2009,Barcelona,1,1,2,3
+2009-09-12,Sevilla_Zaragoza_2009,Sevilla,1,1,2,3
+2009-09-12,Ath Madrid_Santander_2009,Ath Madrid,1,1,2,3
+2009-09-12,Espanol_Real Madrid_2009,Espanol,1,1,2,3
+2009-09-12,Ath Madrid_Santander_2009,Santander,1,1,2,3
+2009-09-12,Espanol_Real Madrid_2009,Real Madrid,1,1,2,3
+2009-09-12,Getafe_Barcelona_2009,Getafe,1,1,2,3
+2009-09-12,Sevilla_Zaragoza_2009,Zaragoza,1,1,2,3
+2009-09-13,Valladolid_Valencia_2009,Valladolid,1,1,2,3
+2009-09-13,Xerez_Ath Bilbao_2009,Ath Bilbao,1,1,2,3
+2009-09-13,Villarreal_Mallorca_2009,Villarreal,1,1,2,3
+2009-09-13,La Coruna_Malaga_2009,La Coruna,1,1,2,3
+2009-09-13,Sp Gijon_Almeria_2009,Sp Gijon,1,1,2,3
+2009-09-13,Xerez_Ath Bilbao_2009,Xerez,1,1,2,3
+2009-09-13,Tenerife_Osasuna_2009,Tenerife,1,1,2,3
+2009-09-13,La Coruna_Malaga_2009,Malaga,1,1,2,3
+2009-09-13,Tenerife_Osasuna_2009,Osasuna,1,1,2,3
+2009-09-13,Villarreal_Mallorca_2009,Mallorca,1,1,2,3
+2009-09-13,Sp Gijon_Almeria_2009,Almeria,1,1,2,3
+2009-09-13,Valladolid_Valencia_2009,Valencia,1,1,2,3
+2009-09-19,Mallorca_Tenerife_2009,Mallorca,2,1,3,4
+2009-09-19,Osasuna_Sevilla_2009,Osasuna,2,1,3,4
+2009-09-19,Mallorca_Tenerife_2009,Tenerife,1,2,3,4
+2009-09-19,Osasuna_Sevilla_2009,Sevilla,1,2,3,4
+2009-09-19,La Coruna_Espanol_2009,Espanol,1,2,3,4
+2009-09-19,Malaga_Santander_2009,Malaga,2,1,3,4
+2009-09-19,Barcelona_Ath Madrid_2009,Ath Madrid,1,2,3,4
+2009-09-19,Barcelona_Ath Madrid_2009,Barcelona,2,1,3,4
+2009-09-19,La Coruna_Espanol_2009,La Coruna,2,1,3,4
+2009-09-19,Malaga_Santander_2009,Santander,1,2,3,4
+2009-09-20,Zaragoza_Valladolid_2009,Zaragoza,2,1,3,4
+2009-09-20,Ath Bilbao_Villarreal_2009,Villarreal,1,2,3,4
+2009-09-20,Almeria_Getafe_2009,Almeria,2,1,3,4
+2009-09-20,Real Madrid_Xerez_2009,Xerez,1,2,3,4
+2009-09-20,Real Madrid_Xerez_2009,Real Madrid,2,1,3,4
+2009-09-20,Almeria_Getafe_2009,Getafe,1,2,3,4
+2009-09-20,Zaragoza_Valladolid_2009,Valladolid,1,2,3,4
+2009-09-20,Ath Bilbao_Villarreal_2009,Ath Bilbao,2,1,3,4
+2009-09-20,Valencia_Sp Gijon_2009,Sp Gijon,1,2,3,4
+2009-09-20,Valencia_Sp Gijon_2009,Valencia,2,1,3,4
+2009-09-22,Sevilla_Mallorca_2009,Sevilla,2,2,4,5
+2009-09-22,Santander_Barcelona_2009,Santander,2,2,4,5
+2009-09-22,Santander_Barcelona_2009,Barcelona,2,2,4,5
+2009-09-22,Sevilla_Mallorca_2009,Mallorca,2,2,4,5
+2009-09-23,Getafe_Valencia_2009,Valencia,2,2,4,5
+2009-09-23,Villarreal_Real Madrid_2009,Villarreal,2,2,4,5
+2009-09-23,Espanol_Malaga_2009,Malaga,2,2,4,5
+2009-09-23,Xerez_La Coruna_2009,La Coruna,2,2,4,5
+2009-09-23,Getafe_Valencia_2009,Getafe,2,2,4,5
+2009-09-23,Valladolid_Osasuna_2009,Valladolid,2,2,4,5
+2009-09-23,Valladolid_Osasuna_2009,Osasuna,2,2,4,5
+2009-09-23,Ath Madrid_Almeria_2009,Almeria,2,2,4,5
+2009-09-23,Tenerife_Ath Bilbao_2009,Tenerife,2,2,4,5
+2009-09-23,Tenerife_Ath Bilbao_2009,Ath Bilbao,2,2,4,5
+2009-09-23,Xerez_La Coruna_2009,Xerez,2,2,4,5
+2009-09-23,Espanol_Malaga_2009,Espanol,2,2,4,5
+2009-09-23,Ath Madrid_Almeria_2009,Ath Madrid,2,2,4,5
+2009-09-23,Villarreal_Real Madrid_2009,Real Madrid,2,2,4,5
+2009-09-24,Sp Gijon_Zaragoza_2009,Sp Gijon,2,2,4,5
+2009-09-24,Sp Gijon_Zaragoza_2009,Zaragoza,2,2,4,5
+2009-09-26,Real Madrid_Tenerife_2009,Tenerife,2,3,5,5
+2009-09-26,Ath Bilbao_Sevilla_2009,Sevilla,2,3,5,5
+2009-09-26,Real Madrid_Tenerife_2009,Real Madrid,3,2,5,5
+2009-09-26,Valencia_Ath Madrid_2009,Valencia,3,2,5,5
+2009-09-26,Malaga_Barcelona_2009,Malaga,3,2,5,5
+2009-09-26,Ath Bilbao_Sevilla_2009,Ath Bilbao,3,2,5,5
+2009-09-26,Malaga_Barcelona_2009,Barcelona,2,3,5,5
+2009-09-26,Valencia_Ath Madrid_2009,Ath Madrid,2,3,5,5
+2009-09-27,La Coruna_Villarreal_2009,La Coruna,3,2,5,5
+2009-09-27,Almeria_Santander_2009,Almeria,3,2,5,5
+2009-09-27,Almeria_Santander_2009,Santander,2,3,5,5
+2009-09-27,Osasuna_Sp Gijon_2009,Osasuna,3,2,5,5
+2009-09-27,Zaragoza_Getafe_2009,Getafe,2,3,5,5
+2009-09-27,La Coruna_Villarreal_2009,Villarreal,2,3,5,5
+2009-09-27,Osasuna_Sp Gijon_2009,Sp Gijon,2,3,5,5
+2009-09-27,Espanol_Xerez_2009,Xerez,2,3,5,5
+2009-09-27,Mallorca_Valladolid_2009,Mallorca,3,2,5,5
+2009-09-27,Zaragoza_Getafe_2009,Zaragoza,3,2,5,5
+2009-09-27,Mallorca_Valladolid_2009,Valladolid,2,3,5,5
+2009-09-27,Espanol_Xerez_2009,Espanol,3,2,5,5
+2009-10-03,Barcelona_Almeria_2009,Barcelona,3,3,6,6
+2009-10-03,Barcelona_Almeria_2009,Almeria,3,3,6,6
+2009-10-03,Tenerife_La Coruna_2009,Tenerife,3,3,6,6
+2009-10-03,Tenerife_La Coruna_2009,La Coruna,3,3,6,6
+2009-10-03,Ath Madrid_Zaragoza_2009,Ath Madrid,3,3,6,6
+2009-10-03,Ath Madrid_Zaragoza_2009,Zaragoza,3,3,6,6
+2009-10-04,Sp Gijon_Mallorca_2009,Mallorca,3,3,6,6
+2009-10-04,Santander_Valencia_2009,Santander,3,3,6,6
+2009-10-04,Villarreal_Espanol_2009,Villarreal,3,3,6,6
+2009-10-04,Valladolid_Ath Bilbao_2009,Valladolid,3,3,6,6
+2009-10-04,Xerez_Malaga_2009,Xerez,3,3,6,6
+2009-10-04,Villarreal_Espanol_2009,Espanol,3,3,6,6
+2009-10-04,Getafe_Osasuna_2009,Osasuna,3,3,6,6
+2009-10-04,Xerez_Malaga_2009,Malaga,3,3,6,6
+2009-10-04,Sevilla_Real Madrid_2009,Real Madrid,3,3,6,6
+2009-10-04,Sp Gijon_Mallorca_2009,Sp Gijon,3,3,6,6
+2009-10-04,Santander_Valencia_2009,Valencia,3,3,6,6
+2009-10-04,Getafe_Osasuna_2009,Getafe,3,3,6,6
+2009-10-04,Valladolid_Ath Bilbao_2009,Ath Bilbao,3,3,6,6
+2009-10-04,Sevilla_Real Madrid_2009,Sevilla,3,3,6,6
+2009-10-17,La Coruna_Sevilla_2009,La Coruna,4,3,7,8
+2009-10-17,Real Madrid_Valladolid_2009,Valladolid,3,4,7,8
+2009-10-17,Valencia_Barcelona_2009,Valencia,4,3,7,8
+2009-10-17,Valencia_Barcelona_2009,Barcelona,3,4,7,8
+2009-10-17,Real Madrid_Valladolid_2009,Real Madrid,4,3,7,8
+2009-10-17,La Coruna_Sevilla_2009,Sevilla,3,4,7,8
+2009-10-18,Osasuna_Ath Madrid_2009,Ath Madrid,3,4,7,8
+2009-10-18,Malaga_Almeria_2009,Almeria,3,4,7,8
+2009-10-18,Espanol_Tenerife_2009,Espanol,4,3,7,8
+2009-10-18,Malaga_Almeria_2009,Malaga,4,3,7,8
+2009-10-18,Mallorca_Getafe_2009,Getafe,3,4,7,8
+2009-10-18,Zaragoza_Santander_2009,Santander,3,4,7,8
+2009-10-18,Xerez_Villarreal_2009,Villarreal,3,4,7,8
+2009-10-18,Ath Bilbao_Sp Gijon_2009,Sp Gijon,3,4,7,8
+2009-10-18,Ath Bilbao_Sp Gijon_2009,Ath Bilbao,4,3,7,8
+2009-10-18,Mallorca_Getafe_2009,Mallorca,4,3,7,8
+2009-10-18,Osasuna_Ath Madrid_2009,Osasuna,4,3,7,8
+2009-10-18,Xerez_Villarreal_2009,Xerez,4,3,7,8
+2009-10-18,Espanol_Tenerife_2009,Tenerife,3,4,7,8
+2009-10-18,Zaragoza_Santander_2009,Zaragoza,4,3,7,8
+2009-10-24,Sp Gijon_Real Madrid_2009,Real Madrid,4,4,8,9
+2009-10-24,Ath Madrid_Mallorca_2009,Mallorca,4,4,8,9
+2009-10-24,Sevilla_Espanol_2009,Sevilla,4,4,8,9
+2009-10-24,Sevilla_Espanol_2009,Espanol,4,4,8,9
+2009-10-24,Ath Madrid_Mallorca_2009,Ath Madrid,4,4,8,9
+2009-10-24,Sp Gijon_Real Madrid_2009,Sp Gijon,4,4,8,9
+2009-10-25,Santander_Osasuna_2009,Osasuna,4,4,8,9
+2009-10-25,Barcelona_Zaragoza_2009,Zaragoza,4,4,8,9
+2009-10-25,Almeria_Valencia_2009,Valencia,4,4,8,9
+2009-10-25,Tenerife_Xerez_2009,Xerez,4,4,8,9
+2009-10-25,Villarreal_Malaga_2009,Malaga,4,4,8,9
+2009-10-25,Valladolid_La Coruna_2009,La Coruna,4,4,8,9
+2009-10-25,Almeria_Valencia_2009,Almeria,4,4,8,9
+2009-10-25,Barcelona_Zaragoza_2009,Barcelona,4,4,8,9
+2009-10-25,Valladolid_La Coruna_2009,Valladolid,4,4,8,9
+2009-10-25,Santander_Osasuna_2009,Santander,4,4,8,9
+2009-10-25,Getafe_Ath Bilbao_2009,Ath Bilbao,4,4,8,9
+2009-10-25,Villarreal_Malaga_2009,Villarreal,4,4,8,9
+2009-10-25,Getafe_Ath Bilbao_2009,Getafe,4,4,8,9
+2009-10-25,Tenerife_Xerez_2009,Tenerife,4,4,8,9
+2009-10-31,Osasuna_Barcelona_2009,Barcelona,4,5,9,10
+2009-10-31,Xerez_Sevilla_2009,Xerez,5,4,9,10
+2009-10-31,Ath Bilbao_Ath Madrid_2009,Ath Madrid,4,5,9,10
+2009-10-31,Osasuna_Barcelona_2009,Osasuna,5,4,9,10
+2009-10-31,Xerez_Sevilla_2009,Sevilla,4,5,9,10
+2009-10-31,Ath Bilbao_Ath Madrid_2009,Ath Bilbao,5,4,9,10
+2009-10-31,Real Madrid_Getafe_2009,Getafe,4,5,9,10
+2009-10-31,Real Madrid_Getafe_2009,Real Madrid,5,4,9,10
+2009-11-01,Zaragoza_Almeria_2009,Zaragoza,5,4,9,10
+2009-11-01,Villarreal_Tenerife_2009,Tenerife,4,5,9,10
+2009-11-01,Villarreal_Tenerife_2009,Villarreal,5,4,9,10
+2009-11-01,Malaga_Valencia_2009,Malaga,5,4,9,10
+2009-11-01,Mallorca_Santander_2009,Mallorca,5,4,9,10
+2009-11-01,Malaga_Valencia_2009,Valencia,4,5,9,10
+2009-11-01,La Coruna_Sp Gijon_2009,Sp Gijon,4,5,9,10
+2009-11-01,La Coruna_Sp Gijon_2009,La Coruna,5,4,9,10
+2009-11-01,Zaragoza_Almeria_2009,Almeria,4,5,9,10
+2009-11-01,Espanol_Valladolid_2009,Valladolid,4,5,9,10
+2009-11-01,Mallorca_Santander_2009,Santander,4,5,9,10
+2009-11-01,Espanol_Valladolid_2009,Espanol,5,4,9,10
+2009-11-07,Ath Madrid_Real Madrid_2009,Ath Madrid,5,5,10,11
+2009-11-07,Ath Madrid_Real Madrid_2009,Real Madrid,5,5,10,11
+2009-11-07,Getafe_La Coruna_2009,Getafe,5,5,10,11
+2009-11-07,Barcelona_Mallorca_2009,Barcelona,5,5,10,11
+2009-11-07,Tenerife_Malaga_2009,Tenerife,5,5,10,11
+2009-11-07,Barcelona_Mallorca_2009,Mallorca,5,5,10,11
+2009-11-07,Getafe_La Coruna_2009,La Coruna,5,5,10,11
+2009-11-07,Tenerife_Malaga_2009,Malaga,5,5,10,11
+2009-11-08,Santander_Ath Bilbao_2009,Ath Bilbao,5,5,10,11
+2009-11-08,Sp Gijon_Espanol_2009,Sp Gijon,5,5,10,11
+2009-11-08,Almeria_Osasuna_2009,Osasuna,5,5,10,11
+2009-11-08,Santander_Ath Bilbao_2009,Santander,5,5,10,11
+2009-11-08,Sevilla_Villarreal_2009,Villarreal,5,5,10,11
+2009-11-08,Sp Gijon_Espanol_2009,Espanol,5,5,10,11
+2009-11-08,Valencia_Zaragoza_2009,Valencia,5,5,10,11
+2009-11-08,Sevilla_Villarreal_2009,Sevilla,5,5,10,11
+2009-11-08,Valladolid_Xerez_2009,Valladolid,5,5,10,11
+2009-11-08,Valladolid_Xerez_2009,Xerez,5,5,10,11
+2009-11-08,Almeria_Osasuna_2009,Almeria,5,5,10,11
+2009-11-08,Valencia_Zaragoza_2009,Zaragoza,5,5,10,11
+2009-11-21,Ath Bilbao_Barcelona_2009,Barcelona,5,6,11,13
+2009-11-21,La Coruna_Ath Madrid_2009,Ath Madrid,5,6,11,13
+2009-11-21,Tenerife_Sevilla_2009,Sevilla,5,6,11,13
+2009-11-21,Real Madrid_Santander_2009,Real Madrid,6,5,11,13
+2009-11-21,Real Madrid_Santander_2009,Santander,5,6,11,13
+2009-11-21,Ath Bilbao_Barcelona_2009,Ath Bilbao,6,5,11,13
+2009-11-21,Tenerife_Sevilla_2009,Tenerife,6,5,11,13
+2009-11-21,La Coruna_Ath Madrid_2009,La Coruna,6,5,11,13
+2009-11-22,Xerez_Sp Gijon_2009,Xerez,6,5,11,13
+2009-11-22,Osasuna_Valencia_2009,Osasuna,6,5,11,13
+2009-11-22,Malaga_Zaragoza_2009,Zaragoza,5,6,11,13
+2009-11-22,Mallorca_Almeria_2009,Almeria,5,6,11,13
+2009-11-22,Villarreal_Valladolid_2009,Villarreal,6,5,11,13
+2009-11-22,Mallorca_Almeria_2009,Mallorca,6,5,11,13
+2009-11-22,Espanol_Getafe_2009,Getafe,5,6,11,13
+2009-11-22,Espanol_Getafe_2009,Espanol,6,5,11,13
+2009-11-22,Xerez_Sp Gijon_2009,Sp Gijon,5,6,11,13
+2009-11-22,Villarreal_Valladolid_2009,Valladolid,5,6,11,13
+2009-11-22,Osasuna_Valencia_2009,Valencia,5,6,11,13
+2009-11-22,Malaga_Zaragoza_2009,Malaga,6,5,11,13
+2009-11-28,Sp Gijon_Villarreal_2009,Villarreal,6,6,12,14
+2009-11-28,Valencia_Mallorca_2009,Mallorca,6,6,12,14
+2009-11-28,Sevilla_Malaga_2009,Sevilla,6,6,12,14
+2009-11-28,Sevilla_Malaga_2009,Malaga,6,6,12,14
+2009-11-28,Sp Gijon_Villarreal_2009,Sp Gijon,6,6,12,14
+2009-11-28,Valencia_Mallorca_2009,Valencia,6,6,12,14
+2009-11-29,Ath Madrid_Espanol_2009,Ath Madrid,6,6,12,14
+2009-11-29,Zaragoza_Osasuna_2009,Osasuna,6,6,12,14
+2009-11-29,Zaragoza_Osasuna_2009,Zaragoza,6,6,12,14
+2009-11-29,Valladolid_Tenerife_2009,Valladolid,6,6,12,14
+2009-11-29,Almeria_Ath Bilbao_2009,Almeria,6,6,12,14
+2009-11-29,Barcelona_Real Madrid_2009,Barcelona,6,6,12,14
+2009-11-29,Getafe_Xerez_2009,Getafe,6,6,12,14
+2009-11-29,Santander_La Coruna_2009,La Coruna,6,6,12,14
+2009-11-29,Barcelona_Real Madrid_2009,Real Madrid,6,6,12,14
+2009-11-29,Getafe_Xerez_2009,Xerez,6,6,12,14
+2009-11-29,Santander_La Coruna_2009,Santander,6,6,12,14
+2009-11-29,Almeria_Ath Bilbao_2009,Ath Bilbao,6,6,12,14
+2009-11-29,Ath Madrid_Espanol_2009,Espanol,6,6,12,14
+2009-11-29,Valladolid_Tenerife_2009,Tenerife,6,6,12,14
+2009-12-02,Xerez_Barcelona_2009,Xerez,7,6,13,15
+2009-12-02,Xerez_Barcelona_2009,Barcelona,6,7,13,15
+2009-12-05,Xerez_Ath Madrid_2009,Xerez,8,6,14,15
+2009-12-05,Real Madrid_Almeria_2009,Almeria,6,7,13,15
+2009-12-05,Xerez_Ath Madrid_2009,Ath Madrid,6,7,13,15
+2009-12-05,La Coruna_Barcelona_2009,Barcelona,6,8,14,15
+2009-12-05,Real Madrid_Almeria_2009,Real Madrid,7,6,13,15
+2009-12-05,La Coruna_Barcelona_2009,La Coruna,7,6,13,15
+2009-12-05,Sevilla_Valladolid_2009,Sevilla,7,6,13,15
+2009-12-05,Sevilla_Valladolid_2009,Valladolid,6,7,13,15
+2009-12-06,Mallorca_Zaragoza_2009,Zaragoza,6,7,13,15
+2009-12-06,Malaga_Osasuna_2009,Osasuna,6,7,13,15
+2009-12-06,Espanol_Santander_2009,Espanol,7,6,13,15
+2009-12-06,Villarreal_Getafe_2009,Villarreal,7,6,13,15
+2009-12-06,Tenerife_Sp Gijon_2009,Tenerife,7,6,13,15
+2009-12-06,Mallorca_Zaragoza_2009,Mallorca,7,6,13,15
+2009-12-06,Espanol_Santander_2009,Santander,6,7,13,15
+2009-12-06,Malaga_Osasuna_2009,Malaga,7,6,13,15
+2009-12-06,Tenerife_Sp Gijon_2009,Sp Gijon,6,7,13,15
+2009-12-06,Villarreal_Getafe_2009,Getafe,6,7,13,15
+2009-12-06,Ath Bilbao_Valencia_2009,Valencia,6,7,13,15
+2009-12-06,Ath Bilbao_Valencia_2009,Ath Bilbao,7,6,13,15
+2009-12-12,Barcelona_Espanol_2009,Espanol,7,7,14,16
+2009-12-12,Zaragoza_Ath Bilbao_2009,Ath Bilbao,7,7,14,16
+2009-12-12,Zaragoza_Ath Bilbao_2009,Zaragoza,7,7,14,16
+2009-12-12,Barcelona_Espanol_2009,Barcelona,7,8,15,16
+2009-12-12,Valencia_Real Madrid_2009,Real Madrid,7,7,14,16
+2009-12-12,Valencia_Real Madrid_2009,Valencia,7,7,14,16
+2009-12-13,Santander_Xerez_2009,Xerez,8,7,15,16
+2009-12-13,Sp Gijon_Sevilla_2009,Sevilla,7,7,14,16
+2009-12-13,Almeria_La Coruna_2009,La Coruna,7,7,14,16
+2009-12-13,Getafe_Tenerife_2009,Getafe,7,7,14,16
+2009-12-13,Getafe_Tenerife_2009,Tenerife,7,7,14,16
+2009-12-13,Valladolid_Malaga_2009,Malaga,7,7,14,16
+2009-12-13,Ath Madrid_Villarreal_2009,Ath Madrid,7,7,14,16
+2009-12-13,Santander_Xerez_2009,Santander,7,7,14,16
+2009-12-13,Almeria_La Coruna_2009,Almeria,7,7,14,16
+2009-12-13,Valladolid_Malaga_2009,Valladolid,7,7,14,16
+2009-12-13,Sp Gijon_Sevilla_2009,Sp Gijon,7,7,14,16
+2009-12-13,Ath Madrid_Villarreal_2009,Villarreal,7,7,14,16
+2009-12-13,Osasuna_Mallorca_2009,Mallorca,7,7,14,16
+2009-12-13,Osasuna_Mallorca_2009,Osasuna,7,7,14,16
+2009-12-19,Sevilla_Getafe_2009,Getafe,7,8,15,17
+2009-12-19,Sevilla_Getafe_2009,Sevilla,8,7,15,17
+2009-12-19,Real Madrid_Zaragoza_2009,Zaragoza,7,8,15,17
+2009-12-19,Real Madrid_Zaragoza_2009,Real Madrid,8,7,15,17
+2009-12-19,Ath Bilbao_Osasuna_2009,Ath Bilbao,8,7,15,17
+2009-12-19,Ath Bilbao_Osasuna_2009,Osasuna,7,8,15,17
+2009-12-20,La Coruna_Valencia_2009,Valencia,7,8,15,17
+2009-12-20,Valladolid_Sp Gijon_2009,Valladolid,8,7,15,17
+2009-12-20,Malaga_Mallorca_2009,Mallorca,7,8,15,17
+2009-12-20,Tenerife_Ath Madrid_2009,Ath Madrid,7,8,15,17
+2009-12-20,Villarreal_Santander_2009,Santander,7,8,15,17
+2009-12-20,Malaga_Mallorca_2009,Malaga,8,7,15,17
+2009-12-20,Valladolid_Sp Gijon_2009,Sp Gijon,7,8,15,17
+2009-12-20,Tenerife_Ath Madrid_2009,Tenerife,8,7,15,17
+2009-12-20,La Coruna_Valencia_2009,La Coruna,8,7,15,17
+2009-12-20,Espanol_Almeria_2009,Almeria,7,8,15,17
+2009-12-20,Villarreal_Santander_2009,Villarreal,8,7,15,17
+2009-12-20,Espanol_Almeria_2009,Espanol,8,7,15,17
+2010-01-02,Ath Madrid_Sevilla_2009,Sevilla,8,8,16,19
+2010-01-02,Barcelona_Villarreal_2009,Villarreal,8,8,16,19
+2010-01-02,Valencia_Espanol_2009,Espanol,8,8,16,19
+2010-01-02,Valencia_Espanol_2009,Valencia,8,8,16,19
+2010-01-02,Barcelona_Villarreal_2009,Barcelona,8,8,16,19
+2010-01-02,Ath Madrid_Sevilla_2009,Ath Madrid,8,8,16,19
+2010-01-03,Zaragoza_La Coruna_2009,Zaragoza,8,8,16,19
+2010-01-03,Sp Gijon_Malaga_2009,Malaga,8,8,16,19
+2010-01-03,Santander_Tenerife_2009,Santander,8,8,16,19
+2010-01-03,Santander_Tenerife_2009,Tenerife,8,8,16,19
+2010-01-03,Almeria_Xerez_2009,Almeria,8,8,16,19
+2010-01-03,Mallorca_Ath Bilbao_2009,Ath Bilbao,8,8,16,19
+2010-01-03,Osasuna_Real Madrid_2009,Real Madrid,8,8,16,19
+2010-01-03,Osasuna_Real Madrid_2009,Osasuna,8,8,16,19
+2010-01-03,Mallorca_Ath Bilbao_2009,Mallorca,8,8,16,19
+2010-01-03,Zaragoza_La Coruna_2009,La Coruna,8,8,16,19
+2010-01-03,Getafe_Valladolid_2009,Getafe,8,8,16,19
+2010-01-03,Getafe_Valladolid_2009,Valladolid,8,8,16,19
+2010-01-03,Sp Gijon_Malaga_2009,Sp Gijon,8,8,16,19
+2010-01-03,Almeria_Xerez_2009,Xerez,8,8,16,19
+2010-01-09,Sevilla_Santander_2009,Sevilla,9,8,17,20
+2010-01-09,Villarreal_Almeria_2009,Villarreal,9,8,17,20
+2010-01-09,Valladolid_Ath Madrid_2009,Valladolid,9,8,17,20
+2010-01-09,Valladolid_Ath Madrid_2009,Ath Madrid,8,9,17,20
+2010-01-09,Villarreal_Almeria_2009,Almeria,8,9,17,20
+2010-01-09,Sevilla_Santander_2009,Santander,8,9,17,20
+2010-01-10,Sp Gijon_Getafe_2009,Getafe,8,9,17,20
+2010-01-10,Malaga_Ath Bilbao_2009,Ath Bilbao,8,9,17,20
+2010-01-10,Malaga_Ath Bilbao_2009,Malaga,9,8,17,20
+2010-01-10,Espanol_Zaragoza_2009,Espanol,9,8,17,20
+2010-01-10,Tenerife_Barcelona_2009,Barcelona,8,9,17,20
+2010-01-10,Real Madrid_Mallorca_2009,Real Madrid,9,8,17,20
+2010-01-10,Tenerife_Barcelona_2009,Tenerife,9,8,17,20
+2010-01-10,Xerez_Valencia_2009,Valencia,8,9,17,20
+2010-01-10,La Coruna_Osasuna_2009,Osasuna,8,9,17,20
+2010-01-10,Sp Gijon_Getafe_2009,Sp Gijon,9,8,17,20
+2010-01-10,La Coruna_Osasuna_2009,La Coruna,9,8,17,20
+2010-01-10,Real Madrid_Mallorca_2009,Mallorca,8,9,17,20
+2010-01-10,Xerez_Valencia_2009,Xerez,9,8,17,20
+2010-01-10,Espanol_Zaragoza_2009,Zaragoza,8,9,17,20
+2010-01-16,Ath Bilbao_Real Madrid_2009,Ath Bilbao,9,9,18,21
+2010-01-16,Barcelona_Sevilla_2009,Barcelona,9,9,18,21
+2010-01-16,Barcelona_Sevilla_2009,Sevilla,9,9,18,21
+2010-01-16,Osasuna_Espanol_2009,Espanol,9,9,18,21
+2010-01-16,Osasuna_Espanol_2009,Osasuna,9,9,18,21
+2010-01-16,Ath Bilbao_Real Madrid_2009,Real Madrid,9,9,18,21
+2010-01-17,Ath Madrid_Sp Gijon_2009,Ath Madrid,9,9,18,21
+2010-01-17,Valencia_Villarreal_2009,Valencia,9,9,18,21
+2010-01-17,Zaragoza_Xerez_2009,Xerez,9,9,18,21
+2010-01-17,Mallorca_La Coruna_2009,La Coruna,9,9,18,21
+2010-01-17,Santander_Valladolid_2009,Santander,9,9,18,21
+2010-01-17,Almeria_Tenerife_2009,Tenerife,9,9,18,21
+2010-01-17,Almeria_Tenerife_2009,Almeria,9,9,18,21
+2010-01-17,Valencia_Villarreal_2009,Villarreal,9,9,18,21
+2010-01-17,Santander_Valladolid_2009,Valladolid,9,9,18,21
+2010-01-17,Malaga_Getafe_2009,Getafe,8,10,18,21
+2010-01-17,Malaga_Getafe_2009,Malaga,10,8,18,21
+2010-01-17,Ath Madrid_Sp Gijon_2009,Sp Gijon,9,9,18,21
+2010-01-17,Mallorca_La Coruna_2009,Mallorca,9,9,18,21
+2010-01-17,Zaragoza_Xerez_2009,Zaragoza,9,9,18,21
+2010-01-23,La Coruna_Ath Bilbao_2009,Ath Bilbao,9,10,19,22
+2010-01-23,Sevilla_Almeria_2009,Almeria,9,10,19,22
+2010-01-23,Valladolid_Barcelona_2009,Barcelona,9,10,19,22
+2010-01-23,Valladolid_Barcelona_2009,Valladolid,10,9,19,22
+2010-01-23,La Coruna_Ath Bilbao_2009,La Coruna,10,9,19,22
+2010-01-23,Sevilla_Almeria_2009,Sevilla,10,9,19,22
+2010-01-24,Getafe_Ath Madrid_2009,Getafe,9,10,19,22
+2010-01-24,Villarreal_Zaragoza_2009,Villarreal,10,9,19,22
+2010-01-24,Real Madrid_Malaga_2009,Malaga,10,9,19,22
+2010-01-24,Sp Gijon_Santander_2009,Santander,9,10,19,22
+2010-01-24,Getafe_Ath Madrid_2009,Ath Madrid,9,10,19,22
+2010-01-24,Tenerife_Valencia_2009,Valencia,9,10,19,22
+2010-01-24,Espanol_Mallorca_2009,Mallorca,9,10,19,22
+2010-01-24,Xerez_Osasuna_2009,Osasuna,9,10,19,22
+2010-01-24,Tenerife_Valencia_2009,Tenerife,10,9,19,22
+2010-01-24,Sp Gijon_Santander_2009,Sp Gijon,10,9,19,22
+2010-01-24,Real Madrid_Malaga_2009,Real Madrid,10,9,19,22
+2010-01-24,Espanol_Mallorca_2009,Espanol,10,9,19,22
+2010-01-24,Villarreal_Zaragoza_2009,Zaragoza,9,10,19,22
+2010-01-24,Xerez_Osasuna_2009,Xerez,10,9,19,22
+2010-01-30,Sp Gijon_Barcelona_2009,Sp Gijon,11,9,20,23
+2010-01-30,La Coruna_Real Madrid_2009,Real Madrid,10,10,20,23
+2010-01-30,Espanol_Ath Bilbao_2009,Espanol,11,9,20,23
+2010-01-30,La Coruna_Real Madrid_2009,La Coruna,11,9,20,23
+2010-01-30,Espanol_Ath Bilbao_2009,Ath Bilbao,9,11,20,23
+2010-01-30,Sp Gijon_Barcelona_2009,Barcelona,9,11,20,23
+2010-01-31,Tenerife_Zaragoza_2009,Zaragoza,9,11,20,23
+2010-01-31,Sevilla_Valencia_2009,Valencia,9,11,20,23
+2010-01-31,Valladolid_Almeria_2009,Valladolid,11,9,20,23
+2010-01-31,Ath Madrid_Malaga_2009,Ath Madrid,10,10,20,23
+2010-01-31,Getafe_Santander_2009,Santander,9,11,20,23
+2010-01-31,Ath Madrid_Malaga_2009,Malaga,10,10,20,23
+2010-01-31,Villarreal_Osasuna_2009,Villarreal,11,9,20,23
+2010-01-31,Getafe_Santander_2009,Getafe,10,10,20,23
+2010-01-31,Xerez_Mallorca_2009,Xerez,11,9,20,23
+2010-01-31,Valladolid_Almeria_2009,Almeria,9,11,20,23
+2010-01-31,Tenerife_Zaragoza_2009,Tenerife,11,9,20,23
+2010-01-31,Sevilla_Valencia_2009,Sevilla,11,9,20,23
+2010-01-31,Villarreal_Osasuna_2009,Osasuna,9,11,20,23
+2010-01-31,Xerez_Mallorca_2009,Mallorca,9,11,20,23
+2010-02-06,Valencia_Valladolid_2009,Valladolid,11,10,21,24
+2010-02-06,Real Madrid_Espanol_2009,Real Madrid,11,10,21,24
+2010-02-06,Real Madrid_Espanol_2009,Espanol,11,10,21,24
+2010-02-06,Barcelona_Getafe_2009,Getafe,10,11,21,24
+2010-02-06,Barcelona_Getafe_2009,Barcelona,10,11,21,24
+2010-02-06,Valencia_Valladolid_2009,Valencia,10,11,21,24
+2010-02-07,Zaragoza_Sevilla_2009,Zaragoza,10,11,21,24
+2010-02-07,Almeria_Sp Gijon_2009,Sp Gijon,11,10,21,24
+2010-02-07,Mallorca_Villarreal_2009,Mallorca,10,11,21,24
+2010-02-07,Mallorca_Villarreal_2009,Villarreal,11,10,21,24
+2010-02-07,Zaragoza_Sevilla_2009,Sevilla,11,10,21,24
+2010-02-07,Almeria_Sp Gijon_2009,Almeria,10,11,21,24
+2010-02-07,Malaga_La Coruna_2009,La Coruna,11,10,21,24
+2010-02-07,Santander_Ath Madrid_2009,Santander,10,11,21,24
+2010-02-07,Osasuna_Tenerife_2009,Tenerife,11,10,21,24
+2010-02-07,Osasuna_Tenerife_2009,Osasuna,10,11,21,24
+2010-02-07,Santander_Ath Madrid_2009,Ath Madrid,10,11,21,24
+2010-02-07,Ath Bilbao_Xerez_2009,Ath Bilbao,10,11,21,24
+2010-02-07,Malaga_La Coruna_2009,Malaga,11,10,21,24
+2010-02-07,Ath Bilbao_Xerez_2009,Xerez,11,10,21,24
+2010-02-13,Xerez_Real Madrid_2009,Xerez,12,10,22,25
+2010-02-13,Xerez_Real Madrid_2009,Real Madrid,11,11,22,25
+2010-02-13,Villarreal_Ath Bilbao_2009,Ath Bilbao,10,12,22,25
+2010-02-13,Villarreal_Ath Bilbao_2009,Villarreal,12,10,22,25
+2010-02-13,Sp Gijon_Valencia_2009,Valencia,10,12,22,25
+2010-02-13,Sp Gijon_Valencia_2009,Sp Gijon,12,10,22,25
+2010-02-14,Sevilla_Osasuna_2009,Sevilla,12,10,22,25
+2010-02-14,Espanol_La Coruna_2009,Espanol,12,10,22,25
+2010-02-14,Santander_Malaga_2009,Malaga,11,11,22,25
+2010-02-14,Valladolid_Zaragoza_2009,Zaragoza,10,12,22,25
+2010-02-14,Getafe_Almeria_2009,Almeria,10,12,22,25
+2010-02-14,Santander_Malaga_2009,Santander,11,11,22,25
+2010-02-14,Ath Madrid_Barcelona_2009,Ath Madrid,11,11,22,25
+2010-02-14,Sevilla_Osasuna_2009,Osasuna,10,12,22,25
+2010-02-14,Valladolid_Zaragoza_2009,Valladolid,12,10,22,25
+2010-02-14,Ath Madrid_Barcelona_2009,Barcelona,10,12,22,25
+2010-02-14,Espanol_La Coruna_2009,La Coruna,11,11,22,25
+2010-02-14,Getafe_Almeria_2009,Getafe,11,11,22,25
+2010-02-15,Tenerife_Mallorca_2009,Tenerife,12,10,22,25
+2010-02-15,Tenerife_Mallorca_2009,Mallorca,10,12,22,25
+2010-02-20,Mallorca_Sevilla_2009,Sevilla,12,11,23,26
+2010-02-20,La Coruna_Xerez_2009,Xerez,12,11,23,26
+2010-02-20,Barcelona_Santander_2009,Santander,11,12,23,26
+2010-02-20,La Coruna_Xerez_2009,La Coruna,12,11,23,26
+2010-02-20,Barcelona_Santander_2009,Barcelona,11,12,23,26
+2010-02-20,Mallorca_Sevilla_2009,Mallorca,11,12,23,26
+2010-02-21,Ath Bilbao_Tenerife_2009,Tenerife,12,11,23,26
+2010-02-21,Osasuna_Valladolid_2009,Osasuna,11,12,23,26
+2010-02-21,Malaga_Espanol_2009,Malaga,12,11,23,26
+2010-02-21,Zaragoza_Sp Gijon_2009,Sp Gijon,12,11,23,26
+2010-02-21,Ath Bilbao_Tenerife_2009,Ath Bilbao,11,12,23,26
+2010-02-21,Almeria_Ath Madrid_2009,Almeria,11,12,23,26
+2010-02-21,Real Madrid_Villarreal_2009,Real Madrid,12,11,23,26
+2010-02-21,Osasuna_Valladolid_2009,Valladolid,12,11,23,26
+2010-02-21,Zaragoza_Sp Gijon_2009,Zaragoza,11,12,23,26
+2010-02-21,Almeria_Ath Madrid_2009,Ath Madrid,11,12,23,26
+2010-02-21,Malaga_Espanol_2009,Espanol,12,11,23,26
+2010-02-21,Real Madrid_Villarreal_2009,Villarreal,12,11,23,26
+2010-02-22,Valencia_Getafe_2009,Getafe,11,12,23,26
+2010-02-22,Valencia_Getafe_2009,Valencia,11,12,23,26
+2010-02-27,Barcelona_Malaga_2009,Malaga,12,12,24,27
+2010-02-27,Tenerife_Real Madrid_2009,Tenerife,13,11,24,27
+2010-02-27,Tenerife_Real Madrid_2009,Real Madrid,12,12,24,27
+2010-02-27,Getafe_Zaragoza_2009,Zaragoza,11,13,24,27
+2010-02-27,Barcelona_Malaga_2009,Barcelona,12,12,24,27
+2010-02-27,Getafe_Zaragoza_2009,Getafe,12,12,24,27
+2010-02-28,Santander_Almeria_2009,Santander,12,12,24,27
+2010-02-28,Sp Gijon_Osasuna_2009,Osasuna,11,13,24,27
+2010-02-28,Villarreal_La Coruna_2009,La Coruna,12,12,24,27
+2010-02-28,Sevilla_Ath Bilbao_2009,Sevilla,13,11,24,27
+2010-02-28,Sp Gijon_Osasuna_2009,Sp Gijon,13,11,24,27
+2010-02-28,Valladolid_Mallorca_2009,Valladolid,13,11,24,27
+2010-02-28,Xerez_Espanol_2009,Espanol,12,12,24,27
+2010-02-28,Xerez_Espanol_2009,Xerez,13,11,24,27
+2010-02-28,Ath Madrid_Valencia_2009,Ath Madrid,12,12,24,27
+2010-02-28,Sevilla_Ath Bilbao_2009,Ath Bilbao,11,13,24,27
+2010-02-28,Villarreal_La Coruna_2009,Villarreal,13,11,24,27
+2010-02-28,Valladolid_Mallorca_2009,Mallorca,11,13,24,27
+2010-02-28,Ath Madrid_Valencia_2009,Valencia,11,13,24,27
+2010-02-28,Santander_Almeria_2009,Almeria,11,13,24,27
+2010-03-06,La Coruna_Tenerife_2009,Tenerife,13,12,25,28
+2010-03-06,La Coruna_Tenerife_2009,La Coruna,13,12,25,28
+2010-03-06,Real Madrid_Sevilla_2009,Sevilla,13,12,25,28
+2010-03-06,Almeria_Barcelona_2009,Almeria,12,13,25,28
+2010-03-06,Almeria_Barcelona_2009,Barcelona,12,13,25,28
+2010-03-06,Real Madrid_Sevilla_2009,Real Madrid,13,12,25,28
+2010-03-07,Zaragoza_Ath Madrid_2009,Zaragoza,12,13,25,28
+2010-03-07,Mallorca_Sp Gijon_2009,Mallorca,12,13,25,28
+2010-03-07,Malaga_Xerez_2009,Xerez,13,12,25,28
+2010-03-07,Malaga_Xerez_2009,Malaga,13,12,25,28
+2010-03-07,Ath Bilbao_Valladolid_2009,Valladolid,13,12,25,28
+2010-03-07,Espanol_Villarreal_2009,Espanol,13,12,25,28
+2010-03-07,Osasuna_Getafe_2009,Osasuna,12,13,25,28
+2010-03-07,Osasuna_Getafe_2009,Getafe,12,13,25,28
+2010-03-07,Espanol_Villarreal_2009,Villarreal,13,12,25,28
+2010-03-07,Ath Bilbao_Valladolid_2009,Ath Bilbao,12,13,25,28
+2010-03-07,Mallorca_Sp Gijon_2009,Sp Gijon,13,12,25,28
+2010-03-07,Zaragoza_Ath Madrid_2009,Ath Madrid,12,13,25,28
+2010-03-08,Valencia_Santander_2009,Valencia,12,13,25,28
+2010-03-08,Valencia_Santander_2009,Santander,12,13,25,28
+2010-03-13,Sp Gijon_Ath Bilbao_2009,Sp Gijon,14,12,26,29
+2010-03-13,Sp Gijon_Ath Bilbao_2009,Ath Bilbao,12,14,26,29
+2010-03-13,Sevilla_La Coruna_2009,Sevilla,14,12,26,29
+2010-03-13,Getafe_Mallorca_2009,Getafe,13,13,26,29
+2010-03-13,Getafe_Mallorca_2009,Mallorca,12,14,26,29
+2010-03-13,Sevilla_La Coruna_2009,La Coruna,13,13,26,29
+2010-03-14,Tenerife_Espanol_2009,Tenerife,14,12,26,29
+2010-03-14,Almeria_Malaga_2009,Malaga,13,13,26,29
+2010-03-14,Villarreal_Xerez_2009,Xerez,13,13,26,29
+2010-03-14,Almeria_Malaga_2009,Almeria,13,13,26,29
+2010-03-14,Barcelona_Valencia_2009,Valencia,12,14,26,29
+2010-03-14,Valladolid_Real Madrid_2009,Valladolid,14,12,26,29
+2010-03-14,Valladolid_Real Madrid_2009,Real Madrid,13,13,26,29
+2010-03-14,Barcelona_Valencia_2009,Barcelona,13,13,26,29
+2010-03-14,Villarreal_Xerez_2009,Villarreal,14,12,26,29
+2010-03-14,Santander_Zaragoza_2009,Zaragoza,12,14,26,29
+2010-03-14,Santander_Zaragoza_2009,Santander,13,13,26,29
+2010-03-14,Tenerife_Espanol_2009,Espanol,13,13,26,29
+2010-03-15,Ath Madrid_Osasuna_2009,Ath Madrid,13,13,26,29
+2010-03-15,Ath Madrid_Osasuna_2009,Osasuna,12,14,26,29
+2010-03-20,Espanol_Sevilla_2009,Sevilla,14,13,27,30
+2010-03-20,La Coruna_Valladolid_2009,La Coruna,14,13,27,30
+2010-03-20,Real Madrid_Sp Gijon_2009,Real Madrid,14,13,27,30
+2010-03-20,La Coruna_Valladolid_2009,Valladolid,14,13,27,30
+2010-03-20,Xerez_Tenerife_2009,Xerez,14,13,27,30
+2010-03-20,Real Madrid_Sp Gijon_2009,Sp Gijon,14,13,27,30
+2010-03-20,Xerez_Tenerife_2009,Tenerife,14,13,27,30
+2010-03-20,Espanol_Sevilla_2009,Espanol,14,13,27,30
+2010-03-20,Ath Bilbao_Getafe_2009,Ath Bilbao,13,14,27,30
+2010-03-20,Ath Bilbao_Getafe_2009,Getafe,13,14,27,30
+2010-03-21,Mallorca_Ath Madrid_2009,Ath Madrid,13,14,27,30
+2010-03-21,Zaragoza_Barcelona_2009,Zaragoza,13,14,27,30
+2010-03-21,Mallorca_Ath Madrid_2009,Mallorca,13,14,27,30
+2010-03-21,Valencia_Almeria_2009,Valencia,13,14,27,30
+2010-03-21,Malaga_Villarreal_2009,Malaga,14,13,27,30
+2010-03-21,Malaga_Villarreal_2009,Villarreal,14,13,27,30
+2010-03-21,Osasuna_Santander_2009,Osasuna,13,14,27,30
+2010-03-21,Osasuna_Santander_2009,Santander,13,14,27,30
+2010-03-21,Zaragoza_Barcelona_2009,Barcelona,13,14,27,30
+2010-03-21,Valencia_Almeria_2009,Almeria,13,14,27,30
+2010-03-23,Sevilla_Xerez_2009,Sevilla,15,13,28,31
+2010-03-23,Sp Gijon_La Coruna_2009,Sp Gijon,15,13,28,31
+2010-03-23,Sp Gijon_La Coruna_2009,La Coruna,14,14,28,31
+2010-03-23,Sevilla_Xerez_2009,Xerez,14,14,28,31
+2010-03-24,Almeria_Zaragoza_2009,Zaragoza,13,15,28,31
+2010-03-24,Valencia_Malaga_2009,Valencia,14,14,28,31
+2010-03-24,Tenerife_Villarreal_2009,Tenerife,15,13,28,31
+2010-03-24,Valencia_Malaga_2009,Malaga,14,14,28,31
+2010-03-24,Valladolid_Espanol_2009,Espanol,14,14,28,31
+2010-03-24,Tenerife_Villarreal_2009,Villarreal,14,14,28,31
+2010-03-24,Santander_Mallorca_2009,Santander,14,14,28,31
+2010-03-24,Barcelona_Osasuna_2009,Osasuna,13,15,28,31
+2010-03-24,Santander_Mallorca_2009,Mallorca,13,15,28,31
+2010-03-24,Barcelona_Osasuna_2009,Barcelona,14,14,28,31
+2010-03-24,Almeria_Zaragoza_2009,Almeria,14,14,28,31
+2010-03-24,Valladolid_Espanol_2009,Valladolid,15,13,28,31
+2010-03-25,Getafe_Real Madrid_2009,Getafe,14,14,28,31
+2010-03-25,Ath Madrid_Ath Bilbao_2009,Ath Madrid,14,14,28,31
+2010-03-25,Ath Madrid_Ath Bilbao_2009,Ath Bilbao,13,15,28,31
+2010-03-25,Getafe_Real Madrid_2009,Real Madrid,14,14,28,31
+2010-03-27,Zaragoza_Valencia_2009,Zaragoza,14,15,29,31
+2010-03-27,Zaragoza_Valencia_2009,Valencia,14,15,29,31
+2010-03-27,Malaga_Tenerife_2009,Tenerife,15,14,29,31
+2010-03-27,Mallorca_Barcelona_2009,Mallorca,14,15,29,31
+2010-03-27,Mallorca_Barcelona_2009,Barcelona,14,15,29,31
+2010-03-27,Malaga_Tenerife_2009,Malaga,15,14,29,31
+2010-03-28,La Coruna_Getafe_2009,Getafe,14,15,29,31
+2010-03-28,Espanol_Sp Gijon_2009,Sp Gijon,15,14,29,31
+2010-03-28,Xerez_Valladolid_2009,Xerez,15,14,29,31
+2010-03-28,Villarreal_Sevilla_2009,Villarreal,15,14,29,31
+2010-03-28,Espanol_Sp Gijon_2009,Espanol,15,14,29,31
+2010-03-28,Osasuna_Almeria_2009,Almeria,14,15,29,31
+2010-03-28,Xerez_Valladolid_2009,Valladolid,15,14,29,31
+2010-03-28,Villarreal_Sevilla_2009,Sevilla,15,14,29,31
+2010-03-28,Real Madrid_Ath Madrid_2009,Ath Madrid,14,15,29,31
+2010-03-28,Real Madrid_Ath Madrid_2009,Real Madrid,15,14,29,31
+2010-03-28,Osasuna_Almeria_2009,Osasuna,14,15,29,31
+2010-03-28,La Coruna_Getafe_2009,La Coruna,15,14,29,31
+2010-03-29,Ath Bilbao_Santander_2009,Ath Bilbao,14,15,29,31
+2010-03-29,Ath Bilbao_Santander_2009,Santander,14,15,29,31
+2010-04-03,Zaragoza_Malaga_2009,Malaga,15,15,30,32
+2010-04-03,Barcelona_Ath Bilbao_2009,Ath Bilbao,14,16,30,32
+2010-04-03,Sevilla_Tenerife_2009,Sevilla,16,14,30,32
+2010-04-03,Sevilla_Tenerife_2009,Tenerife,15,15,30,32
+2010-04-03,Barcelona_Ath Bilbao_2009,Barcelona,15,15,30,32
+2010-04-03,Zaragoza_Malaga_2009,Zaragoza,15,15,30,32
+2010-04-04,Valencia_Osasuna_2009,Osasuna,14,16,30,32
+2010-04-04,Almeria_Mallorca_2009,Almeria,15,15,30,32
+2010-04-04,Ath Madrid_La Coruna_2009,La Coruna,15,15,30,32
+2010-04-04,Sp Gijon_Xerez_2009,Sp Gijon,16,14,30,32
+2010-04-04,Valladolid_Villarreal_2009,Valladolid,16,14,30,32
+2010-04-04,Getafe_Espanol_2009,Getafe,15,15,30,32
+2010-04-04,Sp Gijon_Xerez_2009,Xerez,15,15,30,32
+2010-04-04,Santander_Real Madrid_2009,Santander,15,15,30,32
+2010-04-04,Valladolid_Villarreal_2009,Villarreal,15,15,30,32
+2010-04-04,Getafe_Espanol_2009,Espanol,15,15,30,32
+2010-04-04,Almeria_Mallorca_2009,Mallorca,14,16,30,32
+2010-04-04,Ath Madrid_La Coruna_2009,Ath Madrid,15,15,30,32
+2010-04-04,Valencia_Osasuna_2009,Valencia,15,15,30,32
+2010-04-04,Santander_Real Madrid_2009,Real Madrid,15,15,30,32
+2010-04-10,Malaga_Sevilla_2009,Sevilla,16,15,31,33
+2010-04-10,Xerez_Getafe_2009,Getafe,15,16,31,33
+2010-04-10,Malaga_Sevilla_2009,Malaga,16,15,31,33
+2010-04-10,Real Madrid_Barcelona_2009,Real Madrid,16,15,31,33
+2010-04-10,Tenerife_Valladolid_2009,Tenerife,16,15,31,33
+2010-04-10,Xerez_Getafe_2009,Xerez,16,15,31,33
+2010-04-10,Villarreal_Sp Gijon_2009,Sp Gijon,16,15,31,33
+2010-04-10,Real Madrid_Barcelona_2009,Barcelona,15,16,31,33
+2010-04-10,Tenerife_Valladolid_2009,Valladolid,16,15,31,33
+2010-04-10,Villarreal_Sp Gijon_2009,Villarreal,16,15,31,33
+2010-04-11,Espanol_Ath Madrid_2009,Espanol,16,15,31,33
+2010-04-11,Espanol_Ath Madrid_2009,Ath Madrid,15,16,31,33
+2010-04-11,Ath Bilbao_Almeria_2009,Almeria,15,16,31,33
+2010-04-11,Ath Bilbao_Almeria_2009,Ath Bilbao,15,16,31,33
+2010-04-11,Mallorca_Valencia_2009,Mallorca,15,16,31,33
+2010-04-11,La Coruna_Santander_2009,Santander,15,16,31,33
+2010-04-11,Osasuna_Zaragoza_2009,Osasuna,15,16,31,33
+2010-04-11,Osasuna_Zaragoza_2009,Zaragoza,15,16,31,33
+2010-04-11,Mallorca_Valencia_2009,Valencia,15,16,31,33
+2010-04-11,La Coruna_Santander_2009,La Coruna,16,15,31,33
+2010-04-13,Valladolid_Sevilla_2009,Sevilla,16,16,32,34
+2010-04-13,Sp Gijon_Tenerife_2009,Sp Gijon,17,15,32,34
+2010-04-13,Getafe_Villarreal_2009,Getafe,16,16,32,34
+2010-04-13,Valladolid_Sevilla_2009,Valladolid,17,15,32,34
+2010-04-13,Sp Gijon_Tenerife_2009,Tenerife,16,16,32,34
+2010-04-13,Getafe_Villarreal_2009,Villarreal,16,16,32,34
+2010-04-14,Barcelona_La Coruna_2009,La Coruna,16,16,32,34
+2010-04-14,Ath Madrid_Xerez_2009,Xerez,16,16,32,34
+2010-04-14,Ath Madrid_Xerez_2009,Ath Madrid,16,16,32,34
+2010-04-14,Santander_Espanol_2009,Espanol,16,16,32,34
+2010-04-14,Barcelona_La Coruna_2009,Barcelona,16,16,32,34
+2010-04-14,Zaragoza_Mallorca_2009,Zaragoza,16,16,32,34
+2010-04-14,Osasuna_Malaga_2009,Malaga,16,16,32,34
+2010-04-14,Osasuna_Malaga_2009,Osasuna,16,16,32,34
+2010-04-14,Zaragoza_Mallorca_2009,Mallorca,15,17,32,34
+2010-04-14,Santander_Espanol_2009,Santander,16,16,32,34
+2010-04-15,Almeria_Real Madrid_2009,Real Madrid,16,16,32,34
+2010-04-15,Valencia_Ath Bilbao_2009,Valencia,16,16,32,34
+2010-04-15,Almeria_Real Madrid_2009,Almeria,16,16,32,34
+2010-04-15,Valencia_Ath Bilbao_2009,Ath Bilbao,15,17,32,34
+2010-04-17,Sevilla_Sp Gijon_2009,Sevilla,17,16,33,34
+2010-04-17,Espanol_Barcelona_2009,Barcelona,16,17,33,34
+2010-04-17,Espanol_Barcelona_2009,Espanol,17,16,33,34
+2010-04-17,Villarreal_Ath Madrid_2009,Ath Madrid,16,17,33,34
+2010-04-17,Sevilla_Sp Gijon_2009,Sp Gijon,17,16,33,34
+2010-04-17,Villarreal_Ath Madrid_2009,Villarreal,17,16,33,34
+2010-04-18,Xerez_Santander_2009,Santander,16,17,33,34
+2010-04-18,Malaga_Valladolid_2009,Malaga,17,16,33,34
+2010-04-18,La Coruna_Almeria_2009,La Coruna,17,16,33,34
+2010-04-18,Tenerife_Getafe_2009,Getafe,16,17,33,34
+2010-04-18,Ath Bilbao_Zaragoza_2009,Zaragoza,16,17,33,34
+2010-04-18,Ath Bilbao_Zaragoza_2009,Ath Bilbao,16,17,33,34
+2010-04-18,Malaga_Valladolid_2009,Valladolid,17,16,33,34
+2010-04-18,Tenerife_Getafe_2009,Tenerife,17,16,33,34
+2010-04-18,Xerez_Santander_2009,Xerez,17,16,33,34
+2010-04-18,La Coruna_Almeria_2009,Almeria,16,17,33,34
+2010-04-18,Real Madrid_Valencia_2009,Real Madrid,17,16,33,34
+2010-04-18,Real Madrid_Valencia_2009,Valencia,16,17,33,34
+2010-04-19,Mallorca_Osasuna_2009,Osasuna,16,17,33,34
+2010-04-19,Mallorca_Osasuna_2009,Mallorca,16,17,33,34
+2010-04-24,Valencia_La Coruna_2009,La Coruna,17,17,34,35
+2010-04-24,Zaragoza_Real Madrid_2009,Zaragoza,17,17,34,35
+2010-04-24,Zaragoza_Real Madrid_2009,Real Madrid,17,17,34,35
+2010-04-24,Barcelona_Xerez_2009,Xerez,17,17,34,35
+2010-04-24,Valencia_La Coruna_2009,Valencia,17,17,34,35
+2010-04-24,Barcelona_Xerez_2009,Barcelona,17,17,34,35
+2010-04-25,Almeria_Espanol_2009,Almeria,17,17,34,35
+2010-04-25,Mallorca_Malaga_2009,Mallorca,17,17,34,35
+2010-04-25,Santander_Villarreal_2009,Villarreal,17,17,34,35
+2010-04-25,Almeria_Espanol_2009,Espanol,17,17,34,35
+2010-04-25,Santander_Villarreal_2009,Santander,17,17,34,35
+2010-04-25,Ath Madrid_Tenerife_2009,Tenerife,17,17,34,35
+2010-04-25,Sp Gijon_Valladolid_2009,Valladolid,17,17,34,35
+2010-04-25,Getafe_Sevilla_2009,Sevilla,17,17,34,35
+2010-04-25,Mallorca_Malaga_2009,Malaga,17,17,34,35
+2010-04-25,Getafe_Sevilla_2009,Getafe,17,17,34,35
+2010-04-25,Sp Gijon_Valladolid_2009,Sp Gijon,18,16,34,35
+2010-04-25,Ath Madrid_Tenerife_2009,Ath Madrid,17,17,34,35
+2010-04-26,Osasuna_Ath Bilbao_2009,Osasuna,17,17,34,35
+2010-04-26,Osasuna_Ath Bilbao_2009,Ath Bilbao,16,18,34,35
+2010-05-01,Malaga_Sp Gijon_2009,Malaga,18,17,35,36
+2010-05-01,Villarreal_Barcelona_2009,Barcelona,17,18,35,36
+2010-05-01,Xerez_Almeria_2009,Almeria,17,18,35,36
+2010-05-01,Malaga_Sp Gijon_2009,Sp Gijon,18,17,35,36
+2010-05-01,Xerez_Almeria_2009,Xerez,18,17,35,36
+2010-05-01,Tenerife_Santander_2009,Santander,17,18,35,36
+2010-05-01,Espanol_Valencia_2009,Valencia,17,18,35,36
+2010-05-01,Valladolid_Getafe_2009,Valladolid,18,17,35,36
+2010-05-01,Villarreal_Barcelona_2009,Villarreal,18,17,35,36
+2010-05-01,La Coruna_Zaragoza_2009,La Coruna,18,17,35,36
+2010-05-01,Tenerife_Santander_2009,Tenerife,18,17,35,36
+2010-05-01,Valladolid_Getafe_2009,Getafe,17,18,35,36
+2010-05-01,Espanol_Valencia_2009,Espanol,18,17,35,36
+2010-05-01,La Coruna_Zaragoza_2009,Zaragoza,17,18,35,36
+2010-05-02,Ath Bilbao_Mallorca_2009,Ath Bilbao,17,18,35,36
+2010-05-02,Real Madrid_Osasuna_2009,Real Madrid,18,17,35,36
+2010-05-02,Real Madrid_Osasuna_2009,Osasuna,17,18,35,36
+2010-05-02,Sevilla_Ath Madrid_2009,Sevilla,18,17,35,36
+2010-05-02,Ath Bilbao_Mallorca_2009,Mallorca,17,18,35,36
+2010-05-02,Sevilla_Ath Madrid_2009,Ath Madrid,17,18,35,36
+2010-05-04,Getafe_Sp Gijon_2009,Sp Gijon,18,18,36,37
+2010-05-04,Almeria_Villarreal_2009,Almeria,18,18,36,37
+2010-05-04,Valencia_Xerez_2009,Valencia,18,18,36,37
+2010-05-04,Getafe_Sp Gijon_2009,Getafe,18,18,36,37
+2010-05-04,Barcelona_Tenerife_2009,Barcelona,18,18,36,37
+2010-05-04,Barcelona_Tenerife_2009,Tenerife,18,18,36,37
+2010-05-04,Valencia_Xerez_2009,Xerez,18,18,36,37
+2010-05-04,Almeria_Villarreal_2009,Villarreal,18,18,36,37
+2010-05-05,Zaragoza_Espanol_2009,Zaragoza,18,18,36,37
+2010-05-05,Mallorca_Real Madrid_2009,Real Madrid,18,18,36,37
+2010-05-05,Osasuna_La Coruna_2009,Osasuna,18,18,36,37
+2010-05-05,Osasuna_La Coruna_2009,La Coruna,18,18,36,37
+2010-05-05,Mallorca_Real Madrid_2009,Mallorca,18,18,36,37
+2010-05-05,Zaragoza_Espanol_2009,Espanol,18,18,36,37
+2010-05-05,Ath Bilbao_Malaga_2009,Malaga,18,18,36,37
+2010-05-05,Ath Madrid_Valladolid_2009,Ath Madrid,18,18,36,37
+2010-05-05,Santander_Sevilla_2009,Sevilla,18,18,36,37
+2010-05-05,Ath Madrid_Valladolid_2009,Valladolid,18,18,36,37
+2010-05-05,Ath Bilbao_Malaga_2009,Ath Bilbao,18,18,36,37
+2010-05-05,Santander_Sevilla_2009,Santander,18,18,36,37
+2010-05-08,Sevilla_Barcelona_2009,Sevilla,19,18,37,37
+2010-05-08,Espanol_Osasuna_2009,Espanol,19,18,37,37
+2010-05-08,Tenerife_Almeria_2009,Tenerife,19,18,37,37
+2010-05-08,Tenerife_Almeria_2009,Almeria,18,19,37,37
+2010-05-08,Sp Gijon_Ath Madrid_2009,Sp Gijon,19,18,37,37
+2010-05-08,Real Madrid_Ath Bilbao_2009,Ath Bilbao,18,19,37,37
+2010-05-08,Real Madrid_Ath Bilbao_2009,Real Madrid,19,18,37,37
+2010-05-08,La Coruna_Mallorca_2009,Mallorca,18,19,37,37
+2010-05-08,Espanol_Osasuna_2009,Osasuna,18,19,37,37
+2010-05-08,Sp Gijon_Ath Madrid_2009,Ath Madrid,18,19,37,37
+2010-05-08,Villarreal_Valencia_2009,Villarreal,19,18,37,37
+2010-05-08,Getafe_Malaga_2009,Malaga,18,19,37,37
+2010-05-08,Valladolid_Santander_2009,Santander,18,19,37,37
+2010-05-08,Getafe_Malaga_2009,Getafe,19,18,37,37
+2010-05-08,La Coruna_Mallorca_2009,La Coruna,19,18,37,37
+2010-05-08,Valladolid_Santander_2009,Valladolid,19,18,37,37
+2010-05-08,Villarreal_Valencia_2009,Valencia,18,19,37,37
+2010-05-08,Xerez_Zaragoza_2009,Xerez,19,18,37,37
+2010-05-08,Xerez_Zaragoza_2009,Zaragoza,18,19,37,37
+2010-05-08,Sevilla_Barcelona_2009,Barcelona,18,19,37,37
+2010-05-15,Ath Bilbao_La Coruna_2009,La Coruna,19,19,38,38
+2010-05-15,Mallorca_Espanol_2009,Espanol,19,19,38,38
+2010-05-15,Ath Madrid_Getafe_2009,Getafe,19,19,38,38
+2010-05-15,Zaragoza_Villarreal_2009,Villarreal,19,19,38,38
+2010-05-15,Almeria_Sevilla_2009,Sevilla,19,19,38,38
+2010-05-15,Zaragoza_Villarreal_2009,Zaragoza,19,19,38,38
+2010-05-15,Ath Bilbao_La Coruna_2009,Ath Bilbao,19,19,38,38
+2010-05-15,Mallorca_Espanol_2009,Mallorca,19,19,38,38
+2010-05-15,Almeria_Sevilla_2009,Almeria,19,19,38,38
+2010-05-15,Ath Madrid_Getafe_2009,Ath Madrid,19,19,38,38
+2010-05-16,Osasuna_Xerez_2009,Xerez,19,19,38,38
+2010-05-16,Osasuna_Xerez_2009,Osasuna,19,19,38,38
+2010-05-16,Barcelona_Valladolid_2009,Valladolid,19,19,38,38
+2010-05-16,Santander_Sp Gijon_2009,Sp Gijon,19,19,38,38
+2010-05-16,Valencia_Tenerife_2009,Valencia,19,19,38,38
+2010-05-16,Malaga_Real Madrid_2009,Malaga,19,19,38,38
+2010-05-16,Malaga_Real Madrid_2009,Real Madrid,19,19,38,38
+2010-05-16,Barcelona_Valladolid_2009,Barcelona,19,19,38,38
+2010-05-16,Santander_Sp Gijon_2009,Santander,19,19,38,38
+2010-05-16,Valencia_Tenerife_2009,Tenerife,19,19,38,38

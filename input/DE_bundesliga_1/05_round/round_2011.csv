@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-08-05,Dortmund_Hamburg_2011,Dortmund,1,1,1,1
+2011-08-05,Dortmund_Hamburg_2011,Hamburg,1,1,1,1
+2011-08-06,Hertha_Nurnberg_2011,Nurnberg,1,1,1,1
+2011-08-06,Augsburg_Freiburg_2011,Freiburg,1,1,1,1
+2011-08-06,FC Koln_Wolfsburg_2011,FC Koln,1,1,1,1
+2011-08-06,Hertha_Nurnberg_2011,Hertha,1,1,1,1
+2011-08-06,Stuttgart_Schalke 04_2011,Schalke 04,1,1,1,1
+2011-08-06,FC Koln_Wolfsburg_2011,Wolfsburg,1,1,1,1
+2011-08-06,Hannover_Hoffenheim_2011,Hannover,1,1,1,1
+2011-08-06,Hannover_Hoffenheim_2011,Hoffenheim,1,1,1,1
+2011-08-06,Augsburg_Freiburg_2011,Augsburg,1,1,1,1
+2011-08-06,Werder Bremen_Kaiserslautern_2011,Kaiserslautern,1,1,1,1
+2011-08-06,Stuttgart_Schalke 04_2011,Stuttgart,1,1,1,1
+2011-08-06,Werder Bremen_Kaiserslautern_2011,Werder Bremen,1,1,1,1
+2011-08-07,Mainz_Leverkusen_2011,Leverkusen,1,1,1,1
+2011-08-07,Mainz_Leverkusen_2011,Mainz,1,1,1,1
+2011-08-07,Bayern Munich_M'gladbach_2011,Bayern Munich,1,1,1,1
+2011-08-07,Bayern Munich_M'gladbach_2011,M'gladbach,1,1,1,1
+2011-08-13,M'gladbach_Stuttgart_2011,M'gladbach,1,1,2,2
+2011-08-13,Schalke 04_FC Koln_2011,FC Koln,1,1,2,2
+2011-08-13,Hamburg_Hertha_2011,Hertha,1,1,2,2
+2011-08-13,Wolfsburg_Bayern Munich_2011,Bayern Munich,1,1,2,2
+2011-08-13,Nurnberg_Hannover_2011,Nurnberg,1,1,2,2
+2011-08-13,Freiburg_Mainz_2011,Mainz,1,1,2,2
+2011-08-13,Hoffenheim_Dortmund_2011,Dortmund,1,1,2,2
+2011-08-13,Nurnberg_Hannover_2011,Hannover,1,1,2,2
+2011-08-13,Hamburg_Hertha_2011,Hamburg,1,1,2,2
+2011-08-13,Schalke 04_FC Koln_2011,Schalke 04,1,1,2,2
+2011-08-13,M'gladbach_Stuttgart_2011,Stuttgart,1,1,2,2
+2011-08-13,Hoffenheim_Dortmund_2011,Hoffenheim,1,1,2,2
+2011-08-13,Freiburg_Mainz_2011,Freiburg,1,1,2,2
+2011-08-13,Wolfsburg_Bayern Munich_2011,Wolfsburg,1,1,2,2
+2011-08-14,Kaiserslautern_Augsburg_2011,Kaiserslautern,1,1,2,2
+2011-08-14,Kaiserslautern_Augsburg_2011,Augsburg,1,1,2,2
+2011-08-14,Leverkusen_Werder Bremen_2011,Leverkusen,1,1,2,2
+2011-08-14,Leverkusen_Werder Bremen_2011,Werder Bremen,1,1,2,2
+2011-08-19,M'gladbach_Wolfsburg_2011,Wolfsburg,1,2,3,3
+2011-08-19,M'gladbach_Wolfsburg_2011,M'gladbach,2,1,3,3
+2011-08-20,Augsburg_Hoffenheim_2011,Augsburg,2,1,3,3
+2011-08-20,FC Koln_Kaiserslautern_2011,FC Koln,2,1,3,3
+2011-08-20,Werder Bremen_Freiburg_2011,Werder Bremen,2,1,3,3
+2011-08-20,Werder Bremen_Freiburg_2011,Freiburg,1,2,3,3
+2011-08-20,Dortmund_Nurnberg_2011,Nurnberg,1,2,3,3
+2011-08-20,Dortmund_Nurnberg_2011,Dortmund,2,1,3,3
+2011-08-20,FC Koln_Kaiserslautern_2011,Kaiserslautern,1,2,3,3
+2011-08-20,Stuttgart_Leverkusen_2011,Leverkusen,1,2,3,3
+2011-08-20,Augsburg_Hoffenheim_2011,Hoffenheim,1,2,3,3
+2011-08-20,Bayern Munich_Hamburg_2011,Hamburg,1,2,3,3
+2011-08-20,Stuttgart_Leverkusen_2011,Stuttgart,2,1,3,3
+2011-08-20,Bayern Munich_Hamburg_2011,Bayern Munich,2,1,3,3
+2011-08-21,Hannover_Hertha_2011,Hannover,2,1,3,3
+2011-08-21,Mainz_Schalke 04_2011,Schalke 04,1,2,3,3
+2011-08-21,Mainz_Schalke 04_2011,Mainz,2,1,3,3
+2011-08-21,Hannover_Hertha_2011,Hertha,1,2,3,3
+2011-08-26,Hertha_Stuttgart_2011,Hertha,2,2,4,4
+2011-08-26,Hertha_Stuttgart_2011,Stuttgart,2,2,4,4
+2011-08-27,Freiburg_Wolfsburg_2011,Wolfsburg,1,3,4,4
+2011-08-27,Freiburg_Wolfsburg_2011,Freiburg,2,2,4,4
+2011-08-27,Kaiserslautern_Bayern Munich_2011,Bayern Munich,2,2,4,4
+2011-08-27,Hamburg_FC Koln_2011,FC Koln,2,2,4,4
+2011-08-27,Hoffenheim_Werder Bremen_2011,Werder Bremen,2,2,4,4
+2011-08-27,Leverkusen_Dortmund_2011,Dortmund,2,2,4,4
+2011-08-27,Hoffenheim_Werder Bremen_2011,Hoffenheim,2,2,4,4
+2011-08-27,Nurnberg_Augsburg_2011,Nurnberg,2,2,4,4
+2011-08-27,Hamburg_FC Koln_2011,Hamburg,2,2,4,4
+2011-08-27,Kaiserslautern_Bayern Munich_2011,Kaiserslautern,2,2,4,4
+2011-08-27,Leverkusen_Dortmund_2011,Leverkusen,2,2,4,4
+2011-08-27,Nurnberg_Augsburg_2011,Augsburg,2,2,4,4
+2011-08-28,Hannover_Mainz_2011,Hannover,3,1,4,4
+2011-08-28,Schalke 04_M'gladbach_2011,Schalke 04,2,2,4,4
+2011-08-28,Hannover_Mainz_2011,Mainz,2,2,4,4
+2011-08-28,Schalke 04_M'gladbach_2011,M'gladbach,2,2,4,4
+2011-09-09,Augsburg_Leverkusen_2011,Augsburg,3,2,5,6
+2011-09-09,Augsburg_Leverkusen_2011,Leverkusen,2,3,5,6
+2011-09-10,Mainz_Hoffenheim_2011,Mainz,3,2,5,6
+2011-09-10,Bayern Munich_Freiburg_2011,Freiburg,2,3,5,6
+2011-09-10,M'gladbach_Kaiserslautern_2011,M'gladbach,3,2,5,6
+2011-09-10,Dortmund_Hertha_2011,Hertha,2,3,5,6
+2011-09-10,Stuttgart_Hannover_2011,Stuttgart,3,2,5,6
+2011-09-10,Stuttgart_Hannover_2011,Hannover,3,2,5,6
+2011-09-10,Dortmund_Hertha_2011,Dortmund,3,2,5,6
+2011-09-10,Bayern Munich_Freiburg_2011,Bayern Munich,3,2,5,6
+2011-09-10,Mainz_Hoffenheim_2011,Hoffenheim,2,3,5,6
+2011-09-10,Werder Bremen_Hamburg_2011,Hamburg,2,3,5,6
+2011-09-10,M'gladbach_Kaiserslautern_2011,Kaiserslautern,2,3,5,6
+2011-09-10,Werder Bremen_Hamburg_2011,Werder Bremen,3,2,5,6
+2011-09-11,FC Koln_Nurnberg_2011,FC Koln,3,2,5,6
+2011-09-11,FC Koln_Nurnberg_2011,Nurnberg,2,3,5,6
+2011-09-11,Wolfsburg_Schalke 04_2011,Schalke 04,2,3,5,6
+2011-09-11,Wolfsburg_Schalke 04_2011,Wolfsburg,2,3,5,6
+2011-09-16,Freiburg_Stuttgart_2011,Freiburg,3,3,6,7
+2011-09-16,Freiburg_Stuttgart_2011,Stuttgart,3,3,6,7
+2011-09-17,Kaiserslautern_Mainz_2011,Kaiserslautern,3,3,6,7
+2011-09-17,Kaiserslautern_Mainz_2011,Mainz,3,3,6,7
+2011-09-17,Leverkusen_FC Koln_2011,Leverkusen,3,3,6,7
+2011-09-17,Hertha_Augsburg_2011,Augsburg,3,3,6,7
+2011-09-17,Hoffenheim_Wolfsburg_2011,Hoffenheim,3,3,6,7
+2011-09-17,Hamburg_M'gladbach_2011,M'gladbach,3,3,6,7
+2011-09-17,Leverkusen_FC Koln_2011,FC Koln,3,3,6,7
+2011-09-17,Hertha_Augsburg_2011,Hertha,3,3,6,7
+2011-09-17,Hoffenheim_Wolfsburg_2011,Wolfsburg,2,4,6,7
+2011-09-17,Nurnberg_Werder Bremen_2011,Nurnberg,3,3,6,7
+2011-09-17,Nurnberg_Werder Bremen_2011,Werder Bremen,3,3,6,7
+2011-09-17,Hamburg_M'gladbach_2011,Hamburg,3,3,6,7
+2011-09-18,Schalke 04_Bayern Munich_2011,Bayern Munich,3,3,6,7
+2011-09-18,Hannover_Dortmund_2011,Hannover,4,2,6,7
+2011-09-18,Schalke 04_Bayern Munich_2011,Schalke 04,3,3,6,7
+2011-09-18,Hannover_Dortmund_2011,Dortmund,3,3,6,7
+2011-09-23,Stuttgart_Hamburg_2011,Hamburg,3,4,7,8
+2011-09-23,Stuttgart_Hamburg_2011,Stuttgart,4,3,7,8
+2011-09-24,Mainz_Dortmund_2011,Dortmund,3,4,7,8
+2011-09-24,Wolfsburg_Kaiserslautern_2011,Wolfsburg,3,4,7,8
+2011-09-24,Bayern Munich_Leverkusen_2011,Leverkusen,3,4,7,8
+2011-09-24,M'gladbach_Nurnberg_2011,M'gladbach,4,3,7,8
+2011-09-24,M'gladbach_Nurnberg_2011,Nurnberg,3,4,7,8
+2011-09-24,Schalke 04_Freiburg_2011,Freiburg,3,4,7,8
+2011-09-24,Bayern Munich_Leverkusen_2011,Bayern Munich,4,3,7,8
+2011-09-24,Wolfsburg_Kaiserslautern_2011,Kaiserslautern,3,4,7,8
+2011-09-24,Augsburg_Hannover_2011,Hannover,4,3,7,8
+2011-09-24,Schalke 04_Freiburg_2011,Schalke 04,4,3,7,8
+2011-09-24,Augsburg_Hannover_2011,Augsburg,4,3,7,8
+2011-09-24,Mainz_Dortmund_2011,Mainz,4,3,7,8
+2011-09-25,Werder Bremen_Hertha_2011,Hertha,3,4,7,8
+2011-09-25,FC Koln_Hoffenheim_2011,Hoffenheim,3,4,7,8
+2011-09-25,Werder Bremen_Hertha_2011,Werder Bremen,4,3,7,8
+2011-09-25,FC Koln_Hoffenheim_2011,FC Koln,4,3,7,8
+2011-09-30,Kaiserslautern_Stuttgart_2011,Kaiserslautern,4,4,8,9
+2011-09-30,Kaiserslautern_Stuttgart_2011,Stuttgart,4,4,8,9
+2011-10-01,Leverkusen_Wolfsburg_2011,Wolfsburg,3,5,8,9
+2011-10-01,Hoffenheim_Bayern Munich_2011,Hoffenheim,4,4,8,9
+2011-10-01,Nurnberg_Mainz_2011,Nurnberg,4,4,8,9
+2011-10-01,Freiburg_M'gladbach_2011,M'gladbach,4,4,8,9
+2011-10-01,Nurnberg_Mainz_2011,Mainz,4,4,8,9
+2011-10-01,Hoffenheim_Bayern Munich_2011,Bayern Munich,4,4,8,9
+2011-10-01,Hertha_FC Koln_2011,Hertha,4,4,8,9
+2011-10-01,Leverkusen_Wolfsburg_2011,Leverkusen,4,4,8,9
+2011-10-01,Dortmund_Augsburg_2011,Dortmund,4,4,8,9
+2011-10-01,Dortmund_Augsburg_2011,Augsburg,4,4,8,9
+2011-10-01,Freiburg_M'gladbach_2011,Freiburg,4,4,8,9
+2011-10-01,Hertha_FC Koln_2011,FC Koln,4,4,8,9
+2011-10-02,Hamburg_Schalke 04_2011,Hamburg,4,4,8,9
+2011-10-02,Hamburg_Schalke 04_2011,Schalke 04,4,4,8,9
+2011-10-02,Hannover_Werder Bremen_2011,Hannover,5,3,8,9
+2011-10-02,Hannover_Werder Bremen_2011,Werder Bremen,4,4,8,9
+2011-10-14,Werder Bremen_Dortmund_2011,Dortmund,4,5,9,11
+2011-10-14,Werder Bremen_Dortmund_2011,Werder Bremen,5,4,9,11
+2011-10-15,Schalke 04_Kaiserslautern_2011,Schalke 04,5,4,9,11
+2011-10-15,Wolfsburg_Nurnberg_2011,Wolfsburg,4,5,9,11
+2011-10-15,Wolfsburg_Nurnberg_2011,Nurnberg,4,5,9,11
+2011-10-15,Stuttgart_Hoffenheim_2011,Hoffenheim,4,5,9,11
+2011-10-15,Mainz_Augsburg_2011,Mainz,5,4,9,11
+2011-10-15,Mainz_Augsburg_2011,Augsburg,4,5,9,11
+2011-10-15,Bayern Munich_Hertha_2011,Bayern Munich,5,4,9,11
+2011-10-15,Schalke 04_Kaiserslautern_2011,Kaiserslautern,4,5,9,11
+2011-10-15,Stuttgart_Hoffenheim_2011,Stuttgart,5,4,9,11
+2011-10-15,M'gladbach_Leverkusen_2011,M'gladbach,5,4,9,11
+2011-10-15,M'gladbach_Leverkusen_2011,Leverkusen,4,5,9,11
+2011-10-15,Bayern Munich_Hertha_2011,Hertha,4,5,9,11
+2011-10-16,FC Koln_Hannover_2011,FC Koln,5,4,9,11
+2011-10-16,FC Koln_Hannover_2011,Hannover,5,4,9,11
+2011-10-16,Freiburg_Hamburg_2011,Freiburg,5,4,9,11
+2011-10-16,Freiburg_Hamburg_2011,Hamburg,4,5,9,11
+2011-10-21,Augsburg_Werder Bremen_2011,Augsburg,5,5,10,12
+2011-10-21,Augsburg_Werder Bremen_2011,Werder Bremen,5,5,10,12
+2011-10-22,Hamburg_Wolfsburg_2011,Wolfsburg,4,6,10,12
+2011-10-22,Kaiserslautern_Freiburg_2011,Freiburg,5,5,10,12
+2011-10-22,Hoffenheim_M'gladbach_2011,M'gladbach,5,5,10,12
+2011-10-22,Dortmund_FC Koln_2011,Dortmund,5,5,10,12
+2011-10-22,Nurnberg_Stuttgart_2011,Nurnberg,5,5,10,12
+2011-10-22,Kaiserslautern_Freiburg_2011,Kaiserslautern,5,5,10,12
+2011-10-22,Dortmund_FC Koln_2011,FC Koln,5,5,10,12
+2011-10-22,Hamburg_Wolfsburg_2011,Hamburg,5,5,10,12
+2011-10-22,Hoffenheim_M'gladbach_2011,Hoffenheim,5,5,10,12
+2011-10-22,Hertha_Mainz_2011,Hertha,5,5,10,12
+2011-10-22,Hertha_Mainz_2011,Mainz,5,5,10,12
+2011-10-22,Nurnberg_Stuttgart_2011,Stuttgart,5,5,10,12
+2011-10-23,Hannover_Bayern Munich_2011,Hannover,6,4,10,12
+2011-10-23,Leverkusen_Schalke 04_2011,Schalke 04,5,5,10,12
+2011-10-23,Hannover_Bayern Munich_2011,Bayern Munich,5,5,10,12
+2011-10-23,Leverkusen_Schalke 04_2011,Leverkusen,5,5,10,12
+2011-10-28,Freiburg_Leverkusen_2011,Freiburg,6,5,11,13
+2011-10-28,Freiburg_Leverkusen_2011,Leverkusen,5,6,11,13
+2011-10-29,Schalke 04_Hoffenheim_2011,Schalke 04,6,5,11,13
+2011-10-29,Bayern Munich_Nurnberg_2011,Nurnberg,5,6,11,13
+2011-10-29,Schalke 04_Hoffenheim_2011,Hoffenheim,5,6,11,13
+2011-10-29,Stuttgart_Dortmund_2011,Dortmund,5,6,11,13
+2011-10-29,Wolfsburg_Hertha_2011,Wolfsburg,5,6,11,13
+2011-10-29,Mainz_Werder Bremen_2011,Werder Bremen,5,6,11,13
+2011-10-29,Stuttgart_Dortmund_2011,Stuttgart,6,5,11,13
+2011-10-29,Wolfsburg_Hertha_2011,Hertha,5,6,11,13
+2011-10-29,M'gladbach_Hannover_2011,Hannover,6,5,11,13
+2011-10-29,Mainz_Werder Bremen_2011,Mainz,6,5,11,13
+2011-10-29,M'gladbach_Hannover_2011,M'gladbach,6,5,11,13
+2011-10-29,Bayern Munich_Nurnberg_2011,Bayern Munich,6,5,11,13
+2011-10-30,FC Koln_Augsburg_2011,FC Koln,6,5,11,13
+2011-10-30,Hamburg_Kaiserslautern_2011,Kaiserslautern,5,6,11,13
+2011-10-30,Hamburg_Kaiserslautern_2011,Hamburg,6,5,11,13
+2011-10-30,FC Koln_Augsburg_2011,Augsburg,5,6,11,13
+2011-11-04,Mainz_Stuttgart_2011,Mainz,7,5,12,14
+2011-11-04,Mainz_Stuttgart_2011,Stuttgart,6,6,12,14
+2011-11-05,Werder Bremen_FC Koln_2011,Werder Bremen,6,6,12,14
+2011-11-05,Dortmund_Wolfsburg_2011,Wolfsburg,5,7,12,14
+2011-11-05,Nurnberg_Freiburg_2011,Nurnberg,6,6,12,14
+2011-11-05,Nurnberg_Freiburg_2011,Freiburg,6,6,12,14
+2011-11-05,Hoffenheim_Kaiserslautern_2011,Hoffenheim,6,6,12,14
+2011-11-05,Hertha_M'gladbach_2011,M'gladbach,6,6,12,14
+2011-11-05,Dortmund_Wolfsburg_2011,Dortmund,6,6,12,14
+2011-11-05,Hoffenheim_Kaiserslautern_2011,Kaiserslautern,5,7,12,14
+2011-11-05,Leverkusen_Hamburg_2011,Leverkusen,6,6,12,14
+2011-11-05,Hertha_M'gladbach_2011,Hertha,6,6,12,14
+2011-11-05,Leverkusen_Hamburg_2011,Hamburg,6,6,12,14
+2011-11-05,Werder Bremen_FC Koln_2011,FC Koln,6,6,12,14
+2011-11-06,Hannover_Schalke 04_2011,Hannover,7,5,12,14
+2011-11-06,Hannover_Schalke 04_2011,Schalke 04,6,6,12,14
+2011-11-06,Augsburg_Bayern Munich_2011,Bayern Munich,6,6,12,14
+2011-11-06,Augsburg_Bayern Munich_2011,Augsburg,6,6,12,14
+2011-11-18,Kaiserslautern_Leverkusen_2011,Kaiserslautern,6,7,13,16
+2011-11-18,Kaiserslautern_Leverkusen_2011,Leverkusen,6,7,13,16
+2011-11-19,Wolfsburg_Hannover_2011,Wolfsburg,6,7,13,16
+2011-11-19,Bayern Munich_Dortmund_2011,Bayern Munich,7,6,13,16
+2011-11-19,M'gladbach_Werder Bremen_2011,M'gladbach,7,6,13,16
+2011-11-19,Freiburg_Hertha_2011,Freiburg,7,6,13,16
+2011-11-19,Schalke 04_Nurnberg_2011,Schalke 04,7,6,13,16
+2011-11-19,Freiburg_Hertha_2011,Hertha,6,7,13,16
+2011-11-19,Schalke 04_Nurnberg_2011,Nurnberg,6,7,13,16
+2011-11-19,Wolfsburg_Hannover_2011,Hannover,7,6,13,16
+2011-11-19,Bayern Munich_Dortmund_2011,Dortmund,6,7,13,16
+2011-11-19,M'gladbach_Werder Bremen_2011,Werder Bremen,6,7,13,16
+2011-11-20,Stuttgart_Augsburg_2011,Stuttgart,7,6,13,16
+2011-11-20,Stuttgart_Augsburg_2011,Augsburg,6,7,13,16
+2011-11-20,Hamburg_Hoffenheim_2011,Hamburg,7,6,13,16
+2011-11-20,Hamburg_Hoffenheim_2011,Hoffenheim,6,7,13,16
+2011-11-25,FC Koln_M'gladbach_2011,FC Koln,7,6,13,17
+2011-11-25,FC Koln_M'gladbach_2011,M'gladbach,7,7,14,17
+2011-11-26,Hannover_Hamburg_2011,Hannover,8,6,14,17
+2011-11-26,Hoffenheim_Freiburg_2011,Freiburg,7,7,14,17
+2011-11-26,Dortmund_Schalke 04_2011,Dortmund,7,7,14,17
+2011-11-26,Hertha_Leverkusen_2011,Hertha,7,7,14,17
+2011-11-26,Dortmund_Schalke 04_2011,Schalke 04,7,7,14,17
+2011-11-26,Hannover_Hamburg_2011,Hamburg,7,7,14,17
+2011-11-26,Augsburg_Wolfsburg_2011,Wolfsburg,6,8,14,17
+2011-11-26,Nurnberg_Kaiserslautern_2011,Nurnberg,7,7,14,17
+2011-11-26,Hertha_Leverkusen_2011,Leverkusen,6,8,14,17
+2011-11-26,Hoffenheim_Freiburg_2011,Hoffenheim,7,7,14,17
+2011-11-26,Nurnberg_Kaiserslautern_2011,Kaiserslautern,6,8,14,17
+2011-11-26,Augsburg_Wolfsburg_2011,Augsburg,7,7,14,17
+2011-11-27,Werder Bremen_Stuttgart_2011,Stuttgart,7,7,14,17
+2011-11-27,Werder Bremen_Stuttgart_2011,Werder Bremen,7,7,14,17
+2011-11-27,Mainz_Bayern Munich_2011,Bayern Munich,7,7,14,17
+2011-11-27,Mainz_Bayern Munich_2011,Mainz,8,5,13,17
+2011-12-02,Leverkusen_Hoffenheim_2011,Leverkusen,7,8,15,18
+2011-12-02,Leverkusen_Hoffenheim_2011,Hoffenheim,7,8,15,18
+2011-12-03,Wolfsburg_Mainz_2011,Wolfsburg,7,8,15,18
+2011-12-03,Stuttgart_FC Koln_2011,FC Koln,7,7,14,18
+2011-12-03,Kaiserslautern_Hertha_2011,Kaiserslautern,7,8,15,18
+2011-12-03,Bayern Munich_Werder Bremen_2011,Werder Bremen,7,8,15,18
+2011-12-03,Freiburg_Hannover_2011,Hannover,8,7,15,18
+2011-12-03,Kaiserslautern_Hertha_2011,Hertha,7,8,15,18
+2011-12-03,Bayern Munich_Werder Bremen_2011,Bayern Munich,8,7,15,18
+2011-12-03,Wolfsburg_Mainz_2011,Mainz,8,6,14,18
+2011-12-03,M'gladbach_Dortmund_2011,M'gladbach,8,7,15,18
+2011-12-03,M'gladbach_Dortmund_2011,Dortmund,7,8,15,18
+2011-12-03,Freiburg_Hannover_2011,Freiburg,8,7,15,18
+2011-12-03,Stuttgart_FC Koln_2011,Stuttgart,8,7,15,18
+2011-12-04,Schalke 04_Augsburg_2011,Augsburg,7,8,15,18
+2011-12-04,Schalke 04_Augsburg_2011,Schalke 04,8,7,15,18
+2011-12-04,Hamburg_Nurnberg_2011,Nurnberg,7,8,15,18
+2011-12-04,Hamburg_Nurnberg_2011,Hamburg,8,7,15,18
+2011-12-09,Hertha_Schalke 04_2011,Hertha,8,8,16,19
+2011-12-09,Hertha_Schalke 04_2011,Schalke 04,8,8,16,19
+2011-12-10,Werder Bremen_Wolfsburg_2011,Werder Bremen,8,8,16,19
+2011-12-10,Hannover_Leverkusen_2011,Leverkusen,7,9,16,19
+2011-12-10,Augsburg_M'gladbach_2011,Augsburg,8,8,16,19
+2011-12-10,Nurnberg_Hoffenheim_2011,Hoffenheim,7,9,16,19
+2011-12-10,Mainz_Hamburg_2011,Mainz,9,6,15,19
+2011-12-10,Hannover_Leverkusen_2011,Hannover,9,7,16,19
+2011-12-10,Augsburg_M'gladbach_2011,M'gladbach,8,8,16,19
+2011-12-10,FC Koln_Freiburg_2011,FC Koln,8,7,15,19
+2011-12-10,FC Koln_Freiburg_2011,Freiburg,8,8,16,19
+2011-12-10,Mainz_Hamburg_2011,Hamburg,8,8,16,19
+2011-12-10,Nurnberg_Hoffenheim_2011,Nurnberg,8,8,16,19
+2011-12-10,Werder Bremen_Wolfsburg_2011,Wolfsburg,7,9,16,19
+2011-12-11,Dortmund_Kaiserslautern_2011,Dortmund,8,8,16,19
+2011-12-11,Stuttgart_Bayern Munich_2011,Stuttgart,9,7,16,19
+2011-12-11,Stuttgart_Bayern Munich_2011,Bayern Munich,8,8,16,19
+2011-12-11,Dortmund_Kaiserslautern_2011,Kaiserslautern,7,9,16,19
+2011-12-13,FC Koln_Mainz_2011,Mainz,9,7,16,20
+2011-12-13,FC Koln_Mainz_2011,FC Koln,9,7,16,20
+2011-12-16,Bayern Munich_FC Koln_2011,FC Koln,9,8,17,20
+2011-12-16,Bayern Munich_FC Koln_2011,Bayern Munich,9,8,17,20
+2011-12-17,Hamburg_Augsburg_2011,Hamburg,9,8,17,20
+2011-12-17,Schalke 04_Werder Bremen_2011,Schalke 04,9,8,17,20
+2011-12-17,Freiburg_Dortmund_2011,Dortmund,8,9,17,20
+2011-12-17,Leverkusen_Nurnberg_2011,Leverkusen,8,9,17,20
+2011-12-17,Freiburg_Dortmund_2011,Freiburg,9,8,17,20
+2011-12-17,Hoffenheim_Hertha_2011,Hoffenheim,8,9,17,20
+2011-12-17,Hoffenheim_Hertha_2011,Hertha,8,9,17,20
+2011-12-17,Leverkusen_Nurnberg_2011,Nurnberg,8,9,17,20
+2011-12-17,Hamburg_Augsburg_2011,Augsburg,8,9,17,20
+2011-12-17,Wolfsburg_Stuttgart_2011,Stuttgart,9,8,17,20
+2011-12-17,Schalke 04_Werder Bremen_2011,Werder Bremen,8,9,17,20
+2011-12-17,Wolfsburg_Stuttgart_2011,Wolfsburg,8,9,17,20
+2011-12-18,Kaiserslautern_Hannover_2011,Kaiserslautern,8,9,17,20
+2011-12-18,M'gladbach_Mainz_2011,Mainz,9,8,17,20
+2011-12-18,M'gladbach_Mainz_2011,M'gladbach,9,8,17,20
+2011-12-18,Kaiserslautern_Hannover_2011,Hannover,9,8,17,20
+2012-01-20,M'gladbach_Bayern Munich_2011,M'gladbach,10,8,18,25
+2012-01-20,M'gladbach_Bayern Munich_2011,Bayern Munich,9,9,18,25
+2012-01-21,Hoffenheim_Hannover_2011,Hoffenheim,9,9,18,25
+2012-01-21,Freiburg_Augsburg_2011,Freiburg,10,8,18,25
+2012-01-21,Wolfsburg_FC Koln_2011,Wolfsburg,9,9,18,25
+2012-01-21,Schalke 04_Stuttgart_2011,Schalke 04,10,8,18,25
+2012-01-21,Freiburg_Augsburg_2011,Augsburg,8,10,18,25
+2012-01-21,Kaiserslautern_Werder Bremen_2011,Kaiserslautern,9,9,18,25
+2012-01-21,Hoffenheim_Hannover_2011,Hannover,9,9,18,25
+2012-01-21,Nurnberg_Hertha_2011,Nurnberg,9,9,18,25
+2012-01-21,Schalke 04_Stuttgart_2011,Stuttgart,9,9,18,25
+2012-01-21,Kaiserslautern_Werder Bremen_2011,Werder Bremen,8,10,18,25
+2012-01-21,Nurnberg_Hertha_2011,Hertha,8,10,18,25
+2012-01-21,Wolfsburg_FC Koln_2011,FC Koln,9,9,18,25
+2012-01-22,Hamburg_Dortmund_2011,Hamburg,10,8,18,25
+2012-01-22,Leverkusen_Mainz_2011,Leverkusen,9,9,18,25
+2012-01-22,Hamburg_Dortmund_2011,Dortmund,8,10,18,25
+2012-01-22,Leverkusen_Mainz_2011,Mainz,9,9,18,25
+2012-01-27,Hannover_Nurnberg_2011,Nurnberg,9,10,19,26
+2012-01-27,Hannover_Nurnberg_2011,Hannover,10,9,19,26
+2012-01-28,Hertha_Hamburg_2011,Hertha,9,10,19,26
+2012-01-28,Bayern Munich_Wolfsburg_2011,Wolfsburg,9,10,19,26
+2012-01-28,Bayern Munich_Wolfsburg_2011,Bayern Munich,10,9,19,26
+2012-01-28,Augsburg_Kaiserslautern_2011,Augsburg,9,10,19,26
+2012-01-28,Dortmund_Hoffenheim_2011,Hoffenheim,9,10,19,26
+2012-01-28,FC Koln_Schalke 04_2011,FC Koln,10,9,19,26
+2012-01-28,Werder Bremen_Leverkusen_2011,Werder Bremen,9,10,19,26
+2012-01-28,Augsburg_Kaiserslautern_2011,Kaiserslautern,9,10,19,26
+2012-01-28,Werder Bremen_Leverkusen_2011,Leverkusen,9,10,19,26
+2012-01-28,FC Koln_Schalke 04_2011,Schalke 04,10,9,19,26
+2012-01-28,Hertha_Hamburg_2011,Hamburg,10,9,19,26
+2012-01-28,Dortmund_Hoffenheim_2011,Dortmund,9,10,19,26
+2012-01-29,Mainz_Freiburg_2011,Freiburg,10,9,19,26
+2012-01-29,Stuttgart_M'gladbach_2011,M'gladbach,10,9,19,26
+2012-01-29,Mainz_Freiburg_2011,Mainz,10,9,19,26
+2012-01-29,Stuttgart_M'gladbach_2011,Stuttgart,10,9,19,26
+2012-02-03,Nurnberg_Dortmund_2011,Dortmund,9,11,20,27
+2012-02-03,Nurnberg_Dortmund_2011,Nurnberg,10,10,20,27
+2012-02-04,Wolfsburg_M'gladbach_2011,Wolfsburg,10,10,20,27
+2012-02-04,Schalke 04_Mainz_2011,Mainz,10,10,20,27
+2012-02-04,Wolfsburg_M'gladbach_2011,M'gladbach,10,10,20,27
+2012-02-04,Leverkusen_Stuttgart_2011,Leverkusen,10,10,20,27
+2012-02-04,Hertha_Hannover_2011,Hertha,10,10,20,27
+2012-02-04,Schalke 04_Mainz_2011,Schalke 04,11,9,20,27
+2012-02-04,Leverkusen_Stuttgart_2011,Stuttgart,10,10,20,27
+2012-02-04,Hamburg_Bayern Munich_2011,Hamburg,11,9,20,27
+2012-02-04,Hoffenheim_Augsburg_2011,Augsburg,9,11,20,27
+2012-02-04,Hamburg_Bayern Munich_2011,Bayern Munich,10,10,20,27
+2012-02-04,Hertha_Hannover_2011,Hannover,10,10,20,27
+2012-02-04,Hoffenheim_Augsburg_2011,Hoffenheim,10,10,20,27
+2012-02-05,Freiburg_Werder Bremen_2011,Werder Bremen,9,11,20,27
+2012-02-05,Freiburg_Werder Bremen_2011,Freiburg,11,9,20,27
+2012-02-05,Kaiserslautern_FC Koln_2011,FC Koln,10,10,20,27
+2012-02-05,Kaiserslautern_FC Koln_2011,Kaiserslautern,10,10,20,27
+2012-02-10,Wolfsburg_Freiburg_2011,Freiburg,11,10,21,28
+2012-02-10,Wolfsburg_Freiburg_2011,Wolfsburg,11,10,21,28
+2012-02-11,Werder Bremen_Hoffenheim_2011,Hoffenheim,10,11,21,28
+2012-02-11,Bayern Munich_Kaiserslautern_2011,Bayern Munich,11,10,21,28
+2012-02-11,Stuttgart_Hertha_2011,Hertha,10,11,21,28
+2012-02-11,Werder Bremen_Hoffenheim_2011,Werder Bremen,10,11,21,28
+2012-02-11,Mainz_Hannover_2011,Hannover,10,11,21,28
+2012-02-11,M'gladbach_Schalke 04_2011,Schalke 04,11,10,21,28
+2012-02-11,Stuttgart_Hertha_2011,Stuttgart,11,10,21,28
+2012-02-11,Dortmund_Leverkusen_2011,Dortmund,10,11,21,28
+2012-02-11,Mainz_Hannover_2011,Mainz,11,10,21,28
+2012-02-11,Dortmund_Leverkusen_2011,Leverkusen,10,11,21,28
+2012-02-11,M'gladbach_Schalke 04_2011,M'gladbach,11,10,21,28
+2012-02-11,Bayern Munich_Kaiserslautern_2011,Kaiserslautern,10,11,21,28
+2012-02-12,Augsburg_Nurnberg_2011,Nurnberg,10,11,21,28
+2012-02-12,FC Koln_Hamburg_2011,Hamburg,11,10,21,28
+2012-02-12,FC Koln_Hamburg_2011,FC Koln,11,10,21,28
+2012-02-12,Augsburg_Nurnberg_2011,Augsburg,10,11,21,28
+2012-02-17,Hoffenheim_Mainz_2011,Hoffenheim,11,11,22,29
+2012-02-17,Hoffenheim_Mainz_2011,Mainz,11,11,22,29
+2012-02-18,Hertha_Dortmund_2011,Dortmund,10,12,22,29
+2012-02-18,Leverkusen_Augsburg_2011,Augsburg,10,12,22,29
+2012-02-18,Hamburg_Werder Bremen_2011,Werder Bremen,10,12,22,29
+2012-02-18,Freiburg_Bayern Munich_2011,Freiburg,12,10,22,29
+2012-02-18,Nurnberg_FC Koln_2011,FC Koln,11,11,22,29
+2012-02-18,Kaiserslautern_M'gladbach_2011,M'gladbach,11,11,22,29
+2012-02-18,Kaiserslautern_M'gladbach_2011,Kaiserslautern,11,11,22,29
+2012-02-18,Hamburg_Werder Bremen_2011,Hamburg,12,10,22,29
+2012-02-18,Nurnberg_FC Koln_2011,Nurnberg,11,11,22,29
+2012-02-18,Leverkusen_Augsburg_2011,Leverkusen,11,11,22,29
+2012-02-18,Freiburg_Bayern Munich_2011,Bayern Munich,11,11,22,29
+2012-02-18,Hertha_Dortmund_2011,Hertha,11,11,22,29
+2012-02-19,Hannover_Stuttgart_2011,Stuttgart,11,11,22,29
+2012-02-19,Hannover_Stuttgart_2011,Hannover,11,11,22,29
+2012-02-19,Schalke 04_Wolfsburg_2011,Wolfsburg,11,11,22,29
+2012-02-19,Schalke 04_Wolfsburg_2011,Schalke 04,12,10,22,29
+2012-02-24,M'gladbach_Hamburg_2011,Hamburg,12,11,23,30
+2012-02-24,M'gladbach_Hamburg_2011,M'gladbach,12,11,23,30
+2012-02-25,Wolfsburg_Hoffenheim_2011,Wolfsburg,12,11,23,30
+2012-02-25,Stuttgart_Freiburg_2011,Stuttgart,12,11,23,30
+2012-02-25,Werder Bremen_Nurnberg_2011,Werder Bremen,11,12,23,30
+2012-02-25,Mainz_Kaiserslautern_2011,Kaiserslautern,11,12,23,30
+2012-02-25,Stuttgart_Freiburg_2011,Freiburg,12,11,23,30
+2012-02-25,Wolfsburg_Hoffenheim_2011,Hoffenheim,11,12,23,30
+2012-02-25,Werder Bremen_Nurnberg_2011,Nurnberg,11,12,23,30
+2012-02-25,Augsburg_Hertha_2011,Augsburg,11,12,23,30
+2012-02-25,FC Koln_Leverkusen_2011,FC Koln,12,11,23,30
+2012-02-25,Augsburg_Hertha_2011,Hertha,11,12,23,30
+2012-02-25,Mainz_Kaiserslautern_2011,Mainz,12,11,23,30
+2012-02-25,FC Koln_Leverkusen_2011,Leverkusen,11,12,23,30
+2012-02-26,Bayern Munich_Schalke 04_2011,Schalke 04,12,11,23,30
+2012-02-26,Bayern Munich_Schalke 04_2011,Bayern Munich,12,11,23,30
+2012-02-26,Dortmund_Hannover_2011,Hannover,11,12,23,30
+2012-02-26,Dortmund_Hannover_2011,Dortmund,11,12,23,30
+2012-03-03,Hannover_Augsburg_2011,Augsburg,11,13,24,31
+2012-03-03,Leverkusen_Bayern Munich_2011,Leverkusen,12,12,24,31
+2012-03-03,Freiburg_Schalke 04_2011,Schalke 04,12,12,24,31
+2012-03-03,Dortmund_Mainz_2011,Mainz,12,12,24,31
+2012-03-03,Leverkusen_Bayern Munich_2011,Bayern Munich,12,12,24,31
+2012-03-03,Hannover_Augsburg_2011,Hannover,12,12,24,31
+2012-03-03,Freiburg_Schalke 04_2011,Freiburg,13,11,24,31
+2012-03-03,Hertha_Werder Bremen_2011,Werder Bremen,11,13,24,31
+2012-03-03,Hamburg_Stuttgart_2011,Hamburg,13,11,24,31
+2012-03-03,Kaiserslautern_Wolfsburg_2011,Kaiserslautern,12,12,24,31
+2012-03-03,Hertha_Werder Bremen_2011,Hertha,12,12,24,31
+2012-03-03,Dortmund_Mainz_2011,Dortmund,12,12,24,31
+2012-03-03,Hamburg_Stuttgart_2011,Stuttgart,12,12,24,31
+2012-03-03,Kaiserslautern_Wolfsburg_2011,Wolfsburg,12,12,24,31
+2012-03-04,Hoffenheim_FC Koln_2011,Hoffenheim,12,12,24,31
+2012-03-04,Nurnberg_M'gladbach_2011,Nurnberg,12,12,24,31
+2012-03-04,Hoffenheim_FC Koln_2011,FC Koln,12,12,24,31
+2012-03-04,Nurnberg_M'gladbach_2011,M'gladbach,12,12,24,31
+2012-03-09,Stuttgart_Kaiserslautern_2011,Stuttgart,13,12,25,32
+2012-03-09,Stuttgart_Kaiserslautern_2011,Kaiserslautern,12,13,25,32
+2012-03-10,FC Koln_Hertha_2011,FC Koln,13,12,25,32
+2012-03-10,Wolfsburg_Leverkusen_2011,Wolfsburg,13,12,25,32
+2012-03-10,Bayern Munich_Hoffenheim_2011,Hoffenheim,12,13,25,32
+2012-03-10,Mainz_Nurnberg_2011,Nurnberg,12,13,25,32
+2012-03-10,Augsburg_Dortmund_2011,Augsburg,12,13,25,32
+2012-03-10,FC Koln_Hertha_2011,Hertha,12,13,25,32
+2012-03-10,M'gladbach_Freiburg_2011,M'gladbach,13,12,25,32
+2012-03-10,Bayern Munich_Hoffenheim_2011,Bayern Munich,13,12,25,32
+2012-03-10,M'gladbach_Freiburg_2011,Freiburg,13,12,25,32
+2012-03-10,Wolfsburg_Leverkusen_2011,Leverkusen,12,13,25,32
+2012-03-10,Mainz_Nurnberg_2011,Mainz,13,12,25,32
+2012-03-10,Augsburg_Dortmund_2011,Dortmund,12,13,25,32
+2012-03-11,Werder Bremen_Hannover_2011,Werder Bremen,12,13,25,32
+2012-03-11,Schalke 04_Hamburg_2011,Schalke 04,13,12,25,32
+2012-03-11,Schalke 04_Hamburg_2011,Hamburg,13,12,25,32
+2012-03-11,Werder Bremen_Hannover_2011,Hannover,12,13,25,32
+2012-03-16,Hoffenheim_Stuttgart_2011,Stuttgart,13,13,26,33
+2012-03-16,Hoffenheim_Stuttgart_2011,Hoffenheim,13,13,26,33
+2012-03-17,Nurnberg_Wolfsburg_2011,Wolfsburg,13,13,26,33
+2012-03-17,Leverkusen_M'gladbach_2011,Leverkusen,13,13,26,33
+2012-03-17,Dortmund_Werder Bremen_2011,Dortmund,13,13,26,33
+2012-03-17,Augsburg_Mainz_2011,Mainz,13,13,26,33
+2012-03-17,Hertha_Bayern Munich_2011,Bayern Munich,13,13,26,33
+2012-03-17,Nurnberg_Wolfsburg_2011,Nurnberg,13,13,26,33
+2012-03-17,Hamburg_Freiburg_2011,Hamburg,14,12,26,33
+2012-03-17,Hertha_Bayern Munich_2011,Hertha,13,13,26,33
+2012-03-17,Leverkusen_M'gladbach_2011,M'gladbach,13,13,26,33
+2012-03-17,Dortmund_Werder Bremen_2011,Werder Bremen,12,14,26,33
+2012-03-17,Augsburg_Mainz_2011,Augsburg,13,13,26,33
+2012-03-17,Hamburg_Freiburg_2011,Freiburg,13,13,26,33
+2012-03-18,Kaiserslautern_Schalke 04_2011,Schalke 04,13,13,26,33
+2012-03-18,Kaiserslautern_Schalke 04_2011,Kaiserslautern,13,13,26,33
+2012-03-18,Hannover_FC Koln_2011,Hannover,13,13,26,33
+2012-03-18,Hannover_FC Koln_2011,FC Koln,13,13,26,33
+2012-03-23,Wolfsburg_Hamburg_2011,Wolfsburg,14,13,27,34
+2012-03-23,Wolfsburg_Hamburg_2011,Hamburg,14,13,27,34
+2012-03-24,Bayern Munich_Hannover_2011,Hannover,13,14,27,34
+2012-03-24,Schalke 04_Leverkusen_2011,Schalke 04,14,13,27,34
+2012-03-24,M'gladbach_Hoffenheim_2011,M'gladbach,14,13,27,34
+2012-03-24,Mainz_Hertha_2011,Mainz,14,13,27,34
+2012-03-24,Freiburg_Kaiserslautern_2011,Kaiserslautern,13,14,27,34
+2012-03-24,M'gladbach_Hoffenheim_2011,Hoffenheim,13,14,27,34
+2012-03-24,Werder Bremen_Augsburg_2011,Augsburg,13,14,27,34
+2012-03-24,Mainz_Hertha_2011,Hertha,13,14,27,34
+2012-03-24,Freiburg_Kaiserslautern_2011,Freiburg,14,13,27,34
+2012-03-24,Schalke 04_Leverkusen_2011,Leverkusen,13,14,27,34
+2012-03-24,Bayern Munich_Hannover_2011,Bayern Munich,14,13,27,34
+2012-03-24,Werder Bremen_Augsburg_2011,Werder Bremen,13,14,27,34
+2012-03-25,FC Koln_Dortmund_2011,FC Koln,14,13,27,34
+2012-03-25,Stuttgart_Nurnberg_2011,Nurnberg,13,14,27,34
+2012-03-25,FC Koln_Dortmund_2011,Dortmund,13,14,27,34
+2012-03-25,Stuttgart_Nurnberg_2011,Stuttgart,14,13,27,34
+2012-03-30,Dortmund_Stuttgart_2011,Stuttgart,14,14,28,35
+2012-03-30,Dortmund_Stuttgart_2011,Dortmund,14,14,28,35
+2012-03-31,Hertha_Wolfsburg_2011,Wolfsburg,14,14,28,35
+2012-03-31,Hertha_Wolfsburg_2011,Hertha,14,14,28,35
+2012-03-31,Werder Bremen_Mainz_2011,Werder Bremen,14,14,28,35
+2012-03-31,Leverkusen_Freiburg_2011,Leverkusen,14,14,28,35
+2012-03-31,Augsburg_FC Koln_2011,FC Koln,14,14,28,35
+2012-03-31,Nurnberg_Bayern Munich_2011,Bayern Munich,14,14,28,35
+2012-03-31,Werder Bremen_Mainz_2011,Mainz,14,14,28,35
+2012-03-31,Nurnberg_Bayern Munich_2011,Nurnberg,14,14,28,35
+2012-03-31,Kaiserslautern_Hamburg_2011,Hamburg,14,14,28,35
+2012-03-31,Kaiserslautern_Hamburg_2011,Kaiserslautern,14,14,28,35
+2012-03-31,Leverkusen_Freiburg_2011,Freiburg,14,14,28,35
+2012-03-31,Augsburg_FC Koln_2011,Augsburg,14,14,28,35
+2012-04-01,Hannover_M'gladbach_2011,Hannover,14,14,28,35
+2012-04-01,Hoffenheim_Schalke 04_2011,Schalke 04,14,14,28,35
+2012-04-01,Hannover_M'gladbach_2011,M'gladbach,14,14,28,35
+2012-04-01,Hoffenheim_Schalke 04_2011,Hoffenheim,14,14,28,35
+2012-04-07,Bayern Munich_Augsburg_2011,Augsburg,14,15,29,36
+2012-04-07,Kaiserslautern_Hoffenheim_2011,Kaiserslautern,15,14,29,36
+2012-04-07,FC Koln_Werder Bremen_2011,Werder Bremen,14,15,29,36
+2012-04-07,FC Koln_Werder Bremen_2011,FC Koln,15,14,29,36
+2012-04-07,Freiburg_Nurnberg_2011,Nurnberg,14,15,29,36
+2012-04-07,Freiburg_Nurnberg_2011,Freiburg,15,14,29,36
+2012-04-07,Stuttgart_Mainz_2011,Mainz,14,15,29,36
+2012-04-07,M'gladbach_Hertha_2011,M'gladbach,15,14,29,36
+2012-04-07,Bayern Munich_Augsburg_2011,Bayern Munich,15,14,29,36
+2012-04-07,Kaiserslautern_Hoffenheim_2011,Hoffenheim,14,15,29,36
+2012-04-07,M'gladbach_Hertha_2011,Hertha,14,15,29,36
+2012-04-07,Wolfsburg_Dortmund_2011,Dortmund,14,15,29,36
+2012-04-07,Wolfsburg_Dortmund_2011,Wolfsburg,15,14,29,36
+2012-04-07,Stuttgart_Mainz_2011,Stuttgart,15,14,29,36
+2012-04-08,Schalke 04_Hannover_2011,Schalke 04,15,14,29,36
+2012-04-08,Schalke 04_Hannover_2011,Hannover,14,15,29,36
+2012-04-08,Hamburg_Leverkusen_2011,Leverkusen,14,15,29,36
+2012-04-08,Hamburg_Leverkusen_2011,Hamburg,15,14,29,36
+2012-04-10,Mainz_FC Koln_2011,FC Koln,15,15,30,37
+2012-04-10,Hertha_Freiburg_2011,Hertha,15,15,30,37
+2012-04-10,Werder Bremen_M'gladbach_2011,M'gladbach,15,15,30,37
+2012-04-10,Augsburg_Stuttgart_2011,Stuttgart,15,15,30,37
+2012-04-10,Mainz_FC Koln_2011,Mainz,15,15,30,37
+2012-04-10,Hertha_Freiburg_2011,Freiburg,15,15,30,37
+2012-04-10,Augsburg_Stuttgart_2011,Augsburg,15,15,30,37
+2012-04-10,Werder Bremen_M'gladbach_2011,Werder Bremen,15,15,30,37
+2012-04-11,Dortmund_Bayern Munich_2011,Dortmund,15,15,30,37
+2012-04-11,Hannover_Wolfsburg_2011,Hannover,15,15,30,37
+2012-04-11,Nurnberg_Schalke 04_2011,Schalke 04,15,15,30,37
+2012-04-11,Leverkusen_Kaiserslautern_2011,Leverkusen,15,15,30,37
+2012-04-11,Dortmund_Bayern Munich_2011,Bayern Munich,15,15,30,37
+2012-04-11,Leverkusen_Kaiserslautern_2011,Kaiserslautern,15,15,30,37
+2012-04-11,Nurnberg_Schalke 04_2011,Nurnberg,15,15,30,37
+2012-04-11,Hannover_Wolfsburg_2011,Wolfsburg,15,15,30,37
+2012-04-11,Hoffenheim_Hamburg_2011,Hamburg,15,15,30,37
+2012-04-11,Hoffenheim_Hamburg_2011,Hoffenheim,15,15,30,37
+2012-04-13,Stuttgart_Werder Bremen_2011,Stuttgart,16,15,31,37
+2012-04-13,Stuttgart_Werder Bremen_2011,Werder Bremen,15,16,31,37
+2012-04-14,Leverkusen_Hertha_2011,Hertha,15,16,31,37
+2012-04-14,Kaiserslautern_Nurnberg_2011,Kaiserslautern,16,15,31,37
+2012-04-14,Leverkusen_Hertha_2011,Leverkusen,16,15,31,37
+2012-04-14,Wolfsburg_Augsburg_2011,Augsburg,15,16,31,37
+2012-04-14,Schalke 04_Dortmund_2011,Dortmund,15,16,31,37
+2012-04-14,Hamburg_Hannover_2011,Hannover,15,16,31,37
+2012-04-14,Bayern Munich_Mainz_2011,Bayern Munich,16,15,31,37
+2012-04-14,Wolfsburg_Augsburg_2011,Wolfsburg,16,15,31,37
+2012-04-14,Kaiserslautern_Nurnberg_2011,Nurnberg,15,16,31,37
+2012-04-14,Bayern Munich_Mainz_2011,Mainz,15,16,31,37
+2012-04-14,Schalke 04_Dortmund_2011,Schalke 04,16,15,31,37
+2012-04-14,Hamburg_Hannover_2011,Hamburg,16,15,31,37
+2012-04-15,M'gladbach_FC Koln_2011,FC Koln,15,16,31,37
+2012-04-15,Freiburg_Hoffenheim_2011,Hoffenheim,15,16,31,37
+2012-04-15,Freiburg_Hoffenheim_2011,Freiburg,16,15,31,37
+2012-04-15,M'gladbach_FC Koln_2011,M'gladbach,16,15,31,37
+2012-04-20,Mainz_Wolfsburg_2011,Wolfsburg,16,16,32,38
+2012-04-20,Mainz_Wolfsburg_2011,Mainz,16,16,32,38
+2012-04-21,Werder Bremen_Bayern Munich_2011,Werder Bremen,16,16,32,38
+2012-04-21,Nurnberg_Hamburg_2011,Hamburg,16,16,32,38
+2012-04-21,Nurnberg_Hamburg_2011,Nurnberg,16,16,32,38
+2012-04-21,FC Koln_Stuttgart_2011,FC Koln,16,16,32,38
+2012-04-21,Hertha_Kaiserslautern_2011,Hertha,16,16,32,38
+2012-04-21,Hoffenheim_Leverkusen_2011,Leverkusen,16,16,32,38
+2012-04-21,Hertha_Kaiserslautern_2011,Kaiserslautern,16,16,32,38
+2012-04-21,FC Koln_Stuttgart_2011,Stuttgart,16,16,32,38
+2012-04-21,Dortmund_M'gladbach_2011,Dortmund,16,16,32,38
+2012-04-21,Hoffenheim_Leverkusen_2011,Hoffenheim,16,16,32,38
+2012-04-21,Werder Bremen_Bayern Munich_2011,Bayern Munich,16,16,32,38
+2012-04-21,Dortmund_M'gladbach_2011,M'gladbach,16,16,32,38
+2012-04-22,Hannover_Freiburg_2011,Hannover,16,16,32,38
+2012-04-22,Augsburg_Schalke 04_2011,Augsburg,16,16,32,38
+2012-04-22,Augsburg_Schalke 04_2011,Schalke 04,16,16,32,38
+2012-04-22,Hannover_Freiburg_2011,Freiburg,16,16,32,38
+2012-04-28,Wolfsburg_Werder Bremen_2011,Wolfsburg,17,16,33,39
+2012-04-28,Leverkusen_Hannover_2011,Leverkusen,17,16,33,39
+2012-04-28,Bayern Munich_Stuttgart_2011,Stuttgart,16,17,33,39
+2012-04-28,Wolfsburg_Werder Bremen_2011,Werder Bremen,16,17,33,39
+2012-04-28,Hoffenheim_Nurnberg_2011,Nurnberg,16,17,33,39
+2012-04-28,Hoffenheim_Nurnberg_2011,Hoffenheim,17,16,33,39
+2012-04-28,Kaiserslautern_Dortmund_2011,Kaiserslautern,17,16,33,39
+2012-04-28,Freiburg_FC Koln_2011,Freiburg,17,16,33,39
+2012-04-28,Freiburg_FC Koln_2011,FC Koln,16,17,33,39
+2012-04-28,Kaiserslautern_Dortmund_2011,Dortmund,16,17,33,39
+2012-04-28,Leverkusen_Hannover_2011,Hannover,16,17,33,39
+2012-04-28,Bayern Munich_Stuttgart_2011,Bayern Munich,17,16,33,39
+2012-04-28,Schalke 04_Hertha_2011,Hertha,16,17,33,39
+2012-04-28,Hamburg_Mainz_2011,Mainz,16,17,33,39
+2012-04-28,Hamburg_Mainz_2011,Hamburg,17,16,33,39
+2012-04-28,Schalke 04_Hertha_2011,Schalke 04,17,16,33,39
+2012-04-28,M'gladbach_Augsburg_2011,Augsburg,16,17,33,39
+2012-04-28,M'gladbach_Augsburg_2011,M'gladbach,17,16,33,39
+2012-05-05,Stuttgart_Wolfsburg_2011,Stuttgart,17,17,34,40
+2012-05-05,Augsburg_Hamburg_2011,Hamburg,17,17,34,40
+2012-05-05,Hannover_Kaiserslautern_2011,Hannover,17,17,34,40
+2012-05-05,Mainz_M'gladbach_2011,Mainz,17,17,34,40
+2012-05-05,Dortmund_Freiburg_2011,Dortmund,17,17,34,40
+2012-05-05,FC Koln_Bayern Munich_2011,Bayern Munich,17,17,34,40
+2012-05-05,Hertha_Hoffenheim_2011,Hoffenheim,17,17,34,40
+2012-05-05,Nurnberg_Leverkusen_2011,Leverkusen,17,17,34,40
+2012-05-05,Werder Bremen_Schalke 04_2011,Werder Bremen,17,17,34,40
+2012-05-05,Werder Bremen_Schalke 04_2011,Schalke 04,17,17,34,40
+2012-05-05,Hannover_Kaiserslautern_2011,Kaiserslautern,17,17,34,40
+2012-05-05,FC Koln_Bayern Munich_2011,FC Koln,17,17,34,40
+2012-05-05,Dortmund_Freiburg_2011,Freiburg,17,17,34,40
+2012-05-05,Hertha_Hoffenheim_2011,Hertha,17,17,34,40
+2012-05-05,Mainz_M'gladbach_2011,M'gladbach,17,17,34,40
+2012-05-05,Augsburg_Hamburg_2011,Augsburg,17,17,34,40
+2012-05-05,Nurnberg_Leverkusen_2011,Nurnberg,17,17,34,40
+2012-05-05,Stuttgart_Wolfsburg_2011,Wolfsburg,17,17,34,40

@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2019-08-16,Bayern Munich_Hertha_2019,Bayern Munich,1,1,1,1
+2019-08-16,Bayern Munich_Hertha_2019,Hertha,1,1,1,1
+2019-08-17,Freiburg_Mainz_2019,Mainz,1,1,1,1
+2019-08-17,Wolfsburg_FC Koln_2019,FC Koln,1,1,1,1
+2019-08-17,Leverkusen_Paderborn_2019,Leverkusen,1,1,1,1
+2019-08-17,M'gladbach_Schalke 04_2019,Schalke 04,1,1,1,1
+2019-08-17,Werder Bremen_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,1,1,1,1
+2019-08-17,Wolfsburg_FC Koln_2019,Wolfsburg,1,1,1,1
+2019-08-17,Freiburg_Mainz_2019,Freiburg,1,1,1,1
+2019-08-17,Dortmund_Augsburg_2019,Dortmund,1,1,1,1
+2019-08-17,M'gladbach_Schalke 04_2019,M'gladbach,1,1,1,1
+2019-08-17,Leverkusen_Paderborn_2019,Paderborn,1,1,1,1
+2019-08-17,Dortmund_Augsburg_2019,Augsburg,1,1,1,1
+2019-08-17,Werder Bremen_Fortuna Dusseldorf_2019,Werder Bremen,1,1,1,1
+2019-08-18,Union Berlin_RB Leipzig_2019,RB Leipzig,1,1,1,1
+2019-08-18,Ein Frankfurt_Hoffenheim_2019,Hoffenheim,1,1,1,1
+2019-08-18,Union Berlin_RB Leipzig_2019,Union Berlin,1,1,1,1
+2019-08-18,Ein Frankfurt_Hoffenheim_2019,Ein Frankfurt,1,1,1,1
+2019-08-23,FC Koln_Dortmund_2019,FC Koln,1,1,2,2
+2019-08-23,FC Koln_Dortmund_2019,Dortmund,1,1,2,2
+2019-08-24,Hoffenheim_Werder Bremen_2019,Hoffenheim,1,1,2,2
+2019-08-24,Schalke 04_Bayern Munich_2019,Bayern Munich,1,1,2,2
+2019-08-24,Augsburg_Union Berlin_2019,Union Berlin,1,1,2,2
+2019-08-24,Paderborn_Freiburg_2019,Paderborn,1,1,2,2
+2019-08-24,Augsburg_Union Berlin_2019,Augsburg,1,1,2,2
+2019-08-24,Mainz_M'gladbach_2019,M'gladbach,1,1,2,2
+2019-08-24,Paderborn_Freiburg_2019,Freiburg,1,1,2,2
+2019-08-24,Fortuna Dusseldorf_Leverkusen_2019,Leverkusen,1,1,2,2
+2019-08-24,Schalke 04_Bayern Munich_2019,Schalke 04,1,1,2,2
+2019-08-24,Mainz_M'gladbach_2019,Mainz,1,1,2,2
+2019-08-24,Hoffenheim_Werder Bremen_2019,Werder Bremen,1,1,2,2
+2019-08-24,Fortuna Dusseldorf_Leverkusen_2019,Fortuna Dusseldorf,1,1,2,2
+2019-08-25,RB Leipzig_Ein Frankfurt_2019,RB Leipzig,1,1,2,2
+2019-08-25,Hertha_Wolfsburg_2019,Hertha,1,1,2,2
+2019-08-25,RB Leipzig_Ein Frankfurt_2019,Ein Frankfurt,1,1,2,2
+2019-08-25,Hertha_Wolfsburg_2019,Wolfsburg,1,1,2,2
+2019-08-30,M'gladbach_RB Leipzig_2019,M'gladbach,2,1,3,3
+2019-08-30,M'gladbach_RB Leipzig_2019,RB Leipzig,1,2,3,3
+2019-08-31,Schalke 04_Hertha_2019,Hertha,1,2,3,3
+2019-08-31,Union Berlin_Dortmund_2019,Union Berlin,2,1,3,3
+2019-08-31,Freiburg_FC Koln_2019,Freiburg,2,1,3,3
+2019-08-31,Bayern Munich_Mainz_2019,Mainz,1,2,3,3
+2019-08-31,Wolfsburg_Paderborn_2019,Wolfsburg,2,1,3,3
+2019-08-31,Schalke 04_Hertha_2019,Schalke 04,2,1,3,3
+2019-08-31,Bayern Munich_Mainz_2019,Bayern Munich,2,1,3,3
+2019-08-31,Leverkusen_Hoffenheim_2019,Hoffenheim,1,2,3,3
+2019-08-31,Wolfsburg_Paderborn_2019,Paderborn,1,2,3,3
+2019-08-31,Freiburg_FC Koln_2019,FC Koln,1,2,3,3
+2019-08-31,Leverkusen_Hoffenheim_2019,Leverkusen,2,1,3,3
+2019-08-31,Union Berlin_Dortmund_2019,Dortmund,1,2,3,3
+2019-09-01,Werder Bremen_Augsburg_2019,Werder Bremen,2,1,3,3
+2019-09-01,Werder Bremen_Augsburg_2019,Augsburg,1,2,3,3
+2019-09-01,Ein Frankfurt_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,1,2,3,3
+2019-09-01,Ein Frankfurt_Fortuna Dusseldorf_2019,Ein Frankfurt,2,1,3,3
+2019-09-13,Fortuna Dusseldorf_Wolfsburg_2019,Wolfsburg,2,2,4,5
+2019-09-13,Fortuna Dusseldorf_Wolfsburg_2019,Fortuna Dusseldorf,2,2,4,5
+2019-09-14,Mainz_Hertha_2019,Hertha,1,3,4,5
+2019-09-14,Augsburg_Ein Frankfurt_2019,Augsburg,2,2,4,5
+2019-09-14,Augsburg_Ein Frankfurt_2019,Ein Frankfurt,2,2,4,5
+2019-09-14,RB Leipzig_Bayern Munich_2019,Bayern Munich,2,2,4,5
+2019-09-14,FC Koln_M'gladbach_2019,M'gladbach,2,2,4,5
+2019-09-14,Dortmund_Leverkusen_2019,Dortmund,2,2,4,5
+2019-09-14,Union Berlin_Werder Bremen_2019,Werder Bremen,2,2,4,5
+2019-09-14,Union Berlin_Werder Bremen_2019,Union Berlin,3,1,4,5
+2019-09-14,Dortmund_Leverkusen_2019,Leverkusen,2,2,4,5
+2019-09-14,RB Leipzig_Bayern Munich_2019,RB Leipzig,2,2,4,5
+2019-09-14,Mainz_Hertha_2019,Mainz,2,2,4,5
+2019-09-14,FC Koln_M'gladbach_2019,FC Koln,2,2,4,5
+2019-09-15,Hoffenheim_Freiburg_2019,Freiburg,2,2,4,5
+2019-09-15,Hoffenheim_Freiburg_2019,Hoffenheim,2,2,4,5
+2019-09-15,Paderborn_Schalke 04_2019,Paderborn,2,2,4,5
+2019-09-15,Paderborn_Schalke 04_2019,Schalke 04,2,2,4,5
+2019-09-20,Schalke 04_Mainz_2019,Mainz,2,3,5,6
+2019-09-20,Schalke 04_Mainz_2019,Schalke 04,3,2,5,6
+2019-09-21,Bayern Munich_FC Koln_2019,FC Koln,2,3,5,6
+2019-09-21,Leverkusen_Union Berlin_2019,Leverkusen,3,2,5,6
+2019-09-21,Leverkusen_Union Berlin_2019,Union Berlin,3,2,5,6
+2019-09-21,Bayern Munich_FC Koln_2019,Bayern Munich,3,2,5,6
+2019-09-21,Hertha_Paderborn_2019,Paderborn,2,3,5,6
+2019-09-21,Freiburg_Augsburg_2019,Freiburg,3,2,5,6
+2019-09-21,Werder Bremen_RB Leipzig_2019,RB Leipzig,2,3,5,6
+2019-09-21,Werder Bremen_RB Leipzig_2019,Werder Bremen,3,2,5,6
+2019-09-21,Freiburg_Augsburg_2019,Augsburg,2,3,5,6
+2019-09-21,Hertha_Paderborn_2019,Hertha,2,3,5,6
+2019-09-22,M'gladbach_Fortuna Dusseldorf_2019,M'gladbach,3,2,5,6
+2019-09-22,M'gladbach_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,2,3,5,6
+2019-09-22,Ein Frankfurt_Dortmund_2019,Dortmund,2,3,5,6
+2019-09-22,Ein Frankfurt_Dortmund_2019,Ein Frankfurt,3,2,5,6
+2019-09-23,Wolfsburg_Hoffenheim_2019,Hoffenheim,2,3,5,6
+2019-09-23,Wolfsburg_Hoffenheim_2019,Wolfsburg,3,2,5,6
+2019-09-27,Union Berlin_Ein Frankfurt_2019,Ein Frankfurt,3,3,6,7
+2019-09-27,Union Berlin_Ein Frankfurt_2019,Union Berlin,4,2,6,7
+2019-09-28,Hoffenheim_M'gladbach_2019,Hoffenheim,3,3,6,7
+2019-09-28,Dortmund_Werder Bremen_2019,Dortmund,3,3,6,7
+2019-09-28,RB Leipzig_Schalke 04_2019,Schalke 04,3,3,6,7
+2019-09-28,Paderborn_Bayern Munich_2019,Paderborn,3,3,6,7
+2019-09-28,Paderborn_Bayern Munich_2019,Bayern Munich,3,3,6,7
+2019-09-28,RB Leipzig_Schalke 04_2019,RB Leipzig,3,3,6,7
+2019-09-28,Augsburg_Leverkusen_2019,Leverkusen,3,3,6,7
+2019-09-28,Mainz_Wolfsburg_2019,Wolfsburg,3,3,6,7
+2019-09-28,Mainz_Wolfsburg_2019,Mainz,3,3,6,7
+2019-09-28,Augsburg_Leverkusen_2019,Augsburg,3,3,6,7
+2019-09-28,Dortmund_Werder Bremen_2019,Werder Bremen,3,3,6,7
+2019-09-28,Hoffenheim_M'gladbach_2019,M'gladbach,3,3,6,7
+2019-09-29,Fortuna Dusseldorf_Freiburg_2019,Fortuna Dusseldorf,3,3,6,7
+2019-09-29,FC Koln_Hertha_2019,Hertha,2,4,6,7
+2019-09-29,FC Koln_Hertha_2019,FC Koln,3,3,6,7
+2019-09-29,Fortuna Dusseldorf_Freiburg_2019,Freiburg,3,3,6,7
+2019-10-04,Hertha_Fortuna Dusseldorf_2019,Hertha,3,4,7,8
+2019-10-04,Hertha_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,3,4,7,8
+2019-10-05,Leverkusen_RB Leipzig_2019,RB Leipzig,3,4,7,8
+2019-10-05,Schalke 04_FC Koln_2019,FC Koln,3,4,7,8
+2019-10-05,Leverkusen_RB Leipzig_2019,Leverkusen,4,3,7,8
+2019-10-05,Bayern Munich_Hoffenheim_2019,Hoffenheim,3,4,7,8
+2019-10-05,Schalke 04_FC Koln_2019,Schalke 04,4,3,7,8
+2019-10-05,Freiburg_Dortmund_2019,Dortmund,3,4,7,8
+2019-10-05,Freiburg_Dortmund_2019,Freiburg,4,3,7,8
+2019-10-05,Paderborn_Mainz_2019,Paderborn,4,3,7,8
+2019-10-05,Bayern Munich_Hoffenheim_2019,Bayern Munich,4,3,7,8
+2019-10-05,Paderborn_Mainz_2019,Mainz,3,4,7,8
+2019-10-06,Ein Frankfurt_Werder Bremen_2019,Ein Frankfurt,4,3,7,8
+2019-10-06,Ein Frankfurt_Werder Bremen_2019,Werder Bremen,3,4,7,8
+2019-10-06,Wolfsburg_Union Berlin_2019,Union Berlin,4,3,7,8
+2019-10-06,M'gladbach_Augsburg_2019,M'gladbach,4,3,7,8
+2019-10-06,M'gladbach_Augsburg_2019,Augsburg,3,4,7,8
+2019-10-06,Wolfsburg_Union Berlin_2019,Wolfsburg,4,3,7,8
+2019-10-18,Ein Frankfurt_Leverkusen_2019,Ein Frankfurt,5,3,8,10
+2019-10-18,Ein Frankfurt_Leverkusen_2019,Leverkusen,4,4,8,10
+2019-10-19,RB Leipzig_Wolfsburg_2019,Wolfsburg,4,4,8,10
+2019-10-19,Augsburg_Bayern Munich_2019,Augsburg,4,4,8,10
+2019-10-19,RB Leipzig_Wolfsburg_2019,RB Leipzig,4,4,8,10
+2019-10-19,Fortuna Dusseldorf_Mainz_2019,Mainz,3,5,8,10
+2019-10-19,Dortmund_M'gladbach_2019,Dortmund,4,4,8,10
+2019-10-19,Union Berlin_Freiburg_2019,Freiburg,4,4,8,10
+2019-10-19,Union Berlin_Freiburg_2019,Union Berlin,5,3,8,10
+2019-10-19,Dortmund_M'gladbach_2019,M'gladbach,4,4,8,10
+2019-10-19,Fortuna Dusseldorf_Mainz_2019,Fortuna Dusseldorf,4,4,8,10
+2019-10-19,Werder Bremen_Hertha_2019,Werder Bremen,4,4,8,10
+2019-10-19,Augsburg_Bayern Munich_2019,Bayern Munich,4,4,8,10
+2019-10-19,Werder Bremen_Hertha_2019,Hertha,3,5,8,10
+2019-10-20,FC Koln_Paderborn_2019,FC Koln,4,4,8,10
+2019-10-20,Hoffenheim_Schalke 04_2019,Schalke 04,4,4,8,10
+2019-10-20,FC Koln_Paderborn_2019,Paderborn,4,4,8,10
+2019-10-20,Hoffenheim_Schalke 04_2019,Hoffenheim,4,4,8,10
+2019-10-25,Mainz_FC Koln_2019,Mainz,4,5,9,11
+2019-10-25,Mainz_FC Koln_2019,FC Koln,4,5,9,11
+2019-10-26,Hertha_Hoffenheim_2019,Hoffenheim,4,5,9,11
+2019-10-26,Freiburg_RB Leipzig_2019,RB Leipzig,4,5,9,11
+2019-10-26,Schalke 04_Dortmund_2019,Schalke 04,5,4,9,11
+2019-10-26,Freiburg_RB Leipzig_2019,Freiburg,5,4,9,11
+2019-10-26,Bayern Munich_Union Berlin_2019,Union Berlin,5,4,9,11
+2019-10-26,Paderborn_Fortuna Dusseldorf_2019,Paderborn,5,4,9,11
+2019-10-26,Leverkusen_Werder Bremen_2019,Leverkusen,5,4,9,11
+2019-10-26,Schalke 04_Dortmund_2019,Dortmund,4,5,9,11
+2019-10-26,Hertha_Hoffenheim_2019,Hertha,4,5,9,11
+2019-10-26,Leverkusen_Werder Bremen_2019,Werder Bremen,4,5,9,11
+2019-10-26,Paderborn_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,4,5,9,11
+2019-10-26,Bayern Munich_Union Berlin_2019,Bayern Munich,5,4,9,11
+2019-10-27,Wolfsburg_Augsburg_2019,Augsburg,4,5,9,11
+2019-10-27,M'gladbach_Ein Frankfurt_2019,Ein Frankfurt,5,4,9,11
+2019-10-27,M'gladbach_Ein Frankfurt_2019,M'gladbach,5,4,9,11
+2019-10-27,Wolfsburg_Augsburg_2019,Wolfsburg,5,4,9,11
+2019-11-01,Hoffenheim_Paderborn_2019,Hoffenheim,5,5,10,12
+2019-11-01,Hoffenheim_Paderborn_2019,Paderborn,5,5,10,12
+2019-11-02,Dortmund_Wolfsburg_2019,Wolfsburg,5,5,10,12
+2019-11-02,Dortmund_Wolfsburg_2019,Dortmund,5,5,10,12
+2019-11-02,RB Leipzig_Mainz_2019,RB Leipzig,5,5,10,12
+2019-11-02,Werder Bremen_Freiburg_2019,Werder Bremen,5,5,10,12
+2019-11-02,Ein Frankfurt_Bayern Munich_2019,Bayern Munich,5,5,10,12
+2019-11-02,Union Berlin_Hertha_2019,Union Berlin,6,4,10,12
+2019-11-02,Werder Bremen_Freiburg_2019,Freiburg,5,5,10,12
+2019-11-02,Leverkusen_M'gladbach_2019,Leverkusen,6,4,10,12
+2019-11-02,RB Leipzig_Mainz_2019,Mainz,4,6,10,12
+2019-11-02,Ein Frankfurt_Bayern Munich_2019,Ein Frankfurt,6,4,10,12
+2019-11-02,Leverkusen_M'gladbach_2019,M'gladbach,5,5,10,12
+2019-11-02,Union Berlin_Hertha_2019,Hertha,4,6,10,12
+2019-11-03,Augsburg_Schalke 04_2019,Augsburg,5,5,10,12
+2019-11-03,Fortuna Dusseldorf_FC Koln_2019,FC Koln,4,6,10,12
+2019-11-03,Augsburg_Schalke 04_2019,Schalke 04,5,5,10,12
+2019-11-03,Fortuna Dusseldorf_FC Koln_2019,Fortuna Dusseldorf,5,5,10,12
+2019-11-08,FC Koln_Hoffenheim_2019,FC Koln,5,6,11,13
+2019-11-08,FC Koln_Hoffenheim_2019,Hoffenheim,5,6,11,13
+2019-11-09,Paderborn_Augsburg_2019,Paderborn,6,5,11,13
+2019-11-09,Schalke 04_Fortuna Dusseldorf_2019,Schalke 04,6,5,11,13
+2019-11-09,Mainz_Union Berlin_2019,Mainz,5,6,11,13
+2019-11-09,Paderborn_Augsburg_2019,Augsburg,5,6,11,13
+2019-11-09,Hertha_RB Leipzig_2019,RB Leipzig,5,6,11,13
+2019-11-09,Bayern Munich_Dortmund_2019,Bayern Munich,6,5,11,13
+2019-11-09,Bayern Munich_Dortmund_2019,Dortmund,5,6,11,13
+2019-11-09,Hertha_RB Leipzig_2019,Hertha,5,6,11,13
+2019-11-09,Schalke 04_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,5,6,11,13
+2019-11-09,Mainz_Union Berlin_2019,Union Berlin,6,5,11,13
+2019-11-10,M'gladbach_Werder Bremen_2019,Werder Bremen,5,6,11,13
+2019-11-10,Freiburg_Ein Frankfurt_2019,Ein Frankfurt,6,5,11,13
+2019-11-10,M'gladbach_Werder Bremen_2019,M'gladbach,6,5,11,13
+2019-11-10,Wolfsburg_Leverkusen_2019,Leverkusen,6,5,11,13
+2019-11-10,Freiburg_Ein Frankfurt_2019,Freiburg,6,5,11,13
+2019-11-10,Wolfsburg_Leverkusen_2019,Wolfsburg,6,5,11,13
+2019-11-22,Dortmund_Paderborn_2019,Dortmund,6,6,12,15
+2019-11-22,Dortmund_Paderborn_2019,Paderborn,6,6,12,15
+2019-11-23,Ein Frankfurt_Wolfsburg_2019,Wolfsburg,6,6,12,15
+2019-11-23,Fortuna Dusseldorf_Bayern Munich_2019,Fortuna Dusseldorf,6,6,12,15
+2019-11-23,Leverkusen_Freiburg_2019,Leverkusen,7,5,12,15
+2019-11-23,RB Leipzig_FC Koln_2019,FC Koln,5,7,12,15
+2019-11-23,Leverkusen_Freiburg_2019,Freiburg,6,6,12,15
+2019-11-23,Werder Bremen_Schalke 04_2019,Schalke 04,6,6,12,15
+2019-11-23,Union Berlin_M'gladbach_2019,M'gladbach,6,6,12,15
+2019-11-23,Fortuna Dusseldorf_Bayern Munich_2019,Bayern Munich,6,6,12,15
+2019-11-23,Ein Frankfurt_Wolfsburg_2019,Ein Frankfurt,7,5,12,15
+2019-11-23,Werder Bremen_Schalke 04_2019,Werder Bremen,6,6,12,15
+2019-11-23,RB Leipzig_FC Koln_2019,RB Leipzig,6,6,12,15
+2019-11-23,Union Berlin_M'gladbach_2019,Union Berlin,7,5,12,15
+2019-11-24,Augsburg_Hertha_2019,Hertha,5,7,12,15
+2019-11-24,Hoffenheim_Mainz_2019,Mainz,5,7,12,15
+2019-11-24,Hoffenheim_Mainz_2019,Hoffenheim,6,6,12,15
+2019-11-24,Augsburg_Hertha_2019,Augsburg,6,6,12,15
+2019-11-29,Schalke 04_Union Berlin_2019,Schalke 04,7,6,13,16
+2019-11-29,Schalke 04_Union Berlin_2019,Union Berlin,7,6,13,16
+2019-11-30,Hertha_Dortmund_2019,Dortmund,6,7,13,16
+2019-11-30,Hertha_Dortmund_2019,Hertha,6,7,13,16
+2019-11-30,Hoffenheim_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,6,7,13,16
+2019-11-30,Paderborn_RB Leipzig_2019,RB Leipzig,6,7,13,16
+2019-11-30,Bayern Munich_Leverkusen_2019,Bayern Munich,7,6,13,16
+2019-11-30,FC Koln_Augsburg_2019,FC Koln,6,7,13,16
+2019-11-30,Paderborn_RB Leipzig_2019,Paderborn,7,6,13,16
+2019-11-30,Hoffenheim_Fortuna Dusseldorf_2019,Hoffenheim,7,6,13,16
+2019-11-30,Bayern Munich_Leverkusen_2019,Leverkusen,7,6,13,16
+2019-11-30,FC Koln_Augsburg_2019,Augsburg,6,7,13,16
+2019-12-01,Wolfsburg_Werder Bremen_2019,Werder Bremen,6,7,13,16
+2019-12-01,Wolfsburg_Werder Bremen_2019,Wolfsburg,7,6,13,16
+2019-12-01,M'gladbach_Freiburg_2019,Freiburg,6,7,13,16
+2019-12-01,M'gladbach_Freiburg_2019,M'gladbach,7,6,13,16
+2019-12-02,Mainz_Ein Frankfurt_2019,Ein Frankfurt,7,6,13,16
+2019-12-02,Mainz_Ein Frankfurt_2019,Mainz,6,7,13,16
+2019-12-06,Ein Frankfurt_Hertha_2019,Ein Frankfurt,8,6,14,17
+2019-12-06,Ein Frankfurt_Hertha_2019,Hertha,6,8,14,17
+2019-12-07,Freiburg_Wolfsburg_2019,Wolfsburg,7,7,14,17
+2019-12-07,Augsburg_Mainz_2019,Augsburg,7,7,14,17
+2019-12-07,Augsburg_Mainz_2019,Mainz,6,8,14,17
+2019-12-07,Freiburg_Wolfsburg_2019,Freiburg,7,7,14,17
+2019-12-07,Dortmund_Fortuna Dusseldorf_2019,Dortmund,7,7,14,17
+2019-12-07,Leverkusen_Schalke 04_2019,Leverkusen,8,6,14,17
+2019-12-07,RB Leipzig_Hoffenheim_2019,RB Leipzig,7,7,14,17
+2019-12-07,M'gladbach_Bayern Munich_2019,Bayern Munich,7,7,14,17
+2019-12-07,RB Leipzig_Hoffenheim_2019,Hoffenheim,7,7,14,17
+2019-12-07,M'gladbach_Bayern Munich_2019,M'gladbach,8,6,14,17
+2019-12-07,Leverkusen_Schalke 04_2019,Schalke 04,7,7,14,17
+2019-12-07,Dortmund_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,6,8,14,17
+2019-12-08,Werder Bremen_Paderborn_2019,Werder Bremen,7,7,14,17
+2019-12-08,Union Berlin_FC Koln_2019,Union Berlin,8,6,14,17
+2019-12-08,Werder Bremen_Paderborn_2019,Paderborn,7,7,14,17
+2019-12-08,Union Berlin_FC Koln_2019,FC Koln,6,8,14,17
+2019-12-13,Hoffenheim_Augsburg_2019,Augsburg,7,8,15,18
+2019-12-13,Hoffenheim_Augsburg_2019,Hoffenheim,8,7,15,18
+2019-12-14,FC Koln_Leverkusen_2019,Leverkusen,8,7,15,18
+2019-12-14,Hertha_Freiburg_2019,Freiburg,7,8,15,18
+2019-12-14,Bayern Munich_Werder Bremen_2019,Werder Bremen,7,8,15,18
+2019-12-14,Bayern Munich_Werder Bremen_2019,Bayern Munich,8,7,15,18
+2019-12-14,Paderborn_Union Berlin_2019,Union Berlin,8,7,15,18
+2019-12-14,Mainz_Dortmund_2019,Dortmund,7,8,15,18
+2019-12-14,Mainz_Dortmund_2019,Mainz,7,8,15,18
+2019-12-14,Hertha_Freiburg_2019,Hertha,7,8,15,18
+2019-12-14,Paderborn_Union Berlin_2019,Paderborn,8,7,15,18
+2019-12-14,FC Koln_Leverkusen_2019,FC Koln,7,8,15,18
+2019-12-14,Fortuna Dusseldorf_RB Leipzig_2019,Fortuna Dusseldorf,7,8,15,18
+2019-12-14,Fortuna Dusseldorf_RB Leipzig_2019,RB Leipzig,7,8,15,18
+2019-12-15,Schalke 04_Ein Frankfurt_2019,Schalke 04,8,7,15,18
+2019-12-15,Schalke 04_Ein Frankfurt_2019,Ein Frankfurt,8,7,15,18
+2019-12-15,Wolfsburg_M'gladbach_2019,Wolfsburg,8,7,15,18
+2019-12-15,Wolfsburg_M'gladbach_2019,M'gladbach,8,7,15,18
+2019-12-17,Augsburg_Fortuna Dusseldorf_2019,Augsburg,8,8,16,19
+2019-12-17,Werder Bremen_Mainz_2019,Mainz,7,9,16,19
+2019-12-17,Union Berlin_Hoffenheim_2019,Hoffenheim,8,8,16,19
+2019-12-17,Augsburg_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,7,9,16,19
+2019-12-17,Dortmund_RB Leipzig_2019,RB Leipzig,7,9,16,19
+2019-12-17,Dortmund_RB Leipzig_2019,Dortmund,8,8,16,19
+2019-12-17,Union Berlin_Hoffenheim_2019,Union Berlin,9,7,16,19
+2019-12-17,Werder Bremen_Mainz_2019,Werder Bremen,8,8,16,19
+2019-12-18,M'gladbach_Paderborn_2019,Paderborn,8,8,16,19
+2019-12-18,M'gladbach_Paderborn_2019,M'gladbach,9,7,16,19
+2019-12-18,Freiburg_Bayern Munich_2019,Bayern Munich,8,8,16,19
+2019-12-18,Wolfsburg_Schalke 04_2019,Schalke 04,8,8,16,19
+2019-12-18,Ein Frankfurt_FC Koln_2019,Ein Frankfurt,9,7,16,19
+2019-12-18,Freiburg_Bayern Munich_2019,Freiburg,8,8,16,19
+2019-12-18,Ein Frankfurt_FC Koln_2019,FC Koln,7,9,16,19
+2019-12-18,Leverkusen_Hertha_2019,Leverkusen,9,7,16,19
+2019-12-18,Leverkusen_Hertha_2019,Hertha,7,9,16,19
+2019-12-18,Wolfsburg_Schalke 04_2019,Wolfsburg,9,7,16,19
+2019-12-20,Hoffenheim_Dortmund_2019,Dortmund,8,9,17,19
+2019-12-20,Hoffenheim_Dortmund_2019,Hoffenheim,9,8,17,19
+2019-12-21,FC Koln_Werder Bremen_2019,Werder Bremen,8,9,17,19
+2019-12-21,Hertha_M'gladbach_2019,M'gladbach,9,8,17,19
+2019-12-21,Hertha_M'gladbach_2019,Hertha,8,9,17,19
+2019-12-21,Schalke 04_Freiburg_2019,Freiburg,8,9,17,19
+2019-12-21,FC Koln_Werder Bremen_2019,FC Koln,8,9,17,19
+2019-12-21,RB Leipzig_Augsburg_2019,Augsburg,8,9,17,19
+2019-12-21,Bayern Munich_Wolfsburg_2019,Bayern Munich,9,8,17,19
+2019-12-21,Mainz_Leverkusen_2019,Leverkusen,9,8,17,19
+2019-12-21,RB Leipzig_Augsburg_2019,RB Leipzig,8,9,17,19
+2019-12-21,Mainz_Leverkusen_2019,Mainz,8,9,17,19
+2019-12-21,Schalke 04_Freiburg_2019,Schalke 04,9,8,17,19
+2019-12-21,Bayern Munich_Wolfsburg_2019,Wolfsburg,9,8,17,19
+2019-12-22,Fortuna Dusseldorf_Union Berlin_2019,Fortuna Dusseldorf,8,9,17,19
+2019-12-22,Paderborn_Ein Frankfurt_2019,Ein Frankfurt,9,8,17,19
+2019-12-22,Paderborn_Ein Frankfurt_2019,Paderborn,9,8,17,19
+2019-12-22,Fortuna Dusseldorf_Union Berlin_2019,Union Berlin,9,8,17,19
+2020-01-17,Schalke 04_M'gladbach_2019,M'gladbach,9,9,18,23
+2020-01-17,Schalke 04_M'gladbach_2019,Schalke 04,10,8,18,23
+2020-01-18,Mainz_Freiburg_2019,Freiburg,8,10,18,23
+2020-01-18,RB Leipzig_Union Berlin_2019,Union Berlin,9,9,18,23
+2020-01-18,FC Koln_Wolfsburg_2019,Wolfsburg,9,9,18,23
+2020-01-18,Augsburg_Dortmund_2019,Augsburg,9,9,18,23
+2020-01-18,RB Leipzig_Union Berlin_2019,RB Leipzig,9,9,18,23
+2020-01-18,Mainz_Freiburg_2019,Mainz,9,9,18,23
+2020-01-18,Hoffenheim_Ein Frankfurt_2019,Ein Frankfurt,9,9,18,23
+2020-01-18,Fortuna Dusseldorf_Werder Bremen_2019,Fortuna Dusseldorf,9,9,18,23
+2020-01-18,Augsburg_Dortmund_2019,Dortmund,8,10,18,23
+2020-01-18,Fortuna Dusseldorf_Werder Bremen_2019,Werder Bremen,8,10,18,23
+2020-01-18,Hoffenheim_Ein Frankfurt_2019,Hoffenheim,10,8,18,23
+2020-01-18,FC Koln_Wolfsburg_2019,FC Koln,9,9,18,23
+2020-01-19,Paderborn_Leverkusen_2019,Leverkusen,9,9,18,23
+2020-01-19,Paderborn_Leverkusen_2019,Paderborn,10,8,18,23
+2020-01-19,Hertha_Bayern Munich_2019,Bayern Munich,9,9,18,23
+2020-01-19,Hertha_Bayern Munich_2019,Hertha,9,9,18,23
+2020-01-24,Dortmund_FC Koln_2019,Dortmund,9,10,19,24
+2020-01-24,Dortmund_FC Koln_2019,FC Koln,9,10,19,24
+2020-01-25,Bayern Munich_Schalke 04_2019,Schalke 04,10,9,19,24
+2020-01-25,Wolfsburg_Hertha_2019,Wolfsburg,10,9,19,24
+2020-01-25,Union Berlin_Augsburg_2019,Augsburg,9,10,19,24
+2020-01-25,Ein Frankfurt_RB Leipzig_2019,Ein Frankfurt,10,9,19,24
+2020-01-25,Freiburg_Paderborn_2019,Freiburg,9,10,19,24
+2020-01-25,M'gladbach_Mainz_2019,Mainz,9,10,19,24
+2020-01-25,Freiburg_Paderborn_2019,Paderborn,10,9,19,24
+2020-01-25,Wolfsburg_Hertha_2019,Hertha,9,10,19,24
+2020-01-25,M'gladbach_Mainz_2019,M'gladbach,10,9,19,24
+2020-01-25,Bayern Munich_Schalke 04_2019,Bayern Munich,10,9,19,24
+2020-01-25,Union Berlin_Augsburg_2019,Union Berlin,10,9,19,24
+2020-01-25,Ein Frankfurt_RB Leipzig_2019,RB Leipzig,9,10,19,24
+2020-01-26,Leverkusen_Fortuna Dusseldorf_2019,Leverkusen,10,9,19,24
+2020-01-26,Werder Bremen_Hoffenheim_2019,Hoffenheim,10,9,19,24
+2020-01-26,Leverkusen_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,9,10,19,24
+2020-01-26,Werder Bremen_Hoffenheim_2019,Werder Bremen,9,10,19,24
+2020-01-31,Hertha_Schalke 04_2019,Schalke 04,10,10,20,25
+2020-01-31,Hertha_Schalke 04_2019,Hertha,10,10,20,25
+2020-02-01,Augsburg_Werder Bremen_2019,Augsburg,10,10,20,25
+2020-02-01,Dortmund_Union Berlin_2019,Dortmund,10,10,20,25
+2020-02-01,Hoffenheim_Leverkusen_2019,Leverkusen,10,10,20,25
+2020-02-01,Fortuna Dusseldorf_Ein Frankfurt_2019,Fortuna Dusseldorf,10,10,20,25
+2020-02-01,Mainz_Bayern Munich_2019,Bayern Munich,10,10,20,25
+2020-02-01,Fortuna Dusseldorf_Ein Frankfurt_2019,Ein Frankfurt,10,10,20,25
+2020-02-01,Mainz_Bayern Munich_2019,Mainz,10,10,20,25
+2020-02-01,Hoffenheim_Leverkusen_2019,Hoffenheim,11,9,20,25
+2020-02-01,RB Leipzig_M'gladbach_2019,M'gladbach,10,10,20,25
+2020-02-01,RB Leipzig_M'gladbach_2019,RB Leipzig,10,10,20,25
+2020-02-01,Dortmund_Union Berlin_2019,Union Berlin,10,10,20,25
+2020-02-01,Augsburg_Werder Bremen_2019,Werder Bremen,9,11,20,25
+2020-02-02,FC Koln_Freiburg_2019,FC Koln,10,10,20,25
+2020-02-02,FC Koln_Freiburg_2019,Freiburg,9,11,20,25
+2020-02-02,Paderborn_Wolfsburg_2019,Wolfsburg,10,10,20,25
+2020-02-02,Paderborn_Wolfsburg_2019,Paderborn,11,9,20,25
+2020-02-07,Ein Frankfurt_Augsburg_2019,Augsburg,10,11,21,26
+2020-02-07,Ein Frankfurt_Augsburg_2019,Ein Frankfurt,11,10,21,26
+2020-02-08,Leverkusen_Dortmund_2019,Leverkusen,11,10,21,26
+2020-02-08,Wolfsburg_Fortuna Dusseldorf_2019,Wolfsburg,11,10,21,26
+2020-02-08,Hertha_Mainz_2019,Mainz,10,11,21,26
+2020-02-08,Wolfsburg_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,10,11,21,26
+2020-02-08,Werder Bremen_Union Berlin_2019,Union Berlin,10,11,21,26
+2020-02-08,Schalke 04_Paderborn_2019,Schalke 04,11,10,21,26
+2020-02-08,Freiburg_Hoffenheim_2019,Freiburg,10,11,21,26
+2020-02-08,Hertha_Mainz_2019,Hertha,11,10,21,26
+2020-02-08,Werder Bremen_Union Berlin_2019,Werder Bremen,10,11,21,26
+2020-02-08,Leverkusen_Dortmund_2019,Dortmund,10,11,21,26
+2020-02-08,Schalke 04_Paderborn_2019,Paderborn,11,10,21,26
+2020-02-08,Freiburg_Hoffenheim_2019,Hoffenheim,11,10,21,26
+2020-02-09,Bayern Munich_RB Leipzig_2019,RB Leipzig,10,11,21,26
+2020-02-09,Bayern Munich_RB Leipzig_2019,Bayern Munich,11,10,21,26
+2020-02-14,Dortmund_Ein Frankfurt_2019,Dortmund,11,11,22,27
+2020-02-14,Dortmund_Ein Frankfurt_2019,Ein Frankfurt,11,11,22,27
+2020-02-15,Fortuna Dusseldorf_M'gladbach_2019,M'gladbach,10,11,21,27
+2020-02-15,Hoffenheim_Wolfsburg_2019,Hoffenheim,12,10,22,27
+2020-02-15,Union Berlin_Leverkusen_2019,Leverkusen,11,11,22,27
+2020-02-15,RB Leipzig_Werder Bremen_2019,Werder Bremen,10,12,22,27
+2020-02-15,Hoffenheim_Wolfsburg_2019,Wolfsburg,11,11,22,27
+2020-02-15,RB Leipzig_Werder Bremen_2019,RB Leipzig,11,11,22,27
+2020-02-15,Augsburg_Freiburg_2019,Freiburg,10,12,22,27
+2020-02-15,Augsburg_Freiburg_2019,Augsburg,11,11,22,27
+2020-02-15,Paderborn_Hertha_2019,Paderborn,12,10,22,27
+2020-02-15,Union Berlin_Leverkusen_2019,Union Berlin,11,11,22,27
+2020-02-15,Paderborn_Hertha_2019,Hertha,11,11,22,27
+2020-02-15,Fortuna Dusseldorf_M'gladbach_2019,Fortuna Dusseldorf,11,11,22,27
+2020-02-16,Mainz_Schalke 04_2019,Mainz,11,11,22,27
+2020-02-16,Mainz_Schalke 04_2019,Schalke 04,11,11,22,27
+2020-02-16,FC Koln_Bayern Munich_2019,Bayern Munich,11,11,22,27
+2020-02-16,FC Koln_Bayern Munich_2019,FC Koln,11,10,21,27
+2020-02-21,Bayern Munich_Paderborn_2019,Bayern Munich,12,11,23,28
+2020-02-21,Bayern Munich_Paderborn_2019,Paderborn,12,11,23,28
+2020-02-22,Werder Bremen_Dortmund_2019,Werder Bremen,11,12,23,28
+2020-02-22,Hertha_FC Koln_2019,FC Koln,11,11,22,28
+2020-02-22,Schalke 04_RB Leipzig_2019,Schalke 04,12,11,23,28
+2020-02-22,M'gladbach_Hoffenheim_2019,Hoffenheim,12,11,23,28
+2020-02-22,Freiburg_Fortuna Dusseldorf_2019,Freiburg,11,12,23,28
+2020-02-22,Freiburg_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,11,12,23,28
+2020-02-22,Schalke 04_RB Leipzig_2019,RB Leipzig,11,12,23,28
+2020-02-22,M'gladbach_Hoffenheim_2019,M'gladbach,11,11,22,28
+2020-02-22,Hertha_FC Koln_2019,Hertha,12,11,23,28
+2020-02-22,Werder Bremen_Dortmund_2019,Dortmund,11,12,23,28
+2020-02-23,Wolfsburg_Mainz_2019,Wolfsburg,12,11,23,28
+2020-02-23,Wolfsburg_Mainz_2019,Mainz,11,12,23,28
+2020-02-23,Leverkusen_Augsburg_2019,Leverkusen,12,11,23,28
+2020-02-23,Leverkusen_Augsburg_2019,Augsburg,11,12,23,28
+2020-02-24,Ein Frankfurt_Union Berlin_2019,Ein Frankfurt,12,11,23,28
+2020-02-24,Ein Frankfurt_Union Berlin_2019,Union Berlin,11,12,23,28
+2020-02-28,Fortuna Dusseldorf_Hertha_2019,Hertha,12,12,24,29
+2020-02-28,Fortuna Dusseldorf_Hertha_2019,Fortuna Dusseldorf,12,12,24,29
+2020-02-29,Hoffenheim_Bayern Munich_2019,Hoffenheim,13,11,24,29
+2020-02-29,Dortmund_Freiburg_2019,Dortmund,12,12,24,29
+2020-02-29,Augsburg_M'gladbach_2019,Augsburg,12,12,24,29
+2020-02-29,Dortmund_Freiburg_2019,Freiburg,11,13,24,29
+2020-02-29,Hoffenheim_Bayern Munich_2019,Bayern Munich,12,12,24,29
+2020-02-29,Mainz_Paderborn_2019,Mainz,12,12,24,29
+2020-02-29,Augsburg_M'gladbach_2019,M'gladbach,11,12,23,29
+2020-02-29,FC Koln_Schalke 04_2019,Schalke 04,12,12,24,29
+2020-02-29,Mainz_Paderborn_2019,Paderborn,12,12,24,29
+2020-02-29,FC Koln_Schalke 04_2019,FC Koln,12,11,23,29
+2020-03-01,Union Berlin_Wolfsburg_2019,Union Berlin,12,12,24,29
+2020-03-01,RB Leipzig_Leverkusen_2019,RB Leipzig,12,12,24,29
+2020-03-01,RB Leipzig_Leverkusen_2019,Leverkusen,12,12,24,29
+2020-03-01,Union Berlin_Wolfsburg_2019,Wolfsburg,12,12,24,29
+2020-03-06,Paderborn_FC Koln_2019,FC Koln,12,12,24,30
+2020-03-06,Paderborn_FC Koln_2019,Paderborn,13,12,25,30
+2020-03-07,Wolfsburg_RB Leipzig_2019,Wolfsburg,13,12,25,30
+2020-03-07,M'gladbach_Dortmund_2019,M'gladbach,12,12,24,30
+2020-03-07,Hertha_Werder Bremen_2019,Werder Bremen,11,13,24,30
+2020-03-07,Hertha_Werder Bremen_2019,Hertha,13,12,25,30
+2020-03-07,Freiburg_Union Berlin_2019,Union Berlin,12,13,25,30
+2020-03-07,Wolfsburg_RB Leipzig_2019,RB Leipzig,12,13,25,30
+2020-03-07,Leverkusen_Ein Frankfurt_2019,Ein Frankfurt,12,12,24,30
+2020-03-07,Leverkusen_Ein Frankfurt_2019,Leverkusen,13,12,25,30
+2020-03-07,Schalke 04_Hoffenheim_2019,Hoffenheim,13,12,25,30
+2020-03-07,Schalke 04_Hoffenheim_2019,Schalke 04,13,12,25,30
+2020-03-07,M'gladbach_Dortmund_2019,Dortmund,12,13,25,30
+2020-03-07,Freiburg_Union Berlin_2019,Freiburg,12,13,25,30
+2020-03-08,Mainz_Fortuna Dusseldorf_2019,Mainz,13,12,25,30
+2020-03-08,Mainz_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,12,13,25,30
+2020-03-08,Bayern Munich_Augsburg_2019,Bayern Munich,13,12,25,30
+2020-03-08,Bayern Munich_Augsburg_2019,Augsburg,12,13,25,30
+2020-03-11,M'gladbach_FC Koln_2019,FC Koln,12,13,25,31
+2020-03-11,M'gladbach_FC Koln_2019,M'gladbach,13,12,25,31
+2020-05-16,Augsburg_Wolfsburg_2019,Augsburg,13,13,26,40
+2020-05-16,Ein Frankfurt_M'gladbach_2019,Ein Frankfurt,13,12,25,40
+2020-05-16,Hoffenheim_Hertha_2019,Hoffenheim,14,12,26,40
+2020-05-16,RB Leipzig_Freiburg_2019,Freiburg,12,14,26,40
+2020-05-16,Hoffenheim_Hertha_2019,Hertha,13,13,26,40
+2020-05-16,Fortuna Dusseldorf_Paderborn_2019,Fortuna Dusseldorf,13,13,26,40
+2020-05-16,Dortmund_Schalke 04_2019,Dortmund,13,13,26,40
+2020-05-16,Ein Frankfurt_M'gladbach_2019,M'gladbach,13,13,26,40
+2020-05-16,Augsburg_Wolfsburg_2019,Wolfsburg,13,13,26,40
+2020-05-16,Dortmund_Schalke 04_2019,Schalke 04,13,13,26,40
+2020-05-16,Fortuna Dusseldorf_Paderborn_2019,Paderborn,13,13,26,40
+2020-05-16,RB Leipzig_Freiburg_2019,RB Leipzig,13,13,26,40
+2020-05-17,Union Berlin_Bayern Munich_2019,Union Berlin,13,13,26,40
+2020-05-17,Union Berlin_Bayern Munich_2019,Bayern Munich,13,13,26,40
+2020-05-17,FC Koln_Mainz_2019,Mainz,13,13,26,40
+2020-05-17,FC Koln_Mainz_2019,FC Koln,13,13,26,40
+2020-05-18,Werder Bremen_Leverkusen_2019,Werder Bremen,12,13,25,40
+2020-05-18,Werder Bremen_Leverkusen_2019,Leverkusen,13,13,26,40
+2020-05-22,Hertha_Union Berlin_2019,Union Berlin,13,14,27,41
+2020-05-22,Hertha_Union Berlin_2019,Hertha,14,13,27,41
+2020-05-23,Bayern Munich_Ein Frankfurt_2019,Ein Frankfurt,13,13,26,41
+2020-05-23,Paderborn_Hoffenheim_2019,Hoffenheim,14,13,27,41
+2020-05-23,Wolfsburg_Dortmund_2019,Dortmund,13,14,27,41
+2020-05-23,M'gladbach_Leverkusen_2019,M'gladbach,14,13,27,41
+2020-05-23,Bayern Munich_Ein Frankfurt_2019,Bayern Munich,14,13,27,41
+2020-05-23,M'gladbach_Leverkusen_2019,Leverkusen,13,14,27,41
+2020-05-23,Freiburg_Werder Bremen_2019,Freiburg,13,14,27,41
+2020-05-23,Paderborn_Hoffenheim_2019,Paderborn,14,13,27,41
+2020-05-23,Wolfsburg_Dortmund_2019,Wolfsburg,14,13,27,41
+2020-05-23,Freiburg_Werder Bremen_2019,Werder Bremen,12,14,26,41
+2020-05-24,FC Koln_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,13,14,27,41
+2020-05-24,Mainz_RB Leipzig_2019,Mainz,14,13,27,41
+2020-05-24,Mainz_RB Leipzig_2019,RB Leipzig,13,14,27,41
+2020-05-24,FC Koln_Fortuna Dusseldorf_2019,FC Koln,14,13,27,41
+2020-05-24,Schalke 04_Augsburg_2019,Augsburg,13,14,27,41
+2020-05-24,Schalke 04_Augsburg_2019,Schalke 04,14,13,27,41
+2020-05-26,Werder Bremen_M'gladbach_2019,M'gladbach,14,14,28,42
+2020-05-26,Leverkusen_Wolfsburg_2019,Wolfsburg,14,14,28,42
+2020-05-26,Dortmund_Bayern Munich_2019,Bayern Munich,14,14,28,42
+2020-05-26,Ein Frankfurt_Freiburg_2019,Ein Frankfurt,14,13,27,42
+2020-05-26,Ein Frankfurt_Freiburg_2019,Freiburg,13,15,28,42
+2020-05-26,Leverkusen_Wolfsburg_2019,Leverkusen,14,14,28,42
+2020-05-26,Werder Bremen_M'gladbach_2019,Werder Bremen,13,14,27,42
+2020-05-26,Dortmund_Bayern Munich_2019,Dortmund,14,14,28,42
+2020-05-27,Hoffenheim_FC Koln_2019,FC Koln,14,14,28,42
+2020-05-27,Augsburg_Paderborn_2019,Augsburg,14,14,28,42
+2020-05-27,RB Leipzig_Hertha_2019,RB Leipzig,14,14,28,42
+2020-05-27,RB Leipzig_Hertha_2019,Hertha,14,14,28,42
+2020-05-27,Union Berlin_Mainz_2019,Mainz,14,14,28,42
+2020-05-27,Fortuna Dusseldorf_Schalke 04_2019,Fortuna Dusseldorf,14,14,28,42
+2020-05-27,Augsburg_Paderborn_2019,Paderborn,14,14,28,42
+2020-05-27,Union Berlin_Mainz_2019,Union Berlin,14,14,28,42
+2020-05-27,Hoffenheim_FC Koln_2019,Hoffenheim,15,13,28,42
+2020-05-27,Fortuna Dusseldorf_Schalke 04_2019,Schalke 04,14,14,28,42
+2020-05-29,Freiburg_Leverkusen_2019,Freiburg,14,15,29,42
+2020-05-29,Freiburg_Leverkusen_2019,Leverkusen,14,15,29,42
+2020-05-30,Wolfsburg_Ein Frankfurt_2019,Wolfsburg,15,14,29,42
+2020-05-30,Mainz_Hoffenheim_2019,Hoffenheim,15,14,29,42
+2020-05-30,Wolfsburg_Ein Frankfurt_2019,Ein Frankfurt,14,14,28,42
+2020-05-30,Mainz_Hoffenheim_2019,Mainz,15,14,29,42
+2020-05-30,Hertha_Augsburg_2019,Augsburg,14,15,29,42
+2020-05-30,Schalke 04_Werder Bremen_2019,Werder Bremen,13,15,28,42
+2020-05-30,Hertha_Augsburg_2019,Hertha,15,14,29,42
+2020-05-30,Bayern Munich_Fortuna Dusseldorf_2019,Bayern Munich,15,14,29,42
+2020-05-30,Schalke 04_Werder Bremen_2019,Schalke 04,15,14,29,42
+2020-05-30,Bayern Munich_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,14,15,29,42
+2020-05-31,M'gladbach_Union Berlin_2019,Union Berlin,14,15,29,42
+2020-05-31,Paderborn_Dortmund_2019,Paderborn,15,14,29,42
+2020-05-31,Paderborn_Dortmund_2019,Dortmund,14,15,29,42
+2020-05-31,M'gladbach_Union Berlin_2019,M'gladbach,15,14,29,42
+2020-06-01,FC Koln_RB Leipzig_2019,FC Koln,15,14,29,42
+2020-06-01,FC Koln_RB Leipzig_2019,RB Leipzig,14,15,29,42
+2020-06-03,Werder Bremen_Ein Frankfurt_2019,Ein Frankfurt,14,15,29,43
+2020-06-03,Werder Bremen_Ein Frankfurt_2019,Werder Bremen,14,15,29,43
+2020-06-05,Freiburg_M'gladbach_2019,Freiburg,15,15,30,43
+2020-06-05,Freiburg_M'gladbach_2019,M'gladbach,15,15,30,43
+2020-06-06,RB Leipzig_Paderborn_2019,Paderborn,15,15,30,43
+2020-06-06,RB Leipzig_Paderborn_2019,RB Leipzig,15,15,30,43
+2020-06-06,Ein Frankfurt_Mainz_2019,Mainz,15,15,30,43
+2020-06-06,Dortmund_Hertha_2019,Dortmund,15,15,30,43
+2020-06-06,Fortuna Dusseldorf_Hoffenheim_2019,Fortuna Dusseldorf,15,15,30,43
+2020-06-06,Fortuna Dusseldorf_Hoffenheim_2019,Hoffenheim,15,15,30,43
+2020-06-06,Leverkusen_Bayern Munich_2019,Bayern Munich,15,15,30,43
+2020-06-06,Ein Frankfurt_Mainz_2019,Ein Frankfurt,15,15,30,43
+2020-06-06,Dortmund_Hertha_2019,Hertha,15,15,30,43
+2020-06-06,Leverkusen_Bayern Munich_2019,Leverkusen,15,15,30,43
+2020-06-07,Augsburg_FC Koln_2019,Augsburg,15,15,30,43
+2020-06-07,Union Berlin_Schalke 04_2019,Union Berlin,15,15,30,43
+2020-06-07,Werder Bremen_Wolfsburg_2019,Werder Bremen,15,15,30,43
+2020-06-07,Werder Bremen_Wolfsburg_2019,Wolfsburg,15,15,30,43
+2020-06-07,Union Berlin_Schalke 04_2019,Schalke 04,15,15,30,43
+2020-06-07,Augsburg_FC Koln_2019,FC Koln,15,15,30,43
+2020-06-12,Hoffenheim_RB Leipzig_2019,RB Leipzig,15,16,31,44
+2020-06-12,Hoffenheim_RB Leipzig_2019,Hoffenheim,16,15,31,44
+2020-06-13,Wolfsburg_Freiburg_2019,Freiburg,15,16,31,44
+2020-06-13,Hertha_Ein Frankfurt_2019,Hertha,16,15,31,44
+2020-06-13,Bayern Munich_M'gladbach_2019,Bayern Munich,16,15,31,44
+2020-06-13,Hertha_Ein Frankfurt_2019,Ein Frankfurt,15,16,31,44
+2020-06-13,Fortuna Dusseldorf_Dortmund_2019,Fortuna Dusseldorf,16,15,31,44
+2020-06-13,Paderborn_Werder Bremen_2019,Werder Bremen,15,16,31,44
+2020-06-13,Bayern Munich_M'gladbach_2019,M'gladbach,15,16,31,44
+2020-06-13,Fortuna Dusseldorf_Dortmund_2019,Dortmund,15,16,31,44
+2020-06-13,FC Koln_Union Berlin_2019,Union Berlin,15,16,31,44
+2020-06-13,FC Koln_Union Berlin_2019,FC Koln,16,15,31,44
+2020-06-13,Wolfsburg_Freiburg_2019,Wolfsburg,16,15,31,44
+2020-06-13,Paderborn_Werder Bremen_2019,Paderborn,16,15,31,44
+2020-06-14,Schalke 04_Leverkusen_2019,Schalke 04,16,15,31,44
+2020-06-14,Mainz_Augsburg_2019,Mainz,16,15,31,44
+2020-06-14,Schalke 04_Leverkusen_2019,Leverkusen,15,16,31,44
+2020-06-14,Mainz_Augsburg_2019,Augsburg,15,16,31,44
+2020-06-16,Werder Bremen_Bayern Munich_2019,Werder Bremen,16,16,32,45
+2020-06-16,Werder Bremen_Bayern Munich_2019,Bayern Munich,16,16,32,45
+2020-06-16,Freiburg_Hertha_2019,Freiburg,16,16,32,45
+2020-06-16,M'gladbach_Wolfsburg_2019,M'gladbach,16,16,32,45
+2020-06-16,Union Berlin_Paderborn_2019,Paderborn,16,16,32,45
+2020-06-16,Union Berlin_Paderborn_2019,Union Berlin,16,16,32,45
+2020-06-16,Freiburg_Hertha_2019,Hertha,16,16,32,45
+2020-06-16,M'gladbach_Wolfsburg_2019,Wolfsburg,16,16,32,45
+2020-06-17,Dortmund_Mainz_2019,Dortmund,16,16,32,45
+2020-06-17,Leverkusen_FC Koln_2019,Leverkusen,16,16,32,45
+2020-06-17,Ein Frankfurt_Schalke 04_2019,Schalke 04,16,16,32,45
+2020-06-17,RB Leipzig_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,16,16,32,45
+2020-06-17,RB Leipzig_Fortuna Dusseldorf_2019,RB Leipzig,16,16,32,45
+2020-06-17,Augsburg_Hoffenheim_2019,Augsburg,16,16,32,45
+2020-06-17,Leverkusen_FC Koln_2019,FC Koln,16,16,32,45
+2020-06-17,Augsburg_Hoffenheim_2019,Hoffenheim,16,16,32,45
+2020-06-17,Dortmund_Mainz_2019,Mainz,16,16,32,45
+2020-06-17,Ein Frankfurt_Schalke 04_2019,Ein Frankfurt,16,16,32,45
+2020-06-20,Schalke 04_Wolfsburg_2019,Wolfsburg,16,17,33,45
+2020-06-20,Paderborn_M'gladbach_2019,Paderborn,17,16,33,45
+2020-06-20,Hertha_Leverkusen_2019,Hertha,17,16,33,45
+2020-06-20,Mainz_Werder Bremen_2019,Werder Bremen,16,17,33,45
+2020-06-20,Hertha_Leverkusen_2019,Leverkusen,16,17,33,45
+2020-06-20,Schalke 04_Wolfsburg_2019,Schalke 04,17,16,33,45
+2020-06-20,Hoffenheim_Union Berlin_2019,Union Berlin,16,17,33,45
+2020-06-20,RB Leipzig_Dortmund_2019,RB Leipzig,17,16,33,45
+2020-06-20,FC Koln_Ein Frankfurt_2019,Ein Frankfurt,16,17,33,45
+2020-06-20,Bayern Munich_Freiburg_2019,Bayern Munich,17,16,33,45
+2020-06-20,Mainz_Werder Bremen_2019,Mainz,17,16,33,45
+2020-06-20,RB Leipzig_Dortmund_2019,Dortmund,16,17,33,45
+2020-06-20,Bayern Munich_Freiburg_2019,Freiburg,16,17,33,45
+2020-06-20,Hoffenheim_Union Berlin_2019,Hoffenheim,17,16,33,45
+2020-06-20,Fortuna Dusseldorf_Augsburg_2019,Fortuna Dusseldorf,17,16,33,45
+2020-06-20,FC Koln_Ein Frankfurt_2019,FC Koln,17,16,33,45
+2020-06-20,Paderborn_M'gladbach_2019,M'gladbach,16,17,33,45
+2020-06-20,Fortuna Dusseldorf_Augsburg_2019,Augsburg,16,17,33,45
+2020-06-27,Union Berlin_Fortuna Dusseldorf_2019,Union Berlin,17,17,34,46
+2020-06-27,Freiburg_Schalke 04_2019,Schalke 04,17,17,34,46
+2020-06-27,Leverkusen_Mainz_2019,Leverkusen,17,17,34,46
+2020-06-27,Werder Bremen_FC Koln_2019,FC Koln,17,17,34,46
+2020-06-27,Leverkusen_Mainz_2019,Mainz,17,17,34,46
+2020-06-27,Dortmund_Hoffenheim_2019,Hoffenheim,17,17,34,46
+2020-06-27,M'gladbach_Hertha_2019,M'gladbach,17,17,34,46
+2020-06-27,M'gladbach_Hertha_2019,Hertha,17,17,34,46
+2020-06-27,Werder Bremen_FC Koln_2019,Werder Bremen,17,17,34,46
+2020-06-27,Augsburg_RB Leipzig_2019,Augsburg,17,17,34,46
+2020-06-27,Union Berlin_Fortuna Dusseldorf_2019,Fortuna Dusseldorf,17,17,34,46
+2020-06-27,Freiburg_Schalke 04_2019,Freiburg,17,17,34,46
+2020-06-27,Ein Frankfurt_Paderborn_2019,Paderborn,17,17,34,46
+2020-06-27,Ein Frankfurt_Paderborn_2019,Ein Frankfurt,17,17,34,46
+2020-06-27,Wolfsburg_Bayern Munich_2019,Bayern Munich,17,17,34,46
+2020-06-27,Augsburg_RB Leipzig_2019,RB Leipzig,17,17,34,46
+2020-06-27,Dortmund_Hoffenheim_2019,Dortmund,17,17,34,46
+2020-06-27,Wolfsburg_Bayern Munich_2019,Wolfsburg,17,17,34,46

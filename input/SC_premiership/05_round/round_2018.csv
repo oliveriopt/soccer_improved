@@ -1,0 +1,457 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2018-08-04,Celtic_Livingston_2018,Celtic,1,1,1,1
+2018-08-04,Celtic_Livingston_2018,Livingston,1,1,1,1
+2018-08-04,Hamilton_Hearts_2018,Hearts,1,1,1,1
+2018-08-04,St Mirren_Dundee_2018,Dundee,1,1,1,1
+2018-08-04,St Mirren_Dundee_2018,St Mirren,1,1,1,1
+2018-08-04,Hamilton_Hearts_2018,Hamilton,1,1,1,1
+2018-08-04,Kilmarnock_St Johnstone_2018,Kilmarnock,1,1,1,1
+2018-08-04,Kilmarnock_St Johnstone_2018,St Johnstone,1,1,1,1
+2018-08-05,Hibernian_Motherwell_2018,Hibernian,1,1,1,1
+2018-08-05,Aberdeen_Rangers_2018,Rangers,1,1,1,1
+2018-08-05,Aberdeen_Rangers_2018,Aberdeen,1,1,1,1
+2018-08-05,Hibernian_Motherwell_2018,Motherwell,1,1,1,1
+2018-08-11,Motherwell_Hamilton_2018,Hamilton,1,1,2,2
+2018-08-11,Motherwell_Hamilton_2018,Motherwell,1,1,2,2
+2018-08-11,Livingston_Kilmarnock_2018,Kilmarnock,1,1,2,2
+2018-08-11,Dundee_Aberdeen_2018,Dundee,1,1,2,2
+2018-08-11,Hearts_Celtic_2018,Celtic,1,1,2,2
+2018-08-11,Hearts_Celtic_2018,Hearts,1,1,2,2
+2018-08-11,Livingston_Kilmarnock_2018,Livingston,1,1,2,2
+2018-08-11,Dundee_Aberdeen_2018,Aberdeen,1,1,2,2
+2018-08-12,St Johnstone_Hibernian_2018,Hibernian,1,1,2,2
+2018-08-12,Rangers_St Mirren_2018,Rangers,1,1,2,2
+2018-08-12,St Johnstone_Hibernian_2018,St Johnstone,1,1,2,2
+2018-08-12,Rangers_St Mirren_2018,St Mirren,1,1,2,2
+2018-08-25,St Mirren_Livingston_2018,Livingston,1,2,3,4
+2018-08-25,Kilmarnock_Hearts_2018,Kilmarnock,2,1,3,4
+2018-08-25,St Mirren_Livingston_2018,St Mirren,2,1,3,4
+2018-08-25,Kilmarnock_Hearts_2018,Hearts,1,2,3,4
+2018-08-25,St Johnstone_Dundee_2018,St Johnstone,2,1,3,4
+2018-08-25,St Johnstone_Dundee_2018,Dundee,1,2,3,4
+2018-08-25,Hibernian_Aberdeen_2018,Hibernian,2,1,3,4
+2018-08-25,Hibernian_Aberdeen_2018,Aberdeen,1,2,3,4
+2018-08-26,Celtic_Hamilton_2018,Celtic,2,1,3,4
+2018-08-26,Celtic_Hamilton_2018,Hamilton,1,2,3,4
+2018-08-26,Motherwell_Rangers_2018,Motherwell,2,1,3,4
+2018-08-26,Motherwell_Rangers_2018,Rangers,1,2,3,4
+2018-09-01,Livingston_Hibernian_2018,Livingston,2,2,4,5
+2018-09-01,Hamilton_St Johnstone_2018,Hamilton,2,2,4,5
+2018-09-01,Dundee_Motherwell_2018,Dundee,2,2,4,5
+2018-09-01,Aberdeen_Kilmarnock_2018,Kilmarnock,2,2,4,5
+2018-09-01,Hamilton_St Johnstone_2018,St Johnstone,2,2,4,5
+2018-09-01,Hearts_St Mirren_2018,St Mirren,2,2,4,5
+2018-09-01,Aberdeen_Kilmarnock_2018,Aberdeen,2,2,4,5
+2018-09-01,Livingston_Hibernian_2018,Hibernian,2,2,4,5
+2018-09-01,Hearts_St Mirren_2018,Hearts,2,2,4,5
+2018-09-01,Dundee_Motherwell_2018,Motherwell,2,2,4,5
+2018-09-02,Celtic_Rangers_2018,Celtic,3,1,4,5
+2018-09-02,Celtic_Rangers_2018,Rangers,1,3,4,5
+2018-09-14,St Mirren_Celtic_2018,Celtic,3,2,5,7
+2018-09-14,St Mirren_Celtic_2018,St Mirren,3,2,5,7
+2018-09-15,Hibernian_Kilmarnock_2018,Hibernian,3,2,5,7
+2018-09-15,Livingston_Hamilton_2018,Livingston,3,2,5,7
+2018-09-15,Rangers_Dundee_2018,Rangers,2,3,5,7
+2018-09-15,Rangers_Dundee_2018,Dundee,2,3,5,7
+2018-09-15,Motherwell_Hearts_2018,Motherwell,3,2,5,7
+2018-09-15,Motherwell_Hearts_2018,Hearts,2,3,5,7
+2018-09-15,Livingston_Hamilton_2018,Hamilton,2,3,5,7
+2018-09-15,St Johnstone_Aberdeen_2018,St Johnstone,3,2,5,7
+2018-09-15,Hibernian_Kilmarnock_2018,Kilmarnock,2,3,5,7
+2018-09-15,St Johnstone_Aberdeen_2018,Aberdeen,2,3,5,7
+2018-09-22,Hearts_Livingston_2018,Livingston,3,3,6,8
+2018-09-22,Hamilton_St Mirren_2018,Hamilton,3,3,6,8
+2018-09-22,Dundee_Hibernian_2018,Dundee,3,3,6,8
+2018-09-22,Hearts_Livingston_2018,Hearts,3,3,6,8
+2018-09-22,Dundee_Hibernian_2018,Hibernian,3,3,6,8
+2018-09-22,Aberdeen_Motherwell_2018,Motherwell,3,3,6,8
+2018-09-22,Aberdeen_Motherwell_2018,Aberdeen,3,3,6,8
+2018-09-22,Hamilton_St Mirren_2018,St Mirren,3,3,6,8
+2018-09-23,Rangers_St Johnstone_2018,Rangers,3,3,6,8
+2018-09-23,Kilmarnock_Celtic_2018,Kilmarnock,3,3,6,8
+2018-09-23,Kilmarnock_Celtic_2018,Celtic,3,3,6,8
+2018-09-23,Rangers_St Johnstone_2018,St Johnstone,3,3,6,8
+2018-09-29,Celtic_Aberdeen_2018,Celtic,4,3,7,9
+2018-09-29,St Mirren_Hibernian_2018,St Mirren,4,3,7,9
+2018-09-29,Hearts_St Johnstone_2018,St Johnstone,3,4,7,9
+2018-09-29,Kilmarnock_Motherwell_2018,Kilmarnock,4,3,7,9
+2018-09-29,Celtic_Aberdeen_2018,Aberdeen,3,4,7,9
+2018-09-29,Kilmarnock_Motherwell_2018,Motherwell,3,4,7,9
+2018-09-29,Hamilton_Dundee_2018,Hamilton,4,3,7,9
+2018-09-29,St Mirren_Hibernian_2018,Hibernian,3,4,7,9
+2018-09-29,Hamilton_Dundee_2018,Dundee,3,4,7,9
+2018-09-29,Hearts_St Johnstone_2018,Hearts,4,3,7,9
+2018-09-30,Livingston_Rangers_2018,Rangers,3,4,7,9
+2018-09-30,Livingston_Rangers_2018,Livingston,4,3,7,9
+2018-10-06,Hibernian_Hamilton_2018,Hamilton,4,4,8,10
+2018-10-06,Aberdeen_St Mirren_2018,Aberdeen,4,4,8,10
+2018-10-06,Hibernian_Hamilton_2018,Hibernian,4,4,8,10
+2018-10-06,Dundee_Kilmarnock_2018,Kilmarnock,4,4,8,10
+2018-10-06,Motherwell_Livingston_2018,Livingston,4,4,8,10
+2018-10-06,Dundee_Kilmarnock_2018,Dundee,4,4,8,10
+2018-10-06,Motherwell_Livingston_2018,Motherwell,4,4,8,10
+2018-10-06,Aberdeen_St Mirren_2018,St Mirren,4,4,8,10
+2018-10-07,St Johnstone_Celtic_2018,St Johnstone,4,4,8,10
+2018-10-07,Rangers_Hearts_2018,Rangers,4,4,8,10
+2018-10-07,St Johnstone_Celtic_2018,Celtic,4,4,8,10
+2018-10-07,Rangers_Hearts_2018,Hearts,4,4,8,10
+2018-10-20,Celtic_Hibernian_2018,Hibernian,4,5,9,12
+2018-10-20,Hearts_Aberdeen_2018,Hearts,5,4,9,12
+2018-10-20,Motherwell_St Johnstone_2018,St Johnstone,4,5,9,12
+2018-10-20,Livingston_Dundee_2018,Livingston,5,4,9,12
+2018-10-20,St Mirren_Kilmarnock_2018,Kilmarnock,4,5,9,12
+2018-10-20,St Mirren_Kilmarnock_2018,St Mirren,5,4,9,12
+2018-10-20,Livingston_Dundee_2018,Dundee,4,5,9,12
+2018-10-20,Motherwell_St Johnstone_2018,Motherwell,5,4,9,12
+2018-10-20,Celtic_Hibernian_2018,Celtic,5,4,9,12
+2018-10-20,Hearts_Aberdeen_2018,Aberdeen,4,5,9,12
+2018-10-21,Hamilton_Rangers_2018,Hamilton,5,4,9,12
+2018-10-21,Hamilton_Rangers_2018,Rangers,4,5,9,12
+2018-10-23,Dundee_Hearts_2018,Hearts,5,5,10,13
+2018-10-23,Dundee_Hearts_2018,Dundee,5,5,10,13
+2018-10-27,St Johnstone_St Mirren_2018,St Mirren,5,5,10,13
+2018-10-27,St Johnstone_St Mirren_2018,St Johnstone,5,5,10,13
+2018-10-27,Kilmarnock_Hamilton_2018,Hamilton,5,5,10,13
+2018-10-27,Kilmarnock_Hamilton_2018,Kilmarnock,5,5,10,13
+2018-10-31,Aberdeen_Hamilton_2018,Hamilton,5,6,11,14
+2018-10-31,St Mirren_Motherwell_2018,St Mirren,6,5,11,14
+2018-10-31,Hearts_Hibernian_2018,Hibernian,4,6,10,14
+2018-10-31,Livingston_St Johnstone_2018,St Johnstone,5,6,11,14
+2018-10-31,Hearts_Hibernian_2018,Hearts,6,5,11,14
+2018-10-31,Dundee_Celtic_2018,Celtic,5,5,10,14
+2018-10-31,Aberdeen_Hamilton_2018,Aberdeen,5,5,10,14
+2018-10-31,Rangers_Kilmarnock_2018,Kilmarnock,5,6,11,14
+2018-10-31,Rangers_Kilmarnock_2018,Rangers,5,5,10,14
+2018-10-31,Dundee_Celtic_2018,Dundee,6,5,11,14
+2018-10-31,Livingston_St Johnstone_2018,Livingston,6,4,10,14
+2018-10-31,St Mirren_Motherwell_2018,Motherwell,5,5,10,14
+2018-11-03,St Mirren_Rangers_2018,St Mirren,7,5,12,14
+2018-11-03,St Mirren_Rangers_2018,Rangers,5,6,11,14
+2018-11-03,Motherwell_Dundee_2018,Dundee,6,6,12,14
+2018-11-03,Hibernian_St Johnstone_2018,St Johnstone,5,7,12,14
+2018-11-03,Celtic_Hearts_2018,Celtic,6,5,11,14
+2018-11-03,Motherwell_Dundee_2018,Motherwell,6,5,11,14
+2018-11-03,Celtic_Hearts_2018,Hearts,6,6,12,14
+2018-11-03,Hibernian_St Johnstone_2018,Hibernian,5,6,11,14
+2018-11-03,Hamilton_Livingston_2018,Hamilton,6,6,12,14
+2018-11-03,Hamilton_Livingston_2018,Livingston,6,5,11,14
+2018-11-04,Kilmarnock_Aberdeen_2018,Kilmarnock,6,6,12,14
+2018-11-04,Kilmarnock_Aberdeen_2018,Aberdeen,5,6,11,14
+2018-11-09,Aberdeen_Hibernian_2018,Aberdeen,6,6,12,15
+2018-11-09,Aberdeen_Hibernian_2018,Hibernian,5,7,12,15
+2018-11-10,Dundee_St Mirren_2018,St Mirren,7,6,13,15
+2018-11-10,St Johnstone_Hamilton_2018,St Johnstone,6,7,13,15
+2018-11-10,St Johnstone_Hamilton_2018,Hamilton,6,7,13,15
+2018-11-10,Dundee_St Mirren_2018,Dundee,7,6,13,15
+2018-11-10,Hearts_Kilmarnock_2018,Hearts,7,6,13,15
+2018-11-10,Hearts_Kilmarnock_2018,Kilmarnock,6,7,13,15
+2018-11-11,Rangers_Motherwell_2018,Rangers,6,6,12,15
+2018-11-11,Livingston_Celtic_2018,Celtic,6,6,12,15
+2018-11-11,Rangers_Motherwell_2018,Motherwell,6,6,12,15
+2018-11-11,Livingston_Celtic_2018,Livingston,7,5,12,15
+2018-11-24,Rangers_Livingston_2018,Rangers,7,6,13,17
+2018-11-24,St Johnstone_Kilmarnock_2018,Kilmarnock,6,8,14,17
+2018-11-24,Motherwell_Aberdeen_2018,Motherwell,7,6,13,17
+2018-11-24,Hibernian_Dundee_2018,Dundee,7,7,14,17
+2018-11-24,St Mirren_Hearts_2018,Hearts,7,7,14,17
+2018-11-24,St Mirren_Hearts_2018,St Mirren,8,6,14,17
+2018-11-24,Hibernian_Dundee_2018,Hibernian,6,7,13,17
+2018-11-24,Hamilton_Celtic_2018,Hamilton,7,7,14,17
+2018-11-24,St Johnstone_Kilmarnock_2018,St Johnstone,7,7,14,17
+2018-11-24,Hamilton_Celtic_2018,Celtic,6,7,13,17
+2018-11-24,Rangers_Livingston_2018,Livingston,7,6,13,17
+2018-11-24,Motherwell_Aberdeen_2018,Aberdeen,6,7,13,17
+2018-12-01,Kilmarnock_Hibernian_2018,Kilmarnock,7,8,15,18
+2018-12-01,St Mirren_Hamilton_2018,Hamilton,7,8,15,18
+2018-12-01,Livingston_Motherwell_2018,Livingston,8,6,14,18
+2018-12-01,Livingston_Motherwell_2018,Motherwell,7,7,14,18
+2018-12-01,St Mirren_Hamilton_2018,St Mirren,9,6,15,18
+2018-12-01,Kilmarnock_Hibernian_2018,Hibernian,6,8,14,18
+2018-12-02,Hearts_Rangers_2018,Hearts,8,7,15,18
+2018-12-02,Hearts_Rangers_2018,Rangers,7,7,14,18
+2018-12-05,Motherwell_Celtic_2018,Celtic,6,8,14,19
+2018-12-05,Hibernian_St Mirren_2018,St Mirren,9,7,16,19
+2018-12-05,St Johnstone_Hearts_2018,Hearts,8,8,16,19
+2018-12-05,Kilmarnock_Livingston_2018,Livingston,8,7,15,19
+2018-12-05,Rangers_Aberdeen_2018,Rangers,8,7,15,19
+2018-12-05,Rangers_Aberdeen_2018,Aberdeen,6,8,14,19
+2018-12-05,Motherwell_Celtic_2018,Motherwell,8,7,15,19
+2018-12-05,Hibernian_St Mirren_2018,Hibernian,7,8,15,19
+2018-12-05,St Johnstone_Hearts_2018,St Johnstone,8,7,15,19
+2018-12-05,Kilmarnock_Livingston_2018,Kilmarnock,8,8,16,19
+2018-12-05,Dundee_Hamilton_2018,Hamilton,7,9,16,19
+2018-12-05,Dundee_Hamilton_2018,Dundee,8,7,15,19
+2018-12-08,Hamilton_Hibernian_2018,Hibernian,7,9,16,19
+2018-12-08,Hamilton_Hibernian_2018,Hamilton,8,9,17,19
+2018-12-08,Aberdeen_St Johnstone_2018,Aberdeen,7,8,15,19
+2018-12-08,Hearts_Motherwell_2018,Motherwell,8,8,16,19
+2018-12-08,Celtic_Kilmarnock_2018,Celtic,7,8,15,19
+2018-12-08,Livingston_St Mirren_2018,St Mirren,9,8,17,19
+2018-12-08,Aberdeen_St Johnstone_2018,St Johnstone,8,8,16,19
+2018-12-08,Livingston_St Mirren_2018,Livingston,9,7,16,19
+2018-12-08,Celtic_Kilmarnock_2018,Kilmarnock,8,9,17,19
+2018-12-08,Hearts_Motherwell_2018,Hearts,9,8,17,19
+2018-12-09,Dundee_Rangers_2018,Rangers,8,8,16,19
+2018-12-09,Dundee_Rangers_2018,Dundee,9,7,16,19
+2018-12-11,Aberdeen_Livingston_2018,Livingston,9,8,17,20
+2018-12-11,Aberdeen_Livingston_2018,Aberdeen,8,8,16,20
+2018-12-14,Livingston_Hearts_2018,Hearts,9,9,18,20
+2018-12-14,Livingston_Hearts_2018,Livingston,10,8,18,20
+2018-12-15,St Mirren_Aberdeen_2018,St Mirren,10,8,18,20
+2018-12-15,Kilmarnock_Dundee_2018,Dundee,9,8,17,20
+2018-12-15,St Johnstone_Motherwell_2018,St Johnstone,9,8,17,20
+2018-12-15,St Mirren_Aberdeen_2018,Aberdeen,8,9,17,20
+2018-12-15,Kilmarnock_Dundee_2018,Kilmarnock,9,9,18,20
+2018-12-15,St Johnstone_Motherwell_2018,Motherwell,8,9,17,20
+2018-12-16,Rangers_Hamilton_2018,Rangers,9,8,17,20
+2018-12-16,Rangers_Hamilton_2018,Hamilton,8,10,18,20
+2018-12-16,Hibernian_Celtic_2018,Hibernian,8,9,17,20
+2018-12-16,Hibernian_Celtic_2018,Celtic,7,9,16,20
+2018-12-18,Aberdeen_Dundee_2018,Dundee,9,9,18,21
+2018-12-18,Aberdeen_Dundee_2018,Aberdeen,9,9,18,21
+2018-12-19,Celtic_Motherwell_2018,Motherwell,8,10,18,21
+2018-12-19,Celtic_Motherwell_2018,Celtic,8,9,17,21
+2018-12-19,Hibernian_Rangers_2018,Hibernian,9,9,18,21
+2018-12-19,Hibernian_Rangers_2018,Rangers,9,9,18,21
+2018-12-22,Aberdeen_Hearts_2018,Hearts,9,10,19,21
+2018-12-22,Motherwell_St Mirren_2018,Motherwell,9,10,19,21
+2018-12-22,Hibernian_Livingston_2018,Livingston,10,9,19,21
+2018-12-22,Motherwell_St Mirren_2018,St Mirren,10,9,19,21
+2018-12-22,Aberdeen_Hearts_2018,Aberdeen,10,9,19,21
+2018-12-22,Celtic_Dundee_2018,Celtic,9,9,18,21
+2018-12-22,Hamilton_Kilmarnock_2018,Kilmarnock,9,10,19,21
+2018-12-22,Celtic_Dundee_2018,Dundee,9,10,19,21
+2018-12-22,Hibernian_Livingston_2018,Hibernian,10,9,19,21
+2018-12-22,Hamilton_Kilmarnock_2018,Hamilton,9,10,19,21
+2018-12-23,St Johnstone_Rangers_2018,St Johnstone,10,8,18,21
+2018-12-23,St Johnstone_Rangers_2018,Rangers,9,10,19,21
+2018-12-26,St Mirren_St Johnstone_2018,St Johnstone,10,9,19,22
+2018-12-26,Dundee_Livingston_2018,Dundee,10,10,20,22
+2018-12-26,Aberdeen_Celtic_2018,Aberdeen,11,9,20,22
+2018-12-26,Motherwell_Kilmarnock_2018,Kilmarnock,9,11,20,22
+2018-12-26,Hearts_Hamilton_2018,Hearts,10,10,20,22
+2018-12-26,Dundee_Livingston_2018,Livingston,10,10,20,22
+2018-12-26,Hearts_Hamilton_2018,Hamilton,9,11,20,22
+2018-12-26,Rangers_Hibernian_2018,Hibernian,10,10,20,22
+2018-12-26,Motherwell_Kilmarnock_2018,Motherwell,10,10,20,22
+2018-12-26,Aberdeen_Celtic_2018,Celtic,9,10,19,22
+2018-12-26,Rangers_Hibernian_2018,Rangers,10,10,20,22
+2018-12-26,St Mirren_St Johnstone_2018,St Mirren,11,9,20,22
+2018-12-29,Kilmarnock_St Mirren_2018,St Mirren,11,10,21,22
+2018-12-29,Hamilton_Motherwell_2018,Hamilton,10,11,21,22
+2018-12-29,Hamilton_Motherwell_2018,Motherwell,10,11,21,22
+2018-12-29,Dundee_St Johnstone_2018,St Johnstone,10,10,20,22
+2018-12-29,Rangers_Celtic_2018,Rangers,11,10,21,22
+2018-12-29,Hibernian_Hearts_2018,Hearts,10,11,21,22
+2018-12-29,Dundee_St Johnstone_2018,Dundee,11,10,21,22
+2018-12-29,Rangers_Celtic_2018,Celtic,9,11,20,22
+2018-12-29,Livingston_Aberdeen_2018,Aberdeen,11,10,21,22
+2018-12-29,Livingston_Aberdeen_2018,Livingston,11,10,21,22
+2018-12-29,Hibernian_Hearts_2018,Hibernian,11,10,21,22
+2018-12-29,Kilmarnock_St Mirren_2018,Kilmarnock,10,11,21,22
+2019-01-23,Celtic_St Mirren_2018,St Mirren,11,11,22,26
+2019-01-23,Celtic_St Mirren_2018,Celtic,10,11,21,26
+2019-01-23,St Johnstone_Livingston_2018,St Johnstone,11,10,21,26
+2019-01-23,St Johnstone_Livingston_2018,Livingston,11,11,22,26
+2019-01-23,Hearts_Dundee_2018,Hearts,11,11,22,26
+2019-01-23,Motherwell_Hibernian_2018,Hibernian,11,11,22,26
+2019-01-23,Hamilton_Aberdeen_2018,Aberdeen,11,11,22,26
+2019-01-23,Hearts_Dundee_2018,Dundee,11,11,22,26
+2019-01-23,Motherwell_Hibernian_2018,Motherwell,11,11,22,26
+2019-01-23,Hamilton_Aberdeen_2018,Hamilton,11,11,22,26
+2019-01-23,Kilmarnock_Rangers_2018,Rangers,11,11,22,26
+2019-01-23,Kilmarnock_Rangers_2018,Kilmarnock,11,11,22,26
+2019-01-26,Hearts_St Johnstone_2018,St Johnstone,11,11,22,26
+2019-01-26,Aberdeen_Kilmarnock_2018,Kilmarnock,11,12,23,26
+2019-01-26,Celtic_Hamilton_2018,Hamilton,11,12,23,26
+2019-01-26,Hearts_St Johnstone_2018,Hearts,12,11,23,26
+2019-01-26,Celtic_Hamilton_2018,Celtic,11,11,22,26
+2019-01-26,Dundee_Motherwell_2018,Dundee,12,11,23,26
+2019-01-26,Dundee_Motherwell_2018,Motherwell,11,12,23,26
+2019-01-26,Aberdeen_Kilmarnock_2018,Aberdeen,12,11,23,26
+2019-01-27,Livingston_Rangers_2018,Rangers,11,12,23,26
+2019-01-27,Livingston_Rangers_2018,Livingston,12,11,23,26
+2019-01-27,St Mirren_Hibernian_2018,St Mirren,12,11,23,26
+2019-01-27,St Mirren_Hibernian_2018,Hibernian,11,12,23,26
+2019-01-30,Celtic_St Johnstone_2018,Celtic,12,11,23,27
+2019-01-30,Celtic_St Johnstone_2018,St Johnstone,11,12,23,27
+2019-02-01,Kilmarnock_Hearts_2018,Kilmarnock,12,12,24,27
+2019-02-01,Kilmarnock_Hearts_2018,Hearts,12,12,24,27
+2019-02-02,Hamilton_Dundee_2018,Hamilton,12,12,24,27
+2019-02-02,Hibernian_Aberdeen_2018,Aberdeen,12,12,24,27
+2019-02-02,Rangers_St Mirren_2018,St Mirren,12,12,24,27
+2019-02-02,Hamilton_Dundee_2018,Dundee,12,12,24,27
+2019-02-02,Rangers_St Mirren_2018,Rangers,12,12,24,27
+2019-02-02,Motherwell_Livingston_2018,Livingston,12,12,24,27
+2019-02-02,Motherwell_Livingston_2018,Motherwell,12,12,24,27
+2019-02-02,Hibernian_Aberdeen_2018,Hibernian,12,12,24,27
+2019-02-03,St Johnstone_Celtic_2018,Celtic,12,12,24,27
+2019-02-03,St Johnstone_Celtic_2018,St Johnstone,12,12,24,27
+2019-02-06,St Mirren_Motherwell_2018,St Mirren,13,12,25,28
+2019-02-06,Dundee_Kilmarnock_2018,Dundee,13,12,25,28
+2019-02-06,Hamilton_St Johnstone_2018,Hamilton,13,12,25,28
+2019-02-06,Aberdeen_Rangers_2018,Aberdeen,13,12,25,28
+2019-02-06,Celtic_Hibernian_2018,Hibernian,12,13,25,28
+2019-02-06,Hearts_Livingston_2018,Hearts,13,12,25,28
+2019-02-06,Hearts_Livingston_2018,Livingston,12,13,25,28
+2019-02-06,Celtic_Hibernian_2018,Celtic,13,12,25,28
+2019-02-06,Aberdeen_Rangers_2018,Rangers,12,13,25,28
+2019-02-06,Hamilton_St Johnstone_2018,St Johnstone,12,13,25,28
+2019-02-06,Dundee_Kilmarnock_2018,Kilmarnock,12,13,25,28
+2019-02-06,St Mirren_Motherwell_2018,Motherwell,12,13,25,28
+2019-02-16,Hibernian_Hamilton_2018,Hibernian,13,13,26,29
+2019-02-16,Rangers_St Johnstone_2018,St Johnstone,12,14,26,29
+2019-02-16,Hibernian_Hamilton_2018,Hamilton,13,13,26,29
+2019-02-16,Rangers_St Johnstone_2018,Rangers,13,13,26,29
+2019-02-16,Livingston_Dundee_2018,Livingston,13,13,26,29
+2019-02-16,Livingston_Dundee_2018,Dundee,13,13,26,29
+2019-02-16,Aberdeen_St Mirren_2018,Aberdeen,14,12,26,29
+2019-02-16,Aberdeen_St Mirren_2018,St Mirren,13,13,26,29
+2019-02-17,Motherwell_Hearts_2018,Hearts,13,13,26,29
+2019-02-17,Kilmarnock_Celtic_2018,Kilmarnock,13,13,26,29
+2019-02-17,Motherwell_Hearts_2018,Motherwell,13,13,26,29
+2019-02-17,Kilmarnock_Celtic_2018,Celtic,13,13,26,29
+2019-02-22,Dundee_Hibernian_2018,Dundee,14,13,27,30
+2019-02-22,Dundee_Hibernian_2018,Hibernian,13,14,27,30
+2019-02-23,Hearts_St Mirren_2018,Hearts,14,13,27,30
+2019-02-23,St Johnstone_Aberdeen_2018,Aberdeen,14,13,27,30
+2019-02-23,Livingston_Kilmarnock_2018,Livingston,14,13,27,30
+2019-02-23,Livingston_Kilmarnock_2018,Kilmarnock,13,14,27,30
+2019-02-23,St Johnstone_Aberdeen_2018,St Johnstone,13,14,27,30
+2019-02-23,Hearts_St Mirren_2018,St Mirren,13,14,27,30
+2019-02-24,Hamilton_Rangers_2018,Hamilton,14,13,27,30
+2019-02-24,Celtic_Motherwell_2018,Celtic,14,13,27,30
+2019-02-24,Hamilton_Rangers_2018,Rangers,13,14,27,30
+2019-02-24,Celtic_Motherwell_2018,Motherwell,13,14,27,30
+2019-02-27,Hearts_Celtic_2018,Celtic,14,14,28,31
+2019-02-27,St Johnstone_Hibernian_2018,Hibernian,13,15,28,31
+2019-02-27,Rangers_Dundee_2018,Dundee,14,14,28,31
+2019-02-27,Aberdeen_Hamilton_2018,Hamilton,14,14,28,31
+2019-02-27,Aberdeen_Hamilton_2018,Aberdeen,15,13,28,31
+2019-02-27,Rangers_Dundee_2018,Rangers,14,14,28,31
+2019-02-27,Hearts_Celtic_2018,Hearts,15,13,28,31
+2019-02-27,St Johnstone_Hibernian_2018,St Johnstone,14,14,28,31
+2019-03-02,St Mirren_Livingston_2018,St Mirren,14,14,28,31
+2019-03-02,Kilmarnock_Motherwell_2018,Motherwell,13,15,28,31
+2019-03-02,Kilmarnock_Motherwell_2018,Kilmarnock,14,14,28,31
+2019-03-02,St Mirren_Livingston_2018,Livingston,14,14,28,31
+2019-03-08,Hibernian_Rangers_2018,Rangers,14,15,29,32
+2019-03-08,Hibernian_Rangers_2018,Hibernian,14,15,29,32
+2019-03-09,Motherwell_Hamilton_2018,Motherwell,14,15,29,32
+2019-03-09,Celtic_Aberdeen_2018,Aberdeen,15,14,29,32
+2019-03-09,Motherwell_Hamilton_2018,Hamilton,14,15,29,32
+2019-03-09,Dundee_Hearts_2018,Hearts,15,14,29,32
+2019-03-09,Dundee_Hearts_2018,Dundee,15,14,29,32
+2019-03-09,Celtic_Aberdeen_2018,Celtic,15,14,29,32
+2019-03-09,Livingston_St Johnstone_2018,Livingston,15,14,29,32
+2019-03-09,Livingston_St Johnstone_2018,St Johnstone,14,15,29,32
+2019-03-11,St Mirren_Kilmarnock_2018,St Mirren,15,14,29,32
+2019-03-11,St Mirren_Kilmarnock_2018,Kilmarnock,14,15,29,32
+2019-03-16,Hibernian_Motherwell_2018,Motherwell,14,16,30,33
+2019-03-16,Rangers_Kilmarnock_2018,Kilmarnock,14,16,30,33
+2019-03-16,Rangers_Kilmarnock_2018,Rangers,15,15,30,33
+2019-03-16,Aberdeen_Livingston_2018,Aberdeen,16,14,30,33
+2019-03-16,Hamilton_Hearts_2018,Hamilton,15,15,30,33
+2019-03-16,Aberdeen_Livingston_2018,Livingston,15,15,30,33
+2019-03-16,Hibernian_Motherwell_2018,Hibernian,15,15,30,33
+2019-03-16,Hamilton_Hearts_2018,Hearts,15,15,30,33
+2019-03-17,Dundee_Celtic_2018,Dundee,16,14,30,33
+2019-03-17,Dundee_Celtic_2018,Celtic,15,15,30,33
+2019-03-27,St Johnstone_St Mirren_2018,St Johnstone,15,15,30,35
+2019-03-27,St Johnstone_St Mirren_2018,St Mirren,15,15,30,35
+2019-03-29,Livingston_Hibernian_2018,Hibernian,15,16,31,35
+2019-03-29,Livingston_Hibernian_2018,Livingston,16,15,31,35
+2019-03-30,Kilmarnock_Hamilton_2018,Kilmarnock,15,16,31,35
+2019-03-30,Motherwell_St Johnstone_2018,Motherwell,15,16,31,35
+2019-03-30,Kilmarnock_Hamilton_2018,Hamilton,15,16,31,35
+2019-03-30,Motherwell_St Johnstone_2018,St Johnstone,15,16,31,35
+2019-03-30,St Mirren_Dundee_2018,St Mirren,16,15,31,35
+2019-03-30,Hearts_Aberdeen_2018,Aberdeen,16,15,31,35
+2019-03-30,Hearts_Aberdeen_2018,Hearts,16,15,31,35
+2019-03-30,St Mirren_Dundee_2018,Dundee,16,15,31,35
+2019-03-31,Celtic_Rangers_2018,Celtic,16,15,31,35
+2019-03-31,Celtic_Rangers_2018,Rangers,15,16,31,35
+2019-04-03,St Mirren_Celtic_2018,St Mirren,17,15,32,36
+2019-04-03,St Johnstone_Dundee_2018,Dundee,16,16,32,36
+2019-04-03,Aberdeen_Motherwell_2018,Motherwell,15,17,32,36
+2019-04-03,St Johnstone_Dundee_2018,St Johnstone,16,16,32,36
+2019-04-03,Hibernian_Kilmarnock_2018,Hibernian,16,16,32,36
+2019-04-03,Rangers_Hearts_2018,Rangers,16,16,32,36
+2019-04-03,Livingston_Hamilton_2018,Hamilton,15,17,32,36
+2019-04-03,Livingston_Hamilton_2018,Livingston,17,15,32,36
+2019-04-03,St Mirren_Celtic_2018,Celtic,16,16,32,36
+2019-04-03,Aberdeen_Motherwell_2018,Aberdeen,17,15,32,36
+2019-04-03,Hibernian_Kilmarnock_2018,Kilmarnock,15,17,32,36
+2019-04-03,Rangers_Hearts_2018,Hearts,16,16,32,36
+2019-04-06,Hearts_Hibernian_2018,Hearts,17,16,33,36
+2019-04-06,Hearts_Hibernian_2018,Hibernian,16,17,33,36
+2019-04-06,Kilmarnock_St Johnstone_2018,St Johnstone,16,17,33,36
+2019-04-06,Kilmarnock_St Johnstone_2018,Kilmarnock,16,17,33,36
+2019-04-06,Hamilton_St Mirren_2018,St Mirren,17,16,33,36
+2019-04-06,Hamilton_St Mirren_2018,Hamilton,16,17,33,36
+2019-04-06,Celtic_Livingston_2018,Celtic,17,16,33,36
+2019-04-06,Celtic_Livingston_2018,Livingston,17,16,33,36
+2019-04-06,Dundee_Aberdeen_2018,Aberdeen,17,16,33,36
+2019-04-06,Dundee_Aberdeen_2018,Dundee,17,16,33,36
+2019-04-07,Motherwell_Rangers_2018,Motherwell,16,17,33,36
+2019-04-07,Motherwell_Rangers_2018,Rangers,16,17,33,36
+2019-04-20,Hearts_Rangers_2018,Hearts,18,16,34,38
+2019-04-20,Hamilton_Motherwell_2018,Motherwell,16,18,34,38
+2019-04-20,Livingston_St Mirren_2018,Livingston,18,16,34,38
+2019-04-20,Hearts_Rangers_2018,Rangers,16,18,34,38
+2019-04-20,Hamilton_Motherwell_2018,Hamilton,17,17,34,38
+2019-04-20,Livingston_St Mirren_2018,St Mirren,17,17,34,38
+2019-04-20,St Johnstone_Dundee_2018,St Johnstone,17,17,34,38
+2019-04-20,Kilmarnock_Aberdeen_2018,Kilmarnock,17,17,34,38
+2019-04-20,Kilmarnock_Aberdeen_2018,Aberdeen,17,17,34,38
+2019-04-20,St Johnstone_Dundee_2018,Dundee,17,17,34,38
+2019-04-21,Hibernian_Celtic_2018,Hibernian,17,17,34,38
+2019-04-21,Hibernian_Celtic_2018,Celtic,17,17,34,38
+2019-04-27,Motherwell_Dundee_2018,Dundee,17,18,35,39
+2019-04-27,St Mirren_St Johnstone_2018,St Mirren,18,17,35,39
+2019-04-27,St Mirren_St Johnstone_2018,St Johnstone,17,18,35,39
+2019-04-27,Celtic_Kilmarnock_2018,Kilmarnock,17,18,35,39
+2019-04-27,Hamilton_Livingston_2018,Livingston,18,17,35,39
+2019-04-27,Celtic_Kilmarnock_2018,Celtic,18,17,35,39
+2019-04-27,Hamilton_Livingston_2018,Hamilton,18,17,35,39
+2019-04-27,Motherwell_Dundee_2018,Motherwell,17,18,35,39
+2019-04-28,Rangers_Aberdeen_2018,Aberdeen,17,18,35,39
+2019-04-28,Rangers_Aberdeen_2018,Rangers,17,18,35,39
+2019-04-28,Hibernian_Hearts_2018,Hibernian,18,17,35,39
+2019-04-28,Hibernian_Hearts_2018,Hearts,18,17,35,39
+2019-05-04,Aberdeen_Celtic_2018,Celtic,18,18,36,40
+2019-05-04,Hearts_Kilmarnock_2018,Kilmarnock,17,19,36,40
+2019-05-04,Aberdeen_Celtic_2018,Aberdeen,18,18,36,40
+2019-05-04,Dundee_Hamilton_2018,Hamilton,18,18,36,40
+2019-05-04,Motherwell_St Mirren_2018,St Mirren,18,18,36,40
+2019-05-04,Hearts_Kilmarnock_2018,Hearts,19,17,36,40
+2019-05-04,Dundee_Hamilton_2018,Dundee,18,18,36,40
+2019-05-04,St Johnstone_Livingston_2018,St Johnstone,18,18,36,40
+2019-05-04,Motherwell_St Mirren_2018,Motherwell,18,18,36,40
+2019-05-04,St Johnstone_Livingston_2018,Livingston,18,18,36,40
+2019-05-05,Rangers_Hibernian_2018,Rangers,18,18,36,40
+2019-05-05,Rangers_Hibernian_2018,Hibernian,18,18,36,40
+2019-05-10,Aberdeen_Hearts_2018,Hearts,19,18,37,41
+2019-05-10,Aberdeen_Hearts_2018,Aberdeen,19,18,37,41
+2019-05-11,Livingston_Dundee_2018,Dundee,18,19,37,41
+2019-05-11,Livingston_Dundee_2018,Livingston,19,18,37,41
+2019-05-11,St Johnstone_Motherwell_2018,St Johnstone,19,18,37,41
+2019-05-11,Kilmarnock_Hibernian_2018,Hibernian,18,19,37,41
+2019-05-11,St Johnstone_Motherwell_2018,Motherwell,18,19,37,41
+2019-05-11,Kilmarnock_Hibernian_2018,Kilmarnock,18,19,37,41
+2019-05-12,Rangers_Celtic_2018,Rangers,19,18,37,41
+2019-05-12,Rangers_Celtic_2018,Celtic,18,19,37,41
+2019-05-13,St Mirren_Hamilton_2018,St Mirren,19,18,37,41
+2019-05-13,St Mirren_Hamilton_2018,Hamilton,18,19,37,41
+2019-05-18,Dundee_St Mirren_2018,St Mirren,19,19,38,42
+2019-05-18,Motherwell_Livingston_2018,Livingston,19,19,38,42
+2019-05-18,Hamilton_St Johnstone_2018,Hamilton,19,19,38,42
+2019-05-18,Dundee_St Mirren_2018,Dundee,19,19,38,42
+2019-05-18,Motherwell_Livingston_2018,Motherwell,19,19,38,42
+2019-05-18,Hamilton_St Johnstone_2018,St Johnstone,19,19,38,42
+2019-05-19,Celtic_Hearts_2018,Celtic,19,19,38,42
+2019-05-19,Kilmarnock_Rangers_2018,Kilmarnock,19,19,38,42
+2019-05-19,Hibernian_Aberdeen_2018,Aberdeen,19,19,38,42
+2019-05-19,Celtic_Hearts_2018,Hearts,19,19,38,42
+2019-05-19,Kilmarnock_Rangers_2018,Rangers,19,19,38,42
+2019-05-19,Hibernian_Aberdeen_2018,Hibernian,19,19,38,42

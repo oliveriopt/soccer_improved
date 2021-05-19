@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-09-10,Ankaragucu_Mersin Idman Yurdu_2011,Ankaragucu,1,1,1,1
+2011-09-10,Samsunspor_Genclerbirligi_2011,Genclerbirligi,1,1,1,1
+2011-09-10,Ankaragucu_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,1,1,1,1
+2011-09-10,Eskisehirspor_Besiktas_2011,Besiktas,1,1,1,1
+2011-09-10,Manisaspor_Trabzonspor_2011,Trabzonspor,1,1,1,1
+2011-09-10,Eskisehirspor_Besiktas_2011,Eskisehirspor,1,1,1,1
+2011-09-10,Manisaspor_Trabzonspor_2011,Manisaspor,1,1,1,1
+2011-09-10,Samsunspor_Genclerbirligi_2011,Samsunspor,1,1,1,1
+2011-09-11,Karabukspor_Sivasspor_2011,Sivasspor,1,1,1,1
+2011-09-11,Bursaspor_Kayserispor_2011,Bursaspor,1,1,1,1
+2011-09-11,Bursaspor_Kayserispor_2011,Kayserispor,1,1,1,1
+2011-09-11,Antalyaspor_Gaziantepspor_2011,Gaziantepspor,1,1,1,1
+2011-09-11,Antalyaspor_Gaziantepspor_2011,Antalyaspor,1,1,1,1
+2011-09-11,Buyuksehyr_Galatasaray_2011,Galatasaray,1,1,1,1
+2011-09-11,Buyuksehyr_Galatasaray_2011,Buyuksehyr,1,1,1,1
+2011-09-11,Karabukspor_Sivasspor_2011,Karabukspor,1,1,1,1
+2011-09-12,Fenerbahce_Orduspor_2011,Orduspor,1,1,1,1
+2011-09-12,Fenerbahce_Orduspor_2011,Fenerbahce,1,1,1,1
+2011-09-16,Gaziantepspor_Fenerbahce_2011,Fenerbahce,1,1,2,2
+2011-09-16,Kayserispor_Antalyaspor_2011,Kayserispor,1,1,2,2
+2011-09-16,Gaziantepspor_Fenerbahce_2011,Gaziantepspor,1,1,2,2
+2011-09-16,Kayserispor_Antalyaspor_2011,Antalyaspor,1,1,2,2
+2011-09-17,Orduspor_Manisaspor_2011,Manisaspor,1,1,2,2
+2011-09-17,Genclerbirligi_Karabukspor_2011,Karabukspor,1,1,2,2
+2011-09-17,Trabzonspor_Buyuksehyr_2011,Trabzonspor,1,1,2,2
+2011-09-17,Genclerbirligi_Karabukspor_2011,Genclerbirligi,1,1,2,2
+2011-09-17,Orduspor_Manisaspor_2011,Orduspor,1,1,2,2
+2011-09-17,Trabzonspor_Buyuksehyr_2011,Buyuksehyr,1,1,2,2
+2011-09-18,Mersin Idman Yurdu_Bursaspor_2011,Bursaspor,1,1,2,2
+2011-09-18,Sivasspor_Eskisehirspor_2011,Eskisehirspor,1,1,2,2
+2011-09-18,Sivasspor_Eskisehirspor_2011,Sivasspor,1,1,2,2
+2011-09-18,Mersin Idman Yurdu_Bursaspor_2011,Mersin Idman Yurdu,1,1,2,2
+2011-09-18,Galatasaray_Samsunspor_2011,Galatasaray,1,1,2,2
+2011-09-18,Galatasaray_Samsunspor_2011,Samsunspor,1,1,2,2
+2011-09-19,Besiktas_Ankaragucu_2011,Ankaragucu,1,1,2,2
+2011-09-19,Besiktas_Ankaragucu_2011,Besiktas,1,1,2,2
+2011-09-20,Buyuksehyr_Orduspor_2011,Buyuksehyr,2,1,3,3
+2011-09-20,Fenerbahce_Manisaspor_2011,Manisaspor,1,2,3,3
+2011-09-20,Gaziantepspor_Kayserispor_2011,Kayserispor,1,2,3,3
+2011-09-20,Fenerbahce_Manisaspor_2011,Fenerbahce,2,1,3,3
+2011-09-20,Buyuksehyr_Orduspor_2011,Orduspor,1,2,3,3
+2011-09-20,Gaziantepspor_Kayserispor_2011,Gaziantepspor,2,1,3,3
+2011-09-21,Karabukspor_Galatasaray_2011,Karabukspor,2,1,3,3
+2011-09-21,Antalyaspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,1,2,3,3
+2011-09-21,Eskisehirspor_Genclerbirligi_2011,Eskisehirspor,2,1,3,3
+2011-09-21,Samsunspor_Trabzonspor_2011,Trabzonspor,1,2,3,3
+2011-09-21,Samsunspor_Trabzonspor_2011,Samsunspor,2,1,3,3
+2011-09-21,Karabukspor_Galatasaray_2011,Galatasaray,1,2,3,3
+2011-09-21,Eskisehirspor_Genclerbirligi_2011,Genclerbirligi,1,2,3,3
+2011-09-21,Antalyaspor_Mersin Idman Yurdu_2011,Antalyaspor,2,1,3,3
+2011-09-22,Ankaragucu_Sivasspor_2011,Sivasspor,1,2,3,3
+2011-09-22,Bursaspor_Besiktas_2011,Bursaspor,2,1,3,3
+2011-09-22,Ankaragucu_Sivasspor_2011,Ankaragucu,2,1,3,3
+2011-09-22,Bursaspor_Besiktas_2011,Besiktas,1,2,3,3
+2011-09-23,Kayserispor_Fenerbahce_2011,Fenerbahce,2,2,4,3
+2011-09-23,Kayserispor_Fenerbahce_2011,Kayserispor,2,2,4,3
+2011-09-24,Manisaspor_Buyuksehyr_2011,Manisaspor,2,2,4,3
+2011-09-24,Mersin Idman Yurdu_Gaziantepspor_2011,Mersin Idman Yurdu,2,2,4,3
+2011-09-24,Mersin Idman Yurdu_Gaziantepspor_2011,Gaziantepspor,2,2,4,3
+2011-09-24,Trabzonspor_Karabukspor_2011,Karabukspor,2,2,4,3
+2011-09-24,Manisaspor_Buyuksehyr_2011,Buyuksehyr,2,2,4,3
+2011-09-24,Trabzonspor_Karabukspor_2011,Trabzonspor,2,2,4,3
+2011-09-25,Orduspor_Samsunspor_2011,Samsunspor,2,2,4,3
+2011-09-25,Besiktas_Antalyaspor_2011,Besiktas,2,2,4,3
+2011-09-25,Sivasspor_Bursaspor_2011,Bursaspor,2,2,4,3
+2011-09-25,Genclerbirligi_Ankaragucu_2011,Ankaragucu,2,2,4,3
+2011-09-25,Orduspor_Samsunspor_2011,Orduspor,2,2,4,3
+2011-09-25,Besiktas_Antalyaspor_2011,Antalyaspor,2,2,4,3
+2011-09-25,Sivasspor_Bursaspor_2011,Sivasspor,2,2,4,3
+2011-09-25,Genclerbirligi_Ankaragucu_2011,Genclerbirligi,2,2,4,3
+2011-09-26,Galatasaray_Eskisehirspor_2011,Eskisehirspor,2,2,4,3
+2011-09-26,Galatasaray_Eskisehirspor_2011,Galatasaray,2,2,4,3
+2011-09-30,Bursaspor_Genclerbirligi_2011,Genclerbirligi,2,3,5,4
+2011-09-30,Bursaspor_Genclerbirligi_2011,Bursaspor,3,2,5,4
+2011-10-01,Karabukspor_Orduspor_2011,Orduspor,2,3,5,4
+2011-10-01,Antalyaspor_Sivasspor_2011,Sivasspor,2,3,5,4
+2011-10-01,Antalyaspor_Sivasspor_2011,Antalyaspor,3,2,5,4
+2011-10-01,Fenerbahce_Buyuksehyr_2011,Buyuksehyr,2,3,5,4
+2011-10-01,Karabukspor_Orduspor_2011,Karabukspor,3,2,5,4
+2011-10-01,Fenerbahce_Buyuksehyr_2011,Fenerbahce,3,2,5,4
+2011-10-02,Eskisehirspor_Trabzonspor_2011,Trabzonspor,2,3,5,4
+2011-10-02,Samsunspor_Manisaspor_2011,Samsunspor,3,2,5,4
+2011-10-02,Kayserispor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,2,3,5,4
+2011-10-02,Kayserispor_Mersin Idman Yurdu_2011,Kayserispor,3,2,5,4
+2011-10-02,Eskisehirspor_Trabzonspor_2011,Eskisehirspor,3,2,5,4
+2011-10-02,Ankaragucu_Galatasaray_2011,Galatasaray,2,3,5,4
+2011-10-02,Samsunspor_Manisaspor_2011,Manisaspor,2,3,5,4
+2011-10-02,Ankaragucu_Galatasaray_2011,Ankaragucu,3,2,5,4
+2011-10-03,Gaziantepspor_Besiktas_2011,Besiktas,2,3,5,4
+2011-10-03,Gaziantepspor_Besiktas_2011,Gaziantepspor,3,2,5,4
+2011-10-14,Trabzonspor_Ankaragucu_2011,Trabzonspor,3,3,6,6
+2011-10-14,Trabzonspor_Ankaragucu_2011,Ankaragucu,3,3,6,6
+2011-10-15,Besiktas_Kayserispor_2011,Besiktas,3,3,6,6
+2011-10-15,Sivasspor_Gaziantepspor_2011,Gaziantepspor,3,3,6,6
+2011-10-15,Sivasspor_Gaziantepspor_2011,Sivasspor,3,3,6,6
+2011-10-15,Besiktas_Kayserispor_2011,Kayserispor,3,3,6,6
+2011-10-15,Orduspor_Eskisehirspor_2011,Orduspor,3,3,6,6
+2011-10-15,Orduspor_Eskisehirspor_2011,Eskisehirspor,3,3,6,6
+2011-10-16,Manisaspor_Karabukspor_2011,Manisaspor,3,3,6,6
+2011-10-16,Buyuksehyr_Samsunspor_2011,Samsunspor,3,3,6,6
+2011-10-16,Galatasaray_Bursaspor_2011,Bursaspor,3,3,6,6
+2011-10-16,Galatasaray_Bursaspor_2011,Galatasaray,3,3,6,6
+2011-10-16,Buyuksehyr_Samsunspor_2011,Buyuksehyr,3,3,6,6
+2011-10-16,Genclerbirligi_Antalyaspor_2011,Genclerbirligi,3,3,6,6
+2011-10-16,Genclerbirligi_Antalyaspor_2011,Antalyaspor,3,3,6,6
+2011-10-16,Manisaspor_Karabukspor_2011,Karabukspor,3,3,6,6
+2011-10-17,Mersin Idman Yurdu_Fenerbahce_2011,Mersin Idman Yurdu,3,3,6,6
+2011-10-17,Mersin Idman Yurdu_Fenerbahce_2011,Fenerbahce,3,3,6,6
+2011-10-21,Antalyaspor_Galatasaray_2011,Galatasaray,3,4,7,7
+2011-10-21,Antalyaspor_Galatasaray_2011,Antalyaspor,4,3,7,7
+2011-10-22,Bursaspor_Trabzonspor_2011,Bursaspor,4,3,7,7
+2011-10-22,Eskisehirspor_Manisaspor_2011,Manisaspor,3,4,7,7
+2011-10-22,Bursaspor_Trabzonspor_2011,Trabzonspor,3,4,7,7
+2011-10-22,Eskisehirspor_Manisaspor_2011,Eskisehirspor,4,3,7,7
+2011-10-22,Karabukspor_Buyuksehyr_2011,Karabukspor,4,3,7,7
+2011-10-22,Karabukspor_Buyuksehyr_2011,Buyuksehyr,3,4,7,7
+2011-10-23,Kayserispor_Sivasspor_2011,Sivasspor,3,4,7,7
+2011-10-23,Ankaragucu_Orduspor_2011,Ankaragucu,4,3,7,7
+2011-10-23,Gaziantepspor_Genclerbirligi_2011,Genclerbirligi,3,4,7,7
+2011-10-23,Gaziantepspor_Genclerbirligi_2011,Gaziantepspor,4,3,7,7
+2011-10-23,Fenerbahce_Samsunspor_2011,Fenerbahce,4,3,7,7
+2011-10-23,Fenerbahce_Samsunspor_2011,Samsunspor,3,4,7,7
+2011-10-23,Ankaragucu_Orduspor_2011,Orduspor,3,4,7,7
+2011-10-23,Kayserispor_Sivasspor_2011,Kayserispor,4,3,7,7
+2011-10-24,Mersin Idman Yurdu_Besiktas_2011,Mersin Idman Yurdu,4,3,7,7
+2011-10-24,Mersin Idman Yurdu_Besiktas_2011,Besiktas,3,4,7,7
+2011-10-26,Galatasaray_Gaziantepspor_2011,Galatasaray,4,4,8,8
+2011-10-26,Buyuksehyr_Eskisehirspor_2011,Buyuksehyr,4,4,8,8
+2011-10-26,Galatasaray_Gaziantepspor_2011,Gaziantepspor,4,4,8,8
+2011-10-26,Trabzonspor_Antalyaspor_2011,Trabzonspor,4,4,8,8
+2011-10-26,Buyuksehyr_Eskisehirspor_2011,Eskisehirspor,4,4,8,8
+2011-10-26,Orduspor_Bursaspor_2011,Bursaspor,4,4,8,8
+2011-10-26,Samsunspor_Karabukspor_2011,Samsunspor,4,4,8,8
+2011-10-26,Trabzonspor_Antalyaspor_2011,Antalyaspor,4,4,8,8
+2011-10-26,Samsunspor_Karabukspor_2011,Karabukspor,4,4,8,8
+2011-10-26,Orduspor_Bursaspor_2011,Orduspor,4,4,8,8
+2011-10-27,Manisaspor_Ankaragucu_2011,Manisaspor,4,4,8,8
+2011-10-27,Manisaspor_Ankaragucu_2011,Ankaragucu,4,4,8,8
+2011-10-27,Sivasspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,4,4,8,8
+2011-10-27,Besiktas_Fenerbahce_2011,Besiktas,4,4,8,8
+2011-10-27,Genclerbirligi_Kayserispor_2011,Kayserispor,4,4,8,8
+2011-10-27,Besiktas_Fenerbahce_2011,Fenerbahce,4,4,8,8
+2011-10-27,Sivasspor_Mersin Idman Yurdu_2011,Sivasspor,4,4,8,8
+2011-10-27,Genclerbirligi_Kayserispor_2011,Genclerbirligi,4,4,8,8
+2011-10-29,Antalyaspor_Orduspor_2011,Antalyaspor,5,4,9,8
+2011-10-29,Eskisehirspor_Samsunspor_2011,Samsunspor,4,5,9,8
+2011-10-29,Gaziantepspor_Trabzonspor_2011,Trabzonspor,4,5,9,8
+2011-10-29,Antalyaspor_Orduspor_2011,Orduspor,4,5,9,8
+2011-10-29,Gaziantepspor_Trabzonspor_2011,Gaziantepspor,5,4,9,8
+2011-10-29,Eskisehirspor_Samsunspor_2011,Eskisehirspor,5,4,9,8
+2011-10-30,Kayserispor_Galatasaray_2011,Kayserispor,5,4,9,8
+2011-10-30,Bursaspor_Manisaspor_2011,Bursaspor,5,4,9,8
+2011-10-30,Ankaragucu_Buyuksehyr_2011,Buyuksehyr,4,5,9,8
+2011-10-30,Besiktas_Sivasspor_2011,Sivasspor,4,5,9,8
+2011-10-30,Besiktas_Sivasspor_2011,Besiktas,5,4,9,8
+2011-10-30,Ankaragucu_Buyuksehyr_2011,Ankaragucu,5,4,9,8
+2011-10-30,Bursaspor_Manisaspor_2011,Manisaspor,4,5,9,8
+2011-10-30,Kayserispor_Galatasaray_2011,Galatasaray,4,5,9,8
+2011-10-31,Fenerbahce_Karabukspor_2011,Karabukspor,4,5,9,8
+2011-10-31,Mersin Idman Yurdu_Genclerbirligi_2011,Genclerbirligi,4,5,9,8
+2011-10-31,Mersin Idman Yurdu_Genclerbirligi_2011,Mersin Idman Yurdu,5,4,9,8
+2011-10-31,Fenerbahce_Karabukspor_2011,Fenerbahce,5,4,9,8
+2011-11-04,Sivasspor_Fenerbahce_2011,Sivasspor,5,5,10,9
+2011-11-04,Sivasspor_Fenerbahce_2011,Fenerbahce,5,5,10,9
+2011-11-04,Samsunspor_Ankaragucu_2011,Ankaragucu,5,5,10,9
+2011-11-04,Samsunspor_Ankaragucu_2011,Samsunspor,5,5,10,9
+2011-11-05,Galatasaray_Mersin Idman Yurdu_2011,Galatasaray,5,5,10,9
+2011-11-05,Karabukspor_Eskisehirspor_2011,Karabukspor,5,5,10,9
+2011-11-05,Orduspor_Gaziantepspor_2011,Gaziantepspor,5,5,10,9
+2011-11-05,Manisaspor_Antalyaspor_2011,Antalyaspor,5,5,10,9
+2011-11-05,Galatasaray_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,5,5,10,9
+2011-11-05,Manisaspor_Antalyaspor_2011,Manisaspor,5,5,10,9
+2011-11-05,Karabukspor_Eskisehirspor_2011,Eskisehirspor,5,5,10,9
+2011-11-05,Orduspor_Gaziantepspor_2011,Orduspor,5,5,10,9
+2011-11-06,Trabzonspor_Kayserispor_2011,Kayserispor,5,5,10,9
+2011-11-06,Buyuksehyr_Bursaspor_2011,Buyuksehyr,5,5,10,9
+2011-11-06,Genclerbirligi_Besiktas_2011,Besiktas,5,5,10,9
+2011-11-06,Genclerbirligi_Besiktas_2011,Genclerbirligi,5,5,10,9
+2011-11-06,Trabzonspor_Kayserispor_2011,Trabzonspor,5,5,10,9
+2011-11-06,Buyuksehyr_Bursaspor_2011,Bursaspor,5,5,10,9
+2011-11-18,Mersin Idman Yurdu_Trabzonspor_2011,Mersin Idman Yurdu,6,5,11,11
+2011-11-18,Mersin Idman Yurdu_Trabzonspor_2011,Trabzonspor,5,6,11,11
+2011-11-19,Ankaragucu_Karabukspor_2011,Karabukspor,5,6,11,11
+2011-11-19,Kayserispor_Orduspor_2011,Orduspor,5,6,11,11
+2011-11-19,Fenerbahce_Eskisehirspor_2011,Eskisehirspor,5,6,11,11
+2011-11-19,Fenerbahce_Eskisehirspor_2011,Fenerbahce,6,5,11,11
+2011-11-19,Ankaragucu_Karabukspor_2011,Ankaragucu,6,5,11,11
+2011-11-19,Kayserispor_Orduspor_2011,Kayserispor,6,5,11,11
+2011-11-20,Antalyaspor_Buyuksehyr_2011,Antalyaspor,6,5,11,11
+2011-11-20,Sivasspor_Genclerbirligi_2011,Genclerbirligi,5,6,11,11
+2011-11-20,Gaziantepspor_Manisaspor_2011,Manisaspor,5,6,11,11
+2011-11-20,Sivasspor_Genclerbirligi_2011,Sivasspor,6,5,11,11
+2011-11-20,Antalyaspor_Buyuksehyr_2011,Buyuksehyr,5,6,11,11
+2011-11-20,Besiktas_Galatasaray_2011,Besiktas,6,5,11,11
+2011-11-20,Gaziantepspor_Manisaspor_2011,Gaziantepspor,6,5,11,11
+2011-11-20,Besiktas_Galatasaray_2011,Galatasaray,5,6,11,11
+2011-11-21,Bursaspor_Samsunspor_2011,Samsunspor,5,6,11,11
+2011-11-21,Bursaspor_Samsunspor_2011,Bursaspor,6,5,11,11
+2011-11-25,Genclerbirligi_Fenerbahce_2011,Fenerbahce,6,6,12,12
+2011-11-25,Genclerbirligi_Fenerbahce_2011,Genclerbirligi,6,6,12,12
+2011-11-26,Orduspor_Mersin Idman Yurdu_2011,Orduspor,6,6,12,12
+2011-11-26,Orduspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,6,6,12,12
+2011-11-26,Galatasaray_Sivasspor_2011,Sivasspor,6,6,12,12
+2011-11-26,Samsunspor_Antalyaspor_2011,Antalyaspor,6,6,12,12
+2011-11-26,Galatasaray_Sivasspor_2011,Galatasaray,6,6,12,12
+2011-11-26,Samsunspor_Antalyaspor_2011,Samsunspor,6,6,12,12
+2011-11-27,Eskisehirspor_Ankaragucu_2011,Eskisehirspor,6,6,12,12
+2011-11-27,Trabzonspor_Besiktas_2011,Besiktas,6,6,12,12
+2011-11-27,Buyuksehyr_Gaziantepspor_2011,Gaziantepspor,6,6,12,12
+2011-11-27,Manisaspor_Kayserispor_2011,Kayserispor,6,6,12,12
+2011-11-27,Eskisehirspor_Ankaragucu_2011,Ankaragucu,6,6,12,12
+2011-11-27,Buyuksehyr_Gaziantepspor_2011,Buyuksehyr,6,6,12,12
+2011-11-27,Trabzonspor_Besiktas_2011,Trabzonspor,6,6,12,12
+2011-11-27,Manisaspor_Kayserispor_2011,Manisaspor,6,6,12,12
+2011-11-28,Karabukspor_Bursaspor_2011,Karabukspor,6,6,12,12
+2011-11-28,Karabukspor_Bursaspor_2011,Bursaspor,6,6,12,12
+2011-12-02,Sivasspor_Trabzonspor_2011,Sivasspor,7,6,13,13
+2011-12-02,Sivasspor_Trabzonspor_2011,Trabzonspor,6,7,13,13
+2011-12-03,Fenerbahce_Ankaragucu_2011,Fenerbahce,7,6,13,13
+2011-12-03,Gaziantepspor_Samsunspor_2011,Gaziantepspor,7,6,13,13
+2011-12-03,Fenerbahce_Ankaragucu_2011,Ankaragucu,6,7,13,13
+2011-12-03,Gaziantepspor_Samsunspor_2011,Samsunspor,6,7,13,13
+2011-12-03,Genclerbirligi_Galatasaray_2011,Genclerbirligi,7,6,13,13
+2011-12-03,Genclerbirligi_Galatasaray_2011,Galatasaray,6,7,13,13
+2011-12-04,Kayserispor_Buyuksehyr_2011,Kayserispor,7,6,13,13
+2011-12-04,Antalyaspor_Karabukspor_2011,Antalyaspor,7,6,13,13
+2011-12-04,Bursaspor_Eskisehirspor_2011,Bursaspor,7,6,13,13
+2011-12-04,Mersin Idman Yurdu_Manisaspor_2011,Mersin Idman Yurdu,7,6,13,13
+2011-12-04,Mersin Idman Yurdu_Manisaspor_2011,Manisaspor,6,7,13,13
+2011-12-04,Antalyaspor_Karabukspor_2011,Karabukspor,6,7,13,13
+2011-12-04,Kayserispor_Buyuksehyr_2011,Buyuksehyr,6,7,13,13
+2011-12-04,Bursaspor_Eskisehirspor_2011,Eskisehirspor,6,7,13,13
+2011-12-05,Besiktas_Orduspor_2011,Besiktas,7,6,13,13
+2011-12-05,Besiktas_Orduspor_2011,Orduspor,6,7,13,13
+2011-12-07,Karabukspor_Gaziantepspor_2011,Karabukspor,7,7,14,14
+2011-12-07,Eskisehirspor_Antalyaspor_2011,Antalyaspor,7,7,14,14
+2011-12-07,Karabukspor_Gaziantepspor_2011,Gaziantepspor,7,7,14,14
+2011-12-07,Galatasaray_Fenerbahce_2011,Fenerbahce,7,7,14,14
+2011-12-07,Eskisehirspor_Antalyaspor_2011,Eskisehirspor,7,7,14,14
+2011-12-07,Galatasaray_Fenerbahce_2011,Galatasaray,7,7,14,14
+2011-12-08,Ankaragucu_Bursaspor_2011,Ankaragucu,7,7,14,14
+2011-12-08,Buyuksehyr_Mersin Idman Yurdu_2011,Buyuksehyr,7,7,14,14
+2011-12-08,Samsunspor_Kayserispor_2011,Samsunspor,7,7,14,14
+2011-12-08,Manisaspor_Besiktas_2011,Manisaspor,7,7,14,14
+2011-12-08,Manisaspor_Besiktas_2011,Besiktas,7,7,14,14
+2011-12-08,Orduspor_Sivasspor_2011,Orduspor,7,7,14,14
+2011-12-08,Orduspor_Sivasspor_2011,Sivasspor,7,7,14,14
+2011-12-08,Ankaragucu_Bursaspor_2011,Bursaspor,7,7,14,14
+2011-12-08,Samsunspor_Kayserispor_2011,Kayserispor,7,7,14,14
+2011-12-08,Buyuksehyr_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,7,7,14,14
+2011-12-10,Gaziantepspor_Eskisehirspor_2011,Eskisehirspor,7,8,15,14
+2011-12-10,Gaziantepspor_Eskisehirspor_2011,Gaziantepspor,8,7,15,14
+2011-12-11,Antalyaspor_Ankaragucu_2011,Ankaragucu,7,8,15,14
+2011-12-11,Genclerbirligi_Orduspor_2011,Genclerbirligi,8,6,14,14
+2011-12-11,Antalyaspor_Ankaragucu_2011,Antalyaspor,8,7,15,14
+2011-12-11,Trabzonspor_Galatasaray_2011,Galatasaray,7,8,15,14
+2011-12-11,Besiktas_Buyuksehyr_2011,Besiktas,8,7,15,14
+2011-12-11,Genclerbirligi_Orduspor_2011,Orduspor,7,8,15,14
+2011-12-11,Mersin Idman Yurdu_Samsunspor_2011,Mersin Idman Yurdu,8,7,15,14
+2011-12-11,Besiktas_Buyuksehyr_2011,Buyuksehyr,7,8,15,14
+2011-12-11,Trabzonspor_Galatasaray_2011,Trabzonspor,7,7,14,14
+2011-12-11,Mersin Idman Yurdu_Samsunspor_2011,Samsunspor,7,8,15,14
+2011-12-12,Sivasspor_Manisaspor_2011,Manisaspor,7,8,15,14
+2011-12-12,Bursaspor_Fenerbahce_2011,Bursaspor,8,7,15,14
+2011-12-12,Sivasspor_Manisaspor_2011,Sivasspor,8,7,15,14
+2011-12-12,Kayserispor_Karabukspor_2011,Karabukspor,7,8,15,14
+2011-12-12,Kayserispor_Karabukspor_2011,Kayserispor,8,7,15,14
+2011-12-12,Bursaspor_Fenerbahce_2011,Fenerbahce,7,8,15,14
+2011-12-14,Trabzonspor_Genclerbirligi_2011,Trabzonspor,8,7,15,15
+2011-12-14,Trabzonspor_Genclerbirligi_2011,Genclerbirligi,8,7,15,15
+2011-12-16,Orduspor_Galatasaray_2011,Galatasaray,7,9,16,15
+2011-12-16,Orduspor_Galatasaray_2011,Orduspor,8,8,16,15
+2011-12-17,Eskisehirspor_Kayserispor_2011,Eskisehirspor,8,8,16,15
+2011-12-17,Karabukspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,8,8,16,15
+2011-12-17,Eskisehirspor_Kayserispor_2011,Kayserispor,8,8,16,15
+2011-12-17,Bursaspor_Antalyaspor_2011,Antalyaspor,8,8,16,15
+2011-12-17,Karabukspor_Mersin Idman Yurdu_2011,Karabukspor,8,8,16,15
+2011-12-17,Bursaspor_Antalyaspor_2011,Bursaspor,9,7,16,15
+2011-12-17,Ankaragucu_Gaziantepspor_2011,Ankaragucu,8,8,16,15
+2011-12-17,Ankaragucu_Gaziantepspor_2011,Gaziantepspor,8,8,16,15
+2011-12-18,Buyuksehyr_Sivasspor_2011,Buyuksehyr,8,8,16,15
+2011-12-18,Buyuksehyr_Sivasspor_2011,Sivasspor,8,8,16,15
+2011-12-18,Samsunspor_Besiktas_2011,Besiktas,8,8,16,15
+2011-12-18,Fenerbahce_Trabzonspor_2011,Trabzonspor,8,8,16,15
+2011-12-18,Manisaspor_Genclerbirligi_2011,Manisaspor,8,8,16,15
+2011-12-18,Fenerbahce_Trabzonspor_2011,Fenerbahce,8,8,16,15
+2011-12-18,Samsunspor_Besiktas_2011,Samsunspor,8,8,16,15
+2011-12-18,Manisaspor_Genclerbirligi_2011,Genclerbirligi,8,8,16,15
+2011-12-21,Sivasspor_Samsunspor_2011,Sivasspor,9,8,17,16
+2011-12-21,Mersin Idman Yurdu_Eskisehirspor_2011,Mersin Idman Yurdu,9,8,17,16
+2011-12-21,Mersin Idman Yurdu_Eskisehirspor_2011,Eskisehirspor,8,9,17,16
+2011-12-21,Antalyaspor_Fenerbahce_2011,Fenerbahce,8,9,17,16
+2011-12-21,Kayserispor_Ankaragucu_2011,Ankaragucu,8,9,17,16
+2011-12-21,Antalyaspor_Fenerbahce_2011,Antalyaspor,9,8,17,16
+2011-12-21,Galatasaray_Manisaspor_2011,Manisaspor,8,9,17,16
+2011-12-21,Kayserispor_Ankaragucu_2011,Kayserispor,9,8,17,16
+2011-12-21,Sivasspor_Samsunspor_2011,Samsunspor,8,9,17,16
+2011-12-21,Galatasaray_Manisaspor_2011,Galatasaray,8,9,17,16
+2011-12-22,Besiktas_Karabukspor_2011,Besiktas,9,8,17,16
+2011-12-22,Gaziantepspor_Bursaspor_2011,Bursaspor,9,8,17,16
+2011-12-22,Genclerbirligi_Buyuksehyr_2011,Buyuksehyr,8,9,17,16
+2011-12-22,Trabzonspor_Orduspor_2011,Orduspor,8,9,17,16
+2011-12-22,Gaziantepspor_Bursaspor_2011,Gaziantepspor,9,8,17,16
+2011-12-22,Trabzonspor_Orduspor_2011,Trabzonspor,9,8,17,16
+2011-12-22,Besiktas_Karabukspor_2011,Karabukspor,8,9,17,16
+2011-12-22,Genclerbirligi_Buyuksehyr_2011,Genclerbirligi,9,8,17,16
+2012-01-03,Trabzonspor_Manisaspor_2011,Trabzonspor,10,8,18,18
+2012-01-03,Kayserispor_Bursaspor_2011,Bursaspor,9,9,18,18
+2012-01-03,Galatasaray_Buyuksehyr_2011,Galatasaray,9,9,18,18
+2012-01-03,Galatasaray_Buyuksehyr_2011,Buyuksehyr,8,10,18,18
+2012-01-03,Mersin Idman Yurdu_Ankaragucu_2011,Ankaragucu,8,10,18,18
+2012-01-03,Mersin Idman Yurdu_Ankaragucu_2011,Mersin Idman Yurdu,10,8,18,18
+2012-01-03,Sivasspor_Karabukspor_2011,Karabukspor,8,10,18,18
+2012-01-03,Trabzonspor_Manisaspor_2011,Manisaspor,8,10,18,18
+2012-01-03,Sivasspor_Karabukspor_2011,Sivasspor,10,8,18,18
+2012-01-03,Kayserispor_Bursaspor_2011,Kayserispor,10,8,18,18
+2012-01-04,Besiktas_Eskisehirspor_2011,Eskisehirspor,8,10,18,18
+2012-01-04,Genclerbirligi_Samsunspor_2011,Genclerbirligi,10,8,18,18
+2012-01-04,Gaziantepspor_Antalyaspor_2011,Gaziantepspor,10,8,18,18
+2012-01-04,Genclerbirligi_Samsunspor_2011,Samsunspor,8,10,18,18
+2012-01-04,Gaziantepspor_Antalyaspor_2011,Antalyaspor,9,9,18,18
+2012-01-04,Orduspor_Fenerbahce_2011,Fenerbahce,8,10,18,18
+2012-01-04,Besiktas_Eskisehirspor_2011,Besiktas,10,8,18,18
+2012-01-04,Orduspor_Fenerbahce_2011,Orduspor,9,9,18,18
+2012-01-07,Buyuksehyr_Trabzonspor_2011,Buyuksehyr,9,10,19,18
+2012-01-07,Samsunspor_Galatasaray_2011,Samsunspor,9,10,19,18
+2012-01-07,Bursaspor_Mersin Idman Yurdu_2011,Bursaspor,10,9,19,18
+2012-01-07,Buyuksehyr_Trabzonspor_2011,Trabzonspor,10,9,19,18
+2012-01-07,Bursaspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,10,9,19,18
+2012-01-07,Samsunspor_Galatasaray_2011,Galatasaray,9,10,19,18
+2012-01-08,Karabukspor_Genclerbirligi_2011,Genclerbirligi,10,9,19,18
+2012-01-08,Antalyaspor_Kayserispor_2011,Antalyaspor,10,9,19,18
+2012-01-08,Ankaragucu_Besiktas_2011,Ankaragucu,9,10,19,18
+2012-01-08,Eskisehirspor_Sivasspor_2011,Eskisehirspor,9,10,19,18
+2012-01-08,Manisaspor_Orduspor_2011,Orduspor,9,10,19,18
+2012-01-08,Karabukspor_Genclerbirligi_2011,Karabukspor,9,10,19,18
+2012-01-08,Antalyaspor_Kayserispor_2011,Kayserispor,10,9,19,18
+2012-01-08,Eskisehirspor_Sivasspor_2011,Sivasspor,10,9,19,18
+2012-01-08,Ankaragucu_Besiktas_2011,Besiktas,10,9,19,18
+2012-01-08,Manisaspor_Orduspor_2011,Manisaspor,9,10,19,18
+2012-01-09,Fenerbahce_Gaziantepspor_2011,Gaziantepspor,10,9,19,18
+2012-01-09,Fenerbahce_Gaziantepspor_2011,Fenerbahce,9,10,19,18
+2012-01-14,Genclerbirligi_Eskisehirspor_2011,Genclerbirligi,11,9,20,19
+2012-01-14,Genclerbirligi_Eskisehirspor_2011,Eskisehirspor,9,11,20,19
+2012-01-14,Galatasaray_Karabukspor_2011,Karabukspor,9,11,20,19
+2012-01-14,Galatasaray_Karabukspor_2011,Galatasaray,10,10,20,19
+2012-01-15,Trabzonspor_Samsunspor_2011,Samsunspor,9,11,20,19
+2012-01-15,Orduspor_Buyuksehyr_2011,Buyuksehyr,9,11,20,19
+2012-01-15,Sivasspor_Ankaragucu_2011,Ankaragucu,9,11,20,19
+2012-01-15,Orduspor_Buyuksehyr_2011,Orduspor,10,10,20,19
+2012-01-15,Trabzonspor_Samsunspor_2011,Trabzonspor,11,9,20,19
+2012-01-15,Besiktas_Bursaspor_2011,Besiktas,11,9,20,19
+2012-01-15,Sivasspor_Ankaragucu_2011,Sivasspor,11,9,20,19
+2012-01-15,Besiktas_Bursaspor_2011,Bursaspor,10,10,20,19
+2012-01-15,Mersin Idman Yurdu_Antalyaspor_2011,Mersin Idman Yurdu,11,9,20,19
+2012-01-15,Mersin Idman Yurdu_Antalyaspor_2011,Antalyaspor,10,10,20,19
+2012-01-16,Kayserispor_Gaziantepspor_2011,Kayserispor,11,9,20,19
+2012-01-16,Kayserispor_Gaziantepspor_2011,Gaziantepspor,10,10,20,19
+2012-01-16,Manisaspor_Fenerbahce_2011,Manisaspor,10,10,20,19
+2012-01-16,Manisaspor_Fenerbahce_2011,Fenerbahce,9,11,20,19
+2012-01-20,Gaziantepspor_Mersin Idman Yurdu_2011,Gaziantepspor,11,10,21,20
+2012-01-20,Antalyaspor_Besiktas_2011,Antalyaspor,11,10,21,20
+2012-01-20,Antalyaspor_Besiktas_2011,Besiktas,11,10,21,20
+2012-01-20,Gaziantepspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,11,10,21,20
+2012-01-21,Bursaspor_Sivasspor_2011,Sivasspor,11,10,21,20
+2012-01-21,Buyuksehyr_Manisaspor_2011,Buyuksehyr,10,11,21,20
+2012-01-21,Fenerbahce_Kayserispor_2011,Fenerbahce,10,11,21,20
+2012-01-21,Karabukspor_Trabzonspor_2011,Trabzonspor,11,10,21,20
+2012-01-21,Fenerbahce_Kayserispor_2011,Kayserispor,11,10,21,20
+2012-01-21,Buyuksehyr_Manisaspor_2011,Manisaspor,10,11,21,20
+2012-01-21,Bursaspor_Sivasspor_2011,Bursaspor,11,10,21,20
+2012-01-21,Samsunspor_Orduspor_2011,Samsunspor,10,11,21,20
+2012-01-21,Samsunspor_Orduspor_2011,Orduspor,10,11,21,20
+2012-01-21,Karabukspor_Trabzonspor_2011,Karabukspor,10,11,21,20
+2012-01-22,Eskisehirspor_Galatasaray_2011,Eskisehirspor,10,11,21,20
+2012-01-22,Ankaragucu_Genclerbirligi_2011,Ankaragucu,10,11,21,20
+2012-01-22,Ankaragucu_Genclerbirligi_2011,Genclerbirligi,11,10,21,20
+2012-01-22,Eskisehirspor_Galatasaray_2011,Galatasaray,10,11,21,20
+2012-01-24,Mersin Idman Yurdu_Kayserispor_2011,Kayserispor,11,11,22,21
+2012-01-24,Manisaspor_Samsunspor_2011,Samsunspor,10,12,22,21
+2012-01-24,Sivasspor_Antalyaspor_2011,Antalyaspor,11,11,22,21
+2012-01-24,Manisaspor_Samsunspor_2011,Manisaspor,11,11,22,21
+2012-01-24,Sivasspor_Antalyaspor_2011,Sivasspor,12,10,22,21
+2012-01-24,Mersin Idman Yurdu_Kayserispor_2011,Mersin Idman Yurdu,12,10,22,21
+2012-01-24,Besiktas_Gaziantepspor_2011,Gaziantepspor,11,11,22,21
+2012-01-24,Besiktas_Gaziantepspor_2011,Besiktas,12,10,22,21
+2012-01-25,Genclerbirligi_Bursaspor_2011,Bursaspor,11,11,22,21
+2012-01-25,Orduspor_Karabukspor_2011,Orduspor,11,11,22,21
+2012-01-25,Trabzonspor_Eskisehirspor_2011,Eskisehirspor,10,12,22,21
+2012-01-25,Genclerbirligi_Bursaspor_2011,Genclerbirligi,12,10,22,21
+2012-01-25,Trabzonspor_Eskisehirspor_2011,Trabzonspor,12,10,22,21
+2012-01-25,Galatasaray_Ankaragucu_2011,Galatasaray,11,11,22,21
+2012-01-25,Orduspor_Karabukspor_2011,Karabukspor,10,12,22,21
+2012-01-25,Buyuksehyr_Fenerbahce_2011,Buyuksehyr,11,11,22,21
+2012-01-25,Buyuksehyr_Fenerbahce_2011,Fenerbahce,10,12,22,21
+2012-01-25,Galatasaray_Ankaragucu_2011,Ankaragucu,10,12,22,21
+2012-01-28,Bursaspor_Galatasaray_2011,Galatasaray,11,12,23,21
+2012-01-28,Antalyaspor_Genclerbirligi_2011,Antalyaspor,12,11,23,21
+2012-01-28,Bursaspor_Galatasaray_2011,Bursaspor,12,11,23,21
+2012-01-28,Antalyaspor_Genclerbirligi_2011,Genclerbirligi,12,11,23,21
+2012-01-29,Eskisehirspor_Orduspor_2011,Eskisehirspor,11,12,23,21
+2012-01-29,Karabukspor_Manisaspor_2011,Manisaspor,11,12,23,21
+2012-01-29,Fenerbahce_Mersin Idman Yurdu_2011,Fenerbahce,11,12,23,21
+2012-01-29,Samsunspor_Buyuksehyr_2011,Buyuksehyr,11,12,23,21
+2012-01-29,Fenerbahce_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,12,11,23,21
+2012-01-29,Samsunspor_Buyuksehyr_2011,Samsunspor,11,12,23,21
+2012-01-29,Ankaragucu_Trabzonspor_2011,Trabzonspor,12,11,23,21
+2012-01-29,Karabukspor_Manisaspor_2011,Karabukspor,11,12,23,21
+2012-01-29,Gaziantepspor_Sivasspor_2011,Gaziantepspor,12,11,23,21
+2012-01-29,Gaziantepspor_Sivasspor_2011,Sivasspor,12,11,23,21
+2012-01-29,Eskisehirspor_Orduspor_2011,Orduspor,11,12,23,21
+2012-01-29,Ankaragucu_Trabzonspor_2011,Ankaragucu,11,12,23,21
+2012-01-30,Kayserispor_Besiktas_2011,Besiktas,12,11,23,21
+2012-01-30,Kayserispor_Besiktas_2011,Kayserispor,12,11,23,21
+2012-02-01,Galatasaray_Antalyaspor_2011,Antalyaspor,12,12,24,22
+2012-02-01,Orduspor_Ankaragucu_2011,Orduspor,12,12,24,22
+2012-02-01,Genclerbirligi_Gaziantepspor_2011,Gaziantepspor,12,12,24,22
+2012-02-01,Trabzonspor_Bursaspor_2011,Trabzonspor,13,11,24,22
+2012-02-01,Orduspor_Ankaragucu_2011,Ankaragucu,11,13,24,22
+2012-02-01,Genclerbirligi_Gaziantepspor_2011,Genclerbirligi,13,11,24,22
+2012-02-01,Galatasaray_Antalyaspor_2011,Galatasaray,12,12,24,22
+2012-02-01,Trabzonspor_Bursaspor_2011,Bursaspor,12,12,24,22
+2012-02-02,Besiktas_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,12,12,24,22
+2012-02-02,Samsunspor_Fenerbahce_2011,Samsunspor,12,12,24,22
+2012-02-02,Manisaspor_Eskisehirspor_2011,Manisaspor,12,12,24,22
+2012-02-02,Samsunspor_Fenerbahce_2011,Fenerbahce,11,13,24,22
+2012-02-02,Manisaspor_Eskisehirspor_2011,Eskisehirspor,11,13,24,22
+2012-02-02,Sivasspor_Kayserispor_2011,Sivasspor,13,11,24,22
+2012-02-02,Sivasspor_Kayserispor_2011,Kayserispor,12,12,24,22
+2012-02-02,Besiktas_Mersin Idman Yurdu_2011,Besiktas,13,11,24,22
+2012-02-04,Antalyaspor_Trabzonspor_2011,Antalyaspor,13,12,25,22
+2012-02-04,Gaziantepspor_Galatasaray_2011,Gaziantepspor,13,12,25,22
+2012-02-04,Gaziantepspor_Galatasaray_2011,Galatasaray,12,13,25,22
+2012-02-04,Antalyaspor_Trabzonspor_2011,Trabzonspor,13,12,25,22
+2012-02-05,Fenerbahce_Besiktas_2011,Fenerbahce,12,13,25,22
+2012-02-05,Mersin Idman Yurdu_Sivasspor_2011,Sivasspor,13,12,25,22
+2012-02-05,Bursaspor_Orduspor_2011,Orduspor,12,13,25,22
+2012-02-05,Kayserispor_Genclerbirligi_2011,Genclerbirligi,13,12,25,22
+2012-02-05,Bursaspor_Orduspor_2011,Bursaspor,13,12,25,22
+2012-02-05,Fenerbahce_Besiktas_2011,Besiktas,13,12,25,22
+2012-02-05,Mersin Idman Yurdu_Sivasspor_2011,Mersin Idman Yurdu,13,12,25,22
+2012-02-05,Kayserispor_Genclerbirligi_2011,Kayserispor,13,12,25,22
+2012-02-06,Karabukspor_Samsunspor_2011,Samsunspor,12,13,25,22
+2012-02-06,Ankaragucu_Manisaspor_2011,Ankaragucu,12,13,25,22
+2012-02-06,Eskisehirspor_Buyuksehyr_2011,Eskisehirspor,12,13,25,22
+2012-02-06,Eskisehirspor_Buyuksehyr_2011,Buyuksehyr,11,13,24,22
+2012-02-06,Karabukspor_Samsunspor_2011,Karabukspor,12,12,24,22
+2012-02-06,Ankaragucu_Manisaspor_2011,Manisaspor,12,13,25,22
+2012-02-09,Sivasspor_Besiktas_2011,Sivasspor,14,12,26,23
+2012-02-09,Sivasspor_Besiktas_2011,Besiktas,13,13,26,23
+2012-02-09,Buyuksehyr_Karabukspor_2011,Buyuksehyr,12,13,25,23
+2012-02-09,Buyuksehyr_Karabukspor_2011,Karabukspor,12,13,25,23
+2012-02-10,Trabzonspor_Gaziantepspor_2011,Trabzonspor,14,12,26,23
+2012-02-10,Trabzonspor_Gaziantepspor_2011,Gaziantepspor,13,13,26,23
+2012-02-11,Galatasaray_Kayserispor_2011,Galatasaray,13,13,26,23
+2012-02-11,Genclerbirligi_Mersin Idman Yurdu_2011,Genclerbirligi,14,12,26,23
+2012-02-11,Genclerbirligi_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,13,13,26,23
+2012-02-11,Galatasaray_Kayserispor_2011,Kayserispor,13,13,26,23
+2012-02-12,Orduspor_Antalyaspor_2011,Orduspor,13,13,26,23
+2012-02-12,Manisaspor_Bursaspor_2011,Bursaspor,13,13,26,23
+2012-02-12,Buyuksehyr_Ankaragucu_2011,Ankaragucu,12,14,26,23
+2012-02-12,Samsunspor_Eskisehirspor_2011,Samsunspor,13,13,26,23
+2012-02-12,Karabukspor_Fenerbahce_2011,Karabukspor,13,13,26,23
+2012-02-12,Karabukspor_Fenerbahce_2011,Fenerbahce,12,14,26,23
+2012-02-12,Manisaspor_Bursaspor_2011,Manisaspor,13,13,26,23
+2012-02-12,Orduspor_Antalyaspor_2011,Antalyaspor,13,13,26,23
+2012-02-12,Buyuksehyr_Ankaragucu_2011,Buyuksehyr,13,13,26,23
+2012-02-12,Samsunspor_Eskisehirspor_2011,Eskisehirspor,12,14,26,23
+2012-02-17,Mersin Idman Yurdu_Galatasaray_2011,Mersin Idman Yurdu,14,13,27,24
+2012-02-17,Mersin Idman Yurdu_Galatasaray_2011,Galatasaray,13,14,27,24
+2012-02-18,Ankaragucu_Samsunspor_2011,Ankaragucu,13,14,27,24
+2012-02-18,Fenerbahce_Sivasspor_2011,Fenerbahce,13,14,27,24
+2012-02-18,Antalyaspor_Manisaspor_2011,Antalyaspor,14,13,27,24
+2012-02-18,Ankaragucu_Samsunspor_2011,Samsunspor,13,14,27,24
+2012-02-18,Antalyaspor_Manisaspor_2011,Manisaspor,13,14,27,24
+2012-02-18,Fenerbahce_Sivasspor_2011,Sivasspor,14,13,27,24
+2012-02-19,Gaziantepspor_Orduspor_2011,Orduspor,13,14,27,24
+2012-02-19,Kayserispor_Trabzonspor_2011,Trabzonspor,14,13,27,24
+2012-02-19,Besiktas_Genclerbirligi_2011,Genclerbirligi,14,13,27,24
+2012-02-19,Gaziantepspor_Orduspor_2011,Gaziantepspor,14,13,27,24
+2012-02-19,Eskisehirspor_Karabukspor_2011,Eskisehirspor,13,14,27,24
+2012-02-19,Kayserispor_Trabzonspor_2011,Kayserispor,14,13,27,24
+2012-02-19,Besiktas_Genclerbirligi_2011,Besiktas,14,13,27,24
+2012-02-19,Eskisehirspor_Karabukspor_2011,Karabukspor,13,14,27,24
+2012-02-20,Bursaspor_Buyuksehyr_2011,Bursaspor,14,13,27,24
+2012-02-20,Bursaspor_Buyuksehyr_2011,Buyuksehyr,13,14,27,24
+2012-02-24,Orduspor_Kayserispor_2011,Kayserispor,14,14,28,25
+2012-02-24,Orduspor_Kayserispor_2011,Orduspor,14,14,28,25
+2012-02-25,Eskisehirspor_Fenerbahce_2011,Eskisehirspor,14,14,28,25
+2012-02-25,Karabukspor_Ankaragucu_2011,Ankaragucu,13,15,28,25
+2012-02-25,Samsunspor_Bursaspor_2011,Samsunspor,14,14,28,25
+2012-02-25,Eskisehirspor_Fenerbahce_2011,Fenerbahce,13,15,28,25
+2012-02-25,Samsunspor_Bursaspor_2011,Bursaspor,14,14,28,25
+2012-02-25,Manisaspor_Gaziantepspor_2011,Gaziantepspor,14,14,28,25
+2012-02-25,Karabukspor_Ankaragucu_2011,Karabukspor,14,14,28,25
+2012-02-25,Manisaspor_Gaziantepspor_2011,Manisaspor,14,14,28,25
+2012-02-26,Genclerbirligi_Sivasspor_2011,Sivasspor,14,14,28,25
+2012-02-26,Galatasaray_Besiktas_2011,Galatasaray,14,14,28,25
+2012-02-26,Galatasaray_Besiktas_2011,Besiktas,14,14,28,25
+2012-02-26,Buyuksehyr_Antalyaspor_2011,Buyuksehyr,14,14,28,25
+2012-02-26,Genclerbirligi_Sivasspor_2011,Genclerbirligi,15,13,28,25
+2012-02-26,Trabzonspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,14,14,28,25
+2012-02-26,Trabzonspor_Mersin Idman Yurdu_2011,Trabzonspor,15,13,28,25
+2012-02-26,Buyuksehyr_Antalyaspor_2011,Antalyaspor,14,14,28,25
+2012-03-03,Antalyaspor_Samsunspor_2011,Antalyaspor,15,14,29,26
+2012-03-03,Ankaragucu_Eskisehirspor_2011,Ankaragucu,14,15,29,26
+2012-03-03,Mersin Idman Yurdu_Orduspor_2011,Mersin Idman Yurdu,15,14,29,26
+2012-03-03,Fenerbahce_Genclerbirligi_2011,Genclerbirligi,15,14,29,26
+2012-03-03,Fenerbahce_Genclerbirligi_2011,Fenerbahce,14,15,29,26
+2012-03-03,Antalyaspor_Samsunspor_2011,Samsunspor,14,15,29,26
+2012-03-03,Ankaragucu_Eskisehirspor_2011,Eskisehirspor,14,15,29,26
+2012-03-03,Mersin Idman Yurdu_Orduspor_2011,Orduspor,14,15,29,26
+2012-03-04,Kayserispor_Manisaspor_2011,Manisaspor,14,15,29,26
+2012-03-04,Bursaspor_Karabukspor_2011,Karabukspor,14,15,29,26
+2012-03-04,Bursaspor_Karabukspor_2011,Bursaspor,15,14,29,26
+2012-03-04,Gaziantepspor_Buyuksehyr_2011,Gaziantepspor,15,14,29,26
+2012-03-04,Besiktas_Trabzonspor_2011,Besiktas,15,14,29,26
+2012-03-04,Besiktas_Trabzonspor_2011,Trabzonspor,15,14,29,26
+2012-03-04,Kayserispor_Manisaspor_2011,Kayserispor,15,14,29,26
+2012-03-04,Gaziantepspor_Buyuksehyr_2011,Buyuksehyr,14,15,29,26
+2012-03-05,Sivasspor_Galatasaray_2011,Galatasaray,14,15,29,26
+2012-03-05,Sivasspor_Galatasaray_2011,Sivasspor,15,14,29,26
+2012-03-09,Ankaragucu_Fenerbahce_2011,Fenerbahce,14,16,30,27
+2012-03-09,Ankaragucu_Fenerbahce_2011,Ankaragucu,15,15,30,27
+2012-03-10,Galatasaray_Genclerbirligi_2011,Genclerbirligi,15,15,30,27
+2012-03-10,Buyuksehyr_Kayserispor_2011,Kayserispor,15,15,30,27
+2012-03-10,Galatasaray_Genclerbirligi_2011,Galatasaray,15,15,30,27
+2012-03-10,Buyuksehyr_Kayserispor_2011,Buyuksehyr,15,15,30,27
+2012-03-11,Orduspor_Besiktas_2011,Besiktas,15,15,30,27
+2012-03-11,Karabukspor_Antalyaspor_2011,Antalyaspor,15,15,30,27
+2012-03-11,Eskisehirspor_Bursaspor_2011,Bursaspor,15,15,30,27
+2012-03-11,Orduspor_Besiktas_2011,Orduspor,15,15,30,27
+2012-03-11,Manisaspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,15,15,30,27
+2012-03-11,Eskisehirspor_Bursaspor_2011,Eskisehirspor,15,15,30,27
+2012-03-11,Karabukspor_Antalyaspor_2011,Karabukspor,15,15,30,27
+2012-03-11,Manisaspor_Mersin Idman Yurdu_2011,Manisaspor,15,15,30,27
+2012-03-11,Samsunspor_Gaziantepspor_2011,Samsunspor,15,15,30,27
+2012-03-11,Samsunspor_Gaziantepspor_2011,Gaziantepspor,15,15,30,27
+2012-03-12,Trabzonspor_Sivasspor_2011,Trabzonspor,16,14,30,27
+2012-03-12,Trabzonspor_Sivasspor_2011,Sivasspor,15,15,30,27
+2012-03-16,Genclerbirligi_Trabzonspor_2011,Genclerbirligi,16,15,31,28
+2012-03-16,Genclerbirligi_Trabzonspor_2011,Trabzonspor,16,15,31,28
+2012-03-17,Fenerbahce_Galatasaray_2011,Fenerbahce,15,16,31,28
+2012-03-17,Fenerbahce_Galatasaray_2011,Galatasaray,15,16,31,28
+2012-03-17,Bursaspor_Ankaragucu_2011,Ankaragucu,15,16,31,28
+2012-03-17,Sivasspor_Orduspor_2011,Sivasspor,16,15,31,28
+2012-03-17,Antalyaspor_Eskisehirspor_2011,Eskisehirspor,15,16,31,28
+2012-03-17,Sivasspor_Orduspor_2011,Orduspor,15,16,31,28
+2012-03-17,Antalyaspor_Eskisehirspor_2011,Antalyaspor,16,15,31,28
+2012-03-17,Bursaspor_Ankaragucu_2011,Bursaspor,16,15,31,28
+2012-03-18,Mersin Idman Yurdu_Buyuksehyr_2011,Buyuksehyr,15,16,31,28
+2012-03-18,Kayserispor_Samsunspor_2011,Kayserispor,16,15,31,28
+2012-03-18,Kayserispor_Samsunspor_2011,Samsunspor,15,16,31,28
+2012-03-18,Gaziantepspor_Karabukspor_2011,Gaziantepspor,16,15,31,28
+2012-03-18,Mersin Idman Yurdu_Buyuksehyr_2011,Mersin Idman Yurdu,16,15,31,28
+2012-03-18,Gaziantepspor_Karabukspor_2011,Karabukspor,15,16,31,28
+2012-03-19,Besiktas_Manisaspor_2011,Besiktas,16,15,31,28
+2012-03-19,Besiktas_Manisaspor_2011,Manisaspor,15,16,31,28
+2012-03-24,Fenerbahce_Bursaspor_2011,Fenerbahce,16,16,32,29
+2012-03-24,Fenerbahce_Bursaspor_2011,Bursaspor,16,16,32,29
+2012-03-25,Ankaragucu_Antalyaspor_2011,Antalyaspor,16,16,32,29
+2012-03-25,Samsunspor_Mersin Idman Yurdu_2011,Samsunspor,16,16,32,29
+2012-03-25,Orduspor_Genclerbirligi_2011,Orduspor,16,16,32,29
+2012-03-25,Samsunspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,16,16,32,29
+2012-03-25,Galatasaray_Trabzonspor_2011,Galatasaray,16,16,32,29
+2012-03-25,Ankaragucu_Antalyaspor_2011,Ankaragucu,16,16,32,29
+2012-03-25,Manisaspor_Sivasspor_2011,Sivasspor,16,16,32,29
+2012-03-25,Orduspor_Genclerbirligi_2011,Genclerbirligi,16,16,32,29
+2012-03-25,Galatasaray_Trabzonspor_2011,Trabzonspor,16,16,32,29
+2012-03-25,Eskisehirspor_Gaziantepspor_2011,Gaziantepspor,16,16,32,29
+2012-03-25,Manisaspor_Sivasspor_2011,Manisaspor,16,16,32,29
+2012-03-25,Eskisehirspor_Gaziantepspor_2011,Eskisehirspor,16,16,32,29
+2012-03-25,Karabukspor_Kayserispor_2011,Kayserispor,16,16,32,29
+2012-03-25,Karabukspor_Kayserispor_2011,Karabukspor,16,16,32,29
+2012-03-26,Buyuksehyr_Besiktas_2011,Buyuksehyr,16,16,32,29
+2012-03-26,Buyuksehyr_Besiktas_2011,Besiktas,16,16,32,29
+2012-03-30,Gaziantepspor_Ankaragucu_2011,Gaziantepspor,17,16,33,30
+2012-03-30,Mersin Idman Yurdu_Karabukspor_2011,Karabukspor,16,17,33,30
+2012-03-30,Mersin Idman Yurdu_Karabukspor_2011,Mersin Idman Yurdu,17,16,33,30
+2012-03-30,Gaziantepspor_Ankaragucu_2011,Ankaragucu,16,17,33,30
+2012-03-31,Sivasspor_Buyuksehyr_2011,Buyuksehyr,16,17,33,30
+2012-03-31,Kayserispor_Eskisehirspor_2011,Eskisehirspor,16,17,33,30
+2012-03-31,Genclerbirligi_Manisaspor_2011,Manisaspor,16,17,33,30
+2012-03-31,Galatasaray_Orduspor_2011,Orduspor,16,17,33,30
+2012-03-31,Kayserispor_Eskisehirspor_2011,Kayserispor,17,16,33,30
+2012-03-31,Galatasaray_Orduspor_2011,Galatasaray,17,16,33,30
+2012-03-31,Sivasspor_Buyuksehyr_2011,Sivasspor,17,16,33,30
+2012-03-31,Genclerbirligi_Manisaspor_2011,Genclerbirligi,17,16,33,30
+2012-04-01,Besiktas_Samsunspor_2011,Besiktas,17,16,33,30
+2012-04-01,Antalyaspor_Bursaspor_2011,Antalyaspor,17,16,33,30
+2012-04-01,Antalyaspor_Bursaspor_2011,Bursaspor,16,17,33,30
+2012-04-01,Besiktas_Samsunspor_2011,Samsunspor,16,17,33,30
+2012-04-01,Trabzonspor_Fenerbahce_2011,Fenerbahce,16,17,33,30
+2012-04-01,Trabzonspor_Fenerbahce_2011,Trabzonspor,17,16,33,30
+2012-04-06,Karabukspor_Besiktas_2011,Besiktas,17,17,34,31
+2012-04-06,Karabukspor_Besiktas_2011,Karabukspor,17,17,34,31
+2012-04-07,Ankaragucu_Kayserispor_2011,Kayserispor,17,17,34,31
+2012-04-07,Ankaragucu_Kayserispor_2011,Ankaragucu,17,17,34,31
+2012-04-07,Samsunspor_Sivasspor_2011,Samsunspor,17,17,34,31
+2012-04-07,Bursaspor_Gaziantepspor_2011,Gaziantepspor,17,17,34,31
+2012-04-07,Buyuksehyr_Genclerbirligi_2011,Genclerbirligi,17,17,34,31
+2012-04-07,Fenerbahce_Antalyaspor_2011,Fenerbahce,17,17,34,31
+2012-04-07,Fenerbahce_Antalyaspor_2011,Antalyaspor,17,17,34,31
+2012-04-07,Eskisehirspor_Mersin Idman Yurdu_2011,Eskisehirspor,17,17,34,31
+2012-04-07,Buyuksehyr_Genclerbirligi_2011,Buyuksehyr,17,17,34,31
+2012-04-07,Samsunspor_Sivasspor_2011,Sivasspor,17,17,34,31
+2012-04-07,Eskisehirspor_Mersin Idman Yurdu_2011,Mersin Idman Yurdu,17,17,34,31
+2012-04-07,Bursaspor_Gaziantepspor_2011,Bursaspor,17,17,34,31
+2012-04-08,Manisaspor_Galatasaray_2011,Manisaspor,17,17,34,31
+2012-04-08,Orduspor_Trabzonspor_2011,Orduspor,17,17,34,31
+2012-04-08,Manisaspor_Galatasaray_2011,Galatasaray,17,17,34,31
+2012-04-08,Orduspor_Trabzonspor_2011,Trabzonspor,17,17,34,31

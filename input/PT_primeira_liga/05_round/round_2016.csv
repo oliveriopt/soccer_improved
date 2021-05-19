@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2016-08-12,Rio Ave_Porto_2016,Porto,1,1,1,1
+2016-08-12,Rio Ave_Porto_2016,Rio Ave,1,1,1,1
+2016-08-13,Sp Lisbon_Maritimo_2016,Maritimo,1,1,1,1
+2016-08-13,Tondela_Benfica_2016,Benfica,1,1,1,1
+2016-08-13,Tondela_Benfica_2016,Tondela,1,1,1,1
+2016-08-13,Moreirense_Pacos Ferreira_2016,Pacos Ferreira,1,1,1,1
+2016-08-13,Moreirense_Pacos Ferreira_2016,Moreirense,1,1,1,1
+2016-08-13,Sp Lisbon_Maritimo_2016,Sp Lisbon,1,1,1,1
+2016-08-14,Boavista_Arouca_2016,Boavista,1,1,1,1
+2016-08-14,Guimaraes_Sp Braga_2016,Sp Braga,1,1,1,1
+2016-08-14,Boavista_Arouca_2016,Arouca,1,1,1,1
+2016-08-14,Setubal_Belenenses_2016,Setubal,1,1,1,1
+2016-08-14,Guimaraes_Sp Braga_2016,Guimaraes,1,1,1,1
+2016-08-14,Setubal_Belenenses_2016,Belenenses,1,1,1,1
+2016-08-15,Estoril_Feirense_2016,Estoril,1,1,1,1
+2016-08-15,Estoril_Feirense_2016,Feirense,1,1,1,1
+2016-08-19,Belenenses_Boavista_2016,Belenenses,1,1,2,2
+2016-08-19,Belenenses_Boavista_2016,Boavista,1,1,2,2
+2016-08-20,Porto_Estoril_2016,Estoril,1,1,2,2
+2016-08-20,Porto_Estoril_2016,Porto,1,1,2,2
+2016-08-20,Pacos Ferreira_Sp Lisbon_2016,Pacos Ferreira,1,1,2,2
+2016-08-20,Maritimo_Guimaraes_2016,Guimaraes,1,1,2,2
+2016-08-20,Pacos Ferreira_Sp Lisbon_2016,Sp Lisbon,1,1,2,2
+2016-08-20,Chaves_Tondela_2016,Chaves,1,1,1,2
+2016-08-20,Chaves_Tondela_2016,Tondela,1,1,2,2
+2016-08-20,Maritimo_Guimaraes_2016,Maritimo,1,1,2,2
+2016-08-21,Feirense_Moreirense_2016,Moreirense,1,1,2,2
+2016-08-21,Arouca_Nacional_2016,Arouca,1,1,2,2
+2016-08-21,Feirense_Moreirense_2016,Feirense,1,1,2,2
+2016-08-21,Benfica_Setubal_2016,Benfica,1,1,2,2
+2016-08-21,Arouca_Nacional_2016,Nacional,1,1,1,2
+2016-08-21,Benfica_Setubal_2016,Setubal,1,1,2,2
+2016-08-22,Sp Braga_Rio Ave_2016,Rio Ave,1,1,2,2
+2016-08-22,Sp Braga_Rio Ave_2016,Sp Braga,1,1,2,2
+2016-08-26,Guimaraes_Pacos Ferreira_2016,Pacos Ferreira,1,2,3,3
+2016-08-26,Guimaraes_Pacos Ferreira_2016,Guimaraes,2,1,3,3
+2016-08-27,Tondela_Belenenses_2016,Tondela,2,1,3,3
+2016-08-27,Estoril_Sp Braga_2016,Estoril,2,1,3,3
+2016-08-27,Nacional_Benfica_2016,Nacional,1,1,2,3
+2016-08-27,Tondela_Belenenses_2016,Belenenses,1,2,3,3
+2016-08-27,Nacional_Benfica_2016,Benfica,1,2,3,3
+2016-08-27,Estoril_Sp Braga_2016,Sp Braga,1,2,3,3
+2016-08-28,Setubal_Arouca_2016,Arouca,1,2,3,3
+2016-08-28,Boavista_Chaves_2016,Boavista,2,1,3,3
+2016-08-28,Boavista_Chaves_2016,Chaves,1,1,2,3
+2016-08-28,Setubal_Arouca_2016,Setubal,2,1,3,3
+2016-08-28,Sp Lisbon_Porto_2016,Sp Lisbon,2,1,3,3
+2016-08-28,Sp Lisbon_Porto_2016,Porto,1,2,3,3
+2016-08-28,Rio Ave_Feirense_2016,Feirense,1,2,3,3
+2016-08-28,Rio Ave_Feirense_2016,Rio Ave,2,1,3,3
+2016-08-28,Moreirense_Maritimo_2016,Moreirense,2,1,3,3
+2016-08-28,Moreirense_Maritimo_2016,Maritimo,1,2,3,3
+2016-09-04,Nacional_Chaves_2016,Nacional,2,1,3,4
+2016-09-04,Nacional_Chaves_2016,Chaves,1,2,3,4
+2016-09-09,Arouca_Benfica_2016,Arouca,2,2,4,5
+2016-09-09,Arouca_Benfica_2016,Benfica,1,3,4,5
+2016-09-10,Porto_Guimaraes_2016,Guimaraes,2,2,4,5
+2016-09-10,Porto_Guimaraes_2016,Porto,2,2,4,5
+2016-09-10,Belenenses_Nacional_2016,Belenenses,2,2,4,5
+2016-09-10,Belenenses_Nacional_2016,Nacional,2,2,4,5
+2016-09-10,Sp Lisbon_Moreirense_2016,Sp Lisbon,3,1,4,5
+2016-09-10,Sp Lisbon_Moreirense_2016,Moreirense,2,2,4,5
+2016-09-11,Sp Braga_Boavista_2016,Sp Braga,2,2,4,5
+2016-09-11,Chaves_Setubal_2016,Chaves,2,2,4,5
+2016-09-11,Pacos Ferreira_Estoril_2016,Pacos Ferreira,2,2,4,5
+2016-09-11,Maritimo_Rio Ave_2016,Rio Ave,2,2,4,5
+2016-09-11,Chaves_Setubal_2016,Setubal,2,2,4,5
+2016-09-11,Maritimo_Rio Ave_2016,Maritimo,2,2,4,5
+2016-09-11,Sp Braga_Boavista_2016,Boavista,2,2,4,5
+2016-09-11,Pacos Ferreira_Estoril_2016,Estoril,2,2,4,5
+2016-09-12,Feirense_Tondela_2016,Tondela,2,2,4,5
+2016-09-12,Feirense_Tondela_2016,Feirense,2,2,4,5
+2016-09-16,Nacional_Maritimo_2016,Nacional,3,2,5,6
+2016-09-16,Nacional_Maritimo_2016,Maritimo,2,3,5,6
+2016-09-17,Setubal_Pacos Ferreira_2016,Pacos Ferreira,2,3,5,6
+2016-09-17,Guimaraes_Belenenses_2016,Belenenses,2,3,5,6
+2016-09-17,Setubal_Pacos Ferreira_2016,Setubal,3,2,5,6
+2016-09-17,Estoril_Moreirense_2016,Estoril,3,2,5,6
+2016-09-17,Guimaraes_Belenenses_2016,Guimaraes,3,2,5,6
+2016-09-17,Estoril_Moreirense_2016,Moreirense,2,3,5,6
+2016-09-18,Tondela_Porto_2016,Tondela,3,2,5,6
+2016-09-18,Rio Ave_Sp Lisbon_2016,Sp Lisbon,3,2,5,6
+2016-09-18,Boavista_Feirense_2016,Boavista,3,2,5,6
+2016-09-18,Arouca_Chaves_2016,Chaves,2,3,5,6
+2016-09-18,Rio Ave_Sp Lisbon_2016,Rio Ave,3,2,5,6
+2016-09-18,Tondela_Porto_2016,Porto,2,3,5,6
+2016-09-18,Arouca_Chaves_2016,Arouca,3,2,5,6
+2016-09-18,Boavista_Feirense_2016,Feirense,2,3,5,6
+2016-09-19,Benfica_Sp Braga_2016,Benfica,2,3,5,6
+2016-09-19,Benfica_Sp Braga_2016,Sp Braga,2,3,5,6
+2016-09-23,Sp Lisbon_Estoril_2016,Estoril,3,3,6,7
+2016-09-23,Porto_Boavista_2016,Porto,3,3,6,7
+2016-09-23,Porto_Boavista_2016,Boavista,3,3,6,7
+2016-09-23,Sp Lisbon_Estoril_2016,Sp Lisbon,4,2,6,7
+2016-09-24,Sp Braga_Setubal_2016,Sp Braga,3,3,6,7
+2016-09-24,Feirense_Nacional_2016,Nacional,3,3,6,7
+2016-09-24,Feirense_Nacional_2016,Feirense,3,3,6,7
+2016-09-24,Sp Braga_Setubal_2016,Setubal,3,3,6,7
+2016-09-24,Chaves_Benfica_2016,Chaves,3,3,6,7
+2016-09-24,Chaves_Benfica_2016,Benfica,2,4,6,7
+2016-09-25,Maritimo_Tondela_2016,Maritimo,3,3,6,7
+2016-09-25,Moreirense_Guimaraes_2016,Moreirense,3,3,6,7
+2016-09-25,Pacos Ferreira_Rio Ave_2016,Pacos Ferreira,3,3,6,7
+2016-09-25,Pacos Ferreira_Rio Ave_2016,Rio Ave,3,3,6,7
+2016-09-25,Moreirense_Guimaraes_2016,Guimaraes,3,3,6,7
+2016-09-25,Maritimo_Tondela_2016,Tondela,3,3,6,7
+2016-09-26,Belenenses_Arouca_2016,Arouca,3,3,6,7
+2016-09-26,Belenenses_Arouca_2016,Belenenses,3,3,6,7
+2016-09-30,Tondela_Pacos Ferreira_2016,Pacos Ferreira,3,4,7,8
+2016-09-30,Tondela_Pacos Ferreira_2016,Tondela,4,3,7,8
+2016-10-01,Guimaraes_Sp Lisbon_2016,Guimaraes,4,3,7,8
+2016-10-01,Chaves_Belenenses_2016,Belenenses,3,4,7,8
+2016-10-01,Nacional_Porto_2016,Nacional,4,3,7,8
+2016-10-01,Guimaraes_Sp Lisbon_2016,Sp Lisbon,4,3,7,8
+2016-10-01,Rio Ave_Estoril_2016,Rio Ave,4,3,7,8
+2016-10-01,Chaves_Belenenses_2016,Chaves,4,3,7,8
+2016-10-01,Rio Ave_Estoril_2016,Estoril,3,4,7,8
+2016-10-01,Nacional_Porto_2016,Porto,3,4,7,8
+2016-10-02,Benfica_Feirense_2016,Benfica,3,4,7,8
+2016-10-02,Arouca_Sp Braga_2016,Arouca,4,3,7,8
+2016-10-02,Setubal_Maritimo_2016,Setubal,4,3,7,8
+2016-10-02,Benfica_Feirense_2016,Feirense,3,4,7,8
+2016-10-02,Arouca_Sp Braga_2016,Sp Braga,3,4,7,8
+2016-10-02,Setubal_Maritimo_2016,Maritimo,3,4,7,8
+2016-10-02,Boavista_Moreirense_2016,Moreirense,3,4,7,8
+2016-10-02,Boavista_Moreirense_2016,Boavista,4,3,7,8
+2016-10-21,Maritimo_Boavista_2016,Boavista,4,4,8,11
+2016-10-21,Pacos Ferreira_Nacional_2016,Pacos Ferreira,4,4,8,11
+2016-10-21,Maritimo_Boavista_2016,Maritimo,4,4,8,11
+2016-10-21,Pacos Ferreira_Nacional_2016,Nacional,4,4,8,11
+2016-10-22,Feirense_Setubal_2016,Setubal,4,4,8,11
+2016-10-22,Porto_Arouca_2016,Arouca,4,4,8,11
+2016-10-22,Sp Lisbon_Tondela_2016,Tondela,4,4,8,11
+2016-10-22,Feirense_Setubal_2016,Feirense,4,4,8,11
+2016-10-22,Sp Lisbon_Tondela_2016,Sp Lisbon,5,3,8,11
+2016-10-22,Porto_Arouca_2016,Porto,4,4,8,11
+2016-10-23,Moreirense_Rio Ave_2016,Moreirense,4,4,8,11
+2016-10-23,Estoril_Guimaraes_2016,Guimaraes,4,4,8,11
+2016-10-23,Belenenses_Benfica_2016,Benfica,3,5,8,11
+2016-10-23,Moreirense_Rio Ave_2016,Rio Ave,4,4,8,11
+2016-10-23,Belenenses_Benfica_2016,Belenenses,4,4,8,11
+2016-10-23,Estoril_Guimaraes_2016,Estoril,4,4,8,11
+2016-10-24,Sp Braga_Chaves_2016,Chaves,4,4,8,11
+2016-10-24,Sp Braga_Chaves_2016,Sp Braga,4,4,8,11
+2016-10-28,Nacional_Sp Lisbon_2016,Nacional,5,4,9,12
+2016-10-28,Nacional_Sp Lisbon_2016,Sp Lisbon,5,4,9,12
+2016-10-28,Benfica_Pacos Ferreira_2016,Benfica,4,5,9,12
+2016-10-28,Benfica_Pacos Ferreira_2016,Pacos Ferreira,4,5,9,12
+2016-10-29,Setubal_Porto_2016,Porto,4,5,9,12
+2016-10-29,Boavista_Estoril_2016,Estoril,4,5,9,12
+2016-10-29,Tondela_Moreirense_2016,Moreirense,4,5,9,12
+2016-10-29,Tondela_Moreirense_2016,Tondela,5,4,9,12
+2016-10-29,Boavista_Estoril_2016,Boavista,5,4,9,12
+2016-10-29,Setubal_Porto_2016,Setubal,5,4,9,12
+2016-10-30,Sp Braga_Belenenses_2016,Belenenses,4,5,9,12
+2016-10-30,Arouca_Maritimo_2016,Arouca,5,4,9,12
+2016-10-30,Arouca_Maritimo_2016,Maritimo,4,5,9,12
+2016-10-30,Sp Braga_Belenenses_2016,Sp Braga,5,4,9,12
+2016-10-30,Rio Ave_Guimaraes_2016,Guimaraes,4,5,9,12
+2016-10-30,Rio Ave_Guimaraes_2016,Rio Ave,5,4,9,12
+2016-10-31,Chaves_Feirense_2016,Feirense,4,5,9,12
+2016-10-31,Chaves_Feirense_2016,Chaves,5,4,9,12
+2016-11-04,Guimaraes_Nacional_2016,Nacional,5,5,10,13
+2016-11-04,Guimaraes_Nacional_2016,Guimaraes,5,5,10,13
+2016-11-05,Rio Ave_Boavista_2016,Rio Ave,6,4,10,13
+2016-11-05,Estoril_Tondela_2016,Tondela,5,5,10,13
+2016-11-05,Feirense_Belenenses_2016,Belenenses,4,6,10,13
+2016-11-05,Rio Ave_Boavista_2016,Boavista,5,5,10,13
+2016-11-05,Estoril_Tondela_2016,Estoril,5,5,10,13
+2016-11-05,Pacos Ferreira_Chaves_2016,Chaves,5,5,10,13
+2016-11-05,Pacos Ferreira_Chaves_2016,Pacos Ferreira,5,5,10,13
+2016-11-05,Feirense_Belenenses_2016,Feirense,5,5,10,13
+2016-11-06,Maritimo_Sp Braga_2016,Sp Braga,5,5,10,13
+2016-11-06,Porto_Benfica_2016,Benfica,4,6,10,13
+2016-11-06,Sp Lisbon_Arouca_2016,Sp Lisbon,6,4,10,13
+2016-11-06,Moreirense_Setubal_2016,Setubal,5,5,10,13
+2016-11-06,Porto_Benfica_2016,Porto,5,5,10,13
+2016-11-06,Moreirense_Setubal_2016,Moreirense,5,5,10,13
+2016-11-06,Maritimo_Sp Braga_2016,Maritimo,5,5,10,13
+2016-11-06,Sp Lisbon_Arouca_2016,Arouca,5,5,10,13
+2016-11-25,Setubal_Rio Ave_2016,Rio Ave,6,5,11,16
+2016-11-25,Setubal_Rio Ave_2016,Setubal,6,5,11,16
+2016-11-26,Belenenses_Porto_2016,Belenenses,5,6,11,16
+2016-11-26,Nacional_Estoril_2016,Estoril,5,6,11,16
+2016-11-26,Chaves_Maritimo_2016,Maritimo,5,6,11,16
+2016-11-26,Boavista_Sp Lisbon_2016,Boavista,6,5,11,16
+2016-11-26,Chaves_Maritimo_2016,Chaves,6,5,11,16
+2016-11-26,Boavista_Sp Lisbon_2016,Sp Lisbon,6,5,11,16
+2016-11-26,Belenenses_Porto_2016,Porto,5,6,11,16
+2016-11-26,Nacional_Estoril_2016,Nacional,6,5,11,16
+2016-11-27,Arouca_Pacos Ferreira_2016,Pacos Ferreira,5,6,11,16
+2016-11-27,Tondela_Guimaraes_2016,Tondela,6,5,11,16
+2016-11-27,Tondela_Guimaraes_2016,Guimaraes,5,6,11,16
+2016-11-27,Benfica_Moreirense_2016,Benfica,5,6,11,16
+2016-11-27,Arouca_Pacos Ferreira_2016,Arouca,6,5,11,16
+2016-11-27,Benfica_Moreirense_2016,Moreirense,5,6,11,16
+2016-11-28,Sp Braga_Feirense_2016,Feirense,5,6,11,16
+2016-11-28,Sp Braga_Feirense_2016,Sp Braga,6,5,11,16
+2016-12-02,Maritimo_Benfica_2016,Maritimo,6,6,12,17
+2016-12-02,Maritimo_Benfica_2016,Benfica,5,7,12,17
+2016-12-03,Rio Ave_Tondela_2016,Rio Ave,7,5,12,17
+2016-12-03,Sp Lisbon_Setubal_2016,Sp Lisbon,7,5,12,17
+2016-12-03,Porto_Sp Braga_2016,Sp Braga,6,6,12,17
+2016-12-03,Sp Lisbon_Setubal_2016,Setubal,6,6,12,17
+2016-12-03,Porto_Sp Braga_2016,Porto,6,6,12,17
+2016-12-03,Rio Ave_Tondela_2016,Tondela,6,6,12,17
+2016-12-04,Moreirense_Nacional_2016,Nacional,6,6,12,17
+2016-12-04,Moreirense_Nacional_2016,Moreirense,6,6,12,17
+2016-12-04,Estoril_Belenenses_2016,Estoril,6,6,12,17
+2016-12-04,Feirense_Arouca_2016,Feirense,6,6,12,17
+2016-12-04,Guimaraes_Chaves_2016,Chaves,6,6,12,17
+2016-12-04,Feirense_Arouca_2016,Arouca,6,6,12,17
+2016-12-04,Estoril_Belenenses_2016,Belenenses,5,7,12,17
+2016-12-04,Guimaraes_Chaves_2016,Guimaraes,6,6,12,17
+2016-12-05,Pacos Ferreira_Boavista_2016,Boavista,6,6,12,17
+2016-12-05,Pacos Ferreira_Boavista_2016,Pacos Ferreira,6,6,12,17
+2016-12-09,Setubal_Estoril_2016,Setubal,7,6,13,18
+2016-12-09,Setubal_Estoril_2016,Estoril,6,7,13,18
+2016-12-10,Belenenses_Maritimo_2016,Maritimo,6,7,13,18
+2016-12-10,Boavista_Guimaraes_2016,Guimaraes,6,7,13,18
+2016-12-10,Chaves_Moreirense_2016,Chaves,7,6,13,18
+2016-12-10,Chaves_Moreirense_2016,Moreirense,6,7,13,18
+2016-12-10,Belenenses_Maritimo_2016,Belenenses,6,7,13,18
+2016-12-10,Boavista_Guimaraes_2016,Boavista,7,6,13,18
+2016-12-11,Benfica_Sp Lisbon_2016,Sp Lisbon,7,6,13,18
+2016-12-11,Feirense_Porto_2016,Porto,6,7,13,18
+2016-12-11,Sp Braga_Pacos Ferreira_2016,Sp Braga,7,6,13,18
+2016-12-11,Sp Braga_Pacos Ferreira_2016,Pacos Ferreira,6,7,13,18
+2016-12-11,Benfica_Sp Lisbon_2016,Benfica,6,7,13,18
+2016-12-11,Nacional_Tondela_2016,Nacional,7,6,13,18
+2016-12-11,Nacional_Tondela_2016,Tondela,6,7,13,18
+2016-12-11,Feirense_Porto_2016,Feirense,7,6,13,18
+2016-12-12,Arouca_Rio Ave_2016,Rio Ave,7,6,13,18
+2016-12-12,Arouca_Rio Ave_2016,Arouca,7,6,13,18
+2016-12-15,Porto_Maritimo_2016,Porto,7,7,14,19
+2016-12-15,Porto_Maritimo_2016,Maritimo,6,8,14,19
+2016-12-16,Pacos Ferreira_Belenenses_2016,Pacos Ferreira,7,7,14,19
+2016-12-16,Pacos Ferreira_Belenenses_2016,Belenenses,6,8,14,19
+2016-12-17,Estoril_Benfica_2016,Estoril,7,7,14,19
+2016-12-17,Moreirense_Arouca_2016,Arouca,7,7,14,19
+2016-12-17,Moreirense_Arouca_2016,Moreirense,7,7,14,19
+2016-12-17,Estoril_Benfica_2016,Benfica,6,8,14,19
+2016-12-18,Sp Lisbon_Sp Braga_2016,Sp Braga,7,7,14,19
+2016-12-18,Guimaraes_Setubal_2016,Guimaraes,7,7,14,19
+2016-12-18,Tondela_Boavista_2016,Tondela,7,7,14,19
+2016-12-18,Rio Ave_Nacional_2016,Rio Ave,8,6,14,19
+2016-12-18,Rio Ave_Nacional_2016,Nacional,7,7,14,19
+2016-12-18,Tondela_Boavista_2016,Boavista,7,7,14,19
+2016-12-18,Guimaraes_Setubal_2016,Setubal,7,7,14,19
+2016-12-18,Sp Lisbon_Sp Braga_2016,Sp Lisbon,8,6,14,19
+2016-12-19,Maritimo_Feirense_2016,Maritimo,7,8,15,19
+2016-12-19,Maritimo_Feirense_2016,Feirense,7,7,14,19
+2016-12-19,Porto_Chaves_2016,Chaves,7,7,14,19
+2016-12-19,Porto_Chaves_2016,Porto,8,7,15,19
+2016-12-21,Benfica_Rio Ave_2016,Benfica,7,8,15,20
+2016-12-21,Benfica_Rio Ave_2016,Rio Ave,8,7,15,20
+2016-12-22,Belenenses_Sp Lisbon_2016,Sp Lisbon,8,7,15,20
+2016-12-22,Sp Braga_Moreirense_2016,Sp Braga,8,7,15,20
+2016-12-22,Nacional_Boavista_2016,Boavista,7,8,15,20
+2016-12-22,Chaves_Estoril_2016,Chaves,8,7,15,20
+2016-12-22,Belenenses_Sp Lisbon_2016,Belenenses,7,8,15,20
+2016-12-22,Feirense_Pacos Ferreira_2016,Pacos Ferreira,7,8,15,20
+2016-12-22,Sp Braga_Moreirense_2016,Moreirense,7,8,15,20
+2016-12-22,Nacional_Boavista_2016,Nacional,8,7,15,20
+2016-12-22,Chaves_Estoril_2016,Estoril,7,8,15,20
+2016-12-22,Feirense_Pacos Ferreira_2016,Feirense,8,7,15,20
+2016-12-23,Setubal_Tondela_2016,Setubal,8,7,15,20
+2016-12-23,Arouca_Guimaraes_2016,Guimaraes,7,8,15,20
+2016-12-23,Arouca_Guimaraes_2016,Arouca,8,7,15,20
+2016-12-23,Setubal_Tondela_2016,Tondela,7,8,15,20
+2017-01-07,Estoril_Maritimo_2016,Maritimo,7,9,16,22
+2017-01-07,Guimaraes_Benfica_2016,Guimaraes,8,8,16,22
+2017-01-07,Pacos Ferreira_Porto_2016,Porto,8,8,16,22
+2017-01-07,Nacional_Sp Braga_2016,Nacional,9,7,16,22
+2017-01-07,Nacional_Sp Braga_2016,Sp Braga,8,8,16,22
+2017-01-07,Pacos Ferreira_Porto_2016,Pacos Ferreira,8,8,16,22
+2017-01-07,Guimaraes_Benfica_2016,Benfica,7,9,16,22
+2017-01-07,Estoril_Maritimo_2016,Estoril,8,8,16,22
+2017-01-08,Rio Ave_Chaves_2016,Chaves,8,8,16,22
+2017-01-08,Sp Lisbon_Feirense_2016,Sp Lisbon,9,7,16,22
+2017-01-08,Sp Lisbon_Feirense_2016,Feirense,8,8,16,22
+2017-01-08,Boavista_Setubal_2016,Setubal,8,8,16,22
+2017-01-08,Boavista_Setubal_2016,Boavista,8,8,16,22
+2017-01-08,Rio Ave_Chaves_2016,Rio Ave,9,7,16,22
+2017-01-08,Tondela_Arouca_2016,Tondela,8,8,16,22
+2017-01-08,Tondela_Arouca_2016,Arouca,8,8,16,22
+2017-01-09,Moreirense_Belenenses_2016,Belenenses,7,9,16,22
+2017-01-09,Moreirense_Belenenses_2016,Moreirense,8,8,16,22
+2017-01-13,Arouca_Estoril_2016,Estoril,8,9,17,23
+2017-01-13,Arouca_Estoril_2016,Arouca,9,8,17,23
+2017-01-14,Benfica_Boavista_2016,Benfica,8,9,17,23
+2017-01-14,Chaves_Sp Lisbon_2016,Chaves,9,8,17,23
+2017-01-14,Feirense_Guimaraes_2016,Feirense,9,8,17,23
+2017-01-14,Chaves_Sp Lisbon_2016,Sp Lisbon,9,8,17,23
+2017-01-14,Benfica_Boavista_2016,Boavista,8,9,17,23
+2017-01-14,Setubal_Nacional_2016,Setubal,9,8,17,23
+2017-01-14,Setubal_Nacional_2016,Nacional,9,8,17,23
+2017-01-14,Feirense_Guimaraes_2016,Guimaraes,8,9,17,23
+2017-01-15,Belenenses_Rio Ave_2016,Rio Ave,9,8,17,23
+2017-01-15,Maritimo_Pacos Ferreira_2016,Maritimo,8,9,17,23
+2017-01-15,Porto_Moreirense_2016,Moreirense,8,9,17,23
+2017-01-15,Belenenses_Rio Ave_2016,Belenenses,8,9,17,23
+2017-01-15,Maritimo_Pacos Ferreira_2016,Pacos Ferreira,8,9,17,23
+2017-01-15,Porto_Moreirense_2016,Porto,9,8,17,23
+2017-01-16,Sp Braga_Tondela_2016,Sp Braga,9,8,17,23
+2017-01-16,Sp Braga_Tondela_2016,Tondela,8,9,17,23
+2017-01-20,Pacos Ferreira_Moreirense_2016,Moreirense,8,10,18,24
+2017-01-20,Pacos Ferreira_Moreirense_2016,Pacos Ferreira,9,9,18,24
+2017-01-21,Maritimo_Sp Lisbon_2016,Sp Lisbon,9,9,18,24
+2017-01-21,Maritimo_Sp Lisbon_2016,Maritimo,9,9,18,24
+2017-01-21,Porto_Rio Ave_2016,Rio Ave,9,9,18,24
+2017-01-21,Arouca_Boavista_2016,Arouca,10,8,18,24
+2017-01-21,Arouca_Boavista_2016,Boavista,8,10,18,24
+2017-01-21,Porto_Rio Ave_2016,Porto,10,8,18,24
+2017-01-22,Benfica_Tondela_2016,Benfica,9,9,18,24
+2017-01-22,Feirense_Estoril_2016,Estoril,8,10,18,24
+2017-01-22,Sp Braga_Guimaraes_2016,Guimaraes,8,10,18,24
+2017-01-22,Feirense_Estoril_2016,Feirense,10,8,18,24
+2017-01-22,Belenenses_Setubal_2016,Belenenses,9,9,18,24
+2017-01-22,Sp Braga_Guimaraes_2016,Sp Braga,10,8,18,24
+2017-01-22,Benfica_Tondela_2016,Tondela,8,10,18,24
+2017-01-22,Belenenses_Setubal_2016,Setubal,9,9,18,24
+2017-01-23,Chaves_Nacional_2016,Chaves,10,8,18,24
+2017-01-23,Chaves_Nacional_2016,Nacional,9,9,18,24
+2017-01-27,Boavista_Belenenses_2016,Belenenses,9,10,19,25
+2017-01-27,Boavista_Belenenses_2016,Boavista,9,10,19,25
+2017-01-28,Sp Lisbon_Pacos Ferreira_2016,Sp Lisbon,10,9,19,25
+2017-01-28,Tondela_Chaves_2016,Tondela,9,10,19,25
+2017-01-28,Nacional_Arouca_2016,Arouca,10,9,19,25
+2017-01-28,Guimaraes_Maritimo_2016,Guimaraes,9,10,19,25
+2017-01-28,Guimaraes_Maritimo_2016,Maritimo,9,10,19,25
+2017-01-28,Sp Lisbon_Pacos Ferreira_2016,Pacos Ferreira,9,10,19,25
+2017-01-28,Estoril_Porto_2016,Estoril,9,10,19,25
+2017-01-28,Estoril_Porto_2016,Porto,10,9,19,25
+2017-01-28,Nacional_Arouca_2016,Nacional,10,9,19,25
+2017-01-28,Tondela_Chaves_2016,Chaves,10,9,19,25
+2017-01-30,Setubal_Benfica_2016,Benfica,9,10,19,25
+2017-01-30,Setubal_Benfica_2016,Setubal,10,9,19,25
+2017-02-02,Rio Ave_Sp Braga_2016,Rio Ave,10,9,19,26
+2017-02-02,Moreirense_Feirense_2016,Feirense,10,9,19,26
+2017-02-02,Rio Ave_Sp Braga_2016,Sp Braga,10,9,19,26
+2017-02-02,Moreirense_Feirense_2016,Moreirense,9,10,19,26
+2017-02-03,Pacos Ferreira_Guimaraes_2016,Guimaraes,9,11,20,26
+2017-02-03,Pacos Ferreira_Guimaraes_2016,Pacos Ferreira,10,10,20,26
+2017-02-04,Porto_Sp Lisbon_2016,Sp Lisbon,10,10,20,26
+2017-02-04,Chaves_Boavista_2016,Chaves,11,9,20,26
+2017-02-04,Chaves_Boavista_2016,Boavista,9,11,20,26
+2017-02-04,Porto_Sp Lisbon_2016,Porto,11,9,20,26
+2017-02-05,Belenenses_Tondela_2016,Tondela,9,11,20,26
+2017-02-05,Belenenses_Tondela_2016,Belenenses,10,10,20,26
+2017-02-05,Benfica_Nacional_2016,Benfica,10,10,20,26
+2017-02-05,Benfica_Nacional_2016,Nacional,10,10,20,26
+2017-02-05,Arouca_Setubal_2016,Arouca,11,9,20,26
+2017-02-05,Arouca_Setubal_2016,Setubal,10,10,20,26
+2017-02-06,Feirense_Rio Ave_2016,Feirense,11,9,20,26
+2017-02-06,Feirense_Rio Ave_2016,Rio Ave,10,10,20,26
+2017-02-06,Maritimo_Moreirense_2016,Moreirense,9,11,20,26
+2017-02-06,Sp Braga_Estoril_2016,Sp Braga,11,9,20,26
+2017-02-06,Maritimo_Moreirense_2016,Maritimo,10,10,20,26
+2017-02-06,Sp Braga_Estoril_2016,Estoril,9,11,20,26
+2017-02-10,Benfica_Arouca_2016,Arouca,11,10,21,27
+2017-02-10,Benfica_Arouca_2016,Benfica,11,10,21,27
+2017-02-11,Guimaraes_Porto_2016,Porto,11,10,21,27
+2017-02-11,Tondela_Feirense_2016,Feirense,11,10,21,27
+2017-02-11,Estoril_Pacos Ferreira_2016,Pacos Ferreira,10,11,21,27
+2017-02-11,Tondela_Feirense_2016,Tondela,10,11,21,27
+2017-02-11,Estoril_Pacos Ferreira_2016,Estoril,10,11,21,27
+2017-02-11,Guimaraes_Porto_2016,Guimaraes,10,11,21,27
+2017-02-11,Setubal_Chaves_2016,Chaves,11,10,21,27
+2017-02-11,Setubal_Chaves_2016,Setubal,11,10,21,27
+2017-02-12,Boavista_Sp Braga_2016,Boavista,10,11,21,27
+2017-02-12,Boavista_Sp Braga_2016,Sp Braga,11,10,21,27
+2017-02-12,Nacional_Belenenses_2016,Nacional,11,10,21,27
+2017-02-12,Moreirense_Sp Lisbon_2016,Moreirense,10,11,21,27
+2017-02-12,Nacional_Belenenses_2016,Belenenses,10,11,21,27
+2017-02-12,Moreirense_Sp Lisbon_2016,Sp Lisbon,10,11,21,27
+2017-02-13,Rio Ave_Maritimo_2016,Maritimo,10,11,21,27
+2017-02-13,Rio Ave_Maritimo_2016,Rio Ave,11,10,21,27
+2017-02-17,Porto_Tondela_2016,Porto,12,10,22,28
+2017-02-17,Porto_Tondela_2016,Tondela,10,12,22,28
+2017-02-18,Chaves_Arouca_2016,Chaves,12,10,22,28
+2017-02-18,Moreirense_Estoril_2016,Estoril,10,12,22,28
+2017-02-18,Sp Lisbon_Rio Ave_2016,Sp Lisbon,11,11,22,28
+2017-02-18,Feirense_Boavista_2016,Boavista,10,12,22,28
+2017-02-18,Moreirense_Estoril_2016,Moreirense,11,11,22,28
+2017-02-18,Sp Lisbon_Rio Ave_2016,Rio Ave,11,11,22,28
+2017-02-18,Feirense_Boavista_2016,Feirense,12,10,22,28
+2017-02-18,Chaves_Arouca_2016,Arouca,11,11,22,28
+2017-02-19,Sp Braga_Benfica_2016,Benfica,11,11,22,28
+2017-02-19,Belenenses_Guimaraes_2016,Guimaraes,10,12,22,28
+2017-02-19,Pacos Ferreira_Setubal_2016,Setubal,11,11,22,28
+2017-02-19,Sp Braga_Benfica_2016,Sp Braga,12,10,22,28
+2017-02-19,Belenenses_Guimaraes_2016,Belenenses,11,11,22,28
+2017-02-19,Pacos Ferreira_Setubal_2016,Pacos Ferreira,11,11,22,28
+2017-02-20,Maritimo_Nacional_2016,Maritimo,11,11,22,28
+2017-02-20,Maritimo_Nacional_2016,Nacional,11,11,22,28
+2017-02-24,Benfica_Chaves_2016,Benfica,12,11,23,29
+2017-02-24,Benfica_Chaves_2016,Chaves,12,11,23,29
+2017-02-24,Guimaraes_Moreirense_2016,Moreirense,11,12,23,29
+2017-02-24,Guimaraes_Moreirense_2016,Guimaraes,11,12,23,29
+2017-02-25,Estoril_Sp Lisbon_2016,Sp Lisbon,11,12,23,29
+2017-02-25,Tondela_Maritimo_2016,Maritimo,11,12,23,29
+2017-02-25,Rio Ave_Pacos Ferreira_2016,Rio Ave,12,11,23,29
+2017-02-25,Tondela_Maritimo_2016,Tondela,11,12,23,29
+2017-02-25,Estoril_Sp Lisbon_2016,Estoril,11,12,23,29
+2017-02-25,Rio Ave_Pacos Ferreira_2016,Pacos Ferreira,11,12,23,29
+2017-02-26,Nacional_Feirense_2016,Nacional,12,11,23,29
+2017-02-26,Setubal_Sp Braga_2016,Sp Braga,12,11,23,29
+2017-02-26,Setubal_Sp Braga_2016,Setubal,12,11,23,29
+2017-02-26,Nacional_Feirense_2016,Feirense,12,11,23,29
+2017-02-26,Boavista_Porto_2016,Porto,12,11,23,29
+2017-02-26,Boavista_Porto_2016,Boavista,11,12,23,29
+2017-02-27,Arouca_Belenenses_2016,Arouca,12,11,23,29
+2017-02-27,Arouca_Belenenses_2016,Belenenses,11,12,23,29
+2017-03-03,Moreirense_Boavista_2016,Moreirense,12,12,24,30
+2017-03-03,Moreirense_Boavista_2016,Boavista,11,13,24,30
+2017-03-04,Sp Braga_Arouca_2016,Sp Braga,13,11,24,30
+2017-03-04,Porto_Nacional_2016,Nacional,12,12,24,30
+2017-03-04,Porto_Nacional_2016,Porto,13,11,24,30
+2017-03-04,Feirense_Benfica_2016,Feirense,13,11,24,30
+2017-03-04,Feirense_Benfica_2016,Benfica,12,12,24,30
+2017-03-04,Sp Braga_Arouca_2016,Arouca,12,12,24,30
+2017-03-05,Pacos Ferreira_Tondela_2016,Tondela,11,13,24,30
+2017-03-05,Pacos Ferreira_Tondela_2016,Pacos Ferreira,12,12,24,30
+2017-03-05,Maritimo_Setubal_2016,Maritimo,12,12,24,30
+2017-03-05,Sp Lisbon_Guimaraes_2016,Sp Lisbon,12,12,24,30
+2017-03-05,Sp Lisbon_Guimaraes_2016,Guimaraes,11,13,24,30
+2017-03-05,Belenenses_Chaves_2016,Chaves,12,12,24,30
+2017-03-05,Belenenses_Chaves_2016,Belenenses,12,12,24,30
+2017-03-05,Maritimo_Setubal_2016,Setubal,12,12,24,30
+2017-03-06,Estoril_Rio Ave_2016,Rio Ave,12,12,24,30
+2017-03-06,Estoril_Rio Ave_2016,Estoril,12,12,24,30
+2017-03-10,Arouca_Porto_2016,Porto,13,12,25,31
+2017-03-10,Arouca_Porto_2016,Arouca,13,12,25,31
+2017-03-11,Setubal_Feirense_2016,Feirense,13,12,25,31
+2017-03-11,Tondela_Sp Lisbon_2016,Sp Lisbon,12,13,25,31
+2017-03-11,Chaves_Sp Braga_2016,Sp Braga,13,12,25,31
+2017-03-11,Chaves_Sp Braga_2016,Chaves,13,12,25,31
+2017-03-11,Tondela_Sp Lisbon_2016,Tondela,12,13,25,31
+2017-03-11,Setubal_Feirense_2016,Setubal,13,12,25,31
+2017-03-12,Guimaraes_Estoril_2016,Estoril,12,13,25,31
+2017-03-12,Rio Ave_Moreirense_2016,Moreirense,12,13,25,31
+2017-03-12,Guimaraes_Estoril_2016,Guimaraes,12,13,25,31
+2017-03-12,Boavista_Maritimo_2016,Maritimo,12,13,25,31
+2017-03-12,Boavista_Maritimo_2016,Boavista,12,13,25,31
+2017-03-12,Rio Ave_Moreirense_2016,Rio Ave,13,12,25,31
+2017-03-13,Benfica_Belenenses_2016,Benfica,13,12,25,31
+2017-03-13,Benfica_Belenenses_2016,Belenenses,12,13,25,31
+2017-03-13,Nacional_Pacos Ferreira_2016,Pacos Ferreira,12,13,25,31
+2017-03-13,Nacional_Pacos Ferreira_2016,Nacional,13,12,25,31
+2017-03-17,Estoril_Boavista_2016,Estoril,13,13,26,32
+2017-03-17,Estoril_Boavista_2016,Boavista,12,14,26,32
+2017-03-18,Belenenses_Sp Braga_2016,Belenenses,13,13,26,32
+2017-03-18,Moreirense_Tondela_2016,Moreirense,13,13,26,32
+2017-03-18,Sp Lisbon_Nacional_2016,Sp Lisbon,13,13,26,32
+2017-03-18,Pacos Ferreira_Benfica_2016,Pacos Ferreira,13,13,26,32
+2017-03-18,Pacos Ferreira_Benfica_2016,Benfica,13,13,26,32
+2017-03-18,Belenenses_Sp Braga_2016,Sp Braga,13,13,26,32
+2017-03-18,Moreirense_Tondela_2016,Tondela,12,14,26,32
+2017-03-18,Sp Lisbon_Nacional_2016,Nacional,13,13,26,32
+2017-03-19,Guimaraes_Rio Ave_2016,Guimaraes,13,13,26,32
+2017-03-19,Maritimo_Arouca_2016,Maritimo,13,13,26,32
+2017-03-19,Porto_Setubal_2016,Setubal,13,13,26,32
+2017-03-19,Guimaraes_Rio Ave_2016,Rio Ave,13,13,26,32
+2017-03-19,Maritimo_Arouca_2016,Arouca,13,13,26,32
+2017-03-19,Feirense_Chaves_2016,Chaves,13,13,26,32
+2017-03-19,Feirense_Chaves_2016,Feirense,14,12,26,32
+2017-03-19,Porto_Setubal_2016,Porto,14,12,26,32
+2017-03-31,Chaves_Pacos Ferreira_2016,Pacos Ferreira,13,14,27,34
+2017-03-31,Nacional_Guimaraes_2016,Guimaraes,13,14,27,34
+2017-03-31,Nacional_Guimaraes_2016,Nacional,14,13,27,34
+2017-03-31,Chaves_Pacos Ferreira_2016,Chaves,14,13,27,34
+2017-04-01,Boavista_Rio Ave_2016,Boavista,13,14,27,34
+2017-04-01,Benfica_Porto_2016,Benfica,14,13,27,34
+2017-04-01,Tondela_Estoril_2016,Estoril,13,14,27,34
+2017-04-01,Tondela_Estoril_2016,Tondela,13,14,27,34
+2017-04-01,Boavista_Rio Ave_2016,Rio Ave,13,14,27,34
+2017-04-01,Benfica_Porto_2016,Porto,14,13,27,34
+2017-04-02,Setubal_Moreirense_2016,Moreirense,13,14,27,34
+2017-04-02,Setubal_Moreirense_2016,Setubal,14,13,27,34
+2017-04-02,Arouca_Sp Lisbon_2016,Arouca,14,13,27,34
+2017-04-02,Arouca_Sp Lisbon_2016,Sp Lisbon,13,14,27,34
+2017-04-02,Sp Braga_Maritimo_2016,Maritimo,13,14,27,34
+2017-04-02,Belenenses_Feirense_2016,Belenenses,14,13,27,34
+2017-04-02,Belenenses_Feirense_2016,Feirense,14,13,27,34
+2017-04-02,Sp Braga_Maritimo_2016,Sp Braga,14,13,27,34
+2017-04-07,Feirense_Sp Braga_2016,Sp Braga,14,14,28,35
+2017-04-07,Feirense_Sp Braga_2016,Feirense,15,13,28,35
+2017-04-08,Sp Lisbon_Boavista_2016,Sp Lisbon,14,14,28,35
+2017-04-08,Pacos Ferreira_Arouca_2016,Arouca,14,14,28,35
+2017-04-08,Porto_Belenenses_2016,Belenenses,14,14,28,35
+2017-04-08,Sp Lisbon_Boavista_2016,Boavista,13,15,28,35
+2017-04-08,Pacos Ferreira_Arouca_2016,Pacos Ferreira,14,14,28,35
+2017-04-08,Porto_Belenenses_2016,Porto,15,13,28,35
+2017-04-09,Estoril_Nacional_2016,Nacional,14,14,28,35
+2017-04-09,Guimaraes_Tondela_2016,Tondela,13,15,28,35
+2017-04-09,Moreirense_Benfica_2016,Benfica,14,14,28,35
+2017-04-09,Rio Ave_Setubal_2016,Rio Ave,14,14,28,35
+2017-04-09,Moreirense_Benfica_2016,Moreirense,14,14,28,35
+2017-04-09,Guimaraes_Tondela_2016,Guimaraes,14,14,28,35
+2017-04-09,Rio Ave_Setubal_2016,Setubal,14,14,28,35
+2017-04-09,Estoril_Nacional_2016,Estoril,14,14,28,35
+2017-04-10,Maritimo_Chaves_2016,Chaves,14,14,28,35
+2017-04-10,Maritimo_Chaves_2016,Maritimo,14,14,28,35
+2017-04-14,Setubal_Sp Lisbon_2016,Setubal,15,14,29,36
+2017-04-14,Benfica_Maritimo_2016,Benfica,15,14,29,36
+2017-04-14,Boavista_Pacos Ferreira_2016,Pacos Ferreira,14,15,29,36
+2017-04-14,Belenenses_Estoril_2016,Belenenses,15,14,29,36
+2017-04-14,Belenenses_Estoril_2016,Estoril,14,15,29,36
+2017-04-14,Benfica_Maritimo_2016,Maritimo,14,15,29,36
+2017-04-14,Setubal_Sp Lisbon_2016,Sp Lisbon,14,15,29,36
+2017-04-14,Boavista_Pacos Ferreira_2016,Boavista,14,15,29,36
+2017-04-15,Tondela_Rio Ave_2016,Tondela,14,15,29,36
+2017-04-15,Tondela_Rio Ave_2016,Rio Ave,14,15,29,36
+2017-04-15,Sp Braga_Porto_2016,Sp Braga,15,14,29,36
+2017-04-15,Chaves_Guimaraes_2016,Chaves,15,14,29,36
+2017-04-15,Arouca_Feirense_2016,Feirense,15,14,29,36
+2017-04-15,Chaves_Guimaraes_2016,Guimaraes,14,15,29,36
+2017-04-15,Sp Braga_Porto_2016,Porto,15,14,29,36
+2017-04-15,Arouca_Feirense_2016,Arouca,15,14,29,36
+2017-04-17,Nacional_Moreirense_2016,Nacional,15,14,29,36
+2017-04-17,Nacional_Moreirense_2016,Moreirense,14,15,29,36
+2017-04-21,Rio Ave_Arouca_2016,Rio Ave,15,15,30,37
+2017-04-21,Rio Ave_Arouca_2016,Arouca,15,15,30,37
+2017-04-22,Maritimo_Belenenses_2016,Belenenses,15,15,30,37
+2017-04-22,Tondela_Nacional_2016,Tondela,15,15,30,37
+2017-04-22,Sp Lisbon_Benfica_2016,Benfica,15,15,30,37
+2017-04-22,Sp Lisbon_Benfica_2016,Sp Lisbon,15,15,30,37
+2017-04-22,Tondela_Nacional_2016,Nacional,15,15,30,37
+2017-04-22,Estoril_Setubal_2016,Estoril,15,15,30,37
+2017-04-22,Estoril_Setubal_2016,Setubal,15,15,30,37
+2017-04-22,Maritimo_Belenenses_2016,Maritimo,15,15,30,37
+2017-04-23,Guimaraes_Boavista_2016,Guimaraes,15,15,30,37
+2017-04-23,Porto_Feirense_2016,Porto,16,14,30,37
+2017-04-23,Pacos Ferreira_Sp Braga_2016,Pacos Ferreira,15,15,30,37
+2017-04-23,Porto_Feirense_2016,Feirense,15,15,30,37
+2017-04-23,Pacos Ferreira_Sp Braga_2016,Sp Braga,15,15,30,37
+2017-04-23,Guimaraes_Boavista_2016,Boavista,14,16,30,37
+2017-04-24,Moreirense_Chaves_2016,Chaves,15,15,30,37
+2017-04-24,Moreirense_Chaves_2016,Moreirense,15,15,30,37
+2017-04-28,Setubal_Guimaraes_2016,Setubal,16,15,31,38
+2017-04-28,Setubal_Guimaraes_2016,Guimaraes,15,16,31,38
+2017-04-29,Nacional_Rio Ave_2016,Nacional,16,15,31,38
+2017-04-29,Chaves_Porto_2016,Porto,16,15,31,38
+2017-04-29,Benfica_Estoril_2016,Estoril,15,16,31,38
+2017-04-29,Boavista_Tondela_2016,Boavista,15,16,31,38
+2017-04-29,Boavista_Tondela_2016,Tondela,15,16,31,38
+2017-04-29,Chaves_Porto_2016,Chaves,16,15,31,38
+2017-04-29,Nacional_Rio Ave_2016,Rio Ave,15,16,31,38
+2017-04-29,Benfica_Estoril_2016,Benfica,16,15,31,38
+2017-04-30,Sp Braga_Sp Lisbon_2016,Sp Braga,16,15,31,38
+2017-04-30,Belenenses_Pacos Ferreira_2016,Belenenses,16,15,31,38
+2017-04-30,Arouca_Moreirense_2016,Arouca,16,15,31,38
+2017-04-30,Feirense_Maritimo_2016,Maritimo,15,16,31,38
+2017-04-30,Belenenses_Pacos Ferreira_2016,Pacos Ferreira,15,16,31,38
+2017-04-30,Feirense_Maritimo_2016,Feirense,16,15,31,38
+2017-04-30,Arouca_Moreirense_2016,Moreirense,15,16,31,38
+2017-04-30,Sp Braga_Sp Lisbon_2016,Sp Lisbon,15,16,31,38
+2017-05-05,Moreirense_Sp Braga_2016,Sp Braga,16,16,32,39
+2017-05-05,Moreirense_Sp Braga_2016,Moreirense,16,16,32,39
+2017-05-06,Boavista_Nacional_2016,Nacional,16,16,32,39
+2017-05-06,Boavista_Nacional_2016,Boavista,16,16,32,39
+2017-05-06,Maritimo_Porto_2016,Maritimo,16,16,32,39
+2017-05-06,Pacos Ferreira_Feirense_2016,Feirense,16,16,32,39
+2017-05-06,Maritimo_Porto_2016,Porto,16,16,32,39
+2017-05-06,Pacos Ferreira_Feirense_2016,Pacos Ferreira,16,16,32,39
+2017-05-07,Rio Ave_Benfica_2016,Benfica,16,16,32,39
+2017-05-07,Sp Lisbon_Belenenses_2016,Belenenses,16,16,32,39
+2017-05-07,Tondela_Setubal_2016,Setubal,16,16,32,39
+2017-05-07,Sp Lisbon_Belenenses_2016,Sp Lisbon,16,16,32,39
+2017-05-07,Rio Ave_Benfica_2016,Rio Ave,16,16,32,39
+2017-05-07,Guimaraes_Arouca_2016,Guimaraes,16,16,32,39
+2017-05-07,Guimaraes_Arouca_2016,Arouca,16,16,32,39
+2017-05-07,Tondela_Setubal_2016,Tondela,16,16,32,39
+2017-05-08,Estoril_Chaves_2016,Estoril,16,16,32,39
+2017-05-08,Estoril_Chaves_2016,Chaves,16,16,32,39
+2017-05-12,Belenenses_Moreirense_2016,Belenenses,17,16,33,40
+2017-05-12,Belenenses_Moreirense_2016,Moreirense,16,17,33,40
+2017-05-13,Arouca_Tondela_2016,Tondela,16,17,33,40
+2017-05-13,Arouca_Tondela_2016,Arouca,17,16,33,40
+2017-05-13,Benfica_Guimaraes_2016,Guimaraes,16,17,33,40
+2017-05-13,Feirense_Sp Lisbon_2016,Sp Lisbon,16,17,33,40
+2017-05-13,Benfica_Guimaraes_2016,Benfica,17,16,33,40
+2017-05-13,Feirense_Sp Lisbon_2016,Feirense,17,16,33,40
+2017-05-14,Porto_Pacos Ferreira_2016,Pacos Ferreira,16,17,33,40
+2017-05-14,Sp Braga_Nacional_2016,Sp Braga,17,16,33,40
+2017-05-14,Chaves_Rio Ave_2016,Chaves,17,16,33,40
+2017-05-14,Chaves_Rio Ave_2016,Rio Ave,16,17,33,40
+2017-05-14,Sp Braga_Nacional_2016,Nacional,16,17,33,40
+2017-05-14,Maritimo_Estoril_2016,Maritimo,17,16,33,40
+2017-05-14,Maritimo_Estoril_2016,Estoril,16,17,33,40
+2017-05-14,Porto_Pacos Ferreira_2016,Porto,17,16,33,40
+2017-05-15,Setubal_Boavista_2016,Boavista,16,17,33,40
+2017-05-15,Setubal_Boavista_2016,Setubal,17,16,33,40
+2017-05-20,Nacional_Setubal_2016,Setubal,17,17,34,41
+2017-05-20,Boavista_Benfica_2016,Benfica,17,17,34,41
+2017-05-20,Rio Ave_Belenenses_2016,Belenenses,17,17,34,41
+2017-05-20,Pacos Ferreira_Maritimo_2016,Maritimo,17,17,34,41
+2017-05-20,Nacional_Setubal_2016,Nacional,17,17,34,41
+2017-05-20,Guimaraes_Feirense_2016,Feirense,17,17,34,41
+2017-05-20,Boavista_Benfica_2016,Boavista,17,17,34,41
+2017-05-20,Rio Ave_Belenenses_2016,Rio Ave,17,17,34,41
+2017-05-20,Pacos Ferreira_Maritimo_2016,Pacos Ferreira,17,17,34,41
+2017-05-20,Guimaraes_Feirense_2016,Guimaraes,17,17,34,41
+2017-05-21,Moreirense_Porto_2016,Porto,17,17,34,41
+2017-05-21,Tondela_Sp Braga_2016,Sp Braga,17,17,34,41
+2017-05-21,Sp Lisbon_Chaves_2016,Sp Lisbon,17,17,34,41
+2017-05-21,Moreirense_Porto_2016,Moreirense,17,17,34,41
+2017-05-21,Estoril_Arouca_2016,Arouca,17,17,34,41
+2017-05-21,Estoril_Arouca_2016,Estoril,17,17,34,41
+2017-05-21,Sp Lisbon_Chaves_2016,Chaves,17,17,34,41
+2017-05-21,Tondela_Sp Braga_2016,Tondela,17,17,34,41

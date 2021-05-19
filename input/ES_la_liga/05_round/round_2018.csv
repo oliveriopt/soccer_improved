@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2018-08-17,Betis_Levante_2018,Betis,1,1,1,1
+2018-08-17,Girona_Valladolid_2018,Girona,1,1,1,1
+2018-08-17,Girona_Valladolid_2018,Valladolid,1,1,1,1
+2018-08-17,Betis_Levante_2018,Levante,1,1,1,1
+2018-08-18,Barcelona_Alaves_2018,Barcelona,1,1,1,1
+2018-08-18,Celta_Espanol_2018,Espanol,1,1,1,1
+2018-08-18,Villarreal_Sociedad_2018,Villarreal,1,1,1,1
+2018-08-18,Celta_Espanol_2018,Celta,1,1,1,1
+2018-08-18,Barcelona_Alaves_2018,Alaves,1,1,1,1
+2018-08-18,Villarreal_Sociedad_2018,Sociedad,1,1,1,1
+2018-08-19,Vallecano_Sevilla_2018,Vallecano,1,1,1,1
+2018-08-19,Real Madrid_Getafe_2018,Getafe,1,1,1,1
+2018-08-19,Eibar_Huesca_2018,Huesca,1,1,1,1
+2018-08-19,Real Madrid_Getafe_2018,Real Madrid,1,1,1,1
+2018-08-19,Vallecano_Sevilla_2018,Sevilla,1,1,1,1
+2018-08-19,Eibar_Huesca_2018,Eibar,1,1,1,1
+2018-08-20,Valencia_Ath Madrid_2018,Valencia,1,1,1,1
+2018-08-20,Valencia_Ath Madrid_2018,Ath Madrid,1,1,1,1
+2018-08-20,Ath Bilbao_Leganes_2018,Ath Bilbao,1,1,1,1
+2018-08-20,Ath Bilbao_Leganes_2018,Leganes,1,1,1,1
+2018-08-24,Leganes_Sociedad_2018,Leganes,1,1,2,2
+2018-08-24,Getafe_Eibar_2018,Getafe,1,1,2,2
+2018-08-24,Leganes_Sociedad_2018,Sociedad,1,2,2,2
+2018-08-24,Getafe_Eibar_2018,Eibar,1,1,2,2
+2018-08-25,Valladolid_Barcelona_2018,Barcelona,1,1,2,2
+2018-08-25,Alaves_Betis_2018,Alaves,1,1,2,2
+2018-08-25,Alaves_Betis_2018,Betis,1,1,2,2
+2018-08-25,Valladolid_Barcelona_2018,Valladolid,1,1,2,2
+2018-08-25,Ath Madrid_Vallecano_2018,Vallecano,1,1,2,2
+2018-08-25,Ath Madrid_Vallecano_2018,Ath Madrid,1,1,2,2
+2018-08-26,Sevilla_Villarreal_2018,Villarreal,1,1,2,2
+2018-08-26,Girona_Real Madrid_2018,Real Madrid,1,1,2,2
+2018-08-26,Espanol_Valencia_2018,Valencia,1,1,2,2
+2018-08-26,Girona_Real Madrid_2018,Girona,2,1,2,2
+2018-08-26,Sevilla_Villarreal_2018,Sevilla,1,1,2,2
+2018-08-26,Espanol_Valencia_2018,Espanol,1,1,2,2
+2018-08-27,Ath Bilbao_Huesca_2018,Huesca,1,2,2,2
+2018-08-27,Levante_Celta_2018,Levante,1,1,2,2
+2018-08-27,Ath Bilbao_Huesca_2018,Ath Bilbao,2,1,2,2
+2018-08-27,Levante_Celta_2018,Celta,1,1,2,2
+2018-08-31,Villarreal_Girona_2018,Villarreal,2,1,3,3
+2018-08-31,Villarreal_Girona_2018,Girona,2,1,3,3
+2018-08-31,Eibar_Sociedad_2018,Sociedad,1,3,3,3
+2018-08-31,Getafe_Valladolid_2018,Valladolid,1,2,3,3
+2018-08-31,Eibar_Sociedad_2018,Eibar,2,1,3,3
+2018-08-31,Getafe_Valladolid_2018,Getafe,2,1,3,3
+2018-09-01,Real Madrid_Leganes_2018,Leganes,1,2,3,3
+2018-09-01,Real Madrid_Leganes_2018,Real Madrid,2,1,3,3
+2018-09-01,Celta_Ath Madrid_2018,Celta,2,1,3,3
+2018-09-01,Celta_Ath Madrid_2018,Ath Madrid,1,2,3,3
+2018-09-02,Betis_Sevilla_2018,Betis,2,1,3,3
+2018-09-02,Levante_Valencia_2018,Levante,2,1,3,3
+2018-09-02,Barcelona_Huesca_2018,Barcelona,2,1,3,3
+2018-09-02,Betis_Sevilla_2018,Sevilla,1,2,3,3
+2018-09-02,Levante_Valencia_2018,Valencia,1,2,3,3
+2018-09-02,Alaves_Espanol_2018,Alaves,2,1,3,3
+2018-09-02,Barcelona_Huesca_2018,Huesca,1,3,3,3
+2018-09-02,Alaves_Espanol_2018,Espanol,1,2,3,3
+2018-09-14,Huesca_Vallecano_2018,Vallecano,1,2,3,5
+2018-09-14,Huesca_Vallecano_2018,Huesca,1,3,4,5
+2018-09-15,Valencia_Betis_2018,Betis,2,2,4,5
+2018-09-15,Ath Bilbao_Real Madrid_2018,Real Madrid,2,2,4,5
+2018-09-15,Ath Madrid_Eibar_2018,Ath Madrid,2,2,4,5
+2018-09-15,Ath Bilbao_Real Madrid_2018,Ath Bilbao,3,1,3,5
+2018-09-15,Sociedad_Barcelona_2018,Barcelona,2,2,4,5
+2018-09-15,Sociedad_Barcelona_2018,Sociedad,1,3,4,5
+2018-09-15,Ath Madrid_Eibar_2018,Eibar,2,2,4,5
+2018-09-15,Valencia_Betis_2018,Valencia,2,2,4,5
+2018-09-16,Sevilla_Getafe_2018,Getafe,2,2,4,5
+2018-09-16,Leganes_Villarreal_2018,Leganes,2,2,4,5
+2018-09-16,Valladolid_Alaves_2018,Valladolid,2,2,4,5
+2018-09-16,Sevilla_Getafe_2018,Sevilla,2,2,4,5
+2018-09-16,Leganes_Villarreal_2018,Villarreal,2,2,4,5
+2018-09-16,Espanol_Levante_2018,Espanol,2,2,4,5
+2018-09-16,Espanol_Levante_2018,Levante,2,2,4,5
+2018-09-16,Valladolid_Alaves_2018,Alaves,2,2,4,5
+2018-09-17,Girona_Celta_2018,Celta,2,2,4,5
+2018-09-17,Girona_Celta_2018,Girona,3,1,4,5
+2018-09-21,Huesca_Sociedad_2018,Sociedad,1,4,5,6
+2018-09-21,Huesca_Sociedad_2018,Huesca,2,3,5,6
+2018-09-22,Vallecano_Alaves_2018,Vallecano,2,2,4,6
+2018-09-22,Real Madrid_Espanol_2018,Espanol,2,3,5,6
+2018-09-22,Getafe_Ath Madrid_2018,Getafe,3,2,5,6
+2018-09-22,Celta_Valladolid_2018,Celta,3,2,5,6
+2018-09-22,Getafe_Ath Madrid_2018,Ath Madrid,2,3,5,6
+2018-09-22,Celta_Valladolid_2018,Valladolid,2,3,5,6
+2018-09-22,Eibar_Leganes_2018,Eibar,3,2,5,6
+2018-09-22,Vallecano_Alaves_2018,Alaves,2,3,5,6
+2018-09-22,Real Madrid_Espanol_2018,Real Madrid,3,2,5,6
+2018-09-22,Eibar_Leganes_2018,Leganes,2,3,5,6
+2018-09-23,Villarreal_Valencia_2018,Villarreal,3,2,5,6
+2018-09-23,Barcelona_Girona_2018,Girona,3,2,5,6
+2018-09-23,Betis_Ath Bilbao_2018,Betis,3,2,5,6
+2018-09-23,Levante_Sevilla_2018,Levante,3,2,5,6
+2018-09-23,Levante_Sevilla_2018,Sevilla,2,3,5,6
+2018-09-23,Barcelona_Girona_2018,Barcelona,3,2,5,6
+2018-09-23,Betis_Ath Bilbao_2018,Ath Bilbao,3,1,4,6
+2018-09-23,Villarreal_Valencia_2018,Valencia,2,3,5,6
+2018-09-25,Sociedad_Vallecano_2018,Vallecano,2,3,5,7
+2018-09-25,Espanol_Eibar_2018,Espanol,3,3,6,7
+2018-09-25,Sociedad_Vallecano_2018,Sociedad,2,4,6,7
+2018-09-25,Ath Madrid_Huesca_2018,Huesca,2,4,6,7
+2018-09-25,Ath Madrid_Huesca_2018,Ath Madrid,3,3,6,7
+2018-09-25,Espanol_Eibar_2018,Eibar,3,3,6,7
+2018-09-26,Leganes_Barcelona_2018,Barcelona,3,3,6,7
+2018-09-26,Valencia_Celta_2018,Valencia,3,3,6,7
+2018-09-26,Ath Bilbao_Villarreal_2018,Ath Bilbao,4,1,5,7
+2018-09-26,Sevilla_Real Madrid_2018,Real Madrid,3,3,6,7
+2018-09-26,Valencia_Celta_2018,Celta,3,3,6,7
+2018-09-26,Ath Bilbao_Villarreal_2018,Villarreal,3,3,6,7
+2018-09-26,Leganes_Barcelona_2018,Leganes,3,3,6,7
+2018-09-26,Sevilla_Real Madrid_2018,Sevilla,3,3,6,7
+2018-09-27,Valladolid_Levante_2018,Levante,3,3,6,7
+2018-09-27,Girona_Betis_2018,Betis,3,3,6,7
+2018-09-27,Alaves_Getafe_2018,Alaves,3,3,6,7
+2018-09-27,Alaves_Getafe_2018,Getafe,3,3,6,7
+2018-09-27,Valladolid_Levante_2018,Valladolid,3,3,6,7
+2018-09-27,Girona_Betis_2018,Girona,4,2,6,7
+2018-09-28,Vallecano_Espanol_2018,Vallecano,3,3,6,7
+2018-09-28,Vallecano_Espanol_2018,Espanol,3,4,7,7
+2018-09-29,Sociedad_Valencia_2018,Valencia,3,4,7,7
+2018-09-29,Barcelona_Ath Bilbao_2018,Barcelona,4,3,7,7
+2018-09-29,Real Madrid_Ath Madrid_2018,Real Madrid,4,3,7,7
+2018-09-29,Eibar_Sevilla_2018,Eibar,4,3,7,7
+2018-09-29,Sociedad_Valencia_2018,Sociedad,3,4,7,7
+2018-09-29,Eibar_Sevilla_2018,Sevilla,3,4,7,7
+2018-09-29,Barcelona_Ath Bilbao_2018,Ath Bilbao,4,2,6,7
+2018-09-29,Real Madrid_Ath Madrid_2018,Ath Madrid,3,4,7,7
+2018-09-30,Villarreal_Valladolid_2018,Villarreal,4,3,7,7
+2018-09-30,Huesca_Girona_2018,Huesca,3,4,7,7
+2018-09-30,Huesca_Girona_2018,Girona,4,3,7,7
+2018-09-30,Levante_Alaves_2018,Levante,4,3,7,7
+2018-09-30,Villarreal_Valladolid_2018,Valladolid,3,4,7,7
+2018-09-30,Betis_Leganes_2018,Betis,4,3,7,7
+2018-09-30,Levante_Alaves_2018,Alaves,3,4,7,7
+2018-09-30,Betis_Leganes_2018,Leganes,3,4,7,7
+2018-10-01,Celta_Getafe_2018,Getafe,3,4,7,7
+2018-10-01,Celta_Getafe_2018,Celta,4,3,7,7
+2018-10-05,Ath Bilbao_Sociedad_2018,Ath Bilbao,5,2,7,8
+2018-10-05,Ath Bilbao_Sociedad_2018,Sociedad,3,5,8,8
+2018-10-06,Alaves_Real Madrid_2018,Alaves,4,4,8,8
+2018-10-06,Leganes_Vallecano_2018,Leganes,4,4,8,8
+2018-10-06,Leganes_Vallecano_2018,Vallecano,3,4,7,8
+2018-10-06,Getafe_Levante_2018,Levante,4,4,8,8
+2018-10-06,Getafe_Levante_2018,Getafe,4,4,8,8
+2018-10-06,Girona_Eibar_2018,Girona,5,3,8,8
+2018-10-06,Alaves_Real Madrid_2018,Real Madrid,4,4,8,8
+2018-10-06,Girona_Eibar_2018,Eibar,4,4,8,8
+2018-10-07,Espanol_Villarreal_2018,Villarreal,4,4,8,8
+2018-10-07,Ath Madrid_Betis_2018,Ath Madrid,4,4,8,8
+2018-10-07,Valencia_Barcelona_2018,Valencia,4,4,8,8
+2018-10-07,Valladolid_Huesca_2018,Valladolid,4,4,8,8
+2018-10-07,Sevilla_Celta_2018,Sevilla,4,4,8,8
+2018-10-07,Ath Madrid_Betis_2018,Betis,4,4,8,8
+2018-10-07,Espanol_Villarreal_2018,Espanol,4,4,8,8
+2018-10-07,Valencia_Barcelona_2018,Barcelona,4,4,8,8
+2018-10-07,Valladolid_Huesca_2018,Huesca,3,5,8,8
+2018-10-07,Sevilla_Celta_2018,Celta,4,4,8,8
+2018-10-19,Celta_Alaves_2018,Celta,5,4,9,10
+2018-10-19,Celta_Alaves_2018,Alaves,4,5,9,10
+2018-10-20,Real Madrid_Levante_2018,Real Madrid,5,4,9,10
+2018-10-20,Villarreal_Ath Madrid_2018,Villarreal,5,4,9,10
+2018-10-20,Real Madrid_Levante_2018,Levante,4,5,9,10
+2018-10-20,Barcelona_Sevilla_2018,Barcelona,5,4,9,10
+2018-10-20,Valencia_Leganes_2018,Leganes,4,5,9,10
+2018-10-20,Barcelona_Sevilla_2018,Sevilla,4,5,9,10
+2018-10-20,Valencia_Leganes_2018,Valencia,5,4,9,10
+2018-10-20,Villarreal_Ath Madrid_2018,Ath Madrid,4,5,9,10
+2018-10-21,Eibar_Ath Bilbao_2018,Eibar,5,4,9,10
+2018-10-21,Huesca_Espanol_2018,Huesca,4,5,9,10
+2018-10-21,Betis_Valladolid_2018,Betis,5,4,9,10
+2018-10-21,Betis_Valladolid_2018,Valladolid,4,5,9,10
+2018-10-21,Eibar_Ath Bilbao_2018,Ath Bilbao,5,3,8,10
+2018-10-21,Vallecano_Getafe_2018,Vallecano,4,4,8,10
+2018-10-21,Vallecano_Getafe_2018,Getafe,4,5,9,10
+2018-10-21,Huesca_Espanol_2018,Espanol,4,5,9,10
+2018-10-22,Sociedad_Girona_2018,Sociedad,4,5,9,10
+2018-10-22,Sociedad_Girona_2018,Girona,5,4,9,10
+2018-10-24,Vallecano_Ath Bilbao_2018,Vallecano,5,4,9,11
+2018-10-24,Vallecano_Ath Bilbao_2018,Ath Bilbao,5,4,9,11
+2018-10-26,Valladolid_Espanol_2018,Valladolid,5,5,10,11
+2018-10-26,Valladolid_Espanol_2018,Espanol,4,6,10,11
+2018-10-27,Celta_Eibar_2018,Eibar,5,5,10,11
+2018-10-27,Levante_Leganes_2018,Leganes,4,6,10,11
+2018-10-27,Ath Bilbao_Valencia_2018,Ath Bilbao,6,4,10,11
+2018-10-27,Ath Madrid_Sociedad_2018,Sociedad,4,6,10,11
+2018-10-27,Ath Bilbao_Valencia_2018,Valencia,5,5,10,11
+2018-10-27,Girona_Vallecano_2018,Girona,6,4,10,11
+2018-10-27,Levante_Leganes_2018,Levante,5,5,10,11
+2018-10-27,Celta_Eibar_2018,Celta,6,4,10,11
+2018-10-27,Girona_Vallecano_2018,Vallecano,5,5,10,11
+2018-10-27,Ath Madrid_Sociedad_2018,Ath Madrid,5,5,10,11
+2018-10-28,Alaves_Villarreal_2018,Villarreal,5,5,10,11
+2018-10-28,Getafe_Betis_2018,Betis,5,5,10,11
+2018-10-28,Getafe_Betis_2018,Getafe,5,5,10,11
+2018-10-28,Barcelona_Real Madrid_2018,Real Madrid,5,5,10,11
+2018-10-28,Sevilla_Huesca_2018,Sevilla,5,5,10,11
+2018-10-28,Alaves_Villarreal_2018,Alaves,5,5,10,11
+2018-10-28,Sevilla_Huesca_2018,Huesca,4,6,10,11
+2018-10-28,Barcelona_Real Madrid_2018,Barcelona,6,4,10,11
+2018-11-03,Vallecano_Barcelona_2018,Vallecano,6,5,11,12
+2018-11-03,Valencia_Girona_2018,Girona,6,5,11,12
+2018-11-03,Vallecano_Barcelona_2018,Barcelona,6,5,11,12
+2018-11-03,Leganes_Ath Madrid_2018,Leganes,5,6,11,12
+2018-11-03,Valencia_Girona_2018,Valencia,6,5,11,12
+2018-11-03,Leganes_Ath Madrid_2018,Ath Madrid,5,6,11,12
+2018-11-03,Real Madrid_Valladolid_2018,Real Madrid,6,5,11,12
+2018-11-03,Real Madrid_Valladolid_2018,Valladolid,5,6,11,12
+2018-11-04,Huesca_Getafe_2018,Getafe,5,6,11,12
+2018-11-04,Huesca_Getafe_2018,Huesca,5,6,11,12
+2018-11-04,Villarreal_Levante_2018,Villarreal,6,5,11,12
+2018-11-04,Eibar_Alaves_2018,Eibar,6,5,11,12
+2018-11-04,Sociedad_Sevilla_2018,Sevilla,5,6,11,12
+2018-11-04,Betis_Celta_2018,Betis,6,5,11,12
+2018-11-04,Betis_Celta_2018,Celta,6,5,11,12
+2018-11-04,Villarreal_Levante_2018,Levante,5,6,11,12
+2018-11-04,Eibar_Alaves_2018,Alaves,5,6,11,12
+2018-11-04,Sociedad_Sevilla_2018,Sociedad,5,6,11,12
+2018-11-05,Espanol_Ath Bilbao_2018,Espanol,5,6,11,12
+2018-11-05,Espanol_Ath Bilbao_2018,Ath Bilbao,6,5,11,12
+2018-11-09,Levante_Sociedad_2018,Levante,6,6,12,13
+2018-11-09,Levante_Sociedad_2018,Sociedad,5,7,12,13
+2018-11-10,Girona_Leganes_2018,Girona,7,5,12,13
+2018-11-10,Girona_Leganes_2018,Leganes,5,7,12,13
+2018-11-10,Ath Madrid_Ath Bilbao_2018,Ath Madrid,6,6,12,13
+2018-11-10,Getafe_Valencia_2018,Getafe,6,6,12,13
+2018-11-10,Valladolid_Eibar_2018,Eibar,6,6,12,13
+2018-11-10,Getafe_Valencia_2018,Valencia,6,6,12,13
+2018-11-10,Valladolid_Eibar_2018,Valladolid,6,6,12,13
+2018-11-10,Ath Madrid_Ath Bilbao_2018,Ath Bilbao,6,6,12,13
+2018-11-11,Alaves_Huesca_2018,Huesca,5,7,12,13
+2018-11-11,Vallecano_Villarreal_2018,Villarreal,6,6,12,13
+2018-11-11,Celta_Real Madrid_2018,Real Madrid,6,6,12,13
+2018-11-11,Celta_Real Madrid_2018,Celta,7,5,12,13
+2018-11-11,Vallecano_Villarreal_2018,Vallecano,7,5,12,13
+2018-11-11,Sevilla_Espanol_2018,Sevilla,6,6,12,13
+2018-11-11,Barcelona_Betis_2018,Barcelona,7,5,12,13
+2018-11-11,Barcelona_Betis_2018,Betis,6,6,12,13
+2018-11-11,Alaves_Huesca_2018,Alaves,6,6,12,13
+2018-11-11,Sevilla_Espanol_2018,Espanol,5,7,12,13
+2018-11-23,Leganes_Alaves_2018,Alaves,6,7,13,15
+2018-11-23,Leganes_Alaves_2018,Leganes,6,7,13,15
+2018-11-24,Ath Madrid_Barcelona_2018,Ath Madrid,7,6,13,15
+2018-11-24,Eibar_Real Madrid_2018,Eibar,7,6,13,15
+2018-11-24,Valencia_Vallecano_2018,Vallecano,7,6,13,15
+2018-11-24,Valencia_Vallecano_2018,Valencia,7,6,13,15
+2018-11-24,Ath Madrid_Barcelona_2018,Barcelona,7,6,13,15
+2018-11-24,Eibar_Real Madrid_2018,Real Madrid,6,7,13,15
+2018-11-24,Huesca_Levante_2018,Huesca,6,7,13,15
+2018-11-24,Huesca_Levante_2018,Levante,6,7,13,15
+2018-11-25,Villarreal_Betis_2018,Villarreal,7,6,13,15
+2018-11-25,Sevilla_Valladolid_2018,Sevilla,7,6,13,15
+2018-11-25,Ath Bilbao_Getafe_2018,Ath Bilbao,7,6,13,15
+2018-11-25,Villarreal_Betis_2018,Betis,6,7,13,15
+2018-11-25,Espanol_Girona_2018,Espanol,6,7,13,15
+2018-11-25,Espanol_Girona_2018,Girona,7,6,13,15
+2018-11-25,Ath Bilbao_Getafe_2018,Getafe,6,7,13,15
+2018-11-25,Sevilla_Valladolid_2018,Valladolid,6,7,13,15
+2018-11-26,Sociedad_Celta_2018,Celta,7,6,13,15
+2018-11-26,Sociedad_Celta_2018,Sociedad,6,7,13,15
+2018-11-30,Vallecano_Eibar_2018,Eibar,7,7,14,16
+2018-11-30,Vallecano_Eibar_2018,Vallecano,8,6,14,16
+2018-12-01,Getafe_Espanol_2018,Getafe,7,7,14,16
+2018-12-01,Celta_Huesca_2018,Huesca,6,8,14,16
+2018-12-01,Valladolid_Leganes_2018,Valladolid,7,7,14,16
+2018-12-01,Real Madrid_Valencia_2018,Valencia,7,7,14,16
+2018-12-01,Celta_Huesca_2018,Celta,8,6,14,16
+2018-12-01,Valladolid_Leganes_2018,Leganes,6,8,14,16
+2018-12-01,Real Madrid_Valencia_2018,Real Madrid,7,7,14,16
+2018-12-01,Getafe_Espanol_2018,Espanol,6,8,14,16
+2018-12-02,Girona_Ath Madrid_2018,Ath Madrid,7,7,14,16
+2018-12-02,Alaves_Sevilla_2018,Alaves,7,7,14,16
+2018-12-02,Alaves_Sevilla_2018,Sevilla,7,7,14,16
+2018-12-02,Barcelona_Villarreal_2018,Barcelona,8,6,14,16
+2018-12-02,Betis_Sociedad_2018,Sociedad,6,8,14,16
+2018-12-02,Barcelona_Villarreal_2018,Villarreal,7,7,14,16
+2018-12-02,Betis_Sociedad_2018,Betis,7,7,14,16
+2018-12-02,Girona_Ath Madrid_2018,Girona,8,6,14,16
+2018-12-03,Levante_Ath Bilbao_2018,Levante,7,7,14,16
+2018-12-03,Levante_Ath Bilbao_2018,Ath Bilbao,7,7,14,16
+2018-12-07,Leganes_Getafe_2018,Getafe,7,8,15,17
+2018-12-07,Leganes_Getafe_2018,Leganes,7,8,15,17
+2018-12-08,Espanol_Barcelona_2018,Espanol,7,8,15,17
+2018-12-08,Villarreal_Celta_2018,Villarreal,8,7,15,17
+2018-12-08,Espanol_Barcelona_2018,Barcelona,8,7,15,17
+2018-12-08,Valencia_Sevilla_2018,Sevilla,7,8,15,17
+2018-12-08,Valencia_Sevilla_2018,Valencia,8,7,15,17
+2018-12-08,Villarreal_Celta_2018,Celta,8,7,15,17
+2018-12-08,Ath Madrid_Alaves_2018,Ath Madrid,8,7,15,17
+2018-12-08,Ath Madrid_Alaves_2018,Alaves,7,8,15,17
+2018-12-09,Huesca_Real Madrid_2018,Real Madrid,7,8,15,17
+2018-12-09,Betis_Vallecano_2018,Vallecano,8,7,15,17
+2018-12-09,Huesca_Real Madrid_2018,Huesca,7,8,15,17
+2018-12-09,Eibar_Levante_2018,Levante,7,8,15,17
+2018-12-09,Sociedad_Valladolid_2018,Valladolid,7,8,15,17
+2018-12-09,Betis_Vallecano_2018,Betis,8,7,15,17
+2018-12-09,Eibar_Levante_2018,Eibar,8,7,15,17
+2018-12-09,Sociedad_Valladolid_2018,Sociedad,7,8,15,17
+2018-12-10,Ath Bilbao_Girona_2018,Girona,8,7,15,17
+2018-12-10,Ath Bilbao_Girona_2018,Ath Bilbao,8,7,15,17
+2018-12-14,Celta_Leganes_2018,Celta,9,7,16,18
+2018-12-14,Celta_Leganes_2018,Leganes,7,9,16,18
+2018-12-15,Real Madrid_Vallecano_2018,Vallecano,8,8,16,18
+2018-12-15,Getafe_Sociedad_2018,Getafe,8,8,16,18
+2018-12-15,Valladolid_Ath Madrid_2018,Valladolid,8,8,16,18
+2018-12-15,Eibar_Valencia_2018,Valencia,8,8,16,18
+2018-12-15,Valladolid_Ath Madrid_2018,Ath Madrid,8,8,16,18
+2018-12-15,Getafe_Sociedad_2018,Sociedad,7,9,16,18
+2018-12-15,Real Madrid_Vallecano_2018,Real Madrid,8,8,16,18
+2018-12-15,Eibar_Valencia_2018,Eibar,9,7,16,18
+2018-12-16,Espanol_Betis_2018,Betis,8,8,16,18
+2018-12-16,Levante_Barcelona_2018,Levante,8,8,16,18
+2018-12-16,Sevilla_Girona_2018,Sevilla,8,8,16,18
+2018-12-16,Huesca_Villarreal_2018,Huesca,8,8,16,18
+2018-12-16,Huesca_Villarreal_2018,Villarreal,8,8,16,18
+2018-12-16,Sevilla_Girona_2018,Girona,8,8,16,18
+2018-12-16,Levante_Barcelona_2018,Barcelona,8,8,16,18
+2018-12-16,Espanol_Betis_2018,Espanol,8,8,16,18
+2018-12-17,Alaves_Ath Bilbao_2018,Ath Bilbao,8,8,16,18
+2018-12-17,Alaves_Ath Bilbao_2018,Alaves,8,8,16,18
+2018-12-21,Sociedad_Alaves_2018,Alaves,8,9,17,19
+2018-12-21,Girona_Getafe_2018,Girona,9,8,17,19
+2018-12-21,Girona_Getafe_2018,Getafe,8,9,17,19
+2018-12-21,Sociedad_Alaves_2018,Sociedad,8,9,17,19
+2018-12-22,Betis_Eibar_2018,Betis,9,8,17,19
+2018-12-22,Barcelona_Celta_2018,Celta,9,8,17,19
+2018-12-22,Ath Madrid_Espanol_2018,Ath Madrid,9,8,17,19
+2018-12-22,Ath Bilbao_Valladolid_2018,Ath Bilbao,9,8,17,19
+2018-12-22,Ath Bilbao_Valladolid_2018,Valladolid,8,9,17,19
+2018-12-22,Betis_Eibar_2018,Eibar,9,8,17,19
+2018-12-22,Ath Madrid_Espanol_2018,Espanol,8,9,17,19
+2018-12-22,Barcelona_Celta_2018,Barcelona,9,8,17,19
+2018-12-23,Valencia_Huesca_2018,Valencia,9,8,17,19
+2018-12-23,Leganes_Sevilla_2018,Leganes,8,9,17,19
+2018-12-23,Vallecano_Levante_2018,Vallecano,9,8,17,19
+2018-12-23,Leganes_Sevilla_2018,Sevilla,8,9,17,19
+2018-12-23,Valencia_Huesca_2018,Huesca,8,9,17,19
+2018-12-23,Vallecano_Levante_2018,Levante,8,9,17,19
+2019-01-03,Villarreal_Real Madrid_2018,Real Madrid,8,9,17,21
+2019-01-03,Villarreal_Real Madrid_2018,Villarreal,9,8,17,21
+2019-01-04,Espanol_Leganes_2018,Leganes,8,10,18,21
+2019-01-04,Levante_Girona_2018,Girona,9,9,18,21
+2019-01-04,Espanol_Leganes_2018,Espanol,9,9,18,21
+2019-01-04,Levante_Girona_2018,Levante,9,9,18,21
+2019-01-05,Huesca_Betis_2018,Huesca,9,9,18,21
+2019-01-05,Valladolid_Vallecano_2018,Vallecano,9,9,18,21
+2019-01-05,Alaves_Valencia_2018,Valencia,9,9,18,21
+2019-01-05,Valladolid_Vallecano_2018,Valladolid,9,9,18,21
+2019-01-05,Alaves_Valencia_2018,Alaves,9,9,18,21
+2019-01-05,Huesca_Betis_2018,Betis,9,9,18,21
+2019-01-06,Real Madrid_Sociedad_2018,Sociedad,8,10,18,21
+2019-01-06,Getafe_Barcelona_2018,Barcelona,9,9,18,21
+2019-01-06,Real Madrid_Sociedad_2018,Real Madrid,9,9,18,21
+2019-01-06,Sevilla_Ath Madrid_2018,Ath Madrid,9,9,18,21
+2019-01-06,Getafe_Barcelona_2018,Getafe,9,9,18,21
+2019-01-06,Eibar_Villarreal_2018,Villarreal,9,9,18,21
+2019-01-06,Sevilla_Ath Madrid_2018,Sevilla,9,9,18,21
+2019-01-06,Eibar_Villarreal_2018,Eibar,10,8,18,21
+2019-01-07,Celta_Ath Bilbao_2018,Celta,10,8,18,21
+2019-01-07,Celta_Ath Bilbao_2018,Ath Bilbao,9,9,18,21
+2019-01-11,Vallecano_Celta_2018,Celta,10,9,19,22
+2019-01-11,Vallecano_Celta_2018,Vallecano,10,9,19,22
+2019-01-12,Leganes_Huesca_2018,Leganes,9,10,19,22
+2019-01-12,Valencia_Valladolid_2018,Valencia,10,9,19,22
+2019-01-12,Leganes_Huesca_2018,Huesca,9,10,19,22
+2019-01-12,Girona_Alaves_2018,Alaves,9,10,19,22
+2019-01-12,Villarreal_Getafe_2018,Getafe,9,10,19,22
+2019-01-12,Valencia_Valladolid_2018,Valladolid,9,10,19,22
+2019-01-12,Villarreal_Getafe_2018,Villarreal,10,9,19,22
+2019-01-12,Girona_Alaves_2018,Girona,10,9,19,22
+2019-01-13,Betis_Real Madrid_2018,Betis,10,9,19,22
+2019-01-13,Ath Madrid_Levante_2018,Levante,9,10,19,22
+2019-01-13,Barcelona_Eibar_2018,Eibar,10,9,19,22
+2019-01-13,Ath Madrid_Levante_2018,Ath Madrid,10,9,19,22
+2019-01-13,Ath Bilbao_Sevilla_2018,Ath Bilbao,10,9,19,22
+2019-01-13,Barcelona_Eibar_2018,Barcelona,10,9,19,22
+2019-01-13,Betis_Real Madrid_2018,Real Madrid,9,10,19,22
+2019-01-13,Ath Bilbao_Sevilla_2018,Sevilla,9,10,19,22
+2019-01-14,Sociedad_Espanol_2018,Espanol,9,10,19,22
+2019-01-14,Sociedad_Espanol_2018,Sociedad,9,10,19,22
+2019-01-18,Getafe_Alaves_2018,Getafe,10,10,20,23
+2019-01-18,Getafe_Alaves_2018,Alaves,9,11,20,23
+2019-01-19,Celta_Valencia_2018,Valencia,10,10,20,23
+2019-01-19,Celta_Valencia_2018,Celta,11,9,20,23
+2019-01-19,Real Madrid_Sevilla_2018,Sevilla,9,11,20,23
+2019-01-19,Real Madrid_Sevilla_2018,Real Madrid,10,10,20,23
+2019-01-19,Huesca_Ath Madrid_2018,Ath Madrid,10,10,20,23
+2019-01-19,Huesca_Ath Madrid_2018,Huesca,10,10,20,23
+2019-01-20,Betis_Girona_2018,Girona,10,10,20,23
+2019-01-20,Villarreal_Ath Bilbao_2018,Ath Bilbao,10,10,20,23
+2019-01-20,Levante_Valladolid_2018,Valladolid,9,11,20,23
+2019-01-20,Villarreal_Ath Bilbao_2018,Villarreal,11,9,20,23
+2019-01-20,Vallecano_Sociedad_2018,Vallecano,11,9,20,23
+2019-01-20,Barcelona_Leganes_2018,Leganes,9,11,20,23
+2019-01-20,Betis_Girona_2018,Betis,11,9,20,23
+2019-01-20,Barcelona_Leganes_2018,Barcelona,11,9,20,23
+2019-01-20,Vallecano_Sociedad_2018,Sociedad,9,11,20,23
+2019-01-20,Levante_Valladolid_2018,Levante,10,10,20,23
+2019-01-21,Eibar_Espanol_2018,Espanol,9,11,20,23
+2019-01-21,Eibar_Espanol_2018,Eibar,11,9,20,23
+2019-01-26,Valencia_Villarreal_2018,Villarreal,11,10,21,24
+2019-01-26,Sevilla_Levante_2018,Levante,10,11,21,24
+2019-01-26,Leganes_Eibar_2018,Eibar,11,10,21,24
+2019-01-26,Ath Madrid_Getafe_2018,Getafe,10,11,21,24
+2019-01-26,Sevilla_Levante_2018,Sevilla,10,11,21,24
+2019-01-26,Valencia_Villarreal_2018,Valencia,11,10,21,24
+2019-01-26,Ath Madrid_Getafe_2018,Ath Madrid,11,10,21,24
+2019-01-26,Leganes_Eibar_2018,Leganes,10,11,21,24
+2019-01-27,Girona_Barcelona_2018,Girona,11,10,21,24
+2019-01-27,Girona_Barcelona_2018,Barcelona,11,10,21,24
+2019-01-27,Sociedad_Huesca_2018,Huesca,10,11,21,24
+2019-01-27,Espanol_Real Madrid_2018,Real Madrid,10,11,21,24
+2019-01-27,Ath Bilbao_Betis_2018,Ath Bilbao,11,10,21,24
+2019-01-27,Ath Bilbao_Betis_2018,Betis,11,10,21,24
+2019-01-27,Valladolid_Celta_2018,Celta,11,10,21,24
+2019-01-27,Sociedad_Huesca_2018,Sociedad,10,11,21,24
+2019-01-27,Valladolid_Celta_2018,Valladolid,10,11,21,24
+2019-01-27,Espanol_Real Madrid_2018,Espanol,10,11,21,24
+2019-01-28,Alaves_Vallecano_2018,Alaves,10,11,21,24
+2019-01-28,Alaves_Vallecano_2018,Vallecano,11,10,21,24
+2019-02-01,Huesca_Valladolid_2018,Huesca,11,11,22,25
+2019-02-01,Huesca_Valladolid_2018,Valladolid,10,12,22,25
+2019-02-02,Levante_Getafe_2018,Levante,11,11,22,25
+2019-02-02,Barcelona_Valencia_2018,Valencia,11,11,22,25
+2019-02-02,Sociedad_Ath Bilbao_2018,Ath Bilbao,11,11,22,25
+2019-02-02,Celta_Sevilla_2018,Celta,12,10,22,25
+2019-02-02,Celta_Sevilla_2018,Sevilla,10,12,22,25
+2019-02-02,Levante_Getafe_2018,Getafe,10,12,22,25
+2019-02-02,Barcelona_Valencia_2018,Barcelona,12,10,22,25
+2019-02-02,Sociedad_Ath Bilbao_2018,Sociedad,11,11,22,25
+2019-02-03,Betis_Ath Madrid_2018,Betis,12,10,22,25
+2019-02-03,Villarreal_Espanol_2018,Villarreal,12,10,22,25
+2019-02-03,Real Madrid_Alaves_2018,Alaves,10,12,22,25
+2019-02-03,Betis_Ath Madrid_2018,Ath Madrid,11,11,22,25
+2019-02-03,Real Madrid_Alaves_2018,Real Madrid,11,11,22,25
+2019-02-03,Villarreal_Espanol_2018,Espanol,10,12,22,25
+2019-02-03,Eibar_Girona_2018,Eibar,12,10,22,25
+2019-02-03,Eibar_Girona_2018,Girona,11,11,22,25
+2019-02-04,Vallecano_Leganes_2018,Leganes,10,12,22,25
+2019-02-04,Vallecano_Leganes_2018,Vallecano,12,10,22,25
+2019-02-08,Valladolid_Villarreal_2018,Villarreal,12,11,23,26
+2019-02-08,Valladolid_Villarreal_2018,Valladolid,11,12,23,26
+2019-02-09,Girona_Huesca_2018,Girona,12,11,23,26
+2019-02-09,Espanol_Vallecano_2018,Espanol,11,12,23,26
+2019-02-09,Getafe_Celta_2018,Celta,12,11,23,26
+2019-02-09,Getafe_Celta_2018,Getafe,11,12,23,26
+2019-02-09,Ath Madrid_Real Madrid_2018,Ath Madrid,12,11,23,26
+2019-02-09,Espanol_Vallecano_2018,Vallecano,12,11,23,26
+2019-02-09,Ath Madrid_Real Madrid_2018,Real Madrid,11,12,23,26
+2019-02-09,Girona_Huesca_2018,Huesca,11,12,23,26
+2019-02-10,Valencia_Sociedad_2018,Valencia,12,11,23,26
+2019-02-10,Sevilla_Eibar_2018,Eibar,12,11,23,26
+2019-02-10,Sevilla_Eibar_2018,Sevilla,11,12,23,26
+2019-02-10,Valencia_Sociedad_2018,Sociedad,11,12,23,26
+2019-02-10,Leganes_Betis_2018,Leganes,11,12,23,26
+2019-02-10,Leganes_Betis_2018,Betis,12,11,23,26
+2019-02-10,Ath Bilbao_Barcelona_2018,Ath Bilbao,12,11,23,26
+2019-02-10,Ath Bilbao_Barcelona_2018,Barcelona,12,11,23,26
+2019-02-11,Alaves_Levante_2018,Alaves,11,12,23,26
+2019-02-11,Alaves_Levante_2018,Levante,11,12,23,26
+2019-02-15,Eibar_Getafe_2018,Eibar,13,11,24,27
+2019-02-15,Eibar_Getafe_2018,Getafe,11,13,24,27
+2019-02-16,Vallecano_Ath Madrid_2018,Vallecano,13,11,24,27
+2019-02-16,Barcelona_Valladolid_2018,Valladolid,11,13,24,27
+2019-02-16,Barcelona_Valladolid_2018,Barcelona,13,11,24,27
+2019-02-16,Celta_Levante_2018,Celta,13,11,24,27
+2019-02-16,Sociedad_Leganes_2018,Sociedad,12,12,24,27
+2019-02-16,Celta_Levante_2018,Levante,11,13,24,27
+2019-02-16,Vallecano_Ath Madrid_2018,Ath Madrid,12,12,24,27
+2019-02-16,Sociedad_Leganes_2018,Leganes,11,13,24,27
+2019-02-17,Real Madrid_Girona_2018,Real Madrid,12,12,24,27
+2019-02-17,Real Madrid_Girona_2018,Girona,12,12,24,27
+2019-02-17,Valencia_Espanol_2018,Valencia,13,11,24,27
+2019-02-17,Valencia_Espanol_2018,Espanol,11,13,24,27
+2019-02-17,Villarreal_Sevilla_2018,Sevilla,11,13,24,27
+2019-02-17,Betis_Alaves_2018,Betis,13,11,24,27
+2019-02-17,Villarreal_Sevilla_2018,Villarreal,13,11,24,27
+2019-02-17,Betis_Alaves_2018,Alaves,11,13,24,27
+2019-02-18,Huesca_Ath Bilbao_2018,Huesca,12,12,24,27
+2019-02-18,Huesca_Ath Bilbao_2018,Ath Bilbao,12,12,24,27
+2019-02-22,Espanol_Huesca_2018,Espanol,12,13,25,28
+2019-02-22,Espanol_Huesca_2018,Huesca,12,13,25,28
+2019-02-23,Getafe_Vallecano_2018,Vallecano,13,12,25,28
+2019-02-23,Getafe_Vallecano_2018,Getafe,12,13,25,28
+2019-02-23,Sevilla_Barcelona_2018,Sevilla,12,13,25,28
+2019-02-23,Alaves_Celta_2018,Celta,13,12,25,28
+2019-02-23,Ath Bilbao_Eibar_2018,Eibar,13,12,25,28
+2019-02-23,Alaves_Celta_2018,Alaves,12,13,25,28
+2019-02-23,Ath Bilbao_Eibar_2018,Ath Bilbao,13,12,25,28
+2019-02-23,Sevilla_Barcelona_2018,Barcelona,13,12,25,28
+2019-02-24,Valladolid_Betis_2018,Betis,13,12,25,28
+2019-02-24,Leganes_Valencia_2018,Valencia,13,12,25,28
+2019-02-24,Valladolid_Betis_2018,Valladolid,12,13,25,28
+2019-02-24,Ath Madrid_Villarreal_2018,Villarreal,13,12,25,28
+2019-02-24,Levante_Real Madrid_2018,Levante,12,13,25,28
+2019-02-24,Ath Madrid_Villarreal_2018,Ath Madrid,13,12,25,28
+2019-02-24,Leganes_Valencia_2018,Leganes,12,13,25,28
+2019-02-24,Levante_Real Madrid_2018,Real Madrid,12,13,25,28
+2019-02-25,Girona_Sociedad_2018,Girona,13,12,25,28
+2019-02-25,Girona_Sociedad_2018,Sociedad,12,13,25,28
+2019-03-01,Vallecano_Girona_2018,Girona,13,13,26,29
+2019-03-01,Vallecano_Girona_2018,Vallecano,14,12,26,29
+2019-03-02,Espanol_Valladolid_2018,Valladolid,12,14,26,29
+2019-03-02,Real Madrid_Barcelona_2018,Barcelona,13,13,26,29
+2019-03-02,Villarreal_Alaves_2018,Villarreal,14,12,26,29
+2019-03-02,Huesca_Sevilla_2018,Huesca,13,13,26,29
+2019-03-02,Real Madrid_Barcelona_2018,Real Madrid,13,13,26,29
+2019-03-02,Villarreal_Alaves_2018,Alaves,12,14,26,29
+2019-03-02,Espanol_Valladolid_2018,Espanol,13,13,26,29
+2019-03-02,Huesca_Sevilla_2018,Sevilla,12,14,26,29
+2019-03-03,Valencia_Ath Bilbao_2018,Valencia,14,12,26,29
+2019-03-03,Eibar_Celta_2018,Celta,13,13,26,29
+2019-03-03,Sociedad_Ath Madrid_2018,Sociedad,13,13,26,29
+2019-03-03,Valencia_Ath Bilbao_2018,Ath Bilbao,13,13,26,29
+2019-03-03,Betis_Getafe_2018,Getafe,12,14,26,29
+2019-03-03,Eibar_Celta_2018,Eibar,14,12,26,29
+2019-03-03,Sociedad_Ath Madrid_2018,Ath Madrid,13,13,26,29
+2019-03-03,Betis_Getafe_2018,Betis,14,12,26,29
+2019-03-04,Leganes_Levante_2018,Leganes,13,13,26,29
+2019-03-04,Leganes_Levante_2018,Levante,12,14,26,29
+2019-03-08,Ath Bilbao_Espanol_2018,Ath Bilbao,14,13,27,30
+2019-03-08,Ath Bilbao_Espanol_2018,Espanol,13,14,27,30
+2019-03-09,Ath Madrid_Leganes_2018,Ath Madrid,14,13,27,30
+2019-03-09,Ath Madrid_Leganes_2018,Leganes,13,14,27,30
+2019-03-09,Barcelona_Vallecano_2018,Barcelona,14,13,27,30
+2019-03-09,Alaves_Eibar_2018,Alaves,13,14,27,30
+2019-03-09,Alaves_Eibar_2018,Eibar,14,13,27,30
+2019-03-09,Barcelona_Vallecano_2018,Vallecano,14,13,27,30
+2019-03-09,Getafe_Huesca_2018,Huesca,13,14,27,30
+2019-03-09,Getafe_Huesca_2018,Getafe,13,14,27,30
+2019-03-10,Celta_Betis_2018,Betis,14,13,27,30
+2019-03-10,Sevilla_Sociedad_2018,Sevilla,13,14,27,30
+2019-03-10,Levante_Villarreal_2018,Villarreal,14,13,27,30
+2019-03-10,Celta_Betis_2018,Celta,14,13,27,30
+2019-03-10,Levante_Villarreal_2018,Levante,13,14,27,30
+2019-03-10,Girona_Valencia_2018,Girona,14,13,27,30
+2019-03-10,Valladolid_Real Madrid_2018,Valladolid,13,14,27,30
+2019-03-10,Valladolid_Real Madrid_2018,Real Madrid,13,14,27,30
+2019-03-10,Girona_Valencia_2018,Valencia,14,13,27,30
+2019-03-10,Sevilla_Sociedad_2018,Sociedad,13,14,27,30
+2019-03-15,Sociedad_Levante_2018,Sociedad,14,14,28,31
+2019-03-15,Sociedad_Levante_2018,Levante,13,15,28,31
+2019-03-16,Leganes_Girona_2018,Girona,14,14,28,31
+2019-03-16,Huesca_Alaves_2018,Alaves,13,15,28,31
+2019-03-16,Ath Bilbao_Ath Madrid_2018,Ath Bilbao,15,13,28,31
+2019-03-16,Huesca_Alaves_2018,Huesca,14,14,28,31
+2019-03-16,Ath Bilbao_Ath Madrid_2018,Ath Madrid,14,14,28,31
+2019-03-16,Real Madrid_Celta_2018,Real Madrid,14,14,28,31
+2019-03-16,Real Madrid_Celta_2018,Celta,14,14,28,31
+2019-03-16,Leganes_Girona_2018,Leganes,14,14,28,31
+2019-03-17,Betis_Barcelona_2018,Betis,15,13,28,31
+2019-03-17,Villarreal_Vallecano_2018,Villarreal,15,13,28,31
+2019-03-17,Valencia_Getafe_2018,Valencia,15,13,28,31
+2019-03-17,Valencia_Getafe_2018,Getafe,13,15,28,31
+2019-03-17,Villarreal_Vallecano_2018,Vallecano,14,14,28,31
+2019-03-17,Eibar_Valladolid_2018,Eibar,15,13,28,31
+2019-03-17,Espanol_Sevilla_2018,Espanol,14,14,28,31
+2019-03-17,Betis_Barcelona_2018,Barcelona,14,14,28,31
+2019-03-17,Eibar_Valladolid_2018,Valladolid,13,15,28,31
+2019-03-17,Espanol_Sevilla_2018,Sevilla,13,15,28,31
+2019-03-29,Girona_Ath Bilbao_2018,Girona,15,14,29,33
+2019-03-29,Girona_Ath Bilbao_2018,Ath Bilbao,15,14,29,33
+2019-03-30,Celta_Villarreal_2018,Celta,15,14,29,33
+2019-03-30,Barcelona_Espanol_2018,Espanol,14,15,29,33
+2019-03-30,Barcelona_Espanol_2018,Barcelona,15,14,29,33
+2019-03-30,Getafe_Leganes_2018,Getafe,14,15,29,33
+2019-03-30,Getafe_Leganes_2018,Leganes,14,15,29,33
+2019-03-30,Alaves_Ath Madrid_2018,Ath Madrid,14,15,29,33
+2019-03-30,Celta_Villarreal_2018,Villarreal,15,14,29,33
+2019-03-30,Alaves_Ath Madrid_2018,Alaves,14,15,29,33
+2019-03-31,Levante_Eibar_2018,Levante,14,15,29,33
+2019-03-31,Vallecano_Betis_2018,Betis,15,14,29,33
+2019-03-31,Sevilla_Valencia_2018,Valencia,15,14,29,33
+2019-03-31,Vallecano_Betis_2018,Vallecano,15,14,29,33
+2019-03-31,Levante_Eibar_2018,Eibar,15,14,29,33
+2019-03-31,Valladolid_Sociedad_2018,Sociedad,14,15,29,33
+2019-03-31,Sevilla_Valencia_2018,Sevilla,14,15,29,33
+2019-03-31,Valladolid_Sociedad_2018,Valladolid,14,15,29,33
+2019-03-31,Real Madrid_Huesca_2018,Huesca,14,15,29,33
+2019-03-31,Real Madrid_Huesca_2018,Real Madrid,15,14,29,33
+2019-04-02,Villarreal_Barcelona_2018,Barcelona,15,15,30,34
+2019-04-02,Villarreal_Barcelona_2018,Villarreal,16,14,30,34
+2019-04-02,Ath Madrid_Girona_2018,Girona,15,15,30,34
+2019-04-02,Espanol_Getafe_2018,Getafe,14,16,30,34
+2019-04-02,Ath Madrid_Girona_2018,Ath Madrid,15,15,30,34
+2019-04-02,Espanol_Getafe_2018,Espanol,15,15,30,34
+2019-04-03,Valencia_Real Madrid_2018,Valencia,16,14,30,34
+2019-04-03,Valencia_Real Madrid_2018,Real Madrid,15,15,30,34
+2019-04-03,Ath Bilbao_Levante_2018,Ath Bilbao,16,14,30,34
+2019-04-03,Huesca_Celta_2018,Huesca,15,15,30,34
+2019-04-03,Huesca_Celta_2018,Celta,15,15,30,34
+2019-04-03,Ath Bilbao_Levante_2018,Levante,14,16,30,34
+2019-04-03,Eibar_Vallecano_2018,Vallecano,15,15,30,34
+2019-04-03,Eibar_Vallecano_2018,Eibar,16,14,30,34
+2019-04-04,Sevilla_Alaves_2018,Alaves,14,16,30,34
+2019-04-04,Sociedad_Betis_2018,Betis,15,15,30,34
+2019-04-04,Leganes_Valladolid_2018,Leganes,15,15,30,34
+2019-04-04,Leganes_Valladolid_2018,Valladolid,14,16,30,34
+2019-04-04,Sevilla_Alaves_2018,Sevilla,15,15,30,34
+2019-04-04,Sociedad_Betis_2018,Sociedad,15,15,30,34
+2019-04-06,Barcelona_Ath Madrid_2018,Ath Madrid,15,16,31,34
+2019-04-06,Girona_Espanol_2018,Girona,16,15,31,34
+2019-04-06,Vallecano_Valencia_2018,Valencia,16,15,31,34
+2019-04-06,Barcelona_Ath Madrid_2018,Barcelona,16,15,31,34
+2019-04-06,Vallecano_Valencia_2018,Vallecano,16,15,31,34
+2019-04-06,Real Madrid_Eibar_2018,Eibar,16,15,31,34
+2019-04-06,Real Madrid_Eibar_2018,Real Madrid,16,15,31,34
+2019-04-06,Girona_Espanol_2018,Espanol,15,16,31,34
+2019-04-07,Betis_Villarreal_2018,Villarreal,16,15,31,34
+2019-04-07,Valladolid_Sevilla_2018,Sevilla,15,16,31,34
+2019-04-07,Celta_Sociedad_2018,Celta,16,15,31,34
+2019-04-07,Valladolid_Sevilla_2018,Valladolid,15,16,31,34
+2019-04-07,Betis_Villarreal_2018,Betis,16,15,31,34
+2019-04-07,Getafe_Ath Bilbao_2018,Ath Bilbao,16,15,31,34
+2019-04-07,Alaves_Leganes_2018,Leganes,15,16,31,34
+2019-04-07,Levante_Huesca_2018,Huesca,15,16,31,34
+2019-04-07,Celta_Sociedad_2018,Sociedad,15,16,31,34
+2019-04-07,Alaves_Leganes_2018,Alaves,15,16,31,34
+2019-04-07,Levante_Huesca_2018,Levante,15,16,31,34
+2019-04-07,Getafe_Ath Bilbao_2018,Getafe,15,16,31,34
+2019-04-13,Ath Madrid_Celta_2018,Ath Madrid,16,16,32,35
+2019-04-13,Ath Madrid_Celta_2018,Celta,16,16,32,35
+2019-04-13,Huesca_Barcelona_2018,Barcelona,16,16,32,35
+2019-04-13,Espanol_Alaves_2018,Alaves,15,17,32,35
+2019-04-13,Sevilla_Betis_2018,Sevilla,16,16,32,35
+2019-04-13,Espanol_Alaves_2018,Espanol,16,16,32,35
+2019-04-13,Sevilla_Betis_2018,Betis,16,16,32,35
+2019-04-13,Huesca_Barcelona_2018,Huesca,16,16,32,35
+2019-04-14,Ath Bilbao_Vallecano_2018,Vallecano,16,16,32,35
+2019-04-14,Valencia_Levante_2018,Valencia,17,15,32,35
+2019-04-14,Sociedad_Eibar_2018,Eibar,16,16,32,35
+2019-04-14,Valencia_Levante_2018,Levante,15,17,32,35
+2019-04-14,Valladolid_Getafe_2018,Getafe,15,17,32,35
+2019-04-14,Ath Bilbao_Vallecano_2018,Ath Bilbao,17,15,32,35
+2019-04-14,Sociedad_Eibar_2018,Sociedad,16,16,32,35
+2019-04-14,Girona_Villarreal_2018,Girona,17,15,32,35
+2019-04-14,Valladolid_Getafe_2018,Valladolid,16,16,32,35
+2019-04-14,Girona_Villarreal_2018,Villarreal,16,16,32,35
+2019-04-15,Leganes_Real Madrid_2018,Leganes,16,16,32,35
+2019-04-15,Leganes_Real Madrid_2018,Real Madrid,16,16,32,35
+2019-04-19,Alaves_Valladolid_2018,Valladolid,16,17,33,36
+2019-04-19,Alaves_Valladolid_2018,Alaves,16,17,33,36
+2019-04-20,Vallecano_Huesca_2018,Vallecano,17,16,33,36
+2019-04-20,Vallecano_Huesca_2018,Huesca,16,17,33,36
+2019-04-20,Eibar_Ath Madrid_2018,Ath Madrid,16,17,33,36
+2019-04-20,Celta_Girona_2018,Girona,17,16,33,36
+2019-04-20,Barcelona_Sociedad_2018,Sociedad,16,17,33,36
+2019-04-20,Celta_Girona_2018,Celta,17,16,33,36
+2019-04-20,Barcelona_Sociedad_2018,Barcelona,17,16,33,36
+2019-04-20,Eibar_Ath Madrid_2018,Eibar,17,16,33,36
+2019-04-21,Getafe_Sevilla_2018,Getafe,16,17,33,36
+2019-04-21,Villarreal_Leganes_2018,Leganes,16,17,33,36
+2019-04-21,Getafe_Sevilla_2018,Sevilla,16,17,33,36
+2019-04-21,Betis_Valencia_2018,Betis,17,16,33,36
+2019-04-21,Real Madrid_Ath Bilbao_2018,Ath Bilbao,17,16,33,36
+2019-04-21,Levante_Espanol_2018,Levante,16,17,33,36
+2019-04-21,Betis_Valencia_2018,Valencia,17,16,33,36
+2019-04-21,Villarreal_Leganes_2018,Villarreal,17,16,33,36
+2019-04-21,Levante_Espanol_2018,Espanol,16,17,33,36
+2019-04-21,Real Madrid_Ath Bilbao_2018,Real Madrid,17,16,33,36
+2019-04-23,Valladolid_Girona_2018,Girona,17,17,34,37
+2019-04-23,Huesca_Eibar_2018,Eibar,17,17,34,37
+2019-04-23,Alaves_Barcelona_2018,Barcelona,17,17,34,37
+2019-04-23,Alaves_Barcelona_2018,Alaves,17,17,34,37
+2019-04-23,Huesca_Eibar_2018,Huesca,17,17,34,37
+2019-04-23,Valladolid_Girona_2018,Valladolid,17,17,34,37
+2019-04-24,Levante_Betis_2018,Levante,17,17,34,37
+2019-04-24,Espanol_Celta_2018,Espanol,17,17,34,37
+2019-04-24,Ath Madrid_Valencia_2018,Valencia,17,17,34,37
+2019-04-24,Ath Madrid_Valencia_2018,Ath Madrid,17,17,34,37
+2019-04-24,Leganes_Ath Bilbao_2018,Ath Bilbao,17,17,34,37
+2019-04-24,Levante_Betis_2018,Betis,17,17,34,37
+2019-04-24,Espanol_Celta_2018,Celta,17,17,34,37
+2019-04-24,Leganes_Ath Bilbao_2018,Leganes,17,17,34,37
+2019-04-25,Getafe_Real Madrid_2018,Getafe,17,17,34,37
+2019-04-25,Sevilla_Vallecano_2018,Vallecano,17,17,34,37
+2019-04-25,Sociedad_Villarreal_2018,Villarreal,17,17,34,37
+2019-04-25,Sociedad_Villarreal_2018,Sociedad,17,17,34,37
+2019-04-25,Sevilla_Vallecano_2018,Sevilla,17,17,34,37
+2019-04-25,Getafe_Real Madrid_2018,Real Madrid,17,17,34,37
+2019-04-27,Leganes_Celta_2018,Leganes,18,17,35,37
+2019-04-27,Ath Madrid_Valladolid_2018,Ath Madrid,18,17,35,37
+2019-04-27,Ath Bilbao_Alaves_2018,Ath Bilbao,18,17,35,37
+2019-04-27,Ath Madrid_Valladolid_2018,Valladolid,17,18,35,37
+2019-04-27,Ath Bilbao_Alaves_2018,Alaves,17,18,35,37
+2019-04-27,Leganes_Celta_2018,Celta,17,18,35,37
+2019-04-27,Barcelona_Levante_2018,Barcelona,18,17,35,37
+2019-04-27,Barcelona_Levante_2018,Levante,17,18,35,37
+2019-04-28,Girona_Sevilla_2018,Girona,18,17,35,37
+2019-04-28,Valencia_Eibar_2018,Eibar,17,18,35,37
+2019-04-28,Villarreal_Huesca_2018,Villarreal,18,17,35,37
+2019-04-28,Sociedad_Getafe_2018,Getafe,17,18,35,37
+2019-04-28,Vallecano_Real Madrid_2018,Vallecano,18,17,35,37
+2019-04-28,Valencia_Eibar_2018,Valencia,18,17,35,37
+2019-04-28,Vallecano_Real Madrid_2018,Real Madrid,17,18,35,37
+2019-04-28,Villarreal_Huesca_2018,Huesca,17,18,35,37
+2019-04-28,Sociedad_Getafe_2018,Sociedad,18,17,35,37
+2019-04-28,Girona_Sevilla_2018,Sevilla,17,18,35,37
+2019-04-29,Betis_Espanol_2018,Espanol,17,18,35,37
+2019-04-29,Betis_Espanol_2018,Betis,18,17,35,37
+2019-05-03,Sevilla_Leganes_2018,Leganes,18,18,36,38
+2019-05-03,Sevilla_Leganes_2018,Sevilla,18,18,36,38
+2019-05-04,Alaves_Sociedad_2018,Alaves,18,18,36,38
+2019-05-04,Levante_Vallecano_2018,Vallecano,18,18,36,38
+2019-05-04,Espanol_Ath Madrid_2018,Ath Madrid,18,18,36,38
+2019-05-04,Celta_Barcelona_2018,Barcelona,18,18,36,38
+2019-05-04,Levante_Vallecano_2018,Levante,18,18,36,38
+2019-05-04,Espanol_Ath Madrid_2018,Espanol,18,18,36,38
+2019-05-04,Alaves_Sociedad_2018,Sociedad,18,18,36,38
+2019-05-04,Celta_Barcelona_2018,Celta,18,18,36,38
+2019-05-05,Eibar_Betis_2018,Eibar,18,18,36,38
+2019-05-05,Getafe_Girona_2018,Getafe,18,18,36,38
+2019-05-05,Valladolid_Ath Bilbao_2018,Ath Bilbao,18,18,36,38
+2019-05-05,Eibar_Betis_2018,Betis,18,18,36,38
+2019-05-05,Real Madrid_Villarreal_2018,Real Madrid,18,18,36,38
+2019-05-05,Valladolid_Ath Bilbao_2018,Valladolid,18,18,36,38
+2019-05-05,Huesca_Valencia_2018,Huesca,18,18,36,38
+2019-05-05,Real Madrid_Villarreal_2018,Villarreal,18,18,36,38
+2019-05-05,Huesca_Valencia_2018,Valencia,18,18,36,38
+2019-05-05,Getafe_Girona_2018,Girona,18,18,36,38
+2019-05-12,Valencia_Alaves_2018,Valencia,19,18,37,39
+2019-05-12,Villarreal_Eibar_2018,Eibar,18,19,37,39
+2019-05-12,Barcelona_Getafe_2018,Getafe,18,19,37,39
+2019-05-12,Villarreal_Eibar_2018,Villarreal,19,18,37,39
+2019-05-12,Sociedad_Real Madrid_2018,Sociedad,19,18,37,39
+2019-05-12,Leganes_Espanol_2018,Espanol,18,19,37,39
+2019-05-12,Vallecano_Valladolid_2018,Vallecano,19,18,37,39
+2019-05-12,Girona_Levante_2018,Girona,19,18,37,39
+2019-05-12,Barcelona_Getafe_2018,Barcelona,19,18,37,39
+2019-05-12,Sociedad_Real Madrid_2018,Real Madrid,18,19,37,39
+2019-05-12,Valencia_Alaves_2018,Alaves,18,19,37,39
+2019-05-12,Ath Bilbao_Celta_2018,Celta,18,19,37,39
+2019-05-12,Vallecano_Valladolid_2018,Valladolid,18,19,37,39
+2019-05-12,Leganes_Espanol_2018,Leganes,19,18,37,39
+2019-05-12,Ath Bilbao_Celta_2018,Ath Bilbao,19,18,37,39
+2019-05-12,Ath Madrid_Sevilla_2018,Ath Madrid,19,18,37,39
+2019-05-12,Betis_Huesca_2018,Betis,19,18,37,39
+2019-05-12,Ath Madrid_Sevilla_2018,Sevilla,18,19,37,39
+2019-05-12,Girona_Levante_2018,Levante,18,19,37,39
+2019-05-12,Betis_Huesca_2018,Huesca,18,19,37,39
+2019-05-18,Alaves_Girona_2018,Girona,19,19,38,40
+2019-05-18,Alaves_Girona_2018,Alaves,19,19,38,40
+2019-05-18,Getafe_Villarreal_2018,Villarreal,19,19,38,40
+2019-05-18,Celta_Vallecano_2018,Vallecano,19,19,38,40
+2019-05-18,Getafe_Villarreal_2018,Getafe,19,19,38,40
+2019-05-18,Sevilla_Ath Bilbao_2018,Sevilla,19,19,38,40
+2019-05-18,Levante_Ath Madrid_2018,Ath Madrid,19,19,38,40
+2019-05-18,Huesca_Leganes_2018,Huesca,19,19,38,40
+2019-05-18,Sevilla_Ath Bilbao_2018,Ath Bilbao,19,19,38,40
+2019-05-18,Celta_Vallecano_2018,Celta,19,19,38,40
+2019-05-18,Espanol_Sociedad_2018,Sociedad,19,19,38,40
+2019-05-18,Huesca_Leganes_2018,Leganes,19,19,38,40
+2019-05-18,Valladolid_Valencia_2018,Valladolid,19,19,38,40
+2019-05-18,Levante_Ath Madrid_2018,Levante,19,19,38,40
+2019-05-18,Espanol_Sociedad_2018,Espanol,19,19,38,40
+2019-05-18,Valladolid_Valencia_2018,Valencia,19,19,38,40
+2019-05-19,Eibar_Barcelona_2018,Barcelona,19,19,38,40
+2019-05-19,Eibar_Barcelona_2018,Eibar,19,19,38,40
+2019-05-19,Real Madrid_Betis_2018,Betis,19,19,38,40
+2019-05-19,Real Madrid_Betis_2018,Real Madrid,19,19,38,40

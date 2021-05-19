@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2015-08-08,Bournemouth_Aston Villa_2015,Aston Villa,1,1,1,1
+2015-08-08,Leicester_Sunderland_2015,Sunderland,1,1,1,1
+2015-08-08,Man United_Tottenham_2015,Man United,1,1,1,1
+2015-08-08,Man United_Tottenham_2015,Tottenham,1,1,1,1
+2015-08-08,Chelsea_Swansea_2015,Chelsea,1,1,1,1
+2015-08-08,Everton_Watford_2015,Watford,1,1,1,1
+2015-08-08,Everton_Watford_2015,Everton,1,1,1,1
+2015-08-08,Norwich_Crystal Palace_2015,Crystal Palace,1,1,1,1
+2015-08-08,Leicester_Sunderland_2015,Leicester,1,1,1,1
+2015-08-08,Norwich_Crystal Palace_2015,Norwich,1,1,1,1
+2015-08-08,Chelsea_Swansea_2015,Swansea,1,1,1,1
+2015-08-08,Bournemouth_Aston Villa_2015,Bournemouth,1,1,1,1
+2015-08-09,Arsenal_West Ham_2015,West Ham,1,1,1,1
+2015-08-09,Newcastle_Southampton_2015,Southampton,1,1,1,1
+2015-08-09,Stoke_Liverpool_2015,Stoke,1,1,1,1
+2015-08-09,Stoke_Liverpool_2015,Liverpool,1,1,1,1
+2015-08-09,Arsenal_West Ham_2015,Arsenal,1,1,1,1
+2015-08-09,Newcastle_Southampton_2015,Newcastle,1,1,1,1
+2015-08-10,West Brom_Man City_2015,West Brom,1,1,1,1
+2015-08-10,West Brom_Man City_2015,Man City,1,1,1,1
+2015-08-14,Aston Villa_Man United_2015,Man United,1,1,2,2
+2015-08-14,Aston Villa_Man United_2015,Aston Villa,1,1,2,2
+2015-08-15,Southampton_Everton_2015,Everton,1,1,2,2
+2015-08-15,Southampton_Everton_2015,Southampton,1,1,2,2
+2015-08-15,Watford_West Brom_2015,West Brom,1,1,2,2
+2015-08-15,Tottenham_Stoke_2015,Stoke,1,1,2,2
+2015-08-15,Swansea_Newcastle_2015,Newcastle,1,1,2,2
+2015-08-15,West Ham_Leicester_2015,West Ham,1,1,2,2
+2015-08-15,Sunderland_Norwich_2015,Sunderland,1,1,2,2
+2015-08-15,Swansea_Newcastle_2015,Swansea,1,1,2,2
+2015-08-15,West Ham_Leicester_2015,Leicester,1,1,2,2
+2015-08-15,Sunderland_Norwich_2015,Norwich,1,1,2,2
+2015-08-15,Tottenham_Stoke_2015,Tottenham,1,1,2,2
+2015-08-15,Watford_West Brom_2015,Watford,1,1,2,2
+2015-08-16,Crystal Palace_Arsenal_2015,Arsenal,1,1,2,2
+2015-08-16,Man City_Chelsea_2015,Chelsea,1,1,2,2
+2015-08-16,Crystal Palace_Arsenal_2015,Crystal Palace,1,1,2,2
+2015-08-16,Man City_Chelsea_2015,Man City,1,1,2,2
+2015-08-17,Liverpool_Bournemouth_2015,Liverpool,1,1,2,2
+2015-08-17,Liverpool_Bournemouth_2015,Bournemouth,1,1,2,2
+2015-08-22,West Ham_Bournemouth_2015,West Ham,2,1,3,3
+2015-08-22,Crystal Palace_Aston Villa_2015,Crystal Palace,2,1,3,3
+2015-08-22,Leicester_Tottenham_2015,Leicester,2,1,3,3
+2015-08-22,Norwich_Stoke_2015,Norwich,2,1,3,3
+2015-08-22,Leicester_Tottenham_2015,Tottenham,1,2,3,3
+2015-08-22,Crystal Palace_Aston Villa_2015,Aston Villa,1,2,3,3
+2015-08-22,Sunderland_Swansea_2015,Swansea,1,2,3,3
+2015-08-22,Man United_Newcastle_2015,Man United,2,1,3,3
+2015-08-22,Man United_Newcastle_2015,Newcastle,1,2,3,3
+2015-08-22,West Ham_Bournemouth_2015,Bournemouth,1,2,3,3
+2015-08-22,Norwich_Stoke_2015,Stoke,1,2,3,3
+2015-08-22,Sunderland_Swansea_2015,Sunderland,2,1,3,3
+2015-08-23,Everton_Man City_2015,Man City,1,2,3,3
+2015-08-23,West Brom_Chelsea_2015,West Brom,2,1,3,3
+2015-08-23,Watford_Southampton_2015,Southampton,1,2,3,3
+2015-08-23,Watford_Southampton_2015,Watford,2,1,3,3
+2015-08-23,West Brom_Chelsea_2015,Chelsea,1,2,3,3
+2015-08-23,Everton_Man City_2015,Everton,2,1,3,3
+2015-08-24,Arsenal_Liverpool_2015,Liverpool,1,2,3,3
+2015-08-24,Arsenal_Liverpool_2015,Arsenal,2,1,3,3
+2015-08-29,Liverpool_West Ham_2015,West Ham,2,2,4,4
+2015-08-29,Chelsea_Crystal Palace_2015,Crystal Palace,2,2,4,4
+2015-08-29,Tottenham_Everton_2015,Tottenham,2,2,4,4
+2015-08-29,Stoke_West Brom_2015,Stoke,2,2,4,4
+2015-08-29,Man City_Watford_2015,Watford,2,2,4,4
+2015-08-29,Aston Villa_Sunderland_2015,Sunderland,2,2,4,4
+2015-08-29,Newcastle_Arsenal_2015,Arsenal,2,2,4,4
+2015-08-29,Bournemouth_Leicester_2015,Bournemouth,2,2,4,4
+2015-08-29,Newcastle_Arsenal_2015,Newcastle,2,2,4,4
+2015-08-29,Stoke_West Brom_2015,West Brom,2,2,4,4
+2015-08-29,Man City_Watford_2015,Man City,2,2,4,4
+2015-08-29,Tottenham_Everton_2015,Everton,2,2,4,4
+2015-08-29,Liverpool_West Ham_2015,Liverpool,2,2,4,4
+2015-08-29,Aston Villa_Sunderland_2015,Aston Villa,2,2,4,4
+2015-08-29,Bournemouth_Leicester_2015,Leicester,2,2,4,4
+2015-08-29,Chelsea_Crystal Palace_2015,Chelsea,2,2,4,4
+2015-08-30,Swansea_Man United_2015,Swansea,2,2,4,4
+2015-08-30,Swansea_Man United_2015,Man United,2,2,4,4
+2015-08-30,Southampton_Norwich_2015,Norwich,2,2,4,4
+2015-08-30,Southampton_Norwich_2015,Southampton,2,2,4,4
+2015-09-12,Man United_Liverpool_2015,Liverpool,2,3,5,6
+2015-09-12,West Brom_Southampton_2015,Southampton,2,3,5,6
+2015-09-12,Watford_Swansea_2015,Swansea,2,3,5,6
+2015-09-12,Man United_Liverpool_2015,Man United,3,2,5,6
+2015-09-12,Watford_Swansea_2015,Watford,3,2,5,6
+2015-09-12,Everton_Chelsea_2015,Chelsea,2,3,5,6
+2015-09-12,Crystal Palace_Man City_2015,Crystal Palace,3,2,5,6
+2015-09-12,Norwich_Bournemouth_2015,Norwich,3,2,5,6
+2015-09-12,Arsenal_Stoke_2015,Arsenal,3,2,5,6
+2015-09-12,Arsenal_Stoke_2015,Stoke,2,3,5,6
+2015-09-12,West Brom_Southampton_2015,West Brom,3,2,5,6
+2015-09-12,Crystal Palace_Man City_2015,Man City,2,3,5,6
+2015-09-12,Everton_Chelsea_2015,Everton,3,2,5,6
+2015-09-12,Norwich_Bournemouth_2015,Bournemouth,2,3,5,6
+2015-09-13,Leicester_Aston Villa_2015,Aston Villa,2,3,5,6
+2015-09-13,Leicester_Aston Villa_2015,Leicester,3,2,5,6
+2015-09-13,Sunderland_Tottenham_2015,Sunderland,3,2,5,6
+2015-09-13,Sunderland_Tottenham_2015,Tottenham,2,3,5,6
+2015-09-14,West Ham_Newcastle_2015,West Ham,3,2,5,6
+2015-09-14,West Ham_Newcastle_2015,Newcastle,2,3,5,6
+2015-09-19,Stoke_Leicester_2015,Stoke,3,3,6,7
+2015-09-19,Chelsea_Arsenal_2015,Chelsea,3,3,6,7
+2015-09-19,Man City_West Ham_2015,West Ham,3,3,6,7
+2015-09-19,Stoke_Leicester_2015,Leicester,3,3,6,7
+2015-09-19,Newcastle_Watford_2015,Watford,3,3,6,7
+2015-09-19,Aston Villa_West Brom_2015,Aston Villa,3,3,6,7
+2015-09-19,Bournemouth_Sunderland_2015,Bournemouth,3,3,6,7
+2015-09-19,Newcastle_Watford_2015,Newcastle,3,3,6,7
+2015-09-19,Chelsea_Arsenal_2015,Arsenal,3,3,6,7
+2015-09-19,Bournemouth_Sunderland_2015,Sunderland,3,3,6,7
+2015-09-19,Aston Villa_West Brom_2015,West Brom,3,3,6,7
+2015-09-19,Swansea_Everton_2015,Everton,3,3,6,7
+2015-09-19,Man City_West Ham_2015,Man City,3,3,6,7
+2015-09-19,Swansea_Everton_2015,Swansea,3,3,6,7
+2015-09-20,Southampton_Man United_2015,Man United,3,3,6,7
+2015-09-20,Liverpool_Norwich_2015,Norwich,3,3,6,7
+2015-09-20,Tottenham_Crystal Palace_2015,Crystal Palace,3,3,6,7
+2015-09-20,Liverpool_Norwich_2015,Liverpool,3,3,6,7
+2015-09-20,Southampton_Man United_2015,Southampton,3,3,6,7
+2015-09-20,Tottenham_Crystal Palace_2015,Tottenham,3,3,6,7
+2015-09-26,Tottenham_Man City_2015,Man City,3,4,7,8
+2015-09-26,Leicester_Arsenal_2015,Leicester,4,3,7,8
+2015-09-26,Newcastle_Chelsea_2015,Chelsea,3,4,7,8
+2015-09-26,Leicester_Arsenal_2015,Arsenal,3,4,7,8
+2015-09-26,Stoke_Bournemouth_2015,Bournemouth,3,4,7,8
+2015-09-26,West Ham_Norwich_2015,West Ham,4,3,7,8
+2015-09-26,Southampton_Swansea_2015,Swansea,3,4,7,8
+2015-09-26,West Ham_Norwich_2015,Norwich,3,4,7,8
+2015-09-26,Tottenham_Man City_2015,Tottenham,4,3,7,8
+2015-09-26,Liverpool_Aston Villa_2015,Liverpool,4,3,7,8
+2015-09-26,Southampton_Swansea_2015,Southampton,4,3,7,8
+2015-09-26,Man United_Sunderland_2015,Man United,4,3,7,8
+2015-09-26,Newcastle_Chelsea_2015,Newcastle,4,3,7,8
+2015-09-26,Man United_Sunderland_2015,Sunderland,3,4,7,8
+2015-09-26,Liverpool_Aston Villa_2015,Aston Villa,3,4,7,8
+2015-09-26,Stoke_Bournemouth_2015,Stoke,4,3,7,8
+2015-09-27,Watford_Crystal Palace_2015,Watford,4,3,7,8
+2015-09-27,Watford_Crystal Palace_2015,Crystal Palace,3,4,7,8
+2015-09-28,West Brom_Everton_2015,West Brom,4,3,7,8
+2015-09-28,West Brom_Everton_2015,Everton,3,4,7,8
+2015-10-03,Crystal Palace_West Brom_2015,Crystal Palace,4,4,8,9
+2015-10-03,Norwich_Leicester_2015,Leicester,4,4,8,9
+2015-10-03,Aston Villa_Stoke_2015,Aston Villa,4,4,8,9
+2015-10-03,Sunderland_West Ham_2015,West Ham,4,4,8,9
+2015-10-03,Sunderland_West Ham_2015,Sunderland,4,4,8,9
+2015-10-03,Bournemouth_Watford_2015,Watford,4,4,8,9
+2015-10-03,Man City_Newcastle_2015,Newcastle,4,4,8,9
+2015-10-03,Aston Villa_Stoke_2015,Stoke,4,4,8,9
+2015-10-03,Chelsea_Southampton_2015,Southampton,4,4,8,9
+2015-10-03,Crystal Palace_West Brom_2015,West Brom,4,4,8,9
+2015-10-03,Chelsea_Southampton_2015,Chelsea,4,4,8,9
+2015-10-03,Norwich_Leicester_2015,Norwich,4,4,8,9
+2015-10-03,Man City_Newcastle_2015,Man City,4,4,8,9
+2015-10-03,Bournemouth_Watford_2015,Bournemouth,4,4,8,9
+2015-10-04,Arsenal_Man United_2015,Man United,4,4,8,9
+2015-10-04,Swansea_Tottenham_2015,Tottenham,4,4,8,9
+2015-10-04,Everton_Liverpool_2015,Liverpool,4,4,8,9
+2015-10-04,Swansea_Tottenham_2015,Swansea,4,4,8,9
+2015-10-04,Arsenal_Man United_2015,Arsenal,4,4,8,9
+2015-10-04,Everton_Liverpool_2015,Everton,4,4,8,9
+2015-10-17,Everton_Man United_2015,Everton,5,4,9,11
+2015-10-17,Man City_Bournemouth_2015,Bournemouth,4,5,9,11
+2015-10-17,Crystal Palace_West Ham_2015,West Ham,4,5,9,11
+2015-10-17,Tottenham_Liverpool_2015,Tottenham,5,4,9,11
+2015-10-17,Chelsea_Aston Villa_2015,Chelsea,5,4,9,11
+2015-10-17,Man City_Bournemouth_2015,Man City,5,4,9,11
+2015-10-17,Watford_Arsenal_2015,Watford,5,4,9,11
+2015-10-17,West Brom_Sunderland_2015,Sunderland,4,5,9,11
+2015-10-17,Southampton_Leicester_2015,Leicester,4,5,9,11
+2015-10-17,Chelsea_Aston Villa_2015,Aston Villa,4,5,9,11
+2015-10-17,West Brom_Sunderland_2015,West Brom,5,4,9,11
+2015-10-17,Watford_Arsenal_2015,Arsenal,4,5,9,11
+2015-10-17,Southampton_Leicester_2015,Southampton,5,4,9,11
+2015-10-17,Crystal Palace_West Ham_2015,Crystal Palace,5,4,9,11
+2015-10-17,Everton_Man United_2015,Man United,4,5,9,11
+2015-10-17,Tottenham_Liverpool_2015,Liverpool,4,5,9,11
+2015-10-18,Newcastle_Norwich_2015,Newcastle,5,4,9,11
+2015-10-18,Newcastle_Norwich_2015,Norwich,4,5,9,11
+2015-10-19,Swansea_Stoke_2015,Swansea,5,4,9,11
+2015-10-19,Swansea_Stoke_2015,Stoke,4,5,9,11
+2015-10-24,Arsenal_Everton_2015,Arsenal,5,5,10,12
+2015-10-24,Stoke_Watford_2015,Watford,5,5,10,12
+2015-10-24,Stoke_Watford_2015,Stoke,5,5,10,12
+2015-10-24,Leicester_Crystal Palace_2015,Crystal Palace,5,5,10,12
+2015-10-24,Norwich_West Brom_2015,Norwich,5,5,10,12
+2015-10-24,West Ham_Chelsea_2015,Chelsea,5,5,10,12
+2015-10-24,Aston Villa_Swansea_2015,Aston Villa,5,5,10,12
+2015-10-24,Arsenal_Everton_2015,Everton,5,5,10,12
+2015-10-24,Norwich_West Brom_2015,West Brom,5,5,10,12
+2015-10-24,Leicester_Crystal Palace_2015,Leicester,5,5,10,12
+2015-10-24,West Ham_Chelsea_2015,West Ham,5,5,10,12
+2015-10-24,Aston Villa_Swansea_2015,Swansea,5,5,10,12
+2015-10-25,Bournemouth_Tottenham_2015,Tottenham,5,5,10,12
+2015-10-25,Liverpool_Southampton_2015,Southampton,5,5,10,12
+2015-10-25,Man United_Man City_2015,Man United,5,5,10,12
+2015-10-25,Man United_Man City_2015,Man City,5,5,10,12
+2015-10-25,Sunderland_Newcastle_2015,Newcastle,5,5,10,12
+2015-10-25,Liverpool_Southampton_2015,Liverpool,5,5,10,12
+2015-10-25,Bournemouth_Tottenham_2015,Bournemouth,5,5,10,12
+2015-10-25,Sunderland_Newcastle_2015,Sunderland,5,5,10,12
+2015-10-31,Watford_West Ham_2015,West Ham,5,6,11,13
+2015-10-31,Newcastle_Stoke_2015,Newcastle,6,5,11,13
+2015-10-31,Crystal Palace_Man United_2015,Man United,5,6,11,13
+2015-10-31,West Brom_Leicester_2015,West Brom,6,5,11,13
+2015-10-31,Crystal Palace_Man United_2015,Crystal Palace,6,5,11,13
+2015-10-31,Newcastle_Stoke_2015,Stoke,5,6,11,13
+2015-10-31,Chelsea_Liverpool_2015,Chelsea,6,5,11,13
+2015-10-31,Man City_Norwich_2015,Man City,6,5,11,13
+2015-10-31,Chelsea_Liverpool_2015,Liverpool,5,6,11,13
+2015-10-31,Man City_Norwich_2015,Norwich,5,6,11,13
+2015-10-31,Swansea_Arsenal_2015,Swansea,6,5,11,13
+2015-10-31,West Brom_Leicester_2015,Leicester,5,6,11,13
+2015-10-31,Swansea_Arsenal_2015,Arsenal,5,6,11,13
+2015-10-31,Watford_West Ham_2015,Watford,6,5,11,13
+2015-11-01,Everton_Sunderland_2015,Everton,6,5,11,13
+2015-11-01,Southampton_Bournemouth_2015,Bournemouth,5,6,11,13
+2015-11-01,Everton_Sunderland_2015,Sunderland,5,6,11,13
+2015-11-01,Southampton_Bournemouth_2015,Southampton,6,5,11,13
+2015-11-02,Tottenham_Aston Villa_2015,Tottenham,6,5,11,13
+2015-11-02,Tottenham_Aston Villa_2015,Aston Villa,5,6,11,13
+2015-11-07,Leicester_Watford_2015,Leicester,6,6,12,14
+2015-11-07,Bournemouth_Newcastle_2015,Bournemouth,6,6,12,14
+2015-11-07,West Ham_Everton_2015,Everton,6,6,12,14
+2015-11-07,Man United_West Brom_2015,Man United,6,6,12,14
+2015-11-07,Stoke_Chelsea_2015,Stoke,6,6,12,14
+2015-11-07,Sunderland_Southampton_2015,Southampton,6,6,12,14
+2015-11-07,Man United_West Brom_2015,West Brom,6,6,12,14
+2015-11-07,Leicester_Watford_2015,Watford,6,6,12,14
+2015-11-07,Bournemouth_Newcastle_2015,Newcastle,6,6,12,14
+2015-11-07,Norwich_Swansea_2015,Swansea,6,6,12,14
+2015-11-07,Norwich_Swansea_2015,Norwich,6,6,12,14
+2015-11-07,Sunderland_Southampton_2015,Sunderland,6,6,12,14
+2015-11-07,Stoke_Chelsea_2015,Chelsea,6,6,12,14
+2015-11-07,West Ham_Everton_2015,West Ham,6,6,12,14
+2015-11-08,Arsenal_Tottenham_2015,Arsenal,6,6,12,14
+2015-11-08,Liverpool_Crystal Palace_2015,Crystal Palace,6,6,12,14
+2015-11-08,Aston Villa_Man City_2015,Man City,6,6,12,14
+2015-11-08,Arsenal_Tottenham_2015,Tottenham,6,6,12,14
+2015-11-08,Liverpool_Crystal Palace_2015,Liverpool,6,6,12,14
+2015-11-08,Aston Villa_Man City_2015,Aston Villa,6,6,12,14
+2015-11-21,Southampton_Stoke_2015,Stoke,6,7,13,16
+2015-11-21,Watford_Man United_2015,Watford,7,6,13,16
+2015-11-21,West Brom_Arsenal_2015,West Brom,7,6,13,16
+2015-11-21,Everton_Aston Villa_2015,Everton,7,6,13,16
+2015-11-21,Southampton_Stoke_2015,Southampton,7,6,13,16
+2015-11-21,Everton_Aston Villa_2015,Aston Villa,6,7,13,16
+2015-11-21,Man City_Liverpool_2015,Man City,7,6,13,16
+2015-11-21,Swansea_Bournemouth_2015,Swansea,7,6,13,16
+2015-11-21,West Brom_Arsenal_2015,Arsenal,6,7,13,16
+2015-11-21,Watford_Man United_2015,Man United,6,7,13,16
+2015-11-21,Swansea_Bournemouth_2015,Bournemouth,6,7,13,16
+2015-11-21,Newcastle_Leicester_2015,Leicester,6,7,13,16
+2015-11-21,Chelsea_Norwich_2015,Norwich,6,7,13,16
+2015-11-21,Chelsea_Norwich_2015,Chelsea,7,6,13,16
+2015-11-21,Man City_Liverpool_2015,Liverpool,6,7,13,16
+2015-11-21,Newcastle_Leicester_2015,Newcastle,7,6,13,16
+2015-11-22,Tottenham_West Ham_2015,West Ham,6,7,13,16
+2015-11-22,Tottenham_West Ham_2015,Tottenham,7,6,13,16
+2015-11-23,Crystal Palace_Sunderland_2015,Crystal Palace,7,6,13,16
+2015-11-23,Crystal Palace_Sunderland_2015,Sunderland,6,7,13,16
+2015-11-28,Leicester_Man United_2015,Leicester,7,7,14,17
+2015-11-28,Leicester_Man United_2015,Man United,6,8,14,17
+2015-11-28,Man City_Southampton_2015,Southampton,7,7,14,17
+2015-11-28,Bournemouth_Everton_2015,Bournemouth,7,7,14,17
+2015-11-28,Man City_Southampton_2015,Man City,8,6,14,17
+2015-11-28,Crystal Palace_Newcastle_2015,Newcastle,7,7,14,17
+2015-11-28,Sunderland_Stoke_2015,Sunderland,7,7,14,17
+2015-11-28,Aston Villa_Watford_2015,Watford,7,7,14,17
+2015-11-28,Sunderland_Stoke_2015,Stoke,6,8,14,17
+2015-11-28,Aston Villa_Watford_2015,Aston Villa,7,7,14,17
+2015-11-28,Crystal Palace_Newcastle_2015,Crystal Palace,8,6,14,17
+2015-11-28,Bournemouth_Everton_2015,Everton,7,7,14,17
+2015-11-29,Tottenham_Chelsea_2015,Tottenham,8,6,14,17
+2015-11-29,West Ham_West Brom_2015,West Ham,7,7,14,17
+2015-11-29,West Ham_West Brom_2015,West Brom,7,7,14,17
+2015-11-29,Norwich_Arsenal_2015,Arsenal,6,8,14,17
+2015-11-29,Liverpool_Swansea_2015,Liverpool,7,7,14,17
+2015-11-29,Norwich_Arsenal_2015,Norwich,7,7,14,17
+2015-11-29,Tottenham_Chelsea_2015,Chelsea,7,7,14,17
+2015-11-29,Liverpool_Swansea_2015,Swansea,7,7,14,17
+2015-12-05,Man United_West Ham_2015,West Ham,7,8,15,18
+2015-12-05,Man United_West Ham_2015,Man United,7,8,15,18
+2015-12-05,West Brom_Tottenham_2015,Tottenham,8,7,15,18
+2015-12-05,Southampton_Aston Villa_2015,Southampton,8,7,15,18
+2015-12-05,Swansea_Leicester_2015,Swansea,8,7,15,18
+2015-12-05,West Brom_Tottenham_2015,West Brom,8,7,15,18
+2015-12-05,Watford_Norwich_2015,Watford,8,7,15,18
+2015-12-05,Chelsea_Bournemouth_2015,Chelsea,8,7,15,18
+2015-12-05,Southampton_Aston Villa_2015,Aston Villa,7,8,15,18
+2015-12-05,Swansea_Leicester_2015,Leicester,7,8,15,18
+2015-12-05,Watford_Norwich_2015,Norwich,7,8,15,18
+2015-12-05,Stoke_Man City_2015,Man City,8,7,15,18
+2015-12-05,Stoke_Man City_2015,Stoke,7,8,15,18
+2015-12-05,Arsenal_Sunderland_2015,Sunderland,7,8,15,18
+2015-12-05,Arsenal_Sunderland_2015,Arsenal,7,8,15,18
+2015-12-05,Chelsea_Bournemouth_2015,Bournemouth,7,8,15,18
+2015-12-06,Newcastle_Liverpool_2015,Liverpool,7,8,15,18
+2015-12-06,Newcastle_Liverpool_2015,Newcastle,8,7,15,18
+2015-12-07,Everton_Crystal Palace_2015,Crystal Palace,8,7,15,18
+2015-12-07,Everton_Crystal Palace_2015,Everton,8,7,15,18
+2015-12-12,Crystal Palace_Southampton_2015,Crystal Palace,9,7,16,19
+2015-12-12,Man City_Swansea_2015,Man City,9,7,16,19
+2015-12-12,Sunderland_Watford_2015,Watford,8,8,16,19
+2015-12-12,Sunderland_Watford_2015,Sunderland,8,8,16,19
+2015-12-12,Norwich_Everton_2015,Everton,8,8,16,19
+2015-12-12,Bournemouth_Man United_2015,Man United,7,9,16,19
+2015-12-12,Norwich_Everton_2015,Norwich,8,8,16,19
+2015-12-12,Crystal Palace_Southampton_2015,Southampton,8,8,16,19
+2015-12-12,Bournemouth_Man United_2015,Bournemouth,8,8,16,19
+2015-12-12,Man City_Swansea_2015,Swansea,8,8,16,19
+2015-12-12,West Ham_Stoke_2015,West Ham,8,8,16,19
+2015-12-12,West Ham_Stoke_2015,Stoke,7,9,16,19
+2015-12-13,Tottenham_Newcastle_2015,Tottenham,9,7,16,19
+2015-12-13,Aston Villa_Arsenal_2015,Aston Villa,8,8,16,19
+2015-12-13,Liverpool_West Brom_2015,West Brom,8,8,16,19
+2015-12-13,Aston Villa_Arsenal_2015,Arsenal,7,9,16,19
+2015-12-13,Liverpool_West Brom_2015,Liverpool,8,8,16,19
+2015-12-13,Tottenham_Newcastle_2015,Newcastle,8,8,16,19
+2015-12-14,Leicester_Chelsea_2015,Chelsea,8,8,16,19
+2015-12-14,Leicester_Chelsea_2015,Leicester,8,8,16,19
+2015-12-19,Newcastle_Aston Villa_2015,Aston Villa,8,9,17,20
+2015-12-19,Chelsea_Sunderland_2015,Sunderland,8,9,17,20
+2015-12-19,Newcastle_Aston Villa_2015,Newcastle,9,8,17,20
+2015-12-19,Southampton_Tottenham_2015,Southampton,9,8,17,20
+2015-12-19,Man United_Norwich_2015,Norwich,8,9,17,20
+2015-12-19,Chelsea_Sunderland_2015,Chelsea,9,8,17,20
+2015-12-19,Stoke_Crystal Palace_2015,Crystal Palace,9,8,17,20
+2015-12-19,West Brom_Bournemouth_2015,West Brom,9,8,17,20
+2015-12-19,West Brom_Bournemouth_2015,Bournemouth,8,9,17,20
+2015-12-19,Everton_Leicester_2015,Everton,9,8,17,20
+2015-12-19,Everton_Leicester_2015,Leicester,8,9,17,20
+2015-12-19,Stoke_Crystal Palace_2015,Stoke,8,9,17,20
+2015-12-19,Southampton_Tottenham_2015,Tottenham,9,8,17,20
+2015-12-19,Man United_Norwich_2015,Man United,8,9,17,20
+2015-12-20,Swansea_West Ham_2015,Swansea,9,8,17,20
+2015-12-20,Watford_Liverpool_2015,Liverpool,8,9,17,20
+2015-12-20,Watford_Liverpool_2015,Watford,9,8,17,20
+2015-12-20,Swansea_West Ham_2015,West Ham,8,9,17,20
+2015-12-21,Arsenal_Man City_2015,Arsenal,8,9,17,20
+2015-12-21,Arsenal_Man City_2015,Man City,9,8,17,20
+2015-12-26,Chelsea_Watford_2015,Chelsea,10,8,18,21
+2015-12-26,Tottenham_Norwich_2015,Norwich,8,10,18,21
+2015-12-26,Tottenham_Norwich_2015,Tottenham,10,8,18,21
+2015-12-26,Swansea_West Brom_2015,Swansea,10,8,18,21
+2015-12-26,Swansea_West Brom_2015,West Brom,9,9,18,21
+2015-12-26,Bournemouth_Crystal Palace_2015,Bournemouth,9,9,18,21
+2015-12-26,Newcastle_Everton_2015,Newcastle,10,8,18,21
+2015-12-26,Aston Villa_West Ham_2015,West Ham,8,10,18,21
+2015-12-26,Newcastle_Everton_2015,Everton,9,9,18,21
+2015-12-26,Liverpool_Leicester_2015,Leicester,8,10,18,21
+2015-12-26,Stoke_Man United_2015,Man United,8,10,18,21
+2015-12-26,Stoke_Man United_2015,Stoke,9,9,18,21
+2015-12-26,Liverpool_Leicester_2015,Liverpool,9,9,18,21
+2015-12-26,Man City_Sunderland_2015,Man City,10,8,18,21
+2015-12-26,Man City_Sunderland_2015,Sunderland,8,10,18,21
+2015-12-26,Southampton_Arsenal_2015,Arsenal,8,10,18,21
+2015-12-26,Aston Villa_West Ham_2015,Aston Villa,9,9,18,21
+2015-12-26,Bournemouth_Crystal Palace_2015,Crystal Palace,9,9,18,21
+2015-12-26,Southampton_Arsenal_2015,Southampton,10,8,18,21
+2015-12-26,Chelsea_Watford_2015,Watford,9,9,18,21
+2015-12-28,Watford_Tottenham_2015,Watford,10,9,19,21
+2015-12-28,Everton_Stoke_2015,Everton,10,9,19,21
+2015-12-28,West Ham_Southampton_2015,West Ham,9,10,19,21
+2015-12-28,Crystal Palace_Swansea_2015,Swansea,10,9,19,21
+2015-12-28,Crystal Palace_Swansea_2015,Crystal Palace,10,9,19,21
+2015-12-28,Arsenal_Bournemouth_2015,Bournemouth,9,10,19,21
+2015-12-28,West Brom_Newcastle_2015,Newcastle,10,9,19,21
+2015-12-28,Man United_Chelsea_2015,Chelsea,10,9,19,21
+2015-12-28,Watford_Tottenham_2015,Tottenham,10,9,19,21
+2015-12-28,Norwich_Aston Villa_2015,Aston Villa,9,10,19,21
+2015-12-28,Everton_Stoke_2015,Stoke,9,10,19,21
+2015-12-28,Arsenal_Bournemouth_2015,Arsenal,9,10,19,21
+2015-12-28,Man United_Chelsea_2015,Man United,9,10,19,21
+2015-12-28,West Brom_Newcastle_2015,West Brom,10,9,19,21
+2015-12-28,West Ham_Southampton_2015,Southampton,10,9,19,21
+2015-12-28,Norwich_Aston Villa_2015,Norwich,9,10,19,21
+2015-12-29,Leicester_Man City_2015,Leicester,9,10,19,22
+2015-12-29,Leicester_Man City_2015,Man City,10,9,19,22
+2015-12-30,Sunderland_Liverpool_2015,Sunderland,9,10,19,22
+2015-12-30,Sunderland_Liverpool_2015,Liverpool,9,10,19,22
+2016-01-02,Watford_Man City_2015,Watford,11,9,20,22
+2016-01-02,Norwich_Southampton_2015,Norwich,10,10,20,22
+2016-01-02,Man United_Swansea_2015,Swansea,10,10,20,22
+2016-01-02,Sunderland_Aston Villa_2015,Sunderland,10,10,20,22
+2016-01-02,Leicester_Bournemouth_2015,Leicester,10,10,20,22
+2016-01-02,Norwich_Southampton_2015,Southampton,10,10,20,22
+2016-01-02,Arsenal_Newcastle_2015,Arsenal,10,10,20,22
+2016-01-02,Arsenal_Newcastle_2015,Newcastle,10,10,20,22
+2016-01-02,West Ham_Liverpool_2015,Liverpool,9,11,20,22
+2016-01-02,Watford_Man City_2015,Man City,10,10,20,22
+2016-01-02,Sunderland_Aston Villa_2015,Aston Villa,9,11,20,22
+2016-01-02,West Brom_Stoke_2015,West Brom,11,9,20,22
+2016-01-02,West Ham_Liverpool_2015,West Ham,10,10,20,22
+2016-01-02,West Brom_Stoke_2015,Stoke,9,11,20,22
+2016-01-02,Man United_Swansea_2015,Man United,10,10,20,22
+2016-01-02,Leicester_Bournemouth_2015,Bournemouth,9,11,20,22
+2016-01-03,Everton_Tottenham_2015,Everton,11,9,20,22
+2016-01-03,Crystal Palace_Chelsea_2015,Chelsea,10,10,20,22
+2016-01-03,Everton_Tottenham_2015,Tottenham,10,10,20,22
+2016-01-03,Crystal Palace_Chelsea_2015,Crystal Palace,11,9,20,22
+2016-01-12,Bournemouth_West Ham_2015,West Ham,10,11,21,24
+2016-01-12,Newcastle_Man United_2015,Man United,10,11,21,24
+2016-01-12,Aston Villa_Crystal Palace_2015,Crystal Palace,11,10,21,24
+2016-01-12,Newcastle_Man United_2015,Newcastle,11,10,21,24
+2016-01-12,Aston Villa_Crystal Palace_2015,Aston Villa,10,11,21,24
+2016-01-12,Bournemouth_West Ham_2015,Bournemouth,10,11,21,24
+2016-01-13,Liverpool_Arsenal_2015,Arsenal,10,11,21,24
+2016-01-13,Stoke_Norwich_2015,Norwich,10,11,21,24
+2016-01-13,Swansea_Sunderland_2015,Sunderland,10,11,21,24
+2016-01-13,Man City_Everton_2015,Man City,11,10,21,24
+2016-01-13,Stoke_Norwich_2015,Stoke,10,11,21,24
+2016-01-13,Tottenham_Leicester_2015,Leicester,10,11,21,24
+2016-01-13,Swansea_Sunderland_2015,Swansea,11,10,21,24
+2016-01-13,Tottenham_Leicester_2015,Tottenham,11,10,21,24
+2016-01-13,Man City_Everton_2015,Everton,11,10,21,24
+2016-01-13,Southampton_Watford_2015,Southampton,11,10,21,24
+2016-01-13,Southampton_Watford_2015,Watford,11,10,21,24
+2016-01-13,Liverpool_Arsenal_2015,Liverpool,10,11,21,24
+2016-01-13,Chelsea_West Brom_2015,West Brom,11,10,21,24
+2016-01-13,Chelsea_West Brom_2015,Chelsea,11,10,21,24
+2016-01-16,Southampton_West Brom_2015,Southampton,12,10,22,24
+2016-01-16,Bournemouth_Norwich_2015,Bournemouth,11,11,22,24
+2016-01-16,Tottenham_Sunderland_2015,Tottenham,12,10,22,24
+2016-01-16,Aston Villa_Leicester_2015,Leicester,10,12,22,24
+2016-01-16,Tottenham_Sunderland_2015,Sunderland,10,12,22,24
+2016-01-16,Chelsea_Everton_2015,Chelsea,12,10,22,24
+2016-01-16,Bournemouth_Norwich_2015,Norwich,10,12,22,24
+2016-01-16,Newcastle_West Ham_2015,West Ham,10,12,22,24
+2016-01-16,Chelsea_Everton_2015,Everton,11,11,22,24
+2016-01-16,Southampton_West Brom_2015,West Brom,11,11,22,24
+2016-01-16,Man City_Crystal Palace_2015,Crystal Palace,11,11,22,24
+2016-01-16,Aston Villa_Leicester_2015,Aston Villa,11,11,22,24
+2016-01-16,Man City_Crystal Palace_2015,Man City,12,10,22,24
+2016-01-16,Newcastle_West Ham_2015,Newcastle,12,10,22,24
+2016-01-17,Stoke_Arsenal_2015,Stoke,11,11,22,24
+2016-01-17,Liverpool_Man United_2015,Liverpool,11,11,22,24
+2016-01-17,Liverpool_Man United_2015,Man United,10,12,22,24
+2016-01-17,Stoke_Arsenal_2015,Arsenal,10,12,22,24
+2016-01-18,Swansea_Watford_2015,Swansea,12,10,22,24
+2016-01-18,Swansea_Watford_2015,Watford,11,11,22,24
+2016-01-23,Man United_Southampton_2015,Man United,11,12,23,25
+2016-01-23,West Brom_Aston Villa_2015,Aston Villa,11,12,23,25
+2016-01-23,West Ham_Man City_2015,West Ham,11,12,23,25
+2016-01-23,Leicester_Stoke_2015,Stoke,11,12,23,25
+2016-01-23,Sunderland_Bournemouth_2015,Bournemouth,11,12,23,25
+2016-01-23,Watford_Newcastle_2015,Watford,12,11,23,25
+2016-01-23,Man United_Southampton_2015,Southampton,12,11,23,25
+2016-01-23,Watford_Newcastle_2015,Newcastle,12,11,23,25
+2016-01-23,West Ham_Man City_2015,Man City,12,11,23,25
+2016-01-23,Crystal Palace_Tottenham_2015,Tottenham,12,11,23,25
+2016-01-23,Crystal Palace_Tottenham_2015,Crystal Palace,12,11,23,25
+2016-01-23,West Brom_Aston Villa_2015,West Brom,12,11,23,25
+2016-01-23,Sunderland_Bournemouth_2015,Sunderland,11,12,23,25
+2016-01-23,Norwich_Liverpool_2015,Liverpool,11,12,23,25
+2016-01-23,Leicester_Stoke_2015,Leicester,11,12,23,25
+2016-01-23,Norwich_Liverpool_2015,Norwich,11,12,23,25
+2016-01-24,Arsenal_Chelsea_2015,Arsenal,11,12,23,25
+2016-01-24,Everton_Swansea_2015,Swansea,12,11,23,25
+2016-01-24,Everton_Swansea_2015,Everton,12,11,23,25
+2016-01-24,Arsenal_Chelsea_2015,Chelsea,12,11,23,25
+2016-02-02,West Ham_Aston Villa_2015,West Ham,12,12,24,27
+2016-02-02,Crystal Palace_Bournemouth_2015,Bournemouth,11,13,24,27
+2016-02-02,West Brom_Swansea_2015,West Brom,13,11,24,27
+2016-02-02,Crystal Palace_Bournemouth_2015,Crystal Palace,13,11,24,27
+2016-02-02,Man United_Stoke_2015,Stoke,11,13,24,27
+2016-02-02,Man United_Stoke_2015,Man United,12,12,24,27
+2016-02-02,Leicester_Liverpool_2015,Liverpool,11,13,24,27
+2016-02-02,West Brom_Swansea_2015,Swansea,12,12,24,27
+2016-02-02,Sunderland_Man City_2015,Sunderland,12,12,24,27
+2016-02-02,Arsenal_Southampton_2015,Southampton,12,12,24,27
+2016-02-02,Sunderland_Man City_2015,Man City,12,12,24,27
+2016-02-02,Norwich_Tottenham_2015,Norwich,12,12,24,27
+2016-02-02,Arsenal_Southampton_2015,Arsenal,12,12,24,27
+2016-02-02,West Ham_Aston Villa_2015,Aston Villa,11,13,24,27
+2016-02-02,Norwich_Tottenham_2015,Tottenham,12,12,24,27
+2016-02-02,Leicester_Liverpool_2015,Leicester,12,12,24,27
+2016-02-03,Watford_Chelsea_2015,Chelsea,12,12,24,27
+2016-02-03,Watford_Chelsea_2015,Watford,13,11,24,27
+2016-02-03,Everton_Newcastle_2015,Everton,13,11,24,27
+2016-02-03,Everton_Newcastle_2015,Newcastle,12,12,24,27
+2016-02-06,Swansea_Crystal Palace_2015,Crystal Palace,13,12,25,27
+2016-02-06,Southampton_West Ham_2015,West Ham,12,13,25,27
+2016-02-06,Man City_Leicester_2015,Man City,13,12,25,27
+2016-02-06,Aston Villa_Norwich_2015,Aston Villa,12,13,25,27
+2016-02-06,Newcastle_West Brom_2015,West Brom,13,12,25,27
+2016-02-06,Stoke_Everton_2015,Stoke,12,13,25,27
+2016-02-06,Liverpool_Sunderland_2015,Liverpool,12,13,25,27
+2016-02-06,Newcastle_West Brom_2015,Newcastle,13,12,25,27
+2016-02-06,Tottenham_Watford_2015,Tottenham,13,12,25,27
+2016-02-06,Tottenham_Watford_2015,Watford,13,12,25,27
+2016-02-06,Stoke_Everton_2015,Everton,13,12,25,27
+2016-02-06,Liverpool_Sunderland_2015,Sunderland,12,13,25,27
+2016-02-06,Swansea_Crystal Palace_2015,Swansea,13,12,25,27
+2016-02-06,Aston Villa_Norwich_2015,Norwich,12,13,25,27
+2016-02-06,Man City_Leicester_2015,Leicester,12,13,25,27
+2016-02-06,Southampton_West Ham_2015,Southampton,13,12,25,27
+2016-02-07,Bournemouth_Arsenal_2015,Arsenal,12,13,25,27
+2016-02-07,Bournemouth_Arsenal_2015,Bournemouth,12,13,25,27
+2016-02-07,Chelsea_Man United_2015,Chelsea,13,12,25,27
+2016-02-07,Chelsea_Man United_2015,Man United,12,13,25,27
+2016-02-13,Everton_West Brom_2015,Everton,14,12,26,28
+2016-02-13,Everton_West Brom_2015,West Brom,13,13,26,28
+2016-02-13,Sunderland_Man United_2015,Sunderland,13,13,26,28
+2016-02-13,Bournemouth_Stoke_2015,Stoke,12,14,26,28
+2016-02-13,Norwich_West Ham_2015,Norwich,13,13,26,28
+2016-02-13,Chelsea_Newcastle_2015,Newcastle,13,13,26,28
+2016-02-13,Norwich_West Ham_2015,West Ham,12,14,26,28
+2016-02-13,Bournemouth_Stoke_2015,Bournemouth,13,13,26,28
+2016-02-13,Swansea_Southampton_2015,Southampton,13,13,26,28
+2016-02-13,Crystal Palace_Watford_2015,Crystal Palace,14,12,26,28
+2016-02-13,Crystal Palace_Watford_2015,Watford,13,13,26,28
+2016-02-13,Swansea_Southampton_2015,Swansea,14,12,26,28
+2016-02-13,Chelsea_Newcastle_2015,Chelsea,14,12,26,28
+2016-02-13,Sunderland_Man United_2015,Man United,12,14,26,28
+2016-02-14,Aston Villa_Liverpool_2015,Aston Villa,13,13,26,28
+2016-02-14,Man City_Tottenham_2015,Tottenham,13,13,26,28
+2016-02-14,Aston Villa_Liverpool_2015,Liverpool,12,14,26,28
+2016-02-14,Arsenal_Leicester_2015,Leicester,12,14,26,28
+2016-02-14,Arsenal_Leicester_2015,Arsenal,13,13,26,28
+2016-02-14,Man City_Tottenham_2015,Man City,14,12,26,28
+2016-02-27,Leicester_Norwich_2015,Norwich,13,14,27,30
+2016-02-27,Stoke_Aston Villa_2015,Stoke,13,14,27,30
+2016-02-27,West Ham_Sunderland_2015,Sunderland,13,14,27,30
+2016-02-27,Watford_Bournemouth_2015,Watford,14,13,27,30
+2016-02-27,Stoke_Aston Villa_2015,Aston Villa,13,14,27,30
+2016-02-27,West Ham_Sunderland_2015,West Ham,13,14,27,30
+2016-02-27,West Brom_Crystal Palace_2015,West Brom,14,13,27,30
+2016-02-27,Southampton_Chelsea_2015,Southampton,14,13,27,30
+2016-02-27,Watford_Bournemouth_2015,Bournemouth,13,14,27,30
+2016-02-27,Leicester_Norwich_2015,Leicester,13,14,27,30
+2016-02-27,Southampton_Chelsea_2015,Chelsea,14,13,27,30
+2016-02-27,West Brom_Crystal Palace_2015,Crystal Palace,14,13,27,30
+2016-02-28,Man United_Arsenal_2015,Arsenal,13,14,27,30
+2016-02-28,Tottenham_Swansea_2015,Tottenham,14,13,27,30
+2016-02-28,Man United_Arsenal_2015,Man United,13,14,27,30
+2016-02-28,Tottenham_Swansea_2015,Swansea,14,13,27,30
+2016-03-01,Leicester_West Brom_2015,Leicester,14,14,28,31
+2016-03-01,Aston Villa_Everton_2015,Aston Villa,14,14,28,31
+2016-03-01,Sunderland_Crystal Palace_2015,Crystal Palace,14,14,28,31
+2016-03-01,Aston Villa_Everton_2015,Everton,14,13,27,31
+2016-03-01,Bournemouth_Southampton_2015,Southampton,14,14,28,31
+2016-03-01,Sunderland_Crystal Palace_2015,Sunderland,14,14,28,31
+2016-03-01,Norwich_Chelsea_2015,Norwich,14,14,28,31
+2016-03-01,Norwich_Chelsea_2015,Chelsea,14,14,28,31
+2016-03-01,Bournemouth_Southampton_2015,Bournemouth,14,14,28,31
+2016-03-01,Leicester_West Brom_2015,West Brom,14,14,28,31
+2016-03-02,Man United_Watford_2015,Man United,14,14,28,31
+2016-03-02,Arsenal_Swansea_2015,Swansea,14,14,28,31
+2016-03-02,West Ham_Tottenham_2015,West Ham,14,14,28,31
+2016-03-02,West Ham_Tottenham_2015,Tottenham,14,14,28,31
+2016-03-02,Stoke_Newcastle_2015,Stoke,14,14,28,31
+2016-03-02,Arsenal_Swansea_2015,Arsenal,14,14,28,31
+2016-03-02,Man United_Watford_2015,Watford,14,14,28,31
+2016-03-02,Stoke_Newcastle_2015,Newcastle,13,14,27,31
+2016-03-02,Liverpool_Man City_2015,Liverpool,13,14,27,31
+2016-03-02,Liverpool_Man City_2015,Man City,14,13,27,31
+2016-03-05,Newcastle_Bournemouth_2015,Newcastle,14,14,28,31
+2016-03-05,Man City_Aston Villa_2015,Man City,15,13,28,31
+2016-03-05,Tottenham_Arsenal_2015,Arsenal,14,15,29,31
+2016-03-05,Swansea_Norwich_2015,Swansea,15,14,29,31
+2016-03-05,Man City_Aston Villa_2015,Aston Villa,14,15,29,31
+2016-03-05,Swansea_Norwich_2015,Norwich,14,15,29,31
+2016-03-05,Watford_Leicester_2015,Leicester,14,15,29,31
+2016-03-05,Everton_West Ham_2015,Everton,15,13,28,31
+2016-03-05,Everton_West Ham_2015,West Ham,14,15,29,31
+2016-03-05,Tottenham_Arsenal_2015,Tottenham,15,14,29,31
+2016-03-05,Southampton_Sunderland_2015,Southampton,15,14,29,31
+2016-03-05,Watford_Leicester_2015,Watford,15,14,29,31
+2016-03-05,Southampton_Sunderland_2015,Sunderland,14,15,29,31
+2016-03-05,Chelsea_Stoke_2015,Chelsea,15,14,29,31
+2016-03-05,Chelsea_Stoke_2015,Stoke,14,15,29,31
+2016-03-05,Newcastle_Bournemouth_2015,Bournemouth,14,15,29,31
+2016-03-06,West Brom_Man United_2015,West Brom,15,14,29,31
+2016-03-06,Crystal Palace_Liverpool_2015,Crystal Palace,15,14,29,31
+2016-03-06,Crystal Palace_Liverpool_2015,Liverpool,13,15,28,31
+2016-03-06,West Brom_Man United_2015,Man United,14,15,29,31
+2016-03-12,Bournemouth_Swansea_2015,Bournemouth,15,15,30,32
+2016-03-12,Norwich_Man City_2015,Man City,15,14,29,32
+2016-03-12,Norwich_Man City_2015,Norwich,15,15,30,32
+2016-03-12,Stoke_Southampton_2015,Stoke,15,15,30,32
+2016-03-12,Bournemouth_Swansea_2015,Swansea,15,15,30,32
+2016-03-12,Stoke_Southampton_2015,Southampton,15,15,30,32
+2016-03-13,Aston Villa_Tottenham_2015,Aston Villa,15,15,30,32
+2016-03-13,Aston Villa_Tottenham_2015,Tottenham,15,15,30,32
+2016-03-14,Leicester_Newcastle_2015,Newcastle,14,15,29,32
+2016-03-14,Leicester_Newcastle_2015,Leicester,15,15,30,32
+2016-03-19,Everton_Arsenal_2015,Arsenal,14,16,30,33
+2016-03-19,Crystal Palace_Leicester_2015,Leicester,15,16,31,33
+2016-03-19,Watford_Stoke_2015,Watford,16,14,30,33
+2016-03-19,Crystal Palace_Leicester_2015,Crystal Palace,16,14,30,33
+2016-03-19,Watford_Stoke_2015,Stoke,15,16,31,33
+2016-03-19,Swansea_Aston Villa_2015,Swansea,16,15,31,33
+2016-03-19,West Brom_Norwich_2015,Norwich,15,16,31,33
+2016-03-19,Everton_Arsenal_2015,Everton,16,13,29,33
+2016-03-19,Chelsea_West Ham_2015,Chelsea,16,14,30,33
+2016-03-19,Swansea_Aston Villa_2015,Aston Villa,15,16,31,33
+2016-03-19,Chelsea_West Ham_2015,West Ham,14,16,30,33
+2016-03-19,West Brom_Norwich_2015,West Brom,16,14,30,33
+2016-03-20,Tottenham_Bournemouth_2015,Bournemouth,15,16,31,33
+2016-03-20,Man City_Man United_2015,Man United,14,16,30,33
+2016-03-20,Newcastle_Sunderland_2015,Sunderland,14,16,30,33
+2016-03-20,Tottenham_Bournemouth_2015,Tottenham,16,15,31,33
+2016-03-20,Southampton_Liverpool_2015,Southampton,16,15,31,33
+2016-03-20,Newcastle_Sunderland_2015,Newcastle,15,15,30,33
+2016-03-20,Southampton_Liverpool_2015,Liverpool,13,16,29,33
+2016-03-20,Man City_Man United_2015,Man City,16,14,30,33
+2016-04-02,Arsenal_Watford_2015,Arsenal,15,16,31,35
+2016-04-02,West Ham_Crystal Palace_2015,West Ham,15,16,31,35
+2016-04-02,Stoke_Swansea_2015,Stoke,16,16,32,35
+2016-04-02,Aston Villa_Chelsea_2015,Aston Villa,16,16,32,35
+2016-04-02,Arsenal_Watford_2015,Watford,16,15,31,35
+2016-04-02,Liverpool_Tottenham_2015,Tottenham,16,16,32,35
+2016-04-02,Liverpool_Tottenham_2015,Liverpool,14,16,30,35
+2016-04-02,Sunderland_West Brom_2015,Sunderland,15,16,31,35
+2016-04-02,Norwich_Newcastle_2015,Norwich,16,16,32,35
+2016-04-02,West Ham_Crystal Palace_2015,Crystal Palace,16,15,31,35
+2016-04-02,Bournemouth_Man City_2015,Man City,16,15,31,35
+2016-04-02,Norwich_Newcastle_2015,Newcastle,15,16,31,35
+2016-04-02,Sunderland_West Brom_2015,West Brom,16,15,31,35
+2016-04-02,Bournemouth_Man City_2015,Bournemouth,16,16,32,35
+2016-04-02,Aston Villa_Chelsea_2015,Chelsea,16,15,31,35
+2016-04-02,Stoke_Swansea_2015,Swansea,16,16,32,35
+2016-04-03,Man United_Everton_2015,Everton,16,14,30,35
+2016-04-03,Leicester_Southampton_2015,Leicester,16,16,32,35
+2016-04-03,Man United_Everton_2015,Man United,15,16,31,35
+2016-04-03,Leicester_Southampton_2015,Southampton,16,16,32,35
+2016-04-09,Man City_West Brom_2015,West Brom,16,16,32,36
+2016-04-09,Crystal Palace_Norwich_2015,Crystal Palace,17,15,32,36
+2016-04-09,Watford_Everton_2015,Everton,16,15,31,36
+2016-04-09,Watford_Everton_2015,Watford,17,15,32,36
+2016-04-09,Crystal Palace_Norwich_2015,Norwich,16,17,33,36
+2016-04-09,Swansea_Chelsea_2015,Chelsea,16,16,32,36
+2016-04-09,Southampton_Newcastle_2015,Southampton,17,16,33,36
+2016-04-09,Aston Villa_Bournemouth_2015,Aston Villa,17,16,33,36
+2016-04-09,Man City_West Brom_2015,Man City,17,15,32,36
+2016-04-09,West Ham_Arsenal_2015,Arsenal,15,17,32,36
+2016-04-09,Aston Villa_Bournemouth_2015,Bournemouth,16,17,33,36
+2016-04-09,Southampton_Newcastle_2015,Newcastle,15,17,32,36
+2016-04-09,West Ham_Arsenal_2015,West Ham,16,16,32,36
+2016-04-09,Swansea_Chelsea_2015,Swansea,17,16,33,36
+2016-04-10,Sunderland_Leicester_2015,Sunderland,16,16,32,36
+2016-04-10,Liverpool_Stoke_2015,Stoke,16,17,33,36
+2016-04-10,Tottenham_Man United_2015,Tottenham,17,16,33,36
+2016-04-10,Liverpool_Stoke_2015,Liverpool,15,16,31,36
+2016-04-10,Tottenham_Man United_2015,Man United,15,17,32,36
+2016-04-10,Sunderland_Leicester_2015,Leicester,16,17,33,36
+2016-04-13,Crystal Palace_Everton_2015,Everton,16,16,32,37
+2016-04-13,Crystal Palace_Everton_2015,Crystal Palace,18,15,33,37
+2016-04-16,Chelsea_Man City_2015,Chelsea,17,16,33,37
+2016-04-16,Newcastle_Swansea_2015,Swansea,17,17,34,37
+2016-04-16,Man United_Aston Villa_2015,Man United,16,17,33,37
+2016-04-16,Norwich_Sunderland_2015,Sunderland,16,17,33,37
+2016-04-16,West Brom_Watford_2015,West Brom,17,16,33,37
+2016-04-16,Norwich_Sunderland_2015,Norwich,17,17,34,37
+2016-04-16,Everton_Southampton_2015,Everton,17,16,33,37
+2016-04-16,Chelsea_Man City_2015,Man City,17,16,33,37
+2016-04-16,Newcastle_Swansea_2015,Newcastle,16,17,33,37
+2016-04-16,Man United_Aston Villa_2015,Aston Villa,17,17,34,37
+2016-04-16,Everton_Southampton_2015,Southampton,17,17,34,37
+2016-04-16,West Brom_Watford_2015,Watford,17,16,33,37
+2016-04-17,Leicester_West Ham_2015,West Ham,16,17,33,37
+2016-04-17,Bournemouth_Liverpool_2015,Liverpool,15,17,32,37
+2016-04-17,Arsenal_Crystal Palace_2015,Crystal Palace,18,16,34,37
+2016-04-17,Leicester_West Ham_2015,Leicester,17,17,34,37
+2016-04-17,Bournemouth_Liverpool_2015,Bournemouth,17,17,34,37
+2016-04-17,Arsenal_Crystal Palace_2015,Arsenal,16,17,33,37
+2016-04-18,Stoke_Tottenham_2015,Stoke,17,17,34,37
+2016-04-18,Stoke_Tottenham_2015,Tottenham,17,17,34,37
+2016-04-19,Newcastle_Man City_2015,Newcastle,17,17,34,38
+2016-04-19,Newcastle_Man City_2015,Man City,17,17,34,38
+2016-04-20,Man United_Crystal Palace_2015,Crystal Palace,18,17,35,38
+2016-04-20,Man United_Crystal Palace_2015,Man United,17,17,34,38
+2016-04-20,Liverpool_Everton_2015,Liverpool,16,17,33,38
+2016-04-20,West Ham_Watford_2015,Watford,17,17,34,38
+2016-04-20,Liverpool_Everton_2015,Everton,17,17,34,38
+2016-04-20,West Ham_Watford_2015,West Ham,17,17,34,38
+2016-04-21,Arsenal_West Brom_2015,Arsenal,17,17,34,38
+2016-04-21,Arsenal_West Brom_2015,West Brom,17,17,34,38
+2016-04-23,Aston Villa_Southampton_2015,Aston Villa,18,17,35,38
+2016-04-23,Aston Villa_Southampton_2015,Southampton,17,18,35,38
+2016-04-23,Bournemouth_Chelsea_2015,Bournemouth,18,17,35,38
+2016-04-23,Bournemouth_Chelsea_2015,Chelsea,17,17,34,38
+2016-04-23,Man City_Stoke_2015,Man City,18,17,35,38
+2016-04-23,Liverpool_Newcastle_2015,Liverpool,17,17,34,38
+2016-04-23,Liverpool_Newcastle_2015,Newcastle,17,18,35,38
+2016-04-23,Man City_Stoke_2015,Stoke,17,18,35,38
+2016-04-24,Leicester_Swansea_2015,Leicester,18,17,35,38
+2016-04-24,Leicester_Swansea_2015,Swansea,17,18,35,38
+2016-04-24,Sunderland_Arsenal_2015,Arsenal,17,18,35,38
+2016-04-24,Sunderland_Arsenal_2015,Sunderland,17,17,34,38
+2016-04-25,Tottenham_West Brom_2015,West Brom,17,18,35,38
+2016-04-25,Tottenham_West Brom_2015,Tottenham,18,17,35,38
+2016-04-30,Newcastle_Crystal Palace_2015,Crystal Palace,18,18,36,39
+2016-04-30,Stoke_Sunderland_2015,Sunderland,17,18,35,39
+2016-04-30,Stoke_Sunderland_2015,Stoke,18,18,36,39
+2016-04-30,Newcastle_Crystal Palace_2015,Newcastle,18,18,36,39
+2016-04-30,Watford_Aston Villa_2015,Aston Villa,18,18,36,39
+2016-04-30,Everton_Bournemouth_2015,Bournemouth,18,18,36,39
+2016-04-30,West Brom_West Ham_2015,West Brom,18,18,36,39
+2016-04-30,Arsenal_Norwich_2015,Arsenal,18,18,36,39
+2016-04-30,Arsenal_Norwich_2015,Norwich,17,18,35,39
+2016-04-30,Everton_Bournemouth_2015,Everton,18,17,35,39
+2016-04-30,Watford_Aston Villa_2015,Watford,18,17,35,39
+2016-04-30,West Brom_West Ham_2015,West Ham,17,18,35,39
+2016-05-01,Swansea_Liverpool_2015,Liverpool,17,18,35,39
+2016-05-01,Southampton_Man City_2015,Man City,18,18,36,39
+2016-05-01,Man United_Leicester_2015,Leicester,18,18,36,39
+2016-05-01,Swansea_Liverpool_2015,Swansea,18,18,36,39
+2016-05-01,Southampton_Man City_2015,Southampton,18,18,36,39
+2016-05-01,Man United_Leicester_2015,Man United,18,17,35,39
+2016-05-02,Chelsea_Tottenham_2015,Tottenham,18,18,36,39
+2016-05-02,Chelsea_Tottenham_2015,Chelsea,18,17,35,39
+2016-05-07,West Ham_Swansea_2015,West Ham,18,18,36,40
+2016-05-07,Norwich_Man United_2015,Norwich,18,18,36,40
+2016-05-07,Crystal Palace_Stoke_2015,Stoke,18,19,37,40
+2016-05-07,Bournemouth_West Brom_2015,Bournemouth,19,18,37,40
+2016-05-07,West Ham_Swansea_2015,Swansea,18,19,37,40
+2016-05-07,Aston Villa_Newcastle_2015,Newcastle,18,19,37,40
+2016-05-07,Bournemouth_West Brom_2015,West Brom,18,19,37,40
+2016-05-07,Leicester_Everton_2015,Everton,18,18,36,40
+2016-05-07,Crystal Palace_Stoke_2015,Crystal Palace,19,18,37,40
+2016-05-07,Sunderland_Chelsea_2015,Sunderland,18,18,36,40
+2016-05-07,Leicester_Everton_2015,Leicester,19,18,37,40
+2016-05-07,Aston Villa_Newcastle_2015,Aston Villa,19,18,37,40
+2016-05-07,Sunderland_Chelsea_2015,Chelsea,18,18,36,40
+2016-05-07,Norwich_Man United_2015,Man United,18,18,36,40
+2016-05-08,Liverpool_Watford_2015,Watford,18,18,36,40
+2016-05-08,Liverpool_Watford_2015,Liverpool,18,18,36,40
+2016-05-08,Tottenham_Southampton_2015,Tottenham,19,18,37,40
+2016-05-08,Man City_Arsenal_2015,Arsenal,18,19,37,40
+2016-05-08,Man City_Arsenal_2015,Man City,19,18,37,40
+2016-05-08,Tottenham_Southampton_2015,Southampton,18,19,37,40
+2016-05-10,West Ham_Man United_2015,Man United,18,19,37,41
+2016-05-10,West Ham_Man United_2015,West Ham,19,18,37,41
+2016-05-11,Norwich_Watford_2015,Watford,18,19,37,41
+2016-05-11,Liverpool_Chelsea_2015,Chelsea,18,19,37,41
+2016-05-11,Sunderland_Everton_2015,Everton,18,19,37,41
+2016-05-11,Norwich_Watford_2015,Norwich,19,18,37,41
+2016-05-11,Liverpool_Chelsea_2015,Liverpool,19,18,37,41
+2016-05-11,Sunderland_Everton_2015,Sunderland,19,18,37,41
+2016-05-15,Arsenal_Aston Villa_2015,Aston Villa,19,19,38,41
+2016-05-15,Everton_Norwich_2015,Everton,19,19,38,41
+2016-05-15,Arsenal_Aston Villa_2015,Arsenal,19,19,38,41
+2016-05-15,Chelsea_Leicester_2015,Leicester,19,19,38,41
+2016-05-15,Southampton_Crystal Palace_2015,Southampton,19,19,38,41
+2016-05-15,Newcastle_Tottenham_2015,Tottenham,19,19,38,41
+2016-05-15,Newcastle_Tottenham_2015,Newcastle,19,19,38,41
+2016-05-15,West Brom_Liverpool_2015,Liverpool,19,19,38,41
+2016-05-15,Swansea_Man City_2015,Man City,19,19,38,41
+2016-05-15,Everton_Norwich_2015,Norwich,19,19,38,41
+2016-05-15,Southampton_Crystal Palace_2015,Crystal Palace,19,19,38,41
+2016-05-15,Swansea_Man City_2015,Swansea,19,19,38,41
+2016-05-15,Watford_Sunderland_2015,Watford,19,19,38,41
+2016-05-15,Watford_Sunderland_2015,Sunderland,19,19,38,41
+2016-05-15,Chelsea_Leicester_2015,Chelsea,19,19,38,41
+2016-05-15,West Brom_Liverpool_2015,West Brom,19,19,38,41
+2016-05-15,Stoke_West Ham_2015,Stoke,19,19,38,41
+2016-05-15,Stoke_West Ham_2015,West Ham,19,19,38,41
+2016-05-17,Man United_Bournemouth_2015,Bournemouth,19,19,38,42
+2016-05-17,Man United_Bournemouth_2015,Man United,19,19,38,42

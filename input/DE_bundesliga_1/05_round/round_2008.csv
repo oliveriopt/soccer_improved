@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2008-08-15,Bayern Munich_Hamburg_2008,Bayern Munich,1,1,1,1
+2008-08-15,Bayern Munich_Hamburg_2008,Hamburg,1,1,1,1
+2008-08-16,Karlsruhe_Bochum_2008,Karlsruhe,1,1,1,1
+2008-08-16,Schalke 04_Hannover_2008,Hannover,1,1,1,1
+2008-08-16,Schalke 04_Hannover_2008,Schalke 04,1,1,1,1
+2008-08-16,Cottbus_Hoffenheim_2008,Cottbus,1,1,1,1
+2008-08-16,Leverkusen_Dortmund_2008,Dortmund,1,1,1,1
+2008-08-16,Wolfsburg_FC Koln_2008,Wolfsburg,1,1,1,1
+2008-08-16,Wolfsburg_FC Koln_2008,FC Koln,1,1,1,1
+2008-08-16,Leverkusen_Dortmund_2008,Leverkusen,1,1,1,1
+2008-08-16,Karlsruhe_Bochum_2008,Bochum,1,1,1,1
+2008-08-16,Bielefeld_Werder Bremen_2008,Werder Bremen,1,1,1,1
+2008-08-16,Bielefeld_Werder Bremen_2008,Bielefeld,1,1,1,1
+2008-08-16,Cottbus_Hoffenheim_2008,Hoffenheim,1,1,1,1
+2008-08-17,M'gladbach_Stuttgart_2008,M'gladbach,1,1,1,1
+2008-08-17,Ein Frankfurt_Hertha_2008,Hertha,1,1,1,1
+2008-08-17,M'gladbach_Stuttgart_2008,Stuttgart,1,1,1,1
+2008-08-17,Ein Frankfurt_Hertha_2008,Ein Frankfurt,1,1,1,1
+2008-08-22,Hannover_Cottbus_2008,Hannover,1,1,2,2
+2008-08-22,Hannover_Cottbus_2008,Cottbus,1,1,2,2
+2008-08-23,Hertha_Bielefeld_2008,Hertha,1,1,2,2
+2008-08-23,Hamburg_Karlsruhe_2008,Hamburg,1,1,2,2
+2008-08-23,Stuttgart_Leverkusen_2008,Leverkusen,1,1,2,2
+2008-08-23,Dortmund_Bayern Munich_2008,Dortmund,1,1,2,2
+2008-08-23,Stuttgart_Leverkusen_2008,Stuttgart,1,1,2,2
+2008-08-23,Werder Bremen_Schalke 04_2008,Schalke 04,1,1,2,2
+2008-08-23,Hoffenheim_M'gladbach_2008,Hoffenheim,1,1,2,2
+2008-08-23,Dortmund_Bayern Munich_2008,Bayern Munich,1,1,2,2
+2008-08-23,Hertha_Bielefeld_2008,Bielefeld,1,1,2,2
+2008-08-23,Werder Bremen_Schalke 04_2008,Werder Bremen,1,1,2,2
+2008-08-23,Hamburg_Karlsruhe_2008,Karlsruhe,1,1,2,2
+2008-08-23,Hoffenheim_M'gladbach_2008,M'gladbach,1,1,2,2
+2008-08-24,Bochum_Wolfsburg_2008,Wolfsburg,1,1,2,2
+2008-08-24,Bochum_Wolfsburg_2008,Bochum,1,1,2,2
+2008-08-24,FC Koln_Ein Frankfurt_2008,Ein Frankfurt,1,1,2,2
+2008-08-24,FC Koln_Ein Frankfurt_2008,FC Koln,1,1,2,2
+2008-08-29,Karlsruhe_FC Koln_2008,Karlsruhe,2,1,3,3
+2008-08-29,Karlsruhe_FC Koln_2008,FC Koln,1,2,3,3
+2008-08-30,Leverkusen_Hoffenheim_2008,Leverkusen,2,1,3,3
+2008-08-30,Schalke 04_Bochum_2008,Schalke 04,2,1,3,3
+2008-08-30,Cottbus_Dortmund_2008,Cottbus,2,1,3,3
+2008-08-30,Cottbus_Dortmund_2008,Dortmund,1,2,3,3
+2008-08-30,M'gladbach_Werder Bremen_2008,M'gladbach,2,1,3,3
+2008-08-30,Wolfsburg_Ein Frankfurt_2008,Ein Frankfurt,1,2,3,3
+2008-08-30,Schalke 04_Bochum_2008,Bochum,1,2,3,3
+2008-08-30,Leverkusen_Hoffenheim_2008,Hoffenheim,1,2,3,3
+2008-08-30,Bielefeld_Hamburg_2008,Bielefeld,2,1,3,3
+2008-08-30,Bielefeld_Hamburg_2008,Hamburg,1,2,3,3
+2008-08-30,M'gladbach_Werder Bremen_2008,Werder Bremen,1,2,3,3
+2008-08-30,Wolfsburg_Ein Frankfurt_2008,Wolfsburg,2,1,3,3
+2008-08-31,Stuttgart_Hannover_2008,Stuttgart,2,1,3,3
+2008-08-31,Bayern Munich_Hertha_2008,Bayern Munich,2,1,3,3
+2008-08-31,Bayern Munich_Hertha_2008,Hertha,1,2,3,3
+2008-08-31,Stuttgart_Hannover_2008,Hannover,1,2,3,3
+2008-09-13,Hertha_Wolfsburg_2008,Wolfsburg,2,2,4,5
+2008-09-13,Hamburg_Leverkusen_2008,Leverkusen,2,2,4,5
+2008-09-13,Werder Bremen_Cottbus_2008,Werder Bremen,2,2,4,5
+2008-09-13,Hamburg_Leverkusen_2008,Hamburg,2,2,4,5
+2008-09-13,FC Koln_Bayern Munich_2008,FC Koln,2,2,4,5
+2008-09-13,Werder Bremen_Cottbus_2008,Cottbus,2,2,4,5
+2008-09-13,Hoffenheim_Stuttgart_2008,Stuttgart,2,2,4,5
+2008-09-13,Dortmund_Schalke 04_2008,Dortmund,2,2,4,5
+2008-09-13,Hoffenheim_Stuttgart_2008,Hoffenheim,2,2,4,5
+2008-09-13,Hertha_Wolfsburg_2008,Hertha,2,2,4,5
+2008-09-13,Dortmund_Schalke 04_2008,Schalke 04,2,2,4,5
+2008-09-13,FC Koln_Bayern Munich_2008,Bayern Munich,2,2,4,5
+2008-09-14,Bochum_Bielefeld_2008,Bielefeld,2,2,4,5
+2008-09-14,Hannover_M'gladbach_2008,M'gladbach,2,2,4,5
+2008-09-14,Bochum_Bielefeld_2008,Bochum,2,2,4,5
+2008-09-14,Hannover_M'gladbach_2008,Hannover,2,2,4,5
+2008-09-19,Leverkusen_Hannover_2008,Hannover,2,3,5,6
+2008-09-19,Leverkusen_Hannover_2008,Leverkusen,3,2,5,6
+2008-09-20,Schalke 04_Ein Frankfurt_2008,Ein Frankfurt,1,3,4,6
+2008-09-20,Bielefeld_FC Koln_2008,Bielefeld,3,2,5,6
+2008-09-20,M'gladbach_Hertha_2008,Hertha,2,3,5,6
+2008-09-20,Schalke 04_Ein Frankfurt_2008,Schalke 04,3,2,5,6
+2008-09-20,Cottbus_Bochum_2008,Bochum,2,3,5,6
+2008-09-20,Bayern Munich_Werder Bremen_2008,Bayern Munich,3,2,5,6
+2008-09-20,M'gladbach_Hertha_2008,M'gladbach,3,2,5,6
+2008-09-20,Bielefeld_FC Koln_2008,FC Koln,2,3,5,6
+2008-09-20,Cottbus_Bochum_2008,Cottbus,3,2,5,6
+2008-09-20,Bayern Munich_Werder Bremen_2008,Werder Bremen,2,3,5,6
+2008-09-21,Stuttgart_Karlsruhe_2008,Karlsruhe,2,2,4,6
+2008-09-21,Hoffenheim_Dortmund_2008,Dortmund,2,3,5,6
+2008-09-21,Hoffenheim_Dortmund_2008,Hoffenheim,3,2,5,6
+2008-09-21,Stuttgart_Karlsruhe_2008,Stuttgart,3,2,5,6
+2008-09-21,Wolfsburg_Hamburg_2008,Hamburg,2,3,5,6
+2008-09-21,Wolfsburg_Hamburg_2008,Wolfsburg,3,2,5,6
+2008-09-26,FC Koln_Schalke 04_2008,FC Koln,3,3,6,7
+2008-09-26,FC Koln_Schalke 04_2008,Schalke 04,3,3,6,7
+2008-09-27,Hannover_Bayern Munich_2008,Hannover,3,3,6,7
+2008-09-27,Bochum_Leverkusen_2008,Leverkusen,3,3,6,7
+2008-09-27,Werder Bremen_Hoffenheim_2008,Hoffenheim,3,3,6,7
+2008-09-27,Hertha_Cottbus_2008,Hertha,3,3,6,7
+2008-09-27,Dortmund_Stuttgart_2008,Dortmund,3,3,6,7
+2008-09-27,Dortmund_Stuttgart_2008,Stuttgart,3,3,6,7
+2008-09-27,Hamburg_M'gladbach_2008,Hamburg,3,3,6,7
+2008-09-27,Hannover_Bayern Munich_2008,Bayern Munich,3,3,6,7
+2008-09-27,Hertha_Cottbus_2008,Cottbus,3,3,6,7
+2008-09-27,Werder Bremen_Hoffenheim_2008,Werder Bremen,3,3,6,7
+2008-09-27,Bochum_Leverkusen_2008,Bochum,3,3,6,7
+2008-09-27,Hamburg_M'gladbach_2008,M'gladbach,3,3,6,7
+2008-09-28,Ein Frankfurt_Bielefeld_2008,Ein Frankfurt,2,3,5,7
+2008-09-28,Ein Frankfurt_Bielefeld_2008,Bielefeld,3,3,6,7
+2008-09-28,Karlsruhe_Wolfsburg_2008,Karlsruhe,3,2,5,7
+2008-09-28,Karlsruhe_Wolfsburg_2008,Wolfsburg,3,3,6,7
+2008-10-03,Bielefeld_Karlsruhe_2008,Karlsruhe,3,3,6,8
+2008-10-03,Bielefeld_Karlsruhe_2008,Bielefeld,4,3,7,8
+2008-10-04,M'gladbach_FC Koln_2008,FC Koln,3,4,7,8
+2008-10-04,Leverkusen_Hertha_2008,Leverkusen,4,3,7,8
+2008-10-04,Bayern Munich_Bochum_2008,Bayern Munich,4,3,7,8
+2008-10-04,Bayern Munich_Bochum_2008,Bochum,3,4,7,8
+2008-10-04,Stuttgart_Werder Bremen_2008,Stuttgart,4,3,7,8
+2008-10-04,Stuttgart_Werder Bremen_2008,Werder Bremen,3,4,7,8
+2008-10-04,Hoffenheim_Ein Frankfurt_2008,Ein Frankfurt,2,4,6,8
+2008-10-04,M'gladbach_FC Koln_2008,M'gladbach,4,3,7,8
+2008-10-04,Leverkusen_Hertha_2008,Hertha,3,4,7,8
+2008-10-04,Hoffenheim_Ein Frankfurt_2008,Hoffenheim,4,3,7,8
+2008-10-05,Schalke 04_Wolfsburg_2008,Wolfsburg,3,4,7,8
+2008-10-05,Cottbus_Hamburg_2008,Cottbus,4,3,7,8
+2008-10-05,Dortmund_Hannover_2008,Dortmund,4,3,7,8
+2008-10-05,Cottbus_Hamburg_2008,Hamburg,3,4,7,8
+2008-10-05,Dortmund_Hannover_2008,Hannover,3,4,7,8
+2008-10-05,Schalke 04_Wolfsburg_2008,Schalke 04,4,3,7,8
+2008-10-17,Bochum_M'gladbach_2008,Bochum,4,4,8,10
+2008-10-17,Bochum_M'gladbach_2008,M'gladbach,4,4,8,10
+2008-10-18,Wolfsburg_Bielefeld_2008,Bielefeld,4,4,8,10
+2008-10-18,Ein Frankfurt_Leverkusen_2008,Ein Frankfurt,3,4,7,10
+2008-10-18,Wolfsburg_Bielefeld_2008,Wolfsburg,4,4,8,10
+2008-10-18,Hannover_Hoffenheim_2008,Hannover,4,4,8,10
+2008-10-18,Werder Bremen_Dortmund_2008,Werder Bremen,4,4,8,10
+2008-10-18,Hannover_Hoffenheim_2008,Hoffenheim,4,4,8,10
+2008-10-18,FC Koln_Cottbus_2008,FC Koln,4,4,8,10
+2008-10-18,Ein Frankfurt_Leverkusen_2008,Leverkusen,4,4,8,10
+2008-10-18,Karlsruhe_Bayern Munich_2008,Karlsruhe,4,3,7,10
+2008-10-18,Hertha_Stuttgart_2008,Stuttgart,4,4,8,10
+2008-10-18,Werder Bremen_Dortmund_2008,Dortmund,4,4,8,10
+2008-10-18,FC Koln_Cottbus_2008,Cottbus,4,4,8,10
+2008-10-18,Karlsruhe_Bayern Munich_2008,Bayern Munich,4,4,8,10
+2008-10-18,Hertha_Stuttgart_2008,Hertha,4,4,8,10
+2008-10-19,Hamburg_Schalke 04_2008,Schalke 04,4,4,8,10
+2008-10-19,Hamburg_Schalke 04_2008,Hamburg,4,4,8,10
+2008-10-22,Ein Frankfurt_Karlsruhe_2008,Ein Frankfurt,4,4,8,11
+2008-10-22,Ein Frankfurt_Karlsruhe_2008,Karlsruhe,4,4,8,11
+2008-10-24,Leverkusen_FC Koln_2008,Leverkusen,5,4,9,11
+2008-10-24,Leverkusen_FC Koln_2008,FC Koln,4,5,9,11
+2008-10-25,Cottbus_Ein Frankfurt_2008,Ein Frankfurt,4,5,9,11
+2008-10-25,Bayern Munich_Wolfsburg_2008,Wolfsburg,4,5,9,11
+2008-10-25,Bayern Munich_Wolfsburg_2008,Bayern Munich,5,4,9,11
+2008-10-25,M'gladbach_Karlsruhe_2008,M'gladbach,5,4,9,11
+2008-10-25,Cottbus_Ein Frankfurt_2008,Cottbus,5,4,9,11
+2008-10-25,Schalke 04_Bielefeld_2008,Schalke 04,5,4,9,11
+2008-10-25,Hannover_Werder Bremen_2008,Hannover,5,4,9,11
+2008-10-25,Hannover_Werder Bremen_2008,Werder Bremen,4,5,9,11
+2008-10-25,Schalke 04_Bielefeld_2008,Bielefeld,4,5,9,11
+2008-10-25,M'gladbach_Karlsruhe_2008,Karlsruhe,4,5,9,11
+2008-10-26,Dortmund_Hertha_2008,Dortmund,5,4,9,11
+2008-10-26,Hoffenheim_Hamburg_2008,Hamburg,4,5,9,11
+2008-10-26,Dortmund_Hertha_2008,Hertha,4,5,9,11
+2008-10-26,Stuttgart_Bochum_2008,Bochum,4,5,9,11
+2008-10-26,Stuttgart_Bochum_2008,Stuttgart,5,4,9,11
+2008-10-26,Hoffenheim_Hamburg_2008,Hoffenheim,5,4,9,11
+2008-10-28,Wolfsburg_M'gladbach_2008,Wolfsburg,5,5,10,12
+2008-10-28,Werder Bremen_Leverkusen_2008,Werder Bremen,5,5,10,12
+2008-10-28,Karlsruhe_Schalke 04_2008,Schalke 04,5,5,10,12
+2008-10-28,Werder Bremen_Leverkusen_2008,Leverkusen,5,5,10,12
+2008-10-28,Bielefeld_Cottbus_2008,Bielefeld,5,5,10,12
+2008-10-28,Bielefeld_Cottbus_2008,Cottbus,5,5,10,12
+2008-10-28,Karlsruhe_Schalke 04_2008,Karlsruhe,5,5,10,12
+2008-10-28,Wolfsburg_M'gladbach_2008,M'gladbach,5,5,10,12
+2008-10-29,Hertha_Hannover_2008,Hertha,5,5,10,12
+2008-10-29,Hamburg_Stuttgart_2008,Hamburg,5,5,10,12
+2008-10-29,Bochum_Hoffenheim_2008,Bochum,5,5,10,12
+2008-10-29,Hertha_Hannover_2008,Hannover,5,5,10,12
+2008-10-29,FC Koln_Dortmund_2008,FC Koln,5,5,10,12
+2008-10-29,Ein Frankfurt_Bayern Munich_2008,Ein Frankfurt,5,5,10,12
+2008-10-29,Ein Frankfurt_Bayern Munich_2008,Bayern Munich,5,5,10,12
+2008-10-29,FC Koln_Dortmund_2008,Dortmund,5,5,10,12
+2008-10-29,Hamburg_Stuttgart_2008,Stuttgart,5,5,10,12
+2008-10-29,Bochum_Hoffenheim_2008,Hoffenheim,5,5,10,12
+2008-10-31,Leverkusen_Wolfsburg_2008,Leverkusen,6,5,11,12
+2008-10-31,Leverkusen_Wolfsburg_2008,Wolfsburg,5,6,11,12
+2008-11-01,Werder Bremen_Hertha_2008,Hertha,5,6,11,12
+2008-11-01,Werder Bremen_Hertha_2008,Werder Bremen,6,5,11,12
+2008-11-01,Hannover_Hamburg_2008,Hamburg,5,6,11,12
+2008-11-01,Bayern Munich_Bielefeld_2008,Bielefeld,5,6,11,12
+2008-11-01,Hoffenheim_Karlsruhe_2008,Karlsruhe,5,6,11,12
+2008-11-01,Bayern Munich_Bielefeld_2008,Bayern Munich,6,5,11,12
+2008-11-01,Cottbus_Schalke 04_2008,Schalke 04,5,6,11,12
+2008-11-01,Hoffenheim_Karlsruhe_2008,Hoffenheim,6,5,11,12
+2008-11-01,Stuttgart_FC Koln_2008,Stuttgart,6,5,11,12
+2008-11-01,Stuttgart_FC Koln_2008,FC Koln,5,6,11,12
+2008-11-01,Cottbus_Schalke 04_2008,Cottbus,6,5,11,12
+2008-11-01,Hannover_Hamburg_2008,Hannover,6,5,11,12
+2008-11-02,Dortmund_Bochum_2008,Bochum,5,6,11,12
+2008-11-02,M'gladbach_Ein Frankfurt_2008,M'gladbach,6,5,11,12
+2008-11-02,Dortmund_Bochum_2008,Dortmund,6,5,11,12
+2008-11-02,M'gladbach_Ein Frankfurt_2008,Ein Frankfurt,5,6,11,12
+2008-11-07,FC Koln_Hannover_2008,FC Koln,6,6,12,13
+2008-11-07,FC Koln_Hannover_2008,Hannover,6,6,12,13
+2008-11-08,Wolfsburg_Cottbus_2008,Wolfsburg,6,6,12,13
+2008-11-08,Hamburg_Dortmund_2008,Dortmund,6,6,12,13
+2008-11-08,Bochum_Werder Bremen_2008,Werder Bremen,6,6,12,13
+2008-11-08,Karlsruhe_Leverkusen_2008,Karlsruhe,6,6,12,13
+2008-11-08,Bielefeld_M'gladbach_2008,Bielefeld,6,6,12,13
+2008-11-08,Bielefeld_M'gladbach_2008,M'gladbach,6,6,12,13
+2008-11-08,Hamburg_Dortmund_2008,Hamburg,6,6,12,13
+2008-11-08,Bochum_Werder Bremen_2008,Bochum,6,6,12,13
+2008-11-08,Wolfsburg_Cottbus_2008,Cottbus,6,6,12,13
+2008-11-08,Karlsruhe_Leverkusen_2008,Leverkusen,6,6,12,13
+2008-11-09,Hertha_Hoffenheim_2008,Hoffenheim,6,6,12,13
+2008-11-09,Ein Frankfurt_Stuttgart_2008,Stuttgart,6,6,12,13
+2008-11-09,Schalke 04_Bayern Munich_2008,Schalke 04,6,6,12,13
+2008-11-09,Hertha_Hoffenheim_2008,Hertha,6,6,12,13
+2008-11-09,Schalke 04_Bayern Munich_2008,Bayern Munich,6,6,12,13
+2008-11-09,Ein Frankfurt_Stuttgart_2008,Ein Frankfurt,6,6,12,13
+2008-11-14,Hannover_Bochum_2008,Hannover,7,6,13,14
+2008-11-14,Hannover_Bochum_2008,Bochum,6,7,13,14
+2008-11-15,M'gladbach_Bayern Munich_2008,Bayern Munich,6,7,13,14
+2008-11-15,Cottbus_Karlsruhe_2008,Karlsruhe,6,7,13,14
+2008-11-15,Stuttgart_Bielefeld_2008,Bielefeld,6,7,13,14
+2008-11-15,Cottbus_Karlsruhe_2008,Cottbus,7,6,13,14
+2008-11-15,Hoffenheim_Wolfsburg_2008,Wolfsburg,6,7,13,14
+2008-11-15,Hertha_Hamburg_2008,Hamburg,6,7,13,14
+2008-11-15,Dortmund_Ein Frankfurt_2008,Dortmund,7,6,13,14
+2008-11-15,M'gladbach_Bayern Munich_2008,M'gladbach,7,6,13,14
+2008-11-15,Hoffenheim_Wolfsburg_2008,Hoffenheim,7,6,13,14
+2008-11-15,Leverkusen_Schalke 04_2008,Leverkusen,7,6,13,14
+2008-11-15,Dortmund_Ein Frankfurt_2008,Ein Frankfurt,6,7,13,14
+2008-11-15,Leverkusen_Schalke 04_2008,Schalke 04,6,7,13,14
+2008-11-15,Stuttgart_Bielefeld_2008,Stuttgart,7,6,13,14
+2008-11-15,Hertha_Hamburg_2008,Hertha,7,6,13,14
+2008-11-16,Werder Bremen_FC Koln_2008,FC Koln,6,7,13,14
+2008-11-16,Werder Bremen_FC Koln_2008,Werder Bremen,7,6,13,14
+2008-11-21,Karlsruhe_Dortmund_2008,Dortmund,7,7,14,15
+2008-11-21,Karlsruhe_Dortmund_2008,Karlsruhe,7,7,14,15
+2008-11-22,Wolfsburg_Stuttgart_2008,Wolfsburg,7,7,14,15
+2008-11-22,Bielefeld_Leverkusen_2008,Bielefeld,7,7,14,15
+2008-11-22,FC Koln_Hoffenheim_2008,FC Koln,7,7,14,15
+2008-11-22,Schalke 04_M'gladbach_2008,M'gladbach,7,7,14,15
+2008-11-22,Wolfsburg_Stuttgart_2008,Stuttgart,7,7,14,15
+2008-11-22,Bayern Munich_Cottbus_2008,Cottbus,7,7,14,15
+2008-11-22,Bochum_Hertha_2008,Hertha,7,7,14,15
+2008-11-22,Bayern Munich_Cottbus_2008,Bayern Munich,7,7,14,15
+2008-11-22,FC Koln_Hoffenheim_2008,Hoffenheim,7,7,14,15
+2008-11-22,Bielefeld_Leverkusen_2008,Leverkusen,7,7,14,15
+2008-11-22,Schalke 04_M'gladbach_2008,Schalke 04,7,7,14,15
+2008-11-22,Ein Frankfurt_Hannover_2008,Hannover,7,7,14,15
+2008-11-22,Ein Frankfurt_Hannover_2008,Ein Frankfurt,7,7,14,15
+2008-11-22,Bochum_Hertha_2008,Bochum,7,7,14,15
+2008-11-23,Hamburg_Werder Bremen_2008,Hamburg,7,7,14,15
+2008-11-23,Hamburg_Werder Bremen_2008,Werder Bremen,7,7,14,15
+2008-11-28,Hertha_FC Koln_2008,Hertha,8,7,15,16
+2008-11-28,Hertha_FC Koln_2008,FC Koln,7,8,15,16
+2008-11-29,Hannover_Karlsruhe_2008,Karlsruhe,7,8,15,16
+2008-11-29,Leverkusen_Bayern Munich_2008,Bayern Munich,7,8,15,16
+2008-11-29,Werder Bremen_Ein Frankfurt_2008,Werder Bremen,8,7,15,16
+2008-11-29,M'gladbach_Cottbus_2008,Cottbus,7,8,15,16
+2008-11-29,Leverkusen_Bayern Munich_2008,Leverkusen,8,7,15,16
+2008-11-29,Hoffenheim_Bielefeld_2008,Hoffenheim,8,7,15,16
+2008-11-29,Hannover_Karlsruhe_2008,Hannover,8,7,15,16
+2008-11-29,M'gladbach_Cottbus_2008,M'gladbach,8,7,15,16
+2008-11-29,Hoffenheim_Bielefeld_2008,Bielefeld,7,8,15,16
+2008-11-29,Werder Bremen_Ein Frankfurt_2008,Ein Frankfurt,7,8,15,16
+2008-11-30,Stuttgart_Schalke 04_2008,Stuttgart,8,7,15,16
+2008-11-30,Stuttgart_Schalke 04_2008,Schalke 04,7,8,15,16
+2008-11-30,Bochum_Hamburg_2008,Bochum,8,7,15,16
+2008-11-30,Dortmund_Wolfsburg_2008,Dortmund,8,7,15,16
+2008-11-30,Dortmund_Wolfsburg_2008,Wolfsburg,7,8,15,16
+2008-11-30,Bochum_Hamburg_2008,Hamburg,7,8,15,16
+2008-12-05,Bayern Munich_Hoffenheim_2008,Bayern Munich,8,8,16,17
+2008-12-05,Bayern Munich_Hoffenheim_2008,Hoffenheim,8,8,16,17
+2008-12-06,Karlsruhe_Werder Bremen_2008,Karlsruhe,8,8,16,17
+2008-12-06,Ein Frankfurt_Bochum_2008,Ein Frankfurt,8,8,16,17
+2008-12-06,Bielefeld_Dortmund_2008,Bielefeld,8,8,16,17
+2008-12-06,Ein Frankfurt_Bochum_2008,Bochum,8,8,16,17
+2008-12-06,Cottbus_Stuttgart_2008,Cottbus,8,8,16,17
+2008-12-06,M'gladbach_Leverkusen_2008,Leverkusen,8,8,16,17
+2008-12-06,M'gladbach_Leverkusen_2008,M'gladbach,9,7,16,17
+2008-12-06,Schalke 04_Hertha_2008,Schalke 04,8,8,16,17
+2008-12-06,Cottbus_Stuttgart_2008,Stuttgart,8,8,16,17
+2008-12-06,Bielefeld_Dortmund_2008,Dortmund,8,8,16,17
+2008-12-06,Schalke 04_Hertha_2008,Hertha,8,8,16,17
+2008-12-06,Karlsruhe_Werder Bremen_2008,Werder Bremen,8,8,16,17
+2008-12-07,Wolfsburg_Hannover_2008,Hannover,8,8,16,17
+2008-12-07,FC Koln_Hamburg_2008,Hamburg,7,9,16,17
+2008-12-07,Wolfsburg_Hannover_2008,Wolfsburg,8,8,16,17
+2008-12-07,FC Koln_Hamburg_2008,FC Koln,8,8,16,17
+2008-12-12,Dortmund_M'gladbach_2008,Dortmund,9,8,17,18
+2008-12-12,Dortmund_M'gladbach_2008,M'gladbach,9,8,17,18
+2008-12-13,Hertha_Karlsruhe_2008,Hertha,9,8,17,18
+2008-12-13,Stuttgart_Bayern Munich_2008,Bayern Munich,8,9,17,18
+2008-12-13,Hannover_Bielefeld_2008,Hannover,9,8,17,18
+2008-12-13,Hertha_Karlsruhe_2008,Karlsruhe,8,9,17,18
+2008-12-13,Leverkusen_Cottbus_2008,Leverkusen,9,8,17,18
+2008-12-13,Hamburg_Ein Frankfurt_2008,Ein Frankfurt,8,9,17,18
+2008-12-13,Bochum_FC Koln_2008,FC Koln,8,9,17,18
+2008-12-13,Hamburg_Ein Frankfurt_2008,Hamburg,8,9,17,18
+2008-12-13,Leverkusen_Cottbus_2008,Cottbus,8,9,17,18
+2008-12-13,Bochum_FC Koln_2008,Bochum,9,8,17,18
+2008-12-13,Stuttgart_Bayern Munich_2008,Stuttgart,9,8,17,18
+2008-12-13,Hannover_Bielefeld_2008,Bielefeld,8,9,17,18
+2008-12-13,Werder Bremen_Wolfsburg_2008,Werder Bremen,9,8,17,18
+2008-12-13,Werder Bremen_Wolfsburg_2008,Wolfsburg,8,9,17,18
+2008-12-14,Hoffenheim_Schalke 04_2008,Hoffenheim,9,8,17,18
+2008-12-14,Hoffenheim_Schalke 04_2008,Schalke 04,8,9,17,18
+2009-01-30,Hamburg_Bayern Munich_2008,Bayern Munich,8,10,18,25
+2009-01-30,Hamburg_Bayern Munich_2008,Hamburg,9,9,18,25
+2009-01-31,Dortmund_Leverkusen_2008,Dortmund,10,8,18,25
+2009-01-31,Dortmund_Leverkusen_2008,Leverkusen,9,9,18,25
+2009-01-31,Stuttgart_M'gladbach_2008,Stuttgart,10,8,18,25
+2009-01-31,Stuttgart_M'gladbach_2008,M'gladbach,9,9,18,25
+2009-01-31,Hoffenheim_Cottbus_2008,Hoffenheim,10,8,18,25
+2009-01-31,Hannover_Schalke 04_2008,Hannover,10,8,18,25
+2009-01-31,Hertha_Ein Frankfurt_2008,Ein Frankfurt,8,10,18,25
+2009-01-31,FC Koln_Wolfsburg_2008,FC Koln,9,9,18,25
+2009-01-31,Hoffenheim_Cottbus_2008,Cottbus,8,10,18,25
+2009-01-31,Hertha_Ein Frankfurt_2008,Hertha,10,8,18,25
+2009-01-31,FC Koln_Wolfsburg_2008,Wolfsburg,8,10,18,25
+2009-01-31,Hannover_Schalke 04_2008,Schalke 04,8,10,18,25
+2009-02-01,Werder Bremen_Bielefeld_2008,Werder Bremen,10,8,18,25
+2009-02-01,Bochum_Karlsruhe_2008,Bochum,10,8,18,25
+2009-02-01,Werder Bremen_Bielefeld_2008,Bielefeld,8,10,18,25
+2009-02-01,Bochum_Karlsruhe_2008,Karlsruhe,8,10,18,25
+2009-02-06,Bielefeld_Hertha_2008,Bielefeld,9,10,19,26
+2009-02-06,Bielefeld_Hertha_2008,Hertha,10,9,19,26
+2009-02-07,M'gladbach_Hoffenheim_2008,Hoffenheim,10,9,19,26
+2009-02-07,Wolfsburg_Bochum_2008,Wolfsburg,9,10,19,26
+2009-02-07,Leverkusen_Stuttgart_2008,Leverkusen,10,9,19,26
+2009-02-07,Wolfsburg_Bochum_2008,Bochum,10,9,19,26
+2009-02-07,Karlsruhe_Hamburg_2008,Karlsruhe,9,10,19,26
+2009-02-07,M'gladbach_Hoffenheim_2008,M'gladbach,10,9,19,26
+2009-02-07,Schalke 04_Werder Bremen_2008,Werder Bremen,10,9,19,26
+2009-02-07,Schalke 04_Werder Bremen_2008,Schalke 04,9,10,19,26
+2009-02-07,Ein Frankfurt_FC Koln_2008,FC Koln,9,10,19,26
+2009-02-07,Karlsruhe_Hamburg_2008,Hamburg,9,10,19,26
+2009-02-07,Ein Frankfurt_FC Koln_2008,Ein Frankfurt,9,10,19,26
+2009-02-07,Leverkusen_Stuttgart_2008,Stuttgart,10,9,19,26
+2009-02-08,Cottbus_Hannover_2008,Hannover,10,9,19,26
+2009-02-08,Cottbus_Hannover_2008,Cottbus,9,10,19,26
+2009-02-08,Bayern Munich_Dortmund_2008,Bayern Munich,9,10,19,26
+2009-02-08,Bayern Munich_Dortmund_2008,Dortmund,10,9,19,26
+2009-02-13,Hoffenheim_Leverkusen_2008,Leverkusen,10,10,20,27
+2009-02-13,Hoffenheim_Leverkusen_2008,Hoffenheim,11,9,20,27
+2009-02-14,Werder Bremen_M'gladbach_2008,M'gladbach,10,10,20,27
+2009-02-14,Werder Bremen_M'gladbach_2008,Werder Bremen,11,9,20,27
+2009-02-14,Hertha_Bayern Munich_2008,Hertha,11,9,20,27
+2009-02-14,FC Koln_Karlsruhe_2008,Karlsruhe,9,11,20,27
+2009-02-14,Hertha_Bayern Munich_2008,Bayern Munich,9,11,20,27
+2009-02-14,Hannover_Stuttgart_2008,Stuttgart,10,10,20,27
+2009-02-14,Ein Frankfurt_Wolfsburg_2008,Wolfsburg,9,11,20,27
+2009-02-14,Bochum_Schalke 04_2008,Bochum,11,9,20,27
+2009-02-14,FC Koln_Karlsruhe_2008,FC Koln,10,10,20,27
+2009-02-14,Ein Frankfurt_Wolfsburg_2008,Ein Frankfurt,10,10,20,27
+2009-02-14,Hannover_Stuttgart_2008,Hannover,11,9,20,27
+2009-02-14,Bochum_Schalke 04_2008,Schalke 04,9,11,20,27
+2009-02-15,Hamburg_Bielefeld_2008,Bielefeld,9,11,20,27
+2009-02-15,Hamburg_Bielefeld_2008,Hamburg,10,10,20,27
+2009-02-15,Dortmund_Cottbus_2008,Cottbus,9,11,20,27
+2009-02-15,Dortmund_Cottbus_2008,Dortmund,11,9,20,27
+2009-02-20,Schalke 04_Dortmund_2008,Dortmund,11,10,21,28
+2009-02-20,Schalke 04_Dortmund_2008,Schalke 04,10,11,21,28
+2009-02-21,M'gladbach_Hannover_2008,M'gladbach,11,10,21,28
+2009-02-21,Wolfsburg_Hertha_2008,Hertha,11,10,21,28
+2009-02-21,Cottbus_Werder Bremen_2008,Werder Bremen,11,10,21,28
+2009-02-21,Cottbus_Werder Bremen_2008,Cottbus,10,11,21,28
+2009-02-21,Bielefeld_Bochum_2008,Bielefeld,10,11,21,28
+2009-02-21,Karlsruhe_Ein Frankfurt_2008,Ein Frankfurt,10,11,21,28
+2009-02-21,Stuttgart_Hoffenheim_2008,Hoffenheim,11,10,21,28
+2009-02-21,Bielefeld_Bochum_2008,Bochum,11,10,21,28
+2009-02-21,Wolfsburg_Hertha_2008,Wolfsburg,10,11,21,28
+2009-02-21,Karlsruhe_Ein Frankfurt_2008,Karlsruhe,10,11,21,28
+2009-02-21,Bayern Munich_FC Koln_2008,Bayern Munich,10,11,21,28
+2009-02-21,Stuttgart_Hoffenheim_2008,Stuttgart,11,10,21,28
+2009-02-21,Bayern Munich_FC Koln_2008,FC Koln,10,11,21,28
+2009-02-21,M'gladbach_Hannover_2008,Hannover,11,10,21,28
+2009-02-22,Leverkusen_Hamburg_2008,Hamburg,10,11,21,28
+2009-02-22,Leverkusen_Hamburg_2008,Leverkusen,11,10,21,28
+2009-02-27,FC Koln_Bielefeld_2008,FC Koln,11,11,22,29
+2009-02-27,FC Koln_Bielefeld_2008,Bielefeld,10,12,22,29
+2009-02-28,Hannover_Leverkusen_2008,Hannover,12,10,22,29
+2009-02-28,Ein Frankfurt_Schalke 04_2008,Schalke 04,10,12,22,29
+2009-02-28,Bochum_Cottbus_2008,Bochum,12,10,22,29
+2009-02-28,Dortmund_Hoffenheim_2008,Hoffenheim,11,11,22,29
+2009-02-28,Dortmund_Hoffenheim_2008,Dortmund,12,10,22,29
+2009-02-28,Bochum_Cottbus_2008,Cottbus,10,12,22,29
+2009-02-28,Hertha_M'gladbach_2008,M'gladbach,11,11,22,29
+2009-02-28,Ein Frankfurt_Schalke 04_2008,Ein Frankfurt,11,11,22,29
+2009-02-28,Hannover_Leverkusen_2008,Leverkusen,11,11,22,29
+2009-02-28,Hertha_M'gladbach_2008,Hertha,12,10,22,29
+2009-03-01,Karlsruhe_Stuttgart_2008,Stuttgart,11,11,22,29
+2009-03-01,Werder Bremen_Bayern Munich_2008,Bayern Munich,10,12,22,29
+2009-03-01,Hamburg_Wolfsburg_2008,Hamburg,11,11,22,29
+2009-03-01,Hamburg_Wolfsburg_2008,Wolfsburg,10,12,22,29
+2009-03-01,Werder Bremen_Bayern Munich_2008,Werder Bremen,12,10,22,29
+2009-03-01,Karlsruhe_Stuttgart_2008,Karlsruhe,11,11,22,29
+2009-03-06,Schalke 04_FC Koln_2008,Schalke 04,11,12,23,30
+2009-03-06,Schalke 04_FC Koln_2008,FC Koln,11,12,23,30
+2009-03-07,Wolfsburg_Karlsruhe_2008,Wolfsburg,11,12,23,30
+2009-03-07,Wolfsburg_Karlsruhe_2008,Karlsruhe,11,12,23,30
+2009-03-07,Bayern Munich_Hannover_2008,Hannover,12,11,23,30
+2009-03-07,Bayern Munich_Hannover_2008,Bayern Munich,11,12,23,30
+2009-03-07,Stuttgart_Dortmund_2008,Stuttgart,12,11,23,30
+2009-03-07,Hoffenheim_Werder Bremen_2008,Werder Bremen,12,11,23,30
+2009-03-07,Hoffenheim_Werder Bremen_2008,Hoffenheim,12,11,23,30
+2009-03-07,M'gladbach_Hamburg_2008,M'gladbach,12,11,23,30
+2009-03-07,Stuttgart_Dortmund_2008,Dortmund,12,11,23,30
+2009-03-07,Cottbus_Hertha_2008,Hertha,12,11,23,30
+2009-03-07,M'gladbach_Hamburg_2008,Hamburg,11,12,23,30
+2009-03-07,Cottbus_Hertha_2008,Cottbus,11,12,23,30
+2009-03-08,Leverkusen_Bochum_2008,Leverkusen,12,11,23,30
+2009-03-08,Bielefeld_Ein Frankfurt_2008,Ein Frankfurt,11,12,23,30
+2009-03-08,Leverkusen_Bochum_2008,Bochum,12,11,23,30
+2009-03-08,Bielefeld_Ein Frankfurt_2008,Bielefeld,11,12,23,30
+2009-03-13,Wolfsburg_Schalke 04_2008,Wolfsburg,12,12,24,31
+2009-03-13,Wolfsburg_Schalke 04_2008,Schalke 04,11,13,24,31
+2009-03-14,Ein Frankfurt_Hoffenheim_2008,Ein Frankfurt,12,12,24,31
+2009-03-14,Hannover_Dortmund_2008,Dortmund,12,12,24,31
+2009-03-14,FC Koln_M'gladbach_2008,M'gladbach,12,12,24,31
+2009-03-14,Hertha_Leverkusen_2008,Hertha,13,11,24,31
+2009-03-14,Hertha_Leverkusen_2008,Leverkusen,12,12,24,31
+2009-03-14,Bochum_Bayern Munich_2008,Bochum,13,11,24,31
+2009-03-14,FC Koln_M'gladbach_2008,FC Koln,12,12,24,31
+2009-03-14,Karlsruhe_Bielefeld_2008,Karlsruhe,12,12,24,31
+2009-03-14,Ein Frankfurt_Hoffenheim_2008,Hoffenheim,12,12,24,31
+2009-03-14,Hannover_Dortmund_2008,Hannover,13,11,24,31
+2009-03-14,Karlsruhe_Bielefeld_2008,Bielefeld,11,13,24,31
+2009-03-14,Bochum_Bayern Munich_2008,Bayern Munich,11,13,24,31
+2009-03-15,Werder Bremen_Stuttgart_2008,Werder Bremen,13,11,24,31
+2009-03-15,Werder Bremen_Stuttgart_2008,Stuttgart,12,12,24,31
+2009-03-15,Hamburg_Cottbus_2008,Hamburg,12,12,24,31
+2009-03-15,Hamburg_Cottbus_2008,Cottbus,11,13,24,31
+2009-03-20,M'gladbach_Bochum_2008,M'gladbach,13,12,25,32
+2009-03-20,M'gladbach_Bochum_2008,Bochum,13,12,25,32
+2009-03-21,Dortmund_Werder Bremen_2008,Werder Bremen,13,12,25,32
+2009-03-21,Bielefeld_Wolfsburg_2008,Wolfsburg,12,13,25,32
+2009-03-21,Hoffenheim_Hannover_2008,Hoffenheim,13,12,25,32
+2009-03-21,Bielefeld_Wolfsburg_2008,Bielefeld,12,13,25,32
+2009-03-21,Leverkusen_Ein Frankfurt_2008,Leverkusen,13,12,25,32
+2009-03-21,Stuttgart_Hertha_2008,Stuttgart,13,12,25,32
+2009-03-21,Cottbus_FC Koln_2008,FC Koln,12,13,25,32
+2009-03-21,Hoffenheim_Hannover_2008,Hannover,13,12,25,32
+2009-03-21,Cottbus_FC Koln_2008,Cottbus,12,13,25,32
+2009-03-21,Bayern Munich_Karlsruhe_2008,Bayern Munich,12,13,25,32
+2009-03-21,Stuttgart_Hertha_2008,Hertha,13,12,25,32
+2009-03-21,Dortmund_Werder Bremen_2008,Dortmund,13,12,25,32
+2009-03-21,Leverkusen_Ein Frankfurt_2008,Ein Frankfurt,12,13,25,32
+2009-03-21,Bayern Munich_Karlsruhe_2008,Karlsruhe,12,13,25,32
+2009-03-22,Schalke 04_Hamburg_2008,Schalke 04,12,13,25,32
+2009-03-22,Schalke 04_Hamburg_2008,Hamburg,12,13,25,32
+2009-04-03,Bielefeld_Schalke 04_2008,Bielefeld,13,13,26,34
+2009-04-03,Bielefeld_Schalke 04_2008,Schalke 04,12,14,26,34
+2009-04-04,Hertha_Dortmund_2008,Hertha,14,12,26,34
+2009-04-04,Wolfsburg_Bayern Munich_2008,Wolfsburg,13,13,26,34
+2009-04-04,Ein Frankfurt_Cottbus_2008,Ein Frankfurt,13,13,26,34
+2009-04-04,Bochum_Stuttgart_2008,Stuttgart,13,13,26,34
+2009-04-04,Hertha_Dortmund_2008,Dortmund,13,13,26,34
+2009-04-04,Ein Frankfurt_Cottbus_2008,Cottbus,12,14,26,34
+2009-04-04,Hamburg_Hoffenheim_2008,Hoffenheim,13,13,26,34
+2009-04-04,Hamburg_Hoffenheim_2008,Hamburg,13,13,26,34
+2009-04-04,Bochum_Stuttgart_2008,Bochum,14,12,26,34
+2009-04-04,Wolfsburg_Bayern Munich_2008,Bayern Munich,12,14,26,34
+2009-04-05,Werder Bremen_Hannover_2008,Hannover,13,13,26,34
+2009-04-05,FC Koln_Leverkusen_2008,Leverkusen,13,13,26,34
+2009-04-05,Karlsruhe_M'gladbach_2008,Karlsruhe,13,13,26,34
+2009-04-05,Karlsruhe_M'gladbach_2008,M'gladbach,13,13,26,34
+2009-04-05,FC Koln_Leverkusen_2008,FC Koln,13,13,26,34
+2009-04-05,Werder Bremen_Hannover_2008,Werder Bremen,14,12,26,34
+2009-04-11,Dortmund_FC Koln_2008,FC Koln,13,14,27,35
+2009-04-11,Bayern Munich_Ein Frankfurt_2008,Ein Frankfurt,13,14,27,35
+2009-04-11,Schalke 04_Karlsruhe_2008,Karlsruhe,13,14,27,35
+2009-04-11,Schalke 04_Karlsruhe_2008,Schalke 04,13,14,27,35
+2009-04-11,Hannover_Hertha_2008,Hannover,14,13,27,35
+2009-04-11,M'gladbach_Wolfsburg_2008,M'gladbach,14,13,27,35
+2009-04-11,Dortmund_FC Koln_2008,Dortmund,14,13,27,35
+2009-04-11,Hoffenheim_Bochum_2008,Bochum,14,13,27,35
+2009-04-11,Cottbus_Bielefeld_2008,Bielefeld,13,14,27,35
+2009-04-11,Hannover_Hertha_2008,Hertha,14,13,27,35
+2009-04-11,M'gladbach_Wolfsburg_2008,Wolfsburg,13,14,27,35
+2009-04-11,Bayern Munich_Ein Frankfurt_2008,Bayern Munich,13,14,27,35
+2009-04-11,Cottbus_Bielefeld_2008,Cottbus,13,14,27,35
+2009-04-11,Hoffenheim_Bochum_2008,Hoffenheim,14,13,27,35
+2009-04-12,Leverkusen_Werder Bremen_2008,Leverkusen,14,13,27,35
+2009-04-12,Leverkusen_Werder Bremen_2008,Werder Bremen,14,13,27,35
+2009-04-12,Stuttgart_Hamburg_2008,Stuttgart,14,13,27,35
+2009-04-12,Stuttgart_Hamburg_2008,Hamburg,13,14,27,35
+2009-04-17,Schalke 04_Cottbus_2008,Schalke 04,14,14,28,36
+2009-04-17,Schalke 04_Cottbus_2008,Cottbus,13,15,28,36
+2009-04-18,Wolfsburg_Leverkusen_2008,Wolfsburg,14,14,28,36
+2009-04-18,Karlsruhe_Hoffenheim_2008,Hoffenheim,14,14,28,36
+2009-04-18,Karlsruhe_Hoffenheim_2008,Karlsruhe,14,14,28,36
+2009-04-18,FC Koln_Stuttgart_2008,Stuttgart,14,14,28,36
+2009-04-18,FC Koln_Stuttgart_2008,FC Koln,14,14,28,36
+2009-04-18,Bochum_Dortmund_2008,Bochum,15,13,28,36
+2009-04-18,Ein Frankfurt_M'gladbach_2008,Ein Frankfurt,14,14,28,36
+2009-04-18,Bochum_Dortmund_2008,Dortmund,14,14,28,36
+2009-04-18,Bielefeld_Bayern Munich_2008,Bielefeld,14,14,28,36
+2009-04-18,Wolfsburg_Leverkusen_2008,Leverkusen,14,14,28,36
+2009-04-18,Ein Frankfurt_M'gladbach_2008,M'gladbach,14,14,28,36
+2009-04-18,Bielefeld_Bayern Munich_2008,Bayern Munich,13,15,28,36
+2009-04-19,Hamburg_Hannover_2008,Hamburg,14,14,28,36
+2009-04-19,Hamburg_Hannover_2008,Hannover,14,14,28,36
+2009-04-19,Hertha_Werder Bremen_2008,Hertha,15,13,28,36
+2009-04-19,Hertha_Werder Bremen_2008,Werder Bremen,14,14,28,36
+2009-04-24,Hoffenheim_Hertha_2008,Hertha,15,14,29,37
+2009-04-24,Hoffenheim_Hertha_2008,Hoffenheim,15,14,29,37
+2009-04-25,Hannover_FC Koln_2008,Hannover,15,14,29,37
+2009-04-25,Werder Bremen_Bochum_2008,Werder Bremen,15,14,29,37
+2009-04-25,Dortmund_Hamburg_2008,Hamburg,14,15,29,37
+2009-04-25,Werder Bremen_Bochum_2008,Bochum,15,14,29,37
+2009-04-25,Dortmund_Hamburg_2008,Dortmund,15,14,29,37
+2009-04-25,Stuttgart_Ein Frankfurt_2008,Ein Frankfurt,14,15,29,37
+2009-04-25,Leverkusen_Karlsruhe_2008,Leverkusen,15,14,29,37
+2009-04-25,Bayern Munich_Schalke 04_2008,Schalke 04,14,15,29,37
+2009-04-25,Leverkusen_Karlsruhe_2008,Karlsruhe,14,15,29,37
+2009-04-25,Bayern Munich_Schalke 04_2008,Bayern Munich,14,15,29,37
+2009-04-25,Hannover_FC Koln_2008,FC Koln,14,15,29,37
+2009-04-25,Stuttgart_Ein Frankfurt_2008,Stuttgart,15,14,29,37
+2009-04-26,Cottbus_Wolfsburg_2008,Wolfsburg,14,15,29,37
+2009-04-26,M'gladbach_Bielefeld_2008,M'gladbach,15,14,29,37
+2009-04-26,M'gladbach_Bielefeld_2008,Bielefeld,14,15,29,37
+2009-04-26,Cottbus_Wolfsburg_2008,Cottbus,14,15,29,37
+2009-05-01,Bochum_Hannover_2008,Hannover,15,15,30,38
+2009-05-01,Bochum_Hannover_2008,Bochum,16,14,30,38
+2009-05-02,Bayern Munich_M'gladbach_2008,M'gladbach,15,15,30,38
+2009-05-02,Bielefeld_Stuttgart_2008,Stuttgart,15,15,30,38
+2009-05-02,Schalke 04_Leverkusen_2008,Leverkusen,15,15,30,38
+2009-05-02,Wolfsburg_Hoffenheim_2008,Wolfsburg,15,15,30,38
+2009-05-02,Karlsruhe_Cottbus_2008,Karlsruhe,15,15,30,38
+2009-05-02,Bielefeld_Stuttgart_2008,Bielefeld,15,15,30,38
+2009-05-02,Schalke 04_Leverkusen_2008,Schalke 04,15,15,30,38
+2009-05-02,Wolfsburg_Hoffenheim_2008,Hoffenheim,15,15,30,38
+2009-05-02,Karlsruhe_Cottbus_2008,Cottbus,14,16,30,38
+2009-05-02,Ein Frankfurt_Dortmund_2008,Ein Frankfurt,15,15,30,38
+2009-05-02,Bayern Munich_M'gladbach_2008,Bayern Munich,15,15,30,38
+2009-05-02,Ein Frankfurt_Dortmund_2008,Dortmund,15,15,30,38
+2009-05-03,Hamburg_Hertha_2008,Hertha,15,15,30,38
+2009-05-03,Hamburg_Hertha_2008,Hamburg,15,15,30,38
+2009-05-03,FC Koln_Werder Bremen_2008,FC Koln,15,15,30,38
+2009-05-03,FC Koln_Werder Bremen_2008,Werder Bremen,15,15,30,38
+2009-05-08,Leverkusen_Bielefeld_2008,Leverkusen,16,15,31,39
+2009-05-08,Leverkusen_Bielefeld_2008,Bielefeld,15,16,31,39
+2009-05-09,Dortmund_Karlsruhe_2008,Dortmund,16,15,31,39
+2009-05-09,Hoffenheim_FC Koln_2008,FC Koln,15,16,31,39
+2009-05-09,Cottbus_Bayern Munich_2008,Bayern Munich,15,16,31,39
+2009-05-09,Dortmund_Karlsruhe_2008,Karlsruhe,15,16,31,39
+2009-05-09,Cottbus_Bayern Munich_2008,Cottbus,15,16,31,39
+2009-05-09,Hoffenheim_FC Koln_2008,Hoffenheim,16,15,31,39
+2009-05-09,Stuttgart_Wolfsburg_2008,Stuttgart,16,15,31,39
+2009-05-09,Stuttgart_Wolfsburg_2008,Wolfsburg,15,16,31,39
+2009-05-09,Hertha_Bochum_2008,Bochum,16,15,31,39
+2009-05-09,Hannover_Ein Frankfurt_2008,Ein Frankfurt,15,16,31,39
+2009-05-09,Hertha_Bochum_2008,Hertha,16,15,31,39
+2009-05-09,Hannover_Ein Frankfurt_2008,Hannover,16,15,31,39
+2009-05-10,Werder Bremen_Hamburg_2008,Werder Bremen,16,15,31,39
+2009-05-10,M'gladbach_Schalke 04_2008,M'gladbach,16,15,31,39
+2009-05-10,M'gladbach_Schalke 04_2008,Schalke 04,15,16,31,39
+2009-05-10,Werder Bremen_Hamburg_2008,Hamburg,15,16,31,39
+2009-05-12,Bayern Munich_Leverkusen_2008,Leverkusen,16,16,32,40
+2009-05-12,Wolfsburg_Dortmund_2008,Dortmund,16,16,32,40
+2009-05-12,FC Koln_Hertha_2008,FC Koln,16,16,32,40
+2009-05-12,Bayern Munich_Leverkusen_2008,Bayern Munich,16,16,32,40
+2009-05-12,Karlsruhe_Hannover_2008,Karlsruhe,16,16,32,40
+2009-05-12,Karlsruhe_Hannover_2008,Hannover,16,16,32,40
+2009-05-12,Wolfsburg_Dortmund_2008,Wolfsburg,16,16,32,40
+2009-05-12,FC Koln_Hertha_2008,Hertha,16,16,32,40
+2009-05-13,Cottbus_M'gladbach_2008,M'gladbach,16,16,32,40
+2009-05-13,Bielefeld_Hoffenheim_2008,Bielefeld,16,16,32,40
+2009-05-13,Schalke 04_Stuttgart_2008,Stuttgart,16,16,32,40
+2009-05-13,Ein Frankfurt_Werder Bremen_2008,Ein Frankfurt,16,16,32,40
+2009-05-13,Hamburg_Bochum_2008,Bochum,16,16,32,40
+2009-05-13,Schalke 04_Stuttgart_2008,Schalke 04,16,16,32,40
+2009-05-13,Hamburg_Bochum_2008,Hamburg,16,16,32,40
+2009-05-13,Ein Frankfurt_Werder Bremen_2008,Werder Bremen,16,16,32,40
+2009-05-13,Cottbus_M'gladbach_2008,Cottbus,16,16,32,40
+2009-05-13,Bielefeld_Hoffenheim_2008,Hoffenheim,16,16,32,40
+2009-05-16,Hannover_Wolfsburg_2008,Wolfsburg,16,17,33,40
+2009-05-16,Dortmund_Bielefeld_2008,Dortmund,17,16,33,40
+2009-05-16,Stuttgart_Cottbus_2008,Stuttgart,17,16,33,40
+2009-05-16,Werder Bremen_Karlsruhe_2008,Werder Bremen,17,16,33,40
+2009-05-16,Hamburg_FC Koln_2008,FC Koln,16,17,33,40
+2009-05-16,Bochum_Ein Frankfurt_2008,Bochum,17,16,33,40
+2009-05-16,Leverkusen_M'gladbach_2008,Leverkusen,17,16,33,40
+2009-05-16,Leverkusen_M'gladbach_2008,M'gladbach,16,17,33,40
+2009-05-16,Hoffenheim_Bayern Munich_2008,Bayern Munich,16,17,33,40
+2009-05-16,Stuttgart_Cottbus_2008,Cottbus,16,17,33,40
+2009-05-16,Hertha_Schalke 04_2008,Hertha,17,16,33,40
+2009-05-16,Hertha_Schalke 04_2008,Schalke 04,16,17,33,40
+2009-05-16,Bochum_Ein Frankfurt_2008,Ein Frankfurt,16,17,33,40
+2009-05-16,Dortmund_Bielefeld_2008,Bielefeld,16,17,33,40
+2009-05-16,Hannover_Wolfsburg_2008,Hannover,17,16,33,40
+2009-05-16,Hamburg_FC Koln_2008,Hamburg,17,16,33,40
+2009-05-16,Hoffenheim_Bayern Munich_2008,Hoffenheim,17,16,33,40
+2009-05-16,Werder Bremen_Karlsruhe_2008,Karlsruhe,16,17,33,40
+2009-05-23,Bayern Munich_Stuttgart_2008,Stuttgart,17,17,34,41
+2009-05-23,Karlsruhe_Hertha_2008,Karlsruhe,17,17,34,41
+2009-05-23,Karlsruhe_Hertha_2008,Hertha,17,17,34,41
+2009-05-23,Bielefeld_Hannover_2008,Bielefeld,17,17,34,41
+2009-05-23,Bielefeld_Hannover_2008,Hannover,17,17,34,41
+2009-05-23,Cottbus_Leverkusen_2008,Cottbus,17,17,34,41
+2009-05-23,M'gladbach_Dortmund_2008,Dortmund,17,17,34,41
+2009-05-23,Ein Frankfurt_Hamburg_2008,Ein Frankfurt,17,17,34,41
+2009-05-23,Wolfsburg_Werder Bremen_2008,Werder Bremen,17,17,34,41
+2009-05-23,Schalke 04_Hoffenheim_2008,Schalke 04,17,17,34,41
+2009-05-23,Cottbus_Leverkusen_2008,Leverkusen,17,17,34,41
+2009-05-23,FC Koln_Bochum_2008,FC Koln,17,17,34,41
+2009-05-23,Bayern Munich_Stuttgart_2008,Bayern Munich,17,17,34,41
+2009-05-23,Schalke 04_Hoffenheim_2008,Hoffenheim,17,17,34,41
+2009-05-23,FC Koln_Bochum_2008,Bochum,17,17,34,41
+2009-05-23,Ein Frankfurt_Hamburg_2008,Hamburg,17,17,34,41
+2009-05-23,M'gladbach_Dortmund_2008,M'gladbach,17,17,34,41
+2009-05-23,Wolfsburg_Werder Bremen_2008,Wolfsburg,17,17,34,41

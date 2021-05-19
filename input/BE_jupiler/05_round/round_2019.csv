@@ -1,0 +1,465 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2019-07-26,Genk_Kortrijk_2019,Genk,1,1,1,1
+2019-07-26,Genk_Kortrijk_2019,Kortrijk,1,1,1,1
+2019-07-27,Cercle Brugge_Standard_2019,Standard,1,1,1,1
+2019-07-27,St Truiden_Mouscron_2019,Mouscron,1,1,1,1
+2019-07-27,Waasland-Beveren_Club Brugge_2019,Club Brugge,1,1,1,1
+2019-07-27,Waregem_Mechelen_2019,Waregem,1,1,1,1
+2019-07-27,Cercle Brugge_Standard_2019,Cercle Brugge,1,1,1,1
+2019-07-27,St Truiden_Mouscron_2019,St Truiden,1,1,1,1
+2019-07-27,Waasland-Beveren_Club Brugge_2019,Waasland-Beveren,1,1,1,1
+2019-07-27,Waregem_Mechelen_2019,Mechelen,1,1,1,1
+2019-07-28,Charleroi_Gent_2019,Charleroi,1,1,1,1
+2019-07-28,Anderlecht_Oostende_2019,Oostende,1,1,1,1
+2019-07-28,Anderlecht_Oostende_2019,Anderlecht,1,1,1,1
+2019-07-28,Charleroi_Gent_2019,Gent,1,1,1,1
+2019-07-28,Eupen_Antwerp_2019,Eupen,1,1,1,1
+2019-07-28,Eupen_Antwerp_2019,Antwerp,1,1,1,1
+2019-08-02,Club Brugge_St Truiden_2019,Club Brugge,1,1,2,2
+2019-08-02,Club Brugge_St Truiden_2019,St Truiden,1,1,2,2
+2019-08-03,Standard_Waregem_2019,Waregem,1,1,2,2
+2019-08-03,Oostende_Cercle Brugge_2019,Oostende,1,1,2,2
+2019-08-03,Kortrijk_Charleroi_2019,Charleroi,1,1,2,2
+2019-08-03,Kortrijk_Charleroi_2019,Kortrijk,1,1,2,2
+2019-08-03,Standard_Waregem_2019,Standard,1,1,2,2
+2019-08-03,Oostende_Cercle Brugge_2019,Cercle Brugge,1,1,2,2
+2019-08-03,Mechelen_Genk_2019,Genk,1,1,2,2
+2019-08-03,Mechelen_Genk_2019,Mechelen,1,1,2,2
+2019-08-04,Mouscron_Anderlecht_2019,Anderlecht,1,1,2,2
+2019-08-04,Antwerp_Waasland-Beveren_2019,Antwerp,1,1,2,2
+2019-08-04,Mouscron_Anderlecht_2019,Mouscron,1,1,2,2
+2019-08-04,Gent_Eupen_2019,Gent,1,1,2,2
+2019-08-04,Gent_Eupen_2019,Eupen,1,1,2,2
+2019-08-04,Antwerp_Waasland-Beveren_2019,Waasland-Beveren,1,1,2,2
+2019-08-09,Anderlecht_Mechelen_2019,Anderlecht,2,1,3,3
+2019-08-09,Anderlecht_Mechelen_2019,Mechelen,1,2,3,3
+2019-08-10,Eupen_Waasland-Beveren_2019,Waasland-Beveren,1,2,3,3
+2019-08-10,Cercle Brugge_Kortrijk_2019,Cercle Brugge,2,1,3,3
+2019-08-10,Cercle Brugge_Kortrijk_2019,Kortrijk,1,2,3,3
+2019-08-10,Oostende_Club Brugge_2019,Club Brugge,1,2,3,3
+2019-08-10,Eupen_Waasland-Beveren_2019,Eupen,2,1,3,3
+2019-08-10,Genk_Waregem_2019,Genk,2,1,3,3
+2019-08-10,Genk_Waregem_2019,Waregem,1,2,3,3
+2019-08-10,Oostende_Club Brugge_2019,Oostende,2,1,3,3
+2019-08-11,Mouscron_Gent_2019,Mouscron,2,1,3,3
+2019-08-11,St Truiden_Standard_2019,Standard,1,2,3,3
+2019-08-11,Mouscron_Gent_2019,Gent,1,2,3,3
+2019-08-11,Charleroi_Antwerp_2019,Antwerp,1,2,3,3
+2019-08-11,St Truiden_Standard_2019,St Truiden,2,1,3,3
+2019-08-11,Charleroi_Antwerp_2019,Charleroi,2,1,3,3
+2019-08-16,Club Brugge_Eupen_2019,Club Brugge,2,2,4,4
+2019-08-16,Club Brugge_Eupen_2019,Eupen,2,2,4,4
+2019-08-17,Waasland-Beveren_Genk_2019,Waasland-Beveren,2,2,4,4
+2019-08-17,Kortrijk_Anderlecht_2019,Anderlecht,2,2,4,4
+2019-08-17,Mechelen_Cercle Brugge_2019,Mechelen,2,2,4,4
+2019-08-17,Kortrijk_Anderlecht_2019,Kortrijk,2,2,4,4
+2019-08-17,Waasland-Beveren_Genk_2019,Genk,2,2,4,4
+2019-08-17,Mechelen_Cercle Brugge_2019,Cercle Brugge,2,2,4,4
+2019-08-18,Antwerp_St Truiden_2019,Antwerp,2,2,4,4
+2019-08-18,Standard_Mouscron_2019,Mouscron,2,2,4,4
+2019-08-18,Gent_Oostende_2019,Oostende,2,2,4,4
+2019-08-18,Standard_Mouscron_2019,Standard,2,2,4,4
+2019-08-18,Antwerp_St Truiden_2019,St Truiden,2,2,4,4
+2019-08-18,Gent_Oostende_2019,Gent,2,2,4,4
+2019-08-19,Waregem_Charleroi_2019,Charleroi,2,2,4,4
+2019-08-19,Waregem_Charleroi_2019,Waregem,2,2,4,4
+2019-08-23,Genk_Anderlecht_2019,Genk,3,2,5,5
+2019-08-23,Genk_Anderlecht_2019,Anderlecht,2,3,5,5
+2019-08-24,St Truiden_Waregem_2019,Waregem,2,3,5,5
+2019-08-24,Oostende_Mechelen_2019,Mechelen,2,3,5,5
+2019-08-24,Oostende_Mechelen_2019,Oostende,3,2,5,5
+2019-08-24,St Truiden_Waregem_2019,St Truiden,3,2,5,5
+2019-08-24,Cercle Brugge_Waasland-Beveren_2019,Waasland-Beveren,2,3,5,5
+2019-08-24,Cercle Brugge_Waasland-Beveren_2019,Cercle Brugge,3,2,5,5
+2019-08-25,Mouscron_Eupen_2019,Eupen,2,3,5,5
+2019-08-25,Standard_Kortrijk_2019,Kortrijk,2,3,5,5
+2019-08-25,Standard_Kortrijk_2019,Standard,3,2,5,5
+2019-08-25,Mouscron_Eupen_2019,Mouscron,3,2,5,5
+2019-08-30,Mechelen_Mouscron_2019,Mouscron,3,3,6,6
+2019-08-30,Mechelen_Mouscron_2019,Mechelen,3,3,6,6
+2019-08-31,Waasland-Beveren_Charleroi_2019,Charleroi,2,3,5,6
+2019-08-31,Kortrijk_Oostende_2019,Oostende,3,3,6,6
+2019-08-31,Kortrijk_Oostende_2019,Kortrijk,3,3,6,6
+2019-08-31,Eupen_St Truiden_2019,Eupen,3,3,6,6
+2019-08-31,Eupen_St Truiden_2019,St Truiden,3,3,6,6
+2019-08-31,Waasland-Beveren_Charleroi_2019,Waasland-Beveren,3,3,6,6
+2019-09-01,Gent_Cercle Brugge_2019,Cercle Brugge,3,3,6,6
+2019-09-01,Anderlecht_Standard_2019,Anderlecht,3,3,6,6
+2019-09-01,Club Brugge_Genk_2019,Genk,3,3,6,6
+2019-09-01,Gent_Cercle Brugge_2019,Gent,3,2,5,6
+2019-09-01,Waregem_Antwerp_2019,Antwerp,2,3,5,6
+2019-09-01,Anderlecht_Standard_2019,Standard,3,3,6,6
+2019-09-01,Waregem_Antwerp_2019,Waregem,3,3,6,6
+2019-09-01,Club Brugge_Genk_2019,Club Brugge,3,2,5,6
+2019-09-13,Charleroi_Genk_2019,Genk,3,4,7,8
+2019-09-13,Charleroi_Genk_2019,Charleroi,3,3,6,8
+2019-09-14,Eupen_Waregem_2019,Waregem,3,4,7,8
+2019-09-14,St Truiden_Waasland-Beveren_2019,Waasland-Beveren,3,4,7,8
+2019-09-14,Cercle Brugge_Club Brugge_2019,Club Brugge,3,3,6,8
+2019-09-14,Oostende_Standard_2019,Oostende,4,3,7,8
+2019-09-14,Cercle Brugge_Club Brugge_2019,Cercle Brugge,4,3,7,8
+2019-09-14,St Truiden_Waasland-Beveren_2019,St Truiden,4,3,7,8
+2019-09-14,Oostende_Standard_2019,Standard,3,4,7,8
+2019-09-14,Eupen_Waregem_2019,Eupen,4,3,7,8
+2019-09-15,Anderlecht_Antwerp_2019,Antwerp,2,4,6,8
+2019-09-15,Mouscron_Kortrijk_2019,Mouscron,4,3,7,8
+2019-09-15,Mouscron_Kortrijk_2019,Kortrijk,3,4,7,8
+2019-09-15,Gent_Mechelen_2019,Mechelen,3,4,7,8
+2019-09-15,Gent_Mechelen_2019,Gent,4,2,6,8
+2019-09-15,Anderlecht_Antwerp_2019,Anderlecht,4,3,7,8
+2019-09-20,Kortrijk_Mechelen_2019,Mechelen,3,5,8,9
+2019-09-20,Kortrijk_Mechelen_2019,Kortrijk,4,4,8,9
+2019-09-21,Genk_Oostende_2019,Oostende,4,4,8,9
+2019-09-21,Antwerp_Cercle Brugge_2019,Antwerp,3,4,7,9
+2019-09-21,Genk_Oostende_2019,Genk,4,4,8,9
+2019-09-21,Antwerp_Cercle Brugge_2019,Cercle Brugge,4,4,8,9
+2019-09-21,Charleroi_St Truiden_2019,St Truiden,4,4,8,9
+2019-09-21,Waasland-Beveren_Mouscron_2019,Mouscron,4,4,8,9
+2019-09-21,Charleroi_St Truiden_2019,Charleroi,4,3,7,9
+2019-09-21,Waasland-Beveren_Mouscron_2019,Waasland-Beveren,4,4,8,9
+2019-09-22,Waregem_Gent_2019,Waregem,4,4,8,9
+2019-09-22,Club Brugge_Anderlecht_2019,Club Brugge,4,3,7,9
+2019-09-22,Standard_Eupen_2019,Eupen,4,4,8,9
+2019-09-22,Club Brugge_Anderlecht_2019,Anderlecht,4,4,8,9
+2019-09-22,Waregem_Gent_2019,Gent,4,3,7,9
+2019-09-22,Standard_Eupen_2019,Standard,4,4,8,9
+2019-09-28,Mouscron_Waregem_2019,Mouscron,5,4,9,10
+2019-09-28,Cercle Brugge_Eupen_2019,Cercle Brugge,5,4,9,10
+2019-09-28,Mechelen_Club Brugge_2019,Mechelen,4,5,9,10
+2019-09-28,Gent_Kortrijk_2019,Kortrijk,4,5,9,10
+2019-09-28,St Truiden_Genk_2019,St Truiden,5,4,9,10
+2019-09-28,Mechelen_Club Brugge_2019,Club Brugge,4,4,8,10
+2019-09-28,St Truiden_Genk_2019,Genk,4,5,9,10
+2019-09-28,Gent_Kortrijk_2019,Gent,5,3,8,10
+2019-09-28,Mouscron_Waregem_2019,Waregem,4,5,9,10
+2019-09-28,Cercle Brugge_Eupen_2019,Eupen,4,5,9,10
+2019-09-29,Oostende_Antwerp_2019,Oostende,5,4,9,10
+2019-09-29,Anderlecht_Waasland-Beveren_2019,Anderlecht,5,4,9,10
+2019-09-29,Anderlecht_Waasland-Beveren_2019,Waasland-Beveren,4,5,9,10
+2019-09-29,Standard_Charleroi_2019,Standard,5,4,9,10
+2019-09-29,Oostende_Antwerp_2019,Antwerp,3,5,8,10
+2019-09-29,Standard_Charleroi_2019,Charleroi,4,4,8,10
+2019-10-04,Charleroi_Anderlecht_2019,Anderlecht,5,5,10,11
+2019-10-04,Charleroi_Anderlecht_2019,Charleroi,5,4,9,11
+2019-10-05,Waregem_Cercle Brugge_2019,Cercle Brugge,5,5,10,11
+2019-10-05,Kortrijk_St Truiden_2019,St Truiden,5,5,10,11
+2019-10-05,Kortrijk_St Truiden_2019,Kortrijk,5,5,10,11
+2019-10-05,Waasland-Beveren_Oostende_2019,Waasland-Beveren,5,5,10,11
+2019-10-05,Waasland-Beveren_Oostende_2019,Oostende,5,5,10,11
+2019-10-05,Waregem_Cercle Brugge_2019,Waregem,5,5,10,11
+2019-10-05,Eupen_Mechelen_2019,Mechelen,4,6,10,11
+2019-10-05,Eupen_Mechelen_2019,Eupen,5,5,10,11
+2019-10-06,Club Brugge_Gent_2019,Gent,5,4,9,11
+2019-10-06,Antwerp_Standard_2019,Antwerp,4,5,9,11
+2019-10-06,Genk_Mouscron_2019,Genk,5,5,10,11
+2019-10-06,Antwerp_Standard_2019,Standard,5,5,10,11
+2019-10-06,Genk_Mouscron_2019,Mouscron,5,5,10,11
+2019-10-06,Club Brugge_Gent_2019,Club Brugge,5,4,9,11
+2019-10-18,Mouscron_Club Brugge_2019,Mouscron,6,5,11,13
+2019-10-18,Mouscron_Club Brugge_2019,Club Brugge,5,5,10,13
+2019-10-19,Gent_Waasland-Beveren_2019,Gent,6,4,10,13
+2019-10-19,Kortrijk_Waregem_2019,Kortrijk,6,5,11,13
+2019-10-19,Standard_Genk_2019,Genk,5,6,11,13
+2019-10-19,Oostende_Eupen_2019,Eupen,5,6,11,13
+2019-10-19,Gent_Waasland-Beveren_2019,Waasland-Beveren,5,6,11,13
+2019-10-19,Standard_Genk_2019,Standard,6,5,11,13
+2019-10-19,Kortrijk_Waregem_2019,Waregem,5,6,11,13
+2019-10-19,Oostende_Eupen_2019,Oostende,6,5,11,13
+2019-10-20,Anderlecht_St Truiden_2019,Anderlecht,6,5,11,13
+2019-10-20,Cercle Brugge_Charleroi_2019,Charleroi,5,5,10,13
+2019-10-20,Mechelen_Antwerp_2019,Mechelen,5,6,11,13
+2019-10-20,Anderlecht_St Truiden_2019,St Truiden,5,6,11,13
+2019-10-20,Cercle Brugge_Charleroi_2019,Cercle Brugge,6,5,11,13
+2019-10-20,Mechelen_Antwerp_2019,Antwerp,4,6,10,13
+2019-10-25,Eupen_Anderlecht_2019,Eupen,6,6,12,14
+2019-10-25,Eupen_Anderlecht_2019,Anderlecht,6,6,12,14
+2019-10-26,Charleroi_Mouscron_2019,Charleroi,6,5,11,14
+2019-10-26,Charleroi_Mouscron_2019,Mouscron,6,6,12,14
+2019-10-26,Antwerp_Kortrijk_2019,Antwerp,5,6,11,14
+2019-10-26,Waregem_Oostende_2019,Waregem,6,6,12,14
+2019-10-26,Genk_Cercle Brugge_2019,Cercle Brugge,6,6,12,14
+2019-10-26,Antwerp_Kortrijk_2019,Kortrijk,6,6,12,14
+2019-10-26,Waregem_Oostende_2019,Oostende,6,6,12,14
+2019-10-26,Genk_Cercle Brugge_2019,Genk,6,6,12,14
+2019-10-27,Club Brugge_Standard_2019,Standard,6,6,12,14
+2019-10-27,St Truiden_Gent_2019,St Truiden,6,6,12,14
+2019-10-27,Waasland-Beveren_Mechelen_2019,Mechelen,5,7,12,14
+2019-10-27,Club Brugge_Standard_2019,Club Brugge,6,5,11,14
+2019-10-27,St Truiden_Gent_2019,Gent,6,5,11,14
+2019-10-27,Waasland-Beveren_Mechelen_2019,Waasland-Beveren,6,6,12,14
+2019-10-29,Kortrijk_Eupen_2019,Kortrijk,7,6,13,15
+2019-10-29,Oostende_Charleroi_2019,Charleroi,6,6,12,15
+2019-10-29,Cercle Brugge_Mouscron_2019,Cercle Brugge,7,6,13,15
+2019-10-29,Cercle Brugge_Mouscron_2019,Mouscron,6,7,13,15
+2019-10-29,Kortrijk_Eupen_2019,Eupen,6,7,13,15
+2019-10-29,Oostende_Charleroi_2019,Oostende,7,6,13,15
+2019-10-30,Waregem_Club Brugge_2019,Waregem,7,6,13,15
+2019-10-30,Genk_Antwerp_2019,Antwerp,5,7,12,15
+2019-10-30,Mechelen_St Truiden_2019,Mechelen,6,7,13,15
+2019-10-30,Standard_Waasland-Beveren_2019,Waasland-Beveren,6,7,13,15
+2019-10-30,Standard_Waasland-Beveren_2019,Standard,7,6,13,15
+2019-10-30,Mechelen_St Truiden_2019,St Truiden,6,7,13,15
+2019-10-30,Genk_Antwerp_2019,Genk,7,6,13,15
+2019-10-30,Waregem_Club Brugge_2019,Club Brugge,6,6,12,15
+2019-10-31,Anderlecht_Gent_2019,Anderlecht,7,6,13,15
+2019-10-31,Anderlecht_Gent_2019,Gent,6,6,12,15
+2019-11-02,Mouscron_Antwerp_2019,Antwerp,5,8,13,15
+2019-11-02,Mouscron_Antwerp_2019,Mouscron,7,7,14,15
+2019-11-02,Club Brugge_Kortrijk_2019,Club Brugge,7,6,13,15
+2019-11-02,Eupen_Genk_2019,Eupen,7,7,14,15
+2019-11-02,Waasland-Beveren_Waregem_2019,Waregem,7,7,14,15
+2019-11-02,Club Brugge_Kortrijk_2019,Kortrijk,7,7,14,15
+2019-11-02,Waasland-Beveren_Waregem_2019,Waasland-Beveren,7,7,14,15
+2019-11-02,Eupen_Genk_2019,Genk,7,7,14,15
+2019-11-02,St Truiden_Oostende_2019,St Truiden,7,7,14,15
+2019-11-02,St Truiden_Oostende_2019,Oostende,7,7,14,15
+2019-11-03,Gent_Standard_2019,Standard,7,7,14,15
+2019-11-03,Anderlecht_Cercle Brugge_2019,Cercle Brugge,7,7,14,15
+2019-11-03,Gent_Standard_2019,Gent,7,6,13,15
+2019-11-03,Anderlecht_Cercle Brugge_2019,Anderlecht,8,6,14,15
+2019-11-03,Mechelen_Charleroi_2019,Charleroi,6,7,13,15
+2019-11-03,Mechelen_Charleroi_2019,Mechelen,7,7,14,15
+2019-11-08,Waregem_Anderlecht_2019,Waregem,8,7,15,16
+2019-11-08,Waregem_Anderlecht_2019,Anderlecht,8,7,15,16
+2019-11-09,Charleroi_Eupen_2019,Charleroi,7,7,14,16
+2019-11-09,Oostende_Mouscron_2019,Oostende,8,7,15,16
+2019-11-09,Charleroi_Eupen_2019,Eupen,7,8,15,16
+2019-11-09,Kortrijk_Waasland-Beveren_2019,Kortrijk,8,7,15,16
+2019-11-09,Oostende_Mouscron_2019,Mouscron,7,8,15,16
+2019-11-09,Kortrijk_Waasland-Beveren_2019,Waasland-Beveren,7,8,15,16
+2019-11-09,Cercle Brugge_St Truiden_2019,Cercle Brugge,8,7,15,16
+2019-11-09,Cercle Brugge_St Truiden_2019,St Truiden,7,8,15,16
+2019-11-10,Antwerp_Club Brugge_2019,Club Brugge,7,7,14,16
+2019-11-10,Standard_Mechelen_2019,Standard,8,7,15,16
+2019-11-10,Genk_Gent_2019,Genk,8,7,15,16
+2019-11-10,Standard_Mechelen_2019,Mechelen,7,8,15,16
+2019-11-10,Antwerp_Club Brugge_2019,Antwerp,6,8,14,16
+2019-11-10,Genk_Gent_2019,Gent,7,7,14,16
+2019-11-21,Antwerp_Gent_2019,Gent,7,8,15,18
+2019-11-21,Antwerp_Gent_2019,Antwerp,7,8,15,18
+2019-11-22,Club Brugge_Oostende_2019,Club Brugge,8,7,15,18
+2019-11-22,Club Brugge_Oostende_2019,Oostende,8,8,16,18
+2019-11-23,Eupen_Standard_2019,Eupen,8,8,16,18
+2019-11-23,Mouscron_Genk_2019,Genk,8,8,16,18
+2019-11-23,Eupen_Standard_2019,Standard,8,8,16,18
+2019-11-23,Mechelen_Waregem_2019,Mechelen,8,8,16,18
+2019-11-23,Waasland-Beveren_Cercle Brugge_2019,Waasland-Beveren,8,8,16,18
+2019-11-23,Waasland-Beveren_Cercle Brugge_2019,Cercle Brugge,8,8,16,18
+2019-11-23,Mechelen_Waregem_2019,Waregem,8,8,16,18
+2019-11-23,Mouscron_Genk_2019,Mouscron,8,8,16,18
+2019-11-24,Gent_Antwerp_2019,Gent,8,8,16,18
+2019-11-24,Anderlecht_Kortrijk_2019,Anderlecht,9,7,16,18
+2019-11-24,Gent_Antwerp_2019,Antwerp,7,9,16,18
+2019-11-24,St Truiden_Charleroi_2019,Charleroi,7,8,15,18
+2019-11-24,St Truiden_Charleroi_2019,St Truiden,8,8,16,18
+2019-11-24,Anderlecht_Kortrijk_2019,Kortrijk,8,8,16,18
+2019-11-29,Antwerp_Mechelen_2019,Mechelen,8,9,17,19
+2019-11-29,Antwerp_Mechelen_2019,Antwerp,8,9,17,19
+2019-11-30,Charleroi_Waasland-Beveren_2019,Charleroi,8,8,16,19
+2019-11-30,Genk_St Truiden_2019,St Truiden,8,9,17,19
+2019-11-30,Charleroi_Waasland-Beveren_2019,Waasland-Beveren,8,9,17,19
+2019-11-30,Club Brugge_Mouscron_2019,Club Brugge,9,7,16,19
+2019-11-30,Genk_St Truiden_2019,Genk,9,8,17,19
+2019-11-30,Waregem_Eupen_2019,Waregem,9,8,17,19
+2019-11-30,Club Brugge_Mouscron_2019,Mouscron,8,9,17,19
+2019-11-30,Waregem_Eupen_2019,Eupen,8,9,17,19
+2019-12-01,Standard_Cercle Brugge_2019,Cercle Brugge,8,9,17,19
+2019-12-01,Kortrijk_Gent_2019,Gent,8,9,17,19
+2019-12-01,Kortrijk_Gent_2019,Kortrijk,9,8,17,19
+2019-12-01,Oostende_Anderlecht_2019,Oostende,9,8,17,19
+2019-12-01,Standard_Cercle Brugge_2019,Standard,9,8,17,19
+2019-12-01,Oostende_Anderlecht_2019,Anderlecht,9,8,17,19
+2019-12-06,Waasland-Beveren_Antwerp_2019,Waasland-Beveren,9,9,18,20
+2019-12-06,Waasland-Beveren_Antwerp_2019,Antwerp,8,10,18,20
+2019-12-07,St Truiden_Club Brugge_2019,Club Brugge,9,8,17,20
+2019-12-07,Mechelen_Kortrijk_2019,Mechelen,9,9,18,20
+2019-12-07,Mechelen_Kortrijk_2019,Kortrijk,9,9,18,20
+2019-12-07,St Truiden_Club Brugge_2019,St Truiden,9,9,18,20
+2019-12-07,Cercle Brugge_Genk_2019,Cercle Brugge,9,9,18,20
+2019-12-07,Cercle Brugge_Genk_2019,Genk,9,9,18,20
+2019-12-07,Gent_Waregem_2019,Waregem,9,9,18,20
+2019-12-07,Gent_Waregem_2019,Gent,9,9,18,20
+2019-12-08,Mouscron_Standard_2019,Standard,9,9,18,20
+2019-12-08,Anderlecht_Charleroi_2019,Charleroi,8,9,17,20
+2019-12-08,Mouscron_Standard_2019,Mouscron,9,9,18,20
+2019-12-08,Anderlecht_Charleroi_2019,Anderlecht,10,8,18,20
+2019-12-08,Eupen_Oostende_2019,Eupen,9,9,18,20
+2019-12-08,Eupen_Oostende_2019,Oostende,9,9,18,20
+2019-12-13,Kortrijk_Mouscron_2019,Mouscron,9,10,19,21
+2019-12-13,Kortrijk_Mouscron_2019,Kortrijk,10,9,19,21
+2019-12-14,Genk_Waasland-Beveren_2019,Genk,10,9,19,21
+2019-12-14,Antwerp_Eupen_2019,Eupen,9,10,19,21
+2019-12-14,Charleroi_Cercle Brugge_2019,Cercle Brugge,9,10,19,21
+2019-12-14,Waregem_St Truiden_2019,Waregem,10,9,19,21
+2019-12-14,Antwerp_Eupen_2019,Antwerp,9,10,19,21
+2019-12-14,Genk_Waasland-Beveren_2019,Waasland-Beveren,9,10,19,21
+2019-12-14,Waregem_St Truiden_2019,St Truiden,9,10,19,21
+2019-12-14,Charleroi_Cercle Brugge_2019,Charleroi,9,9,18,21
+2019-12-15,Oostende_Gent_2019,Gent,9,10,19,21
+2019-12-15,Club Brugge_Mechelen_2019,Club Brugge,10,8,18,21
+2019-12-15,Club Brugge_Mechelen_2019,Mechelen,9,10,19,21
+2019-12-15,Standard_Anderlecht_2019,Standard,10,9,19,21
+2019-12-15,Oostende_Gent_2019,Oostende,10,9,19,21
+2019-12-15,Standard_Anderlecht_2019,Anderlecht,10,9,19,21
+2019-12-20,Mechelen_Oostende_2019,Oostende,10,10,20,22
+2019-12-20,Mechelen_Oostende_2019,Mechelen,10,10,20,22
+2019-12-21,Mouscron_Charleroi_2019,Charleroi,9,10,19,22
+2019-12-21,Eupen_Kortrijk_2019,Eupen,10,10,20,22
+2019-12-21,Mouscron_Charleroi_2019,Mouscron,10,10,20,22
+2019-12-21,Waasland-Beveren_Standard_2019,Standard,10,10,20,22
+2019-12-21,Waasland-Beveren_Standard_2019,Waasland-Beveren,10,10,20,22
+2019-12-21,Eupen_Kortrijk_2019,Kortrijk,10,10,20,22
+2019-12-21,Cercle Brugge_Waregem_2019,Cercle Brugge,10,10,20,22
+2019-12-21,Cercle Brugge_Waregem_2019,Waregem,10,10,20,22
+2019-12-22,Anderlecht_Genk_2019,Genk,10,10,20,22
+2019-12-22,St Truiden_Antwerp_2019,Antwerp,9,11,20,22
+2019-12-22,St Truiden_Antwerp_2019,St Truiden,10,10,20,22
+2019-12-22,Gent_Club Brugge_2019,Club Brugge,10,9,19,22
+2019-12-22,Anderlecht_Genk_2019,Anderlecht,11,9,20,22
+2019-12-22,Gent_Club Brugge_2019,Gent,10,10,20,22
+2019-12-26,Kortrijk_Cercle Brugge_2019,Kortrijk,11,10,21,23
+2019-12-26,Standard_Gent_2019,Standard,11,10,21,23
+2019-12-26,Genk_Eupen_2019,Eupen,10,11,21,23
+2019-12-26,Waasland-Beveren_St Truiden_2019,Waasland-Beveren,11,10,21,23
+2019-12-26,Kortrijk_Cercle Brugge_2019,Cercle Brugge,10,11,21,23
+2019-12-26,Standard_Gent_2019,Gent,10,11,21,23
+2019-12-26,Club Brugge_Waregem_2019,Waregem,10,11,21,23
+2019-12-26,Club Brugge_Waregem_2019,Club Brugge,11,9,20,23
+2019-12-26,Mouscron_Mechelen_2019,Mouscron,11,10,21,23
+2019-12-26,Genk_Eupen_2019,Genk,11,10,21,23
+2019-12-26,Mouscron_Mechelen_2019,Mechelen,10,11,21,23
+2019-12-26,Waasland-Beveren_St Truiden_2019,St Truiden,10,11,21,23
+2019-12-27,Antwerp_Anderlecht_2019,Antwerp,10,11,21,23
+2019-12-27,Charleroi_Oostende_2019,Oostende,10,11,21,23
+2019-12-27,Antwerp_Anderlecht_2019,Anderlecht,11,10,21,23
+2019-12-27,Charleroi_Oostende_2019,Charleroi,10,10,20,23
+2020-01-17,Mechelen_Standard_2019,Standard,11,11,22,26
+2020-01-17,Mechelen_Standard_2019,Mechelen,11,11,22,26
+2020-01-18,Gent_Mouscron_2019,Gent,11,11,22,26
+2020-01-18,Oostende_Waasland-Beveren_2019,Oostende,11,11,22,26
+2020-01-18,Eupen_Charleroi_2019,Eupen,11,11,22,26
+2020-01-18,Eupen_Charleroi_2019,Charleroi,10,11,21,26
+2020-01-18,St Truiden_Kortrijk_2019,Kortrijk,11,11,22,26
+2020-01-18,Gent_Mouscron_2019,Mouscron,11,11,22,26
+2020-01-18,St Truiden_Kortrijk_2019,St Truiden,11,11,22,26
+2020-01-18,Oostende_Waasland-Beveren_2019,Waasland-Beveren,11,11,22,26
+2020-01-19,Anderlecht_Club Brugge_2019,Club Brugge,11,10,21,26
+2020-01-19,Waregem_Genk_2019,Genk,11,11,22,26
+2020-01-19,Waregem_Genk_2019,Waregem,11,11,22,26
+2020-01-19,Cercle Brugge_Antwerp_2019,Cercle Brugge,11,11,22,26
+2020-01-19,Cercle Brugge_Antwerp_2019,Antwerp,10,12,22,26
+2020-01-19,Anderlecht_Club Brugge_2019,Anderlecht,12,10,22,26
+2020-01-24,Standard_Oostende_2019,Oostende,11,12,23,27
+2020-01-24,Standard_Oostende_2019,Standard,12,11,23,27
+2020-01-25,Gent_Genk_2019,Genk,11,12,23,27
+2020-01-25,Waasland-Beveren_Eupen_2019,Eupen,11,12,23,27
+2020-01-25,Gent_Genk_2019,Gent,12,11,23,27
+2020-01-25,Waasland-Beveren_Eupen_2019,Waasland-Beveren,12,11,23,27
+2020-01-25,Mouscron_St Truiden_2019,Mouscron,12,11,23,27
+2020-01-25,Mouscron_St Truiden_2019,St Truiden,11,12,23,27
+2020-01-26,Cercle Brugge_Anderlecht_2019,Cercle Brugge,12,11,23,27
+2020-01-26,Antwerp_Waregem_2019,Waregem,11,12,23,27
+2020-01-26,Antwerp_Waregem_2019,Antwerp,11,12,23,27
+2020-01-26,Kortrijk_Club Brugge_2019,Kortrijk,12,11,23,27
+2020-01-26,Kortrijk_Club Brugge_2019,Club Brugge,11,11,22,27
+2020-01-26,Cercle Brugge_Anderlecht_2019,Anderlecht,12,11,23,27
+2020-01-29,Charleroi_Club Brugge_2019,Charleroi,11,11,22,28
+2020-01-29,Charleroi_Club Brugge_2019,Club Brugge,11,12,23,28
+2020-01-31,Kortrijk_Standard_2019,Kortrijk,13,11,24,28
+2020-01-31,Kortrijk_Standard_2019,Standard,12,12,24,28
+2020-02-01,Mechelen_Gent_2019,Gent,12,12,24,28
+2020-02-01,Oostende_St Truiden_2019,St Truiden,11,13,24,28
+2020-02-01,Genk_Charleroi_2019,Genk,12,12,24,28
+2020-02-01,Eupen_Cercle Brugge_2019,Cercle Brugge,12,12,24,28
+2020-02-01,Oostende_St Truiden_2019,Oostende,12,12,24,28
+2020-02-01,Mechelen_Gent_2019,Mechelen,12,11,23,28
+2020-02-01,Genk_Charleroi_2019,Charleroi,11,12,23,28
+2020-02-01,Eupen_Cercle Brugge_2019,Eupen,12,12,24,28
+2020-02-02,Anderlecht_Mouscron_2019,Mouscron,12,12,24,28
+2020-02-02,Waregem_Waasland-Beveren_2019,Waregem,12,12,24,28
+2020-02-02,Club Brugge_Antwerp_2019,Antwerp,11,13,24,28
+2020-02-02,Anderlecht_Mouscron_2019,Anderlecht,13,11,24,28
+2020-02-02,Club Brugge_Antwerp_2019,Club Brugge,12,12,24,28
+2020-02-02,Waregem_Waasland-Beveren_2019,Waasland-Beveren,12,12,24,28
+2020-02-07,Gent_Anderlecht_2019,Gent,13,12,25,29
+2020-02-07,Gent_Anderlecht_2019,Anderlecht,13,12,25,29
+2020-02-08,Mouscron_Oostende_2019,Mouscron,13,12,25,29
+2020-02-08,Mouscron_Oostende_2019,Oostende,12,13,25,29
+2020-02-08,Cercle Brugge_Mechelen_2019,Cercle Brugge,13,12,25,29
+2020-02-08,St Truiden_Eupen_2019,St Truiden,12,13,25,29
+2020-02-08,Cercle Brugge_Mechelen_2019,Mechelen,12,12,24,29
+2020-02-08,St Truiden_Eupen_2019,Eupen,12,13,25,29
+2020-02-08,Charleroi_Waregem_2019,Waregem,12,13,25,29
+2020-02-08,Charleroi_Waregem_2019,Charleroi,12,12,24,29
+2020-02-11,Charleroi_Mechelen_2019,Mechelen,12,13,25,30
+2020-02-11,Charleroi_Mechelen_2019,Charleroi,13,12,25,30
+2020-02-12,Standard_Club Brugge_2019,Club Brugge,12,13,25,30
+2020-02-12,Standard_Club Brugge_2019,Standard,13,12,25,30
+2020-02-12,Waasland-Beveren_Kortrijk_2019,Kortrijk,13,12,25,30
+2020-02-12,Waasland-Beveren_Kortrijk_2019,Waasland-Beveren,13,12,25,30
+2020-02-13,Antwerp_Genk_2019,Genk,12,13,25,30
+2020-02-13,Antwerp_Genk_2019,Antwerp,12,13,25,30
+2020-02-14,Eupen_Gent_2019,Eupen,13,13,26,30
+2020-02-14,Eupen_Gent_2019,Gent,13,13,26,30
+2020-02-15,St Truiden_Cercle Brugge_2019,St Truiden,13,13,26,30
+2020-02-15,Mechelen_Anderlecht_2019,Anderlecht,13,13,26,30
+2020-02-15,Mechelen_Anderlecht_2019,Mechelen,13,13,26,30
+2020-02-15,Oostende_Kortrijk_2019,Oostende,13,13,26,30
+2020-02-15,Oostende_Kortrijk_2019,Kortrijk,13,13,26,30
+2020-02-15,St Truiden_Cercle Brugge_2019,Cercle Brugge,13,13,26,30
+2020-02-15,Club Brugge_Waasland-Beveren_2019,Waasland-Beveren,13,13,26,30
+2020-02-15,Club Brugge_Waasland-Beveren_2019,Club Brugge,13,13,26,30
+2020-02-16,Antwerp_Charleroi_2019,Antwerp,13,13,26,30
+2020-02-16,Waregem_Mouscron_2019,Waregem,13,13,26,30
+2020-02-16,Genk_Standard_2019,Standard,13,13,26,30
+2020-02-16,Waregem_Mouscron_2019,Mouscron,13,13,26,30
+2020-02-16,Antwerp_Charleroi_2019,Charleroi,13,13,26,30
+2020-02-16,Genk_Standard_2019,Genk,13,13,26,30
+2020-02-21,Kortrijk_Genk_2019,Genk,13,14,27,31
+2020-02-21,Kortrijk_Genk_2019,Kortrijk,14,13,27,31
+2020-02-22,Standard_Antwerp_2019,Standard,14,13,27,31
+2020-02-22,Standard_Antwerp_2019,Antwerp,13,14,27,31
+2020-02-22,Mechelen_Waasland-Beveren_2019,Mechelen,14,13,27,31
+2020-02-22,Mouscron_Cercle Brugge_2019,Mouscron,14,13,27,31
+2020-02-22,Oostende_Waregem_2019,Waregem,13,14,27,31
+2020-02-22,Mechelen_Waasland-Beveren_2019,Waasland-Beveren,13,14,27,31
+2020-02-22,Mouscron_Cercle Brugge_2019,Cercle Brugge,13,14,27,31
+2020-02-22,Oostende_Waregem_2019,Oostende,14,13,27,31
+2020-02-23,Club Brugge_Charleroi_2019,Club Brugge,14,13,27,31
+2020-02-23,Anderlecht_Eupen_2019,Anderlecht,14,13,27,31
+2020-02-23,Anderlecht_Eupen_2019,Eupen,13,14,27,31
+2020-02-23,Club Brugge_Charleroi_2019,Charleroi,13,14,27,31
+2020-02-23,Gent_St Truiden_2019,St Truiden,13,14,27,31
+2020-02-23,Gent_St Truiden_2019,Gent,14,13,27,31
+2020-02-28,St Truiden_Mechelen_2019,Mechelen,14,14,28,32
+2020-02-28,St Truiden_Mechelen_2019,St Truiden,14,14,28,32
+2020-02-29,Waasland-Beveren_Anderlecht_2019,Waasland-Beveren,14,14,28,32
+2020-02-29,Antwerp_Oostende_2019,Antwerp,14,14,28,32
+2020-02-29,Eupen_Mouscron_2019,Mouscron,14,14,28,32
+2020-02-29,Eupen_Mouscron_2019,Eupen,14,14,28,32
+2020-02-29,Antwerp_Oostende_2019,Oostende,14,14,28,32
+2020-02-29,Waasland-Beveren_Anderlecht_2019,Anderlecht,14,14,28,32
+2020-02-29,Waregem_Kortrijk_2019,Waregem,14,14,28,32
+2020-02-29,Waregem_Kortrijk_2019,Kortrijk,14,14,28,32
+2020-03-01,Charleroi_Standard_2019,Charleroi,14,14,28,32
+2020-03-01,Genk_Club Brugge_2019,Genk,14,14,28,32
+2020-03-01,Cercle Brugge_Gent_2019,Gent,14,14,28,32
+2020-03-01,Charleroi_Standard_2019,Standard,14,14,28,32
+2020-03-01,Cercle Brugge_Gent_2019,Cercle Brugge,14,14,28,32
+2020-03-01,Genk_Club Brugge_2019,Club Brugge,14,14,28,32
+2020-03-07,Club Brugge_Cercle Brugge_2019,Club Brugge,15,14,29,33
+2020-03-07,Anderlecht_Waregem_2019,Anderlecht,15,14,29,33
+2020-03-07,Standard_St Truiden_2019,St Truiden,14,15,29,33
+2020-03-07,Club Brugge_Cercle Brugge_2019,Cercle Brugge,14,15,29,33
+2020-03-07,Gent_Charleroi_2019,Charleroi,14,15,29,33
+2020-03-07,Gent_Charleroi_2019,Gent,15,14,29,33
+2020-03-07,Mechelen_Eupen_2019,Mechelen,15,14,29,33
+2020-03-07,Kortrijk_Antwerp_2019,Antwerp,14,15,29,33
+2020-03-07,Oostende_Genk_2019,Oostende,15,14,29,33
+2020-03-07,Mouscron_Waasland-Beveren_2019,Waasland-Beveren,14,15,29,33
+2020-03-07,Mechelen_Eupen_2019,Eupen,14,15,29,33
+2020-03-07,Kortrijk_Antwerp_2019,Kortrijk,15,14,29,33
+2020-03-07,Oostende_Genk_2019,Genk,14,15,29,33
+2020-03-07,Standard_St Truiden_2019,Standard,15,14,29,33
+2020-03-07,Mouscron_Waasland-Beveren_2019,Mouscron,15,14,29,33
+2020-03-07,Anderlecht_Waregem_2019,Waregem,14,15,29,33

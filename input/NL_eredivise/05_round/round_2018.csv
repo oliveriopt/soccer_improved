@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2018-08-10,Zwolle_Heerenveen_2018,Heerenveen,1,1,1,1
+2018-08-10,Zwolle_Heerenveen_2018,Zwolle,1,1,1,1
+2018-08-11,Ajax_Heracles_2018,Heracles,1,1,1,1
+2018-08-11,Excelsior_For Sittard_2018,For Sittard,1,1,1,1
+2018-08-11,Willem II_VVV Venlo_2018,Willem II,1,1,1,1
+2018-08-11,Excelsior_For Sittard_2018,Excelsior,1,1,1,1
+2018-08-11,PSV Eindhoven_Utrecht_2018,PSV Eindhoven,1,1,1,1
+2018-08-11,Willem II_VVV Venlo_2018,VVV Venlo,1,1,1,1
+2018-08-11,Ajax_Heracles_2018,Ajax,1,1,1,1
+2018-08-11,PSV Eindhoven_Utrecht_2018,Utrecht,1,1,1,1
+2018-08-12,Den Haag_FC Emmen_2018,FC Emmen,1,1,1,1
+2018-08-12,AZ Alkmaar_NAC Breda_2018,AZ Alkmaar,1,1,1,1
+2018-08-12,Graafschap_Feyenoord_2018,Graafschap,1,1,1,1
+2018-08-12,Vitesse_Groningen_2018,Vitesse,1,1,1,1
+2018-08-12,Den Haag_FC Emmen_2018,Den Haag,1,1,1,1
+2018-08-12,Graafschap_Feyenoord_2018,Feyenoord,1,1,1,1
+2018-08-12,AZ Alkmaar_NAC Breda_2018,NAC Breda,1,1,1,1
+2018-08-12,Vitesse_Groningen_2018,Groningen,1,1,1,1
+2018-08-17,Groningen_Willem II_2018,Groningen,1,1,2,2
+2018-08-17,Groningen_Willem II_2018,Willem II,1,1,2,2
+2018-08-18,Heracles_Den Haag_2018,Heracles,1,1,2,2
+2018-08-18,Heracles_Den Haag_2018,Den Haag,1,1,2,2
+2018-08-18,VVV Venlo_Ajax_2018,Ajax,1,1,2,2
+2018-08-18,NAC Breda_Graafschap_2018,NAC Breda,1,1,2,2
+2018-08-18,For Sittard_PSV Eindhoven_2018,For Sittard,1,1,2,2
+2018-08-18,For Sittard_PSV Eindhoven_2018,PSV Eindhoven,1,1,2,2
+2018-08-18,NAC Breda_Graafschap_2018,Graafschap,1,1,2,2
+2018-08-18,VVV Venlo_Ajax_2018,VVV Venlo,1,1,2,2
+2018-08-19,Heerenveen_Vitesse_2018,Heerenveen,1,1,2,2
+2018-08-19,Feyenoord_Excelsior_2018,Excelsior,1,1,2,2
+2018-08-19,Feyenoord_Excelsior_2018,Feyenoord,1,1,2,2
+2018-08-19,FC Emmen_AZ Alkmaar_2018,FC Emmen,1,1,2,2
+2018-08-19,Heerenveen_Vitesse_2018,Vitesse,1,1,2,2
+2018-08-19,FC Emmen_AZ Alkmaar_2018,AZ Alkmaar,1,1,2,2
+2018-08-19,Utrecht_Zwolle_2018,Utrecht,1,1,2,2
+2018-08-19,Utrecht_Zwolle_2018,Zwolle,1,1,2,2
+2018-08-24,Den Haag_For Sittard_2018,Den Haag,2,1,3,3
+2018-08-24,Den Haag_For Sittard_2018,For Sittard,1,2,3,3
+2018-08-25,Graafschap_Groningen_2018,Graafschap,2,1,3,3
+2018-08-25,Zwolle_PSV Eindhoven_2018,Zwolle,2,1,3,3
+2018-08-25,NAC Breda_Excelsior_2018,NAC Breda,2,1,3,3
+2018-08-25,Ajax_FC Emmen_2018,FC Emmen,1,2,3,3
+2018-08-25,Zwolle_PSV Eindhoven_2018,PSV Eindhoven,1,2,3,3
+2018-08-25,NAC Breda_Excelsior_2018,Excelsior,1,2,3,3
+2018-08-25,Ajax_FC Emmen_2018,Ajax,2,1,3,3
+2018-08-25,Graafschap_Groningen_2018,Groningen,1,2,3,3
+2018-08-26,Willem II_Heracles_2018,Heracles,1,2,3,3
+2018-08-26,AZ Alkmaar_Vitesse_2018,AZ Alkmaar,2,1,3,3
+2018-08-26,Heerenveen_Feyenoord_2018,Heerenveen,2,1,3,3
+2018-08-26,Utrecht_VVV Venlo_2018,VVV Venlo,1,2,3,3
+2018-08-26,Utrecht_VVV Venlo_2018,Utrecht,2,1,3,3
+2018-08-26,AZ Alkmaar_Vitesse_2018,Vitesse,1,2,3,3
+2018-08-26,Heerenveen_Feyenoord_2018,Feyenoord,1,2,3,3
+2018-08-26,Willem II_Heracles_2018,Willem II,2,1,3,3
+2018-08-31,FC Emmen_Graafschap_2018,Graafschap,2,2,4,4
+2018-08-31,FC Emmen_Graafschap_2018,FC Emmen,2,2,4,4
+2018-09-01,PSV Eindhoven_Willem II_2018,PSV Eindhoven,2,2,4,4
+2018-09-01,For Sittard_Utrecht_2018,For Sittard,2,2,4,4
+2018-09-01,Excelsior_Den Haag_2018,Den Haag,2,2,4,4
+2018-09-01,Excelsior_Den Haag_2018,Excelsior,2,2,4,4
+2018-09-01,VVV Venlo_Heerenveen_2018,Heerenveen,2,2,4,4
+2018-09-01,PSV Eindhoven_Willem II_2018,Willem II,2,2,4,4
+2018-09-01,For Sittard_Utrecht_2018,Utrecht,2,2,4,4
+2018-09-01,VVV Venlo_Heerenveen_2018,VVV Venlo,2,2,4,4
+2018-09-02,Groningen_Zwolle_2018,Zwolle,2,2,4,4
+2018-09-02,Heracles_AZ Alkmaar_2018,AZ Alkmaar,2,2,4,4
+2018-09-02,Feyenoord_NAC Breda_2018,Feyenoord,2,2,4,4
+2018-09-02,Vitesse_Ajax_2018,Ajax,2,2,4,4
+2018-09-02,Heracles_AZ Alkmaar_2018,Heracles,2,2,4,4
+2018-09-02,Feyenoord_NAC Breda_2018,NAC Breda,2,2,4,4
+2018-09-02,Vitesse_Ajax_2018,Vitesse,2,2,4,4
+2018-09-02,Groningen_Zwolle_2018,Groningen,2,2,4,4
+2018-09-15,Ajax_Groningen_2018,Ajax,3,2,5,6
+2018-09-15,Ajax_Groningen_2018,Groningen,2,3,5,6
+2018-09-15,Willem II_Excelsior_2018,Willem II,3,2,5,6
+2018-09-15,Den Haag_PSV Eindhoven_2018,PSV Eindhoven,2,3,5,6
+2018-09-15,Den Haag_PSV Eindhoven_2018,Den Haag,3,2,5,6
+2018-09-15,Graafschap_VVV Venlo_2018,VVV Venlo,2,3,5,6
+2018-09-15,Graafschap_VVV Venlo_2018,Graafschap,3,2,5,6
+2018-09-15,Willem II_Excelsior_2018,Excelsior,2,3,5,6
+2018-09-16,Zwolle_Vitesse_2018,Zwolle,3,2,5,6
+2018-09-16,Heerenveen_Heracles_2018,Heerenveen,3,2,5,6
+2018-09-16,NAC Breda_For Sittard_2018,For Sittard,2,3,5,6
+2018-09-16,Utrecht_FC Emmen_2018,Utrecht,3,2,5,6
+2018-09-16,AZ Alkmaar_Feyenoord_2018,AZ Alkmaar,3,2,5,6
+2018-09-16,Heerenveen_Heracles_2018,Heracles,2,3,5,6
+2018-09-16,NAC Breda_For Sittard_2018,NAC Breda,3,2,5,6
+2018-09-16,AZ Alkmaar_Feyenoord_2018,Feyenoord,2,3,5,6
+2018-09-16,Zwolle_Vitesse_2018,Vitesse,2,3,5,6
+2018-09-16,Utrecht_FC Emmen_2018,FC Emmen,2,3,5,6
+2018-09-21,Heracles_Graafschap_2018,Heracles,3,3,6,7
+2018-09-21,Heracles_Graafschap_2018,Graafschap,3,3,6,7
+2018-09-22,VVV Venlo_NAC Breda_2018,VVV Venlo,3,3,6,7
+2018-09-22,For Sittard_Willem II_2018,For Sittard,3,3,6,7
+2018-09-22,For Sittard_Willem II_2018,Willem II,3,3,6,7
+2018-09-22,Excelsior_Heerenveen_2018,Heerenveen,3,3,6,7
+2018-09-22,Excelsior_Heerenveen_2018,Excelsior,3,3,6,7
+2018-09-22,VVV Venlo_NAC Breda_2018,NAC Breda,3,3,6,7
+2018-09-22,Vitesse_Den Haag_2018,Vitesse,3,3,6,7
+2018-09-22,Vitesse_Den Haag_2018,Den Haag,3,3,6,7
+2018-09-23,FC Emmen_Zwolle_2018,Zwolle,3,3,6,7
+2018-09-23,Groningen_AZ Alkmaar_2018,AZ Alkmaar,3,3,6,7
+2018-09-23,Feyenoord_Utrecht_2018,Utrecht,3,3,6,7
+2018-09-23,FC Emmen_Zwolle_2018,FC Emmen,3,3,6,7
+2018-09-23,Groningen_AZ Alkmaar_2018,Groningen,3,3,6,7
+2018-09-23,PSV Eindhoven_Ajax_2018,Ajax,3,3,6,7
+2018-09-23,PSV Eindhoven_Ajax_2018,PSV Eindhoven,3,3,6,7
+2018-09-23,Feyenoord_Utrecht_2018,Feyenoord,3,3,6,7
+2018-09-29,Heerenveen_Den Haag_2018,Heerenveen,4,3,7,8
+2018-09-29,NAC Breda_PSV Eindhoven_2018,NAC Breda,4,3,7,8
+2018-09-29,For Sittard_Ajax_2018,For Sittard,4,3,7,8
+2018-09-29,For Sittard_Ajax_2018,Ajax,3,4,7,8
+2018-09-29,Excelsior_VVV Venlo_2018,Excelsior,4,3,7,8
+2018-09-29,NAC Breda_PSV Eindhoven_2018,PSV Eindhoven,3,4,7,8
+2018-09-29,Excelsior_VVV Venlo_2018,VVV Venlo,3,4,7,8
+2018-09-29,Heerenveen_Den Haag_2018,Den Haag,3,4,7,8
+2018-09-30,AZ Alkmaar_Zwolle_2018,AZ Alkmaar,4,3,7,8
+2018-09-30,AZ Alkmaar_Zwolle_2018,Zwolle,3,4,7,8
+2018-09-30,Graafschap_Willem II_2018,Willem II,3,4,7,8
+2018-09-30,Graafschap_Willem II_2018,Graafschap,4,3,7,8
+2018-09-30,Groningen_Utrecht_2018,Utrecht,3,4,7,8
+2018-09-30,Feyenoord_Vitesse_2018,Feyenoord,4,3,7,8
+2018-09-30,Heracles_FC Emmen_2018,FC Emmen,3,4,7,8
+2018-09-30,Groningen_Utrecht_2018,Groningen,4,3,7,8
+2018-09-30,Heracles_FC Emmen_2018,Heracles,4,3,7,8
+2018-09-30,Feyenoord_Vitesse_2018,Vitesse,3,4,7,8
+2018-10-05,Utrecht_NAC Breda_2018,NAC Breda,4,4,8,9
+2018-10-05,Utrecht_NAC Breda_2018,Utrecht,4,4,8,9
+2018-10-06,Zwolle_Excelsior_2018,Zwolle,4,4,8,9
+2018-10-06,PSV Eindhoven_VVV Venlo_2018,VVV Venlo,3,5,8,9
+2018-10-06,Den Haag_Groningen_2018,Den Haag,4,4,8,9
+2018-10-06,Zwolle_Excelsior_2018,Excelsior,4,4,8,9
+2018-10-06,Graafschap_Heerenveen_2018,Heerenveen,4,4,8,9
+2018-10-06,Graafschap_Heerenveen_2018,Graafschap,5,3,8,9
+2018-10-06,Den Haag_Groningen_2018,Groningen,4,4,8,9
+2018-10-06,PSV Eindhoven_VVV Venlo_2018,PSV Eindhoven,4,4,8,9
+2018-10-07,FC Emmen_For Sittard_2018,FC Emmen,4,4,8,9
+2018-10-07,Vitesse_Heracles_2018,Vitesse,4,4,8,9
+2018-10-07,Ajax_AZ Alkmaar_2018,AZ Alkmaar,4,4,8,9
+2018-10-07,Willem II_Feyenoord_2018,Willem II,4,4,8,9
+2018-10-07,Willem II_Feyenoord_2018,Feyenoord,4,4,8,9
+2018-10-07,Vitesse_Heracles_2018,Heracles,4,4,8,9
+2018-10-07,FC Emmen_For Sittard_2018,For Sittard,4,4,8,9
+2018-10-07,Ajax_AZ Alkmaar_2018,Ajax,4,4,8,9
+2018-10-20,Heerenveen_Ajax_2018,Heerenveen,5,4,9,11
+2018-10-20,Utrecht_AZ Alkmaar_2018,Utrecht,5,4,9,11
+2018-10-20,Excelsior_Vitesse_2018,Vitesse,4,5,9,11
+2018-10-20,Excelsior_Vitesse_2018,Excelsior,5,4,9,11
+2018-10-20,Utrecht_AZ Alkmaar_2018,AZ Alkmaar,4,5,9,11
+2018-10-20,PSV Eindhoven_FC Emmen_2018,FC Emmen,4,5,9,11
+2018-10-20,Heerenveen_Ajax_2018,Ajax,4,5,9,11
+2018-10-20,PSV Eindhoven_FC Emmen_2018,PSV Eindhoven,5,4,9,11
+2018-10-21,Feyenoord_Zwolle_2018,Zwolle,4,5,9,11
+2018-10-21,Feyenoord_Zwolle_2018,Feyenoord,5,4,9,11
+2018-10-21,VVV Venlo_Den Haag_2018,VVV Venlo,4,5,9,11
+2018-10-21,For Sittard_Graafschap_2018,Graafschap,5,4,9,11
+2018-10-21,VVV Venlo_Den Haag_2018,Den Haag,4,5,9,11
+2018-10-21,NAC Breda_Willem II_2018,NAC Breda,5,4,9,11
+2018-10-21,For Sittard_Graafschap_2018,For Sittard,5,4,9,11
+2018-10-21,Heracles_Groningen_2018,Groningen,4,5,9,11
+2018-10-21,Heracles_Groningen_2018,Heracles,5,4,9,11
+2018-10-21,NAC Breda_Willem II_2018,Willem II,4,5,9,11
+2018-10-26,FC Emmen_VVV Venlo_2018,VVV Venlo,4,6,10,12
+2018-10-26,FC Emmen_VVV Venlo_2018,FC Emmen,5,5,10,12
+2018-10-27,Zwolle_Heracles_2018,Zwolle,5,5,10,12
+2018-10-27,Groningen_PSV Eindhoven_2018,PSV Eindhoven,5,5,10,12
+2018-10-27,Graafschap_Excelsior_2018,Excelsior,5,5,10,12
+2018-10-27,Den Haag_NAC Breda_2018,Den Haag,5,5,10,12
+2018-10-27,Groningen_PSV Eindhoven_2018,Groningen,5,5,10,12
+2018-10-27,Graafschap_Excelsior_2018,Graafschap,6,4,10,12
+2018-10-27,Zwolle_Heracles_2018,Heracles,5,5,10,12
+2018-10-27,Den Haag_NAC Breda_2018,NAC Breda,5,5,10,12
+2018-10-28,Willem II_Utrecht_2018,Utrecht,5,5,10,12
+2018-10-28,AZ Alkmaar_Heerenveen_2018,AZ Alkmaar,5,5,10,12
+2018-10-28,Willem II_Utrecht_2018,Willem II,5,5,10,12
+2018-10-28,Ajax_Feyenoord_2018,Feyenoord,5,5,10,12
+2018-10-28,Vitesse_For Sittard_2018,Vitesse,5,5,10,12
+2018-10-28,AZ Alkmaar_Heerenveen_2018,Heerenveen,5,5,10,12
+2018-10-28,Ajax_Feyenoord_2018,Ajax,5,5,10,12
+2018-10-28,Vitesse_For Sittard_2018,For Sittard,5,5,10,12
+2018-11-02,Excelsior_Groningen_2018,Groningen,5,6,11,13
+2018-11-02,Excelsior_Groningen_2018,Excelsior,6,5,11,13
+2018-11-03,AZ Alkmaar_Graafschap_2018,AZ Alkmaar,6,5,11,13
+2018-11-03,NAC Breda_Heracles_2018,NAC Breda,6,5,11,13
+2018-11-03,PSV Eindhoven_Vitesse_2018,PSV Eindhoven,6,5,11,13
+2018-11-03,PSV Eindhoven_Vitesse_2018,Vitesse,5,6,11,13
+2018-11-03,Ajax_Willem II_2018,Willem II,5,6,11,13
+2018-11-03,AZ Alkmaar_Graafschap_2018,Graafschap,6,5,11,13
+2018-11-03,NAC Breda_Heracles_2018,Heracles,5,6,11,13
+2018-11-03,Ajax_Willem II_2018,Ajax,6,5,11,13
+2018-11-04,Heerenveen_FC Emmen_2018,FC Emmen,5,6,11,13
+2018-11-04,For Sittard_Zwolle_2018,Zwolle,5,6,11,13
+2018-11-04,For Sittard_Zwolle_2018,For Sittard,6,5,11,13
+2018-11-04,Utrecht_Den Haag_2018,Utrecht,6,5,11,13
+2018-11-04,Utrecht_Den Haag_2018,Den Haag,5,6,11,13
+2018-11-04,Heerenveen_FC Emmen_2018,Heerenveen,6,5,11,13
+2018-11-09,Zwolle_Willem II_2018,Willem II,5,7,12,14
+2018-11-09,Zwolle_Willem II_2018,Zwolle,6,6,12,14
+2018-11-10,Vitesse_Utrecht_2018,Vitesse,6,6,12,14
+2018-11-10,FC Emmen_NAC Breda_2018,FC Emmen,6,6,12,14
+2018-11-10,VVV Venlo_For Sittard_2018,VVV Venlo,5,6,11,14
+2018-11-10,Vitesse_Utrecht_2018,Utrecht,6,6,12,14
+2018-11-10,Graafschap_PSV Eindhoven_2018,Graafschap,7,5,12,14
+2018-11-10,Graafschap_PSV Eindhoven_2018,PSV Eindhoven,6,6,12,14
+2018-11-10,VVV Venlo_For Sittard_2018,For Sittard,6,6,12,14
+2018-11-10,FC Emmen_NAC Breda_2018,NAC Breda,6,6,12,14
+2018-11-11,Groningen_Heerenveen_2018,Groningen,6,6,12,14
+2018-11-11,Excelsior_Ajax_2018,Ajax,6,6,12,14
+2018-11-11,Excelsior_Ajax_2018,Excelsior,7,5,12,14
+2018-11-11,Groningen_Heerenveen_2018,Heerenveen,6,6,12,14
+2018-11-11,Den Haag_AZ Alkmaar_2018,Den Haag,6,6,12,14
+2018-11-11,Heracles_Feyenoord_2018,Feyenoord,5,6,11,14
+2018-11-11,Den Haag_AZ Alkmaar_2018,AZ Alkmaar,6,6,12,14
+2018-11-11,Heracles_Feyenoord_2018,Heracles,6,6,12,14
+2018-11-24,NAC Breda_Ajax_2018,Ajax,6,7,13,16
+2018-11-24,NAC Breda_Ajax_2018,NAC Breda,7,6,13,16
+2018-11-24,For Sittard_Heracles_2018,For Sittard,7,6,13,16
+2018-11-24,PSV Eindhoven_Heerenveen_2018,PSV Eindhoven,7,6,13,16
+2018-11-24,Zwolle_Den Haag_2018,Den Haag,6,7,13,16
+2018-11-24,Zwolle_Den Haag_2018,Zwolle,7,6,13,16
+2018-11-24,PSV Eindhoven_Heerenveen_2018,Heerenveen,6,7,13,16
+2018-11-24,For Sittard_Heracles_2018,Heracles,6,7,13,16
+2018-11-25,Utrecht_Graafschap_2018,Graafschap,7,6,13,16
+2018-11-25,FC Emmen_Excelsior_2018,FC Emmen,7,6,13,16
+2018-11-25,Utrecht_Graafschap_2018,Utrecht,7,6,13,16
+2018-11-25,VVV Venlo_AZ Alkmaar_2018,AZ Alkmaar,6,7,13,16
+2018-11-25,Willem II_Vitesse_2018,Vitesse,6,7,13,16
+2018-11-25,Feyenoord_Groningen_2018,Feyenoord,6,6,12,16
+2018-11-25,Feyenoord_Groningen_2018,Groningen,6,7,13,16
+2018-11-25,FC Emmen_Excelsior_2018,Excelsior,7,6,13,16
+2018-11-25,Willem II_Vitesse_2018,Willem II,6,7,13,16
+2018-11-25,VVV Venlo_AZ Alkmaar_2018,VVV Venlo,6,6,12,16
+2018-11-30,Excelsior_Utrecht_2018,Excelsior,8,6,14,17
+2018-11-30,Excelsior_Utrecht_2018,Utrecht,7,7,14,17
+2018-12-01,Heerenveen_For Sittard_2018,Heerenveen,7,7,14,17
+2018-12-01,Graafschap_Zwolle_2018,Graafschap,8,6,14,17
+2018-12-01,Vitesse_FC Emmen_2018,Vitesse,7,7,14,17
+2018-12-01,Graafschap_Zwolle_2018,Zwolle,7,7,14,17
+2018-12-01,Vitesse_FC Emmen_2018,FC Emmen,7,7,14,17
+2018-12-01,AZ Alkmaar_Willem II_2018,AZ Alkmaar,7,7,14,17
+2018-12-01,Heerenveen_For Sittard_2018,For Sittard,7,7,14,17
+2018-12-01,AZ Alkmaar_Willem II_2018,Willem II,6,8,14,17
+2018-12-02,Heracles_VVV Venlo_2018,Heracles,7,7,14,17
+2018-12-02,Ajax_Den Haag_2018,Ajax,7,7,14,17
+2018-12-02,Ajax_Den Haag_2018,Den Haag,6,8,14,17
+2018-12-02,Heracles_VVV Venlo_2018,VVV Venlo,6,7,13,17
+2018-12-02,Groningen_NAC Breda_2018,Groningen,7,7,14,17
+2018-12-02,Groningen_NAC Breda_2018,NAC Breda,7,7,14,17
+2018-12-02,Feyenoord_PSV Eindhoven_2018,Feyenoord,7,6,13,17
+2018-12-02,Feyenoord_PSV Eindhoven_2018,PSV Eindhoven,7,7,14,17
+2018-12-06,Feyenoord_VVV Venlo_2018,VVV Venlo,6,8,14,18
+2018-12-06,Feyenoord_VVV Venlo_2018,Feyenoord,8,6,14,18
+2018-12-07,PSV Eindhoven_Excelsior_2018,PSV Eindhoven,8,7,15,18
+2018-12-07,For Sittard_AZ Alkmaar_2018,AZ Alkmaar,7,8,15,18
+2018-12-07,PSV Eindhoven_Excelsior_2018,Excelsior,8,7,15,18
+2018-12-07,For Sittard_AZ Alkmaar_2018,For Sittard,8,7,15,18
+2018-12-08,Zwolle_Ajax_2018,Ajax,7,8,15,18
+2018-12-08,Willem II_Heerenveen_2018,Willem II,7,8,15,18
+2018-12-08,Den Haag_Graafschap_2018,Den Haag,7,8,15,18
+2018-12-08,Den Haag_Graafschap_2018,Graafschap,8,7,15,18
+2018-12-08,Willem II_Heerenveen_2018,Heerenveen,7,8,15,18
+2018-12-08,Zwolle_Ajax_2018,Zwolle,8,7,15,18
+2018-12-09,VVV Venlo_Groningen_2018,Groningen,7,8,15,18
+2018-12-09,Utrecht_Heracles_2018,Heracles,7,8,15,18
+2018-12-09,FC Emmen_Feyenoord_2018,Feyenoord,8,7,15,18
+2018-12-09,Utrecht_Heracles_2018,Utrecht,8,7,15,18
+2018-12-09,NAC Breda_Vitesse_2018,Vitesse,7,8,15,18
+2018-12-09,FC Emmen_Feyenoord_2018,FC Emmen,8,7,15,18
+2018-12-09,VVV Venlo_Groningen_2018,VVV Venlo,7,8,15,18
+2018-12-09,NAC Breda_Vitesse_2018,NAC Breda,8,7,15,18
+2018-12-14,Willem II_Den Haag_2018,Willem II,8,8,16,19
+2018-12-14,Willem II_Den Haag_2018,Den Haag,7,9,16,19
+2018-12-15,AZ Alkmaar_Excelsior_2018,AZ Alkmaar,8,8,16,19
+2018-12-15,Vitesse_VVV Venlo_2018,VVV Venlo,7,9,16,19
+2018-12-15,Zwolle_NAC Breda_2018,NAC Breda,8,8,16,19
+2018-12-15,Heracles_PSV Eindhoven_2018,PSV Eindhoven,8,8,16,19
+2018-12-15,Vitesse_VVV Venlo_2018,Vitesse,8,8,16,19
+2018-12-15,Heracles_PSV Eindhoven_2018,Heracles,8,8,16,19
+2018-12-15,AZ Alkmaar_Excelsior_2018,Excelsior,8,8,16,19
+2018-12-15,Zwolle_NAC Breda_2018,Zwolle,9,7,16,19
+2018-12-16,Groningen_FC Emmen_2018,FC Emmen,8,8,16,19
+2018-12-16,Ajax_Graafschap_2018,Ajax,8,8,16,19
+2018-12-16,Groningen_FC Emmen_2018,Groningen,8,8,16,19
+2018-12-16,Ajax_Graafschap_2018,Graafschap,8,8,16,19
+2018-12-16,Feyenoord_For Sittard_2018,For Sittard,8,8,16,19
+2018-12-16,Heerenveen_Utrecht_2018,Heerenveen,8,8,16,19
+2018-12-16,Feyenoord_For Sittard_2018,Feyenoord,9,7,16,19
+2018-12-16,Heerenveen_Utrecht_2018,Utrecht,8,8,16,19
+2018-12-21,VVV Venlo_Zwolle_2018,VVV Venlo,8,9,17,20
+2018-12-21,VVV Venlo_Zwolle_2018,Zwolle,9,8,17,20
+2018-12-22,NAC Breda_Heerenveen_2018,NAC Breda,9,8,17,20
+2018-12-22,Excelsior_Heracles_2018,Excelsior,9,8,17,20
+2018-12-22,PSV Eindhoven_AZ Alkmaar_2018,AZ Alkmaar,8,9,17,20
+2018-12-22,Excelsior_Heracles_2018,Heracles,8,9,17,20
+2018-12-22,PSV Eindhoven_AZ Alkmaar_2018,PSV Eindhoven,9,8,17,20
+2018-12-22,For Sittard_Groningen_2018,Groningen,8,9,17,20
+2018-12-22,NAC Breda_Heerenveen_2018,Heerenveen,8,9,17,20
+2018-12-22,For Sittard_Groningen_2018,For Sittard,9,8,17,20
+2018-12-23,FC Emmen_Willem II_2018,Willem II,8,9,17,20
+2018-12-23,Den Haag_Feyenoord_2018,Feyenoord,9,8,17,20
+2018-12-23,Utrecht_Ajax_2018,Ajax,8,9,17,20
+2018-12-23,FC Emmen_Willem II_2018,FC Emmen,9,8,17,20
+2018-12-23,Utrecht_Ajax_2018,Utrecht,9,8,17,20
+2018-12-23,Den Haag_Feyenoord_2018,Den Haag,8,9,17,20
+2018-12-23,Graafschap_Vitesse_2018,Vitesse,8,9,17,20
+2018-12-23,Graafschap_Vitesse_2018,Graafschap,9,8,17,20
+2019-01-18,Vitesse_Excelsior_2018,Excelsior,9,9,18,24
+2019-01-18,Vitesse_Excelsior_2018,Vitesse,9,9,18,24
+2019-01-19,Den Haag_VVV Venlo_2018,Den Haag,9,9,18,24
+2019-01-19,Groningen_Heracles_2018,Heracles,8,10,18,24
+2019-01-19,Zwolle_Feyenoord_2018,Feyenoord,9,9,18,24
+2019-01-19,AZ Alkmaar_Utrecht_2018,AZ Alkmaar,9,9,18,24
+2019-01-19,AZ Alkmaar_Utrecht_2018,Utrecht,9,9,18,24
+2019-01-19,Den Haag_VVV Venlo_2018,VVV Venlo,8,10,18,24
+2019-01-19,Zwolle_Feyenoord_2018,Zwolle,10,8,18,24
+2019-01-19,Groningen_Heracles_2018,Groningen,9,9,18,24
+2019-01-20,FC Emmen_PSV Eindhoven_2018,PSV Eindhoven,9,9,18,24
+2019-01-20,Graafschap_For Sittard_2018,Graafschap,10,8,18,24
+2019-01-20,Willem II_NAC Breda_2018,Willem II,9,9,18,24
+2019-01-20,Willem II_NAC Breda_2018,NAC Breda,9,9,18,24
+2019-01-20,FC Emmen_PSV Eindhoven_2018,FC Emmen,10,8,18,24
+2019-01-20,Ajax_Heerenveen_2018,Ajax,9,9,18,24
+2019-01-20,Ajax_Heerenveen_2018,Heerenveen,8,10,18,24
+2019-01-20,Graafschap_For Sittard_2018,For Sittard,9,9,18,24
+2019-01-25,NAC Breda_Den Haag_2018,Den Haag,9,10,19,25
+2019-01-25,NAC Breda_Den Haag_2018,NAC Breda,10,9,19,25
+2019-01-26,Heracles_Zwolle_2018,Zwolle,10,9,19,25
+2019-01-26,Excelsior_Graafschap_2018,Graafschap,10,9,19,25
+2019-01-26,Heracles_Zwolle_2018,Heracles,9,10,19,25
+2019-01-26,PSV Eindhoven_Groningen_2018,Groningen,9,10,19,25
+2019-01-26,Excelsior_Graafschap_2018,Excelsior,10,9,19,25
+2019-01-26,PSV Eindhoven_Groningen_2018,PSV Eindhoven,10,9,19,25
+2019-01-26,VVV Venlo_FC Emmen_2018,VVV Venlo,9,10,19,25
+2019-01-26,VVV Venlo_FC Emmen_2018,FC Emmen,10,9,19,25
+2019-01-27,Feyenoord_Ajax_2018,Feyenoord,10,9,19,25
+2019-01-27,Utrecht_Willem II_2018,Utrecht,10,9,19,25
+2019-01-27,Heerenveen_AZ Alkmaar_2018,Heerenveen,9,10,19,25
+2019-01-27,For Sittard_Vitesse_2018,For Sittard,10,9,19,25
+2019-01-27,Utrecht_Willem II_2018,Willem II,9,10,19,25
+2019-01-27,Heerenveen_AZ Alkmaar_2018,AZ Alkmaar,9,10,19,25
+2019-01-27,Feyenoord_Ajax_2018,Ajax,9,10,19,25
+2019-01-27,For Sittard_Vitesse_2018,Vitesse,9,10,19,25
+2019-02-01,Graafschap_NAC Breda_2018,Graafschap,11,9,20,26
+2019-02-01,Graafschap_NAC Breda_2018,NAC Breda,10,10,20,26
+2019-02-02,AZ Alkmaar_FC Emmen_2018,FC Emmen,10,10,20,26
+2019-02-02,Willem II_Groningen_2018,Groningen,9,11,20,26
+2019-02-02,Ajax_VVV Venlo_2018,VVV Venlo,9,11,20,26
+2019-02-02,Ajax_VVV Venlo_2018,Ajax,10,10,20,26
+2019-02-02,Vitesse_Heerenveen_2018,Vitesse,10,10,20,26
+2019-02-02,Willem II_Groningen_2018,Willem II,10,10,20,26
+2019-02-02,Vitesse_Heerenveen_2018,Heerenveen,9,11,20,26
+2019-02-02,AZ Alkmaar_FC Emmen_2018,AZ Alkmaar,10,10,20,26
+2019-02-03,Den Haag_Heracles_2018,Den Haag,10,10,20,26
+2019-02-03,Zwolle_Utrecht_2018,Zwolle,11,9,20,26
+2019-02-03,PSV Eindhoven_For Sittard_2018,For Sittard,10,10,20,26
+2019-02-03,Excelsior_Feyenoord_2018,Excelsior,11,9,20,26
+2019-02-03,Excelsior_Feyenoord_2018,Feyenoord,10,10,20,26
+2019-02-03,Den Haag_Heracles_2018,Heracles,9,11,20,26
+2019-02-03,PSV Eindhoven_For Sittard_2018,PSV Eindhoven,11,9,20,26
+2019-02-03,Zwolle_Utrecht_2018,Utrecht,10,10,20,26
+2019-02-08,NAC Breda_AZ Alkmaar_2018,AZ Alkmaar,10,11,21,27
+2019-02-08,NAC Breda_AZ Alkmaar_2018,NAC Breda,11,10,21,27
+2019-02-09,Heerenveen_Zwolle_2018,Zwolle,11,10,21,27
+2019-02-09,VVV Venlo_Willem II_2018,VVV Venlo,10,11,21,27
+2019-02-09,VVV Venlo_Willem II_2018,Willem II,10,11,21,27
+2019-02-09,Feyenoord_Graafschap_2018,Feyenoord,11,10,21,27
+2019-02-09,Heracles_Ajax_2018,Heracles,10,11,21,27
+2019-02-09,Feyenoord_Graafschap_2018,Graafschap,11,10,21,27
+2019-02-09,Heerenveen_Zwolle_2018,Heerenveen,10,11,21,27
+2019-02-09,Heracles_Ajax_2018,Ajax,10,11,21,27
+2019-02-10,FC Emmen_Den Haag_2018,Den Haag,10,11,21,27
+2019-02-10,Utrecht_PSV Eindhoven_2018,Utrecht,11,10,21,27
+2019-02-10,FC Emmen_Den Haag_2018,FC Emmen,11,10,21,27
+2019-02-10,Groningen_Vitesse_2018,Vitesse,10,11,21,27
+2019-02-10,For Sittard_Excelsior_2018,Excelsior,11,10,21,27
+2019-02-10,Utrecht_PSV Eindhoven_2018,PSV Eindhoven,11,10,21,27
+2019-02-10,For Sittard_Excelsior_2018,For Sittard,11,10,21,27
+2019-02-10,Groningen_Vitesse_2018,Groningen,10,11,21,27
+2019-02-15,Den Haag_Zwolle_2018,Zwolle,11,11,22,28
+2019-02-15,Den Haag_Zwolle_2018,Den Haag,11,11,22,28
+2019-02-16,Heracles_For Sittard_2018,Heracles,11,11,22,28
+2019-02-16,Vitesse_Willem II_2018,Vitesse,11,11,22,28
+2019-02-16,AZ Alkmaar_VVV Venlo_2018,VVV Venlo,10,12,22,28
+2019-02-16,Heerenveen_PSV Eindhoven_2018,Heerenveen,11,11,22,28
+2019-02-16,Heracles_For Sittard_2018,For Sittard,11,11,22,28
+2019-02-16,Vitesse_Willem II_2018,Willem II,10,12,22,28
+2019-02-16,Heerenveen_PSV Eindhoven_2018,PSV Eindhoven,11,11,22,28
+2019-02-16,AZ Alkmaar_VVV Venlo_2018,AZ Alkmaar,11,11,22,28
+2019-02-17,Excelsior_FC Emmen_2018,FC Emmen,11,11,22,28
+2019-02-17,Ajax_NAC Breda_2018,NAC Breda,11,11,22,28
+2019-02-17,Groningen_Feyenoord_2018,Feyenoord,11,11,22,28
+2019-02-17,Graafschap_Utrecht_2018,Graafschap,12,10,22,28
+2019-02-17,Groningen_Feyenoord_2018,Groningen,11,11,22,28
+2019-02-17,Ajax_NAC Breda_2018,Ajax,11,11,22,28
+2019-02-17,Excelsior_FC Emmen_2018,Excelsior,12,10,22,28
+2019-02-17,Graafschap_Utrecht_2018,Utrecht,11,11,22,28
+2019-02-22,VVV Venlo_Heracles_2018,VVV Venlo,11,12,23,29
+2019-02-22,VVV Venlo_Heracles_2018,Heracles,11,12,23,29
+2019-02-23,NAC Breda_Groningen_2018,Groningen,11,12,23,29
+2019-02-23,Zwolle_Graafschap_2018,Zwolle,12,11,23,29
+2019-02-23,Utrecht_Excelsior_2018,Excelsior,12,11,23,29
+2019-02-23,For Sittard_Heerenveen_2018,Heerenveen,11,12,23,29
+2019-02-23,For Sittard_Heerenveen_2018,For Sittard,12,11,23,29
+2019-02-23,Zwolle_Graafschap_2018,Graafschap,12,11,23,29
+2019-02-23,NAC Breda_Groningen_2018,NAC Breda,12,11,23,29
+2019-02-23,Utrecht_Excelsior_2018,Utrecht,12,11,23,29
+2019-02-24,FC Emmen_Vitesse_2018,Vitesse,11,12,23,29
+2019-02-24,Den Haag_Ajax_2018,Den Haag,12,11,23,29
+2019-02-24,PSV Eindhoven_Feyenoord_2018,PSV Eindhoven,12,11,23,29
+2019-02-24,Willem II_AZ Alkmaar_2018,AZ Alkmaar,11,12,23,29
+2019-02-24,PSV Eindhoven_Feyenoord_2018,Feyenoord,11,12,23,29
+2019-02-24,Willem II_AZ Alkmaar_2018,Willem II,11,12,23,29
+2019-02-24,FC Emmen_Vitesse_2018,FC Emmen,12,11,23,29
+2019-02-24,Den Haag_Ajax_2018,Ajax,11,12,23,29
+2019-03-01,Graafschap_Den Haag_2018,Den Haag,12,12,24,30
+2019-03-01,Graafschap_Den Haag_2018,Graafschap,13,11,24,30
+2019-03-02,Excelsior_PSV Eindhoven_2018,Excelsior,13,11,24,30
+2019-03-02,Vitesse_NAC Breda_2018,NAC Breda,12,12,24,30
+2019-03-02,Vitesse_NAC Breda_2018,Vitesse,12,12,24,30
+2019-03-02,Heracles_Utrecht_2018,Heracles,12,12,24,30
+2019-03-02,Heracles_Utrecht_2018,Utrecht,12,12,24,30
+2019-03-02,Excelsior_PSV Eindhoven_2018,PSV Eindhoven,12,12,24,30
+2019-03-03,Heerenveen_Willem II_2018,Heerenveen,12,12,24,30
+2019-03-03,Groningen_VVV Venlo_2018,VVV Venlo,11,13,24,30
+2019-03-03,Groningen_VVV Venlo_2018,Groningen,12,12,24,30
+2019-03-03,AZ Alkmaar_For Sittard_2018,AZ Alkmaar,12,12,24,30
+2019-03-03,AZ Alkmaar_For Sittard_2018,For Sittard,12,12,24,30
+2019-03-03,Feyenoord_FC Emmen_2018,Feyenoord,12,12,24,30
+2019-03-03,Heerenveen_Willem II_2018,Willem II,11,13,24,30
+2019-03-03,Feyenoord_FC Emmen_2018,FC Emmen,12,12,24,30
+2019-03-08,Utrecht_Groningen_2018,Groningen,12,13,25,31
+2019-03-08,Utrecht_Groningen_2018,Utrecht,13,12,25,31
+2019-03-09,Den Haag_Heerenveen_2018,Den Haag,13,12,25,31
+2019-03-09,PSV Eindhoven_NAC Breda_2018,PSV Eindhoven,13,12,25,31
+2019-03-09,Willem II_Graafschap_2018,Willem II,12,13,25,31
+2019-03-09,PSV Eindhoven_NAC Breda_2018,NAC Breda,12,13,25,31
+2019-03-09,VVV Venlo_Excelsior_2018,Excelsior,13,12,25,31
+2019-03-09,Den Haag_Heerenveen_2018,Heerenveen,12,13,25,31
+2019-03-09,VVV Venlo_Excelsior_2018,VVV Venlo,12,13,25,31
+2019-03-09,Willem II_Graafschap_2018,Graafschap,13,12,25,31
+2019-03-10,Zwolle_AZ Alkmaar_2018,Zwolle,13,11,24,31
+2019-03-10,Ajax_For Sittard_2018,For Sittard,12,13,25,31
+2019-03-10,FC Emmen_Heracles_2018,Heracles,12,13,25,31
+2019-03-10,Vitesse_Feyenoord_2018,Feyenoord,12,13,25,31
+2019-03-10,Vitesse_Feyenoord_2018,Vitesse,13,12,25,31
+2019-03-10,Zwolle_AZ Alkmaar_2018,AZ Alkmaar,12,13,25,31
+2019-03-10,Ajax_For Sittard_2018,Ajax,12,12,24,31
+2019-03-10,FC Emmen_Heracles_2018,FC Emmen,13,12,25,31
+2019-03-13,Ajax_Zwolle_2018,Ajax,13,12,25,32
+2019-03-13,Ajax_Zwolle_2018,Zwolle,13,12,25,32
+2019-03-15,For Sittard_FC Emmen_2018,For Sittard,13,13,26,32
+2019-03-15,For Sittard_FC Emmen_2018,FC Emmen,13,13,26,32
+2019-03-16,Feyenoord_Willem II_2018,Willem II,12,14,26,32
+2019-03-16,Heracles_Vitesse_2018,Heracles,13,13,26,32
+2019-03-16,NAC Breda_Utrecht_2018,Utrecht,13,13,26,32
+2019-03-16,NAC Breda_Utrecht_2018,NAC Breda,13,13,26,32
+2019-03-16,Heerenveen_Graafschap_2018,Heerenveen,13,13,26,32
+2019-03-16,Heracles_Vitesse_2018,Vitesse,13,13,26,32
+2019-03-16,Heerenveen_Graafschap_2018,Graafschap,13,13,26,32
+2019-03-16,Feyenoord_Willem II_2018,Feyenoord,13,13,26,32
+2019-03-17,Groningen_Den Haag_2018,Groningen,13,13,26,32
+2019-03-17,AZ Alkmaar_Ajax_2018,AZ Alkmaar,13,13,26,32
+2019-03-17,Excelsior_Zwolle_2018,Excelsior,14,12,26,32
+2019-03-17,VVV Venlo_PSV Eindhoven_2018,VVV Venlo,13,13,26,32
+2019-03-17,Excelsior_Zwolle_2018,Zwolle,13,13,26,32
+2019-03-17,AZ Alkmaar_Ajax_2018,Ajax,13,13,26,32
+2019-03-17,VVV Venlo_PSV Eindhoven_2018,PSV Eindhoven,13,13,26,32
+2019-03-17,Groningen_Den Haag_2018,Den Haag,13,13,26,32
+2019-03-30,Willem II_For Sittard_2018,For Sittard,13,14,27,34
+2019-03-30,Heerenveen_Excelsior_2018,Excelsior,14,13,27,34
+2019-03-30,AZ Alkmaar_Groningen_2018,Groningen,13,14,27,34
+2019-03-30,Graafschap_Heracles_2018,Heracles,13,14,27,34
+2019-03-30,Graafschap_Heracles_2018,Graafschap,14,13,27,34
+2019-03-30,Den Haag_Vitesse_2018,Den Haag,14,13,27,34
+2019-03-30,Willem II_For Sittard_2018,Willem II,13,14,27,34
+2019-03-30,AZ Alkmaar_Groningen_2018,AZ Alkmaar,14,13,27,34
+2019-03-30,Heerenveen_Excelsior_2018,Heerenveen,14,13,27,34
+2019-03-30,Den Haag_Vitesse_2018,Vitesse,13,14,27,34
+2019-03-31,NAC Breda_VVV Venlo_2018,VVV Venlo,13,14,27,34
+2019-03-31,Ajax_PSV Eindhoven_2018,Ajax,14,13,27,34
+2019-03-31,Zwolle_FC Emmen_2018,FC Emmen,13,14,27,34
+2019-03-31,Utrecht_Feyenoord_2018,Utrecht,14,13,27,34
+2019-03-31,Utrecht_Feyenoord_2018,Feyenoord,13,14,27,34
+2019-03-31,Zwolle_FC Emmen_2018,Zwolle,14,13,27,34
+2019-03-31,NAC Breda_VVV Venlo_2018,NAC Breda,14,13,27,34
+2019-03-31,Ajax_PSV Eindhoven_2018,PSV Eindhoven,13,14,27,34
+2019-04-02,Heracles_Willem II_2018,Willem II,13,15,28,35
+2019-04-02,Vitesse_AZ Alkmaar_2018,Vitesse,14,14,28,35
+2019-04-02,Groningen_Graafschap_2018,Graafschap,14,14,28,35
+2019-04-02,Groningen_Graafschap_2018,Groningen,14,14,28,35
+2019-04-02,Vitesse_AZ Alkmaar_2018,AZ Alkmaar,14,14,28,35
+2019-04-02,Heracles_Willem II_2018,Heracles,14,14,28,35
+2019-04-03,FC Emmen_Ajax_2018,FC Emmen,14,14,28,35
+2019-04-03,FC Emmen_Ajax_2018,Ajax,14,14,28,35
+2019-04-03,VVV Venlo_Utrecht_2018,Utrecht,14,14,28,35
+2019-04-03,Excelsior_NAC Breda_2018,NAC Breda,14,14,28,35
+2019-04-03,VVV Venlo_Utrecht_2018,VVV Venlo,14,14,28,35
+2019-04-03,Excelsior_NAC Breda_2018,Excelsior,15,13,28,35
+2019-04-03,For Sittard_Den Haag_2018,For Sittard,14,14,28,35
+2019-04-03,For Sittard_Den Haag_2018,Den Haag,14,14,28,35
+2019-04-04,Feyenoord_Heerenveen_2018,Heerenveen,14,14,28,35
+2019-04-04,PSV Eindhoven_Zwolle_2018,PSV Eindhoven,14,14,28,35
+2019-04-04,PSV Eindhoven_Zwolle_2018,Zwolle,14,14,28,35
+2019-04-04,Feyenoord_Heerenveen_2018,Feyenoord,14,14,28,35
+2019-04-06,Heracles_NAC Breda_2018,NAC Breda,14,15,29,35
+2019-04-06,Den Haag_Utrecht_2018,Den Haag,15,14,29,35
+2019-04-06,Graafschap_AZ Alkmaar_2018,Graafschap,15,14,29,35
+2019-04-06,Groningen_Excelsior_2018,Excelsior,15,14,29,35
+2019-04-06,Willem II_Ajax_2018,Ajax,14,15,29,35
+2019-04-06,Groningen_Excelsior_2018,Groningen,15,14,29,35
+2019-04-06,Heracles_NAC Breda_2018,Heracles,15,14,29,35
+2019-04-06,Graafschap_AZ Alkmaar_2018,AZ Alkmaar,14,15,29,35
+2019-04-06,Willem II_Ajax_2018,Willem II,14,15,29,35
+2019-04-06,Den Haag_Utrecht_2018,Utrecht,14,15,29,35
+2019-04-07,FC Emmen_Heerenveen_2018,FC Emmen,15,14,29,35
+2019-04-07,Zwolle_For Sittard_2018,Zwolle,15,14,29,35
+2019-04-07,Zwolle_For Sittard_2018,For Sittard,14,15,29,35
+2019-04-07,VVV Venlo_Feyenoord_2018,Feyenoord,14,15,29,35
+2019-04-07,Vitesse_PSV Eindhoven_2018,Vitesse,15,14,29,35
+2019-04-07,FC Emmen_Heerenveen_2018,Heerenveen,14,15,29,35
+2019-04-07,Vitesse_PSV Eindhoven_2018,PSV Eindhoven,14,15,29,35
+2019-04-07,VVV Venlo_Feyenoord_2018,VVV Venlo,15,14,29,35
+2019-04-12,NAC Breda_FC Emmen_2018,NAC Breda,15,15,30,36
+2019-04-12,NAC Breda_FC Emmen_2018,FC Emmen,15,15,30,36
+2019-04-13,AZ Alkmaar_Den Haag_2018,AZ Alkmaar,15,15,30,36
+2019-04-13,Ajax_Excelsior_2018,Excelsior,15,15,30,36
+2019-04-13,For Sittard_VVV Venlo_2018,For Sittard,15,15,30,36
+2019-04-13,Ajax_Excelsior_2018,Ajax,15,15,30,36
+2019-04-13,AZ Alkmaar_Den Haag_2018,Den Haag,15,15,30,36
+2019-04-13,Feyenoord_Heracles_2018,Feyenoord,15,15,30,36
+2019-04-13,For Sittard_VVV Venlo_2018,VVV Venlo,15,15,30,36
+2019-04-13,Feyenoord_Heracles_2018,Heracles,15,15,30,36
+2019-04-14,Willem II_Zwolle_2018,Willem II,15,15,30,36
+2019-04-14,Utrecht_Vitesse_2018,Utrecht,15,15,30,36
+2019-04-14,Heerenveen_Groningen_2018,Heerenveen,15,15,30,36
+2019-04-14,Utrecht_Vitesse_2018,Vitesse,15,15,30,36
+2019-04-14,Willem II_Zwolle_2018,Zwolle,15,15,30,36
+2019-04-14,Heerenveen_Groningen_2018,Groningen,15,15,30,36
+2019-04-14,PSV Eindhoven_Graafschap_2018,Graafschap,15,15,30,36
+2019-04-14,PSV Eindhoven_Graafschap_2018,PSV Eindhoven,15,15,30,36
+2019-04-19,Heracles_Heerenveen_2018,Heerenveen,15,16,31,37
+2019-04-19,Heracles_Heerenveen_2018,Heracles,16,15,31,37
+2019-04-20,Vitesse_Zwolle_2018,Vitesse,16,15,31,37
+2019-04-20,FC Emmen_Utrecht_2018,Utrecht,15,16,31,37
+2019-04-20,FC Emmen_Utrecht_2018,FC Emmen,16,15,31,37
+2019-04-20,VVV Venlo_Graafschap_2018,VVV Venlo,16,15,31,37
+2019-04-20,Groningen_Ajax_2018,Ajax,15,16,31,37
+2019-04-20,Feyenoord_AZ Alkmaar_2018,AZ Alkmaar,15,16,31,37
+2019-04-20,Groningen_Ajax_2018,Groningen,16,15,31,37
+2019-04-20,VVV Venlo_Graafschap_2018,Graafschap,15,16,31,37
+2019-04-20,Feyenoord_AZ Alkmaar_2018,Feyenoord,16,15,31,37
+2019-04-20,Vitesse_Zwolle_2018,Zwolle,15,16,31,37
+2019-04-21,PSV Eindhoven_Den Haag_2018,PSV Eindhoven,16,15,31,37
+2019-04-21,For Sittard_NAC Breda_2018,For Sittard,16,15,31,37
+2019-04-21,Excelsior_Willem II_2018,Willem II,15,16,31,37
+2019-04-21,Excelsior_Willem II_2018,Excelsior,16,15,31,37
+2019-04-21,For Sittard_NAC Breda_2018,NAC Breda,15,16,31,37
+2019-04-21,PSV Eindhoven_Den Haag_2018,Den Haag,15,16,31,37
+2019-04-23,Heerenveen_VVV Venlo_2018,VVV Venlo,16,16,32,38
+2019-04-23,Graafschap_FC Emmen_2018,Graafschap,16,16,32,38
+2019-04-23,AZ Alkmaar_Heracles_2018,Heracles,16,16,32,38
+2019-04-23,Ajax_Vitesse_2018,Ajax,16,16,32,38
+2019-04-23,Ajax_Vitesse_2018,Vitesse,16,16,32,38
+2019-04-23,Heerenveen_VVV Venlo_2018,Heerenveen,16,16,32,38
+2019-04-23,Graafschap_FC Emmen_2018,FC Emmen,16,16,32,38
+2019-04-23,AZ Alkmaar_Heracles_2018,AZ Alkmaar,16,16,32,38
+2019-04-24,NAC Breda_Feyenoord_2018,Feyenoord,16,16,32,38
+2019-04-24,Utrecht_For Sittard_2018,For Sittard,16,16,32,38
+2019-04-24,NAC Breda_Feyenoord_2018,NAC Breda,16,16,32,38
+2019-04-24,Utrecht_For Sittard_2018,Utrecht,16,16,32,38
+2019-04-25,Den Haag_Excelsior_2018,Den Haag,16,16,32,38
+2019-04-25,Willem II_PSV Eindhoven_2018,Willem II,16,16,32,38
+2019-04-25,Den Haag_Excelsior_2018,Excelsior,16,16,32,38
+2019-04-25,Willem II_PSV Eindhoven_2018,PSV Eindhoven,16,16,32,38
+2019-04-29,Zwolle_Groningen_2018,Groningen,16,16,32,38
+2019-04-29,Zwolle_Groningen_2018,Zwolle,16,16,32,38
+2019-05-12,Zwolle_VVV Venlo_2018,Zwolle,17,16,33,40
+2019-05-12,Feyenoord_Den Haag_2018,Feyenoord,17,16,33,40
+2019-05-12,Ajax_Utrecht_2018,Ajax,17,16,33,40
+2019-05-12,Vitesse_Graafschap_2018,Vitesse,17,16,33,40
+2019-05-12,Heracles_Excelsior_2018,Excelsior,16,17,33,40
+2019-05-12,Zwolle_VVV Venlo_2018,VVV Venlo,16,17,33,40
+2019-05-12,Heerenveen_NAC Breda_2018,NAC Breda,16,17,33,40
+2019-05-12,Groningen_For Sittard_2018,For Sittard,16,17,33,40
+2019-05-12,Heracles_Excelsior_2018,Heracles,17,16,33,40
+2019-05-12,AZ Alkmaar_PSV Eindhoven_2018,AZ Alkmaar,17,16,33,40
+2019-05-12,Willem II_FC Emmen_2018,FC Emmen,16,17,33,40
+2019-05-12,Vitesse_Graafschap_2018,Graafschap,16,17,33,40
+2019-05-12,Heerenveen_NAC Breda_2018,Heerenveen,17,16,33,40
+2019-05-12,Feyenoord_Den Haag_2018,Den Haag,16,17,33,40
+2019-05-12,Groningen_For Sittard_2018,Groningen,17,16,33,40
+2019-05-12,Ajax_Utrecht_2018,Utrecht,16,17,33,40
+2019-05-12,AZ Alkmaar_PSV Eindhoven_2018,PSV Eindhoven,16,17,33,40
+2019-05-12,Willem II_FC Emmen_2018,Willem II,17,16,33,40
+2019-05-15,Den Haag_Willem II_2018,Den Haag,17,17,34,41
+2019-05-15,Excelsior_AZ Alkmaar_2018,AZ Alkmaar,17,17,34,41
+2019-05-15,VVV Venlo_Vitesse_2018,Vitesse,17,17,34,41
+2019-05-15,VVV Venlo_Vitesse_2018,VVV Venlo,17,17,34,41
+2019-05-15,Graafschap_Ajax_2018,Ajax,17,17,34,41
+2019-05-15,PSV Eindhoven_Heracles_2018,PSV Eindhoven,17,17,34,41
+2019-05-15,For Sittard_Feyenoord_2018,Feyenoord,17,17,34,41
+2019-05-15,FC Emmen_Groningen_2018,Groningen,17,17,34,41
+2019-05-15,Den Haag_Willem II_2018,Willem II,17,17,34,41
+2019-05-15,Excelsior_AZ Alkmaar_2018,Excelsior,17,17,34,41
+2019-05-15,Utrecht_Heerenveen_2018,Heerenveen,17,17,34,41
+2019-05-15,PSV Eindhoven_Heracles_2018,Heracles,17,17,34,41
+2019-05-15,NAC Breda_Zwolle_2018,NAC Breda,17,17,34,41
+2019-05-15,FC Emmen_Groningen_2018,FC Emmen,17,17,34,41
+2019-05-15,Graafschap_Ajax_2018,Graafschap,17,17,34,41
+2019-05-15,Utrecht_Heerenveen_2018,Utrecht,17,17,34,41
+2019-05-15,For Sittard_Feyenoord_2018,For Sittard,17,17,34,41
+2019-05-15,NAC Breda_Zwolle_2018,Zwolle,17,17,34,41

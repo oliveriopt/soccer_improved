@@ -48,6 +48,10 @@ class ReadTeams:
         return df
 
     def run(self):
+        """
+        Run the class TAKE ALL THE TEAMS FOR EVERY LEAGUE DURING ALL YEARS
+        :return:
+        """
         self.__read_years(2003, 2021)
         df = self.__select_teams()
         df.to_csv(self.path + self.path_dict.get("path_teams") + cons_path.teams + cons_path.csv)

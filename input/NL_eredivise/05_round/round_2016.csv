@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2016-08-05,Nijmegen_Zwolle_2016,Nijmegen,1,1,1,1
+2016-08-05,Nijmegen_Zwolle_2016,Zwolle,1,1,1,1
+2016-08-06,Utrecht_PSV Eindhoven_2016,PSV Eindhoven,1,1,1,1
+2016-08-06,Den Haag_Go Ahead Eagles_2016,Go Ahead Eagles,1,1,1,1
+2016-08-06,Willem II_Vitesse_2016,Willem II,1,1,1,1
+2016-08-06,Twente_Excelsior_2016,Excelsior,1,1,1,1
+2016-08-06,Den Haag_Go Ahead Eagles_2016,Den Haag,1,1,1,1
+2016-08-06,Twente_Excelsior_2016,Twente,1,1,1,1
+2016-08-06,Willem II_Vitesse_2016,Vitesse,1,1,1,1
+2016-08-06,Utrecht_PSV Eindhoven_2016,Utrecht,1,1,1,1
+2016-08-07,Sparta Rotterdam_Ajax_2016,Ajax,1,1,1,1
+2016-08-07,Groningen_Feyenoord_2016,Groningen,1,1,1,1
+2016-08-07,AZ Alkmaar_Heerenveen_2016,AZ Alkmaar,1,1,1,1
+2016-08-07,Sparta Rotterdam_Ajax_2016,Sparta Rotterdam,1,1,1,1
+2016-08-07,Groningen_Feyenoord_2016,Feyenoord,1,1,1,1
+2016-08-07,AZ Alkmaar_Heerenveen_2016,Heerenveen,1,1,1,1
+2016-08-07,Roda_Heracles_2016,Heracles,1,1,1,1
+2016-08-07,Roda_Heracles_2016,Roda,1,1,1,1
+2016-08-12,Heerenveen_Utrecht_2016,Utrecht,1,1,2,2
+2016-08-12,Heerenveen_Utrecht_2016,Heerenveen,1,1,2,2
+2016-08-13,Excelsior_Groningen_2016,Groningen,1,1,2,2
+2016-08-13,Zwolle_Sparta Rotterdam_2016,Zwolle,1,1,2,2
+2016-08-13,Excelsior_Groningen_2016,Excelsior,1,1,2,2
+2016-08-13,Vitesse_Den Haag_2016,Vitesse,1,1,2,2
+2016-08-13,Vitesse_Den Haag_2016,Den Haag,1,1,2,2
+2016-08-13,Zwolle_Sparta Rotterdam_2016,Sparta Rotterdam,1,1,2,2
+2016-08-13,Ajax_Roda_2016,Ajax,1,1,2,2
+2016-08-13,Ajax_Roda_2016,Roda,1,1,2,2
+2016-08-14,PSV Eindhoven_AZ Alkmaar_2016,PSV Eindhoven,1,1,2,2
+2016-08-14,Feyenoord_Twente_2016,Twente,1,1,2,2
+2016-08-14,Go Ahead Eagles_Nijmegen_2016,Nijmegen,1,1,2,2
+2016-08-14,PSV Eindhoven_AZ Alkmaar_2016,AZ Alkmaar,1,1,2,2
+2016-08-14,Heracles_Willem II_2016,Willem II,1,1,2,2
+2016-08-14,Feyenoord_Twente_2016,Feyenoord,1,1,2,2
+2016-08-14,Heracles_Willem II_2016,Heracles,1,1,2,2
+2016-08-14,Go Ahead Eagles_Nijmegen_2016,Go Ahead Eagles,1,1,2,2
+2016-08-19,Excelsior_Den Haag_2016,Excelsior,2,1,3,3
+2016-08-19,Excelsior_Den Haag_2016,Den Haag,1,2,3,3
+2016-08-20,Zwolle_PSV Eindhoven_2016,Zwolle,2,1,3,3
+2016-08-20,Ajax_Willem II_2016,Ajax,2,1,3,3
+2016-08-20,Ajax_Willem II_2016,Willem II,1,2,3,3
+2016-08-20,Zwolle_PSV Eindhoven_2016,PSV Eindhoven,1,2,3,3
+2016-08-20,Nijmegen_Heerenveen_2016,Nijmegen,2,1,3,3
+2016-08-20,Roda_Vitesse_2016,Vitesse,1,2,3,3
+2016-08-20,Nijmegen_Heerenveen_2016,Heerenveen,1,2,3,3
+2016-08-20,Roda_Vitesse_2016,Roda,2,1,3,3
+2016-08-21,Utrecht_AZ Alkmaar_2016,Utrecht,2,1,3,3
+2016-08-21,Utrecht_AZ Alkmaar_2016,AZ Alkmaar,1,2,3,3
+2016-08-21,Sparta Rotterdam_Go Ahead Eagles_2016,Go Ahead Eagles,1,2,3,3
+2016-08-21,Heracles_Feyenoord_2016,Feyenoord,1,2,3,3
+2016-08-21,Groningen_Twente_2016,Groningen,2,1,3,3
+2016-08-21,Sparta Rotterdam_Go Ahead Eagles_2016,Sparta Rotterdam,2,1,3,3
+2016-08-21,Groningen_Twente_2016,Twente,1,2,3,3
+2016-08-21,Heracles_Feyenoord_2016,Heracles,2,1,3,3
+2016-08-26,Vitesse_Utrecht_2016,Utrecht,2,2,4,4
+2016-08-26,Vitesse_Utrecht_2016,Vitesse,2,2,4,4
+2016-08-27,Heerenveen_Zwolle_2016,Zwolle,2,2,4,4
+2016-08-27,Feyenoord_Excelsior_2016,Excelsior,2,2,4,4
+2016-08-27,Twente_Sparta Rotterdam_2016,Sparta Rotterdam,2,2,4,4
+2016-08-27,Feyenoord_Excelsior_2016,Feyenoord,2,2,4,4
+2016-08-27,Twente_Sparta Rotterdam_2016,Twente,2,2,4,4
+2016-08-27,Willem II_Roda_2016,Roda,2,2,4,4
+2016-08-27,Willem II_Roda_2016,Willem II,2,2,4,4
+2016-08-27,Heerenveen_Zwolle_2016,Heerenveen,2,2,4,4
+2016-08-28,AZ Alkmaar_Nijmegen_2016,Nijmegen,2,2,4,4
+2016-08-28,Den Haag_Heracles_2016,Heracles,2,2,4,4
+2016-08-28,Go Ahead Eagles_Ajax_2016,Ajax,2,2,4,4
+2016-08-28,AZ Alkmaar_Nijmegen_2016,AZ Alkmaar,2,2,4,4
+2016-08-28,PSV Eindhoven_Groningen_2016,Groningen,2,2,4,4
+2016-08-28,Den Haag_Heracles_2016,Den Haag,2,2,4,4
+2016-08-28,Go Ahead Eagles_Ajax_2016,Go Ahead Eagles,2,2,4,4
+2016-08-28,PSV Eindhoven_Groningen_2016,PSV Eindhoven,2,2,4,4
+2016-09-10,Heerenveen_Twente_2016,Twente,2,3,5,6
+2016-09-10,AZ Alkmaar_Willem II_2016,AZ Alkmaar,3,2,5,6
+2016-09-10,Excelsior_Heracles_2016,Heracles,2,3,5,6
+2016-09-10,Nijmegen_PSV Eindhoven_2016,Nijmegen,3,2,5,6
+2016-09-10,Heerenveen_Twente_2016,Heerenveen,3,2,5,6
+2016-09-10,Zwolle_Utrecht_2016,Utrecht,2,3,5,6
+2016-09-10,AZ Alkmaar_Willem II_2016,Willem II,2,3,5,6
+2016-09-10,Excelsior_Heracles_2016,Excelsior,3,2,5,6
+2016-09-10,Nijmegen_PSV Eindhoven_2016,PSV Eindhoven,2,3,5,6
+2016-09-10,Zwolle_Utrecht_2016,Zwolle,3,2,5,6
+2016-09-11,Go Ahead Eagles_Roda_2016,Go Ahead Eagles,3,2,5,6
+2016-09-11,Groningen_Sparta Rotterdam_2016,Groningen,3,2,5,6
+2016-09-11,Feyenoord_Den Haag_2016,Den Haag,2,3,5,6
+2016-09-11,Feyenoord_Den Haag_2016,Feyenoord,3,2,5,6
+2016-09-11,Ajax_Vitesse_2016,Ajax,3,2,5,6
+2016-09-11,Ajax_Vitesse_2016,Vitesse,2,3,5,6
+2016-09-11,Go Ahead Eagles_Roda_2016,Roda,2,3,5,6
+2016-09-11,Groningen_Sparta Rotterdam_2016,Sparta Rotterdam,2,3,5,6
+2016-09-16,Utrecht_Groningen_2016,Groningen,3,3,6,7
+2016-09-16,Utrecht_Groningen_2016,Utrecht,3,3,6,7
+2016-09-17,Vitesse_Go Ahead Eagles_2016,Go Ahead Eagles,3,3,6,7
+2016-09-17,Twente_Den Haag_2016,Twente,3,3,6,7
+2016-09-17,Twente_Den Haag_2016,Den Haag,2,4,6,7
+2016-09-17,Willem II_Excelsior_2016,Willem II,3,3,6,7
+2016-09-17,Willem II_Excelsior_2016,Excelsior,3,3,6,7
+2016-09-17,Vitesse_Go Ahead Eagles_2016,Vitesse,3,3,6,7
+2016-09-17,Roda_Heerenveen_2016,Roda,3,3,6,7
+2016-09-17,Roda_Heerenveen_2016,Heerenveen,3,3,6,7
+2016-09-18,Zwolle_AZ Alkmaar_2016,Zwolle,4,2,6,7
+2016-09-18,Heracles_Ajax_2016,Heracles,3,3,6,7
+2016-09-18,PSV Eindhoven_Feyenoord_2016,PSV Eindhoven,3,3,6,7
+2016-09-18,Zwolle_AZ Alkmaar_2016,AZ Alkmaar,3,3,6,7
+2016-09-18,Sparta Rotterdam_Nijmegen_2016,Sparta Rotterdam,3,3,6,7
+2016-09-18,Sparta Rotterdam_Nijmegen_2016,Nijmegen,3,3,6,7
+2016-09-18,Heracles_Ajax_2016,Ajax,3,3,6,7
+2016-09-18,PSV Eindhoven_Feyenoord_2016,Feyenoord,3,3,6,7
+2016-09-24,Den Haag_Heerenveen_2016,Heerenveen,3,4,7,8
+2016-09-24,Groningen_Heracles_2016,Groningen,4,3,7,8
+2016-09-24,Ajax_Zwolle_2016,Ajax,4,3,7,8
+2016-09-24,Groningen_Heracles_2016,Heracles,3,4,7,8
+2016-09-24,Den Haag_Heerenveen_2016,Den Haag,3,4,7,8
+2016-09-24,AZ Alkmaar_Go Ahead Eagles_2016,AZ Alkmaar,4,3,7,8
+2016-09-24,AZ Alkmaar_Go Ahead Eagles_2016,Go Ahead Eagles,3,4,7,8
+2016-09-24,Excelsior_PSV Eindhoven_2016,Excelsior,4,3,7,8
+2016-09-24,Ajax_Zwolle_2016,Zwolle,4,3,7,8
+2016-09-24,Excelsior_PSV Eindhoven_2016,PSV Eindhoven,3,4,7,8
+2016-09-25,Twente_Vitesse_2016,Twente,4,3,7,8
+2016-09-25,Nijmegen_Willem II_2016,Willem II,3,4,7,8
+2016-09-25,Nijmegen_Willem II_2016,Nijmegen,4,3,7,8
+2016-09-25,Feyenoord_Roda_2016,Feyenoord,4,3,7,8
+2016-09-25,Twente_Vitesse_2016,Vitesse,3,4,7,8
+2016-09-25,Utrecht_Sparta Rotterdam_2016,Sparta Rotterdam,3,4,7,8
+2016-09-25,Feyenoord_Roda_2016,Roda,3,4,7,8
+2016-09-25,Utrecht_Sparta Rotterdam_2016,Utrecht,4,3,7,8
+2016-09-30,Zwolle_Den Haag_2016,Den Haag,3,5,8,9
+2016-09-30,Zwolle_Den Haag_2016,Zwolle,5,3,8,9
+2016-10-01,Go Ahead Eagles_Excelsior_2016,Excelsior,4,4,8,9
+2016-10-01,Vitesse_Groningen_2016,Vitesse,4,4,8,9
+2016-10-01,Roda_Nijmegen_2016,Nijmegen,4,4,8,9
+2016-10-01,Vitesse_Groningen_2016,Groningen,4,4,8,9
+2016-10-01,Heerenveen_PSV Eindhoven_2016,PSV Eindhoven,3,5,8,9
+2016-10-01,Roda_Nijmegen_2016,Roda,4,4,8,9
+2016-10-01,Go Ahead Eagles_Excelsior_2016,Go Ahead Eagles,4,4,8,9
+2016-10-01,Heerenveen_PSV Eindhoven_2016,Heerenveen,4,4,8,9
+2016-10-02,Sparta Rotterdam_AZ Alkmaar_2016,Sparta Rotterdam,4,4,8,9
+2016-10-02,Ajax_Utrecht_2016,Utrecht,4,4,8,9
+2016-10-02,Ajax_Utrecht_2016,Ajax,5,3,8,9
+2016-10-02,Willem II_Feyenoord_2016,Feyenoord,4,4,8,9
+2016-10-02,Heracles_Twente_2016,Heracles,4,4,8,9
+2016-10-02,Heracles_Twente_2016,Twente,4,4,8,9
+2016-10-02,Sparta Rotterdam_AZ Alkmaar_2016,AZ Alkmaar,4,4,8,9
+2016-10-02,Willem II_Feyenoord_2016,Willem II,4,4,8,9
+2016-10-15,Sparta Rotterdam_Willem II_2016,Willem II,4,5,9,11
+2016-10-15,Groningen_Heerenveen_2016,Groningen,5,4,9,11
+2016-10-15,Sparta Rotterdam_Willem II_2016,Sparta Rotterdam,5,4,9,11
+2016-10-15,Groningen_Heerenveen_2016,Heerenveen,4,5,9,11
+2016-10-15,AZ Alkmaar_Vitesse_2016,AZ Alkmaar,5,4,9,11
+2016-10-15,Utrecht_Go Ahead Eagles_2016,Utrecht,5,4,9,11
+2016-10-15,PSV Eindhoven_Heracles_2016,PSV Eindhoven,4,5,9,11
+2016-10-15,Utrecht_Go Ahead Eagles_2016,Go Ahead Eagles,4,5,9,11
+2016-10-15,PSV Eindhoven_Heracles_2016,Heracles,4,5,9,11
+2016-10-15,AZ Alkmaar_Vitesse_2016,Vitesse,4,5,9,11
+2016-10-16,Twente_Zwolle_2016,Zwolle,5,4,9,11
+2016-10-16,Nijmegen_Feyenoord_2016,Feyenoord,4,5,9,11
+2016-10-16,Excelsior_Roda_2016,Roda,4,5,9,11
+2016-10-16,Nijmegen_Feyenoord_2016,Nijmegen,5,4,9,11
+2016-10-16,Den Haag_Ajax_2016,Den Haag,4,5,9,11
+2016-10-16,Twente_Zwolle_2016,Twente,5,4,9,11
+2016-10-16,Excelsior_Roda_2016,Excelsior,5,4,9,11
+2016-10-16,Den Haag_Ajax_2016,Ajax,5,4,9,11
+2016-10-21,Excelsior_Zwolle_2016,Excelsior,6,4,10,12
+2016-10-21,Excelsior_Zwolle_2016,Zwolle,5,5,10,12
+2016-10-22,Willem II_Utrecht_2016,Utrecht,5,5,10,12
+2016-10-22,Roda_Den Haag_2016,Roda,5,5,10,12
+2016-10-22,Willem II_Utrecht_2016,Willem II,5,5,10,12
+2016-10-22,Roda_Den Haag_2016,Den Haag,4,6,10,12
+2016-10-22,Go Ahead Eagles_Twente_2016,Go Ahead Eagles,5,5,10,12
+2016-10-22,PSV Eindhoven_Sparta Rotterdam_2016,Sparta Rotterdam,5,5,10,12
+2016-10-22,Go Ahead Eagles_Twente_2016,Twente,5,5,10,12
+2016-10-22,PSV Eindhoven_Sparta Rotterdam_2016,PSV Eindhoven,5,5,10,12
+2016-10-23,Feyenoord_Ajax_2016,Feyenoord,5,5,10,12
+2016-10-23,Nijmegen_Vitesse_2016,Vitesse,4,6,10,12
+2016-10-23,Feyenoord_Ajax_2016,Ajax,5,5,10,12
+2016-10-23,Heerenveen_Heracles_2016,Heracles,4,6,10,12
+2016-10-23,Heerenveen_Heracles_2016,Heerenveen,5,5,10,12
+2016-10-23,Groningen_AZ Alkmaar_2016,Groningen,6,4,10,12
+2016-10-23,Groningen_AZ Alkmaar_2016,AZ Alkmaar,5,5,10,12
+2016-10-23,Nijmegen_Vitesse_2016,Nijmegen,6,4,10,12
+2016-10-28,Twente_Roda_2016,Roda,5,6,11,13
+2016-10-28,Twente_Roda_2016,Twente,6,5,11,13
+2016-10-29,Willem II_Groningen_2016,Willem II,6,5,11,13
+2016-10-29,Vitesse_PSV Eindhoven_2016,Vitesse,5,6,11,13
+2016-10-29,Ajax_Excelsior_2016,Excelsior,6,5,11,13
+2016-10-29,Heracles_Sparta Rotterdam_2016,Heracles,5,6,11,13
+2016-10-29,Heracles_Sparta Rotterdam_2016,Sparta Rotterdam,5,6,11,13
+2016-10-29,Ajax_Excelsior_2016,Ajax,6,5,11,13
+2016-10-29,Willem II_Groningen_2016,Groningen,6,5,11,13
+2016-10-29,Vitesse_PSV Eindhoven_2016,PSV Eindhoven,5,6,11,13
+2016-10-30,Zwolle_Go Ahead Eagles_2016,Zwolle,6,5,11,13
+2016-10-30,Feyenoord_Heerenveen_2016,Heerenveen,5,6,11,13
+2016-10-30,Feyenoord_Heerenveen_2016,Feyenoord,6,5,11,13
+2016-10-30,Zwolle_Go Ahead Eagles_2016,Go Ahead Eagles,5,6,11,13
+2016-10-30,Den Haag_AZ Alkmaar_2016,AZ Alkmaar,5,6,11,13
+2016-10-30,Den Haag_AZ Alkmaar_2016,Den Haag,5,6,11,13
+2016-10-30,Utrecht_Nijmegen_2016,Utrecht,6,5,11,13
+2016-10-30,Utrecht_Nijmegen_2016,Nijmegen,6,5,11,13
+2016-11-04,Sparta Rotterdam_Heerenveen_2016,Sparta Rotterdam,6,6,12,14
+2016-11-04,Sparta Rotterdam_Heerenveen_2016,Heerenveen,5,7,12,14
+2016-11-05,Den Haag_Willem II_2016,Den Haag,6,6,12,14
+2016-11-05,PSV Eindhoven_Twente_2016,Twente,6,6,12,14
+2016-11-05,Den Haag_Willem II_2016,Willem II,6,6,12,14
+2016-11-05,Nijmegen_Groningen_2016,Groningen,6,6,12,14
+2016-11-05,Zwolle_Roda_2016,Roda,5,7,12,14
+2016-11-05,Nijmegen_Groningen_2016,Nijmegen,7,5,12,14
+2016-11-05,PSV Eindhoven_Twente_2016,PSV Eindhoven,6,6,12,14
+2016-11-05,Zwolle_Roda_2016,Zwolle,7,5,12,14
+2016-11-06,AZ Alkmaar_Ajax_2016,AZ Alkmaar,6,6,12,14
+2016-11-06,Go Ahead Eagles_Feyenoord_2016,Feyenoord,6,6,12,14
+2016-11-06,Utrecht_Excelsior_2016,Utrecht,7,5,12,14
+2016-11-06,Utrecht_Excelsior_2016,Excelsior,6,6,12,14
+2016-11-06,Vitesse_Heracles_2016,Heracles,5,7,12,14
+2016-11-06,AZ Alkmaar_Ajax_2016,Ajax,6,6,12,14
+2016-11-06,Go Ahead Eagles_Feyenoord_2016,Go Ahead Eagles,6,6,12,14
+2016-11-06,Vitesse_Heracles_2016,Vitesse,6,6,12,14
+2016-11-19,Groningen_Den Haag_2016,Groningen,7,6,13,16
+2016-11-19,Heerenveen_Vitesse_2016,Heerenveen,6,7,13,16
+2016-11-19,Willem II_PSV Eindhoven_2016,PSV Eindhoven,6,7,13,16
+2016-11-19,Excelsior_Sparta Rotterdam_2016,Sparta Rotterdam,6,7,13,16
+2016-11-19,Heerenveen_Vitesse_2016,Vitesse,6,7,13,16
+2016-11-19,Groningen_Den Haag_2016,Den Haag,6,7,13,16
+2016-11-19,Excelsior_Sparta Rotterdam_2016,Excelsior,7,6,13,16
+2016-11-19,Willem II_PSV Eindhoven_2016,Willem II,7,6,13,16
+2016-11-19,Heracles_Go Ahead Eagles_2016,Go Ahead Eagles,6,7,13,16
+2016-11-19,Heracles_Go Ahead Eagles_2016,Heracles,6,7,13,16
+2016-11-20,Feyenoord_Zwolle_2016,Zwolle,7,6,13,16
+2016-11-20,Twente_Utrecht_2016,Twente,7,6,13,16
+2016-11-20,Ajax_Nijmegen_2016,Nijmegen,7,6,13,16
+2016-11-20,Roda_AZ Alkmaar_2016,Roda,6,7,13,16
+2016-11-20,Roda_AZ Alkmaar_2016,AZ Alkmaar,6,7,13,16
+2016-11-20,Feyenoord_Zwolle_2016,Feyenoord,7,6,13,16
+2016-11-20,Twente_Utrecht_2016,Utrecht,7,6,13,16
+2016-11-20,Ajax_Nijmegen_2016,Ajax,7,6,13,16
+2016-11-25,Go Ahead Eagles_Willem II_2016,Willem II,7,7,14,17
+2016-11-25,Go Ahead Eagles_Willem II_2016,Go Ahead Eagles,7,7,14,17
+2016-11-26,PSV Eindhoven_Den Haag_2016,PSV Eindhoven,7,7,14,17
+2016-11-26,Zwolle_Groningen_2016,Zwolle,8,6,14,17
+2016-11-26,Nijmegen_Twente_2016,Twente,7,7,14,17
+2016-11-26,Vitesse_Excelsior_2016,Excelsior,7,7,14,17
+2016-11-26,Vitesse_Excelsior_2016,Vitesse,7,7,14,17
+2016-11-26,PSV Eindhoven_Den Haag_2016,Den Haag,6,8,14,17
+2016-11-26,Nijmegen_Twente_2016,Nijmegen,8,6,14,17
+2016-11-26,Zwolle_Groningen_2016,Groningen,7,7,14,17
+2016-11-27,Sparta Rotterdam_Roda_2016,Sparta Rotterdam,7,7,14,17
+2016-11-27,Heerenveen_Ajax_2016,Ajax,7,7,14,17
+2016-11-27,Utrecht_Feyenoord_2016,Utrecht,8,6,14,17
+2016-11-27,Sparta Rotterdam_Roda_2016,Roda,6,8,14,17
+2016-11-27,Utrecht_Feyenoord_2016,Feyenoord,7,7,14,17
+2016-11-27,Heerenveen_Ajax_2016,Heerenveen,7,7,14,17
+2016-11-27,AZ Alkmaar_Heracles_2016,Heracles,6,8,14,17
+2016-11-27,AZ Alkmaar_Heracles_2016,AZ Alkmaar,7,7,14,17
+2016-12-02,Heracles_Nijmegen_2016,Heracles,7,8,15,18
+2016-12-02,Heracles_Nijmegen_2016,Nijmegen,8,7,15,18
+2016-12-03,Vitesse_Zwolle_2016,Zwolle,8,7,15,18
+2016-12-03,Excelsior_AZ Alkmaar_2016,Excelsior,8,7,15,18
+2016-12-03,Roda_PSV Eindhoven_2016,PSV Eindhoven,7,8,15,18
+2016-12-03,Roda_PSV Eindhoven_2016,Roda,7,8,15,18
+2016-12-03,Go Ahead Eagles_Heerenveen_2016,Heerenveen,7,8,15,18
+2016-12-03,Vitesse_Zwolle_2016,Vitesse,8,7,15,18
+2016-12-03,Go Ahead Eagles_Heerenveen_2016,Go Ahead Eagles,8,7,15,18
+2016-12-03,Excelsior_AZ Alkmaar_2016,AZ Alkmaar,7,8,15,18
+2016-12-04,Willem II_Twente_2016,Willem II,8,7,15,18
+2016-12-04,Den Haag_Utrecht_2016,Utrecht,8,7,15,18
+2016-12-04,Willem II_Twente_2016,Twente,7,8,15,18
+2016-12-04,Ajax_Groningen_2016,Groningen,7,8,15,18
+2016-12-04,Feyenoord_Sparta Rotterdam_2016,Feyenoord,8,7,15,18
+2016-12-04,Feyenoord_Sparta Rotterdam_2016,Sparta Rotterdam,7,8,15,18
+2016-12-04,Den Haag_Utrecht_2016,Den Haag,7,8,15,18
+2016-12-04,Ajax_Groningen_2016,Ajax,8,7,15,18
+2016-12-09,Groningen_Roda_2016,Roda,7,9,16,19
+2016-12-09,Groningen_Roda_2016,Groningen,8,8,16,19
+2016-12-10,PSV Eindhoven_Go Ahead Eagles_2016,PSV Eindhoven,8,8,16,19
+2016-12-10,Zwolle_Willem II_2016,Willem II,8,8,16,19
+2016-12-10,Nijmegen_Den Haag_2016,Nijmegen,9,7,16,19
+2016-12-10,Heerenveen_Excelsior_2016,Excelsior,8,8,16,19
+2016-12-10,Nijmegen_Den Haag_2016,Den Haag,7,9,16,19
+2016-12-10,Zwolle_Willem II_2016,Zwolle,9,7,16,19
+2016-12-10,Heerenveen_Excelsior_2016,Heerenveen,8,8,16,19
+2016-12-10,PSV Eindhoven_Go Ahead Eagles_2016,Go Ahead Eagles,8,8,16,19
+2016-12-11,Sparta Rotterdam_Vitesse_2016,Sparta Rotterdam,8,8,16,19
+2016-12-11,Utrecht_Heracles_2016,Heracles,7,9,16,19
+2016-12-11,AZ Alkmaar_Feyenoord_2016,Feyenoord,8,8,16,19
+2016-12-11,Twente_Ajax_2016,Twente,8,8,16,19
+2016-12-11,Twente_Ajax_2016,Ajax,8,8,16,19
+2016-12-11,Utrecht_Heracles_2016,Utrecht,9,7,16,19
+2016-12-11,Sparta Rotterdam_Vitesse_2016,Vitesse,8,8,16,19
+2016-12-11,AZ Alkmaar_Feyenoord_2016,AZ Alkmaar,8,8,16,19
+2016-12-16,Willem II_Heerenveen_2016,Heerenveen,8,9,17,20
+2016-12-16,Willem II_Heerenveen_2016,Willem II,9,8,17,20
+2016-12-17,Roda_Utrecht_2016,Roda,8,9,17,20
+2016-12-17,Feyenoord_Vitesse_2016,Vitesse,8,9,17,20
+2016-12-17,Roda_Utrecht_2016,Utrecht,9,8,17,20
+2016-12-17,Feyenoord_Vitesse_2016,Feyenoord,9,8,17,20
+2016-12-17,Twente_AZ Alkmaar_2016,AZ Alkmaar,8,9,17,20
+2016-12-17,Twente_AZ Alkmaar_2016,Twente,9,8,17,20
+2016-12-18,Heracles_Zwolle_2016,Zwolle,9,8,17,20
+2016-12-18,Ajax_PSV Eindhoven_2016,PSV Eindhoven,8,9,17,20
+2016-12-18,Heracles_Zwolle_2016,Heracles,8,9,17,20
+2016-12-18,Excelsior_Nijmegen_2016,Nijmegen,9,8,17,20
+2016-12-18,Groningen_Go Ahead Eagles_2016,Groningen,9,8,17,20
+2016-12-18,Ajax_PSV Eindhoven_2016,Ajax,9,8,17,20
+2016-12-18,Den Haag_Sparta Rotterdam_2016,Den Haag,8,9,17,20
+2016-12-18,Groningen_Go Ahead Eagles_2016,Go Ahead Eagles,8,9,17,20
+2016-12-18,Den Haag_Sparta Rotterdam_2016,Sparta Rotterdam,8,9,17,20
+2016-12-18,Excelsior_Nijmegen_2016,Excelsior,9,8,17,20
+2017-01-13,Go Ahead Eagles_AZ Alkmaar_2016,Go Ahead Eagles,9,9,18,24
+2017-01-13,Go Ahead Eagles_AZ Alkmaar_2016,AZ Alkmaar,8,10,18,24
+2017-01-14,Heerenveen_Den Haag_2016,Den Haag,8,10,18,24
+2017-01-14,Heerenveen_Den Haag_2016,Heerenveen,9,9,18,24
+2017-01-14,Sparta Rotterdam_Utrecht_2016,Utrecht,9,9,18,24
+2017-01-14,Heracles_Groningen_2016,Groningen,9,9,18,24
+2017-01-14,PSV Eindhoven_Excelsior_2016,Excelsior,9,9,18,24
+2017-01-14,Sparta Rotterdam_Utrecht_2016,Sparta Rotterdam,9,9,18,24
+2017-01-14,PSV Eindhoven_Excelsior_2016,PSV Eindhoven,9,9,18,24
+2017-01-14,Heracles_Groningen_2016,Heracles,9,9,18,24
+2017-01-15,Zwolle_Ajax_2016,Zwolle,10,8,18,24
+2017-01-15,Vitesse_Twente_2016,Vitesse,9,9,18,24
+2017-01-15,Willem II_Nijmegen_2016,Nijmegen,9,9,18,24
+2017-01-15,Roda_Feyenoord_2016,Roda,9,9,18,24
+2017-01-15,Zwolle_Ajax_2016,Ajax,9,9,18,24
+2017-01-15,Vitesse_Twente_2016,Twente,9,9,18,24
+2017-01-15,Roda_Feyenoord_2016,Feyenoord,9,9,18,24
+2017-01-15,Willem II_Nijmegen_2016,Willem II,10,8,18,24
+2017-01-20,Twente_Heracles_2016,Twente,10,9,19,25
+2017-01-20,Twente_Heracles_2016,Heracles,9,10,19,25
+2017-01-21,Den Haag_Zwolle_2016,Den Haag,9,10,19,25
+2017-01-21,AZ Alkmaar_Sparta Rotterdam_2016,AZ Alkmaar,9,10,19,25
+2017-01-21,Groningen_Vitesse_2016,Vitesse,9,10,19,25
+2017-01-21,Groningen_Vitesse_2016,Groningen,10,9,19,25
+2017-01-21,Feyenoord_Willem II_2016,Feyenoord,10,9,19,25
+2017-01-21,AZ Alkmaar_Sparta Rotterdam_2016,Sparta Rotterdam,9,10,19,25
+2017-01-21,Feyenoord_Willem II_2016,Willem II,10,9,19,25
+2017-01-21,Den Haag_Zwolle_2016,Zwolle,10,9,19,25
+2017-01-22,Nijmegen_Roda_2016,Roda,9,10,19,25
+2017-01-22,PSV Eindhoven_Heerenveen_2016,Heerenveen,9,10,19,25
+2017-01-22,Utrecht_Ajax_2016,Utrecht,10,9,19,25
+2017-01-22,Excelsior_Go Ahead Eagles_2016,Go Ahead Eagles,9,10,19,25
+2017-01-22,PSV Eindhoven_Heerenveen_2016,PSV Eindhoven,10,9,19,25
+2017-01-22,Utrecht_Ajax_2016,Ajax,9,10,19,25
+2017-01-22,Nijmegen_Roda_2016,Nijmegen,10,9,19,25
+2017-01-22,Excelsior_Go Ahead Eagles_2016,Excelsior,10,9,19,25
+2017-01-27,Willem II_Sparta Rotterdam_2016,Sparta Rotterdam,9,11,20,26
+2017-01-27,Willem II_Sparta Rotterdam_2016,Willem II,11,9,20,26
+2017-01-28,Roda_Excelsior_2016,Roda,10,10,20,26
+2017-01-28,Go Ahead Eagles_Utrecht_2016,Utrecht,10,10,20,26
+2017-01-28,Heracles_PSV Eindhoven_2016,Heracles,10,10,20,26
+2017-01-28,Roda_Excelsior_2016,Excelsior,10,10,20,26
+2017-01-28,Heracles_PSV Eindhoven_2016,PSV Eindhoven,10,10,20,26
+2017-01-28,Go Ahead Eagles_Utrecht_2016,Go Ahead Eagles,10,10,20,26
+2017-01-29,Zwolle_Twente_2016,Zwolle,11,9,20,26
+2017-01-29,Zwolle_Twente_2016,Twente,10,10,20,26
+2017-01-29,Ajax_Den Haag_2016,Ajax,10,10,20,26
+2017-01-29,Vitesse_AZ Alkmaar_2016,AZ Alkmaar,9,11,20,26
+2017-01-29,Ajax_Den Haag_2016,Den Haag,9,11,20,26
+2017-01-29,Heerenveen_Groningen_2016,Heerenveen,10,10,20,26
+2017-01-29,Heerenveen_Groningen_2016,Groningen,10,10,20,26
+2017-01-29,Vitesse_AZ Alkmaar_2016,Vitesse,10,10,20,26
+2017-01-29,Feyenoord_Nijmegen_2016,Feyenoord,11,9,20,26
+2017-01-29,Feyenoord_Nijmegen_2016,Nijmegen,10,10,20,26
+2017-02-03,Den Haag_Vitesse_2016,Den Haag,10,11,21,27
+2017-02-03,Den Haag_Vitesse_2016,Vitesse,10,11,21,27
+2017-02-04,Groningen_Excelsior_2016,Groningen,11,10,21,27
+2017-02-04,AZ Alkmaar_PSV Eindhoven_2016,AZ Alkmaar,10,11,21,27
+2017-02-04,Willem II_Heracles_2016,Heracles,10,11,21,27
+2017-02-04,Groningen_Excelsior_2016,Excelsior,10,11,21,27
+2017-02-04,Nijmegen_Go Ahead Eagles_2016,Go Ahead Eagles,10,11,21,27
+2017-02-04,Willem II_Heracles_2016,Willem II,12,9,21,27
+2017-02-04,AZ Alkmaar_PSV Eindhoven_2016,PSV Eindhoven,10,11,21,27
+2017-02-04,Nijmegen_Go Ahead Eagles_2016,Nijmegen,11,10,21,27
+2017-02-05,Roda_Ajax_2016,Ajax,10,11,21,27
+2017-02-05,Roda_Ajax_2016,Roda,11,10,21,27
+2017-02-05,Utrecht_Heerenveen_2016,Utrecht,11,10,21,27
+2017-02-05,Sparta Rotterdam_Zwolle_2016,Zwolle,11,10,21,27
+2017-02-05,Utrecht_Heerenveen_2016,Heerenveen,10,11,21,27
+2017-02-05,Sparta Rotterdam_Zwolle_2016,Sparta Rotterdam,10,11,21,27
+2017-02-05,Twente_Feyenoord_2016,Twente,11,10,21,27
+2017-02-05,Twente_Feyenoord_2016,Feyenoord,11,10,21,27
+2017-02-10,Zwolle_Nijmegen_2016,Nijmegen,11,11,22,28
+2017-02-10,Zwolle_Nijmegen_2016,Zwolle,12,10,22,28
+2017-02-11,Feyenoord_Groningen_2016,Groningen,11,11,22,28
+2017-02-11,Go Ahead Eagles_Den Haag_2016,Go Ahead Eagles,11,11,22,28
+2017-02-11,Vitesse_Willem II_2016,Vitesse,11,11,22,28
+2017-02-11,Heracles_Roda_2016,Roda,11,11,22,28
+2017-02-11,Vitesse_Willem II_2016,Willem II,12,10,22,28
+2017-02-11,Feyenoord_Groningen_2016,Feyenoord,12,10,22,28
+2017-02-11,Heracles_Roda_2016,Heracles,11,11,22,28
+2017-02-11,Go Ahead Eagles_Den Haag_2016,Den Haag,10,12,22,28
+2017-02-12,Ajax_Sparta Rotterdam_2016,Sparta Rotterdam,10,12,22,28
+2017-02-12,Heerenveen_AZ Alkmaar_2016,Heerenveen,11,11,22,28
+2017-02-12,PSV Eindhoven_Utrecht_2016,Utrecht,11,11,22,28
+2017-02-12,PSV Eindhoven_Utrecht_2016,PSV Eindhoven,11,11,22,28
+2017-02-12,Excelsior_Twente_2016,Twente,11,11,22,28
+2017-02-12,Heerenveen_AZ Alkmaar_2016,AZ Alkmaar,10,12,22,28
+2017-02-12,Excelsior_Twente_2016,Excelsior,11,11,22,28
+2017-02-12,Ajax_Sparta Rotterdam_2016,Ajax,11,11,22,28
+2017-02-17,Roda_Go Ahead Eagles_2016,Roda,12,11,23,29
+2017-02-17,Roda_Go Ahead Eagles_2016,Go Ahead Eagles,11,12,23,29
+2017-02-18,Utrecht_Zwolle_2016,Zwolle,12,11,23,29
+2017-02-18,Heracles_Excelsior_2016,Excelsior,11,12,23,29
+2017-02-18,Twente_Heerenveen_2016,Heerenveen,11,12,23,29
+2017-02-18,Heracles_Excelsior_2016,Heracles,12,11,23,29
+2017-02-18,PSV Eindhoven_Nijmegen_2016,Nijmegen,11,12,23,29
+2017-02-18,Twente_Heerenveen_2016,Twente,12,11,23,29
+2017-02-18,Utrecht_Zwolle_2016,Utrecht,12,11,23,29
+2017-02-18,PSV Eindhoven_Nijmegen_2016,PSV Eindhoven,12,11,23,29
+2017-02-19,Sparta Rotterdam_Groningen_2016,Groningen,11,12,23,29
+2017-02-19,Sparta Rotterdam_Groningen_2016,Sparta Rotterdam,11,12,23,29
+2017-02-19,Vitesse_Ajax_2016,Vitesse,12,11,23,29
+2017-02-19,Willem II_AZ Alkmaar_2016,AZ Alkmaar,10,13,23,29
+2017-02-19,Willem II_AZ Alkmaar_2016,Willem II,13,10,23,29
+2017-02-19,Vitesse_Ajax_2016,Ajax,11,12,23,29
+2017-02-19,Den Haag_Feyenoord_2016,Feyenoord,12,11,23,29
+2017-02-19,Den Haag_Feyenoord_2016,Den Haag,11,12,23,29
+2017-02-24,Den Haag_Twente_2016,Twente,12,12,24,30
+2017-02-24,Den Haag_Twente_2016,Den Haag,12,12,24,30
+2017-02-25,Groningen_Utrecht_2016,Utrecht,12,12,24,30
+2017-02-25,Heerenveen_Roda_2016,Heerenveen,12,12,24,30
+2017-02-25,Excelsior_Willem II_2016,Excelsior,12,12,24,30
+2017-02-25,Groningen_Utrecht_2016,Groningen,12,12,24,30
+2017-02-25,Nijmegen_Sparta Rotterdam_2016,Sparta Rotterdam,11,13,24,30
+2017-02-25,Heerenveen_Roda_2016,Roda,12,12,24,30
+2017-02-25,Excelsior_Willem II_2016,Willem II,13,11,24,30
+2017-02-25,Nijmegen_Sparta Rotterdam_2016,Nijmegen,12,12,24,30
+2017-02-26,AZ Alkmaar_Zwolle_2016,Zwolle,12,12,24,30
+2017-02-26,Ajax_Heracles_2016,Heracles,12,12,24,30
+2017-02-26,Ajax_Heracles_2016,Ajax,12,12,24,30
+2017-02-26,Feyenoord_PSV Eindhoven_2016,PSV Eindhoven,12,12,24,30
+2017-02-26,Feyenoord_PSV Eindhoven_2016,Feyenoord,13,11,24,30
+2017-02-26,Go Ahead Eagles_Vitesse_2016,Go Ahead Eagles,12,12,24,30
+2017-02-26,Go Ahead Eagles_Vitesse_2016,Vitesse,12,12,24,30
+2017-02-26,AZ Alkmaar_Zwolle_2016,AZ Alkmaar,11,13,24,30
+2017-03-03,Heerenveen_Go Ahead Eagles_2016,Go Ahead Eagles,12,13,25,31
+2017-03-03,Heerenveen_Go Ahead Eagles_2016,Heerenveen,13,12,25,31
+2017-03-04,Zwolle_Vitesse_2016,Vitesse,12,13,25,31
+2017-03-04,Zwolle_Vitesse_2016,Zwolle,13,12,25,31
+2017-03-04,Twente_Willem II_2016,Willem II,13,12,25,31
+2017-03-04,PSV Eindhoven_Roda_2016,Roda,12,13,25,31
+2017-03-04,Twente_Willem II_2016,Twente,13,12,25,31
+2017-03-04,PSV Eindhoven_Roda_2016,PSV Eindhoven,13,12,25,31
+2017-03-05,Sparta Rotterdam_Feyenoord_2016,Feyenoord,13,12,25,31
+2017-03-05,Nijmegen_Heracles_2016,Heracles,12,13,25,31
+2017-03-05,AZ Alkmaar_Excelsior_2016,Excelsior,12,13,25,31
+2017-03-05,Sparta Rotterdam_Feyenoord_2016,Sparta Rotterdam,12,13,25,31
+2017-03-05,AZ Alkmaar_Excelsior_2016,AZ Alkmaar,12,13,25,31
+2017-03-05,Utrecht_Den Haag_2016,Den Haag,12,13,25,31
+2017-03-05,Utrecht_Den Haag_2016,Utrecht,13,12,25,31
+2017-03-05,Nijmegen_Heracles_2016,Nijmegen,13,12,25,31
+2017-03-05,Groningen_Ajax_2016,Groningen,13,12,25,31
+2017-03-05,Groningen_Ajax_2016,Ajax,12,13,25,31
+2017-03-10,Vitesse_Sparta Rotterdam_2016,Sparta Rotterdam,12,14,26,32
+2017-03-10,Vitesse_Sparta Rotterdam_2016,Vitesse,13,13,26,32
+2017-03-11,Go Ahead Eagles_PSV Eindhoven_2016,PSV Eindhoven,13,13,26,32
+2017-03-11,Go Ahead Eagles_PSV Eindhoven_2016,Go Ahead Eagles,13,13,26,32
+2017-03-11,Excelsior_Heerenveen_2016,Excelsior,13,13,26,32
+2017-03-11,Heracles_Utrecht_2016,Heracles,13,13,26,32
+2017-03-11,Den Haag_Nijmegen_2016,Nijmegen,13,13,26,32
+2017-03-11,Heracles_Utrecht_2016,Utrecht,13,13,26,32
+2017-03-11,Excelsior_Heerenveen_2016,Heerenveen,13,13,26,32
+2017-03-11,Den Haag_Nijmegen_2016,Den Haag,13,13,26,32
+2017-03-12,Willem II_Zwolle_2016,Willem II,14,12,26,32
+2017-03-12,Willem II_Zwolle_2016,Zwolle,13,13,26,32
+2017-03-12,Roda_Groningen_2016,Roda,13,13,26,32
+2017-03-12,Roda_Groningen_2016,Groningen,13,13,26,32
+2017-03-12,Ajax_Twente_2016,Ajax,13,13,26,32
+2017-03-12,Feyenoord_AZ Alkmaar_2016,AZ Alkmaar,12,14,26,32
+2017-03-12,Feyenoord_AZ Alkmaar_2016,Feyenoord,14,12,26,32
+2017-03-12,Ajax_Twente_2016,Twente,13,13,26,32
+2017-03-17,Roda_Twente_2016,Twente,13,14,27,33
+2017-03-17,Roda_Twente_2016,Roda,14,13,27,33
+2017-03-18,Sparta Rotterdam_Heracles_2016,Sparta Rotterdam,13,14,27,33
+2017-03-18,Nijmegen_Utrecht_2016,Utrecht,13,14,27,33
+2017-03-18,Nijmegen_Utrecht_2016,Nijmegen,14,13,27,33
+2017-03-18,Sparta Rotterdam_Heracles_2016,Heracles,13,14,27,33
+2017-03-18,PSV Eindhoven_Vitesse_2016,Vitesse,13,14,27,33
+2017-03-18,Groningen_Willem II_2016,Willem II,14,13,27,33
+2017-03-18,Groningen_Willem II_2016,Groningen,14,13,27,33
+2017-03-18,PSV Eindhoven_Vitesse_2016,PSV Eindhoven,14,13,27,33
+2017-03-19,Heerenveen_Feyenoord_2016,Heerenveen,14,13,27,33
+2017-03-19,AZ Alkmaar_Den Haag_2016,AZ Alkmaar,13,14,27,33
+2017-03-19,Excelsior_Ajax_2016,Excelsior,14,13,27,33
+2017-03-19,Heerenveen_Feyenoord_2016,Feyenoord,14,13,27,33
+2017-03-19,AZ Alkmaar_Den Haag_2016,Den Haag,13,14,27,33
+2017-03-19,Go Ahead Eagles_Zwolle_2016,Go Ahead Eagles,14,13,27,33
+2017-03-19,Go Ahead Eagles_Zwolle_2016,Zwolle,13,14,27,33
+2017-03-19,Excelsior_Ajax_2016,Ajax,13,14,27,33
+2017-04-01,Zwolle_Excelsior_2016,Zwolle,14,14,28,35
+2017-04-01,Zwolle_Excelsior_2016,Excelsior,14,14,28,35
+2017-04-01,AZ Alkmaar_Groningen_2016,AZ Alkmaar,14,14,28,35
+2017-04-01,Heracles_Heerenveen_2016,Heracles,14,14,28,35
+2017-04-01,Utrecht_Willem II_2016,Utrecht,14,14,28,35
+2017-04-01,Utrecht_Willem II_2016,Willem II,14,14,28,35
+2017-04-01,AZ Alkmaar_Groningen_2016,Groningen,14,14,28,35
+2017-04-01,Heracles_Heerenveen_2016,Heerenveen,14,14,28,35
+2017-04-01,Sparta Rotterdam_PSV Eindhoven_2016,PSV Eindhoven,14,14,28,35
+2017-04-01,Sparta Rotterdam_PSV Eindhoven_2016,Sparta Rotterdam,14,14,28,35
+2017-04-02,Vitesse_Nijmegen_2016,Nijmegen,14,14,28,35
+2017-04-02,Ajax_Feyenoord_2016,Ajax,14,14,28,35
+2017-04-02,Ajax_Feyenoord_2016,Feyenoord,14,14,28,35
+2017-04-02,Den Haag_Roda_2016,Den Haag,14,14,28,35
+2017-04-02,Twente_Go Ahead Eagles_2016,Twente,14,14,28,35
+2017-04-02,Twente_Go Ahead Eagles_2016,Go Ahead Eagles,14,14,28,35
+2017-04-02,Vitesse_Nijmegen_2016,Vitesse,14,14,28,35
+2017-04-02,Den Haag_Roda_2016,Roda,14,14,28,35
+2017-04-04,Excelsior_Utrecht_2016,Excelsior,15,14,29,36
+2017-04-04,Heerenveen_Sparta Rotterdam_2016,Heerenveen,15,14,29,36
+2017-04-04,Heerenveen_Sparta Rotterdam_2016,Sparta Rotterdam,14,15,29,36
+2017-04-04,Excelsior_Utrecht_2016,Utrecht,14,15,29,36
+2017-04-05,Heracles_Vitesse_2016,Vitesse,14,15,29,36
+2017-04-05,Willem II_Den Haag_2016,Willem II,15,14,29,36
+2017-04-05,Ajax_AZ Alkmaar_2016,AZ Alkmaar,14,15,29,36
+2017-04-05,Feyenoord_Go Ahead Eagles_2016,Go Ahead Eagles,14,15,29,36
+2017-04-05,Groningen_Nijmegen_2016,Groningen,15,14,29,36
+2017-04-05,Feyenoord_Go Ahead Eagles_2016,Feyenoord,15,14,29,36
+2017-04-05,Groningen_Nijmegen_2016,Nijmegen,14,15,29,36
+2017-04-05,Willem II_Den Haag_2016,Den Haag,14,15,29,36
+2017-04-05,Heracles_Vitesse_2016,Heracles,15,14,29,36
+2017-04-05,Ajax_AZ Alkmaar_2016,Ajax,15,14,29,36
+2017-04-06,Twente_PSV Eindhoven_2016,Twente,15,14,29,36
+2017-04-06,Roda_Zwolle_2016,Roda,15,14,29,36
+2017-04-06,Twente_PSV Eindhoven_2016,PSV Eindhoven,14,15,29,36
+2017-04-06,Roda_Zwolle_2016,Zwolle,14,15,29,36
+2017-04-07,Sparta Rotterdam_Excelsior_2016,Excelsior,15,15,30,36
+2017-04-07,Sparta Rotterdam_Excelsior_2016,Sparta Rotterdam,15,15,30,36
+2017-04-08,Den Haag_Groningen_2016,Den Haag,15,15,30,36
+2017-04-08,Go Ahead Eagles_Heracles_2016,Go Ahead Eagles,15,15,30,36
+2017-04-08,Nijmegen_Ajax_2016,Nijmegen,15,15,30,36
+2017-04-08,Go Ahead Eagles_Heracles_2016,Heracles,15,15,30,36
+2017-04-08,Vitesse_Heerenveen_2016,Vitesse,15,15,30,36
+2017-04-08,Nijmegen_Ajax_2016,Ajax,15,15,30,36
+2017-04-08,Vitesse_Heerenveen_2016,Heerenveen,15,15,30,36
+2017-04-08,Den Haag_Groningen_2016,Groningen,15,15,30,36
+2017-04-09,AZ Alkmaar_Roda_2016,Roda,15,15,30,36
+2017-04-09,Zwolle_Feyenoord_2016,Feyenoord,15,15,30,36
+2017-04-09,Utrecht_Twente_2016,Twente,15,15,30,36
+2017-04-09,Zwolle_Feyenoord_2016,Zwolle,15,15,30,36
+2017-04-09,AZ Alkmaar_Roda_2016,AZ Alkmaar,15,15,30,36
+2017-04-09,PSV Eindhoven_Willem II_2016,PSV Eindhoven,15,15,30,36
+2017-04-09,PSV Eindhoven_Willem II_2016,Willem II,15,15,30,36
+2017-04-09,Utrecht_Twente_2016,Utrecht,15,15,30,36
+2017-04-14,Heracles_AZ Alkmaar_2016,AZ Alkmaar,15,16,31,37
+2017-04-14,Heracles_AZ Alkmaar_2016,Heracles,16,15,31,37
+2017-04-15,Twente_Nijmegen_2016,Twente,16,15,31,37
+2017-04-15,Roda_Sparta Rotterdam_2016,Sparta Rotterdam,15,16,31,37
+2017-04-15,Den Haag_PSV Eindhoven_2016,PSV Eindhoven,15,16,31,37
+2017-04-15,Roda_Sparta Rotterdam_2016,Roda,16,15,31,37
+2017-04-15,Twente_Nijmegen_2016,Nijmegen,15,16,31,37
+2017-04-15,Excelsior_Vitesse_2016,Excelsior,16,15,31,37
+2017-04-15,Den Haag_PSV Eindhoven_2016,Den Haag,16,15,31,37
+2017-04-15,Excelsior_Vitesse_2016,Vitesse,15,16,31,37
+2017-04-16,Willem II_Go Ahead Eagles_2016,Willem II,16,15,31,37
+2017-04-16,Ajax_Heerenveen_2016,Ajax,16,15,31,37
+2017-04-16,Groningen_Zwolle_2016,Groningen,16,15,31,37
+2017-04-16,Ajax_Heerenveen_2016,Heerenveen,15,16,31,37
+2017-04-16,Feyenoord_Utrecht_2016,Utrecht,15,16,31,37
+2017-04-16,Willem II_Go Ahead Eagles_2016,Go Ahead Eagles,15,16,31,37
+2017-04-16,Feyenoord_Utrecht_2016,Feyenoord,16,15,31,37
+2017-04-16,Groningen_Zwolle_2016,Zwolle,15,16,31,37
+2017-04-21,Heerenveen_Willem II_2016,Heerenveen,16,16,32,38
+2017-04-21,Heerenveen_Willem II_2016,Willem II,16,16,32,38
+2017-04-22,Zwolle_Heracles_2016,Zwolle,16,16,32,38
+2017-04-22,Nijmegen_Excelsior_2016,Nijmegen,16,16,32,38
+2017-04-22,Go Ahead Eagles_Groningen_2016,Go Ahead Eagles,16,16,32,38
+2017-04-22,Nijmegen_Excelsior_2016,Excelsior,16,16,32,38
+2017-04-22,Go Ahead Eagles_Groningen_2016,Groningen,16,16,32,38
+2017-04-22,Zwolle_Heracles_2016,Heracles,16,16,32,38
+2017-04-22,AZ Alkmaar_Twente_2016,AZ Alkmaar,16,16,32,38
+2017-04-22,AZ Alkmaar_Twente_2016,Twente,16,16,32,38
+2017-04-23,Sparta Rotterdam_Den Haag_2016,Den Haag,16,16,32,38
+2017-04-23,PSV Eindhoven_Ajax_2016,Ajax,16,16,32,38
+2017-04-23,Sparta Rotterdam_Den Haag_2016,Sparta Rotterdam,16,16,32,38
+2017-04-23,Utrecht_Roda_2016,Roda,16,16,32,38
+2017-04-23,Vitesse_Feyenoord_2016,Vitesse,16,16,32,38
+2017-04-23,PSV Eindhoven_Ajax_2016,PSV Eindhoven,16,16,32,38
+2017-04-23,Utrecht_Roda_2016,Utrecht,16,16,32,38
+2017-04-23,Vitesse_Feyenoord_2016,Feyenoord,16,16,32,38
+2017-05-07,Zwolle_Heerenveen_2016,Zwolle,17,16,33,40
+2017-05-07,Ajax_Go Ahead Eagles_2016,Ajax,17,16,33,40
+2017-05-07,Utrecht_Vitesse_2016,Utrecht,17,16,33,40
+2017-05-07,Nijmegen_AZ Alkmaar_2016,Nijmegen,17,16,33,40
+2017-05-07,Utrecht_Vitesse_2016,Vitesse,16,17,33,40
+2017-05-07,Groningen_PSV Eindhoven_2016,Groningen,17,16,33,40
+2017-05-07,Sparta Rotterdam_Twente_2016,Sparta Rotterdam,17,16,33,40
+2017-05-07,Sparta Rotterdam_Twente_2016,Twente,16,17,33,40
+2017-05-07,Heracles_Den Haag_2016,Heracles,17,16,33,40
+2017-05-07,Nijmegen_AZ Alkmaar_2016,AZ Alkmaar,16,17,33,40
+2017-05-07,Heracles_Den Haag_2016,Den Haag,16,17,33,40
+2017-05-07,Zwolle_Heerenveen_2016,Heerenveen,16,17,33,40
+2017-05-07,Ajax_Go Ahead Eagles_2016,Go Ahead Eagles,16,17,33,40
+2017-05-07,Groningen_PSV Eindhoven_2016,PSV Eindhoven,16,17,33,40
+2017-05-07,Roda_Willem II_2016,Roda,17,16,33,40
+2017-05-07,Excelsior_Feyenoord_2016,Excelsior,17,16,33,40
+2017-05-07,Excelsior_Feyenoord_2016,Feyenoord,16,17,33,40
+2017-05-07,Roda_Willem II_2016,Willem II,16,17,33,40
+2017-05-14,Feyenoord_Heracles_2016,Feyenoord,17,17,34,41
+2017-05-14,Willem II_Ajax_2016,Ajax,17,17,34,41
+2017-05-14,Vitesse_Roda_2016,Vitesse,17,17,34,41
+2017-05-14,Den Haag_Excelsior_2016,Den Haag,17,17,34,41
+2017-05-14,PSV Eindhoven_Zwolle_2016,PSV Eindhoven,17,17,34,41
+2017-05-14,Twente_Groningen_2016,Groningen,17,17,34,41
+2017-05-14,Heerenveen_Nijmegen_2016,Heerenveen,17,17,34,41
+2017-05-14,Go Ahead Eagles_Sparta Rotterdam_2016,Go Ahead Eagles,17,17,34,41
+2017-05-14,Willem II_Ajax_2016,Willem II,17,17,34,41
+2017-05-14,Feyenoord_Heracles_2016,Heracles,17,17,34,41
+2017-05-14,Go Ahead Eagles_Sparta Rotterdam_2016,Sparta Rotterdam,17,17,34,41
+2017-05-14,Heerenveen_Nijmegen_2016,Nijmegen,17,17,34,41
+2017-05-14,Vitesse_Roda_2016,Roda,17,17,34,41
+2017-05-14,Twente_Groningen_2016,Twente,17,17,34,41
+2017-05-14,AZ Alkmaar_Utrecht_2016,AZ Alkmaar,17,17,34,41
+2017-05-14,AZ Alkmaar_Utrecht_2016,Utrecht,17,17,34,41
+2017-05-14,Den Haag_Excelsior_2016,Excelsior,17,17,34,41
+2017-05-14,PSV Eindhoven_Zwolle_2016,Zwolle,17,17,34,41

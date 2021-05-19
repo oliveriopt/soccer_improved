@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2018-08-24,Bayern Munich_Hoffenheim_2018,Bayern Munich,1,1,1,1
+2018-08-24,Bayern Munich_Hoffenheim_2018,Hoffenheim,1,1,1,1
+2018-08-25,Fortuna Dusseldorf_Augsburg_2018,Augsburg,1,1,1,1
+2018-08-25,Freiburg_Ein Frankfurt_2018,Ein Frankfurt,1,1,1,1
+2018-08-25,Wolfsburg_Schalke 04_2018,Schalke 04,1,1,1,1
+2018-08-25,M'gladbach_Leverkusen_2018,M'gladbach,1,1,1,1
+2018-08-25,Hertha_Nurnberg_2018,Hertha,1,1,1,1
+2018-08-25,Wolfsburg_Schalke 04_2018,Wolfsburg,1,1,1,1
+2018-08-25,Fortuna Dusseldorf_Augsburg_2018,Fortuna Dusseldorf,1,1,1,1
+2018-08-25,Freiburg_Ein Frankfurt_2018,Freiburg,1,1,1,1
+2018-08-25,Werder Bremen_Hannover_2018,Hannover,1,1,1,1
+2018-08-25,Werder Bremen_Hannover_2018,Werder Bremen,1,1,1,1
+2018-08-25,M'gladbach_Leverkusen_2018,Leverkusen,1,1,1,1
+2018-08-25,Hertha_Nurnberg_2018,Nurnberg,1,1,1,1
+2018-08-26,Dortmund_RB Leipzig_2018,RB Leipzig,1,1,1,1
+2018-08-26,Mainz_Stuttgart_2018,Mainz,1,1,1,1
+2018-08-26,Dortmund_RB Leipzig_2018,Dortmund,1,1,1,1
+2018-08-26,Mainz_Stuttgart_2018,Stuttgart,1,1,1,1
+2018-08-31,Hannover_Dortmund_2018,Hannover,1,1,2,2
+2018-08-31,Hannover_Dortmund_2018,Dortmund,1,1,2,2
+2018-09-01,Leverkusen_Wolfsburg_2018,Wolfsburg,1,1,2,2
+2018-09-01,Hoffenheim_Freiburg_2018,Freiburg,1,1,2,2
+2018-09-01,Stuttgart_Bayern Munich_2018,Stuttgart,1,1,2,2
+2018-09-01,Leverkusen_Wolfsburg_2018,Leverkusen,1,1,2,2
+2018-09-01,Stuttgart_Bayern Munich_2018,Bayern Munich,1,1,2,2
+2018-09-01,Hoffenheim_Freiburg_2018,Hoffenheim,1,1,2,2
+2018-09-01,Ein Frankfurt_Werder Bremen_2018,Werder Bremen,1,1,2,2
+2018-09-01,Nurnberg_Mainz_2018,Nurnberg,1,1,2,2
+2018-09-01,Ein Frankfurt_Werder Bremen_2018,Ein Frankfurt,1,1,2,2
+2018-09-01,Nurnberg_Mainz_2018,Mainz,1,1,2,2
+2018-09-01,Augsburg_M'gladbach_2018,Augsburg,1,1,2,2
+2018-09-01,Augsburg_M'gladbach_2018,M'gladbach,1,1,2,2
+2018-09-02,RB Leipzig_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,1,1,2,2
+2018-09-02,Schalke 04_Hertha_2018,Hertha,1,1,2,2
+2018-09-02,Schalke 04_Hertha_2018,Schalke 04,1,1,2,2
+2018-09-02,RB Leipzig_Fortuna Dusseldorf_2018,RB Leipzig,1,1,2,2
+2018-09-14,Dortmund_Ein Frankfurt_2018,Dortmund,2,1,3,4
+2018-09-14,Dortmund_Ein Frankfurt_2018,Ein Frankfurt,1,2,3,4
+2018-09-15,Bayern Munich_Leverkusen_2018,Bayern Munich,2,1,3,4
+2018-09-15,RB Leipzig_Hannover_2018,Hannover,1,2,3,4
+2018-09-15,Fortuna Dusseldorf_Hoffenheim_2018,Hoffenheim,1,2,3,4
+2018-09-15,Wolfsburg_Hertha_2018,Hertha,1,2,3,4
+2018-09-15,Wolfsburg_Hertha_2018,Wolfsburg,2,1,3,4
+2018-09-15,M'gladbach_Schalke 04_2018,M'gladbach,2,1,3,4
+2018-09-15,M'gladbach_Schalke 04_2018,Schalke 04,1,2,3,4
+2018-09-15,Mainz_Augsburg_2018,Mainz,2,1,3,4
+2018-09-15,RB Leipzig_Hannover_2018,RB Leipzig,2,1,3,4
+2018-09-15,Mainz_Augsburg_2018,Augsburg,1,2,3,4
+2018-09-15,Bayern Munich_Leverkusen_2018,Leverkusen,1,2,3,4
+2018-09-15,Fortuna Dusseldorf_Hoffenheim_2018,Fortuna Dusseldorf,2,1,3,4
+2018-09-16,Werder Bremen_Nurnberg_2018,Nurnberg,1,2,3,4
+2018-09-16,Freiburg_Stuttgart_2018,Freiburg,2,1,3,4
+2018-09-16,Freiburg_Stuttgart_2018,Stuttgart,1,2,3,4
+2018-09-16,Werder Bremen_Nurnberg_2018,Werder Bremen,2,1,3,4
+2018-09-21,Stuttgart_Fortuna Dusseldorf_2018,Stuttgart,2,2,4,5
+2018-09-21,Stuttgart_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,2,2,4,5
+2018-09-22,Hertha_M'gladbach_2018,Hertha,2,2,4,5
+2018-09-22,Nurnberg_Hannover_2018,Hannover,1,3,4,5
+2018-09-22,Hoffenheim_Dortmund_2018,Hoffenheim,2,2,4,5
+2018-09-22,Augsburg_Werder Bremen_2018,Augsburg,2,2,4,5
+2018-09-22,Schalke 04_Bayern Munich_2018,Bayern Munich,2,2,4,5
+2018-09-22,Hertha_M'gladbach_2018,M'gladbach,2,2,4,5
+2018-09-22,Wolfsburg_Freiburg_2018,Freiburg,2,2,4,5
+2018-09-22,Nurnberg_Hannover_2018,Nurnberg,2,2,4,5
+2018-09-22,Augsburg_Werder Bremen_2018,Werder Bremen,2,2,4,5
+2018-09-22,Wolfsburg_Freiburg_2018,Wolfsburg,3,1,4,5
+2018-09-22,Hoffenheim_Dortmund_2018,Dortmund,2,2,4,5
+2018-09-22,Schalke 04_Bayern Munich_2018,Schalke 04,2,2,4,5
+2018-09-23,Ein Frankfurt_RB Leipzig_2018,RB Leipzig,2,2,4,5
+2018-09-23,Ein Frankfurt_RB Leipzig_2018,Ein Frankfurt,2,2,4,5
+2018-09-23,Leverkusen_Mainz_2018,Mainz,2,2,4,5
+2018-09-23,Leverkusen_Mainz_2018,Leverkusen,2,2,4,5
+2018-09-25,Bayern Munich_Augsburg_2018,Bayern Munich,3,2,5,6
+2018-09-25,Werder Bremen_Hertha_2018,Werder Bremen,3,2,5,6
+2018-09-25,Hannover_Hoffenheim_2018,Hannover,2,3,5,6
+2018-09-25,Hannover_Hoffenheim_2018,Hoffenheim,2,3,5,6
+2018-09-25,Werder Bremen_Hertha_2018,Hertha,2,3,5,6
+2018-09-25,Freiburg_Schalke 04_2018,Schalke 04,2,3,5,6
+2018-09-25,Freiburg_Schalke 04_2018,Freiburg,3,2,5,6
+2018-09-25,Bayern Munich_Augsburg_2018,Augsburg,2,3,5,6
+2018-09-26,M'gladbach_Ein Frankfurt_2018,Ein Frankfurt,2,3,5,6
+2018-09-26,Mainz_Wolfsburg_2018,Mainz,3,2,5,6
+2018-09-26,Fortuna Dusseldorf_Leverkusen_2018,Leverkusen,2,3,5,6
+2018-09-26,RB Leipzig_Stuttgart_2018,RB Leipzig,3,2,5,6
+2018-09-26,Dortmund_Nurnberg_2018,Dortmund,3,2,5,6
+2018-09-26,Fortuna Dusseldorf_Leverkusen_2018,Fortuna Dusseldorf,3,2,5,6
+2018-09-26,RB Leipzig_Stuttgart_2018,Stuttgart,2,3,5,6
+2018-09-26,Dortmund_Nurnberg_2018,Nurnberg,2,3,5,6
+2018-09-26,Mainz_Wolfsburg_2018,Wolfsburg,3,2,5,6
+2018-09-26,M'gladbach_Ein Frankfurt_2018,M'gladbach,3,2,5,6
+2018-09-28,Hertha_Bayern Munich_2018,Bayern Munich,3,3,6,6
+2018-09-28,Hertha_Bayern Munich_2018,Hertha,3,3,6,6
+2018-09-29,Leverkusen_Dortmund_2018,Dortmund,3,3,6,6
+2018-09-29,Wolfsburg_M'gladbach_2018,Wolfsburg,4,2,6,6
+2018-09-29,Schalke 04_Mainz_2018,Mainz,3,3,6,6
+2018-09-29,Nurnberg_Fortuna Dusseldorf_2018,Nurnberg,3,3,6,6
+2018-09-29,Nurnberg_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,3,3,6,6
+2018-09-29,Stuttgart_Werder Bremen_2018,Werder Bremen,3,3,6,6
+2018-09-29,Hoffenheim_RB Leipzig_2018,RB Leipzig,3,3,6,6
+2018-09-29,Stuttgart_Werder Bremen_2018,Stuttgart,3,3,6,6
+2018-09-29,Leverkusen_Dortmund_2018,Leverkusen,3,3,6,6
+2018-09-29,Schalke 04_Mainz_2018,Schalke 04,3,3,6,6
+2018-09-29,Wolfsburg_M'gladbach_2018,M'gladbach,3,3,6,6
+2018-09-29,Hoffenheim_RB Leipzig_2018,Hoffenheim,3,3,6,6
+2018-09-30,Augsburg_Freiburg_2018,Augsburg,3,3,6,6
+2018-09-30,Ein Frankfurt_Hannover_2018,Hannover,2,4,6,6
+2018-09-30,Ein Frankfurt_Hannover_2018,Ein Frankfurt,3,3,6,6
+2018-09-30,Augsburg_Freiburg_2018,Freiburg,3,3,6,6
+2018-10-05,Werder Bremen_Wolfsburg_2018,Wolfsburg,4,3,7,7
+2018-10-05,Werder Bremen_Wolfsburg_2018,Werder Bremen,4,3,7,7
+2018-10-06,Bayern Munich_M'gladbach_2018,M'gladbach,3,4,7,7
+2018-10-06,Hannover_Stuttgart_2018,Stuttgart,3,4,7,7
+2018-10-06,Fortuna Dusseldorf_Schalke 04_2018,Schalke 04,3,4,7,7
+2018-10-06,Fortuna Dusseldorf_Schalke 04_2018,Fortuna Dusseldorf,4,3,7,7
+2018-10-06,Bayern Munich_M'gladbach_2018,Bayern Munich,4,3,7,7
+2018-10-06,Hannover_Stuttgart_2018,Hannover,3,4,7,7
+2018-10-06,Dortmund_Augsburg_2018,Dortmund,4,3,7,7
+2018-10-06,Dortmund_Augsburg_2018,Augsburg,3,4,7,7
+2018-10-06,Mainz_Hertha_2018,Hertha,3,4,7,7
+2018-10-06,Mainz_Hertha_2018,Mainz,4,3,7,7
+2018-10-07,Hoffenheim_Ein Frankfurt_2018,Ein Frankfurt,3,4,7,7
+2018-10-07,RB Leipzig_Nurnberg_2018,RB Leipzig,4,3,7,7
+2018-10-07,Freiburg_Leverkusen_2018,Freiburg,4,3,7,7
+2018-10-07,Freiburg_Leverkusen_2018,Leverkusen,3,4,7,7
+2018-10-07,RB Leipzig_Nurnberg_2018,Nurnberg,3,4,7,7
+2018-10-07,Hoffenheim_Ein Frankfurt_2018,Hoffenheim,4,3,7,7
+2018-10-19,Ein Frankfurt_Fortuna Dusseldorf_2018,Ein Frankfurt,4,4,8,9
+2018-10-19,Ein Frankfurt_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,4,4,8,9
+2018-10-20,Wolfsburg_Bayern Munich_2018,Wolfsburg,5,3,8,9
+2018-10-20,Leverkusen_Hannover_2018,Leverkusen,4,4,8,9
+2018-10-20,Wolfsburg_Bayern Munich_2018,Bayern Munich,4,4,8,9
+2018-10-20,Augsburg_RB Leipzig_2018,Augsburg,4,4,8,9
+2018-10-20,Schalke 04_Werder Bremen_2018,Werder Bremen,4,4,8,9
+2018-10-20,Leverkusen_Hannover_2018,Hannover,3,5,8,9
+2018-10-20,Augsburg_RB Leipzig_2018,RB Leipzig,4,4,8,9
+2018-10-20,Schalke 04_Werder Bremen_2018,Schalke 04,4,4,8,9
+2018-10-20,Stuttgart_Dortmund_2018,Dortmund,4,4,8,9
+2018-10-20,Nurnberg_Hoffenheim_2018,Nurnberg,4,4,8,9
+2018-10-20,Stuttgart_Dortmund_2018,Stuttgart,4,4,8,9
+2018-10-20,Nurnberg_Hoffenheim_2018,Hoffenheim,4,4,8,9
+2018-10-21,Hertha_Freiburg_2018,Freiburg,4,4,8,9
+2018-10-21,Hertha_Freiburg_2018,Hertha,4,4,8,9
+2018-10-21,M'gladbach_Mainz_2018,Mainz,4,4,8,9
+2018-10-21,M'gladbach_Mainz_2018,M'gladbach,4,4,8,9
+2018-10-26,Freiburg_M'gladbach_2018,M'gladbach,4,5,9,10
+2018-10-26,Freiburg_M'gladbach_2018,Freiburg,5,4,9,10
+2018-10-27,Dortmund_Hertha_2018,Hertha,4,5,9,10
+2018-10-27,Fortuna Dusseldorf_Wolfsburg_2018,Fortuna Dusseldorf,5,4,9,10
+2018-10-27,Mainz_Bayern Munich_2018,Mainz,5,4,9,10
+2018-10-27,Hoffenheim_Stuttgart_2018,Hoffenheim,5,4,9,10
+2018-10-27,Mainz_Bayern Munich_2018,Bayern Munich,4,5,9,10
+2018-10-27,Hannover_Augsburg_2018,Augsburg,4,5,9,10
+2018-10-27,Hoffenheim_Stuttgart_2018,Stuttgart,4,5,9,10
+2018-10-27,Hannover_Augsburg_2018,Hannover,4,5,9,10
+2018-10-27,Fortuna Dusseldorf_Wolfsburg_2018,Wolfsburg,5,4,9,10
+2018-10-27,Dortmund_Hertha_2018,Dortmund,5,4,9,10
+2018-10-28,Nurnberg_Ein Frankfurt_2018,Ein Frankfurt,4,5,9,10
+2018-10-28,Werder Bremen_Leverkusen_2018,Leverkusen,4,5,9,10
+2018-10-28,Werder Bremen_Leverkusen_2018,Werder Bremen,5,4,9,10
+2018-10-28,RB Leipzig_Schalke 04_2018,RB Leipzig,5,4,9,10
+2018-10-28,RB Leipzig_Schalke 04_2018,Schalke 04,4,5,9,10
+2018-10-28,Nurnberg_Ein Frankfurt_2018,Nurnberg,5,4,9,10
+2018-11-02,Stuttgart_Ein Frankfurt_2018,Stuttgart,5,5,10,11
+2018-11-02,Stuttgart_Ein Frankfurt_2018,Ein Frankfurt,4,6,10,11
+2018-11-03,Wolfsburg_Dortmund_2018,Wolfsburg,6,4,10,11
+2018-11-03,Hertha_RB Leipzig_2018,Hertha,5,5,10,11
+2018-11-03,Augsburg_Nurnberg_2018,Augsburg,5,5,10,11
+2018-11-03,Leverkusen_Hoffenheim_2018,Leverkusen,5,5,10,11
+2018-11-03,Schalke 04_Hannover_2018,Schalke 04,5,5,10,11
+2018-11-03,Augsburg_Nurnberg_2018,Nurnberg,5,5,10,11
+2018-11-03,Bayern Munich_Freiburg_2018,Bayern Munich,5,5,10,11
+2018-11-03,Hertha_RB Leipzig_2018,RB Leipzig,5,5,10,11
+2018-11-03,Leverkusen_Hoffenheim_2018,Hoffenheim,5,5,10,11
+2018-11-03,Schalke 04_Hannover_2018,Hannover,4,6,10,11
+2018-11-03,Wolfsburg_Dortmund_2018,Dortmund,5,5,10,11
+2018-11-03,Bayern Munich_Freiburg_2018,Freiburg,5,5,10,11
+2018-11-04,Mainz_Werder Bremen_2018,Mainz,6,4,10,11
+2018-11-04,M'gladbach_Fortuna Dusseldorf_2018,M'gladbach,5,5,10,11
+2018-11-04,M'gladbach_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,5,5,10,11
+2018-11-04,Mainz_Werder Bremen_2018,Werder Bremen,5,5,10,11
+2018-11-09,Hannover_Wolfsburg_2018,Hannover,5,6,11,12
+2018-11-09,Hannover_Wolfsburg_2018,Wolfsburg,6,5,11,12
+2018-11-10,Werder Bremen_M'gladbach_2018,Werder Bremen,6,5,11,12
+2018-11-10,Freiburg_Mainz_2018,Mainz,6,5,11,12
+2018-11-10,Nurnberg_Stuttgart_2018,Stuttgart,5,6,11,12
+2018-11-10,Nurnberg_Stuttgart_2018,Nurnberg,6,5,11,12
+2018-11-10,Werder Bremen_M'gladbach_2018,M'gladbach,5,6,11,12
+2018-11-10,Hoffenheim_Augsburg_2018,Hoffenheim,6,5,11,12
+2018-11-10,Dortmund_Bayern Munich_2018,Dortmund,6,5,11,12
+2018-11-10,Freiburg_Mainz_2018,Freiburg,6,5,11,12
+2018-11-10,Fortuna Dusseldorf_Hertha_2018,Hertha,5,6,11,12
+2018-11-10,Fortuna Dusseldorf_Hertha_2018,Fortuna Dusseldorf,6,5,11,12
+2018-11-10,Hoffenheim_Augsburg_2018,Augsburg,5,6,11,12
+2018-11-10,Dortmund_Bayern Munich_2018,Bayern Munich,5,6,11,12
+2018-11-11,Ein Frankfurt_Schalke 04_2018,Schalke 04,5,6,11,12
+2018-11-11,RB Leipzig_Leverkusen_2018,Leverkusen,5,6,11,12
+2018-11-11,RB Leipzig_Leverkusen_2018,RB Leipzig,6,5,11,12
+2018-11-11,Ein Frankfurt_Schalke 04_2018,Ein Frankfurt,5,6,11,12
+2018-11-23,Leverkusen_Stuttgart_2018,Leverkusen,6,6,12,14
+2018-11-23,Leverkusen_Stuttgart_2018,Stuttgart,5,7,12,14
+2018-11-24,Bayern Munich_Fortuna Dusseldorf_2018,Bayern Munich,6,6,12,14
+2018-11-24,Wolfsburg_RB Leipzig_2018,Wolfsburg,7,5,12,14
+2018-11-24,Hertha_Hoffenheim_2018,Hoffenheim,6,6,12,14
+2018-11-24,Augsburg_Ein Frankfurt_2018,Augsburg,6,6,12,14
+2018-11-24,Mainz_Dortmund_2018,Dortmund,6,6,12,14
+2018-11-24,Schalke 04_Nurnberg_2018,Nurnberg,6,6,12,14
+2018-11-24,Augsburg_Ein Frankfurt_2018,Ein Frankfurt,5,7,12,14
+2018-11-24,Mainz_Dortmund_2018,Mainz,7,5,12,14
+2018-11-24,Hertha_Hoffenheim_2018,Hertha,6,6,12,14
+2018-11-24,Bayern Munich_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,6,6,12,14
+2018-11-24,Schalke 04_Nurnberg_2018,Schalke 04,6,6,12,14
+2018-11-24,Wolfsburg_RB Leipzig_2018,RB Leipzig,6,6,12,14
+2018-11-25,Freiburg_Werder Bremen_2018,Freiburg,7,5,12,14
+2018-11-25,M'gladbach_Hannover_2018,M'gladbach,6,6,12,14
+2018-11-25,Freiburg_Werder Bremen_2018,Werder Bremen,6,6,12,14
+2018-11-25,M'gladbach_Hannover_2018,Hannover,5,7,12,14
+2018-11-30,Fortuna Dusseldorf_Mainz_2018,Mainz,7,6,13,15
+2018-11-30,Fortuna Dusseldorf_Mainz_2018,Fortuna Dusseldorf,7,6,13,15
+2018-12-01,Dortmund_Freiburg_2018,Dortmund,7,6,13,15
+2018-12-01,Dortmund_Freiburg_2018,Freiburg,7,6,13,15
+2018-12-01,Stuttgart_Augsburg_2018,Augsburg,6,7,13,15
+2018-12-01,Hoffenheim_Schalke 04_2018,Schalke 04,6,7,13,15
+2018-12-01,Stuttgart_Augsburg_2018,Stuttgart,6,7,13,15
+2018-12-01,Hannover_Hertha_2018,Hertha,6,7,13,15
+2018-12-01,Hannover_Hertha_2018,Hannover,6,7,13,15
+2018-12-01,Hoffenheim_Schalke 04_2018,Hoffenheim,7,6,13,15
+2018-12-01,Werder Bremen_Bayern Munich_2018,Werder Bremen,7,6,13,15
+2018-12-01,Werder Bremen_Bayern Munich_2018,Bayern Munich,6,7,13,15
+2018-12-02,RB Leipzig_M'gladbach_2018,M'gladbach,6,7,13,15
+2018-12-02,RB Leipzig_M'gladbach_2018,RB Leipzig,7,6,13,15
+2018-12-02,Ein Frankfurt_Wolfsburg_2018,Ein Frankfurt,6,7,13,15
+2018-12-02,Ein Frankfurt_Wolfsburg_2018,Wolfsburg,7,6,13,15
+2018-12-03,Nurnberg_Leverkusen_2018,Leverkusen,6,7,13,15
+2018-12-03,Nurnberg_Leverkusen_2018,Nurnberg,7,6,13,15
+2018-12-07,Werder Bremen_Fortuna Dusseldorf_2018,Werder Bremen,8,6,14,16
+2018-12-07,Werder Bremen_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,7,7,14,16
+2018-12-08,Schalke 04_Dortmund_2018,Schalke 04,7,7,14,16
+2018-12-08,Hertha_Ein Frankfurt_2018,Hertha,7,7,14,16
+2018-12-08,Hertha_Ein Frankfurt_2018,Ein Frankfurt,6,8,14,16
+2018-12-08,Leverkusen_Augsburg_2018,Augsburg,6,8,14,16
+2018-12-08,Leverkusen_Augsburg_2018,Leverkusen,7,7,14,16
+2018-12-08,Bayern Munich_Nurnberg_2018,Bayern Munich,7,7,14,16
+2018-12-08,Freiburg_RB Leipzig_2018,Freiburg,8,6,14,16
+2018-12-08,Schalke 04_Dortmund_2018,Dortmund,7,7,14,16
+2018-12-08,Wolfsburg_Hoffenheim_2018,Wolfsburg,8,6,14,16
+2018-12-08,Bayern Munich_Nurnberg_2018,Nurnberg,7,7,14,16
+2018-12-08,Freiburg_RB Leipzig_2018,RB Leipzig,7,7,14,16
+2018-12-08,Wolfsburg_Hoffenheim_2018,Hoffenheim,7,7,14,16
+2018-12-09,Mainz_Hannover_2018,Hannover,6,8,14,16
+2018-12-09,M'gladbach_Stuttgart_2018,Stuttgart,6,8,14,16
+2018-12-09,M'gladbach_Stuttgart_2018,M'gladbach,7,7,14,16
+2018-12-09,Mainz_Hannover_2018,Mainz,8,6,14,16
+2018-12-14,Nurnberg_Wolfsburg_2018,Nurnberg,8,7,15,17
+2018-12-14,Nurnberg_Wolfsburg_2018,Wolfsburg,8,7,15,17
+2018-12-15,Stuttgart_Hertha_2018,Stuttgart,7,8,15,17
+2018-12-15,Hannover_Bayern Munich_2018,Bayern Munich,7,8,15,17
+2018-12-15,Dortmund_Werder Bremen_2018,Werder Bremen,8,7,15,17
+2018-12-15,Hoffenheim_M'gladbach_2018,Hoffenheim,8,7,15,17
+2018-12-15,Augsburg_Schalke 04_2018,Schalke 04,7,8,15,17
+2018-12-15,Hoffenheim_M'gladbach_2018,M'gladbach,7,8,15,17
+2018-12-15,Stuttgart_Hertha_2018,Hertha,7,8,15,17
+2018-12-15,Fortuna Dusseldorf_Freiburg_2018,Freiburg,8,7,15,17
+2018-12-15,Dortmund_Werder Bremen_2018,Dortmund,8,7,15,17
+2018-12-15,Hannover_Bayern Munich_2018,Hannover,7,8,15,17
+2018-12-15,Fortuna Dusseldorf_Freiburg_2018,Fortuna Dusseldorf,8,7,15,17
+2018-12-15,Augsburg_Schalke 04_2018,Augsburg,7,8,15,17
+2018-12-16,RB Leipzig_Mainz_2018,RB Leipzig,8,7,15,17
+2018-12-16,Ein Frankfurt_Leverkusen_2018,Leverkusen,7,8,15,17
+2018-12-16,Ein Frankfurt_Leverkusen_2018,Ein Frankfurt,7,8,15,17
+2018-12-16,RB Leipzig_Mainz_2018,Mainz,8,7,15,17
+2018-12-18,Wolfsburg_Stuttgart_2018,Wolfsburg,9,7,16,18
+2018-12-18,M'gladbach_Nurnberg_2018,M'gladbach,8,8,16,18
+2018-12-18,Hertha_Augsburg_2018,Hertha,8,8,16,18
+2018-12-18,Wolfsburg_Stuttgart_2018,Stuttgart,7,9,16,18
+2018-12-18,Hertha_Augsburg_2018,Augsburg,7,9,16,18
+2018-12-18,Fortuna Dusseldorf_Dortmund_2018,Dortmund,8,8,16,18
+2018-12-18,M'gladbach_Nurnberg_2018,Nurnberg,8,8,16,18
+2018-12-18,Fortuna Dusseldorf_Dortmund_2018,Fortuna Dusseldorf,9,7,16,18
+2018-12-19,Mainz_Ein Frankfurt_2018,Mainz,9,7,16,18
+2018-12-19,Schalke 04_Leverkusen_2018,Schalke 04,8,8,16,18
+2018-12-19,Mainz_Ein Frankfurt_2018,Ein Frankfurt,7,9,16,18
+2018-12-19,Bayern Munich_RB Leipzig_2018,Bayern Munich,8,8,16,18
+2018-12-19,Werder Bremen_Hoffenheim_2018,Hoffenheim,8,8,16,18
+2018-12-19,Werder Bremen_Hoffenheim_2018,Werder Bremen,9,7,16,18
+2018-12-19,Freiburg_Hannover_2018,Freiburg,9,7,16,18
+2018-12-19,Bayern Munich_RB Leipzig_2018,RB Leipzig,8,8,16,18
+2018-12-19,Freiburg_Hannover_2018,Hannover,7,9,16,18
+2018-12-19,Schalke 04_Leverkusen_2018,Leverkusen,7,9,16,18
+2018-12-21,Dortmund_M'gladbach_2018,Dortmund,9,8,17,18
+2018-12-21,Dortmund_M'gladbach_2018,M'gladbach,8,9,17,18
+2018-12-22,Leverkusen_Hertha_2018,Hertha,8,9,17,18
+2018-12-22,Stuttgart_Schalke 04_2018,Stuttgart,8,9,17,18
+2018-12-22,Hannover_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,9,8,17,18
+2018-12-22,Leverkusen_Hertha_2018,Leverkusen,8,9,17,18
+2018-12-22,Ein Frankfurt_Bayern Munich_2018,Ein Frankfurt,8,9,17,18
+2018-12-22,Hannover_Fortuna Dusseldorf_2018,Hannover,8,9,17,18
+2018-12-22,Nurnberg_Freiburg_2018,Freiburg,9,8,17,18
+2018-12-22,RB Leipzig_Werder Bremen_2018,RB Leipzig,9,8,17,18
+2018-12-22,Nurnberg_Freiburg_2018,Nurnberg,9,8,17,18
+2018-12-22,Stuttgart_Schalke 04_2018,Schalke 04,8,9,17,18
+2018-12-22,Ein Frankfurt_Bayern Munich_2018,Bayern Munich,8,9,17,18
+2018-12-22,RB Leipzig_Werder Bremen_2018,Werder Bremen,9,8,17,18
+2018-12-23,Augsburg_Wolfsburg_2018,Wolfsburg,9,8,17,18
+2018-12-23,Augsburg_Wolfsburg_2018,Augsburg,8,9,17,18
+2018-12-23,Hoffenheim_Mainz_2018,Mainz,9,8,17,18
+2018-12-23,Hoffenheim_Mainz_2018,Hoffenheim,9,8,17,18
+2019-01-18,Hoffenheim_Bayern Munich_2018,Hoffenheim,10,8,18,22
+2019-01-18,Hoffenheim_Bayern Munich_2018,Bayern Munich,8,10,18,22
+2019-01-19,Leverkusen_M'gladbach_2018,M'gladbach,8,10,18,22
+2019-01-19,RB Leipzig_Dortmund_2018,Dortmund,9,9,18,22
+2019-01-19,Ein Frankfurt_Freiburg_2018,Freiburg,9,9,18,22
+2019-01-19,Augsburg_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,9,9,18,22
+2019-01-19,RB Leipzig_Dortmund_2018,RB Leipzig,10,8,18,22
+2019-01-19,Hannover_Werder Bremen_2018,Hannover,9,9,18,22
+2019-01-19,Augsburg_Fortuna Dusseldorf_2018,Augsburg,9,9,18,22
+2019-01-19,Stuttgart_Mainz_2018,Stuttgart,9,9,18,22
+2019-01-19,Stuttgart_Mainz_2018,Mainz,9,9,18,22
+2019-01-19,Hannover_Werder Bremen_2018,Werder Bremen,9,9,18,22
+2019-01-19,Ein Frankfurt_Freiburg_2018,Ein Frankfurt,9,9,18,22
+2019-01-19,Leverkusen_M'gladbach_2018,Leverkusen,9,9,18,22
+2019-01-20,Schalke 04_Wolfsburg_2018,Wolfsburg,9,9,18,22
+2019-01-20,Nurnberg_Hertha_2018,Hertha,8,10,18,22
+2019-01-20,Nurnberg_Hertha_2018,Nurnberg,10,8,18,22
+2019-01-20,Schalke 04_Wolfsburg_2018,Schalke 04,9,9,18,22
+2019-01-25,Hertha_Schalke 04_2018,Schalke 04,9,10,19,23
+2019-01-25,Hertha_Schalke 04_2018,Hertha,9,10,19,23
+2019-01-26,Freiburg_Hoffenheim_2018,Freiburg,10,9,19,23
+2019-01-26,Dortmund_Hannover_2018,Hannover,9,10,19,23
+2019-01-26,Wolfsburg_Leverkusen_2018,Leverkusen,9,10,19,23
+2019-01-26,Mainz_Nurnberg_2018,Mainz,10,9,19,23
+2019-01-26,Werder Bremen_Ein Frankfurt_2018,Ein Frankfurt,9,10,19,23
+2019-01-26,Mainz_Nurnberg_2018,Nurnberg,10,9,19,23
+2019-01-26,Werder Bremen_Ein Frankfurt_2018,Werder Bremen,10,9,19,23
+2019-01-26,M'gladbach_Augsburg_2018,M'gladbach,9,10,19,23
+2019-01-26,M'gladbach_Augsburg_2018,Augsburg,9,10,19,23
+2019-01-26,Wolfsburg_Leverkusen_2018,Wolfsburg,10,9,19,23
+2019-01-26,Dortmund_Hannover_2018,Dortmund,10,9,19,23
+2019-01-26,Freiburg_Hoffenheim_2018,Hoffenheim,10,9,19,23
+2019-01-27,Bayern Munich_Stuttgart_2018,Stuttgart,9,10,19,23
+2019-01-27,Fortuna Dusseldorf_RB Leipzig_2018,RB Leipzig,10,9,19,23
+2019-01-27,Bayern Munich_Stuttgart_2018,Bayern Munich,9,10,19,23
+2019-01-27,Fortuna Dusseldorf_RB Leipzig_2018,Fortuna Dusseldorf,10,9,19,23
+2019-02-01,Hannover_RB Leipzig_2018,Hannover,10,10,20,24
+2019-02-01,Hannover_RB Leipzig_2018,RB Leipzig,10,10,20,24
+2019-02-02,Ein Frankfurt_Dortmund_2018,Dortmund,10,10,20,24
+2019-02-02,Hertha_Wolfsburg_2018,Wolfsburg,10,10,20,24
+2019-02-02,Schalke 04_M'gladbach_2018,Schalke 04,10,10,20,24
+2019-02-02,Hoffenheim_Fortuna Dusseldorf_2018,Hoffenheim,11,9,20,24
+2019-02-02,Nurnberg_Werder Bremen_2018,Nurnberg,11,9,20,24
+2019-02-02,Schalke 04_M'gladbach_2018,M'gladbach,9,11,20,24
+2019-02-02,Leverkusen_Bayern Munich_2018,Bayern Munich,9,11,20,24
+2019-02-02,Hertha_Wolfsburg_2018,Hertha,10,10,20,24
+2019-02-02,Ein Frankfurt_Dortmund_2018,Ein Frankfurt,10,10,20,24
+2019-02-02,Nurnberg_Werder Bremen_2018,Werder Bremen,10,10,20,24
+2019-02-02,Leverkusen_Bayern Munich_2018,Leverkusen,10,10,20,24
+2019-02-02,Hoffenheim_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,10,10,20,24
+2019-02-03,Stuttgart_Freiburg_2018,Stuttgart,10,10,20,24
+2019-02-03,Augsburg_Mainz_2018,Augsburg,10,10,20,24
+2019-02-03,Stuttgart_Freiburg_2018,Freiburg,10,10,20,24
+2019-02-03,Augsburg_Mainz_2018,Mainz,10,10,20,24
+2019-02-08,Mainz_Leverkusen_2018,Mainz,11,10,21,25
+2019-02-08,Mainz_Leverkusen_2018,Leverkusen,10,11,21,25
+2019-02-09,Freiburg_Wolfsburg_2018,Wolfsburg,10,11,21,25
+2019-02-09,RB Leipzig_Ein Frankfurt_2018,Ein Frankfurt,10,11,21,25
+2019-02-09,Hannover_Nurnberg_2018,Nurnberg,11,10,21,25
+2019-02-09,Dortmund_Hoffenheim_2018,Dortmund,11,10,21,25
+2019-02-09,M'gladbach_Hertha_2018,Hertha,10,11,21,25
+2019-02-09,RB Leipzig_Ein Frankfurt_2018,RB Leipzig,11,10,21,25
+2019-02-09,Dortmund_Hoffenheim_2018,Hoffenheim,11,10,21,25
+2019-02-09,Bayern Munich_Schalke 04_2018,Schalke 04,10,11,21,25
+2019-02-09,Bayern Munich_Schalke 04_2018,Bayern Munich,10,11,21,25
+2019-02-09,M'gladbach_Hertha_2018,M'gladbach,10,11,21,25
+2019-02-09,Hannover_Nurnberg_2018,Hannover,11,10,21,25
+2019-02-09,Freiburg_Wolfsburg_2018,Freiburg,11,10,21,25
+2019-02-10,Werder Bremen_Augsburg_2018,Werder Bremen,11,10,21,25
+2019-02-10,Fortuna Dusseldorf_Stuttgart_2018,Stuttgart,10,11,21,25
+2019-02-10,Werder Bremen_Augsburg_2018,Augsburg,10,11,21,25
+2019-02-10,Fortuna Dusseldorf_Stuttgart_2018,Fortuna Dusseldorf,11,10,21,25
+2019-02-15,Augsburg_Bayern Munich_2018,Bayern Munich,10,12,22,26
+2019-02-15,Augsburg_Bayern Munich_2018,Augsburg,11,11,22,26
+2019-02-16,Schalke 04_Freiburg_2018,Schalke 04,11,11,22,26
+2019-02-16,Stuttgart_RB Leipzig_2018,Stuttgart,11,11,22,26
+2019-02-16,Wolfsburg_Mainz_2018,Wolfsburg,11,11,22,26
+2019-02-16,Hertha_Werder Bremen_2018,Werder Bremen,11,11,22,26
+2019-02-16,Wolfsburg_Mainz_2018,Mainz,11,11,22,26
+2019-02-16,Hertha_Werder Bremen_2018,Hertha,11,11,22,26
+2019-02-16,Stuttgart_RB Leipzig_2018,RB Leipzig,11,11,22,26
+2019-02-16,Schalke 04_Freiburg_2018,Freiburg,11,11,22,26
+2019-02-16,Hoffenheim_Hannover_2018,Hannover,11,11,22,26
+2019-02-16,Hoffenheim_Hannover_2018,Hoffenheim,12,10,22,26
+2019-02-17,Leverkusen_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,11,11,22,26
+2019-02-17,Ein Frankfurt_M'gladbach_2018,M'gladbach,10,12,22,26
+2019-02-17,Ein Frankfurt_M'gladbach_2018,Ein Frankfurt,11,11,22,26
+2019-02-17,Leverkusen_Fortuna Dusseldorf_2018,Leverkusen,11,11,22,26
+2019-02-18,Nurnberg_Dortmund_2018,Nurnberg,12,10,22,26
+2019-02-18,Nurnberg_Dortmund_2018,Dortmund,11,11,22,26
+2019-02-22,Werder Bremen_Stuttgart_2018,Werder Bremen,12,11,23,27
+2019-02-22,Werder Bremen_Stuttgart_2018,Stuttgart,11,12,23,27
+2019-02-23,Mainz_Schalke 04_2018,Schalke 04,11,12,23,27
+2019-02-23,Bayern Munich_Hertha_2018,Bayern Munich,11,12,23,27
+2019-02-23,Fortuna Dusseldorf_Nurnberg_2018,Nurnberg,12,11,23,27
+2019-02-23,Freiburg_Augsburg_2018,Augsburg,11,12,23,27
+2019-02-23,Bayern Munich_Hertha_2018,Hertha,11,12,23,27
+2019-02-23,M'gladbach_Wolfsburg_2018,M'gladbach,11,12,23,27
+2019-02-23,Mainz_Schalke 04_2018,Mainz,12,11,23,27
+2019-02-23,Fortuna Dusseldorf_Nurnberg_2018,Fortuna Dusseldorf,12,11,23,27
+2019-02-23,Freiburg_Augsburg_2018,Freiburg,12,11,23,27
+2019-02-23,M'gladbach_Wolfsburg_2018,Wolfsburg,11,12,23,27
+2019-02-24,Dortmund_Leverkusen_2018,Leverkusen,11,12,23,27
+2019-02-24,Hannover_Ein Frankfurt_2018,Ein Frankfurt,11,12,23,27
+2019-02-24,Hannover_Ein Frankfurt_2018,Hannover,12,11,23,27
+2019-02-24,Dortmund_Leverkusen_2018,Dortmund,12,11,23,27
+2019-02-25,RB Leipzig_Hoffenheim_2018,RB Leipzig,12,11,23,27
+2019-02-25,RB Leipzig_Hoffenheim_2018,Hoffenheim,12,11,23,27
+2019-03-01,Augsburg_Dortmund_2018,Dortmund,12,12,24,28
+2019-03-01,Augsburg_Dortmund_2018,Augsburg,12,12,24,28
+2019-03-02,Hertha_Mainz_2018,Mainz,12,12,24,28
+2019-03-02,Schalke 04_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,12,12,24,28
+2019-03-02,M'gladbach_Bayern Munich_2018,M'gladbach,12,12,24,28
+2019-03-02,Schalke 04_Fortuna Dusseldorf_2018,Schalke 04,12,12,24,28
+2019-03-02,Nurnberg_RB Leipzig_2018,Nurnberg,13,11,24,28
+2019-03-02,Leverkusen_Freiburg_2018,Leverkusen,12,12,24,28
+2019-03-02,M'gladbach_Bayern Munich_2018,Bayern Munich,11,13,24,28
+2019-03-02,Leverkusen_Freiburg_2018,Freiburg,12,12,24,28
+2019-03-02,Ein Frankfurt_Hoffenheim_2018,Ein Frankfurt,12,12,24,28
+2019-03-02,Ein Frankfurt_Hoffenheim_2018,Hoffenheim,12,12,24,28
+2019-03-02,Hertha_Mainz_2018,Hertha,12,12,24,28
+2019-03-02,Nurnberg_RB Leipzig_2018,RB Leipzig,12,12,24,28
+2019-03-03,Wolfsburg_Werder Bremen_2018,Wolfsburg,12,12,24,28
+2019-03-03,Wolfsburg_Werder Bremen_2018,Werder Bremen,12,12,24,28
+2019-03-03,Stuttgart_Hannover_2018,Stuttgart,12,12,24,28
+2019-03-03,Stuttgart_Hannover_2018,Hannover,12,12,24,28
+2019-03-08,Werder Bremen_Schalke 04_2018,Schalke 04,12,13,25,29
+2019-03-08,Werder Bremen_Schalke 04_2018,Werder Bremen,13,12,25,29
+2019-03-09,Mainz_M'gladbach_2018,M'gladbach,12,13,25,29
+2019-03-09,Bayern Munich_Wolfsburg_2018,Wolfsburg,12,13,25,29
+2019-03-09,Dortmund_Stuttgart_2018,Stuttgart,12,13,25,29
+2019-03-09,Freiburg_Hertha_2018,Hertha,12,13,25,29
+2019-03-09,RB Leipzig_Augsburg_2018,RB Leipzig,13,12,25,29
+2019-03-09,Mainz_M'gladbach_2018,Mainz,13,12,25,29
+2019-03-09,Dortmund_Stuttgart_2018,Dortmund,13,12,25,29
+2019-03-09,Bayern Munich_Wolfsburg_2018,Bayern Munich,12,13,25,29
+2019-03-09,Freiburg_Hertha_2018,Freiburg,13,12,25,29
+2019-03-09,RB Leipzig_Augsburg_2018,Augsburg,12,13,25,29
+2019-03-10,Hannover_Leverkusen_2018,Leverkusen,12,13,25,29
+2019-03-10,Hoffenheim_Nurnberg_2018,Hoffenheim,13,12,25,29
+2019-03-10,Hoffenheim_Nurnberg_2018,Nurnberg,13,12,25,29
+2019-03-10,Hannover_Leverkusen_2018,Hannover,13,12,25,29
+2019-03-11,Fortuna Dusseldorf_Ein Frankfurt_2018,Fortuna Dusseldorf,13,12,25,29
+2019-03-11,Fortuna Dusseldorf_Ein Frankfurt_2018,Ein Frankfurt,12,13,25,29
+2019-03-15,M'gladbach_Freiburg_2018,Freiburg,13,13,26,30
+2019-03-15,M'gladbach_Freiburg_2018,M'gladbach,13,13,26,30
+2019-03-16,Wolfsburg_Fortuna Dusseldorf_2018,Wolfsburg,13,13,26,30
+2019-03-16,Hertha_Dortmund_2018,Hertha,13,13,26,30
+2019-03-16,Wolfsburg_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,13,13,26,30
+2019-03-16,Stuttgart_Hoffenheim_2018,Stuttgart,13,13,26,30
+2019-03-16,Augsburg_Hannover_2018,Hannover,13,13,26,30
+2019-03-16,Augsburg_Hannover_2018,Augsburg,13,13,26,30
+2019-03-16,Hertha_Dortmund_2018,Dortmund,13,13,26,30
+2019-03-16,Stuttgart_Hoffenheim_2018,Hoffenheim,13,13,26,30
+2019-03-16,Schalke 04_RB Leipzig_2018,Schalke 04,13,13,26,30
+2019-03-16,Schalke 04_RB Leipzig_2018,RB Leipzig,13,13,26,30
+2019-03-17,Ein Frankfurt_Nurnberg_2018,Nurnberg,13,13,26,30
+2019-03-17,Leverkusen_Werder Bremen_2018,Werder Bremen,13,13,26,30
+2019-03-17,Bayern Munich_Mainz_2018,Bayern Munich,13,13,26,30
+2019-03-17,Ein Frankfurt_Nurnberg_2018,Ein Frankfurt,13,13,26,30
+2019-03-17,Leverkusen_Werder Bremen_2018,Leverkusen,13,13,26,30
+2019-03-17,Bayern Munich_Mainz_2018,Mainz,13,13,26,30
+2019-03-29,Hoffenheim_Leverkusen_2018,Leverkusen,13,14,27,32
+2019-03-29,Hoffenheim_Leverkusen_2018,Hoffenheim,14,13,27,32
+2019-03-30,Nurnberg_Augsburg_2018,Augsburg,13,14,27,32
+2019-03-30,Werder Bremen_Mainz_2018,Mainz,13,14,27,32
+2019-03-30,Dortmund_Wolfsburg_2018,Dortmund,14,13,27,32
+2019-03-30,RB Leipzig_Hertha_2018,RB Leipzig,14,13,27,32
+2019-03-30,Fortuna Dusseldorf_M'gladbach_2018,M'gladbach,13,14,27,32
+2019-03-30,Fortuna Dusseldorf_M'gladbach_2018,Fortuna Dusseldorf,14,13,27,32
+2019-03-30,Werder Bremen_Mainz_2018,Werder Bremen,14,13,27,32
+2019-03-30,Freiburg_Bayern Munich_2018,Freiburg,14,13,27,32
+2019-03-30,RB Leipzig_Hertha_2018,Hertha,13,14,27,32
+2019-03-30,Dortmund_Wolfsburg_2018,Wolfsburg,13,14,27,32
+2019-03-30,Nurnberg_Augsburg_2018,Nurnberg,14,13,27,32
+2019-03-30,Freiburg_Bayern Munich_2018,Bayern Munich,13,14,27,32
+2019-03-31,Hannover_Schalke 04_2018,Hannover,14,13,27,32
+2019-03-31,Ein Frankfurt_Stuttgart_2018,Stuttgart,13,14,27,32
+2019-03-31,Hannover_Schalke 04_2018,Schalke 04,13,14,27,32
+2019-03-31,Ein Frankfurt_Stuttgart_2018,Ein Frankfurt,14,13,27,32
+2019-04-05,Mainz_Freiburg_2018,Freiburg,14,14,28,33
+2019-04-05,Mainz_Freiburg_2018,Mainz,14,14,28,33
+2019-04-06,Wolfsburg_Hannover_2018,Wolfsburg,14,14,28,33
+2019-04-06,Stuttgart_Nurnberg_2018,Nurnberg,14,14,28,33
+2019-04-06,Bayern Munich_Dortmund_2018,Bayern Munich,14,14,28,33
+2019-04-06,Leverkusen_RB Leipzig_2018,Leverkusen,14,14,28,33
+2019-04-06,Wolfsburg_Hannover_2018,Hannover,14,14,28,33
+2019-04-06,Schalke 04_Ein Frankfurt_2018,Schalke 04,14,14,28,33
+2019-04-06,Leverkusen_RB Leipzig_2018,RB Leipzig,14,14,28,33
+2019-04-06,Hertha_Fortuna Dusseldorf_2018,Hertha,14,14,28,33
+2019-04-06,Stuttgart_Nurnberg_2018,Stuttgart,14,14,28,33
+2019-04-06,Hertha_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,14,14,28,33
+2019-04-06,Bayern Munich_Dortmund_2018,Dortmund,14,14,28,33
+2019-04-06,Schalke 04_Ein Frankfurt_2018,Ein Frankfurt,14,14,28,33
+2019-04-07,Augsburg_Hoffenheim_2018,Hoffenheim,14,14,28,33
+2019-04-07,M'gladbach_Werder Bremen_2018,Werder Bremen,14,14,28,33
+2019-04-07,M'gladbach_Werder Bremen_2018,M'gladbach,14,14,28,33
+2019-04-07,Augsburg_Hoffenheim_2018,Augsburg,14,14,28,33
+2019-04-12,Nurnberg_Schalke 04_2018,Schalke 04,14,15,29,34
+2019-04-12,Nurnberg_Schalke 04_2018,Nurnberg,15,14,29,34
+2019-04-13,RB Leipzig_Wolfsburg_2018,Wolfsburg,14,15,29,34
+2019-04-13,Hannover_M'gladbach_2018,M'gladbach,14,15,29,34
+2019-04-13,Werder Bremen_Freiburg_2018,Werder Bremen,15,14,29,34
+2019-04-13,Dortmund_Mainz_2018,Dortmund,15,14,29,34
+2019-04-13,Stuttgart_Leverkusen_2018,Stuttgart,15,14,29,34
+2019-04-13,Werder Bremen_Freiburg_2018,Freiburg,14,15,29,34
+2019-04-13,Stuttgart_Leverkusen_2018,Leverkusen,14,15,29,34
+2019-04-13,RB Leipzig_Wolfsburg_2018,RB Leipzig,15,14,29,34
+2019-04-13,Hannover_M'gladbach_2018,Hannover,15,14,29,34
+2019-04-13,Dortmund_Mainz_2018,Mainz,14,15,29,34
+2019-04-14,Hoffenheim_Hertha_2018,Hertha,14,15,29,34
+2019-04-14,Fortuna Dusseldorf_Bayern Munich_2018,Fortuna Dusseldorf,15,14,29,34
+2019-04-14,Fortuna Dusseldorf_Bayern Munich_2018,Bayern Munich,14,15,29,34
+2019-04-14,Hoffenheim_Hertha_2018,Hoffenheim,15,14,29,34
+2019-04-14,Ein Frankfurt_Augsburg_2018,Ein Frankfurt,15,14,29,34
+2019-04-14,Ein Frankfurt_Augsburg_2018,Augsburg,14,15,29,34
+2019-04-20,Mainz_Fortuna Dusseldorf_2018,Mainz,15,15,30,35
+2019-04-20,Bayern Munich_Werder Bremen_2018,Werder Bremen,15,15,30,35
+2019-04-20,M'gladbach_RB Leipzig_2018,M'gladbach,15,15,30,35
+2019-04-20,Leverkusen_Nurnberg_2018,Nurnberg,15,15,30,35
+2019-04-20,Augsburg_Stuttgart_2018,Augsburg,15,15,30,35
+2019-04-20,Schalke 04_Hoffenheim_2018,Hoffenheim,15,15,30,35
+2019-04-20,Schalke 04_Hoffenheim_2018,Schalke 04,15,15,30,35
+2019-04-20,Leverkusen_Nurnberg_2018,Leverkusen,15,15,30,35
+2019-04-20,Augsburg_Stuttgart_2018,Stuttgart,15,15,30,35
+2019-04-20,M'gladbach_RB Leipzig_2018,RB Leipzig,15,15,30,35
+2019-04-20,Bayern Munich_Werder Bremen_2018,Bayern Munich,15,15,30,35
+2019-04-20,Mainz_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,15,15,30,35
+2019-04-21,Hertha_Hannover_2018,Hertha,15,15,30,35
+2019-04-21,Hertha_Hannover_2018,Hannover,15,15,30,35
+2019-04-21,Freiburg_Dortmund_2018,Dortmund,15,15,30,35
+2019-04-21,Freiburg_Dortmund_2018,Freiburg,15,15,30,35
+2019-04-22,Wolfsburg_Ein Frankfurt_2018,Wolfsburg,15,15,30,35
+2019-04-22,Wolfsburg_Ein Frankfurt_2018,Ein Frankfurt,15,15,30,35
+2019-04-26,Augsburg_Leverkusen_2018,Leverkusen,15,16,31,36
+2019-04-26,Augsburg_Leverkusen_2018,Augsburg,16,15,31,36
+2019-04-27,Stuttgart_M'gladbach_2018,M'gladbach,15,16,31,36
+2019-04-27,Dortmund_Schalke 04_2018,Schalke 04,15,16,31,36
+2019-04-27,Ein Frankfurt_Hertha_2018,Ein Frankfurt,16,15,31,36
+2019-04-27,RB Leipzig_Freiburg_2018,Freiburg,15,16,31,36
+2019-04-27,Dortmund_Schalke 04_2018,Dortmund,16,15,31,36
+2019-04-27,Fortuna Dusseldorf_Werder Bremen_2018,Fortuna Dusseldorf,16,15,31,36
+2019-04-27,Stuttgart_M'gladbach_2018,Stuttgart,16,15,31,36
+2019-04-27,Ein Frankfurt_Hertha_2018,Hertha,15,16,31,36
+2019-04-27,Fortuna Dusseldorf_Werder Bremen_2018,Werder Bremen,15,16,31,36
+2019-04-27,Hannover_Mainz_2018,Hannover,16,15,31,36
+2019-04-27,Hannover_Mainz_2018,Mainz,15,16,31,36
+2019-04-27,RB Leipzig_Freiburg_2018,RB Leipzig,16,15,31,36
+2019-04-28,Nurnberg_Bayern Munich_2018,Bayern Munich,15,16,31,36
+2019-04-28,Hoffenheim_Wolfsburg_2018,Hoffenheim,16,15,31,36
+2019-04-28,Nurnberg_Bayern Munich_2018,Nurnberg,16,15,31,36
+2019-04-28,Hoffenheim_Wolfsburg_2018,Wolfsburg,15,16,31,36
+2019-05-03,Mainz_RB Leipzig_2018,Mainz,16,16,32,37
+2019-05-03,Mainz_RB Leipzig_2018,RB Leipzig,16,16,32,37
+2019-05-04,Wolfsburg_Nurnberg_2018,Wolfsburg,16,16,32,37
+2019-05-04,Hertha_Stuttgart_2018,Hertha,16,16,32,37
+2019-05-04,M'gladbach_Hoffenheim_2018,M'gladbach,16,16,32,37
+2019-05-04,Bayern Munich_Hannover_2018,Hannover,16,16,32,37
+2019-05-04,Werder Bremen_Dortmund_2018,Dortmund,16,16,32,37
+2019-05-04,M'gladbach_Hoffenheim_2018,Hoffenheim,16,16,32,37
+2019-05-04,Hertha_Stuttgart_2018,Stuttgart,16,16,32,37
+2019-05-04,Werder Bremen_Dortmund_2018,Werder Bremen,16,16,32,37
+2019-05-04,Wolfsburg_Nurnberg_2018,Nurnberg,16,16,32,37
+2019-05-04,Bayern Munich_Hannover_2018,Bayern Munich,16,16,32,37
+2019-05-05,Leverkusen_Ein Frankfurt_2018,Ein Frankfurt,16,16,32,37
+2019-05-05,Schalke 04_Augsburg_2018,Schalke 04,16,16,32,37
+2019-05-05,Schalke 04_Augsburg_2018,Augsburg,16,16,32,37
+2019-05-05,Freiburg_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,16,16,32,37
+2019-05-05,Freiburg_Fortuna Dusseldorf_2018,Freiburg,16,16,32,37
+2019-05-05,Leverkusen_Ein Frankfurt_2018,Leverkusen,16,16,32,37
+2019-05-11,Stuttgart_Wolfsburg_2018,Wolfsburg,16,17,33,38
+2019-05-11,Hannover_Freiburg_2018,Hannover,17,16,33,38
+2019-05-11,Hoffenheim_Werder Bremen_2018,Werder Bremen,16,17,33,38
+2019-05-11,Nurnberg_M'gladbach_2018,Nurnberg,17,16,33,38
+2019-05-11,Augsburg_Hertha_2018,Hertha,16,17,33,38
+2019-05-11,RB Leipzig_Bayern Munich_2018,Bayern Munich,16,17,33,38
+2019-05-11,Dortmund_Fortuna Dusseldorf_2018,Fortuna Dusseldorf,16,17,33,38
+2019-05-11,Leverkusen_Schalke 04_2018,Leverkusen,17,16,33,38
+2019-05-11,Leverkusen_Schalke 04_2018,Schalke 04,16,17,33,38
+2019-05-11,Augsburg_Hertha_2018,Augsburg,17,16,33,38
+2019-05-11,Hoffenheim_Werder Bremen_2018,Hoffenheim,17,16,33,38
+2019-05-11,RB Leipzig_Bayern Munich_2018,RB Leipzig,17,16,33,38
+2019-05-11,Dortmund_Fortuna Dusseldorf_2018,Dortmund,17,16,33,38
+2019-05-11,Nurnberg_M'gladbach_2018,M'gladbach,16,17,33,38
+2019-05-11,Stuttgart_Wolfsburg_2018,Stuttgart,17,16,33,38
+2019-05-11,Hannover_Freiburg_2018,Freiburg,16,17,33,38
+2019-05-12,Ein Frankfurt_Mainz_2018,Mainz,16,17,33,38
+2019-05-12,Ein Frankfurt_Mainz_2018,Ein Frankfurt,17,16,33,38
+2019-05-18,Schalke 04_Stuttgart_2018,Stuttgart,17,17,34,39
+2019-05-18,Hertha_Leverkusen_2018,Hertha,17,17,34,39
+2019-05-18,Wolfsburg_Augsburg_2018,Augsburg,17,17,34,39
+2019-05-18,Fortuna Dusseldorf_Hannover_2018,Fortuna Dusseldorf,17,17,34,39
+2019-05-18,Mainz_Hoffenheim_2018,Mainz,17,17,34,39
+2019-05-18,Bayern Munich_Ein Frankfurt_2018,Bayern Munich,17,17,34,39
+2019-05-18,M'gladbach_Dortmund_2018,Dortmund,17,17,34,39
+2019-05-18,M'gladbach_Dortmund_2018,M'gladbach,17,17,34,39
+2019-05-18,Werder Bremen_RB Leipzig_2018,Werder Bremen,17,17,34,39
+2019-05-18,Schalke 04_Stuttgart_2018,Schalke 04,17,17,34,39
+2019-05-18,Hertha_Leverkusen_2018,Leverkusen,17,17,34,39
+2019-05-18,Fortuna Dusseldorf_Hannover_2018,Hannover,17,17,34,39
+2019-05-18,Mainz_Hoffenheim_2018,Hoffenheim,17,17,34,39
+2019-05-18,Freiburg_Nurnberg_2018,Nurnberg,17,17,34,39
+2019-05-18,Freiburg_Nurnberg_2018,Freiburg,17,17,34,39
+2019-05-18,Bayern Munich_Ein Frankfurt_2018,Ein Frankfurt,17,17,34,39
+2019-05-18,Werder Bremen_RB Leipzig_2018,RB Leipzig,17,17,34,39
+2019-05-18,Wolfsburg_Augsburg_2018,Wolfsburg,17,17,34,39

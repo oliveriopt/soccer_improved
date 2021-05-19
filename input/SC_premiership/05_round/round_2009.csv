@@ -1,0 +1,457 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2009-08-15,Aberdeen_Celtic_2009,Aberdeen,1,1,1,1
+2009-08-15,Kilmarnock_Hamilton_2009,Hamilton,1,1,1,1
+2009-08-15,Rangers_Falkirk_2009,Rangers,1,1,1,1
+2009-08-15,Kilmarnock_Hamilton_2009,Kilmarnock,1,1,1,1
+2009-08-15,Aberdeen_Celtic_2009,Celtic,1,1,1,1
+2009-08-15,Hibernian_St Mirren_2009,St Mirren,1,1,1,1
+2009-08-15,Rangers_Falkirk_2009,Falkirk,1,1,1,1
+2009-08-15,St Johnstone_Motherwell_2009,Motherwell,1,1,1,1
+2009-08-15,St Johnstone_Motherwell_2009,St Johnstone,1,1,1,1
+2009-08-15,Hibernian_St Mirren_2009,Hibernian,1,1,1,1
+2009-08-17,Dundee United_Hearts_2009,Hearts,1,1,1,1
+2009-08-17,Dundee United_Hearts_2009,Dundee United,1,1,1,1
+2009-08-22,St Mirren_Dundee United_2009,St Mirren,1,1,2,2
+2009-08-22,Falkirk_Hibernian_2009,Falkirk,1,1,2,2
+2009-08-22,Motherwell_Kilmarnock_2009,Kilmarnock,1,1,2,2
+2009-08-22,Celtic_St Johnstone_2009,Celtic,1,1,2,2
+2009-08-22,Motherwell_Kilmarnock_2009,Motherwell,1,1,2,2
+2009-08-22,Falkirk_Hibernian_2009,Hibernian,1,1,2,2
+2009-08-22,St Mirren_Dundee United_2009,Dundee United,1,1,2,2
+2009-08-22,Celtic_St Johnstone_2009,St Johnstone,1,1,2,2
+2009-08-22,Hamilton_Aberdeen_2009,Aberdeen,1,1,2,2
+2009-08-22,Hamilton_Aberdeen_2009,Hamilton,1,1,2,2
+2009-08-23,Hearts_Rangers_2009,Rangers,1,1,2,2
+2009-08-23,Hearts_Rangers_2009,Hearts,1,1,2,2
+2009-08-29,Kilmarnock_St Mirren_2009,St Mirren,1,2,3,3
+2009-08-29,Rangers_Hamilton_2009,Rangers,2,1,3,3
+2009-08-29,Aberdeen_Motherwell_2009,Motherwell,1,2,3,3
+2009-08-29,Dundee United_Falkirk_2009,Falkirk,1,2,3,3
+2009-08-29,Dundee United_Falkirk_2009,Dundee United,2,1,3,3
+2009-08-29,Kilmarnock_St Mirren_2009,Kilmarnock,2,1,3,3
+2009-08-29,Aberdeen_Motherwell_2009,Aberdeen,2,1,3,3
+2009-08-29,Rangers_Hamilton_2009,Hamilton,1,2,3,3
+2009-08-30,St Johnstone_Hearts_2009,St Johnstone,2,1,3,3
+2009-08-30,Hibernian_Celtic_2009,Hibernian,2,1,3,3
+2009-08-30,St Johnstone_Hearts_2009,Hearts,1,2,3,3
+2009-08-30,Hibernian_Celtic_2009,Celtic,1,2,3,3
+2009-09-12,Motherwell_Rangers_2009,Motherwell,2,2,4,5
+2009-09-12,Motherwell_Rangers_2009,Rangers,2,2,4,5
+2009-09-12,Celtic_Dundee United_2009,Dundee United,2,2,4,5
+2009-09-12,Celtic_Dundee United_2009,Celtic,2,2,4,5
+2009-09-12,St Mirren_St Johnstone_2009,St Johnstone,2,2,4,5
+2009-09-12,St Mirren_St Johnstone_2009,St Mirren,2,2,4,5
+2009-09-13,Hamilton_Hibernian_2009,Hibernian,2,2,4,5
+2009-09-13,Hamilton_Hibernian_2009,Hamilton,2,2,4,5
+2009-09-14,Falkirk_Aberdeen_2009,Aberdeen,2,2,4,5
+2009-09-14,Falkirk_Aberdeen_2009,Falkirk,2,2,4,5
+2009-09-15,Hearts_Kilmarnock_2009,Hearts,2,2,4,6
+2009-09-15,Hearts_Kilmarnock_2009,Kilmarnock,2,2,4,6
+2009-09-19,Aberdeen_St Mirren_2009,St Mirren,2,3,5,6
+2009-09-19,Hamilton_Falkirk_2009,Falkirk,2,3,5,6
+2009-09-19,Hibernian_St Johnstone_2009,St Johnstone,2,3,5,6
+2009-09-19,Dundee United_Motherwell_2009,Dundee United,3,2,5,6
+2009-09-19,Hamilton_Falkirk_2009,Hamilton,3,2,5,6
+2009-09-19,Kilmarnock_Rangers_2009,Kilmarnock,3,2,5,6
+2009-09-19,Hibernian_St Johnstone_2009,Hibernian,3,2,5,6
+2009-09-19,Kilmarnock_Rangers_2009,Rangers,2,3,5,6
+2009-09-19,Aberdeen_St Mirren_2009,Aberdeen,3,2,5,6
+2009-09-19,Dundee United_Motherwell_2009,Motherwell,2,3,5,6
+2009-09-20,Celtic_Hearts_2009,Hearts,2,3,5,6
+2009-09-20,Celtic_Hearts_2009,Celtic,3,2,5,6
+2009-09-26,Rangers_Aberdeen_2009,Aberdeen,3,3,6,7
+2009-09-26,St Mirren_Celtic_2009,St Mirren,3,3,6,7
+2009-09-26,Hearts_Hamilton_2009,Hearts,3,3,6,7
+2009-09-26,Rangers_Aberdeen_2009,Rangers,3,3,6,7
+2009-09-26,Motherwell_Hibernian_2009,Hibernian,3,3,6,7
+2009-09-26,St Johnstone_Dundee United_2009,St Johnstone,3,3,6,7
+2009-09-26,St Mirren_Celtic_2009,Celtic,3,3,6,7
+2009-09-26,Falkirk_Kilmarnock_2009,Falkirk,3,3,6,7
+2009-09-26,St Johnstone_Dundee United_2009,Dundee United,3,3,6,7
+2009-09-26,Falkirk_Kilmarnock_2009,Kilmarnock,3,3,6,7
+2009-09-26,Motherwell_Hibernian_2009,Motherwell,3,3,6,7
+2009-09-26,Hearts_Hamilton_2009,Hamilton,3,3,6,7
+2009-10-03,St Mirren_Hearts_2009,St Mirren,4,3,7,8
+2009-10-03,Motherwell_Falkirk_2009,Falkirk,3,4,7,8
+2009-10-03,Hamilton_St Johnstone_2009,Hamilton,4,3,7,8
+2009-10-03,Hibernian_Dundee United_2009,Hibernian,4,3,7,8
+2009-10-03,Hibernian_Dundee United_2009,Dundee United,3,4,7,8
+2009-10-03,Kilmarnock_Aberdeen_2009,Kilmarnock,4,3,7,8
+2009-10-03,Motherwell_Falkirk_2009,Motherwell,4,3,7,8
+2009-10-03,Hamilton_St Johnstone_2009,St Johnstone,3,4,7,8
+2009-10-03,St Mirren_Hearts_2009,Hearts,3,4,7,8
+2009-10-03,Kilmarnock_Aberdeen_2009,Aberdeen,3,4,7,8
+2009-10-04,Rangers_Celtic_2009,Celtic,3,4,7,8
+2009-10-04,Rangers_Celtic_2009,Rangers,4,3,7,8
+2009-10-17,Aberdeen_Hearts_2009,Aberdeen,4,4,8,10
+2009-10-17,Dundee United_Hamilton_2009,Hamilton,4,4,8,10
+2009-10-17,Aberdeen_Hearts_2009,Hearts,3,5,8,10
+2009-10-17,St Johnstone_Rangers_2009,St Johnstone,4,4,8,10
+2009-10-17,Hibernian_Kilmarnock_2009,Hibernian,5,3,8,10
+2009-10-17,Celtic_Motherwell_2009,Celtic,4,4,8,10
+2009-10-17,Dundee United_Hamilton_2009,Dundee United,4,4,8,10
+2009-10-17,Celtic_Motherwell_2009,Motherwell,4,4,8,10
+2009-10-17,St Johnstone_Rangers_2009,Rangers,4,4,8,10
+2009-10-17,Falkirk_St Mirren_2009,Falkirk,4,4,8,10
+2009-10-17,Falkirk_St Mirren_2009,St Mirren,4,4,8,10
+2009-10-17,Hibernian_Kilmarnock_2009,Kilmarnock,4,4,8,10
+2009-10-24,St Mirren_Motherwell_2009,St Mirren,5,4,9,11
+2009-10-24,Kilmarnock_St Johnstone_2009,Kilmarnock,5,4,9,11
+2009-10-24,Aberdeen_Dundee United_2009,Dundee United,4,5,9,11
+2009-10-24,Hearts_Falkirk_2009,Falkirk,4,5,9,11
+2009-10-24,Rangers_Hibernian_2009,Hibernian,5,4,9,11
+2009-10-24,St Mirren_Motherwell_2009,Motherwell,4,5,9,11
+2009-10-24,Rangers_Hibernian_2009,Rangers,5,4,9,11
+2009-10-24,Hearts_Falkirk_2009,Hearts,4,5,9,11
+2009-10-24,Kilmarnock_St Johnstone_2009,St Johnstone,4,5,9,11
+2009-10-24,Aberdeen_Dundee United_2009,Aberdeen,5,4,9,11
+2009-10-25,Hamilton_Celtic_2009,Celtic,4,5,9,11
+2009-10-25,Hamilton_Celtic_2009,Hamilton,5,4,9,11
+2009-10-31,St Mirren_Hamilton_2009,St Mirren,6,4,10,12
+2009-10-31,Hibernian_Aberdeen_2009,Aberdeen,5,5,10,12
+2009-10-31,Motherwell_Hearts_2009,Motherwell,5,5,10,12
+2009-10-31,St Johnstone_Falkirk_2009,St Johnstone,5,5,10,12
+2009-10-31,Celtic_Kilmarnock_2009,Celtic,5,5,10,12
+2009-10-31,St Johnstone_Falkirk_2009,Falkirk,4,6,10,12
+2009-10-31,St Mirren_Hamilton_2009,Hamilton,5,5,10,12
+2009-10-31,Celtic_Kilmarnock_2009,Kilmarnock,5,5,10,12
+2009-10-31,Hibernian_Aberdeen_2009,Hibernian,6,4,10,12
+2009-10-31,Motherwell_Hearts_2009,Hearts,4,6,10,12
+2009-11-07,Rangers_St Mirren_2009,St Mirren,6,5,11,13
+2009-11-07,Hamilton_Motherwell_2009,Hamilton,6,5,11,13
+2009-11-07,Hearts_Hibernian_2009,Hibernian,6,5,11,13
+2009-11-07,Hamilton_Motherwell_2009,Motherwell,5,6,11,13
+2009-11-07,Hearts_Hibernian_2009,Hearts,5,6,11,13
+2009-11-07,Kilmarnock_Dundee United_2009,Kilmarnock,6,5,11,13
+2009-11-07,Rangers_St Mirren_2009,Rangers,6,4,10,13
+2009-11-07,Aberdeen_St Johnstone_2009,Aberdeen,6,5,11,13
+2009-11-07,Kilmarnock_Dundee United_2009,Dundee United,4,6,10,13
+2009-11-07,Aberdeen_St Johnstone_2009,St Johnstone,5,6,11,13
+2009-11-08,Falkirk_Celtic_2009,Falkirk,5,6,11,13
+2009-11-08,Falkirk_Celtic_2009,Celtic,5,6,11,13
+2009-11-21,St Mirren_Hibernian_2009,St Mirren,7,5,12,15
+2009-11-21,Motherwell_Aberdeen_2009,Aberdeen,6,6,12,15
+2009-11-21,Hearts_St Johnstone_2009,Hearts,6,6,12,15
+2009-11-21,Hearts_St Johnstone_2009,St Johnstone,5,7,12,15
+2009-11-21,Rangers_Kilmarnock_2009,Kilmarnock,6,6,12,15
+2009-11-21,Rangers_Kilmarnock_2009,Rangers,7,4,11,15
+2009-11-21,St Mirren_Hibernian_2009,Hibernian,6,6,12,15
+2009-11-21,Falkirk_Hamilton_2009,Hamilton,6,6,12,15
+2009-11-21,Falkirk_Hamilton_2009,Falkirk,6,6,12,15
+2009-11-21,Motherwell_Aberdeen_2009,Motherwell,6,6,12,15
+2009-11-22,Dundee United_Celtic_2009,Dundee United,5,6,11,15
+2009-11-22,Dundee United_Celtic_2009,Celtic,5,7,12,15
+2009-11-28,Motherwell_Dundee United_2009,Motherwell,7,6,13,16
+2009-11-28,Celtic_St Mirren_2009,St Mirren,7,6,13,16
+2009-11-28,Celtic_St Mirren_2009,Celtic,6,7,13,16
+2009-11-28,St Johnstone_Hamilton_2009,St Johnstone,6,7,13,16
+2009-11-28,Hibernian_Falkirk_2009,Falkirk,6,7,13,16
+2009-11-28,Aberdeen_Rangers_2009,Rangers,7,5,12,16
+2009-11-28,Motherwell_Dundee United_2009,Dundee United,5,7,12,16
+2009-11-28,Kilmarnock_Hearts_2009,Hearts,6,7,13,16
+2009-11-28,Hibernian_Falkirk_2009,Hibernian,7,6,13,16
+2009-11-28,Aberdeen_Rangers_2009,Aberdeen,7,6,13,16
+2009-11-28,Kilmarnock_Hearts_2009,Kilmarnock,7,6,13,16
+2009-11-28,St Johnstone_Hamilton_2009,Hamilton,6,7,13,16
+2009-12-05,Celtic_Aberdeen_2009,Celtic,7,7,14,17
+2009-12-05,Hibernian_Motherwell_2009,Hibernian,8,6,14,17
+2009-12-05,St Johnstone_Kilmarnock_2009,Kilmarnock,7,7,14,17
+2009-12-05,Falkirk_Rangers_2009,Falkirk,7,7,14,17
+2009-12-05,Celtic_Aberdeen_2009,Aberdeen,7,7,14,17
+2009-12-05,Dundee United_St Mirren_2009,St Mirren,7,7,14,17
+2009-12-05,Dundee United_St Mirren_2009,Dundee United,6,7,13,17
+2009-12-05,Falkirk_Rangers_2009,Rangers,7,6,13,17
+2009-12-05,St Johnstone_Kilmarnock_2009,St Johnstone,7,7,14,17
+2009-12-05,Hibernian_Motherwell_2009,Motherwell,7,7,14,17
+2009-12-06,Hamilton_Hearts_2009,Hamilton,7,7,14,17
+2009-12-06,Hamilton_Hearts_2009,Hearts,6,8,14,17
+2009-12-12,Kilmarnock_Hibernian_2009,Kilmarnock,8,7,15,18
+2009-12-12,St Mirren_Falkirk_2009,St Mirren,8,7,15,18
+2009-12-12,Kilmarnock_Hibernian_2009,Hibernian,8,7,15,18
+2009-12-12,Aberdeen_Hamilton_2009,Aberdeen,8,7,15,18
+2009-12-12,Aberdeen_Hamilton_2009,Hamilton,7,8,15,18
+2009-12-12,Hearts_Dundee United_2009,Hearts,7,8,15,18
+2009-12-12,Motherwell_Celtic_2009,Celtic,7,8,15,18
+2009-12-12,Rangers_St Johnstone_2009,St Johnstone,7,8,15,18
+2009-12-12,St Mirren_Falkirk_2009,Falkirk,7,8,15,18
+2009-12-12,Rangers_St Johnstone_2009,Rangers,8,6,14,18
+2009-12-12,Hearts_Dundee United_2009,Dundee United,6,8,14,18
+2009-12-12,Motherwell_Celtic_2009,Motherwell,8,7,15,18
+2009-12-15,Dundee United_Rangers_2009,Dundee United,7,8,15,19
+2009-12-15,Dundee United_Rangers_2009,Rangers,8,7,15,19
+2009-12-19,St Johnstone_St Mirren_2009,St Mirren,8,8,16,19
+2009-12-19,Rangers_Motherwell_2009,Rangers,9,7,16,19
+2009-12-19,Rangers_Motherwell_2009,Motherwell,8,8,16,19
+2009-12-19,Aberdeen_Hibernian_2009,Aberdeen,9,7,16,19
+2009-12-19,Kilmarnock_Falkirk_2009,Kilmarnock,9,7,16,19
+2009-12-19,Kilmarnock_Falkirk_2009,Falkirk,7,9,16,19
+2009-12-19,St Johnstone_St Mirren_2009,St Johnstone,8,8,16,19
+2009-12-19,Aberdeen_Hibernian_2009,Hibernian,8,8,16,19
+2009-12-20,Hearts_Celtic_2009,Hearts,8,8,16,19
+2009-12-20,Hearts_Celtic_2009,Celtic,7,9,16,19
+2009-12-26,Celtic_Hamilton_2009,Celtic,8,9,17,20
+2009-12-26,Falkirk_Hearts_2009,Hearts,8,9,17,20
+2009-12-26,Dundee United_Kilmarnock_2009,Dundee United,8,8,16,20
+2009-12-26,Celtic_Hamilton_2009,Hamilton,7,9,16,20
+2009-12-26,Motherwell_St Johnstone_2009,Motherwell,9,8,17,20
+2009-12-26,Dundee United_Kilmarnock_2009,Kilmarnock,9,8,17,20
+2009-12-26,Falkirk_Hearts_2009,Falkirk,8,9,17,20
+2009-12-26,Motherwell_St Johnstone_2009,St Johnstone,8,9,17,20
+2009-12-27,Hibernian_Rangers_2009,Hibernian,9,8,17,20
+2009-12-27,Hibernian_Rangers_2009,Rangers,9,8,17,20
+2009-12-30,Hearts_Motherwell_2009,Motherwell,9,9,18,21
+2009-12-30,Hearts_Motherwell_2009,Hearts,9,9,18,21
+2009-12-30,Rangers_Dundee United_2009,Rangers,10,8,18,21
+2009-12-30,Rangers_Dundee United_2009,Dundee United,8,9,17,21
+2010-01-02,Dundee United_Aberdeen_2009,Aberdeen,9,8,17,21
+2010-01-02,Dundee United_Aberdeen_2009,Dundee United,9,9,18,21
+2010-01-02,St Mirren_Kilmarnock_2009,Kilmarnock,9,9,18,21
+2010-01-02,St Mirren_Kilmarnock_2009,St Mirren,9,8,17,21
+2010-01-03,Celtic_Rangers_2009,Celtic,9,9,18,21
+2010-01-03,Hibernian_Hearts_2009,Hearts,9,10,19,21
+2010-01-03,Celtic_Rangers_2009,Rangers,10,9,19,21
+2010-01-03,Hibernian_Hearts_2009,Hibernian,10,8,18,21
+2010-01-12,St Mirren_Aberdeen_2009,Aberdeen,9,9,18,23
+2010-01-12,St Mirren_Aberdeen_2009,St Mirren,10,8,18,23
+2010-01-13,Hamilton_Dundee United_2009,Hamilton,8,9,17,23
+2010-01-13,Hamilton_Dundee United_2009,Dundee United,9,10,19,23
+2010-01-16,Hearts_St Mirren_2009,St Mirren,10,9,19,23
+2010-01-16,Celtic_Falkirk_2009,Celtic,10,9,19,23
+2010-01-16,Hamilton_Rangers_2009,Hamilton,9,9,18,23
+2010-01-16,Dundee United_Hibernian_2009,Dundee United,10,10,20,23
+2010-01-16,Kilmarnock_Motherwell_2009,Motherwell,9,10,19,23
+2010-01-16,Celtic_Falkirk_2009,Falkirk,8,10,18,23
+2010-01-16,Dundee United_Hibernian_2009,Hibernian,10,9,19,23
+2010-01-16,Kilmarnock_Motherwell_2009,Kilmarnock,10,9,19,23
+2010-01-16,Hamilton_Rangers_2009,Rangers,10,10,20,23
+2010-01-16,Hearts_St Mirren_2009,Hearts,10,10,20,23
+2010-01-23,Motherwell_St Mirren_2009,St Mirren,10,10,20,24
+2010-01-23,Motherwell_St Mirren_2009,Motherwell,10,10,20,24
+2010-01-23,Aberdeen_Kilmarnock_2009,Aberdeen,10,9,19,24
+2010-01-23,Rangers_Hearts_2009,Hearts,10,11,21,24
+2010-01-23,Rangers_Hearts_2009,Rangers,11,10,21,24
+2010-01-23,Aberdeen_Kilmarnock_2009,Kilmarnock,10,10,20,24
+2010-01-23,Hibernian_Hamilton_2009,Hibernian,11,9,20,24
+2010-01-23,Hibernian_Hamilton_2009,Hamilton,9,10,19,24
+2010-01-24,St Johnstone_Celtic_2009,St Johnstone,9,9,18,24
+2010-01-24,St Johnstone_Celtic_2009,Celtic,10,10,20,24
+2010-01-24,Falkirk_Dundee United_2009,Dundee United,10,11,21,24
+2010-01-24,Falkirk_Dundee United_2009,Falkirk,9,10,19,24
+2010-01-26,Hamilton_Kilmarnock_2009,Kilmarnock,10,11,21,25
+2010-01-26,Hamilton_Kilmarnock_2009,Hamilton,10,10,20,25
+2010-01-27,St Mirren_Rangers_2009,St Mirren,11,10,21,25
+2010-01-27,St Mirren_Rangers_2009,Rangers,11,11,22,25
+2010-01-27,Dundee United_St Johnstone_2009,St Johnstone,9,10,19,25
+2010-01-27,Celtic_Hibernian_2009,Hibernian,11,10,21,25
+2010-01-27,Hearts_Aberdeen_2009,Hearts,11,11,22,25
+2010-01-27,Falkirk_Motherwell_2009,Motherwell,10,11,21,25
+2010-01-27,Falkirk_Motherwell_2009,Falkirk,10,10,20,25
+2010-01-27,Dundee United_St Johnstone_2009,Dundee United,11,11,22,25
+2010-01-27,Hearts_Aberdeen_2009,Aberdeen,10,10,20,25
+2010-01-27,Celtic_Hibernian_2009,Celtic,11,10,21,25
+2010-01-30,Hibernian_St Mirren_2009,Hibernian,12,10,22,25
+2010-01-30,Hibernian_St Mirren_2009,St Mirren,11,11,22,25
+2010-01-30,Rangers_Falkirk_2009,Rangers,12,11,23,25
+2010-01-30,St Johnstone_Hearts_2009,St Johnstone,10,10,20,25
+2010-01-30,Kilmarnock_Dundee United_2009,Kilmarnock,11,11,22,25
+2010-01-30,Kilmarnock_Dundee United_2009,Dundee United,11,12,23,25
+2010-01-30,Hamilton_Celtic_2009,Hamilton,11,10,21,25
+2010-01-30,Hamilton_Celtic_2009,Celtic,11,11,22,25
+2010-01-30,Aberdeen_Motherwell_2009,Motherwell,10,12,22,25
+2010-01-30,Rangers_Falkirk_2009,Falkirk,10,11,21,25
+2010-01-30,St Johnstone_Hearts_2009,Hearts,11,12,23,25
+2010-01-30,Aberdeen_Motherwell_2009,Aberdeen,11,10,21,25
+2010-02-02,Aberdeen_Falkirk_2009,Falkirk,10,12,22,26
+2010-02-02,Aberdeen_Falkirk_2009,Aberdeen,12,10,22,26
+2010-02-02,Kilmarnock_Celtic_2009,Kilmarnock,12,11,23,26
+2010-02-02,Kilmarnock_Celtic_2009,Celtic,11,12,23,26
+2010-02-06,Motherwell_Hamilton_2009,Hamilton,11,11,22,26
+2010-02-06,Motherwell_Hamilton_2009,Motherwell,11,12,23,26
+2010-02-10,Motherwell_Rangers_2009,Motherwell,12,12,24,27
+2010-02-10,Hibernian_Aberdeen_2009,Hibernian,13,10,23,27
+2010-02-10,Falkirk_Kilmarnock_2009,Kilmarnock,12,12,24,27
+2010-02-10,Celtic_Hearts_2009,Hearts,11,13,24,27
+2010-02-10,Falkirk_Kilmarnock_2009,Falkirk,11,12,23,27
+2010-02-10,Hibernian_Aberdeen_2009,Aberdeen,12,11,23,27
+2010-02-10,Dundee United_Hamilton_2009,Hamilton,11,12,23,27
+2010-02-10,Celtic_Hearts_2009,Celtic,12,12,24,27
+2010-02-10,Dundee United_Hamilton_2009,Dundee United,12,12,24,27
+2010-02-10,Motherwell_Rangers_2009,Rangers,12,12,24,27
+2010-02-10,St Mirren_St Johnstone_2009,St Johnstone,10,11,21,27
+2010-02-10,St Mirren_St Johnstone_2009,St Mirren,12,11,23,27
+2010-02-13,Hearts_Falkirk_2009,Falkirk,11,13,24,27
+2010-02-13,Aberdeen_Celtic_2009,Celtic,12,13,25,27
+2010-02-13,Hamilton_Motherwell_2009,Hamilton,12,12,24,27
+2010-02-13,Hearts_Falkirk_2009,Hearts,12,13,25,27
+2010-02-13,St Mirren_Dundee United_2009,Dundee United,12,13,25,27
+2010-02-13,Hamilton_Motherwell_2009,Motherwell,12,13,25,27
+2010-02-13,St Mirren_Dundee United_2009,St Mirren,13,11,24,27
+2010-02-13,Aberdeen_Celtic_2009,Aberdeen,13,11,24,27
+2010-02-13,Kilmarnock_St Johnstone_2009,Kilmarnock,13,12,25,27
+2010-02-13,Kilmarnock_St Johnstone_2009,St Johnstone,10,12,22,27
+2010-02-14,Rangers_Hibernian_2009,Rangers,13,12,25,27
+2010-02-14,Rangers_Hibernian_2009,Hibernian,13,11,24,27
+2010-02-17,St Johnstone_Hibernian_2009,St Johnstone,11,12,23,28
+2010-02-17,St Johnstone_Hibernian_2009,Hibernian,13,12,25,28
+2010-02-20,Falkirk_Aberdeen_2009,Aberdeen,13,12,25,28
+2010-02-20,Falkirk_Aberdeen_2009,Falkirk,12,13,25,28
+2010-02-20,Celtic_Dundee United_2009,Celtic,13,13,26,28
+2010-02-20,Celtic_Dundee United_2009,Dundee United,12,14,26,28
+2010-02-20,Kilmarnock_St Mirren_2009,Kilmarnock,14,12,26,28
+2010-02-20,Motherwell_Hibernian_2009,Motherwell,13,13,26,28
+2010-02-20,Kilmarnock_St Mirren_2009,St Mirren,13,12,25,28
+2010-02-20,Motherwell_Hibernian_2009,Hibernian,13,13,26,28
+2010-02-21,Hearts_Hamilton_2009,Hearts,13,13,26,28
+2010-02-21,Hearts_Hamilton_2009,Hamilton,12,13,25,28
+2010-02-27,Hibernian_St Johnstone_2009,St Johnstone,11,13,24,29
+2010-02-27,Hibernian_St Johnstone_2009,Hibernian,14,13,27,29
+2010-02-27,Motherwell_Kilmarnock_2009,Kilmarnock,14,13,27,29
+2010-02-27,Dundee United_Falkirk_2009,Dundee United,13,14,27,29
+2010-02-27,St Mirren_Hamilton_2009,Hamilton,12,14,26,29
+2010-02-27,Motherwell_Kilmarnock_2009,Motherwell,14,13,27,29
+2010-02-27,Dundee United_Falkirk_2009,Falkirk,12,14,26,29
+2010-02-27,St Mirren_Hamilton_2009,St Mirren,14,12,26,29
+2010-02-27,Aberdeen_Hearts_2009,Hearts,13,14,27,29
+2010-02-27,Aberdeen_Hearts_2009,Aberdeen,14,12,26,29
+2010-02-28,Rangers_Celtic_2009,Celtic,13,14,27,29
+2010-02-28,Rangers_Celtic_2009,Rangers,14,12,26,29
+2010-03-06,Rangers_St Mirren_2009,St Mirren,14,13,27,30
+2010-03-06,St Johnstone_Motherwell_2009,St Johnstone,12,13,25,30
+2010-03-06,Hamilton_Aberdeen_2009,Aberdeen,14,13,27,30
+2010-03-06,Hamilton_Aberdeen_2009,Hamilton,13,14,27,30
+2010-03-06,Hibernian_Kilmarnock_2009,Hibernian,15,13,28,30
+2010-03-06,Rangers_St Mirren_2009,Rangers,15,12,27,30
+2010-03-06,Hibernian_Kilmarnock_2009,Kilmarnock,14,14,28,30
+2010-03-06,St Johnstone_Motherwell_2009,Motherwell,14,14,28,30
+2010-03-07,Dundee United_Hearts_2009,Hearts,13,15,28,30
+2010-03-07,Dundee United_Hearts_2009,Dundee United,14,14,28,30
+2010-03-07,Falkirk_Celtic_2009,Celtic,13,15,28,30
+2010-03-07,Falkirk_Celtic_2009,Falkirk,13,14,27,30
+2010-03-09,St Mirren_Motherwell_2009,St Mirren,15,13,28,31
+2010-03-09,Kilmarnock_Rangers_2009,Rangers,15,13,28,31
+2010-03-09,St Mirren_Motherwell_2009,Motherwell,14,15,29,31
+2010-03-09,Kilmarnock_Rangers_2009,Kilmarnock,15,14,29,31
+2010-03-13,Hamilton_St Mirren_2009,St Mirren,15,14,29,31
+2010-03-13,Motherwell_Hearts_2009,Motherwell,15,15,30,31
+2010-03-13,Hamilton_St Mirren_2009,Hamilton,14,14,28,31
+2010-03-13,Falkirk_St Johnstone_2009,Falkirk,14,14,28,31
+2010-03-13,Motherwell_Hearts_2009,Hearts,13,16,29,31
+2010-03-13,Falkirk_St Johnstone_2009,St Johnstone,12,14,26,31
+2010-03-16,St Johnstone_Aberdeen_2009,Aberdeen,14,14,28,32
+2010-03-16,St Johnstone_Aberdeen_2009,St Johnstone,13,14,27,32
+2010-03-20,Aberdeen_Dundee United_2009,Aberdeen,15,14,29,32
+2010-03-20,Celtic_St Johnstone_2009,St Johnstone,13,15,28,32
+2010-03-20,Hearts_Hibernian_2009,Hearts,14,16,30,32
+2010-03-20,Hamilton_Falkirk_2009,Falkirk,14,15,29,32
+2010-03-20,Celtic_St Johnstone_2009,Celtic,14,15,29,32
+2010-03-20,Hearts_Hibernian_2009,Hibernian,15,14,29,32
+2010-03-20,Hamilton_Falkirk_2009,Hamilton,15,14,29,32
+2010-03-20,Aberdeen_Dundee United_2009,Dundee United,14,15,29,32
+2010-03-23,St Johnstone_Falkirk_2009,Falkirk,14,16,30,33
+2010-03-23,St Johnstone_Falkirk_2009,St Johnstone,14,15,29,33
+2010-03-24,St Mirren_Celtic_2009,Celtic,14,16,30,33
+2010-03-24,Kilmarnock_Hamilton_2009,Kilmarnock,16,14,30,33
+2010-03-24,Kilmarnock_Hamilton_2009,Hamilton,15,15,30,33
+2010-03-24,St Mirren_Celtic_2009,St Mirren,16,14,30,33
+2010-03-27,Hearts_Rangers_2009,Rangers,15,14,29,33
+2010-03-27,Celtic_Kilmarnock_2009,Kilmarnock,16,15,31,33
+2010-03-27,Aberdeen_St Mirren_2009,Aberdeen,16,14,30,33
+2010-03-27,Dundee United_Motherwell_2009,Dundee United,15,15,30,33
+2010-03-27,Celtic_Kilmarnock_2009,Celtic,15,16,31,33
+2010-03-27,Dundee United_Motherwell_2009,Motherwell,15,16,31,33
+2010-03-27,Hearts_Rangers_2009,Hearts,15,16,31,33
+2010-03-27,Hamilton_St Johnstone_2009,Hamilton,16,15,31,33
+2010-03-27,Falkirk_Hibernian_2009,Falkirk,15,16,31,33
+2010-03-27,Hamilton_St Johnstone_2009,St Johnstone,14,16,30,33
+2010-03-27,Falkirk_Hibernian_2009,Hibernian,15,15,30,33
+2010-03-27,Aberdeen_St Mirren_2009,St Mirren,16,15,31,33
+2010-03-30,St Johnstone_Rangers_2009,Rangers,15,15,30,34
+2010-03-30,St Johnstone_Rangers_2009,St Johnstone,15,16,31,34
+2010-03-31,Hibernian_Dundee United_2009,Hibernian,16,15,31,34
+2010-03-31,Hibernian_Dundee United_2009,Dundee United,15,16,31,34
+2010-04-03,Rangers_Hamilton_2009,Hamilton,16,16,32,34
+2010-04-03,Motherwell_Falkirk_2009,Motherwell,16,16,32,34
+2010-04-03,Rangers_Hamilton_2009,Rangers,16,15,31,34
+2010-04-03,St Mirren_Hearts_2009,Hearts,15,17,32,34
+2010-04-03,St Mirren_Hearts_2009,St Mirren,17,15,32,34
+2010-04-03,Motherwell_Falkirk_2009,Falkirk,15,17,32,34
+2010-04-04,Hibernian_Celtic_2009,Celtic,15,17,32,34
+2010-04-04,Kilmarnock_Aberdeen_2009,Kilmarnock,17,15,32,34
+2010-04-04,Kilmarnock_Aberdeen_2009,Aberdeen,16,15,31,34
+2010-04-04,Hibernian_Celtic_2009,Hibernian,17,15,32,34
+2010-04-05,St Johnstone_Dundee United_2009,St Johnstone,16,16,32,34
+2010-04-05,St Johnstone_Dundee United_2009,Dundee United,15,17,32,34
+2010-04-07,Rangers_Aberdeen_2009,Rangers,17,15,32,35
+2010-04-07,Rangers_Aberdeen_2009,Aberdeen,16,16,32,35
+2010-04-10,Falkirk_St Mirren_2009,St Mirren,17,16,33,35
+2010-04-10,Hearts_Kilmarnock_2009,Kilmarnock,17,16,33,35
+2010-04-10,Hamilton_Hibernian_2009,Hamilton,17,16,33,35
+2010-04-10,Hamilton_Hibernian_2009,Hibernian,17,16,33,35
+2010-04-10,Hearts_Kilmarnock_2009,Hearts,16,17,33,35
+2010-04-10,Falkirk_St Mirren_2009,Falkirk,16,17,33,35
+2010-04-11,Aberdeen_St Johnstone_2009,St Johnstone,16,17,33,35
+2010-04-11,Aberdeen_St Johnstone_2009,Aberdeen,17,16,33,35
+2010-04-13,Celtic_Motherwell_2009,Motherwell,16,17,33,36
+2010-04-13,Celtic_Motherwell_2009,Celtic,16,17,33,36
+2010-04-14,Dundee United_Rangers_2009,Rangers,17,16,33,36
+2010-04-14,Dundee United_Rangers_2009,Dundee United,16,17,33,36
+2010-04-17,St Johnstone_St Mirren_2009,St Mirren,17,17,34,36
+2010-04-17,Hamilton_Kilmarnock_2009,Hamilton,18,16,34,36
+2010-04-17,Aberdeen_Falkirk_2009,Aberdeen,18,16,34,36
+2010-04-17,Aberdeen_Falkirk_2009,Falkirk,16,18,34,36
+2010-04-17,Celtic_Hibernian_2009,Hibernian,17,17,34,36
+2010-04-17,Hamilton_Kilmarnock_2009,Kilmarnock,17,17,34,36
+2010-04-17,St Johnstone_St Mirren_2009,St Johnstone,17,17,34,36
+2010-04-17,Celtic_Hibernian_2009,Celtic,17,17,34,36
+2010-04-18,Rangers_Hearts_2009,Hearts,16,18,34,36
+2010-04-18,Motherwell_Dundee United_2009,Motherwell,17,17,34,36
+2010-04-18,Motherwell_Dundee United_2009,Dundee United,16,18,34,36
+2010-04-18,Rangers_Hearts_2009,Rangers,18,16,34,36
+2010-04-24,St Johnstone_Aberdeen_2009,Aberdeen,18,17,35,37
+2010-04-24,Hearts_Motherwell_2009,Hearts,17,18,35,37
+2010-04-24,Hearts_Motherwell_2009,Motherwell,17,18,35,37
+2010-04-24,Falkirk_Hamilton_2009,Falkirk,17,18,35,37
+2010-04-24,St Johnstone_Aberdeen_2009,St Johnstone,18,17,35,37
+2010-04-24,St Mirren_Kilmarnock_2009,St Mirren,18,17,35,37
+2010-04-24,St Mirren_Kilmarnock_2009,Kilmarnock,17,18,35,37
+2010-04-24,Falkirk_Hamilton_2009,Hamilton,18,17,35,37
+2010-04-25,Hibernian_Rangers_2009,Rangers,18,17,35,37
+2010-04-25,Hibernian_Rangers_2009,Hibernian,18,17,35,37
+2010-04-25,Dundee United_Celtic_2009,Celtic,17,18,35,37
+2010-04-25,Dundee United_Celtic_2009,Dundee United,17,18,35,37
+2010-05-01,Falkirk_St Mirren_2009,Falkirk,18,18,36,38
+2010-05-01,Aberdeen_Hamilton_2009,Hamilton,18,18,36,38
+2010-05-01,Dundee United_Rangers_2009,Dundee United,18,18,36,38
+2010-05-01,Celtic_Motherwell_2009,Motherwell,17,19,36,38
+2010-05-01,Aberdeen_Hamilton_2009,Aberdeen,19,17,36,38
+2010-05-01,Celtic_Motherwell_2009,Celtic,18,18,36,38
+2010-05-01,Dundee United_Rangers_2009,Rangers,18,18,36,38
+2010-05-01,Kilmarnock_St Johnstone_2009,Kilmarnock,18,18,36,38
+2010-05-01,Hibernian_Hearts_2009,Hibernian,19,17,36,38
+2010-05-01,Kilmarnock_St Johnstone_2009,St Johnstone,18,18,36,38
+2010-05-01,Falkirk_St Mirren_2009,St Mirren,18,18,36,38
+2010-05-01,Hibernian_Hearts_2009,Hearts,17,19,36,38
+2010-05-04,Celtic_Rangers_2009,Celtic,19,18,37,39
+2010-05-04,Celtic_Rangers_2009,Rangers,18,19,37,39
+2010-05-05,Motherwell_Hibernian_2009,Hibernian,19,18,37,39
+2010-05-05,Aberdeen_Kilmarnock_2009,Aberdeen,20,17,37,39
+2010-05-05,Falkirk_St Johnstone_2009,Falkirk,19,18,37,39
+2010-05-05,Falkirk_St Johnstone_2009,St Johnstone,18,19,37,39
+2010-05-05,Hamilton_St Mirren_2009,St Mirren,18,19,37,39
+2010-05-05,Hearts_Dundee United_2009,Hearts,18,19,37,39
+2010-05-05,Aberdeen_Kilmarnock_2009,Kilmarnock,18,19,37,39
+2010-05-05,Motherwell_Hibernian_2009,Motherwell,18,19,37,39
+2010-05-05,Hamilton_St Mirren_2009,Hamilton,19,18,37,39
+2010-05-05,Hearts_Dundee United_2009,Dundee United,18,19,37,39
+2010-05-08,St Mirren_Aberdeen_2009,St Mirren,19,19,38,39
+2010-05-08,St Johnstone_Hamilton_2009,St Johnstone,19,19,38,39
+2010-05-08,Kilmarnock_Falkirk_2009,Kilmarnock,19,19,38,39
+2010-05-08,Kilmarnock_Falkirk_2009,Falkirk,19,19,38,39
+2010-05-08,St Mirren_Aberdeen_2009,Aberdeen,20,18,38,39
+2010-05-08,St Johnstone_Hamilton_2009,Hamilton,19,19,38,39
+2010-05-09,Rangers_Motherwell_2009,Motherwell,18,20,38,39
+2010-05-09,Dundee United_Hibernian_2009,Hibernian,19,19,38,39
+2010-05-09,Hearts_Celtic_2009,Celtic,19,19,38,39
+2010-05-09,Hearts_Celtic_2009,Hearts,19,19,38,39
+2010-05-09,Dundee United_Hibernian_2009,Dundee United,19,19,38,39
+2010-05-09,Rangers_Motherwell_2009,Rangers,19,19,38,39

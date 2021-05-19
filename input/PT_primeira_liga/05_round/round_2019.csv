@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2019-08-09,Portimonense_Belenenses_2019,Belenenses,1,1,1,1
+2019-08-09,Portimonense_Belenenses_2019,Portimonense,1,1,1,1
+2019-08-10,Benfica_Pacos Ferreira_2019,Benfica,1,1,1,1
+2019-08-10,Benfica_Pacos Ferreira_2019,Pacos Ferreira,1,1,1,1
+2019-08-10,Santa Clara_Famalicao_2019,Santa Clara,1,1,1,1
+2019-08-10,Gil Vicente_Porto_2019,Gil Vicente,1,1,1,1
+2019-08-10,Santa Clara_Famalicao_2019,Famalicao,1,1,1,1
+2019-08-10,Gil Vicente_Porto_2019,Porto,1,1,1,1
+2019-08-11,Sp Braga_Moreirense_2019,Moreirense,1,1,1,1
+2019-08-11,Boavista_Aves_2019,Boavista,1,1,1,1
+2019-08-11,Maritimo_Sp Lisbon_2019,Sp Lisbon,1,1,1,1
+2019-08-11,Boavista_Aves_2019,Aves,1,1,1,1
+2019-08-11,Sp Braga_Moreirense_2019,Sp Braga,1,1,1,1
+2019-08-11,Maritimo_Sp Lisbon_2019,Maritimo,1,1,1,1
+2019-08-12,Setubal_Tondela_2019,Tondela,1,1,1,1
+2019-08-12,Setubal_Tondela_2019,Setubal,1,1,1,1
+2019-08-16,Famalicao_Rio Ave_2019,Famalicao,1,1,2,2
+2019-08-16,Famalicao_Rio Ave_2019,Rio Ave,1,1,1,2
+2019-08-17,Porto_Setubal_2019,Porto,1,1,2,2
+2019-08-17,Belenenses_Benfica_2019,Belenenses,1,1,2,2
+2019-08-17,Moreirense_Gil Vicente_2019,Gil Vicente,1,1,2,2
+2019-08-17,Belenenses_Benfica_2019,Benfica,1,1,2,2
+2019-08-17,Porto_Setubal_2019,Setubal,1,1,2,2
+2019-08-17,Moreirense_Gil Vicente_2019,Moreirense,1,1,2,2
+2019-08-18,Pacos Ferreira_Santa Clara_2019,Pacos Ferreira,1,1,2,2
+2019-08-18,Aves_Maritimo_2019,Maritimo,1,1,2,2
+2019-08-18,Sp Lisbon_Sp Braga_2019,Sp Lisbon,1,1,2,2
+2019-08-18,Guimaraes_Boavista_2019,Boavista,1,1,2,2
+2019-08-18,Aves_Maritimo_2019,Aves,1,1,2,2
+2019-08-18,Pacos Ferreira_Santa Clara_2019,Santa Clara,1,1,2,2
+2019-08-18,Guimaraes_Boavista_2019,Guimaraes,1,1,1,2
+2019-08-18,Sp Lisbon_Sp Braga_2019,Sp Braga,1,1,2,2
+2019-08-19,Tondela_Portimonense_2019,Tondela,1,1,2,2
+2019-08-19,Tondela_Portimonense_2019,Portimonense,1,1,2,2
+2019-08-23,Setubal_Moreirense_2019,Setubal,2,1,3,3
+2019-08-23,Rio Ave_Aves_2019,Rio Ave,1,1,2,3
+2019-08-23,Rio Ave_Aves_2019,Aves,1,2,3,3
+2019-08-23,Setubal_Moreirense_2019,Moreirense,1,2,3,3
+2019-08-24,Boavista_Pacos Ferreira_2019,Pacos Ferreira,1,2,3,3
+2019-08-24,Benfica_Porto_2019,Porto,1,2,3,3
+2019-08-24,Boavista_Pacos Ferreira_2019,Boavista,2,1,3,3
+2019-08-24,Benfica_Porto_2019,Benfica,2,1,3,3
+2019-08-25,Santa Clara_Belenenses_2019,Santa Clara,2,1,3,3
+2019-08-25,Maritimo_Tondela_2019,Maritimo,2,1,3,3
+2019-08-25,Maritimo_Tondela_2019,Tondela,1,2,3,3
+2019-08-25,Santa Clara_Belenenses_2019,Belenenses,1,2,3,3
+2019-08-25,Guimaraes_Famalicao_2019,Famalicao,1,2,3,3
+2019-08-25,Gil Vicente_Sp Braga_2019,Gil Vicente,2,1,3,3
+2019-08-25,Guimaraes_Famalicao_2019,Guimaraes,2,1,2,3
+2019-08-25,Portimonense_Sp Lisbon_2019,Sp Lisbon,1,2,3,3
+2019-08-25,Portimonense_Sp Lisbon_2019,Portimonense,2,1,3,3
+2019-08-25,Gil Vicente_Sp Braga_2019,Sp Braga,1,2,3,3
+2019-08-30,Belenenses_Boavista_2019,Belenenses,2,2,4,4
+2019-08-30,Belenenses_Boavista_2019,Boavista,2,2,4,4
+2019-08-30,Moreirense_Portimonense_2019,Moreirense,2,2,4,4
+2019-08-30,Moreirense_Portimonense_2019,Portimonense,2,2,4,4
+2019-08-31,Aves_Famalicao_2019,Aves,2,2,4,4
+2019-08-31,Pacos Ferreira_Maritimo_2019,Pacos Ferreira,2,2,4,4
+2019-08-31,Sp Lisbon_Rio Ave_2019,Sp Lisbon,2,2,4,4
+2019-08-31,Pacos Ferreira_Maritimo_2019,Maritimo,2,2,4,4
+2019-08-31,Gil Vicente_Setubal_2019,Gil Vicente,3,1,4,4
+2019-08-31,Gil Vicente_Setubal_2019,Setubal,2,2,4,4
+2019-08-31,Aves_Famalicao_2019,Famalicao,1,3,4,4
+2019-08-31,Sp Lisbon_Rio Ave_2019,Rio Ave,1,2,3,4
+2019-09-01,Porto_Guimaraes_2019,Porto,2,2,4,4
+2019-09-01,Sp Braga_Benfica_2019,Sp Braga,2,2,4,4
+2019-09-01,Porto_Guimaraes_2019,Guimaraes,2,1,3,4
+2019-09-01,Tondela_Santa Clara_2019,Tondela,2,2,4,4
+2019-09-01,Tondela_Santa Clara_2019,Santa Clara,2,2,4,4
+2019-09-01,Sp Braga_Benfica_2019,Benfica,2,2,4,4
+2019-09-08,Rio Ave_Guimaraes_2019,Guimaraes,2,2,4,5
+2019-09-08,Rio Ave_Guimaraes_2019,Rio Ave,2,2,4,5
+2019-09-13,Setubal_Sp Braga_2019,Sp Braga,2,3,5,6
+2019-09-13,Setubal_Sp Braga_2019,Setubal,3,2,5,6
+2019-09-14,Guimaraes_Aves_2019,Guimaraes,3,2,5,6
+2019-09-14,Guimaraes_Aves_2019,Aves,2,3,5,6
+2019-09-14,Famalicao_Pacos Ferreira_2019,Famalicao,2,3,5,6
+2019-09-14,Benfica_Gil Vicente_2019,Gil Vicente,3,2,5,6
+2019-09-14,Benfica_Gil Vicente_2019,Benfica,3,2,5,6
+2019-09-14,Famalicao_Pacos Ferreira_2019,Pacos Ferreira,2,3,5,6
+2019-09-15,Rio Ave_Tondela_2019,Tondela,2,3,5,6
+2019-09-15,Santa Clara_Moreirense_2019,Moreirense,2,3,5,6
+2019-09-15,Portimonense_Porto_2019,Porto,2,3,5,6
+2019-09-15,Santa Clara_Moreirense_2019,Santa Clara,3,2,5,6
+2019-09-15,Boavista_Sp Lisbon_2019,Boavista,3,2,5,6
+2019-09-15,Maritimo_Belenenses_2019,Maritimo,3,2,5,6
+2019-09-15,Rio Ave_Tondela_2019,Rio Ave,3,2,5,6
+2019-09-15,Portimonense_Porto_2019,Portimonense,3,2,5,6
+2019-09-15,Boavista_Sp Lisbon_2019,Sp Lisbon,2,3,5,6
+2019-09-15,Maritimo_Belenenses_2019,Belenenses,2,3,5,6
+2019-09-20,Pacos Ferreira_Aves_2019,Aves,2,4,6,7
+2019-09-20,Pacos Ferreira_Aves_2019,Pacos Ferreira,3,3,6,7
+2019-09-21,Belenenses_Rio Ave_2019,Belenenses,3,3,6,7
+2019-09-21,Moreirense_Benfica_2019,Moreirense,3,3,6,7
+2019-09-21,Belenenses_Rio Ave_2019,Rio Ave,3,3,6,7
+2019-09-21,Moreirense_Benfica_2019,Benfica,3,3,6,7
+2019-09-22,Porto_Santa Clara_2019,Santa Clara,3,3,6,7
+2019-09-22,Tondela_Guimaraes_2019,Tondela,3,3,6,7
+2019-09-22,Setubal_Portimonense_2019,Setubal,4,2,6,7
+2019-09-22,Gil Vicente_Boavista_2019,Gil Vicente,4,2,6,7
+2019-09-22,Porto_Santa Clara_2019,Porto,3,3,6,7
+2019-09-22,Tondela_Guimaraes_2019,Guimaraes,3,3,6,7
+2019-09-22,Setubal_Portimonense_2019,Portimonense,3,3,6,7
+2019-09-22,Gil Vicente_Boavista_2019,Boavista,3,3,6,7
+2019-09-23,Sp Lisbon_Famalicao_2019,Famalicao,2,4,6,7
+2019-09-23,Sp Braga_Maritimo_2019,Sp Braga,3,3,6,7
+2019-09-23,Sp Lisbon_Famalicao_2019,Sp Lisbon,3,3,6,7
+2019-09-23,Sp Braga_Maritimo_2019,Maritimo,3,3,6,7
+2019-09-27,Boavista_Tondela_2019,Boavista,4,3,7,8
+2019-09-27,Boavista_Tondela_2019,Tondela,3,4,7,8
+2019-09-28,Maritimo_Moreirense_2019,Moreirense,3,4,7,8
+2019-09-28,Benfica_Setubal_2019,Benfica,4,3,7,8
+2019-09-28,Maritimo_Moreirense_2019,Maritimo,4,3,7,8
+2019-09-28,Famalicao_Belenenses_2019,Belenenses,3,4,7,8
+2019-09-28,Benfica_Setubal_2019,Setubal,4,3,7,8
+2019-09-28,Famalicao_Belenenses_2019,Famalicao,3,4,7,8
+2019-09-29,Santa Clara_Gil Vicente_2019,Santa Clara,4,3,7,8
+2019-09-29,Portimonense_Sp Braga_2019,Sp Braga,3,4,7,8
+2019-09-29,Guimaraes_Pacos Ferreira_2019,Guimaraes,4,3,7,8
+2019-09-29,Portimonense_Sp Braga_2019,Portimonense,4,3,7,8
+2019-09-29,Rio Ave_Porto_2019,Porto,3,4,7,8
+2019-09-29,Rio Ave_Porto_2019,Rio Ave,4,3,7,8
+2019-09-29,Santa Clara_Gil Vicente_2019,Gil Vicente,4,3,7,8
+2019-09-29,Guimaraes_Pacos Ferreira_2019,Pacos Ferreira,3,4,7,8
+2019-09-30,Aves_Sp Lisbon_2019,Sp Lisbon,3,4,7,8
+2019-09-30,Aves_Sp Lisbon_2019,Aves,3,4,7,8
+2019-10-05,Aves_Tondela_2019,Aves,4,4,8,9
+2019-10-05,Aves_Tondela_2019,Tondela,3,5,8,9
+2019-10-25,Pacos Ferreira_Rio Ave_2019,Rio Ave,4,4,8,12
+2019-10-25,Pacos Ferreira_Rio Ave_2019,Pacos Ferreira,4,4,8,12
+2019-10-26,Moreirense_Boavista_2019,Boavista,4,4,8,12
+2019-10-26,Gil Vicente_Portimonense_2019,Gil Vicente,5,3,8,12
+2019-10-26,Setubal_Maritimo_2019,Setubal,5,3,8,12
+2019-10-26,Belenenses_Aves_2019,Aves,4,5,9,12
+2019-10-26,Moreirense_Boavista_2019,Moreirense,4,4,8,12
+2019-10-26,Belenenses_Aves_2019,Belenenses,4,4,8,12
+2019-10-26,Gil Vicente_Portimonense_2019,Portimonense,4,4,8,12
+2019-10-26,Setubal_Maritimo_2019,Maritimo,4,4,8,12
+2019-10-27,Sp Lisbon_Guimaraes_2019,Sp Lisbon,4,4,8,12
+2019-10-27,Tondela_Benfica_2019,Tondela,4,5,9,12
+2019-10-27,Tondela_Benfica_2019,Benfica,4,4,8,12
+2019-10-27,Sp Lisbon_Guimaraes_2019,Guimaraes,4,4,8,12
+2019-10-27,Porto_Famalicao_2019,Porto,4,4,8,12
+2019-10-27,Porto_Famalicao_2019,Famalicao,3,5,8,12
+2019-10-28,Sp Braga_Santa Clara_2019,Sp Braga,4,4,8,12
+2019-10-28,Sp Braga_Santa Clara_2019,Santa Clara,4,4,8,12
+2019-10-30,Rio Ave_Moreirense_2019,Rio Ave,5,4,9,13
+2019-10-30,Rio Ave_Moreirense_2019,Moreirense,4,5,9,13
+2019-10-30,Guimaraes_Belenenses_2019,Guimaraes,5,4,9,13
+2019-10-30,Benfica_Portimonense_2019,Benfica,5,4,9,13
+2019-10-30,Maritimo_Porto_2019,Maritimo,5,4,9,13
+2019-10-30,Guimaraes_Belenenses_2019,Belenenses,4,5,9,13
+2019-10-30,Benfica_Portimonense_2019,Portimonense,4,5,9,13
+2019-10-30,Famalicao_Gil Vicente_2019,Gil Vicente,5,4,9,13
+2019-10-30,Maritimo_Porto_2019,Porto,4,5,9,13
+2019-10-30,Famalicao_Gil Vicente_2019,Famalicao,4,5,9,13
+2019-10-31,Boavista_Sp Braga_2019,Boavista,5,4,9,13
+2019-10-31,Boavista_Sp Braga_2019,Sp Braga,4,5,9,13
+2019-10-31,Santa Clara_Setubal_2019,Setubal,5,4,9,13
+2019-10-31,Santa Clara_Setubal_2019,Santa Clara,5,4,9,13
+2019-10-31,Pacos Ferreira_Sp Lisbon_2019,Sp Lisbon,4,5,9,13
+2019-10-31,Pacos Ferreira_Sp Lisbon_2019,Pacos Ferreira,5,4,9,13
+2019-11-02,Benfica_Rio Ave_2019,Rio Ave,5,5,10,13
+2019-11-02,Moreirense_Guimaraes_2019,Moreirense,5,5,10,13
+2019-11-02,Moreirense_Guimaraes_2019,Guimaraes,5,5,10,13
+2019-11-02,Benfica_Rio Ave_2019,Benfica,6,4,10,13
+2019-11-03,Gil Vicente_Maritimo_2019,Gil Vicente,6,4,10,13
+2019-11-03,Tondela_Sp Lisbon_2019,Tondela,5,5,10,13
+2019-11-03,Tondela_Sp Lisbon_2019,Sp Lisbon,4,6,10,13
+2019-11-03,Gil Vicente_Maritimo_2019,Maritimo,5,5,10,13
+2019-11-03,Sp Braga_Famalicao_2019,Sp Braga,5,5,10,13
+2019-11-03,Sp Braga_Famalicao_2019,Famalicao,4,6,10,13
+2019-11-03,Porto_Aves_2019,Aves,4,6,10,13
+2019-11-03,Porto_Aves_2019,Porto,5,5,10,13
+2019-11-04,Portimonense_Santa Clara_2019,Portimonense,5,5,10,13
+2019-11-04,Setubal_Boavista_2019,Setubal,6,4,10,13
+2019-11-04,Portimonense_Santa Clara_2019,Santa Clara,5,5,10,13
+2019-11-04,Belenenses_Pacos Ferreira_2019,Belenenses,5,5,10,13
+2019-11-04,Belenenses_Pacos Ferreira_2019,Pacos Ferreira,5,5,10,13
+2019-11-04,Setubal_Boavista_2019,Boavista,5,5,10,13
+2019-11-08,Aves_Gil Vicente_2019,Gil Vicente,6,5,11,14
+2019-11-08,Aves_Gil Vicente_2019,Aves,5,6,11,14
+2019-11-09,Famalicao_Moreirense_2019,Famalicao,5,6,11,14
+2019-11-09,Famalicao_Moreirense_2019,Moreirense,5,6,11,14
+2019-11-09,Rio Ave_Setubal_2019,Rio Ave,6,5,11,14
+2019-11-09,Rio Ave_Setubal_2019,Setubal,6,5,11,14
+2019-11-09,Santa Clara_Benfica_2019,Santa Clara,6,5,11,14
+2019-11-09,Santa Clara_Benfica_2019,Benfica,6,5,11,14
+2019-11-10,Maritimo_Portimonense_2019,Portimonense,5,6,11,14
+2019-11-10,Sp Lisbon_Belenenses_2019,Belenenses,5,6,11,14
+2019-11-10,Guimaraes_Sp Braga_2019,Sp Braga,5,6,11,14
+2019-11-10,Boavista_Porto_2019,Porto,5,6,11,14
+2019-11-10,Pacos Ferreira_Tondela_2019,Tondela,5,6,11,14
+2019-11-10,Sp Lisbon_Belenenses_2019,Sp Lisbon,5,6,11,14
+2019-11-10,Guimaraes_Sp Braga_2019,Guimaraes,6,5,11,14
+2019-11-10,Pacos Ferreira_Tondela_2019,Pacos Ferreira,6,5,11,14
+2019-11-10,Maritimo_Portimonense_2019,Maritimo,6,5,11,14
+2019-11-10,Boavista_Porto_2019,Boavista,6,5,11,14
+2019-11-29,Santa Clara_Boavista_2019,Santa Clara,7,5,12,17
+2019-11-29,Santa Clara_Boavista_2019,Boavista,6,6,12,17
+2019-11-30,Moreirense_Aves_2019,Moreirense,6,6,12,17
+2019-11-30,Benfica_Maritimo_2019,Maritimo,6,6,12,17
+2019-11-30,Benfica_Maritimo_2019,Benfica,7,5,12,17
+2019-11-30,Portimonense_Famalicao_2019,Famalicao,5,7,12,17
+2019-11-30,Portimonense_Famalicao_2019,Portimonense,6,6,12,17
+2019-11-30,Moreirense_Aves_2019,Aves,5,7,12,17
+2019-12-01,Gil Vicente_Sp Lisbon_2019,Gil Vicente,7,5,12,17
+2019-12-01,Tondela_Belenenses_2019,Belenenses,5,7,12,17
+2019-12-01,Setubal_Guimaraes_2019,Setubal,7,5,12,17
+2019-12-01,Gil Vicente_Sp Lisbon_2019,Sp Lisbon,5,7,12,17
+2019-12-01,Tondela_Belenenses_2019,Tondela,6,6,12,17
+2019-12-01,Setubal_Guimaraes_2019,Guimaraes,6,6,12,17
+2019-12-02,Porto_Pacos Ferreira_2019,Porto,6,6,12,17
+2019-12-02,Porto_Pacos Ferreira_2019,Pacos Ferreira,6,6,12,17
+2019-12-02,Sp Braga_Rio Ave_2019,Rio Ave,6,6,12,17
+2019-12-02,Sp Braga_Rio Ave_2019,Sp Braga,6,6,12,17
+2019-12-06,Boavista_Benfica_2019,Boavista,7,6,13,18
+2019-12-06,Boavista_Benfica_2019,Benfica,7,6,13,18
+2019-12-07,Maritimo_Santa Clara_2019,Maritimo,7,6,13,18
+2019-12-07,Maritimo_Santa Clara_2019,Santa Clara,7,6,13,18
+2019-12-07,Aves_Sp Braga_2019,Sp Braga,6,7,13,18
+2019-12-07,Aves_Sp Braga_2019,Aves,6,7,13,18
+2019-12-07,Famalicao_Tondela_2019,Tondela,6,7,13,18
+2019-12-07,Famalicao_Tondela_2019,Famalicao,6,7,13,18
+2019-12-08,Guimaraes_Portimonense_2019,Portimonense,6,7,13,18
+2019-12-08,Guimaraes_Portimonense_2019,Guimaraes,7,6,13,18
+2019-12-08,Sp Lisbon_Moreirense_2019,Sp Lisbon,6,7,13,18
+2019-12-08,Sp Lisbon_Moreirense_2019,Moreirense,6,7,13,18
+2019-12-08,Pacos Ferreira_Setubal_2019,Setubal,7,6,13,18
+2019-12-08,Belenenses_Porto_2019,Porto,6,7,13,18
+2019-12-08,Belenenses_Porto_2019,Belenenses,6,7,13,18
+2019-12-08,Pacos Ferreira_Setubal_2019,Pacos Ferreira,7,6,13,18
+2019-12-09,Rio Ave_Gil Vicente_2019,Gil Vicente,7,6,13,18
+2019-12-09,Rio Ave_Gil Vicente_2019,Rio Ave,7,6,13,18
+2019-12-13,Portimonense_Rio Ave_2019,Portimonense,7,7,14,19
+2019-12-13,Portimonense_Rio Ave_2019,Rio Ave,7,7,14,19
+2019-12-14,Maritimo_Boavista_2019,Boavista,7,7,14,19
+2019-12-14,Setubal_Aves_2019,Setubal,8,6,14,19
+2019-12-14,Setubal_Aves_2019,Aves,6,8,14,19
+2019-12-14,Benfica_Famalicao_2019,Famalicao,6,8,14,19
+2019-12-14,Benfica_Famalicao_2019,Benfica,8,6,14,19
+2019-12-14,Maritimo_Boavista_2019,Maritimo,8,6,14,19
+2019-12-15,Gil Vicente_Guimaraes_2019,Guimaraes,7,7,14,19
+2019-12-15,Sp Braga_Pacos Ferreira_2019,Pacos Ferreira,7,7,14,19
+2019-12-15,Sp Braga_Pacos Ferreira_2019,Sp Braga,7,7,14,19
+2019-12-15,Gil Vicente_Guimaraes_2019,Gil Vicente,8,6,14,19
+2019-12-15,Moreirense_Belenenses_2019,Belenenses,6,8,14,19
+2019-12-15,Moreirense_Belenenses_2019,Moreirense,7,7,14,19
+2019-12-16,Santa Clara_Sp Lisbon_2019,Santa Clara,8,6,14,19
+2019-12-16,Santa Clara_Sp Lisbon_2019,Sp Lisbon,6,8,14,19
+2019-12-16,Porto_Tondela_2019,Porto,7,7,14,19
+2019-12-16,Porto_Tondela_2019,Tondela,6,8,14,19
+2020-01-04,Aves_Santa Clara_2019,Santa Clara,8,7,15,22
+2020-01-04,Boavista_Portimonense_2019,Portimonense,7,8,15,22
+2020-01-04,Guimaraes_Benfica_2019,Guimaraes,8,7,15,22
+2020-01-04,Boavista_Portimonense_2019,Boavista,8,7,15,22
+2020-01-04,Belenenses_Sp Braga_2019,Belenenses,7,8,15,22
+2020-01-04,Aves_Santa Clara_2019,Aves,7,8,15,22
+2020-01-04,Belenenses_Sp Braga_2019,Sp Braga,7,8,15,22
+2020-01-04,Guimaraes_Benfica_2019,Benfica,8,7,15,22
+2020-01-05,Sp Lisbon_Porto_2019,Porto,7,8,15,22
+2020-01-05,Rio Ave_Maritimo_2019,Maritimo,8,7,15,22
+2020-01-05,Sp Lisbon_Porto_2019,Sp Lisbon,7,8,15,22
+2020-01-05,Famalicao_Setubal_2019,Famalicao,7,8,15,22
+2020-01-05,Pacos Ferreira_Moreirense_2019,Pacos Ferreira,8,7,15,22
+2020-01-05,Tondela_Gil Vicente_2019,Gil Vicente,8,7,15,22
+2020-01-05,Pacos Ferreira_Moreirense_2019,Moreirense,7,8,15,22
+2020-01-05,Famalicao_Setubal_2019,Setubal,8,7,15,22
+2020-01-05,Rio Ave_Maritimo_2019,Rio Ave,8,7,15,22
+2020-01-05,Tondela_Gil Vicente_2019,Tondela,7,8,15,22
+2020-01-10,Benfica_Aves_2019,Aves,7,9,16,23
+2020-01-10,Santa Clara_Rio Ave_2019,Santa Clara,9,7,16,23
+2020-01-10,Moreirense_Porto_2019,Porto,7,9,16,23
+2020-01-10,Moreirense_Porto_2019,Moreirense,8,8,16,23
+2020-01-10,Benfica_Aves_2019,Benfica,9,7,16,23
+2020-01-10,Santa Clara_Rio Ave_2019,Rio Ave,8,8,16,23
+2020-01-11,Portimonense_Pacos Ferreira_2019,Pacos Ferreira,8,8,16,23
+2020-01-11,Boavista_Famalicao_2019,Boavista,9,7,16,23
+2020-01-11,Setubal_Sp Lisbon_2019,Setubal,9,7,16,23
+2020-01-11,Boavista_Famalicao_2019,Famalicao,7,9,16,23
+2020-01-11,Setubal_Sp Lisbon_2019,Sp Lisbon,7,9,16,23
+2020-01-11,Portimonense_Pacos Ferreira_2019,Portimonense,8,8,16,23
+2020-01-12,Gil Vicente_Belenenses_2019,Belenenses,7,9,16,23
+2020-01-12,Maritimo_Guimaraes_2019,Guimaraes,8,8,16,23
+2020-01-12,Maritimo_Guimaraes_2019,Maritimo,9,7,16,23
+2020-01-12,Sp Braga_Tondela_2019,Sp Braga,8,8,16,23
+2020-01-12,Sp Braga_Tondela_2019,Tondela,7,9,16,23
+2020-01-12,Gil Vicente_Belenenses_2019,Gil Vicente,9,7,16,23
+2020-01-17,Porto_Sp Braga_2019,Sp Braga,8,9,17,24
+2020-01-17,Sp Lisbon_Benfica_2019,Benfica,9,8,17,24
+2020-01-17,Porto_Sp Braga_2019,Porto,8,9,17,24
+2020-01-17,Sp Lisbon_Benfica_2019,Sp Lisbon,8,9,17,24
+2020-01-18,Aves_Portimonense_2019,Aves,8,9,17,24
+2020-01-18,Aves_Portimonense_2019,Portimonense,8,9,17,24
+2020-01-18,Belenenses_Setubal_2019,Setubal,9,8,17,24
+2020-01-18,Guimaraes_Santa Clara_2019,Santa Clara,9,8,17,24
+2020-01-18,Belenenses_Setubal_2019,Belenenses,8,9,17,24
+2020-01-18,Guimaraes_Santa Clara_2019,Guimaraes,9,8,17,24
+2020-01-18,Tondela_Moreirense_2019,Moreirense,8,9,17,24
+2020-01-18,Tondela_Moreirense_2019,Tondela,8,9,17,24
+2020-01-19,Rio Ave_Boavista_2019,Boavista,9,8,17,24
+2020-01-19,Rio Ave_Boavista_2019,Rio Ave,9,8,17,24
+2020-01-19,Pacos Ferreira_Gil Vicente_2019,Gil Vicente,9,8,17,24
+2020-01-19,Famalicao_Maritimo_2019,Maritimo,9,8,17,24
+2020-01-19,Pacos Ferreira_Gil Vicente_2019,Pacos Ferreira,9,8,17,24
+2020-01-19,Famalicao_Maritimo_2019,Famalicao,8,9,17,24
+2020-01-26,Aves_Boavista_2019,Boavista,9,9,18,25
+2020-01-26,Belenenses_Portimonense_2019,Portimonense,8,10,18,25
+2020-01-26,Tondela_Setubal_2019,Setubal,9,9,18,25
+2020-01-26,Pacos Ferreira_Benfica_2019,Pacos Ferreira,10,8,18,25
+2020-01-26,Belenenses_Portimonense_2019,Belenenses,9,9,18,25
+2020-01-26,Pacos Ferreira_Benfica_2019,Benfica,9,9,18,25
+2020-01-26,Famalicao_Santa Clara_2019,Santa Clara,9,9,18,25
+2020-01-26,Famalicao_Santa Clara_2019,Famalicao,9,9,18,25
+2020-01-26,Tondela_Setubal_2019,Tondela,9,9,18,25
+2020-01-26,Aves_Boavista_2019,Aves,9,9,18,25
+2020-01-27,Sp Lisbon_Maritimo_2019,Maritimo,9,9,18,25
+2020-01-27,Guimaraes_Rio Ave_2019,Rio Ave,9,9,18,25
+2020-01-27,Guimaraes_Rio Ave_2019,Guimaraes,10,8,18,25
+2020-01-27,Sp Lisbon_Maritimo_2019,Sp Lisbon,9,9,18,25
+2020-01-28,Porto_Gil Vicente_2019,Porto,9,9,18,26
+2020-01-28,Porto_Gil Vicente_2019,Gil Vicente,9,9,18,26
+2020-01-29,Moreirense_Sp Braga_2019,Moreirense,9,9,18,26
+2020-01-29,Moreirense_Sp Braga_2019,Sp Braga,8,10,18,26
+2020-01-31,Rio Ave_Famalicao_2019,Rio Ave,10,9,19,26
+2020-01-31,Rio Ave_Famalicao_2019,Famalicao,9,10,19,26
+2020-01-31,Benfica_Belenenses_2019,Belenenses,9,10,19,26
+2020-01-31,Benfica_Belenenses_2019,Benfica,10,9,19,26
+2020-02-01,Santa Clara_Pacos Ferreira_2019,Pacos Ferreira,10,9,19,26
+2020-02-01,Portimonense_Tondela_2019,Tondela,9,10,19,26
+2020-02-01,Setubal_Porto_2019,Porto,9,10,19,26
+2020-02-01,Santa Clara_Pacos Ferreira_2019,Santa Clara,10,9,19,26
+2020-02-01,Portimonense_Tondela_2019,Portimonense,9,10,19,26
+2020-02-01,Setubal_Porto_2019,Setubal,10,9,19,26
+2020-02-02,Boavista_Guimaraes_2019,Guimaraes,10,9,19,26
+2020-02-02,Sp Braga_Sp Lisbon_2019,Sp Braga,9,10,19,26
+2020-02-02,Boavista_Guimaraes_2019,Boavista,10,9,19,26
+2020-02-02,Maritimo_Aves_2019,Aves,9,10,19,26
+2020-02-02,Gil Vicente_Moreirense_2019,Moreirense,9,10,19,26
+2020-02-02,Gil Vicente_Moreirense_2019,Gil Vicente,10,9,19,26
+2020-02-02,Sp Braga_Sp Lisbon_2019,Sp Lisbon,9,10,19,26
+2020-02-02,Maritimo_Aves_2019,Maritimo,10,9,19,26
+2020-02-07,Pacos Ferreira_Boavista_2019,Pacos Ferreira,11,9,20,27
+2020-02-07,Pacos Ferreira_Boavista_2019,Boavista,10,10,20,27
+2020-02-08,Famalicao_Guimaraes_2019,Guimaraes,10,10,20,27
+2020-02-08,Porto_Benfica_2019,Benfica,10,10,20,27
+2020-02-08,Sp Braga_Gil Vicente_2019,Gil Vicente,10,10,20,27
+2020-02-08,Famalicao_Guimaraes_2019,Famalicao,10,10,20,27
+2020-02-08,Sp Braga_Gil Vicente_2019,Sp Braga,10,10,20,27
+2020-02-08,Porto_Benfica_2019,Porto,10,10,20,27
+2020-02-08,Belenenses_Santa Clara_2019,Belenenses,10,10,20,27
+2020-02-08,Belenenses_Santa Clara_2019,Santa Clara,10,10,20,27
+2020-02-09,Sp Lisbon_Portimonense_2019,Portimonense,9,11,20,27
+2020-02-09,Moreirense_Setubal_2019,Moreirense,10,10,20,27
+2020-02-09,Tondela_Maritimo_2019,Maritimo,10,10,20,27
+2020-02-09,Moreirense_Setubal_2019,Setubal,10,10,20,27
+2020-02-09,Sp Lisbon_Portimonense_2019,Sp Lisbon,10,10,20,27
+2020-02-09,Aves_Rio Ave_2019,Rio Ave,10,10,20,27
+2020-02-09,Aves_Rio Ave_2019,Aves,10,10,20,27
+2020-02-09,Tondela_Maritimo_2019,Tondela,10,10,20,27
+2020-02-14,Setubal_Gil Vicente_2019,Gil Vicente,10,11,21,28
+2020-02-14,Setubal_Gil Vicente_2019,Setubal,11,10,21,28
+2020-02-15,Rio Ave_Sp Lisbon_2019,Rio Ave,11,10,21,28
+2020-02-15,Portimonense_Moreirense_2019,Portimonense,10,11,21,28
+2020-02-15,Portimonense_Moreirense_2019,Moreirense,10,11,21,28
+2020-02-15,Santa Clara_Tondela_2019,Tondela,10,11,21,28
+2020-02-15,Santa Clara_Tondela_2019,Santa Clara,11,10,21,28
+2020-02-15,Benfica_Sp Braga_2019,Sp Braga,10,11,21,28
+2020-02-15,Benfica_Sp Braga_2019,Benfica,11,10,21,28
+2020-02-15,Rio Ave_Sp Lisbon_2019,Sp Lisbon,10,11,21,28
+2020-02-16,Maritimo_Pacos Ferreira_2019,Maritimo,11,10,21,28
+2020-02-16,Boavista_Belenenses_2019,Belenenses,10,11,21,28
+2020-02-16,Famalicao_Aves_2019,Aves,10,11,21,28
+2020-02-16,Boavista_Belenenses_2019,Boavista,11,10,21,28
+2020-02-16,Guimaraes_Porto_2019,Porto,10,11,21,28
+2020-02-16,Maritimo_Pacos Ferreira_2019,Pacos Ferreira,11,10,21,28
+2020-02-16,Famalicao_Aves_2019,Famalicao,11,10,21,28
+2020-02-16,Guimaraes_Porto_2019,Guimaraes,11,10,21,28
+2020-02-21,Aves_Guimaraes_2019,Aves,11,11,22,29
+2020-02-21,Aves_Guimaraes_2019,Guimaraes,11,11,22,29
+2020-02-22,Tondela_Rio Ave_2019,Tondela,11,11,22,29
+2020-02-22,Belenenses_Maritimo_2019,Belenenses,11,11,22,29
+2020-02-22,Belenenses_Maritimo_2019,Maritimo,11,11,22,29
+2020-02-22,Tondela_Rio Ave_2019,Rio Ave,11,11,22,29
+2020-02-23,Sp Lisbon_Boavista_2019,Boavista,11,11,22,29
+2020-02-23,Porto_Portimonense_2019,Portimonense,10,12,22,29
+2020-02-23,Pacos Ferreira_Famalicao_2019,Famalicao,11,11,22,29
+2020-02-23,Porto_Portimonense_2019,Porto,11,11,22,29
+2020-02-23,Pacos Ferreira_Famalicao_2019,Pacos Ferreira,12,10,22,29
+2020-02-23,Moreirense_Santa Clara_2019,Moreirense,11,11,22,29
+2020-02-23,Sp Lisbon_Boavista_2019,Sp Lisbon,11,11,22,29
+2020-02-23,Moreirense_Santa Clara_2019,Santa Clara,11,11,22,29
+2020-02-23,Sp Braga_Setubal_2019,Setubal,11,11,22,29
+2020-02-23,Sp Braga_Setubal_2019,Sp Braga,11,11,22,29
+2020-02-24,Gil Vicente_Benfica_2019,Benfica,11,11,22,29
+2020-02-24,Gil Vicente_Benfica_2019,Gil Vicente,11,11,22,29
+2020-02-28,Portimonense_Setubal_2019,Portimonense,11,12,23,30
+2020-02-28,Portimonense_Setubal_2019,Setubal,11,12,23,30
+2020-02-29,Boavista_Gil Vicente_2019,Boavista,12,11,23,30
+2020-02-29,Rio Ave_Belenenses_2019,Rio Ave,12,11,23,30
+2020-02-29,Rio Ave_Belenenses_2019,Belenenses,11,12,23,30
+2020-02-29,Boavista_Gil Vicente_2019,Gil Vicente,11,12,23,30
+2020-03-01,Guimaraes_Tondela_2019,Tondela,11,12,23,30
+2020-03-01,Aves_Pacos Ferreira_2019,Aves,12,11,23,30
+2020-03-01,Guimaraes_Tondela_2019,Guimaraes,12,11,23,30
+2020-03-01,Maritimo_Sp Braga_2019,Maritimo,12,11,23,30
+2020-03-01,Maritimo_Sp Braga_2019,Sp Braga,11,12,23,30
+2020-03-01,Aves_Pacos Ferreira_2019,Pacos Ferreira,12,11,23,30
+2020-03-02,Santa Clara_Porto_2019,Santa Clara,12,11,23,30
+2020-03-02,Benfica_Moreirense_2019,Moreirense,11,12,23,30
+2020-03-02,Benfica_Moreirense_2019,Benfica,12,11,23,30
+2020-03-02,Santa Clara_Porto_2019,Porto,11,12,23,30
+2020-03-03,Famalicao_Sp Lisbon_2019,Famalicao,12,11,23,31
+2020-03-03,Famalicao_Sp Lisbon_2019,Sp Lisbon,11,12,23,31
+2020-03-06,Sp Braga_Portimonense_2019,Portimonense,11,13,24,31
+2020-03-06,Sp Braga_Portimonense_2019,Sp Braga,12,12,24,31
+2020-03-07,Porto_Rio Ave_2019,Porto,12,12,24,31
+2020-03-07,Porto_Rio Ave_2019,Rio Ave,12,12,24,31
+2020-03-07,Tondela_Boavista_2019,Boavista,12,12,24,31
+2020-03-07,Tondela_Boavista_2019,Tondela,12,12,24,31
+2020-03-07,Setubal_Benfica_2019,Benfica,12,12,24,31
+2020-03-07,Setubal_Benfica_2019,Setubal,12,12,24,31
+2020-03-08,Moreirense_Maritimo_2019,Maritimo,12,12,24,31
+2020-03-08,Belenenses_Famalicao_2019,Famalicao,12,12,24,31
+2020-03-08,Gil Vicente_Santa Clara_2019,Gil Vicente,12,12,24,31
+2020-03-08,Pacos Ferreira_Guimaraes_2019,Pacos Ferreira,13,11,24,31
+2020-03-08,Sp Lisbon_Aves_2019,Sp Lisbon,12,12,24,31
+2020-03-08,Moreirense_Maritimo_2019,Moreirense,12,12,24,31
+2020-03-08,Pacos Ferreira_Guimaraes_2019,Guimaraes,12,12,24,31
+2020-03-08,Belenenses_Famalicao_2019,Belenenses,12,12,24,31
+2020-03-08,Gil Vicente_Santa Clara_2019,Santa Clara,12,12,24,31
+2020-03-08,Sp Lisbon_Aves_2019,Aves,12,12,24,31
+2020-06-03,Famalicao_Porto_2019,Porto,12,13,25,44
+2020-06-03,Famalicao_Porto_2019,Famalicao,13,12,25,44
+2020-06-03,Portimonense_Gil Vicente_2019,Portimonense,12,13,25,44
+2020-06-03,Portimonense_Gil Vicente_2019,Gil Vicente,12,13,25,44
+2020-06-04,Guimaraes_Sp Lisbon_2019,Guimaraes,13,12,25,44
+2020-06-04,Guimaraes_Sp Lisbon_2019,Sp Lisbon,12,13,25,44
+2020-06-04,Maritimo_Setubal_2019,Maritimo,13,12,25,44
+2020-06-04,Benfica_Tondela_2019,Tondela,12,13,25,44
+2020-06-04,Benfica_Tondela_2019,Benfica,13,12,25,44
+2020-06-04,Maritimo_Setubal_2019,Setubal,12,13,25,44
+2020-06-05,Santa Clara_Sp Braga_2019,Santa Clara,13,12,25,44
+2020-06-05,Aves_Belenenses_2019,Aves,13,12,25,44
+2020-06-05,Aves_Belenenses_2019,Belenenses,12,13,25,44
+2020-06-05,Santa Clara_Sp Braga_2019,Sp Braga,12,13,25,44
+2020-06-06,Boavista_Moreirense_2019,Moreirense,12,13,25,44
+2020-06-06,Boavista_Moreirense_2019,Boavista,13,12,25,44
+2020-06-07,Rio Ave_Pacos Ferreira_2019,Rio Ave,13,12,25,44
+2020-06-07,Rio Ave_Pacos Ferreira_2019,Pacos Ferreira,13,12,25,44
+2020-06-09,Gil Vicente_Famalicao_2019,Gil Vicente,13,13,26,45
+2020-06-09,Gil Vicente_Famalicao_2019,Famalicao,13,13,26,45
+2020-06-10,Porto_Maritimo_2019,Porto,13,13,26,45
+2020-06-10,Setubal_Santa Clara_2019,Santa Clara,13,13,26,45
+2020-06-10,Setubal_Santa Clara_2019,Setubal,13,13,26,45
+2020-06-10,Portimonense_Benfica_2019,Portimonense,13,13,26,45
+2020-06-10,Porto_Maritimo_2019,Maritimo,13,13,26,45
+2020-06-10,Portimonense_Benfica_2019,Benfica,13,13,26,45
+2020-06-11,Belenenses_Guimaraes_2019,Guimaraes,13,13,26,45
+2020-06-11,Belenenses_Guimaraes_2019,Belenenses,13,13,26,45
+2020-06-11,Tondela_Aves_2019,Tondela,13,13,26,45
+2020-06-11,Tondela_Aves_2019,Aves,13,13,26,45
+2020-06-12,Moreirense_Rio Ave_2019,Rio Ave,13,13,26,45
+2020-06-12,Sp Lisbon_Pacos Ferreira_2019,Pacos Ferreira,13,13,26,45
+2020-06-12,Sp Lisbon_Pacos Ferreira_2019,Sp Lisbon,13,13,26,45
+2020-06-12,Moreirense_Rio Ave_2019,Moreirense,13,13,26,45
+2020-06-13,Sp Braga_Boavista_2019,Boavista,13,13,26,45
+2020-06-13,Sp Braga_Boavista_2019,Sp Braga,13,13,26,45
+2020-06-15,Maritimo_Gil Vicente_2019,Gil Vicente,13,14,27,45
+2020-06-15,Maritimo_Gil Vicente_2019,Maritimo,14,13,27,45
+2020-06-16,Santa Clara_Portimonense_2019,Portimonense,13,14,27,46
+2020-06-16,Aves_Porto_2019,Porto,13,14,27,46
+2020-06-16,Aves_Porto_2019,Aves,14,13,27,46
+2020-06-16,Santa Clara_Portimonense_2019,Santa Clara,14,13,27,46
+2020-06-17,Rio Ave_Benfica_2019,Rio Ave,14,13,27,46
+2020-06-17,Pacos Ferreira_Belenenses_2019,Belenenses,13,14,27,46
+2020-06-17,Rio Ave_Benfica_2019,Benfica,13,14,27,46
+2020-06-17,Pacos Ferreira_Belenenses_2019,Pacos Ferreira,14,13,27,46
+2020-06-18,Sp Lisbon_Tondela_2019,Tondela,13,14,27,46
+2020-06-18,Boavista_Setubal_2019,Boavista,14,13,27,46
+2020-06-18,Sp Lisbon_Tondela_2019,Sp Lisbon,14,13,27,46
+2020-06-18,Boavista_Setubal_2019,Setubal,13,14,27,46
+2020-06-19,Famalicao_Sp Braga_2019,Famalicao,14,13,27,46
+2020-06-19,Guimaraes_Moreirense_2019,Moreirense,13,14,27,46
+2020-06-19,Famalicao_Sp Braga_2019,Sp Braga,13,14,27,46
+2020-06-19,Guimaraes_Moreirense_2019,Guimaraes,14,13,27,46
+2020-06-21,Gil Vicente_Aves_2019,Gil Vicente,14,14,28,46
+2020-06-21,Gil Vicente_Aves_2019,Aves,14,14,28,46
+2020-06-22,Portimonense_Maritimo_2019,Maritimo,14,14,28,46
+2020-06-22,Portimonense_Maritimo_2019,Portimonense,14,14,28,46
+2020-06-23,Setubal_Rio Ave_2019,Setubal,14,14,28,47
+2020-06-23,Setubal_Rio Ave_2019,Rio Ave,14,14,28,47
+2020-06-23,Porto_Boavista_2019,Boavista,14,14,28,47
+2020-06-23,Benfica_Santa Clara_2019,Benfica,14,14,28,47
+2020-06-23,Benfica_Santa Clara_2019,Santa Clara,14,14,28,47
+2020-06-23,Porto_Boavista_2019,Porto,14,14,28,47
+2020-06-24,Tondela_Pacos Ferreira_2019,Tondela,14,14,28,47
+2020-06-24,Moreirense_Famalicao_2019,Moreirense,14,14,28,47
+2020-06-24,Tondela_Pacos Ferreira_2019,Pacos Ferreira,14,14,28,47
+2020-06-24,Moreirense_Famalicao_2019,Famalicao,14,14,28,47
+2020-06-25,Sp Braga_Guimaraes_2019,Sp Braga,14,14,28,47
+2020-06-25,Sp Braga_Guimaraes_2019,Guimaraes,14,14,28,47
+2020-06-26,Belenenses_Sp Lisbon_2019,Belenenses,14,14,28,47
+2020-06-26,Belenenses_Sp Lisbon_2019,Sp Lisbon,14,14,28,47
+2020-06-28,Boavista_Santa Clara_2019,Boavista,15,14,29,47
+2020-06-28,Boavista_Santa Clara_2019,Santa Clara,14,15,29,47
+2020-06-29,Maritimo_Benfica_2019,Benfica,14,15,29,47
+2020-06-29,Aves_Moreirense_2019,Moreirense,14,15,29,47
+2020-06-29,Pacos Ferreira_Porto_2019,Porto,14,15,29,47
+2020-06-29,Maritimo_Benfica_2019,Maritimo,15,14,29,47
+2020-06-29,Aves_Moreirense_2019,Aves,15,14,29,47
+2020-06-29,Pacos Ferreira_Porto_2019,Pacos Ferreira,15,14,29,47
+2020-06-30,Guimaraes_Setubal_2019,Guimaraes,15,14,29,48
+2020-06-30,Rio Ave_Sp Braga_2019,Rio Ave,15,14,29,48
+2020-06-30,Famalicao_Portimonense_2019,Portimonense,14,15,29,48
+2020-06-30,Guimaraes_Setubal_2019,Setubal,14,15,29,48
+2020-06-30,Famalicao_Portimonense_2019,Famalicao,15,14,29,48
+2020-06-30,Rio Ave_Sp Braga_2019,Sp Braga,14,15,29,48
+2020-07-01,Belenenses_Tondela_2019,Tondela,14,15,29,48
+2020-07-01,Sp Lisbon_Gil Vicente_2019,Gil Vicente,14,15,29,48
+2020-07-01,Sp Lisbon_Gil Vicente_2019,Sp Lisbon,15,14,29,48
+2020-07-01,Belenenses_Tondela_2019,Belenenses,15,14,29,48
+2020-07-03,Santa Clara_Maritimo_2019,Maritimo,15,15,30,48
+2020-07-03,Santa Clara_Maritimo_2019,Santa Clara,15,15,30,48
+2020-07-04,Setubal_Pacos Ferreira_2019,Pacos Ferreira,15,15,30,48
+2020-07-04,Setubal_Pacos Ferreira_2019,Setubal,15,15,30,48
+2020-07-04,Portimonense_Guimaraes_2019,Guimaraes,15,15,30,48
+2020-07-04,Sp Braga_Aves_2019,Aves,15,15,30,48
+2020-07-04,Portimonense_Guimaraes_2019,Portimonense,15,15,30,48
+2020-07-04,Sp Braga_Aves_2019,Sp Braga,15,15,30,48
+2020-07-04,Benfica_Boavista_2019,Boavista,15,15,30,48
+2020-07-04,Benfica_Boavista_2019,Benfica,15,15,30,48
+2020-07-05,Tondela_Famalicao_2019,Famalicao,15,15,30,48
+2020-07-05,Tondela_Famalicao_2019,Tondela,15,15,30,48
+2020-07-05,Gil Vicente_Rio Ave_2019,Rio Ave,15,15,30,48
+2020-07-05,Porto_Belenenses_2019,Belenenses,15,15,30,48
+2020-07-05,Gil Vicente_Rio Ave_2019,Gil Vicente,15,15,30,48
+2020-07-05,Porto_Belenenses_2019,Porto,15,15,30,48
+2020-07-06,Moreirense_Sp Lisbon_2019,Sp Lisbon,15,15,30,48
+2020-07-06,Moreirense_Sp Lisbon_2019,Moreirense,15,15,30,48
+2020-07-08,Boavista_Maritimo_2019,Maritimo,15,16,31,49
+2020-07-08,Boavista_Maritimo_2019,Boavista,16,15,31,49
+2020-07-08,Aves_Setubal_2019,Aves,16,15,31,49
+2020-07-08,Aves_Setubal_2019,Setubal,15,16,31,49
+2020-07-09,Tondela_Porto_2019,Porto,15,16,31,49
+2020-07-09,Famalicao_Benfica_2019,Famalicao,16,15,31,49
+2020-07-09,Rio Ave_Portimonense_2019,Portimonense,15,16,31,49
+2020-07-09,Rio Ave_Portimonense_2019,Rio Ave,16,15,31,49
+2020-07-09,Famalicao_Benfica_2019,Benfica,15,16,31,49
+2020-07-09,Tondela_Porto_2019,Tondela,16,15,31,49
+2020-07-10,Guimaraes_Gil Vicente_2019,Gil Vicente,15,16,31,49
+2020-07-10,Pacos Ferreira_Sp Braga_2019,Sp Braga,15,16,31,49
+2020-07-10,Sp Lisbon_Santa Clara_2019,Santa Clara,15,16,31,49
+2020-07-10,Sp Lisbon_Santa Clara_2019,Sp Lisbon,16,15,31,49
+2020-07-10,Pacos Ferreira_Sp Braga_2019,Pacos Ferreira,16,15,31,49
+2020-07-10,Guimaraes_Gil Vicente_2019,Guimaraes,16,15,31,49
+2020-07-11,Belenenses_Moreirense_2019,Moreirense,15,16,31,49
+2020-07-11,Belenenses_Moreirense_2019,Belenenses,16,15,31,49
+2020-07-13,Maritimo_Rio Ave_2019,Maritimo,16,16,32,49
+2020-07-13,Setubal_Famalicao_2019,Famalicao,16,16,32,49
+2020-07-13,Setubal_Famalicao_2019,Setubal,16,16,32,49
+2020-07-13,Maritimo_Rio Ave_2019,Rio Ave,16,16,32,49
+2020-07-14,Portimonense_Boavista_2019,Boavista,16,16,32,50
+2020-07-14,Santa Clara_Aves_2019,Santa Clara,16,16,32,50
+2020-07-14,Benfica_Guimaraes_2019,Guimaraes,16,16,32,50
+2020-07-14,Gil Vicente_Tondela_2019,Tondela,16,16,32,50
+2020-07-14,Gil Vicente_Tondela_2019,Gil Vicente,16,16,32,50
+2020-07-14,Portimonense_Boavista_2019,Portimonense,16,16,32,50
+2020-07-14,Benfica_Guimaraes_2019,Benfica,16,16,32,50
+2020-07-14,Santa Clara_Aves_2019,Aves,16,16,32,50
+2020-07-15,Sp Braga_Belenenses_2019,Belenenses,16,16,32,50
+2020-07-15,Moreirense_Pacos Ferreira_2019,Moreirense,16,16,32,50
+2020-07-15,Sp Braga_Belenenses_2019,Sp Braga,16,16,32,50
+2020-07-15,Porto_Sp Lisbon_2019,Porto,16,16,32,50
+2020-07-15,Moreirense_Pacos Ferreira_2019,Pacos Ferreira,16,16,32,50
+2020-07-15,Porto_Sp Lisbon_2019,Sp Lisbon,16,16,32,50
+2020-07-18,Famalicao_Boavista_2019,Boavista,16,17,33,50
+2020-07-18,Rio Ave_Santa Clara_2019,Santa Clara,16,17,33,50
+2020-07-18,Rio Ave_Santa Clara_2019,Rio Ave,17,16,33,50
+2020-07-18,Famalicao_Boavista_2019,Famalicao,17,16,33,50
+2020-07-19,Guimaraes_Maritimo_2019,Guimaraes,17,16,33,50
+2020-07-19,Belenenses_Gil Vicente_2019,Belenenses,17,16,33,50
+2020-07-19,Guimaraes_Maritimo_2019,Maritimo,16,17,33,50
+2020-07-19,Belenenses_Gil Vicente_2019,Gil Vicente,16,17,33,50
+2020-07-20,Tondela_Sp Braga_2019,Sp Braga,16,17,33,50
+2020-07-20,Tondela_Sp Braga_2019,Tondela,17,16,33,50
+2020-07-20,Pacos Ferreira_Portimonense_2019,Pacos Ferreira,17,16,33,50
+2020-07-20,Porto_Moreirense_2019,Moreirense,16,17,33,50
+2020-07-20,Porto_Moreirense_2019,Porto,17,16,33,50
+2020-07-20,Pacos Ferreira_Portimonense_2019,Portimonense,16,17,33,50
+2020-07-21,Aves_Benfica_2019,Aves,17,16,33,51
+2020-07-21,Aves_Benfica_2019,Benfica,16,17,33,51
+2020-07-21,Sp Lisbon_Setubal_2019,Sp Lisbon,17,16,33,51
+2020-07-21,Sp Lisbon_Setubal_2019,Setubal,16,17,33,51
+2020-07-24,Santa Clara_Guimaraes_2019,Santa Clara,17,17,34,51
+2020-07-24,Gil Vicente_Pacos Ferreira_2019,Pacos Ferreira,17,17,34,51
+2020-07-24,Gil Vicente_Pacos Ferreira_2019,Gil Vicente,17,17,34,51
+2020-07-24,Santa Clara_Guimaraes_2019,Guimaraes,17,17,34,51
+2020-07-25,Maritimo_Famalicao_2019,Famalicao,17,17,34,51
+2020-07-25,Benfica_Sp Lisbon_2019,Sp Lisbon,17,17,34,51
+2020-07-25,Benfica_Sp Lisbon_2019,Benfica,17,17,34,51
+2020-07-25,Sp Braga_Porto_2019,Sp Braga,17,17,34,51
+2020-07-25,Boavista_Rio Ave_2019,Boavista,17,17,34,51
+2020-07-25,Sp Braga_Porto_2019,Porto,17,17,34,51
+2020-07-25,Boavista_Rio Ave_2019,Rio Ave,17,17,34,51
+2020-07-25,Maritimo_Famalicao_2019,Maritimo,17,17,34,51
+2020-07-26,Moreirense_Tondela_2019,Moreirense,17,17,34,51
+2020-07-26,Setubal_Belenenses_2019,Setubal,17,17,34,51
+2020-07-26,Setubal_Belenenses_2019,Belenenses,17,17,34,51
+2020-07-26,Portimonense_Aves_2019,Portimonense,17,17,34,51
+2020-07-26,Portimonense_Aves_2019,Aves,17,17,34,51
+2020-07-26,Moreirense_Tondela_2019,Tondela,17,17,34,51

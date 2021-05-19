@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2020-09-11,Rizespor_Fenerbahce_2020,Fenerbahce,1,1,1,1
+2020-09-11,Rizespor_Fenerbahce_2020,Rizespor,1,1,1,1
+2020-09-12,Goztep_Denizlispor_2020,Denizlispor,1,1,1,1
+2020-09-12,Sivasspor_Alanyaspor_2020,Alanyaspor,1,1,1,1
+2020-09-12,Karagumruk_Yeni Malatyaspor_2020,Karagumruk,1,1,1,1
+2020-09-12,Karagumruk_Yeni Malatyaspor_2020,Yeni Malatyaspor,1,1,1,1
+2020-09-12,Goztep_Denizlispor_2020,Goztep,1,1,1,1
+2020-09-12,Galatasaray_Gaziantep_2020,Gaziantep,1,1,1,1
+2020-09-12,Sivasspor_Alanyaspor_2020,Sivasspor,1,1,1,1
+2020-09-12,Galatasaray_Gaziantep_2020,Galatasaray,1,1,1,1
+2020-09-13,Antalyaspor_Genclerbirligi_2020,Antalyaspor,1,1,1,1
+2020-09-13,Kayserispor_Kasimpasa_2020,Kasimpasa,1,1,1,1
+2020-09-13,Trabzonspor_Besiktas_2020,Besiktas,1,1,1,1
+2020-09-13,Trabzonspor_Besiktas_2020,Trabzonspor,1,1,1,1
+2020-09-13,Antalyaspor_Genclerbirligi_2020,Genclerbirligi,1,1,1,1
+2020-09-13,Kayserispor_Kasimpasa_2020,Kayserispor,1,1,1,1
+2020-09-13,Ankaragucu_Erzurum BB_2020,Ankaragucu,1,1,1,1
+2020-09-13,Ankaragucu_Erzurum BB_2020,Erzurum BB,1,1,1,1
+2020-09-14,Hatayspor_Buyuksehyr_2020,Hatayspor,1,1,1,1
+2020-09-14,Hatayspor_Buyuksehyr_2020,Buyuksehyr,1,1,1,1
+2020-09-18,Yeni Malatyaspor_Goztep_2020,Goztep,1,1,2,2
+2020-09-18,Yeni Malatyaspor_Goztep_2020,Yeni Malatyaspor,1,1,2,2
+2020-09-19,Besiktas_Antalyaspor_2020,Antalyaspor,1,1,2,2
+2020-09-19,Genclerbirligi_Konyaspor_2020,Genclerbirligi,1,1,2,2
+2020-09-19,Besiktas_Antalyaspor_2020,Besiktas,1,1,2,2
+2020-09-19,Denizlispor_Trabzonspor_2020,Trabzonspor,1,1,2,2
+2020-09-19,Alanyaspor_Kayserispor_2020,Alanyaspor,1,1,2,2
+2020-09-19,Alanyaspor_Kayserispor_2020,Kayserispor,1,1,2,2
+2020-09-19,Denizlispor_Trabzonspor_2020,Denizlispor,1,1,2,2
+2020-09-19,Genclerbirligi_Konyaspor_2020,Konyaspor,1,1,1,2
+2020-09-20,Gaziantep_Karagumruk_2020,Karagumruk,1,1,2,2
+2020-09-20,Erzurum BB_Sivasspor_2020,Sivasspor,1,1,2,2
+2020-09-20,Buyuksehyr_Galatasaray_2020,Buyuksehyr,1,1,2,2
+2020-09-20,Buyuksehyr_Galatasaray_2020,Galatasaray,1,1,2,2
+2020-09-20,Gaziantep_Karagumruk_2020,Gaziantep,1,1,2,2
+2020-09-20,Erzurum BB_Sivasspor_2020,Erzurum BB,1,1,2,2
+2020-09-20,Kasimpasa_Rizespor_2020,Kasimpasa,1,1,2,2
+2020-09-20,Kasimpasa_Rizespor_2020,Rizespor,1,1,2,2
+2020-09-21,Fenerbahce_Hatayspor_2020,Fenerbahce,1,1,2,2
+2020-09-21,Fenerbahce_Hatayspor_2020,Hatayspor,1,1,2,2
+2020-09-25,Karagumruk_Buyuksehyr_2020,Buyuksehyr,1,2,3,3
+2020-09-25,Karagumruk_Buyuksehyr_2020,Karagumruk,2,1,3,3
+2020-09-26,Hatayspor_Kasimpasa_2020,Hatayspor,2,1,3,3
+2020-09-26,Kayserispor_Erzurum BB_2020,Erzurum BB,1,2,3,3
+2020-09-26,Trabzonspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,1,2,3,3
+2020-09-26,Kayserispor_Erzurum BB_2020,Kayserispor,2,1,3,3
+2020-09-26,Trabzonspor_Yeni Malatyaspor_2020,Trabzonspor,2,1,3,3
+2020-09-26,Goztep_Gaziantep_2020,Gaziantep,1,2,3,3
+2020-09-26,Goztep_Gaziantep_2020,Goztep,2,1,3,3
+2020-09-26,Hatayspor_Kasimpasa_2020,Kasimpasa,1,2,3,3
+2020-09-27,Konyaspor_Besiktas_2020,Besiktas,1,2,3,3
+2020-09-27,Sivasspor_Ankaragucu_2020,Ankaragucu,1,1,2,3
+2020-09-27,Rizespor_Alanyaspor_2020,Alanyaspor,1,2,3,3
+2020-09-27,Rizespor_Alanyaspor_2020,Rizespor,2,1,3,3
+2020-09-27,Sivasspor_Ankaragucu_2020,Sivasspor,2,1,3,3
+2020-09-27,Galatasaray_Fenerbahce_2020,Galatasaray,2,1,3,3
+2020-09-27,Konyaspor_Besiktas_2020,Konyaspor,1,1,2,3
+2020-09-27,Galatasaray_Fenerbahce_2020,Fenerbahce,1,2,3,3
+2020-09-28,Antalyaspor_Denizlispor_2020,Denizlispor,1,2,3,3
+2020-09-28,Antalyaspor_Denizlispor_2020,Antalyaspor,2,1,3,3
+2020-10-02,Gaziantep_Trabzonspor_2020,Gaziantep,2,2,4,4
+2020-10-02,Ankaragucu_Kayserispor_2020,Kayserispor,2,2,4,4
+2020-10-02,Gaziantep_Trabzonspor_2020,Trabzonspor,2,2,4,4
+2020-10-02,Ankaragucu_Kayserispor_2020,Ankaragucu,2,1,3,4
+2020-10-03,Yeni Malatyaspor_Antalyaspor_2020,Antalyaspor,2,2,4,4
+2020-10-03,Buyuksehyr_Goztep_2020,Buyuksehyr,2,2,4,4
+2020-10-03,Erzurum BB_Rizespor_2020,Rizespor,2,2,4,4
+2020-10-03,Fenerbahce_Karagumruk_2020,Fenerbahce,2,2,4,4
+2020-10-03,Fenerbahce_Karagumruk_2020,Karagumruk,2,2,4,4
+2020-10-03,Erzurum BB_Rizespor_2020,Erzurum BB,2,2,4,4
+2020-10-03,Buyuksehyr_Goztep_2020,Goztep,2,2,4,4
+2020-10-03,Yeni Malatyaspor_Antalyaspor_2020,Yeni Malatyaspor,2,2,4,4
+2020-10-04,Alanyaspor_Hatayspor_2020,Hatayspor,2,2,4,4
+2020-10-04,Denizlispor_Konyaspor_2020,Denizlispor,2,2,4,4
+2020-10-04,Alanyaspor_Hatayspor_2020,Alanyaspor,2,2,4,4
+2020-10-04,Kasimpasa_Galatasaray_2020,Kasimpasa,2,2,4,4
+2020-10-04,Besiktas_Genclerbirligi_2020,Besiktas,2,2,4,4
+2020-10-04,Besiktas_Genclerbirligi_2020,Genclerbirligi,1,2,3,4
+2020-10-04,Kasimpasa_Galatasaray_2020,Galatasaray,2,2,4,4
+2020-10-04,Denizlispor_Konyaspor_2020,Konyaspor,1,2,3,4
+2020-10-17,Konyaspor_Yeni Malatyaspor_2020,Konyaspor,2,2,4,6
+2020-10-17,Kayserispor_Sivasspor_2020,Kayserispor,3,2,5,6
+2020-10-17,Trabzonspor_Buyuksehyr_2020,Buyuksehyr,2,3,5,6
+2020-10-17,Rizespor_Ankaragucu_2020,Ankaragucu,2,2,4,6
+2020-10-17,Trabzonspor_Buyuksehyr_2020,Trabzonspor,3,2,5,6
+2020-10-17,Kayserispor_Sivasspor_2020,Sivasspor,2,2,4,6
+2020-10-17,Rizespor_Ankaragucu_2020,Rizespor,3,2,5,6
+2020-10-17,Konyaspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,2,3,5,6
+2020-10-18,Antalyaspor_Gaziantep_2020,Gaziantep,2,3,5,6
+2020-10-18,Karagumruk_Kasimpasa_2020,Karagumruk,3,2,5,6
+2020-10-18,Antalyaspor_Gaziantep_2020,Antalyaspor,3,2,5,6
+2020-10-18,Goztep_Fenerbahce_2020,Fenerbahce,2,3,5,6
+2020-10-18,Goztep_Fenerbahce_2020,Goztep,3,2,5,6
+2020-10-18,Karagumruk_Kasimpasa_2020,Kasimpasa,2,3,5,6
+2020-10-19,Galatasaray_Alanyaspor_2020,Galatasaray,3,2,5,6
+2020-10-19,Genclerbirligi_Denizlispor_2020,Genclerbirligi,2,2,4,6
+2020-10-19,Genclerbirligi_Denizlispor_2020,Denizlispor,2,3,5,6
+2020-10-19,Galatasaray_Alanyaspor_2020,Alanyaspor,2,3,5,6
+2020-10-23,Kasimpasa_Goztep_2020,Kasimpasa,3,3,6,7
+2020-10-23,Kasimpasa_Goztep_2020,Goztep,3,3,6,7
+2020-10-24,Gaziantep_Konyaspor_2020,Konyaspor,2,3,5,7
+2020-10-24,Erzurum BB_Galatasaray_2020,Erzurum BB,3,2,5,7
+2020-10-24,Buyuksehyr_Antalyaspor_2020,Buyuksehyr,3,3,6,7
+2020-10-24,Gaziantep_Konyaspor_2020,Gaziantep,3,3,6,7
+2020-10-24,Erzurum BB_Galatasaray_2020,Galatasaray,3,3,6,7
+2020-10-24,Buyuksehyr_Antalyaspor_2020,Antalyaspor,3,3,6,7
+2020-10-25,Yeni Malatyaspor_Genclerbirligi_2020,Yeni Malatyaspor,3,3,6,7
+2020-10-25,Alanyaspor_Karagumruk_2020,Alanyaspor,3,3,6,7
+2020-10-25,Yeni Malatyaspor_Genclerbirligi_2020,Genclerbirligi,2,3,5,7
+2020-10-25,Fenerbahce_Trabzonspor_2020,Fenerbahce,3,3,6,7
+2020-10-25,Alanyaspor_Karagumruk_2020,Karagumruk,3,3,6,7
+2020-10-25,Fenerbahce_Trabzonspor_2020,Trabzonspor,3,3,6,7
+2020-10-26,Sivasspor_Rizespor_2020,Sivasspor,3,2,5,7
+2020-10-26,Denizlispor_Besiktas_2020,Denizlispor,3,3,6,7
+2020-10-26,Sivasspor_Rizespor_2020,Rizespor,3,3,6,7
+2020-10-26,Denizlispor_Besiktas_2020,Besiktas,2,3,5,7
+2020-10-30,Karagumruk_Erzurum BB_2020,Karagumruk,4,3,7,8
+2020-10-30,Karagumruk_Erzurum BB_2020,Erzurum BB,3,3,6,8
+2020-10-30,Trabzonspor_Kasimpasa_2020,Trabzonspor,4,3,7,8
+2020-10-30,Trabzonspor_Kasimpasa_2020,Kasimpasa,3,4,7,8
+2020-10-31,Galatasaray_Ankaragucu_2020,Ankaragucu,2,3,5,8
+2020-10-31,Galatasaray_Ankaragucu_2020,Galatasaray,4,3,7,8
+2020-10-31,Genclerbirligi_Gaziantep_2020,Genclerbirligi,3,3,6,8
+2020-10-31,Genclerbirligi_Gaziantep_2020,Gaziantep,3,4,7,8
+2020-11-01,Besiktas_Yeni Malatyaspor_2020,Besiktas,3,3,6,8
+2020-11-01,Konyaspor_Buyuksehyr_2020,Buyuksehyr,3,4,7,8
+2020-11-01,Rizespor_Kayserispor_2020,Rizespor,4,3,7,8
+2020-11-01,Besiktas_Yeni Malatyaspor_2020,Yeni Malatyaspor,3,4,7,8
+2020-11-01,Rizespor_Kayserispor_2020,Kayserispor,3,3,6,8
+2020-11-01,Konyaspor_Buyuksehyr_2020,Konyaspor,3,3,6,8
+2020-11-02,Antalyaspor_Fenerbahce_2020,Fenerbahce,3,4,7,8
+2020-11-02,Hatayspor_Sivasspor_2020,Sivasspor,3,3,6,8
+2020-11-02,Antalyaspor_Fenerbahce_2020,Antalyaspor,4,3,7,8
+2020-11-02,Hatayspor_Sivasspor_2020,Hatayspor,3,2,5,8
+2020-11-06,Gaziantep_Besiktas_2020,Besiktas,3,4,7,9
+2020-11-06,Gaziantep_Besiktas_2020,Gaziantep,4,4,8,9
+2020-11-07,Kasimpasa_Antalyaspor_2020,Kasimpasa,4,4,8,9
+2020-11-07,Erzurum BB_Goztep_2020,Goztep,3,4,7,9
+2020-11-07,Alanyaspor_Trabzonspor_2020,Trabzonspor,4,4,8,9
+2020-11-07,Fenerbahce_Konyaspor_2020,Fenerbahce,4,4,8,9
+2020-11-07,Alanyaspor_Trabzonspor_2020,Alanyaspor,4,3,7,9
+2020-11-07,Erzurum BB_Goztep_2020,Erzurum BB,4,3,7,9
+2020-11-07,Fenerbahce_Konyaspor_2020,Konyaspor,3,4,7,9
+2020-11-07,Kasimpasa_Antalyaspor_2020,Antalyaspor,4,4,8,9
+2020-11-08,Yeni Malatyaspor_Denizlispor_2020,Yeni Malatyaspor,4,4,8,9
+2020-11-08,Kayserispor_Hatayspor_2020,Hatayspor,3,3,6,9
+2020-11-08,Yeni Malatyaspor_Denizlispor_2020,Denizlispor,3,4,7,9
+2020-11-08,Kayserispor_Hatayspor_2020,Kayserispor,4,3,7,9
+2020-11-08,Buyuksehyr_Genclerbirligi_2020,Buyuksehyr,4,4,8,9
+2020-11-08,Sivasspor_Galatasaray_2020,Galatasaray,4,4,8,9
+2020-11-08,Ankaragucu_Karagumruk_2020,Ankaragucu,3,3,6,9
+2020-11-08,Ankaragucu_Karagumruk_2020,Karagumruk,4,4,8,9
+2020-11-08,Buyuksehyr_Genclerbirligi_2020,Genclerbirligi,3,4,7,9
+2020-11-08,Sivasspor_Galatasaray_2020,Sivasspor,4,3,7,9
+2020-11-21,Karagumruk_Sivasspor_2020,Sivasspor,4,4,8,11
+2020-11-21,Karagumruk_Sivasspor_2020,Karagumruk,5,4,9,11
+2020-11-21,Genclerbirligi_Fenerbahce_2020,Genclerbirligi,4,4,8,11
+2020-11-21,Besiktas_Buyuksehyr_2020,Buyuksehyr,4,5,9,11
+2020-11-21,Denizlispor_Gaziantep_2020,Denizlispor,4,4,8,11
+2020-11-21,Besiktas_Buyuksehyr_2020,Besiktas,4,4,8,11
+2020-11-21,Genclerbirligi_Fenerbahce_2020,Fenerbahce,4,5,9,11
+2020-11-21,Denizlispor_Gaziantep_2020,Gaziantep,4,5,9,11
+2020-11-22,Trabzonspor_Erzurum BB_2020,Trabzonspor,5,4,9,11
+2020-11-22,Trabzonspor_Erzurum BB_2020,Erzurum BB,4,4,8,11
+2020-11-22,Goztep_Ankaragucu_2020,Ankaragucu,3,4,7,11
+2020-11-22,Hatayspor_Rizespor_2020,Rizespor,4,4,8,11
+2020-11-22,Goztep_Ankaragucu_2020,Goztep,4,4,8,11
+2020-11-22,Antalyaspor_Alanyaspor_2020,Alanyaspor,4,4,8,11
+2020-11-22,Antalyaspor_Alanyaspor_2020,Antalyaspor,5,4,9,11
+2020-11-22,Hatayspor_Rizespor_2020,Hatayspor,4,3,7,11
+2020-11-22,Konyaspor_Kasimpasa_2020,Kasimpasa,4,5,9,11
+2020-11-22,Konyaspor_Kasimpasa_2020,Konyaspor,4,4,8,11
+2020-11-23,Galatasaray_Kayserispor_2020,Kayserispor,4,4,8,11
+2020-11-23,Galatasaray_Kayserispor_2020,Galatasaray,5,4,9,11
+2020-11-27,Ankaragucu_Trabzonspor_2020,Ankaragucu,4,4,8,12
+2020-11-27,Ankaragucu_Trabzonspor_2020,Trabzonspor,5,5,10,12
+2020-11-28,Gaziantep_Yeni Malatyaspor_2020,Yeni Malatyaspor,4,5,9,12
+2020-11-28,Buyuksehyr_Denizlispor_2020,Denizlispor,4,5,9,12
+2020-11-28,Buyuksehyr_Denizlispor_2020,Buyuksehyr,5,5,10,12
+2020-11-28,Rizespor_Galatasaray_2020,Rizespor,5,4,9,12
+2020-11-28,Rizespor_Galatasaray_2020,Galatasaray,5,5,10,12
+2020-11-28,Gaziantep_Yeni Malatyaspor_2020,Gaziantep,5,5,10,12
+2020-11-29,Fenerbahce_Besiktas_2020,Besiktas,4,5,9,12
+2020-11-29,Alanyaspor_Konyaspor_2020,Alanyaspor,5,4,9,12
+2020-11-29,Kasimpasa_Genclerbirligi_2020,Kasimpasa,5,5,10,12
+2020-11-29,Erzurum BB_Antalyaspor_2020,Antalyaspor,5,5,10,12
+2020-11-29,Fenerbahce_Besiktas_2020,Fenerbahce,5,5,10,12
+2020-11-29,Kasimpasa_Genclerbirligi_2020,Genclerbirligi,4,5,9,12
+2020-11-29,Erzurum BB_Antalyaspor_2020,Erzurum BB,5,4,9,12
+2020-11-29,Alanyaspor_Konyaspor_2020,Konyaspor,4,5,9,12
+2020-11-30,Kayserispor_Karagumruk_2020,Kayserispor,5,4,9,12
+2020-11-30,Sivasspor_Goztep_2020,Sivasspor,5,4,9,12
+2020-11-30,Sivasspor_Goztep_2020,Goztep,4,5,9,12
+2020-11-30,Kayserispor_Karagumruk_2020,Karagumruk,5,5,10,12
+2020-12-04,Besiktas_Kasimpasa_2020,Kasimpasa,5,6,11,13
+2020-12-04,Besiktas_Kasimpasa_2020,Besiktas,5,5,10,13
+2020-12-05,Yeni Malatyaspor_Buyuksehyr_2020,Yeni Malatyaspor,5,5,10,13
+2020-12-05,Yeni Malatyaspor_Buyuksehyr_2020,Buyuksehyr,5,6,11,13
+2020-12-05,Konyaspor_Erzurum BB_2020,Erzurum BB,5,5,10,13
+2020-12-05,Genclerbirligi_Alanyaspor_2020,Genclerbirligi,5,5,10,13
+2020-12-05,Goztep_Kayserispor_2020,Kayserispor,5,5,10,13
+2020-12-05,Konyaspor_Erzurum BB_2020,Konyaspor,5,5,10,13
+2020-12-05,Genclerbirligi_Alanyaspor_2020,Alanyaspor,5,5,10,13
+2020-12-05,Goztep_Kayserispor_2020,Goztep,5,5,10,13
+2020-12-05,Galatasaray_Hatayspor_2020,Hatayspor,4,4,8,13
+2020-12-05,Galatasaray_Hatayspor_2020,Galatasaray,6,5,11,13
+2020-12-06,Karagumruk_Rizespor_2020,Karagumruk,6,5,11,13
+2020-12-06,Denizlispor_Fenerbahce_2020,Fenerbahce,5,6,11,13
+2020-12-06,Karagumruk_Rizespor_2020,Rizespor,5,5,10,13
+2020-12-06,Antalyaspor_Ankaragucu_2020,Antalyaspor,6,5,11,13
+2020-12-06,Antalyaspor_Ankaragucu_2020,Ankaragucu,4,5,9,13
+2020-12-06,Denizlispor_Fenerbahce_2020,Denizlispor,5,5,10,13
+2020-12-07,Trabzonspor_Sivasspor_2020,Trabzonspor,6,5,11,13
+2020-12-07,Trabzonspor_Sivasspor_2020,Sivasspor,5,5,10,13
+2020-12-09,Hatayspor_Erzurum BB_2020,Erzurum BB,5,6,11,14
+2020-12-09,Goztep_Alanyaspor_2020,Goztep,6,5,11,14
+2020-12-09,Goztep_Alanyaspor_2020,Alanyaspor,5,6,11,14
+2020-12-09,Hatayspor_Erzurum BB_2020,Hatayspor,5,4,9,14
+2020-12-11,Kasimpasa_Denizlispor_2020,Denizlispor,5,6,11,14
+2020-12-11,Kasimpasa_Denizlispor_2020,Kasimpasa,6,6,12,14
+2020-12-12,Ankaragucu_Konyaspor_2020,Ankaragucu,5,5,10,14
+2020-12-12,Rizespor_Goztep_2020,Goztep,6,6,12,14
+2020-12-12,Fenerbahce_Yeni Malatyaspor_2020,Fenerbahce,6,6,12,14
+2020-12-12,Ankaragucu_Konyaspor_2020,Konyaspor,5,6,11,14
+2020-12-12,Hatayspor_Karagumruk_2020,Hatayspor,6,4,10,14
+2020-12-12,Rizespor_Goztep_2020,Rizespor,6,5,11,14
+2020-12-12,Hatayspor_Karagumruk_2020,Karagumruk,6,6,12,14
+2020-12-12,Kayserispor_Trabzonspor_2020,Kayserispor,6,5,11,14
+2020-12-12,Fenerbahce_Yeni Malatyaspor_2020,Yeni Malatyaspor,5,6,11,14
+2020-12-12,Kayserispor_Trabzonspor_2020,Trabzonspor,6,6,12,14
+2020-12-13,Buyuksehyr_Gaziantep_2020,Gaziantep,5,6,11,14
+2020-12-13,Alanyaspor_Besiktas_2020,Besiktas,5,6,11,14
+2020-12-13,Erzurum BB_Genclerbirligi_2020,Genclerbirligi,5,6,11,14
+2020-12-13,Alanyaspor_Besiktas_2020,Alanyaspor,6,6,12,14
+2020-12-13,Buyuksehyr_Gaziantep_2020,Buyuksehyr,6,6,12,14
+2020-12-13,Erzurum BB_Genclerbirligi_2020,Erzurum BB,6,6,12,14
+2020-12-14,Sivasspor_Antalyaspor_2020,Antalyaspor,6,6,12,14
+2020-12-14,Sivasspor_Antalyaspor_2020,Sivasspor,6,5,11,14
+2020-12-15,Ankaragucu_Hatayspor_2020,Hatayspor,6,5,11,15
+2020-12-15,Ankaragucu_Hatayspor_2020,Ankaragucu,6,5,11,15
+2020-12-18,Karagumruk_Galatasaray_2020,Galatasaray,6,6,12,15
+2020-12-18,Karagumruk_Galatasaray_2020,Karagumruk,7,6,13,15
+2020-12-19,Gaziantep_Fenerbahce_2020,Fenerbahce,6,7,13,15
+2020-12-19,Goztep_Hatayspor_2020,Goztep,7,6,13,15
+2020-12-19,Yeni Malatyaspor_Kasimpasa_2020,Kasimpasa,6,7,13,15
+2020-12-19,Trabzonspor_Rizespor_2020,Rizespor,6,6,12,15
+2020-12-19,Trabzonspor_Rizespor_2020,Trabzonspor,7,6,13,15
+2020-12-19,Gaziantep_Fenerbahce_2020,Gaziantep,6,6,12,15
+2020-12-19,Goztep_Hatayspor_2020,Hatayspor,6,6,12,15
+2020-12-19,Yeni Malatyaspor_Kasimpasa_2020,Yeni Malatyaspor,6,6,12,15
+2020-12-20,Denizlispor_Alanyaspor_2020,Alanyaspor,6,7,13,15
+2020-12-20,Besiktas_Erzurum BB_2020,Besiktas,6,6,12,15
+2020-12-20,Genclerbirligi_Ankaragucu_2020,Genclerbirligi,6,6,12,15
+2020-12-20,Genclerbirligi_Ankaragucu_2020,Ankaragucu,6,6,12,15
+2020-12-20,Besiktas_Erzurum BB_2020,Erzurum BB,6,7,13,15
+2020-12-20,Denizlispor_Alanyaspor_2020,Denizlispor,6,6,12,15
+2020-12-21,Konyaspor_Sivasspor_2020,Konyaspor,6,6,12,15
+2020-12-21,Konyaspor_Sivasspor_2020,Sivasspor,6,6,12,15
+2020-12-21,Antalyaspor_Kayserispor_2020,Antalyaspor,7,6,13,15
+2020-12-21,Antalyaspor_Kayserispor_2020,Kayserispor,6,6,12,15
+2020-12-22,Hatayspor_Trabzonspor_2020,Hatayspor,7,6,13,16
+2020-12-22,Galatasaray_Goztep_2020,Goztep,7,7,14,16
+2020-12-22,Galatasaray_Goztep_2020,Galatasaray,7,6,13,16
+2020-12-22,Hatayspor_Trabzonspor_2020,Trabzonspor,7,7,14,16
+2020-12-23,Alanyaspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,6,7,13,16
+2020-12-23,Erzurum BB_Denizlispor_2020,Denizlispor,6,7,13,16
+2020-12-23,Kasimpasa_Gaziantep_2020,Gaziantep,6,7,13,16
+2020-12-23,Fenerbahce_Buyuksehyr_2020,Buyuksehyr,6,7,13,16
+2020-12-23,Alanyaspor_Yeni Malatyaspor_2020,Alanyaspor,7,7,14,16
+2020-12-23,Erzurum BB_Denizlispor_2020,Erzurum BB,7,7,14,16
+2020-12-23,Kasimpasa_Gaziantep_2020,Kasimpasa,7,7,14,16
+2020-12-23,Fenerbahce_Buyuksehyr_2020,Fenerbahce,7,7,14,16
+2020-12-24,Sivasspor_Genclerbirligi_2020,Sivasspor,7,6,13,16
+2020-12-24,Kayserispor_Konyaspor_2020,Konyaspor,6,7,13,16
+2020-12-24,Kayserispor_Konyaspor_2020,Kayserispor,7,6,13,16
+2020-12-24,Ankaragucu_Besiktas_2020,Besiktas,6,7,13,16
+2020-12-24,Ankaragucu_Besiktas_2020,Ankaragucu,7,6,13,16
+2020-12-24,Rizespor_Antalyaspor_2020,Antalyaspor,7,7,14,16
+2020-12-24,Sivasspor_Genclerbirligi_2020,Genclerbirligi,6,7,13,16
+2020-12-24,Rizespor_Antalyaspor_2020,Rizespor,7,6,13,16
+2020-12-26,Trabzonspor_Galatasaray_2020,Galatasaray,7,7,14,16
+2020-12-26,Trabzonspor_Galatasaray_2020,Trabzonspor,8,7,15,16
+2020-12-26,Goztep_Karagumruk_2020,Karagumruk,7,7,14,16
+2020-12-26,Goztep_Karagumruk_2020,Goztep,8,7,15,16
+2020-12-27,Buyuksehyr_Kasimpasa_2020,Buyuksehyr,7,7,14,16
+2020-12-27,Yeni Malatyaspor_Erzurum BB_2020,Yeni Malatyaspor,7,7,14,16
+2020-12-27,Buyuksehyr_Kasimpasa_2020,Kasimpasa,7,8,15,16
+2020-12-27,Denizlispor_Ankaragucu_2020,Denizlispor,7,7,14,16
+2020-12-27,Denizlispor_Ankaragucu_2020,Ankaragucu,7,7,14,16
+2020-12-27,Gaziantep_Alanyaspor_2020,Alanyaspor,7,8,15,16
+2020-12-27,Gaziantep_Alanyaspor_2020,Gaziantep,7,7,14,16
+2020-12-27,Yeni Malatyaspor_Erzurum BB_2020,Erzurum BB,7,8,15,16
+2020-12-28,Konyaspor_Rizespor_2020,Konyaspor,7,7,14,16
+2020-12-28,Besiktas_Sivasspor_2020,Sivasspor,7,7,14,16
+2020-12-28,Konyaspor_Rizespor_2020,Rizespor,7,7,14,16
+2020-12-28,Genclerbirligi_Kayserispor_2020,Genclerbirligi,7,7,14,16
+2020-12-28,Genclerbirligi_Kayserispor_2020,Kayserispor,7,7,14,16
+2020-12-28,Besiktas_Sivasspor_2020,Besiktas,7,7,14,16
+2020-12-29,Antalyaspor_Hatayspor_2020,Antalyaspor,8,7,15,17
+2020-12-29,Antalyaspor_Hatayspor_2020,Hatayspor,7,7,14,17
+2021-01-02,Ankaragucu_Yeni Malatyaspor_2020,Yeni Malatyaspor,7,8,15,17
+2021-01-02,Hatayspor_Konyaspor_2020,Konyaspor,7,8,15,17
+2021-01-02,Sivasspor_Denizlispor_2020,Denizlispor,7,8,15,17
+2021-01-02,Galatasaray_Antalyaspor_2020,Antalyaspor,8,8,16,17
+2021-01-02,Erzurum BB_Gaziantep_2020,Erzurum BB,8,8,16,17
+2021-01-02,Erzurum BB_Gaziantep_2020,Gaziantep,7,8,15,17
+2021-01-02,Alanyaspor_Buyuksehyr_2020,Alanyaspor,8,8,16,17
+2021-01-02,Hatayspor_Konyaspor_2020,Hatayspor,8,7,15,17
+2021-01-02,Alanyaspor_Buyuksehyr_2020,Buyuksehyr,7,8,15,17
+2021-01-02,Galatasaray_Antalyaspor_2020,Galatasaray,8,7,15,17
+2021-01-02,Sivasspor_Denizlispor_2020,Sivasspor,8,7,15,17
+2021-01-02,Ankaragucu_Yeni Malatyaspor_2020,Ankaragucu,8,7,15,17
+2021-01-03,Karagumruk_Trabzonspor_2020,Karagumruk,8,7,15,17
+2021-01-03,Karagumruk_Trabzonspor_2020,Trabzonspor,8,8,16,17
+2021-01-03,Rizespor_Genclerbirligi_2020,Genclerbirligi,7,8,15,17
+2021-01-03,Rizespor_Genclerbirligi_2020,Rizespor,8,7,15,17
+2021-01-03,Kayserispor_Besiktas_2020,Kayserispor,8,7,15,17
+2021-01-03,Kayserispor_Besiktas_2020,Besiktas,7,8,15,17
+2021-01-04,Kasimpasa_Fenerbahce_2020,Fenerbahce,7,8,15,17
+2021-01-04,Kasimpasa_Fenerbahce_2020,Kasimpasa,8,8,16,17
+2021-01-05,Yeni Malatyaspor_Sivasspor_2020,Yeni Malatyaspor,8,8,16,18
+2021-01-05,Gaziantep_Ankaragucu_2020,Ankaragucu,8,8,16,18
+2021-01-05,Gaziantep_Ankaragucu_2020,Gaziantep,8,8,16,18
+2021-01-05,Konyaspor_Galatasaray_2020,Konyaspor,8,8,16,18
+2021-01-05,Konyaspor_Galatasaray_2020,Galatasaray,8,8,16,18
+2021-01-05,Yeni Malatyaspor_Sivasspor_2020,Sivasspor,8,8,16,18
+2021-01-06,Antalyaspor_Karagumruk_2020,Karagumruk,8,8,16,18
+2021-01-06,Besiktas_Rizespor_2020,Besiktas,8,8,16,18
+2021-01-06,Buyuksehyr_Erzurum BB_2020,Erzurum BB,8,9,17,18
+2021-01-06,Trabzonspor_Goztep_2020,Goztep,8,8,16,18
+2021-01-06,Antalyaspor_Karagumruk_2020,Antalyaspor,9,8,17,18
+2021-01-06,Trabzonspor_Goztep_2020,Trabzonspor,9,8,17,18
+2021-01-06,Besiktas_Rizespor_2020,Rizespor,8,8,16,18
+2021-01-06,Denizlispor_Kayserispor_2020,Kayserispor,8,8,16,18
+2021-01-06,Genclerbirligi_Hatayspor_2020,Genclerbirligi,8,8,16,18
+2021-01-06,Denizlispor_Kayserispor_2020,Denizlispor,8,8,16,18
+2021-01-06,Genclerbirligi_Hatayspor_2020,Hatayspor,8,8,16,18
+2021-01-06,Buyuksehyr_Erzurum BB_2020,Buyuksehyr,8,8,16,18
+2021-01-07,Fenerbahce_Alanyaspor_2020,Fenerbahce,8,8,16,18
+2021-01-07,Fenerbahce_Alanyaspor_2020,Alanyaspor,8,9,17,18
+2021-01-09,Kayserispor_Yeni Malatyaspor_2020,Yeni Malatyaspor,8,9,17,18
+2021-01-09,Goztep_Antalyaspor_2020,Goztep,9,8,17,18
+2021-01-09,Sivasspor_Gaziantep_2020,Gaziantep,8,9,17,18
+2021-01-09,Galatasaray_Genclerbirligi_2020,Galatasaray,9,8,17,18
+2021-01-09,Kayserispor_Yeni Malatyaspor_2020,Kayserispor,9,8,17,18
+2021-01-09,Goztep_Antalyaspor_2020,Antalyaspor,9,9,18,18
+2021-01-09,Galatasaray_Genclerbirligi_2020,Genclerbirligi,8,9,17,18
+2021-01-09,Sivasspor_Gaziantep_2020,Sivasspor,9,8,17,18
+2021-01-10,Karagumruk_Konyaspor_2020,Konyaspor,8,9,17,18
+2021-01-10,Rizespor_Denizlispor_2020,Rizespor,9,8,17,18
+2021-01-10,Rizespor_Denizlispor_2020,Denizlispor,8,9,17,18
+2021-01-10,Ankaragucu_Buyuksehyr_2020,Buyuksehyr,8,9,17,18
+2021-01-10,Hatayspor_Besiktas_2020,Besiktas,8,9,17,18
+2021-01-10,Karagumruk_Konyaspor_2020,Karagumruk,9,8,17,18
+2021-01-10,Hatayspor_Besiktas_2020,Hatayspor,9,8,17,18
+2021-01-10,Ankaragucu_Buyuksehyr_2020,Ankaragucu,9,8,17,18
+2021-01-11,Erzurum BB_Fenerbahce_2020,Erzurum BB,9,9,18,18
+2021-01-11,Erzurum BB_Fenerbahce_2020,Fenerbahce,8,9,17,18
+2021-01-11,Alanyaspor_Kasimpasa_2020,Alanyaspor,9,9,18,18
+2021-01-11,Alanyaspor_Kasimpasa_2020,Kasimpasa,8,9,17,18
+2021-01-15,Genclerbirligi_Karagumruk_2020,Karagumruk,9,9,18,19
+2021-01-15,Genclerbirligi_Karagumruk_2020,Genclerbirligi,9,9,18,19
+2021-01-16,Antalyaspor_Trabzonspor_2020,Antalyaspor,10,9,19,19
+2021-01-16,Buyuksehyr_Sivasspor_2020,Sivasspor,9,9,18,19
+2021-01-16,Gaziantep_Kayserispor_2020,Kayserispor,9,9,18,19
+2021-01-16,Buyuksehyr_Sivasspor_2020,Buyuksehyr,9,9,18,19
+2021-01-16,Gaziantep_Kayserispor_2020,Gaziantep,9,9,18,19
+2021-01-16,Konyaspor_Goztep_2020,Konyaspor,9,9,18,19
+2021-01-16,Konyaspor_Goztep_2020,Goztep,9,9,18,19
+2021-01-16,Antalyaspor_Trabzonspor_2020,Trabzonspor,9,9,18,19
+2021-01-17,Denizlispor_Hatayspor_2020,Denizlispor,9,9,18,19
+2021-01-17,Yeni Malatyaspor_Rizespor_2020,Rizespor,9,9,18,19
+2021-01-17,Besiktas_Galatasaray_2020,Besiktas,9,9,18,19
+2021-01-17,Denizlispor_Hatayspor_2020,Hatayspor,9,9,18,19
+2021-01-17,Yeni Malatyaspor_Rizespor_2020,Yeni Malatyaspor,9,9,18,19
+2021-01-17,Besiktas_Galatasaray_2020,Galatasaray,9,9,18,19
+2021-01-18,Kasimpasa_Erzurum BB_2020,Kasimpasa,9,9,18,19
+2021-01-18,Kasimpasa_Erzurum BB_2020,Erzurum BB,9,10,19,19
+2021-01-18,Fenerbahce_Ankaragucu_2020,Fenerbahce,9,9,18,19
+2021-01-18,Fenerbahce_Ankaragucu_2020,Ankaragucu,9,9,18,19
+2021-01-19,Goztep_Genclerbirligi_2020,Genclerbirligi,9,10,19,20
+2021-01-19,Kayserispor_Buyuksehyr_2020,Kayserispor,10,9,19,20
+2021-01-19,Trabzonspor_Konyaspor_2020,Konyaspor,9,10,19,20
+2021-01-19,Goztep_Genclerbirligi_2020,Goztep,10,9,19,20
+2021-01-19,Trabzonspor_Konyaspor_2020,Trabzonspor,10,9,19,20
+2021-01-19,Kayserispor_Buyuksehyr_2020,Buyuksehyr,9,10,19,20
+2021-01-20,Hatayspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,9,10,19,20
+2021-01-20,Galatasaray_Denizlispor_2020,Denizlispor,9,10,19,20
+2021-01-20,Galatasaray_Denizlispor_2020,Galatasaray,10,9,19,20
+2021-01-20,Hatayspor_Yeni Malatyaspor_2020,Hatayspor,10,9,19,20
+2021-01-20,Rizespor_Gaziantep_2020,Gaziantep,9,10,19,20
+2021-01-20,Rizespor_Gaziantep_2020,Rizespor,10,9,19,20
+2021-01-21,Ankaragucu_Kasimpasa_2020,Ankaragucu,10,9,19,20
+2021-01-21,Erzurum BB_Alanyaspor_2020,Alanyaspor,9,10,19,20
+2021-01-21,Sivasspor_Fenerbahce_2020,Sivasspor,10,9,19,20
+2021-01-21,Karagumruk_Besiktas_2020,Besiktas,9,10,19,20
+2021-01-21,Sivasspor_Fenerbahce_2020,Fenerbahce,9,10,19,20
+2021-01-21,Ankaragucu_Kasimpasa_2020,Kasimpasa,9,10,19,20
+2021-01-21,Karagumruk_Besiktas_2020,Karagumruk,10,9,19,20
+2021-01-21,Erzurum BB_Alanyaspor_2020,Erzurum BB,10,10,20,20
+2021-01-23,Genclerbirligi_Trabzonspor_2020,Genclerbirligi,10,10,20,20
+2021-01-23,Buyuksehyr_Rizespor_2020,Rizespor,10,10,20,20
+2021-01-23,Buyuksehyr_Rizespor_2020,Buyuksehyr,10,10,20,20
+2021-01-23,Genclerbirligi_Trabzonspor_2020,Trabzonspor,10,10,20,20
+2021-01-24,Yeni Malatyaspor_Galatasaray_2020,Yeni Malatyaspor,10,10,20,20
+2021-01-24,Denizlispor_Karagumruk_2020,Karagumruk,10,10,20,20
+2021-01-24,Yeni Malatyaspor_Galatasaray_2020,Galatasaray,10,10,20,20
+2021-01-24,Denizlispor_Karagumruk_2020,Denizlispor,10,10,20,20
+2021-01-24,Gaziantep_Hatayspor_2020,Gaziantep,10,10,20,20
+2021-01-24,Konyaspor_Antalyaspor_2020,Konyaspor,10,10,20,20
+2021-01-24,Besiktas_Goztep_2020,Goztep,10,10,20,20
+2021-01-24,Gaziantep_Hatayspor_2020,Hatayspor,10,10,20,20
+2021-01-24,Konyaspor_Antalyaspor_2020,Antalyaspor,10,10,20,20
+2021-01-24,Besiktas_Goztep_2020,Besiktas,10,10,20,20
+2021-01-25,Kasimpasa_Sivasspor_2020,Sivasspor,10,10,20,20
+2021-01-25,Kasimpasa_Sivasspor_2020,Kasimpasa,10,10,20,20
+2021-01-25,Fenerbahce_Kayserispor_2020,Fenerbahce,10,10,20,20
+2021-01-25,Fenerbahce_Kayserispor_2020,Kayserispor,10,10,20,20
+2021-01-25,Alanyaspor_Ankaragucu_2020,Ankaragucu,10,10,20,20
+2021-01-25,Alanyaspor_Ankaragucu_2020,Alanyaspor,10,10,20,20
+2021-01-29,Yeni Malatyaspor_Karagumruk_2020,Yeni Malatyaspor,11,10,21,21
+2021-01-29,Gaziantep_Galatasaray_2020,Galatasaray,10,11,21,21
+2021-01-29,Gaziantep_Galatasaray_2020,Gaziantep,11,10,21,21
+2021-01-29,Yeni Malatyaspor_Karagumruk_2020,Karagumruk,10,11,21,21
+2021-01-30,Buyuksehyr_Hatayspor_2020,Buyuksehyr,11,10,21,21
+2021-01-30,Kasimpasa_Kayserispor_2020,Kayserispor,10,11,21,21
+2021-01-30,Buyuksehyr_Hatayspor_2020,Hatayspor,10,11,21,21
+2021-01-30,Fenerbahce_Rizespor_2020,Rizespor,10,11,21,21
+2021-01-30,Kasimpasa_Kayserispor_2020,Kasimpasa,11,10,21,21
+2021-01-30,Fenerbahce_Rizespor_2020,Fenerbahce,11,10,21,21
+2021-01-31,Besiktas_Trabzonspor_2020,Trabzonspor,10,11,21,21
+2021-01-31,Genclerbirligi_Antalyaspor_2020,Genclerbirligi,11,10,21,21
+2021-01-31,Genclerbirligi_Antalyaspor_2020,Antalyaspor,10,11,21,21
+2021-01-31,Denizlispor_Goztep_2020,Goztep,10,11,21,21
+2021-01-31,Besiktas_Trabzonspor_2020,Besiktas,11,10,21,21
+2021-01-31,Erzurum BB_Ankaragucu_2020,Erzurum BB,11,10,21,21
+2021-01-31,Alanyaspor_Sivasspor_2020,Alanyaspor,11,10,21,21
+2021-01-31,Erzurum BB_Ankaragucu_2020,Ankaragucu,10,11,21,21
+2021-01-31,Alanyaspor_Sivasspor_2020,Sivasspor,10,11,21,21
+2021-01-31,Denizlispor_Goztep_2020,Denizlispor,11,10,21,21
+2021-02-02,Galatasaray_Buyuksehyr_2020,Buyuksehyr,11,11,22,22
+2021-02-02,Hatayspor_Fenerbahce_2020,Fenerbahce,11,11,22,22
+2021-02-02,Hatayspor_Fenerbahce_2020,Hatayspor,11,11,22,22
+2021-02-02,Galatasaray_Buyuksehyr_2020,Galatasaray,11,11,22,22
+2021-02-02,Rizespor_Kasimpasa_2020,Kasimpasa,11,11,22,22
+2021-02-02,Rizespor_Kasimpasa_2020,Rizespor,11,11,22,22
+2021-02-03,Kayserispor_Alanyaspor_2020,Kayserispor,11,11,22,22
+2021-02-03,Antalyaspor_Besiktas_2020,Besiktas,11,11,22,22
+2021-02-03,Sivasspor_Erzurum BB_2020,Sivasspor,11,11,22,22
+2021-02-03,Antalyaspor_Besiktas_2020,Antalyaspor,11,11,22,22
+2021-02-03,Sivasspor_Erzurum BB_2020,Erzurum BB,11,11,22,22
+2021-02-03,Konyaspor_Genclerbirligi_2020,Konyaspor,11,10,21,22
+2021-02-03,Konyaspor_Genclerbirligi_2020,Genclerbirligi,11,11,22,22
+2021-02-03,Karagumruk_Gaziantep_2020,Karagumruk,11,11,22,22
+2021-02-03,Kayserispor_Alanyaspor_2020,Alanyaspor,11,11,22,22
+2021-02-03,Karagumruk_Gaziantep_2020,Gaziantep,11,11,22,22
+2021-02-04,Trabzonspor_Denizlispor_2020,Denizlispor,11,11,22,22
+2021-02-04,Goztep_Yeni Malatyaspor_2020,Yeni Malatyaspor,11,11,22,22
+2021-02-04,Trabzonspor_Denizlispor_2020,Trabzonspor,11,11,22,22
+2021-02-04,Goztep_Yeni Malatyaspor_2020,Goztep,11,11,22,22
+2021-02-06,Alanyaspor_Rizespor_2020,Rizespor,11,12,23,22
+2021-02-06,Alanyaspor_Rizespor_2020,Alanyaspor,12,11,23,22
+2021-02-06,Fenerbahce_Galatasaray_2020,Galatasaray,11,12,23,22
+2021-02-06,Kasimpasa_Hatayspor_2020,Hatayspor,11,12,23,22
+2021-02-06,Kasimpasa_Hatayspor_2020,Kasimpasa,12,11,23,22
+2021-02-06,Buyuksehyr_Karagumruk_2020,Buyuksehyr,12,11,23,22
+2021-02-06,Fenerbahce_Galatasaray_2020,Fenerbahce,12,11,23,22
+2021-02-06,Buyuksehyr_Karagumruk_2020,Karagumruk,11,12,23,22
+2021-02-07,Denizlispor_Antalyaspor_2020,Antalyaspor,11,12,23,22
+2021-02-07,Ankaragucu_Sivasspor_2020,Ankaragucu,11,11,22,22
+2021-02-07,Besiktas_Konyaspor_2020,Konyaspor,11,11,22,22
+2021-02-07,Ankaragucu_Sivasspor_2020,Sivasspor,11,12,23,22
+2021-02-07,Erzurum BB_Kayserispor_2020,Kayserispor,11,12,23,22
+2021-02-07,Besiktas_Konyaspor_2020,Besiktas,12,11,23,22
+2021-02-07,Erzurum BB_Kayserispor_2020,Erzurum BB,12,11,23,22
+2021-02-07,Denizlispor_Antalyaspor_2020,Denizlispor,12,11,23,22
+2021-02-08,Gaziantep_Goztep_2020,Gaziantep,12,11,23,22
+2021-02-08,Gaziantep_Goztep_2020,Goztep,11,12,23,22
+2021-02-08,Yeni Malatyaspor_Trabzonspor_2020,Trabzonspor,11,12,23,22
+2021-02-08,Yeni Malatyaspor_Trabzonspor_2020,Yeni Malatyaspor,12,11,23,22
+2021-02-12,Rizespor_Erzurum BB_2020,Rizespor,12,12,24,23
+2021-02-12,Rizespor_Erzurum BB_2020,Erzurum BB,12,12,24,23
+2021-02-13,Kayserispor_Ankaragucu_2020,Ankaragucu,11,12,23,23
+2021-02-13,Kayserispor_Ankaragucu_2020,Kayserispor,12,12,24,23
+2021-02-13,Trabzonspor_Gaziantep_2020,Trabzonspor,12,12,24,23
+2021-02-13,Karagumruk_Fenerbahce_2020,Fenerbahce,12,12,24,23
+2021-02-13,Trabzonspor_Gaziantep_2020,Gaziantep,12,12,24,23
+2021-02-13,Karagumruk_Fenerbahce_2020,Karagumruk,12,12,24,23
+2021-02-14,Hatayspor_Alanyaspor_2020,Alanyaspor,12,12,24,23
+2021-02-14,Konyaspor_Denizlispor_2020,Konyaspor,12,11,23,23
+2021-02-14,Goztep_Buyuksehyr_2020,Goztep,12,12,24,23
+2021-02-14,Goztep_Buyuksehyr_2020,Buyuksehyr,12,12,24,23
+2021-02-14,Hatayspor_Alanyaspor_2020,Hatayspor,12,12,24,23
+2021-02-14,Galatasaray_Kasimpasa_2020,Galatasaray,12,12,24,23
+2021-02-14,Konyaspor_Denizlispor_2020,Denizlispor,12,12,24,23
+2021-02-14,Galatasaray_Kasimpasa_2020,Kasimpasa,12,12,24,23
+2021-02-15,Antalyaspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,12,12,24,23
+2021-02-15,Antalyaspor_Yeni Malatyaspor_2020,Antalyaspor,12,12,24,23
+2021-02-15,Genclerbirligi_Besiktas_2020,Besiktas,12,12,24,23
+2021-02-15,Genclerbirligi_Besiktas_2020,Genclerbirligi,12,11,23,23
+2021-02-19,Buyuksehyr_Trabzonspor_2020,Buyuksehyr,13,12,25,24
+2021-02-19,Buyuksehyr_Trabzonspor_2020,Trabzonspor,12,13,25,24
+2021-02-20,Yeni Malatyaspor_Konyaspor_2020,Yeni Malatyaspor,13,12,25,24
+2021-02-20,Kasimpasa_Karagumruk_2020,Karagumruk,12,13,25,24
+2021-02-20,Alanyaspor_Galatasaray_2020,Alanyaspor,13,12,25,24
+2021-02-20,Yeni Malatyaspor_Konyaspor_2020,Konyaspor,12,12,24,24
+2021-02-20,Denizlispor_Genclerbirligi_2020,Genclerbirligi,12,12,24,24
+2021-02-20,Denizlispor_Genclerbirligi_2020,Denizlispor,13,12,25,24
+2021-02-20,Kasimpasa_Karagumruk_2020,Kasimpasa,13,12,25,24
+2021-02-20,Alanyaspor_Galatasaray_2020,Galatasaray,12,13,25,24
+2021-02-21,Fenerbahce_Goztep_2020,Fenerbahce,13,12,25,24
+2021-02-21,Sivasspor_Kayserispor_2020,Sivasspor,12,12,24,24
+2021-02-21,Gaziantep_Antalyaspor_2020,Antalyaspor,12,13,25,24
+2021-02-21,Gaziantep_Antalyaspor_2020,Gaziantep,13,12,25,24
+2021-02-21,Fenerbahce_Goztep_2020,Goztep,12,13,25,24
+2021-02-21,Erzurum BB_Hatayspor_2020,Hatayspor,12,13,25,24
+2021-02-21,Sivasspor_Kayserispor_2020,Kayserispor,12,13,25,24
+2021-02-21,Erzurum BB_Hatayspor_2020,Erzurum BB,13,12,25,24
+2021-02-22,Ankaragucu_Rizespor_2020,Ankaragucu,12,12,24,24
+2021-02-22,Ankaragucu_Rizespor_2020,Rizespor,12,13,25,24
+2021-02-26,Genclerbirligi_Yeni Malatyaspor_2020,Yeni Malatyaspor,13,13,26,25
+2021-02-26,Konyaspor_Gaziantep_2020,Konyaspor,13,12,25,25
+2021-02-26,Konyaspor_Gaziantep_2020,Gaziantep,13,13,26,25
+2021-02-26,Besiktas_Denizlispor_2020,Denizlispor,13,13,26,25
+2021-02-26,Genclerbirligi_Yeni Malatyaspor_2020,Genclerbirligi,13,12,25,25
+2021-02-26,Besiktas_Denizlispor_2020,Besiktas,13,12,25,25
+2021-02-27,Galatasaray_Erzurum BB_2020,Galatasaray,13,13,26,25
+2021-02-27,Rizespor_Sivasspor_2020,Rizespor,13,13,26,25
+2021-02-27,Karagumruk_Alanyaspor_2020,Alanyaspor,13,13,26,25
+2021-02-27,Hatayspor_Ankaragucu_2020,Hatayspor,13,13,26,25
+2021-02-27,Karagumruk_Alanyaspor_2020,Karagumruk,13,13,26,25
+2021-02-27,Antalyaspor_Buyuksehyr_2020,Buyuksehyr,13,13,26,25
+2021-02-27,Antalyaspor_Buyuksehyr_2020,Antalyaspor,13,13,26,25
+2021-02-27,Galatasaray_Erzurum BB_2020,Erzurum BB,13,13,26,25
+2021-02-27,Rizespor_Sivasspor_2020,Sivasspor,12,13,25,25
+2021-02-27,Hatayspor_Ankaragucu_2020,Ankaragucu,12,13,25,25
+2021-02-28,Goztep_Kasimpasa_2020,Goztep,13,13,26,25
+2021-02-28,Goztep_Kasimpasa_2020,Kasimpasa,13,13,26,25
+2021-02-28,Trabzonspor_Fenerbahce_2020,Fenerbahce,13,13,26,25
+2021-02-28,Trabzonspor_Fenerbahce_2020,Trabzonspor,13,13,26,25
+2021-03-02,Yeni Malatyaspor_Besiktas_2020,Yeni Malatyaspor,14,13,27,26
+2021-03-02,Gaziantep_Genclerbirligi_2020,Gaziantep,14,13,27,26
+2021-03-02,Yeni Malatyaspor_Besiktas_2020,Besiktas,13,13,26,26
+2021-03-02,Gaziantep_Genclerbirligi_2020,Genclerbirligi,13,13,26,26
+2021-03-03,Buyuksehyr_Konyaspor_2020,Buyuksehyr,14,13,27,26
+2021-03-03,Kayserispor_Rizespor_2020,Rizespor,13,14,27,26
+2021-03-03,Ankaragucu_Galatasaray_2020,Galatasaray,13,14,27,26
+2021-03-03,Sivasspor_Hatayspor_2020,Sivasspor,13,13,26,26
+2021-03-03,Erzurum BB_Karagumruk_2020,Erzurum BB,14,13,27,26
+2021-03-03,Buyuksehyr_Konyaspor_2020,Konyaspor,13,13,26,26
+2021-03-03,Erzurum BB_Karagumruk_2020,Karagumruk,13,14,27,26
+2021-03-03,Kayserispor_Rizespor_2020,Kayserispor,13,13,26,26
+2021-03-03,Ankaragucu_Galatasaray_2020,Ankaragucu,13,13,26,26
+2021-03-03,Sivasspor_Hatayspor_2020,Hatayspor,13,14,27,26
+2021-03-04,Alanyaspor_Goztep_2020,Alanyaspor,14,13,27,26
+2021-03-04,Kasimpasa_Trabzonspor_2020,Trabzonspor,13,14,27,26
+2021-03-04,Alanyaspor_Goztep_2020,Goztep,13,14,27,26
+2021-03-04,Fenerbahce_Antalyaspor_2020,Fenerbahce,14,13,27,26
+2021-03-04,Kasimpasa_Trabzonspor_2020,Kasimpasa,14,13,27,26
+2021-03-04,Fenerbahce_Antalyaspor_2020,Antalyaspor,13,14,27,26
+2021-03-06,Denizlispor_Yeni Malatyaspor_2020,Denizlispor,14,13,27,26
+2021-03-06,Denizlispor_Yeni Malatyaspor_2020,Yeni Malatyaspor,14,14,28,26
+2021-03-06,Besiktas_Gaziantep_2020,Besiktas,14,13,27,26
+2021-03-06,Besiktas_Gaziantep_2020,Gaziantep,14,14,28,26
+2021-03-07,Genclerbirligi_Buyuksehyr_2020,Genclerbirligi,14,13,27,26
+2021-03-07,Hatayspor_Kayserispor_2020,Hatayspor,14,14,28,26
+2021-03-07,Hatayspor_Kayserispor_2020,Kayserispor,13,14,27,26
+2021-03-07,Karagumruk_Ankaragucu_2020,Karagumruk,14,14,28,26
+2021-03-07,Genclerbirligi_Buyuksehyr_2020,Buyuksehyr,14,14,28,26
+2021-03-07,Karagumruk_Ankaragucu_2020,Ankaragucu,13,14,27,26
+2021-03-07,Galatasaray_Sivasspor_2020,Sivasspor,13,14,27,26
+2021-03-07,Galatasaray_Sivasspor_2020,Galatasaray,14,14,28,26
+2021-03-08,Goztep_Erzurum BB_2020,Erzurum BB,14,14,28,26
+2021-03-08,Konyaspor_Fenerbahce_2020,Fenerbahce,14,14,28,26
+2021-03-08,Trabzonspor_Alanyaspor_2020,Trabzonspor,14,14,28,26
+2021-03-08,Trabzonspor_Alanyaspor_2020,Alanyaspor,14,14,28,26
+2021-03-08,Antalyaspor_Kasimpasa_2020,Kasimpasa,14,14,28,26
+2021-03-08,Goztep_Erzurum BB_2020,Goztep,14,14,28,26
+2021-03-08,Konyaspor_Fenerbahce_2020,Konyaspor,14,13,27,26
+2021-03-08,Antalyaspor_Kasimpasa_2020,Antalyaspor,14,14,28,26
+2021-03-12,Buyuksehyr_Besiktas_2020,Besiktas,14,14,28,27
+2021-03-12,Buyuksehyr_Besiktas_2020,Buyuksehyr,15,14,29,27
+2021-03-13,Sivasspor_Karagumruk_2020,Karagumruk,14,15,29,27
+2021-03-13,Alanyaspor_Antalyaspor_2020,Alanyaspor,15,14,29,27
+2021-03-13,Kayserispor_Galatasaray_2020,Galatasaray,14,15,29,27
+2021-03-13,Alanyaspor_Antalyaspor_2020,Antalyaspor,14,15,29,27
+2021-03-13,Rizespor_Hatayspor_2020,Rizespor,14,14,28,27
+2021-03-13,Kayserispor_Galatasaray_2020,Kayserispor,14,14,28,27
+2021-03-13,Sivasspor_Karagumruk_2020,Sivasspor,14,14,28,27
+2021-03-13,Rizespor_Hatayspor_2020,Hatayspor,14,15,29,27
+2021-03-14,Fenerbahce_Genclerbirligi_2020,Genclerbirligi,14,14,28,27
+2021-03-14,Ankaragucu_Goztep_2020,Ankaragucu,14,14,28,27
+2021-03-14,Ankaragucu_Goztep_2020,Goztep,14,15,29,27
+2021-03-14,Gaziantep_Denizlispor_2020,Denizlispor,14,14,28,27
+2021-03-14,Gaziantep_Denizlispor_2020,Gaziantep,15,14,29,27
+2021-03-14,Erzurum BB_Trabzonspor_2020,Erzurum BB,15,14,29,27
+2021-03-14,Fenerbahce_Genclerbirligi_2020,Fenerbahce,15,14,29,27
+2021-03-14,Erzurum BB_Trabzonspor_2020,Trabzonspor,14,15,29,27
+2021-03-15,Kasimpasa_Konyaspor_2020,Konyaspor,14,14,28,27
+2021-03-15,Kasimpasa_Konyaspor_2020,Kasimpasa,15,14,29,27
+2021-03-19,Karagumruk_Kayserispor_2020,Karagumruk,15,15,30,28
+2021-03-19,Galatasaray_Rizespor_2020,Rizespor,14,15,29,28
+2021-03-19,Karagumruk_Kayserispor_2020,Kayserispor,14,15,29,28
+2021-03-19,Galatasaray_Rizespor_2020,Galatasaray,15,15,30,28
+2021-03-20,Yeni Malatyaspor_Gaziantep_2020,Yeni Malatyaspor,15,14,29,28
+2021-03-20,Trabzonspor_Ankaragucu_2020,Trabzonspor,15,15,30,28
+2021-03-20,Goztep_Sivasspor_2020,Goztep,15,15,30,28
+2021-03-20,Genclerbirligi_Kasimpasa_2020,Genclerbirligi,15,14,29,28
+2021-03-20,Yeni Malatyaspor_Gaziantep_2020,Gaziantep,15,15,30,28
+2021-03-20,Genclerbirligi_Kasimpasa_2020,Kasimpasa,15,15,30,28
+2021-03-20,Trabzonspor_Ankaragucu_2020,Ankaragucu,14,15,29,28
+2021-03-20,Goztep_Sivasspor_2020,Sivasspor,14,15,29,28
+2021-03-21,Antalyaspor_Erzurum BB_2020,Antalyaspor,15,15,30,28
+2021-03-21,Denizlispor_Buyuksehyr_2020,Denizlispor,15,14,29,28
+2021-03-21,Denizlispor_Buyuksehyr_2020,Buyuksehyr,15,15,30,28
+2021-03-21,Besiktas_Fenerbahce_2020,Besiktas,15,14,29,28
+2021-03-21,Konyaspor_Alanyaspor_2020,Konyaspor,15,14,29,28
+2021-03-21,Antalyaspor_Erzurum BB_2020,Erzurum BB,15,15,30,28
+2021-03-21,Besiktas_Fenerbahce_2020,Fenerbahce,15,15,30,28
+2021-03-21,Konyaspor_Alanyaspor_2020,Alanyaspor,15,15,30,28
+2021-04-03,Hatayspor_Galatasaray_2020,Hatayspor,15,15,30,30
+2021-04-03,Hatayspor_Galatasaray_2020,Galatasaray,15,16,31,30
+2021-04-03,Kayserispor_Goztep_2020,Kayserispor,15,15,30,30
+2021-04-03,Sivasspor_Trabzonspor_2020,Sivasspor,15,15,30,30
+2021-04-03,Sivasspor_Trabzonspor_2020,Trabzonspor,15,16,31,30
+2021-04-03,Rizespor_Karagumruk_2020,Rizespor,15,15,30,30
+2021-04-03,Kayserispor_Goztep_2020,Goztep,15,16,31,30
+2021-04-03,Rizespor_Karagumruk_2020,Karagumruk,15,16,31,30
+2021-04-04,Buyuksehyr_Yeni Malatyaspor_2020,Yeni Malatyaspor,15,15,30,30
+2021-04-04,Erzurum BB_Konyaspor_2020,Erzurum BB,16,15,31,30
+2021-04-04,Ankaragucu_Antalyaspor_2020,Antalyaspor,15,16,31,30
+2021-04-04,Alanyaspor_Genclerbirligi_2020,Alanyaspor,16,15,31,30
+2021-04-04,Ankaragucu_Antalyaspor_2020,Ankaragucu,15,15,30,30
+2021-04-04,Kasimpasa_Besiktas_2020,Kasimpasa,16,15,31,30
+2021-04-04,Alanyaspor_Genclerbirligi_2020,Genclerbirligi,15,15,30,30
+2021-04-04,Buyuksehyr_Yeni Malatyaspor_2020,Buyuksehyr,16,15,31,30
+2021-04-04,Erzurum BB_Konyaspor_2020,Konyaspor,15,15,30,30
+2021-04-04,Kasimpasa_Besiktas_2020,Besiktas,15,15,30,30
+2021-04-05,Fenerbahce_Denizlispor_2020,Fenerbahce,16,15,31,30
+2021-04-05,Fenerbahce_Denizlispor_2020,Denizlispor,15,15,30,30
+2021-04-06,Goztep_Rizespor_2020,Goztep,16,16,32,31
+2021-04-06,Trabzonspor_Kayserispor_2020,Trabzonspor,16,16,32,31
+2021-04-06,Goztep_Rizespor_2020,Rizespor,15,16,31,31
+2021-04-06,Karagumruk_Hatayspor_2020,Hatayspor,15,16,31,31
+2021-04-06,Trabzonspor_Kayserispor_2020,Kayserispor,15,16,31,31
+2021-04-06,Karagumruk_Hatayspor_2020,Karagumruk,16,16,32,31
+2021-04-07,Antalyaspor_Sivasspor_2020,Sivasspor,15,16,31,31
+2021-04-07,Konyaspor_Ankaragucu_2020,Ankaragucu,15,16,31,31
+2021-04-07,Genclerbirligi_Erzurum BB_2020,Genclerbirligi,16,15,31,31
+2021-04-07,Konyaspor_Ankaragucu_2020,Konyaspor,16,15,31,31
+2021-04-07,Antalyaspor_Sivasspor_2020,Antalyaspor,16,16,32,31
+2021-04-07,Besiktas_Alanyaspor_2020,Alanyaspor,16,16,32,31
+2021-04-07,Genclerbirligi_Erzurum BB_2020,Erzurum BB,16,16,32,31
+2021-04-07,Besiktas_Alanyaspor_2020,Besiktas,16,15,31,31
+2021-04-08,Yeni Malatyaspor_Fenerbahce_2020,Fenerbahce,16,16,32,31
+2021-04-08,Gaziantep_Buyuksehyr_2020,Buyuksehyr,16,16,32,31
+2021-04-08,Denizlispor_Kasimpasa_2020,Denizlispor,16,15,31,31
+2021-04-08,Yeni Malatyaspor_Fenerbahce_2020,Yeni Malatyaspor,16,15,31,31
+2021-04-08,Denizlispor_Kasimpasa_2020,Kasimpasa,16,16,32,31
+2021-04-08,Gaziantep_Buyuksehyr_2020,Gaziantep,16,15,31,31
+2021-04-10,Rizespor_Trabzonspor_2020,Rizespor,16,16,32,31
+2021-04-10,Hatayspor_Goztep_2020,Hatayspor,16,16,32,31
+2021-04-10,Rizespor_Trabzonspor_2020,Trabzonspor,16,17,33,31
+2021-04-10,Galatasaray_Karagumruk_2020,Karagumruk,16,17,33,31
+2021-04-10,Hatayspor_Goztep_2020,Goztep,16,17,33,31
+2021-04-10,Galatasaray_Karagumruk_2020,Galatasaray,16,16,32,31
+2021-04-11,Sivasspor_Konyaspor_2020,Konyaspor,16,16,32,31
+2021-04-11,Sivasspor_Konyaspor_2020,Sivasspor,16,16,32,31
+2021-04-11,Erzurum BB_Besiktas_2020,Besiktas,16,16,32,31
+2021-04-11,Kayserispor_Antalyaspor_2020,Kayserispor,16,16,32,31
+2021-04-11,Ankaragucu_Genclerbirligi_2020,Genclerbirligi,16,16,32,31
+2021-04-11,Ankaragucu_Genclerbirligi_2020,Ankaragucu,16,16,32,31
+2021-04-11,Kayserispor_Antalyaspor_2020,Antalyaspor,16,17,33,31
+2021-04-11,Erzurum BB_Besiktas_2020,Erzurum BB,17,16,33,31
+2021-04-12,Kasimpasa_Yeni Malatyaspor_2020,Kasimpasa,17,16,33,31
+2021-04-12,Alanyaspor_Denizlispor_2020,Denizlispor,16,16,32,31
+2021-04-12,Fenerbahce_Gaziantep_2020,Fenerbahce,17,16,33,31
+2021-04-12,Fenerbahce_Gaziantep_2020,Gaziantep,16,16,32,31
+2021-04-12,Alanyaspor_Denizlispor_2020,Alanyaspor,17,16,33,31
+2021-04-12,Kasimpasa_Yeni Malatyaspor_2020,Yeni Malatyaspor,16,16,32,31
+2021-04-16,Besiktas_Ankaragucu_2020,Ankaragucu,16,17,33,32
+2021-04-16,Besiktas_Ankaragucu_2020,Besiktas,17,16,33,32
+2021-04-16,Konyaspor_Kayserispor_2020,Kayserispor,16,17,33,32
+2021-04-16,Genclerbirligi_Sivasspor_2020,Sivasspor,16,17,33,32
+2021-04-16,Konyaspor_Kayserispor_2020,Konyaspor,17,16,33,32
+2021-04-16,Antalyaspor_Rizespor_2020,Antalyaspor,17,17,34,32
+2021-04-16,Antalyaspor_Rizespor_2020,Rizespor,16,17,33,32
+2021-04-16,Genclerbirligi_Sivasspor_2020,Genclerbirligi,17,16,33,32
+2021-04-17,Denizlispor_Erzurum BB_2020,Erzurum BB,17,17,34,32
+2021-04-17,Trabzonspor_Hatayspor_2020,Trabzonspor,17,17,34,32
+2021-04-17,Goztep_Galatasaray_2020,Goztep,17,17,34,32
+2021-04-17,Denizlispor_Erzurum BB_2020,Denizlispor,17,16,33,32
+2021-04-17,Yeni Malatyaspor_Alanyaspor_2020,Alanyaspor,17,17,34,32
+2021-04-17,Goztep_Galatasaray_2020,Galatasaray,16,17,33,32
+2021-04-17,Trabzonspor_Hatayspor_2020,Hatayspor,16,17,33,32
+2021-04-17,Yeni Malatyaspor_Alanyaspor_2020,Yeni Malatyaspor,17,16,33,32
+2021-04-18,Gaziantep_Kasimpasa_2020,Kasimpasa,17,17,34,32
+2021-04-18,Buyuksehyr_Fenerbahce_2020,Fenerbahce,17,17,34,32
+2021-04-18,Gaziantep_Kasimpasa_2020,Gaziantep,17,16,33,32
+2021-04-18,Buyuksehyr_Fenerbahce_2020,Buyuksehyr,17,16,33,32
+2021-04-20,Rizespor_Konyaspor_2020,Rizespor,17,17,34,33
+2021-04-20,Hatayspor_Antalyaspor_2020,Antalyaspor,17,18,35,33
+2021-04-20,Sivasspor_Besiktas_2020,Sivasspor,17,17,34,33
+2021-04-20,Kayserispor_Genclerbirligi_2020,Kayserispor,17,17,34,33
+2021-04-20,Karagumruk_Goztep_2020,Goztep,17,18,35,33
+2021-04-20,Kayserispor_Genclerbirligi_2020,Genclerbirligi,17,17,34,33
+2021-04-20,Sivasspor_Besiktas_2020,Besiktas,17,17,34,33
+2021-04-20,Karagumruk_Goztep_2020,Karagumruk,17,17,34,33
+2021-04-20,Hatayspor_Antalyaspor_2020,Hatayspor,17,17,34,33
+2021-04-20,Rizespor_Konyaspor_2020,Konyaspor,17,17,34,33
+2021-04-21,Ankaragucu_Denizlispor_2020,Denizlispor,17,17,34,33
+2021-04-21,Ankaragucu_Denizlispor_2020,Ankaragucu,17,17,34,33
+2021-04-21,Galatasaray_Trabzonspor_2020,Galatasaray,17,17,34,33
+2021-04-21,Galatasaray_Trabzonspor_2020,Trabzonspor,17,18,35,33
+2021-04-21,Erzurum BB_Yeni Malatyaspor_2020,Erzurum BB,18,17,35,33
+2021-04-21,Erzurum BB_Yeni Malatyaspor_2020,Yeni Malatyaspor,17,17,34,33
+2021-04-22,Kasimpasa_Buyuksehyr_2020,Kasimpasa,18,17,35,33
+2021-04-22,Alanyaspor_Gaziantep_2020,Alanyaspor,18,17,35,33
+2021-04-22,Alanyaspor_Gaziantep_2020,Gaziantep,17,17,34,33
+2021-04-22,Kasimpasa_Buyuksehyr_2020,Buyuksehyr,17,17,34,33
+2021-04-23,Genclerbirligi_Rizespor_2020,Genclerbirligi,18,17,35,33
+2021-04-23,Genclerbirligi_Rizespor_2020,Rizespor,17,18,35,33
+2021-04-24,Trabzonspor_Karagumruk_2020,Trabzonspor,18,18,36,33
+2021-04-24,Antalyaspor_Galatasaray_2020,Galatasaray,17,18,35,33
+2021-04-24,Besiktas_Kayserispor_2020,Kayserispor,17,18,35,33
+2021-04-24,Denizlispor_Sivasspor_2020,Sivasspor,17,18,35,33
+2021-04-24,Konyaspor_Hatayspor_2020,Konyaspor,18,17,35,33
+2021-04-24,Konyaspor_Hatayspor_2020,Hatayspor,17,18,35,33
+2021-04-24,Antalyaspor_Galatasaray_2020,Antalyaspor,18,18,36,33
+2021-04-24,Trabzonspor_Karagumruk_2020,Karagumruk,17,18,35,33
+2021-04-24,Denizlispor_Sivasspor_2020,Denizlispor,18,17,35,33
+2021-04-24,Besiktas_Kayserispor_2020,Besiktas,18,17,35,33
+2021-04-25,Fenerbahce_Kasimpasa_2020,Kasimpasa,18,18,36,33
+2021-04-25,Buyuksehyr_Alanyaspor_2020,Alanyaspor,18,18,36,33
+2021-04-25,Fenerbahce_Kasimpasa_2020,Fenerbahce,18,17,35,33
+2021-04-25,Buyuksehyr_Alanyaspor_2020,Buyuksehyr,18,17,35,33
+2021-04-25,Gaziantep_Erzurum BB_2020,Erzurum BB,18,18,36,33
+2021-04-25,Gaziantep_Erzurum BB_2020,Gaziantep,18,17,35,33
+2021-04-25,Yeni Malatyaspor_Ankaragucu_2020,Ankaragucu,17,18,35,33
+2021-04-25,Yeni Malatyaspor_Ankaragucu_2020,Yeni Malatyaspor,18,17,35,33
+2021-04-27,Hatayspor_Genclerbirligi_2020,Genclerbirligi,18,18,36,34
+2021-04-27,Hatayspor_Genclerbirligi_2020,Hatayspor,18,18,36,34
+2021-04-28,Galatasaray_Konyaspor_2020,Konyaspor,18,18,36,34
+2021-04-28,Goztep_Trabzonspor_2020,Trabzonspor,18,19,37,34
+2021-04-28,Rizespor_Besiktas_2020,Rizespor,18,18,36,34
+2021-04-28,Kayserispor_Denizlispor_2020,Denizlispor,18,18,36,34
+2021-04-28,Kayserispor_Denizlispor_2020,Kayserispor,18,18,36,34
+2021-04-28,Goztep_Trabzonspor_2020,Goztep,18,18,36,34
+2021-04-28,Rizespor_Besiktas_2020,Besiktas,18,18,36,34
+2021-04-28,Karagumruk_Antalyaspor_2020,Antalyaspor,18,19,37,34
+2021-04-28,Karagumruk_Antalyaspor_2020,Karagumruk,18,18,36,34
+2021-04-28,Galatasaray_Konyaspor_2020,Galatasaray,18,18,36,34
+2021-04-29,Ankaragucu_Gaziantep_2020,Gaziantep,18,18,36,34
+2021-04-29,Alanyaspor_Fenerbahce_2020,Alanyaspor,19,18,37,34
+2021-04-29,Ankaragucu_Gaziantep_2020,Ankaragucu,18,18,36,34
+2021-04-29,Erzurum BB_Buyuksehyr_2020,Buyuksehyr,18,18,36,34
+2021-04-29,Sivasspor_Yeni Malatyaspor_2020,Sivasspor,18,18,36,34
+2021-04-29,Erzurum BB_Buyuksehyr_2020,Erzurum BB,19,18,37,34
+2021-04-29,Alanyaspor_Fenerbahce_2020,Fenerbahce,18,18,36,34
+2021-04-29,Sivasspor_Yeni Malatyaspor_2020,Yeni Malatyaspor,18,18,36,34

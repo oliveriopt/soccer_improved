@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2015-08-21,Malaga_Sevilla_2015,Malaga,1,1,1,1
+2015-08-21,Malaga_Sevilla_2015,Sevilla,1,1,1,1
+2015-08-22,La Coruna_Sociedad_2015,La Coruna,1,1,1,1
+2015-08-22,La Coruna_Sociedad_2015,Sociedad,1,1,1,1
+2015-08-22,Ath Madrid_Las Palmas_2015,Las Palmas,1,1,1,1
+2015-08-22,Vallecano_Valencia_2015,Vallecano,1,1,1,1
+2015-08-22,Ath Madrid_Las Palmas_2015,Ath Madrid,1,1,1,1
+2015-08-22,Espanol_Getafe_2015,Getafe,1,1,1,1
+2015-08-22,Vallecano_Valencia_2015,Valencia,1,1,1,1
+2015-08-22,Espanol_Getafe_2015,Espanol,1,1,1,1
+2015-08-23,Betis_Villarreal_2015,Villarreal,1,1,1,1
+2015-08-23,Levante_Celta_2015,Levante,1,1,1,1
+2015-08-23,Sp Gijon_Real Madrid_2015,Real Madrid,1,1,1,1
+2015-08-23,Betis_Villarreal_2015,Betis,1,1,1,1
+2015-08-23,Ath Bilbao_Barcelona_2015,Barcelona,1,1,1,1
+2015-08-23,Sp Gijon_Real Madrid_2015,Sp Gijon,1,1,1,1
+2015-08-23,Levante_Celta_2015,Celta,1,1,1,1
+2015-08-23,Ath Bilbao_Barcelona_2015,Ath Bilbao,1,1,1,1
+2015-08-24,Granada_Eibar_2015,Granada,1,1,1,1
+2015-08-24,Granada_Eibar_2015,Eibar,1,1,1,1
+2015-08-28,Villarreal_Espanol_2015,Espanol,1,1,2,2
+2015-08-28,Villarreal_Espanol_2015,Villarreal,1,1,2,2
+2015-08-29,Barcelona_Malaga_2015,Malaga,1,1,2,2
+2015-08-29,Real Madrid_Betis_2015,Betis,1,1,2,2
+2015-08-29,Real Madrid_Betis_2015,Real Madrid,1,1,2,2
+2015-08-29,Celta_Vallecano_2015,Vallecano,1,1,2,2
+2015-08-29,Celta_Vallecano_2015,Celta,1,1,2,2
+2015-08-29,Sociedad_Sp Gijon_2015,Sp Gijon,1,1,2,2
+2015-08-29,Sociedad_Sp Gijon_2015,Sociedad,1,1,2,2
+2015-08-29,Barcelona_Malaga_2015,Barcelona,1,1,2,2
+2015-08-30,Las Palmas_Levante_2015,Levante,1,1,2,2
+2015-08-30,Eibar_Ath Bilbao_2015,Ath Bilbao,1,1,2,2
+2015-08-30,Eibar_Ath Bilbao_2015,Eibar,1,1,2,2
+2015-08-30,Valencia_La Coruna_2015,La Coruna,1,1,2,2
+2015-08-30,Sevilla_Ath Madrid_2015,Sevilla,1,1,2,2
+2015-08-30,Las Palmas_Levante_2015,Las Palmas,1,1,2,2
+2015-08-30,Valencia_La Coruna_2015,Valencia,1,1,2,2
+2015-08-30,Getafe_Granada_2015,Granada,1,1,2,2
+2015-08-30,Getafe_Granada_2015,Getafe,1,1,2,2
+2015-08-30,Sevilla_Ath Madrid_2015,Ath Madrid,1,1,2,2
+2015-09-11,Levante_Sevilla_2015,Levante,2,1,3,4
+2015-09-11,Levante_Sevilla_2015,Sevilla,1,2,3,4
+2015-09-12,Espanol_Real Madrid_2015,Real Madrid,1,2,3,4
+2015-09-12,Betis_Sociedad_2015,Sociedad,1,2,3,4
+2015-09-12,Ath Madrid_Barcelona_2015,Barcelona,1,2,3,4
+2015-09-12,Sp Gijon_Valencia_2015,Valencia,1,2,3,4
+2015-09-12,Espanol_Real Madrid_2015,Espanol,2,1,3,4
+2015-09-12,Betis_Sociedad_2015,Betis,2,1,3,4
+2015-09-12,Ath Madrid_Barcelona_2015,Ath Madrid,2,1,3,4
+2015-09-12,Sp Gijon_Valencia_2015,Sp Gijon,2,1,3,4
+2015-09-13,Ath Bilbao_Getafe_2015,Ath Bilbao,2,1,3,4
+2015-09-13,Malaga_Eibar_2015,Malaga,2,1,3,4
+2015-09-13,Granada_Villarreal_2015,Granada,2,1,3,4
+2015-09-13,Ath Bilbao_Getafe_2015,Getafe,1,2,3,4
+2015-09-13,Malaga_Eibar_2015,Eibar,1,2,3,4
+2015-09-13,Celta_Las Palmas_2015,Las Palmas,1,2,3,4
+2015-09-13,Granada_Villarreal_2015,Villarreal,1,2,3,4
+2015-09-13,Celta_Las Palmas_2015,Celta,2,1,3,4
+2015-09-14,Vallecano_La Coruna_2015,La Coruna,1,2,3,4
+2015-09-14,Vallecano_La Coruna_2015,Vallecano,2,1,3,4
+2015-09-18,Getafe_Malaga_2015,Getafe,2,2,4,5
+2015-09-18,Getafe_Malaga_2015,Malaga,2,2,4,5
+2015-09-19,Sociedad_Espanol_2015,Sociedad,2,2,4,5
+2015-09-19,Real Madrid_Granada_2015,Granada,2,2,4,5
+2015-09-19,Eibar_Ath Madrid_2015,Ath Madrid,2,2,4,5
+2015-09-19,Sociedad_Espanol_2015,Espanol,2,2,4,5
+2015-09-19,Valencia_Betis_2015,Betis,2,2,4,5
+2015-09-19,Eibar_Ath Madrid_2015,Eibar,2,2,4,5
+2015-09-19,Valencia_Betis_2015,Valencia,2,2,4,5
+2015-09-19,Real Madrid_Granada_2015,Real Madrid,2,2,4,5
+2015-09-20,Barcelona_Levante_2015,Barcelona,2,2,4,5
+2015-09-20,Sevilla_Celta_2015,Celta,2,2,4,5
+2015-09-20,La Coruna_Sp Gijon_2015,La Coruna,2,2,4,5
+2015-09-20,Sevilla_Celta_2015,Sevilla,2,2,4,5
+2015-09-20,Barcelona_Levante_2015,Levante,2,2,4,5
+2015-09-20,Las Palmas_Vallecano_2015,Las Palmas,2,2,4,5
+2015-09-20,La Coruna_Sp Gijon_2015,Sp Gijon,2,2,4,5
+2015-09-20,Villarreal_Ath Bilbao_2015,Ath Bilbao,2,2,4,5
+2015-09-20,Villarreal_Ath Bilbao_2015,Villarreal,2,2,4,5
+2015-09-20,Las Palmas_Vallecano_2015,Vallecano,2,2,4,5
+2015-09-22,Espanol_Valencia_2015,Espanol,3,2,5,6
+2015-09-22,Granada_Sociedad_2015,Granada,3,2,5,6
+2015-09-22,Espanol_Valencia_2015,Valencia,2,3,5,6
+2015-09-22,Ath Madrid_Getafe_2015,Getafe,2,3,5,6
+2015-09-22,Ath Madrid_Getafe_2015,Ath Madrid,3,2,5,6
+2015-09-22,Granada_Sociedad_2015,Sociedad,2,3,5,6
+2015-09-23,Ath Bilbao_Real Madrid_2015,Ath Bilbao,3,2,5,6
+2015-09-23,Levante_Eibar_2015,Levante,3,2,5,6
+2015-09-23,Malaga_Villarreal_2015,Villarreal,2,3,5,6
+2015-09-23,Levante_Eibar_2015,Eibar,2,3,5,6
+2015-09-23,Celta_Barcelona_2015,Barcelona,2,3,5,6
+2015-09-23,Malaga_Villarreal_2015,Malaga,3,2,5,6
+2015-09-23,Ath Bilbao_Real Madrid_2015,Real Madrid,2,3,5,6
+2015-09-23,Vallecano_Sp Gijon_2015,Sp Gijon,2,3,5,6
+2015-09-23,Celta_Barcelona_2015,Celta,3,2,5,6
+2015-09-23,Las Palmas_Sevilla_2015,Sevilla,2,3,5,6
+2015-09-23,Vallecano_Sp Gijon_2015,Vallecano,3,2,5,6
+2015-09-23,Las Palmas_Sevilla_2015,Las Palmas,3,2,5,6
+2015-09-24,Betis_La Coruna_2015,La Coruna,2,3,5,6
+2015-09-24,Betis_La Coruna_2015,Betis,3,2,5,6
+2015-09-25,Valencia_Granada_2015,Valencia,3,3,6,6
+2015-09-25,Valencia_Granada_2015,Granada,3,3,6,6
+2015-09-26,Villarreal_Ath Madrid_2015,Ath Madrid,3,3,6,6
+2015-09-26,Villarreal_Ath Madrid_2015,Villarreal,3,3,6,6
+2015-09-26,Real Madrid_Malaga_2015,Real Madrid,3,3,6,6
+2015-09-26,Eibar_Celta_2015,Eibar,3,3,6,6
+2015-09-26,Eibar_Celta_2015,Celta,3,3,6,6
+2015-09-26,Sevilla_Vallecano_2015,Vallecano,3,3,6,6
+2015-09-26,Real Madrid_Malaga_2015,Malaga,3,3,6,6
+2015-09-26,Barcelona_Las Palmas_2015,Las Palmas,3,3,6,6
+2015-09-26,Sevilla_Vallecano_2015,Sevilla,3,3,6,6
+2015-09-26,Barcelona_Las Palmas_2015,Barcelona,3,3,6,6
+2015-09-27,Sociedad_Ath Bilbao_2015,Ath Bilbao,3,3,6,6
+2015-09-27,La Coruna_Espanol_2015,La Coruna,3,3,6,6
+2015-09-27,Getafe_Levante_2015,Getafe,3,3,6,6
+2015-09-27,Sociedad_Ath Bilbao_2015,Sociedad,3,3,6,6
+2015-09-27,Sp Gijon_Betis_2015,Betis,3,3,6,6
+2015-09-27,Getafe_Levante_2015,Levante,3,3,6,6
+2015-09-27,Sp Gijon_Betis_2015,Sp Gijon,3,3,6,6
+2015-09-27,La Coruna_Espanol_2015,Espanol,3,3,6,6
+2015-10-02,Celta_Getafe_2015,Getafe,3,4,7,7
+2015-10-02,Celta_Getafe_2015,Celta,4,3,7,7
+2015-10-03,Las Palmas_Eibar_2015,Eibar,3,4,7,7
+2015-10-03,Espanol_Sp Gijon_2015,Espanol,4,3,7,7
+2015-10-03,Sevilla_Barcelona_2015,Barcelona,3,4,7,7
+2015-10-03,Espanol_Sp Gijon_2015,Sp Gijon,3,4,7,7
+2015-10-03,Malaga_Sociedad_2015,Sociedad,3,4,7,7
+2015-10-03,Las Palmas_Eibar_2015,Las Palmas,4,3,7,7
+2015-10-03,Granada_La Coruna_2015,La Coruna,3,4,7,7
+2015-10-03,Granada_La Coruna_2015,Granada,4,3,7,7
+2015-10-03,Malaga_Sociedad_2015,Malaga,4,3,7,7
+2015-10-03,Sevilla_Barcelona_2015,Sevilla,4,3,7,7
+2015-10-04,Ath Bilbao_Valencia_2015,Valencia,3,4,7,7
+2015-10-04,Ath Madrid_Real Madrid_2015,Ath Madrid,4,3,7,7
+2015-10-04,Ath Madrid_Real Madrid_2015,Real Madrid,3,4,7,7
+2015-10-04,Levante_Villarreal_2015,Levante,4,3,7,7
+2015-10-04,Vallecano_Betis_2015,Betis,3,4,7,7
+2015-10-04,Levante_Villarreal_2015,Villarreal,3,4,7,7
+2015-10-04,Vallecano_Betis_2015,Vallecano,4,3,7,7
+2015-10-04,Ath Bilbao_Valencia_2015,Ath Bilbao,4,3,7,7
+2015-10-17,Real Madrid_Levante_2015,Real Madrid,4,4,8,9
+2015-10-17,Eibar_Sevilla_2015,Eibar,4,4,8,9
+2015-10-17,Valencia_Malaga_2015,Valencia,4,4,8,9
+2015-10-17,Barcelona_Vallecano_2015,Vallecano,4,4,8,9
+2015-10-17,Valencia_Malaga_2015,Malaga,4,4,8,9
+2015-10-17,Betis_Espanol_2015,Espanol,4,4,8,9
+2015-10-17,Real Madrid_Levante_2015,Levante,4,4,8,9
+2015-10-17,Barcelona_Vallecano_2015,Barcelona,4,4,8,9
+2015-10-17,Eibar_Sevilla_2015,Sevilla,4,4,8,9
+2015-10-17,Betis_Espanol_2015,Betis,4,4,8,9
+2015-10-18,La Coruna_Ath Bilbao_2015,La Coruna,4,4,8,9
+2015-10-18,Getafe_Las Palmas_2015,Getafe,4,4,8,9
+2015-10-18,Villarreal_Celta_2015,Villarreal,4,4,8,9
+2015-10-18,La Coruna_Ath Bilbao_2015,Ath Bilbao,4,4,8,9
+2015-10-18,Sociedad_Ath Madrid_2015,Sociedad,4,4,8,9
+2015-10-18,Sociedad_Ath Madrid_2015,Ath Madrid,4,4,8,9
+2015-10-18,Getafe_Las Palmas_2015,Las Palmas,4,4,8,9
+2015-10-18,Villarreal_Celta_2015,Celta,4,4,8,9
+2015-10-19,Sp Gijon_Granada_2015,Granada,4,4,8,9
+2015-10-19,Sp Gijon_Granada_2015,Sp Gijon,4,4,8,9
+2015-10-23,Vallecano_Espanol_2015,Vallecano,5,4,9,10
+2015-10-23,Vallecano_Espanol_2015,Espanol,4,5,9,10
+2015-10-24,Celta_Real Madrid_2015,Real Madrid,4,5,9,10
+2015-10-24,Celta_Real Madrid_2015,Celta,5,4,9,10
+2015-10-24,Malaga_La Coruna_2015,La Coruna,4,5,9,10
+2015-10-24,Sevilla_Getafe_2015,Sevilla,5,4,9,10
+2015-10-24,Malaga_La Coruna_2015,Malaga,5,4,9,10
+2015-10-24,Sevilla_Getafe_2015,Getafe,4,5,9,10
+2015-10-24,Granada_Betis_2015,Betis,4,5,9,10
+2015-10-24,Granada_Betis_2015,Granada,5,4,9,10
+2015-10-25,Levante_Sociedad_2015,Levante,5,4,9,10
+2015-10-25,Barcelona_Eibar_2015,Eibar,4,5,9,10
+2015-10-25,Ath Madrid_Valencia_2015,Valencia,4,5,9,10
+2015-10-25,Las Palmas_Villarreal_2015,Villarreal,4,5,9,10
+2015-10-25,Levante_Sociedad_2015,Sociedad,4,5,9,10
+2015-10-25,Barcelona_Eibar_2015,Barcelona,5,4,9,10
+2015-10-25,Ath Madrid_Valencia_2015,Ath Madrid,5,4,9,10
+2015-10-25,Las Palmas_Villarreal_2015,Las Palmas,5,4,9,10
+2015-10-26,Ath Bilbao_Sp Gijon_2015,Ath Bilbao,5,4,9,10
+2015-10-26,Ath Bilbao_Sp Gijon_2015,Sp Gijon,4,5,9,10
+2015-10-30,La Coruna_Ath Madrid_2015,Ath Madrid,5,5,10,11
+2015-10-30,La Coruna_Ath Madrid_2015,La Coruna,5,5,10,11
+2015-10-31,Sociedad_Celta_2015,Sociedad,5,5,10,11
+2015-10-31,Valencia_Levante_2015,Levante,5,5,10,11
+2015-10-31,Real Madrid_Las Palmas_2015,Las Palmas,5,5,10,11
+2015-10-31,Getafe_Barcelona_2015,Getafe,5,5,10,11
+2015-10-31,Villarreal_Sevilla_2015,Sevilla,5,5,10,11
+2015-10-31,Real Madrid_Las Palmas_2015,Real Madrid,5,5,10,11
+2015-10-31,Getafe_Barcelona_2015,Barcelona,5,5,10,11
+2015-10-31,Villarreal_Sevilla_2015,Villarreal,5,5,10,11
+2015-10-31,Valencia_Levante_2015,Valencia,5,5,10,11
+2015-10-31,Sociedad_Celta_2015,Celta,5,5,10,11
+2015-11-01,Espanol_Granada_2015,Granada,5,5,10,11
+2015-11-01,Espanol_Granada_2015,Espanol,5,5,10,11
+2015-11-01,Sp Gijon_Malaga_2015,Sp Gijon,5,5,10,11
+2015-11-01,Betis_Ath Bilbao_2015,Ath Bilbao,5,5,10,11
+2015-11-01,Betis_Ath Bilbao_2015,Betis,5,5,10,11
+2015-11-01,Sp Gijon_Malaga_2015,Malaga,5,5,10,11
+2015-11-01,Eibar_Vallecano_2015,Vallecano,5,5,10,11
+2015-11-01,Eibar_Vallecano_2015,Eibar,5,5,10,11
+2015-11-06,Las Palmas_Sociedad_2015,Sociedad,5,6,11,12
+2015-11-06,Las Palmas_Sociedad_2015,Las Palmas,6,5,11,12
+2015-11-07,Celta_Valencia_2015,Valencia,5,6,11,12
+2015-11-07,Malaga_Betis_2015,Malaga,6,5,11,12
+2015-11-07,Vallecano_Granada_2015,Vallecano,6,5,11,12
+2015-11-07,Eibar_Getafe_2015,Eibar,6,5,11,12
+2015-11-07,Eibar_Getafe_2015,Getafe,5,6,11,12
+2015-11-07,Celta_Valencia_2015,Celta,6,5,11,12
+2015-11-07,Vallecano_Granada_2015,Granada,5,6,11,12
+2015-11-07,Levante_La Coruna_2015,Levante,6,5,11,12
+2015-11-07,Malaga_Betis_2015,Betis,5,6,11,12
+2015-11-07,Levante_La Coruna_2015,La Coruna,5,6,11,12
+2015-11-08,Ath Bilbao_Espanol_2015,Ath Bilbao,6,5,11,12
+2015-11-08,Barcelona_Villarreal_2015,Villarreal,5,6,11,12
+2015-11-08,Ath Madrid_Sp Gijon_2015,Ath Madrid,6,5,11,12
+2015-11-08,Barcelona_Villarreal_2015,Barcelona,6,5,11,12
+2015-11-08,Sevilla_Real Madrid_2015,Real Madrid,5,6,11,12
+2015-11-08,Ath Bilbao_Espanol_2015,Espanol,5,6,11,12
+2015-11-08,Sevilla_Real Madrid_2015,Sevilla,6,5,11,12
+2015-11-08,Ath Madrid_Sp Gijon_2015,Sp Gijon,5,6,11,12
+2015-11-21,La Coruna_Celta_2015,Celta,6,6,12,14
+2015-11-21,Espanol_Malaga_2015,Malaga,6,6,12,14
+2015-11-21,Valencia_Las Palmas_2015,Valencia,6,6,12,14
+2015-11-21,La Coruna_Celta_2015,La Coruna,6,6,12,14
+2015-11-21,Sociedad_Sevilla_2015,Sociedad,6,6,12,14
+2015-11-21,Espanol_Malaga_2015,Espanol,6,6,12,14
+2015-11-21,Valencia_Las Palmas_2015,Las Palmas,6,6,12,14
+2015-11-21,Real Madrid_Barcelona_2015,Barcelona,6,6,12,14
+2015-11-21,Real Madrid_Barcelona_2015,Real Madrid,6,6,12,14
+2015-11-21,Sociedad_Sevilla_2015,Sevilla,6,6,12,14
+2015-11-22,Betis_Ath Madrid_2015,Betis,6,6,12,14
+2015-11-22,Villarreal_Eibar_2015,Villarreal,6,6,12,14
+2015-11-22,Sp Gijon_Levante_2015,Sp Gijon,6,6,12,14
+2015-11-22,Sp Gijon_Levante_2015,Levante,6,6,12,14
+2015-11-22,Granada_Ath Bilbao_2015,Ath Bilbao,6,6,12,14
+2015-11-22,Granada_Ath Bilbao_2015,Granada,6,6,12,14
+2015-11-22,Betis_Ath Madrid_2015,Ath Madrid,6,6,12,14
+2015-11-22,Villarreal_Eibar_2015,Eibar,6,6,12,14
+2015-11-23,Getafe_Vallecano_2015,Vallecano,6,6,12,14
+2015-11-23,Getafe_Vallecano_2015,Getafe,6,6,12,14
+2015-11-27,Levante_Betis_2015,Betis,6,7,13,15
+2015-11-27,Levante_Betis_2015,Levante,7,6,13,15
+2015-11-28,Barcelona_Sociedad_2015,Barcelona,7,6,13,15
+2015-11-28,Las Palmas_La Coruna_2015,La Coruna,6,7,13,15
+2015-11-28,Celta_Sp Gijon_2015,Celta,7,6,13,15
+2015-11-28,Ath Madrid_Espanol_2015,Espanol,6,7,13,15
+2015-11-28,Las Palmas_La Coruna_2015,Las Palmas,7,6,13,15
+2015-11-28,Malaga_Granada_2015,Granada,6,7,13,15
+2015-11-28,Barcelona_Sociedad_2015,Sociedad,6,7,13,15
+2015-11-28,Celta_Sp Gijon_2015,Sp Gijon,6,7,13,15
+2015-11-28,Malaga_Granada_2015,Malaga,7,6,13,15
+2015-11-28,Ath Madrid_Espanol_2015,Ath Madrid,7,6,13,15
+2015-11-29,Vallecano_Ath Bilbao_2015,Ath Bilbao,6,7,13,15
+2015-11-29,Getafe_Villarreal_2015,Villarreal,6,7,13,15
+2015-11-29,Eibar_Real Madrid_2015,Eibar,7,6,13,15
+2015-11-29,Getafe_Villarreal_2015,Getafe,7,6,13,15
+2015-11-29,Eibar_Real Madrid_2015,Real Madrid,6,7,13,15
+2015-11-29,Sevilla_Valencia_2015,Valencia,6,7,13,15
+2015-11-29,Vallecano_Ath Bilbao_2015,Vallecano,7,6,13,15
+2015-11-29,Sevilla_Valencia_2015,Sevilla,7,6,13,15
+2015-12-05,Betis_Celta_2015,Celta,7,7,14,16
+2015-12-05,Granada_Ath Madrid_2015,Granada,7,7,14,16
+2015-12-05,Valencia_Barcelona_2015,Barcelona,7,7,14,16
+2015-12-05,Valencia_Barcelona_2015,Valencia,7,7,14,16
+2015-12-05,La Coruna_Sevilla_2015,Sevilla,7,7,14,16
+2015-12-05,Real Madrid_Getafe_2015,Real Madrid,7,7,14,16
+2015-12-05,Betis_Celta_2015,Betis,7,7,14,16
+2015-12-05,Real Madrid_Getafe_2015,Getafe,7,7,14,16
+2015-12-05,Granada_Ath Madrid_2015,Ath Madrid,7,7,14,16
+2015-12-05,La Coruna_Sevilla_2015,La Coruna,7,7,14,16
+2015-12-06,Ath Bilbao_Malaga_2015,Malaga,7,7,14,16
+2015-12-06,Sp Gijon_Las Palmas_2015,Sp Gijon,7,7,14,16
+2015-12-06,Ath Bilbao_Malaga_2015,Ath Bilbao,7,7,14,16
+2015-12-06,Villarreal_Vallecano_2015,Villarreal,7,7,14,16
+2015-12-06,Sociedad_Eibar_2015,Sociedad,7,7,14,16
+2015-12-06,Villarreal_Vallecano_2015,Vallecano,7,7,14,16
+2015-12-06,Sp Gijon_Las Palmas_2015,Las Palmas,7,7,14,16
+2015-12-06,Sociedad_Eibar_2015,Eibar,7,7,14,16
+2015-12-07,Espanol_Levante_2015,Levante,7,7,14,16
+2015-12-07,Espanol_Levante_2015,Espanol,7,7,14,16
+2015-12-11,Getafe_Sociedad_2015,Sociedad,7,8,15,17
+2015-12-11,Getafe_Sociedad_2015,Getafe,8,7,15,17
+2015-12-12,Celta_Espanol_2015,Celta,8,7,15,17
+2015-12-12,Sevilla_Sp Gijon_2015,Sp Gijon,7,8,15,17
+2015-12-12,Levante_Granada_2015,Levante,8,7,15,17
+2015-12-12,Barcelona_La Coruna_2015,Barcelona,8,7,15,17
+2015-12-12,Las Palmas_Betis_2015,Betis,7,8,15,17
+2015-12-12,Las Palmas_Betis_2015,Las Palmas,8,7,15,17
+2015-12-12,Sevilla_Sp Gijon_2015,Sevilla,8,7,15,17
+2015-12-12,Levante_Granada_2015,Granada,7,8,15,17
+2015-12-12,Celta_Espanol_2015,Espanol,7,8,15,17
+2015-12-12,Barcelona_La Coruna_2015,La Coruna,7,8,15,17
+2015-12-13,Ath Madrid_Ath Bilbao_2015,Ath Madrid,8,7,15,17
+2015-12-13,Villarreal_Real Madrid_2015,Villarreal,8,7,15,17
+2015-12-13,Vallecano_Malaga_2015,Vallecano,8,7,15,17
+2015-12-13,Ath Madrid_Ath Bilbao_2015,Ath Bilbao,7,8,15,17
+2015-12-13,Villarreal_Real Madrid_2015,Real Madrid,7,8,15,17
+2015-12-13,Eibar_Valencia_2015,Valencia,7,8,15,17
+2015-12-13,Vallecano_Malaga_2015,Malaga,7,8,15,17
+2015-12-13,Eibar_Valencia_2015,Eibar,8,7,15,17
+2015-12-19,Valencia_Getafe_2015,Getafe,8,8,16,18
+2015-12-19,Valencia_Getafe_2015,Valencia,8,8,16,18
+2015-12-19,Betis_Sevilla_2015,Sevilla,8,8,16,18
+2015-12-19,Espanol_Las Palmas_2015,Las Palmas,8,8,16,18
+2015-12-19,La Coruna_Eibar_2015,La Coruna,8,8,16,18
+2015-12-19,Espanol_Las Palmas_2015,Espanol,8,8,16,18
+2015-12-19,Betis_Sevilla_2015,Betis,8,8,16,18
+2015-12-19,La Coruna_Eibar_2015,Eibar,8,8,16,18
+2015-12-20,Ath Bilbao_Levante_2015,Levante,8,8,16,18
+2015-12-20,Sociedad_Villarreal_2015,Villarreal,8,8,16,18
+2015-12-20,Granada_Celta_2015,Celta,8,8,16,18
+2015-12-20,Ath Bilbao_Levante_2015,Ath Bilbao,8,8,16,18
+2015-12-20,Real Madrid_Vallecano_2015,Vallecano,8,8,16,18
+2015-12-20,Malaga_Ath Madrid_2015,Malaga,8,8,16,18
+2015-12-20,Sociedad_Villarreal_2015,Sociedad,8,8,16,18
+2015-12-20,Granada_Celta_2015,Granada,8,8,16,18
+2015-12-20,Real Madrid_Vallecano_2015,Real Madrid,8,8,16,18
+2015-12-20,Malaga_Ath Madrid_2015,Ath Madrid,8,8,16,18
+2015-12-30,Celta_Ath Bilbao_2015,Ath Bilbao,8,9,17,20
+2015-12-30,Sevilla_Espanol_2015,Sevilla,9,8,17,20
+2015-12-30,Vallecano_Ath Madrid_2015,Vallecano,9,8,17,20
+2015-12-30,Barcelona_Betis_2015,Barcelona,9,7,16,20
+2015-12-30,Getafe_La Coruna_2015,Getafe,9,8,17,20
+2015-12-30,Las Palmas_Granada_2015,Granada,8,9,17,20
+2015-12-30,Eibar_Sp Gijon_2015,Sp Gijon,7,9,16,20
+2015-12-30,Real Madrid_Sociedad_2015,Real Madrid,9,8,17,20
+2015-12-30,Real Madrid_Sociedad_2015,Sociedad,8,9,17,20
+2015-12-30,Las Palmas_Granada_2015,Las Palmas,9,8,17,20
+2015-12-30,Getafe_La Coruna_2015,La Coruna,8,9,17,20
+2015-12-30,Barcelona_Betis_2015,Betis,8,9,17,20
+2015-12-30,Eibar_Sp Gijon_2015,Eibar,9,8,17,20
+2015-12-30,Vallecano_Ath Madrid_2015,Ath Madrid,8,9,17,20
+2015-12-30,Levante_Malaga_2015,Levante,9,8,17,20
+2015-12-30,Levante_Malaga_2015,Malaga,8,9,17,20
+2015-12-30,Celta_Ath Bilbao_2015,Celta,9,8,17,20
+2015-12-30,Sevilla_Espanol_2015,Espanol,8,9,17,20
+2015-12-31,Villarreal_Valencia_2015,Valencia,8,9,17,20
+2015-12-31,Villarreal_Valencia_2015,Villarreal,9,8,17,20
+2016-01-02,Espanol_Barcelona_2015,Barcelona,9,8,17,20
+2016-01-02,Ath Madrid_Levante_2015,Ath Madrid,9,9,18,20
+2016-01-02,Ath Madrid_Levante_2015,Levante,9,9,18,20
+2016-01-02,Malaga_Celta_2015,Malaga,9,9,18,20
+2016-01-02,Espanol_Barcelona_2015,Espanol,9,9,18,20
+2016-01-02,Malaga_Celta_2015,Celta,9,9,18,20
+2016-01-03,Ath Bilbao_Las Palmas_2015,Ath Bilbao,9,9,18,20
+2016-01-03,Valencia_Real Madrid_2015,Real Madrid,9,9,18,20
+2016-01-03,Vallecano_Sociedad_2015,Sociedad,8,10,18,20
+2016-01-03,La Coruna_Villarreal_2015,Villarreal,9,9,18,20
+2016-01-03,Granada_Sevilla_2015,Sevilla,9,9,18,20
+2016-01-03,Vallecano_Sociedad_2015,Vallecano,10,8,18,20
+2016-01-03,Granada_Sevilla_2015,Granada,9,9,18,20
+2016-01-03,Ath Bilbao_Las Palmas_2015,Las Palmas,9,9,18,20
+2016-01-03,La Coruna_Villarreal_2015,La Coruna,9,9,18,20
+2016-01-03,Betis_Eibar_2015,Eibar,9,9,18,20
+2016-01-03,Betis_Eibar_2015,Betis,9,9,18,20
+2016-01-03,Valencia_Real Madrid_2015,Valencia,9,9,18,20
+2016-01-04,Sp Gijon_Getafe_2015,Getafe,9,9,18,20
+2016-01-04,Sp Gijon_Getafe_2015,Sp Gijon,8,9,17,20
+2016-01-09,Getafe_Betis_2015,Betis,9,10,19,21
+2016-01-09,Real Madrid_La Coruna_2015,Real Madrid,10,9,19,21
+2016-01-09,Sevilla_Ath Bilbao_2015,Ath Bilbao,9,10,19,21
+2016-01-09,Getafe_Betis_2015,Getafe,10,9,19,21
+2016-01-09,Sevilla_Ath Bilbao_2015,Sevilla,10,9,19,21
+2016-01-09,Levante_Vallecano_2015,Levante,10,9,19,21
+2016-01-09,Barcelona_Granada_2015,Barcelona,10,8,18,21
+2016-01-09,Barcelona_Granada_2015,Granada,9,10,19,21
+2016-01-09,Levante_Vallecano_2015,Vallecano,10,9,19,21
+2016-01-09,Real Madrid_La Coruna_2015,La Coruna,9,10,19,21
+2016-01-10,Celta_Ath Madrid_2015,Celta,10,9,19,21
+2016-01-10,Villarreal_Sp Gijon_2015,Villarreal,10,9,19,21
+2016-01-10,Las Palmas_Malaga_2015,Las Palmas,10,9,19,21
+2016-01-10,Celta_Ath Madrid_2015,Ath Madrid,9,10,19,21
+2016-01-10,Eibar_Espanol_2015,Eibar,10,9,19,21
+2016-01-10,Eibar_Espanol_2015,Espanol,9,10,19,21
+2016-01-10,Sociedad_Valencia_2015,Sociedad,9,10,19,21
+2016-01-10,Sociedad_Valencia_2015,Valencia,9,10,19,21
+2016-01-10,Villarreal_Sp Gijon_2015,Sp Gijon,8,10,18,21
+2016-01-10,Las Palmas_Malaga_2015,Malaga,9,10,19,21
+2016-01-16,Celta_Levante_2015,Celta,11,9,20,22
+2016-01-16,Celta_Levante_2015,Levante,10,10,20,22
+2016-01-16,Villarreal_Betis_2015,Betis,9,11,20,22
+2016-01-16,Sevilla_Malaga_2015,Sevilla,11,9,20,22
+2016-01-16,Villarreal_Betis_2015,Villarreal,11,9,20,22
+2016-01-16,Sevilla_Malaga_2015,Malaga,9,11,20,22
+2016-01-16,Sociedad_La Coruna_2015,Sociedad,10,10,20,22
+2016-01-16,Sociedad_La Coruna_2015,La Coruna,9,11,20,22
+2016-01-17,Valencia_Vallecano_2015,Vallecano,10,10,20,22
+2016-01-17,Getafe_Espanol_2015,Espanol,9,11,20,22
+2016-01-17,Barcelona_Ath Bilbao_2015,Barcelona,11,8,19,22
+2016-01-17,Las Palmas_Ath Madrid_2015,Las Palmas,11,9,20,22
+2016-01-17,Barcelona_Ath Bilbao_2015,Ath Bilbao,9,11,20,22
+2016-01-17,Getafe_Espanol_2015,Getafe,11,9,20,22
+2016-01-17,Real Madrid_Sp Gijon_2015,Sp Gijon,8,11,19,22
+2016-01-17,Las Palmas_Ath Madrid_2015,Ath Madrid,9,11,20,22
+2016-01-17,Valencia_Vallecano_2015,Valencia,10,10,20,22
+2016-01-17,Real Madrid_Sp Gijon_2015,Real Madrid,11,9,20,22
+2016-01-18,Eibar_Granada_2015,Eibar,11,9,20,22
+2016-01-18,Eibar_Granada_2015,Granada,9,11,20,22
+2016-01-22,Sp Gijon_Sociedad_2015,Sociedad,10,11,21,23
+2016-01-22,Sp Gijon_Sociedad_2015,Sp Gijon,9,11,20,23
+2016-01-23,Vallecano_Celta_2015,Celta,11,10,21,23
+2016-01-23,Granada_Getafe_2015,Granada,10,11,21,23
+2016-01-23,Malaga_Barcelona_2015,Barcelona,11,9,20,23
+2016-01-23,Malaga_Barcelona_2015,Malaga,10,11,21,23
+2016-01-23,Granada_Getafe_2015,Getafe,11,10,21,23
+2016-01-23,Vallecano_Celta_2015,Vallecano,11,10,21,23
+2016-01-23,Espanol_Villarreal_2015,Espanol,10,11,21,23
+2016-01-23,Espanol_Villarreal_2015,Villarreal,11,10,21,23
+2016-01-24,Ath Bilbao_Eibar_2015,Eibar,11,10,21,23
+2016-01-24,Betis_Real Madrid_2015,Real Madrid,11,10,21,23
+2016-01-24,Ath Bilbao_Eibar_2015,Ath Bilbao,10,11,21,23
+2016-01-24,Ath Madrid_Sevilla_2015,Ath Madrid,10,11,21,23
+2016-01-24,La Coruna_Valencia_2015,Valencia,10,11,21,23
+2016-01-24,Ath Madrid_Sevilla_2015,Sevilla,11,10,21,23
+2016-01-24,La Coruna_Valencia_2015,La Coruna,10,11,21,23
+2016-01-24,Betis_Real Madrid_2015,Betis,10,11,21,23
+2016-01-25,Levante_Las Palmas_2015,Las Palmas,11,10,21,23
+2016-01-25,Levante_Las Palmas_2015,Levante,11,10,21,23
+2016-01-30,Villarreal_Granada_2015,Villarreal,12,10,22,24
+2016-01-30,Villarreal_Granada_2015,Granada,10,12,22,24
+2016-01-30,Eibar_Malaga_2015,Malaga,10,12,22,24
+2016-01-30,Eibar_Malaga_2015,Eibar,12,10,22,24
+2016-01-30,Barcelona_Ath Madrid_2015,Barcelona,12,9,21,24
+2016-01-30,Barcelona_Ath Madrid_2015,Ath Madrid,10,12,22,24
+2016-01-30,Getafe_Ath Bilbao_2015,Getafe,12,10,22,24
+2016-01-30,Sociedad_Betis_2015,Sociedad,11,11,22,24
+2016-01-30,Sociedad_Betis_2015,Betis,10,12,22,24
+2016-01-30,Getafe_Ath Bilbao_2015,Ath Bilbao,10,12,22,24
+2016-01-31,Las Palmas_Celta_2015,Las Palmas,12,10,22,24
+2016-01-31,Valencia_Sp Gijon_2015,Sp Gijon,9,12,21,24
+2016-01-31,Las Palmas_Celta_2015,Celta,11,11,22,24
+2016-01-31,Sevilla_Levante_2015,Levante,11,11,22,24
+2016-01-31,Sevilla_Levante_2015,Sevilla,12,10,22,24
+2016-01-31,Real Madrid_Espanol_2015,Espanol,10,12,22,24
+2016-01-31,Real Madrid_Espanol_2015,Real Madrid,12,10,22,24
+2016-01-31,Valencia_Sp Gijon_2015,Valencia,11,11,22,24
+2016-02-01,La Coruna_Vallecano_2015,La Coruna,11,11,22,24
+2016-02-01,La Coruna_Vallecano_2015,Vallecano,11,11,22,24
+2016-02-05,Malaga_Getafe_2015,Getafe,12,11,23,25
+2016-02-05,Malaga_Getafe_2015,Malaga,11,12,23,25
+2016-02-06,Ath Madrid_Eibar_2015,Eibar,12,11,23,25
+2016-02-06,Ath Madrid_Eibar_2015,Ath Madrid,11,12,23,25
+2016-02-06,Sp Gijon_La Coruna_2015,La Coruna,11,12,23,25
+2016-02-06,Vallecano_Las Palmas_2015,Las Palmas,12,11,23,25
+2016-02-06,Ath Bilbao_Villarreal_2015,Villarreal,12,11,23,25
+2016-02-06,Sp Gijon_La Coruna_2015,Sp Gijon,10,12,22,25
+2016-02-06,Vallecano_Las Palmas_2015,Vallecano,12,11,23,25
+2016-02-06,Ath Bilbao_Villarreal_2015,Ath Bilbao,11,12,23,25
+2016-02-07,Granada_Real Madrid_2015,Real Madrid,12,11,23,25
+2016-02-07,Celta_Sevilla_2015,Sevilla,12,11,23,25
+2016-02-07,Levante_Barcelona_2015,Levante,12,11,23,25
+2016-02-07,Betis_Valencia_2015,Valencia,11,12,23,25
+2016-02-07,Celta_Sevilla_2015,Celta,12,11,23,25
+2016-02-07,Granada_Real Madrid_2015,Granada,11,12,23,25
+2016-02-07,Levante_Barcelona_2015,Barcelona,12,10,22,25
+2016-02-07,Betis_Valencia_2015,Betis,11,12,23,25
+2016-02-08,Espanol_Sociedad_2015,Sociedad,11,12,23,25
+2016-02-08,Espanol_Sociedad_2015,Espanol,11,12,23,25
+2016-02-12,Sp Gijon_Vallecano_2015,Vallecano,12,12,24,26
+2016-02-12,Sp Gijon_Vallecano_2015,Sp Gijon,11,12,23,26
+2016-02-13,Villarreal_Malaga_2015,Malaga,11,13,24,26
+2016-02-13,Villarreal_Malaga_2015,Villarreal,13,11,24,26
+2016-02-13,La Coruna_Betis_2015,Betis,11,13,24,26
+2016-02-13,Real Madrid_Ath Bilbao_2015,Real Madrid,13,11,24,26
+2016-02-13,Valencia_Espanol_2015,Espanol,11,13,24,26
+2016-02-13,La Coruna_Betis_2015,La Coruna,12,12,24,26
+2016-02-13,Valencia_Espanol_2015,Valencia,12,12,24,26
+2016-02-13,Real Madrid_Ath Bilbao_2015,Ath Bilbao,11,13,24,26
+2016-02-14,Barcelona_Celta_2015,Barcelona,13,10,23,26
+2016-02-14,Sevilla_Las Palmas_2015,Sevilla,13,11,24,26
+2016-02-14,Barcelona_Celta_2015,Celta,12,12,24,26
+2016-02-14,Sociedad_Granada_2015,Granada,11,13,24,26
+2016-02-14,Sociedad_Granada_2015,Sociedad,12,12,24,26
+2016-02-14,Sevilla_Las Palmas_2015,Las Palmas,12,12,24,26
+2016-02-14,Getafe_Ath Madrid_2015,Ath Madrid,11,13,24,26
+2016-02-14,Getafe_Ath Madrid_2015,Getafe,13,11,24,26
+2016-02-14,Eibar_Levante_2015,Eibar,13,11,24,26
+2016-02-14,Eibar_Levante_2015,Levante,12,12,24,26
+2016-02-17,Sp Gijon_Barcelona_2015,Barcelona,13,11,24,27
+2016-02-17,Sp Gijon_Barcelona_2015,Sp Gijon,12,12,24,27
+2016-02-19,Levante_Getafe_2015,Levante,13,12,25,27
+2016-02-19,Levante_Getafe_2015,Getafe,13,12,25,27
+2016-02-20,Celta_Eibar_2015,Eibar,13,12,25,27
+2016-02-20,Betis_Sp Gijon_2015,Betis,12,13,25,27
+2016-02-20,Celta_Eibar_2015,Celta,13,12,25,27
+2016-02-20,Espanol_La Coruna_2015,La Coruna,12,13,25,27
+2016-02-20,Espanol_La Coruna_2015,Espanol,12,13,25,27
+2016-02-20,Betis_Sp Gijon_2015,Sp Gijon,12,13,25,27
+2016-02-20,Las Palmas_Barcelona_2015,Barcelona,13,12,25,27
+2016-02-20,Las Palmas_Barcelona_2015,Las Palmas,13,12,25,27
+2016-02-21,Granada_Valencia_2015,Valencia,12,13,25,27
+2016-02-21,Ath Madrid_Villarreal_2015,Villarreal,13,12,25,27
+2016-02-21,Malaga_Real Madrid_2015,Malaga,12,13,25,27
+2016-02-21,Vallecano_Sevilla_2015,Vallecano,13,12,25,27
+2016-02-21,Vallecano_Sevilla_2015,Sevilla,13,12,25,27
+2016-02-21,Granada_Valencia_2015,Granada,12,13,25,27
+2016-02-21,Malaga_Real Madrid_2015,Real Madrid,13,12,25,27
+2016-02-21,Ath Madrid_Villarreal_2015,Ath Madrid,12,13,25,27
+2016-02-21,Ath Bilbao_Sociedad_2015,Sociedad,12,13,25,27
+2016-02-21,Ath Bilbao_Sociedad_2015,Ath Bilbao,12,13,25,27
+2016-02-26,Eibar_Las Palmas_2015,Eibar,14,12,26,28
+2016-02-26,Eibar_Las Palmas_2015,Las Palmas,13,13,26,28
+2016-02-27,Getafe_Celta_2015,Getafe,14,12,26,28
+2016-02-27,Sociedad_Malaga_2015,Sociedad,13,13,26,28
+2016-02-27,Betis_Vallecano_2015,Vallecano,13,13,26,28
+2016-02-27,Real Madrid_Ath Madrid_2015,Ath Madrid,12,14,26,28
+2016-02-27,Sociedad_Malaga_2015,Malaga,12,14,26,28
+2016-02-27,Getafe_Celta_2015,Celta,13,13,26,28
+2016-02-27,Sp Gijon_Espanol_2015,Espanol,12,14,26,28
+2016-02-27,Real Madrid_Ath Madrid_2015,Real Madrid,14,12,26,28
+2016-02-27,Betis_Vallecano_2015,Betis,13,13,26,28
+2016-02-27,Sp Gijon_Espanol_2015,Sp Gijon,13,13,26,28
+2016-02-28,Valencia_Ath Bilbao_2015,Ath Bilbao,12,14,26,28
+2016-02-28,La Coruna_Granada_2015,Granada,12,14,26,28
+2016-02-28,Valencia_Ath Bilbao_2015,Valencia,13,13,26,28
+2016-02-28,Villarreal_Levante_2015,Villarreal,14,12,26,28
+2016-02-28,La Coruna_Granada_2015,La Coruna,13,13,26,28
+2016-02-28,Barcelona_Sevilla_2015,Sevilla,13,13,26,28
+2016-02-28,Barcelona_Sevilla_2015,Barcelona,14,12,26,28
+2016-02-28,Villarreal_Levante_2015,Levante,13,13,26,28
+2016-03-01,Ath Madrid_Sociedad_2015,Sociedad,13,14,27,29
+2016-03-01,Las Palmas_Getafe_2015,Getafe,14,13,27,29
+2016-03-01,Las Palmas_Getafe_2015,Las Palmas,14,13,27,29
+2016-03-01,Ath Madrid_Sociedad_2015,Ath Madrid,13,14,27,29
+2016-03-02,Celta_Villarreal_2015,Celta,14,13,27,29
+2016-03-02,Levante_Real Madrid_2015,Levante,14,13,27,29
+2016-03-02,Celta_Villarreal_2015,Villarreal,14,13,27,29
+2016-03-02,Ath Bilbao_La Coruna_2015,Ath Bilbao,13,14,27,29
+2016-03-02,Ath Bilbao_La Coruna_2015,La Coruna,13,14,27,29
+2016-03-02,Sevilla_Eibar_2015,Sevilla,14,13,27,29
+2016-03-02,Levante_Real Madrid_2015,Real Madrid,14,13,27,29
+2016-03-02,Malaga_Valencia_2015,Valencia,13,14,27,29
+2016-03-02,Sevilla_Eibar_2015,Eibar,14,13,27,29
+2016-03-02,Malaga_Valencia_2015,Malaga,13,14,27,29
+2016-03-03,Granada_Sp Gijon_2015,Sp Gijon,13,14,27,29
+2016-03-03,Vallecano_Barcelona_2015,Barcelona,14,13,27,29
+2016-03-03,Espanol_Betis_2015,Betis,13,14,27,29
+2016-03-03,Granada_Sp Gijon_2015,Granada,13,14,27,29
+2016-03-03,Vallecano_Barcelona_2015,Vallecano,14,13,27,29
+2016-03-03,Espanol_Betis_2015,Espanol,13,14,27,29
+2016-03-05,La Coruna_Malaga_2015,Malaga,13,15,28,29
+2016-03-05,Villarreal_Las Palmas_2015,Villarreal,15,13,28,29
+2016-03-05,Real Madrid_Celta_2015,Real Madrid,15,13,28,29
+2016-03-05,Real Madrid_Celta_2015,Celta,14,14,28,29
+2016-03-05,Villarreal_Las Palmas_2015,Las Palmas,14,14,28,29
+2016-03-05,La Coruna_Malaga_2015,La Coruna,14,14,28,29
+2016-03-05,Getafe_Sevilla_2015,Getafe,15,13,28,29
+2016-03-05,Getafe_Sevilla_2015,Sevilla,14,14,28,29
+2016-03-06,Eibar_Barcelona_2015,Barcelona,14,14,28,29
+2016-03-06,Sociedad_Levante_2015,Levante,14,14,28,29
+2016-03-06,Betis_Granada_2015,Granada,13,15,28,29
+2016-03-06,Valencia_Ath Madrid_2015,Valencia,14,14,28,29
+2016-03-06,Sp Gijon_Ath Bilbao_2015,Ath Bilbao,13,15,28,29
+2016-03-06,Sp Gijon_Ath Bilbao_2015,Sp Gijon,14,14,28,29
+2016-03-06,Eibar_Barcelona_2015,Eibar,15,13,28,29
+2016-03-06,Betis_Granada_2015,Betis,14,14,28,29
+2016-03-06,Valencia_Ath Madrid_2015,Ath Madrid,13,15,28,29
+2016-03-06,Sociedad_Levante_2015,Sociedad,14,14,28,29
+2016-03-07,Espanol_Vallecano_2015,Vallecano,14,14,28,29
+2016-03-07,Espanol_Vallecano_2015,Espanol,14,14,28,29
+2016-03-11,Malaga_Sp Gijon_2015,Malaga,14,15,29,30
+2016-03-11,Malaga_Sp Gijon_2015,Sp Gijon,14,15,29,30
+2016-03-12,Barcelona_Getafe_2015,Barcelona,15,14,29,30
+2016-03-12,Ath Madrid_La Coruna_2015,La Coruna,14,15,29,30
+2016-03-12,Celta_Sociedad_2015,Celta,15,14,29,30
+2016-03-12,Vallecano_Eibar_2015,Vallecano,15,14,29,30
+2016-03-12,Ath Madrid_La Coruna_2015,Ath Madrid,14,15,29,30
+2016-03-12,Vallecano_Eibar_2015,Eibar,15,14,29,30
+2016-03-12,Celta_Sociedad_2015,Sociedad,14,15,29,30
+2016-03-12,Barcelona_Getafe_2015,Getafe,15,14,29,30
+2016-03-13,Sevilla_Villarreal_2015,Villarreal,15,14,29,30
+2016-03-13,Ath Bilbao_Betis_2015,Ath Bilbao,14,15,29,30
+2016-03-13,Las Palmas_Real Madrid_2015,Real Madrid,15,14,29,30
+2016-03-13,Ath Bilbao_Betis_2015,Betis,14,15,29,30
+2016-03-13,Levante_Valencia_2015,Valencia,14,15,29,30
+2016-03-13,Las Palmas_Real Madrid_2015,Las Palmas,15,14,29,30
+2016-03-13,Levante_Valencia_2015,Levante,15,14,29,30
+2016-03-13,Sevilla_Villarreal_2015,Sevilla,15,14,29,30
+2016-03-14,Granada_Espanol_2015,Espanol,14,15,29,30
+2016-03-14,Granada_Espanol_2015,Granada,14,15,29,30
+2016-03-18,Getafe_Eibar_2015,Eibar,15,15,30,31
+2016-03-18,Getafe_Eibar_2015,Getafe,16,14,30,31
+2016-03-19,Betis_Malaga_2015,Malaga,14,16,30,31
+2016-03-19,Betis_Malaga_2015,Betis,15,15,30,31
+2016-03-19,Granada_Vallecano_2015,Granada,15,15,30,31
+2016-03-19,Sp Gijon_Ath Madrid_2015,Ath Madrid,14,16,30,31
+2016-03-19,Sp Gijon_Ath Madrid_2015,Sp Gijon,15,15,30,31
+2016-03-19,Sociedad_Las Palmas_2015,Sociedad,15,15,30,31
+2016-03-19,Sociedad_Las Palmas_2015,Las Palmas,15,15,30,31
+2016-03-19,Granada_Vallecano_2015,Vallecano,15,15,30,31
+2016-03-19,La Coruna_Levante_2015,Levante,15,15,30,31
+2016-03-19,La Coruna_Levante_2015,La Coruna,15,15,30,31
+2016-03-20,Valencia_Celta_2015,Celta,15,15,30,31
+2016-03-20,Espanol_Ath Bilbao_2015,Ath Bilbao,14,16,30,31
+2016-03-20,Villarreal_Barcelona_2015,Villarreal,16,14,30,31
+2016-03-20,Real Madrid_Sevilla_2015,Sevilla,15,15,30,31
+2016-03-20,Valencia_Celta_2015,Valencia,15,15,30,31
+2016-03-20,Espanol_Ath Bilbao_2015,Espanol,15,15,30,31
+2016-03-20,Villarreal_Barcelona_2015,Barcelona,15,15,30,31
+2016-03-20,Real Madrid_Sevilla_2015,Real Madrid,16,14,30,31
+2016-04-01,Vallecano_Getafe_2015,Getafe,16,15,31,33
+2016-04-01,Vallecano_Getafe_2015,Vallecano,16,15,31,33
+2016-04-02,Celta_La Coruna_2015,Celta,16,15,31,33
+2016-04-02,Las Palmas_Valencia_2015,Las Palmas,16,15,31,33
+2016-04-02,Las Palmas_Valencia_2015,Valencia,15,16,31,33
+2016-04-02,Ath Madrid_Betis_2015,Betis,15,16,31,33
+2016-04-02,Barcelona_Real Madrid_2015,Real Madrid,16,15,31,33
+2016-04-02,Ath Madrid_Betis_2015,Ath Madrid,15,16,31,33
+2016-04-02,Barcelona_Real Madrid_2015,Barcelona,16,15,31,33
+2016-04-02,Celta_La Coruna_2015,La Coruna,15,16,31,33
+2016-04-03,Eibar_Villarreal_2015,Eibar,16,15,31,33
+2016-04-03,Ath Bilbao_Granada_2015,Ath Bilbao,15,16,31,33
+2016-04-03,Sevilla_Sociedad_2015,Sevilla,16,15,31,33
+2016-04-03,Malaga_Espanol_2015,Malaga,15,16,31,33
+2016-04-03,Malaga_Espanol_2015,Espanol,15,16,31,33
+2016-04-03,Ath Bilbao_Granada_2015,Granada,15,16,31,33
+2016-04-03,Sevilla_Sociedad_2015,Sociedad,15,16,31,33
+2016-04-03,Eibar_Villarreal_2015,Villarreal,16,15,31,33
+2016-04-04,Levante_Sp Gijon_2015,Levante,16,15,31,33
+2016-04-04,Levante_Sp Gijon_2015,Sp Gijon,15,16,31,33
+2016-04-08,Granada_Malaga_2015,Malaga,15,17,32,34
+2016-04-08,Granada_Malaga_2015,Granada,16,16,32,34
+2016-04-09,Espanol_Ath Madrid_2015,Ath Madrid,15,17,32,34
+2016-04-09,Sociedad_Barcelona_2015,Sociedad,16,16,32,34
+2016-04-09,Real Madrid_Eibar_2015,Real Madrid,17,15,32,34
+2016-04-09,Espanol_Ath Madrid_2015,Espanol,16,16,32,34
+2016-04-09,Betis_Levante_2015,Betis,16,16,32,34
+2016-04-09,Sociedad_Barcelona_2015,Barcelona,16,16,32,34
+2016-04-09,Betis_Levante_2015,Levante,16,16,32,34
+2016-04-09,Real Madrid_Eibar_2015,Eibar,16,16,32,34
+2016-04-10,Villarreal_Getafe_2015,Villarreal,17,15,32,34
+2016-04-10,Ath Bilbao_Vallecano_2015,Ath Bilbao,16,16,32,34
+2016-04-10,Ath Bilbao_Vallecano_2015,Vallecano,16,16,32,34
+2016-04-10,Valencia_Sevilla_2015,Sevilla,16,16,32,34
+2016-04-10,Villarreal_Getafe_2015,Getafe,16,16,32,34
+2016-04-10,Sp Gijon_Celta_2015,Celta,16,16,32,34
+2016-04-10,Sp Gijon_Celta_2015,Sp Gijon,16,16,32,34
+2016-04-10,Valencia_Sevilla_2015,Valencia,16,16,32,34
+2016-04-11,La Coruna_Las Palmas_2015,La Coruna,16,16,32,34
+2016-04-11,La Coruna_Las Palmas_2015,Las Palmas,16,16,32,34
+2016-04-15,Levante_Espanol_2015,Espanol,16,17,33,35
+2016-04-15,Levante_Espanol_2015,Levante,17,16,33,35
+2016-04-16,Las Palmas_Sp Gijon_2015,Las Palmas,17,16,33,35
+2016-04-16,Eibar_Sociedad_2015,Sociedad,16,17,33,35
+2016-04-16,Las Palmas_Sp Gijon_2015,Sp Gijon,16,17,33,35
+2016-04-16,Getafe_Real Madrid_2015,Real Madrid,17,16,33,35
+2016-04-16,Getafe_Real Madrid_2015,Getafe,17,16,33,35
+2016-04-16,Celta_Betis_2015,Celta,17,16,33,35
+2016-04-16,Celta_Betis_2015,Betis,16,17,33,35
+2016-04-16,Eibar_Sociedad_2015,Eibar,17,16,33,35
+2016-04-17,Vallecano_Villarreal_2015,Villarreal,17,16,33,35
+2016-04-17,Barcelona_Valencia_2015,Barcelona,17,16,33,35
+2016-04-17,Barcelona_Valencia_2015,Valencia,16,17,33,35
+2016-04-17,Sevilla_La Coruna_2015,La Coruna,16,17,33,35
+2016-04-17,Vallecano_Villarreal_2015,Vallecano,17,16,33,35
+2016-04-17,Ath Madrid_Granada_2015,Granada,16,17,33,35
+2016-04-17,Sevilla_La Coruna_2015,Sevilla,17,16,33,35
+2016-04-17,Malaga_Ath Bilbao_2015,Ath Bilbao,16,17,33,35
+2016-04-17,Ath Madrid_Granada_2015,Ath Madrid,16,17,33,35
+2016-04-17,Malaga_Ath Bilbao_2015,Malaga,16,17,33,35
+2016-04-19,Betis_Las Palmas_2015,Betis,17,17,34,36
+2016-04-19,Espanol_Celta_2015,Celta,17,17,34,36
+2016-04-19,Betis_Las Palmas_2015,Las Palmas,17,17,34,36
+2016-04-19,Espanol_Celta_2015,Espanol,17,17,34,36
+2016-04-20,Ath Bilbao_Ath Madrid_2015,Ath Bilbao,17,17,34,36
+2016-04-20,Valencia_Eibar_2015,Valencia,17,17,34,36
+2016-04-20,Sp Gijon_Sevilla_2015,Sp Gijon,17,17,34,36
+2016-04-20,Real Madrid_Villarreal_2015,Real Madrid,18,16,34,36
+2016-04-20,Ath Bilbao_Ath Madrid_2015,Ath Madrid,16,18,34,36
+2016-04-20,Malaga_Vallecano_2015,Malaga,17,17,34,36
+2016-04-20,Malaga_Vallecano_2015,Vallecano,17,17,34,36
+2016-04-20,Sp Gijon_Sevilla_2015,Sevilla,17,17,34,36
+2016-04-20,Valencia_Eibar_2015,Eibar,17,17,34,36
+2016-04-20,La Coruna_Barcelona_2015,Barcelona,17,17,34,36
+2016-04-20,Real Madrid_Villarreal_2015,Villarreal,17,17,34,36
+2016-04-20,La Coruna_Barcelona_2015,La Coruna,17,17,34,36
+2016-04-21,Granada_Levante_2015,Levante,17,17,34,36
+2016-04-21,Sociedad_Getafe_2015,Getafe,17,17,34,36
+2016-04-21,Sociedad_Getafe_2015,Sociedad,17,17,34,36
+2016-04-21,Granada_Levante_2015,Granada,17,17,34,36
+2016-04-22,Las Palmas_Espanol_2015,Las Palmas,18,17,35,36
+2016-04-22,Las Palmas_Espanol_2015,Espanol,17,18,35,36
+2016-04-23,Vallecano_Real Madrid_2015,Real Madrid,18,17,35,36
+2016-04-23,Vallecano_Real Madrid_2015,Vallecano,18,17,35,36
+2016-04-23,Barcelona_Sp Gijon_2015,Barcelona,18,17,35,36
+2016-04-23,Ath Madrid_Malaga_2015,Malaga,17,18,35,36
+2016-04-23,Eibar_La Coruna_2015,La Coruna,17,18,35,36
+2016-04-23,Barcelona_Sp Gijon_2015,Sp Gijon,17,18,35,36
+2016-04-23,Ath Madrid_Malaga_2015,Ath Madrid,17,18,35,36
+2016-04-23,Eibar_La Coruna_2015,Eibar,18,17,35,36
+2016-04-24,Sevilla_Betis_2015,Betis,17,18,35,36
+2016-04-24,Levante_Ath Bilbao_2015,Levante,18,17,35,36
+2016-04-24,Getafe_Valencia_2015,Getafe,18,17,35,36
+2016-04-24,Sevilla_Betis_2015,Sevilla,18,17,35,36
+2016-04-24,Levante_Ath Bilbao_2015,Ath Bilbao,17,18,35,36
+2016-04-24,Villarreal_Sociedad_2015,Villarreal,18,17,35,36
+2016-04-24,Villarreal_Sociedad_2015,Sociedad,17,18,35,36
+2016-04-24,Getafe_Valencia_2015,Valencia,17,18,35,36
+2016-04-25,Celta_Granada_2015,Granada,17,18,35,36
+2016-04-25,Celta_Granada_2015,Celta,18,17,35,36
+2016-04-29,Sp Gijon_Eibar_2015,Sp Gijon,18,18,36,37
+2016-04-29,Sp Gijon_Eibar_2015,Eibar,18,18,36,37
+2016-04-30,Betis_Barcelona_2015,Betis,18,18,36,37
+2016-04-30,Ath Madrid_Vallecano_2015,Ath Madrid,18,18,36,37
+2016-04-30,Betis_Barcelona_2015,Barcelona,18,18,36,37
+2016-04-30,Sociedad_Real Madrid_2015,Sociedad,18,18,36,37
+2016-04-30,Ath Madrid_Vallecano_2015,Vallecano,18,18,36,37
+2016-04-30,Sociedad_Real Madrid_2015,Real Madrid,18,18,36,37
+2016-04-30,Granada_Las Palmas_2015,Granada,18,18,36,37
+2016-04-30,Granada_Las Palmas_2015,Las Palmas,18,18,36,37
+2016-05-01,La Coruna_Getafe_2015,Getafe,18,18,36,37
+2016-05-01,Valencia_Villarreal_2015,Villarreal,18,18,36,37
+2016-05-01,Espanol_Sevilla_2015,Espanol,18,18,36,37
+2016-05-01,Ath Bilbao_Celta_2015,Celta,18,18,36,37
+2016-05-01,Espanol_Sevilla_2015,Sevilla,18,18,36,37
+2016-05-01,La Coruna_Getafe_2015,La Coruna,18,18,36,37
+2016-05-01,Valencia_Villarreal_2015,Valencia,18,18,36,37
+2016-05-01,Ath Bilbao_Celta_2015,Ath Bilbao,18,18,36,37
+2016-05-02,Malaga_Levante_2015,Malaga,18,18,36,37
+2016-05-02,Malaga_Levante_2015,Levante,18,18,36,37
+2016-05-08,Levante_Ath Madrid_2015,Ath Madrid,18,19,37,38
+2016-05-08,Sevilla_Granada_2015,Granada,18,19,37,38
+2016-05-08,Getafe_Sp Gijon_2015,Getafe,19,18,37,38
+2016-05-08,Las Palmas_Ath Bilbao_2015,Las Palmas,19,18,37,38
+2016-05-08,Eibar_Betis_2015,Betis,18,19,37,38
+2016-05-08,Barcelona_Espanol_2015,Espanol,18,19,37,38
+2016-05-08,Real Madrid_Valencia_2015,Valencia,18,19,37,38
+2016-05-08,Las Palmas_Ath Bilbao_2015,Ath Bilbao,18,19,37,38
+2016-05-08,Celta_Malaga_2015,Malaga,18,19,37,38
+2016-05-08,Villarreal_La Coruna_2015,La Coruna,18,19,37,38
+2016-05-08,Barcelona_Espanol_2015,Barcelona,19,18,37,38
+2016-05-08,Sociedad_Vallecano_2015,Sociedad,19,18,37,38
+2016-05-08,Villarreal_La Coruna_2015,Villarreal,19,18,37,38
+2016-05-08,Sevilla_Granada_2015,Sevilla,19,18,37,38
+2016-05-08,Eibar_Betis_2015,Eibar,19,18,37,38
+2016-05-08,Levante_Ath Madrid_2015,Levante,19,18,37,38
+2016-05-08,Sociedad_Vallecano_2015,Vallecano,18,19,37,38
+2016-05-08,Getafe_Sp Gijon_2015,Sp Gijon,18,19,37,38
+2016-05-08,Real Madrid_Valencia_2015,Real Madrid,19,18,37,38
+2016-05-08,Celta_Malaga_2015,Celta,19,18,37,38
+2016-05-13,Valencia_Sociedad_2015,Sociedad,19,19,38,39
+2016-05-13,Valencia_Sociedad_2015,Valencia,19,19,38,39
+2016-05-14,Ath Bilbao_Sevilla_2015,Ath Bilbao,19,19,38,39
+2016-05-14,La Coruna_Real Madrid_2015,La Coruna,19,19,38,39
+2016-05-14,Granada_Barcelona_2015,Granada,19,19,38,39
+2016-05-14,Granada_Barcelona_2015,Barcelona,19,19,38,39
+2016-05-14,Ath Madrid_Celta_2015,Celta,19,19,38,39
+2016-05-14,Ath Madrid_Celta_2015,Ath Madrid,19,19,38,39
+2016-05-14,Ath Bilbao_Sevilla_2015,Sevilla,19,19,38,39
+2016-05-14,La Coruna_Real Madrid_2015,Real Madrid,19,19,38,39
+2016-05-15,Vallecano_Levante_2015,Vallecano,19,19,38,39
+2016-05-15,Betis_Getafe_2015,Betis,19,19,38,39
+2016-05-15,Vallecano_Levante_2015,Levante,19,19,38,39
+2016-05-15,Espanol_Eibar_2015,Eibar,19,19,38,39
+2016-05-15,Sp Gijon_Villarreal_2015,Sp Gijon,19,19,38,39
+2016-05-15,Malaga_Las Palmas_2015,Malaga,19,19,38,39
+2016-05-15,Espanol_Eibar_2015,Espanol,19,19,38,39
+2016-05-15,Malaga_Las Palmas_2015,Las Palmas,19,19,38,39
+2016-05-15,Betis_Getafe_2015,Getafe,19,19,38,39
+2016-05-15,Sp Gijon_Villarreal_2015,Villarreal,19,19,38,39

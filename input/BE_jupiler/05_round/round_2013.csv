@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2013-07-26,Club Brugge_Charleroi_2013,Charleroi,1,1,1,1
+2013-07-26,Club Brugge_Charleroi_2013,Club Brugge,1,1,1,1
+2013-07-27,Kortrijk_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,1,1,1,1
+2013-07-27,Lierse_Waregem_2013,Lierse,1,1,1,1
+2013-07-27,Waasland-Beveren_Gent_2013,Gent,1,1,1,1
+2013-07-27,Bergen_Cercle Brugge_2013,Cercle Brugge,1,1,1,1
+2013-07-27,Lierse_Waregem_2013,Waregem,1,1,1,1
+2013-07-27,Bergen_Cercle Brugge_2013,Bergen,1,1,1,1
+2013-07-27,Genk_Oostende_2013,Genk,1,1,1,1
+2013-07-27,Waasland-Beveren_Gent_2013,Waasland-Beveren,1,1,1,1
+2013-07-27,Kortrijk_Oud-Heverlee Leuven_2013,Kortrijk,1,1,1,1
+2013-07-27,Genk_Oostende_2013,Oostende,1,1,1,1
+2013-07-28,Mechelen_Standard_2013,Standard,1,1,1,1
+2013-07-28,Anderlecht_Lokeren_2013,Lokeren,1,1,1,1
+2013-07-28,Mechelen_Standard_2013,Mechelen,1,1,1,1
+2013-07-28,Anderlecht_Lokeren_2013,Anderlecht,1,1,1,1
+2013-08-02,Cercle Brugge_Anderlecht_2013,Anderlecht,1,1,2,2
+2013-08-02,Cercle Brugge_Anderlecht_2013,Cercle Brugge,1,1,2,2
+2013-08-03,Lokeren_Bergen_2013,Bergen,1,1,2,2
+2013-08-03,Waregem_Kortrijk_2013,Kortrijk,1,1,2,2
+2013-08-03,Charleroi_Waasland-Beveren_2013,Charleroi,1,1,2,2
+2013-08-03,Oud-Heverlee Leuven_Genk_2013,Genk,1,1,2,2
+2013-08-03,Charleroi_Waasland-Beveren_2013,Waasland-Beveren,1,1,2,2
+2013-08-03,Waregem_Kortrijk_2013,Waregem,1,1,2,2
+2013-08-03,Oud-Heverlee Leuven_Genk_2013,Oud-Heverlee Leuven,1,1,2,2
+2013-08-03,Lokeren_Bergen_2013,Lokeren,1,1,2,2
+2013-08-04,Oostende_Club Brugge_2013,Oostende,1,1,2,2
+2013-08-04,Standard_Lierse_2013,Lierse,1,1,2,2
+2013-08-04,Gent_Mechelen_2013,Gent,1,1,2,2
+2013-08-04,Standard_Lierse_2013,Standard,1,1,2,2
+2013-08-04,Gent_Mechelen_2013,Mechelen,1,1,2,2
+2013-08-04,Oostende_Club Brugge_2013,Club Brugge,1,1,2,2
+2013-08-09,Kortrijk_Lokeren_2013,Lokeren,1,2,3,3
+2013-08-09,Kortrijk_Lokeren_2013,Kortrijk,2,1,3,3
+2013-08-10,Oostende_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,1,2,3,3
+2013-08-10,Lierse_Cercle Brugge_2013,Cercle Brugge,1,2,3,3
+2013-08-10,Bergen_Charleroi_2013,Bergen,2,1,3,3
+2013-08-10,Bergen_Charleroi_2013,Charleroi,1,2,3,3
+2013-08-10,Lierse_Cercle Brugge_2013,Lierse,2,1,3,3
+2013-08-10,Oostende_Oud-Heverlee Leuven_2013,Oostende,2,1,3,3
+2013-08-10,Waasland-Beveren_Mechelen_2013,Waasland-Beveren,2,1,3,3
+2013-08-10,Waasland-Beveren_Mechelen_2013,Mechelen,1,2,3,3
+2013-08-11,Club Brugge_Waregem_2013,Waregem,1,2,3,3
+2013-08-11,Club Brugge_Waregem_2013,Club Brugge,2,1,3,3
+2013-08-11,Genk_Standard_2013,Standard,1,2,3,3
+2013-08-11,Anderlecht_Gent_2013,Gent,1,2,3,3
+2013-08-11,Anderlecht_Gent_2013,Anderlecht,2,1,3,3
+2013-08-11,Genk_Standard_2013,Genk,2,1,3,3
+2013-08-17,Lokeren_Genk_2013,Lokeren,2,2,4,4
+2013-08-17,Waregem_Bergen_2013,Waregem,2,2,4,4
+2013-08-17,Charleroi_Kortrijk_2013,Kortrijk,2,2,4,4
+2013-08-17,Gent_Lierse_2013,Gent,2,2,4,4
+2013-08-17,Gent_Lierse_2013,Lierse,2,2,4,4
+2013-08-17,Mechelen_Club Brugge_2013,Club Brugge,2,2,4,4
+2013-08-17,Cercle Brugge_Oostende_2013,Cercle Brugge,2,2,4,4
+2013-08-17,Charleroi_Kortrijk_2013,Charleroi,2,2,4,4
+2013-08-17,Lokeren_Genk_2013,Genk,2,2,4,4
+2013-08-17,Mechelen_Club Brugge_2013,Mechelen,2,2,4,4
+2013-08-17,Cercle Brugge_Oostende_2013,Oostende,2,2,4,4
+2013-08-17,Waregem_Bergen_2013,Bergen,2,2,4,4
+2013-08-18,Waasland-Beveren_Anderlecht_2013,Anderlecht,2,2,4,4
+2013-08-18,Waasland-Beveren_Anderlecht_2013,Waasland-Beveren,3,1,4,4
+2013-08-18,Standard_Oud-Heverlee Leuven_2013,Standard,2,2,4,4
+2013-08-18,Standard_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,1,3,4,4
+2013-08-24,Lierse_Waasland-Beveren_2013,Waasland-Beveren,3,2,5,5
+2013-08-24,Kortrijk_Mechelen_2013,Kortrijk,3,2,5,5
+2013-08-24,Oud-Heverlee Leuven_Lokeren_2013,Oud-Heverlee Leuven,2,3,5,5
+2013-08-24,Kortrijk_Mechelen_2013,Mechelen,2,3,5,5
+2013-08-24,Lierse_Waasland-Beveren_2013,Lierse,3,2,5,5
+2013-08-24,Oud-Heverlee Leuven_Lokeren_2013,Lokeren,2,3,5,5
+2013-08-25,Bergen_Standard_2013,Bergen,3,2,5,5
+2013-08-25,Genk_Cercle Brugge_2013,Cercle Brugge,2,3,5,5
+2013-08-25,Club Brugge_Gent_2013,Club Brugge,3,2,5,5
+2013-08-25,Anderlecht_Charleroi_2013,Anderlecht,3,2,5,5
+2013-08-25,Bergen_Standard_2013,Standard,2,3,5,5
+2013-08-25,Anderlecht_Charleroi_2013,Charleroi,2,3,5,5
+2013-08-25,Club Brugge_Gent_2013,Gent,2,3,5,5
+2013-08-25,Genk_Cercle Brugge_2013,Genk,3,2,5,5
+2013-08-25,Oostende_Waregem_2013,Oostende,3,2,5,5
+2013-08-25,Oostende_Waregem_2013,Waregem,2,3,5,5
+2013-08-31,Gent_Bergen_2013,Gent,3,3,6,6
+2013-08-31,Cercle Brugge_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,2,4,6,6
+2013-08-31,Lokeren_Oostende_2013,Lokeren,3,3,6,6
+2013-08-31,Mechelen_Lierse_2013,Lierse,3,3,6,6
+2013-08-31,Lokeren_Oostende_2013,Oostende,3,3,6,6
+2013-08-31,Mechelen_Lierse_2013,Mechelen,3,3,6,6
+2013-08-31,Cercle Brugge_Oud-Heverlee Leuven_2013,Cercle Brugge,3,3,6,6
+2013-08-31,Gent_Bergen_2013,Bergen,3,3,6,6
+2013-09-01,Waasland-Beveren_Club Brugge_2013,Waasland-Beveren,4,2,6,6
+2013-09-01,Standard_Kortrijk_2013,Standard,3,3,6,6
+2013-09-01,Waasland-Beveren_Club Brugge_2013,Club Brugge,3,3,6,6
+2013-09-01,Waregem_Anderlecht_2013,Anderlecht,3,3,6,6
+2013-09-01,Charleroi_Genk_2013,Charleroi,3,3,6,6
+2013-09-01,Standard_Kortrijk_2013,Kortrijk,3,3,6,6
+2013-09-01,Waregem_Anderlecht_2013,Waregem,3,3,6,6
+2013-09-01,Charleroi_Genk_2013,Genk,3,3,6,6
+2013-09-14,Anderlecht_Mechelen_2013,Anderlecht,4,3,7,8
+2013-09-14,Lokeren_Cercle Brugge_2013,Cercle Brugge,3,4,7,8
+2013-09-14,Oud-Heverlee Leuven_Charleroi_2013,Oud-Heverlee Leuven,3,4,7,8
+2013-09-14,Kortrijk_Gent_2013,Kortrijk,4,3,7,8
+2013-09-14,Oud-Heverlee Leuven_Charleroi_2013,Charleroi,3,4,7,8
+2013-09-14,Bergen_Waasland-Beveren_2013,Waasland-Beveren,4,3,7,8
+2013-09-14,Club Brugge_Lierse_2013,Lierse,3,4,7,8
+2013-09-14,Anderlecht_Mechelen_2013,Mechelen,3,4,7,8
+2013-09-14,Lokeren_Cercle Brugge_2013,Lokeren,4,3,7,8
+2013-09-14,Kortrijk_Gent_2013,Gent,3,4,7,8
+2013-09-14,Bergen_Waasland-Beveren_2013,Bergen,4,3,7,8
+2013-09-14,Club Brugge_Lierse_2013,Club Brugge,4,3,7,8
+2013-09-15,Genk_Waregem_2013,Waregem,3,4,7,8
+2013-09-15,Genk_Waregem_2013,Genk,4,3,7,8
+2013-09-15,Oostende_Standard_2013,Oostende,4,3,7,8
+2013-09-15,Oostende_Standard_2013,Standard,3,4,7,8
+2013-09-21,Lierse_Kortrijk_2013,Lierse,4,4,8,9
+2013-09-21,Gent_Oostende_2013,Oostende,4,4,8,9
+2013-09-21,Charleroi_Cercle Brugge_2013,Charleroi,4,4,8,9
+2013-09-21,Gent_Oostende_2013,Gent,4,4,8,9
+2013-09-21,Mechelen_Bergen_2013,Mechelen,4,4,8,9
+2013-09-21,Lierse_Kortrijk_2013,Kortrijk,4,4,8,9
+2013-09-21,Mechelen_Bergen_2013,Bergen,4,4,8,9
+2013-09-21,Charleroi_Cercle Brugge_2013,Cercle Brugge,3,5,8,9
+2013-09-22,Waregem_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,3,5,8,9
+2013-09-22,Club Brugge_Anderlecht_2013,Anderlecht,4,4,8,9
+2013-09-22,Standard_Lokeren_2013,Lokeren,4,4,8,9
+2013-09-22,Waasland-Beveren_Genk_2013,Genk,4,4,8,9
+2013-09-22,Waasland-Beveren_Genk_2013,Waasland-Beveren,5,3,8,9
+2013-09-22,Standard_Lokeren_2013,Standard,4,4,8,9
+2013-09-22,Waregem_Oud-Heverlee Leuven_2013,Waregem,4,4,8,9
+2013-09-22,Club Brugge_Anderlecht_2013,Club Brugge,5,3,8,9
+2013-09-28,Oud-Heverlee Leuven_Gent_2013,Oud-Heverlee Leuven,4,5,9,10
+2013-09-28,Genk_Mechelen_2013,Mechelen,4,5,9,10
+2013-09-28,Oostende_Charleroi_2013,Charleroi,4,5,9,10
+2013-09-28,Oostende_Charleroi_2013,Oostende,5,4,9,10
+2013-09-28,Bergen_Club Brugge_2013,Club Brugge,5,4,9,10
+2013-09-28,Lokeren_Waregem_2013,Lokeren,5,4,9,10
+2013-09-28,Kortrijk_Waasland-Beveren_2013,Waasland-Beveren,5,4,9,10
+2013-09-28,Kortrijk_Waasland-Beveren_2013,Kortrijk,5,4,9,10
+2013-09-28,Genk_Mechelen_2013,Genk,5,4,9,10
+2013-09-28,Oud-Heverlee Leuven_Gent_2013,Gent,4,5,9,10
+2013-09-28,Lokeren_Waregem_2013,Waregem,4,5,9,10
+2013-09-28,Bergen_Club Brugge_2013,Bergen,5,4,9,10
+2013-09-29,Cercle Brugge_Standard_2013,Standard,4,5,9,10
+2013-09-29,Cercle Brugge_Standard_2013,Cercle Brugge,4,5,9,10
+2013-09-29,Anderlecht_Lierse_2013,Anderlecht,5,4,9,10
+2013-09-29,Anderlecht_Lierse_2013,Lierse,4,5,9,10
+2013-10-05,Lierse_Bergen_2013,Lierse,5,5,10,11
+2013-10-05,Charleroi_Lokeren_2013,Charleroi,5,5,10,11
+2013-10-05,Club Brugge_Oud-Heverlee Leuven_2013,Club Brugge,6,4,10,11
+2013-10-05,Waasland-Beveren_Oostende_2013,Waasland-Beveren,6,4,10,11
+2013-10-05,Charleroi_Lokeren_2013,Lokeren,5,5,10,11
+2013-10-05,Club Brugge_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,4,6,10,11
+2013-10-05,Mechelen_Cercle Brugge_2013,Cercle Brugge,4,6,10,11
+2013-10-05,Mechelen_Cercle Brugge_2013,Mechelen,5,5,10,11
+2013-10-05,Lierse_Bergen_2013,Bergen,5,5,10,11
+2013-10-05,Waasland-Beveren_Oostende_2013,Oostende,5,5,10,11
+2013-10-06,Anderlecht_Kortrijk_2013,Kortrijk,5,5,10,11
+2013-10-06,Waregem_Standard_2013,Standard,4,6,10,11
+2013-10-06,Gent_Genk_2013,Genk,5,5,10,11
+2013-10-06,Gent_Genk_2013,Gent,5,5,10,11
+2013-10-06,Anderlecht_Kortrijk_2013,Anderlecht,6,4,10,11
+2013-10-06,Waregem_Standard_2013,Waregem,5,5,10,11
+2013-10-18,Bergen_Anderlecht_2013,Anderlecht,6,5,11,13
+2013-10-18,Bergen_Anderlecht_2013,Bergen,6,5,11,13
+2013-10-19,Genk_Lierse_2013,Genk,6,5,11,13
+2013-10-19,Cercle Brugge_Waregem_2013,Waregem,5,6,11,13
+2013-10-19,Oostende_Mechelen_2013,Oostende,6,5,11,13
+2013-10-19,Oostende_Mechelen_2013,Mechelen,5,6,11,13
+2013-10-19,Cercle Brugge_Waregem_2013,Cercle Brugge,5,6,11,13
+2013-10-19,Lokeren_Gent_2013,Gent,5,6,11,13
+2013-10-19,Genk_Lierse_2013,Lierse,5,6,11,13
+2013-10-19,Lokeren_Gent_2013,Lokeren,6,5,11,13
+2013-10-19,Oud-Heverlee Leuven_Waasland-Beveren_2013,Oud-Heverlee Leuven,5,6,11,13
+2013-10-19,Oud-Heverlee Leuven_Waasland-Beveren_2013,Waasland-Beveren,6,5,11,13
+2013-10-20,Standard_Charleroi_2013,Standard,5,6,11,13
+2013-10-20,Kortrijk_Club Brugge_2013,Kortrijk,6,5,11,13
+2013-10-20,Kortrijk_Club Brugge_2013,Club Brugge,6,5,11,13
+2013-10-20,Standard_Charleroi_2013,Charleroi,5,6,11,13
+2013-10-25,Gent_Cercle Brugge_2013,Cercle Brugge,5,7,12,14
+2013-10-25,Gent_Cercle Brugge_2013,Gent,6,6,12,14
+2013-10-26,Bergen_Kortrijk_2013,Kortrijk,6,6,12,14
+2013-10-26,Mechelen_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,5,7,12,14
+2013-10-26,Mechelen_Oud-Heverlee Leuven_2013,Mechelen,6,6,12,14
+2013-10-26,Bergen_Kortrijk_2013,Bergen,7,5,12,14
+2013-10-26,Lierse_Oostende_2013,Oostende,6,6,12,14
+2013-10-26,Waasland-Beveren_Lokeren_2013,Lokeren,6,6,12,14
+2013-10-26,Lierse_Oostende_2013,Lierse,6,6,12,14
+2013-10-26,Waasland-Beveren_Lokeren_2013,Waasland-Beveren,7,5,12,14
+2013-10-27,Club Brugge_Genk_2013,Club Brugge,7,5,12,14
+2013-10-27,Club Brugge_Genk_2013,Genk,6,6,12,14
+2013-10-27,Anderlecht_Standard_2013,Standard,5,7,12,14
+2013-10-27,Waregem_Charleroi_2013,Waregem,6,6,12,14
+2013-10-27,Anderlecht_Standard_2013,Anderlecht,7,5,12,14
+2013-10-27,Waregem_Charleroi_2013,Charleroi,5,7,12,14
+2013-10-30,Waregem_Gent_2013,Waregem,7,6,13,15
+2013-10-30,Oud-Heverlee Leuven_Bergen_2013,Bergen,7,6,13,15
+2013-10-30,Charleroi_Mechelen_2013,Mechelen,6,7,13,15
+2013-10-30,Lokeren_Lierse_2013,Lokeren,7,6,13,15
+2013-10-30,Oostende_Anderlecht_2013,Anderlecht,7,6,13,15
+2013-10-30,Oud-Heverlee Leuven_Bergen_2013,Oud-Heverlee Leuven,6,7,13,15
+2013-10-30,Genk_Kortrijk_2013,Kortrijk,6,7,13,15
+2013-10-30,Genk_Kortrijk_2013,Genk,7,6,13,15
+2013-10-30,Waregem_Gent_2013,Gent,6,7,13,15
+2013-10-30,Oostende_Anderlecht_2013,Oostende,7,6,13,15
+2013-10-30,Charleroi_Mechelen_2013,Charleroi,6,7,13,15
+2013-10-30,Lokeren_Lierse_2013,Lierse,6,7,13,15
+2013-10-31,Cercle Brugge_Club Brugge_2013,Club Brugge,7,6,13,15
+2013-10-31,Cercle Brugge_Club Brugge_2013,Cercle Brugge,6,7,13,15
+2013-10-31,Standard_Waasland-Beveren_2013,Waasland-Beveren,7,6,13,15
+2013-10-31,Standard_Waasland-Beveren_2013,Standard,6,7,13,15
+2013-11-02,Lierse_Charleroi_2013,Charleroi,6,8,14,15
+2013-11-02,Anderlecht_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,6,8,14,15
+2013-11-02,Bergen_Genk_2013,Bergen,8,6,14,15
+2013-11-02,Kortrijk_Oostende_2013,Kortrijk,7,7,14,15
+2013-11-02,Mechelen_Waregem_2013,Mechelen,7,7,14,15
+2013-11-02,Anderlecht_Oud-Heverlee Leuven_2013,Anderlecht,8,6,14,15
+2013-11-02,Kortrijk_Oostende_2013,Oostende,7,7,14,15
+2013-11-02,Lierse_Charleroi_2013,Lierse,7,7,14,15
+2013-11-02,Bergen_Genk_2013,Genk,7,7,14,15
+2013-11-02,Mechelen_Waregem_2013,Waregem,7,7,14,15
+2013-11-03,Waasland-Beveren_Cercle Brugge_2013,Cercle Brugge,6,8,14,15
+2013-11-03,Club Brugge_Lokeren_2013,Club Brugge,8,6,14,15
+2013-11-03,Gent_Standard_2013,Standard,6,8,14,15
+2013-11-03,Gent_Standard_2013,Gent,7,7,14,15
+2013-11-03,Waasland-Beveren_Cercle Brugge_2013,Waasland-Beveren,8,6,14,15
+2013-11-03,Club Brugge_Lokeren_2013,Lokeren,7,7,14,15
+2013-11-08,Lokeren_Mechelen_2013,Mechelen,7,8,15,16
+2013-11-08,Lokeren_Mechelen_2013,Lokeren,8,7,15,16
+2013-11-09,Charleroi_Gent_2013,Gent,7,8,15,16
+2013-11-09,Oud-Heverlee Leuven_Lierse_2013,Oud-Heverlee Leuven,7,8,15,16
+2013-11-09,Oud-Heverlee Leuven_Lierse_2013,Lierse,7,8,15,16
+2013-11-09,Cercle Brugge_Kortrijk_2013,Kortrijk,7,8,15,16
+2013-11-09,Oostende_Bergen_2013,Bergen,8,7,15,16
+2013-11-09,Charleroi_Gent_2013,Charleroi,7,8,15,16
+2013-11-09,Oostende_Bergen_2013,Oostende,8,7,15,16
+2013-11-09,Cercle Brugge_Kortrijk_2013,Cercle Brugge,7,8,15,16
+2013-11-10,Waregem_Waasland-Beveren_2013,Waregem,8,7,15,16
+2013-11-10,Standard_Club Brugge_2013,Club Brugge,8,7,15,16
+2013-11-10,Standard_Club Brugge_2013,Standard,7,8,15,16
+2013-11-10,Waregem_Waasland-Beveren_2013,Waasland-Beveren,8,7,15,16
+2013-11-10,Genk_Anderlecht_2013,Genk,8,7,15,16
+2013-11-10,Genk_Anderlecht_2013,Anderlecht,8,7,15,16
+2013-11-23,Charleroi_Anderlecht_2013,Charleroi,8,8,16,18
+2013-11-23,Gent_Waasland-Beveren_2013,Waasland-Beveren,8,8,16,18
+2013-11-23,Cercle Brugge_Lierse_2013,Cercle Brugge,8,8,16,18
+2013-11-23,Oud-Heverlee Leuven_Kortrijk_2013,Kortrijk,7,9,16,18
+2013-11-23,Waregem_Mechelen_2013,Mechelen,7,9,16,18
+2013-11-23,Oud-Heverlee Leuven_Kortrijk_2013,Oud-Heverlee Leuven,8,8,16,18
+2013-11-23,Gent_Waasland-Beveren_2013,Gent,8,8,16,18
+2013-11-23,Oostende_Genk_2013,Genk,8,8,16,18
+2013-11-23,Cercle Brugge_Lierse_2013,Lierse,7,9,16,18
+2013-11-23,Charleroi_Anderlecht_2013,Anderlecht,8,8,16,18
+2013-11-23,Oostende_Genk_2013,Oostende,9,7,16,18
+2013-11-23,Waregem_Mechelen_2013,Waregem,9,7,16,18
+2013-11-24,Standard_Bergen_2013,Bergen,8,8,16,18
+2013-11-24,Lokeren_Club Brugge_2013,Club Brugge,8,8,16,18
+2013-11-24,Standard_Bergen_2013,Standard,8,8,16,18
+2013-11-24,Lokeren_Club Brugge_2013,Lokeren,9,7,16,18
+2013-11-30,Waasland-Beveren_Charleroi_2013,Waasland-Beveren,9,8,17,19
+2013-11-30,Club Brugge_Oostende_2013,Club Brugge,9,8,17,19
+2013-11-30,Mechelen_Gent_2013,Mechelen,8,9,17,19
+2013-11-30,Bergen_Lokeren_2013,Lokeren,9,8,17,19
+2013-11-30,Bergen_Lokeren_2013,Bergen,9,8,17,19
+2013-11-30,Mechelen_Gent_2013,Gent,8,9,17,19
+2013-11-30,Club Brugge_Oostende_2013,Oostende,9,8,17,19
+2013-11-30,Waasland-Beveren_Charleroi_2013,Charleroi,8,9,17,19
+2013-12-01,Genk_Oud-Heverlee Leuven_2013,Genk,9,8,17,19
+2013-12-01,Lierse_Standard_2013,Lierse,8,9,17,19
+2013-12-01,Anderlecht_Cercle Brugge_2013,Cercle Brugge,8,9,17,19
+2013-12-01,Genk_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,8,9,17,19
+2013-12-01,Kortrijk_Waregem_2013,Kortrijk,8,9,17,19
+2013-12-01,Lierse_Standard_2013,Standard,8,9,17,19
+2013-12-01,Anderlecht_Cercle Brugge_2013,Anderlecht,9,8,17,19
+2013-12-01,Kortrijk_Waregem_2013,Waregem,9,8,17,19
+2013-12-07,Club Brugge_Mechelen_2013,Mechelen,8,10,18,20
+2013-12-07,Club Brugge_Mechelen_2013,Club Brugge,10,8,18,20
+2013-12-07,Anderlecht_Waasland-Beveren_2013,Waasland-Beveren,9,9,18,20
+2013-12-07,Lierse_Gent_2013,Lierse,9,9,18,20
+2013-12-07,Bergen_Waregem_2013,Bergen,10,8,18,20
+2013-12-07,Oostende_Cercle Brugge_2013,Oostende,10,8,18,20
+2013-12-07,Kortrijk_Charleroi_2013,Charleroi,8,10,18,20
+2013-12-07,Kortrijk_Charleroi_2013,Kortrijk,9,9,18,20
+2013-12-07,Lierse_Gent_2013,Gent,8,10,18,20
+2013-12-07,Bergen_Waregem_2013,Waregem,9,9,18,20
+2013-12-07,Oostende_Cercle Brugge_2013,Cercle Brugge,8,10,18,20
+2013-12-07,Anderlecht_Waasland-Beveren_2013,Anderlecht,10,8,18,20
+2013-12-08,Genk_Lokeren_2013,Genk,10,8,18,20
+2013-12-08,Oud-Heverlee Leuven_Standard_2013,Oud-Heverlee Leuven,9,9,18,20
+2013-12-08,Genk_Lokeren_2013,Lokeren,9,9,18,20
+2013-12-08,Oud-Heverlee Leuven_Standard_2013,Standard,8,10,18,20
+2013-12-14,Oud-Heverlee Leuven_Oostende_2013,Oostende,10,9,19,21
+2013-12-14,Mechelen_Waasland-Beveren_2013,Waasland-Beveren,9,10,19,21
+2013-12-14,Lokeren_Kortrijk_2013,Lokeren,10,9,19,21
+2013-12-14,Oud-Heverlee Leuven_Oostende_2013,Oud-Heverlee Leuven,10,9,19,21
+2013-12-14,Lokeren_Kortrijk_2013,Kortrijk,9,10,19,21
+2013-12-14,Cercle Brugge_Bergen_2013,Cercle Brugge,9,10,19,21
+2013-12-14,Cercle Brugge_Bergen_2013,Bergen,10,9,19,21
+2013-12-14,Mechelen_Waasland-Beveren_2013,Mechelen,9,10,19,21
+2013-12-15,Standard_Genk_2013,Standard,9,10,19,21
+2013-12-15,Gent_Anderlecht_2013,Gent,9,10,19,21
+2013-12-15,Standard_Genk_2013,Genk,10,9,19,21
+2013-12-15,Charleroi_Club Brugge_2013,Charleroi,9,10,19,21
+2013-12-15,Charleroi_Club Brugge_2013,Club Brugge,10,9,19,21
+2013-12-15,Waregem_Lierse_2013,Waregem,10,9,19,21
+2013-12-15,Gent_Anderlecht_2013,Anderlecht,10,9,19,21
+2013-12-15,Waregem_Lierse_2013,Lierse,9,10,19,21
+2013-12-21,Cercle Brugge_Genk_2013,Cercle Brugge,10,10,20,22
+2013-12-21,Waasland-Beveren_Lierse_2013,Waasland-Beveren,10,10,20,22
+2013-12-21,Charleroi_Bergen_2013,Charleroi,10,10,20,22
+2013-12-21,Lokeren_Oud-Heverlee Leuven_2013,Lokeren,11,9,20,22
+2013-12-21,Lokeren_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,10,10,20,22
+2013-12-21,Charleroi_Bergen_2013,Bergen,10,10,20,22
+2013-12-21,Cercle Brugge_Genk_2013,Genk,10,10,20,22
+2013-12-21,Mechelen_Kortrijk_2013,Kortrijk,9,11,20,22
+2013-12-21,Waregem_Oostende_2013,Waregem,11,9,20,22
+2013-12-21,Waregem_Oostende_2013,Oostende,10,10,20,22
+2013-12-21,Mechelen_Kortrijk_2013,Mechelen,10,10,20,22
+2013-12-21,Waasland-Beveren_Lierse_2013,Lierse,9,11,20,22
+2013-12-22,Standard_Anderlecht_2013,Standard,10,10,20,22
+2013-12-22,Standard_Anderlecht_2013,Anderlecht,10,10,20,22
+2013-12-22,Gent_Club Brugge_2013,Gent,10,10,20,22
+2013-12-22,Gent_Club Brugge_2013,Club Brugge,10,10,20,22
+2013-12-26,Bergen_Gent_2013,Bergen,11,10,21,23
+2013-12-26,Genk_Charleroi_2013,Charleroi,10,11,21,23
+2013-12-26,Oud-Heverlee Leuven_Cercle Brugge_2013,Cercle Brugge,10,11,21,23
+2013-12-26,Anderlecht_Waregem_2013,Anderlecht,11,10,21,23
+2013-12-26,Anderlecht_Waregem_2013,Waregem,11,10,21,23
+2013-12-26,Oostende_Lokeren_2013,Oostende,11,10,21,23
+2013-12-26,Club Brugge_Waasland-Beveren_2013,Waasland-Beveren,10,11,21,23
+2013-12-26,Lierse_Mechelen_2013,Lierse,10,11,21,23
+2013-12-26,Club Brugge_Waasland-Beveren_2013,Club Brugge,11,10,21,23
+2013-12-26,Bergen_Gent_2013,Gent,10,11,21,23
+2013-12-26,Lierse_Mechelen_2013,Mechelen,10,11,21,23
+2013-12-26,Oud-Heverlee Leuven_Cercle Brugge_2013,Oud-Heverlee Leuven,11,10,21,23
+2013-12-26,Genk_Charleroi_2013,Genk,11,10,21,23
+2013-12-26,Oostende_Lokeren_2013,Lokeren,11,10,21,23
+2013-12-27,Kortrijk_Standard_2013,Standard,10,11,21,23
+2013-12-27,Kortrijk_Standard_2013,Kortrijk,10,11,21,23
+2014-01-18,Cercle Brugge_Lokeren_2013,Cercle Brugge,11,11,22,26
+2014-01-18,Waasland-Beveren_Bergen_2013,Bergen,11,11,22,26
+2014-01-18,Lierse_Club Brugge_2013,Lierse,11,11,22,26
+2014-01-18,Charleroi_Oud-Heverlee Leuven_2013,Charleroi,11,11,22,26
+2014-01-18,Standard_Oostende_2013,Oostende,11,11,22,26
+2014-01-18,Charleroi_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,11,11,22,26
+2014-01-18,Lierse_Club Brugge_2013,Club Brugge,11,11,22,26
+2014-01-18,Gent_Kortrijk_2013,Kortrijk,10,12,22,26
+2014-01-18,Waasland-Beveren_Bergen_2013,Waasland-Beveren,11,11,22,26
+2014-01-18,Cercle Brugge_Lokeren_2013,Lokeren,11,11,22,26
+2014-01-18,Standard_Oostende_2013,Standard,11,11,22,26
+2014-01-18,Gent_Kortrijk_2013,Gent,11,11,22,26
+2014-01-19,Mechelen_Anderlecht_2013,Anderlecht,11,11,22,26
+2014-01-19,Waregem_Genk_2013,Genk,11,11,22,26
+2014-01-19,Waregem_Genk_2013,Waregem,12,10,22,26
+2014-01-19,Mechelen_Anderlecht_2013,Mechelen,11,11,22,26
+2014-01-24,Lokeren_Standard_2013,Lokeren,12,11,23,27
+2014-01-24,Lokeren_Standard_2013,Standard,11,12,23,27
+2014-01-25,Oostende_Waasland-Beveren_2013,Oostende,12,11,23,27
+2014-01-25,Kortrijk_Lierse_2013,Kortrijk,11,12,23,27
+2014-01-25,Oostende_Waasland-Beveren_2013,Waasland-Beveren,11,12,23,27
+2014-01-25,Bergen_Mechelen_2013,Mechelen,11,12,23,27
+2014-01-25,Cercle Brugge_Charleroi_2013,Cercle Brugge,12,11,23,27
+2014-01-25,Oud-Heverlee Leuven_Waregem_2013,Waregem,12,11,23,27
+2014-01-25,Oud-Heverlee Leuven_Waregem_2013,Oud-Heverlee Leuven,12,11,23,27
+2014-01-25,Kortrijk_Lierse_2013,Lierse,11,12,23,27
+2014-01-25,Cercle Brugge_Charleroi_2013,Charleroi,11,12,23,27
+2014-01-25,Bergen_Mechelen_2013,Bergen,12,11,23,27
+2014-01-26,Genk_Gent_2013,Gent,11,12,23,27
+2014-01-26,Anderlecht_Club Brugge_2013,Anderlecht,12,11,23,27
+2014-01-26,Genk_Gent_2013,Genk,12,11,23,27
+2014-01-26,Anderlecht_Club Brugge_2013,Club Brugge,11,12,23,27
+2014-01-31,Lierse_Anderlecht_2013,Lierse,12,12,24,28
+2014-01-31,Lierse_Anderlecht_2013,Anderlecht,12,12,24,28
+2014-02-01,Mechelen_Genk_2013,Genk,12,12,24,28
+2014-02-01,Standard_Cercle Brugge_2013,Cercle Brugge,12,12,24,28
+2014-02-01,Charleroi_Oostende_2013,Charleroi,12,12,24,28
+2014-02-01,Waasland-Beveren_Kortrijk_2013,Kortrijk,11,13,24,28
+2014-02-01,Club Brugge_Bergen_2013,Club Brugge,12,12,24,28
+2014-02-01,Club Brugge_Bergen_2013,Bergen,12,12,24,28
+2014-02-01,Gent_Oud-Heverlee Leuven_2013,Gent,12,12,24,28
+2014-02-01,Waasland-Beveren_Kortrijk_2013,Waasland-Beveren,12,12,24,28
+2014-02-01,Gent_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,12,12,24,28
+2014-02-01,Charleroi_Oostende_2013,Oostende,12,12,24,28
+2014-02-01,Standard_Cercle Brugge_2013,Standard,12,12,24,28
+2014-02-01,Mechelen_Genk_2013,Mechelen,12,12,24,28
+2014-02-02,Waregem_Lokeren_2013,Lokeren,12,12,24,28
+2014-02-02,Waregem_Lokeren_2013,Waregem,13,11,24,28
+2014-02-08,Cercle Brugge_Waasland-Beveren_2013,Cercle Brugge,13,12,25,29
+2014-02-08,Cercle Brugge_Waasland-Beveren_2013,Waasland-Beveren,12,13,25,29
+2014-02-08,Bergen_Lierse_2013,Lierse,12,13,25,29
+2014-02-08,Kortrijk_Anderlecht_2013,Anderlecht,12,13,25,29
+2014-02-08,Kortrijk_Anderlecht_2013,Kortrijk,12,13,25,29
+2014-02-08,Lokeren_Charleroi_2013,Charleroi,12,13,25,29
+2014-02-08,Oostende_Gent_2013,Gent,12,13,25,29
+2014-02-08,Oud-Heverlee Leuven_Mechelen_2013,Oud-Heverlee Leuven,13,12,25,29
+2014-02-08,Bergen_Lierse_2013,Bergen,13,12,25,29
+2014-02-08,Lokeren_Charleroi_2013,Lokeren,13,12,25,29
+2014-02-08,Oostende_Gent_2013,Oostende,13,12,25,29
+2014-02-08,Oud-Heverlee Leuven_Mechelen_2013,Mechelen,12,13,25,29
+2014-02-09,Standard_Waregem_2013,Waregem,13,12,25,29
+2014-02-09,Standard_Waregem_2013,Standard,13,12,25,29
+2014-02-09,Genk_Club Brugge_2013,Club Brugge,12,13,25,29
+2014-02-09,Genk_Club Brugge_2013,Genk,13,12,25,29
+2014-02-14,Club Brugge_Kortrijk_2013,Club Brugge,13,13,26,30
+2014-02-14,Club Brugge_Kortrijk_2013,Kortrijk,12,14,26,30
+2014-02-15,Charleroi_Standard_2013,Standard,13,13,26,30
+2014-02-15,Waasland-Beveren_Oud-Heverlee Leuven_2013,Waasland-Beveren,13,13,26,30
+2014-02-15,Mechelen_Oostende_2013,Mechelen,13,13,26,30
+2014-02-15,Lierse_Genk_2013,Lierse,13,13,26,30
+2014-02-15,Waasland-Beveren_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,13,13,26,30
+2014-02-15,Charleroi_Standard_2013,Charleroi,13,13,26,30
+2014-02-15,Mechelen_Oostende_2013,Oostende,13,13,26,30
+2014-02-15,Waregem_Cercle Brugge_2013,Waregem,14,12,26,30
+2014-02-15,Lierse_Genk_2013,Genk,13,13,26,30
+2014-02-15,Waregem_Cercle Brugge_2013,Cercle Brugge,13,13,26,30
+2014-02-16,Gent_Lokeren_2013,Gent,13,13,26,30
+2014-02-16,Gent_Lokeren_2013,Lokeren,13,13,26,30
+2014-02-16,Anderlecht_Bergen_2013,Anderlecht,13,13,26,30
+2014-02-16,Anderlecht_Bergen_2013,Bergen,13,13,26,30
+2014-02-21,Lokeren_Anderlecht_2013,Lokeren,14,13,27,31
+2014-02-21,Lokeren_Anderlecht_2013,Anderlecht,13,14,27,31
+2014-02-22,Oostende_Lierse_2013,Oostende,14,13,27,31
+2014-02-22,Charleroi_Waregem_2013,Waregem,14,13,27,31
+2014-02-22,Cercle Brugge_Mechelen_2013,Mechelen,13,14,27,31
+2014-02-22,Kortrijk_Bergen_2013,Kortrijk,13,14,27,31
+2014-02-22,Oostende_Lierse_2013,Lierse,13,14,27,31
+2014-02-22,Charleroi_Waregem_2013,Charleroi,14,13,27,31
+2014-02-22,Cercle Brugge_Mechelen_2013,Cercle Brugge,14,13,27,31
+2014-02-22,Kortrijk_Bergen_2013,Bergen,13,14,27,31
+2014-02-23,Genk_Waasland-Beveren_2013,Waasland-Beveren,13,14,27,31
+2014-02-23,Genk_Waasland-Beveren_2013,Genk,14,13,27,31
+2014-02-23,Oud-Heverlee Leuven_Club Brugge_2013,Oud-Heverlee Leuven,14,13,27,31
+2014-02-23,Oud-Heverlee Leuven_Club Brugge_2013,Club Brugge,13,14,27,31
+2014-02-23,Standard_Gent_2013,Standard,14,13,27,31
+2014-02-23,Standard_Gent_2013,Gent,13,14,27,31
+2014-02-28,Mechelen_Lokeren_2013,Mechelen,14,14,28,32
+2014-02-28,Mechelen_Lokeren_2013,Lokeren,14,14,28,32
+2014-03-01,Bergen_Oostende_2013,Oostende,14,14,28,32
+2014-03-01,Kortrijk_Cercle Brugge_2013,Kortrijk,14,14,28,32
+2014-03-01,Waasland-Beveren_Waregem_2013,Waasland-Beveren,14,14,28,32
+2014-03-01,Kortrijk_Cercle Brugge_2013,Cercle Brugge,14,14,28,32
+2014-03-01,Lierse_Oud-Heverlee Leuven_2013,Lierse,14,14,28,32
+2014-03-01,Bergen_Oostende_2013,Bergen,14,14,28,32
+2014-03-01,Lierse_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,14,14,28,32
+2014-03-01,Gent_Charleroi_2013,Charleroi,14,14,28,32
+2014-03-01,Gent_Charleroi_2013,Gent,14,14,28,32
+2014-03-01,Waasland-Beveren_Waregem_2013,Waregem,14,14,28,32
+2014-03-02,Anderlecht_Genk_2013,Genk,14,14,28,32
+2014-03-02,Club Brugge_Standard_2013,Standard,14,14,28,32
+2014-03-02,Anderlecht_Genk_2013,Anderlecht,14,14,28,32
+2014-03-02,Club Brugge_Standard_2013,Club Brugge,14,14,28,32
+2014-03-08,Genk_Bergen_2013,Genk,15,14,29,33
+2014-03-08,Charleroi_Lierse_2013,Lierse,14,15,29,33
+2014-03-08,Oud-Heverlee Leuven_Anderlecht_2013,Anderlecht,14,15,29,33
+2014-03-08,Genk_Bergen_2013,Bergen,14,15,29,33
+2014-03-08,Standard_Mechelen_2013,Mechelen,14,15,29,33
+2014-03-08,Standard_Mechelen_2013,Standard,15,14,29,33
+2014-03-08,Lokeren_Waasland-Beveren_2013,Lokeren,15,14,29,33
+2014-03-08,Cercle Brugge_Gent_2013,Gent,14,15,29,33
+2014-03-08,Lokeren_Waasland-Beveren_2013,Waasland-Beveren,14,15,29,33
+2014-03-08,Cercle Brugge_Gent_2013,Cercle Brugge,15,14,29,33
+2014-03-08,Oostende_Kortrijk_2013,Kortrijk,14,15,29,33
+2014-03-08,Charleroi_Lierse_2013,Charleroi,15,14,29,33
+2014-03-08,Waregem_Club Brugge_2013,Club Brugge,14,15,29,33
+2014-03-08,Oud-Heverlee Leuven_Anderlecht_2013,Oud-Heverlee Leuven,15,14,29,33
+2014-03-08,Waregem_Club Brugge_2013,Waregem,15,14,29,33
+2014-03-08,Oostende_Kortrijk_2013,Oostende,15,14,29,33
+2014-03-16,Bergen_Oud-Heverlee Leuven_2013,Oud-Heverlee Leuven,15,15,30,34
+2014-03-16,Lierse_Lokeren_2013,Lokeren,15,15,30,34
+2014-03-16,Anderlecht_Oostende_2013,Oostende,15,15,30,34
+2014-03-16,Club Brugge_Cercle Brugge_2013,Cercle Brugge,15,15,30,34
+2014-03-16,Mechelen_Charleroi_2013,Charleroi,15,15,30,34
+2014-03-16,Lierse_Lokeren_2013,Lierse,15,15,30,34
+2014-03-16,Anderlecht_Oostende_2013,Anderlecht,15,15,30,34
+2014-03-16,Club Brugge_Cercle Brugge_2013,Club Brugge,15,15,30,34
+2014-03-16,Kortrijk_Genk_2013,Genk,15,15,30,34
+2014-03-16,Mechelen_Charleroi_2013,Mechelen,15,15,30,34
+2014-03-16,Kortrijk_Genk_2013,Kortrijk,15,15,30,34
+2014-03-16,Gent_Waregem_2013,Gent,15,15,30,34
+2014-03-16,Waasland-Beveren_Standard_2013,Standard,15,15,30,34
+2014-03-16,Waasland-Beveren_Standard_2013,Waasland-Beveren,15,15,30,34
+2014-03-16,Bergen_Oud-Heverlee Leuven_2013,Bergen,15,15,30,34
+2014-03-16,Gent_Waregem_2013,Waregem,15,15,30,34

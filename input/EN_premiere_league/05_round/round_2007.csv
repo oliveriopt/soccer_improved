@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2007-08-11,Aston Villa_Liverpool_2007,Aston Villa,1,1,1,1
+2007-08-11,Sunderland_Tottenham_2007,Sunderland,1,1,1,1
+2007-08-11,Middlesbrough_Blackburn_2007,Blackburn,1,1,1,1
+2007-08-11,Middlesbrough_Blackburn_2007,Middlesbrough,1,1,1,1
+2007-08-11,Aston Villa_Liverpool_2007,Liverpool,1,1,1,1
+2007-08-11,Derby_Portsmouth_2007,Derby,1,1,1,1
+2007-08-11,Everton_Wigan_2007,Wigan,1,1,1,1
+2007-08-11,West Ham_Man City_2007,West Ham,1,1,1,1
+2007-08-11,Bolton_Newcastle_2007,Bolton,1,1,1,1
+2007-08-11,Everton_Wigan_2007,Everton,1,1,1,1
+2007-08-11,West Ham_Man City_2007,Man City,1,1,1,1
+2007-08-11,Bolton_Newcastle_2007,Newcastle,1,1,1,1
+2007-08-11,Sunderland_Tottenham_2007,Tottenham,1,1,1,1
+2007-08-11,Derby_Portsmouth_2007,Portsmouth,1,1,1,1
+2007-08-12,Arsenal_Fulham_2007,Fulham,1,1,1,1
+2007-08-12,Chelsea_Birmingham_2007,Birmingham,1,1,1,1
+2007-08-12,Chelsea_Birmingham_2007,Chelsea,1,1,1,1
+2007-08-12,Man United_Reading_2007,Man United,1,1,1,1
+2007-08-12,Arsenal_Fulham_2007,Arsenal,1,1,1,1
+2007-08-12,Man United_Reading_2007,Reading,1,1,1,1
+2007-08-14,Tottenham_Everton_2007,Everton,1,1,2,2
+2007-08-14,Tottenham_Everton_2007,Tottenham,1,1,2,2
+2007-08-15,Reading_Chelsea_2007,Chelsea,1,1,2,2
+2007-08-15,Portsmouth_Man United_2007,Man United,1,1,2,2
+2007-08-15,Birmingham_Sunderland_2007,Birmingham,1,1,2,2
+2007-08-15,Fulham_Bolton_2007,Bolton,1,1,2,2
+2007-08-15,Fulham_Bolton_2007,Fulham,1,1,2,2
+2007-08-15,Birmingham_Sunderland_2007,Sunderland,1,1,2,2
+2007-08-15,Man City_Derby_2007,Man City,1,1,2,2
+2007-08-15,Man City_Derby_2007,Derby,1,1,2,2
+2007-08-15,Reading_Chelsea_2007,Reading,1,1,2,2
+2007-08-15,Wigan_Middlesbrough_2007,Wigan,1,1,2,2
+2007-08-15,Wigan_Middlesbrough_2007,Middlesbrough,1,1,2,2
+2007-08-15,Portsmouth_Man United_2007,Portsmouth,1,1,2,2
+2007-08-18,Portsmouth_Bolton_2007,Bolton,1,2,3,2
+2007-08-18,Birmingham_West Ham_2007,West Ham,1,1,2,2
+2007-08-18,Tottenham_Derby_2007,Tottenham,2,1,3,2
+2007-08-18,Reading_Everton_2007,Reading,2,1,3,2
+2007-08-18,Portsmouth_Bolton_2007,Portsmouth,2,1,3,2
+2007-08-18,Tottenham_Derby_2007,Derby,1,2,3,2
+2007-08-18,Newcastle_Aston Villa_2007,Aston Villa,1,1,2,2
+2007-08-18,Wigan_Sunderland_2007,Wigan,2,1,3,2
+2007-08-18,Fulham_Middlesbrough_2007,Fulham,2,1,3,2
+2007-08-18,Fulham_Middlesbrough_2007,Middlesbrough,1,2,3,2
+2007-08-18,Reading_Everton_2007,Everton,1,2,3,2
+2007-08-18,Newcastle_Aston Villa_2007,Newcastle,1,1,2,2
+2007-08-18,Birmingham_West Ham_2007,Birmingham,2,1,3,2
+2007-08-18,Wigan_Sunderland_2007,Sunderland,1,2,3,2
+2007-08-19,Blackburn_Arsenal_2007,Arsenal,1,1,2,2
+2007-08-19,Man City_Man United_2007,Man City,2,1,3,2
+2007-08-19,Man City_Man United_2007,Man United,1,2,3,2
+2007-08-19,Liverpool_Chelsea_2007,Liverpool,1,1,2,2
+2007-08-19,Liverpool_Chelsea_2007,Chelsea,1,2,3,2
+2007-08-19,Blackburn_Arsenal_2007,Blackburn,1,1,2,2
+2007-08-25,Chelsea_Portsmouth_2007,Portsmouth,2,2,4,3
+2007-08-25,Derby_Birmingham_2007,Birmingham,2,2,4,3
+2007-08-25,West Ham_Wigan_2007,Wigan,2,2,4,3
+2007-08-25,Arsenal_Man City_2007,Arsenal,2,1,3,3
+2007-08-25,Sunderland_Liverpool_2007,Sunderland,2,2,4,3
+2007-08-25,Sunderland_Liverpool_2007,Liverpool,1,2,3,3
+2007-08-25,Everton_Blackburn_2007,Everton,2,2,4,3
+2007-08-25,Everton_Blackburn_2007,Blackburn,1,2,3,3
+2007-08-25,Derby_Birmingham_2007,Derby,2,2,4,3
+2007-08-25,Bolton_Reading_2007,Reading,2,2,4,3
+2007-08-25,Aston Villa_Fulham_2007,Aston Villa,2,1,3,3
+2007-08-25,Bolton_Reading_2007,Bolton,2,2,4,3
+2007-08-25,Chelsea_Portsmouth_2007,Chelsea,2,2,4,3
+2007-08-25,Aston Villa_Fulham_2007,Fulham,2,2,4,3
+2007-08-25,Arsenal_Man City_2007,Man City,2,2,4,3
+2007-08-25,West Ham_Wigan_2007,West Ham,2,1,3,3
+2007-08-26,Man United_Tottenham_2007,Tottenham,2,2,4,3
+2007-08-26,Man United_Tottenham_2007,Man United,2,2,4,3
+2007-08-26,Middlesbrough_Newcastle_2007,Middlesbrough,2,2,4,3
+2007-08-26,Middlesbrough_Newcastle_2007,Newcastle,1,2,3,3
+2007-09-01,Reading_West Ham_2007,West Ham,2,2,4,4
+2007-09-01,Fulham_Tottenham_2007,Fulham,3,2,5,4
+2007-09-01,Middlesbrough_Birmingham_2007,Middlesbrough,3,2,5,4
+2007-09-01,Bolton_Everton_2007,Bolton,3,2,5,4
+2007-09-01,Liverpool_Derby_2007,Liverpool,2,2,4,4
+2007-09-01,Bolton_Everton_2007,Everton,2,3,5,4
+2007-09-01,Man United_Sunderland_2007,Sunderland,2,3,5,4
+2007-09-01,Newcastle_Wigan_2007,Newcastle,2,2,4,4
+2007-09-01,Middlesbrough_Birmingham_2007,Birmingham,2,3,5,4
+2007-09-01,Reading_West Ham_2007,Reading,3,2,5,4
+2007-09-01,Newcastle_Wigan_2007,Wigan,2,3,5,4
+2007-09-01,Man United_Sunderland_2007,Man United,3,2,5,4
+2007-09-01,Fulham_Tottenham_2007,Tottenham,2,3,5,4
+2007-09-01,Liverpool_Derby_2007,Derby,2,3,5,4
+2007-09-02,Arsenal_Portsmouth_2007,Portsmouth,2,3,5,4
+2007-09-02,Arsenal_Portsmouth_2007,Arsenal,3,1,4,4
+2007-09-02,Aston Villa_Chelsea_2007,Aston Villa,3,1,4,4
+2007-09-02,Aston Villa_Chelsea_2007,Chelsea,2,3,5,4
+2007-09-02,Blackburn_Man City_2007,Man City,2,3,5,4
+2007-09-02,Blackburn_Man City_2007,Blackburn,2,2,4,4
+2007-09-15,Birmingham_Bolton_2007,Bolton,3,3,6,6
+2007-09-15,Sunderland_Reading_2007,Reading,3,3,6,6
+2007-09-15,Everton_Man United_2007,Everton,3,3,6,6
+2007-09-15,West Ham_Middlesbrough_2007,West Ham,3,2,5,6
+2007-09-15,Chelsea_Blackburn_2007,Blackburn,2,3,5,6
+2007-09-15,Portsmouth_Liverpool_2007,Liverpool,2,3,5,6
+2007-09-15,Birmingham_Bolton_2007,Birmingham,3,3,6,6
+2007-09-15,Sunderland_Reading_2007,Sunderland,3,3,6,6
+2007-09-15,Tottenham_Arsenal_2007,Arsenal,3,2,5,6
+2007-09-15,West Ham_Middlesbrough_2007,Middlesbrough,3,3,6,6
+2007-09-15,Portsmouth_Liverpool_2007,Portsmouth,3,3,6,6
+2007-09-15,Wigan_Fulham_2007,Fulham,3,3,6,6
+2007-09-15,Chelsea_Blackburn_2007,Chelsea,3,3,6,6
+2007-09-15,Tottenham_Arsenal_2007,Tottenham,3,3,6,6
+2007-09-15,Wigan_Fulham_2007,Wigan,3,3,6,6
+2007-09-15,Everton_Man United_2007,Man United,3,3,6,6
+2007-09-16,Man City_Aston Villa_2007,Aston Villa,3,2,5,6
+2007-09-16,Man City_Aston Villa_2007,Man City,3,3,6,6
+2007-09-17,Derby_Newcastle_2007,Derby,3,3,6,6
+2007-09-17,Derby_Newcastle_2007,Newcastle,2,3,5,6
+2007-09-22,Middlesbrough_Sunderland_2007,Middlesbrough,4,3,7,7
+2007-09-22,Fulham_Man City_2007,Man City,3,4,7,7
+2007-09-22,Liverpool_Birmingham_2007,Liverpool,3,3,6,7
+2007-09-22,Fulham_Man City_2007,Fulham,4,3,7,7
+2007-09-22,Reading_Wigan_2007,Reading,4,3,7,7
+2007-09-22,Arsenal_Derby_2007,Arsenal,4,2,6,7
+2007-09-22,Middlesbrough_Sunderland_2007,Sunderland,3,4,7,7
+2007-09-22,Arsenal_Derby_2007,Derby,3,4,7,7
+2007-09-22,Liverpool_Birmingham_2007,Birmingham,3,4,7,7
+2007-09-22,Reading_Wigan_2007,Wigan,3,4,7,7
+2007-09-23,Blackburn_Portsmouth_2007,Blackburn,3,3,6,7
+2007-09-23,Newcastle_West Ham_2007,West Ham,3,3,6,7
+2007-09-23,Aston Villa_Everton_2007,Aston Villa,4,2,6,7
+2007-09-23,Bolton_Tottenham_2007,Tottenham,3,4,7,7
+2007-09-23,Man United_Chelsea_2007,Chelsea,3,4,7,7
+2007-09-23,Aston Villa_Everton_2007,Everton,3,4,7,7
+2007-09-23,Newcastle_West Ham_2007,Newcastle,3,3,6,7
+2007-09-23,Bolton_Tottenham_2007,Bolton,4,3,7,7
+2007-09-23,Blackburn_Portsmouth_2007,Portsmouth,3,4,7,7
+2007-09-23,Man United_Chelsea_2007,Man United,4,3,7,7
+2007-09-29,West Ham_Arsenal_2007,West Ham,4,3,7,8
+2007-09-29,Birmingham_Man United_2007,Birmingham,4,4,8,8
+2007-09-29,Derby_Bolton_2007,Derby,4,4,8,8
+2007-09-29,Chelsea_Fulham_2007,Chelsea,4,4,8,8
+2007-09-29,Chelsea_Fulham_2007,Fulham,4,4,8,8
+2007-09-29,Man City_Newcastle_2007,Newcastle,3,4,7,8
+2007-09-29,Derby_Bolton_2007,Bolton,4,4,8,8
+2007-09-29,Portsmouth_Reading_2007,Reading,4,4,8,8
+2007-09-29,Birmingham_Man United_2007,Man United,4,4,8,8
+2007-09-29,Man City_Newcastle_2007,Man City,4,4,8,8
+2007-09-29,Sunderland_Blackburn_2007,Blackburn,3,4,7,8
+2007-09-29,West Ham_Arsenal_2007,Arsenal,4,3,7,8
+2007-09-29,Wigan_Liverpool_2007,Liverpool,3,4,7,8
+2007-09-29,Sunderland_Blackburn_2007,Sunderland,4,4,8,8
+2007-09-29,Wigan_Liverpool_2007,Wigan,4,4,8,8
+2007-09-29,Portsmouth_Reading_2007,Portsmouth,4,4,8,8
+2007-09-30,Everton_Middlesbrough_2007,Everton,4,4,8,8
+2007-09-30,Everton_Middlesbrough_2007,Middlesbrough,4,4,8,8
+2007-10-01,Tottenham_Aston Villa_2007,Tottenham,4,4,8,8
+2007-10-01,Tottenham_Aston Villa_2007,Aston Villa,4,3,7,8
+2007-10-06,Man United_Wigan_2007,Wigan,4,5,9,9
+2007-10-06,Man United_Wigan_2007,Man United,5,4,9,9
+2007-10-06,Aston Villa_West Ham_2007,West Ham,4,4,8,9
+2007-10-06,Aston Villa_West Ham_2007,Aston Villa,5,3,8,9
+2007-10-07,Bolton_Chelsea_2007,Chelsea,4,5,9,9
+2007-10-07,Liverpool_Tottenham_2007,Tottenham,4,5,9,9
+2007-10-07,Blackburn_Birmingham_2007,Birmingham,4,5,9,9
+2007-10-07,Man City_Middlesbrough_2007,Man City,5,4,9,9
+2007-10-07,Reading_Derby_2007,Reading,5,4,9,9
+2007-10-07,Blackburn_Birmingham_2007,Blackburn,4,4,8,9
+2007-10-07,Newcastle_Everton_2007,Everton,4,5,9,9
+2007-10-07,Reading_Derby_2007,Derby,4,5,9,9
+2007-10-07,Arsenal_Sunderland_2007,Arsenal,5,3,8,9
+2007-10-07,Bolton_Chelsea_2007,Bolton,5,4,9,9
+2007-10-07,Fulham_Portsmouth_2007,Portsmouth,4,5,9,9
+2007-10-07,Fulham_Portsmouth_2007,Fulham,5,4,9,9
+2007-10-07,Newcastle_Everton_2007,Newcastle,4,4,8,9
+2007-10-07,Man City_Middlesbrough_2007,Middlesbrough,4,5,9,9
+2007-10-07,Liverpool_Tottenham_2007,Liverpool,4,4,8,9
+2007-10-07,Arsenal_Sunderland_2007,Sunderland,4,5,9,9
+2007-10-20,Wigan_Portsmouth_2007,Portsmouth,4,6,10,11
+2007-10-20,Middlesbrough_Chelsea_2007,Middlesbrough,5,5,10,11
+2007-10-20,Arsenal_Bolton_2007,Bolton,5,5,10,11
+2007-10-20,Arsenal_Bolton_2007,Arsenal,6,3,9,11
+2007-10-20,Everton_Liverpool_2007,Liverpool,4,5,9,11
+2007-10-20,Aston Villa_Man United_2007,Man United,5,5,10,11
+2007-10-20,Middlesbrough_Chelsea_2007,Chelsea,4,6,10,11
+2007-10-20,Fulham_Derby_2007,Fulham,6,4,10,11
+2007-10-20,Blackburn_Reading_2007,Reading,5,5,10,11
+2007-10-20,Blackburn_Reading_2007,Blackburn,5,4,9,11
+2007-10-20,Wigan_Portsmouth_2007,Wigan,5,5,10,11
+2007-10-20,Fulham_Derby_2007,Derby,4,6,10,11
+2007-10-20,Everton_Liverpool_2007,Everton,5,5,10,11
+2007-10-20,Man City_Birmingham_2007,Birmingham,4,6,10,11
+2007-10-20,Man City_Birmingham_2007,Man City,6,4,10,11
+2007-10-20,Aston Villa_Man United_2007,Aston Villa,6,3,9,11
+2007-10-21,West Ham_Sunderland_2007,Sunderland,4,6,10,11
+2007-10-21,West Ham_Sunderland_2007,West Ham,5,4,9,11
+2007-10-22,Newcastle_Tottenham_2007,Newcastle,5,4,9,11
+2007-10-22,Newcastle_Tottenham_2007,Tottenham,4,6,10,11
+2007-10-27,Sunderland_Fulham_2007,Fulham,6,5,11,12
+2007-10-27,Portsmouth_West Ham_2007,West Ham,5,5,10,12
+2007-10-27,Man United_Middlesbrough_2007,Man United,6,5,11,12
+2007-10-27,Man United_Middlesbrough_2007,Middlesbrough,5,6,11,12
+2007-10-27,Reading_Newcastle_2007,Reading,6,5,11,12
+2007-10-27,Birmingham_Wigan_2007,Birmingham,5,6,11,12
+2007-10-27,Chelsea_Man City_2007,Chelsea,5,6,11,12
+2007-10-27,Chelsea_Man City_2007,Man City,6,5,11,12
+2007-10-27,Sunderland_Fulham_2007,Sunderland,5,6,11,12
+2007-10-27,Reading_Newcastle_2007,Newcastle,5,5,10,12
+2007-10-27,Portsmouth_West Ham_2007,Portsmouth,5,6,11,12
+2007-10-27,Birmingham_Wigan_2007,Wigan,5,6,11,12
+2007-10-28,Liverpool_Arsenal_2007,Liverpool,5,5,10,12
+2007-10-28,Derby_Everton_2007,Derby,5,6,11,12
+2007-10-28,Liverpool_Arsenal_2007,Arsenal,6,4,10,12
+2007-10-28,Tottenham_Blackburn_2007,Blackburn,5,5,10,12
+2007-10-28,Tottenham_Blackburn_2007,Tottenham,5,6,11,12
+2007-10-28,Bolton_Aston Villa_2007,Bolton,6,5,11,12
+2007-10-28,Bolton_Aston Villa_2007,Aston Villa,6,4,10,12
+2007-10-28,Derby_Everton_2007,Everton,5,6,11,12
+2007-11-03,Aston Villa_Derby_2007,Derby,5,7,12,13
+2007-11-03,Aston Villa_Derby_2007,Aston Villa,7,4,11,13
+2007-11-03,Newcastle_Portsmouth_2007,Portsmouth,5,7,12,13
+2007-11-03,Arsenal_Man United_2007,Arsenal,7,4,11,13
+2007-11-03,Middlesbrough_Tottenham_2007,Tottenham,5,7,12,13
+2007-11-03,Blackburn_Liverpool_2007,Liverpool,5,6,11,13
+2007-11-03,Everton_Birmingham_2007,Birmingham,5,7,12,13
+2007-11-03,Wigan_Chelsea_2007,Chelsea,5,7,12,13
+2007-11-03,Arsenal_Man United_2007,Man United,6,6,12,13
+2007-11-03,Fulham_Reading_2007,Reading,6,6,12,13
+2007-11-03,Blackburn_Liverpool_2007,Blackburn,6,5,11,13
+2007-11-03,Everton_Birmingham_2007,Everton,6,6,12,13
+2007-11-03,Wigan_Chelsea_2007,Wigan,6,6,12,13
+2007-11-03,Newcastle_Portsmouth_2007,Newcastle,6,5,11,13
+2007-11-03,Fulham_Reading_2007,Fulham,7,5,12,13
+2007-11-03,Middlesbrough_Tottenham_2007,Middlesbrough,6,6,12,13
+2007-11-04,West Ham_Bolton_2007,West Ham,6,5,11,13
+2007-11-04,West Ham_Bolton_2007,Bolton,6,6,12,13
+2007-11-05,Man City_Sunderland_2007,Man City,7,5,12,13
+2007-11-05,Man City_Sunderland_2007,Sunderland,5,7,12,13
+2007-11-10,Sunderland_Newcastle_2007,Sunderland,6,7,13,14
+2007-11-10,Sunderland_Newcastle_2007,Newcastle,6,6,12,14
+2007-11-10,Derby_West Ham_2007,West Ham,6,6,12,14
+2007-11-10,Liverpool_Fulham_2007,Fulham,7,6,13,14
+2007-11-10,Liverpool_Fulham_2007,Liverpool,6,6,12,14
+2007-11-10,Derby_West Ham_2007,Derby,6,7,13,14
+2007-11-11,Man United_Blackburn_2007,Blackburn,6,6,12,14
+2007-11-11,Bolton_Middlesbrough_2007,Middlesbrough,6,7,13,14
+2007-11-11,Birmingham_Aston Villa_2007,Aston Villa,7,5,12,14
+2007-11-11,Bolton_Middlesbrough_2007,Bolton,7,6,13,14
+2007-11-11,Tottenham_Wigan_2007,Tottenham,6,7,13,14
+2007-11-11,Birmingham_Aston Villa_2007,Birmingham,6,7,13,14
+2007-11-11,Man United_Blackburn_2007,Man United,7,6,13,14
+2007-11-11,Portsmouth_Man City_2007,Man City,7,6,13,14
+2007-11-11,Portsmouth_Man City_2007,Portsmouth,6,7,13,14
+2007-11-11,Chelsea_Everton_2007,Everton,6,7,13,14
+2007-11-11,Tottenham_Wigan_2007,Wigan,6,7,13,14
+2007-11-11,Chelsea_Everton_2007,Chelsea,6,7,13,14
+2007-11-12,Reading_Arsenal_2007,Reading,7,6,13,14
+2007-11-12,Reading_Arsenal_2007,Arsenal,7,5,12,14
+2007-11-24,Derby_Chelsea_2007,Derby,7,7,14,16
+2007-11-24,Arsenal_Wigan_2007,Arsenal,8,5,13,16
+2007-11-24,Newcastle_Liverpool_2007,Newcastle,7,6,13,16
+2007-11-24,Birmingham_Portsmouth_2007,Portsmouth,6,8,14,16
+2007-11-24,Bolton_Man United_2007,Bolton,8,6,14,16
+2007-11-24,Man City_Reading_2007,Reading,7,7,14,16
+2007-11-24,Everton_Sunderland_2007,Sunderland,6,8,14,16
+2007-11-24,Newcastle_Liverpool_2007,Liverpool,6,7,13,16
+2007-11-24,Middlesbrough_Aston Villa_2007,Aston Villa,7,6,13,16
+2007-11-24,Man City_Reading_2007,Man City,8,6,14,16
+2007-11-24,Birmingham_Portsmouth_2007,Birmingham,7,7,14,16
+2007-11-24,Derby_Chelsea_2007,Chelsea,6,8,14,16
+2007-11-24,Middlesbrough_Aston Villa_2007,Middlesbrough,7,7,14,16
+2007-11-24,Bolton_Man United_2007,Man United,7,7,14,16
+2007-11-24,Arsenal_Wigan_2007,Wigan,6,8,14,16
+2007-11-24,Everton_Sunderland_2007,Everton,7,7,14,16
+2007-11-25,West Ham_Tottenham_2007,Tottenham,6,8,14,16
+2007-11-25,Fulham_Blackburn_2007,Fulham,8,6,14,16
+2007-11-25,Fulham_Blackburn_2007,Blackburn,6,7,13,16
+2007-11-25,West Ham_Tottenham_2007,West Ham,7,6,13,16
+2007-11-28,Blackburn_Aston Villa_2007,Aston Villa,7,7,14,17
+2007-11-28,Blackburn_Aston Villa_2007,Blackburn,7,7,14,17
+2007-12-01,Wigan_Man City_2007,Man City,8,7,15,17
+2007-12-01,Portsmouth_Everton_2007,Everton,7,8,15,17
+2007-12-01,Blackburn_Newcastle_2007,Newcastle,7,7,14,17
+2007-12-01,Chelsea_West Ham_2007,West Ham,7,7,14,17
+2007-12-01,Blackburn_Newcastle_2007,Blackburn,8,7,15,17
+2007-12-01,Aston Villa_Arsenal_2007,Aston Villa,8,7,15,17
+2007-12-01,Reading_Middlesbrough_2007,Middlesbrough,7,8,15,17
+2007-12-01,Reading_Middlesbrough_2007,Reading,8,7,15,17
+2007-12-01,Portsmouth_Everton_2007,Portsmouth,7,8,15,17
+2007-12-01,Chelsea_West Ham_2007,Chelsea,7,8,15,17
+2007-12-01,Aston Villa_Arsenal_2007,Arsenal,8,6,14,17
+2007-12-01,Sunderland_Derby_2007,Derby,7,8,15,17
+2007-12-01,Wigan_Man City_2007,Wigan,7,8,15,17
+2007-12-01,Sunderland_Derby_2007,Sunderland,7,8,15,17
+2007-12-02,Liverpool_Bolton_2007,Liverpool,7,7,14,17
+2007-12-02,Tottenham_Birmingham_2007,Tottenham,7,8,15,17
+2007-12-02,Tottenham_Birmingham_2007,Birmingham,7,8,15,17
+2007-12-02,Liverpool_Bolton_2007,Bolton,8,7,15,17
+2007-12-03,Man United_Fulham_2007,Fulham,8,7,15,17
+2007-12-03,Man United_Fulham_2007,Man United,8,7,15,17
+2007-12-05,Newcastle_Arsenal_2007,Newcastle,8,7,15,18
+2007-12-05,Newcastle_Arsenal_2007,Arsenal,8,7,15,18
+2007-12-08,Chelsea_Sunderland_2007,Chelsea,8,8,16,18
+2007-12-08,Man United_Derby_2007,Derby,7,9,16,18
+2007-12-08,Man United_Derby_2007,Man United,9,7,16,18
+2007-12-08,Newcastle_Birmingham_2007,Newcastle,9,7,16,18
+2007-12-08,Everton_Fulham_2007,Everton,8,8,16,18
+2007-12-08,Aston Villa_Portsmouth_2007,Portsmouth,7,9,16,18
+2007-12-08,Aston Villa_Portsmouth_2007,Aston Villa,9,7,16,18
+2007-12-08,Reading_Liverpool_2007,Liverpool,7,8,15,18
+2007-12-08,Everton_Fulham_2007,Fulham,8,8,16,18
+2007-12-08,Reading_Liverpool_2007,Reading,9,7,16,18
+2007-12-08,Chelsea_Sunderland_2007,Sunderland,7,9,16,18
+2007-12-08,Newcastle_Birmingham_2007,Birmingham,7,9,16,18
+2007-12-09,Bolton_Wigan_2007,Wigan,7,9,16,18
+2007-12-09,Middlesbrough_Arsenal_2007,Arsenal,8,8,16,18
+2007-12-09,Middlesbrough_Arsenal_2007,Middlesbrough,8,8,16,18
+2007-12-09,Tottenham_Man City_2007,Man City,8,8,16,18
+2007-12-09,Bolton_Wigan_2007,Bolton,9,7,16,18
+2007-12-09,Blackburn_West Ham_2007,West Ham,7,8,15,18
+2007-12-09,Tottenham_Man City_2007,Tottenham,8,8,16,18
+2007-12-09,Blackburn_West Ham_2007,Blackburn,9,7,16,18
+2007-12-15,Derby_Middlesbrough_2007,Derby,8,9,17,19
+2007-12-15,West Ham_Everton_2007,Everton,8,9,17,19
+2007-12-15,Man City_Bolton_2007,Bolton,9,8,17,19
+2007-12-15,Sunderland_Aston Villa_2007,Aston Villa,9,8,17,19
+2007-12-15,Sunderland_Aston Villa_2007,Sunderland,8,9,17,19
+2007-12-15,Fulham_Newcastle_2007,Newcastle,9,8,17,19
+2007-12-15,Man City_Bolton_2007,Man City,9,8,17,19
+2007-12-15,Birmingham_Reading_2007,Birmingham,8,9,17,19
+2007-12-15,Birmingham_Reading_2007,Reading,9,8,17,19
+2007-12-15,Fulham_Newcastle_2007,Fulham,9,8,17,19
+2007-12-15,Portsmouth_Tottenham_2007,Portsmouth,8,9,17,19
+2007-12-15,Wigan_Blackburn_2007,Blackburn,9,8,17,19
+2007-12-15,Portsmouth_Tottenham_2007,Tottenham,8,9,17,19
+2007-12-15,West Ham_Everton_2007,West Ham,8,8,16,19
+2007-12-15,Wigan_Blackburn_2007,Wigan,8,9,17,19
+2007-12-15,Derby_Middlesbrough_2007,Middlesbrough,8,9,17,19
+2007-12-16,Liverpool_Man United_2007,Man United,9,8,17,19
+2007-12-16,Arsenal_Chelsea_2007,Chelsea,8,9,17,19
+2007-12-16,Liverpool_Man United_2007,Liverpool,8,8,16,19
+2007-12-16,Arsenal_Chelsea_2007,Arsenal,9,8,17,19
+2007-12-22,Liverpool_Portsmouth_2007,Liverpool,9,8,17,20
+2007-12-22,Aston Villa_Man City_2007,Aston Villa,10,8,18,20
+2007-12-22,Arsenal_Tottenham_2007,Tottenham,8,10,18,20
+2007-12-22,Fulham_Wigan_2007,Wigan,8,10,18,20
+2007-12-22,Middlesbrough_West Ham_2007,West Ham,8,9,17,20
+2007-12-22,Reading_Sunderland_2007,Reading,10,8,18,20
+2007-12-22,Fulham_Wigan_2007,Fulham,10,8,18,20
+2007-12-22,Reading_Sunderland_2007,Sunderland,8,10,18,20
+2007-12-22,Arsenal_Tottenham_2007,Arsenal,10,8,18,20
+2007-12-22,Aston Villa_Man City_2007,Man City,9,9,18,20
+2007-12-22,Bolton_Birmingham_2007,Birmingham,8,10,18,20
+2007-12-22,Liverpool_Portsmouth_2007,Portsmouth,8,10,18,20
+2007-12-22,Middlesbrough_West Ham_2007,Middlesbrough,9,9,18,20
+2007-12-22,Bolton_Birmingham_2007,Bolton,10,8,18,20
+2007-12-23,Blackburn_Chelsea_2007,Chelsea,8,10,18,20
+2007-12-23,Man United_Everton_2007,Man United,10,8,18,20
+2007-12-23,Newcastle_Derby_2007,Derby,8,10,18,20
+2007-12-23,Man United_Everton_2007,Everton,8,10,18,20
+2007-12-23,Blackburn_Chelsea_2007,Blackburn,10,8,18,20
+2007-12-23,Newcastle_Derby_2007,Newcastle,10,8,18,20
+2007-12-26,Everton_Bolton_2007,Bolton,10,9,19,21
+2007-12-26,Everton_Bolton_2007,Everton,9,10,19,21
+2007-12-26,Tottenham_Fulham_2007,Tottenham,9,10,19,21
+2007-12-26,Derby_Liverpool_2007,Liverpool,9,9,18,21
+2007-12-26,Birmingham_Middlesbrough_2007,Middlesbrough,9,10,19,21
+2007-12-26,Wigan_Newcastle_2007,Wigan,9,10,19,21
+2007-12-26,Sunderland_Man United_2007,Sunderland,9,10,19,21
+2007-12-26,Chelsea_Aston Villa_2007,Aston Villa,10,9,19,21
+2007-12-26,Derby_Liverpool_2007,Derby,9,10,19,21
+2007-12-26,Portsmouth_Arsenal_2007,Arsenal,10,9,19,21
+2007-12-26,Chelsea_Aston Villa_2007,Chelsea,9,10,19,21
+2007-12-26,Birmingham_Middlesbrough_2007,Birmingham,9,10,19,21
+2007-12-26,Sunderland_Man United_2007,Man United,10,9,19,21
+2007-12-26,West Ham_Reading_2007,Reading,10,9,19,21
+2007-12-26,Tottenham_Fulham_2007,Fulham,10,9,19,21
+2007-12-26,Portsmouth_Arsenal_2007,Portsmouth,9,10,19,21
+2007-12-26,West Ham_Reading_2007,West Ham,9,9,18,21
+2007-12-26,Wigan_Newcastle_2007,Newcastle,10,9,19,21
+2007-12-27,Man City_Blackburn_2007,Man City,10,9,19,21
+2007-12-27,Man City_Blackburn_2007,Blackburn,10,9,19,21
+2007-12-29,Chelsea_Newcastle_2007,Newcastle,10,10,20,21
+2007-12-29,Sunderland_Bolton_2007,Bolton,10,10,20,21
+2007-12-29,Birmingham_Fulham_2007,Birmingham,10,10,20,21
+2007-12-29,Sunderland_Bolton_2007,Sunderland,10,10,20,21
+2007-12-29,Wigan_Aston Villa_2007,Wigan,10,10,20,21
+2007-12-29,Tottenham_Reading_2007,Reading,10,10,20,21
+2007-12-29,Birmingham_Fulham_2007,Fulham,10,10,20,21
+2007-12-29,West Ham_Man United_2007,Man United,10,10,20,21
+2007-12-29,West Ham_Man United_2007,West Ham,10,9,19,21
+2007-12-29,Everton_Arsenal_2007,Arsenal,10,10,20,21
+2007-12-29,Portsmouth_Middlesbrough_2007,Middlesbrough,9,11,20,21
+2007-12-29,Wigan_Aston Villa_2007,Aston Villa,10,10,20,21
+2007-12-29,Portsmouth_Middlesbrough_2007,Portsmouth,10,10,20,21
+2007-12-29,Chelsea_Newcastle_2007,Chelsea,10,10,20,21
+2007-12-29,Tottenham_Reading_2007,Tottenham,10,10,20,21
+2007-12-29,Everton_Arsenal_2007,Everton,10,10,20,21
+2007-12-30,Derby_Blackburn_2007,Blackburn,10,10,20,21
+2007-12-30,Derby_Blackburn_2007,Derby,10,10,20,21
+2007-12-30,Man City_Liverpool_2007,Man City,11,9,20,21
+2007-12-30,Man City_Liverpool_2007,Liverpool,9,10,19,21
+2008-01-01,Reading_Portsmouth_2007,Reading,11,10,21,22
+2008-01-01,Reading_Portsmouth_2007,Portsmouth,10,11,21,22
+2008-01-01,Man United_Birmingham_2007,Birmingham,10,11,21,22
+2008-01-01,Middlesbrough_Everton_2007,Middlesbrough,10,11,21,22
+2008-01-01,Fulham_Chelsea_2007,Chelsea,10,11,21,22
+2008-01-01,Man United_Birmingham_2007,Man United,11,10,21,22
+2008-01-01,Fulham_Chelsea_2007,Fulham,11,10,21,22
+2008-01-01,Arsenal_West Ham_2007,Arsenal,11,10,21,22
+2008-01-01,Arsenal_West Ham_2007,West Ham,10,10,20,22
+2008-01-01,Aston Villa_Tottenham_2007,Aston Villa,11,10,21,22
+2008-01-01,Aston Villa_Tottenham_2007,Tottenham,10,11,21,22
+2008-01-01,Middlesbrough_Everton_2007,Everton,10,11,21,22
+2008-01-02,Blackburn_Sunderland_2007,Blackburn,11,10,21,22
+2008-01-02,Liverpool_Wigan_2007,Liverpool,10,10,20,22
+2008-01-02,Newcastle_Man City_2007,Man City,11,10,21,22
+2008-01-02,Bolton_Derby_2007,Derby,10,11,21,22
+2008-01-02,Blackburn_Sunderland_2007,Sunderland,10,11,21,22
+2008-01-02,Bolton_Derby_2007,Bolton,11,10,21,22
+2008-01-02,Liverpool_Wigan_2007,Wigan,10,11,21,22
+2008-01-02,Newcastle_Man City_2007,Newcastle,11,10,21,22
+2008-01-12,Aston Villa_Reading_2007,Reading,11,11,22,23
+2008-01-12,Middlesbrough_Liverpool_2007,Middlesbrough,11,11,22,23
+2008-01-12,Chelsea_Tottenham_2007,Tottenham,10,12,22,23
+2008-01-12,Aston Villa_Reading_2007,Aston Villa,12,10,22,23
+2008-01-12,Arsenal_Birmingham_2007,Arsenal,12,10,22,23
+2008-01-12,Arsenal_Birmingham_2007,Birmingham,10,12,22,23
+2008-01-12,Derby_Wigan_2007,Derby,11,11,22,23
+2008-01-12,Everton_Man City_2007,Everton,11,11,22,23
+2008-01-12,Middlesbrough_Liverpool_2007,Liverpool,10,11,21,23
+2008-01-12,Everton_Man City_2007,Man City,11,11,22,23
+2008-01-12,Chelsea_Tottenham_2007,Chelsea,11,11,22,23
+2008-01-12,West Ham_Fulham_2007,West Ham,11,10,21,23
+2008-01-12,Man United_Newcastle_2007,Man United,12,10,22,23
+2008-01-12,Man United_Newcastle_2007,Newcastle,11,11,22,23
+2008-01-12,Derby_Wigan_2007,Wigan,10,12,22,23
+2008-01-12,West Ham_Fulham_2007,Fulham,11,11,22,23
+2008-01-13,Sunderland_Portsmouth_2007,Sunderland,11,11,22,23
+2008-01-13,Bolton_Blackburn_2007,Blackburn,11,11,22,23
+2008-01-13,Bolton_Blackburn_2007,Bolton,12,10,22,23
+2008-01-13,Sunderland_Portsmouth_2007,Portsmouth,10,12,22,23
+2008-01-19,Fulham_Arsenal_2007,Fulham,12,11,23,24
+2008-01-19,Reading_Man United_2007,Reading,12,11,23,24
+2008-01-19,Birmingham_Chelsea_2007,Chelsea,11,12,23,24
+2008-01-19,Portsmouth_Derby_2007,Portsmouth,11,12,23,24
+2008-01-19,Blackburn_Middlesbrough_2007,Blackburn,12,11,23,24
+2008-01-19,Reading_Man United_2007,Man United,12,11,23,24
+2008-01-19,Newcastle_Bolton_2007,Newcastle,12,11,23,24
+2008-01-19,Birmingham_Chelsea_2007,Birmingham,11,12,23,24
+2008-01-19,Tottenham_Sunderland_2007,Sunderland,11,12,23,24
+2008-01-19,Newcastle_Bolton_2007,Bolton,12,11,23,24
+2008-01-19,Portsmouth_Derby_2007,Derby,11,12,23,24
+2008-01-19,Blackburn_Middlesbrough_2007,Middlesbrough,11,12,23,24
+2008-01-19,Tottenham_Sunderland_2007,Tottenham,11,12,23,24
+2008-01-19,Fulham_Arsenal_2007,Arsenal,12,11,23,24
+2008-01-20,Man City_West Ham_2007,West Ham,11,11,22,24
+2008-01-20,Wigan_Everton_2007,Everton,11,12,23,24
+2008-01-20,Man City_West Ham_2007,Man City,12,11,23,24
+2008-01-20,Wigan_Everton_2007,Wigan,11,12,23,24
+2008-01-21,Liverpool_Aston Villa_2007,Liverpool,11,11,22,24
+2008-01-21,Liverpool_Aston Villa_2007,Aston Villa,12,11,23,24
+2008-01-26,Aston Villa_Blackburn_2007,Blackburn,12,12,24,25
+2008-01-26,Aston Villa_Blackburn_2007,Aston Villa,13,11,24,25
+2008-01-29,Bolton_Fulham_2007,Fulham,12,12,24,26
+2008-01-29,Bolton_Fulham_2007,Bolton,13,11,24,26
+2008-01-29,Middlesbrough_Wigan_2007,Wigan,11,13,24,26
+2008-01-29,Middlesbrough_Wigan_2007,Middlesbrough,12,12,24,26
+2008-01-29,Arsenal_Newcastle_2007,Newcastle,12,12,24,26
+2008-01-29,Sunderland_Birmingham_2007,Sunderland,12,12,24,26
+2008-01-29,Arsenal_Newcastle_2007,Arsenal,13,11,24,26
+2008-01-29,Sunderland_Birmingham_2007,Birmingham,11,13,24,26
+2008-01-30,Derby_Man City_2007,Man City,12,12,24,26
+2008-01-30,West Ham_Liverpool_2007,West Ham,12,11,23,26
+2008-01-30,Derby_Man City_2007,Derby,12,12,24,26
+2008-01-30,Man United_Portsmouth_2007,Portsmouth,11,13,24,26
+2008-01-30,Everton_Tottenham_2007,Tottenham,11,13,24,26
+2008-01-30,West Ham_Liverpool_2007,Liverpool,11,12,23,26
+2008-01-30,Everton_Tottenham_2007,Everton,12,12,24,26
+2008-01-30,Chelsea_Reading_2007,Chelsea,12,12,24,26
+2008-01-30,Chelsea_Reading_2007,Reading,12,12,24,26
+2008-01-30,Man United_Portsmouth_2007,Man United,13,11,24,26
+2008-02-02,Portsmouth_Chelsea_2007,Portsmouth,12,13,25,26
+2008-02-02,Reading_Bolton_2007,Bolton,13,12,25,26
+2008-02-02,Liverpool_Sunderland_2007,Liverpool,12,12,24,26
+2008-02-02,Reading_Bolton_2007,Reading,13,12,25,26
+2008-02-02,Man City_Arsenal_2007,Arsenal,13,12,25,26
+2008-02-02,Portsmouth_Chelsea_2007,Chelsea,12,13,25,26
+2008-02-02,Tottenham_Man United_2007,Tottenham,12,13,25,26
+2008-02-02,Blackburn_Everton_2007,Blackburn,13,12,25,26
+2008-02-02,Tottenham_Man United_2007,Man United,13,12,25,26
+2008-02-02,Birmingham_Derby_2007,Derby,12,13,25,26
+2008-02-02,Man City_Arsenal_2007,Man City,13,12,25,26
+2008-02-02,Wigan_West Ham_2007,Wigan,12,13,25,26
+2008-02-02,Wigan_West Ham_2007,West Ham,12,12,24,26
+2008-02-02,Liverpool_Sunderland_2007,Sunderland,12,13,25,26
+2008-02-02,Birmingham_Derby_2007,Birmingham,12,13,25,26
+2008-02-02,Blackburn_Everton_2007,Everton,12,13,25,26
+2008-02-03,Fulham_Aston Villa_2007,Fulham,13,12,25,26
+2008-02-03,Newcastle_Middlesbrough_2007,Middlesbrough,12,13,25,26
+2008-02-03,Fulham_Aston Villa_2007,Aston Villa,13,12,25,26
+2008-02-03,Newcastle_Middlesbrough_2007,Newcastle,13,12,25,26
+2008-02-09,Derby_Tottenham_2007,Derby,13,13,26,27
+2008-02-09,Everton_Reading_2007,Reading,13,13,26,27
+2008-02-09,West Ham_Birmingham_2007,West Ham,13,12,25,27
+2008-02-09,Everton_Reading_2007,Everton,13,13,26,27
+2008-02-09,Aston Villa_Newcastle_2007,Newcastle,13,13,26,27
+2008-02-09,Derby_Tottenham_2007,Tottenham,12,14,26,27
+2008-02-09,Sunderland_Wigan_2007,Wigan,12,14,26,27
+2008-02-09,Aston Villa_Newcastle_2007,Aston Villa,14,12,26,27
+2008-02-09,Sunderland_Wigan_2007,Sunderland,13,13,26,27
+2008-02-09,West Ham_Birmingham_2007,Birmingham,12,14,26,27
+2008-02-09,Middlesbrough_Fulham_2007,Fulham,13,13,26,27
+2008-02-09,Middlesbrough_Fulham_2007,Middlesbrough,13,13,26,27
+2008-02-09,Bolton_Portsmouth_2007,Portsmouth,12,14,26,27
+2008-02-09,Bolton_Portsmouth_2007,Bolton,14,12,26,27
+2008-02-10,Man United_Man City_2007,Man United,14,12,26,27
+2008-02-10,Man United_Man City_2007,Man City,13,13,26,27
+2008-02-10,Chelsea_Liverpool_2007,Chelsea,13,13,26,27
+2008-02-10,Chelsea_Liverpool_2007,Liverpool,12,13,25,27
+2008-02-11,Arsenal_Blackburn_2007,Blackburn,13,13,26,27
+2008-02-11,Arsenal_Blackburn_2007,Arsenal,14,12,26,27
+2008-02-23,Fulham_West Ham_2007,Fulham,14,13,27,29
+2008-02-23,Newcastle_Man United_2007,Newcastle,14,13,27,29
+2008-02-23,Liverpool_Middlesbrough_2007,Middlesbrough,13,14,27,29
+2008-02-23,Birmingham_Arsenal_2007,Arsenal,14,13,27,29
+2008-02-23,Wigan_Derby_2007,Derby,13,14,27,29
+2008-02-23,Wigan_Derby_2007,Wigan,13,14,27,29
+2008-02-23,Portsmouth_Sunderland_2007,Portsmouth,13,14,27,29
+2008-02-23,Fulham_West Ham_2007,West Ham,13,13,26,29
+2008-02-23,Newcastle_Man United_2007,Man United,14,13,27,29
+2008-02-23,Liverpool_Middlesbrough_2007,Liverpool,13,13,26,29
+2008-02-23,Portsmouth_Sunderland_2007,Sunderland,13,14,27,29
+2008-02-23,Birmingham_Arsenal_2007,Birmingham,13,14,27,29
+2008-02-24,Reading_Aston Villa_2007,Reading,14,13,27,29
+2008-02-24,Blackburn_Bolton_2007,Blackburn,14,13,27,29
+2008-02-24,Reading_Aston Villa_2007,Aston Villa,14,13,27,29
+2008-02-24,Blackburn_Bolton_2007,Bolton,14,13,27,29
+2008-02-25,Man City_Everton_2007,Man City,14,13,27,29
+2008-02-25,Man City_Everton_2007,Everton,13,14,27,29
+2008-03-01,Birmingham_Tottenham_2007,Tottenham,12,15,27,30
+2008-03-01,Middlesbrough_Reading_2007,Reading,14,14,28,30
+2008-03-01,Middlesbrough_Reading_2007,Middlesbrough,14,14,28,30
+2008-03-01,Derby_Sunderland_2007,Sunderland,13,15,28,30
+2008-03-01,Birmingham_Tottenham_2007,Birmingham,14,14,28,30
+2008-03-01,Newcastle_Blackburn_2007,Blackburn,14,14,28,30
+2008-03-01,Man City_Wigan_2007,Wigan,13,15,28,30
+2008-03-01,Derby_Sunderland_2007,Derby,14,14,28,30
+2008-03-01,Newcastle_Blackburn_2007,Newcastle,15,13,28,30
+2008-03-01,West Ham_Chelsea_2007,Chelsea,13,14,27,30
+2008-03-01,Fulham_Man United_2007,Fulham,15,13,28,30
+2008-03-01,Man City_Wigan_2007,Man City,15,13,28,30
+2008-03-01,Fulham_Man United_2007,Man United,14,14,28,30
+2008-03-01,Arsenal_Aston Villa_2007,Aston Villa,14,14,28,30
+2008-03-01,West Ham_Chelsea_2007,West Ham,14,13,27,30
+2008-03-01,Arsenal_Aston Villa_2007,Arsenal,15,13,28,30
+2008-03-02,Bolton_Liverpool_2007,Liverpool,13,14,27,30
+2008-03-02,Everton_Portsmouth_2007,Everton,14,14,28,30
+2008-03-02,Everton_Portsmouth_2007,Portsmouth,13,15,28,30
+2008-03-02,Bolton_Liverpool_2007,Bolton,15,13,28,30
+2008-03-05,Liverpool_West Ham_2007,Liverpool,14,14,28,31
+2008-03-05,Liverpool_West Ham_2007,West Ham,14,14,28,31
+2008-03-08,Reading_Man City_2007,Reading,15,14,29,31
+2008-03-08,Blackburn_Fulham_2007,Fulham,15,14,29,31
+2008-03-08,Blackburn_Fulham_2007,Blackburn,15,14,29,31
+2008-03-08,Liverpool_Newcastle_2007,Liverpool,15,14,29,31
+2008-03-08,Reading_Man City_2007,Man City,15,14,29,31
+2008-03-08,Liverpool_Newcastle_2007,Newcastle,15,14,29,31
+2008-03-09,Tottenham_West Ham_2007,Tottenham,13,15,28,31
+2008-03-09,Tottenham_West Ham_2007,West Ham,14,15,29,31
+2008-03-09,Sunderland_Everton_2007,Everton,14,15,29,31
+2008-03-09,Wigan_Arsenal_2007,Arsenal,15,14,29,31
+2008-03-09,Sunderland_Everton_2007,Sunderland,14,15,29,31
+2008-03-09,Wigan_Arsenal_2007,Wigan,14,15,29,31
+2008-03-12,Chelsea_Derby_2007,Chelsea,14,14,28,32
+2008-03-12,Portsmouth_Birmingham_2007,Birmingham,14,15,29,32
+2008-03-12,Chelsea_Derby_2007,Derby,14,15,29,32
+2008-03-12,Aston Villa_Middlesbrough_2007,Aston Villa,15,14,29,32
+2008-03-12,Aston Villa_Middlesbrough_2007,Middlesbrough,14,15,29,32
+2008-03-12,Portsmouth_Birmingham_2007,Portsmouth,14,15,29,32
+2008-03-15,Liverpool_Reading_2007,Liverpool,16,14,30,32
+2008-03-15,Portsmouth_Aston Villa_2007,Portsmouth,15,15,30,32
+2008-03-15,Liverpool_Reading_2007,Reading,15,15,30,32
+2008-03-15,Derby_Man United_2007,Derby,15,15,30,32
+2008-03-15,West Ham_Blackburn_2007,Blackburn,15,15,30,32
+2008-03-15,Sunderland_Chelsea_2007,Chelsea,14,15,29,32
+2008-03-15,Derby_Man United_2007,Man United,14,15,29,32
+2008-03-15,Sunderland_Chelsea_2007,Sunderland,15,15,30,32
+2008-03-15,Arsenal_Middlesbrough_2007,Middlesbrough,14,16,30,32
+2008-03-15,West Ham_Blackburn_2007,West Ham,15,15,30,32
+2008-03-15,Arsenal_Middlesbrough_2007,Arsenal,16,14,30,32
+2008-03-15,Portsmouth_Aston Villa_2007,Aston Villa,15,15,30,32
+2008-03-16,Fulham_Everton_2007,Fulham,16,14,30,32
+2008-03-16,Wigan_Bolton_2007,Bolton,15,14,29,32
+2008-03-16,Man City_Tottenham_2007,Tottenham,13,16,29,32
+2008-03-16,Fulham_Everton_2007,Everton,14,16,30,32
+2008-03-16,Wigan_Bolton_2007,Wigan,15,15,30,32
+2008-03-16,Man City_Tottenham_2007,Man City,16,14,30,32
+2008-03-17,Birmingham_Newcastle_2007,Newcastle,15,15,30,32
+2008-03-17,Birmingham_Newcastle_2007,Birmingham,15,15,30,32
+2008-03-19,Man United_Bolton_2007,Man United,15,15,30,33
+2008-03-19,Tottenham_Chelsea_2007,Chelsea,14,16,30,33
+2008-03-19,Man United_Bolton_2007,Bolton,15,15,30,33
+2008-03-19,Tottenham_Chelsea_2007,Tottenham,14,16,30,33
+2008-03-22,Middlesbrough_Derby_2007,Derby,15,16,31,33
+2008-03-22,Tottenham_Portsmouth_2007,Tottenham,15,16,31,33
+2008-03-22,Everton_West Ham_2007,West Ham,15,16,31,33
+2008-03-22,Aston Villa_Sunderland_2007,Aston Villa,16,15,31,33
+2008-03-22,Bolton_Man City_2007,Bolton,16,15,31,33
+2008-03-22,Tottenham_Portsmouth_2007,Portsmouth,15,16,31,33
+2008-03-22,Reading_Birmingham_2007,Birmingham,15,16,31,33
+2008-03-22,Blackburn_Wigan_2007,Wigan,15,16,31,33
+2008-03-22,Bolton_Man City_2007,Man City,16,15,31,33
+2008-03-22,Blackburn_Wigan_2007,Blackburn,16,15,31,33
+2008-03-22,Newcastle_Fulham_2007,Fulham,16,15,31,33
+2008-03-22,Middlesbrough_Derby_2007,Middlesbrough,15,16,31,33
+2008-03-22,Aston Villa_Sunderland_2007,Sunderland,15,16,31,33
+2008-03-22,Everton_West Ham_2007,Everton,15,16,31,33
+2008-03-22,Newcastle_Fulham_2007,Newcastle,16,15,31,33
+2008-03-22,Reading_Birmingham_2007,Reading,16,15,31,33
+2008-03-23,Chelsea_Arsenal_2007,Arsenal,16,15,31,33
+2008-03-23,Man United_Liverpool_2007,Man United,16,15,31,33
+2008-03-23,Man United_Liverpool_2007,Liverpool,16,15,31,33
+2008-03-23,Chelsea_Arsenal_2007,Chelsea,15,16,31,33
+2008-03-29,Birmingham_Man City_2007,Birmingham,16,16,32,34
+2008-03-29,Bolton_Arsenal_2007,Arsenal,16,16,32,34
+2008-03-29,Derby_Fulham_2007,Derby,16,16,32,34
+2008-03-29,Man United_Aston Villa_2007,Man United,17,15,32,34
+2008-03-29,Reading_Blackburn_2007,Reading,17,15,32,34
+2008-03-29,Birmingham_Man City_2007,Man City,16,16,32,34
+2008-03-29,Reading_Blackburn_2007,Blackburn,16,16,32,34
+2008-03-29,Portsmouth_Wigan_2007,Wigan,15,17,32,34
+2008-03-29,Sunderland_West Ham_2007,Sunderland,16,16,32,34
+2008-03-29,Portsmouth_Wigan_2007,Portsmouth,16,16,32,34
+2008-03-29,Sunderland_West Ham_2007,West Ham,15,17,32,34
+2008-03-29,Man United_Aston Villa_2007,Aston Villa,16,16,32,34
+2008-03-29,Derby_Fulham_2007,Fulham,16,16,32,34
+2008-03-29,Bolton_Arsenal_2007,Bolton,17,15,32,34
+2008-03-30,Tottenham_Newcastle_2007,Tottenham,16,16,32,34
+2008-03-30,Tottenham_Newcastle_2007,Newcastle,16,16,32,34
+2008-03-30,Chelsea_Middlesbrough_2007,Middlesbrough,15,17,32,34
+2008-03-30,Liverpool_Everton_2007,Liverpool,17,15,32,34
+2008-03-30,Chelsea_Middlesbrough_2007,Chelsea,16,16,32,34
+2008-03-30,Liverpool_Everton_2007,Everton,15,17,32,34
+2008-04-05,Man City_Chelsea_2007,Man City,17,16,33,35
+2008-04-05,Man City_Chelsea_2007,Chelsea,16,17,33,35
+2008-04-05,Aston Villa_Bolton_2007,Bolton,17,16,33,35
+2008-04-05,Wigan_Birmingham_2007,Wigan,16,17,33,35
+2008-04-05,Fulham_Sunderland_2007,Sunderland,16,17,33,35
+2008-04-05,Newcastle_Reading_2007,Reading,17,16,33,35
+2008-04-05,Arsenal_Liverpool_2007,Arsenal,17,16,33,35
+2008-04-05,Blackburn_Tottenham_2007,Blackburn,17,16,33,35
+2008-04-05,Newcastle_Reading_2007,Newcastle,17,16,33,35
+2008-04-05,Wigan_Birmingham_2007,Birmingham,16,17,33,35
+2008-04-05,Aston Villa_Bolton_2007,Aston Villa,17,16,33,35
+2008-04-05,Fulham_Sunderland_2007,Fulham,17,16,33,35
+2008-04-05,Arsenal_Liverpool_2007,Liverpool,17,16,33,35
+2008-04-05,Blackburn_Tottenham_2007,Tottenham,16,17,33,35
+2008-04-06,Middlesbrough_Man United_2007,Man United,17,16,33,35
+2008-04-06,Middlesbrough_Man United_2007,Middlesbrough,16,17,33,35
+2008-04-06,Everton_Derby_2007,Everton,16,17,33,35
+2008-04-06,Everton_Derby_2007,Derby,16,17,33,35
+2008-04-08,West Ham_Portsmouth_2007,Portsmouth,16,17,33,36
+2008-04-08,West Ham_Portsmouth_2007,West Ham,16,17,33,36
+2008-04-12,Reading_Fulham_2007,Reading,18,16,34,36
+2008-04-12,Sunderland_Man City_2007,Sunderland,17,17,34,36
+2008-04-12,Portsmouth_Newcastle_2007,Newcastle,17,17,34,36
+2008-04-12,Derby_Aston Villa_2007,Aston Villa,17,17,34,36
+2008-04-12,Birmingham_Everton_2007,Birmingham,17,17,34,36
+2008-04-12,Birmingham_Everton_2007,Everton,16,18,34,36
+2008-04-12,Tottenham_Middlesbrough_2007,Middlesbrough,16,18,34,36
+2008-04-12,Reading_Fulham_2007,Fulham,17,17,34,36
+2008-04-12,Derby_Aston Villa_2007,Derby,17,17,34,36
+2008-04-12,Bolton_West Ham_2007,West Ham,16,18,34,36
+2008-04-12,Bolton_West Ham_2007,Bolton,18,16,34,36
+2008-04-12,Portsmouth_Newcastle_2007,Portsmouth,17,17,34,36
+2008-04-12,Tottenham_Middlesbrough_2007,Tottenham,17,17,34,36
+2008-04-12,Sunderland_Man City_2007,Man City,17,17,34,36
+2008-04-13,Man United_Arsenal_2007,Arsenal,17,17,34,36
+2008-04-13,Liverpool_Blackburn_2007,Liverpool,18,16,34,36
+2008-04-13,Man United_Arsenal_2007,Man United,18,16,34,36
+2008-04-13,Liverpool_Blackburn_2007,Blackburn,17,17,34,36
+2008-04-14,Chelsea_Wigan_2007,Chelsea,17,17,34,36
+2008-04-14,Chelsea_Wigan_2007,Wigan,16,18,34,36
+2008-04-17,Everton_Chelsea_2007,Chelsea,17,18,35,37
+2008-04-17,Everton_Chelsea_2007,Everton,17,18,35,37
+2008-04-19,Middlesbrough_Bolton_2007,Middlesbrough,17,18,35,37
+2008-04-19,Blackburn_Man United_2007,Man United,18,17,35,37
+2008-04-19,West Ham_Derby_2007,Derby,17,18,35,37
+2008-04-19,Wigan_Tottenham_2007,Wigan,17,18,35,37
+2008-04-19,Fulham_Liverpool_2007,Liverpool,18,17,35,37
+2008-04-19,Arsenal_Reading_2007,Reading,18,17,35,37
+2008-04-19,West Ham_Derby_2007,West Ham,17,18,35,37
+2008-04-19,Wigan_Tottenham_2007,Tottenham,17,18,35,37
+2008-04-19,Middlesbrough_Bolton_2007,Bolton,18,17,35,37
+2008-04-19,Blackburn_Man United_2007,Blackburn,18,17,35,37
+2008-04-19,Fulham_Liverpool_2007,Fulham,18,17,35,37
+2008-04-19,Arsenal_Reading_2007,Arsenal,18,17,35,37
+2008-04-20,Newcastle_Sunderland_2007,Newcastle,18,17,35,37
+2008-04-20,Man City_Portsmouth_2007,Man City,18,17,35,37
+2008-04-20,Aston Villa_Birmingham_2007,Birmingham,17,18,35,37
+2008-04-20,Aston Villa_Birmingham_2007,Aston Villa,18,17,35,37
+2008-04-20,Newcastle_Sunderland_2007,Sunderland,17,18,35,37
+2008-04-20,Man City_Portsmouth_2007,Portsmouth,17,18,35,37
+2008-04-26,Sunderland_Middlesbrough_2007,Middlesbrough,17,19,36,38
+2008-04-26,Tottenham_Bolton_2007,Tottenham,18,18,36,38
+2008-04-26,Birmingham_Liverpool_2007,Liverpool,18,18,36,38
+2008-04-26,Chelsea_Man United_2007,Chelsea,18,18,36,38
+2008-04-26,West Ham_Newcastle_2007,Newcastle,18,18,36,38
+2008-04-26,Tottenham_Bolton_2007,Bolton,18,18,36,38
+2008-04-26,Man City_Fulham_2007,Fulham,18,18,36,38
+2008-04-26,Sunderland_Middlesbrough_2007,Sunderland,18,18,36,38
+2008-04-26,West Ham_Newcastle_2007,West Ham,18,18,36,38
+2008-04-26,Wigan_Reading_2007,Reading,18,18,36,38
+2008-04-26,Birmingham_Liverpool_2007,Birmingham,18,18,36,38
+2008-04-26,Man City_Fulham_2007,Man City,19,17,36,38
+2008-04-26,Wigan_Reading_2007,Wigan,18,18,36,38
+2008-04-26,Chelsea_Man United_2007,Man United,18,18,36,38
+2008-04-27,Everton_Aston Villa_2007,Everton,18,18,36,38
+2008-04-27,Portsmouth_Blackburn_2007,Blackburn,18,18,36,38
+2008-04-27,Portsmouth_Blackburn_2007,Portsmouth,18,18,36,38
+2008-04-27,Everton_Aston Villa_2007,Aston Villa,18,18,36,38
+2008-04-28,Derby_Arsenal_2007,Derby,18,18,36,38
+2008-04-28,Derby_Arsenal_2007,Arsenal,18,18,36,38
+2008-05-03,Blackburn_Derby_2007,Blackburn,19,18,37,39
+2008-05-03,Reading_Tottenham_2007,Reading,19,18,37,39
+2008-05-03,Middlesbrough_Portsmouth_2007,Middlesbrough,18,19,37,39
+2008-05-03,Middlesbrough_Portsmouth_2007,Portsmouth,18,19,37,39
+2008-05-03,Bolton_Sunderland_2007,Sunderland,18,19,37,39
+2008-05-03,Aston Villa_Wigan_2007,Aston Villa,19,18,37,39
+2008-05-03,Man United_West Ham_2007,West Ham,18,19,37,39
+2008-05-03,Bolton_Sunderland_2007,Bolton,19,18,37,39
+2008-05-03,Man United_West Ham_2007,Man United,19,18,37,39
+2008-05-03,Reading_Tottenham_2007,Tottenham,18,19,37,39
+2008-05-03,Blackburn_Derby_2007,Derby,18,19,37,39
+2008-05-03,Aston Villa_Wigan_2007,Wigan,18,19,37,39
+2008-05-03,Fulham_Birmingham_2007,Fulham,19,18,37,39
+2008-05-03,Fulham_Birmingham_2007,Birmingham,18,19,37,39
+2008-05-04,Arsenal_Everton_2007,Everton,18,19,37,39
+2008-05-04,Arsenal_Everton_2007,Arsenal,19,18,37,39
+2008-05-04,Liverpool_Man City_2007,Man City,19,18,37,39
+2008-05-04,Liverpool_Man City_2007,Liverpool,19,18,37,39
+2008-05-05,Newcastle_Chelsea_2007,Newcastle,19,18,37,39
+2008-05-05,Newcastle_Chelsea_2007,Chelsea,18,19,37,39
+2008-05-11,Tottenham_Liverpool_2007,Liverpool,19,19,38,40
+2008-05-11,Middlesbrough_Man City_2007,Man City,19,19,38,40
+2008-05-11,Portsmouth_Fulham_2007,Fulham,19,19,38,40
+2008-05-11,Chelsea_Bolton_2007,Bolton,19,19,38,40
+2008-05-11,Middlesbrough_Man City_2007,Middlesbrough,19,19,38,40
+2008-05-11,Portsmouth_Fulham_2007,Portsmouth,19,19,38,40
+2008-05-11,Birmingham_Blackburn_2007,Blackburn,19,19,38,40
+2008-05-11,Everton_Newcastle_2007,Newcastle,19,19,38,40
+2008-05-11,Wigan_Man United_2007,Man United,19,19,38,40
+2008-05-11,Everton_Newcastle_2007,Everton,19,19,38,40
+2008-05-11,West Ham_Aston Villa_2007,West Ham,19,19,38,40
+2008-05-11,Sunderland_Arsenal_2007,Sunderland,19,19,38,40
+2008-05-11,Chelsea_Bolton_2007,Chelsea,19,19,38,40
+2008-05-11,West Ham_Aston Villa_2007,Aston Villa,19,19,38,40
+2008-05-11,Derby_Reading_2007,Derby,19,19,38,40
+2008-05-11,Tottenham_Liverpool_2007,Tottenham,19,19,38,40
+2008-05-11,Birmingham_Blackburn_2007,Birmingham,19,19,38,40
+2008-05-11,Sunderland_Arsenal_2007,Arsenal,19,19,38,40
+2008-05-11,Derby_Reading_2007,Reading,19,19,38,40
+2008-05-11,Wigan_Man United_2007,Wigan,19,19,38,40

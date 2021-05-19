@@ -1,0 +1,525 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2020-09-18,Guimaraes_Belenenses_2020,Belenenses,1,1,1,1
+2020-09-18,Famalicao_Benfica_2020,Benfica,1,1,1,1
+2020-09-18,Guimaraes_Belenenses_2020,Guimaraes,1,1,1,1
+2020-09-18,Famalicao_Benfica_2020,Famalicao,1,1,1,1
+2020-09-19,Nacional_Boavista_2020,Nacional,1,1,1,1
+2020-09-19,Porto_Sp Braga_2020,Sp Braga,1,1,1,1
+2020-09-19,Nacional_Boavista_2020,Boavista,1,1,1,1
+2020-09-19,Porto_Sp Braga_2020,Porto,1,1,1,1
+2020-09-20,Santa Clara_Maritimo_2020,Santa Clara,1,1,1,1
+2020-09-20,Santa Clara_Maritimo_2020,Maritimo,1,1,1,1
+2020-09-20,Tondela_Rio Ave_2020,Tondela,1,1,1,1
+2020-09-20,Tondela_Rio Ave_2020,Rio Ave,1,1,1,1
+2020-09-20,Moreirense_Farense_2020,Moreirense,1,1,1,1
+2020-09-20,Moreirense_Farense_2020,Farense,1,1,1,1
+2020-09-21,Portimonense_Pacos Ferreira_2020,Portimonense,1,1,1,1
+2020-09-21,Portimonense_Pacos Ferreira_2020,Pacos Ferreira,1,1,1,1
+2020-09-25,Sp Braga_Santa Clara_2020,Sp Braga,1,1,2,2
+2020-09-25,Sp Braga_Santa Clara_2020,Santa Clara,1,1,2,2
+2020-09-26,Boavista_Porto_2020,Porto,1,1,2,2
+2020-09-26,Maritimo_Tondela_2020,Maritimo,1,1,2,2
+2020-09-26,Benfica_Moreirense_2020,Moreirense,1,1,2,2
+2020-09-26,Boavista_Porto_2020,Boavista,1,1,2,2
+2020-09-26,Benfica_Moreirense_2020,Benfica,1,1,2,2
+2020-09-26,Maritimo_Tondela_2020,Tondela,1,1,2,2
+2020-09-27,Pacos Ferreira_Sp Lisbon_2020,Pacos Ferreira,1,1,2,2
+2020-09-27,Gil Vicente_Portimonense_2020,Gil Vicente,1,1,1,2
+2020-09-27,Farense_Nacional_2020,Nacional,1,1,2,2
+2020-09-27,Pacos Ferreira_Sp Lisbon_2020,Sp Lisbon,1,1,1,2
+2020-09-27,Rio Ave_Guimaraes_2020,Guimaraes,1,1,2,2
+2020-09-27,Gil Vicente_Portimonense_2020,Portimonense,1,1,2,2
+2020-09-27,Farense_Nacional_2020,Farense,1,1,2,2
+2020-09-27,Rio Ave_Guimaraes_2020,Rio Ave,1,1,2,2
+2020-09-28,Belenenses_Famalicao_2020,Famalicao,1,1,2,2
+2020-09-28,Belenenses_Famalicao_2020,Belenenses,1,1,2,2
+2020-10-02,Guimaraes_Pacos Ferreira_2020,Pacos Ferreira,1,2,3,3
+2020-10-02,Guimaraes_Pacos Ferreira_2020,Guimaraes,2,1,3,3
+2020-10-02,Moreirense_Boavista_2020,Boavista,1,2,3,3
+2020-10-02,Moreirense_Boavista_2020,Moreirense,2,1,3,3
+2020-10-03,Tondela_Sp Braga_2020,Tondela,2,1,3,3
+2020-10-03,Porto_Maritimo_2020,Porto,2,1,3,3
+2020-10-03,Santa Clara_Gil Vicente_2020,Santa Clara,2,1,3,3
+2020-10-03,Santa Clara_Gil Vicente_2020,Gil Vicente,1,1,2,3
+2020-10-03,Tondela_Sp Braga_2020,Sp Braga,1,2,3,3
+2020-10-03,Porto_Maritimo_2020,Maritimo,1,2,3,3
+2020-10-04,Nacional_Belenenses_2020,Nacional,2,1,3,3
+2020-10-04,Portimonense_Sp Lisbon_2020,Sp Lisbon,1,2,2,3
+2020-10-04,Famalicao_Rio Ave_2020,Famalicao,2,1,3,3
+2020-10-04,Benfica_Farense_2020,Farense,1,2,3,3
+2020-10-04,Nacional_Belenenses_2020,Belenenses,1,2,3,3
+2020-10-04,Portimonense_Sp Lisbon_2020,Portimonense,2,1,3,3
+2020-10-04,Benfica_Farense_2020,Benfica,2,1,3,3
+2020-10-04,Famalicao_Rio Ave_2020,Rio Ave,1,2,3,3
+2020-10-17,Sp Braga_Nacional_2020,Sp Braga,2,2,4,5
+2020-10-17,Sp Braga_Nacional_2020,Nacional,2,2,4,5
+2020-10-17,Sp Lisbon_Porto_2020,Sp Lisbon,1,2,3,5
+2020-10-17,Sp Lisbon_Porto_2020,Porto,2,2,4,5
+2020-10-17,Maritimo_Portimonense_2020,Maritimo,2,2,4,5
+2020-10-17,Gil Vicente_Tondela_2020,Gil Vicente,2,1,3,5
+2020-10-17,Maritimo_Portimonense_2020,Portimonense,2,2,4,5
+2020-10-17,Gil Vicente_Tondela_2020,Tondela,2,2,4,5
+2020-10-18,Rio Ave_Benfica_2020,Benfica,2,2,4,5
+2020-10-18,Belenenses_Moreirense_2020,Belenenses,2,2,4,5
+2020-10-18,Farense_Famalicao_2020,Farense,2,2,4,5
+2020-10-18,Farense_Famalicao_2020,Famalicao,2,2,4,5
+2020-10-18,Belenenses_Moreirense_2020,Moreirense,2,2,4,5
+2020-10-18,Rio Ave_Benfica_2020,Rio Ave,2,2,4,5
+2020-10-18,Pacos Ferreira_Santa Clara_2020,Santa Clara,2,2,4,5
+2020-10-18,Pacos Ferreira_Santa Clara_2020,Pacos Ferreira,2,2,4,5
+2020-10-19,Boavista_Guimaraes_2020,Boavista,2,2,4,5
+2020-10-19,Boavista_Guimaraes_2020,Guimaraes,2,2,4,5
+2020-10-23,Tondela_Portimonense_2020,Portimonense,2,3,5,6
+2020-10-23,Tondela_Portimonense_2020,Tondela,3,2,5,6
+2020-10-24,Santa Clara_Sp Lisbon_2020,Sp Lisbon,1,3,4,6
+2020-10-24,Nacional_Pacos Ferreira_2020,Pacos Ferreira,2,3,5,6
+2020-10-24,Porto_Gil Vicente_2020,Porto,3,2,5,6
+2020-10-24,Nacional_Pacos Ferreira_2020,Nacional,3,2,5,6
+2020-10-24,Santa Clara_Sp Lisbon_2020,Santa Clara,3,2,5,6
+2020-10-24,Porto_Gil Vicente_2020,Gil Vicente,2,2,4,6
+2020-10-25,Guimaraes_Sp Braga_2020,Sp Braga,2,3,5,6
+2020-10-25,Moreirense_Maritimo_2020,Maritimo,2,3,5,6
+2020-10-25,Farense_Rio Ave_2020,Rio Ave,2,3,5,6
+2020-10-25,Guimaraes_Sp Braga_2020,Guimaraes,3,2,5,6
+2020-10-25,Farense_Rio Ave_2020,Farense,3,2,5,6
+2020-10-25,Famalicao_Boavista_2020,Boavista,2,3,5,6
+2020-10-25,Famalicao_Boavista_2020,Famalicao,3,2,5,6
+2020-10-25,Moreirense_Maritimo_2020,Moreirense,3,2,5,6
+2020-10-26,Benfica_Belenenses_2020,Benfica,3,2,5,6
+2020-10-26,Benfica_Belenenses_2020,Belenenses,2,3,5,6
+2020-10-28,Sp Lisbon_Gil Vicente_2020,Gil Vicente,2,3,5,7
+2020-10-28,Sp Lisbon_Gil Vicente_2020,Sp Lisbon,2,3,5,7
+2020-10-30,Pacos Ferreira_Porto_2020,Pacos Ferreira,3,3,6,7
+2020-10-30,Pacos Ferreira_Porto_2020,Porto,3,3,6,7
+2020-10-31,Maritimo_Nacional_2020,Maritimo,3,3,6,7
+2020-10-31,Rio Ave_Moreirense_2020,Moreirense,3,3,6,7
+2020-10-31,Maritimo_Nacional_2020,Nacional,3,3,6,7
+2020-10-31,Belenenses_Farense_2020,Belenenses,3,3,6,7
+2020-10-31,Belenenses_Farense_2020,Farense,3,3,6,7
+2020-10-31,Rio Ave_Moreirense_2020,Rio Ave,3,3,6,7
+2020-11-01,Portimonense_Santa Clara_2020,Santa Clara,3,3,6,7
+2020-11-01,Gil Vicente_Guimaraes_2020,Gil Vicente,3,3,6,7
+2020-11-01,Sp Lisbon_Tondela_2020,Tondela,3,3,6,7
+2020-11-01,Gil Vicente_Guimaraes_2020,Guimaraes,3,3,6,7
+2020-11-01,Portimonense_Santa Clara_2020,Portimonense,3,3,6,7
+2020-11-01,Sp Lisbon_Tondela_2020,Sp Lisbon,3,3,6,7
+2020-11-02,Sp Braga_Famalicao_2020,Sp Braga,3,3,6,7
+2020-11-02,Sp Braga_Famalicao_2020,Famalicao,3,3,6,7
+2020-11-02,Boavista_Benfica_2020,Benfica,3,3,6,7
+2020-11-02,Boavista_Benfica_2020,Boavista,3,3,6,7
+2020-11-06,Belenenses_Rio Ave_2020,Rio Ave,3,4,7,8
+2020-11-06,Belenenses_Rio Ave_2020,Belenenses,4,3,7,8
+2020-11-07,Tondela_Santa Clara_2020,Santa Clara,3,4,7,8
+2020-11-07,Famalicao_Maritimo_2020,Famalicao,4,3,7,8
+2020-11-07,Guimaraes_Sp Lisbon_2020,Guimaraes,4,3,7,8
+2020-11-07,Guimaraes_Sp Lisbon_2020,Sp Lisbon,3,4,7,8
+2020-11-07,Tondela_Santa Clara_2020,Tondela,4,3,7,8
+2020-11-07,Famalicao_Maritimo_2020,Maritimo,3,4,7,8
+2020-11-08,Benfica_Sp Braga_2020,Benfica,4,3,7,8
+2020-11-08,Porto_Portimonense_2020,Porto,4,3,7,8
+2020-11-08,Farense_Boavista_2020,Farense,4,3,7,8
+2020-11-08,Nacional_Gil Vicente_2020,Gil Vicente,3,4,7,8
+2020-11-08,Farense_Boavista_2020,Boavista,3,4,7,8
+2020-11-08,Nacional_Gil Vicente_2020,Nacional,4,3,7,8
+2020-11-08,Porto_Portimonense_2020,Portimonense,3,4,7,8
+2020-11-08,Benfica_Sp Braga_2020,Sp Braga,3,4,7,8
+2020-11-27,Tondela_Guimaraes_2020,Guimaraes,4,4,8,11
+2020-11-27,Pacos Ferreira_Famalicao_2020,Pacos Ferreira,4,3,7,11
+2020-11-27,Pacos Ferreira_Famalicao_2020,Famalicao,4,4,8,11
+2020-11-27,Tondela_Guimaraes_2020,Tondela,5,3,8,11
+2020-11-28,Santa Clara_Porto_2020,Porto,4,4,8,11
+2020-11-28,Sp Lisbon_Moreirense_2020,Sp Lisbon,4,4,8,11
+2020-11-28,Sp Lisbon_Moreirense_2020,Moreirense,3,4,7,11
+2020-11-28,Santa Clara_Porto_2020,Santa Clara,4,4,8,11
+2020-11-29,Sp Braga_Farense_2020,Farense,4,4,8,11
+2020-11-29,Gil Vicente_Rio Ave_2020,Gil Vicente,4,4,8,11
+2020-11-29,Portimonense_Nacional_2020,Portimonense,4,4,8,11
+2020-11-29,Gil Vicente_Rio Ave_2020,Rio Ave,3,5,8,11
+2020-11-29,Sp Braga_Farense_2020,Sp Braga,4,4,8,11
+2020-11-29,Boavista_Belenenses_2020,Boavista,4,4,8,11
+2020-11-29,Portimonense_Nacional_2020,Nacional,4,4,8,11
+2020-11-29,Boavista_Belenenses_2020,Belenenses,4,4,8,11
+2020-11-30,Maritimo_Benfica_2020,Maritimo,4,4,8,11
+2020-11-30,Maritimo_Benfica_2020,Benfica,4,4,8,11
+2020-12-01,Moreirense_Pacos Ferreira_2020,Pacos Ferreira,4,4,8,12
+2020-12-01,Moreirense_Pacos Ferreira_2020,Moreirense,4,4,8,12
+2020-12-05,Porto_Tondela_2020,Porto,5,4,9,12
+2020-12-05,Famalicao_Sp Lisbon_2020,Famalicao,5,4,9,12
+2020-12-05,Porto_Tondela_2020,Tondela,5,4,9,12
+2020-12-05,Famalicao_Sp Lisbon_2020,Sp Lisbon,4,5,9,12
+2020-12-05,Moreirense_Gil Vicente_2020,Gil Vicente,4,5,9,12
+2020-12-05,Guimaraes_Portimonense_2020,Guimaraes,5,4,9,12
+2020-12-05,Guimaraes_Portimonense_2020,Portimonense,4,5,9,12
+2020-12-05,Moreirense_Gil Vicente_2020,Moreirense,5,4,9,12
+2020-12-06,Rio Ave_Boavista_2020,Rio Ave,4,5,9,12
+2020-12-06,Rio Ave_Boavista_2020,Boavista,4,5,9,12
+2020-12-06,Benfica_Pacos Ferreira_2020,Benfica,5,4,9,12
+2020-12-06,Nacional_Santa Clara_2020,Santa Clara,4,5,9,12
+2020-12-06,Belenenses_Sp Braga_2020,Sp Braga,4,5,9,12
+2020-12-06,Nacional_Santa Clara_2020,Nacional,5,4,9,12
+2020-12-06,Benfica_Pacos Ferreira_2020,Pacos Ferreira,4,5,9,12
+2020-12-06,Belenenses_Sp Braga_2020,Belenenses,5,4,9,12
+2020-12-07,Farense_Maritimo_2020,Maritimo,4,5,9,12
+2020-12-07,Farense_Maritimo_2020,Farense,5,4,9,12
+2020-12-18,Portimonense_Famalicao_2020,Portimonense,5,5,10,14
+2020-12-18,Portimonense_Famalicao_2020,Famalicao,5,5,10,14
+2020-12-19,Sp Lisbon_Farense_2020,Farense,5,5,10,14
+2020-12-19,Tondela_Moreirense_2020,Tondela,6,4,10,14
+2020-12-19,Maritimo_Belenenses_2020,Belenenses,5,5,10,14
+2020-12-19,Tondela_Moreirense_2020,Moreirense,5,5,10,14
+2020-12-19,Maritimo_Belenenses_2020,Maritimo,5,5,10,14
+2020-12-19,Sp Lisbon_Farense_2020,Sp Lisbon,5,5,10,14
+2020-12-20,Porto_Nacional_2020,Porto,6,4,10,14
+2020-12-20,Pacos Ferreira_Boavista_2020,Boavista,4,6,10,14
+2020-12-20,Gil Vicente_Benfica_2020,Gil Vicente,5,5,10,14
+2020-12-20,Gil Vicente_Benfica_2020,Benfica,5,5,10,14
+2020-12-20,Pacos Ferreira_Boavista_2020,Pacos Ferreira,5,5,10,14
+2020-12-20,Porto_Nacional_2020,Nacional,5,5,10,14
+2020-12-21,Santa Clara_Guimaraes_2020,Santa Clara,5,5,10,14
+2020-12-21,Santa Clara_Guimaraes_2020,Guimaraes,5,5,10,14
+2020-12-22,Sp Braga_Rio Ave_2020,Sp Braga,5,5,10,15
+2020-12-22,Sp Braga_Rio Ave_2020,Rio Ave,4,6,10,15
+2020-12-27,Nacional_Tondela_2020,Tondela,6,5,11,15
+2020-12-27,Farense_Pacos Ferreira_2020,Pacos Ferreira,5,6,11,15
+2020-12-27,Farense_Pacos Ferreira_2020,Farense,6,5,11,15
+2020-12-27,Belenenses_Sp Lisbon_2020,Belenenses,6,5,11,15
+2020-12-27,Belenenses_Sp Lisbon_2020,Sp Lisbon,5,6,11,15
+2020-12-27,Famalicao_Gil Vicente_2020,Gil Vicente,5,6,11,15
+2020-12-27,Nacional_Tondela_2020,Nacional,6,5,11,15
+2020-12-27,Famalicao_Gil Vicente_2020,Famalicao,6,5,11,15
+2020-12-28,Rio Ave_Maritimo_2020,Rio Ave,5,6,11,15
+2020-12-28,Rio Ave_Maritimo_2020,Maritimo,5,6,11,15
+2020-12-28,Boavista_Sp Braga_2020,Sp Braga,5,6,11,15
+2020-12-28,Boavista_Sp Braga_2020,Boavista,5,6,11,15
+2020-12-29,Benfica_Portimonense_2020,Benfica,6,5,11,16
+2020-12-29,Moreirense_Santa Clara_2020,Moreirense,6,5,11,16
+2020-12-29,Moreirense_Santa Clara_2020,Santa Clara,5,6,11,16
+2020-12-29,Benfica_Portimonense_2020,Portimonense,5,6,11,16
+2020-12-29,Guimaraes_Porto_2020,Guimaraes,6,5,11,16
+2020-12-29,Guimaraes_Porto_2020,Porto,6,5,11,16
+2021-01-02,Sp Lisbon_Sp Braga_2020,Sp Braga,5,7,12,16
+2021-01-02,Sp Lisbon_Sp Braga_2020,Sp Lisbon,6,6,12,16
+2021-01-03,Maritimo_Boavista_2020,Boavista,5,7,12,16
+2021-01-03,Tondela_Famalicao_2020,Tondela,7,5,12,16
+2021-01-03,Porto_Moreirense_2020,Porto,7,5,12,16
+2021-01-03,Pacos Ferreira_Rio Ave_2020,Pacos Ferreira,6,6,12,16
+2021-01-03,Maritimo_Boavista_2020,Maritimo,6,6,12,16
+2021-01-03,Tondela_Famalicao_2020,Famalicao,6,6,12,16
+2021-01-03,Pacos Ferreira_Rio Ave_2020,Rio Ave,5,7,12,16
+2021-01-03,Santa Clara_Benfica_2020,Santa Clara,6,6,12,16
+2021-01-03,Porto_Moreirense_2020,Moreirense,6,6,12,16
+2021-01-03,Santa Clara_Benfica_2020,Benfica,6,6,12,16
+2021-01-04,Gil Vicente_Belenenses_2020,Belenenses,6,6,12,16
+2021-01-04,Gil Vicente_Belenenses_2020,Gil Vicente,6,6,12,16
+2021-01-04,Portimonense_Farense_2020,Farense,6,6,12,16
+2021-01-04,Portimonense_Farense_2020,Portimonense,6,6,12,16
+2021-01-07,Sp Braga_Maritimo_2020,Sp Braga,6,7,13,17
+2021-01-07,Sp Braga_Maritimo_2020,Maritimo,6,7,13,17
+2021-01-08,Rio Ave_Portimonense_2020,Portimonense,6,7,13,17
+2021-01-08,Rio Ave_Portimonense_2020,Rio Ave,6,7,13,17
+2021-01-08,Benfica_Tondela_2020,Tondela,7,6,13,17
+2021-01-08,Nacional_Sp Lisbon_2020,Sp Lisbon,6,7,13,17
+2021-01-08,Nacional_Sp Lisbon_2020,Nacional,7,5,12,17
+2021-01-08,Benfica_Tondela_2020,Benfica,7,6,13,17
+2021-01-08,Famalicao_Porto_2020,Porto,7,6,13,17
+2021-01-08,Famalicao_Porto_2020,Famalicao,7,6,13,17
+2021-01-09,Moreirense_Guimaraes_2020,Moreirense,7,6,13,17
+2021-01-09,Boavista_Santa Clara_2020,Boavista,6,7,13,17
+2021-01-09,Moreirense_Guimaraes_2020,Guimaraes,6,6,12,17
+2021-01-09,Boavista_Santa Clara_2020,Santa Clara,6,7,13,17
+2021-01-10,Farense_Gil Vicente_2020,Gil Vicente,6,7,13,17
+2021-01-10,Belenenses_Pacos Ferreira_2020,Pacos Ferreira,6,7,13,17
+2021-01-10,Belenenses_Pacos Ferreira_2020,Belenenses,7,6,13,17
+2021-01-10,Farense_Gil Vicente_2020,Farense,7,6,13,17
+2021-01-15,Sp Lisbon_Rio Ave_2020,Rio Ave,6,8,14,18
+2021-01-15,Porto_Benfica_2020,Benfica,7,7,14,18
+2021-01-15,Porto_Benfica_2020,Porto,8,6,14,18
+2021-01-15,Sp Lisbon_Rio Ave_2020,Sp Lisbon,7,7,14,18
+2021-01-16,Pacos Ferreira_Sp Braga_2020,Sp Braga,6,8,14,18
+2021-01-16,Tondela_Boavista_2020,Boavista,6,8,14,18
+2021-01-16,Pacos Ferreira_Sp Braga_2020,Pacos Ferreira,7,7,14,18
+2021-01-16,Tondela_Boavista_2020,Tondela,8,6,14,18
+2021-01-17,Nacional_Moreirense_2020,Moreirense,7,7,14,18
+2021-01-17,Gil Vicente_Maritimo_2020,Gil Vicente,7,7,14,18
+2021-01-17,Nacional_Moreirense_2020,Nacional,8,5,13,18
+2021-01-17,Gil Vicente_Maritimo_2020,Maritimo,6,8,14,18
+2021-01-17,Santa Clara_Famalicao_2020,Santa Clara,7,7,14,18
+2021-01-17,Santa Clara_Famalicao_2020,Famalicao,7,7,14,18
+2021-01-18,Portimonense_Belenenses_2020,Belenenses,7,7,14,18
+2021-01-18,Portimonense_Belenenses_2020,Portimonense,7,7,14,18
+2021-01-21,Guimaraes_Nacional_2020,Nacional,8,6,14,19
+2021-01-21,Guimaraes_Nacional_2020,Guimaraes,7,6,13,19
+2021-01-24,Moreirense_Portimonense_2020,Portimonense,7,8,15,19
+2021-01-24,Famalicao_Guimaraes_2020,Guimaraes,7,7,14,19
+2021-01-24,Famalicao_Guimaraes_2020,Famalicao,8,7,15,19
+2021-01-24,Maritimo_Pacos Ferreira_2020,Maritimo,7,8,15,19
+2021-01-24,Moreirense_Portimonense_2020,Moreirense,8,7,15,19
+2021-01-24,Maritimo_Pacos Ferreira_2020,Pacos Ferreira,7,8,15,19
+2021-01-25,Rio Ave_Santa Clara_2020,Santa Clara,7,8,15,19
+2021-01-25,Belenenses_Tondela_2020,Tondela,8,7,15,19
+2021-01-25,Benfica_Nacional_2020,Nacional,8,7,15,19
+2021-01-25,Farense_Porto_2020,Farense,8,6,14,19
+2021-01-25,Farense_Porto_2020,Porto,8,7,15,19
+2021-01-25,Belenenses_Tondela_2020,Belenenses,8,7,15,19
+2021-01-25,Rio Ave_Santa Clara_2020,Rio Ave,7,8,15,19
+2021-01-25,Benfica_Nacional_2020,Benfica,8,7,15,19
+2021-01-26,Sp Braga_Gil Vicente_2020,Sp Braga,7,8,15,20
+2021-01-26,Boavista_Sp Lisbon_2020,Sp Lisbon,7,8,15,20
+2021-01-26,Sp Braga_Gil Vicente_2020,Gil Vicente,7,8,15,20
+2021-01-26,Boavista_Sp Lisbon_2020,Boavista,7,8,15,20
+2021-01-30,Portimonense_Boavista_2020,Portimonense,8,8,16,20
+2021-01-30,Nacional_Famalicao_2020,Nacional,9,7,16,20
+2021-01-30,Nacional_Famalicao_2020,Famalicao,8,8,16,20
+2021-01-30,Tondela_Farense_2020,Farense,8,7,15,20
+2021-01-30,Tondela_Farense_2020,Tondela,9,7,16,20
+2021-01-30,Portimonense_Boavista_2020,Boavista,7,9,16,20
+2021-01-31,Guimaraes_Maritimo_2020,Maritimo,7,9,16,20
+2021-01-31,Guimaraes_Maritimo_2020,Guimaraes,8,7,15,20
+2021-02-01,Sp Lisbon_Benfica_2020,Benfica,8,8,16,20
+2021-02-01,Santa Clara_Belenenses_2020,Santa Clara,8,8,16,20
+2021-02-01,Porto_Rio Ave_2020,Porto,9,7,16,20
+2021-02-01,Santa Clara_Belenenses_2020,Belenenses,8,8,16,20
+2021-02-01,Moreirense_Sp Braga_2020,Moreirense,9,7,16,20
+2021-02-01,Moreirense_Sp Braga_2020,Sp Braga,7,9,16,20
+2021-02-01,Porto_Rio Ave_2020,Rio Ave,7,9,16,20
+2021-02-01,Sp Lisbon_Benfica_2020,Sp Lisbon,8,8,16,20
+2021-02-02,Gil Vicente_Pacos Ferreira_2020,Pacos Ferreira,7,9,16,21
+2021-02-02,Gil Vicente_Pacos Ferreira_2020,Gil Vicente,8,8,16,21
+2021-02-04,Belenenses_Porto_2020,Belenenses,9,8,17,21
+2021-02-04,Farense_Santa Clara_2020,Santa Clara,8,9,17,21
+2021-02-04,Famalicao_Moreirense_2020,Famalicao,9,8,17,21
+2021-02-04,Sp Braga_Portimonense_2020,Sp Braga,8,9,17,21
+2021-02-04,Sp Braga_Portimonense_2020,Portimonense,8,9,17,21
+2021-02-04,Belenenses_Porto_2020,Porto,9,8,17,21
+2021-02-04,Farense_Santa Clara_2020,Farense,9,7,16,21
+2021-02-04,Famalicao_Moreirense_2020,Moreirense,9,8,17,21
+2021-02-05,Rio Ave_Nacional_2020,Rio Ave,8,9,17,21
+2021-02-05,Benfica_Guimaraes_2020,Guimaraes,8,8,16,21
+2021-02-05,Pacos Ferreira_Tondela_2020,Pacos Ferreira,8,9,17,21
+2021-02-05,Benfica_Guimaraes_2020,Benfica,9,8,17,21
+2021-02-05,Boavista_Gil Vicente_2020,Gil Vicente,8,9,17,21
+2021-02-05,Rio Ave_Nacional_2020,Nacional,9,8,17,21
+2021-02-05,Maritimo_Sp Lisbon_2020,Sp Lisbon,8,9,17,21
+2021-02-05,Pacos Ferreira_Tondela_2020,Tondela,9,8,17,21
+2021-02-05,Maritimo_Sp Lisbon_2020,Maritimo,8,9,17,21
+2021-02-05,Boavista_Gil Vicente_2020,Boavista,8,9,17,21
+2021-02-07,Sp Braga_Porto_2020,Sp Braga,9,9,18,21
+2021-02-07,Sp Braga_Porto_2020,Porto,9,9,18,21
+2021-02-08,Belenenses_Guimaraes_2020,Belenenses,10,8,18,21
+2021-02-08,Farense_Moreirense_2020,Farense,10,7,17,21
+2021-02-08,Maritimo_Santa Clara_2020,Santa Clara,8,10,18,21
+2021-02-08,Maritimo_Santa Clara_2020,Maritimo,9,9,18,21
+2021-02-08,Farense_Moreirense_2020,Moreirense,9,9,18,21
+2021-02-08,Benfica_Famalicao_2020,Famalicao,9,9,18,21
+2021-02-08,Benfica_Famalicao_2020,Benfica,10,8,18,21
+2021-02-08,Belenenses_Guimaraes_2020,Guimaraes,8,9,17,21
+2021-02-09,Gil Vicente_Sp Lisbon_2020,Gil Vicente,9,9,18,22
+2021-02-09,Gil Vicente_Sp Lisbon_2020,Sp Lisbon,8,10,18,22
+2021-02-09,Boavista_Nacional_2020,Boavista,9,9,18,22
+2021-02-09,Pacos Ferreira_Portimonense_2020,Portimonense,8,10,18,22
+2021-02-09,Rio Ave_Tondela_2020,Tondela,9,9,18,22
+2021-02-09,Pacos Ferreira_Portimonense_2020,Pacos Ferreira,9,9,18,22
+2021-02-09,Boavista_Nacional_2020,Nacional,9,9,18,22
+2021-02-09,Rio Ave_Tondela_2020,Rio Ave,9,9,18,22
+2021-02-12,Famalicao_Belenenses_2020,Belenenses,10,9,19,22
+2021-02-12,Famalicao_Belenenses_2020,Famalicao,10,9,19,22
+2021-02-13,Nacional_Farense_2020,Nacional,10,9,19,22
+2021-02-13,Porto_Boavista_2020,Boavista,9,10,19,22
+2021-02-13,Guimaraes_Rio Ave_2020,Guimaraes,9,9,18,22
+2021-02-13,Guimaraes_Rio Ave_2020,Rio Ave,9,10,19,22
+2021-02-13,Porto_Boavista_2020,Porto,10,9,19,22
+2021-02-13,Nacional_Farense_2020,Farense,10,8,18,22
+2021-02-14,Moreirense_Benfica_2020,Benfica,10,9,19,22
+2021-02-14,Santa Clara_Sp Braga_2020,Santa Clara,9,10,19,22
+2021-02-14,Santa Clara_Sp Braga_2020,Sp Braga,9,10,19,22
+2021-02-14,Portimonense_Gil Vicente_2020,Gil Vicente,9,10,19,22
+2021-02-14,Portimonense_Gil Vicente_2020,Portimonense,9,10,19,22
+2021-02-14,Moreirense_Benfica_2020,Moreirense,10,9,19,22
+2021-02-15,Sp Lisbon_Pacos Ferreira_2020,Pacos Ferreira,9,10,19,22
+2021-02-15,Sp Lisbon_Pacos Ferreira_2020,Sp Lisbon,9,10,19,22
+2021-02-16,Tondela_Maritimo_2020,Tondela,10,9,19,23
+2021-02-16,Tondela_Maritimo_2020,Maritimo,9,10,19,23
+2021-02-17,Guimaraes_Farense_2020,Farense,10,9,19,23
+2021-02-17,Guimaraes_Farense_2020,Guimaraes,10,9,19,23
+2021-02-19,Boavista_Moreirense_2020,Moreirense,10,10,20,23
+2021-02-19,Boavista_Moreirense_2020,Boavista,10,10,20,23
+2021-02-20,Belenenses_Nacional_2020,Nacional,10,10,20,23
+2021-02-20,Sp Lisbon_Portimonense_2020,Portimonense,9,11,20,23
+2021-02-20,Gil Vicente_Santa Clara_2020,Gil Vicente,10,10,20,23
+2021-02-20,Gil Vicente_Santa Clara_2020,Santa Clara,9,11,20,23
+2021-02-20,Belenenses_Nacional_2020,Belenenses,11,9,20,23
+2021-02-20,Sp Lisbon_Portimonense_2020,Sp Lisbon,10,10,20,23
+2021-02-21,Pacos Ferreira_Guimaraes_2020,Pacos Ferreira,10,10,20,23
+2021-02-21,Pacos Ferreira_Guimaraes_2020,Guimaraes,10,10,20,23
+2021-02-21,Sp Braga_Tondela_2020,Tondela,10,10,20,23
+2021-02-21,Farense_Benfica_2020,Benfica,10,10,20,23
+2021-02-21,Farense_Benfica_2020,Farense,11,9,20,23
+2021-02-21,Rio Ave_Famalicao_2020,Famalicao,10,10,20,23
+2021-02-21,Sp Braga_Tondela_2020,Sp Braga,10,10,20,23
+2021-02-21,Rio Ave_Famalicao_2020,Rio Ave,10,10,20,23
+2021-02-22,Maritimo_Porto_2020,Maritimo,10,10,20,23
+2021-02-22,Maritimo_Porto_2020,Porto,10,10,20,23
+2021-02-26,Guimaraes_Boavista_2020,Boavista,10,11,21,24
+2021-02-26,Guimaraes_Boavista_2020,Guimaraes,11,10,21,24
+2021-02-27,Famalicao_Farense_2020,Farense,11,10,21,24
+2021-02-27,Santa Clara_Pacos Ferreira_2020,Pacos Ferreira,10,11,21,24
+2021-02-27,Santa Clara_Pacos Ferreira_2020,Santa Clara,10,11,21,24
+2021-02-27,Porto_Sp Lisbon_2020,Sp Lisbon,10,11,21,24
+2021-02-27,Famalicao_Farense_2020,Famalicao,11,10,21,24
+2021-02-27,Porto_Sp Lisbon_2020,Porto,11,10,21,24
+2021-02-28,Tondela_Gil Vicente_2020,Tondela,11,10,21,24
+2021-02-28,Portimonense_Maritimo_2020,Maritimo,10,11,21,24
+2021-02-28,Portimonense_Maritimo_2020,Portimonense,10,11,21,24
+2021-02-28,Nacional_Sp Braga_2020,Nacional,11,10,21,24
+2021-02-28,Nacional_Sp Braga_2020,Sp Braga,10,11,21,24
+2021-02-28,Tondela_Gil Vicente_2020,Gil Vicente,10,11,21,24
+2021-03-01,Moreirense_Belenenses_2020,Belenenses,11,10,21,24
+2021-03-01,Benfica_Rio Ave_2020,Rio Ave,10,11,21,24
+2021-03-01,Benfica_Rio Ave_2020,Benfica,11,10,21,24
+2021-03-01,Moreirense_Belenenses_2020,Moreirense,11,10,21,24
+2021-03-05,Sp Lisbon_Santa Clara_2020,Santa Clara,10,12,22,25
+2021-03-05,Pacos Ferreira_Nacional_2020,Pacos Ferreira,11,11,22,25
+2021-03-05,Sp Lisbon_Santa Clara_2020,Sp Lisbon,11,11,22,25
+2021-03-05,Pacos Ferreira_Nacional_2020,Nacional,11,11,22,25
+2021-03-06,Gil Vicente_Porto_2020,Gil Vicente,11,11,22,25
+2021-03-06,Portimonense_Tondela_2020,Tondela,11,11,22,25
+2021-03-06,Gil Vicente_Porto_2020,Porto,11,11,22,25
+2021-03-06,Boavista_Famalicao_2020,Famalicao,11,11,22,25
+2021-03-06,Boavista_Famalicao_2020,Boavista,11,11,22,25
+2021-03-06,Portimonense_Tondela_2020,Portimonense,11,11,22,25
+2021-03-07,Maritimo_Moreirense_2020,Maritimo,11,11,22,25
+2021-03-07,Rio Ave_Farense_2020,Farense,11,11,22,25
+2021-03-07,Rio Ave_Farense_2020,Rio Ave,11,11,22,25
+2021-03-07,Maritimo_Moreirense_2020,Moreirense,11,11,22,25
+2021-03-08,Belenenses_Benfica_2020,Benfica,11,11,22,25
+2021-03-08,Belenenses_Benfica_2020,Belenenses,12,10,22,25
+2021-03-09,Sp Braga_Guimaraes_2020,Guimaraes,11,11,22,26
+2021-03-09,Sp Braga_Guimaraes_2020,Sp Braga,11,11,22,26
+2021-03-12,Nacional_Maritimo_2020,Maritimo,11,12,23,26
+2021-03-12,Nacional_Maritimo_2020,Nacional,12,11,23,26
+2021-03-13,Tondela_Sp Lisbon_2020,Sp Lisbon,11,12,23,26
+2021-03-13,Farense_Belenenses_2020,Farense,12,11,23,26
+2021-03-13,Benfica_Boavista_2020,Boavista,11,12,23,26
+2021-03-13,Benfica_Boavista_2020,Benfica,12,11,23,26
+2021-03-13,Tondela_Sp Lisbon_2020,Tondela,12,11,23,26
+2021-03-13,Santa Clara_Portimonense_2020,Santa Clara,11,12,23,26
+2021-03-13,Farense_Belenenses_2020,Belenenses,12,11,23,26
+2021-03-13,Santa Clara_Portimonense_2020,Portimonense,11,12,23,26
+2021-03-14,Porto_Pacos Ferreira_2020,Pacos Ferreira,11,12,23,26
+2021-03-14,Guimaraes_Gil Vicente_2020,Gil Vicente,11,12,23,26
+2021-03-14,Guimaraes_Gil Vicente_2020,Guimaraes,12,11,23,26
+2021-03-14,Porto_Pacos Ferreira_2020,Porto,12,11,23,26
+2021-03-14,Moreirense_Rio Ave_2020,Moreirense,12,11,23,26
+2021-03-14,Moreirense_Rio Ave_2020,Rio Ave,11,12,23,26
+2021-03-15,Famalicao_Sp Braga_2020,Sp Braga,11,12,23,26
+2021-03-15,Famalicao_Sp Braga_2020,Famalicao,12,11,23,26
+2021-03-19,Gil Vicente_Nacional_2020,Nacional,12,12,24,27
+2021-03-19,Gil Vicente_Nacional_2020,Gil Vicente,12,12,24,27
+2021-03-20,Portimonense_Porto_2020,Portimonense,12,12,24,27
+2021-03-20,Pacos Ferreira_Moreirense_2020,Pacos Ferreira,12,12,24,27
+2021-03-20,Santa Clara_Tondela_2020,Santa Clara,12,12,24,27
+2021-03-20,Pacos Ferreira_Moreirense_2020,Moreirense,12,12,24,27
+2021-03-20,Sp Lisbon_Guimaraes_2020,Sp Lisbon,12,12,24,27
+2021-03-20,Portimonense_Porto_2020,Porto,12,12,24,27
+2021-03-20,Santa Clara_Tondela_2020,Tondela,12,12,24,27
+2021-03-20,Sp Lisbon_Guimaraes_2020,Guimaraes,12,12,24,27
+2021-03-21,Rio Ave_Belenenses_2020,Rio Ave,12,12,24,27
+2021-03-21,Rio Ave_Belenenses_2020,Belenenses,12,12,24,27
+2021-03-21,Maritimo_Famalicao_2020,Maritimo,12,12,24,27
+2021-03-21,Boavista_Farense_2020,Boavista,12,12,24,27
+2021-03-21,Sp Braga_Benfica_2020,Benfica,12,12,24,27
+2021-03-21,Sp Braga_Benfica_2020,Sp Braga,12,12,24,27
+2021-03-21,Maritimo_Famalicao_2020,Famalicao,12,12,24,27
+2021-03-21,Boavista_Farense_2020,Farense,12,12,24,27
+2021-04-02,Nacional_Portimonense_2020,Nacional,13,12,25,29
+2021-04-02,Nacional_Portimonense_2020,Portimonense,12,13,25,29
+2021-04-03,Rio Ave_Gil Vicente_2020,Rio Ave,13,12,25,29
+2021-04-03,Porto_Santa Clara_2020,Porto,13,12,25,29
+2021-04-03,Porto_Santa Clara_2020,Santa Clara,12,13,25,29
+2021-04-03,Rio Ave_Gil Vicente_2020,Gil Vicente,12,13,25,29
+2021-04-04,Guimaraes_Tondela_2020,Tondela,12,13,25,29
+2021-04-04,Famalicao_Pacos Ferreira_2020,Pacos Ferreira,12,13,25,29
+2021-04-04,Belenenses_Boavista_2020,Belenenses,13,12,25,29
+2021-04-04,Belenenses_Boavista_2020,Boavista,12,13,25,29
+2021-04-04,Guimaraes_Tondela_2020,Guimaraes,13,12,25,29
+2021-04-04,Famalicao_Pacos Ferreira_2020,Famalicao,13,12,25,29
+2021-04-05,Moreirense_Sp Lisbon_2020,Moreirense,13,12,25,29
+2021-04-05,Farense_Sp Braga_2020,Sp Braga,12,13,25,29
+2021-04-05,Benfica_Maritimo_2020,Maritimo,12,13,25,29
+2021-04-05,Benfica_Maritimo_2020,Benfica,13,12,25,29
+2021-04-05,Farense_Sp Braga_2020,Farense,13,12,25,29
+2021-04-05,Moreirense_Sp Lisbon_2020,Sp Lisbon,12,13,25,29
+2021-04-09,Portimonense_Guimaraes_2020,Guimaraes,13,13,26,30
+2021-04-09,Portimonense_Guimaraes_2020,Portimonense,13,13,26,30
+2021-04-10,Boavista_Rio Ave_2020,Rio Ave,13,13,26,30
+2021-04-10,Maritimo_Farense_2020,Farense,13,13,26,30
+2021-04-10,Boavista_Rio Ave_2020,Boavista,13,13,26,30
+2021-04-10,Tondela_Porto_2020,Porto,13,13,26,30
+2021-04-10,Tondela_Porto_2020,Tondela,13,13,26,30
+2021-04-10,Maritimo_Farense_2020,Maritimo,13,13,26,30
+2021-04-10,Pacos Ferreira_Benfica_2020,Pacos Ferreira,13,13,26,30
+2021-04-10,Pacos Ferreira_Benfica_2020,Benfica,13,13,26,30
+2021-04-11,Sp Braga_Belenenses_2020,Sp Braga,13,13,26,30
+2021-04-11,Sp Lisbon_Famalicao_2020,Famalicao,13,13,26,30
+2021-04-11,Sp Braga_Belenenses_2020,Belenenses,13,13,26,30
+2021-04-11,Gil Vicente_Moreirense_2020,Gil Vicente,13,13,26,30
+2021-04-11,Sp Lisbon_Famalicao_2020,Sp Lisbon,13,13,26,30
+2021-04-11,Gil Vicente_Moreirense_2020,Moreirense,13,13,26,30
+2021-04-11,Santa Clara_Nacional_2020,Santa Clara,13,13,26,30
+2021-04-11,Santa Clara_Nacional_2020,Nacional,13,13,26,30
+2021-04-16,Farense_Sp Lisbon_2020,Sp Lisbon,13,14,27,31
+2021-04-16,Boavista_Pacos Ferreira_2020,Pacos Ferreira,13,14,27,31
+2021-04-16,Boavista_Pacos Ferreira_2020,Boavista,14,13,27,31
+2021-04-16,Farense_Sp Lisbon_2020,Farense,14,13,27,31
+2021-04-17,Guimaraes_Santa Clara_2020,Guimaraes,14,13,27,31
+2021-04-17,Moreirense_Tondela_2020,Tondela,13,14,27,31
+2021-04-17,Rio Ave_Sp Braga_2020,Rio Ave,14,13,27,31
+2021-04-17,Guimaraes_Santa Clara_2020,Santa Clara,13,14,27,31
+2021-04-17,Belenenses_Maritimo_2020,Belenenses,14,13,27,31
+2021-04-17,Rio Ave_Sp Braga_2020,Sp Braga,13,14,27,31
+2021-04-17,Benfica_Gil Vicente_2020,Benfica,14,13,27,31
+2021-04-17,Belenenses_Maritimo_2020,Maritimo,13,14,27,31
+2021-04-17,Moreirense_Tondela_2020,Moreirense,14,13,27,31
+2021-04-17,Benfica_Gil Vicente_2020,Gil Vicente,13,14,27,31
+2021-04-18,Famalicao_Portimonense_2020,Famalicao,14,13,27,31
+2021-04-18,Nacional_Porto_2020,Porto,13,14,27,31
+2021-04-18,Famalicao_Portimonense_2020,Portimonense,13,14,27,31
+2021-04-18,Nacional_Porto_2020,Nacional,14,13,27,31
+2021-04-20,Pacos Ferreira_Farense_2020,Pacos Ferreira,14,14,28,32
+2021-04-20,Pacos Ferreira_Farense_2020,Farense,14,14,28,32
+2021-04-21,Sp Lisbon_Belenenses_2020,Belenenses,14,14,28,32
+2021-04-21,Sp Braga_Boavista_2020,Sp Braga,14,14,28,32
+2021-04-21,Maritimo_Rio Ave_2020,Rio Ave,14,14,28,32
+2021-04-21,Sp Lisbon_Belenenses_2020,Sp Lisbon,14,14,28,32
+2021-04-21,Maritimo_Rio Ave_2020,Maritimo,14,14,28,32
+2021-04-21,Santa Clara_Moreirense_2020,Moreirense,14,14,28,32
+2021-04-21,Sp Braga_Boavista_2020,Boavista,14,14,28,32
+2021-04-21,Santa Clara_Moreirense_2020,Santa Clara,14,14,28,32
+2021-04-22,Tondela_Nacional_2020,Tondela,14,14,28,32
+2021-04-22,Porto_Guimaraes_2020,Porto,14,14,28,32
+2021-04-22,Portimonense_Benfica_2020,Portimonense,14,14,28,32
+2021-04-22,Gil Vicente_Famalicao_2020,Famalicao,14,14,28,32
+2021-04-22,Gil Vicente_Famalicao_2020,Gil Vicente,14,14,28,32
+2021-04-22,Porto_Guimaraes_2020,Guimaraes,14,14,28,32
+2021-04-22,Tondela_Nacional_2020,Nacional,14,14,28,32
+2021-04-22,Portimonense_Benfica_2020,Benfica,14,14,28,32
+2021-04-25,Sp Braga_Sp Lisbon_2020,Sp Braga,15,14,29,32
+2021-04-25,Boavista_Maritimo_2020,Boavista,15,14,29,32
+2021-04-25,Sp Braga_Sp Lisbon_2020,Sp Lisbon,14,15,29,32
+2021-04-25,Rio Ave_Pacos Ferreira_2020,Rio Ave,15,14,29,32
+2021-04-25,Rio Ave_Pacos Ferreira_2020,Pacos Ferreira,14,15,29,32
+2021-04-25,Boavista_Maritimo_2020,Maritimo,14,15,29,32
+2021-04-26,Nacional_Guimaraes_2020,Guimaraes,14,15,29,32
+2021-04-26,Famalicao_Tondela_2020,Tondela,14,15,29,32
+2021-04-26,Belenenses_Gil Vicente_2020,Gil Vicente,14,15,29,32
+2021-04-26,Moreirense_Porto_2020,Moreirense,15,14,29,32
+2021-04-26,Nacional_Guimaraes_2020,Nacional,15,14,29,32
+2021-04-26,Belenenses_Gil Vicente_2020,Belenenses,15,14,29,32
+2021-04-26,Moreirense_Porto_2020,Porto,14,15,29,32
+2021-04-26,Benfica_Santa Clara_2020,Benfica,15,14,29,32
+2021-04-26,Benfica_Santa Clara_2020,Santa Clara,14,15,29,32
+2021-04-26,Famalicao_Tondela_2020,Famalicao,15,14,29,32
+2021-04-27,Farense_Portimonense_2020,Portimonense,14,15,29,33
+2021-04-27,Farense_Portimonense_2020,Farense,15,14,29,33
+2021-04-29,Maritimo_Sp Braga_2020,Maritimo,15,15,30,33
+2021-04-29,Maritimo_Sp Braga_2020,Sp Braga,15,15,30,33

@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-08-12,Gil Vicente_Benfica_2011,Benfica,1,1,1,1
+2011-08-12,Gil Vicente_Benfica_2011,Gil Vicente,1,1,1,1
+2011-08-13,Rio Ave_Sp Braga_2011,Rio Ave,1,1,1,1
+2011-08-13,Sp Lisbon_Olhanense_2011,Sp Lisbon,1,1,1,1
+2011-08-13,Sp Lisbon_Olhanense_2011,Olhanense,1,1,1,1
+2011-08-13,Rio Ave_Sp Braga_2011,Sp Braga,1,1,1,1
+2011-08-14,Feirense _Nacional_2011,Nacional,1,1,1,1
+2011-08-14,Maritimo_Beira Mar_2011,Beira Mar,1,1,1,1
+2011-08-14,Feirense _Nacional_2011,Feirense ,1,1,1,1
+2011-08-14,Setubal_Pacos Ferreira_2011,Setubal,1,1,1,1
+2011-08-14,Guimaraes_Porto_2011,Porto,1,1,1,1
+2011-08-14,Guimaraes_Porto_2011,Guimaraes,1,1,1,1
+2011-08-14,Setubal_Pacos Ferreira_2011,Pacos Ferreira,1,1,1,1
+2011-08-14,Maritimo_Beira Mar_2011,Maritimo,1,1,1,1
+2011-08-15,Leiria_Academica_2011,Academica,1,1,1,1
+2011-08-15,Leiria_Academica_2011,Leiria,1,1,1,1
+2011-08-19,Porto_Gil Vicente_2011,Porto,1,1,2,2
+2011-08-19,Porto_Gil Vicente_2011,Gil Vicente,1,1,2,2
+2011-08-20,Benfica_Feirense_2011,Benfica,1,1,2,2
+2011-08-20,Benfica_Feirense_2011,Feirense,1,1,1,2
+2011-08-21,Beira Mar_Sp Lisbon_2011,Beira Mar,1,1,2,2
+2011-08-21,Pacos Ferreira_Leiria_2011,Pacos Ferreira,1,1,2,2
+2011-08-21,Sp Braga_Maritimo_2011,Maritimo,1,1,2,2
+2011-08-21,Pacos Ferreira_Leiria_2011,Leiria,1,1,2,2
+2011-08-21,Academica_Rio Ave_2011,Rio Ave,1,1,2,2
+2011-08-21,Academica_Rio Ave_2011,Academica,1,1,2,2
+2011-08-21,Sp Braga_Maritimo_2011,Sp Braga,1,1,2,2
+2011-08-21,Beira Mar_Sp Lisbon_2011,Sp Lisbon,1,1,2,2
+2011-08-22,Olhanense_Setubal_2011,Olhanense,1,1,2,2
+2011-08-22,Olhanense_Setubal_2011,Setubal,1,1,2,2
+2011-08-27,Gil Vicente_Academica_2011,Academica,1,2,3,3
+2011-08-27,Gil Vicente_Academica_2011,Gil Vicente,2,1,3,3
+2011-08-28,Sp Lisbon_Maritimo_2011,Sp Lisbon,2,1,3,3
+2011-08-28,Feirense_Pacos Ferreira_2011,Feirense,1,1,2,3
+2011-08-28,Feirense_Pacos Ferreira_2011,Pacos Ferreira,1,2,3,3
+2011-08-28,Guimaraes_Beira Mar_2011,Guimaraes,2,1,2,3
+2011-08-28,Rio Ave_Olhanense_2011,Rio Ave,2,1,3,3
+2011-08-28,Sp Lisbon_Maritimo_2011,Maritimo,1,2,3,3
+2011-08-28,Guimaraes_Beira Mar_2011,Beira Mar,1,2,3,3
+2011-08-28,Rio Ave_Olhanense_2011,Olhanense,1,2,3,3
+2011-08-29,Setubal_Sp Braga_2011,Setubal,2,1,3,3
+2011-08-29,Nacional_Benfica_2011,Nacional,1,1,2,3
+2011-08-29,Setubal_Sp Braga_2011,Sp Braga,1,2,3,3
+2011-08-29,Nacional_Benfica_2011,Benfica,1,2,3,3
+2011-09-04,Nacional_Guimaraes_2011,Guimaraes,2,1,3,4
+2011-09-04,Nacional_Guimaraes_2011,Nacional,2,1,3,4
+2011-09-06,Leiria_Porto_2011,Porto,1,2,3,5
+2011-09-06,Leiria_Porto_2011,Leiria,2,1,3,5
+2011-09-09,Porto_Setubal_2011,Setubal,2,2,4,5
+2011-09-09,Porto_Setubal_2011,Porto,2,2,4,5
+2011-09-10,Benfica_Guimaraes_2011,Benfica,2,2,4,5
+2011-09-10,Benfica_Guimaraes_2011,Guimaraes,2,2,4,5
+2011-09-10,Pacos Ferreira_Sp Lisbon_2011,Sp Lisbon,2,2,4,5
+2011-09-10,Pacos Ferreira_Sp Lisbon_2011,Pacos Ferreira,2,2,4,5
+2011-09-11,Sp Braga_Gil Vicente_2011,Sp Braga,2,2,4,5
+2011-09-11,Olhanense_Feirense_2011,Olhanense,2,2,4,5
+2011-09-11,Maritimo_Rio Ave_2011,Maritimo,2,2,4,5
+2011-09-11,Olhanense_Feirense_2011,Feirense,1,2,3,5
+2011-09-11,Beira Mar_Leiria_2011,Leiria,2,2,4,5
+2011-09-11,Maritimo_Rio Ave_2011,Rio Ave,2,2,4,5
+2011-09-11,Beira Mar_Leiria_2011,Beira Mar,2,2,4,5
+2011-09-11,Sp Braga_Gil Vicente_2011,Gil Vicente,2,2,4,5
+2011-09-12,Academica_Nacional_2011,Nacional,2,2,4,5
+2011-09-12,Academica_Nacional_2011,Academica,2,2,4,5
+2011-09-16,Gil Vicente_Olhanense_2011,Olhanense,2,3,5,6
+2011-09-16,Gil Vicente_Olhanense_2011,Gil Vicente,3,2,5,6
+2011-09-17,Nacional_Pacos Ferreira_2011,Nacional,3,2,5,6
+2011-09-17,Nacional_Pacos Ferreira_2011,Pacos Ferreira,2,3,5,6
+2011-09-18,Feirense_Porto_2011,Porto,2,3,5,6
+2011-09-18,Feirense_Porto_2011,Feirense,2,2,4,6
+2011-09-18,Benfica_Academica_2011,Academica,2,3,5,6
+2011-09-18,Leiria_Maritimo_2011,Maritimo,2,3,5,6
+2011-09-18,Benfica_Academica_2011,Benfica,3,2,5,6
+2011-09-18,Setubal_Beira Mar_2011,Beira Mar,2,3,5,6
+2011-09-18,Setubal_Beira Mar_2011,Setubal,3,2,5,6
+2011-09-18,Leiria_Maritimo_2011,Leiria,3,2,5,6
+2011-09-19,Guimaraes_Sp Braga_2011,Guimaraes,3,2,5,6
+2011-09-19,Guimaraes_Sp Braga_2011,Sp Braga,2,3,5,6
+2011-09-19,Rio Ave_Sp Lisbon_2011,Sp Lisbon,2,3,5,6
+2011-09-19,Rio Ave_Sp Lisbon_2011,Rio Ave,3,2,5,6
+2011-09-23,Porto_Benfica_2011,Porto,3,3,6,7
+2011-09-23,Porto_Benfica_2011,Benfica,3,3,6,7
+2011-09-24,Sp Lisbon_Setubal_2011,Setubal,3,3,6,7
+2011-09-24,Sp Braga_Nacional_2011,Nacional,3,3,6,7
+2011-09-24,Sp Braga_Nacional_2011,Sp Braga,3,3,6,7
+2011-09-24,Sp Lisbon_Setubal_2011,Sp Lisbon,3,3,6,7
+2011-09-25,Olhanense_Leiria_2011,Leiria,3,3,6,7
+2011-09-25,Maritimo_Guimaraes_2011,Maritimo,3,3,6,7
+2011-09-25,Maritimo_Guimaraes_2011,Guimaraes,3,3,6,7
+2011-09-25,Beira Mar_Rio Ave_2011,Beira Mar,3,3,6,7
+2011-09-25,Pacos Ferreira_Gil Vicente_2011,Gil Vicente,3,3,6,7
+2011-09-25,Olhanense_Leiria_2011,Olhanense,3,3,6,7
+2011-09-25,Beira Mar_Rio Ave_2011,Rio Ave,3,3,6,7
+2011-09-25,Pacos Ferreira_Gil Vicente_2011,Pacos Ferreira,3,3,6,7
+2011-09-26,Academica_Feirense_2011,Feirense,2,3,5,7
+2011-09-26,Academica_Feirense_2011,Academica,3,3,6,7
+2011-09-30,Setubal_Rio Ave_2011,Rio Ave,3,4,7,8
+2011-09-30,Setubal_Rio Ave_2011,Setubal,4,3,7,8
+2011-10-01,Benfica_Pacos Ferreira_2011,Pacos Ferreira,3,4,7,8
+2011-10-01,Benfica_Pacos Ferreira_2011,Benfica,4,3,7,8
+2011-10-02,Nacional_Olhanense_2011,Nacional,4,3,7,8
+2011-10-02,Nacional_Olhanense_2011,Olhanense,3,4,7,8
+2011-10-02,Leiria_Sp Braga_2011,Sp Braga,3,4,7,8
+2011-10-02,Feirense_Maritimo_2011,Feirense,3,3,6,8
+2011-10-02,Academica_Porto_2011,Academica,4,3,7,8
+2011-10-02,Leiria_Sp Braga_2011,Leiria,4,3,7,8
+2011-10-02,Feirense_Maritimo_2011,Maritimo,3,4,7,8
+2011-10-02,Guimaraes_Sp Lisbon_2011,Sp Lisbon,3,4,7,8
+2011-10-02,Academica_Porto_2011,Porto,3,4,7,8
+2011-10-02,Guimaraes_Sp Lisbon_2011,Guimaraes,4,3,7,8
+2011-10-03,Gil Vicente_Beira Mar_2011,Gil Vicente,4,3,7,8
+2011-10-03,Gil Vicente_Beira Mar_2011,Beira Mar,3,4,7,8
+2011-10-21,Pacos Ferreira_Academica_2011,Pacos Ferreira,4,4,8,11
+2011-10-21,Pacos Ferreira_Academica_2011,Academica,4,4,8,11
+2011-10-22,Olhanense_Guimaraes_2011,Olhanense,4,4,8,11
+2011-10-22,Olhanense_Guimaraes_2011,Guimaraes,4,4,8,11
+2011-10-22,Beira Mar_Benfica_2011,Beira Mar,4,4,8,11
+2011-10-22,Beira Mar_Benfica_2011,Benfica,4,4,8,11
+2011-10-23,Maritimo_Setubal_2011,Setubal,4,4,8,11
+2011-10-23,Sp Braga_Feirense_2011,Feirense,3,4,7,11
+2011-10-23,Porto_Nacional_2011,Nacional,4,4,8,11
+2011-10-23,Porto_Nacional_2011,Porto,4,4,8,11
+2011-10-23,Rio Ave_Leiria_2011,Rio Ave,4,4,8,11
+2011-10-23,Sp Braga_Feirense_2011,Sp Braga,4,4,8,11
+2011-10-23,Rio Ave_Leiria_2011,Leiria,4,4,8,11
+2011-10-23,Maritimo_Setubal_2011,Maritimo,4,4,8,11
+2011-10-24,Sp Lisbon_Gil Vicente_2011,Sp Lisbon,4,4,8,11
+2011-10-24,Sp Lisbon_Gil Vicente_2011,Gil Vicente,4,4,8,11
+2011-10-28,Porto_Pacos Ferreira_2011,Porto,5,4,9,12
+2011-10-28,Porto_Pacos Ferreira_2011,Pacos Ferreira,4,5,9,12
+2011-10-29,Benfica_Olhanense_2011,Olhanense,4,5,9,12
+2011-10-29,Academica_Sp Braga_2011,Sp Braga,4,5,9,12
+2011-10-29,Academica_Sp Braga_2011,Academica,5,4,9,12
+2011-10-29,Benfica_Olhanense_2011,Benfica,5,4,9,12
+2011-10-30,Feirense_Sp Lisbon_2011,Sp Lisbon,4,5,9,12
+2011-10-30,Nacional_Beira Mar_2011,Nacional,5,4,9,12
+2011-10-30,Guimaraes_Rio Ave_2011,Rio Ave,4,5,9,12
+2011-10-30,Feirense_Sp Lisbon_2011,Feirense,4,4,8,12
+2011-10-30,Leiria_Setubal_2011,Setubal,4,5,9,12
+2011-10-30,Nacional_Beira Mar_2011,Beira Mar,4,5,9,12
+2011-10-30,Guimaraes_Rio Ave_2011,Guimaraes,5,4,9,12
+2011-10-30,Leiria_Setubal_2011,Leiria,5,4,9,12
+2011-11-01,Gil Vicente_Maritimo_2011,Gil Vicente,5,4,9,13
+2011-11-01,Gil Vicente_Maritimo_2011,Maritimo,4,5,9,13
+2011-11-04,Pacos Ferreira_Guimaraes_2011,Pacos Ferreira,5,5,10,13
+2011-11-04,Pacos Ferreira_Guimaraes_2011,Guimaraes,5,5,10,13
+2011-11-05,Maritimo_Academica_2011,Academica,5,5,10,13
+2011-11-05,Olhanense_Porto_2011,Olhanense,5,5,10,13
+2011-11-05,Maritimo_Academica_2011,Maritimo,5,5,10,13
+2011-11-05,Olhanense_Porto_2011,Porto,5,5,10,13
+2011-11-06,Setubal_Gil Vicente_2011,Gil Vicente,5,5,10,13
+2011-11-06,Setubal_Gil Vicente_2011,Setubal,5,5,10,13
+2011-11-06,Beira Mar_Feirense_2011,Feirense,4,5,9,13
+2011-11-06,Sp Lisbon_Leiria_2011,Sp Lisbon,5,5,10,13
+2011-11-06,Sp Lisbon_Leiria_2011,Leiria,5,5,10,13
+2011-11-06,Sp Braga_Benfica_2011,Benfica,5,5,10,13
+2011-11-06,Beira Mar_Feirense_2011,Beira Mar,5,5,10,13
+2011-11-06,Sp Braga_Benfica_2011,Sp Braga,5,5,10,13
+2011-11-06,Rio Ave_Nacional_2011,Nacional,5,5,10,13
+2011-11-06,Rio Ave_Nacional_2011,Rio Ave,5,5,10,13
+2011-11-25,Academica_Beira Mar_2011,Beira Mar,5,6,11,16
+2011-11-25,Academica_Beira Mar_2011,Academica,6,5,11,16
+2011-11-26,Nacional_Maritimo_2011,Nacional,6,5,11,16
+2011-11-26,Benfica_Sp Lisbon_2011,Benfica,6,5,11,16
+2011-11-26,Benfica_Sp Lisbon_2011,Sp Lisbon,5,6,11,16
+2011-11-26,Nacional_Maritimo_2011,Maritimo,5,6,11,16
+2011-11-27,Pacos Ferreira_Olhanense_2011,Olhanense,5,6,11,16
+2011-11-27,Porto_Sp Braga_2011,Sp Braga,5,6,11,16
+2011-11-27,Feirense_Rio Ave_2011,Feirense,5,5,10,16
+2011-11-27,Porto_Sp Braga_2011,Porto,6,5,11,16
+2011-11-27,Feirense_Rio Ave_2011,Rio Ave,5,6,11,16
+2011-11-27,Pacos Ferreira_Olhanense_2011,Pacos Ferreira,6,5,11,16
+2011-11-27,Gil Vicente_Leiria_2011,Leiria,5,6,11,16
+2011-11-27,Gil Vicente_Leiria_2011,Gil Vicente,6,5,11,16
+2011-11-28,Guimaraes_Setubal_2011,Setubal,5,6,11,16
+2011-11-28,Guimaraes_Setubal_2011,Guimaraes,6,5,11,16
+2011-12-09,Sp Braga_Pacos Ferreira_2011,Sp Braga,6,6,12,18
+2011-12-09,Sp Braga_Pacos Ferreira_2011,Pacos Ferreira,6,6,12,18
+2011-12-10,Beira Mar_Porto_2011,Porto,6,6,12,18
+2011-12-10,Sp Lisbon_Nacional_2011,Sp Lisbon,6,6,12,18
+2011-12-10,Beira Mar_Porto_2011,Beira Mar,6,6,12,18
+2011-12-10,Sp Lisbon_Nacional_2011,Nacional,6,6,12,18
+2011-12-11,Setubal_Feirense_2011,Setubal,6,6,12,18
+2011-12-11,Rio Ave_Gil Vicente_2011,Rio Ave,6,6,12,18
+2011-12-11,Setubal_Feirense_2011,Feirense,5,6,11,18
+2011-12-11,Rio Ave_Gil Vicente_2011,Gil Vicente,6,6,12,18
+2011-12-11,Maritimo_Benfica_2011,Benfica,6,6,12,18
+2011-12-11,Leiria_Guimaraes_2011,Guimaraes,6,6,12,18
+2011-12-11,Maritimo_Benfica_2011,Maritimo,6,6,12,18
+2011-12-11,Leiria_Guimaraes_2011,Leiria,6,6,12,18
+2011-12-12,Olhanense_Academica_2011,Olhanense,6,6,12,18
+2011-12-12,Olhanense_Academica_2011,Academica,6,6,12,18
+2011-12-16,Benfica_Rio Ave_2011,Rio Ave,6,7,13,19
+2011-12-16,Benfica_Rio Ave_2011,Benfica,7,6,13,19
+2011-12-17,Guimaraes_Gil Vicente_2011,Guimaraes,7,6,13,19
+2011-12-17,Porto_Maritimo_2011,Porto,7,6,13,19
+2011-12-17,Guimaraes_Gil Vicente_2011,Gil Vicente,6,7,13,19
+2011-12-17,Porto_Maritimo_2011,Maritimo,6,7,13,19
+2011-12-18,Nacional_Setubal_2011,Setubal,6,7,13,19
+2011-12-18,Pacos Ferreira_Beira Mar_2011,Beira Mar,6,7,13,19
+2011-12-18,Nacional_Setubal_2011,Nacional,7,6,13,19
+2011-12-18,Academica_Sp Lisbon_2011,Sp Lisbon,6,7,13,19
+2011-12-18,Academica_Sp Lisbon_2011,Academica,7,6,13,19
+2011-12-18,Feirense_Leiria_2011,Feirense,6,6,12,19
+2011-12-18,Feirense_Leiria_2011,Leiria,6,7,13,19
+2011-12-18,Pacos Ferreira_Beira Mar_2011,Pacos Ferreira,7,6,13,19
+2011-12-19,Olhanense_Sp Braga_2011,Olhanense,7,6,13,19
+2011-12-19,Olhanense_Sp Braga_2011,Sp Braga,6,7,13,19
+2012-01-06,Setubal_Academica_2011,Setubal,7,7,14,22
+2012-01-06,Setubal_Academica_2011,Academica,7,7,14,22
+2012-01-07,Sp Lisbon_Porto_2011,Porto,7,7,14,22
+2012-01-07,Sp Lisbon_Porto_2011,Sp Lisbon,7,7,14,22
+2012-01-08,Rio Ave_Pacos Ferreira_2011,Pacos Ferreira,7,7,14,22
+2012-01-08,Gil Vicente_Nacional_2011,Nacional,7,7,14,22
+2012-01-08,Rio Ave_Pacos Ferreira_2011,Rio Ave,7,7,14,22
+2012-01-08,Maritimo_Olhanense_2011,Olhanense,7,7,14,22
+2012-01-08,Gil Vicente_Nacional_2011,Gil Vicente,7,7,14,22
+2012-01-08,Guimaraes_Feirense_2011,Guimaraes,8,6,14,22
+2012-01-08,Maritimo_Olhanense_2011,Maritimo,7,7,14,22
+2012-01-08,Leiria_Benfica_2011,Benfica,7,7,14,22
+2012-01-08,Guimaraes_Feirense_2011,Feirense,6,7,13,22
+2012-01-08,Leiria_Benfica_2011,Leiria,7,7,14,22
+2012-01-09,Beira Mar_Sp Braga_2011,Sp Braga,6,8,14,22
+2012-01-09,Beira Mar_Sp Braga_2011,Beira Mar,7,7,14,22
+2012-01-13,Pacos Ferreira_Maritimo_2011,Pacos Ferreira,8,7,15,23
+2012-01-13,Pacos Ferreira_Maritimo_2011,Maritimo,7,8,15,23
+2012-01-14,Porto_Rio Ave_2011,Rio Ave,7,8,15,23
+2012-01-14,Feirense_Gil Vicente_2011,Feirense,7,7,14,23
+2012-01-14,Porto_Rio Ave_2011,Porto,8,7,15,23
+2012-01-14,Benfica_Setubal_2011,Setubal,7,8,15,23
+2012-01-14,Benfica_Setubal_2011,Benfica,8,7,15,23
+2012-01-14,Feirense_Gil Vicente_2011,Gil Vicente,7,8,15,23
+2012-01-15,Academica_Guimaraes_2011,Academica,8,7,15,23
+2012-01-15,Nacional_Leiria_2011,Leiria,7,8,15,23
+2012-01-15,Olhanense_Beira Mar_2011,Beira Mar,7,8,15,23
+2012-01-15,Olhanense_Beira Mar_2011,Olhanense,8,7,15,23
+2012-01-15,Nacional_Leiria_2011,Nacional,8,7,15,23
+2012-01-15,Academica_Guimaraes_2011,Guimaraes,8,7,15,23
+2012-01-15,Sp Braga_Sp Lisbon_2011,Sp Lisbon,7,8,15,23
+2012-01-15,Sp Braga_Sp Lisbon_2011,Sp Braga,7,8,15,23
+2012-01-20,Academica_Leiria_2011,Leiria,7,9,16,24
+2012-01-20,Academica_Leiria_2011,Academica,9,7,16,24
+2012-01-21,Beira Mar_Maritimo_2011,Beira Mar,8,8,16,24
+2012-01-21,Beira Mar_Maritimo_2011,Maritimo,7,9,16,24
+2012-01-22,Sp Braga_Rio Ave_2011,Sp Braga,8,8,16,24
+2012-01-22,Porto_Guimaraes_2011,Porto,9,7,16,24
+2012-01-22,Porto_Guimaraes_2011,Guimaraes,8,8,16,24
+2012-01-22,Pacos Ferreira_Setubal_2011,Pacos Ferreira,9,7,16,24
+2012-01-22,Nacional_Feirense_2011,Nacional,9,7,16,24
+2012-01-22,Pacos Ferreira_Setubal_2011,Setubal,7,9,16,24
+2012-01-22,Nacional_Feirense_2011,Feirense,7,8,15,24
+2012-01-22,Benfica_Gil Vicente_2011,Benfica,9,7,16,24
+2012-01-22,Sp Braga_Rio Ave_2011,Rio Ave,7,9,16,24
+2012-01-22,Benfica_Gil Vicente_2011,Gil Vicente,7,9,16,24
+2012-01-23,Olhanense_Sp Lisbon_2011,Sp Lisbon,7,9,16,24
+2012-01-23,Olhanense_Sp Lisbon_2011,Olhanense,9,7,16,24
+2012-01-27,Guimaraes_Nacional_2011,Guimaraes,9,8,17,25
+2012-01-27,Guimaraes_Nacional_2011,Nacional,9,8,17,25
+2012-01-28,Feirense_Benfica_2011,Benfica,9,8,17,25
+2012-01-28,Feirense_Benfica_2011,Feirense,8,8,16,25
+2012-01-28,Rio Ave_Academica_2011,Rio Ave,8,9,17,25
+2012-01-28,Rio Ave_Academica_2011,Academica,9,8,17,25
+2012-01-29,Setubal_Olhanense_2011,Setubal,8,9,17,25
+2012-01-29,Sp Lisbon_Beira Mar_2011,Sp Lisbon,8,9,17,25
+2012-01-29,Gil Vicente_Porto_2011,Porto,9,8,17,25
+2012-01-29,Leiria_Pacos Ferreira_2011,Leiria,8,9,17,25
+2012-01-29,Setubal_Olhanense_2011,Olhanense,9,8,17,25
+2012-01-29,Leiria_Pacos Ferreira_2011,Pacos Ferreira,9,8,17,25
+2012-01-29,Sp Lisbon_Beira Mar_2011,Beira Mar,8,9,17,25
+2012-01-29,Gil Vicente_Porto_2011,Gil Vicente,8,9,17,25
+2012-01-30,Maritimo_Sp Braga_2011,Sp Braga,8,9,17,25
+2012-01-30,Maritimo_Sp Braga_2011,Maritimo,8,9,17,25
+2012-02-10,Sp Braga_Setubal_2011,Sp Braga,9,9,18,27
+2012-02-10,Sp Braga_Setubal_2011,Setubal,8,10,18,27
+2012-02-11,Benfica_Nacional_2011,Nacional,9,9,18,27
+2012-02-11,Maritimo_Sp Lisbon_2011,Maritimo,9,9,18,27
+2012-02-11,Maritimo_Sp Lisbon_2011,Sp Lisbon,8,10,18,27
+2012-02-11,Benfica_Nacional_2011,Benfica,10,8,18,27
+2012-02-12,Pacos Ferreira_Feirense_2011,Feirense,8,9,17,27
+2012-02-12,Porto_Leiria_2011,Leiria,8,10,18,27
+2012-02-12,Porto_Leiria_2011,Porto,10,8,18,27
+2012-02-12,Beira Mar_Guimaraes_2011,Beira Mar,9,9,18,27
+2012-02-12,Olhanense_Rio Ave_2011,Rio Ave,8,10,18,27
+2012-02-12,Olhanense_Rio Ave_2011,Olhanense,10,8,18,27
+2012-02-12,Pacos Ferreira_Feirense_2011,Pacos Ferreira,10,8,18,27
+2012-02-12,Beira Mar_Guimaraes_2011,Guimaraes,9,9,18,27
+2012-02-13,Academica_Gil Vicente_2011,Gil Vicente,8,10,18,27
+2012-02-13,Academica_Gil Vicente_2011,Academica,10,8,18,27
+2012-02-17,Rio Ave_Maritimo_2011,Maritimo,9,10,19,28
+2012-02-17,Rio Ave_Maritimo_2011,Rio Ave,9,10,19,28
+2012-02-18,Gil Vicente_Sp Braga_2011,Sp Braga,9,10,19,28
+2012-02-18,Gil Vicente_Sp Braga_2011,Gil Vicente,9,10,19,28
+2012-02-19,Leiria_Beira Mar_2011,Beira Mar,9,10,19,28
+2012-02-19,Setubal_Porto_2011,Setubal,9,10,19,28
+2012-02-19,Feirense_Olhanense_2011,Olhanense,10,9,19,28
+2012-02-19,Setubal_Porto_2011,Porto,10,9,19,28
+2012-02-19,Nacional_Academica_2011,Nacional,10,9,19,28
+2012-02-19,Sp Lisbon_Pacos Ferreira_2011,Pacos Ferreira,10,9,19,28
+2012-02-19,Feirense_Olhanense_2011,Feirense,9,9,18,28
+2012-02-19,Sp Lisbon_Pacos Ferreira_2011,Sp Lisbon,9,10,19,28
+2012-02-19,Leiria_Beira Mar_2011,Leiria,9,10,19,28
+2012-02-19,Nacional_Academica_2011,Academica,10,9,19,28
+2012-02-20,Guimaraes_Benfica_2011,Guimaraes,10,9,19,28
+2012-02-20,Guimaraes_Benfica_2011,Benfica,10,9,19,28
+2012-02-24,Maritimo_Leiria_2011,Maritimo,10,10,20,29
+2012-02-24,Maritimo_Leiria_2011,Leiria,9,11,20,29
+2012-02-25,Academica_Benfica_2011,Academica,11,9,20,29
+2012-02-25,Academica_Benfica_2011,Benfica,10,10,20,29
+2012-02-26,Porto_Feirense_2011,Porto,11,9,20,29
+2012-02-26,Pacos Ferreira_Nacional_2011,Pacos Ferreira,11,9,20,29
+2012-02-26,Sp Lisbon_Rio Ave_2011,Sp Lisbon,10,10,20,29
+2012-02-26,Beira Mar_Setubal_2011,Setubal,9,11,20,29
+2012-02-26,Sp Lisbon_Rio Ave_2011,Rio Ave,9,11,20,29
+2012-02-26,Pacos Ferreira_Nacional_2011,Nacional,10,10,20,29
+2012-02-26,Olhanense_Gil Vicente_2011,Olhanense,11,9,20,29
+2012-02-26,Beira Mar_Setubal_2011,Beira Mar,10,10,20,29
+2012-02-26,Olhanense_Gil Vicente_2011,Gil Vicente,9,11,20,29
+2012-02-26,Porto_Feirense_2011,Feirense,9,10,19,29
+2012-02-27,Sp Braga_Guimaraes_2011,Guimaraes,10,10,20,29
+2012-02-27,Sp Braga_Guimaraes_2011,Sp Braga,10,10,20,29
+2012-03-02,Benfica_Porto_2011,Benfica,11,10,21,30
+2012-03-02,Benfica_Porto_2011,Porto,11,10,21,30
+2012-03-03,Nacional_Sp Braga_2011,Nacional,11,10,21,30
+2012-03-03,Nacional_Sp Braga_2011,Sp Braga,10,11,21,30
+2012-03-03,Setubal_Sp Lisbon_2011,Setubal,10,11,21,30
+2012-03-03,Setubal_Sp Lisbon_2011,Sp Lisbon,10,11,21,30
+2012-03-04,Guimaraes_Maritimo_2011,Maritimo,10,11,21,30
+2012-03-04,Guimaraes_Maritimo_2011,Guimaraes,11,10,21,30
+2012-03-04,Gil Vicente_Pacos Ferreira_2011,Gil Vicente,10,11,21,30
+2012-03-04,Gil Vicente_Pacos Ferreira_2011,Pacos Ferreira,11,10,21,30
+2012-03-04,Rio Ave_Beira Mar_2011,Beira Mar,10,11,21,30
+2012-03-04,Feirense_Academica_2011,Academica,11,10,21,30
+2012-03-04,Rio Ave_Beira Mar_2011,Rio Ave,10,11,21,30
+2012-03-04,Feirense_Academica_2011,Feirense,10,10,20,30
+2012-03-05,Leiria_Olhanense_2011,Olhanense,11,10,21,30
+2012-03-05,Leiria_Olhanense_2011,Leiria,10,11,21,30
+2012-03-09,Maritimo_Feirense_2011,Maritimo,11,11,22,31
+2012-03-09,Maritimo_Feirense_2011,Feirense,10,11,21,31
+2012-03-10,Sp Braga_Leiria_2011,Leiria,10,12,22,31
+2012-03-10,Porto_Academica_2011,Academica,11,11,22,31
+2012-03-10,Sp Braga_Leiria_2011,Sp Braga,11,11,22,31
+2012-03-10,Porto_Academica_2011,Porto,12,10,22,31
+2012-03-11,Beira Mar_Gil Vicente_2011,Beira Mar,11,11,22,31
+2012-03-11,Pacos Ferreira_Benfica_2011,Pacos Ferreira,12,10,22,31
+2012-03-11,Olhanense_Nacional_2011,Olhanense,12,10,22,31
+2012-03-11,Beira Mar_Gil Vicente_2011,Gil Vicente,10,12,22,31
+2012-03-11,Sp Lisbon_Guimaraes_2011,Guimaraes,11,11,22,31
+2012-03-11,Olhanense_Nacional_2011,Nacional,11,11,22,31
+2012-03-11,Rio Ave_Setubal_2011,Setubal,10,12,22,31
+2012-03-11,Sp Lisbon_Guimaraes_2011,Sp Lisbon,11,11,22,31
+2012-03-11,Pacos Ferreira_Benfica_2011,Benfica,11,11,22,31
+2012-03-11,Rio Ave_Setubal_2011,Rio Ave,11,11,22,31
+2012-03-16,Nacional_Porto_2011,Nacional,12,11,23,32
+2012-03-16,Benfica_Beira Mar_2011,Benfica,12,11,23,32
+2012-03-16,Benfica_Beira Mar_2011,Beira Mar,11,12,23,32
+2012-03-16,Nacional_Porto_2011,Porto,12,11,23,32
+2012-03-17,Leiria_Rio Ave_2011,Rio Ave,11,12,23,32
+2012-03-17,Leiria_Rio Ave_2011,Leiria,11,12,23,32
+2012-03-17,Feirense_Sp Braga_2011,Sp Braga,11,12,23,32
+2012-03-17,Feirense_Sp Braga_2011,Feirense,11,11,22,32
+2012-03-18,Setubal_Maritimo_2011,Maritimo,11,12,23,32
+2012-03-18,Setubal_Maritimo_2011,Setubal,11,12,23,32
+2012-03-18,Academica_Pacos Ferreira_2011,Pacos Ferreira,12,11,23,32
+2012-03-18,Academica_Pacos Ferreira_2011,Academica,12,11,23,32
+2012-03-18,Guimaraes_Olhanense_2011,Olhanense,12,11,23,32
+2012-03-18,Guimaraes_Olhanense_2011,Guimaraes,12,11,23,32
+2012-03-19,Gil Vicente_Sp Lisbon_2011,Sp Lisbon,11,12,23,32
+2012-03-19,Gil Vicente_Sp Lisbon_2011,Gil Vicente,11,12,23,32
+2012-03-23,Olhanense_Benfica_2011,Benfica,12,12,24,33
+2012-03-23,Olhanense_Benfica_2011,Olhanense,13,11,24,33
+2012-03-24,Sp Lisbon_Feirense_2011,Sp Lisbon,12,12,24,33
+2012-03-24,Sp Lisbon_Feirense_2011,Feirense,11,12,23,33
+2012-03-25,Beira Mar_Nacional_2011,Nacional,12,12,24,33
+2012-03-25,Setubal_Leiria_2011,Setubal,12,12,24,33
+2012-03-25,Rio Ave_Guimaraes_2011,Guimaraes,12,12,24,33
+2012-03-25,Pacos Ferreira_Porto_2011,Pacos Ferreira,13,11,24,33
+2012-03-25,Rio Ave_Guimaraes_2011,Rio Ave,12,12,24,33
+2012-03-25,Setubal_Leiria_2011,Leiria,11,13,24,33
+2012-03-25,Pacos Ferreira_Porto_2011,Porto,12,12,24,33
+2012-03-25,Beira Mar_Nacional_2011,Beira Mar,12,12,24,33
+2012-03-26,Sp Braga_Academica_2011,Academica,12,12,24,33
+2012-03-26,Maritimo_Gil Vicente_2011,Gil Vicente,11,13,24,33
+2012-03-26,Sp Braga_Academica_2011,Sp Braga,12,12,24,33
+2012-03-26,Maritimo_Gil Vicente_2011,Maritimo,12,12,24,33
+2012-03-30,Academica_Maritimo_2011,Maritimo,12,13,25,34
+2012-03-30,Academica_Maritimo_2011,Academica,13,12,25,34
+2012-03-31,Porto_Olhanense_2011,Olhanense,13,12,25,34
+2012-03-31,Porto_Olhanense_2011,Porto,13,12,25,34
+2012-03-31,Benfica_Sp Braga_2011,Benfica,13,12,25,34
+2012-03-31,Benfica_Sp Braga_2011,Sp Braga,12,13,25,34
+2012-04-01,Feirense_Beira Mar_2011,Beira Mar,12,13,25,34
+2012-04-01,Nacional_Rio Ave_2011,Nacional,13,12,25,34
+2012-04-01,Feirense_Beira Mar_2011,Feirense,12,12,24,34
+2012-04-01,Leiria_Sp Lisbon_2011,Sp Lisbon,12,13,25,34
+2012-04-01,Gil Vicente_Setubal_2011,Setubal,12,13,25,34
+2012-04-01,Guimaraes_Pacos Ferreira_2011,Pacos Ferreira,13,12,25,34
+2012-04-01,Leiria_Sp Lisbon_2011,Leiria,12,13,25,34
+2012-04-01,Nacional_Rio Ave_2011,Rio Ave,12,13,25,34
+2012-04-01,Gil Vicente_Setubal_2011,Gil Vicente,12,13,25,34
+2012-04-01,Guimaraes_Pacos Ferreira_2011,Guimaraes,13,12,25,34
+2012-04-06,Beira Mar_Academica_2011,Academica,13,13,26,35
+2012-04-06,Setubal_Guimaraes_2011,Guimaraes,13,13,26,35
+2012-04-06,Setubal_Guimaraes_2011,Setubal,13,13,26,35
+2012-04-06,Beira Mar_Academica_2011,Beira Mar,13,13,26,35
+2012-04-06,Leiria_Gil Vicente_2011,Leiria,13,13,26,35
+2012-04-06,Leiria_Gil Vicente_2011,Gil Vicente,12,14,26,35
+2012-04-07,Maritimo_Nacional_2011,Maritimo,13,13,26,35
+2012-04-07,Olhanense_Pacos Ferreira_2011,Olhanense,14,12,26,35
+2012-04-07,Olhanense_Pacos Ferreira_2011,Pacos Ferreira,13,13,26,35
+2012-04-07,Rio Ave_Feirense_2011,Rio Ave,13,13,26,35
+2012-04-07,Rio Ave_Feirense_2011,Feirense,12,13,25,35
+2012-04-07,Sp Braga_Porto_2011,Porto,13,13,26,35
+2012-04-07,Sp Braga_Porto_2011,Sp Braga,13,13,26,35
+2012-04-07,Maritimo_Nacional_2011,Nacional,13,13,26,35
+2012-04-09,Sp Lisbon_Benfica_2011,Benfica,13,13,26,35
+2012-04-09,Sp Lisbon_Benfica_2011,Sp Lisbon,13,13,26,35
+2012-04-20,Pacos Ferreira_Sp Braga_2011,Sp Braga,13,14,27,37
+2012-04-20,Pacos Ferreira_Sp Braga_2011,Pacos Ferreira,14,13,27,37
+2012-04-21,Porto_Beira Mar_2011,Porto,14,13,27,37
+2012-04-21,Guimaraes_Leiria_2011,Guimaraes,14,13,27,37
+2012-04-21,Guimaraes_Leiria_2011,Leiria,13,14,27,37
+2012-04-21,Benfica_Maritimo_2011,Maritimo,13,14,27,37
+2012-04-21,Porto_Beira Mar_2011,Beira Mar,13,14,27,37
+2012-04-21,Benfica_Maritimo_2011,Benfica,14,13,27,37
+2012-04-22,Nacional_Sp Lisbon_2011,Nacional,14,13,27,37
+2012-04-22,Feirense_Setubal_2011,Feirense,13,13,26,37
+2012-04-22,Gil Vicente_Rio Ave_2011,Rio Ave,13,14,27,37
+2012-04-22,Gil Vicente_Rio Ave_2011,Gil Vicente,13,14,27,37
+2012-04-22,Feirense_Setubal_2011,Setubal,13,14,27,37
+2012-04-22,Nacional_Sp Lisbon_2011,Sp Lisbon,13,14,27,37
+2012-04-23,Academica_Olhanense_2011,Academica,14,13,27,37
+2012-04-23,Academica_Olhanense_2011,Olhanense,14,13,27,37
+2012-04-27,Sp Braga_Olhanense_2011,Sp Braga,14,14,28,38
+2012-04-27,Sp Braga_Olhanense_2011,Olhanense,14,14,28,38
+2012-04-28,Maritimo_Porto_2011,Porto,14,14,28,38
+2012-04-28,Maritimo_Porto_2011,Maritimo,14,14,28,38
+2012-04-28,Gil Vicente_Guimaraes_2011,Guimaraes,14,14,28,38
+2012-04-28,Gil Vicente_Guimaraes_2011,Gil Vicente,14,14,28,38
+2012-04-29,Leiria_Feirense_2011,Leiria,14,14,28,38
+2012-04-29,Setubal_Nacional_2011,Nacional,14,14,28,38
+2012-04-29,Setubal_Nacional_2011,Setubal,14,14,28,38
+2012-04-29,Rio Ave_Benfica_2011,Rio Ave,14,14,28,38
+2012-04-29,Leiria_Feirense_2011,Feirense,13,14,27,38
+2012-04-29,Rio Ave_Benfica_2011,Benfica,14,14,28,38
+2012-04-29,Beira Mar_Pacos Ferreira_2011,Beira Mar,14,14,28,38
+2012-04-29,Beira Mar_Pacos Ferreira_2011,Pacos Ferreira,14,14,28,38
+2012-04-30,Sp Lisbon_Academica_2011,Sp Lisbon,14,14,28,38
+2012-04-30,Sp Lisbon_Academica_2011,Academica,14,14,28,38
+2012-05-05,Academica_Setubal_2011,Setubal,14,15,29,39
+2012-05-05,Academica_Setubal_2011,Academica,15,14,29,39
+2012-05-05,Feirense_Guimaraes_2011,Feirense,14,14,28,39
+2012-05-05,Pacos Ferreira_Rio Ave_2011,Rio Ave,14,15,29,39
+2012-05-05,Porto_Sp Lisbon_2011,Sp Lisbon,14,15,29,39
+2012-05-05,Pacos Ferreira_Rio Ave_2011,Pacos Ferreira,15,14,29,39
+2012-05-05,Olhanense_Maritimo_2011,Olhanense,15,14,29,39
+2012-05-05,Porto_Sp Lisbon_2011,Porto,15,14,29,39
+2012-05-05,Sp Braga_Beira Mar_2011,Sp Braga,15,14,29,39
+2012-05-05,Nacional_Gil Vicente_2011,Nacional,15,14,29,39
+2012-05-05,Benfica_Leiria_2011,Benfica,15,14,29,39
+2012-05-05,Nacional_Gil Vicente_2011,Gil Vicente,14,15,29,39
+2012-05-05,Benfica_Leiria_2011,Leiria,14,15,29,39
+2012-05-05,Sp Braga_Beira Mar_2011,Beira Mar,14,15,29,39
+2012-05-05,Feirense_Guimaraes_2011,Guimaraes,14,15,29,39
+2012-05-05,Olhanense_Maritimo_2011,Maritimo,14,15,29,39
+2012-05-12,Gil Vicente_Feirense_2011,Gil Vicente,15,15,30,40
+2012-05-12,Rio Ave_Porto_2011,Porto,15,15,30,40
+2012-05-12,Rio Ave_Porto_2011,Rio Ave,15,15,30,40
+2012-05-12,Leiria_Nacional_2011,Leiria,15,15,30,40
+2012-05-12,Beira Mar_Olhanense_2011,Olhanense,15,15,30,40
+2012-05-12,Gil Vicente_Feirense_2011,Feirense,14,15,29,40
+2012-05-12,Leiria_Nacional_2011,Nacional,15,15,30,40
+2012-05-12,Setubal_Benfica_2011,Benfica,15,15,30,40
+2012-05-12,Maritimo_Pacos Ferreira_2011,Pacos Ferreira,15,15,30,40
+2012-05-12,Guimaraes_Academica_2011,Guimaraes,15,15,30,40
+2012-05-12,Beira Mar_Olhanense_2011,Beira Mar,15,15,30,40
+2012-05-12,Setubal_Benfica_2011,Setubal,15,15,30,40
+2012-05-12,Guimaraes_Academica_2011,Academica,15,15,30,40
+2012-05-12,Maritimo_Pacos Ferreira_2011,Maritimo,15,15,30,40
+2012-05-12,Sp Lisbon_Sp Braga_2011,Sp Braga,15,15,30,40
+2012-05-12,Sp Lisbon_Sp Braga_2011,Sp Lisbon,15,15,30,40

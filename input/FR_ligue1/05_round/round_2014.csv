@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2014-08-08,Reims_Paris SG_2014,Paris SG,1,1,1,1
+2014-08-08,Reims_Paris SG_2014,Reims,1,1,1,1
+2014-08-09,Nice_Toulouse_2014,Toulouse,1,1,1,1
+2014-08-09,Evian Thonon Gaillard_Caen_2014,Caen,1,1,1,1
+2014-08-09,Nice_Toulouse_2014,Nice,1,1,1,1
+2014-08-09,Lille_Metz_2014,Lille,1,1,1,1
+2014-08-09,Lille_Metz_2014,Metz,1,1,1,1
+2014-08-09,Bastia_Marseille_2014,Bastia,1,1,1,1
+2014-08-09,Montpellier_Bordeaux_2014,Bordeaux,1,1,1,1
+2014-08-09,Guingamp_St Etienne_2014,St Etienne,1,1,1,1
+2014-08-09,Nantes_Lens_2014,Nantes,1,1,1,1
+2014-08-09,Bastia_Marseille_2014,Marseille,1,1,1,1
+2014-08-09,Guingamp_St Etienne_2014,Guingamp,1,1,1,1
+2014-08-09,Nantes_Lens_2014,Lens,1,1,1,1
+2014-08-09,Montpellier_Bordeaux_2014,Montpellier,1,1,1,1
+2014-08-09,Evian Thonon Gaillard_Caen_2014,Evian Thonon Gaillard,1,1,1,1
+2014-08-10,Monaco_Lorient_2014,Monaco,1,1,1,1
+2014-08-10,Monaco_Lorient_2014,Lorient,1,1,1,1
+2014-08-10,Lyon_Rennes_2014,Lyon,1,1,1,1
+2014-08-10,Lyon_Rennes_2014,Rennes,1,1,1,1
+2014-08-15,Caen_Lille_2014,Lille,1,1,2,2
+2014-08-15,Caen_Lille_2014,Caen,1,1,2,2
+2014-08-16,Metz_Nantes_2014,Metz,1,1,2,2
+2014-08-16,Toulouse_Lyon_2014,Toulouse,1,1,2,2
+2014-08-16,Lorient_Nice_2014,Nice,1,1,2,2
+2014-08-16,Toulouse_Lyon_2014,Lyon,1,1,2,2
+2014-08-16,Lorient_Nice_2014,Lorient,1,1,2,2
+2014-08-16,Paris SG_Bastia_2014,Paris SG,1,1,2,2
+2014-08-16,Rennes_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,1,1,2,2
+2014-08-16,Metz_Nantes_2014,Nantes,1,1,2,2
+2014-08-16,Rennes_Evian Thonon Gaillard_2014,Rennes,1,1,2,2
+2014-08-16,Paris SG_Bastia_2014,Bastia,1,1,2,2
+2014-08-16,Lens_Guingamp_2014,Lens,1,1,2,2
+2014-08-16,Lens_Guingamp_2014,Guingamp,1,1,2,2
+2014-08-17,Marseille_Montpellier_2014,Montpellier,1,1,2,2
+2014-08-17,Marseille_Montpellier_2014,Marseille,1,1,2,2
+2014-08-17,St Etienne_Reims_2014,St Etienne,1,1,2,2
+2014-08-17,St Etienne_Reims_2014,Reims,1,1,2,2
+2014-08-17,Bordeaux_Monaco_2014,Bordeaux,1,1,2,2
+2014-08-17,Bordeaux_Monaco_2014,Monaco,1,1,2,2
+2014-08-22,Evian Thonon Gaillard_Paris SG_2014,Paris SG,1,2,3,3
+2014-08-22,Evian Thonon Gaillard_Paris SG_2014,Evian Thonon Gaillard,2,1,3,3
+2014-08-23,Montpellier_Metz_2014,Montpellier,2,1,3,3
+2014-08-23,Nice_Bordeaux_2014,Bordeaux,1,2,3,3
+2014-08-23,Nice_Bordeaux_2014,Nice,2,1,3,3
+2014-08-23,Bastia_Toulouse_2014,Bastia,2,1,3,3
+2014-08-23,Bastia_Toulouse_2014,Toulouse,1,2,3,3
+2014-08-23,Montpellier_Metz_2014,Metz,1,2,3,3
+2014-08-23,Guingamp_Marseille_2014,Marseille,1,2,3,3
+2014-08-23,Reims_Caen_2014,Caen,1,2,3,3
+2014-08-23,Reims_Caen_2014,Reims,2,1,3,3
+2014-08-23,Lille_Lorient_2014,Lille,2,1,3,3
+2014-08-23,Guingamp_Marseille_2014,Guingamp,2,1,3,3
+2014-08-23,Lille_Lorient_2014,Lorient,1,2,3,3
+2014-08-24,St Etienne_Rennes_2014,St Etienne,2,1,3,3
+2014-08-24,St Etienne_Rennes_2014,Rennes,1,2,3,3
+2014-08-24,Nantes_Monaco_2014,Nantes,2,1,3,3
+2014-08-24,Lyon_Lens_2014,Lyon,2,1,3,3
+2014-08-24,Lyon_Lens_2014,Lens,1,2,3,3
+2014-08-24,Nantes_Monaco_2014,Monaco,1,2,3,3
+2014-08-29,Marseille_Nice_2014,Marseille,2,2,4,4
+2014-08-29,Marseille_Nice_2014,Nice,2,2,4,4
+2014-08-30,Toulouse_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,2,2,4,4
+2014-08-30,Lens_Reims_2014,Reims,2,2,4,4
+2014-08-30,Nantes_Montpellier_2014,Nantes,3,1,4,4
+2014-08-30,Lorient_Guingamp_2014,Lorient,2,2,4,4
+2014-08-30,Lorient_Guingamp_2014,Guingamp,2,2,4,4
+2014-08-30,Caen_Rennes_2014,Caen,2,2,4,4
+2014-08-30,Nantes_Montpellier_2014,Montpellier,2,2,4,4
+2014-08-30,Lens_Reims_2014,Lens,2,2,4,4
+2014-08-30,Monaco_Lille_2014,Lille,2,2,4,4
+2014-08-30,Caen_Rennes_2014,Rennes,1,3,4,4
+2014-08-30,Toulouse_Evian Thonon Gaillard_2014,Toulouse,2,2,4,4
+2014-08-30,Monaco_Lille_2014,Monaco,2,2,4,4
+2014-08-31,Paris SG_St Etienne_2014,Paris SG,2,2,4,4
+2014-08-31,Metz_Lyon_2014,Metz,2,2,4,4
+2014-08-31,Metz_Lyon_2014,Lyon,2,2,4,4
+2014-08-31,Paris SG_St Etienne_2014,St Etienne,2,2,4,4
+2014-08-31,Bordeaux_Bastia_2014,Bordeaux,2,2,4,4
+2014-08-31,Bordeaux_Bastia_2014,Bastia,2,2,4,4
+2014-09-12,Lyon_Monaco_2014,Lyon,3,2,5,6
+2014-09-12,Lyon_Monaco_2014,Monaco,2,3,5,6
+2014-09-13,Reims_Toulouse_2014,Reims,3,2,5,6
+2014-09-13,St Etienne_Caen_2014,St Etienne,3,2,5,6
+2014-09-13,Reims_Toulouse_2014,Toulouse,2,3,5,6
+2014-09-13,Rennes_Paris SG_2014,Paris SG,2,3,5,6
+2014-09-13,Rennes_Paris SG_2014,Rennes,2,3,5,6
+2014-09-13,Bastia_Lens_2014,Bastia,3,2,5,6
+2014-09-13,Montpellier_Lorient_2014,Lorient,2,3,5,6
+2014-09-13,Nice_Metz_2014,Metz,2,3,5,6
+2014-09-13,Montpellier_Lorient_2014,Montpellier,3,2,5,6
+2014-09-13,Nice_Metz_2014,Nice,3,2,5,6
+2014-09-13,St Etienne_Caen_2014,Caen,2,3,5,6
+2014-09-13,Bastia_Lens_2014,Lens,2,3,5,6
+2014-09-14,Lille_Nantes_2014,Lille,3,2,5,6
+2014-09-14,Guingamp_Bordeaux_2014,Guingamp,3,2,5,6
+2014-09-14,Evian Thonon Gaillard_Marseille_2014,Marseille,2,3,5,6
+2014-09-14,Evian Thonon Gaillard_Marseille_2014,Evian Thonon Gaillard,3,2,5,6
+2014-09-14,Guingamp_Bordeaux_2014,Bordeaux,2,3,5,6
+2014-09-14,Lille_Nantes_2014,Nantes,3,2,5,6
+2014-09-19,Bordeaux_Evian Thonon Gaillard_2014,Bordeaux,3,3,6,7
+2014-09-19,Bordeaux_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,3,3,6,7
+2014-09-20,Toulouse_Caen_2014,Caen,2,4,6,7
+2014-09-20,Toulouse_Caen_2014,Toulouse,3,3,6,7
+2014-09-20,Marseille_Rennes_2014,Marseille,3,3,6,7
+2014-09-20,Nantes_Nice_2014,Nice,3,3,6,7
+2014-09-20,Metz_Bastia_2014,Bastia,3,3,6,7
+2014-09-20,Lorient_Reims_2014,Reims,3,3,6,7
+2014-09-20,Metz_Bastia_2014,Metz,3,3,6,7
+2014-09-20,Lorient_Reims_2014,Lorient,3,3,6,7
+2014-09-20,Nantes_Nice_2014,Nantes,4,2,6,7
+2014-09-20,Marseille_Rennes_2014,Rennes,2,4,6,7
+2014-09-21,Monaco_Guingamp_2014,Monaco,3,3,6,7
+2014-09-21,Monaco_Guingamp_2014,Guingamp,3,3,6,7
+2014-09-21,Lens_St Etienne_2014,Lens,3,3,6,7
+2014-09-21,Lille_Montpellier_2014,Montpellier,3,3,6,7
+2014-09-21,Paris SG_Lyon_2014,Paris SG,3,3,6,7
+2014-09-21,Paris SG_Lyon_2014,Lyon,3,3,6,7
+2014-09-21,Lens_St Etienne_2014,St Etienne,3,3,6,7
+2014-09-21,Lille_Montpellier_2014,Lille,4,2,6,7
+2014-09-23,Rennes_Toulouse_2014,Toulouse,3,4,7,8
+2014-09-23,Rennes_Toulouse_2014,Rennes,3,4,7,8
+2014-09-23,Reims_Marseille_2014,Reims,4,3,7,8
+2014-09-23,Reims_Marseille_2014,Marseille,3,4,7,8
+2014-09-24,Evian Thonon Gaillard_Lens_2014,Evian Thonon Gaillard,4,3,7,8
+2014-09-24,Nice_Lille_2014,Nice,4,3,7,8
+2014-09-24,Evian Thonon Gaillard_Lens_2014,Lens,3,4,7,8
+2014-09-24,Bastia_Nantes_2014,Bastia,4,3,7,8
+2014-09-24,Caen_Paris SG_2014,Paris SG,3,4,7,8
+2014-09-24,Lyon_Lorient_2014,Lorient,3,4,7,8
+2014-09-24,Guingamp_Metz_2014,Metz,3,4,7,8
+2014-09-24,Bastia_Nantes_2014,Nantes,4,3,7,8
+2014-09-24,Montpellier_Monaco_2014,Monaco,3,4,7,8
+2014-09-24,Nice_Lille_2014,Lille,4,3,7,8
+2014-09-24,Guingamp_Metz_2014,Guingamp,4,3,7,8
+2014-09-24,Montpellier_Monaco_2014,Montpellier,4,3,7,8
+2014-09-24,Caen_Paris SG_2014,Caen,3,4,7,8
+2014-09-24,Lyon_Lorient_2014,Lyon,4,3,7,8
+2014-09-25,St Etienne_Bordeaux_2014,St Etienne,4,3,7,8
+2014-09-25,St Etienne_Bordeaux_2014,Bordeaux,3,4,7,8
+2014-09-27,Montpellier_Guingamp_2014,Guingamp,4,4,8,8
+2014-09-27,Monaco_Nice_2014,Monaco,4,4,8,8
+2014-09-27,Lille_Bastia_2014,Lille,5,3,8,8
+2014-09-27,Toulouse_Paris SG_2014,Toulouse,4,4,8,8
+2014-09-27,Metz_Reims_2014,Metz,4,4,8,8
+2014-09-27,Lorient_Evian Thonon Gaillard_2014,Lorient,4,4,8,8
+2014-09-27,Lorient_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,4,4,8,8
+2014-09-27,Monaco_Nice_2014,Nice,4,4,8,8
+2014-09-27,Metz_Reims_2014,Reims,4,4,8,8
+2014-09-27,Lille_Bastia_2014,Bastia,4,4,8,8
+2014-09-27,Montpellier_Guingamp_2014,Montpellier,5,3,8,8
+2014-09-27,Toulouse_Paris SG_2014,Paris SG,3,5,8,8
+2014-09-28,Bordeaux_Rennes_2014,Bordeaux,4,4,8,8
+2014-09-28,Nantes_Lyon_2014,Nantes,5,3,8,8
+2014-09-28,Bordeaux_Rennes_2014,Rennes,3,5,8,8
+2014-09-28,Lens_Caen_2014,Lens,4,4,8,8
+2014-09-28,Marseille_St Etienne_2014,St Etienne,4,4,8,8
+2014-09-28,Nantes_Lyon_2014,Lyon,4,4,8,8
+2014-09-28,Marseille_St Etienne_2014,Marseille,4,4,8,8
+2014-09-28,Lens_Caen_2014,Caen,3,5,8,8
+2014-10-03,Reims_Bordeaux_2014,Reims,5,4,9,9
+2014-10-03,Reims_Bordeaux_2014,Bordeaux,4,5,9,9
+2014-10-04,Bastia_Lorient_2014,Bastia,5,4,9,9
+2014-10-04,Nice_Montpellier_2014,Montpellier,5,4,9,9
+2014-10-04,Rennes_Lens_2014,Lens,4,5,9,9
+2014-10-04,Caen_Marseille_2014,Caen,4,5,9,9
+2014-10-04,Rennes_Lens_2014,Rennes,4,5,9,9
+2014-10-04,Caen_Marseille_2014,Marseille,4,5,9,9
+2014-10-04,Evian Thonon Gaillard_Metz_2014,Metz,4,5,9,9
+2014-10-04,Evian Thonon Gaillard_Metz_2014,Evian Thonon Gaillard,5,4,9,9
+2014-10-04,Bastia_Lorient_2014,Lorient,4,5,9,9
+2014-10-04,Nice_Montpellier_2014,Nice,5,4,9,9
+2014-10-05,St Etienne_Toulouse_2014,Toulouse,4,5,9,9
+2014-10-05,Paris SG_Monaco_2014,Monaco,4,5,9,9
+2014-10-05,Guingamp_Nantes_2014,Guingamp,5,4,9,9
+2014-10-05,Paris SG_Monaco_2014,Paris SG,4,5,9,9
+2014-10-05,Guingamp_Nantes_2014,Nantes,5,4,9,9
+2014-10-05,St Etienne_Toulouse_2014,St Etienne,5,4,9,9
+2014-10-05,Lyon_Lille_2014,Lyon,5,4,9,9
+2014-10-05,Lyon_Lille_2014,Lille,5,4,9,9
+2014-10-17,Lens_Paris SG_2014,Paris SG,4,6,10,11
+2014-10-17,Lens_Paris SG_2014,Lens,5,5,10,11
+2014-10-18,Metz_Rennes_2014,Rennes,4,6,10,11
+2014-10-18,Lorient_St Etienne_2014,St Etienne,5,5,10,11
+2014-10-18,Nantes_Reims_2014,Nantes,6,4,10,11
+2014-10-18,Lille_Guingamp_2014,Lille,6,4,10,11
+2014-10-18,Monaco_Evian Thonon Gaillard_2014,Monaco,5,5,10,11
+2014-10-18,Metz_Rennes_2014,Metz,5,5,10,11
+2014-10-18,Nice_Bastia_2014,Nice,6,4,10,11
+2014-10-18,Monaco_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,5,5,10,11
+2014-10-18,Lorient_St Etienne_2014,Lorient,5,5,10,11
+2014-10-18,Nantes_Reims_2014,Reims,5,5,10,11
+2014-10-18,Nice_Bastia_2014,Bastia,5,5,10,11
+2014-10-18,Lille_Guingamp_2014,Guingamp,5,5,10,11
+2014-10-19,Bordeaux_Caen_2014,Caen,4,6,10,11
+2014-10-19,Lyon_Montpellier_2014,Montpellier,5,5,10,11
+2014-10-19,Bordeaux_Caen_2014,Bordeaux,5,5,10,11
+2014-10-19,Lyon_Montpellier_2014,Lyon,6,4,10,11
+2014-10-19,Marseille_Toulouse_2014,Marseille,5,5,10,11
+2014-10-19,Marseille_Toulouse_2014,Toulouse,4,6,10,11
+2014-10-24,Toulouse_Lens_2014,Lens,5,6,11,12
+2014-10-24,Toulouse_Lens_2014,Toulouse,5,6,11,12
+2014-10-25,Bastia_Monaco_2014,Bastia,6,5,11,12
+2014-10-25,Bastia_Monaco_2014,Monaco,5,6,11,12
+2014-10-25,Evian Thonon Gaillard_Nantes_2014,Evian Thonon Gaillard,6,5,11,12
+2014-10-25,Reims_Montpellier_2014,Montpellier,5,6,11,12
+2014-10-25,Caen_Lorient_2014,Lorient,5,6,11,12
+2014-10-25,Paris SG_Bordeaux_2014,Paris SG,5,6,11,12
+2014-10-25,Reims_Montpellier_2014,Reims,6,5,11,12
+2014-10-25,Evian Thonon Gaillard_Nantes_2014,Nantes,6,5,11,12
+2014-10-25,Paris SG_Bordeaux_2014,Bordeaux,5,6,11,12
+2014-10-25,Caen_Lorient_2014,Caen,5,6,11,12
+2014-10-26,Guingamp_Nice_2014,Guingamp,6,5,11,12
+2014-10-26,Rennes_Lille_2014,Rennes,5,6,11,12
+2014-10-26,Rennes_Lille_2014,Lille,6,5,11,12
+2014-10-26,St Etienne_Metz_2014,Metz,5,6,11,12
+2014-10-26,St Etienne_Metz_2014,St Etienne,6,5,11,12
+2014-10-26,Lyon_Marseille_2014,Marseille,5,6,11,12
+2014-10-26,Lyon_Marseille_2014,Lyon,7,4,11,12
+2014-10-26,Guingamp_Nice_2014,Nice,6,5,11,12
+2014-10-31,Monaco_Reims_2014,Reims,6,6,12,13
+2014-10-31,Monaco_Reims_2014,Monaco,6,6,12,13
+2014-11-01,Montpellier_Evian Thonon Gaillard_2014,Montpellier,6,6,12,13
+2014-11-01,Nice_Lyon_2014,Nice,7,5,12,13
+2014-11-01,Metz_Caen_2014,Caen,5,7,12,13
+2014-11-01,Nice_Lyon_2014,Lyon,7,5,12,13
+2014-11-01,Guingamp_Bastia_2014,Guingamp,7,5,12,13
+2014-11-01,Metz_Caen_2014,Metz,6,6,12,13
+2014-11-01,Guingamp_Bastia_2014,Bastia,6,6,12,13
+2014-11-01,Lorient_Paris SG_2014,Lorient,6,6,12,13
+2014-11-01,Lille_St Etienne_2014,Lille,7,5,12,13
+2014-11-01,Lille_St Etienne_2014,St Etienne,6,6,12,13
+2014-11-01,Montpellier_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,6,6,12,13
+2014-11-01,Lorient_Paris SG_2014,Paris SG,5,7,12,13
+2014-11-02,Marseille_Lens_2014,Lens,5,7,12,13
+2014-11-02,Nantes_Rennes_2014,Nantes,7,5,12,13
+2014-11-02,Marseille_Lens_2014,Marseille,6,6,12,13
+2014-11-02,Bordeaux_Toulouse_2014,Toulouse,5,7,12,13
+2014-11-02,Nantes_Rennes_2014,Rennes,5,7,12,13
+2014-11-02,Bordeaux_Toulouse_2014,Bordeaux,6,6,12,13
+2014-11-07,Rennes_Lorient_2014,Rennes,6,7,13,14
+2014-11-07,Rennes_Lorient_2014,Lorient,6,7,13,14
+2014-11-08,Toulouse_Metz_2014,Metz,6,7,13,14
+2014-11-08,Lens_Bordeaux_2014,Lens,6,7,13,14
+2014-11-08,Bastia_Montpellier_2014,Montpellier,6,7,13,14
+2014-11-08,Caen_Nantes_2014,Caen,6,7,13,14
+2014-11-08,Caen_Nantes_2014,Nantes,7,6,13,14
+2014-11-08,Evian Thonon Gaillard_Nice_2014,Evian Thonon Gaillard,7,6,13,14
+2014-11-08,Evian Thonon Gaillard_Nice_2014,Nice,7,6,13,14
+2014-11-08,Toulouse_Metz_2014,Toulouse,6,7,13,14
+2014-11-08,Bastia_Montpellier_2014,Bastia,7,6,13,14
+2014-11-08,Lens_Bordeaux_2014,Bordeaux,6,7,13,14
+2014-11-09,Lyon_Guingamp_2014,Lyon,8,5,13,14
+2014-11-09,St Etienne_Monaco_2014,Monaco,6,7,13,14
+2014-11-09,Reims_Lille_2014,Reims,7,6,13,14
+2014-11-09,Paris SG_Marseille_2014,Marseille,6,7,13,14
+2014-11-09,Paris SG_Marseille_2014,Paris SG,6,7,13,14
+2014-11-09,St Etienne_Monaco_2014,St Etienne,7,6,13,14
+2014-11-09,Reims_Lille_2014,Lille,7,6,13,14
+2014-11-09,Lyon_Guingamp_2014,Guingamp,7,6,13,14
+2014-11-21,Metz_Paris SG_2014,Metz,7,7,14,16
+2014-11-21,Metz_Paris SG_2014,Paris SG,6,8,14,16
+2014-11-22,Lorient_Lens_2014,Lorient,7,7,14,16
+2014-11-22,Bastia_Lyon_2014,Lyon,8,6,14,16
+2014-11-22,Nice_Reims_2014,Nice,8,6,14,16
+2014-11-22,Guingamp_Rennes_2014,Rennes,6,8,14,16
+2014-11-22,Lorient_Lens_2014,Lens,6,8,14,16
+2014-11-22,Guingamp_Rennes_2014,Guingamp,8,6,14,16
+2014-11-22,Monaco_Caen_2014,Monaco,7,7,14,16
+2014-11-22,Monaco_Caen_2014,Caen,6,8,14,16
+2014-11-22,Bastia_Lyon_2014,Bastia,8,6,14,16
+2014-11-22,Nice_Reims_2014,Reims,7,7,14,16
+2014-11-23,Montpellier_Toulouse_2014,Toulouse,6,8,14,16
+2014-11-23,Marseille_Bordeaux_2014,Marseille,7,7,14,16
+2014-11-23,Nantes_St Etienne_2014,St Etienne,7,7,14,16
+2014-11-23,Marseille_Bordeaux_2014,Bordeaux,6,8,14,16
+2014-11-23,Nantes_St Etienne_2014,Nantes,8,6,14,16
+2014-11-23,Montpellier_Toulouse_2014,Montpellier,7,7,14,16
+2014-11-28,Marseille_Nantes_2014,Nantes,8,7,15,17
+2014-11-28,Marseille_Nantes_2014,Marseille,8,7,15,17
+2014-11-29,Toulouse_Lorient_2014,Lorient,7,8,15,17
+2014-11-29,Rennes_Monaco_2014,Rennes,7,8,15,17
+2014-11-29,Reims_Bastia_2014,Reims,8,7,15,17
+2014-11-29,Caen_Montpellier_2014,Montpellier,7,8,15,17
+2014-11-29,Paris SG_Nice_2014,Nice,8,7,15,17
+2014-11-29,Paris SG_Nice_2014,Paris SG,7,8,15,17
+2014-11-29,Lens_Metz_2014,Metz,7,8,15,17
+2014-11-29,Caen_Montpellier_2014,Caen,7,8,15,17
+2014-11-29,Reims_Bastia_2014,Bastia,8,7,15,17
+2014-11-29,Rennes_Monaco_2014,Monaco,7,8,15,17
+2014-11-29,Lens_Metz_2014,Lens,7,8,15,17
+2014-11-29,Toulouse_Lorient_2014,Toulouse,7,8,15,17
+2014-11-30,Evian Thonon Gaillard_Guingamp_2014,Guingamp,8,7,15,17
+2014-11-30,St Etienne_Lyon_2014,St Etienne,8,7,15,17
+2014-11-30,St Etienne_Lyon_2014,Lyon,8,7,15,17
+2014-11-30,Bordeaux_Lille_2014,Lille,7,7,14,17
+2014-11-30,Bordeaux_Lille_2014,Bordeaux,7,8,15,17
+2014-11-30,Evian Thonon Gaillard_Guingamp_2014,Evian Thonon Gaillard,8,6,14,17
+2014-12-02,Nantes_Toulouse_2014,Nantes,9,7,16,18
+2014-12-02,Monaco_Lens_2014,Lens,7,9,16,18
+2014-12-02,Lorient_Marseille_2014,Lorient,8,8,16,18
+2014-12-02,Monaco_Lens_2014,Monaco,8,8,16,18
+2014-12-02,Nantes_Toulouse_2014,Toulouse,7,9,16,18
+2014-12-02,Lorient_Marseille_2014,Marseille,8,8,16,18
+2014-12-03,Nice_Rennes_2014,Rennes,7,9,16,18
+2014-12-03,Guingamp_Caen_2014,Guingamp,9,7,16,18
+2014-12-03,Bastia_Evian Thonon Gaillard_2014,Bastia,9,7,16,18
+2014-12-03,Metz_Bordeaux_2014,Bordeaux,7,9,16,18
+2014-12-03,Montpellier_St Etienne_2014,St Etienne,8,8,16,18
+2014-12-03,Lille_Paris SG_2014,Paris SG,7,9,16,18
+2014-12-03,Metz_Bordeaux_2014,Metz,8,8,16,18
+2014-12-03,Guingamp_Caen_2014,Caen,7,9,16,18
+2014-12-03,Bastia_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,8,7,15,18
+2014-12-03,Lille_Paris SG_2014,Lille,8,7,15,18
+2014-12-03,Montpellier_St Etienne_2014,Montpellier,8,8,16,18
+2014-12-03,Nice_Rennes_2014,Nice,9,7,16,18
+2014-12-04,Lyon_Reims_2014,Lyon,9,7,16,18
+2014-12-04,Lyon_Reims_2014,Reims,8,8,16,18
+2014-12-05,Toulouse_Monaco_2014,Toulouse,8,9,17,18
+2014-12-05,Toulouse_Monaco_2014,Monaco,8,9,17,18
+2014-12-06,Paris SG_Nantes_2014,Nantes,9,8,17,18
+2014-12-06,Paris SG_Nantes_2014,Paris SG,8,9,17,18
+2014-12-06,Rennes_Montpellier_2014,Montpellier,8,9,17,18
+2014-12-06,Bordeaux_Lorient_2014,Lorient,8,9,17,18
+2014-12-06,Caen_Nice_2014,Nice,9,8,17,18
+2014-12-06,Rennes_Montpellier_2014,Rennes,8,9,17,18
+2014-12-06,St Etienne_Bastia_2014,St Etienne,9,8,17,18
+2014-12-06,Bordeaux_Lorient_2014,Bordeaux,8,9,17,18
+2014-12-06,Caen_Nice_2014,Caen,8,9,17,18
+2014-12-06,St Etienne_Bastia_2014,Bastia,9,8,17,18
+2014-12-07,Reims_Guingamp_2014,Reims,9,8,17,18
+2014-12-07,Marseille_Metz_2014,Marseille,9,8,17,18
+2014-12-07,Evian Thonon Gaillard_Lyon_2014,Evian Thonon Gaillard,9,7,16,18
+2014-12-07,Marseille_Metz_2014,Metz,8,9,17,18
+2014-12-07,Reims_Guingamp_2014,Guingamp,9,8,17,18
+2014-12-07,Evian Thonon Gaillard_Lyon_2014,Lyon,9,8,17,18
+2014-12-07,Lens_Lille_2014,Lens,8,9,17,18
+2014-12-07,Lens_Lille_2014,Lille,8,8,16,18
+2014-12-12,Lyon_Caen_2014,Lyon,10,8,18,19
+2014-12-12,Lyon_Caen_2014,Caen,8,10,18,19
+2014-12-13,Montpellier_Lens_2014,Montpellier,9,9,18,19
+2014-12-13,Nantes_Bordeaux_2014,Nantes,10,8,18,19
+2014-12-13,Lorient_Metz_2014,Lorient,9,9,18,19
+2014-12-13,Reims_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,9,8,17,19
+2014-12-13,Lorient_Metz_2014,Metz,8,10,18,19
+2014-12-13,Montpellier_Lens_2014,Lens,8,10,18,19
+2014-12-13,Nantes_Bordeaux_2014,Bordeaux,8,10,18,19
+2014-12-13,Bastia_Rennes_2014,Bastia,10,8,18,19
+2014-12-13,Bastia_Rennes_2014,Rennes,8,10,18,19
+2014-12-13,Reims_Evian Thonon Gaillard_2014,Reims,10,8,18,19
+2014-12-14,Monaco_Marseille_2014,Marseille,9,9,18,19
+2014-12-14,Nice_St Etienne_2014,Nice,10,8,18,19
+2014-12-14,Monaco_Marseille_2014,Monaco,9,9,18,19
+2014-12-14,Guingamp_Paris SG_2014,Paris SG,8,10,18,19
+2014-12-14,Nice_St Etienne_2014,St Etienne,9,9,18,19
+2014-12-14,Lille_Toulouse_2014,Toulouse,8,10,18,19
+2014-12-14,Guingamp_Paris SG_2014,Guingamp,10,8,18,19
+2014-12-14,Lille_Toulouse_2014,Lille,9,8,17,19
+2014-12-19,Lens_Nice_2014,Nice,10,9,19,20
+2014-12-19,Lens_Nice_2014,Lens,9,10,19,20
+2014-12-20,Metz_Monaco_2014,Metz,9,10,19,20
+2014-12-20,Toulouse_Guingamp_2014,Toulouse,9,10,19,20
+2014-12-20,Rennes_Reims_2014,Rennes,9,10,19,20
+2014-12-20,Lorient_Nantes_2014,Lorient,10,9,19,20
+2014-12-20,Paris SG_Montpellier_2014,Montpellier,9,10,19,20
+2014-12-20,Caen_Bastia_2014,Bastia,10,9,19,20
+2014-12-20,Lorient_Nantes_2014,Nantes,10,9,19,20
+2014-12-20,Toulouse_Guingamp_2014,Guingamp,10,9,19,20
+2014-12-20,Metz_Monaco_2014,Monaco,9,10,19,20
+2014-12-20,Rennes_Reims_2014,Reims,10,9,19,20
+2014-12-20,Paris SG_Montpellier_2014,Paris SG,9,10,19,20
+2014-12-20,Caen_Bastia_2014,Caen,9,10,19,20
+2014-12-21,Marseille_Lille_2014,Marseille,10,9,19,20
+2014-12-21,Marseille_Lille_2014,Lille,9,9,18,20
+2014-12-21,St Etienne_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,9,9,18,20
+2014-12-21,Bordeaux_Lyon_2014,Lyon,10,9,19,20
+2014-12-21,Bordeaux_Lyon_2014,Bordeaux,9,10,19,20
+2014-12-21,St Etienne_Evian Thonon Gaillard_2014,St Etienne,10,9,19,20
+2015-01-07,Lille_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,9,10,19,23
+2015-01-07,Lille_Evian Thonon Gaillard_2014,Lille,10,9,19,23
+2015-01-09,Montpellier_Marseille_2014,Marseille,10,10,20,23
+2015-01-09,Montpellier_Marseille_2014,Montpellier,10,10,20,23
+2015-01-10,Guingamp_Lens_2014,Guingamp,11,9,20,23
+2015-01-10,Guingamp_Lens_2014,Lens,9,11,20,23
+2015-01-10,Lille_Caen_2014,Lille,11,9,20,23
+2015-01-10,Bastia_Paris SG_2014,Paris SG,9,11,20,23
+2015-01-10,Evian Thonon Gaillard_Rennes_2014,Rennes,9,11,20,23
+2015-01-10,Evian Thonon Gaillard_Rennes_2014,Evian Thonon Gaillard,10,10,20,23
+2015-01-10,Lille_Caen_2014,Caen,9,11,20,23
+2015-01-10,Reims_St Etienne_2014,Reims,11,9,20,23
+2015-01-10,Bastia_Paris SG_2014,Bastia,11,9,20,23
+2015-01-10,Nice_Lorient_2014,Lorient,10,10,20,23
+2015-01-10,Reims_St Etienne_2014,St Etienne,10,10,20,23
+2015-01-10,Nice_Lorient_2014,Nice,11,9,20,23
+2015-01-11,Lyon_Toulouse_2014,Toulouse,9,11,20,23
+2015-01-11,Monaco_Bordeaux_2014,Monaco,10,10,20,23
+2015-01-11,Lyon_Toulouse_2014,Lyon,11,9,20,23
+2015-01-11,Monaco_Bordeaux_2014,Bordeaux,9,11,20,23
+2015-01-11,Nantes_Metz_2014,Nantes,11,9,20,23
+2015-01-11,Nantes_Metz_2014,Metz,9,11,20,23
+2015-01-16,Bordeaux_Nice_2014,Bordeaux,10,11,21,24
+2015-01-16,Bordeaux_Nice_2014,Nice,11,10,21,24
+2015-01-17,Lens_Lyon_2014,Lyon,11,10,21,24
+2015-01-17,Toulouse_Bastia_2014,Bastia,11,10,21,24
+2015-01-17,Toulouse_Bastia_2014,Toulouse,10,11,21,24
+2015-01-17,Metz_Montpellier_2014,Metz,10,11,21,24
+2015-01-17,Caen_Reims_2014,Reims,11,10,21,24
+2015-01-17,Lorient_Lille_2014,Lorient,11,10,21,24
+2015-01-17,Monaco_Nantes_2014,Monaco,11,10,21,24
+2015-01-17,Metz_Montpellier_2014,Montpellier,10,11,21,24
+2015-01-17,Caen_Reims_2014,Caen,10,11,21,24
+2015-01-17,Lorient_Lille_2014,Lille,11,10,21,24
+2015-01-17,Monaco_Nantes_2014,Nantes,11,10,21,24
+2015-01-17,Lens_Lyon_2014,Lens,10,11,21,24
+2015-01-18,Marseille_Guingamp_2014,Guingamp,11,10,21,24
+2015-01-18,Marseille_Guingamp_2014,Marseille,11,10,21,24
+2015-01-18,Rennes_St Etienne_2014,Rennes,10,11,21,24
+2015-01-18,Paris SG_Evian Thonon Gaillard_2014,Paris SG,10,11,21,24
+2015-01-18,Paris SG_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,10,11,21,24
+2015-01-18,Rennes_St Etienne_2014,St Etienne,10,11,21,24
+2015-01-23,Nice_Marseille_2014,Marseille,11,11,22,25
+2015-01-23,Nice_Marseille_2014,Nice,12,10,22,25
+2015-01-24,Guingamp_Lorient_2014,Guingamp,12,10,22,25
+2015-01-24,Guingamp_Lorient_2014,Lorient,11,11,22,25
+2015-01-24,Bastia_Bordeaux_2014,Bordeaux,10,12,22,25
+2015-01-24,Montpellier_Nantes_2014,Montpellier,11,11,22,25
+2015-01-24,Bastia_Bordeaux_2014,Bastia,12,10,22,25
+2015-01-24,Lille_Monaco_2014,Lille,12,10,22,25
+2015-01-24,Lille_Monaco_2014,Monaco,11,11,22,25
+2015-01-24,Montpellier_Nantes_2014,Nantes,11,11,22,25
+2015-01-25,Rennes_Caen_2014,Rennes,11,11,22,25
+2015-01-25,Evian Thonon Gaillard_Toulouse_2014,Evian Thonon Gaillard,11,11,22,25
+2015-01-25,Rennes_Caen_2014,Caen,10,12,22,25
+2015-01-25,St Etienne_Paris SG_2014,St Etienne,11,11,22,25
+2015-01-25,Reims_Lens_2014,Reims,12,10,22,25
+2015-01-25,Reims_Lens_2014,Lens,10,12,22,25
+2015-01-25,Lyon_Metz_2014,Lyon,12,10,22,25
+2015-01-25,Lyon_Metz_2014,Metz,10,12,22,25
+2015-01-25,St Etienne_Paris SG_2014,Paris SG,10,12,22,25
+2015-01-25,Evian Thonon Gaillard_Toulouse_2014,Toulouse,10,12,22,25
+2015-01-30,Paris SG_Rennes_2014,Rennes,11,12,23,26
+2015-01-30,Paris SG_Rennes_2014,Paris SG,11,12,23,26
+2015-01-31,Toulouse_Reims_2014,Reims,12,11,23,26
+2015-01-31,Metz_Nice_2014,Metz,11,12,23,26
+2015-01-31,Lorient_Montpellier_2014,Lorient,12,11,23,26
+2015-01-31,Marseille_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,11,12,23,26
+2015-01-31,Lens_Bastia_2014,Bastia,12,11,23,26
+2015-01-31,Nantes_Lille_2014,Nantes,12,11,23,26
+2015-01-31,Lens_Bastia_2014,Lens,11,12,23,26
+2015-01-31,Lorient_Montpellier_2014,Montpellier,11,12,23,26
+2015-01-31,Marseille_Evian Thonon Gaillard_2014,Marseille,12,11,23,26
+2015-01-31,Toulouse_Reims_2014,Toulouse,11,12,23,26
+2015-01-31,Nantes_Lille_2014,Lille,12,11,23,26
+2015-01-31,Metz_Nice_2014,Nice,12,11,23,26
+2015-02-01,Bordeaux_Guingamp_2014,Guingamp,12,11,23,26
+2015-02-01,Caen_St Etienne_2014,St Etienne,11,12,23,26
+2015-02-01,Monaco_Lyon_2014,Lyon,12,11,23,26
+2015-02-01,Bordeaux_Guingamp_2014,Bordeaux,11,12,23,26
+2015-02-01,Monaco_Lyon_2014,Monaco,12,11,23,26
+2015-02-01,Caen_St Etienne_2014,Caen,11,12,23,26
+2015-02-06,St Etienne_Lens_2014,Lens,11,13,24,27
+2015-02-06,St Etienne_Lens_2014,St Etienne,12,12,24,27
+2015-02-07,Rennes_Marseille_2014,Rennes,12,12,24,27
+2015-02-07,Evian Thonon Gaillard_Bordeaux_2014,Evian Thonon Gaillard,12,12,24,27
+2015-02-07,Bastia_Metz_2014,Metz,11,13,24,27
+2015-02-07,Montpellier_Lille_2014,Lille,12,12,24,27
+2015-02-07,Rennes_Marseille_2014,Marseille,12,12,24,27
+2015-02-07,Bastia_Metz_2014,Bastia,13,11,24,27
+2015-02-07,Caen_Toulouse_2014,Caen,12,12,24,27
+2015-02-07,Reims_Lorient_2014,Lorient,12,12,24,27
+2015-02-07,Montpellier_Lille_2014,Montpellier,12,12,24,27
+2015-02-07,Reims_Lorient_2014,Reims,13,11,24,27
+2015-02-07,Evian Thonon Gaillard_Bordeaux_2014,Bordeaux,11,13,24,27
+2015-02-07,Caen_Toulouse_2014,Toulouse,11,13,24,27
+2015-02-08,Nice_Nantes_2014,Nice,13,11,24,27
+2015-02-08,Lyon_Paris SG_2014,Paris SG,11,13,24,27
+2015-02-08,Guingamp_Monaco_2014,Guingamp,13,11,24,27
+2015-02-08,Nice_Nantes_2014,Nantes,12,12,24,27
+2015-02-08,Lyon_Paris SG_2014,Lyon,13,11,24,27
+2015-02-08,Guingamp_Monaco_2014,Monaco,12,12,24,27
+2015-02-13,Marseille_Reims_2014,Reims,13,12,25,28
+2015-02-13,Marseille_Reims_2014,Marseille,13,12,25,28
+2015-02-14,Lens_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,12,13,25,28
+2015-02-14,Toulouse_Rennes_2014,Toulouse,12,13,25,28
+2015-02-14,Nantes_Bastia_2014,Nantes,13,12,25,28
+2015-02-14,Toulouse_Rennes_2014,Rennes,12,13,25,28
+2015-02-14,Paris SG_Caen_2014,Paris SG,12,13,25,28
+2015-02-14,Paris SG_Caen_2014,Caen,12,13,25,28
+2015-02-14,Lille_Nice_2014,Nice,13,12,25,28
+2015-02-14,Lille_Nice_2014,Lille,13,12,25,28
+2015-02-14,Lens_Evian Thonon Gaillard_2014,Lens,12,13,25,28
+2015-02-14,Nantes_Bastia_2014,Bastia,13,12,25,28
+2015-02-15,Metz_Guingamp_2014,Guingamp,13,12,25,28
+2015-02-15,Lorient_Lyon_2014,Lyon,13,12,25,28
+2015-02-15,Bordeaux_St Etienne_2014,Bordeaux,12,13,25,28
+2015-02-15,Lorient_Lyon_2014,Lorient,13,12,25,28
+2015-02-15,Bordeaux_St Etienne_2014,St Etienne,12,13,25,28
+2015-02-15,Metz_Guingamp_2014,Metz,12,13,25,28
+2015-02-20,Nice_Monaco_2014,Nice,14,12,26,29
+2015-02-20,Nice_Monaco_2014,Monaco,12,13,25,29
+2015-02-21,Rennes_Bordeaux_2014,Bordeaux,12,14,26,29
+2015-02-21,Caen_Lens_2014,Caen,13,13,26,29
+2015-02-21,Paris SG_Toulouse_2014,Paris SG,13,13,26,29
+2015-02-21,Caen_Lens_2014,Lens,12,14,26,29
+2015-02-21,Bastia_Lille_2014,Lille,13,13,26,29
+2015-02-21,Rennes_Bordeaux_2014,Rennes,13,13,26,29
+2015-02-21,Bastia_Lille_2014,Bastia,14,12,26,29
+2015-02-21,Paris SG_Toulouse_2014,Toulouse,12,14,26,29
+2015-02-22,Lyon_Nantes_2014,Nantes,13,13,26,29
+2015-02-22,Guingamp_Montpellier_2014,Guingamp,14,12,26,29
+2015-02-22,Reims_Metz_2014,Reims,14,12,26,29
+2015-02-22,Reims_Metz_2014,Metz,12,14,26,29
+2015-02-22,St Etienne_Marseille_2014,Marseille,13,13,26,29
+2015-02-22,St Etienne_Marseille_2014,St Etienne,13,13,26,29
+2015-02-22,Guingamp_Montpellier_2014,Montpellier,12,13,25,29
+2015-02-22,Lyon_Nantes_2014,Lyon,14,12,26,29
+2015-02-27,Marseille_Caen_2014,Caen,13,14,27,30
+2015-02-27,Marseille_Caen_2014,Marseille,14,13,27,30
+2015-02-28,Toulouse_St Etienne_2014,Toulouse,13,14,27,30
+2015-02-28,Lorient_Bastia_2014,Lorient,14,12,26,30
+2015-02-28,Lens_Rennes_2014,Rennes,13,14,27,30
+2015-02-28,Lille_Lyon_2014,Lille,14,13,27,30
+2015-02-28,Metz_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,12,14,26,30
+2015-02-28,Lille_Lyon_2014,Lyon,14,13,27,30
+2015-02-28,Metz_Evian Thonon Gaillard_2014,Metz,13,14,27,30
+2015-02-28,Bordeaux_Reims_2014,Bordeaux,13,14,27,30
+2015-02-28,Toulouse_St Etienne_2014,St Etienne,13,14,27,30
+2015-02-28,Lens_Rennes_2014,Lens,13,14,27,30
+2015-02-28,Bordeaux_Reims_2014,Reims,14,13,27,30
+2015-02-28,Lorient_Bastia_2014,Bastia,14,13,27,30
+2015-03-01,Montpellier_Nice_2014,Montpellier,13,13,26,30
+2015-03-01,Nantes_Guingamp_2014,Guingamp,14,13,27,30
+2015-03-01,Nantes_Guingamp_2014,Nantes,14,13,27,30
+2015-03-01,Monaco_Paris SG_2014,Paris SG,13,14,27,30
+2015-03-01,Montpellier_Nice_2014,Nice,14,13,27,30
+2015-03-01,Monaco_Paris SG_2014,Monaco,13,13,26,30
+2015-03-04,Evian Thonon Gaillard_Lorient_2014,Evian Thonon Gaillard,13,14,27,31
+2015-03-04,Evian Thonon Gaillard_Lorient_2014,Lorient,14,13,27,31
+2015-03-06,Toulouse_Marseille_2014,Marseille,14,14,28,31
+2015-03-06,Toulouse_Marseille_2014,Toulouse,14,14,28,31
+2015-03-07,Paris SG_Lens_2014,Paris SG,14,14,28,31
+2015-03-07,Evian Thonon Gaillard_Monaco_2014,Monaco,13,14,27,31
+2015-03-07,Reims_Nantes_2014,Reims,15,13,28,31
+2015-03-07,Bastia_Nice_2014,Nice,14,14,28,31
+2015-03-07,Caen_Bordeaux_2014,Caen,14,14,28,31
+2015-03-07,Caen_Bordeaux_2014,Bordeaux,13,15,28,31
+2015-03-07,Bastia_Nice_2014,Bastia,15,13,28,31
+2015-03-07,Reims_Nantes_2014,Nantes,14,14,28,31
+2015-03-07,Rennes_Metz_2014,Metz,13,15,28,31
+2015-03-07,Paris SG_Lens_2014,Lens,13,15,28,31
+2015-03-07,Evian Thonon Gaillard_Monaco_2014,Evian Thonon Gaillard,14,14,28,31
+2015-03-07,Rennes_Metz_2014,Rennes,14,14,28,31
+2015-03-08,Montpellier_Lyon_2014,Lyon,14,14,28,31
+2015-03-08,Guingamp_Lille_2014,Lille,14,14,28,31
+2015-03-08,Montpellier_Lyon_2014,Montpellier,14,13,27,31
+2015-03-08,St Etienne_Lorient_2014,St Etienne,14,14,28,31
+2015-03-08,Guingamp_Lille_2014,Guingamp,15,13,28,31
+2015-03-08,St Etienne_Lorient_2014,Lorient,14,14,28,31
+2015-03-13,Nice_Guingamp_2014,Guingamp,15,14,29,32
+2015-03-13,Monaco_Bastia_2014,Bastia,15,14,29,32
+2015-03-13,Nice_Guingamp_2014,Nice,15,14,29,32
+2015-03-13,Monaco_Bastia_2014,Monaco,14,14,28,32
+2015-03-14,Metz_St Etienne_2014,Metz,14,15,29,32
+2015-03-14,Nantes_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,14,15,29,32
+2015-03-14,Lens_Toulouse_2014,Toulouse,14,15,29,32
+2015-03-14,Nantes_Evian Thonon Gaillard_2014,Nantes,15,14,29,32
+2015-03-14,Lens_Toulouse_2014,Lens,14,15,29,32
+2015-03-14,Montpellier_Reims_2014,Reims,15,14,29,32
+2015-03-14,Lorient_Caen_2014,Caen,14,15,29,32
+2015-03-14,Lorient_Caen_2014,Lorient,15,14,29,32
+2015-03-14,Montpellier_Reims_2014,Montpellier,15,13,28,32
+2015-03-14,Metz_St Etienne_2014,St Etienne,14,15,29,32
+2015-03-15,Marseille_Lyon_2014,Marseille,15,14,29,32
+2015-03-15,Lille_Rennes_2014,Rennes,14,15,29,32
+2015-03-15,Lille_Rennes_2014,Lille,15,14,29,32
+2015-03-15,Bordeaux_Paris SG_2014,Bordeaux,14,15,29,32
+2015-03-15,Bordeaux_Paris SG_2014,Paris SG,14,15,29,32
+2015-03-15,Marseille_Lyon_2014,Lyon,14,15,29,32
+2015-03-20,Paris SG_Lorient_2014,Lorient,15,15,30,33
+2015-03-20,Paris SG_Lorient_2014,Paris SG,15,15,30,33
+2015-03-21,Caen_Metz_2014,Caen,15,15,30,33
+2015-03-21,Lyon_Nice_2014,Lyon,15,15,30,33
+2015-03-21,Rennes_Nantes_2014,Nantes,15,15,30,33
+2015-03-21,Caen_Metz_2014,Metz,14,16,30,33
+2015-03-21,Rennes_Nantes_2014,Rennes,15,15,30,33
+2015-03-21,Evian Thonon Gaillard_Montpellier_2014,Evian Thonon Gaillard,15,15,30,33
+2015-03-21,Evian Thonon Gaillard_Montpellier_2014,Montpellier,15,14,29,33
+2015-03-21,Lyon_Nice_2014,Nice,15,15,30,33
+2015-03-21,Bastia_Guingamp_2014,Bastia,16,14,30,33
+2015-03-21,Toulouse_Bordeaux_2014,Bordeaux,14,16,30,33
+2015-03-21,Toulouse_Bordeaux_2014,Toulouse,15,15,30,33
+2015-03-21,Bastia_Guingamp_2014,Guingamp,15,15,30,33
+2015-03-22,Reims_Monaco_2014,Monaco,14,15,29,33
+2015-03-22,Reims_Monaco_2014,Reims,16,14,30,33
+2015-03-22,St Etienne_Lille_2014,St Etienne,15,15,30,33
+2015-03-22,St Etienne_Lille_2014,Lille,15,15,30,33
+2015-03-22,Lens_Marseille_2014,Marseille,15,15,30,33
+2015-03-22,Lens_Marseille_2014,Lens,15,15,30,33
+2015-04-03,Monaco_St Etienne_2014,St Etienne,15,16,31,35
+2015-04-03,Monaco_St Etienne_2014,Monaco,15,15,30,35
+2015-04-04,Metz_Toulouse_2014,Metz,15,16,31,35
+2015-04-04,Metz_Toulouse_2014,Toulouse,15,16,31,35
+2015-04-04,Lorient_Rennes_2014,Rennes,15,16,31,35
+2015-04-04,Montpellier_Bastia_2014,Bastia,16,15,31,35
+2015-04-04,Lorient_Rennes_2014,Lorient,16,15,31,35
+2015-04-04,Montpellier_Bastia_2014,Montpellier,16,14,30,35
+2015-04-04,Guingamp_Lyon_2014,Guingamp,16,15,31,35
+2015-04-04,Lille_Reims_2014,Lille,16,15,31,35
+2015-04-04,Lille_Reims_2014,Reims,16,15,31,35
+2015-04-04,Guingamp_Lyon_2014,Lyon,15,16,31,35
+2015-04-04,Nice_Evian Thonon Gaillard_2014,Nice,16,15,31,35
+2015-04-04,Nice_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,15,16,31,35
+2015-04-05,Bordeaux_Lens_2014,Bordeaux,15,16,31,35
+2015-04-05,Nantes_Caen_2014,Nantes,16,15,31,35
+2015-04-05,Marseille_Paris SG_2014,Marseille,16,15,31,35
+2015-04-05,Bordeaux_Lens_2014,Lens,15,16,31,35
+2015-04-05,Nantes_Caen_2014,Caen,15,16,31,35
+2015-04-05,Marseille_Paris SG_2014,Paris SG,15,16,31,35
+2015-04-07,Monaco_Montpellier_2014,Montpellier,16,15,31,36
+2015-04-07,Monaco_Montpellier_2014,Monaco,16,15,31,36
+2015-04-10,Caen_Monaco_2014,Caen,16,16,32,36
+2015-04-10,Caen_Monaco_2014,Monaco,16,16,32,36
+2015-04-12,Toulouse_Montpellier_2014,Toulouse,16,16,32,36
+2015-04-12,Bordeaux_Marseille_2014,Marseille,16,16,32,36
+2015-04-12,St Etienne_Nantes_2014,Nantes,16,16,32,36
+2015-04-12,Reims_Nice_2014,Nice,16,16,32,36
+2015-04-12,St Etienne_Nantes_2014,St Etienne,16,16,32,36
+2015-04-12,Bordeaux_Marseille_2014,Bordeaux,16,16,32,36
+2015-04-12,Evian Thonon Gaillard_Lille_2014,Evian Thonon Gaillard,16,16,32,36
+2015-04-12,Rennes_Guingamp_2014,Rennes,16,16,32,36
+2015-04-12,Lens_Lorient_2014,Lens,16,16,32,36
+2015-04-12,Reims_Nice_2014,Reims,17,15,32,36
+2015-04-12,Toulouse_Montpellier_2014,Montpellier,16,16,32,36
+2015-04-12,Lens_Lorient_2014,Lorient,16,16,32,36
+2015-04-12,Evian Thonon Gaillard_Lille_2014,Lille,16,16,32,36
+2015-04-12,Rennes_Guingamp_2014,Guingamp,16,16,32,36
+2015-04-15,Lyon_Bastia_2014,Bastia,16,16,32,37
+2015-04-15,Lyon_Bastia_2014,Lyon,16,16,32,37
+2015-04-17,Nantes_Marseille_2014,Marseille,16,17,33,37
+2015-04-17,Nantes_Marseille_2014,Nantes,17,16,33,37
+2015-04-18,Guingamp_Evian Thonon Gaillard_2014,Guingamp,17,16,33,37
+2015-04-18,Monaco_Rennes_2014,Rennes,16,17,33,37
+2015-04-18,Metz_Lens_2014,Metz,16,16,32,37
+2015-04-18,Nice_Paris SG_2014,Paris SG,15,17,32,37
+2015-04-18,Guingamp_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,16,17,33,37
+2015-04-18,Bastia_Reims_2014,Bastia,17,16,33,37
+2015-04-18,Metz_Lens_2014,Lens,16,17,33,37
+2015-04-18,Nice_Paris SG_2014,Nice,17,16,33,37
+2015-04-18,Lorient_Toulouse_2014,Lorient,17,16,33,37
+2015-04-18,Monaco_Rennes_2014,Monaco,17,16,33,37
+2015-04-18,Lorient_Toulouse_2014,Toulouse,16,17,33,37
+2015-04-18,Bastia_Reims_2014,Reims,17,16,33,37
+2015-04-19,Lyon_St Etienne_2014,Lyon,17,16,33,37
+2015-04-19,Lille_Bordeaux_2014,Lille,17,16,33,37
+2015-04-19,Montpellier_Caen_2014,Montpellier,17,16,33,37
+2015-04-19,Montpellier_Caen_2014,Caen,16,17,33,37
+2015-04-19,Lille_Bordeaux_2014,Bordeaux,16,17,33,37
+2015-04-19,Lyon_St Etienne_2014,St Etienne,16,17,33,37
+2015-04-24,Marseille_Lorient_2014,Lorient,17,17,34,38
+2015-04-24,Marseille_Lorient_2014,Marseille,17,17,34,38
+2015-04-25,Toulouse_Nantes_2014,Nantes,17,17,34,38
+2015-04-25,Rennes_Nice_2014,Nice,17,17,34,38
+2015-04-25,Caen_Guingamp_2014,Caen,17,17,34,38
+2015-04-25,Evian Thonon Gaillard_Bastia_2014,Evian Thonon Gaillard,17,17,34,38
+2015-04-25,Rennes_Nice_2014,Rennes,17,17,34,38
+2015-04-25,Evian Thonon Gaillard_Bastia_2014,Bastia,17,17,34,38
+2015-04-25,Bordeaux_Metz_2014,Metz,16,17,33,38
+2015-04-25,Paris SG_Lille_2014,Paris SG,16,17,33,38
+2015-04-25,Paris SG_Lille_2014,Lille,17,17,34,38
+2015-04-25,Bordeaux_Metz_2014,Bordeaux,17,17,34,38
+2015-04-25,Caen_Guingamp_2014,Guingamp,17,17,34,38
+2015-04-25,Toulouse_Nantes_2014,Toulouse,17,17,34,38
+2015-04-26,Reims_Lyon_2014,Lyon,17,17,34,38
+2015-04-26,St Etienne_Montpellier_2014,Montpellier,17,17,34,38
+2015-04-26,Lens_Monaco_2014,Monaco,17,17,34,38
+2015-04-26,St Etienne_Montpellier_2014,St Etienne,17,17,34,38
+2015-04-26,Lens_Monaco_2014,Lens,17,17,34,38
+2015-04-26,Reims_Lyon_2014,Reims,18,16,34,38
+2015-04-28,Paris SG_Metz_2014,Metz,16,18,34,39
+2015-04-28,Paris SG_Metz_2014,Paris SG,17,17,34,39
+2015-05-01,Metz_Marseille_2014,Metz,17,18,35,39
+2015-05-01,Metz_Marseille_2014,Marseille,17,18,35,39
+2015-05-02,Montpellier_Rennes_2014,Rennes,17,18,35,39
+2015-05-02,Nice_Caen_2014,Nice,18,17,35,39
+2015-05-02,Bastia_St Etienne_2014,St Etienne,17,18,35,39
+2015-05-02,Guingamp_Reims_2014,Reims,18,17,35,39
+2015-05-02,Guingamp_Reims_2014,Guingamp,18,17,35,39
+2015-05-02,Bastia_St Etienne_2014,Bastia,18,17,35,39
+2015-05-02,Lyon_Evian Thonon Gaillard_2014,Lyon,18,17,35,39
+2015-05-02,Nice_Caen_2014,Caen,17,18,35,39
+2015-05-02,Montpellier_Rennes_2014,Montpellier,18,17,35,39
+2015-05-02,Lorient_Bordeaux_2014,Lorient,18,17,35,39
+2015-05-02,Lorient_Bordeaux_2014,Bordeaux,17,18,35,39
+2015-05-02,Lyon_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,17,18,35,39
+2015-05-03,Nantes_Paris SG_2014,Paris SG,17,18,35,39
+2015-05-03,Lille_Lens_2014,Lille,18,17,35,39
+2015-05-03,Lille_Lens_2014,Lens,17,18,35,39
+2015-05-03,Monaco_Toulouse_2014,Toulouse,17,18,35,39
+2015-05-03,Nantes_Paris SG_2014,Nantes,18,17,35,39
+2015-05-03,Monaco_Toulouse_2014,Monaco,18,17,35,39
+2015-05-08,Paris SG_Guingamp_2014,Paris SG,18,18,36,40
+2015-05-08,Paris SG_Guingamp_2014,Guingamp,18,18,36,40
+2015-05-09,Caen_Lyon_2014,Caen,18,18,36,40
+2015-05-09,Toulouse_Lille_2014,Toulouse,18,18,36,40
+2015-05-09,Evian Thonon Gaillard_Reims_2014,Evian Thonon Gaillard,18,18,36,40
+2015-05-09,Metz_Lorient_2014,Lorient,18,18,36,40
+2015-05-09,Toulouse_Lille_2014,Lille,18,18,36,40
+2015-05-09,Rennes_Bastia_2014,Rennes,18,18,36,40
+2015-05-09,Caen_Lyon_2014,Lyon,18,18,36,40
+2015-05-09,Evian Thonon Gaillard_Reims_2014,Reims,18,18,36,40
+2015-05-09,Bordeaux_Nantes_2014,Bordeaux,18,18,36,40
+2015-05-09,Bordeaux_Nantes_2014,Nantes,18,18,36,40
+2015-05-09,Rennes_Bastia_2014,Bastia,18,18,36,40
+2015-05-09,Metz_Lorient_2014,Metz,18,18,36,40
+2015-05-10,Marseille_Monaco_2014,Marseille,18,18,36,40
+2015-05-10,Lens_Montpellier_2014,Lens,18,18,36,40
+2015-05-10,St Etienne_Nice_2014,St Etienne,18,18,36,40
+2015-05-10,Marseille_Monaco_2014,Monaco,18,18,36,40
+2015-05-10,St Etienne_Nice_2014,Nice,18,18,36,40
+2015-05-10,Lens_Montpellier_2014,Montpellier,18,18,36,40
+2015-05-16,Lille_Marseille_2014,Marseille,18,19,37,41
+2015-05-16,Guingamp_Toulouse_2014,Toulouse,18,19,37,41
+2015-05-16,Bastia_Caen_2014,Bastia,19,18,37,41
+2015-05-16,Monaco_Metz_2014,Metz,18,19,37,41
+2015-05-16,Lyon_Bordeaux_2014,Bordeaux,18,19,37,41
+2015-05-16,Evian Thonon Gaillard_St Etienne_2014,St Etienne,18,19,37,41
+2015-05-16,Bastia_Caen_2014,Caen,18,19,37,41
+2015-05-16,Monaco_Metz_2014,Monaco,19,18,37,41
+2015-05-16,Lille_Marseille_2014,Lille,19,18,37,41
+2015-05-16,Nantes_Lorient_2014,Nantes,19,18,37,41
+2015-05-16,Nantes_Lorient_2014,Lorient,18,19,37,41
+2015-05-16,Montpellier_Paris SG_2014,Paris SG,18,19,37,41
+2015-05-16,Guingamp_Toulouse_2014,Guingamp,19,18,37,41
+2015-05-16,Lyon_Bordeaux_2014,Lyon,19,18,37,41
+2015-05-16,Reims_Rennes_2014,Reims,19,18,37,41
+2015-05-16,Evian Thonon Gaillard_St Etienne_2014,Evian Thonon Gaillard,19,18,37,41
+2015-05-16,Montpellier_Paris SG_2014,Montpellier,19,18,37,41
+2015-05-16,Reims_Rennes_2014,Rennes,18,19,37,41
+2015-05-16,Nice_Lens_2014,Lens,18,19,37,41
+2015-05-16,Nice_Lens_2014,Nice,19,18,37,41
+2015-05-23,Lens_Nantes_2014,Lens,19,19,38,42
+2015-05-23,Paris SG_Reims_2014,Reims,19,19,38,42
+2015-05-23,Marseille_Bastia_2014,Bastia,19,19,38,42
+2015-05-23,St Etienne_Guingamp_2014,St Etienne,19,19,38,42
+2015-05-23,Lorient_Monaco_2014,Monaco,19,19,38,42
+2015-05-23,Lorient_Monaco_2014,Lorient,19,19,38,42
+2015-05-23,Rennes_Lyon_2014,Lyon,19,19,38,42
+2015-05-23,Lens_Nantes_2014,Nantes,19,19,38,42
+2015-05-23,Rennes_Lyon_2014,Rennes,19,19,38,42
+2015-05-23,Caen_Evian Thonon Gaillard_2014,Evian Thonon Gaillard,19,19,38,42
+2015-05-23,Toulouse_Nice_2014,Nice,19,19,38,42
+2015-05-23,Metz_Lille_2014,Metz,19,19,38,42
+2015-05-23,Bordeaux_Montpellier_2014,Montpellier,19,19,38,42
+2015-05-23,St Etienne_Guingamp_2014,Guingamp,19,19,38,42
+2015-05-23,Marseille_Bastia_2014,Marseille,19,19,38,42
+2015-05-23,Paris SG_Reims_2014,Paris SG,19,19,38,42
+2015-05-23,Caen_Evian Thonon Gaillard_2014,Caen,19,19,38,42
+2015-05-23,Metz_Lille_2014,Lille,19,19,38,42
+2015-05-23,Bordeaux_Montpellier_2014,Bordeaux,19,19,38,42
+2015-05-23,Toulouse_Nice_2014,Toulouse,19,19,38,42

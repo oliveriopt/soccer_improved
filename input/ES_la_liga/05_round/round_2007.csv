@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2007-08-25,Real Madrid_Ath Madrid_2007,Ath Madrid,1,1,1,1
+2007-08-25,Sevilla_Getafe_2007,Getafe,1,1,1,1
+2007-08-25,Sevilla_Getafe_2007,Sevilla,1,1,1,1
+2007-08-25,Real Madrid_Ath Madrid_2007,Real Madrid,1,1,1,1
+2007-08-26,Santander_Barcelona_2007,Santander,1,1,1,1
+2007-08-26,Espanol_Valladolid_2007,Valladolid,1,1,1,1
+2007-08-26,Mallorca_Levante_2007,Mallorca,1,1,1,1
+2007-08-26,Espanol_Valladolid_2007,Espanol,1,1,1,1
+2007-08-26,Mallorca_Levante_2007,Levante,1,1,1,1
+2007-08-26,Ath Bilbao_Osasuna_2007,Ath Bilbao,1,1,1,1
+2007-08-26,Ath Bilbao_Osasuna_2007,Osasuna,1,1,1,1
+2007-08-26,Murcia_Zaragoza_2007,Zaragoza,1,1,1,1
+2007-08-26,Valencia_Villarreal_2007,Villarreal,1,1,1,1
+2007-08-26,Santander_Barcelona_2007,Barcelona,1,1,1,1
+2007-08-26,Recreativo_Betis_2007,Recreativo,1,1,1,1
+2007-08-26,Recreativo_Betis_2007,Betis,1,1,1,1
+2007-08-26,La Coruna_Almeria_2007,Almeria,1,1,1,1
+2007-08-26,La Coruna_Almeria_2007,La Coruna,1,1,1,1
+2007-08-26,Murcia_Zaragoza_2007,Murcia,1,1,1,1
+2007-08-26,Valencia_Villarreal_2007,Valencia,1,1,1,1
+2007-09-01,Levante_Murcia_2007,Murcia,1,1,2,2
+2007-09-01,Zaragoza_Santander_2007,Santander,1,1,2,2
+2007-09-01,Levante_Murcia_2007,Levante,1,1,2,2
+2007-09-01,Zaragoza_Santander_2007,Zaragoza,1,1,2,2
+2007-09-02,Ath Madrid_Mallorca_2007,Ath Madrid,1,1,2,2
+2007-09-02,Valladolid_La Coruna_2007,Valladolid,1,1,2,2
+2007-09-02,Valladolid_La Coruna_2007,La Coruna,1,1,2,2
+2007-09-02,Villarreal_Real Madrid_2007,Real Madrid,1,1,2,2
+2007-09-02,Barcelona_Ath Bilbao_2007,Ath Bilbao,1,1,2,2
+2007-09-02,Villarreal_Real Madrid_2007,Villarreal,1,1,2,2
+2007-09-02,Getafe_Recreativo_2007,Getafe,1,1,2,2
+2007-09-02,Barcelona_Ath Bilbao_2007,Barcelona,1,1,2,2
+2007-09-02,Betis_Espanol_2007,Betis,1,1,2,2
+2007-09-02,Almeria_Valencia_2007,Valencia,1,1,2,2
+2007-09-02,Ath Madrid_Mallorca_2007,Mallorca,1,1,2,2
+2007-09-02,Betis_Espanol_2007,Espanol,1,1,2,2
+2007-09-02,Almeria_Valencia_2007,Almeria,1,1,2,2
+2007-09-02,Getafe_Recreativo_2007,Recreativo,1,1,2,2
+2007-09-15,Ath Bilbao_Zaragoza_2007,Ath Bilbao,2,1,3,4
+2007-09-15,Valencia_Valladolid_2007,Valencia,2,1,3,4
+2007-09-15,Real Madrid_Almeria_2007,Almeria,1,2,3,4
+2007-09-15,Ath Bilbao_Zaragoza_2007,Zaragoza,1,2,3,4
+2007-09-15,Real Madrid_Almeria_2007,Real Madrid,2,1,3,4
+2007-09-15,Valencia_Valladolid_2007,Valladolid,1,2,3,4
+2007-09-16,Espanol_Getafe_2007,Getafe,1,2,3,4
+2007-09-16,La Coruna_Betis_2007,La Coruna,2,1,3,4
+2007-09-16,Santander_Levante_2007,Levante,1,2,3,4
+2007-09-16,Sevilla_Recreativo_2007,Sevilla,2,1,2,4
+2007-09-16,Mallorca_Villarreal_2007,Villarreal,1,2,3,4
+2007-09-16,Osasuna_Barcelona_2007,Osasuna,1,1,2,4
+2007-09-16,Osasuna_Barcelona_2007,Barcelona,1,2,3,4
+2007-09-16,Espanol_Getafe_2007,Espanol,2,1,3,4
+2007-09-16,La Coruna_Betis_2007,Betis,1,2,3,4
+2007-09-16,Sevilla_Recreativo_2007,Recreativo,1,2,3,4
+2007-09-16,Santander_Levante_2007,Santander,2,1,3,4
+2007-09-16,Murcia_Ath Madrid_2007,Ath Madrid,1,2,3,4
+2007-09-16,Murcia_Ath Madrid_2007,Murcia,2,1,3,4
+2007-09-16,Mallorca_Villarreal_2007,Mallorca,2,1,3,4
+2007-09-22,Barcelona_Sevilla_2007,Barcelona,2,2,4,5
+2007-09-22,Recreativo_Espanol_2007,Espanol,2,2,4,5
+2007-09-22,Recreativo_Espanol_2007,Recreativo,2,2,4,5
+2007-09-22,Barcelona_Sevilla_2007,Sevilla,2,1,3,5
+2007-09-23,Almeria_Mallorca_2007,Mallorca,2,2,4,5
+2007-09-23,Zaragoza_Osasuna_2007,Zaragoza,2,2,4,5
+2007-09-23,Valladolid_Real Madrid_2007,Valladolid,2,2,4,5
+2007-09-23,Betis_Valencia_2007,Betis,2,2,4,5
+2007-09-23,Ath Madrid_Santander_2007,Ath Madrid,2,2,4,5
+2007-09-23,Villarreal_Murcia_2007,Villarreal,2,2,4,5
+2007-09-23,Getafe_La Coruna_2007,La Coruna,2,2,4,5
+2007-09-23,Getafe_La Coruna_2007,Getafe,2,2,4,5
+2007-09-23,Zaragoza_Osasuna_2007,Osasuna,1,2,3,5
+2007-09-23,Levante_Ath Bilbao_2007,Levante,2,2,4,5
+2007-09-23,Levante_Ath Bilbao_2007,Ath Bilbao,2,2,4,5
+2007-09-23,Betis_Valencia_2007,Valencia,2,2,4,5
+2007-09-23,Villarreal_Murcia_2007,Murcia,2,2,4,5
+2007-09-23,Ath Madrid_Santander_2007,Santander,2,2,4,5
+2007-09-23,Valladolid_Real Madrid_2007,Real Madrid,2,2,4,5
+2007-09-23,Almeria_Mallorca_2007,Almeria,2,2,4,5
+2007-09-25,Sevilla_Espanol_2007,Sevilla,3,1,4,6
+2007-09-25,Sevilla_Espanol_2007,Espanol,2,3,5,6
+2007-09-26,Valencia_Getafe_2007,Getafe,2,3,5,6
+2007-09-26,Barcelona_Zaragoza_2007,Zaragoza,2,3,5,6
+2007-09-26,Santander_Villarreal_2007,Villarreal,2,3,5,6
+2007-09-26,Ath Bilbao_Ath Madrid_2007,Ath Bilbao,3,2,5,6
+2007-09-26,Mallorca_Valladolid_2007,Valladolid,2,3,5,6
+2007-09-26,Santander_Villarreal_2007,Santander,3,2,5,6
+2007-09-26,Mallorca_Valladolid_2007,Mallorca,3,2,5,6
+2007-09-26,Barcelona_Zaragoza_2007,Barcelona,3,2,5,6
+2007-09-26,Osasuna_Levante_2007,Osasuna,2,2,4,6
+2007-09-26,La Coruna_Recreativo_2007,Recreativo,2,3,5,6
+2007-09-26,Valencia_Getafe_2007,Valencia,3,2,5,6
+2007-09-26,La Coruna_Recreativo_2007,La Coruna,3,2,5,6
+2007-09-26,Osasuna_Levante_2007,Levante,2,3,5,6
+2007-09-26,Murcia_Almeria_2007,Murcia,3,2,5,6
+2007-09-26,Ath Bilbao_Ath Madrid_2007,Ath Madrid,2,3,5,6
+2007-09-26,Murcia_Almeria_2007,Almeria,2,3,5,6
+2007-09-27,Real Madrid_Betis_2007,Real Madrid,3,2,5,6
+2007-09-27,Real Madrid_Betis_2007,Betis,2,3,5,6
+2007-09-29,Levante_Barcelona_2007,Barcelona,3,3,6,6
+2007-09-29,Zaragoza_Sevilla_2007,Sevilla,3,2,5,6
+2007-09-29,Zaragoza_Sevilla_2007,Zaragoza,3,3,6,6
+2007-09-29,Levante_Barcelona_2007,Levante,3,3,6,6
+2007-09-30,Getafe_Real Madrid_2007,Getafe,3,3,6,6
+2007-09-30,Recreativo_Valencia_2007,Recreativo,3,3,6,6
+2007-09-30,Villarreal_Ath Bilbao_2007,Villarreal,3,3,6,6
+2007-09-30,Almeria_Santander_2007,Almeria,3,3,6,6
+2007-09-30,Valladolid_Murcia_2007,Valladolid,3,3,6,6
+2007-09-30,Villarreal_Ath Bilbao_2007,Ath Bilbao,3,3,6,6
+2007-09-30,Ath Madrid_Osasuna_2007,Osasuna,2,3,5,6
+2007-09-30,Getafe_Real Madrid_2007,Real Madrid,3,3,6,6
+2007-09-30,Espanol_La Coruna_2007,La Coruna,3,3,6,6
+2007-09-30,Betis_Mallorca_2007,Betis,3,3,6,6
+2007-09-30,Valladolid_Murcia_2007,Murcia,3,3,6,6
+2007-09-30,Betis_Mallorca_2007,Mallorca,3,3,6,6
+2007-09-30,Almeria_Santander_2007,Santander,3,3,6,6
+2007-09-30,Recreativo_Valencia_2007,Valencia,3,3,6,6
+2007-09-30,Espanol_La Coruna_2007,Espanol,3,3,6,6
+2007-09-30,Ath Madrid_Osasuna_2007,Ath Madrid,3,3,6,6
+2007-10-06,Valencia_Espanol_2007,Espanol,3,4,7,7
+2007-10-06,Valencia_Espanol_2007,Valencia,4,3,7,7
+2007-10-07,Zaragoza_Levante_2007,Zaragoza,4,3,7,7
+2007-10-07,Mallorca_Getafe_2007,Mallorca,4,3,7,7
+2007-10-07,Sevilla_La Coruna_2007,Sevilla,4,2,6,7
+2007-10-07,Osasuna_Villarreal_2007,Villarreal,3,4,7,7
+2007-10-07,Ath Bilbao_Almeria_2007,Almeria,3,4,7,7
+2007-10-07,Mallorca_Getafe_2007,Getafe,3,4,7,7
+2007-10-07,Barcelona_Ath Madrid_2007,Ath Madrid,3,4,7,7
+2007-10-07,Sevilla_La Coruna_2007,La Coruna,3,4,7,7
+2007-10-07,Real Madrid_Recreativo_2007,Recreativo,3,4,7,7
+2007-10-07,Barcelona_Ath Madrid_2007,Barcelona,4,3,7,7
+2007-10-07,Zaragoza_Levante_2007,Levante,3,4,7,7
+2007-10-07,Ath Bilbao_Almeria_2007,Ath Bilbao,4,3,7,7
+2007-10-07,Osasuna_Villarreal_2007,Osasuna,3,3,6,7
+2007-10-07,Murcia_Betis_2007,Betis,3,4,7,7
+2007-10-07,Murcia_Betis_2007,Murcia,4,3,7,7
+2007-10-07,Real Madrid_Recreativo_2007,Real Madrid,4,3,7,7
+2007-10-07,Santander_Valladolid_2007,Santander,4,3,7,7
+2007-10-07,Santander_Valladolid_2007,Valladolid,3,4,7,7
+2007-10-20,La Coruna_Valencia_2007,La Coruna,4,4,8,9
+2007-10-20,La Coruna_Valencia_2007,Valencia,4,4,8,9
+2007-10-20,Levante_Sevilla_2007,Levante,4,4,8,9
+2007-10-20,Espanol_Real Madrid_2007,Real Madrid,4,4,8,9
+2007-10-20,Levante_Sevilla_2007,Sevilla,4,3,7,9
+2007-10-20,Espanol_Real Madrid_2007,Espanol,4,4,8,9
+2007-10-20,Villarreal_Barcelona_2007,Villarreal,4,4,8,9
+2007-10-20,Villarreal_Barcelona_2007,Barcelona,4,4,8,9
+2007-10-21,Ath Madrid_Zaragoza_2007,Zaragoza,4,4,8,9
+2007-10-21,Getafe_Murcia_2007,Murcia,4,4,8,9
+2007-10-21,Ath Madrid_Zaragoza_2007,Ath Madrid,4,4,8,9
+2007-10-21,Valladolid_Ath Bilbao_2007,Ath Bilbao,4,4,8,9
+2007-10-21,Recreativo_Mallorca_2007,Mallorca,4,4,8,9
+2007-10-21,Getafe_Murcia_2007,Getafe,4,4,8,9
+2007-10-21,Recreativo_Mallorca_2007,Recreativo,4,4,8,9
+2007-10-21,Almeria_Osasuna_2007,Almeria,4,4,8,9
+2007-10-21,Almeria_Osasuna_2007,Osasuna,3,4,7,9
+2007-10-21,Valladolid_Ath Bilbao_2007,Valladolid,4,4,8,9
+2007-10-21,Betis_Santander_2007,Santander,4,4,8,9
+2007-10-21,Betis_Santander_2007,Betis,4,4,8,9
+2007-10-27,Mallorca_Espanol_2007,Mallorca,5,4,9,10
+2007-10-27,Real Madrid_La Coruna_2007,Real Madrid,5,4,9,10
+2007-10-27,Mallorca_Espanol_2007,Espanol,4,5,9,10
+2007-10-27,Ath Bilbao_Betis_2007,Betis,4,5,9,10
+2007-10-27,Ath Bilbao_Betis_2007,Ath Bilbao,5,4,9,10
+2007-10-27,Real Madrid_La Coruna_2007,La Coruna,4,5,9,10
+2007-10-28,Osasuna_Valladolid_2007,Valladolid,4,5,9,10
+2007-10-28,Santander_Getafe_2007,Santander,5,4,9,10
+2007-10-28,Levante_Ath Madrid_2007,Levante,5,4,9,10
+2007-10-28,Zaragoza_Villarreal_2007,Zaragoza,5,4,9,10
+2007-10-28,Barcelona_Almeria_2007,Barcelona,5,4,9,10
+2007-10-28,Murcia_Recreativo_2007,Recreativo,4,5,9,10
+2007-10-28,Murcia_Recreativo_2007,Murcia,5,4,9,10
+2007-10-28,Levante_Ath Madrid_2007,Ath Madrid,4,5,9,10
+2007-10-28,Zaragoza_Villarreal_2007,Villarreal,4,5,9,10
+2007-10-28,Sevilla_Valencia_2007,Sevilla,5,3,8,10
+2007-10-28,Santander_Getafe_2007,Getafe,4,5,9,10
+2007-10-28,Barcelona_Almeria_2007,Almeria,4,5,9,10
+2007-10-28,Osasuna_Valladolid_2007,Osasuna,4,4,8,10
+2007-10-28,Sevilla_Valencia_2007,Valencia,4,5,9,10
+2007-10-31,Villarreal_Levante_2007,Villarreal,5,5,10,11
+2007-10-31,Villarreal_Levante_2007,Levante,5,5,10,11
+2007-10-31,Almeria_Zaragoza_2007,Zaragoza,5,5,10,11
+2007-10-31,Betis_Osasuna_2007,Betis,5,5,10,11
+2007-10-31,Almeria_Zaragoza_2007,Almeria,5,5,10,11
+2007-10-31,Ath Madrid_Sevilla_2007,Ath Madrid,5,5,10,11
+2007-10-31,Betis_Osasuna_2007,Osasuna,4,5,9,11
+2007-10-31,Valencia_Real Madrid_2007,Valencia,5,5,10,11
+2007-10-31,La Coruna_Mallorca_2007,Mallorca,5,5,10,11
+2007-10-31,Getafe_Ath Bilbao_2007,Getafe,5,5,10,11
+2007-10-31,Recreativo_Santander_2007,Santander,5,5,10,11
+2007-10-31,Ath Madrid_Sevilla_2007,Sevilla,5,4,9,11
+2007-10-31,La Coruna_Mallorca_2007,La Coruna,5,5,10,11
+2007-10-31,Getafe_Ath Bilbao_2007,Ath Bilbao,5,5,10,11
+2007-10-31,Recreativo_Santander_2007,Recreativo,5,5,10,11
+2007-10-31,Valencia_Real Madrid_2007,Real Madrid,5,5,10,11
+2007-11-01,Valladolid_Barcelona_2007,Barcelona,5,5,10,11
+2007-11-01,Valladolid_Barcelona_2007,Valladolid,5,5,10,11
+2007-11-01,Espanol_Murcia_2007,Murcia,5,5,10,11
+2007-11-01,Espanol_Murcia_2007,Espanol,5,5,10,11
+2007-11-03,Mallorca_Valencia_2007,Valencia,5,6,11,11
+2007-11-03,Sevilla_Real Madrid_2007,Sevilla,6,4,10,11
+2007-11-03,Sevilla_Real Madrid_2007,Real Madrid,5,6,11,11
+2007-11-03,Mallorca_Valencia_2007,Mallorca,6,5,11,11
+2007-11-04,Murcia_La Coruna_2007,La Coruna,5,6,11,11
+2007-11-04,Zaragoza_Valladolid_2007,Zaragoza,6,5,11,11
+2007-11-04,Ath Madrid_Villarreal_2007,Villarreal,5,6,11,11
+2007-11-04,Osasuna_Getafe_2007,Getafe,5,6,11,11
+2007-11-04,Osasuna_Getafe_2007,Osasuna,5,5,10,11
+2007-11-04,Santander_Espanol_2007,Espanol,5,6,11,11
+2007-11-04,Santander_Espanol_2007,Santander,6,5,11,11
+2007-11-04,Ath Bilbao_Recreativo_2007,Recreativo,5,6,11,11
+2007-11-04,Ath Madrid_Villarreal_2007,Ath Madrid,6,5,11,11
+2007-11-04,Ath Bilbao_Recreativo_2007,Ath Bilbao,6,5,11,11
+2007-11-04,Barcelona_Betis_2007,Betis,5,6,11,11
+2007-11-04,Levante_Almeria_2007,Almeria,5,6,11,11
+2007-11-04,Barcelona_Betis_2007,Barcelona,6,5,11,11
+2007-11-04,Levante_Almeria_2007,Levante,6,5,11,11
+2007-11-04,Zaragoza_Valladolid_2007,Valladolid,5,6,11,11
+2007-11-04,Murcia_La Coruna_2007,Murcia,6,5,11,11
+2007-11-10,Valencia_Murcia_2007,Murcia,6,6,12,12
+2007-11-10,Getafe_Barcelona_2007,Getafe,6,6,12,12
+2007-11-10,Valencia_Murcia_2007,Valencia,6,6,12,12
+2007-11-10,Getafe_Barcelona_2007,Barcelona,6,6,12,12
+2007-11-11,Real Madrid_Mallorca_2007,Real Madrid,6,6,12,12
+2007-11-11,Villarreal_Sevilla_2007,Sevilla,6,5,11,12
+2007-11-11,Espanol_Ath Bilbao_2007,Espanol,6,6,12,12
+2007-11-11,La Coruna_Santander_2007,Santander,6,6,12,12
+2007-11-11,La Coruna_Santander_2007,La Coruna,6,6,12,12
+2007-11-11,Almeria_Ath Madrid_2007,Almeria,6,6,12,12
+2007-11-11,Betis_Zaragoza_2007,Zaragoza,6,6,12,12
+2007-11-11,Valladolid_Levante_2007,Valladolid,6,6,12,12
+2007-11-11,Espanol_Ath Bilbao_2007,Ath Bilbao,6,6,12,12
+2007-11-11,Almeria_Ath Madrid_2007,Ath Madrid,6,6,12,12
+2007-11-11,Recreativo_Osasuna_2007,Recreativo,6,6,12,12
+2007-11-11,Real Madrid_Mallorca_2007,Mallorca,6,6,12,12
+2007-11-11,Betis_Zaragoza_2007,Betis,6,6,12,12
+2007-11-11,Villarreal_Sevilla_2007,Villarreal,6,6,12,12
+2007-11-11,Valladolid_Levante_2007,Levante,6,6,12,12
+2007-11-11,Recreativo_Osasuna_2007,Osasuna,5,6,11,12
+2007-11-24,Barcelona_Recreativo_2007,Recreativo,6,7,13,14
+2007-11-24,Sevilla_Mallorca_2007,Mallorca,6,7,13,14
+2007-11-24,Murcia_Real Madrid_2007,Murcia,7,6,13,14
+2007-11-24,Barcelona_Recreativo_2007,Barcelona,7,6,13,14
+2007-11-24,Sevilla_Mallorca_2007,Sevilla,7,5,12,14
+2007-11-24,Murcia_Real Madrid_2007,Real Madrid,6,7,13,14
+2007-11-25,Zaragoza_Getafe_2007,Zaragoza,7,6,13,14
+2007-11-25,Villarreal_Almeria_2007,Almeria,6,7,13,14
+2007-11-25,Ath Madrid_Valladolid_2007,Ath Madrid,7,6,13,14
+2007-11-25,Zaragoza_Getafe_2007,Getafe,6,7,13,14
+2007-11-25,Osasuna_Espanol_2007,Espanol,6,7,13,14
+2007-11-25,Ath Bilbao_La Coruna_2007,Ath Bilbao,7,6,13,14
+2007-11-25,Ath Madrid_Valladolid_2007,Valladolid,6,7,13,14
+2007-11-25,Ath Bilbao_La Coruna_2007,La Coruna,6,7,13,14
+2007-11-25,Villarreal_Almeria_2007,Villarreal,7,6,13,14
+2007-11-25,Santander_Valencia_2007,Santander,7,6,13,14
+2007-11-25,Santander_Valencia_2007,Valencia,6,7,13,14
+2007-11-25,Levante_Betis_2007,Levante,7,6,13,14
+2007-11-25,Levante_Betis_2007,Betis,6,7,13,14
+2007-11-25,Osasuna_Espanol_2007,Osasuna,6,6,12,14
+2007-12-01,Espanol_Barcelona_2007,Espanol,7,7,14,15
+2007-12-01,Real Madrid_Santander_2007,Santander,7,7,14,15
+2007-12-01,Espanol_Barcelona_2007,Barcelona,7,7,14,15
+2007-12-01,Almeria_Sevilla_2007,Sevilla,7,6,13,15
+2007-12-01,Real Madrid_Santander_2007,Real Madrid,7,7,14,15
+2007-12-01,Almeria_Sevilla_2007,Almeria,7,7,14,15
+2007-12-02,Recreativo_Zaragoza_2007,Zaragoza,7,7,14,15
+2007-12-02,La Coruna_Osasuna_2007,La Coruna,7,7,14,15
+2007-12-02,Getafe_Levante_2007,Levante,7,7,14,15
+2007-12-02,Getafe_Levante_2007,Getafe,7,7,14,15
+2007-12-02,Valladolid_Villarreal_2007,Villarreal,7,7,14,15
+2007-12-02,Betis_Ath Madrid_2007,Betis,7,7,14,15
+2007-12-02,Mallorca_Murcia_2007,Mallorca,7,7,14,15
+2007-12-02,Valencia_Ath Bilbao_2007,Valencia,7,7,14,15
+2007-12-02,Valencia_Ath Bilbao_2007,Ath Bilbao,7,7,14,15
+2007-12-02,La Coruna_Osasuna_2007,Osasuna,6,7,13,15
+2007-12-02,Betis_Ath Madrid_2007,Ath Madrid,7,7,14,15
+2007-12-02,Recreativo_Zaragoza_2007,Recreativo,7,7,14,15
+2007-12-02,Mallorca_Murcia_2007,Murcia,7,7,14,15
+2007-12-02,Valladolid_Villarreal_2007,Valladolid,7,7,14,15
+2007-12-05,Osasuna_Sevilla_2007,Sevilla,7,7,14,16
+2007-12-05,Osasuna_Sevilla_2007,Osasuna,7,7,14,16
+2007-12-08,Ath Bilbao_Real Madrid_2007,Real Madrid,7,8,15,16
+2007-12-08,Osasuna_Valencia_2007,Osasuna,8,7,15,16
+2007-12-08,Osasuna_Valencia_2007,Valencia,7,8,15,16
+2007-12-08,Ath Bilbao_Real Madrid_2007,Ath Bilbao,8,7,15,16
+2007-12-09,Levante_Recreativo_2007,Levante,8,7,15,16
+2007-12-09,Zaragoza_Espanol_2007,Espanol,7,8,15,16
+2007-12-09,Almeria_Valladolid_2007,Valladolid,7,8,15,16
+2007-12-09,Zaragoza_Espanol_2007,Zaragoza,8,7,15,16
+2007-12-09,Almeria_Valladolid_2007,Almeria,8,7,15,16
+2007-12-09,Santander_Mallorca_2007,Mallorca,7,8,15,16
+2007-12-09,Barcelona_La Coruna_2007,Barcelona,8,7,15,16
+2007-12-09,Villarreal_Betis_2007,Betis,7,8,15,16
+2007-12-09,Ath Madrid_Getafe_2007,Ath Madrid,8,7,15,16
+2007-12-09,Ath Madrid_Getafe_2007,Getafe,7,8,15,16
+2007-12-09,Levante_Recreativo_2007,Recreativo,7,8,15,16
+2007-12-09,Barcelona_La Coruna_2007,La Coruna,7,8,15,16
+2007-12-09,Santander_Mallorca_2007,Santander,8,7,15,16
+2007-12-09,Sevilla_Murcia_2007,Sevilla,8,7,15,16
+2007-12-09,Sevilla_Murcia_2007,Murcia,7,8,15,16
+2007-12-09,Villarreal_Betis_2007,Villarreal,8,7,15,16
+2007-12-15,Espanol_Levante_2007,Levante,8,8,16,17
+2007-12-15,Espanol_Levante_2007,Espanol,8,8,16,17
+2007-12-15,Valencia_Barcelona_2007,Barcelona,8,8,16,17
+2007-12-15,Valencia_Barcelona_2007,Valencia,8,8,16,17
+2007-12-16,La Coruna_Zaragoza_2007,Zaragoza,8,8,16,17
+2007-12-16,Murcia_Santander_2007,Murcia,8,8,16,17
+2007-12-16,Getafe_Villarreal_2007,Getafe,8,8,16,17
+2007-12-16,Recreativo_Ath Madrid_2007,Recreativo,8,8,16,17
+2007-12-16,Getafe_Villarreal_2007,Villarreal,8,8,16,17
+2007-12-16,Murcia_Santander_2007,Santander,8,8,16,17
+2007-12-16,Betis_Almeria_2007,Almeria,8,8,16,17
+2007-12-16,Real Madrid_Osasuna_2007,Real Madrid,8,8,16,17
+2007-12-16,Valladolid_Sevilla_2007,Valladolid,8,8,16,17
+2007-12-16,Mallorca_Ath Bilbao_2007,Mallorca,8,8,16,17
+2007-12-16,Recreativo_Ath Madrid_2007,Ath Madrid,8,8,16,17
+2007-12-16,Mallorca_Ath Bilbao_2007,Ath Bilbao,8,8,16,17
+2007-12-16,Valladolid_Sevilla_2007,Sevilla,8,8,16,17
+2007-12-16,La Coruna_Zaragoza_2007,La Coruna,8,8,16,17
+2007-12-16,Betis_Almeria_2007,Betis,8,8,16,17
+2007-12-16,Real Madrid_Osasuna_2007,Osasuna,8,8,16,17
+2007-12-22,Zaragoza_Valencia_2007,Zaragoza,9,8,17,18
+2007-12-22,Almeria_Getafe_2007,Getafe,8,9,17,18
+2007-12-22,Almeria_Getafe_2007,Almeria,9,8,17,18
+2007-12-22,Sevilla_Santander_2007,Sevilla,9,8,17,18
+2007-12-22,Zaragoza_Valencia_2007,Valencia,8,9,17,18
+2007-12-22,Sevilla_Santander_2007,Santander,8,9,17,18
+2007-12-23,Villarreal_Recreativo_2007,Recreativo,8,9,17,18
+2007-12-23,Valladolid_Betis_2007,Betis,8,9,17,18
+2007-12-23,Valladolid_Betis_2007,Valladolid,9,8,17,18
+2007-12-23,Ath Madrid_Espanol_2007,Espanol,8,9,17,18
+2007-12-23,Barcelona_Real Madrid_2007,Real Madrid,8,9,17,18
+2007-12-23,Ath Bilbao_Murcia_2007,Murcia,8,9,17,18
+2007-12-23,Levante_La Coruna_2007,La Coruna,8,9,17,18
+2007-12-23,Ath Madrid_Espanol_2007,Ath Madrid,9,8,17,18
+2007-12-23,Barcelona_Real Madrid_2007,Barcelona,9,8,17,18
+2007-12-23,Levante_La Coruna_2007,Levante,9,8,17,18
+2007-12-23,Ath Bilbao_Murcia_2007,Ath Bilbao,9,8,17,18
+2007-12-23,Osasuna_Mallorca_2007,Mallorca,8,9,17,18
+2007-12-23,Osasuna_Mallorca_2007,Osasuna,9,8,17,18
+2007-12-23,Villarreal_Recreativo_2007,Villarreal,9,8,17,18
+2008-01-05,Mallorca_Barcelona_2007,Mallorca,9,9,18,20
+2008-01-05,Mallorca_Barcelona_2007,Barcelona,9,9,18,20
+2008-01-05,Espanol_Villarreal_2007,Villarreal,9,9,18,20
+2008-01-05,Espanol_Villarreal_2007,Espanol,9,9,18,20
+2008-01-06,Santander_Ath Bilbao_2007,Ath Bilbao,9,9,18,20
+2008-01-06,Sevilla_Betis_2007,Betis,8,10,18,20
+2008-01-06,La Coruna_Ath Madrid_2007,Ath Madrid,9,9,18,20
+2008-01-06,Murcia_Osasuna_2007,Murcia,9,9,18,20
+2008-01-06,Getafe_Valladolid_2007,Valladolid,9,9,18,20
+2008-01-06,Sevilla_Betis_2007,Sevilla,10,8,18,20
+2008-01-06,Getafe_Valladolid_2007,Getafe,9,9,18,20
+2008-01-06,Real Madrid_Zaragoza_2007,Real Madrid,9,9,18,20
+2008-01-06,Santander_Ath Bilbao_2007,Santander,9,9,18,20
+2008-01-06,Murcia_Osasuna_2007,Osasuna,9,9,18,20
+2008-01-06,Recreativo_Almeria_2007,Recreativo,9,9,18,20
+2008-01-06,Recreativo_Almeria_2007,Almeria,9,9,18,20
+2008-01-06,Valencia_Levante_2007,Valencia,9,9,18,20
+2008-01-06,Valencia_Levante_2007,Levante,9,9,18,20
+2008-01-06,La Coruna_Ath Madrid_2007,La Coruna,9,9,18,20
+2008-01-06,Real Madrid_Zaragoza_2007,Zaragoza,9,9,18,20
+2008-01-12,Barcelona_Murcia_2007,Murcia,9,10,19,21
+2008-01-12,Barcelona_Murcia_2007,Barcelona,10,9,19,21
+2008-01-12,Ath Bilbao_Sevilla_2007,Sevilla,10,9,19,21
+2008-01-12,Ath Bilbao_Sevilla_2007,Ath Bilbao,10,9,19,21
+2008-01-13,Ath Madrid_Valencia_2007,Valencia,9,10,19,21
+2008-01-13,Betis_Getafe_2007,Getafe,9,10,19,21
+2008-01-13,Almeria_Espanol_2007,Espanol,9,10,19,21
+2008-01-13,Levante_Real Madrid_2007,Levante,10,9,19,21
+2008-01-13,Osasuna_Santander_2007,Osasuna,10,9,19,21
+2008-01-13,Valladolid_Recreativo_2007,Recreativo,9,10,19,21
+2008-01-13,Valladolid_Recreativo_2007,Valladolid,10,9,19,21
+2008-01-13,Ath Madrid_Valencia_2007,Ath Madrid,10,9,19,21
+2008-01-13,Levante_Real Madrid_2007,Real Madrid,9,10,19,21
+2008-01-13,Zaragoza_Mallorca_2007,Mallorca,9,10,19,21
+2008-01-13,Villarreal_La Coruna_2007,La Coruna,9,10,19,21
+2008-01-13,Almeria_Espanol_2007,Almeria,10,9,19,21
+2008-01-13,Osasuna_Santander_2007,Santander,9,10,19,21
+2008-01-13,Villarreal_La Coruna_2007,Villarreal,10,9,19,21
+2008-01-13,Zaragoza_Mallorca_2007,Zaragoza,10,9,19,21
+2008-01-13,Betis_Getafe_2007,Betis,9,10,19,21
+2008-01-19,Getafe_Sevilla_2007,Getafe,10,10,20,22
+2008-01-19,Getafe_Sevilla_2007,Sevilla,10,10,20,22
+2008-01-19,Villarreal_Valencia_2007,Villarreal,11,9,20,22
+2008-01-19,Villarreal_Valencia_2007,Valencia,9,11,20,22
+2008-01-20,Zaragoza_Murcia_2007,Zaragoza,11,9,20,22
+2008-01-20,Ath Madrid_Real Madrid_2007,Real Madrid,9,11,20,22
+2008-01-20,Barcelona_Santander_2007,Barcelona,11,9,20,22
+2008-01-20,Valladolid_Espanol_2007,Espanol,9,11,20,22
+2008-01-20,Osasuna_Ath Bilbao_2007,Ath Bilbao,10,10,20,22
+2008-01-20,Valladolid_Espanol_2007,Valladolid,11,9,20,22
+2008-01-20,Levante_Mallorca_2007,Mallorca,9,11,20,22
+2008-01-20,Barcelona_Santander_2007,Santander,9,11,20,22
+2008-01-20,Almeria_La Coruna_2007,La Coruna,9,11,20,22
+2008-01-20,Zaragoza_Murcia_2007,Murcia,9,11,20,22
+2008-01-20,Ath Madrid_Real Madrid_2007,Ath Madrid,11,9,20,22
+2008-01-20,Levante_Mallorca_2007,Levante,11,9,20,22
+2008-01-20,Betis_Recreativo_2007,Recreativo,9,11,20,22
+2008-01-20,Osasuna_Ath Bilbao_2007,Osasuna,11,9,20,22
+2008-01-20,Almeria_La Coruna_2007,Almeria,11,9,20,22
+2008-01-20,Betis_Recreativo_2007,Betis,10,10,20,22
+2008-01-26,Sevilla_Osasuna_2007,Osasuna,11,10,21,23
+2008-01-26,Sevilla_Osasuna_2007,Sevilla,11,10,21,23
+2008-01-27,Santander_Zaragoza_2007,Zaragoza,11,10,21,23
+2008-01-27,Recreativo_Getafe_2007,Recreativo,10,11,21,23
+2008-01-27,Valencia_Almeria_2007,Almeria,11,10,21,23
+2008-01-27,Espanol_Betis_2007,Espanol,10,11,21,23
+2008-01-27,Real Madrid_Villarreal_2007,Real Madrid,10,11,21,23
+2008-01-27,Ath Bilbao_Barcelona_2007,Ath Bilbao,11,10,21,23
+2008-01-27,Ath Bilbao_Barcelona_2007,Barcelona,11,10,21,23
+2008-01-27,Santander_Zaragoza_2007,Santander,10,11,21,23
+2008-01-27,Valencia_Almeria_2007,Valencia,10,11,21,23
+2008-01-27,Recreativo_Getafe_2007,Getafe,10,11,21,23
+2008-01-27,Real Madrid_Villarreal_2007,Villarreal,11,10,21,23
+2008-01-27,Murcia_Levante_2007,Murcia,10,11,21,23
+2008-01-27,Mallorca_Ath Madrid_2007,Mallorca,10,11,21,23
+2008-01-27,La Coruna_Valladolid_2007,Valladolid,11,10,21,23
+2008-01-27,Mallorca_Ath Madrid_2007,Ath Madrid,11,10,21,23
+2008-01-27,Espanol_Betis_2007,Betis,10,11,21,23
+2008-01-27,Murcia_Levante_2007,Levante,11,10,21,23
+2008-01-27,La Coruna_Valladolid_2007,La Coruna,10,11,21,23
+2008-02-02,Betis_La Coruna_2007,Betis,11,11,22,24
+2008-02-02,Betis_La Coruna_2007,La Coruna,10,12,22,24
+2008-02-02,Almeria_Real Madrid_2007,Almeria,12,10,22,24
+2008-02-02,Almeria_Real Madrid_2007,Real Madrid,10,12,22,24
+2008-02-03,Recreativo_Sevilla_2007,Sevilla,11,11,22,24
+2008-02-03,Valladolid_Valencia_2007,Valencia,10,12,22,24
+2008-02-03,Barcelona_Osasuna_2007,Barcelona,12,10,22,24
+2008-02-03,Zaragoza_Ath Bilbao_2007,Zaragoza,12,10,22,24
+2008-02-03,Ath Madrid_Murcia_2007,Ath Madrid,12,10,22,24
+2008-02-03,Getafe_Espanol_2007,Espanol,10,12,22,24
+2008-02-03,Getafe_Espanol_2007,Getafe,11,11,22,24
+2008-02-03,Zaragoza_Ath Bilbao_2007,Ath Bilbao,11,11,22,24
+2008-02-03,Ath Madrid_Murcia_2007,Murcia,10,12,22,24
+2008-02-03,Villarreal_Mallorca_2007,Mallorca,10,12,22,24
+2008-02-03,Levante_Santander_2007,Santander,10,12,22,24
+2008-02-03,Levante_Santander_2007,Levante,12,10,22,24
+2008-02-03,Valladolid_Valencia_2007,Valladolid,12,10,22,24
+2008-02-03,Recreativo_Sevilla_2007,Recreativo,11,11,22,24
+2008-02-03,Villarreal_Mallorca_2007,Villarreal,12,10,22,24
+2008-02-03,Barcelona_Osasuna_2007,Osasuna,11,11,22,24
+2008-02-09,Murcia_Villarreal_2007,Villarreal,12,11,23,25
+2008-02-09,La Coruna_Getafe_2007,Getafe,11,12,23,25
+2008-02-09,Sevilla_Barcelona_2007,Barcelona,12,11,23,25
+2008-02-09,Murcia_Villarreal_2007,Murcia,11,12,23,25
+2008-02-09,La Coruna_Getafe_2007,La Coruna,11,12,23,25
+2008-02-09,Sevilla_Barcelona_2007,Sevilla,12,11,23,25
+2008-02-10,Santander_Ath Madrid_2007,Santander,11,12,23,25
+2008-02-10,Santander_Ath Madrid_2007,Ath Madrid,12,11,23,25
+2008-02-10,Ath Bilbao_Levante_2007,Ath Bilbao,12,11,23,25
+2008-02-10,Ath Bilbao_Levante_2007,Levante,12,11,23,25
+2008-02-10,Mallorca_Almeria_2007,Almeria,12,11,23,25
+2008-02-10,Real Madrid_Valladolid_2007,Valladolid,12,11,23,25
+2008-02-10,Osasuna_Zaragoza_2007,Zaragoza,12,11,23,25
+2008-02-10,Espanol_Recreativo_2007,Espanol,11,12,23,25
+2008-02-10,Espanol_Recreativo_2007,Recreativo,11,12,23,25
+2008-02-10,Real Madrid_Valladolid_2007,Real Madrid,11,12,23,25
+2008-02-10,Valencia_Betis_2007,Valencia,11,12,23,25
+2008-02-10,Mallorca_Almeria_2007,Mallorca,11,12,23,25
+2008-02-10,Valencia_Betis_2007,Betis,11,12,23,25
+2008-02-10,Osasuna_Zaragoza_2007,Osasuna,12,11,23,25
+2008-02-16,Zaragoza_Barcelona_2007,Zaragoza,13,11,24,26
+2008-02-16,Betis_Real Madrid_2007,Betis,12,12,24,26
+2008-02-16,Espanol_Sevilla_2007,Sevilla,12,12,24,26
+2008-02-16,Betis_Real Madrid_2007,Real Madrid,11,13,24,26
+2008-02-16,Zaragoza_Barcelona_2007,Barcelona,12,12,24,26
+2008-02-16,Espanol_Sevilla_2007,Espanol,12,12,24,26
+2008-02-17,Getafe_Valencia_2007,Getafe,12,12,24,26
+2008-02-17,Getafe_Valencia_2007,Valencia,11,13,24,26
+2008-02-17,Almeria_Murcia_2007,Almeria,13,11,24,26
+2008-02-17,Almeria_Murcia_2007,Murcia,11,13,24,26
+2008-02-17,Villarreal_Santander_2007,Santander,11,13,24,26
+2008-02-17,Valladolid_Mallorca_2007,Valladolid,13,11,24,26
+2008-02-17,Recreativo_La Coruna_2007,La Coruna,11,13,24,26
+2008-02-17,Recreativo_La Coruna_2007,Recreativo,12,12,24,26
+2008-02-17,Ath Madrid_Ath Bilbao_2007,Ath Bilbao,12,12,24,26
+2008-02-17,Villarreal_Santander_2007,Villarreal,13,11,24,26
+2008-02-17,Valladolid_Mallorca_2007,Mallorca,11,13,24,26
+2008-02-17,Levante_Osasuna_2007,Osasuna,12,12,24,26
+2008-02-17,Ath Madrid_Ath Bilbao_2007,Ath Madrid,13,11,24,26
+2008-02-17,Levante_Osasuna_2007,Levante,13,11,24,26
+2008-02-23,Sevilla_Zaragoza_2007,Zaragoza,13,12,25,27
+2008-02-23,Valencia_Recreativo_2007,Valencia,12,13,25,27
+2008-02-23,Sevilla_Zaragoza_2007,Sevilla,13,12,25,27
+2008-02-23,Valencia_Recreativo_2007,Recreativo,12,13,25,27
+2008-02-24,Murcia_Valladolid_2007,Valladolid,13,12,25,27
+2008-02-24,La Coruna_Espanol_2007,La Coruna,12,13,25,27
+2008-02-24,Barcelona_Levante_2007,Barcelona,13,12,25,27
+2008-02-24,Santander_Almeria_2007,Almeria,13,12,25,27
+2008-02-24,Real Madrid_Getafe_2007,Real Madrid,12,13,25,27
+2008-02-24,Mallorca_Betis_2007,Mallorca,12,13,25,27
+2008-02-24,Murcia_Valladolid_2007,Murcia,12,13,25,27
+2008-02-24,Mallorca_Betis_2007,Betis,12,13,25,27
+2008-02-24,Osasuna_Ath Madrid_2007,Osasuna,13,12,25,27
+2008-02-24,Santander_Almeria_2007,Santander,12,13,25,27
+2008-02-24,Ath Bilbao_Villarreal_2007,Ath Bilbao,13,12,25,27
+2008-02-24,La Coruna_Espanol_2007,Espanol,12,13,25,27
+2008-02-24,Real Madrid_Getafe_2007,Getafe,12,13,25,27
+2008-02-24,Ath Bilbao_Villarreal_2007,Villarreal,13,12,25,27
+2008-02-24,Barcelona_Levante_2007,Levante,13,12,25,27
+2008-02-24,Osasuna_Ath Madrid_2007,Ath Madrid,13,12,25,27
+2008-03-01,La Coruna_Sevilla_2007,La Coruna,13,13,26,28
+2008-03-01,La Coruna_Sevilla_2007,Sevilla,13,13,26,28
+2008-03-01,Recreativo_Real Madrid_2007,Real Madrid,12,14,26,28
+2008-03-01,Ath Madrid_Barcelona_2007,Barcelona,13,13,26,28
+2008-03-01,Espanol_Valencia_2007,Valencia,12,14,26,28
+2008-03-01,Recreativo_Real Madrid_2007,Recreativo,13,13,26,28
+2008-03-01,Espanol_Valencia_2007,Espanol,13,13,26,28
+2008-03-01,Ath Madrid_Barcelona_2007,Ath Madrid,14,12,26,28
+2008-03-02,Levante_Zaragoza_2007,Zaragoza,13,13,26,28
+2008-03-02,Villarreal_Osasuna_2007,Villarreal,14,12,26,28
+2008-03-02,Almeria_Ath Bilbao_2007,Almeria,14,12,26,28
+2008-03-02,Betis_Murcia_2007,Betis,13,13,26,28
+2008-03-02,Betis_Murcia_2007,Murcia,12,14,26,28
+2008-03-02,Almeria_Ath Bilbao_2007,Ath Bilbao,13,13,26,28
+2008-03-02,Getafe_Mallorca_2007,Mallorca,12,14,26,28
+2008-03-02,Levante_Zaragoza_2007,Levante,14,12,26,28
+2008-03-02,Getafe_Mallorca_2007,Getafe,13,13,26,28
+2008-03-02,Villarreal_Osasuna_2007,Osasuna,13,13,26,28
+2008-03-02,Valladolid_Santander_2007,Santander,12,14,26,28
+2008-03-02,Valladolid_Santander_2007,Valladolid,14,12,26,28
+2008-03-08,Zaragoza_Ath Madrid_2007,Zaragoza,14,13,27,29
+2008-03-08,Real Madrid_Espanol_2007,Real Madrid,13,14,27,29
+2008-03-08,Zaragoza_Ath Madrid_2007,Ath Madrid,14,13,27,29
+2008-03-08,Real Madrid_Espanol_2007,Espanol,13,14,27,29
+2008-03-09,Santander_Betis_2007,Santander,13,14,27,29
+2008-03-09,Barcelona_Villarreal_2007,Barcelona,14,13,27,29
+2008-03-09,Osasuna_Almeria_2007,Osasuna,14,13,27,29
+2008-03-09,Murcia_Getafe_2007,Getafe,13,14,27,29
+2008-03-09,Osasuna_Almeria_2007,Almeria,14,13,27,29
+2008-03-09,Barcelona_Villarreal_2007,Villarreal,14,13,27,29
+2008-03-09,Santander_Betis_2007,Betis,13,14,27,29
+2008-03-09,Sevilla_Levante_2007,Sevilla,14,13,27,29
+2008-03-09,Valencia_La Coruna_2007,Valencia,13,14,27,29
+2008-03-09,Mallorca_Recreativo_2007,Recreativo,13,14,27,29
+2008-03-09,Ath Bilbao_Valladolid_2007,Valladolid,14,13,27,29
+2008-03-09,Murcia_Getafe_2007,Murcia,13,14,27,29
+2008-03-09,Sevilla_Levante_2007,Levante,14,13,27,29
+2008-03-09,Ath Bilbao_Valladolid_2007,Ath Bilbao,14,13,27,29
+2008-03-09,Valencia_La Coruna_2007,La Coruna,13,14,27,29
+2008-03-09,Mallorca_Recreativo_2007,Mallorca,13,14,27,29
+2008-03-15,Valencia_Sevilla_2007,Valencia,14,14,28,30
+2008-03-15,Betis_Ath Bilbao_2007,Ath Bilbao,14,14,28,30
+2008-03-15,Betis_Ath Bilbao_2007,Betis,14,14,28,30
+2008-03-15,Valencia_Sevilla_2007,Sevilla,14,14,28,30
+2008-03-15,La Coruna_Real Madrid_2007,La Coruna,14,14,28,30
+2008-03-15,Recreativo_Murcia_2007,Murcia,13,15,28,30
+2008-03-15,Recreativo_Murcia_2007,Recreativo,14,14,28,30
+2008-03-15,La Coruna_Real Madrid_2007,Real Madrid,13,15,28,30
+2008-03-16,Getafe_Santander_2007,Santander,13,15,28,30
+2008-03-16,Almeria_Barcelona_2007,Almeria,15,13,28,30
+2008-03-16,Valladolid_Osasuna_2007,Osasuna,14,14,28,30
+2008-03-16,Espanol_Mallorca_2007,Mallorca,13,15,28,30
+2008-03-16,Espanol_Mallorca_2007,Espanol,14,14,28,30
+2008-03-16,Valladolid_Osasuna_2007,Valladolid,15,13,28,30
+2008-03-16,Villarreal_Zaragoza_2007,Zaragoza,14,14,28,30
+2008-03-16,Getafe_Santander_2007,Getafe,14,14,28,30
+2008-03-16,Ath Madrid_Levante_2007,Ath Madrid,15,13,28,30
+2008-03-16,Almeria_Barcelona_2007,Barcelona,14,14,28,30
+2008-03-16,Ath Madrid_Levante_2007,Levante,14,14,28,30
+2008-03-16,Villarreal_Zaragoza_2007,Villarreal,15,13,28,30
+2008-03-22,Mallorca_La Coruna_2007,La Coruna,14,15,29,31
+2008-03-22,Mallorca_La Coruna_2007,Mallorca,14,15,29,31
+2008-03-22,Sevilla_Ath Madrid_2007,Sevilla,15,14,29,31
+2008-03-22,Sevilla_Ath Madrid_2007,Ath Madrid,15,14,29,31
+2008-03-23,Santander_Recreativo_2007,Recreativo,14,15,29,31
+2008-03-23,Levante_Villarreal_2007,Levante,15,14,29,31
+2008-03-23,Osasuna_Betis_2007,Betis,14,15,29,31
+2008-03-23,Zaragoza_Almeria_2007,Zaragoza,15,14,29,31
+2008-03-23,Real Madrid_Valencia_2007,Real Madrid,14,15,29,31
+2008-03-23,Murcia_Espanol_2007,Espanol,14,15,29,31
+2008-03-23,Barcelona_Valladolid_2007,Barcelona,15,14,29,31
+2008-03-23,Zaragoza_Almeria_2007,Almeria,15,14,29,31
+2008-03-23,Ath Bilbao_Getafe_2007,Getafe,14,15,29,31
+2008-03-23,Levante_Villarreal_2007,Villarreal,15,14,29,31
+2008-03-23,Barcelona_Valladolid_2007,Valladolid,15,14,29,31
+2008-03-23,Santander_Recreativo_2007,Santander,14,15,29,31
+2008-03-23,Osasuna_Betis_2007,Osasuna,15,14,29,31
+2008-03-23,Ath Bilbao_Getafe_2007,Ath Bilbao,15,14,29,31
+2008-03-23,Murcia_Espanol_2007,Murcia,14,15,29,31
+2008-03-23,Real Madrid_Valencia_2007,Valencia,14,15,29,31
+2008-03-29,Villarreal_Ath Madrid_2007,Villarreal,16,14,30,32
+2008-03-29,Villarreal_Ath Madrid_2007,Ath Madrid,15,15,30,32
+2008-03-29,Betis_Barcelona_2007,Barcelona,15,15,30,32
+2008-03-29,Betis_Barcelona_2007,Betis,15,15,30,32
+2008-03-30,Real Madrid_Sevilla_2007,Sevilla,15,15,30,32
+2008-03-30,Valencia_Mallorca_2007,Mallorca,14,16,30,32
+2008-03-30,Real Madrid_Sevilla_2007,Real Madrid,15,15,30,32
+2008-03-30,La Coruna_Murcia_2007,La Coruna,15,15,30,32
+2008-03-30,Espanol_Santander_2007,Santander,14,16,30,32
+2008-03-30,Valladolid_Zaragoza_2007,Zaragoza,15,15,30,32
+2008-03-30,Valladolid_Zaragoza_2007,Valladolid,16,14,30,32
+2008-03-30,Espanol_Santander_2007,Espanol,15,15,30,32
+2008-03-30,Recreativo_Ath Bilbao_2007,Ath Bilbao,15,15,30,32
+2008-03-30,Recreativo_Ath Bilbao_2007,Recreativo,15,15,30,32
+2008-03-30,Getafe_Osasuna_2007,Osasuna,15,15,30,32
+2008-03-30,Getafe_Osasuna_2007,Getafe,15,15,30,32
+2008-03-30,Almeria_Levante_2007,Almeria,16,14,30,32
+2008-03-30,La Coruna_Murcia_2007,Murcia,14,16,30,32
+2008-03-30,Valencia_Mallorca_2007,Valencia,15,15,30,32
+2008-03-30,Almeria_Levante_2007,Levante,15,15,30,32
+2008-04-05,Osasuna_Recreativo_2007,Recreativo,15,16,31,33
+2008-04-05,Mallorca_Real Madrid_2007,Real Madrid,15,16,31,33
+2008-04-05,Mallorca_Real Madrid_2007,Mallorca,15,16,31,33
+2008-04-05,Osasuna_Recreativo_2007,Osasuna,16,15,31,33
+2008-04-06,Murcia_Valencia_2007,Valencia,15,16,31,33
+2008-04-06,Ath Bilbao_Espanol_2007,Espanol,15,16,31,33
+2008-04-06,Ath Bilbao_Espanol_2007,Ath Bilbao,16,15,31,33
+2008-04-06,Sevilla_Villarreal_2007,Sevilla,16,15,31,33
+2008-04-06,Santander_La Coruna_2007,La Coruna,15,16,31,33
+2008-04-06,Ath Madrid_Almeria_2007,Almeria,16,15,31,33
+2008-04-06,Barcelona_Getafe_2007,Barcelona,16,15,31,33
+2008-04-06,Zaragoza_Betis_2007,Betis,15,16,31,33
+2008-04-06,Levante_Valladolid_2007,Valladolid,16,15,31,33
+2008-04-06,Sevilla_Villarreal_2007,Villarreal,16,15,31,33
+2008-04-06,Ath Madrid_Almeria_2007,Ath Madrid,16,15,31,33
+2008-04-06,Santander_La Coruna_2007,Santander,15,16,31,33
+2008-04-06,Levante_Valladolid_2007,Levante,16,15,31,33
+2008-04-06,Zaragoza_Betis_2007,Zaragoza,16,15,31,33
+2008-04-06,Murcia_Valencia_2007,Murcia,15,16,31,33
+2008-04-06,Barcelona_Getafe_2007,Getafe,15,16,31,33
+2008-04-12,Recreativo_Barcelona_2007,Recreativo,16,16,32,34
+2008-04-12,Valencia_Santander_2007,Santander,15,17,32,34
+2008-04-12,Recreativo_Barcelona_2007,Barcelona,16,16,32,34
+2008-04-12,Valencia_Santander_2007,Valencia,16,16,32,34
+2008-04-13,Espanol_Osasuna_2007,Osasuna,16,16,32,34
+2008-04-13,Getafe_Zaragoza_2007,Zaragoza,16,16,32,34
+2008-04-13,Real Madrid_Murcia_2007,Real Madrid,16,16,32,34
+2008-04-13,Mallorca_Sevilla_2007,Sevilla,16,16,32,34
+2008-04-13,La Coruna_Ath Bilbao_2007,La Coruna,16,16,32,34
+2008-04-13,Real Madrid_Murcia_2007,Murcia,15,17,32,34
+2008-04-13,Valladolid_Ath Madrid_2007,Ath Madrid,16,16,32,34
+2008-04-13,Getafe_Zaragoza_2007,Getafe,16,16,32,34
+2008-04-13,Espanol_Osasuna_2007,Espanol,16,16,32,34
+2008-04-13,Betis_Levante_2007,Levante,16,16,32,34
+2008-04-13,Mallorca_Sevilla_2007,Mallorca,16,16,32,34
+2008-04-13,Valladolid_Ath Madrid_2007,Valladolid,17,15,32,34
+2008-04-13,Almeria_Villarreal_2007,Almeria,17,15,32,34
+2008-04-13,La Coruna_Ath Bilbao_2007,Ath Bilbao,16,16,32,34
+2008-04-13,Almeria_Villarreal_2007,Villarreal,16,16,32,34
+2008-04-13,Betis_Levante_2007,Betis,16,16,32,34
+2008-04-19,Barcelona_Espanol_2007,Barcelona,17,16,33,35
+2008-04-19,Ath Madrid_Betis_2007,Ath Madrid,17,16,33,35
+2008-04-19,Zaragoza_Recreativo_2007,Recreativo,16,17,33,35
+2008-04-19,Ath Madrid_Betis_2007,Betis,16,17,33,35
+2008-04-19,Sevilla_Almeria_2007,Sevilla,17,16,33,35
+2008-04-19,Sevilla_Almeria_2007,Almeria,17,16,33,35
+2008-04-19,Barcelona_Espanol_2007,Espanol,16,17,33,35
+2008-04-19,Zaragoza_Recreativo_2007,Zaragoza,17,16,33,35
+2008-04-20,Santander_Real Madrid_2007,Real Madrid,16,17,33,35
+2008-04-20,Villarreal_Valladolid_2007,Valladolid,17,16,33,35
+2008-04-20,Osasuna_La Coruna_2007,Osasuna,17,16,33,35
+2008-04-20,Ath Bilbao_Valencia_2007,Ath Bilbao,17,16,33,35
+2008-04-20,Levante_Getafe_2007,Getafe,16,17,33,35
+2008-04-20,Ath Bilbao_Valencia_2007,Valencia,16,17,33,35
+2008-04-20,Murcia_Mallorca_2007,Murcia,16,17,33,35
+2008-04-20,Villarreal_Valladolid_2007,Villarreal,17,16,33,35
+2008-04-20,Levante_Getafe_2007,Levante,17,16,33,35
+2008-04-20,Santander_Real Madrid_2007,Santander,16,17,33,35
+2008-04-20,Osasuna_La Coruna_2007,La Coruna,16,17,33,35
+2008-04-20,Murcia_Mallorca_2007,Mallorca,16,17,33,35
+2008-04-26,La Coruna_Barcelona_2007,Barcelona,17,17,34,36
+2008-04-26,Murcia_Sevilla_2007,Sevilla,17,17,34,36
+2008-04-26,Murcia_Sevilla_2007,Murcia,17,17,34,36
+2008-04-26,La Coruna_Barcelona_2007,La Coruna,17,17,34,36
+2008-04-27,Betis_Villarreal_2007,Betis,17,17,34,36
+2008-04-27,Getafe_Ath Madrid_2007,Getafe,17,17,34,36
+2008-04-27,Mallorca_Santander_2007,Santander,16,18,34,36
+2008-04-27,Espanol_Zaragoza_2007,Zaragoza,17,17,34,36
+2008-04-27,Valladolid_Almeria_2007,Almeria,17,17,34,36
+2008-04-27,Recreativo_Levante_2007,Recreativo,17,17,34,36
+2008-04-27,Getafe_Ath Madrid_2007,Ath Madrid,17,17,34,36
+2008-04-27,Mallorca_Santander_2007,Mallorca,17,17,34,36
+2008-04-27,Espanol_Zaragoza_2007,Espanol,17,17,34,36
+2008-04-27,Valencia_Osasuna_2007,Valencia,17,17,34,36
+2008-04-27,Real Madrid_Ath Bilbao_2007,Ath Bilbao,17,17,34,36
+2008-04-27,Real Madrid_Ath Bilbao_2007,Real Madrid,17,17,34,36
+2008-04-27,Valencia_Osasuna_2007,Osasuna,17,17,34,36
+2008-04-27,Betis_Villarreal_2007,Villarreal,17,17,34,36
+2008-04-27,Valladolid_Almeria_2007,Valladolid,18,16,34,36
+2008-04-27,Recreativo_Levante_2007,Levante,17,17,34,36
+2008-05-03,Ath Madrid_Recreativo_2007,Recreativo,17,18,35,37
+2008-05-03,Zaragoza_La Coruna_2007,Zaragoza,18,17,35,37
+2008-05-03,Ath Madrid_Recreativo_2007,Ath Madrid,18,17,35,37
+2008-05-03,Zaragoza_La Coruna_2007,La Coruna,17,18,35,37
+2008-05-04,Villarreal_Getafe_2007,Getafe,17,18,35,37
+2008-05-04,Barcelona_Valencia_2007,Barcelona,18,17,35,37
+2008-05-04,Levante_Espanol_2007,Espanol,17,18,35,37
+2008-05-04,Barcelona_Valencia_2007,Valencia,17,18,35,37
+2008-05-04,Sevilla_Valladolid_2007,Sevilla,18,17,35,37
+2008-05-04,Ath Bilbao_Mallorca_2007,Mallorca,17,18,35,37
+2008-05-04,Ath Bilbao_Mallorca_2007,Ath Bilbao,18,17,35,37
+2008-05-04,Osasuna_Real Madrid_2007,Real Madrid,17,18,35,37
+2008-05-04,Osasuna_Real Madrid_2007,Osasuna,18,17,35,37
+2008-05-04,Almeria_Betis_2007,Betis,17,18,35,37
+2008-05-04,Levante_Espanol_2007,Levante,18,17,35,37
+2008-05-04,Almeria_Betis_2007,Almeria,18,17,35,37
+2008-05-04,Villarreal_Getafe_2007,Villarreal,18,17,35,37
+2008-05-04,Santander_Murcia_2007,Santander,17,18,35,37
+2008-05-04,Santander_Murcia_2007,Murcia,17,18,35,37
+2008-05-04,Sevilla_Valladolid_2007,Valladolid,18,17,35,37
+2008-05-07,Valencia_Zaragoza_2007,Zaragoza,18,18,36,38
+2008-05-07,Mallorca_Osasuna_2007,Osasuna,18,18,36,38
+2008-05-07,Santander_Sevilla_2007,Sevilla,18,18,36,38
+2008-05-07,Real Madrid_Barcelona_2007,Real Madrid,18,18,36,38
+2008-05-07,Recreativo_Villarreal_2007,Villarreal,18,18,36,38
+2008-05-07,Mallorca_Osasuna_2007,Mallorca,18,18,36,38
+2008-05-07,Valencia_Zaragoza_2007,Valencia,18,18,36,38
+2008-05-07,Getafe_Almeria_2007,Getafe,18,18,36,38
+2008-05-07,Getafe_Almeria_2007,Almeria,18,18,36,38
+2008-05-07,Santander_Sevilla_2007,Santander,18,18,36,38
+2008-05-07,Real Madrid_Barcelona_2007,Barcelona,18,18,36,38
+2008-05-07,Betis_Valladolid_2007,Betis,18,18,36,38
+2008-05-07,Recreativo_Villarreal_2007,Recreativo,18,18,36,38
+2008-05-07,Betis_Valladolid_2007,Valladolid,18,18,36,38
+2008-05-07,Murcia_Ath Bilbao_2007,Murcia,18,18,36,38
+2008-05-07,Murcia_Ath Bilbao_2007,Ath Bilbao,18,18,36,38
+2008-05-07,La Coruna_Levante_2007,La Coruna,18,18,36,38
+2008-05-07,La Coruna_Levante_2007,Levante,18,18,36,38
+2008-05-08,Espanol_Ath Madrid_2007,Espanol,18,18,36,38
+2008-05-08,Espanol_Ath Madrid_2007,Ath Madrid,18,18,36,38
+2008-05-11,Ath Bilbao_Santander_2007,Ath Bilbao,19,18,37,38
+2008-05-11,Almeria_Recreativo_2007,Recreativo,18,19,37,38
+2008-05-11,Valladolid_Getafe_2007,Valladolid,19,18,37,38
+2008-05-11,Osasuna_Murcia_2007,Murcia,18,19,37,38
+2008-05-11,Ath Bilbao_Santander_2007,Santander,18,19,37,38
+2008-05-11,Barcelona_Mallorca_2007,Barcelona,19,18,37,38
+2008-05-11,Ath Madrid_La Coruna_2007,La Coruna,18,19,37,38
+2008-05-11,Ath Madrid_La Coruna_2007,Ath Madrid,19,18,37,38
+2008-05-11,Levante_Valencia_2007,Valencia,18,19,37,38
+2008-05-11,Almeria_Recreativo_2007,Almeria,19,18,37,38
+2008-05-11,Levante_Valencia_2007,Levante,19,18,37,38
+2008-05-11,Betis_Sevilla_2007,Betis,19,18,37,38
+2008-05-11,Barcelona_Mallorca_2007,Mallorca,18,19,37,38
+2008-05-11,Zaragoza_Real Madrid_2007,Zaragoza,19,18,37,38
+2008-05-11,Zaragoza_Real Madrid_2007,Real Madrid,18,19,37,38
+2008-05-11,Valladolid_Getafe_2007,Getafe,18,19,37,38
+2008-05-11,Villarreal_Espanol_2007,Espanol,18,19,37,38
+2008-05-11,Osasuna_Murcia_2007,Osasuna,19,18,37,38
+2008-05-11,Betis_Sevilla_2007,Sevilla,18,19,37,38
+2008-05-11,Villarreal_Espanol_2007,Villarreal,19,18,37,38
+2008-05-17,Murcia_Barcelona_2007,Barcelona,19,19,38,39
+2008-05-17,Murcia_Barcelona_2007,Murcia,19,19,38,39
+2008-05-18,Getafe_Betis_2007,Betis,19,19,38,39
+2008-05-18,Espanol_Almeria_2007,Espanol,19,19,38,39
+2008-05-18,Valencia_Ath Madrid_2007,Valencia,19,19,38,39
+2008-05-18,Sevilla_Ath Bilbao_2007,Sevilla,19,19,38,39
+2008-05-18,Real Madrid_Levante_2007,Real Madrid,19,19,38,39
+2008-05-18,Real Madrid_Levante_2007,Levante,19,19,38,39
+2008-05-18,La Coruna_Villarreal_2007,La Coruna,19,19,38,39
+2008-05-18,Santander_Osasuna_2007,Santander,19,19,38,39
+2008-05-18,Sevilla_Ath Bilbao_2007,Ath Bilbao,19,19,38,39
+2008-05-18,Recreativo_Valladolid_2007,Recreativo,19,19,38,39
+2008-05-18,Getafe_Betis_2007,Getafe,19,19,38,39
+2008-05-18,Valencia_Ath Madrid_2007,Ath Madrid,19,19,38,39
+2008-05-18,Espanol_Almeria_2007,Almeria,19,19,38,39
+2008-05-18,Recreativo_Valladolid_2007,Valladolid,19,19,38,39
+2008-05-18,Santander_Osasuna_2007,Osasuna,19,19,38,39
+2008-05-18,La Coruna_Villarreal_2007,Villarreal,19,19,38,39
+2008-05-18,Mallorca_Zaragoza_2007,Mallorca,19,19,38,39
+2008-05-18,Mallorca_Zaragoza_2007,Zaragoza,19,19,38,39

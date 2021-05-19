@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2019-08-16,Ath Bilbao_Barcelona_2019,Ath Bilbao,1,1,1,1
+2019-08-16,Ath Bilbao_Barcelona_2019,Barcelona,1,1,1,1
+2019-08-17,Villarreal_Granada_2019,Villarreal,1,1,1,1
+2019-08-17,Valencia_Sociedad_2019,Sociedad,1,1,1,1
+2019-08-17,Leganes_Osasuna_2019,Osasuna,1,1,1,1
+2019-08-17,Mallorca_Eibar_2019,Eibar,1,1,1,1
+2019-08-17,Leganes_Osasuna_2019,Leganes,1,1,1,1
+2019-08-17,Celta_Real Madrid_2019,Celta,1,1,1,1
+2019-08-17,Villarreal_Granada_2019,Granada,1,1,1,1
+2019-08-17,Mallorca_Eibar_2019,Mallorca,1,1,1,1
+2019-08-17,Valencia_Sociedad_2019,Valencia,1,1,1,1
+2019-08-17,Celta_Real Madrid_2019,Real Madrid,1,1,1,1
+2019-08-18,Alaves_Levante_2019,Alaves,1,1,1,1
+2019-08-18,Betis_Valladolid_2019,Valladolid,1,1,1,1
+2019-08-18,Ath Madrid_Getafe_2019,Ath Madrid,1,1,1,1
+2019-08-18,Espanol_Sevilla_2019,Sevilla,1,1,1,1
+2019-08-18,Alaves_Levante_2019,Levante,1,1,1,1
+2019-08-18,Espanol_Sevilla_2019,Espanol,1,1,1,1
+2019-08-18,Ath Madrid_Getafe_2019,Getafe,1,1,1,1
+2019-08-18,Betis_Valladolid_2019,Betis,1,1,1,1
+2019-08-23,Levante_Villarreal_2019,Villarreal,1,1,2,2
+2019-08-23,Levante_Villarreal_2019,Levante,1,1,2,2
+2019-08-23,Granada_Sevilla_2019,Granada,1,1,2,2
+2019-08-23,Granada_Sevilla_2019,Sevilla,1,2,2,2
+2019-08-24,Osasuna_Eibar_2019,Osasuna,1,1,2,2
+2019-08-24,Real Madrid_Valladolid_2019,Valladolid,1,2,2,2
+2019-08-24,Celta_Valencia_2019,Valencia,1,1,2,2
+2019-08-24,Celta_Valencia_2019,Celta,2,1,2,2
+2019-08-24,Osasuna_Eibar_2019,Eibar,1,2,2,2
+2019-08-24,Getafe_Ath Bilbao_2019,Ath Bilbao,1,1,2,2
+2019-08-24,Real Madrid_Valladolid_2019,Real Madrid,1,1,2,2
+2019-08-24,Getafe_Ath Bilbao_2019,Getafe,1,1,2,2
+2019-08-25,Alaves_Espanol_2019,Espanol,1,1,2,2
+2019-08-25,Mallorca_Sociedad_2019,Mallorca,2,1,2,2
+2019-08-25,Alaves_Espanol_2019,Alaves,2,1,2,2
+2019-08-25,Leganes_Ath Madrid_2019,Ath Madrid,1,1,2,2
+2019-08-25,Barcelona_Betis_2019,Barcelona,1,1,2,2
+2019-08-25,Mallorca_Sociedad_2019,Sociedad,1,2,2,2
+2019-08-25,Leganes_Ath Madrid_2019,Leganes,2,1,2,2
+2019-08-25,Barcelona_Betis_2019,Betis,1,1,2,2
+2019-08-30,Sevilla_Celta_2019,Sevilla,1,2,3,3
+2019-08-30,Sevilla_Celta_2019,Celta,2,1,3,3
+2019-08-30,Ath Bilbao_Sociedad_2019,Ath Bilbao,2,1,3,3
+2019-08-30,Ath Bilbao_Sociedad_2019,Sociedad,1,3,3,3
+2019-08-31,Getafe_Alaves_2019,Alaves,2,1,3,3
+2019-08-31,Osasuna_Barcelona_2019,Osasuna,2,1,3,3
+2019-08-31,Betis_Leganes_2019,Betis,2,1,3,3
+2019-08-31,Osasuna_Barcelona_2019,Barcelona,1,2,3,3
+2019-08-31,Betis_Leganes_2019,Leganes,2,1,3,3
+2019-08-31,Levante_Valladolid_2019,Levante,2,1,3,3
+2019-08-31,Levante_Valladolid_2019,Valladolid,1,3,3,3
+2019-08-31,Getafe_Alaves_2019,Getafe,2,1,3,3
+2019-09-01,Villarreal_Real Madrid_2019,Villarreal,2,1,3,3
+2019-09-01,Valencia_Mallorca_2019,Mallorca,2,1,3,3
+2019-09-01,Villarreal_Real Madrid_2019,Real Madrid,1,2,3,3
+2019-09-01,Valencia_Mallorca_2019,Valencia,2,1,3,3
+2019-09-01,Ath Madrid_Eibar_2019,Ath Madrid,2,1,3,3
+2019-09-01,Ath Madrid_Eibar_2019,Eibar,1,3,3,3
+2019-09-01,Espanol_Granada_2019,Espanol,2,1,3,3
+2019-09-01,Espanol_Granada_2019,Granada,1,2,3,3
+2019-09-13,Mallorca_Ath Bilbao_2019,Mallorca,3,1,4,5
+2019-09-13,Mallorca_Ath Bilbao_2019,Ath Bilbao,2,2,4,5
+2019-09-14,Leganes_Villarreal_2019,Villarreal,2,2,4,5
+2019-09-14,Barcelona_Valencia_2019,Valencia,2,2,4,5
+2019-09-14,Sociedad_Ath Madrid_2019,Sociedad,1,3,4,5
+2019-09-14,Leganes_Villarreal_2019,Leganes,3,1,4,5
+2019-09-14,Sociedad_Ath Madrid_2019,Ath Madrid,2,2,4,5
+2019-09-14,Real Madrid_Levante_2019,Real Madrid,2,2,4,5
+2019-09-14,Barcelona_Valencia_2019,Barcelona,2,2,4,5
+2019-09-14,Real Madrid_Levante_2019,Levante,2,2,4,5
+2019-09-15,Celta_Granada_2019,Granada,1,3,4,5
+2019-09-15,Alaves_Sevilla_2019,Sevilla,1,3,4,5
+2019-09-15,Eibar_Espanol_2019,Espanol,2,2,4,5
+2019-09-15,Alaves_Sevilla_2019,Alaves,3,1,4,5
+2019-09-15,Celta_Granada_2019,Celta,3,1,4,5
+2019-09-15,Valladolid_Osasuna_2019,Osasuna,2,2,4,5
+2019-09-15,Betis_Getafe_2019,Betis,3,1,4,5
+2019-09-15,Eibar_Espanol_2019,Eibar,1,3,4,5
+2019-09-15,Valladolid_Osasuna_2019,Valladolid,1,3,4,5
+2019-09-15,Betis_Getafe_2019,Getafe,2,2,4,5
+2019-09-20,Osasuna_Betis_2019,Osasuna,3,2,5,6
+2019-09-20,Osasuna_Betis_2019,Betis,3,2,5,6
+2019-09-21,Ath Madrid_Celta_2019,Celta,3,2,5,6
+2019-09-21,Villarreal_Valladolid_2019,Villarreal,3,2,5,6
+2019-09-21,Granada_Barcelona_2019,Granada,2,3,5,6
+2019-09-21,Ath Madrid_Celta_2019,Ath Madrid,3,2,5,6
+2019-09-21,Levante_Eibar_2019,Levante,3,2,5,6
+2019-09-21,Levante_Eibar_2019,Eibar,1,4,5,6
+2019-09-21,Granada_Barcelona_2019,Barcelona,2,3,5,6
+2019-09-21,Villarreal_Valladolid_2019,Valladolid,1,4,5,6
+2019-09-22,Valencia_Leganes_2019,Valencia,3,2,5,6
+2019-09-22,Ath Bilbao_Alaves_2019,Ath Bilbao,3,2,5,6
+2019-09-22,Valencia_Leganes_2019,Leganes,3,2,5,6
+2019-09-22,Getafe_Mallorca_2019,Getafe,3,2,5,6
+2019-09-22,Getafe_Mallorca_2019,Mallorca,3,2,5,6
+2019-09-22,Sevilla_Real Madrid_2019,Sevilla,2,3,5,6
+2019-09-22,Espanol_Sociedad_2019,Sociedad,1,4,5,6
+2019-09-22,Espanol_Sociedad_2019,Espanol,3,2,5,6
+2019-09-22,Sevilla_Real Madrid_2019,Real Madrid,2,3,5,6
+2019-09-22,Ath Bilbao_Alaves_2019,Alaves,3,2,5,6
+2019-09-24,Barcelona_Villarreal_2019,Villarreal,3,3,6,7
+2019-09-24,Betis_Levante_2019,Levante,3,3,6,7
+2019-09-24,Valladolid_Granada_2019,Valladolid,2,4,6,7
+2019-09-24,Betis_Levante_2019,Betis,4,2,6,7
+2019-09-24,Barcelona_Villarreal_2019,Barcelona,3,3,6,7
+2019-09-24,Valladolid_Granada_2019,Granada,2,4,6,7
+2019-09-25,Mallorca_Ath Madrid_2019,Ath Madrid,3,3,6,7
+2019-09-25,Leganes_Ath Bilbao_2019,Leganes,4,2,6,7
+2019-09-25,Valencia_Getafe_2019,Valencia,4,2,6,7
+2019-09-25,Mallorca_Ath Madrid_2019,Mallorca,4,2,6,7
+2019-09-25,Valencia_Getafe_2019,Getafe,3,3,6,7
+2019-09-25,Leganes_Ath Bilbao_2019,Ath Bilbao,3,3,6,7
+2019-09-25,Real Madrid_Osasuna_2019,Osasuna,3,3,6,7
+2019-09-25,Real Madrid_Osasuna_2019,Real Madrid,3,3,6,7
+2019-09-26,Celta_Espanol_2019,Celta,4,2,6,7
+2019-09-26,Eibar_Sevilla_2019,Sevilla,2,4,6,7
+2019-09-26,Sociedad_Alaves_2019,Alaves,3,3,6,7
+2019-09-26,Sociedad_Alaves_2019,Sociedad,2,4,6,7
+2019-09-26,Eibar_Sevilla_2019,Eibar,2,4,6,7
+2019-09-26,Celta_Espanol_2019,Espanol,3,3,6,7
+2019-09-27,Villarreal_Betis_2019,Villarreal,4,3,7,7
+2019-09-27,Villarreal_Betis_2019,Betis,4,3,7,7
+2019-09-28,Ath Madrid_Real Madrid_2019,Ath Madrid,4,3,7,7
+2019-09-28,Getafe_Barcelona_2019,Getafe,4,3,7,7
+2019-09-28,Getafe_Barcelona_2019,Barcelona,3,4,7,7
+2019-09-28,Granada_Leganes_2019,Granada,3,4,7,7
+2019-09-28,Granada_Leganes_2019,Leganes,4,3,7,7
+2019-09-28,Ath Madrid_Real Madrid_2019,Real Madrid,3,4,7,7
+2019-09-28,Ath Bilbao_Valencia_2019,Valencia,4,3,7,7
+2019-09-28,Ath Bilbao_Valencia_2019,Ath Bilbao,4,3,7,7
+2019-09-29,Espanol_Valladolid_2019,Valladolid,2,5,7,7
+2019-09-29,Espanol_Valladolid_2019,Espanol,4,3,7,7
+2019-09-29,Levante_Osasuna_2019,Levante,4,3,7,7
+2019-09-29,Eibar_Celta_2019,Celta,4,3,7,7
+2019-09-29,Levante_Osasuna_2019,Osasuna,3,4,7,7
+2019-09-29,Alaves_Mallorca_2019,Mallorca,4,3,7,7
+2019-09-29,Alaves_Mallorca_2019,Alaves,4,3,7,7
+2019-09-29,Sevilla_Sociedad_2019,Sociedad,2,5,7,7
+2019-09-29,Eibar_Celta_2019,Eibar,3,4,7,7
+2019-09-29,Sevilla_Sociedad_2019,Sevilla,3,4,7,7
+2019-10-04,Betis_Eibar_2019,Betis,5,3,8,8
+2019-10-04,Betis_Eibar_2019,Eibar,3,5,8,8
+2019-10-05,Valencia_Alaves_2019,Valencia,5,3,8,8
+2019-10-05,Valencia_Alaves_2019,Alaves,4,4,8,8
+2019-10-05,Osasuna_Villarreal_2019,Osasuna,4,4,8,8
+2019-10-05,Real Madrid_Granada_2019,Real Madrid,4,4,8,8
+2019-10-05,Real Madrid_Granada_2019,Granada,3,5,8,8
+2019-10-05,Leganes_Levante_2019,Levante,4,4,8,8
+2019-10-05,Leganes_Levante_2019,Leganes,5,3,8,8
+2019-10-05,Osasuna_Villarreal_2019,Villarreal,4,4,8,8
+2019-10-06,Mallorca_Espanol_2019,Mallorca,5,3,8,8
+2019-10-06,Valladolid_Ath Madrid_2019,Valladolid,3,5,8,8
+2019-10-06,Sociedad_Getafe_2019,Getafe,4,4,8,8
+2019-10-06,Barcelona_Sevilla_2019,Barcelona,4,4,8,8
+2019-10-06,Sociedad_Getafe_2019,Sociedad,3,5,8,8
+2019-10-06,Mallorca_Espanol_2019,Espanol,4,4,8,8
+2019-10-06,Barcelona_Sevilla_2019,Sevilla,3,5,8,8
+2019-10-06,Celta_Ath Bilbao_2019,Celta,5,3,8,8
+2019-10-06,Valladolid_Ath Madrid_2019,Ath Madrid,4,4,8,8
+2019-10-06,Celta_Ath Bilbao_2019,Ath Bilbao,4,4,8,8
+2019-10-18,Granada_Osasuna_2019,Granada,4,5,9,10
+2019-10-18,Granada_Osasuna_2019,Osasuna,4,5,9,10
+2019-10-19,Ath Madrid_Valencia_2019,Ath Madrid,5,4,9,10
+2019-10-19,Eibar_Barcelona_2019,Eibar,4,5,9,10
+2019-10-19,Getafe_Leganes_2019,Leganes,5,4,9,10
+2019-10-19,Ath Madrid_Valencia_2019,Valencia,5,4,9,10
+2019-10-19,Eibar_Barcelona_2019,Barcelona,4,5,9,10
+2019-10-19,Getafe_Leganes_2019,Getafe,5,4,9,10
+2019-10-19,Mallorca_Real Madrid_2019,Real Madrid,4,5,9,10
+2019-10-19,Mallorca_Real Madrid_2019,Mallorca,6,3,9,10
+2019-10-20,Ath Bilbao_Valladolid_2019,Valladolid,3,6,9,10
+2019-10-20,Espanol_Villarreal_2019,Villarreal,4,5,9,10
+2019-10-20,Espanol_Villarreal_2019,Espanol,5,4,9,10
+2019-10-20,Sociedad_Betis_2019,Sociedad,4,5,9,10
+2019-10-20,Ath Bilbao_Valladolid_2019,Ath Bilbao,5,4,9,10
+2019-10-20,Sevilla_Levante_2019,Levante,4,5,9,10
+2019-10-20,Alaves_Celta_2019,Alaves,5,4,9,10
+2019-10-20,Sociedad_Betis_2019,Betis,5,4,9,10
+2019-10-20,Sevilla_Levante_2019,Sevilla,4,5,9,10
+2019-10-20,Alaves_Celta_2019,Celta,5,4,9,10
+2019-10-25,Villarreal_Alaves_2019,Villarreal,5,5,10,11
+2019-10-25,Villarreal_Alaves_2019,Alaves,5,5,10,11
+2019-10-26,Ath Madrid_Ath Bilbao_2019,Ath Bilbao,5,5,10,11
+2019-10-26,Leganes_Mallorca_2019,Leganes,6,4,10,11
+2019-10-26,Leganes_Mallorca_2019,Mallorca,6,4,10,11
+2019-10-26,Valladolid_Eibar_2019,Valladolid,4,6,10,11
+2019-10-26,Ath Madrid_Ath Bilbao_2019,Ath Madrid,6,4,10,11
+2019-10-26,Valladolid_Eibar_2019,Eibar,4,6,10,11
+2019-10-27,Levante_Espanol_2019,Levante,5,5,10,11
+2019-10-27,Sevilla_Getafe_2019,Sevilla,5,5,10,11
+2019-10-27,Osasuna_Valencia_2019,Valencia,5,5,10,11
+2019-10-27,Osasuna_Valencia_2019,Osasuna,5,5,10,11
+2019-10-27,Granada_Betis_2019,Betis,5,5,10,11
+2019-10-27,Celta_Sociedad_2019,Celta,6,4,10,11
+2019-10-27,Sevilla_Getafe_2019,Getafe,5,5,10,11
+2019-10-27,Celta_Sociedad_2019,Sociedad,4,6,10,11
+2019-10-27,Levante_Espanol_2019,Espanol,5,5,10,11
+2019-10-27,Granada_Betis_2019,Granada,5,5,10,11
+2019-10-29,Alaves_Ath Madrid_2019,Alaves,6,5,11,12
+2019-10-29,Alaves_Ath Madrid_2019,Ath Madrid,6,5,11,12
+2019-10-29,Barcelona_Valladolid_2019,Valladolid,4,7,11,12
+2019-10-29,Barcelona_Valladolid_2019,Barcelona,5,5,10,12
+2019-10-30,Ath Bilbao_Espanol_2019,Espanol,5,6,11,12
+2019-10-30,Valencia_Sevilla_2019,Valencia,6,5,11,12
+2019-10-30,Sociedad_Levante_2019,Sociedad,5,6,11,12
+2019-10-30,Betis_Celta_2019,Betis,6,5,11,12
+2019-10-30,Real Madrid_Leganes_2019,Leganes,6,5,11,12
+2019-10-30,Sociedad_Levante_2019,Levante,5,6,11,12
+2019-10-30,Real Madrid_Leganes_2019,Real Madrid,5,5,10,12
+2019-10-30,Valencia_Sevilla_2019,Sevilla,5,6,11,12
+2019-10-30,Betis_Celta_2019,Celta,6,5,11,12
+2019-10-30,Ath Bilbao_Espanol_2019,Ath Bilbao,6,5,11,12
+2019-10-31,Eibar_Villarreal_2019,Villarreal,5,6,11,12
+2019-10-31,Mallorca_Osasuna_2019,Mallorca,7,4,11,12
+2019-10-31,Eibar_Villarreal_2019,Eibar,5,6,11,12
+2019-10-31,Getafe_Granada_2019,Granada,5,6,11,12
+2019-10-31,Mallorca_Osasuna_2019,Osasuna,5,6,11,12
+2019-10-31,Getafe_Granada_2019,Getafe,6,5,11,12
+2019-11-02,Sevilla_Ath Madrid_2019,Sevilla,6,6,12,12
+2019-11-02,Levante_Barcelona_2019,Levante,6,6,12,12
+2019-11-02,Sevilla_Ath Madrid_2019,Ath Madrid,6,6,12,12
+2019-11-02,Espanol_Valencia_2019,Valencia,6,6,12,12
+2019-11-02,Levante_Barcelona_2019,Barcelona,5,6,11,12
+2019-11-02,Real Madrid_Betis_2019,Betis,6,6,12,12
+2019-11-02,Espanol_Valencia_2019,Espanol,6,6,12,12
+2019-11-02,Real Madrid_Betis_2019,Real Madrid,6,5,11,12
+2019-11-03,Osasuna_Alaves_2019,Osasuna,6,6,12,12
+2019-11-03,Villarreal_Ath Bilbao_2019,Villarreal,6,6,12,12
+2019-11-03,Granada_Sociedad_2019,Granada,6,6,12,12
+2019-11-03,Osasuna_Alaves_2019,Alaves,6,6,12,12
+2019-11-03,Granada_Sociedad_2019,Sociedad,5,7,12,12
+2019-11-03,Leganes_Eibar_2019,Eibar,5,7,12,12
+2019-11-03,Villarreal_Ath Bilbao_2019,Ath Bilbao,6,6,12,12
+2019-11-03,Valladolid_Mallorca_2019,Mallorca,7,5,12,12
+2019-11-03,Leganes_Eibar_2019,Leganes,7,5,12,12
+2019-11-03,Celta_Getafe_2019,Celta,7,5,12,12
+2019-11-03,Celta_Getafe_2019,Getafe,6,6,12,12
+2019-11-03,Valladolid_Mallorca_2019,Valladolid,5,7,12,12
+2019-11-08,Sociedad_Leganes_2019,Sociedad,6,7,13,13
+2019-11-08,Sociedad_Leganes_2019,Leganes,7,6,13,13
+2019-11-09,Eibar_Real Madrid_2019,Real Madrid,6,6,12,13
+2019-11-09,Eibar_Real Madrid_2019,Eibar,6,7,13,13
+2019-11-09,Valencia_Granada_2019,Granada,6,7,13,13
+2019-11-09,Alaves_Valladolid_2019,Valladolid,5,8,13,13
+2019-11-09,Valencia_Granada_2019,Valencia,7,6,13,13
+2019-11-09,Alaves_Valladolid_2019,Alaves,7,6,13,13
+2019-11-09,Barcelona_Celta_2019,Barcelona,6,6,12,13
+2019-11-09,Barcelona_Celta_2019,Celta,7,6,13,13
+2019-11-10,Getafe_Osasuna_2019,Getafe,7,6,13,13
+2019-11-10,Ath Bilbao_Levante_2019,Ath Bilbao,7,6,13,13
+2019-11-10,Mallorca_Villarreal_2019,Villarreal,6,7,13,13
+2019-11-10,Getafe_Osasuna_2019,Osasuna,6,7,13,13
+2019-11-10,Betis_Sevilla_2019,Sevilla,6,7,13,13
+2019-11-10,Ath Bilbao_Levante_2019,Levante,6,7,13,13
+2019-11-10,Betis_Sevilla_2019,Betis,7,6,13,13
+2019-11-10,Mallorca_Villarreal_2019,Mallorca,8,5,13,13
+2019-11-10,Ath Madrid_Espanol_2019,Espanol,6,7,13,13
+2019-11-10,Ath Madrid_Espanol_2019,Ath Madrid,7,6,13,13
+2019-11-22,Levante_Mallorca_2019,Levante,7,7,14,15
+2019-11-22,Levante_Mallorca_2019,Mallorca,8,6,14,15
+2019-11-23,Granada_Ath Madrid_2019,Granada,7,7,14,15
+2019-11-23,Real Madrid_Sociedad_2019,Real Madrid,7,6,13,15
+2019-11-23,Real Madrid_Sociedad_2019,Sociedad,6,8,14,15
+2019-11-23,Granada_Ath Madrid_2019,Ath Madrid,7,7,14,15
+2019-11-23,Leganes_Barcelona_2019,Barcelona,6,7,13,15
+2019-11-23,Betis_Valencia_2019,Betis,8,6,14,15
+2019-11-23,Leganes_Barcelona_2019,Leganes,8,6,14,15
+2019-11-23,Betis_Valencia_2019,Valencia,7,7,14,15
+2019-11-24,Valladolid_Sevilla_2019,Sevilla,6,8,14,15
+2019-11-24,Eibar_Alaves_2019,Eibar,7,7,14,15
+2019-11-24,Villarreal_Celta_2019,Villarreal,7,7,14,15
+2019-11-24,Eibar_Alaves_2019,Alaves,7,7,14,15
+2019-11-24,Villarreal_Celta_2019,Celta,7,7,14,15
+2019-11-24,Espanol_Getafe_2019,Espanol,7,7,14,15
+2019-11-24,Osasuna_Ath Bilbao_2019,Osasuna,7,7,14,15
+2019-11-24,Valladolid_Sevilla_2019,Valladolid,6,8,14,15
+2019-11-24,Osasuna_Ath Bilbao_2019,Ath Bilbao,7,7,14,15
+2019-11-24,Espanol_Getafe_2019,Getafe,7,7,14,15
+2019-11-29,Celta_Valladolid_2019,Celta,8,7,15,16
+2019-11-29,Celta_Valladolid_2019,Valladolid,6,9,15,16
+2019-11-30,Alaves_Real Madrid_2019,Real Madrid,7,7,14,16
+2019-11-30,Valencia_Villarreal_2019,Valencia,8,7,15,16
+2019-11-30,Sociedad_Eibar_2019,Eibar,7,8,15,16
+2019-11-30,Alaves_Real Madrid_2019,Alaves,8,7,15,16
+2019-11-30,Mallorca_Betis_2019,Mallorca,9,6,15,16
+2019-11-30,Valencia_Villarreal_2019,Villarreal,7,8,15,16
+2019-11-30,Sociedad_Eibar_2019,Sociedad,7,8,15,16
+2019-11-30,Mallorca_Betis_2019,Betis,8,7,15,16
+2019-12-01,Ath Bilbao_Granada_2019,Granada,7,8,15,16
+2019-12-01,Ath Madrid_Barcelona_2019,Ath Madrid,8,7,15,16
+2019-12-01,Ath Bilbao_Granada_2019,Ath Bilbao,8,7,15,16
+2019-12-01,Getafe_Levante_2019,Getafe,8,7,15,16
+2019-12-01,Espanol_Osasuna_2019,Osasuna,7,8,15,16
+2019-12-01,Sevilla_Leganes_2019,Leganes,8,7,15,16
+2019-12-01,Ath Madrid_Barcelona_2019,Barcelona,6,8,14,16
+2019-12-01,Sevilla_Leganes_2019,Sevilla,7,8,15,16
+2019-12-01,Getafe_Levante_2019,Levante,7,8,15,16
+2019-12-01,Espanol_Osasuna_2019,Espanol,8,7,15,16
+2019-12-06,Villarreal_Ath Madrid_2019,Villarreal,8,8,16,17
+2019-12-06,Villarreal_Ath Madrid_2019,Ath Madrid,8,8,16,17
+2019-12-07,Barcelona_Mallorca_2019,Mallorca,9,7,16,17
+2019-12-07,Granada_Alaves_2019,Granada,8,8,16,17
+2019-12-07,Granada_Alaves_2019,Alaves,8,8,16,17
+2019-12-07,Barcelona_Mallorca_2019,Barcelona,7,8,15,17
+2019-12-07,Levante_Valencia_2019,Levante,8,8,16,17
+2019-12-07,Levante_Valencia_2019,Valencia,8,8,16,17
+2019-12-07,Real Madrid_Espanol_2019,Espanol,8,8,16,17
+2019-12-07,Real Madrid_Espanol_2019,Real Madrid,8,7,15,17
+2019-12-08,Leganes_Celta_2019,Leganes,9,7,16,17
+2019-12-08,Valladolid_Sociedad_2019,Valladolid,7,9,16,17
+2019-12-08,Betis_Ath Bilbao_2019,Betis,9,7,16,17
+2019-12-08,Osasuna_Sevilla_2019,Osasuna,8,8,16,17
+2019-12-08,Eibar_Getafe_2019,Getafe,8,8,16,17
+2019-12-08,Valladolid_Sociedad_2019,Sociedad,7,9,16,17
+2019-12-08,Betis_Ath Bilbao_2019,Ath Bilbao,8,8,16,17
+2019-12-08,Osasuna_Sevilla_2019,Sevilla,7,9,16,17
+2019-12-08,Leganes_Celta_2019,Celta,8,8,16,17
+2019-12-08,Eibar_Getafe_2019,Eibar,8,8,16,17
+2019-12-13,Alaves_Leganes_2019,Leganes,9,8,17,18
+2019-12-13,Alaves_Leganes_2019,Alaves,9,8,17,18
+2019-12-14,Ath Bilbao_Eibar_2019,Ath Bilbao,9,8,17,18
+2019-12-14,Granada_Levante_2019,Granada,9,8,17,18
+2019-12-14,Ath Madrid_Osasuna_2019,Osasuna,8,9,17,18
+2019-12-14,Ath Bilbao_Eibar_2019,Eibar,8,9,17,18
+2019-12-14,Ath Madrid_Osasuna_2019,Ath Madrid,9,8,17,18
+2019-12-14,Sociedad_Barcelona_2019,Sociedad,8,9,17,18
+2019-12-14,Granada_Levante_2019,Levante,8,9,17,18
+2019-12-14,Sociedad_Barcelona_2019,Barcelona,7,9,16,18
+2019-12-15,Celta_Mallorca_2019,Celta,9,8,17,18
+2019-12-15,Espanol_Betis_2019,Betis,9,8,17,18
+2019-12-15,Sevilla_Villarreal_2019,Sevilla,8,9,17,18
+2019-12-15,Getafe_Valladolid_2019,Getafe,9,8,17,18
+2019-12-15,Espanol_Betis_2019,Espanol,9,8,17,18
+2019-12-15,Valencia_Real Madrid_2019,Valencia,9,8,17,18
+2019-12-15,Celta_Mallorca_2019,Mallorca,9,8,17,18
+2019-12-15,Valencia_Real Madrid_2019,Real Madrid,8,8,16,18
+2019-12-15,Getafe_Valladolid_2019,Valladolid,7,10,17,18
+2019-12-15,Sevilla_Villarreal_2019,Villarreal,8,9,17,18
+2019-12-18,Barcelona_Real Madrid_2019,Barcelona,8,9,17,19
+2019-12-18,Barcelona_Real Madrid_2019,Real Madrid,8,9,17,19
+2019-12-20,Eibar_Granada_2019,Granada,9,9,18,19
+2019-12-20,Eibar_Granada_2019,Eibar,9,9,18,19
+2019-12-21,Valladolid_Valencia_2019,Valencia,9,9,18,19
+2019-12-21,Barcelona_Alaves_2019,Barcelona,9,9,18,19
+2019-12-21,Villarreal_Getafe_2019,Villarreal,9,9,18,19
+2019-12-21,Villarreal_Getafe_2019,Getafe,9,9,18,19
+2019-12-21,Mallorca_Sevilla_2019,Sevilla,8,10,18,19
+2019-12-21,Barcelona_Alaves_2019,Alaves,9,9,18,19
+2019-12-21,Valladolid_Valencia_2019,Valladolid,8,10,18,19
+2019-12-21,Mallorca_Sevilla_2019,Mallorca,10,8,18,19
+2019-12-22,Betis_Ath Madrid_2019,Ath Madrid,9,9,18,19
+2019-12-22,Betis_Ath Madrid_2019,Betis,10,8,18,19
+2019-12-22,Osasuna_Sociedad_2019,Osasuna,9,9,18,19
+2019-12-22,Leganes_Espanol_2019,Espanol,9,9,18,19
+2019-12-22,Leganes_Espanol_2019,Leganes,10,8,18,19
+2019-12-22,Levante_Celta_2019,Levante,9,9,18,19
+2019-12-22,Levante_Celta_2019,Celta,9,9,18,19
+2019-12-22,Real Madrid_Ath Bilbao_2019,Real Madrid,9,9,18,19
+2019-12-22,Real Madrid_Ath Bilbao_2019,Ath Bilbao,9,9,18,19
+2019-12-22,Osasuna_Sociedad_2019,Sociedad,8,10,18,19
+2020-01-03,Valladolid_Leganes_2019,Valladolid,9,10,19,21
+2020-01-03,Valladolid_Leganes_2019,Leganes,10,9,19,21
+2020-01-03,Sevilla_Ath Bilbao_2019,Ath Bilbao,9,10,19,21
+2020-01-03,Sevilla_Ath Bilbao_2019,Sevilla,9,10,19,21
+2020-01-04,Espanol_Barcelona_2019,Barcelona,9,10,19,21
+2020-01-04,Getafe_Real Madrid_2019,Real Madrid,9,10,19,21
+2020-01-04,Valencia_Eibar_2019,Eibar,9,10,19,21
+2020-01-04,Getafe_Real Madrid_2019,Getafe,10,9,19,21
+2020-01-04,Ath Madrid_Levante_2019,Levante,9,10,19,21
+2020-01-04,Espanol_Barcelona_2019,Espanol,10,9,19,21
+2020-01-04,Valencia_Eibar_2019,Valencia,10,9,19,21
+2020-01-04,Ath Madrid_Levante_2019,Ath Madrid,10,9,19,21
+2020-01-05,Alaves_Betis_2019,Betis,10,9,19,21
+2020-01-05,Sociedad_Villarreal_2019,Sociedad,9,10,19,21
+2020-01-05,Granada_Mallorca_2019,Granada,10,9,19,21
+2020-01-05,Granada_Mallorca_2019,Mallorca,10,9,19,21
+2020-01-05,Celta_Osasuna_2019,Celta,10,9,19,21
+2020-01-05,Alaves_Betis_2019,Alaves,10,9,19,21
+2020-01-05,Sociedad_Villarreal_2019,Villarreal,9,10,19,21
+2020-01-05,Celta_Osasuna_2019,Osasuna,9,10,19,21
+2020-01-17,Leganes_Getafe_2019,Getafe,10,10,20,23
+2020-01-17,Leganes_Getafe_2019,Leganes,11,9,20,23
+2020-01-18,Osasuna_Valladolid_2019,Osasuna,10,10,20,23
+2020-01-18,Real Madrid_Sevilla_2019,Sevilla,9,11,20,23
+2020-01-18,Eibar_Ath Madrid_2019,Ath Madrid,10,10,20,23
+2020-01-18,Real Madrid_Sevilla_2019,Real Madrid,10,10,20,23
+2020-01-18,Levante_Alaves_2019,Alaves,10,10,20,23
+2020-01-18,Eibar_Ath Madrid_2019,Eibar,10,10,20,23
+2020-01-18,Osasuna_Valladolid_2019,Valladolid,9,11,20,23
+2020-01-18,Levante_Alaves_2019,Levante,10,10,20,23
+2020-01-19,Villarreal_Espanol_2019,Villarreal,10,10,20,23
+2020-01-19,Ath Bilbao_Celta_2019,Celta,10,10,20,23
+2020-01-19,Barcelona_Granada_2019,Barcelona,10,10,20,23
+2020-01-19,Mallorca_Valencia_2019,Valencia,10,10,20,23
+2020-01-19,Betis_Sociedad_2019,Sociedad,9,11,20,23
+2020-01-19,Ath Bilbao_Celta_2019,Ath Bilbao,10,10,20,23
+2020-01-19,Mallorca_Valencia_2019,Mallorca,11,9,20,23
+2020-01-19,Villarreal_Espanol_2019,Espanol,10,10,20,23
+2020-01-19,Betis_Sociedad_2019,Betis,11,9,20,23
+2020-01-19,Barcelona_Granada_2019,Granada,10,10,20,23
+2020-01-24,Osasuna_Levante_2019,Osasuna,11,10,21,24
+2020-01-24,Osasuna_Levante_2019,Levante,10,11,21,24
+2020-01-25,Sevilla_Granada_2019,Granada,10,11,21,24
+2020-01-25,Alaves_Villarreal_2019,Villarreal,10,11,21,24
+2020-01-25,Espanol_Ath Bilbao_2019,Espanol,11,10,21,24
+2020-01-25,Valencia_Barcelona_2019,Valencia,11,10,21,24
+2020-01-25,Alaves_Villarreal_2019,Alaves,11,10,21,24
+2020-01-25,Sevilla_Granada_2019,Sevilla,10,11,21,24
+2020-01-25,Espanol_Ath Bilbao_2019,Ath Bilbao,10,11,21,24
+2020-01-25,Valencia_Barcelona_2019,Barcelona,10,11,21,24
+2020-01-26,Valladolid_Real Madrid_2019,Valladolid,10,11,21,24
+2020-01-26,Getafe_Betis_2019,Betis,11,10,21,24
+2020-01-26,Celta_Eibar_2019,Eibar,10,11,21,24
+2020-01-26,Getafe_Betis_2019,Getafe,11,10,21,24
+2020-01-26,Ath Madrid_Leganes_2019,Leganes,11,10,21,24
+2020-01-26,Ath Madrid_Leganes_2019,Ath Madrid,11,10,21,24
+2020-01-26,Sociedad_Mallorca_2019,Sociedad,10,11,21,24
+2020-01-26,Valladolid_Real Madrid_2019,Real Madrid,10,11,21,24
+2020-01-26,Sociedad_Mallorca_2019,Mallorca,11,10,21,24
+2020-01-26,Celta_Eibar_2019,Celta,11,10,21,24
+2020-02-01,Real Madrid_Ath Madrid_2019,Real Madrid,11,11,22,25
+2020-02-01,Real Madrid_Ath Madrid_2019,Ath Madrid,11,11,22,25
+2020-02-01,Mallorca_Valladolid_2019,Mallorca,12,10,22,25
+2020-02-01,Granada_Espanol_2019,Granada,11,11,22,25
+2020-02-01,Mallorca_Valladolid_2019,Valladolid,10,12,22,25
+2020-02-01,Granada_Espanol_2019,Espanol,11,11,22,25
+2020-02-01,Valencia_Celta_2019,Valencia,12,10,22,25
+2020-02-01,Valencia_Celta_2019,Celta,11,11,22,25
+2020-02-02,Leganes_Sociedad_2019,Leganes,12,10,22,25
+2020-02-02,Villarreal_Osasuna_2019,Osasuna,11,11,22,25
+2020-02-02,Ath Bilbao_Getafe_2019,Ath Bilbao,11,11,22,25
+2020-02-02,Sevilla_Alaves_2019,Sevilla,11,11,22,25
+2020-02-02,Leganes_Sociedad_2019,Sociedad,10,12,22,25
+2020-02-02,Eibar_Betis_2019,Eibar,11,11,22,25
+2020-02-02,Sevilla_Alaves_2019,Alaves,11,11,22,25
+2020-02-02,Barcelona_Levante_2019,Levante,10,12,22,25
+2020-02-02,Barcelona_Levante_2019,Barcelona,11,11,22,25
+2020-02-02,Eibar_Betis_2019,Betis,11,11,22,25
+2020-02-02,Ath Bilbao_Getafe_2019,Getafe,11,11,22,25
+2020-02-02,Villarreal_Osasuna_2019,Villarreal,11,11,22,25
+2020-02-07,Alaves_Eibar_2019,Alaves,12,11,23,26
+2020-02-07,Alaves_Eibar_2019,Eibar,11,12,23,26
+2020-02-08,Getafe_Valencia_2019,Valencia,12,11,23,26
+2020-02-08,Levante_Leganes_2019,Leganes,12,11,23,26
+2020-02-08,Levante_Leganes_2019,Levante,11,12,23,26
+2020-02-08,Valladolid_Villarreal_2019,Valladolid,11,12,23,26
+2020-02-08,Ath Madrid_Granada_2019,Granada,11,12,23,26
+2020-02-08,Ath Madrid_Granada_2019,Ath Madrid,12,11,23,26
+2020-02-08,Valladolid_Villarreal_2019,Villarreal,11,12,23,26
+2020-02-08,Getafe_Valencia_2019,Getafe,12,11,23,26
+2020-02-09,Celta_Sevilla_2019,Sevilla,11,12,23,26
+2020-02-09,Osasuna_Real Madrid_2019,Real Madrid,11,12,23,26
+2020-02-09,Betis_Barcelona_2019,Barcelona,11,12,23,26
+2020-02-09,Sociedad_Ath Bilbao_2019,Ath Bilbao,11,12,23,26
+2020-02-09,Espanol_Mallorca_2019,Mallorca,12,11,23,26
+2020-02-09,Osasuna_Real Madrid_2019,Osasuna,12,11,23,26
+2020-02-09,Celta_Sevilla_2019,Celta,12,11,23,26
+2020-02-09,Espanol_Mallorca_2019,Espanol,12,11,23,26
+2020-02-09,Sociedad_Ath Bilbao_2019,Sociedad,11,12,23,26
+2020-02-09,Betis_Barcelona_2019,Betis,12,11,23,26
+2020-02-14,Valencia_Ath Madrid_2019,Valencia,13,11,24,27
+2020-02-14,Valencia_Ath Madrid_2019,Ath Madrid,12,12,24,27
+2020-02-15,Mallorca_Alaves_2019,Mallorca,13,11,24,27
+2020-02-15,Barcelona_Getafe_2019,Barcelona,12,12,24,27
+2020-02-15,Granada_Valladolid_2019,Granada,12,12,24,27
+2020-02-15,Villarreal_Levante_2019,Villarreal,12,12,24,27
+2020-02-15,Barcelona_Getafe_2019,Getafe,12,12,24,27
+2020-02-15,Villarreal_Levante_2019,Levante,11,13,24,27
+2020-02-15,Mallorca_Alaves_2019,Alaves,12,12,24,27
+2020-02-15,Granada_Valladolid_2019,Valladolid,11,13,24,27
+2020-02-16,Leganes_Betis_2019,Leganes,13,11,24,27
+2020-02-16,Leganes_Betis_2019,Betis,12,12,24,27
+2020-02-16,Ath Bilbao_Osasuna_2019,Ath Bilbao,12,12,24,27
+2020-02-16,Real Madrid_Celta_2019,Celta,12,12,24,27
+2020-02-16,Real Madrid_Celta_2019,Real Madrid,12,12,24,27
+2020-02-16,Sevilla_Espanol_2019,Espanol,12,12,24,27
+2020-02-16,Sevilla_Espanol_2019,Sevilla,12,12,24,27
+2020-02-16,Ath Bilbao_Osasuna_2019,Osasuna,12,12,24,27
+2020-02-21,Betis_Mallorca_2019,Mallorca,13,12,25,28
+2020-02-21,Betis_Mallorca_2019,Betis,13,12,25,28
+2020-02-22,Celta_Leganes_2019,Celta,13,12,25,28
+2020-02-22,Sociedad_Valencia_2019,Valencia,13,12,25,28
+2020-02-22,Barcelona_Eibar_2019,Barcelona,13,12,25,28
+2020-02-22,Sociedad_Valencia_2019,Sociedad,12,12,24,28
+2020-02-22,Celta_Leganes_2019,Leganes,13,12,25,28
+2020-02-22,Barcelona_Eibar_2019,Eibar,11,13,24,28
+2020-02-22,Levante_Real Madrid_2019,Real Madrid,12,13,25,28
+2020-02-22,Levante_Real Madrid_2019,Levante,12,13,25,28
+2020-02-23,Valladolid_Espanol_2019,Espanol,12,13,25,28
+2020-02-23,Alaves_Ath Bilbao_2019,Alaves,13,12,25,28
+2020-02-23,Ath Madrid_Villarreal_2019,Villarreal,12,13,25,28
+2020-02-23,Ath Madrid_Villarreal_2019,Ath Madrid,13,12,25,28
+2020-02-23,Getafe_Sevilla_2019,Sevilla,12,13,25,28
+2020-02-23,Valladolid_Espanol_2019,Valladolid,12,13,25,28
+2020-02-23,Getafe_Sevilla_2019,Getafe,13,12,25,28
+2020-02-23,Alaves_Ath Bilbao_2019,Ath Bilbao,12,13,25,28
+2020-02-23,Osasuna_Granada_2019,Granada,12,13,25,28
+2020-02-23,Osasuna_Granada_2019,Osasuna,13,12,25,28
+2020-02-28,Sociedad_Valladolid_2019,Valladolid,12,14,26,29
+2020-02-28,Sociedad_Valladolid_2019,Sociedad,13,12,25,29
+2020-02-29,Eibar_Levante_2019,Levante,12,14,26,29
+2020-02-29,Leganes_Alaves_2019,Leganes,14,12,26,29
+2020-02-29,Valencia_Betis_2019,Valencia,14,12,26,29
+2020-02-29,Valencia_Betis_2019,Betis,13,13,26,29
+2020-02-29,Eibar_Levante_2019,Eibar,12,13,25,29
+2020-02-29,Granada_Celta_2019,Granada,13,13,26,29
+2020-02-29,Leganes_Alaves_2019,Alaves,13,13,26,29
+2020-02-29,Granada_Celta_2019,Celta,13,13,26,29
+2020-03-01,Ath Bilbao_Villarreal_2019,Villarreal,12,14,26,29
+2020-03-01,Real Madrid_Barcelona_2019,Real Madrid,13,13,26,29
+2020-03-01,Espanol_Ath Madrid_2019,Espanol,13,13,26,29
+2020-03-01,Espanol_Ath Madrid_2019,Ath Madrid,13,13,26,29
+2020-03-01,Sevilla_Osasuna_2019,Sevilla,13,13,26,29
+2020-03-01,Mallorca_Getafe_2019,Getafe,13,13,26,29
+2020-03-01,Mallorca_Getafe_2019,Mallorca,14,12,26,29
+2020-03-01,Ath Bilbao_Villarreal_2019,Ath Bilbao,13,13,26,29
+2020-03-01,Real Madrid_Barcelona_2019,Barcelona,13,13,26,29
+2020-03-01,Sevilla_Osasuna_2019,Osasuna,13,13,26,29
+2020-03-06,Alaves_Valencia_2019,Valencia,14,13,27,30
+2020-03-06,Alaves_Valencia_2019,Alaves,14,13,27,30
+2020-03-07,Barcelona_Sociedad_2019,Sociedad,13,13,26,30
+2020-03-07,Eibar_Mallorca_2019,Mallorca,14,13,27,30
+2020-03-07,Ath Madrid_Sevilla_2019,Ath Madrid,14,13,27,30
+2020-03-07,Getafe_Celta_2019,Getafe,14,13,27,30
+2020-03-07,Getafe_Celta_2019,Celta,13,14,27,30
+2020-03-07,Eibar_Mallorca_2019,Eibar,13,13,26,30
+2020-03-07,Ath Madrid_Sevilla_2019,Sevilla,13,14,27,30
+2020-03-07,Barcelona_Sociedad_2019,Barcelona,14,13,27,30
+2020-03-08,Betis_Real Madrid_2019,Real Madrid,13,14,27,30
+2020-03-08,Levante_Granada_2019,Levante,13,14,27,30
+2020-03-08,Villarreal_Leganes_2019,Villarreal,13,14,27,30
+2020-03-08,Osasuna_Espanol_2019,Espanol,13,14,27,30
+2020-03-08,Valladolid_Ath Bilbao_2019,Valladolid,13,14,27,30
+2020-03-08,Valladolid_Ath Bilbao_2019,Ath Bilbao,13,14,27,30
+2020-03-08,Osasuna_Espanol_2019,Osasuna,14,13,27,30
+2020-03-08,Levante_Granada_2019,Granada,13,14,27,30
+2020-03-08,Villarreal_Leganes_2019,Leganes,14,13,27,30
+2020-03-08,Betis_Real Madrid_2019,Betis,14,13,27,30
+2020-03-10,Eibar_Sociedad_2019,Eibar,14,13,27,31
+2020-03-10,Eibar_Sociedad_2019,Sociedad,13,14,27,31
+2020-06-11,Sevilla_Betis_2019,Betis,14,14,28,44
+2020-06-11,Sevilla_Betis_2019,Sevilla,14,14,28,44
+2020-06-12,Valencia_Levante_2019,Valencia,15,13,28,44
+2020-06-12,Granada_Getafe_2019,Getafe,14,14,28,44
+2020-06-12,Valencia_Levante_2019,Levante,13,15,28,44
+2020-06-12,Granada_Getafe_2019,Granada,14,14,28,44
+2020-06-13,Celta_Villarreal_2019,Celta,14,14,28,44
+2020-06-13,Celta_Villarreal_2019,Villarreal,13,15,28,44
+2020-06-13,Mallorca_Barcelona_2019,Barcelona,14,14,28,44
+2020-06-13,Espanol_Alaves_2019,Alaves,14,14,28,44
+2020-06-13,Espanol_Alaves_2019,Espanol,14,14,28,44
+2020-06-13,Leganes_Valladolid_2019,Leganes,15,13,28,44
+2020-06-13,Mallorca_Barcelona_2019,Mallorca,15,13,28,44
+2020-06-13,Leganes_Valladolid_2019,Valladolid,13,15,28,44
+2020-06-14,Ath Bilbao_Ath Madrid_2019,Ath Bilbao,14,14,28,44
+2020-06-14,Real Madrid_Eibar_2019,Real Madrid,14,14,28,44
+2020-06-14,Sociedad_Osasuna_2019,Sociedad,14,14,28,44
+2020-06-14,Real Madrid_Eibar_2019,Eibar,14,14,28,44
+2020-06-14,Sociedad_Osasuna_2019,Osasuna,14,14,28,44
+2020-06-14,Ath Bilbao_Ath Madrid_2019,Ath Madrid,14,14,28,44
+2020-06-15,Levante_Sevilla_2019,Sevilla,14,15,29,44
+2020-06-15,Betis_Granada_2019,Granada,14,15,29,44
+2020-06-15,Levante_Sevilla_2019,Levante,14,15,29,44
+2020-06-15,Betis_Granada_2019,Betis,15,14,29,44
+2020-06-16,Getafe_Espanol_2019,Espanol,14,15,29,45
+2020-06-16,Getafe_Espanol_2019,Getafe,15,14,29,45
+2020-06-16,Barcelona_Leganes_2019,Leganes,15,14,29,45
+2020-06-16,Barcelona_Leganes_2019,Barcelona,15,14,29,45
+2020-06-16,Villarreal_Mallorca_2019,Mallorca,15,14,29,45
+2020-06-16,Villarreal_Mallorca_2019,Villarreal,14,15,29,45
+2020-06-17,Eibar_Ath Bilbao_2019,Eibar,15,14,29,45
+2020-06-17,Osasuna_Ath Madrid_2019,Osasuna,15,14,29,45
+2020-06-17,Eibar_Ath Bilbao_2019,Ath Bilbao,14,15,29,45
+2020-06-17,Osasuna_Ath Madrid_2019,Ath Madrid,14,15,29,45
+2020-06-17,Valladolid_Celta_2019,Celta,14,15,29,45
+2020-06-17,Valladolid_Celta_2019,Valladolid,14,15,29,45
+2020-06-18,Real Madrid_Valencia_2019,Real Madrid,15,14,29,45
+2020-06-18,Real Madrid_Valencia_2019,Valencia,15,14,29,45
+2020-06-18,Alaves_Sociedad_2019,Alaves,15,14,29,45
+2020-06-18,Alaves_Sociedad_2019,Sociedad,14,15,29,45
+2020-06-19,Mallorca_Leganes_2019,Mallorca,16,14,30,45
+2020-06-19,Sevilla_Barcelona_2019,Sevilla,15,15,30,45
+2020-06-19,Sevilla_Barcelona_2019,Barcelona,15,15,30,45
+2020-06-19,Granada_Villarreal_2019,Granada,15,15,30,45
+2020-06-19,Mallorca_Leganes_2019,Leganes,15,15,30,45
+2020-06-19,Granada_Villarreal_2019,Villarreal,14,16,30,45
+2020-06-20,Ath Madrid_Valladolid_2019,Valladolid,14,16,30,45
+2020-06-20,Ath Madrid_Valladolid_2019,Ath Madrid,15,15,30,45
+2020-06-20,Getafe_Eibar_2019,Getafe,16,14,30,45
+2020-06-20,Ath Bilbao_Betis_2019,Betis,15,15,30,45
+2020-06-20,Ath Bilbao_Betis_2019,Ath Bilbao,15,15,30,45
+2020-06-20,Espanol_Levante_2019,Levante,14,16,30,45
+2020-06-20,Getafe_Eibar_2019,Eibar,15,15,30,45
+2020-06-20,Espanol_Levante_2019,Espanol,15,15,30,45
+2020-06-21,Celta_Alaves_2019,Celta,15,15,30,45
+2020-06-21,Valencia_Osasuna_2019,Valencia,16,14,30,45
+2020-06-21,Sociedad_Real Madrid_2019,Real Madrid,15,15,30,45
+2020-06-21,Celta_Alaves_2019,Alaves,15,15,30,45
+2020-06-21,Sociedad_Real Madrid_2019,Sociedad,15,15,30,45
+2020-06-21,Valencia_Osasuna_2019,Osasuna,15,15,30,45
+2020-06-22,Leganes_Granada_2019,Leganes,16,15,31,45
+2020-06-22,Villarreal_Sevilla_2019,Sevilla,15,16,31,45
+2020-06-22,Villarreal_Sevilla_2019,Villarreal,15,16,31,45
+2020-06-22,Leganes_Granada_2019,Granada,15,16,31,45
+2020-06-23,Barcelona_Ath Bilbao_2019,Barcelona,16,15,31,46
+2020-06-23,Valladolid_Getafe_2019,Getafe,16,15,31,46
+2020-06-23,Levante_Ath Madrid_2019,Levante,15,16,31,46
+2020-06-23,Valladolid_Getafe_2019,Valladolid,15,16,31,46
+2020-06-23,Levante_Ath Madrid_2019,Ath Madrid,15,16,31,46
+2020-06-23,Barcelona_Ath Bilbao_2019,Ath Bilbao,15,16,31,46
+2020-06-24,Real Madrid_Mallorca_2019,Real Madrid,16,15,31,46
+2020-06-24,Sociedad_Celta_2019,Sociedad,16,15,31,46
+2020-06-24,Real Madrid_Mallorca_2019,Mallorca,16,15,31,46
+2020-06-24,Sociedad_Celta_2019,Celta,15,16,31,46
+2020-06-24,Alaves_Osasuna_2019,Alaves,16,15,31,46
+2020-06-24,Alaves_Osasuna_2019,Osasuna,15,16,31,46
+2020-06-25,Betis_Espanol_2019,Espanol,15,16,31,46
+2020-06-25,Betis_Espanol_2019,Betis,16,15,31,46
+2020-06-25,Eibar_Valencia_2019,Eibar,16,15,31,46
+2020-06-25,Eibar_Valencia_2019,Valencia,16,15,31,46
+2020-06-26,Sevilla_Valladolid_2019,Valladolid,15,17,32,46
+2020-06-26,Sevilla_Valladolid_2019,Sevilla,16,16,32,46
+2020-06-27,Celta_Barcelona_2019,Celta,16,16,32,46
+2020-06-27,Osasuna_Leganes_2019,Leganes,16,16,32,46
+2020-06-27,Celta_Barcelona_2019,Barcelona,16,16,32,46
+2020-06-27,Ath Bilbao_Mallorca_2019,Mallorca,16,16,32,46
+2020-06-27,Ath Bilbao_Mallorca_2019,Ath Bilbao,16,16,32,46
+2020-06-27,Ath Madrid_Alaves_2019,Alaves,16,16,32,46
+2020-06-27,Osasuna_Leganes_2019,Osasuna,16,16,32,46
+2020-06-27,Ath Madrid_Alaves_2019,Ath Madrid,16,16,32,46
+2020-06-28,Villarreal_Valencia_2019,Villarreal,16,16,32,46
+2020-06-28,Levante_Betis_2019,Betis,16,16,32,46
+2020-06-28,Villarreal_Valencia_2019,Valencia,16,16,32,46
+2020-06-28,Granada_Eibar_2019,Eibar,16,16,32,46
+2020-06-28,Espanol_Real Madrid_2019,Real Madrid,16,16,32,46
+2020-06-28,Granada_Eibar_2019,Granada,16,16,32,46
+2020-06-28,Espanol_Real Madrid_2019,Espanol,16,16,32,46
+2020-06-28,Levante_Betis_2019,Levante,16,16,32,46
+2020-06-29,Getafe_Sociedad_2019,Sociedad,16,16,32,46
+2020-06-29,Getafe_Sociedad_2019,Getafe,17,15,32,46
+2020-06-30,Barcelona_Ath Madrid_2019,Ath Madrid,16,17,33,47
+2020-06-30,Leganes_Sevilla_2019,Leganes,17,16,33,47
+2020-06-30,Mallorca_Celta_2019,Celta,16,17,33,47
+2020-06-30,Mallorca_Celta_2019,Mallorca,17,16,33,47
+2020-06-30,Leganes_Sevilla_2019,Sevilla,16,17,33,47
+2020-06-30,Barcelona_Ath Madrid_2019,Barcelona,17,16,33,47
+2020-07-01,Valencia_Ath Bilbao_2019,Ath Bilbao,16,17,33,47
+2020-07-01,Betis_Villarreal_2019,Betis,17,16,33,47
+2020-07-01,Valencia_Ath Bilbao_2019,Valencia,17,16,33,47
+2020-07-01,Valladolid_Levante_2019,Levante,16,17,33,47
+2020-07-01,Valladolid_Levante_2019,Valladolid,16,17,33,47
+2020-07-01,Alaves_Granada_2019,Granada,16,17,33,47
+2020-07-01,Alaves_Granada_2019,Alaves,17,16,33,47
+2020-07-01,Betis_Villarreal_2019,Villarreal,16,17,33,47
+2020-07-02,Eibar_Osasuna_2019,Osasuna,16,17,33,47
+2020-07-02,Real Madrid_Getafe_2019,Real Madrid,17,16,33,47
+2020-07-02,Sociedad_Espanol_2019,Espanol,16,17,33,47
+2020-07-02,Real Madrid_Getafe_2019,Getafe,17,16,33,47
+2020-07-02,Eibar_Osasuna_2019,Eibar,17,16,33,47
+2020-07-02,Sociedad_Espanol_2019,Sociedad,17,16,33,47
+2020-07-03,Ath Madrid_Mallorca_2019,Mallorca,17,17,34,47
+2020-07-03,Ath Madrid_Mallorca_2019,Ath Madrid,17,17,34,47
+2020-07-04,Granada_Valencia_2019,Granada,17,17,34,47
+2020-07-04,Valladolid_Alaves_2019,Alaves,17,17,34,47
+2020-07-04,Celta_Betis_2019,Celta,17,17,34,47
+2020-07-04,Granada_Valencia_2019,Valencia,17,17,34,47
+2020-07-04,Celta_Betis_2019,Betis,17,17,34,47
+2020-07-04,Valladolid_Alaves_2019,Valladolid,17,17,34,47
+2020-07-05,Espanol_Leganes_2019,Leganes,17,17,34,47
+2020-07-05,Espanol_Leganes_2019,Espanol,17,17,34,47
+2020-07-05,Ath Bilbao_Real Madrid_2019,Ath Bilbao,17,17,34,47
+2020-07-05,Osasuna_Getafe_2019,Getafe,17,17,34,47
+2020-07-05,Villarreal_Barcelona_2019,Barcelona,17,17,34,47
+2020-07-05,Villarreal_Barcelona_2019,Villarreal,17,17,34,47
+2020-07-05,Osasuna_Getafe_2019,Osasuna,17,17,34,47
+2020-07-05,Ath Bilbao_Real Madrid_2019,Real Madrid,17,17,34,47
+2020-07-06,Sevilla_Eibar_2019,Sevilla,17,17,34,47
+2020-07-06,Sevilla_Eibar_2019,Eibar,17,17,34,47
+2020-07-06,Levante_Sociedad_2019,Sociedad,17,17,34,47
+2020-07-06,Levante_Sociedad_2019,Levante,17,17,34,47
+2020-07-07,Celta_Ath Madrid_2019,Celta,18,17,35,48
+2020-07-07,Valencia_Valladolid_2019,Valladolid,17,18,35,48
+2020-07-07,Celta_Ath Madrid_2019,Ath Madrid,17,18,35,48
+2020-07-07,Valencia_Valladolid_2019,Valencia,18,17,35,48
+2020-07-08,Barcelona_Espanol_2019,Espanol,17,18,35,48
+2020-07-08,Getafe_Villarreal_2019,Villarreal,17,18,35,48
+2020-07-08,Getafe_Villarreal_2019,Getafe,18,17,35,48
+2020-07-08,Barcelona_Espanol_2019,Barcelona,18,17,35,48
+2020-07-08,Betis_Osasuna_2019,Osasuna,17,18,35,48
+2020-07-08,Betis_Osasuna_2019,Betis,18,17,35,48
+2020-07-09,Ath Bilbao_Sevilla_2019,Sevilla,17,18,35,48
+2020-07-09,Mallorca_Levante_2019,Mallorca,18,17,35,48
+2020-07-09,Eibar_Leganes_2019,Eibar,18,17,35,48
+2020-07-09,Mallorca_Levante_2019,Levante,17,18,35,48
+2020-07-09,Eibar_Leganes_2019,Leganes,17,18,35,48
+2020-07-09,Ath Bilbao_Sevilla_2019,Ath Bilbao,18,17,35,48
+2020-07-10,Sociedad_Granada_2019,Sociedad,18,17,35,48
+2020-07-10,Real Madrid_Alaves_2019,Real Madrid,18,17,35,48
+2020-07-10,Sociedad_Granada_2019,Granada,17,18,35,48
+2020-07-10,Real Madrid_Alaves_2019,Alaves,17,18,35,48
+2020-07-11,Ath Madrid_Betis_2019,Ath Madrid,18,18,36,48
+2020-07-11,Osasuna_Celta_2019,Celta,18,18,36,48
+2020-07-11,Valladolid_Barcelona_2019,Valladolid,18,18,36,48
+2020-07-11,Ath Madrid_Betis_2019,Betis,18,18,36,48
+2020-07-11,Osasuna_Celta_2019,Osasuna,18,18,36,48
+2020-07-11,Valladolid_Barcelona_2019,Barcelona,18,18,36,48
+2020-07-12,Sevilla_Mallorca_2019,Sevilla,18,18,36,48
+2020-07-12,Espanol_Eibar_2019,Espanol,18,18,36,48
+2020-07-12,Levante_Ath Bilbao_2019,Ath Bilbao,18,18,36,48
+2020-07-12,Leganes_Valencia_2019,Leganes,18,18,36,48
+2020-07-12,Leganes_Valencia_2019,Valencia,18,18,36,48
+2020-07-12,Espanol_Eibar_2019,Eibar,18,18,36,48
+2020-07-12,Sevilla_Mallorca_2019,Mallorca,18,18,36,48
+2020-07-12,Levante_Ath Bilbao_2019,Levante,18,18,36,48
+2020-07-13,Villarreal_Sociedad_2019,Villarreal,18,18,36,48
+2020-07-13,Alaves_Getafe_2019,Getafe,18,18,36,48
+2020-07-13,Villarreal_Sociedad_2019,Sociedad,18,18,36,48
+2020-07-13,Granada_Real Madrid_2019,Real Madrid,18,18,36,48
+2020-07-13,Granada_Real Madrid_2019,Granada,18,18,36,48
+2020-07-13,Alaves_Getafe_2019,Alaves,18,18,36,48
+2020-07-16,Barcelona_Osasuna_2019,Barcelona,19,18,37,49
+2020-07-16,Real Madrid_Villarreal_2019,Real Madrid,19,18,37,49
+2020-07-16,Eibar_Valladolid_2019,Eibar,19,18,37,49
+2020-07-16,Eibar_Valladolid_2019,Valladolid,18,19,37,49
+2020-07-16,Valencia_Espanol_2019,Espanol,18,19,37,49
+2020-07-16,Getafe_Ath Madrid_2019,Ath Madrid,18,19,37,49
+2020-07-16,Real Madrid_Villarreal_2019,Villarreal,18,19,37,49
+2020-07-16,Barcelona_Osasuna_2019,Osasuna,18,19,37,49
+2020-07-16,Mallorca_Granada_2019,Granada,18,19,37,49
+2020-07-16,Mallorca_Granada_2019,Mallorca,19,18,37,49
+2020-07-16,Ath Bilbao_Leganes_2019,Leganes,18,19,37,49
+2020-07-16,Sociedad_Sevilla_2019,Sociedad,19,18,37,49
+2020-07-16,Getafe_Ath Madrid_2019,Getafe,19,18,37,49
+2020-07-16,Celta_Levante_2019,Levante,18,19,37,49
+2020-07-16,Valencia_Espanol_2019,Valencia,19,18,37,49
+2020-07-16,Betis_Alaves_2019,Betis,19,18,37,49
+2020-07-16,Ath Bilbao_Leganes_2019,Ath Bilbao,19,18,37,49
+2020-07-16,Betis_Alaves_2019,Alaves,18,19,37,49
+2020-07-16,Celta_Levante_2019,Celta,19,18,37,49
+2020-07-16,Sociedad_Sevilla_2019,Sevilla,18,19,37,49
+2020-07-19,Valladolid_Betis_2019,Valladolid,19,19,38,49
+2020-07-19,Ath Madrid_Sociedad_2019,Ath Madrid,19,19,38,49
+2020-07-19,Valladolid_Betis_2019,Betis,19,19,38,49
+2020-07-19,Alaves_Barcelona_2019,Alaves,19,19,38,49
+2020-07-19,Granada_Ath Bilbao_2019,Granada,19,19,38,49
+2020-07-19,Leganes_Real Madrid_2019,Real Madrid,19,19,38,49
+2020-07-19,Osasuna_Mallorca_2019,Mallorca,19,19,38,49
+2020-07-19,Sevilla_Valencia_2019,Sevilla,19,19,38,49
+2020-07-19,Sevilla_Valencia_2019,Valencia,19,19,38,49
+2020-07-19,Leganes_Real Madrid_2019,Leganes,19,19,38,49
+2020-07-19,Alaves_Barcelona_2019,Barcelona,19,19,38,49
+2020-07-19,Levante_Getafe_2019,Getafe,19,19,38,49
+2020-07-19,Levante_Getafe_2019,Levante,19,19,38,49
+2020-07-19,Villarreal_Eibar_2019,Eibar,19,19,38,49
+2020-07-19,Granada_Ath Bilbao_2019,Ath Bilbao,19,19,38,49
+2020-07-19,Espanol_Celta_2019,Espanol,19,19,38,49
+2020-07-19,Ath Madrid_Sociedad_2019,Sociedad,19,19,38,49
+2020-07-19,Espanol_Celta_2019,Celta,19,19,38,49
+2020-07-19,Osasuna_Mallorca_2019,Osasuna,19,19,38,49
+2020-07-19,Villarreal_Eibar_2019,Villarreal,19,19,38,49

@@ -1,0 +1,657 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2020-09-12,Fulham_Arsenal_2020,Arsenal,1,1,1,1
+2020-09-12,West Ham_Newcastle_2020,Newcastle,1,1,1,1
+2020-09-12,Liverpool_Leeds_2020,Leeds,1,1,1,1
+2020-09-12,Crystal Palace_Southampton_2020,Crystal Palace,1,1,1,1
+2020-09-12,West Ham_Newcastle_2020,West Ham,1,1,1,1
+2020-09-12,Fulham_Arsenal_2020,Fulham,1,1,1,1
+2020-09-12,Liverpool_Leeds_2020,Liverpool,1,1,1,1
+2020-09-12,Crystal Palace_Southampton_2020,Southampton,1,1,1,1
+2020-09-13,Tottenham_Everton_2020,Tottenham,1,1,1,1
+2020-09-13,Tottenham_Everton_2020,Everton,1,1,1,1
+2020-09-13,West Brom_Leicester_2020,West Brom,1,1,1,1
+2020-09-13,West Brom_Leicester_2020,Leicester,1,1,1,1
+2020-09-14,Sheffield United_Wolves_2020,Sheffield United,1,1,1,1
+2020-09-14,Sheffield United_Wolves_2020,Wolves,1,1,1,1
+2020-09-14,Brighton_Chelsea_2020,Chelsea,1,1,1,1
+2020-09-14,Brighton_Chelsea_2020,Brighton,1,1,1,1
+2020-09-19,Leeds_Fulham_2020,Leeds,1,1,2,2
+2020-09-19,Leeds_Fulham_2020,Fulham,1,1,2,2
+2020-09-19,Man United_Crystal Palace_2020,Crystal Palace,1,1,2,2
+2020-09-19,Man United_Crystal Palace_2020,Man United,1,1,1,2
+2020-09-19,Everton_West Brom_2020,Everton,1,1,2,2
+2020-09-19,Everton_West Brom_2020,West Brom,1,1,2,2
+2020-09-19,Arsenal_West Ham_2020,West Ham,1,1,2,2
+2020-09-19,Arsenal_West Ham_2020,Arsenal,1,1,2,2
+2020-09-20,Southampton_Tottenham_2020,Southampton,1,1,2,2
+2020-09-20,Leicester_Burnley_2020,Leicester,1,1,2,2
+2020-09-20,Newcastle_Brighton_2020,Brighton,1,1,2,2
+2020-09-20,Southampton_Tottenham_2020,Tottenham,1,1,2,2
+2020-09-20,Chelsea_Liverpool_2020,Liverpool,1,1,2,2
+2020-09-20,Newcastle_Brighton_2020,Newcastle,1,1,2,2
+2020-09-20,Chelsea_Liverpool_2020,Chelsea,1,1,2,2
+2020-09-20,Leicester_Burnley_2020,Burnley,1,1,1,2
+2020-09-21,Aston Villa_Sheffield United_2020,Sheffield United,1,1,2,2
+2020-09-21,Aston Villa_Sheffield United_2020,Aston Villa,1,1,1,2
+2020-09-21,Wolves_Man City_2020,Man City,1,1,1,2
+2020-09-21,Wolves_Man City_2020,Wolves,1,1,2,2
+2020-09-26,Brighton_Man United_2020,Brighton,2,1,3,3
+2020-09-26,Brighton_Man United_2020,Man United,1,1,2,3
+2020-09-26,West Brom_Chelsea_2020,West Brom,2,1,3,3
+2020-09-26,Burnley_Southampton_2020,Southampton,1,2,3,3
+2020-09-26,Burnley_Southampton_2020,Burnley,1,1,2,3
+2020-09-26,Crystal Palace_Everton_2020,Everton,1,2,3,3
+2020-09-26,West Brom_Chelsea_2020,Chelsea,1,2,3,3
+2020-09-26,Crystal Palace_Everton_2020,Crystal Palace,2,1,3,3
+2020-09-27,Man City_Leicester_2020,Man City,1,1,2,3
+2020-09-27,Tottenham_Newcastle_2020,Tottenham,2,1,3,3
+2020-09-27,West Ham_Wolves_2020,West Ham,2,1,3,3
+2020-09-27,Man City_Leicester_2020,Leicester,1,2,3,3
+2020-09-27,Tottenham_Newcastle_2020,Newcastle,1,2,3,3
+2020-09-27,Sheffield United_Leeds_2020,Sheffield United,2,1,3,3
+2020-09-27,Sheffield United_Leeds_2020,Leeds,1,2,3,3
+2020-09-27,West Ham_Wolves_2020,Wolves,1,2,3,3
+2020-09-28,Liverpool_Arsenal_2020,Arsenal,1,2,3,3
+2020-09-28,Liverpool_Arsenal_2020,Liverpool,2,1,3,3
+2020-09-28,Fulham_Aston Villa_2020,Fulham,2,1,3,3
+2020-09-28,Fulham_Aston Villa_2020,Aston Villa,1,1,2,3
+2020-10-03,Chelsea_Crystal Palace_2020,Chelsea,2,2,4,4
+2020-10-03,Everton_Brighton_2020,Everton,2,2,4,4
+2020-10-03,Chelsea_Crystal Palace_2020,Crystal Palace,2,2,4,4
+2020-10-03,Everton_Brighton_2020,Brighton,2,2,4,4
+2020-10-03,Newcastle_Burnley_2020,Burnley,1,2,3,4
+2020-10-03,Leeds_Man City_2020,Man City,1,2,3,4
+2020-10-03,Newcastle_Burnley_2020,Newcastle,2,2,4,4
+2020-10-03,Leeds_Man City_2020,Leeds,2,2,4,4
+2020-10-04,Aston Villa_Liverpool_2020,Aston Villa,2,1,3,4
+2020-10-04,Man United_Tottenham_2020,Man United,2,1,3,4
+2020-10-04,Wolves_Fulham_2020,Fulham,2,2,4,4
+2020-10-04,Arsenal_Sheffield United_2020,Sheffield United,2,2,4,4
+2020-10-04,Southampton_West Brom_2020,West Brom,2,2,4,4
+2020-10-04,Southampton_West Brom_2020,Southampton,2,2,4,4
+2020-10-04,Man United_Tottenham_2020,Tottenham,2,2,4,4
+2020-10-04,Leicester_West Ham_2020,West Ham,2,2,4,4
+2020-10-04,Aston Villa_Liverpool_2020,Liverpool,2,2,4,4
+2020-10-04,Wolves_Fulham_2020,Wolves,2,2,4,4
+2020-10-04,Arsenal_Sheffield United_2020,Arsenal,2,2,4,4
+2020-10-04,Leicester_West Ham_2020,Leicester,2,2,4,4
+2020-10-17,Man City_Arsenal_2020,Arsenal,2,3,5,6
+2020-10-17,Newcastle_Man United_2020,Newcastle,3,2,5,6
+2020-10-17,Newcastle_Man United_2020,Man United,2,2,4,6
+2020-10-17,Man City_Arsenal_2020,Man City,2,2,4,6
+2020-10-17,Everton_Liverpool_2020,Liverpool,2,3,5,6
+2020-10-17,Chelsea_Southampton_2020,Southampton,2,3,5,6
+2020-10-17,Chelsea_Southampton_2020,Chelsea,3,2,5,6
+2020-10-17,Everton_Liverpool_2020,Everton,3,2,5,6
+2020-10-18,Sheffield United_Fulham_2020,Sheffield United,3,2,5,6
+2020-10-18,Tottenham_West Ham_2020,West Ham,2,3,5,6
+2020-10-18,Sheffield United_Fulham_2020,Fulham,2,3,5,6
+2020-10-18,Crystal Palace_Brighton_2020,Brighton,2,3,5,6
+2020-10-18,Crystal Palace_Brighton_2020,Crystal Palace,3,2,5,6
+2020-10-18,Leicester_Aston Villa_2020,Aston Villa,2,2,4,6
+2020-10-18,Tottenham_West Ham_2020,Tottenham,3,2,5,6
+2020-10-18,Leicester_Aston Villa_2020,Leicester,3,2,5,6
+2020-10-19,Leeds_Wolves_2020,Wolves,2,3,5,6
+2020-10-19,West Brom_Burnley_2020,West Brom,3,2,5,6
+2020-10-19,Leeds_Wolves_2020,Leeds,3,2,5,6
+2020-10-19,West Brom_Burnley_2020,Burnley,1,3,4,6
+2020-10-23,Aston Villa_Leeds_2020,Leeds,3,3,6,7
+2020-10-23,Aston Villa_Leeds_2020,Aston Villa,3,2,5,7
+2020-10-24,West Ham_Man City_2020,West Ham,3,3,6,7
+2020-10-24,Man United_Chelsea_2020,Chelsea,3,3,6,7
+2020-10-24,Man United_Chelsea_2020,Man United,3,2,5,7
+2020-10-24,Liverpool_Sheffield United_2020,Sheffield United,3,3,6,7
+2020-10-24,West Ham_Man City_2020,Man City,2,3,5,7
+2020-10-24,Fulham_Crystal Palace_2020,Fulham,3,3,6,7
+2020-10-24,Fulham_Crystal Palace_2020,Crystal Palace,3,3,6,7
+2020-10-24,Liverpool_Sheffield United_2020,Liverpool,3,3,6,7
+2020-10-25,Wolves_Newcastle_2020,Newcastle,3,3,6,7
+2020-10-25,Arsenal_Leicester_2020,Leicester,3,3,6,7
+2020-10-25,Southampton_Everton_2020,Everton,3,3,6,7
+2020-10-25,Arsenal_Leicester_2020,Arsenal,3,3,6,7
+2020-10-25,Wolves_Newcastle_2020,Wolves,3,3,6,7
+2020-10-25,Southampton_Everton_2020,Southampton,3,3,6,7
+2020-10-26,Brighton_West Brom_2020,Brighton,3,3,6,7
+2020-10-26,Burnley_Tottenham_2020,Tottenham,3,3,6,7
+2020-10-26,Burnley_Tottenham_2020,Burnley,2,3,5,7
+2020-10-26,Brighton_West Brom_2020,West Brom,3,3,6,7
+2020-10-30,Wolves_Crystal Palace_2020,Crystal Palace,3,4,7,8
+2020-10-30,Wolves_Crystal Palace_2020,Wolves,4,3,7,8
+2020-10-31,Sheffield United_Man City_2020,Man City,2,4,6,8
+2020-10-31,Burnley_Chelsea_2020,Chelsea,3,4,7,8
+2020-10-31,Liverpool_West Ham_2020,Liverpool,4,3,7,8
+2020-10-31,Burnley_Chelsea_2020,Burnley,3,3,6,8
+2020-10-31,Sheffield United_Man City_2020,Sheffield United,4,3,7,8
+2020-10-31,Liverpool_West Ham_2020,West Ham,3,4,7,8
+2020-11-01,Man United_Arsenal_2020,Man United,4,2,6,8
+2020-11-01,Newcastle_Everton_2020,Newcastle,4,3,7,8
+2020-11-01,Man United_Arsenal_2020,Arsenal,3,4,7,8
+2020-11-01,Tottenham_Brighton_2020,Tottenham,4,3,7,8
+2020-11-01,Newcastle_Everton_2020,Everton,3,4,7,8
+2020-11-01,Tottenham_Brighton_2020,Brighton,3,4,7,8
+2020-11-01,Aston Villa_Southampton_2020,Aston Villa,4,2,6,8
+2020-11-01,Aston Villa_Southampton_2020,Southampton,3,4,7,8
+2020-11-02,Leeds_Leicester_2020,Leeds,4,3,7,8
+2020-11-02,Fulham_West Brom_2020,Fulham,4,3,7,8
+2020-11-02,Fulham_West Brom_2020,West Brom,3,4,7,8
+2020-11-02,Leeds_Leicester_2020,Leicester,3,4,7,8
+2020-11-06,Brighton_Burnley_2020,Brighton,4,4,8,9
+2020-11-06,Brighton_Burnley_2020,Burnley,3,4,7,9
+2020-11-06,Southampton_Newcastle_2020,Southampton,4,4,8,9
+2020-11-06,Southampton_Newcastle_2020,Newcastle,4,4,8,9
+2020-11-07,West Ham_Fulham_2020,Fulham,4,4,8,9
+2020-11-07,West Ham_Fulham_2020,West Ham,4,4,8,9
+2020-11-07,Crystal Palace_Leeds_2020,Leeds,4,4,8,9
+2020-11-07,Everton_Man United_2020,Man United,4,3,7,9
+2020-11-07,Crystal Palace_Leeds_2020,Crystal Palace,4,4,8,9
+2020-11-07,Chelsea_Sheffield United_2020,Sheffield United,4,4,8,9
+2020-11-07,Chelsea_Sheffield United_2020,Chelsea,4,4,8,9
+2020-11-07,Everton_Man United_2020,Everton,4,4,8,9
+2020-11-08,Leicester_Wolves_2020,Wolves,4,4,8,9
+2020-11-08,Man City_Liverpool_2020,Liverpool,4,4,8,9
+2020-11-08,West Brom_Tottenham_2020,West Brom,4,4,8,9
+2020-11-08,West Brom_Tottenham_2020,Tottenham,4,4,8,9
+2020-11-08,Arsenal_Aston Villa_2020,Arsenal,4,4,8,9
+2020-11-08,Arsenal_Aston Villa_2020,Aston Villa,4,3,7,9
+2020-11-08,Man City_Liverpool_2020,Man City,3,4,7,9
+2020-11-08,Leicester_Wolves_2020,Leicester,4,4,8,9
+2020-11-21,Tottenham_Man City_2020,Tottenham,5,4,9,11
+2020-11-21,Aston Villa_Brighton_2020,Brighton,4,5,9,11
+2020-11-21,Newcastle_Chelsea_2020,Newcastle,5,4,9,11
+2020-11-21,Man United_West Brom_2020,Man United,5,3,8,11
+2020-11-21,Newcastle_Chelsea_2020,Chelsea,4,5,9,11
+2020-11-21,Aston Villa_Brighton_2020,Aston Villa,5,3,8,11
+2020-11-21,Man United_West Brom_2020,West Brom,4,5,9,11
+2020-11-21,Tottenham_Man City_2020,Man City,3,5,8,11
+2020-11-22,Fulham_Everton_2020,Everton,4,5,9,11
+2020-11-22,Fulham_Everton_2020,Fulham,5,4,9,11
+2020-11-22,Leeds_Arsenal_2020,Leeds,5,4,9,11
+2020-11-22,Leeds_Arsenal_2020,Arsenal,4,5,9,11
+2020-11-22,Liverpool_Leicester_2020,Leicester,4,5,9,11
+2020-11-22,Sheffield United_West Ham_2020,West Ham,4,5,9,11
+2020-11-22,Sheffield United_West Ham_2020,Sheffield United,5,4,9,11
+2020-11-22,Liverpool_Leicester_2020,Liverpool,5,4,9,11
+2020-11-23,Burnley_Crystal Palace_2020,Burnley,4,4,8,11
+2020-11-23,Burnley_Crystal Palace_2020,Crystal Palace,4,5,9,11
+2020-11-23,Wolves_Southampton_2020,Wolves,5,4,9,11
+2020-11-23,Wolves_Southampton_2020,Southampton,4,5,9,11
+2020-11-27,Crystal Palace_Newcastle_2020,Newcastle,5,5,10,12
+2020-11-27,Crystal Palace_Newcastle_2020,Crystal Palace,5,5,10,12
+2020-11-28,Brighton_Liverpool_2020,Liverpool,5,5,10,12
+2020-11-28,Everton_Leeds_2020,Everton,5,5,10,12
+2020-11-28,Brighton_Liverpool_2020,Brighton,5,5,10,12
+2020-11-28,Man City_Burnley_2020,Man City,4,5,9,12
+2020-11-28,West Brom_Sheffield United_2020,Sheffield United,5,5,10,12
+2020-11-28,West Brom_Sheffield United_2020,West Brom,5,5,10,12
+2020-11-28,Man City_Burnley_2020,Burnley,4,5,9,12
+2020-11-28,Everton_Leeds_2020,Leeds,5,5,10,12
+2020-11-29,Southampton_Man United_2020,Man United,5,4,9,12
+2020-11-29,Arsenal_Wolves_2020,Wolves,5,5,10,12
+2020-11-29,Chelsea_Tottenham_2020,Tottenham,5,5,10,12
+2020-11-29,Chelsea_Tottenham_2020,Chelsea,5,5,10,12
+2020-11-29,Arsenal_Wolves_2020,Arsenal,5,5,10,12
+2020-11-29,Southampton_Man United_2020,Southampton,5,5,10,12
+2020-11-30,West Ham_Aston Villa_2020,Aston Villa,5,4,9,12
+2020-11-30,Leicester_Fulham_2020,Leicester,5,5,10,12
+2020-11-30,Leicester_Fulham_2020,Fulham,5,5,10,12
+2020-11-30,West Ham_Aston Villa_2020,West Ham,5,5,10,12
+2020-12-05,Burnley_Everton_2020,Burnley,5,5,10,13
+2020-12-05,Chelsea_Leeds_2020,Leeds,5,6,11,13
+2020-12-05,Man City_Fulham_2020,Man City,5,5,10,13
+2020-12-05,Burnley_Everton_2020,Everton,5,6,11,13
+2020-12-05,West Ham_Man United_2020,West Ham,6,5,11,13
+2020-12-05,Man City_Fulham_2020,Fulham,5,6,11,13
+2020-12-05,West Ham_Man United_2020,Man United,5,5,10,13
+2020-12-05,Chelsea_Leeds_2020,Chelsea,6,5,11,13
+2020-12-06,Sheffield United_Leicester_2020,Leicester,5,6,11,13
+2020-12-06,Tottenham_Arsenal_2020,Tottenham,6,5,11,13
+2020-12-06,Sheffield United_Leicester_2020,Sheffield United,6,5,11,13
+2020-12-06,Tottenham_Arsenal_2020,Arsenal,5,6,11,13
+2020-12-06,West Brom_Crystal Palace_2020,Crystal Palace,5,6,11,13
+2020-12-06,West Brom_Crystal Palace_2020,West Brom,6,5,11,13
+2020-12-06,Liverpool_Wolves_2020,Liverpool,6,5,11,13
+2020-12-06,Liverpool_Wolves_2020,Wolves,5,6,11,13
+2020-12-07,Brighton_Southampton_2020,Brighton,6,5,11,13
+2020-12-07,Brighton_Southampton_2020,Southampton,5,6,11,13
+2020-12-11,Leeds_West Ham_2020,West Ham,6,6,12,14
+2020-12-11,Leeds_West Ham_2020,Leeds,6,6,12,14
+2020-12-12,Everton_Chelsea_2020,Chelsea,6,6,12,14
+2020-12-12,Man United_Man City_2020,Man United,6,5,11,14
+2020-12-12,Wolves_Aston Villa_2020,Aston Villa,5,5,10,14
+2020-12-12,Man United_Man City_2020,Man City,5,6,11,14
+2020-12-12,Newcastle_West Brom_2020,Newcastle,6,5,11,14
+2020-12-12,Newcastle_West Brom_2020,West Brom,6,6,12,14
+2020-12-12,Everton_Chelsea_2020,Everton,6,6,12,14
+2020-12-12,Wolves_Aston Villa_2020,Wolves,6,6,12,14
+2020-12-13,Crystal Palace_Tottenham_2020,Crystal Palace,6,6,12,14
+2020-12-13,Leicester_Brighton_2020,Leicester,6,6,12,14
+2020-12-13,Southampton_Sheffield United_2020,Southampton,6,6,12,14
+2020-12-13,Leicester_Brighton_2020,Brighton,6,6,12,14
+2020-12-13,Arsenal_Burnley_2020,Arsenal,6,6,12,14
+2020-12-13,Fulham_Liverpool_2020,Fulham,6,6,12,14
+2020-12-13,Southampton_Sheffield United_2020,Sheffield United,6,6,12,14
+2020-12-13,Crystal Palace_Tottenham_2020,Tottenham,6,6,12,14
+2020-12-13,Arsenal_Burnley_2020,Burnley,5,6,11,14
+2020-12-13,Fulham_Liverpool_2020,Liverpool,6,6,12,14
+2020-12-15,Man City_West Brom_2020,West Brom,6,7,13,15
+2020-12-15,Man City_West Brom_2020,Man City,6,6,12,15
+2020-12-15,Wolves_Chelsea_2020,Wolves,7,6,13,15
+2020-12-15,Wolves_Chelsea_2020,Chelsea,6,7,13,15
+2020-12-16,Liverpool_Tottenham_2020,Liverpool,7,6,13,15
+2020-12-16,Leeds_Newcastle_2020,Leeds,7,6,13,15
+2020-12-16,Arsenal_Southampton_2020,Southampton,6,7,13,15
+2020-12-16,Leicester_Everton_2020,Leicester,7,6,13,15
+2020-12-16,Arsenal_Southampton_2020,Arsenal,7,6,13,15
+2020-12-16,West Ham_Crystal Palace_2020,West Ham,7,6,13,15
+2020-12-16,West Ham_Crystal Palace_2020,Crystal Palace,6,7,13,15
+2020-12-16,Liverpool_Tottenham_2020,Tottenham,6,7,13,15
+2020-12-16,Leeds_Newcastle_2020,Newcastle,6,6,12,15
+2020-12-16,Leicester_Everton_2020,Everton,6,7,13,15
+2020-12-16,Fulham_Brighton_2020,Fulham,7,6,13,15
+2020-12-16,Fulham_Brighton_2020,Brighton,6,7,13,15
+2020-12-17,Aston Villa_Burnley_2020,Aston Villa,6,5,11,15
+2020-12-17,Sheffield United_Man United_2020,Sheffield United,7,6,13,15
+2020-12-17,Sheffield United_Man United_2020,Man United,6,6,12,15
+2020-12-17,Aston Villa_Burnley_2020,Burnley,5,7,12,15
+2020-12-19,Southampton_Man City_2020,Man City,6,7,13,15
+2020-12-19,Southampton_Man City_2020,Southampton,7,7,14,15
+2020-12-19,Newcastle_Fulham_2020,Newcastle,7,6,13,15
+2020-12-19,Crystal Palace_Liverpool_2020,Liverpool,7,7,14,15
+2020-12-19,Everton_Arsenal_2020,Everton,7,7,14,15
+2020-12-19,Newcastle_Fulham_2020,Fulham,7,7,14,15
+2020-12-19,Crystal Palace_Liverpool_2020,Crystal Palace,7,7,14,15
+2020-12-19,Everton_Arsenal_2020,Arsenal,7,7,14,15
+2020-12-20,West Brom_Aston Villa_2020,West Brom,7,7,14,15
+2020-12-20,Brighton_Sheffield United_2020,Brighton,7,7,14,15
+2020-12-20,Tottenham_Leicester_2020,Leicester,7,7,14,15
+2020-12-20,West Brom_Aston Villa_2020,Aston Villa,6,6,12,15
+2020-12-20,Brighton_Sheffield United_2020,Sheffield United,7,7,14,15
+2020-12-20,Tottenham_Leicester_2020,Tottenham,7,7,14,15
+2020-12-20,Man United_Leeds_2020,Leeds,7,7,14,15
+2020-12-20,Man United_Leeds_2020,Man United,7,6,13,15
+2020-12-21,Burnley_Wolves_2020,Wolves,7,7,14,15
+2020-12-21,Chelsea_West Ham_2020,West Ham,7,7,14,15
+2020-12-21,Burnley_Wolves_2020,Burnley,6,7,13,15
+2020-12-21,Chelsea_West Ham_2020,Chelsea,7,7,14,15
+2020-12-26,Aston Villa_Crystal Palace_2020,Aston Villa,7,6,13,16
+2020-12-26,Fulham_Southampton_2020,Fulham,8,7,15,16
+2020-12-26,Sheffield United_Everton_2020,Sheffield United,8,7,15,16
+2020-12-26,Arsenal_Chelsea_2020,Arsenal,8,7,15,16
+2020-12-26,Fulham_Southampton_2020,Southampton,7,8,15,16
+2020-12-26,Sheffield United_Everton_2020,Everton,7,8,15,16
+2020-12-26,Aston Villa_Crystal Palace_2020,Crystal Palace,7,8,15,16
+2020-12-26,Leicester_Man United_2020,Leicester,8,7,15,16
+2020-12-26,Man City_Newcastle_2020,Newcastle,7,7,14,16
+2020-12-26,Arsenal_Chelsea_2020,Chelsea,7,8,15,16
+2020-12-26,Man City_Newcastle_2020,Man City,7,7,14,16
+2020-12-26,Leicester_Man United_2020,Man United,7,7,14,16
+2020-12-27,Wolves_Tottenham_2020,Wolves,8,7,15,16
+2020-12-27,Liverpool_West Brom_2020,Liverpool,8,7,15,16
+2020-12-27,West Ham_Brighton_2020,West Ham,8,7,15,16
+2020-12-27,Leeds_Burnley_2020,Burnley,6,8,14,16
+2020-12-27,Leeds_Burnley_2020,Leeds,8,7,15,16
+2020-12-27,Wolves_Tottenham_2020,Tottenham,7,8,15,16
+2020-12-27,Liverpool_West Brom_2020,West Brom,7,8,15,16
+2020-12-27,West Ham_Brighton_2020,Brighton,7,8,15,16
+2020-12-28,Crystal Palace_Leicester_2020,Leicester,8,8,16,16
+2020-12-28,Crystal Palace_Leicester_2020,Crystal Palace,8,8,16,16
+2020-12-28,Chelsea_Aston Villa_2020,Chelsea,8,8,16,16
+2020-12-28,Chelsea_Aston Villa_2020,Aston Villa,7,7,14,16
+2020-12-29,West Brom_Leeds_2020,Leeds,8,8,16,17
+2020-12-29,Man United_Wolves_2020,Wolves,8,8,16,17
+2020-12-29,Man United_Wolves_2020,Man United,8,7,15,17
+2020-12-29,Southampton_West Ham_2020,Southampton,8,8,16,17
+2020-12-29,West Brom_Leeds_2020,West Brom,8,8,16,17
+2020-12-29,Burnley_Sheffield United_2020,Burnley,7,8,15,17
+2020-12-29,Burnley_Sheffield United_2020,Sheffield United,8,8,16,17
+2020-12-29,Brighton_Arsenal_2020,Brighton,8,8,16,17
+2020-12-29,Southampton_West Ham_2020,West Ham,8,8,16,17
+2020-12-29,Brighton_Arsenal_2020,Arsenal,8,8,16,17
+2020-12-30,Newcastle_Liverpool_2020,Newcastle,8,7,15,17
+2020-12-30,Newcastle_Liverpool_2020,Liverpool,8,8,16,17
+2021-01-01,Everton_West Ham_2020,West Ham,8,9,17,17
+2021-01-01,Man United_Aston Villa_2020,Aston Villa,7,8,15,17
+2021-01-01,Everton_West Ham_2020,Everton,8,8,16,17
+2021-01-01,Man United_Aston Villa_2020,Man United,9,7,16,17
+2021-01-02,Brighton_Wolves_2020,Brighton,9,8,17,17
+2021-01-02,Tottenham_Leeds_2020,Leeds,8,9,17,17
+2021-01-02,West Brom_Arsenal_2020,Arsenal,8,9,17,17
+2021-01-02,Crystal Palace_Sheffield United_2020,Crystal Palace,9,8,17,17
+2021-01-02,Crystal Palace_Sheffield United_2020,Sheffield United,8,9,17,17
+2021-01-02,West Brom_Arsenal_2020,West Brom,9,8,17,17
+2021-01-02,Tottenham_Leeds_2020,Tottenham,8,8,16,17
+2021-01-02,Brighton_Wolves_2020,Wolves,8,9,17,17
+2021-01-03,Newcastle_Leicester_2020,Newcastle,9,7,16,17
+2021-01-03,Chelsea_Man City_2020,Man City,7,8,15,17
+2021-01-03,Newcastle_Leicester_2020,Leicester,8,9,17,17
+2021-01-03,Chelsea_Man City_2020,Chelsea,9,8,17,17
+2021-01-04,Southampton_Liverpool_2020,Southampton,9,8,17,17
+2021-01-04,Southampton_Liverpool_2020,Liverpool,8,9,17,17
+2021-01-12,Wolves_Everton_2020,Wolves,9,9,18,19
+2021-01-12,Burnley_Man United_2020,Man United,9,8,17,19
+2021-01-12,Wolves_Everton_2020,Everton,8,9,17,19
+2021-01-12,Sheffield United_Newcastle_2020,Sheffield United,9,9,18,19
+2021-01-12,Sheffield United_Newcastle_2020,Newcastle,9,8,17,19
+2021-01-12,Burnley_Man United_2020,Burnley,8,8,16,19
+2021-01-13,Man City_Brighton_2020,Brighton,9,9,18,19
+2021-01-13,Tottenham_Fulham_2020,Fulham,8,8,16,19
+2021-01-13,Tottenham_Fulham_2020,Tottenham,9,8,17,19
+2021-01-13,Man City_Brighton_2020,Man City,8,8,16,19
+2021-01-14,Arsenal_Crystal Palace_2020,Crystal Palace,9,9,18,19
+2021-01-14,Arsenal_Crystal Palace_2020,Arsenal,9,9,18,19
+2021-01-16,Wolves_West Brom_2020,Wolves,10,9,19,19
+2021-01-16,Leicester_Southampton_2020,Leicester,9,9,18,19
+2021-01-16,Fulham_Chelsea_2020,Chelsea,9,9,18,19
+2021-01-16,Wolves_West Brom_2020,West Brom,9,9,18,19
+2021-01-16,West Ham_Burnley_2020,West Ham,9,9,18,19
+2021-01-16,Leicester_Southampton_2020,Southampton,9,9,18,19
+2021-01-16,Leeds_Brighton_2020,Brighton,9,10,19,19
+2021-01-16,West Ham_Burnley_2020,Burnley,8,9,17,19
+2021-01-16,Leeds_Brighton_2020,Leeds,9,9,18,19
+2021-01-16,Fulham_Chelsea_2020,Fulham,9,8,17,19
+2021-01-17,Man City_Crystal Palace_2020,Crystal Palace,9,10,19,19
+2021-01-17,Sheffield United_Tottenham_2020,Sheffield United,10,9,19,19
+2021-01-17,Man City_Crystal Palace_2020,Man City,9,8,17,19
+2021-01-17,Liverpool_Man United_2020,Liverpool,9,9,18,19
+2021-01-17,Sheffield United_Tottenham_2020,Tottenham,9,9,18,19
+2021-01-17,Liverpool_Man United_2020,Man United,9,9,18,19
+2021-01-18,Arsenal_Newcastle_2020,Newcastle,9,9,18,19
+2021-01-18,Arsenal_Newcastle_2020,Arsenal,10,9,19,19
+2021-01-19,Leicester_Chelsea_2020,Leicester,10,9,19,20
+2021-01-19,Leicester_Chelsea_2020,Chelsea,9,10,19,20
+2021-01-19,West Ham_West Brom_2020,West Brom,9,10,19,20
+2021-01-19,West Ham_West Brom_2020,West Ham,10,9,19,20
+2021-01-20,Fulham_Man United_2020,Fulham,10,8,18,20
+2021-01-20,Man City_Aston Villa_2020,Man City,10,8,18,20
+2021-01-20,Man City_Aston Villa_2020,Aston Villa,7,9,16,20
+2021-01-20,Fulham_Man United_2020,Man United,9,10,19,20
+2021-01-21,Liverpool_Burnley_2020,Liverpool,10,9,19,20
+2021-01-21,Liverpool_Burnley_2020,Burnley,8,10,18,20
+2021-01-23,Aston Villa_Newcastle_2020,Newcastle,9,10,19,20
+2021-01-23,Aston Villa_Newcastle_2020,Aston Villa,8,9,17,20
+2021-01-26,Crystal Palace_West Ham_2020,West Ham,10,10,20,21
+2021-01-26,Newcastle_Leeds_2020,Newcastle,10,10,20,21
+2021-01-26,Newcastle_Leeds_2020,Leeds,9,10,19,21
+2021-01-26,Southampton_Arsenal_2020,Southampton,10,9,19,21
+2021-01-26,Southampton_Arsenal_2020,Arsenal,10,10,20,21
+2021-01-26,West Brom_Man City_2020,West Brom,10,10,20,21
+2021-01-26,West Brom_Man City_2020,Man City,10,9,19,21
+2021-01-26,Crystal Palace_West Ham_2020,Crystal Palace,10,10,20,21
+2021-01-27,Brighton_Fulham_2020,Brighton,10,10,20,21
+2021-01-27,Man United_Sheffield United_2020,Sheffield United,10,10,20,21
+2021-01-27,Chelsea_Wolves_2020,Wolves,10,10,20,21
+2021-01-27,Burnley_Aston Villa_2020,Burnley,9,10,19,21
+2021-01-27,Brighton_Fulham_2020,Fulham,10,9,19,21
+2021-01-27,Everton_Leicester_2020,Leicester,10,10,20,21
+2021-01-27,Everton_Leicester_2020,Everton,9,9,18,21
+2021-01-27,Chelsea_Wolves_2020,Chelsea,10,10,20,21
+2021-01-27,Burnley_Aston Villa_2020,Aston Villa,8,10,18,21
+2021-01-27,Man United_Sheffield United_2020,Man United,10,10,20,21
+2021-01-28,Tottenham_Liverpool_2020,Liverpool,10,10,20,21
+2021-01-28,Tottenham_Liverpool_2020,Tottenham,10,9,19,21
+2021-01-30,Man City_Sheffield United_2020,Sheffield United,10,11,21,21
+2021-01-30,Man City_Sheffield United_2020,Man City,11,9,20,21
+2021-01-30,Southampton_Aston Villa_2020,Southampton,11,9,20,21
+2021-01-30,Crystal Palace_Wolves_2020,Crystal Palace,11,10,21,21
+2021-01-30,West Brom_Fulham_2020,Fulham,10,10,20,21
+2021-01-30,West Brom_Fulham_2020,West Brom,11,10,21,21
+2021-01-30,Arsenal_Man United_2020,Arsenal,11,10,21,21
+2021-01-30,Crystal Palace_Wolves_2020,Wolves,10,11,21,21
+2021-01-30,Arsenal_Man United_2020,Man United,10,11,21,21
+2021-01-30,Everton_Newcastle_2020,Everton,10,9,19,21
+2021-01-30,Everton_Newcastle_2020,Newcastle,10,11,21,21
+2021-01-30,Southampton_Aston Villa_2020,Aston Villa,8,11,19,21
+2021-01-31,Brighton_Tottenham_2020,Tottenham,10,10,20,21
+2021-01-31,West Ham_Liverpool_2020,Liverpool,10,11,21,21
+2021-01-31,Leicester_Leeds_2020,Leeds,9,11,20,21
+2021-01-31,Chelsea_Burnley_2020,Chelsea,11,10,21,21
+2021-01-31,West Ham_Liverpool_2020,West Ham,11,10,21,21
+2021-01-31,Brighton_Tottenham_2020,Brighton,11,10,21,21
+2021-01-31,Leicester_Leeds_2020,Leicester,11,10,21,21
+2021-01-31,Chelsea_Burnley_2020,Burnley,9,11,20,21
+2021-02-02,Wolves_Arsenal_2020,Wolves,11,11,22,22
+2021-02-02,Newcastle_Crystal Palace_2020,Crystal Palace,11,11,22,22
+2021-02-02,Sheffield United_West Brom_2020,West Brom,11,11,22,22
+2021-02-02,Man United_Southampton_2020,Southampton,11,10,21,22
+2021-02-02,Wolves_Arsenal_2020,Arsenal,11,11,22,22
+2021-02-02,Sheffield United_West Brom_2020,Sheffield United,11,11,22,22
+2021-02-02,Newcastle_Crystal Palace_2020,Newcastle,11,11,22,22
+2021-02-02,Man United_Southampton_2020,Man United,11,11,22,22
+2021-02-03,Liverpool_Brighton_2020,Liverpool,11,11,22,22
+2021-02-03,Aston Villa_West Ham_2020,Aston Villa,9,11,20,22
+2021-02-03,Aston Villa_West Ham_2020,West Ham,11,11,22,22
+2021-02-03,Leeds_Everton_2020,Leeds,10,11,21,22
+2021-02-03,Leeds_Everton_2020,Everton,10,10,20,22
+2021-02-03,Fulham_Leicester_2020,Leicester,11,11,22,22
+2021-02-03,Burnley_Man City_2020,Burnley,10,11,21,22
+2021-02-03,Burnley_Man City_2020,Man City,11,10,21,22
+2021-02-03,Fulham_Leicester_2020,Fulham,11,10,21,22
+2021-02-03,Liverpool_Brighton_2020,Brighton,11,11,22,22
+2021-02-04,Tottenham_Chelsea_2020,Tottenham,11,10,21,22
+2021-02-04,Tottenham_Chelsea_2020,Chelsea,11,11,22,22
+2021-02-06,Aston Villa_Arsenal_2020,Arsenal,11,12,23,22
+2021-02-06,Burnley_Brighton_2020,Burnley,11,11,22,22
+2021-02-06,Man United_Everton_2020,Man United,12,11,23,22
+2021-02-06,Newcastle_Southampton_2020,Newcastle,12,11,23,22
+2021-02-06,Fulham_West Ham_2020,Fulham,12,10,22,22
+2021-02-06,Aston Villa_Arsenal_2020,Aston Villa,10,11,21,22
+2021-02-06,Burnley_Brighton_2020,Brighton,11,12,23,22
+2021-02-06,Fulham_West Ham_2020,West Ham,11,12,23,22
+2021-02-06,Newcastle_Southampton_2020,Southampton,11,11,22,22
+2021-02-06,Man United_Everton_2020,Everton,10,11,21,22
+2021-02-07,Tottenham_West Brom_2020,Tottenham,12,10,22,22
+2021-02-07,Wolves_Leicester_2020,Wolves,12,11,23,22
+2021-02-07,Sheffield United_Chelsea_2020,Chelsea,11,12,23,22
+2021-02-07,Wolves_Leicester_2020,Leicester,11,12,23,22
+2021-02-07,Tottenham_West Brom_2020,West Brom,11,12,23,22
+2021-02-07,Liverpool_Man City_2020,Man City,11,11,22,22
+2021-02-07,Liverpool_Man City_2020,Liverpool,12,11,23,22
+2021-02-07,Sheffield United_Chelsea_2020,Sheffield United,12,11,23,22
+2021-02-08,Leeds_Crystal Palace_2020,Leeds,11,11,22,22
+2021-02-08,Leeds_Crystal Palace_2020,Crystal Palace,11,12,23,22
+2021-02-13,Leicester_Liverpool_2020,Liverpool,12,12,24,23
+2021-02-13,Man City_Tottenham_2020,Tottenham,12,11,23,23
+2021-02-13,Leicester_Liverpool_2020,Leicester,12,12,24,23
+2021-02-13,Crystal Palace_Burnley_2020,Crystal Palace,12,12,24,23
+2021-02-13,Man City_Tottenham_2020,Man City,12,11,23,23
+2021-02-13,Brighton_Aston Villa_2020,Aston Villa,10,12,22,23
+2021-02-13,Crystal Palace_Burnley_2020,Burnley,11,12,23,23
+2021-02-13,Brighton_Aston Villa_2020,Brighton,12,12,24,23
+2021-02-14,Southampton_Wolves_2020,Southampton,12,11,23,23
+2021-02-14,Arsenal_Leeds_2020,Leeds,11,12,23,23
+2021-02-14,West Brom_Man United_2020,West Brom,12,12,24,23
+2021-02-14,West Brom_Man United_2020,Man United,12,12,24,23
+2021-02-14,Arsenal_Leeds_2020,Arsenal,12,12,24,23
+2021-02-14,Southampton_Wolves_2020,Wolves,12,12,24,23
+2021-02-14,Everton_Fulham_2020,Everton,11,11,22,23
+2021-02-14,Everton_Fulham_2020,Fulham,12,11,23,23
+2021-02-15,Chelsea_Newcastle_2020,Chelsea,12,12,24,23
+2021-02-15,West Ham_Sheffield United_2020,West Ham,12,12,24,23
+2021-02-15,Chelsea_Newcastle_2020,Newcastle,12,12,24,23
+2021-02-15,West Ham_Sheffield United_2020,Sheffield United,12,12,24,23
+2021-02-17,Everton_Man City_2020,Man City,12,12,24,24
+2021-02-17,Everton_Man City_2020,Everton,12,11,23,24
+2021-02-17,Burnley_Fulham_2020,Fulham,12,12,24,24
+2021-02-17,Burnley_Fulham_2020,Burnley,12,12,24,24
+2021-02-19,Wolves_Leeds_2020,Wolves,13,12,25,24
+2021-02-19,Wolves_Leeds_2020,Leeds,11,13,24,24
+2021-02-20,Burnley_West Brom_2020,West Brom,12,13,25,24
+2021-02-20,Liverpool_Everton_2020,Everton,12,12,24,24
+2021-02-20,Liverpool_Everton_2020,Liverpool,13,12,25,24
+2021-02-20,Southampton_Chelsea_2020,Chelsea,12,13,25,24
+2021-02-20,Burnley_West Brom_2020,Burnley,13,12,25,24
+2021-02-20,Fulham_Sheffield United_2020,Sheffield United,12,13,25,24
+2021-02-20,Fulham_Sheffield United_2020,Fulham,13,12,25,24
+2021-02-20,Southampton_Chelsea_2020,Southampton,13,11,24,24
+2021-02-21,Arsenal_Man City_2020,Arsenal,13,12,25,24
+2021-02-21,Man United_Newcastle_2020,Man United,13,12,25,24
+2021-02-21,Aston Villa_Leicester_2020,Aston Villa,11,12,23,24
+2021-02-21,West Ham_Tottenham_2020,West Ham,13,12,25,24
+2021-02-21,West Ham_Tottenham_2020,Tottenham,12,12,24,24
+2021-02-21,Aston Villa_Leicester_2020,Leicester,12,13,25,24
+2021-02-21,Arsenal_Man City_2020,Man City,12,13,25,24
+2021-02-21,Man United_Newcastle_2020,Newcastle,12,13,25,24
+2021-02-22,Brighton_Crystal Palace_2020,Brighton,13,12,25,24
+2021-02-22,Brighton_Crystal Palace_2020,Crystal Palace,12,13,25,24
+2021-02-23,Leeds_Southampton_2020,Southampton,13,12,25,25
+2021-02-23,Leeds_Southampton_2020,Leeds,12,13,25,25
+2021-02-27,Leeds_Aston Villa_2020,Aston Villa,11,13,24,25
+2021-02-27,Leeds_Aston Villa_2020,Leeds,13,13,26,25
+2021-02-27,Newcastle_Wolves_2020,Newcastle,13,13,26,25
+2021-02-27,Man City_West Ham_2020,West Ham,13,13,26,25
+2021-02-27,Man City_West Ham_2020,Man City,13,13,26,25
+2021-02-27,West Brom_Brighton_2020,West Brom,13,13,26,25
+2021-02-27,Newcastle_Wolves_2020,Wolves,13,13,26,25
+2021-02-27,West Brom_Brighton_2020,Brighton,13,13,26,25
+2021-02-28,Leicester_Arsenal_2020,Leicester,13,13,26,25
+2021-02-28,Tottenham_Burnley_2020,Burnley,13,13,26,25
+2021-02-28,Leicester_Arsenal_2020,Arsenal,13,13,26,25
+2021-02-28,Sheffield United_Liverpool_2020,Sheffield United,13,13,26,25
+2021-02-28,Crystal Palace_Fulham_2020,Crystal Palace,13,13,26,25
+2021-02-28,Tottenham_Burnley_2020,Tottenham,13,12,25,25
+2021-02-28,Chelsea_Man United_2020,Chelsea,13,13,26,25
+2021-02-28,Chelsea_Man United_2020,Man United,13,13,26,25
+2021-02-28,Crystal Palace_Fulham_2020,Fulham,13,13,26,25
+2021-02-28,Sheffield United_Liverpool_2020,Liverpool,13,13,26,25
+2021-03-01,Everton_Southampton_2020,Southampton,13,13,26,25
+2021-03-01,Everton_Southampton_2020,Everton,13,12,25,25
+2021-03-02,Man City_Wolves_2020,Wolves,13,14,27,26
+2021-03-02,Man City_Wolves_2020,Man City,14,13,27,26
+2021-03-03,Burnley_Leicester_2020,Burnley,14,13,27,26
+2021-03-03,Sheffield United_Aston Villa_2020,Sheffield United,14,13,27,26
+2021-03-03,Sheffield United_Aston Villa_2020,Aston Villa,11,14,25,26
+2021-03-03,Burnley_Leicester_2020,Leicester,13,14,27,26
+2021-03-03,Crystal Palace_Man United_2020,Man United,13,14,27,26
+2021-03-03,Crystal Palace_Man United_2020,Crystal Palace,14,13,27,26
+2021-03-04,West Brom_Everton_2020,West Brom,14,13,27,26
+2021-03-04,West Brom_Everton_2020,Everton,13,13,26,26
+2021-03-04,Fulham_Tottenham_2020,Tottenham,13,13,26,26
+2021-03-04,Fulham_Tottenham_2020,Fulham,14,13,27,26
+2021-03-04,Liverpool_Chelsea_2020,Liverpool,14,13,27,26
+2021-03-04,Liverpool_Chelsea_2020,Chelsea,13,14,27,26
+2021-03-06,Aston Villa_Wolves_2020,Aston Villa,12,14,26,26
+2021-03-06,Sheffield United_Southampton_2020,Southampton,13,14,27,26
+2021-03-06,Burnley_Arsenal_2020,Burnley,15,13,28,26
+2021-03-06,Sheffield United_Southampton_2020,Sheffield United,15,13,28,26
+2021-03-06,Brighton_Leicester_2020,Brighton,14,13,27,26
+2021-03-06,Brighton_Leicester_2020,Leicester,13,15,28,26
+2021-03-06,Aston Villa_Wolves_2020,Wolves,13,15,28,26
+2021-03-06,Burnley_Arsenal_2020,Arsenal,13,14,27,26
+2021-03-07,Liverpool_Fulham_2020,Fulham,14,14,28,26
+2021-03-07,West Brom_Newcastle_2020,West Brom,15,13,28,26
+2021-03-07,Tottenham_Crystal Palace_2020,Crystal Palace,14,14,28,26
+2021-03-07,West Brom_Newcastle_2020,Newcastle,13,14,27,26
+2021-03-07,Tottenham_Crystal Palace_2020,Tottenham,14,13,27,26
+2021-03-07,Man City_Man United_2020,Man City,15,13,28,26
+2021-03-07,Liverpool_Fulham_2020,Liverpool,15,13,28,26
+2021-03-07,Man City_Man United_2020,Man United,13,15,28,26
+2021-03-08,Chelsea_Everton_2020,Chelsea,14,14,28,26
+2021-03-08,West Ham_Leeds_2020,Leeds,13,14,27,26
+2021-03-08,West Ham_Leeds_2020,West Ham,14,13,27,26
+2021-03-08,Chelsea_Everton_2020,Everton,13,14,27,26
+2021-03-10,Man City_Southampton_2020,Southampton,13,15,28,27
+2021-03-10,Man City_Southampton_2020,Man City,16,13,29,27
+2021-03-12,Newcastle_Aston Villa_2020,Aston Villa,12,15,27,27
+2021-03-12,Newcastle_Aston Villa_2020,Newcastle,14,14,28,27
+2021-03-13,Crystal Palace_West Brom_2020,West Brom,15,14,29,27
+2021-03-13,Everton_Burnley_2020,Burnley,15,14,29,27
+2021-03-13,Crystal Palace_West Brom_2020,Crystal Palace,15,14,29,27
+2021-03-13,Everton_Burnley_2020,Everton,14,14,28,27
+2021-03-13,Fulham_Man City_2020,Man City,16,14,30,27
+2021-03-13,Leeds_Chelsea_2020,Chelsea,14,15,29,27
+2021-03-13,Fulham_Man City_2020,Fulham,15,14,29,27
+2021-03-13,Leeds_Chelsea_2020,Leeds,14,14,28,27
+2021-03-14,Southampton_Brighton_2020,Southampton,14,15,29,27
+2021-03-14,Southampton_Brighton_2020,Brighton,14,14,28,27
+2021-03-14,Arsenal_Tottenham_2020,Tottenham,14,14,28,27
+2021-03-14,Man United_West Ham_2020,West Ham,14,14,28,27
+2021-03-14,Leicester_Sheffield United_2020,Leicester,14,15,29,27
+2021-03-14,Arsenal_Tottenham_2020,Arsenal,14,14,28,27
+2021-03-14,Leicester_Sheffield United_2020,Sheffield United,15,14,29,27
+2021-03-14,Man United_West Ham_2020,Man United,14,15,29,27
+2021-03-15,Wolves_Liverpool_2020,Wolves,14,15,29,27
+2021-03-15,Wolves_Liverpool_2020,Liverpool,15,14,29,27
+2021-03-19,Fulham_Leeds_2020,Fulham,16,14,30,28
+2021-03-19,Fulham_Leeds_2020,Leeds,14,15,29,28
+2021-03-20,Brighton_Newcastle_2020,Brighton,15,14,29,28
+2021-03-20,Brighton_Newcastle_2020,Newcastle,14,15,29,28
+2021-03-21,Aston Villa_Tottenham_2020,Aston Villa,13,15,28,28
+2021-03-21,Aston Villa_Tottenham_2020,Tottenham,14,15,29,28
+2021-03-21,West Ham_Arsenal_2020,Arsenal,14,15,29,28
+2021-03-21,West Ham_Arsenal_2020,West Ham,15,14,29,28
+2021-04-03,Arsenal_Liverpool_2020,Arsenal,15,15,30,30
+2021-04-03,Arsenal_Liverpool_2020,Liverpool,15,15,30,30
+2021-04-03,Leeds_Sheffield United_2020,Leeds,15,15,30,30
+2021-04-03,Chelsea_West Brom_2020,West Brom,15,15,30,30
+2021-04-03,Leicester_Man City_2020,Man City,16,15,31,30
+2021-04-03,Chelsea_West Brom_2020,Chelsea,15,15,30,30
+2021-04-03,Leicester_Man City_2020,Leicester,15,15,30,30
+2021-04-03,Leeds_Sheffield United_2020,Sheffield United,15,15,30,30
+2021-04-04,Newcastle_Tottenham_2020,Newcastle,15,15,30,30
+2021-04-04,Southampton_Burnley_2020,Southampton,15,15,30,30
+2021-04-04,Newcastle_Tottenham_2020,Tottenham,14,16,30,30
+2021-04-04,Man United_Brighton_2020,Brighton,15,15,30,30
+2021-04-04,Man United_Brighton_2020,Man United,15,15,30,30
+2021-04-04,Southampton_Burnley_2020,Burnley,15,15,30,30
+2021-04-04,Aston Villa_Fulham_2020,Fulham,16,15,31,30
+2021-04-04,Aston Villa_Fulham_2020,Aston Villa,14,15,29,30
+2021-04-05,Wolves_West Ham_2020,Wolves,15,15,30,30
+2021-04-05,Wolves_West Ham_2020,West Ham,15,15,30,30
+2021-04-05,Everton_Crystal Palace_2020,Crystal Palace,15,15,30,30
+2021-04-05,Everton_Crystal Palace_2020,Everton,15,14,29,30
+2021-04-09,Fulham_Wolves_2020,Fulham,17,15,32,31
+2021-04-09,Fulham_Wolves_2020,Wolves,15,16,31,31
+2021-04-10,Crystal Palace_Chelsea_2020,Chelsea,15,16,31,31
+2021-04-10,Man City_Leeds_2020,Man City,17,15,32,31
+2021-04-10,Man City_Leeds_2020,Leeds,15,16,31,31
+2021-04-10,Liverpool_Aston Villa_2020,Aston Villa,14,16,30,31
+2021-04-10,Crystal Palace_Chelsea_2020,Crystal Palace,16,15,31,31
+2021-04-10,Liverpool_Aston Villa_2020,Liverpool,16,15,31,31
+2021-04-11,Sheffield United_Arsenal_2020,Arsenal,15,16,31,31
+2021-04-11,Sheffield United_Arsenal_2020,Sheffield United,16,15,31,31
+2021-04-11,West Ham_Leicester_2020,West Ham,16,15,31,31
+2021-04-11,Burnley_Newcastle_2020,Burnley,16,15,31,31
+2021-04-11,West Ham_Leicester_2020,Leicester,15,16,31,31
+2021-04-11,Tottenham_Man United_2020,Tottenham,15,16,31,31
+2021-04-11,Burnley_Newcastle_2020,Newcastle,15,16,31,31
+2021-04-11,Tottenham_Man United_2020,Man United,15,16,31,31
+2021-04-12,West Brom_Southampton_2020,West Brom,16,15,31,31
+2021-04-12,Brighton_Everton_2020,Brighton,16,15,31,31
+2021-04-12,Brighton_Everton_2020,Everton,15,15,30,31
+2021-04-12,West Brom_Southampton_2020,Southampton,15,16,31,31
+2021-04-16,Everton_Tottenham_2020,Everton,16,15,31,32
+2021-04-16,Everton_Tottenham_2020,Tottenham,15,17,32,32
+2021-04-17,Newcastle_West Ham_2020,West Ham,16,16,32,32
+2021-04-17,Newcastle_West Ham_2020,Newcastle,16,16,32,32
+2021-04-17,Wolves_Sheffield United_2020,Sheffield United,16,16,32,32
+2021-04-17,Wolves_Sheffield United_2020,Wolves,16,16,32,32
+2021-04-18,Man United_Burnley_2020,Burnley,16,16,32,32
+2021-04-18,Man United_Burnley_2020,Man United,16,16,32,32
+2021-04-18,Arsenal_Fulham_2020,Arsenal,16,16,32,32
+2021-04-18,Arsenal_Fulham_2020,Fulham,17,16,33,32
+2021-04-19,Leeds_Liverpool_2020,Liverpool,16,16,32,32
+2021-04-19,Leeds_Liverpool_2020,Leeds,16,16,32,32
+2021-04-20,Chelsea_Brighton_2020,Brighton,16,16,32,33
+2021-04-20,Chelsea_Brighton_2020,Chelsea,16,16,32,33
+2021-04-21,Tottenham_Southampton_2020,Southampton,15,17,32,33
+2021-04-21,Aston Villa_Man City_2020,Man City,17,16,33,33
+2021-04-21,Aston Villa_Man City_2020,Aston Villa,15,16,31,33
+2021-04-21,Tottenham_Southampton_2020,Tottenham,16,17,33,33
+2021-04-22,Leicester_West Brom_2020,Leicester,16,16,32,33
+2021-04-22,Leicester_West Brom_2020,West Brom,16,16,32,33
+2021-04-23,Arsenal_Everton_2020,Arsenal,17,16,33,33
+2021-04-23,Arsenal_Everton_2020,Everton,16,16,32,33
+2021-04-24,Sheffield United_Brighton_2020,Brighton,16,17,33,33
+2021-04-24,Liverpool_Newcastle_2020,Newcastle,16,17,33,33
+2021-04-24,Sheffield United_Brighton_2020,Sheffield United,17,16,33,33
+2021-04-24,Liverpool_Newcastle_2020,Liverpool,17,16,33,33
+2021-04-24,West Ham_Chelsea_2020,West Ham,17,16,33,33
+2021-04-24,West Ham_Chelsea_2020,Chelsea,16,17,33,33
+2021-04-25,Wolves_Burnley_2020,Wolves,17,16,33,33
+2021-04-25,Leeds_Man United_2020,Leeds,17,16,33,33
+2021-04-25,Aston Villa_West Brom_2020,West Brom,16,17,33,33
+2021-04-25,Wolves_Burnley_2020,Burnley,16,17,33,33
+2021-04-25,Aston Villa_West Brom_2020,Aston Villa,16,16,32,33
+2021-04-25,Leeds_Man United_2020,Man United,16,17,33,33
+2021-04-26,Leicester_Crystal Palace_2020,Crystal Palace,16,16,32,33
+2021-04-26,Leicester_Crystal Palace_2020,Leicester,17,16,33,33

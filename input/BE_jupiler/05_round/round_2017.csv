@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2017-07-28,Antwerp_Anderlecht_2017,Anderlecht,1,1,1,1
+2017-07-28,Antwerp_Anderlecht_2017,Antwerp,1,1,1,1
+2017-07-29,Genk_Waasland-Beveren_2017,Genk,1,1,1,1
+2017-07-29,Lokeren_Club Brugge_2017,Lokeren,1,1,1,1
+2017-07-29,Lokeren_Club Brugge_2017,Club Brugge,1,1,1,1
+2017-07-29,Eupen_Waregem_2017,Waregem,1,1,1,1
+2017-07-29,Charleroi_Kortrijk_2017,Charleroi,1,1,1,1
+2017-07-29,Charleroi_Kortrijk_2017,Kortrijk,1,1,1,1
+2017-07-29,Genk_Waasland-Beveren_2017,Waasland-Beveren,1,1,1,1
+2017-07-29,Eupen_Waregem_2017,Eupen,1,1,1,1
+2017-07-30,Mechelen_Standard_2017,Standard,1,1,1,1
+2017-07-30,Oostende_Mouscron_2017,Oostende,1,1,1,1
+2017-07-30,St Truiden_Gent_2017,Gent,1,1,1,1
+2017-07-30,St Truiden_Gent_2017,St Truiden,1,1,1,1
+2017-07-30,Oostende_Mouscron_2017,Mouscron,1,1,1,1
+2017-07-30,Mechelen_Standard_2017,Mechelen,1,1,1,1
+2017-08-04,Standard_Genk_2017,Genk,1,1,2,2
+2017-08-04,Standard_Genk_2017,Standard,1,1,2,2
+2017-08-05,Waregem_St Truiden_2017,Waregem,1,1,2,2
+2017-08-05,Mouscron_Charleroi_2017,Charleroi,1,1,2,2
+2017-08-05,Kortrijk_Lokeren_2017,Lokeren,1,1,2,2
+2017-08-05,Waasland-Beveren_Mechelen_2017,Mechelen,1,1,2,2
+2017-08-05,Mouscron_Charleroi_2017,Mouscron,1,1,2,2
+2017-08-05,Waregem_St Truiden_2017,St Truiden,1,1,2,2
+2017-08-05,Waasland-Beveren_Mechelen_2017,Waasland-Beveren,1,1,2,2
+2017-08-05,Kortrijk_Lokeren_2017,Kortrijk,1,1,2,2
+2017-08-06,Anderlecht_Oostende_2017,Oostende,1,1,2,2
+2017-08-06,Gent_Antwerp_2017,Antwerp,1,1,2,2
+2017-08-06,Anderlecht_Oostende_2017,Anderlecht,1,1,2,2
+2017-08-06,Club Brugge_Eupen_2017,Club Brugge,1,1,2,2
+2017-08-06,Club Brugge_Eupen_2017,Eupen,1,1,2,2
+2017-08-06,Gent_Antwerp_2017,Gent,1,1,2,2
+2017-08-11,Waregem_Club Brugge_2017,Club Brugge,1,2,3,3
+2017-08-11,Waregem_Club Brugge_2017,Waregem,2,1,3,3
+2017-08-12,Mechelen_Gent_2017,Gent,1,2,3,3
+2017-08-12,Lokeren_Mouscron_2017,Mouscron,1,2,3,3
+2017-08-12,Eupen_Kortrijk_2017,Eupen,2,1,3,3
+2017-08-12,Lokeren_Mouscron_2017,Lokeren,2,1,3,3
+2017-08-12,Oostende_Waasland-Beveren_2017,Waasland-Beveren,1,2,3,3
+2017-08-12,Eupen_Kortrijk_2017,Kortrijk,1,2,3,3
+2017-08-12,Mechelen_Gent_2017,Mechelen,2,1,3,3
+2017-08-12,Oostende_Waasland-Beveren_2017,Oostende,2,1,3,3
+2017-08-13,Antwerp_Genk_2017,Antwerp,2,1,3,3
+2017-08-13,Charleroi_Anderlecht_2017,Charleroi,2,1,3,3
+2017-08-13,St Truiden_Standard_2017,Standard,1,2,3,3
+2017-08-13,St Truiden_Standard_2017,St Truiden,2,1,3,3
+2017-08-13,Charleroi_Anderlecht_2017,Anderlecht,1,2,3,3
+2017-08-13,Antwerp_Genk_2017,Genk,1,2,3,3
+2017-08-18,Standard_Waregem_2017,Standard,2,2,4,4
+2017-08-18,Standard_Waregem_2017,Waregem,2,2,4,4
+2017-08-19,Waasland-Beveren_Lokeren_2017,Waasland-Beveren,2,2,4,4
+2017-08-19,Eupen_Oostende_2017,Eupen,3,1,4,4
+2017-08-19,Mechelen_Antwerp_2017,Antwerp,2,2,4,4
+2017-08-19,Genk_Charleroi_2017,Genk,2,2,4,4
+2017-08-19,Mechelen_Antwerp_2017,Mechelen,3,1,4,4
+2017-08-19,Genk_Charleroi_2017,Charleroi,2,2,4,4
+2017-08-19,Waasland-Beveren_Lokeren_2017,Lokeren,2,2,4,4
+2017-08-19,Eupen_Oostende_2017,Oostende,2,2,4,4
+2017-08-20,Kortrijk_Club Brugge_2017,Club Brugge,1,3,4,4
+2017-08-20,Kortrijk_Club Brugge_2017,Kortrijk,2,2,4,4
+2017-08-20,Mouscron_Gent_2017,Mouscron,2,2,4,4
+2017-08-20,Mouscron_Gent_2017,Gent,1,3,4,4
+2017-08-20,Anderlecht_St Truiden_2017,St Truiden,2,2,4,4
+2017-08-20,Anderlecht_St Truiden_2017,Anderlecht,2,2,4,4
+2017-08-25,Kortrijk_Mouscron_2017,Mouscron,2,3,5,5
+2017-08-25,Kortrijk_Mouscron_2017,Kortrijk,3,2,5,5
+2017-08-26,Lokeren_Eupen_2017,Eupen,3,2,5,5
+2017-08-26,St Truiden_Waasland-Beveren_2017,St Truiden,3,2,5,5
+2017-08-26,Lokeren_Eupen_2017,Lokeren,3,2,5,5
+2017-08-26,Genk_Mechelen_2017,Genk,3,2,5,5
+2017-08-26,Charleroi_Waregem_2017,Charleroi,3,2,5,5
+2017-08-26,St Truiden_Waasland-Beveren_2017,Waasland-Beveren,2,3,5,5
+2017-08-26,Charleroi_Waregem_2017,Waregem,2,3,5,5
+2017-08-26,Genk_Mechelen_2017,Mechelen,3,2,5,5
+2017-08-27,Oostende_Antwerp_2017,Antwerp,2,3,5,5
+2017-08-27,Gent_Anderlecht_2017,Gent,2,3,5,5
+2017-08-27,Gent_Anderlecht_2017,Anderlecht,2,3,5,5
+2017-08-27,Club Brugge_Standard_2017,Club Brugge,2,3,5,5
+2017-08-27,Oostende_Antwerp_2017,Oostende,3,2,5,5
+2017-08-27,Club Brugge_Standard_2017,Standard,2,3,5,5
+2017-09-08,Anderlecht_Lokeren_2017,Anderlecht,3,3,6,7
+2017-09-08,Anderlecht_Lokeren_2017,Lokeren,3,3,6,7
+2017-09-09,Waasland-Beveren_Eupen_2017,Eupen,3,3,6,7
+2017-09-09,Antwerp_St Truiden_2017,Antwerp,3,3,6,7
+2017-09-09,Mouscron_Club Brugge_2017,Club Brugge,2,4,6,7
+2017-09-09,Waregem_Kortrijk_2017,Kortrijk,3,3,6,7
+2017-09-09,Mouscron_Club Brugge_2017,Mouscron,3,3,6,7
+2017-09-09,Antwerp_St Truiden_2017,St Truiden,3,3,6,7
+2017-09-09,Waregem_Kortrijk_2017,Waregem,3,3,6,7
+2017-09-09,Waasland-Beveren_Eupen_2017,Waasland-Beveren,3,3,6,7
+2017-09-10,Standard_Charleroi_2017,Charleroi,3,3,6,7
+2017-09-10,Gent_Genk_2017,Gent,3,3,6,7
+2017-09-10,Mechelen_Oostende_2017,Oostende,3,3,6,7
+2017-09-10,Standard_Charleroi_2017,Standard,3,3,6,7
+2017-09-10,Mechelen_Oostende_2017,Mechelen,4,2,6,7
+2017-09-10,Gent_Genk_2017,Genk,3,3,6,7
+2017-09-15,Club Brugge_Mechelen_2017,Club Brugge,3,4,7,8
+2017-09-15,Club Brugge_Mechelen_2017,Mechelen,4,3,7,8
+2017-09-16,Kortrijk_Anderlecht_2017,Kortrijk,4,3,7,8
+2017-09-16,Lokeren_Antwerp_2017,Lokeren,4,3,7,8
+2017-09-16,Charleroi_Waasland-Beveren_2017,Charleroi,4,3,7,8
+2017-09-16,Lokeren_Antwerp_2017,Antwerp,3,4,7,8
+2017-09-16,St Truiden_Genk_2017,St Truiden,4,3,7,8
+2017-09-16,Kortrijk_Anderlecht_2017,Anderlecht,3,4,7,8
+2017-09-16,St Truiden_Genk_2017,Genk,3,4,7,8
+2017-09-16,Charleroi_Waasland-Beveren_2017,Waasland-Beveren,3,4,7,8
+2017-09-17,Oostende_Gent_2017,Gent,3,4,7,8
+2017-09-17,Eupen_Standard_2017,Standard,3,4,7,8
+2017-09-17,Oostende_Gent_2017,Oostende,4,3,7,8
+2017-09-17,Eupen_Standard_2017,Eupen,4,3,7,8
+2017-09-17,Waregem_Mouscron_2017,Mouscron,3,4,7,8
+2017-09-17,Waregem_Mouscron_2017,Waregem,4,3,7,8
+2017-09-22,Antwerp_Kortrijk_2017,Antwerp,4,4,8,9
+2017-09-22,Antwerp_Kortrijk_2017,Kortrijk,4,4,8,9
+2017-09-23,Mechelen_St Truiden_2017,Mechelen,5,3,8,9
+2017-09-23,Mouscron_Eupen_2017,Mouscron,4,4,8,9
+2017-09-23,Waasland-Beveren_Anderlecht_2017,Waasland-Beveren,4,4,8,9
+2017-09-23,Genk_Oostende_2017,Oostende,4,4,8,9
+2017-09-23,Mechelen_St Truiden_2017,St Truiden,4,4,8,9
+2017-09-23,Waasland-Beveren_Anderlecht_2017,Anderlecht,3,5,8,9
+2017-09-23,Mouscron_Eupen_2017,Eupen,4,4,8,9
+2017-09-23,Genk_Oostende_2017,Genk,4,4,8,9
+2017-09-24,Standard_Lokeren_2017,Standard,4,4,8,9
+2017-09-24,Charleroi_Club Brugge_2017,Club Brugge,3,5,8,9
+2017-09-24,Charleroi_Club Brugge_2017,Charleroi,5,3,8,9
+2017-09-24,Standard_Lokeren_2017,Lokeren,4,4,8,9
+2017-09-24,Gent_Waregem_2017,Gent,4,4,8,9
+2017-09-24,Gent_Waregem_2017,Waregem,4,4,8,9
+2017-09-29,St Truiden_Charleroi_2017,Charleroi,5,4,9,10
+2017-09-29,St Truiden_Charleroi_2017,St Truiden,5,4,9,10
+2017-09-30,Kortrijk_Oostende_2017,Oostende,4,5,9,10
+2017-09-30,Eupen_Genk_2017,Eupen,5,4,9,10
+2017-09-30,Mouscron_Mechelen_2017,Mechelen,5,4,9,10
+2017-09-30,Waasland-Beveren_Antwerp_2017,Antwerp,4,5,9,10
+2017-09-30,Waasland-Beveren_Antwerp_2017,Waasland-Beveren,5,4,9,10
+2017-09-30,Kortrijk_Oostende_2017,Kortrijk,5,4,9,10
+2017-09-30,Mouscron_Mechelen_2017,Mouscron,5,4,9,10
+2017-09-30,Eupen_Genk_2017,Genk,4,5,9,10
+2017-10-01,Waregem_Lokeren_2017,Waregem,5,4,9,10
+2017-10-01,Anderlecht_Standard_2017,Standard,4,5,9,10
+2017-10-01,Waregem_Lokeren_2017,Lokeren,4,5,9,10
+2017-10-01,Anderlecht_Standard_2017,Anderlecht,4,5,9,10
+2017-10-01,Club Brugge_Gent_2017,Gent,4,5,9,10
+2017-10-01,Club Brugge_Gent_2017,Club Brugge,4,5,9,10
+2017-10-13,Mechelen_Anderlecht_2017,Anderlecht,4,6,10,12
+2017-10-13,Mechelen_Anderlecht_2017,Mechelen,6,4,10,12
+2017-10-14,Gent_Waasland-Beveren_2017,Waasland-Beveren,5,5,10,12
+2017-10-14,Lokeren_St Truiden_2017,Lokeren,5,5,10,12
+2017-10-14,Genk_Mouscron_2017,Mouscron,5,5,10,12
+2017-10-14,Genk_Mouscron_2017,Genk,5,5,10,12
+2017-10-14,Gent_Waasland-Beveren_2017,Gent,5,5,10,12
+2017-10-14,Charleroi_Eupen_2017,Charleroi,6,4,10,12
+2017-10-14,Lokeren_St Truiden_2017,St Truiden,5,5,10,12
+2017-10-14,Charleroi_Eupen_2017,Eupen,5,5,10,12
+2017-10-15,Oostende_Club Brugge_2017,Oostende,5,5,10,12
+2017-10-15,Antwerp_Waregem_2017,Antwerp,5,5,10,12
+2017-10-15,Standard_Kortrijk_2017,Standard,5,5,10,12
+2017-10-15,Standard_Kortrijk_2017,Kortrijk,5,5,10,12
+2017-10-15,Oostende_Club Brugge_2017,Club Brugge,4,6,10,12
+2017-10-15,Antwerp_Waregem_2017,Waregem,5,5,10,12
+2017-10-20,Mouscron_Standard_2017,Mouscron,6,5,11,13
+2017-10-20,Mouscron_Standard_2017,Standard,5,6,11,13
+2017-10-21,Kortrijk_Gent_2017,Gent,5,6,11,13
+2017-10-21,Lokeren_Charleroi_2017,Lokeren,6,5,11,13
+2017-10-21,St Truiden_Oostende_2017,St Truiden,6,5,11,13
+2017-10-21,Lokeren_Charleroi_2017,Charleroi,6,5,11,13
+2017-10-21,St Truiden_Oostende_2017,Oostende,5,6,11,13
+2017-10-21,Eupen_Mechelen_2017,Eupen,6,5,11,13
+2017-10-21,Eupen_Mechelen_2017,Mechelen,6,5,11,13
+2017-10-21,Kortrijk_Gent_2017,Kortrijk,6,5,11,13
+2017-10-22,Club Brugge_Antwerp_2017,Antwerp,5,6,11,13
+2017-10-22,Waregem_Waasland-Beveren_2017,Waregem,6,5,11,13
+2017-10-22,Club Brugge_Antwerp_2017,Club Brugge,5,6,11,13
+2017-10-22,Waregem_Waasland-Beveren_2017,Waasland-Beveren,5,6,11,13
+2017-10-22,Anderlecht_Genk_2017,Anderlecht,5,6,11,13
+2017-10-22,Anderlecht_Genk_2017,Genk,5,6,11,13
+2017-10-24,Gent_Eupen_2017,Gent,6,6,12,14
+2017-10-24,Oostende_Charleroi_2017,Charleroi,6,6,12,14
+2017-10-24,Mechelen_Lokeren_2017,Lokeren,6,6,12,14
+2017-10-24,Oostende_Charleroi_2017,Oostende,6,6,12,14
+2017-10-24,Gent_Eupen_2017,Eupen,6,6,12,14
+2017-10-24,Mechelen_Lokeren_2017,Mechelen,7,5,12,14
+2017-10-25,Anderlecht_Waregem_2017,Anderlecht,6,6,12,14
+2017-10-25,Anderlecht_Waregem_2017,Waregem,6,6,12,14
+2017-10-25,Genk_Club Brugge_2017,Genk,6,6,12,14
+2017-10-25,Waasland-Beveren_Kortrijk_2017,Waasland-Beveren,6,6,12,14
+2017-10-25,Waasland-Beveren_Kortrijk_2017,Kortrijk,6,6,12,14
+2017-10-25,Genk_Club Brugge_2017,Club Brugge,5,7,12,14
+2017-10-26,Antwerp_Standard_2017,Standard,5,7,12,14
+2017-10-26,St Truiden_Mouscron_2017,St Truiden,7,5,12,14
+2017-10-26,St Truiden_Mouscron_2017,Mouscron,6,6,12,14
+2017-10-26,Antwerp_Standard_2017,Antwerp,6,6,12,14
+2017-10-27,Charleroi_Gent_2017,Gent,6,7,13,14
+2017-10-27,Charleroi_Gent_2017,Charleroi,7,6,13,14
+2017-10-28,Kortrijk_Genk_2017,Genk,6,7,13,14
+2017-10-28,Eupen_Anderlecht_2017,Eupen,7,6,13,14
+2017-10-28,Waregem_Mechelen_2017,Mechelen,7,6,13,14
+2017-10-28,Lokeren_Oostende_2017,Oostende,6,7,13,14
+2017-10-28,Lokeren_Oostende_2017,Lokeren,7,6,13,14
+2017-10-28,Kortrijk_Genk_2017,Kortrijk,7,6,13,14
+2017-10-28,Eupen_Anderlecht_2017,Anderlecht,6,7,13,14
+2017-10-28,Waregem_Mechelen_2017,Waregem,7,6,13,14
+2017-10-29,Club Brugge_St Truiden_2017,Club Brugge,6,7,13,14
+2017-10-29,Standard_Waasland-Beveren_2017,Standard,6,7,13,14
+2017-10-29,Mouscron_Antwerp_2017,Antwerp,6,7,13,14
+2017-10-29,Standard_Waasland-Beveren_2017,Waasland-Beveren,6,7,13,14
+2017-10-29,Club Brugge_St Truiden_2017,St Truiden,7,6,13,14
+2017-10-29,Mouscron_Antwerp_2017,Mouscron,7,6,13,14
+2017-11-03,Gent_Standard_2017,Gent,7,7,14,15
+2017-11-03,Gent_Standard_2017,Standard,6,8,14,15
+2017-11-04,St Truiden_Eupen_2017,Eupen,7,7,14,15
+2017-11-04,Mechelen_Kortrijk_2017,Kortrijk,7,7,14,15
+2017-11-04,St Truiden_Eupen_2017,St Truiden,8,6,14,15
+2017-11-04,Waasland-Beveren_Mouscron_2017,Mouscron,7,7,14,15
+2017-11-04,Mechelen_Kortrijk_2017,Mechelen,8,6,14,15
+2017-11-04,Genk_Lokeren_2017,Genk,7,7,14,15
+2017-11-04,Waasland-Beveren_Mouscron_2017,Waasland-Beveren,7,7,14,15
+2017-11-04,Genk_Lokeren_2017,Lokeren,7,7,14,15
+2017-11-05,Anderlecht_Club Brugge_2017,Anderlecht,7,7,14,15
+2017-11-05,Antwerp_Charleroi_2017,Charleroi,7,7,14,15
+2017-11-05,Antwerp_Charleroi_2017,Antwerp,7,7,14,15
+2017-11-05,Oostende_Waregem_2017,Waregem,7,7,14,15
+2017-11-05,Anderlecht_Club Brugge_2017,Club Brugge,6,8,14,15
+2017-11-05,Oostende_Waregem_2017,Oostende,7,7,14,15
+2017-11-17,Charleroi_Mechelen_2017,Charleroi,8,7,15,17
+2017-11-17,Charleroi_Mechelen_2017,Mechelen,8,7,15,17
+2017-11-18,Standard_Oostende_2017,Oostende,7,8,15,17
+2017-11-18,Kortrijk_St Truiden_2017,St Truiden,8,7,15,17
+2017-11-18,Eupen_Antwerp_2017,Antwerp,7,8,15,17
+2017-11-18,Mouscron_Anderlecht_2017,Mouscron,8,7,15,17
+2017-11-18,Kortrijk_St Truiden_2017,Kortrijk,8,7,15,17
+2017-11-18,Standard_Oostende_2017,Standard,7,8,15,17
+2017-11-18,Mouscron_Anderlecht_2017,Anderlecht,7,8,15,17
+2017-11-18,Eupen_Antwerp_2017,Eupen,8,7,15,17
+2017-11-19,Club Brugge_Waasland-Beveren_2017,Club Brugge,7,8,15,17
+2017-11-19,Lokeren_Gent_2017,Gent,7,8,15,17
+2017-11-19,Waregem_Genk_2017,Waregem,8,7,15,17
+2017-11-19,Club Brugge_Waasland-Beveren_2017,Waasland-Beveren,7,8,15,17
+2017-11-19,Lokeren_Gent_2017,Lokeren,8,7,15,17
+2017-11-19,Waregem_Genk_2017,Genk,7,8,15,17
+2017-11-24,Gent_Mouscron_2017,Mouscron,8,8,16,18
+2017-11-24,Gent_Mouscron_2017,Gent,8,8,16,18
+2017-11-25,Waasland-Beveren_Charleroi_2017,Waasland-Beveren,8,8,16,18
+2017-11-25,St Truiden_Lokeren_2017,Lokeren,8,8,16,18
+2017-11-25,Oostende_Eupen_2017,Eupen,8,8,16,18
+2017-11-25,Waasland-Beveren_Charleroi_2017,Charleroi,8,8,16,18
+2017-11-25,St Truiden_Lokeren_2017,St Truiden,9,7,16,18
+2017-11-25,Antwerp_Mechelen_2017,Mechelen,8,8,16,18
+2017-11-25,Oostende_Eupen_2017,Oostende,8,8,16,18
+2017-11-25,Antwerp_Mechelen_2017,Antwerp,8,8,16,18
+2017-11-26,Club Brugge_Waregem_2017,Club Brugge,8,8,16,18
+2017-11-26,Genk_Standard_2017,Genk,8,8,16,18
+2017-11-26,Anderlecht_Kortrijk_2017,Kortrijk,8,8,16,18
+2017-11-26,Genk_Standard_2017,Standard,7,9,16,18
+2017-11-26,Anderlecht_Kortrijk_2017,Anderlecht,8,8,16,18
+2017-11-26,Club Brugge_Waregem_2017,Waregem,8,8,16,18
+2017-12-01,Charleroi_Oostende_2017,Charleroi,9,8,17,19
+2017-12-01,Charleroi_Oostende_2017,Oostende,8,9,17,19
+2017-12-02,Mechelen_Genk_2017,Mechelen,9,8,17,19
+2017-12-02,Kortrijk_Waasland-Beveren_2017,Waasland-Beveren,8,9,17,19
+2017-12-02,Lokeren_Anderlecht_2017,Anderlecht,8,9,17,19
+2017-12-02,Mouscron_St Truiden_2017,Mouscron,9,8,17,19
+2017-12-02,Mechelen_Genk_2017,Genk,8,9,17,19
+2017-12-02,Kortrijk_Waasland-Beveren_2017,Kortrijk,9,8,17,19
+2017-12-02,Lokeren_Anderlecht_2017,Lokeren,9,8,17,19
+2017-12-02,Mouscron_St Truiden_2017,St Truiden,9,8,17,19
+2017-12-03,Standard_Antwerp_2017,Antwerp,8,9,17,19
+2017-12-03,Standard_Antwerp_2017,Standard,8,9,17,19
+2017-12-03,Eupen_Club Brugge_2017,Club Brugge,8,9,17,19
+2017-12-03,Eupen_Club Brugge_2017,Eupen,9,8,17,19
+2017-12-03,Waregem_Gent_2017,Waregem,9,8,17,19
+2017-12-03,Waregem_Gent_2017,Gent,8,9,17,19
+2017-12-08,Waasland-Beveren_Standard_2017,Standard,8,10,18,20
+2017-12-08,Waasland-Beveren_Standard_2017,Waasland-Beveren,9,9,18,20
+2017-12-09,Oostende_Mechelen_2017,Mechelen,9,9,18,20
+2017-12-09,Antwerp_Mouscron_2017,Antwerp,9,9,18,20
+2017-12-09,Genk_Eupen_2017,Eupen,9,9,18,20
+2017-12-09,Oostende_Mechelen_2017,Oostende,9,9,18,20
+2017-12-09,Gent_Kortrijk_2017,Kortrijk,9,9,18,20
+2017-12-09,Genk_Eupen_2017,Genk,9,9,18,20
+2017-12-09,Antwerp_Mouscron_2017,Mouscron,9,9,18,20
+2017-12-09,Gent_Kortrijk_2017,Gent,9,9,18,20
+2017-12-10,Anderlecht_Charleroi_2017,Anderlecht,9,9,18,20
+2017-12-10,Anderlecht_Charleroi_2017,Charleroi,9,9,18,20
+2017-12-10,Club Brugge_Lokeren_2017,Lokeren,9,9,18,20
+2017-12-10,St Truiden_Waregem_2017,St Truiden,10,8,18,20
+2017-12-10,St Truiden_Waregem_2017,Waregem,9,9,18,20
+2017-12-10,Club Brugge_Lokeren_2017,Club Brugge,9,9,18,20
+2017-12-15,Mouscron_Oostende_2017,Oostende,9,10,19,21
+2017-12-15,Mouscron_Oostende_2017,Mouscron,10,9,19,21
+2017-12-16,Eupen_St Truiden_2017,St Truiden,10,9,19,21
+2017-12-16,Standard_Gent_2017,Standard,9,10,19,21
+2017-12-16,Kortrijk_Mechelen_2017,Kortrijk,10,9,19,21
+2017-12-16,Eupen_St Truiden_2017,Eupen,10,9,19,21
+2017-12-16,Lokeren_Waasland-Beveren_2017,Lokeren,10,9,19,21
+2017-12-16,Standard_Gent_2017,Gent,9,10,19,21
+2017-12-16,Lokeren_Waasland-Beveren_2017,Waasland-Beveren,9,10,19,21
+2017-12-16,Kortrijk_Mechelen_2017,Mechelen,9,10,19,21
+2017-12-17,Club Brugge_Anderlecht_2017,Club Brugge,10,9,19,21
+2017-12-17,Club Brugge_Anderlecht_2017,Anderlecht,9,10,19,21
+2017-12-17,Charleroi_Genk_2017,Charleroi,10,9,19,21
+2017-12-17,Waregem_Antwerp_2017,Antwerp,9,10,19,21
+2017-12-17,Charleroi_Genk_2017,Genk,9,10,19,21
+2017-12-17,Waregem_Antwerp_2017,Waregem,10,9,19,21
+2017-12-20,Mechelen_Club Brugge_2017,Club Brugge,10,10,20,22
+2017-12-20,Mechelen_Club Brugge_2017,Mechelen,10,10,20,22
+2017-12-21,Gent_Charleroi_2017,Gent,10,10,20,22
+2017-12-21,Gent_Charleroi_2017,Charleroi,10,10,20,22
+2017-12-21,Antwerp_Lokeren_2017,Lokeren,10,10,20,22
+2017-12-21,Antwerp_Lokeren_2017,Antwerp,10,10,20,22
+2017-12-22,Waasland-Beveren_Oostende_2017,Waasland-Beveren,10,10,20,22
+2017-12-22,Anderlecht_Eupen_2017,Anderlecht,10,10,20,22
+2017-12-22,Anderlecht_Eupen_2017,Eupen,10,10,20,22
+2017-12-22,Waasland-Beveren_Oostende_2017,Oostende,9,11,20,22
+2017-12-23,Mouscron_Waregem_2017,Mouscron,11,9,20,22
+2017-12-23,Standard_St Truiden_2017,Standard,10,10,20,22
+2017-12-23,Genk_Kortrijk_2017,Genk,10,10,20,22
+2017-12-23,Standard_St Truiden_2017,St Truiden,10,10,20,22
+2017-12-23,Genk_Kortrijk_2017,Kortrijk,10,10,20,22
+2017-12-23,Mouscron_Waregem_2017,Waregem,10,10,20,22
+2017-12-26,Waregem_Charleroi_2017,Waregem,11,10,21,23
+2017-12-26,Waregem_Charleroi_2017,Charleroi,10,11,21,23
+2017-12-26,Anderlecht_Gent_2017,Anderlecht,11,10,21,23
+2017-12-26,Club Brugge_Mouscron_2017,Mouscron,11,10,21,23
+2017-12-26,Eupen_Waasland-Beveren_2017,Waasland-Beveren,10,11,21,23
+2017-12-26,Anderlecht_Gent_2017,Gent,10,11,21,23
+2017-12-26,Lokeren_Mechelen_2017,Mechelen,10,11,21,23
+2017-12-26,Club Brugge_Mouscron_2017,Club Brugge,11,10,21,23
+2017-12-26,Eupen_Waasland-Beveren_2017,Eupen,11,10,21,23
+2017-12-26,Lokeren_Mechelen_2017,Lokeren,11,10,21,23
+2017-12-27,Kortrijk_Standard_2017,Standard,10,11,21,23
+2017-12-27,Kortrijk_Standard_2017,Kortrijk,11,10,21,23
+2017-12-27,St Truiden_Antwerp_2017,Antwerp,10,11,21,23
+2017-12-27,St Truiden_Antwerp_2017,St Truiden,11,10,21,23
+2018-01-16,Oostende_Genk_2017,Oostende,10,11,21,26
+2018-01-16,Oostende_Genk_2017,Genk,10,11,21,26
+2018-01-19,Charleroi_Mouscron_2017,Charleroi,11,11,22,26
+2018-01-19,Charleroi_Mouscron_2017,Mouscron,11,11,22,26
+2018-01-20,Oostende_Kortrijk_2017,Kortrijk,11,11,22,26
+2018-01-20,Standard_Eupen_2017,Eupen,11,11,22,26
+2018-01-20,Standard_Eupen_2017,Standard,11,11,22,26
+2018-01-20,Waasland-Beveren_St Truiden_2017,Waasland-Beveren,11,11,22,26
+2018-01-20,Mechelen_Waregem_2017,Mechelen,11,11,22,26
+2018-01-20,Oostende_Kortrijk_2017,Oostende,11,11,22,26
+2018-01-20,Mechelen_Waregem_2017,Waregem,11,11,22,26
+2018-01-20,Waasland-Beveren_St Truiden_2017,St Truiden,11,11,22,26
+2018-01-21,Genk_Anderlecht_2017,Genk,11,11,22,26
+2018-01-21,Gent_Lokeren_2017,Gent,11,11,22,26
+2018-01-21,Antwerp_Club Brugge_2017,Club Brugge,11,11,22,26
+2018-01-21,Antwerp_Club Brugge_2017,Antwerp,11,11,22,26
+2018-01-21,Genk_Anderlecht_2017,Anderlecht,11,11,22,26
+2018-01-21,Gent_Lokeren_2017,Lokeren,11,11,22,26
+2018-01-23,Mouscron_Kortrijk_2017,Mouscron,12,11,23,27
+2018-01-23,St Truiden_Mechelen_2017,St Truiden,12,11,23,27
+2018-01-23,Waregem_Standard_2017,Waregem,12,11,23,27
+2018-01-23,Mouscron_Kortrijk_2017,Kortrijk,11,12,23,27
+2018-01-23,St Truiden_Mechelen_2017,Mechelen,11,12,23,27
+2018-01-23,Waregem_Standard_2017,Standard,11,12,23,27
+2018-01-24,Anderlecht_Waasland-Beveren_2017,Waasland-Beveren,11,12,23,27
+2018-01-24,Eupen_Charleroi_2017,Eupen,12,11,23,27
+2018-01-24,Lokeren_Genk_2017,Lokeren,12,11,23,27
+2018-01-24,Antwerp_Gent_2017,Antwerp,12,11,23,27
+2018-01-24,Lokeren_Genk_2017,Genk,11,12,23,27
+2018-01-24,Antwerp_Gent_2017,Gent,11,12,23,27
+2018-01-24,Anderlecht_Waasland-Beveren_2017,Anderlecht,12,11,23,27
+2018-01-24,Eupen_Charleroi_2017,Charleroi,11,12,23,27
+2018-01-25,Club Brugge_Oostende_2017,Oostende,11,12,23,27
+2018-01-25,Club Brugge_Oostende_2017,Club Brugge,12,11,23,27
+2018-01-26,Mechelen_Mouscron_2017,Mouscron,12,12,24,27
+2018-01-26,Mechelen_Mouscron_2017,Mechelen,12,12,24,27
+2018-01-27,Genk_St Truiden_2017,St Truiden,12,12,24,27
+2018-01-27,Genk_St Truiden_2017,Genk,12,12,24,27
+2018-01-27,Waasland-Beveren_Waregem_2017,Waregem,12,12,24,27
+2018-01-27,Kortrijk_Eupen_2017,Kortrijk,12,12,24,27
+2018-01-27,Waasland-Beveren_Waregem_2017,Waasland-Beveren,12,12,24,27
+2018-01-27,Kortrijk_Eupen_2017,Eupen,12,12,24,27
+2018-01-27,Charleroi_Antwerp_2017,Antwerp,12,12,24,27
+2018-01-27,Charleroi_Antwerp_2017,Charleroi,12,12,24,27
+2018-01-28,Oostende_Lokeren_2017,Lokeren,12,12,24,27
+2018-01-28,Oostende_Lokeren_2017,Oostende,12,12,24,27
+2018-01-28,Standard_Anderlecht_2017,Standard,12,12,24,27
+2018-01-28,Gent_Club Brugge_2017,Gent,12,12,24,27
+2018-01-28,Standard_Anderlecht_2017,Anderlecht,12,12,24,27
+2018-01-28,Gent_Club Brugge_2017,Club Brugge,12,12,24,27
+2018-02-02,Antwerp_Waasland-Beveren_2017,Antwerp,13,12,25,28
+2018-02-02,Antwerp_Waasland-Beveren_2017,Waasland-Beveren,12,13,25,28
+2018-02-03,Eupen_Gent_2017,Gent,12,13,25,28
+2018-02-03,Lokeren_Standard_2017,Standard,12,13,25,28
+2018-02-03,Eupen_Gent_2017,Eupen,13,12,25,28
+2018-02-03,Lokeren_Standard_2017,Lokeren,13,12,25,28
+2018-02-03,St Truiden_Kortrijk_2017,Kortrijk,12,13,25,28
+2018-02-03,St Truiden_Kortrijk_2017,St Truiden,13,12,25,28
+2018-02-03,Mouscron_Genk_2017,Genk,12,13,25,28
+2018-02-03,Mouscron_Genk_2017,Mouscron,13,12,25,28
+2018-02-04,Club Brugge_Charleroi_2017,Charleroi,12,13,25,28
+2018-02-04,Club Brugge_Charleroi_2017,Club Brugge,13,12,25,28
+2018-02-04,Waregem_Oostende_2017,Waregem,13,12,25,28
+2018-02-04,Anderlecht_Mechelen_2017,Anderlecht,13,12,25,28
+2018-02-04,Anderlecht_Mechelen_2017,Mechelen,12,13,25,28
+2018-02-04,Waregem_Oostende_2017,Oostende,12,13,25,28
+2018-02-09,Genk_Waregem_2017,Genk,13,13,26,29
+2018-02-09,Genk_Waregem_2017,Waregem,13,13,26,29
+2018-02-10,Mechelen_Eupen_2017,Eupen,13,13,26,29
+2018-02-10,Oostende_Anderlecht_2017,Anderlecht,13,13,26,29
+2018-02-10,Mechelen_Eupen_2017,Mechelen,13,13,26,29
+2018-02-10,Kortrijk_Antwerp_2017,Kortrijk,13,13,26,29
+2018-02-10,Gent_St Truiden_2017,St Truiden,13,13,26,29
+2018-02-10,Gent_St Truiden_2017,Gent,13,13,26,29
+2018-02-10,Oostende_Anderlecht_2017,Oostende,13,13,26,29
+2018-02-10,Kortrijk_Antwerp_2017,Antwerp,13,13,26,29
+2018-02-11,Charleroi_Lokeren_2017,Charleroi,13,13,26,29
+2018-02-11,Charleroi_Lokeren_2017,Lokeren,13,13,26,29
+2018-02-11,Waasland-Beveren_Club Brugge_2017,Waasland-Beveren,13,13,26,29
+2018-02-11,Standard_Mouscron_2017,Mouscron,13,13,26,29
+2018-02-11,Waasland-Beveren_Club Brugge_2017,Club Brugge,13,13,26,29
+2018-02-11,Standard_Mouscron_2017,Standard,13,13,26,29
+2018-02-16,St Truiden_Anderlecht_2017,St Truiden,14,13,27,30
+2018-02-16,St Truiden_Anderlecht_2017,Anderlecht,13,14,27,30
+2018-02-17,Lokeren_Kortrijk_2017,Lokeren,14,13,27,30
+2018-02-17,Waregem_Eupen_2017,Eupen,13,14,27,30
+2018-02-17,Antwerp_Oostende_2017,Antwerp,14,13,27,30
+2018-02-17,Club Brugge_Genk_2017,Genk,13,14,27,30
+2018-02-17,Waregem_Eupen_2017,Waregem,14,13,27,30
+2018-02-17,Lokeren_Kortrijk_2017,Kortrijk,13,14,27,30
+2018-02-17,Club Brugge_Genk_2017,Club Brugge,14,13,27,30
+2018-02-17,Antwerp_Oostende_2017,Oostende,13,14,27,30
+2018-02-18,Gent_Mechelen_2017,Gent,14,13,27,30
+2018-02-18,Gent_Mechelen_2017,Mechelen,13,14,27,30
+2018-02-18,Mouscron_Waasland-Beveren_2017,Waasland-Beveren,13,14,27,30
+2018-02-18,Charleroi_Standard_2017,Standard,13,14,27,30
+2018-02-18,Mouscron_Waasland-Beveren_2017,Mouscron,14,13,27,30
+2018-02-18,Charleroi_Standard_2017,Charleroi,14,13,27,30
+2018-02-23,Genk_Antwerp_2017,Antwerp,14,14,28,31
+2018-02-23,Genk_Antwerp_2017,Genk,14,14,28,31
+2018-02-24,Waasland-Beveren_Gent_2017,Waasland-Beveren,14,14,28,31
+2018-02-24,Mechelen_Charleroi_2017,Charleroi,14,14,28,31
+2018-02-24,Eupen_Lokeren_2017,Lokeren,14,14,28,31
+2018-02-24,Oostende_St Truiden_2017,Oostende,14,14,28,31
+2018-02-24,Oostende_St Truiden_2017,St Truiden,14,14,28,31
+2018-02-24,Waasland-Beveren_Gent_2017,Gent,14,14,28,31
+2018-02-24,Mechelen_Charleroi_2017,Mechelen,14,14,28,31
+2018-02-24,Eupen_Lokeren_2017,Eupen,14,14,28,31
+2018-02-25,Standard_Club Brugge_2017,Club Brugge,14,14,28,31
+2018-02-25,Standard_Club Brugge_2017,Standard,14,14,28,31
+2018-02-25,Anderlecht_Mouscron_2017,Anderlecht,14,14,28,31
+2018-02-25,Anderlecht_Mouscron_2017,Mouscron,14,14,28,31
+2018-02-25,Kortrijk_Waregem_2017,Waregem,14,14,28,31
+2018-02-25,Kortrijk_Waregem_2017,Kortrijk,14,14,28,31
+2018-03-03,Antwerp_Eupen_2017,Antwerp,15,14,29,32
+2018-03-03,Mouscron_Lokeren_2017,Mouscron,15,14,29,32
+2018-03-03,Waregem_Anderlecht_2017,Anderlecht,14,15,29,32
+2018-03-03,Standard_Mechelen_2017,Standard,15,14,29,32
+2018-03-03,Club Brugge_Kortrijk_2017,Kortrijk,14,15,29,32
+2018-03-03,Waasland-Beveren_Genk_2017,Genk,14,15,29,32
+2018-03-03,Antwerp_Eupen_2017,Eupen,14,15,29,32
+2018-03-03,Standard_Mechelen_2017,Mechelen,14,15,29,32
+2018-03-03,Mouscron_Lokeren_2017,Lokeren,14,15,29,32
+2018-03-03,Club Brugge_Kortrijk_2017,Club Brugge,15,14,29,32
+2018-03-03,Charleroi_St Truiden_2017,Charleroi,15,14,29,32
+2018-03-03,Charleroi_St Truiden_2017,St Truiden,14,15,29,32
+2018-03-03,Gent_Oostende_2017,Oostende,14,15,29,32
+2018-03-03,Waasland-Beveren_Genk_2017,Waasland-Beveren,15,14,29,32
+2018-03-03,Waregem_Anderlecht_2017,Waregem,15,14,29,32
+2018-03-03,Gent_Oostende_2017,Gent,15,14,29,32
+2018-03-11,Anderlecht_Antwerp_2017,Anderlecht,15,15,30,33
+2018-03-11,Genk_Gent_2017,Gent,15,15,30,33
+2018-03-11,Lokeren_Waregem_2017,Lokeren,15,15,30,33
+2018-03-11,Eupen_Mouscron_2017,Eupen,15,15,30,33
+2018-03-11,Genk_Gent_2017,Genk,15,15,30,33
+2018-03-11,Eupen_Mouscron_2017,Mouscron,15,15,30,33
+2018-03-11,Anderlecht_Antwerp_2017,Antwerp,15,15,30,33
+2018-03-11,St Truiden_Club Brugge_2017,Club Brugge,15,15,30,33
+2018-03-11,Oostende_Standard_2017,Oostende,15,15,30,33
+2018-03-11,St Truiden_Club Brugge_2017,St Truiden,15,15,30,33
+2018-03-11,Kortrijk_Charleroi_2017,Charleroi,15,15,30,33
+2018-03-11,Kortrijk_Charleroi_2017,Kortrijk,15,15,30,33
+2018-03-11,Oostende_Standard_2017,Standard,15,15,30,33
+2018-03-11,Mechelen_Waasland-Beveren_2017,Waasland-Beveren,15,15,30,33
+2018-03-11,Mechelen_Waasland-Beveren_2017,Mechelen,15,15,30,33
+2018-03-11,Lokeren_Waregem_2017,Waregem,15,15,30,33

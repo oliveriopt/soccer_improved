@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2009-08-08,Auxerre_Sochaux_2009,Auxerre,1,1,1,1
+2009-08-08,Monaco_Toulouse_2009,Toulouse,1,1,1,1
+2009-08-08,Rennes_Boulogne_2009,Rennes,1,1,1,1
+2009-08-08,Grenoble_Marseille_2009,Marseille,1,1,1,1
+2009-08-08,Montpellier_Paris SG_2009,Montpellier,1,1,1,1
+2009-08-08,Le Mans_Lyon_2009,Le Mans,1,1,1,1
+2009-08-08,Rennes_Boulogne_2009,Boulogne,1,1,1,1
+2009-08-08,St Etienne_Nice_2009,Nice,1,1,1,1
+2009-08-08,Valenciennes_Nancy_2009,Valenciennes,1,1,1,1
+2009-08-08,St Etienne_Nice_2009,St Etienne,1,1,1,1
+2009-08-08,Monaco_Toulouse_2009,Monaco,1,1,1,1
+2009-08-08,Valenciennes_Nancy_2009,Nancy,1,1,1,1
+2009-08-08,Grenoble_Marseille_2009,Grenoble,1,1,1,1
+2009-08-08,Auxerre_Sochaux_2009,Sochaux,1,1,1,1
+2009-08-08,Montpellier_Paris SG_2009,Paris SG,1,1,1,1
+2009-08-08,Le Mans_Lyon_2009,Lyon,1,1,1,1
+2009-08-09,Bordeaux_Lens_2009,Lens,1,1,1,1
+2009-08-09,Lille_Lorient_2009,Lorient,1,1,1,1
+2009-08-09,Bordeaux_Lens_2009,Bordeaux,1,1,1,1
+2009-08-09,Lille_Lorient_2009,Lille,1,1,1,1
+2009-08-15,Sochaux_Bordeaux_2009,Sochaux,1,1,2,2
+2009-08-15,Toulouse_St Etienne_2009,St Etienne,1,1,2,2
+2009-08-15,Lorient_Montpellier_2009,Lorient,1,1,2,2
+2009-08-15,Sochaux_Bordeaux_2009,Bordeaux,1,1,2,2
+2009-08-15,Lorient_Montpellier_2009,Montpellier,1,1,2,2
+2009-08-15,Toulouse_St Etienne_2009,Toulouse,1,1,2,2
+2009-08-15,Lyon_Valenciennes_2009,Valenciennes,1,1,2,2
+2009-08-15,Lens_Auxerre_2009,Auxerre,1,1,2,2
+2009-08-15,Nancy_Monaco_2009,Monaco,1,1,2,2
+2009-08-15,Paris SG_Le Mans_2009,Le Mans,1,1,2,2
+2009-08-15,Paris SG_Le Mans_2009,Paris SG,1,1,2,2
+2009-08-15,Nancy_Monaco_2009,Nancy,1,1,2,2
+2009-08-15,Lyon_Valenciennes_2009,Lyon,1,1,2,2
+2009-08-15,Lens_Auxerre_2009,Lens,1,1,2,2
+2009-08-16,Boulogne_Grenoble_2009,Grenoble,1,1,2,2
+2009-08-16,Nice_Rennes_2009,Nice,1,1,2,2
+2009-08-16,Marseille_Lille_2009,Lille,1,1,2,2
+2009-08-16,Boulogne_Grenoble_2009,Boulogne,1,1,2,2
+2009-08-16,Marseille_Lille_2009,Marseille,1,1,2,2
+2009-08-16,Nice_Rennes_2009,Rennes,1,1,2,2
+2009-08-22,St Etienne_Boulogne_2009,St Etienne,2,1,3,3
+2009-08-22,Valenciennes_Paris SG_2009,Valenciennes,2,1,3,3
+2009-08-22,Monaco_Lorient_2009,Lorient,1,2,3,3
+2009-08-22,Rennes_Marseille_2009,Rennes,2,1,3,3
+2009-08-22,Le Mans_Nancy_2009,Le Mans,2,1,3,3
+2009-08-22,Valenciennes_Paris SG_2009,Paris SG,1,2,3,3
+2009-08-22,Le Mans_Nancy_2009,Nancy,1,2,3,3
+2009-08-22,Montpellier_Sochaux_2009,Montpellier,2,1,3,3
+2009-08-22,Monaco_Lorient_2009,Monaco,2,1,3,3
+2009-08-22,Auxerre_Lyon_2009,Auxerre,2,1,3,3
+2009-08-22,Auxerre_Lyon_2009,Lyon,1,2,3,3
+2009-08-22,St Etienne_Boulogne_2009,Boulogne,1,2,3,3
+2009-08-22,Montpellier_Sochaux_2009,Sochaux,1,2,3,3
+2009-08-22,Rennes_Marseille_2009,Marseille,1,2,3,3
+2009-08-23,Grenoble_Lens_2009,Lens,1,2,3,3
+2009-08-23,Bordeaux_Nice_2009,Nice,1,2,3,3
+2009-08-23,Lille_Toulouse_2009,Lille,2,1,3,3
+2009-08-23,Bordeaux_Nice_2009,Bordeaux,2,1,3,3
+2009-08-23,Lille_Toulouse_2009,Toulouse,1,2,3,3
+2009-08-23,Grenoble_Lens_2009,Grenoble,2,1,3,3
+2009-08-29,St Etienne_Grenoble_2009,Grenoble,2,2,4,4
+2009-08-29,Nice_Montpellier_2009,Montpellier,2,2,4,4
+2009-08-29,St Etienne_Grenoble_2009,St Etienne,3,1,4,4
+2009-08-29,Lyon_Nancy_2009,Nancy,1,3,4,4
+2009-08-29,Lorient_Le Mans_2009,Le Mans,2,2,4,4
+2009-08-29,Sochaux_Monaco_2009,Monaco,2,2,4,4
+2009-08-29,Boulogne_Auxerre_2009,Auxerre,2,2,4,4
+2009-08-29,Nice_Montpellier_2009,Nice,2,2,4,4
+2009-08-29,Lyon_Nancy_2009,Lyon,2,2,4,4
+2009-08-29,Boulogne_Auxerre_2009,Boulogne,2,2,4,4
+2009-08-29,Lens_Rennes_2009,Lens,2,2,4,4
+2009-08-29,Lorient_Le Mans_2009,Lorient,2,2,4,4
+2009-08-29,Sochaux_Monaco_2009,Sochaux,2,2,4,4
+2009-08-29,Lens_Rennes_2009,Rennes,2,2,4,4
+2009-08-30,Toulouse_Valenciennes_2009,Valenciennes,2,2,4,4
+2009-08-30,Paris SG_Lille_2009,Lille,2,2,4,4
+2009-08-30,Paris SG_Lille_2009,Paris SG,2,2,4,4
+2009-08-30,Marseille_Bordeaux_2009,Bordeaux,2,2,4,4
+2009-08-30,Toulouse_Valenciennes_2009,Toulouse,2,2,4,4
+2009-08-30,Marseille_Bordeaux_2009,Marseille,2,2,4,4
+2009-09-12,Valenciennes_Boulogne_2009,Valenciennes,3,2,5,6
+2009-09-12,Lyon_Lorient_2009,Lorient,2,3,5,6
+2009-09-12,Bordeaux_Grenoble_2009,Grenoble,2,3,5,6
+2009-09-12,Lille_Sochaux_2009,Lille,3,2,5,6
+2009-09-12,Le Mans_Marseille_2009,Marseille,2,3,5,6
+2009-09-12,Bordeaux_Grenoble_2009,Bordeaux,3,2,5,6
+2009-09-12,Montpellier_Lens_2009,Lens,2,3,5,6
+2009-09-12,Montpellier_Lens_2009,Montpellier,3,2,5,6
+2009-09-12,Le Mans_Marseille_2009,Le Mans,3,2,5,6
+2009-09-12,Lyon_Lorient_2009,Lyon,3,2,5,6
+2009-09-12,Lille_Sochaux_2009,Sochaux,2,3,5,6
+2009-09-12,Valenciennes_Boulogne_2009,Boulogne,2,3,5,6
+2009-09-12,Nancy_Toulouse_2009,Nancy,2,3,5,6
+2009-09-12,Nancy_Toulouse_2009,Toulouse,2,3,5,6
+2009-09-13,Auxerre_Nice_2009,Nice,2,3,5,6
+2009-09-13,Auxerre_Nice_2009,Auxerre,3,2,5,6
+2009-09-13,Rennes_St Etienne_2009,Rennes,3,2,5,6
+2009-09-13,Monaco_Paris SG_2009,Paris SG,2,3,5,6
+2009-09-13,Monaco_Paris SG_2009,Monaco,3,2,5,6
+2009-09-13,Rennes_St Etienne_2009,St Etienne,3,2,5,6
+2009-09-19,Sochaux_Valenciennes_2009,Valenciennes,3,3,6,7
+2009-09-19,St Etienne_Auxerre_2009,Auxerre,3,3,6,7
+2009-09-19,Marseille_Montpellier_2009,Marseille,3,3,6,7
+2009-09-19,Boulogne_Bordeaux_2009,Boulogne,3,3,6,7
+2009-09-19,St Etienne_Auxerre_2009,St Etienne,4,2,6,7
+2009-09-19,Boulogne_Bordeaux_2009,Bordeaux,3,3,6,7
+2009-09-19,Nice_Monaco_2009,Monaco,3,3,6,7
+2009-09-19,Lorient_Nancy_2009,Nancy,2,4,6,7
+2009-09-19,Nice_Monaco_2009,Nice,3,3,6,7
+2009-09-19,Sochaux_Valenciennes_2009,Sochaux,3,3,6,7
+2009-09-19,Grenoble_Rennes_2009,Grenoble,3,3,6,7
+2009-09-19,Grenoble_Rennes_2009,Rennes,3,3,6,7
+2009-09-19,Marseille_Montpellier_2009,Montpellier,3,3,6,7
+2009-09-19,Lorient_Nancy_2009,Lorient,3,3,6,7
+2009-09-20,Paris SG_Lyon_2009,Lyon,3,3,6,7
+2009-09-20,Paris SG_Lyon_2009,Paris SG,3,3,6,7
+2009-09-20,Lens_Lille_2009,Lens,3,3,6,7
+2009-09-20,Lens_Lille_2009,Lille,3,3,6,7
+2009-09-20,Toulouse_Le Mans_2009,Le Mans,3,3,6,7
+2009-09-20,Toulouse_Le Mans_2009,Toulouse,3,3,6,7
+2009-09-26,Auxerre_Grenoble_2009,Auxerre,4,3,7,8
+2009-09-26,Valenciennes_Marseille_2009,Valenciennes,4,3,7,8
+2009-09-26,Lyon_Toulouse_2009,Toulouse,3,4,7,8
+2009-09-26,Lorient_Paris SG_2009,Paris SG,3,4,7,8
+2009-09-26,Lyon_Toulouse_2009,Lyon,4,3,7,8
+2009-09-26,Nancy_Sochaux_2009,Sochaux,3,4,7,8
+2009-09-26,Nancy_Sochaux_2009,Nancy,3,4,7,8
+2009-09-26,Valenciennes_Marseille_2009,Marseille,3,4,7,8
+2009-09-26,Montpellier_Boulogne_2009,Boulogne,3,4,7,8
+2009-09-26,Auxerre_Grenoble_2009,Grenoble,3,4,7,8
+2009-09-26,Lorient_Paris SG_2009,Lorient,4,3,7,8
+2009-09-26,Monaco_St Etienne_2009,Monaco,4,3,7,8
+2009-09-26,Montpellier_Boulogne_2009,Montpellier,4,3,7,8
+2009-09-26,Monaco_St Etienne_2009,St Etienne,4,3,7,8
+2009-09-27,Le Mans_Lens_2009,Lens,3,4,7,8
+2009-09-27,Bordeaux_Rennes_2009,Rennes,3,4,7,8
+2009-09-27,Bordeaux_Rennes_2009,Bordeaux,4,3,7,8
+2009-09-27,Lille_Nice_2009,Nice,3,4,7,8
+2009-09-27,Le Mans_Lens_2009,Le Mans,4,3,7,8
+2009-09-27,Lille_Nice_2009,Lille,4,3,7,8
+2009-10-03,Grenoble_Montpellier_2009,Grenoble,4,4,8,9
+2009-10-03,Nice_Valenciennes_2009,Valenciennes,4,4,8,9
+2009-10-03,Sochaux_Le Mans_2009,Le Mans,4,4,8,9
+2009-10-03,Lens_Lyon_2009,Lyon,4,4,8,9
+2009-10-03,St Etienne_Bordeaux_2009,St Etienne,5,3,8,9
+2009-10-03,Nice_Valenciennes_2009,Nice,4,4,8,9
+2009-10-03,Rennes_Auxerre_2009,Rennes,4,4,8,9
+2009-10-03,Rennes_Auxerre_2009,Auxerre,4,4,8,9
+2009-10-03,Sochaux_Le Mans_2009,Sochaux,4,4,8,9
+2009-10-03,Grenoble_Montpellier_2009,Montpellier,4,4,8,9
+2009-10-03,Paris SG_Nancy_2009,Paris SG,4,4,8,9
+2009-10-03,Lens_Lyon_2009,Lens,4,4,8,9
+2009-10-03,St Etienne_Bordeaux_2009,Bordeaux,4,4,8,9
+2009-10-03,Paris SG_Nancy_2009,Nancy,3,5,8,9
+2009-10-04,Toulouse_Lorient_2009,Toulouse,4,4,8,9
+2009-10-04,Marseille_Monaco_2009,Marseille,4,4,8,9
+2009-10-04,Marseille_Monaco_2009,Monaco,4,4,8,9
+2009-10-04,Boulogne_Lille_2009,Boulogne,4,4,8,9
+2009-10-04,Toulouse_Lorient_2009,Lorient,4,4,8,9
+2009-10-04,Boulogne_Lille_2009,Lille,4,4,8,9
+2009-10-17,Valenciennes_Grenoble_2009,Valenciennes,5,4,9,11
+2009-10-17,Valenciennes_Grenoble_2009,Grenoble,4,5,9,11
+2009-10-17,Le Mans_Boulogne_2009,Boulogne,4,5,9,11
+2009-10-17,Lyon_Sochaux_2009,Lyon,5,4,9,11
+2009-10-17,Nancy_Marseille_2009,Marseille,4,5,9,11
+2009-10-17,Auxerre_Bordeaux_2009,Bordeaux,4,5,9,11
+2009-10-17,Lyon_Sochaux_2009,Sochaux,4,5,9,11
+2009-10-17,Montpellier_St Etienne_2009,St Etienne,5,4,9,11
+2009-10-17,Lille_Rennes_2009,Rennes,4,5,9,11
+2009-10-17,Nancy_Marseille_2009,Nancy,4,5,9,11
+2009-10-17,Auxerre_Bordeaux_2009,Auxerre,5,4,9,11
+2009-10-17,Lille_Rennes_2009,Lille,5,4,9,11
+2009-10-17,Montpellier_St Etienne_2009,Montpellier,5,4,9,11
+2009-10-17,Le Mans_Boulogne_2009,Le Mans,5,4,9,11
+2009-10-18,Monaco_Lens_2009,Lens,4,5,9,11
+2009-10-18,Toulouse_Paris SG_2009,Toulouse,5,4,9,11
+2009-10-18,Monaco_Lens_2009,Monaco,5,4,9,11
+2009-10-18,Lorient_Nice_2009,Lorient,5,4,9,11
+2009-10-18,Toulouse_Paris SG_2009,Paris SG,4,5,9,11
+2009-10-18,Lorient_Nice_2009,Nice,4,5,9,11
+2009-10-24,Rennes_Montpellier_2009,Montpellier,5,5,10,12
+2009-10-24,St Etienne_Valenciennes_2009,Valenciennes,5,5,10,12
+2009-10-24,Nice_Lyon_2009,Nice,5,5,10,12
+2009-10-24,Nice_Lyon_2009,Lyon,5,5,10,12
+2009-10-24,Boulogne_Monaco_2009,Monaco,5,5,10,12
+2009-10-24,Rennes_Montpellier_2009,Rennes,5,5,10,12
+2009-10-24,Bordeaux_Le Mans_2009,Le Mans,5,5,10,12
+2009-10-24,Sochaux_Lorient_2009,Lorient,5,5,10,12
+2009-10-24,Boulogne_Monaco_2009,Boulogne,5,5,10,12
+2009-10-24,Grenoble_Nancy_2009,Nancy,4,6,10,12
+2009-10-24,Sochaux_Lorient_2009,Sochaux,5,5,10,12
+2009-10-24,St Etienne_Valenciennes_2009,St Etienne,6,4,10,12
+2009-10-24,Grenoble_Nancy_2009,Grenoble,5,5,10,12
+2009-10-24,Bordeaux_Le Mans_2009,Bordeaux,5,5,10,12
+2009-10-25,Auxerre_Lille_2009,Auxerre,6,4,10,12
+2009-10-25,Lens_Toulouse_2009,Toulouse,5,5,10,12
+2009-10-25,Auxerre_Lille_2009,Lille,5,5,10,12
+2009-10-25,Lens_Toulouse_2009,Lens,5,5,10,12
+2009-10-31,Marseille_Toulouse_2009,Toulouse,5,6,11,13
+2009-10-31,Auxerre_Montpellier_2009,Auxerre,7,4,11,13
+2009-10-31,Grenoble_Lille_2009,Grenoble,6,5,11,13
+2009-10-31,Boulogne_Nancy_2009,Nancy,4,7,11,13
+2009-10-31,St Etienne_Lyon_2009,Lyon,5,6,11,13
+2009-10-31,Lens_Lorient_2009,Lorient,5,6,11,13
+2009-10-31,Marseille_Toulouse_2009,Marseille,5,5,10,13
+2009-10-31,Auxerre_Montpellier_2009,Montpellier,5,6,11,13
+2009-10-31,Bordeaux_Monaco_2009,Bordeaux,6,5,11,13
+2009-10-31,Lens_Lorient_2009,Lens,6,5,11,13
+2009-10-31,Bordeaux_Monaco_2009,Monaco,5,6,11,13
+2009-10-31,Grenoble_Lille_2009,Lille,5,6,11,13
+2009-10-31,Boulogne_Nancy_2009,Boulogne,6,5,11,13
+2009-10-31,St Etienne_Lyon_2009,St Etienne,7,4,11,13
+2009-11-01,Rennes_Valenciennes_2009,Valenciennes,5,6,11,13
+2009-11-01,Sochaux_Paris SG_2009,Sochaux,6,5,11,13
+2009-11-01,Sochaux_Paris SG_2009,Paris SG,4,6,10,13
+2009-11-01,Nice_Le Mans_2009,Le Mans,5,6,11,13
+2009-11-01,Rennes_Valenciennes_2009,Rennes,6,5,11,13
+2009-11-01,Nice_Le Mans_2009,Nice,6,5,11,13
+2009-11-07,Monaco_Grenoble_2009,Monaco,6,6,12,14
+2009-11-07,Sochaux_Lens_2009,Lens,6,6,12,14
+2009-11-07,Lorient_Boulogne_2009,Lorient,6,6,12,14
+2009-11-07,Valenciennes_Montpellier_2009,Montpellier,5,7,12,14
+2009-11-07,Monaco_Grenoble_2009,Grenoble,6,6,12,14
+2009-11-07,Paris SG_Nice_2009,Paris SG,5,6,11,14
+2009-11-07,Valenciennes_Montpellier_2009,Valenciennes,6,6,12,14
+2009-11-07,Le Mans_Auxerre_2009,Auxerre,7,5,12,14
+2009-11-07,Lorient_Boulogne_2009,Boulogne,6,6,12,14
+2009-11-07,Nancy_St Etienne_2009,Nancy,5,7,12,14
+2009-11-07,Le Mans_Auxerre_2009,Le Mans,6,6,12,14
+2009-11-07,Nancy_St Etienne_2009,St Etienne,7,5,12,14
+2009-11-07,Sochaux_Lens_2009,Sochaux,7,5,12,14
+2009-11-07,Paris SG_Nice_2009,Nice,6,6,12,14
+2009-11-08,Lille_Bordeaux_2009,Lille,6,6,12,14
+2009-11-08,Lyon_Marseille_2009,Lyon,6,6,12,14
+2009-11-08,Lille_Bordeaux_2009,Bordeaux,6,6,12,14
+2009-11-08,Toulouse_Rennes_2009,Rennes,6,6,12,14
+2009-11-08,Toulouse_Rennes_2009,Toulouse,6,6,12,14
+2009-11-08,Lyon_Marseille_2009,Marseille,5,6,11,14
+2009-11-20,Marseille_Paris SG_2009,Paris SG,5,7,12,16
+2009-11-20,Marseille_Paris SG_2009,Marseille,6,6,12,16
+2009-11-21,Grenoble_Lyon_2009,Grenoble,7,6,13,16
+2009-11-21,Lens_Nancy_2009,Lens,7,6,13,16
+2009-11-21,Rennes_Le Mans_2009,Rennes,7,6,13,16
+2009-11-21,Bordeaux_Valenciennes_2009,Valenciennes,6,7,13,16
+2009-11-21,Lens_Nancy_2009,Nancy,5,8,13,16
+2009-11-21,Grenoble_Lyon_2009,Lyon,6,7,13,16
+2009-11-21,Bordeaux_Valenciennes_2009,Bordeaux,7,6,13,16
+2009-11-21,Rennes_Le Mans_2009,Le Mans,6,7,13,16
+2009-11-21,Auxerre_Monaco_2009,Auxerre,8,5,13,16
+2009-11-21,Auxerre_Monaco_2009,Monaco,6,7,13,16
+2009-11-22,St Etienne_Lorient_2009,St Etienne,8,5,13,16
+2009-11-22,Nice_Toulouse_2009,Toulouse,6,7,13,16
+2009-11-22,St Etienne_Lorient_2009,Lorient,6,7,13,16
+2009-11-22,Montpellier_Lille_2009,Lille,6,7,13,16
+2009-11-22,Nice_Toulouse_2009,Nice,7,6,13,16
+2009-11-22,Montpellier_Lille_2009,Montpellier,6,7,13,16
+2009-11-28,Lille_Valenciennes_2009,Valenciennes,6,8,14,17
+2009-11-28,Lorient_Grenoble_2009,Lorient,7,7,14,17
+2009-11-28,Paris SG_Auxerre_2009,Paris SG,6,7,13,17
+2009-11-28,Toulouse_Boulogne_2009,Toulouse,7,7,14,17
+2009-11-28,Sochaux_Nice_2009,Nice,7,7,14,17
+2009-11-28,Sochaux_Nice_2009,Sochaux,8,5,13,17
+2009-11-28,Paris SG_Auxerre_2009,Auxerre,8,6,14,17
+2009-11-28,Lorient_Grenoble_2009,Grenoble,7,7,14,17
+2009-11-28,Lens_Marseille_2009,Marseille,6,7,13,17
+2009-11-28,Toulouse_Boulogne_2009,Boulogne,6,7,13,17
+2009-11-28,Lens_Marseille_2009,Lens,8,6,14,17
+2009-11-28,Lille_Valenciennes_2009,Lille,7,7,14,17
+2009-11-29,Nancy_Bordeaux_2009,Bordeaux,7,7,14,17
+2009-11-29,Le Mans_St Etienne_2009,Le Mans,7,7,14,17
+2009-11-29,Le Mans_St Etienne_2009,St Etienne,8,6,14,17
+2009-11-29,Nancy_Bordeaux_2009,Nancy,6,8,14,17
+2009-11-29,Lyon_Rennes_2009,Lyon,7,7,14,17
+2009-11-29,Lyon_Rennes_2009,Rennes,7,7,14,17
+2009-12-02,Boulogne_Paris SG_2009,Paris SG,6,8,14,18
+2009-12-02,Boulogne_Paris SG_2009,Boulogne,7,7,14,18
+2009-12-05,Rennes_Lorient_2009,Rennes,8,7,15,18
+2009-12-05,Nice_Marseille_2009,Nice,8,7,15,18
+2009-12-05,Montpellier_Le Mans_2009,Montpellier,7,7,14,18
+2009-12-05,Valenciennes_Monaco_2009,Monaco,6,8,14,18
+2009-12-05,Nice_Marseille_2009,Marseille,6,8,14,18
+2009-12-05,Bordeaux_Paris SG_2009,Paris SG,6,9,15,18
+2009-12-05,St Etienne_Sochaux_2009,Sochaux,8,6,14,18
+2009-12-05,Bordeaux_Paris SG_2009,Bordeaux,8,7,15,18
+2009-12-05,St Etienne_Sochaux_2009,St Etienne,9,6,15,18
+2009-12-05,Rennes_Lorient_2009,Lorient,7,8,15,18
+2009-12-05,Montpellier_Le Mans_2009,Le Mans,7,8,15,18
+2009-12-05,Valenciennes_Monaco_2009,Valenciennes,7,8,15,18
+2009-12-06,Lille_Lyon_2009,Lille,8,7,15,18
+2009-12-06,Auxerre_Nancy_2009,Nancy,6,9,15,18
+2009-12-06,Boulogne_Lens_2009,Boulogne,8,7,15,18
+2009-12-06,Boulogne_Lens_2009,Lens,8,7,15,18
+2009-12-06,Grenoble_Toulouse_2009,Toulouse,7,8,15,18
+2009-12-06,Grenoble_Toulouse_2009,Grenoble,8,7,15,18
+2009-12-06,Lille_Lyon_2009,Lyon,7,8,15,18
+2009-12-06,Auxerre_Nancy_2009,Auxerre,9,6,15,18
+2009-12-10,Toulouse_Sochaux_2009,Toulouse,8,8,16,19
+2009-12-10,Lille_St Etienne_2009,Lille,9,7,16,19
+2009-12-10,Lille_St Etienne_2009,St Etienne,9,7,16,19
+2009-12-10,Toulouse_Sochaux_2009,Sochaux,8,7,15,19
+2009-12-12,Marseille_Boulogne_2009,Boulogne,8,8,16,19
+2009-12-12,Le Mans_Valenciennes_2009,Le Mans,8,8,16,19
+2009-12-12,Nancy_Rennes_2009,Nancy,7,9,16,19
+2009-12-12,Marseille_Boulogne_2009,Marseille,7,8,15,19
+2009-12-12,Lens_Nice_2009,Lens,9,7,16,19
+2009-12-12,Lorient_Auxerre_2009,Lorient,8,8,16,19
+2009-12-12,Nancy_Rennes_2009,Rennes,8,8,16,19
+2009-12-12,Lorient_Auxerre_2009,Auxerre,9,7,16,19
+2009-12-12,Lens_Nice_2009,Nice,8,8,16,19
+2009-12-12,Le Mans_Valenciennes_2009,Valenciennes,7,9,16,19
+2009-12-13,Paris SG_St Etienne_2009,Paris SG,7,9,16,19
+2009-12-13,Toulouse_Montpellier_2009,Toulouse,9,8,17,19
+2009-12-13,Sochaux_Grenoble_2009,Sochaux,9,7,16,19
+2009-12-13,Lyon_Bordeaux_2009,Bordeaux,8,8,16,19
+2009-12-13,Toulouse_Montpellier_2009,Montpellier,7,8,15,19
+2009-12-13,Sochaux_Grenoble_2009,Grenoble,8,8,16,19
+2009-12-13,Monaco_Lille_2009,Monaco,7,8,15,19
+2009-12-13,Lyon_Bordeaux_2009,Lyon,8,8,16,19
+2009-12-13,Paris SG_St Etienne_2009,St Etienne,9,8,17,19
+2009-12-13,Monaco_Lille_2009,Lille,9,8,17,19
+2009-12-15,Valenciennes_Auxerre_2009,Valenciennes,8,9,17,20
+2009-12-15,Valenciennes_Auxerre_2009,Auxerre,9,8,17,20
+2009-12-16,Monaco_Rennes_2009,Monaco,8,8,16,20
+2009-12-16,Montpellier_Bordeaux_2009,Bordeaux,8,9,17,20
+2009-12-16,Nancy_Nice_2009,Nancy,8,9,17,20
+2009-12-16,Lyon_Boulogne_2009,Boulogne,8,9,17,20
+2009-12-16,Le Mans_Grenoble_2009,Grenoble,8,9,17,20
+2009-12-16,Le Mans_Grenoble_2009,Le Mans,9,8,17,20
+2009-12-16,Paris SG_Lens_2009,Lens,9,8,17,20
+2009-12-16,Lorient_Marseille_2009,Lorient,9,8,17,20
+2009-12-16,Monaco_Rennes_2009,Rennes,8,9,17,20
+2009-12-16,Paris SG_Lens_2009,Paris SG,8,9,17,20
+2009-12-16,Lyon_Boulogne_2009,Lyon,9,8,17,20
+2009-12-16,Montpellier_Bordeaux_2009,Montpellier,8,8,16,20
+2009-12-16,Lorient_Marseille_2009,Marseille,7,9,16,20
+2009-12-16,Nancy_Nice_2009,Nice,8,9,17,20
+2009-12-19,Montpellier_Nancy_2009,Montpellier,9,8,17,20
+2009-12-19,Valenciennes_Lens_2009,Valenciennes,9,9,18,20
+2009-12-19,Valenciennes_Lens_2009,Lens,9,9,18,20
+2009-12-19,Grenoble_Nice_2009,Nice,8,10,18,20
+2009-12-19,Bordeaux_Lorient_2009,Bordeaux,9,9,18,20
+2009-12-19,Montpellier_Nancy_2009,Nancy,8,10,18,20
+2009-12-19,Bordeaux_Lorient_2009,Lorient,9,9,18,20
+2009-12-19,St Etienne_Marseille_2009,St Etienne,10,8,18,20
+2009-12-19,Rennes_Paris SG_2009,Paris SG,8,10,18,20
+2009-12-19,Grenoble_Nice_2009,Grenoble,9,9,18,20
+2009-12-19,Rennes_Paris SG_2009,Rennes,9,9,18,20
+2009-12-19,St Etienne_Marseille_2009,Marseille,7,10,17,20
+2009-12-20,Monaco_Lyon_2009,Monaco,9,8,17,20
+2009-12-20,Auxerre_Toulouse_2009,Toulouse,9,9,18,20
+2009-12-20,Monaco_Lyon_2009,Lyon,9,9,18,20
+2009-12-20,Lille_Le Mans_2009,Lille,10,8,18,20
+2009-12-20,Lille_Le Mans_2009,Le Mans,9,9,18,20
+2009-12-20,Auxerre_Toulouse_2009,Auxerre,10,8,18,20
+2009-12-22,Lens_St Etienne_2009,Lens,10,9,19,21
+2009-12-22,Lens_St Etienne_2009,St Etienne,10,9,19,21
+2009-12-23,Lorient_Valenciennes_2009,Valenciennes,9,10,19,21
+2009-12-23,Nice_Boulogne_2009,Boulogne,8,10,18,21
+2009-12-23,Paris SG_Grenoble_2009,Grenoble,9,10,19,21
+2009-12-23,Nancy_Lille_2009,Lille,10,9,19,21
+2009-12-23,Lorient_Valenciennes_2009,Lorient,10,9,19,21
+2009-12-23,Toulouse_Bordeaux_2009,Toulouse,10,9,19,21
+2009-12-23,Lyon_Montpellier_2009,Lyon,10,9,19,21
+2009-12-23,Marseille_Auxerre_2009,Auxerre,10,9,19,21
+2009-12-23,Toulouse_Bordeaux_2009,Bordeaux,9,10,19,21
+2009-12-23,Sochaux_Rennes_2009,Sochaux,10,7,17,21
+2009-12-23,Paris SG_Grenoble_2009,Paris SG,9,10,19,21
+2009-12-23,Nice_Boulogne_2009,Nice,9,10,19,21
+2009-12-23,Sochaux_Rennes_2009,Rennes,9,10,19,21
+2009-12-23,Lyon_Montpellier_2009,Montpellier,9,9,18,21
+2009-12-23,Le Mans_Monaco_2009,Le Mans,10,9,19,21
+2009-12-23,Nancy_Lille_2009,Nancy,9,10,19,21
+2009-12-23,Le Mans_Monaco_2009,Monaco,9,9,18,21
+2009-12-23,Marseille_Auxerre_2009,Marseille,8,10,18,21
+2010-01-13,Monaco_Montpellier_2009,Monaco,10,9,19,24
+2010-01-13,Monaco_Montpellier_2009,Montpellier,9,10,19,24
+2010-01-13,Boulogne_Sochaux_2009,Boulogne,9,10,19,24
+2010-01-13,Boulogne_Sochaux_2009,Sochaux,10,8,18,24
+2010-01-16,Rennes_Lens_2009,Lens,10,10,20,24
+2010-01-16,Monaco_Sochaux_2009,Monaco,11,9,20,24
+2010-01-16,Valenciennes_Toulouse_2009,Toulouse,10,10,20,24
+2010-01-16,Le Mans_Lorient_2009,Lorient,10,10,20,24
+2010-01-16,Nancy_Lyon_2009,Nancy,10,10,20,24
+2010-01-16,Rennes_Lens_2009,Rennes,10,10,20,24
+2010-01-16,Grenoble_St Etienne_2009,Grenoble,10,10,20,24
+2010-01-16,Valenciennes_Toulouse_2009,Valenciennes,10,10,20,24
+2010-01-16,Montpellier_Nice_2009,Montpellier,10,10,20,24
+2010-01-16,Lille_Paris SG_2009,Lille,11,9,20,24
+2010-01-16,Auxerre_Boulogne_2009,Auxerre,11,9,20,24
+2010-01-16,Grenoble_St Etienne_2009,St Etienne,10,10,20,24
+2010-01-16,Le Mans_Lorient_2009,Le Mans,11,9,20,24
+2010-01-16,Nancy_Lyon_2009,Lyon,10,10,20,24
+2010-01-16,Montpellier_Nice_2009,Nice,9,11,20,24
+2010-01-16,Monaco_Sochaux_2009,Sochaux,10,9,19,24
+2010-01-16,Auxerre_Boulogne_2009,Boulogne,9,11,20,24
+2010-01-16,Lille_Paris SG_2009,Paris SG,9,11,20,24
+2010-01-17,Bordeaux_Marseille_2009,Marseille,8,11,19,24
+2010-01-17,Bordeaux_Marseille_2009,Bordeaux,10,10,20,24
+2010-01-19,St Etienne_Rennes_2009,St Etienne,11,10,21,25
+2010-01-19,St Etienne_Rennes_2009,Rennes,10,11,21,25
+2010-01-20,Nice_Auxerre_2009,Nice,10,11,21,25
+2010-01-20,Boulogne_Valenciennes_2009,Valenciennes,10,11,21,25
+2010-01-20,Lens_Montpellier_2009,Montpellier,10,11,21,25
+2010-01-20,Paris SG_Monaco_2009,Monaco,11,10,21,25
+2010-01-20,Grenoble_Bordeaux_2009,Grenoble,11,10,21,25
+2010-01-20,Nice_Auxerre_2009,Auxerre,11,10,21,25
+2010-01-20,Lorient_Lyon_2009,Lorient,11,10,21,25
+2010-01-20,Marseille_Le Mans_2009,Marseille,9,11,20,25
+2010-01-20,Marseille_Le Mans_2009,Le Mans,11,10,21,25
+2010-01-20,Sochaux_Lille_2009,Lille,11,10,21,25
+2010-01-20,Toulouse_Nancy_2009,Nancy,10,11,21,25
+2010-01-20,Boulogne_Valenciennes_2009,Boulogne,10,11,21,25
+2010-01-20,Paris SG_Monaco_2009,Paris SG,10,11,21,25
+2010-01-20,Lorient_Lyon_2009,Lyon,10,11,21,25
+2010-01-20,Grenoble_Bordeaux_2009,Bordeaux,10,11,21,25
+2010-01-20,Lens_Montpellier_2009,Lens,11,10,21,25
+2010-01-20,Toulouse_Nancy_2009,Toulouse,11,10,21,25
+2010-01-20,Sochaux_Lille_2009,Sochaux,11,9,20,25
+2010-01-30,Rennes_Grenoble_2009,Grenoble,11,11,22,26
+2010-01-30,Lille_Lens_2009,Lille,12,10,22,26
+2010-01-30,Le Mans_Toulouse_2009,Le Mans,12,10,22,26
+2010-01-30,Montpellier_Marseille_2009,Montpellier,11,11,22,26
+2010-01-30,Lille_Lens_2009,Lens,11,11,22,26
+2010-01-30,Nancy_Lorient_2009,Nancy,11,11,22,26
+2010-01-30,Rennes_Grenoble_2009,Rennes,11,11,22,26
+2010-01-30,Monaco_Nice_2009,Monaco,12,10,22,26
+2010-01-30,Montpellier_Marseille_2009,Marseille,9,12,21,26
+2010-01-30,Bordeaux_Boulogne_2009,Bordeaux,11,11,22,26
+2010-01-30,Nancy_Lorient_2009,Lorient,11,11,22,26
+2010-01-30,Monaco_Nice_2009,Nice,10,12,22,26
+2010-01-30,Le Mans_Toulouse_2009,Toulouse,11,11,22,26
+2010-01-30,Bordeaux_Boulogne_2009,Boulogne,10,12,22,26
+2010-01-31,Valenciennes_Sochaux_2009,Sochaux,11,10,21,26
+2010-01-31,Lyon_Paris SG_2009,Lyon,11,11,22,26
+2010-01-31,Auxerre_St Etienne_2009,St Etienne,11,11,22,26
+2010-01-31,Lyon_Paris SG_2009,Paris SG,10,12,22,26
+2010-01-31,Auxerre_St Etienne_2009,Auxerre,12,10,22,26
+2010-01-31,Valenciennes_Sochaux_2009,Valenciennes,11,11,22,26
+2010-02-06,Grenoble_Auxerre_2009,Auxerre,12,11,23,27
+2010-02-06,Nice_Lille_2009,Lille,12,11,23,27
+2010-02-06,Sochaux_Nancy_2009,Sochaux,12,10,22,27
+2010-02-06,Rennes_Bordeaux_2009,Bordeaux,11,12,23,27
+2010-02-06,Paris SG_Lorient_2009,Paris SG,11,12,23,27
+2010-02-06,Boulogne_Montpellier_2009,Boulogne,11,12,23,27
+2010-02-06,Lens_Le Mans_2009,Lens,12,11,23,27
+2010-02-06,Grenoble_Auxerre_2009,Grenoble,12,11,23,27
+2010-02-06,Lens_Le Mans_2009,Le Mans,12,11,23,27
+2010-02-06,Nice_Lille_2009,Nice,11,12,23,27
+2010-02-06,Boulogne_Montpellier_2009,Montpellier,11,12,23,27
+2010-02-06,Sochaux_Nancy_2009,Nancy,11,12,23,27
+2010-02-06,Rennes_Bordeaux_2009,Rennes,12,11,23,27
+2010-02-06,Paris SG_Lorient_2009,Lorient,11,12,23,27
+2010-02-07,St Etienne_Monaco_2009,Monaco,12,11,23,27
+2010-02-07,Marseille_Valenciennes_2009,Valenciennes,11,12,23,27
+2010-02-07,Toulouse_Lyon_2009,Lyon,11,12,23,27
+2010-02-07,Toulouse_Lyon_2009,Toulouse,12,11,23,27
+2010-02-07,Marseille_Valenciennes_2009,Marseille,10,12,22,27
+2010-02-07,St Etienne_Monaco_2009,St Etienne,12,11,23,27
+2010-02-13,Nancy_Paris SG_2009,Nancy,12,12,24,28
+2010-02-13,Monaco_Marseille_2009,Marseille,10,13,23,28
+2010-02-13,Montpellier_Grenoble_2009,Montpellier,12,12,24,28
+2010-02-13,Montpellier_Grenoble_2009,Grenoble,12,12,24,28
+2010-02-13,Le Mans_Sochaux_2009,Sochaux,12,11,23,28
+2010-02-13,Lille_Boulogne_2009,Lille,13,11,24,28
+2010-02-13,Monaco_Marseille_2009,Monaco,13,11,24,28
+2010-02-13,Lyon_Lens_2009,Lens,12,12,24,28
+2010-02-13,Valenciennes_Nice_2009,Valenciennes,12,12,24,28
+2010-02-13,Nancy_Paris SG_2009,Paris SG,11,13,24,28
+2010-02-13,Lille_Boulogne_2009,Boulogne,11,13,24,28
+2010-02-13,Le Mans_Sochaux_2009,Le Mans,13,11,24,28
+2010-02-13,Valenciennes_Nice_2009,Nice,11,13,24,28
+2010-02-13,Lyon_Lens_2009,Lyon,12,12,24,28
+2010-02-14,Auxerre_Rennes_2009,Auxerre,13,11,24,28
+2010-02-14,Bordeaux_St Etienne_2009,Bordeaux,12,12,24,28
+2010-02-14,Auxerre_Rennes_2009,Rennes,12,12,24,28
+2010-02-14,Lorient_Toulouse_2009,Toulouse,12,12,24,28
+2010-02-14,Bordeaux_St Etienne_2009,St Etienne,12,12,24,28
+2010-02-14,Lorient_Toulouse_2009,Lorient,12,12,24,28
+2010-02-20,St Etienne_Montpellier_2009,Montpellier,12,13,25,29
+2010-02-20,Lens_Monaco_2009,Monaco,13,12,25,29
+2010-02-20,St Etienne_Montpellier_2009,St Etienne,13,12,25,29
+2010-02-20,Lens_Monaco_2009,Lens,13,12,25,29
+2010-02-20,Nice_Lorient_2009,Nice,12,13,25,29
+2010-02-20,Boulogne_Le Mans_2009,Le Mans,13,12,25,29
+2010-02-20,Nice_Lorient_2009,Lorient,12,13,25,29
+2010-02-20,Paris SG_Toulouse_2009,Toulouse,12,13,25,29
+2010-02-20,Boulogne_Le Mans_2009,Boulogne,12,13,25,29
+2010-02-20,Grenoble_Valenciennes_2009,Valenciennes,12,13,25,29
+2010-02-20,Grenoble_Valenciennes_2009,Grenoble,13,12,25,29
+2010-02-20,Paris SG_Toulouse_2009,Paris SG,12,13,25,29
+2010-02-21,Rennes_Lille_2009,Rennes,13,12,25,29
+2010-02-21,Sochaux_Lyon_2009,Lyon,12,13,25,29
+2010-02-21,Marseille_Nancy_2009,Nancy,12,13,25,29
+2010-02-21,Rennes_Lille_2009,Lille,13,12,25,29
+2010-02-21,Sochaux_Lyon_2009,Sochaux,13,11,24,29
+2010-02-21,Marseille_Nancy_2009,Marseille,11,13,24,29
+2010-02-27,Valenciennes_St Etienne_2009,Valenciennes,13,13,26,30
+2010-02-27,Monaco_Boulogne_2009,Monaco,14,12,26,30
+2010-02-27,Lyon_Nice_2009,Lyon,13,13,26,30
+2010-02-27,Lorient_Sochaux_2009,Lorient,13,13,26,30
+2010-02-27,Nancy_Grenoble_2009,Nancy,13,13,26,30
+2010-02-27,Lyon_Nice_2009,Nice,12,14,26,30
+2010-02-27,Montpellier_Rennes_2009,Rennes,13,13,26,30
+2010-02-27,Valenciennes_St Etienne_2009,St Etienne,13,13,26,30
+2010-02-27,Montpellier_Rennes_2009,Montpellier,13,13,26,30
+2010-02-27,Toulouse_Lens_2009,Lens,13,13,26,30
+2010-02-27,Nancy_Grenoble_2009,Grenoble,13,13,26,30
+2010-02-27,Lorient_Sochaux_2009,Sochaux,13,12,25,30
+2010-02-27,Toulouse_Lens_2009,Toulouse,13,13,26,30
+2010-02-27,Monaco_Boulogne_2009,Boulogne,12,14,26,30
+2010-02-28,Paris SG_Marseille_2009,Paris SG,13,13,26,30
+2010-02-28,Lille_Auxerre_2009,Auxerre,13,12,25,30
+2010-02-28,Paris SG_Marseille_2009,Marseille,11,14,25,30
+2010-02-28,Lille_Auxerre_2009,Lille,14,12,26,30
+2010-03-06,Sochaux_Toulouse_2009,Toulouse,13,14,27,31
+2010-03-06,Rennes_Monaco_2009,Rennes,14,13,27,31
+2010-03-06,Rennes_Monaco_2009,Monaco,14,13,27,31
+2010-03-06,Auxerre_Valenciennes_2009,Auxerre,14,12,26,31
+2010-03-06,St Etienne_Lille_2009,St Etienne,14,13,27,31
+2010-03-06,Boulogne_Lyon_2009,Lyon,13,14,27,31
+2010-03-06,St Etienne_Lille_2009,Lille,14,13,27,31
+2010-03-06,Sochaux_Toulouse_2009,Sochaux,14,12,26,31
+2010-03-06,Nice_Nancy_2009,Nancy,13,14,27,31
+2010-03-06,Auxerre_Valenciennes_2009,Valenciennes,13,14,27,31
+2010-03-06,Lens_Paris SG_2009,Lens,14,13,27,31
+2010-03-06,Boulogne_Lyon_2009,Boulogne,13,14,27,31
+2010-03-06,Nice_Nancy_2009,Nice,13,14,27,31
+2010-03-06,Lens_Paris SG_2009,Paris SG,13,14,27,31
+2010-03-07,Marseille_Lorient_2009,Marseille,12,14,26,31
+2010-03-07,Grenoble_Le Mans_2009,Le Mans,13,13,26,31
+2010-03-07,Bordeaux_Montpellier_2009,Montpellier,13,14,27,31
+2010-03-07,Marseille_Lorient_2009,Lorient,13,14,27,31
+2010-03-07,Grenoble_Le Mans_2009,Grenoble,14,13,27,31
+2010-03-07,Bordeaux_Montpellier_2009,Bordeaux,13,12,25,31
+2010-03-10,Bordeaux_Auxerre_2009,Bordeaux,14,12,26,32
+2010-03-10,Bordeaux_Auxerre_2009,Auxerre,14,13,27,32
+2010-03-13,Le Mans_Nice_2009,Le Mans,14,13,27,32
+2010-03-13,Nancy_Boulogne_2009,Boulogne,13,15,28,32
+2010-03-13,Nancy_Boulogne_2009,Nancy,14,14,28,32
+2010-03-13,Lorient_Lens_2009,Lens,14,14,28,32
+2010-03-13,Lyon_St Etienne_2009,St Etienne,14,14,28,32
+2010-03-13,Paris SG_Sochaux_2009,Sochaux,14,13,27,32
+2010-03-13,Lorient_Lens_2009,Lorient,14,14,28,32
+2010-03-13,Paris SG_Sochaux_2009,Paris SG,14,14,28,32
+2010-03-13,Montpellier_Auxerre_2009,Auxerre,14,14,28,32
+2010-03-13,Le Mans_Nice_2009,Nice,13,15,28,32
+2010-03-13,Montpellier_Auxerre_2009,Montpellier,14,14,28,32
+2010-03-13,Monaco_Bordeaux_2009,Monaco,15,13,28,32
+2010-03-13,Lyon_St Etienne_2009,Lyon,14,14,28,32
+2010-03-13,Monaco_Bordeaux_2009,Bordeaux,14,13,27,32
+2010-03-14,Valenciennes_Rennes_2009,Valenciennes,14,14,28,32
+2010-03-14,Lille_Grenoble_2009,Grenoble,14,14,28,32
+2010-03-14,Valenciennes_Rennes_2009,Rennes,14,14,28,32
+2010-03-14,Lille_Grenoble_2009,Lille,15,13,28,32
+2010-03-14,Toulouse_Marseille_2009,Toulouse,14,14,28,32
+2010-03-14,Toulouse_Marseille_2009,Marseille,12,15,27,32
+2010-03-20,Lens_Sochaux_2009,Sochaux,14,14,28,33
+2010-03-20,Rennes_Toulouse_2009,Rennes,15,14,29,33
+2010-03-20,St Etienne_Nancy_2009,St Etienne,15,14,29,33
+2010-03-20,Grenoble_Monaco_2009,Monaco,15,14,29,33
+2010-03-20,Boulogne_Lorient_2009,Lorient,14,15,29,33
+2010-03-20,Nice_Paris SG_2009,Nice,14,15,29,33
+2010-03-20,Rennes_Toulouse_2009,Toulouse,14,15,29,33
+2010-03-20,Boulogne_Lorient_2009,Boulogne,14,15,29,33
+2010-03-20,Nice_Paris SG_2009,Paris SG,14,15,29,33
+2010-03-20,Auxerre_Le Mans_2009,Auxerre,15,14,29,33
+2010-03-20,St Etienne_Nancy_2009,Nancy,14,15,29,33
+2010-03-20,Auxerre_Le Mans_2009,Le Mans,14,14,28,33
+2010-03-20,Lens_Sochaux_2009,Lens,15,14,29,33
+2010-03-20,Grenoble_Monaco_2009,Grenoble,15,14,29,33
+2010-03-21,Montpellier_Valenciennes_2009,Valenciennes,14,15,29,33
+2010-03-21,Marseille_Lyon_2009,Lyon,14,15,29,33
+2010-03-21,Bordeaux_Lille_2009,Bordeaux,15,13,28,33
+2010-03-21,Montpellier_Valenciennes_2009,Montpellier,15,14,29,33
+2010-03-21,Marseille_Lyon_2009,Marseille,13,15,28,33
+2010-03-21,Bordeaux_Lille_2009,Lille,15,14,29,33
+2010-03-26,Lyon_Grenoble_2009,Grenoble,15,15,30,34
+2010-03-26,Lyon_Grenoble_2009,Lyon,15,15,30,34
+2010-03-28,Paris SG_Boulogne_2009,Boulogne,14,16,30,34
+2010-03-28,Le Mans_Rennes_2009,Rennes,15,15,30,34
+2010-03-28,Toulouse_Nice_2009,Nice,14,16,30,34
+2010-03-28,Le Mans_Rennes_2009,Le Mans,15,14,29,34
+2010-03-28,Nancy_Lens_2009,Lens,15,15,30,34
+2010-03-28,Toulouse_Nice_2009,Toulouse,15,15,30,34
+2010-03-28,Lorient_St Etienne_2009,Lorient,15,15,30,34
+2010-03-28,Nancy_Lens_2009,Nancy,15,15,30,34
+2010-03-28,Lille_Montpellier_2009,Lille,16,14,30,34
+2010-03-28,Lille_Montpellier_2009,Montpellier,15,15,30,34
+2010-03-28,Paris SG_Boulogne_2009,Paris SG,15,15,30,34
+2010-03-28,Lorient_St Etienne_2009,St Etienne,15,15,30,34
+2010-03-29,Monaco_Auxerre_2009,Monaco,16,14,30,34
+2010-03-29,Monaco_Auxerre_2009,Auxerre,15,15,30,34
+2010-04-03,Nice_Sochaux_2009,Sochaux,14,15,29,35
+2010-04-03,Bordeaux_Nancy_2009,Bordeaux,16,13,29,35
+2010-04-03,Grenoble_Lorient_2009,Grenoble,16,15,31,35
+2010-04-03,Rennes_Lyon_2009,Rennes,16,15,31,35
+2010-04-03,Valenciennes_Lille_2009,Lille,16,15,31,35
+2010-04-03,Bordeaux_Nancy_2009,Nancy,15,16,31,35
+2010-04-03,Rennes_Lyon_2009,Lyon,15,16,31,35
+2010-04-03,St Etienne_Le Mans_2009,St Etienne,16,15,31,35
+2010-04-03,Grenoble_Lorient_2009,Lorient,15,16,31,35
+2010-04-03,St Etienne_Le Mans_2009,Le Mans,15,15,30,35
+2010-04-03,Montpellier_Monaco_2009,Montpellier,16,15,31,35
+2010-04-03,Valenciennes_Lille_2009,Valenciennes,15,15,30,35
+2010-04-03,Nice_Sochaux_2009,Nice,15,16,31,35
+2010-04-03,Montpellier_Monaco_2009,Monaco,16,15,31,35
+2010-04-04,Marseille_Lens_2009,Lens,15,16,31,35
+2010-04-04,Boulogne_Toulouse_2009,Toulouse,15,16,31,35
+2010-04-04,Boulogne_Toulouse_2009,Boulogne,15,16,31,35
+2010-04-04,Auxerre_Paris SG_2009,Auxerre,16,15,31,35
+2010-04-04,Auxerre_Paris SG_2009,Paris SG,15,16,31,35
+2010-04-04,Marseille_Lens_2009,Marseille,14,15,29,35
+2010-04-07,Marseille_Sochaux_2009,Sochaux,14,16,30,36
+2010-04-07,Marseille_Sochaux_2009,Marseille,15,15,30,36
+2010-04-10,Lens_Boulogne_2009,Boulogne,15,17,32,36
+2010-04-10,Lorient_Rennes_2009,Lorient,16,16,32,36
+2010-04-10,Sochaux_St Etienne_2009,St Etienne,16,16,32,36
+2010-04-10,Sochaux_St Etienne_2009,Sochaux,15,16,31,36
+2010-04-10,Toulouse_Grenoble_2009,Toulouse,16,16,32,36
+2010-04-10,Le Mans_Montpellier_2009,Montpellier,16,16,32,36
+2010-04-10,Paris SG_Bordeaux_2009,Bordeaux,16,14,30,36
+2010-04-10,Le Mans_Montpellier_2009,Le Mans,16,15,31,36
+2010-04-10,Monaco_Valenciennes_2009,Monaco,17,15,32,36
+2010-04-10,Toulouse_Grenoble_2009,Grenoble,16,16,32,36
+2010-04-10,Lorient_Rennes_2009,Rennes,16,16,32,36
+2010-04-10,Monaco_Valenciennes_2009,Valenciennes,15,16,31,36
+2010-04-10,Lens_Boulogne_2009,Lens,16,16,32,36
+2010-04-10,Paris SG_Bordeaux_2009,Paris SG,16,16,32,36
+2010-04-11,Lyon_Lille_2009,Lyon,16,16,32,36
+2010-04-11,Marseille_Nice_2009,Marseille,16,15,31,36
+2010-04-11,Lyon_Lille_2009,Lille,16,16,32,36
+2010-04-11,Nancy_Auxerre_2009,Auxerre,16,16,32,36
+2010-04-11,Nancy_Auxerre_2009,Nancy,16,16,32,36
+2010-04-11,Marseille_Nice_2009,Nice,15,17,32,36
+2010-04-14,Le Mans_Bordeaux_2009,Le Mans,17,15,32,37
+2010-04-14,Le Mans_Bordeaux_2009,Bordeaux,16,15,31,37
+2010-04-14,Sochaux_Marseille_2009,Marseille,16,16,32,37
+2010-04-14,Sochaux_Marseille_2009,Sochaux,16,16,32,37
+2010-04-17,Valenciennes_Le Mans_2009,Valenciennes,16,16,32,37
+2010-04-17,Rennes_Nancy_2009,Nancy,16,17,33,37
+2010-04-17,Auxerre_Lorient_2009,Auxerre,17,16,33,37
+2010-04-17,Nice_Lens_2009,Nice,16,17,33,37
+2010-04-17,Boulogne_Marseille_2009,Boulogne,16,17,33,37
+2010-04-17,Grenoble_Sochaux_2009,Grenoble,17,16,33,37
+2010-04-17,Nice_Lens_2009,Lens,16,17,33,37
+2010-04-17,Bordeaux_Lyon_2009,Lyon,16,17,33,37
+2010-04-17,Bordeaux_Lyon_2009,Bordeaux,17,15,32,37
+2010-04-17,Auxerre_Lorient_2009,Lorient,16,17,33,37
+2010-04-17,Valenciennes_Le Mans_2009,Le Mans,17,16,33,37
+2010-04-17,Rennes_Nancy_2009,Rennes,17,16,33,37
+2010-04-17,Boulogne_Marseille_2009,Marseille,16,17,33,37
+2010-04-17,Grenoble_Sochaux_2009,Sochaux,16,17,33,37
+2010-04-18,St Etienne_Paris SG_2009,St Etienne,17,16,33,37
+2010-04-18,Montpellier_Toulouse_2009,Montpellier,17,16,33,37
+2010-04-18,St Etienne_Paris SG_2009,Paris SG,16,17,33,37
+2010-04-18,Montpellier_Toulouse_2009,Toulouse,16,17,33,37
+2010-04-18,Lille_Monaco_2009,Lille,17,16,33,37
+2010-04-18,Lille_Monaco_2009,Monaco,17,16,33,37
+2010-04-24,Nancy_Montpellier_2009,Montpellier,17,17,34,38
+2010-04-24,Paris SG_Rennes_2009,Paris SG,17,17,34,38
+2010-04-24,Lorient_Bordeaux_2009,Lorient,17,17,34,38
+2010-04-24,Paris SG_Rennes_2009,Rennes,17,17,34,38
+2010-04-24,Nice_Grenoble_2009,Nice,17,17,34,38
+2010-04-24,Le Mans_Lille_2009,Le Mans,18,16,34,38
+2010-04-24,Sochaux_Boulogne_2009,Sochaux,17,17,34,38
+2010-04-24,Sochaux_Boulogne_2009,Boulogne,16,18,34,38
+2010-04-24,Lorient_Bordeaux_2009,Bordeaux,17,16,33,38
+2010-04-24,Nice_Grenoble_2009,Grenoble,17,17,34,38
+2010-04-24,Le Mans_Lille_2009,Lille,17,17,34,38
+2010-04-24,Nancy_Montpellier_2009,Nancy,17,17,34,38
+2010-04-25,Toulouse_Auxerre_2009,Toulouse,17,17,34,38
+2010-04-25,Toulouse_Auxerre_2009,Auxerre,17,17,34,38
+2010-04-25,Lens_Valenciennes_2009,Lens,17,17,34,38
+2010-04-25,Lens_Valenciennes_2009,Valenciennes,16,17,33,38
+2010-04-25,Marseille_St Etienne_2009,St Etienne,17,17,34,38
+2010-04-25,Marseille_St Etienne_2009,Marseille,17,17,34,38
+2010-04-27,Grenoble_Paris SG_2009,Paris SG,17,18,35,39
+2010-04-27,Grenoble_Paris SG_2009,Grenoble,18,17,35,39
+2010-04-27,Monaco_Le Mans_2009,Le Mans,18,17,35,39
+2010-04-27,Monaco_Le Mans_2009,Monaco,18,16,34,39
+2010-04-28,Valenciennes_Bordeaux_2009,Valenciennes,17,17,34,39
+2010-04-28,Valenciennes_Bordeaux_2009,Bordeaux,17,17,34,39
+2010-04-30,Auxerre_Marseille_2009,Auxerre,18,17,35,39
+2010-04-30,Auxerre_Marseille_2009,Marseille,17,18,35,39
+2010-05-02,Montpellier_Lyon_2009,Lyon,16,18,34,39
+2010-05-02,Boulogne_Nice_2009,Boulogne,17,18,35,39
+2010-05-02,St Etienne_Lens_2009,Lens,17,18,35,39
+2010-05-02,Rennes_Sochaux_2009,Sochaux,17,18,35,39
+2010-05-02,Valenciennes_Lorient_2009,Lorient,17,18,35,39
+2010-05-02,Lille_Nancy_2009,Nancy,17,18,35,39
+2010-05-02,Montpellier_Lyon_2009,Montpellier,18,17,35,39
+2010-05-02,Valenciennes_Lorient_2009,Valenciennes,18,17,35,39
+2010-05-02,Boulogne_Nice_2009,Nice,17,18,35,39
+2010-05-02,Lille_Nancy_2009,Lille,18,17,35,39
+2010-05-02,St Etienne_Lens_2009,St Etienne,18,17,35,39
+2010-05-02,Bordeaux_Toulouse_2009,Toulouse,17,18,35,39
+2010-05-02,Rennes_Sochaux_2009,Rennes,18,17,35,39
+2010-05-02,Bordeaux_Toulouse_2009,Bordeaux,18,17,35,39
+2010-05-05,Nice_Bordeaux_2009,Bordeaux,18,18,36,40
+2010-05-05,Toulouse_Lille_2009,Lille,18,18,36,40
+2010-05-05,Nancy_Le Mans_2009,Nancy,18,18,36,40
+2010-05-05,Paris SG_Valenciennes_2009,Valenciennes,18,18,36,40
+2010-05-05,Sochaux_Montpellier_2009,Montpellier,18,18,36,40
+2010-05-05,Sochaux_Montpellier_2009,Sochaux,18,18,36,40
+2010-05-05,Lens_Grenoble_2009,Grenoble,18,18,36,40
+2010-05-05,Lorient_Monaco_2009,Monaco,18,17,35,40
+2010-05-05,Boulogne_St Etienne_2009,Boulogne,18,18,36,40
+2010-05-05,Lens_Grenoble_2009,Lens,18,18,36,40
+2010-05-05,Marseille_Rennes_2009,Marseille,18,18,36,40
+2010-05-05,Marseille_Rennes_2009,Rennes,18,18,36,40
+2010-05-05,Lyon_Auxerre_2009,Auxerre,18,18,36,40
+2010-05-05,Nancy_Le Mans_2009,Le Mans,18,18,36,40
+2010-05-05,Paris SG_Valenciennes_2009,Paris SG,18,18,36,40
+2010-05-05,Boulogne_St Etienne_2009,St Etienne,18,18,36,40
+2010-05-05,Lorient_Monaco_2009,Lorient,18,18,36,40
+2010-05-05,Toulouse_Lille_2009,Toulouse,18,18,36,40
+2010-05-05,Nice_Bordeaux_2009,Nice,18,18,36,40
+2010-05-05,Lyon_Auxerre_2009,Lyon,17,18,35,40
+2010-05-08,Valenciennes_Lyon_2009,Valenciennes,19,18,37,40
+2010-05-08,Lille_Marseille_2009,Marseille,18,19,37,40
+2010-05-08,Auxerre_Lens_2009,Auxerre,19,18,37,40
+2010-05-08,St Etienne_Toulouse_2009,Toulouse,18,19,37,40
+2010-05-08,Le Mans_Paris SG_2009,Le Mans,19,18,37,40
+2010-05-08,Auxerre_Lens_2009,Lens,18,19,37,40
+2010-05-08,St Etienne_Toulouse_2009,St Etienne,19,18,37,40
+2010-05-08,Bordeaux_Sochaux_2009,Bordeaux,19,18,37,40
+2010-05-08,Montpellier_Lorient_2009,Montpellier,19,18,37,40
+2010-05-08,Montpellier_Lorient_2009,Lorient,18,19,37,40
+2010-05-08,Le Mans_Paris SG_2009,Paris SG,18,19,37,40
+2010-05-08,Grenoble_Boulogne_2009,Grenoble,19,18,37,40
+2010-05-08,Monaco_Nancy_2009,Nancy,18,19,37,40
+2010-05-08,Bordeaux_Sochaux_2009,Sochaux,18,19,37,40
+2010-05-08,Lille_Marseille_2009,Lille,19,18,37,40
+2010-05-08,Valenciennes_Lyon_2009,Lyon,17,19,36,40
+2010-05-08,Monaco_Nancy_2009,Monaco,19,17,36,40
+2010-05-08,Rennes_Nice_2009,Rennes,19,18,37,40
+2010-05-08,Rennes_Nice_2009,Nice,18,19,37,40
+2010-05-08,Grenoble_Boulogne_2009,Boulogne,18,19,37,40
+2010-05-12,Lyon_Monaco_2009,Lyon,18,19,37,41
+2010-05-12,Lyon_Monaco_2009,Monaco,19,18,37,41
+2010-05-15,Marseille_Grenoble_2009,Grenoble,19,19,38,41
+2010-05-15,Lens_Bordeaux_2009,Bordeaux,19,19,38,41
+2010-05-15,Toulouse_Monaco_2009,Toulouse,19,19,38,41
+2010-05-15,Lyon_Le Mans_2009,Lyon,19,19,38,41
+2010-05-15,Nancy_Valenciennes_2009,Nancy,19,19,38,41
+2010-05-15,Toulouse_Monaco_2009,Monaco,19,19,38,41
+2010-05-15,Sochaux_Auxerre_2009,Auxerre,19,19,38,41
+2010-05-15,Paris SG_Montpellier_2009,Paris SG,19,19,38,41
+2010-05-15,Lorient_Lille_2009,Lille,19,19,38,41
+2010-05-15,Nice_St Etienne_2009,St Etienne,19,19,38,41
+2010-05-15,Lorient_Lille_2009,Lorient,19,19,38,41
+2010-05-15,Paris SG_Montpellier_2009,Montpellier,19,19,38,41
+2010-05-15,Sochaux_Auxerre_2009,Sochaux,19,19,38,41
+2010-05-15,Boulogne_Rennes_2009,Boulogne,19,19,38,41
+2010-05-15,Marseille_Grenoble_2009,Marseille,19,19,38,41
+2010-05-15,Nice_St Etienne_2009,Nice,19,19,38,41
+2010-05-15,Lyon_Le Mans_2009,Le Mans,19,19,38,41
+2010-05-15,Lens_Bordeaux_2009,Lens,19,19,38,41
+2010-05-15,Boulogne_Rennes_2009,Rennes,19,19,38,41
+2010-05-15,Nancy_Valenciennes_2009,Valenciennes,19,19,38,41

@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2015-08-14,Fenerbahce_Eskisehirspor_2015,Eskisehirspor,1,1,1,1
+2015-08-14,Fenerbahce_Eskisehirspor_2015,Fenerbahce,1,1,1,1
+2015-08-15,Sivasspor_Galatasaray_2015,Galatasaray,1,1,1,1
+2015-08-15,Trabzonspor_Bursaspor_2015,Bursaspor,1,1,1,1
+2015-08-15,Trabzonspor_Bursaspor_2015,Trabzonspor,1,1,1,1
+2015-08-15,Buyuksehyr_Antalyaspor_2015,Antalyaspor,1,1,1,1
+2015-08-15,Buyuksehyr_Antalyaspor_2015,Buyuksehyr,1,1,1,1
+2015-08-15,Sivasspor_Galatasaray_2015,Sivasspor,1,1,1,1
+2015-08-16,Konyaspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,1,1,1,1
+2015-08-16,Gaziantepspor_Kasimpasa_2015,Gaziantepspor,1,1,1,1
+2015-08-16,Mersin Idman Yurdu_Besiktas_2015,Mersin Idman Yurdu,1,1,1,1
+2015-08-16,Osmanlispor_Kayserispor_2015,Kayserispor,1,1,1,1
+2015-08-16,Konyaspor_Akhisar Belediyespor_2015,Konyaspor,1,1,1,1
+2015-08-16,Gaziantepspor_Kasimpasa_2015,Kasimpasa,1,1,1,1
+2015-08-16,Osmanlispor_Kayserispor_2015,Osmanlispor,1,1,1,1
+2015-08-16,Mersin Idman Yurdu_Besiktas_2015,Besiktas,1,1,1,1
+2015-08-17,Genclerbirligi_Rizespor_2015,Genclerbirligi,1,1,1,1
+2015-08-17,Genclerbirligi_Rizespor_2015,Rizespor,1,1,1,1
+2015-08-21,Kasimpasa_Buyuksehyr_2015,Kasimpasa,1,1,2,2
+2015-08-21,Kasimpasa_Buyuksehyr_2015,Buyuksehyr,1,1,2,2
+2015-08-22,Akhisar Belediyespor_Mersin Idman Yurdu_2015,Akhisar Belediyespor,1,1,2,2
+2015-08-22,Besiktas_Trabzonspor_2015,Besiktas,1,1,2,2
+2015-08-22,Kayserispor_Konyaspor_2015,Konyaspor,1,1,2,2
+2015-08-22,Akhisar Belediyespor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,1,1,2,2
+2015-08-22,Kayserispor_Konyaspor_2015,Kayserispor,1,1,2,2
+2015-08-22,Besiktas_Trabzonspor_2015,Trabzonspor,1,1,2,2
+2015-08-23,Antalyaspor_Genclerbirligi_2015,Genclerbirligi,1,1,2,2
+2015-08-23,Rizespor_Fenerbahce_2015,Rizespor,1,1,2,2
+2015-08-23,Eskisehirspor_Sivasspor_2015,Sivasspor,1,1,2,2
+2015-08-23,Rizespor_Fenerbahce_2015,Fenerbahce,1,1,2,2
+2015-08-23,Antalyaspor_Genclerbirligi_2015,Antalyaspor,1,1,2,2
+2015-08-23,Eskisehirspor_Sivasspor_2015,Eskisehirspor,1,1,2,2
+2015-08-23,Bursaspor_Gaziantepspor_2015,Bursaspor,1,1,2,2
+2015-08-23,Bursaspor_Gaziantepspor_2015,Gaziantepspor,1,1,2,2
+2015-08-24,Galatasaray_Osmanlispor_2015,Osmanlispor,1,1,2,2
+2015-08-24,Galatasaray_Osmanlispor_2015,Galatasaray,1,1,2,2
+2015-08-28,Gaziantepspor_Besiktas_2015,Besiktas,1,2,3,3
+2015-08-28,Gaziantepspor_Besiktas_2015,Gaziantepspor,2,1,3,3
+2015-08-29,Mersin Idman Yurdu_Kayserispor_2015,Mersin Idman Yurdu,2,1,3,3
+2015-08-29,Genclerbirligi_Kasimpasa_2015,Kasimpasa,1,2,3,3
+2015-08-29,Buyuksehyr_Bursaspor_2015,Bursaspor,1,2,3,3
+2015-08-29,Mersin Idman Yurdu_Kayserispor_2015,Kayserispor,1,2,3,3
+2015-08-29,Konyaspor_Galatasaray_2015,Galatasaray,1,2,3,3
+2015-08-29,Buyuksehyr_Bursaspor_2015,Buyuksehyr,2,1,3,3
+2015-08-29,Konyaspor_Galatasaray_2015,Konyaspor,2,1,3,3
+2015-08-29,Genclerbirligi_Kasimpasa_2015,Genclerbirligi,2,1,3,3
+2015-08-30,Sivasspor_Osmanlispor_2015,Osmanlispor,1,2,3,3
+2015-08-30,Eskisehirspor_Rizespor_2015,Eskisehirspor,2,1,3,3
+2015-08-30,Fenerbahce_Antalyaspor_2015,Antalyaspor,1,2,3,3
+2015-08-30,Trabzonspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,1,2,3,3
+2015-08-30,Eskisehirspor_Rizespor_2015,Rizespor,1,2,3,3
+2015-08-30,Sivasspor_Osmanlispor_2015,Sivasspor,2,1,3,3
+2015-08-30,Fenerbahce_Antalyaspor_2015,Fenerbahce,2,1,3,3
+2015-08-30,Trabzonspor_Akhisar Belediyespor_2015,Trabzonspor,2,1,3,3
+2015-09-12,Akhisar Belediyespor_Gaziantepspor_2015,Akhisar Belediyespor,2,2,4,5
+2015-09-12,Akhisar Belediyespor_Gaziantepspor_2015,Gaziantepspor,2,2,4,5
+2015-09-12,Galatasaray_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,2,2,4,5
+2015-09-12,Antalyaspor_Eskisehirspor_2015,Antalyaspor,2,2,4,5
+2015-09-12,Bursaspor_Genclerbirligi_2015,Genclerbirligi,2,2,4,5
+2015-09-12,Galatasaray_Mersin Idman Yurdu_2015,Galatasaray,2,2,4,5
+2015-09-12,Bursaspor_Genclerbirligi_2015,Bursaspor,2,2,4,5
+2015-09-12,Antalyaspor_Eskisehirspor_2015,Eskisehirspor,2,2,4,5
+2015-09-13,Rizespor_Sivasspor_2015,Rizespor,2,2,4,5
+2015-09-13,Kasimpasa_Fenerbahce_2015,Fenerbahce,2,2,4,5
+2015-09-13,Rizespor_Sivasspor_2015,Sivasspor,2,2,4,5
+2015-09-13,Besiktas_Buyuksehyr_2015,Besiktas,2,2,4,5
+2015-09-13,Osmanlispor_Konyaspor_2015,Konyaspor,2,2,4,5
+2015-09-13,Osmanlispor_Konyaspor_2015,Osmanlispor,2,2,4,5
+2015-09-13,Kasimpasa_Fenerbahce_2015,Kasimpasa,2,2,4,5
+2015-09-13,Besiktas_Buyuksehyr_2015,Buyuksehyr,2,2,4,5
+2015-09-14,Kayserispor_Trabzonspor_2015,Kayserispor,2,2,4,5
+2015-09-14,Kayserispor_Trabzonspor_2015,Trabzonspor,2,2,4,5
+2015-09-18,Buyuksehyr_Akhisar Belediyespor_2015,Buyuksehyr,3,2,5,6
+2015-09-18,Mersin Idman Yurdu_Osmanlispor_2015,Osmanlispor,2,3,5,6
+2015-09-18,Buyuksehyr_Akhisar Belediyespor_2015,Akhisar Belediyespor,2,3,5,6
+2015-09-18,Mersin Idman Yurdu_Osmanlispor_2015,Mersin Idman Yurdu,3,2,5,6
+2015-09-19,Trabzonspor_Galatasaray_2015,Galatasaray,2,3,5,6
+2015-09-19,Trabzonspor_Galatasaray_2015,Trabzonspor,3,2,5,6
+2015-09-19,Eskisehirspor_Kasimpasa_2015,Kasimpasa,2,3,5,6
+2015-09-19,Rizespor_Antalyaspor_2015,Antalyaspor,2,3,5,6
+2015-09-19,Eskisehirspor_Kasimpasa_2015,Eskisehirspor,3,2,5,6
+2015-09-19,Rizespor_Antalyaspor_2015,Rizespor,3,2,5,6
+2015-09-19,Sivasspor_Konyaspor_2015,Sivasspor,3,2,5,6
+2015-09-19,Sivasspor_Konyaspor_2015,Konyaspor,2,3,5,6
+2015-09-20,Gaziantepspor_Kayserispor_2015,Gaziantepspor,3,2,5,6
+2015-09-20,Fenerbahce_Bursaspor_2015,Bursaspor,2,3,5,6
+2015-09-20,Fenerbahce_Bursaspor_2015,Fenerbahce,3,2,5,6
+2015-09-20,Gaziantepspor_Kayserispor_2015,Kayserispor,2,3,5,6
+2015-09-21,Genclerbirligi_Besiktas_2015,Besiktas,2,3,5,6
+2015-09-21,Genclerbirligi_Besiktas_2015,Genclerbirligi,3,2,5,6
+2015-09-26,Osmanlispor_Trabzonspor_2015,Osmanlispor,3,3,6,7
+2015-09-26,Galatasaray_Gaziantepspor_2015,Galatasaray,3,3,6,7
+2015-09-26,Akhisar Belediyespor_Genclerbirligi_2015,Genclerbirligi,3,3,6,7
+2015-09-26,Galatasaray_Gaziantepspor_2015,Gaziantepspor,3,3,6,7
+2015-09-26,Osmanlispor_Trabzonspor_2015,Trabzonspor,3,3,6,7
+2015-09-26,Akhisar Belediyespor_Genclerbirligi_2015,Akhisar Belediyespor,3,3,6,7
+2015-09-27,Besiktas_Fenerbahce_2015,Fenerbahce,3,3,6,7
+2015-09-27,Besiktas_Fenerbahce_2015,Besiktas,3,3,6,7
+2015-09-27,Antalyaspor_Sivasspor_2015,Sivasspor,3,3,6,7
+2015-09-27,Antalyaspor_Sivasspor_2015,Antalyaspor,3,3,6,7
+2015-09-27,Konyaspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,3,3,6,7
+2015-09-27,Konyaspor_Mersin Idman Yurdu_2015,Konyaspor,3,3,6,7
+2015-09-28,Bursaspor_Eskisehirspor_2015,Bursaspor,3,3,6,7
+2015-09-28,Kayserispor_Buyuksehyr_2015,Buyuksehyr,3,3,6,7
+2015-09-28,Kayserispor_Buyuksehyr_2015,Kayserispor,3,3,6,7
+2015-09-28,Bursaspor_Eskisehirspor_2015,Eskisehirspor,3,3,6,7
+2015-09-28,Kasimpasa_Rizespor_2015,Rizespor,3,3,6,7
+2015-09-28,Kasimpasa_Rizespor_2015,Kasimpasa,3,3,6,7
+2015-10-02,Trabzonspor_Konyaspor_2015,Trabzonspor,4,3,7,8
+2015-10-02,Sivasspor_Mersin Idman Yurdu_2015,Sivasspor,4,3,7,8
+2015-10-02,Trabzonspor_Konyaspor_2015,Konyaspor,3,4,7,8
+2015-10-02,Sivasspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,3,4,7,8
+2015-10-03,Gaziantepspor_Osmanlispor_2015,Gaziantepspor,4,3,7,8
+2015-10-03,Buyuksehyr_Galatasaray_2015,Galatasaray,3,4,7,8
+2015-10-03,Gaziantepspor_Osmanlispor_2015,Osmanlispor,3,4,7,8
+2015-10-03,Genclerbirligi_Kayserispor_2015,Genclerbirligi,4,3,7,8
+2015-10-03,Genclerbirligi_Kayserispor_2015,Kayserispor,3,4,7,8
+2015-10-03,Buyuksehyr_Galatasaray_2015,Buyuksehyr,4,3,7,8
+2015-10-04,Rizespor_Bursaspor_2015,Bursaspor,3,4,7,8
+2015-10-04,Eskisehirspor_Besiktas_2015,Besiktas,3,4,7,8
+2015-10-04,Eskisehirspor_Besiktas_2015,Eskisehirspor,4,3,7,8
+2015-10-04,Fenerbahce_Akhisar Belediyespor_2015,Akhisar Belediyespor,3,4,7,8
+2015-10-04,Antalyaspor_Kasimpasa_2015,Kasimpasa,3,4,7,8
+2015-10-04,Rizespor_Bursaspor_2015,Rizespor,4,3,7,8
+2015-10-04,Fenerbahce_Akhisar Belediyespor_2015,Fenerbahce,4,3,7,8
+2015-10-04,Antalyaspor_Kasimpasa_2015,Antalyaspor,4,3,7,8
+2015-10-17,Bursaspor_Antalyaspor_2015,Bursaspor,4,4,8,10
+2015-10-17,Konyaspor_Gaziantepspor_2015,Gaziantepspor,4,4,8,10
+2015-10-17,Galatasaray_Genclerbirligi_2015,Genclerbirligi,4,4,8,10
+2015-10-17,Bursaspor_Antalyaspor_2015,Antalyaspor,4,4,8,10
+2015-10-17,Galatasaray_Genclerbirligi_2015,Galatasaray,4,4,8,10
+2015-10-17,Konyaspor_Gaziantepspor_2015,Konyaspor,4,4,8,10
+2015-10-18,Akhisar Belediyespor_Eskisehirspor_2015,Eskisehirspor,4,4,8,10
+2015-10-18,Kasimpasa_Sivasspor_2015,Sivasspor,4,4,8,10
+2015-10-18,Kayserispor_Fenerbahce_2015,Fenerbahce,4,4,8,10
+2015-10-18,Besiktas_Rizespor_2015,Rizespor,4,4,8,10
+2015-10-18,Akhisar Belediyespor_Eskisehirspor_2015,Akhisar Belediyespor,4,4,8,10
+2015-10-18,Besiktas_Rizespor_2015,Besiktas,4,4,8,10
+2015-10-18,Kayserispor_Fenerbahce_2015,Kayserispor,4,4,8,10
+2015-10-18,Kasimpasa_Sivasspor_2015,Kasimpasa,4,4,8,10
+2015-10-19,Mersin Idman Yurdu_Trabzonspor_2015,Trabzonspor,4,4,8,10
+2015-10-19,Mersin Idman Yurdu_Trabzonspor_2015,Mersin Idman Yurdu,4,4,8,10
+2015-10-19,Osmanlispor_Buyuksehyr_2015,Osmanlispor,4,4,8,10
+2015-10-19,Osmanlispor_Buyuksehyr_2015,Buyuksehyr,4,4,8,10
+2015-10-23,Rizespor_Akhisar Belediyespor_2015,Rizespor,5,4,9,11
+2015-10-23,Eskisehirspor_Kayserispor_2015,Eskisehirspor,5,4,9,11
+2015-10-23,Eskisehirspor_Kayserispor_2015,Kayserispor,4,5,9,11
+2015-10-23,Rizespor_Akhisar Belediyespor_2015,Akhisar Belediyespor,4,5,9,11
+2015-10-24,Sivasspor_Trabzonspor_2015,Trabzonspor,4,5,9,11
+2015-10-24,Genclerbirligi_Osmanlispor_2015,Osmanlispor,4,5,9,11
+2015-10-24,Kasimpasa_Bursaspor_2015,Bursaspor,4,5,9,11
+2015-10-24,Kasimpasa_Bursaspor_2015,Kasimpasa,5,4,9,11
+2015-10-24,Sivasspor_Trabzonspor_2015,Sivasspor,5,4,9,11
+2015-10-24,Gaziantepspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,4,5,9,11
+2015-10-24,Genclerbirligi_Osmanlispor_2015,Genclerbirligi,5,4,9,11
+2015-10-24,Gaziantepspor_Mersin Idman Yurdu_2015,Gaziantepspor,5,4,9,11
+2015-10-25,Buyuksehyr_Konyaspor_2015,Buyuksehyr,5,4,9,11
+2015-10-25,Fenerbahce_Galatasaray_2015,Galatasaray,4,5,9,11
+2015-10-25,Fenerbahce_Galatasaray_2015,Fenerbahce,5,4,9,11
+2015-10-25,Buyuksehyr_Konyaspor_2015,Konyaspor,4,5,9,11
+2015-10-26,Antalyaspor_Besiktas_2015,Besiktas,4,5,9,11
+2015-10-26,Antalyaspor_Besiktas_2015,Antalyaspor,5,4,9,11
+2015-10-28,Bursaspor_Sivasspor_2015,Sivasspor,5,5,10,12
+2015-10-28,Kayserispor_Rizespor_2015,Kayserispor,5,5,10,12
+2015-10-28,Kayserispor_Rizespor_2015,Rizespor,5,5,10,12
+2015-10-28,Trabzonspor_Gaziantepspor_2015,Gaziantepspor,5,5,10,12
+2015-10-28,Bursaspor_Sivasspor_2015,Bursaspor,5,5,10,12
+2015-10-28,Trabzonspor_Gaziantepspor_2015,Trabzonspor,5,5,10,12
+2015-10-29,Osmanlispor_Fenerbahce_2015,Fenerbahce,5,5,10,12
+2015-10-29,Osmanlispor_Fenerbahce_2015,Osmanlispor,5,5,10,12
+2015-10-29,Galatasaray_Eskisehirspor_2015,Eskisehirspor,5,5,10,12
+2015-10-29,Mersin Idman Yurdu_Buyuksehyr_2015,Mersin Idman Yurdu,5,5,10,12
+2015-10-29,Galatasaray_Eskisehirspor_2015,Galatasaray,5,5,10,12
+2015-10-29,Mersin Idman Yurdu_Buyuksehyr_2015,Buyuksehyr,5,5,10,12
+2015-10-30,Akhisar Belediyespor_Antalyaspor_2015,Akhisar Belediyespor,5,5,10,12
+2015-10-30,Besiktas_Kasimpasa_2015,Besiktas,5,5,10,12
+2015-10-30,Akhisar Belediyespor_Antalyaspor_2015,Antalyaspor,5,5,10,12
+2015-10-30,Besiktas_Kasimpasa_2015,Kasimpasa,5,5,10,12
+2015-10-30,Konyaspor_Genclerbirligi_2015,Konyaspor,5,5,10,12
+2015-10-30,Konyaspor_Genclerbirligi_2015,Genclerbirligi,5,5,10,12
+2015-11-06,Eskisehirspor_Osmanlispor_2015,Eskisehirspor,6,5,11,13
+2015-11-06,Genclerbirligi_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,5,6,11,13
+2015-11-06,Genclerbirligi_Mersin Idman Yurdu_2015,Genclerbirligi,6,5,11,13
+2015-11-06,Eskisehirspor_Osmanlispor_2015,Osmanlispor,5,6,11,13
+2015-11-07,Buyuksehyr_Trabzonspor_2015,Trabzonspor,5,6,11,13
+2015-11-07,Buyuksehyr_Trabzonspor_2015,Buyuksehyr,6,5,11,13
+2015-11-07,Antalyaspor_Kayserispor_2015,Antalyaspor,6,5,11,13
+2015-11-07,Antalyaspor_Kayserispor_2015,Kayserispor,5,6,11,13
+2015-11-07,Rizespor_Galatasaray_2015,Rizespor,6,5,11,13
+2015-11-07,Kasimpasa_Akhisar Belediyespor_2015,Akhisar Belediyespor,5,6,11,13
+2015-11-07,Rizespor_Galatasaray_2015,Galatasaray,5,6,11,13
+2015-11-07,Kasimpasa_Akhisar Belediyespor_2015,Kasimpasa,6,5,11,13
+2015-11-08,Fenerbahce_Konyaspor_2015,Fenerbahce,6,5,11,13
+2015-11-08,Sivasspor_Gaziantepspor_2015,Gaziantepspor,5,6,11,13
+2015-11-08,Bursaspor_Besiktas_2015,Bursaspor,6,5,11,13
+2015-11-08,Fenerbahce_Konyaspor_2015,Konyaspor,5,6,11,13
+2015-11-08,Bursaspor_Besiktas_2015,Besiktas,5,6,11,13
+2015-11-08,Sivasspor_Gaziantepspor_2015,Sivasspor,6,5,11,13
+2015-11-21,Galatasaray_Antalyaspor_2015,Galatasaray,6,6,12,15
+2015-11-21,Mersin Idman Yurdu_Fenerbahce_2015,Fenerbahce,6,6,12,15
+2015-11-21,Kayserispor_Kasimpasa_2015,Kayserispor,6,6,12,15
+2015-11-21,Akhisar Belediyespor_Bursaspor_2015,Bursaspor,6,6,12,15
+2015-11-21,Akhisar Belediyespor_Bursaspor_2015,Akhisar Belediyespor,6,6,12,15
+2015-11-21,Kayserispor_Kasimpasa_2015,Kasimpasa,6,6,12,15
+2015-11-21,Galatasaray_Antalyaspor_2015,Antalyaspor,6,6,12,15
+2015-11-21,Mersin Idman Yurdu_Fenerbahce_2015,Mersin Idman Yurdu,6,6,12,15
+2015-11-22,Trabzonspor_Genclerbirligi_2015,Trabzonspor,6,6,12,15
+2015-11-22,Besiktas_Sivasspor_2015,Besiktas,6,6,12,15
+2015-11-22,Osmanlispor_Rizespor_2015,Osmanlispor,6,6,12,15
+2015-11-22,Osmanlispor_Rizespor_2015,Rizespor,6,6,12,15
+2015-11-22,Trabzonspor_Genclerbirligi_2015,Genclerbirligi,6,6,12,15
+2015-11-22,Konyaspor_Eskisehirspor_2015,Eskisehirspor,6,6,12,15
+2015-11-22,Besiktas_Sivasspor_2015,Sivasspor,6,6,12,15
+2015-11-22,Konyaspor_Eskisehirspor_2015,Konyaspor,6,6,12,15
+2015-11-23,Gaziantepspor_Buyuksehyr_2015,Buyuksehyr,6,6,12,15
+2015-11-23,Gaziantepspor_Buyuksehyr_2015,Gaziantepspor,6,6,12,15
+2015-11-27,Rizespor_Konyaspor_2015,Konyaspor,6,7,13,16
+2015-11-27,Bursaspor_Kayserispor_2015,Kayserispor,6,7,13,16
+2015-11-27,Antalyaspor_Osmanlispor_2015,Osmanlispor,6,7,13,16
+2015-11-27,Bursaspor_Kayserispor_2015,Bursaspor,7,6,13,16
+2015-11-27,Rizespor_Konyaspor_2015,Rizespor,7,6,13,16
+2015-11-27,Antalyaspor_Osmanlispor_2015,Antalyaspor,7,6,13,16
+2015-11-28,Eskisehirspor_Mersin Idman Yurdu_2015,Eskisehirspor,7,6,13,16
+2015-11-28,Sivasspor_Buyuksehyr_2015,Sivasspor,7,6,13,16
+2015-11-28,Eskisehirspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,6,7,13,16
+2015-11-28,Sivasspor_Buyuksehyr_2015,Buyuksehyr,6,7,13,16
+2015-11-29,Besiktas_Akhisar Belediyespor_2015,Besiktas,7,6,13,16
+2015-11-29,Genclerbirligi_Gaziantepspor_2015,Gaziantepspor,6,7,13,16
+2015-11-29,Kasimpasa_Galatasaray_2015,Kasimpasa,7,6,13,16
+2015-11-29,Besiktas_Akhisar Belediyespor_2015,Akhisar Belediyespor,6,7,13,16
+2015-11-29,Kasimpasa_Galatasaray_2015,Galatasaray,6,7,13,16
+2015-11-29,Genclerbirligi_Gaziantepspor_2015,Genclerbirligi,7,6,13,16
+2015-11-30,Fenerbahce_Trabzonspor_2015,Trabzonspor,6,7,13,16
+2015-11-30,Fenerbahce_Trabzonspor_2015,Fenerbahce,7,6,13,16
+2015-12-04,Galatasaray_Bursaspor_2015,Galatasaray,7,7,14,17
+2015-12-04,Galatasaray_Bursaspor_2015,Bursaspor,7,7,14,17
+2015-12-05,Osmanlispor_Kasimpasa_2015,Osmanlispor,7,7,14,17
+2015-12-05,Konyaspor_Antalyaspor_2015,Antalyaspor,7,7,14,17
+2015-12-05,Osmanlispor_Kasimpasa_2015,Kasimpasa,7,7,14,17
+2015-12-05,Kayserispor_Besiktas_2015,Kayserispor,7,7,14,17
+2015-12-05,Konyaspor_Antalyaspor_2015,Konyaspor,7,7,14,17
+2015-12-05,Kayserispor_Besiktas_2015,Besiktas,7,7,14,17
+2015-12-06,Buyuksehyr_Genclerbirligi_2015,Genclerbirligi,7,7,14,17
+2015-12-06,Buyuksehyr_Genclerbirligi_2015,Buyuksehyr,7,7,14,17
+2015-12-06,Mersin Idman Yurdu_Rizespor_2015,Mersin Idman Yurdu,7,7,14,17
+2015-12-06,Mersin Idman Yurdu_Rizespor_2015,Rizespor,7,7,14,17
+2015-12-06,Gaziantepspor_Fenerbahce_2015,Fenerbahce,7,7,14,17
+2015-12-06,Gaziantepspor_Fenerbahce_2015,Gaziantepspor,7,7,14,17
+2015-12-07,Akhisar Belediyespor_Sivasspor_2015,Sivasspor,7,7,14,17
+2015-12-07,Trabzonspor_Eskisehirspor_2015,Eskisehirspor,7,7,14,17
+2015-12-07,Akhisar Belediyespor_Sivasspor_2015,Akhisar Belediyespor,7,7,14,17
+2015-12-07,Trabzonspor_Eskisehirspor_2015,Trabzonspor,7,7,14,17
+2015-12-11,Bursaspor_Osmanlispor_2015,Bursaspor,8,7,15,18
+2015-12-11,Bursaspor_Osmanlispor_2015,Osmanlispor,7,8,15,18
+2015-12-12,Kasimpasa_Konyaspor_2015,Konyaspor,7,8,15,18
+2015-12-12,Antalyaspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,7,8,15,18
+2015-12-12,Rizespor_Trabzonspor_2015,Rizespor,8,7,15,18
+2015-12-12,Eskisehirspor_Gaziantepspor_2015,Eskisehirspor,8,7,15,18
+2015-12-12,Kasimpasa_Konyaspor_2015,Kasimpasa,8,7,15,18
+2015-12-12,Rizespor_Trabzonspor_2015,Trabzonspor,7,8,15,18
+2015-12-12,Antalyaspor_Mersin Idman Yurdu_2015,Antalyaspor,8,7,15,18
+2015-12-12,Eskisehirspor_Gaziantepspor_2015,Gaziantepspor,7,8,15,18
+2015-12-13,Fenerbahce_Buyuksehyr_2015,Buyuksehyr,7,8,15,18
+2015-12-13,Genclerbirligi_Sivasspor_2015,Sivasspor,7,8,15,18
+2015-12-13,Kayserispor_Akhisar Belediyespor_2015,Akhisar Belediyespor,7,8,15,18
+2015-12-13,Genclerbirligi_Sivasspor_2015,Genclerbirligi,8,7,15,18
+2015-12-13,Fenerbahce_Buyuksehyr_2015,Fenerbahce,8,7,15,18
+2015-12-13,Kayserispor_Akhisar Belediyespor_2015,Kayserispor,8,7,15,18
+2015-12-14,Besiktas_Galatasaray_2015,Galatasaray,7,8,15,18
+2015-12-14,Besiktas_Galatasaray_2015,Besiktas,8,7,15,18
+2015-12-19,Trabzonspor_Antalyaspor_2015,Trabzonspor,8,8,16,19
+2015-12-19,Gaziantepspor_Rizespor_2015,Gaziantepspor,8,8,16,19
+2015-12-19,Konyaspor_Bursaspor_2015,Konyaspor,8,8,16,19
+2015-12-19,Trabzonspor_Antalyaspor_2015,Antalyaspor,8,8,16,19
+2015-12-19,Gaziantepspor_Rizespor_2015,Rizespor,8,8,16,19
+2015-12-19,Mersin Idman Yurdu_Kasimpasa_2015,Kasimpasa,8,8,16,19
+2015-12-19,Mersin Idman Yurdu_Kasimpasa_2015,Mersin Idman Yurdu,8,8,16,19
+2015-12-19,Konyaspor_Bursaspor_2015,Bursaspor,8,8,16,19
+2015-12-20,Buyuksehyr_Eskisehirspor_2015,Buyuksehyr,8,8,16,19
+2015-12-20,Sivasspor_Kayserispor_2015,Sivasspor,8,8,16,19
+2015-12-20,Genclerbirligi_Fenerbahce_2015,Fenerbahce,8,8,16,19
+2015-12-20,Sivasspor_Kayserispor_2015,Kayserispor,8,8,16,19
+2015-12-20,Galatasaray_Akhisar Belediyespor_2015,Galatasaray,8,8,16,19
+2015-12-20,Buyuksehyr_Eskisehirspor_2015,Eskisehirspor,8,8,16,19
+2015-12-20,Galatasaray_Akhisar Belediyespor_2015,Akhisar Belediyespor,7,9,16,19
+2015-12-20,Genclerbirligi_Fenerbahce_2015,Genclerbirligi,9,7,16,19
+2015-12-21,Osmanlispor_Besiktas_2015,Osmanlispor,8,8,16,19
+2015-12-21,Osmanlispor_Besiktas_2015,Besiktas,8,8,16,19
+2015-12-26,Antalyaspor_Gaziantepspor_2015,Gaziantepspor,8,9,17,20
+2015-12-26,Antalyaspor_Gaziantepspor_2015,Antalyaspor,9,8,17,20
+2015-12-26,Rizespor_Buyuksehyr_2015,Rizespor,9,8,17,20
+2015-12-26,Kasimpasa_Trabzonspor_2015,Kasimpasa,9,8,17,20
+2015-12-26,Rizespor_Buyuksehyr_2015,Buyuksehyr,8,9,17,20
+2015-12-26,Kasimpasa_Trabzonspor_2015,Trabzonspor,8,9,17,20
+2015-12-27,Akhisar Belediyespor_Osmanlispor_2015,Akhisar Belediyespor,8,9,17,20
+2015-12-27,Kayserispor_Galatasaray_2015,Kayserispor,9,8,17,20
+2015-12-27,Bursaspor_Mersin Idman Yurdu_2015,Bursaspor,9,8,17,20
+2015-12-27,Bursaspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,8,9,17,20
+2015-12-27,Besiktas_Konyaspor_2015,Konyaspor,8,9,17,20
+2015-12-27,Kayserispor_Galatasaray_2015,Galatasaray,8,9,17,20
+2015-12-27,Besiktas_Konyaspor_2015,Besiktas,9,8,17,20
+2015-12-27,Akhisar Belediyespor_Osmanlispor_2015,Osmanlispor,8,9,17,20
+2015-12-28,Fenerbahce_Sivasspor_2015,Fenerbahce,9,8,17,20
+2015-12-28,Eskisehirspor_Genclerbirligi_2015,Genclerbirligi,9,8,17,20
+2015-12-28,Fenerbahce_Sivasspor_2015,Sivasspor,8,9,17,20
+2015-12-28,Eskisehirspor_Genclerbirligi_2015,Eskisehirspor,9,8,17,20
+2016-01-16,Akhisar Belediyespor_Konyaspor_2015,Akhisar Belediyespor,9,9,18,23
+2016-01-16,Kasimpasa_Gaziantepspor_2015,Gaziantepspor,8,10,18,23
+2016-01-16,Kayserispor_Osmanlispor_2015,Osmanlispor,8,10,18,23
+2016-01-16,Galatasaray_Sivasspor_2015,Sivasspor,8,10,18,23
+2016-01-16,Akhisar Belediyespor_Konyaspor_2015,Konyaspor,8,10,18,23
+2016-01-16,Kasimpasa_Gaziantepspor_2015,Kasimpasa,10,8,18,23
+2016-01-16,Galatasaray_Sivasspor_2015,Galatasaray,9,9,18,23
+2016-01-16,Kayserispor_Osmanlispor_2015,Kayserispor,10,8,18,23
+2016-01-17,Bursaspor_Trabzonspor_2015,Trabzonspor,8,10,18,23
+2016-01-17,Bursaspor_Trabzonspor_2015,Bursaspor,10,8,18,23
+2016-01-17,Rizespor_Genclerbirligi_2015,Genclerbirligi,9,9,18,23
+2016-01-17,Antalyaspor_Buyuksehyr_2015,Antalyaspor,10,8,18,23
+2016-01-17,Rizespor_Genclerbirligi_2015,Rizespor,10,8,18,23
+2016-01-17,Antalyaspor_Buyuksehyr_2015,Buyuksehyr,8,10,18,23
+2016-01-18,Eskisehirspor_Fenerbahce_2015,Fenerbahce,9,9,18,23
+2016-01-18,Eskisehirspor_Fenerbahce_2015,Eskisehirspor,10,8,18,23
+2016-01-23,Mersin Idman Yurdu_Akhisar Belediyespor_2015,Mersin Idman Yurdu,9,9,18,24
+2016-01-23,Konyaspor_Kayserispor_2015,Konyaspor,9,10,19,24
+2016-01-23,Mersin Idman Yurdu_Akhisar Belediyespor_2015,Akhisar Belediyespor,9,10,19,24
+2016-01-23,Konyaspor_Kayserispor_2015,Kayserispor,10,9,19,24
+2016-01-23,Osmanlispor_Galatasaray_2015,Galatasaray,9,10,19,24
+2016-01-23,Osmanlispor_Galatasaray_2015,Osmanlispor,9,10,19,24
+2016-01-24,Gaziantepspor_Bursaspor_2015,Bursaspor,10,9,19,24
+2016-01-24,Fenerbahce_Rizespor_2015,Rizespor,10,9,19,24
+2016-01-24,Genclerbirligi_Antalyaspor_2015,Antalyaspor,10,9,19,24
+2016-01-24,Genclerbirligi_Antalyaspor_2015,Genclerbirligi,10,9,19,24
+2016-01-24,Sivasspor_Eskisehirspor_2015,Sivasspor,9,10,19,24
+2016-01-24,Sivasspor_Eskisehirspor_2015,Eskisehirspor,10,9,19,24
+2016-01-24,Gaziantepspor_Bursaspor_2015,Gaziantepspor,9,10,19,24
+2016-01-24,Fenerbahce_Rizespor_2015,Fenerbahce,10,9,19,24
+2016-01-25,Buyuksehyr_Kasimpasa_2015,Buyuksehyr,9,10,19,24
+2016-01-25,Buyuksehyr_Kasimpasa_2015,Kasimpasa,10,9,19,24
+2016-02-05,Osmanlispor_Sivasspor_2015,Sivasspor,9,11,20,26
+2016-02-05,Osmanlispor_Sivasspor_2015,Osmanlispor,10,10,20,26
+2016-02-05,Antalyaspor_Fenerbahce_2015,Fenerbahce,10,10,20,26
+2016-02-05,Antalyaspor_Fenerbahce_2015,Antalyaspor,11,9,20,26
+2016-02-06,Galatasaray_Konyaspor_2015,Konyaspor,9,11,20,26
+2016-02-06,Kayserispor_Mersin Idman Yurdu_2015,Kayserispor,11,9,20,26
+2016-02-06,Bursaspor_Buyuksehyr_2015,Bursaspor,11,9,20,26
+2016-02-06,Kayserispor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,9,10,19,26
+2016-02-06,Galatasaray_Konyaspor_2015,Galatasaray,10,10,20,26
+2016-02-06,Bursaspor_Buyuksehyr_2015,Buyuksehyr,9,11,20,26
+2016-02-07,Besiktas_Gaziantepspor_2015,Gaziantepspor,9,11,20,26
+2016-02-07,Akhisar Belediyespor_Trabzonspor_2015,Trabzonspor,8,11,19,26
+2016-02-07,Besiktas_Gaziantepspor_2015,Besiktas,10,8,18,26
+2016-02-07,Rizespor_Eskisehirspor_2015,Eskisehirspor,10,10,20,26
+2016-02-07,Akhisar Belediyespor_Trabzonspor_2015,Akhisar Belediyespor,10,10,20,26
+2016-02-07,Rizespor_Eskisehirspor_2015,Rizespor,11,9,20,26
+2016-02-08,Kasimpasa_Genclerbirligi_2015,Genclerbirligi,10,10,20,26
+2016-02-08,Kasimpasa_Genclerbirligi_2015,Kasimpasa,11,9,20,26
+2016-02-12,Fenerbahce_Kasimpasa_2015,Fenerbahce,11,10,21,27
+2016-02-12,Fenerbahce_Kasimpasa_2015,Kasimpasa,11,10,21,27
+2016-02-13,Konyaspor_Osmanlispor_2015,Osmanlispor,10,11,21,27
+2016-02-13,Konyaspor_Osmanlispor_2015,Konyaspor,10,11,21,27
+2016-02-13,Genclerbirligi_Bursaspor_2015,Bursaspor,11,10,21,27
+2016-02-13,Mersin Idman Yurdu_Galatasaray_2015,Mersin Idman Yurdu,10,10,20,27
+2016-02-13,Mersin Idman Yurdu_Galatasaray_2015,Galatasaray,10,11,21,27
+2016-02-13,Genclerbirligi_Bursaspor_2015,Genclerbirligi,11,10,21,27
+2016-02-14,Eskisehirspor_Antalyaspor_2015,Eskisehirspor,11,10,21,27
+2016-02-14,Buyuksehyr_Besiktas_2015,Besiktas,10,9,19,27
+2016-02-14,Gaziantepspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,10,11,21,27
+2016-02-14,Gaziantepspor_Akhisar Belediyespor_2015,Gaziantepspor,10,11,21,27
+2016-02-14,Eskisehirspor_Antalyaspor_2015,Antalyaspor,11,10,21,27
+2016-02-14,Buyuksehyr_Besiktas_2015,Buyuksehyr,10,11,21,27
+2016-02-14,Sivasspor_Rizespor_2015,Rizespor,11,10,21,27
+2016-02-14,Sivasspor_Rizespor_2015,Sivasspor,10,11,21,27
+2016-02-15,Trabzonspor_Kayserispor_2015,Kayserispor,11,10,21,27
+2016-02-15,Trabzonspor_Kayserispor_2015,Trabzonspor,9,11,20,27
+2016-02-17,Besiktas_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,10,11,21,28
+2016-02-17,Besiktas_Mersin Idman Yurdu_2015,Besiktas,11,9,20,28
+2016-02-19,Konyaspor_Sivasspor_2015,Konyaspor,11,11,22,28
+2016-02-19,Konyaspor_Sivasspor_2015,Sivasspor,10,12,22,28
+2016-02-20,Bursaspor_Fenerbahce_2015,Fenerbahce,11,11,22,28
+2016-02-20,Antalyaspor_Rizespor_2015,Rizespor,11,11,22,28
+2016-02-20,Antalyaspor_Rizespor_2015,Antalyaspor,12,10,22,28
+2016-02-20,Bursaspor_Fenerbahce_2015,Bursaspor,12,10,22,28
+2016-02-20,Kasimpasa_Eskisehirspor_2015,Eskisehirspor,11,11,22,28
+2016-02-20,Kasimpasa_Eskisehirspor_2015,Kasimpasa,12,10,22,28
+2016-02-21,Akhisar Belediyespor_Buyuksehyr_2015,Buyuksehyr,10,12,22,28
+2016-02-21,Kayserispor_Gaziantepspor_2015,Gaziantepspor,10,12,22,28
+2016-02-21,Kayserispor_Gaziantepspor_2015,Kayserispor,12,10,22,28
+2016-02-21,Galatasaray_Trabzonspor_2015,Galatasaray,11,11,22,28
+2016-02-21,Osmanlispor_Mersin Idman Yurdu_2015,Osmanlispor,11,11,22,28
+2016-02-21,Osmanlispor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,10,12,22,28
+2016-02-21,Galatasaray_Trabzonspor_2015,Trabzonspor,9,12,21,28
+2016-02-21,Akhisar Belediyespor_Buyuksehyr_2015,Akhisar Belediyespor,11,11,22,28
+2016-02-22,Besiktas_Genclerbirligi_2015,Besiktas,12,9,21,28
+2016-02-22,Besiktas_Genclerbirligi_2015,Genclerbirligi,11,11,22,28
+2016-02-26,Buyuksehyr_Kayserispor_2015,Buyuksehyr,11,12,23,29
+2016-02-26,Buyuksehyr_Kayserispor_2015,Kayserispor,12,11,23,29
+2016-02-27,Rizespor_Kasimpasa_2015,Rizespor,12,11,23,29
+2016-02-27,Trabzonspor_Osmanlispor_2015,Trabzonspor,10,12,22,29
+2016-02-27,Eskisehirspor_Bursaspor_2015,Bursaspor,12,11,23,29
+2016-02-27,Eskisehirspor_Bursaspor_2015,Eskisehirspor,12,11,23,29
+2016-02-27,Trabzonspor_Osmanlispor_2015,Osmanlispor,11,12,23,29
+2016-02-27,Rizespor_Kasimpasa_2015,Kasimpasa,12,11,23,29
+2016-02-27,Mersin Idman Yurdu_Konyaspor_2015,Konyaspor,11,12,23,29
+2016-02-27,Mersin Idman Yurdu_Konyaspor_2015,Mersin Idman Yurdu,11,12,23,29
+2016-02-28,Genclerbirligi_Akhisar Belediyespor_2015,Genclerbirligi,12,11,23,29
+2016-02-28,Gaziantepspor_Galatasaray_2015,Gaziantepspor,11,12,23,29
+2016-02-28,Gaziantepspor_Galatasaray_2015,Galatasaray,11,12,23,29
+2016-02-28,Genclerbirligi_Akhisar Belediyespor_2015,Akhisar Belediyespor,11,12,23,29
+2016-02-28,Sivasspor_Antalyaspor_2015,Antalyaspor,12,11,23,29
+2016-02-28,Sivasspor_Antalyaspor_2015,Sivasspor,11,12,23,29
+2016-02-29,Fenerbahce_Besiktas_2015,Fenerbahce,12,11,23,29
+2016-02-29,Fenerbahce_Besiktas_2015,Besiktas,12,10,22,29
+2016-03-04,Mersin Idman Yurdu_Sivasspor_2015,Sivasspor,11,13,24,30
+2016-03-04,Mersin Idman Yurdu_Sivasspor_2015,Mersin Idman Yurdu,12,12,24,30
+2016-03-05,Bursaspor_Rizespor_2015,Rizespor,12,12,24,30
+2016-03-05,Kayserispor_Genclerbirligi_2015,Kayserispor,13,11,24,30
+2016-03-05,Osmanlispor_Gaziantepspor_2015,Gaziantepspor,11,13,24,30
+2016-03-05,Osmanlispor_Gaziantepspor_2015,Osmanlispor,12,12,24,30
+2016-03-05,Bursaspor_Rizespor_2015,Bursaspor,13,11,24,30
+2016-03-05,Kayserispor_Genclerbirligi_2015,Genclerbirligi,12,12,24,30
+2016-03-06,Konyaspor_Trabzonspor_2015,Trabzonspor,10,13,23,30
+2016-03-06,Konyaspor_Trabzonspor_2015,Konyaspor,12,12,24,30
+2016-03-06,Galatasaray_Buyuksehyr_2015,Buyuksehyr,11,13,24,30
+2016-03-06,Kasimpasa_Antalyaspor_2015,Antalyaspor,12,12,24,30
+2016-03-06,Galatasaray_Buyuksehyr_2015,Galatasaray,12,12,24,30
+2016-03-06,Akhisar Belediyespor_Fenerbahce_2015,Akhisar Belediyespor,12,12,24,30
+2016-03-06,Kasimpasa_Antalyaspor_2015,Kasimpasa,13,11,24,30
+2016-03-06,Akhisar Belediyespor_Fenerbahce_2015,Fenerbahce,12,12,24,30
+2016-03-07,Besiktas_Eskisehirspor_2015,Eskisehirspor,12,12,24,30
+2016-03-07,Besiktas_Eskisehirspor_2015,Besiktas,13,10,23,30
+2016-03-11,Trabzonspor_Mersin Idman Yurdu_2015,Trabzonspor,11,13,24,31
+2016-03-11,Trabzonspor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,12,13,25,31
+2016-03-12,Gaziantepspor_Konyaspor_2015,Konyaspor,12,13,25,31
+2016-03-12,Buyuksehyr_Osmanlispor_2015,Buyuksehyr,12,13,25,31
+2016-03-12,Buyuksehyr_Osmanlispor_2015,Osmanlispor,12,13,25,31
+2016-03-12,Rizespor_Besiktas_2015,Besiktas,13,11,24,31
+2016-03-12,Rizespor_Besiktas_2015,Rizespor,13,12,25,31
+2016-03-12,Gaziantepspor_Konyaspor_2015,Gaziantepspor,12,13,25,31
+2016-03-13,Genclerbirligi_Galatasaray_2015,Genclerbirligi,13,12,25,31
+2016-03-13,Eskisehirspor_Akhisar Belediyespor_2015,Eskisehirspor,13,12,25,31
+2016-03-13,Genclerbirligi_Galatasaray_2015,Galatasaray,12,13,25,31
+2016-03-13,Eskisehirspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,12,13,25,31
+2016-03-13,Fenerbahce_Kayserispor_2015,Fenerbahce,13,12,25,31
+2016-03-13,Fenerbahce_Kayserispor_2015,Kayserispor,13,12,25,31
+2016-03-14,Antalyaspor_Bursaspor_2015,Bursaspor,13,12,25,31
+2016-03-14,Sivasspor_Kasimpasa_2015,Sivasspor,12,13,25,31
+2016-03-14,Antalyaspor_Bursaspor_2015,Antalyaspor,13,12,25,31
+2016-03-14,Sivasspor_Kasimpasa_2015,Kasimpasa,13,12,25,31
+2016-03-15,Trabzonspor_Besiktas_2015,Besiktas,13,12,25,32
+2016-03-15,Trabzonspor_Besiktas_2015,Trabzonspor,12,13,25,32
+2016-03-18,Kayserispor_Eskisehirspor_2015,Kayserispor,14,12,26,32
+2016-03-18,Akhisar Belediyespor_Rizespor_2015,Akhisar Belediyespor,13,13,26,32
+2016-03-18,Kayserispor_Eskisehirspor_2015,Eskisehirspor,13,13,26,32
+2016-03-18,Akhisar Belediyespor_Rizespor_2015,Rizespor,13,13,26,32
+2016-03-19,Trabzonspor_Sivasspor_2015,Sivasspor,12,14,26,32
+2016-03-19,Besiktas_Antalyaspor_2015,Besiktas,14,12,26,32
+2016-03-19,Besiktas_Antalyaspor_2015,Antalyaspor,13,13,26,32
+2016-03-19,Osmanlispor_Genclerbirligi_2015,Genclerbirligi,13,13,26,32
+2016-03-19,Trabzonspor_Sivasspor_2015,Trabzonspor,13,13,26,32
+2016-03-19,Osmanlispor_Genclerbirligi_2015,Osmanlispor,13,13,26,32
+2016-03-20,Mersin Idman Yurdu_Gaziantepspor_2015,Mersin Idman Yurdu,13,13,26,32
+2016-03-20,Bursaspor_Kasimpasa_2015,Bursaspor,14,12,26,32
+2016-03-20,Konyaspor_Buyuksehyr_2015,Konyaspor,13,13,26,32
+2016-03-20,Mersin Idman Yurdu_Gaziantepspor_2015,Gaziantepspor,12,14,26,32
+2016-03-20,Bursaspor_Kasimpasa_2015,Kasimpasa,13,13,26,32
+2016-03-20,Konyaspor_Buyuksehyr_2015,Buyuksehyr,12,14,26,32
+2016-04-02,Genclerbirligi_Konyaspor_2015,Genclerbirligi,14,13,27,34
+2016-04-02,Gaziantepspor_Trabzonspor_2015,Trabzonspor,13,14,27,34
+2016-04-02,Eskisehirspor_Galatasaray_2015,Eskisehirspor,14,13,27,34
+2016-04-02,Genclerbirligi_Konyaspor_2015,Konyaspor,13,14,27,34
+2016-04-02,Gaziantepspor_Trabzonspor_2015,Gaziantepspor,13,14,27,34
+2016-04-02,Eskisehirspor_Galatasaray_2015,Galatasaray,12,14,26,34
+2016-04-03,Sivasspor_Bursaspor_2015,Bursaspor,14,13,27,34
+2016-04-03,Fenerbahce_Osmanlispor_2015,Osmanlispor,13,14,27,34
+2016-04-03,Sivasspor_Bursaspor_2015,Sivasspor,13,14,27,34
+2016-04-03,Antalyaspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,13,14,27,34
+2016-04-03,Buyuksehyr_Mersin Idman Yurdu_2015,Buyuksehyr,13,14,27,34
+2016-04-03,Fenerbahce_Osmanlispor_2015,Fenerbahce,14,12,26,34
+2016-04-03,Antalyaspor_Akhisar Belediyespor_2015,Antalyaspor,14,13,27,34
+2016-04-03,Buyuksehyr_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,13,14,27,34
+2016-04-04,Kasimpasa_Besiktas_2015,Besiktas,14,13,27,34
+2016-04-04,Rizespor_Kayserispor_2015,Rizespor,14,13,27,34
+2016-04-04,Rizespor_Kayserispor_2015,Kayserispor,14,13,27,34
+2016-04-04,Kasimpasa_Besiktas_2015,Kasimpasa,14,13,27,34
+2016-04-08,Gaziantepspor_Sivasspor_2015,Sivasspor,13,15,28,35
+2016-04-08,Gaziantepspor_Sivasspor_2015,Gaziantepspor,14,14,28,35
+2016-04-09,Osmanlispor_Eskisehirspor_2015,Osmanlispor,14,14,28,35
+2016-04-09,Galatasaray_Rizespor_2015,Rizespor,14,14,28,35
+2016-04-09,Konyaspor_Fenerbahce_2015,Fenerbahce,14,13,27,35
+2016-04-09,Galatasaray_Rizespor_2015,Galatasaray,13,14,27,35
+2016-04-09,Konyaspor_Fenerbahce_2015,Konyaspor,14,14,28,35
+2016-04-09,Osmanlispor_Eskisehirspor_2015,Eskisehirspor,14,14,28,35
+2016-04-10,Mersin Idman Yurdu_Genclerbirligi_2015,Genclerbirligi,14,14,28,35
+2016-04-10,Mersin Idman Yurdu_Genclerbirligi_2015,Mersin Idman Yurdu,14,14,28,35
+2016-04-10,Trabzonspor_Buyuksehyr_2015,Buyuksehyr,13,15,28,35
+2016-04-10,Kayserispor_Antalyaspor_2015,Antalyaspor,14,14,28,35
+2016-04-10,Kayserispor_Antalyaspor_2015,Kayserispor,15,13,28,35
+2016-04-10,Trabzonspor_Buyuksehyr_2015,Trabzonspor,14,14,28,35
+2016-04-11,Besiktas_Bursaspor_2015,Bursaspor,14,14,28,35
+2016-04-11,Akhisar Belediyespor_Kasimpasa_2015,Kasimpasa,14,14,28,35
+2016-04-11,Akhisar Belediyespor_Kasimpasa_2015,Akhisar Belediyespor,14,14,28,35
+2016-04-11,Besiktas_Bursaspor_2015,Besiktas,15,13,28,35
+2016-04-13,Galatasaray_Fenerbahce_2015,Galatasaray,14,14,28,36
+2016-04-13,Galatasaray_Fenerbahce_2015,Fenerbahce,14,14,28,36
+2016-04-16,Antalyaspor_Galatasaray_2015,Galatasaray,14,15,29,36
+2016-04-16,Rizespor_Osmanlispor_2015,Rizespor,15,14,29,36
+2016-04-16,Rizespor_Osmanlispor_2015,Osmanlispor,14,15,29,36
+2016-04-16,Sivasspor_Besiktas_2015,Sivasspor,14,15,29,36
+2016-04-16,Eskisehirspor_Konyaspor_2015,Konyaspor,14,15,29,36
+2016-04-16,Eskisehirspor_Konyaspor_2015,Eskisehirspor,15,14,29,36
+2016-04-16,Antalyaspor_Galatasaray_2015,Antalyaspor,15,14,29,36
+2016-04-16,Sivasspor_Besiktas_2015,Besiktas,15,14,29,36
+2016-04-17,Kasimpasa_Kayserispor_2015,Kasimpasa,15,14,29,36
+2016-04-17,Fenerbahce_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,14,15,29,36
+2016-04-17,Bursaspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,14,15,29,36
+2016-04-17,Bursaspor_Akhisar Belediyespor_2015,Bursaspor,15,14,29,36
+2016-04-17,Buyuksehyr_Gaziantepspor_2015,Gaziantepspor,14,15,29,36
+2016-04-17,Kasimpasa_Kayserispor_2015,Kayserispor,15,14,29,36
+2016-04-17,Buyuksehyr_Gaziantepspor_2015,Buyuksehyr,14,15,29,36
+2016-04-17,Fenerbahce_Mersin Idman Yurdu_2015,Fenerbahce,15,14,29,36
+2016-04-18,Genclerbirligi_Trabzonspor_2015,Trabzonspor,14,15,29,36
+2016-04-18,Genclerbirligi_Trabzonspor_2015,Genclerbirligi,15,14,29,36
+2016-04-22,Kayserispor_Bursaspor_2015,Kayserispor,16,14,30,37
+2016-04-22,Kayserispor_Bursaspor_2015,Bursaspor,15,15,30,37
+2016-04-23,Buyuksehyr_Sivasspor_2015,Sivasspor,14,16,30,37
+2016-04-23,Osmanlispor_Antalyaspor_2015,Antalyaspor,15,15,30,37
+2016-04-23,Osmanlispor_Antalyaspor_2015,Osmanlispor,15,15,30,37
+2016-04-23,Akhisar Belediyespor_Besiktas_2015,Besiktas,15,15,30,37
+2016-04-23,Akhisar Belediyespor_Besiktas_2015,Akhisar Belediyespor,15,15,30,37
+2016-04-23,Buyuksehyr_Sivasspor_2015,Buyuksehyr,15,15,30,37
+2016-04-24,Konyaspor_Rizespor_2015,Rizespor,15,15,30,37
+2016-04-24,Mersin Idman Yurdu_Eskisehirspor_2015,Mersin Idman Yurdu,15,15,30,37
+2016-04-24,Mersin Idman Yurdu_Eskisehirspor_2015,Eskisehirspor,15,15,30,37
+2016-04-24,Galatasaray_Kasimpasa_2015,Galatasaray,15,15,30,37
+2016-04-24,Trabzonspor_Fenerbahce_2015,Fenerbahce,15,15,30,37
+2016-04-24,Konyaspor_Rizespor_2015,Konyaspor,15,15,30,37
+2016-04-24,Trabzonspor_Fenerbahce_2015,Trabzonspor,15,15,30,37
+2016-04-24,Galatasaray_Kasimpasa_2015,Kasimpasa,15,15,30,37
+2016-04-25,Gaziantepspor_Genclerbirligi_2015,Gaziantepspor,15,15,30,37
+2016-04-25,Gaziantepspor_Genclerbirligi_2015,Genclerbirligi,15,15,30,37
+2016-04-29,Bursaspor_Galatasaray_2015,Galatasaray,15,16,31,38
+2016-04-29,Bursaspor_Galatasaray_2015,Bursaspor,16,15,31,38
+2016-04-29,Rizespor_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,15,16,31,38
+2016-04-29,Rizespor_Mersin Idman Yurdu_2015,Rizespor,16,15,31,38
+2016-04-30,Besiktas_Kayserispor_2015,Besiktas,16,15,31,38
+2016-04-30,Eskisehirspor_Trabzonspor_2015,Trabzonspor,15,16,31,38
+2016-04-30,Genclerbirligi_Buyuksehyr_2015,Genclerbirligi,16,15,31,38
+2016-04-30,Besiktas_Kayserispor_2015,Kayserispor,16,15,31,38
+2016-04-30,Genclerbirligi_Buyuksehyr_2015,Buyuksehyr,15,16,31,38
+2016-04-30,Eskisehirspor_Trabzonspor_2015,Eskisehirspor,16,15,31,38
+2016-05-01,Sivasspor_Akhisar Belediyespor_2015,Akhisar Belediyespor,15,16,31,38
+2016-05-01,Antalyaspor_Konyaspor_2015,Konyaspor,15,16,31,38
+2016-05-01,Sivasspor_Akhisar Belediyespor_2015,Sivasspor,15,16,31,38
+2016-05-01,Fenerbahce_Gaziantepspor_2015,Gaziantepspor,15,16,31,38
+2016-05-01,Fenerbahce_Gaziantepspor_2015,Fenerbahce,16,15,31,38
+2016-05-01,Antalyaspor_Konyaspor_2015,Antalyaspor,16,15,31,38
+2016-05-02,Kasimpasa_Osmanlispor_2015,Kasimpasa,16,15,31,38
+2016-05-02,Kasimpasa_Osmanlispor_2015,Osmanlispor,15,16,31,38
+2016-05-07,Sivasspor_Genclerbirligi_2015,Genclerbirligi,16,16,32,39
+2016-05-07,Osmanlispor_Bursaspor_2015,Osmanlispor,16,16,32,39
+2016-05-07,Osmanlispor_Bursaspor_2015,Bursaspor,16,16,32,39
+2016-05-07,Sivasspor_Genclerbirligi_2015,Sivasspor,16,16,32,39
+2016-05-07,Gaziantepspor_Eskisehirspor_2015,Eskisehirspor,16,16,32,39
+2016-05-07,Gaziantepspor_Eskisehirspor_2015,Gaziantepspor,16,16,32,39
+2016-05-08,Mersin Idman Yurdu_Antalyaspor_2015,Mersin Idman Yurdu,16,16,32,39
+2016-05-08,Akhisar Belediyespor_Kayserispor_2015,Akhisar Belediyespor,16,16,32,39
+2016-05-08,Trabzonspor_Rizespor_2015,Rizespor,16,16,32,39
+2016-05-08,Galatasaray_Besiktas_2015,Besiktas,16,16,32,39
+2016-05-08,Mersin Idman Yurdu_Antalyaspor_2015,Antalyaspor,16,16,32,39
+2016-05-08,Trabzonspor_Rizespor_2015,Trabzonspor,16,16,32,39
+2016-05-08,Akhisar Belediyespor_Kayserispor_2015,Kayserispor,16,16,32,39
+2016-05-08,Galatasaray_Besiktas_2015,Galatasaray,16,16,32,39
+2016-05-09,Buyuksehyr_Fenerbahce_2015,Buyuksehyr,16,16,32,39
+2016-05-09,Buyuksehyr_Fenerbahce_2015,Fenerbahce,16,16,32,39
+2016-05-09,Konyaspor_Kasimpasa_2015,Kasimpasa,16,16,32,39
+2016-05-09,Konyaspor_Kasimpasa_2015,Konyaspor,16,16,32,39
+2016-05-13,Antalyaspor_Trabzonspor_2015,Trabzonspor,16,17,33,40
+2016-05-13,Antalyaspor_Trabzonspor_2015,Antalyaspor,17,16,33,40
+2016-05-14,Rizespor_Gaziantepspor_2015,Gaziantepspor,16,17,33,40
+2016-05-14,Kayserispor_Sivasspor_2015,Sivasspor,16,17,33,40
+2016-05-14,Bursaspor_Konyaspor_2015,Konyaspor,16,17,33,40
+2016-05-14,Eskisehirspor_Buyuksehyr_2015,Eskisehirspor,17,16,33,40
+2016-05-14,Kayserispor_Sivasspor_2015,Kayserispor,17,16,33,40
+2016-05-14,Bursaspor_Konyaspor_2015,Bursaspor,17,16,33,40
+2016-05-14,Rizespor_Gaziantepspor_2015,Rizespor,17,16,33,40
+2016-05-14,Eskisehirspor_Buyuksehyr_2015,Buyuksehyr,16,17,33,40
+2016-05-15,Kasimpasa_Mersin Idman Yurdu_2015,Kasimpasa,17,16,33,40
+2016-05-15,Akhisar Belediyespor_Galatasaray_2015,Akhisar Belediyespor,17,16,33,40
+2016-05-15,Besiktas_Osmanlispor_2015,Osmanlispor,16,17,33,40
+2016-05-15,Akhisar Belediyespor_Galatasaray_2015,Galatasaray,16,17,33,40
+2016-05-15,Besiktas_Osmanlispor_2015,Besiktas,17,16,33,40
+2016-05-15,Kasimpasa_Mersin Idman Yurdu_2015,Mersin Idman Yurdu,16,17,33,40
+2016-05-15,Fenerbahce_Genclerbirligi_2015,Fenerbahce,17,16,33,40
+2016-05-15,Fenerbahce_Genclerbirligi_2015,Genclerbirligi,16,17,33,40
+2016-05-18,Buyuksehyr_Rizespor_2015,Buyuksehyr,17,17,34,41
+2016-05-18,Buyuksehyr_Rizespor_2015,Rizespor,17,17,34,41
+2016-05-18,Mersin Idman Yurdu_Bursaspor_2015,Bursaspor,17,17,34,41
+2016-05-18,Mersin Idman Yurdu_Bursaspor_2015,Mersin Idman Yurdu,17,17,34,41
+2016-05-18,Konyaspor_Besiktas_2015,Besiktas,17,17,34,41
+2016-05-18,Konyaspor_Besiktas_2015,Konyaspor,17,17,34,41
+2016-05-19,Galatasaray_Kayserispor_2015,Galatasaray,17,17,34,41
+2016-05-19,Sivasspor_Fenerbahce_2015,Fenerbahce,17,17,34,41
+2016-05-19,Galatasaray_Kayserispor_2015,Kayserispor,17,17,34,41
+2016-05-19,Genclerbirligi_Eskisehirspor_2015,Genclerbirligi,17,17,34,41
+2016-05-19,Gaziantepspor_Antalyaspor_2015,Gaziantepspor,17,17,34,41
+2016-05-19,Sivasspor_Fenerbahce_2015,Sivasspor,17,17,34,41
+2016-05-19,Osmanlispor_Akhisar Belediyespor_2015,Akhisar Belediyespor,17,17,34,41
+2016-05-19,Gaziantepspor_Antalyaspor_2015,Antalyaspor,17,17,34,41
+2016-05-19,Trabzonspor_Kasimpasa_2015,Kasimpasa,17,17,34,41
+2016-05-19,Genclerbirligi_Eskisehirspor_2015,Eskisehirspor,17,17,34,41
+2016-05-19,Osmanlispor_Akhisar Belediyespor_2015,Osmanlispor,17,17,34,41
+2016-05-19,Trabzonspor_Kasimpasa_2015,Trabzonspor,17,17,34,41

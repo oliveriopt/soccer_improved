@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2009-08-15,Everton_Arsenal_2009,Arsenal,1,1,1,1
+2009-08-15,Stoke_Burnley_2009,Stoke,1,1,1,1
+2009-08-15,Chelsea_Hull_2009,Chelsea,1,1,1,1
+2009-08-15,Blackburn_Man City_2009,Man City,1,1,1,1
+2009-08-15,Wolves_West Ham_2009,West Ham,1,1,1,1
+2009-08-15,Bolton_Sunderland_2009,Bolton,1,1,1,1
+2009-08-15,Portsmouth_Fulham_2009,Fulham,1,1,1,1
+2009-08-15,Aston Villa_Wigan_2009,Aston Villa,1,1,1,1
+2009-08-15,Wolves_West Ham_2009,Wolves,1,1,1,1
+2009-08-15,Blackburn_Man City_2009,Blackburn,1,1,1,1
+2009-08-15,Chelsea_Hull_2009,Hull,1,1,1,1
+2009-08-15,Everton_Arsenal_2009,Everton,1,1,1,1
+2009-08-15,Stoke_Burnley_2009,Burnley,1,1,1,1
+2009-08-15,Bolton_Sunderland_2009,Sunderland,1,1,1,1
+2009-08-15,Portsmouth_Fulham_2009,Portsmouth,1,1,1,1
+2009-08-15,Aston Villa_Wigan_2009,Wigan,1,1,1,1
+2009-08-16,Man United_Birmingham_2009,Man United,1,1,1,1
+2009-08-16,Man United_Birmingham_2009,Birmingham,1,1,1,1
+2009-08-16,Tottenham_Liverpool_2009,Tottenham,1,1,1,1
+2009-08-16,Tottenham_Liverpool_2009,Liverpool,1,1,1,1
+2009-08-18,Sunderland_Chelsea_2009,Chelsea,1,1,2,2
+2009-08-18,Sunderland_Chelsea_2009,Sunderland,1,1,2,2
+2009-08-18,Wigan_Wolves_2009,Wigan,1,1,2,2
+2009-08-18,Wigan_Wolves_2009,Wolves,1,1,2,2
+2009-08-19,Liverpool_Stoke_2009,Liverpool,1,1,2,2
+2009-08-19,Birmingham_Portsmouth_2009,Birmingham,1,1,2,2
+2009-08-19,Burnley_Man United_2009,Burnley,1,1,2,2
+2009-08-19,Birmingham_Portsmouth_2009,Portsmouth,1,1,2,2
+2009-08-19,Liverpool_Stoke_2009,Stoke,1,1,2,2
+2009-08-19,Hull_Tottenham_2009,Hull,1,1,2,2
+2009-08-19,Hull_Tottenham_2009,Tottenham,1,1,2,2
+2009-08-19,Burnley_Man United_2009,Man United,1,1,2,2
+2009-08-22,Birmingham_Stoke_2009,Birmingham,2,1,3,2
+2009-08-22,Arsenal_Portsmouth_2009,Arsenal,1,1,2,2
+2009-08-22,Hull_Bolton_2009,Hull,2,1,3,2
+2009-08-22,Hull_Bolton_2009,Bolton,1,1,2,2
+2009-08-22,Man City_Wolves_2009,Wolves,1,2,3,2
+2009-08-22,Birmingham_Stoke_2009,Stoke,1,2,3,2
+2009-08-22,Wigan_Man United_2009,Man United,1,2,3,2
+2009-08-22,Sunderland_Blackburn_2009,Sunderland,2,1,3,2
+2009-08-22,Sunderland_Blackburn_2009,Blackburn,1,1,2,2
+2009-08-22,Man City_Wolves_2009,Man City,1,1,2,2
+2009-08-22,Wigan_Man United_2009,Wigan,2,1,3,2
+2009-08-22,Arsenal_Portsmouth_2009,Portsmouth,1,2,3,2
+2009-08-23,Burnley_Everton_2009,Burnley,2,1,3,2
+2009-08-23,West Ham_Tottenham_2009,West Ham,1,1,2,2
+2009-08-23,Fulham_Chelsea_2009,Fulham,1,1,2,2
+2009-08-23,Fulham_Chelsea_2009,Chelsea,1,2,3,2
+2009-08-23,Burnley_Everton_2009,Everton,1,1,2,2
+2009-08-23,West Ham_Tottenham_2009,Tottenham,1,2,3,2
+2009-08-24,Liverpool_Aston Villa_2009,Aston Villa,1,1,2,2
+2009-08-24,Liverpool_Aston Villa_2009,Liverpool,2,1,3,2
+2009-08-29,Blackburn_West Ham_2009,West Ham,1,2,3,3
+2009-08-29,Tottenham_Birmingham_2009,Tottenham,2,2,4,3
+2009-08-29,Chelsea_Burnley_2009,Chelsea,2,2,4,3
+2009-08-29,Tottenham_Birmingham_2009,Birmingham,2,2,4,3
+2009-08-29,Stoke_Sunderland_2009,Sunderland,2,2,4,3
+2009-08-29,Chelsea_Burnley_2009,Burnley,2,2,4,3
+2009-08-29,Wolves_Hull_2009,Hull,2,2,4,3
+2009-08-29,Man United_Arsenal_2009,Arsenal,1,2,3,3
+2009-08-29,Blackburn_West Ham_2009,Blackburn,2,1,3,3
+2009-08-29,Stoke_Sunderland_2009,Stoke,2,2,4,3
+2009-08-29,Wolves_Hull_2009,Wolves,2,2,4,3
+2009-08-29,Man United_Arsenal_2009,Man United,2,2,4,3
+2009-08-29,Bolton_Liverpool_2009,Liverpool,2,2,4,3
+2009-08-29,Bolton_Liverpool_2009,Bolton,2,1,3,3
+2009-08-30,Portsmouth_Man City_2009,Portsmouth,2,2,4,3
+2009-08-30,Aston Villa_Fulham_2009,Fulham,1,2,3,3
+2009-08-30,Everton_Wigan_2009,Everton,2,1,3,3
+2009-08-30,Portsmouth_Man City_2009,Man City,1,2,3,3
+2009-08-30,Everton_Wigan_2009,Wigan,2,2,4,3
+2009-08-30,Aston Villa_Fulham_2009,Aston Villa,2,1,3,3
+2009-09-12,Stoke_Chelsea_2009,Chelsea,2,3,5,5
+2009-09-12,Blackburn_Wolves_2009,Wolves,2,3,5,5
+2009-09-12,Portsmouth_Bolton_2009,Bolton,2,2,4,5
+2009-09-12,Tottenham_Man United_2009,Man United,2,3,5,5
+2009-09-12,Man City_Arsenal_2009,Arsenal,1,3,4,5
+2009-09-12,Wigan_West Ham_2009,West Ham,1,3,4,5
+2009-09-12,Liverpool_Burnley_2009,Liverpool,3,2,5,5
+2009-09-12,Sunderland_Hull_2009,Hull,2,3,5,5
+2009-09-12,Wigan_West Ham_2009,Wigan,3,2,5,5
+2009-09-12,Tottenham_Man United_2009,Tottenham,3,2,5,5
+2009-09-12,Blackburn_Wolves_2009,Blackburn,3,1,4,5
+2009-09-12,Man City_Arsenal_2009,Man City,2,2,4,5
+2009-09-12,Portsmouth_Bolton_2009,Portsmouth,3,2,5,5
+2009-09-12,Stoke_Chelsea_2009,Stoke,3,2,5,5
+2009-09-12,Liverpool_Burnley_2009,Burnley,2,3,5,5
+2009-09-12,Sunderland_Hull_2009,Sunderland,3,2,5,5
+2009-09-13,Fulham_Everton_2009,Everton,2,2,4,5
+2009-09-13,Fulham_Everton_2009,Fulham,2,2,4,5
+2009-09-13,Birmingham_Aston Villa_2009,Birmingham,3,2,5,5
+2009-09-13,Birmingham_Aston Villa_2009,Aston Villa,2,2,4,5
+2009-09-19,West Ham_Liverpool_2009,Liverpool,3,3,6,6
+2009-09-19,West Ham_Liverpool_2009,West Ham,2,3,5,6
+2009-09-19,Aston Villa_Portsmouth_2009,Portsmouth,3,3,6,6
+2009-09-19,Aston Villa_Portsmouth_2009,Aston Villa,3,2,5,6
+2009-09-19,Arsenal_Wigan_2009,Arsenal,2,3,5,6
+2009-09-19,Burnley_Sunderland_2009,Burnley,3,3,6,6
+2009-09-19,Bolton_Stoke_2009,Bolton,3,2,5,6
+2009-09-19,Hull_Birmingham_2009,Hull,3,3,6,6
+2009-09-19,Arsenal_Wigan_2009,Wigan,3,3,6,6
+2009-09-19,Hull_Birmingham_2009,Birmingham,3,3,6,6
+2009-09-19,Burnley_Sunderland_2009,Sunderland,3,3,6,6
+2009-09-19,Bolton_Stoke_2009,Stoke,3,3,6,6
+2009-09-20,Wolves_Fulham_2009,Wolves,3,3,6,6
+2009-09-20,Everton_Blackburn_2009,Blackburn,3,2,5,6
+2009-09-20,Man United_Man City_2009,Man United,3,3,6,6
+2009-09-20,Wolves_Fulham_2009,Fulham,2,3,5,6
+2009-09-20,Everton_Blackburn_2009,Everton,3,2,5,6
+2009-09-20,Man United_Man City_2009,Man City,2,3,5,6
+2009-09-20,Chelsea_Tottenham_2009,Chelsea,3,3,6,6
+2009-09-20,Chelsea_Tottenham_2009,Tottenham,3,3,6,6
+2009-09-26,Liverpool_Hull_2009,Hull,3,4,7,7
+2009-09-26,Stoke_Man United_2009,Man United,3,4,7,7
+2009-09-26,Fulham_Arsenal_2009,Arsenal,2,4,6,7
+2009-09-26,Tottenham_Burnley_2009,Tottenham,4,3,7,7
+2009-09-26,Liverpool_Hull_2009,Liverpool,4,3,7,7
+2009-09-26,Blackburn_Aston Villa_2009,Blackburn,4,2,6,7
+2009-09-26,Portsmouth_Everton_2009,Portsmouth,4,3,7,7
+2009-09-26,Tottenham_Burnley_2009,Burnley,3,4,7,7
+2009-09-26,Fulham_Arsenal_2009,Fulham,3,3,6,7
+2009-09-26,Birmingham_Bolton_2009,Bolton,3,3,6,7
+2009-09-26,Birmingham_Bolton_2009,Birmingham,4,3,7,7
+2009-09-26,Portsmouth_Everton_2009,Everton,3,3,6,7
+2009-09-26,Wigan_Chelsea_2009,Chelsea,3,4,7,7
+2009-09-26,Wigan_Chelsea_2009,Wigan,4,3,7,7
+2009-09-26,Blackburn_Aston Villa_2009,Aston Villa,3,3,6,7
+2009-09-26,Stoke_Man United_2009,Stoke,4,3,7,7
+2009-09-27,Sunderland_Wolves_2009,Sunderland,4,3,7,7
+2009-09-27,Sunderland_Wolves_2009,Wolves,3,4,7,7
+2009-09-28,Man City_West Ham_2009,Man City,3,3,6,7
+2009-09-28,Man City_West Ham_2009,West Ham,2,4,6,7
+2009-10-03,Wolves_Portsmouth_2009,Wolves,4,4,8,8
+2009-10-03,Burnley_Birmingham_2009,Birmingham,4,4,8,8
+2009-10-03,Man United_Sunderland_2009,Sunderland,4,4,8,8
+2009-10-03,Wolves_Portsmouth_2009,Portsmouth,4,4,8,8
+2009-10-03,Man United_Sunderland_2009,Man United,4,4,8,8
+2009-10-03,Hull_Wigan_2009,Hull,4,4,8,8
+2009-10-03,Bolton_Tottenham_2009,Bolton,4,3,7,8
+2009-10-03,Bolton_Tottenham_2009,Tottenham,4,4,8,8
+2009-10-03,Hull_Wigan_2009,Wigan,4,4,8,8
+2009-10-03,Burnley_Birmingham_2009,Burnley,4,4,8,8
+2009-10-04,West Ham_Fulham_2009,Fulham,3,4,7,8
+2009-10-04,West Ham_Fulham_2009,West Ham,3,4,7,8
+2009-10-04,Arsenal_Blackburn_2009,Blackburn,4,3,7,8
+2009-10-04,Chelsea_Liverpool_2009,Chelsea,4,4,8,8
+2009-10-04,Everton_Stoke_2009,Everton,4,3,7,8
+2009-10-04,Chelsea_Liverpool_2009,Liverpool,4,4,8,8
+2009-10-04,Everton_Stoke_2009,Stoke,4,4,8,8
+2009-10-04,Arsenal_Blackburn_2009,Arsenal,3,4,7,8
+2009-10-05,Aston Villa_Man City_2009,Man City,3,4,7,8
+2009-10-05,Aston Villa_Man City_2009,Aston Villa,4,3,7,8
+2009-10-17,Everton_Wolves_2009,Wolves,4,5,9,10
+2009-10-17,Stoke_West Ham_2009,West Ham,3,5,8,10
+2009-10-17,Aston Villa_Chelsea_2009,Aston Villa,5,3,8,10
+2009-10-17,Stoke_West Ham_2009,Stoke,5,4,9,10
+2009-10-17,Man United_Bolton_2009,Man United,5,4,9,10
+2009-10-17,Aston Villa_Chelsea_2009,Chelsea,4,5,9,10
+2009-10-17,Portsmouth_Tottenham_2009,Portsmouth,5,4,9,10
+2009-10-17,Man United_Bolton_2009,Bolton,4,4,8,10
+2009-10-17,Sunderland_Liverpool_2009,Liverpool,4,5,9,10
+2009-10-17,Arsenal_Birmingham_2009,Arsenal,4,4,8,10
+2009-10-17,Portsmouth_Tottenham_2009,Tottenham,4,5,9,10
+2009-10-17,Sunderland_Liverpool_2009,Sunderland,5,4,9,10
+2009-10-17,Arsenal_Birmingham_2009,Birmingham,4,5,9,10
+2009-10-17,Everton_Wolves_2009,Everton,5,3,8,10
+2009-10-18,Blackburn_Burnley_2009,Blackburn,5,3,8,10
+2009-10-18,Wigan_Man City_2009,Man City,3,5,8,10
+2009-10-18,Blackburn_Burnley_2009,Burnley,4,5,9,10
+2009-10-18,Wigan_Man City_2009,Wigan,5,4,9,10
+2009-10-19,Fulham_Hull_2009,Hull,4,5,9,10
+2009-10-19,Fulham_Hull_2009,Fulham,4,4,8,10
+2009-10-24,Tottenham_Stoke_2009,Tottenham,5,5,10,11
+2009-10-24,Wolves_Aston Villa_2009,Wolves,5,5,10,11
+2009-10-24,Burnley_Wigan_2009,Wigan,5,5,10,11
+2009-10-24,Hull_Portsmouth_2009,Portsmouth,5,5,10,11
+2009-10-24,Chelsea_Blackburn_2009,Chelsea,5,5,10,11
+2009-10-24,Wolves_Aston Villa_2009,Aston Villa,5,4,9,11
+2009-10-24,Tottenham_Stoke_2009,Stoke,5,5,10,11
+2009-10-24,Chelsea_Blackburn_2009,Blackburn,5,4,9,11
+2009-10-24,Birmingham_Sunderland_2009,Sunderland,5,5,10,11
+2009-10-24,Hull_Portsmouth_2009,Hull,5,5,10,11
+2009-10-24,Birmingham_Sunderland_2009,Birmingham,5,5,10,11
+2009-10-24,Burnley_Wigan_2009,Burnley,5,5,10,11
+2009-10-25,Man City_Fulham_2009,Fulham,4,5,9,11
+2009-10-25,Bolton_Everton_2009,Bolton,5,4,9,11
+2009-10-25,Man City_Fulham_2009,Man City,4,5,9,11
+2009-10-25,West Ham_Arsenal_2009,Arsenal,4,5,9,11
+2009-10-25,Liverpool_Man United_2009,Liverpool,5,5,10,11
+2009-10-25,West Ham_Arsenal_2009,West Ham,4,5,9,11
+2009-10-25,Liverpool_Man United_2009,Man United,5,5,10,11
+2009-10-25,Bolton_Everton_2009,Everton,5,4,9,11
+2009-10-31,Everton_Aston Villa_2009,Everton,6,4,10,12
+2009-10-31,Stoke_Wolves_2009,Wolves,5,6,11,12
+2009-10-31,Sunderland_West Ham_2009,West Ham,4,6,10,12
+2009-10-31,Portsmouth_Wigan_2009,Wigan,5,6,11,12
+2009-10-31,Sunderland_West Ham_2009,Sunderland,6,5,11,12
+2009-10-31,Arsenal_Tottenham_2009,Arsenal,5,5,10,12
+2009-10-31,Fulham_Liverpool_2009,Fulham,5,5,10,12
+2009-10-31,Bolton_Chelsea_2009,Bolton,6,4,10,12
+2009-10-31,Stoke_Wolves_2009,Stoke,6,5,11,12
+2009-10-31,Arsenal_Tottenham_2009,Tottenham,5,6,11,12
+2009-10-31,Portsmouth_Wigan_2009,Portsmouth,6,5,11,12
+2009-10-31,Burnley_Hull_2009,Hull,5,6,11,12
+2009-10-31,Fulham_Liverpool_2009,Liverpool,5,6,11,12
+2009-10-31,Burnley_Hull_2009,Burnley,6,5,11,12
+2009-10-31,Everton_Aston Villa_2009,Aston Villa,5,5,10,12
+2009-10-31,Man United_Blackburn_2009,Man United,6,5,11,12
+2009-10-31,Man United_Blackburn_2009,Blackburn,5,5,10,12
+2009-10-31,Bolton_Chelsea_2009,Chelsea,5,6,11,12
+2009-11-01,Birmingham_Man City_2009,Man City,4,6,10,12
+2009-11-01,Birmingham_Man City_2009,Birmingham,6,5,11,12
+2009-11-04,West Ham_Aston Villa_2009,Aston Villa,5,6,11,13
+2009-11-04,West Ham_Aston Villa_2009,West Ham,5,6,11,13
+2009-11-07,Wolves_Arsenal_2009,Wolves,6,6,12,13
+2009-11-07,Tottenham_Sunderland_2009,Tottenham,6,6,12,13
+2009-11-07,Aston Villa_Bolton_2009,Bolton,6,5,11,13
+2009-11-07,Blackburn_Portsmouth_2009,Blackburn,6,5,11,13
+2009-11-07,Aston Villa_Bolton_2009,Aston Villa,6,6,12,13
+2009-11-07,Tottenham_Sunderland_2009,Sunderland,6,6,12,13
+2009-11-07,Man City_Burnley_2009,Man City,5,6,11,13
+2009-11-07,Wolves_Arsenal_2009,Arsenal,5,6,11,13
+2009-11-07,Man City_Burnley_2009,Burnley,6,6,12,13
+2009-11-07,Blackburn_Portsmouth_2009,Portsmouth,6,6,12,13
+2009-11-08,Hull_Stoke_2009,Stoke,6,6,12,13
+2009-11-08,Hull_Stoke_2009,Hull,6,6,12,13
+2009-11-08,West Ham_Everton_2009,Everton,6,5,11,13
+2009-11-08,Wigan_Fulham_2009,Fulham,5,6,11,13
+2009-11-08,Chelsea_Man United_2009,Man United,6,6,12,13
+2009-11-08,West Ham_Everton_2009,West Ham,6,6,12,13
+2009-11-08,Wigan_Fulham_2009,Wigan,6,6,12,13
+2009-11-08,Chelsea_Man United_2009,Chelsea,6,6,12,13
+2009-11-09,Liverpool_Birmingham_2009,Liverpool,6,6,12,13
+2009-11-09,Liverpool_Birmingham_2009,Birmingham,6,6,12,13
+2009-11-21,Liverpool_Man City_2009,Man City,5,7,12,15
+2009-11-21,Man United_Everton_2009,Everton,6,6,12,15
+2009-11-21,Birmingham_Fulham_2009,Fulham,5,7,12,15
+2009-11-21,Burnley_Aston Villa_2009,Aston Villa,6,7,13,15
+2009-11-21,Man United_Everton_2009,Man United,7,6,13,15
+2009-11-21,Burnley_Aston Villa_2009,Burnley,7,6,13,15
+2009-11-21,Chelsea_Wolves_2009,Wolves,6,7,13,15
+2009-11-21,Hull_West Ham_2009,Hull,7,6,13,15
+2009-11-21,Sunderland_Arsenal_2009,Arsenal,5,7,12,15
+2009-11-21,Hull_West Ham_2009,West Ham,6,7,13,15
+2009-11-21,Birmingham_Fulham_2009,Birmingham,7,6,13,15
+2009-11-21,Chelsea_Wolves_2009,Chelsea,7,6,13,15
+2009-11-21,Liverpool_Man City_2009,Liverpool,7,6,13,15
+2009-11-21,Sunderland_Arsenal_2009,Sunderland,7,6,13,15
+2009-11-22,Tottenham_Wigan_2009,Tottenham,7,6,13,15
+2009-11-22,Bolton_Blackburn_2009,Blackburn,6,6,12,15
+2009-11-22,Stoke_Portsmouth_2009,Portsmouth,6,7,13,15
+2009-11-22,Stoke_Portsmouth_2009,Stoke,7,6,13,15
+2009-11-22,Bolton_Blackburn_2009,Bolton,7,5,12,15
+2009-11-22,Tottenham_Wigan_2009,Wigan,6,7,13,15
+2009-11-25,Hull_Everton_2009,Everton,6,7,13,16
+2009-11-25,Fulham_Blackburn_2009,Fulham,6,7,13,16
+2009-11-25,Hull_Everton_2009,Hull,8,6,14,16
+2009-11-25,Fulham_Blackburn_2009,Blackburn,6,7,13,16
+2009-11-28,Blackburn_Stoke_2009,Stoke,7,7,14,16
+2009-11-28,Wigan_Sunderland_2009,Wigan,7,7,14,16
+2009-11-28,Wigan_Sunderland_2009,Sunderland,7,7,14,16
+2009-11-28,Portsmouth_Man United_2009,Man United,7,7,14,16
+2009-11-28,Fulham_Bolton_2009,Fulham,7,7,14,16
+2009-11-28,West Ham_Burnley_2009,West Ham,7,7,14,16
+2009-11-28,Portsmouth_Man United_2009,Portsmouth,7,7,14,16
+2009-11-28,Fulham_Bolton_2009,Bolton,7,6,13,16
+2009-11-28,Aston Villa_Tottenham_2009,Tottenham,7,7,14,16
+2009-11-28,Man City_Hull_2009,Man City,6,7,13,16
+2009-11-28,Aston Villa_Tottenham_2009,Aston Villa,7,7,14,16
+2009-11-28,West Ham_Burnley_2009,Burnley,7,7,14,16
+2009-11-28,Blackburn_Stoke_2009,Blackburn,7,7,14,16
+2009-11-28,Man City_Hull_2009,Hull,8,7,15,16
+2009-11-29,Everton_Liverpool_2009,Liverpool,7,7,14,16
+2009-11-29,Wolves_Birmingham_2009,Wolves,7,7,14,16
+2009-11-29,Arsenal_Chelsea_2009,Chelsea,7,7,14,16
+2009-11-29,Everton_Liverpool_2009,Everton,7,7,14,16
+2009-11-29,Wolves_Birmingham_2009,Birmingham,7,7,14,16
+2009-11-29,Arsenal_Chelsea_2009,Arsenal,6,7,13,16
+2009-12-05,West Ham_Man United_2009,Man United,7,8,15,17
+2009-12-05,Wolves_Bolton_2009,Wolves,8,7,15,17
+2009-12-05,Blackburn_Liverpool_2009,Blackburn,8,7,15,17
+2009-12-05,Aston Villa_Hull_2009,Hull,8,8,16,17
+2009-12-05,Arsenal_Stoke_2009,Arsenal,7,7,14,17
+2009-12-05,Portsmouth_Burnley_2009,Burnley,7,8,15,17
+2009-12-05,West Ham_Man United_2009,West Ham,8,7,15,17
+2009-12-05,Wigan_Birmingham_2009,Wigan,8,7,15,17
+2009-12-05,Portsmouth_Burnley_2009,Portsmouth,8,7,15,17
+2009-12-05,Wolves_Bolton_2009,Bolton,7,7,14,17
+2009-12-05,Man City_Chelsea_2009,Chelsea,7,8,15,17
+2009-12-05,Man City_Chelsea_2009,Man City,7,7,14,17
+2009-12-05,Aston Villa_Hull_2009,Aston Villa,8,7,15,17
+2009-12-05,Wigan_Birmingham_2009,Birmingham,7,8,15,17
+2009-12-05,Blackburn_Liverpool_2009,Liverpool,7,8,15,17
+2009-12-05,Arsenal_Stoke_2009,Stoke,7,8,15,17
+2009-12-06,Everton_Tottenham_2009,Everton,8,7,15,17
+2009-12-06,Fulham_Sunderland_2009,Sunderland,7,8,15,17
+2009-12-06,Fulham_Sunderland_2009,Fulham,8,7,15,17
+2009-12-06,Everton_Tottenham_2009,Tottenham,7,8,15,17
+2009-12-12,Tottenham_Wolves_2009,Wolves,8,8,16,18
+2009-12-12,Birmingham_West Ham_2009,Birmingham,8,8,16,18
+2009-12-12,Stoke_Wigan_2009,Stoke,8,8,16,18
+2009-12-12,Sunderland_Portsmouth_2009,Portsmouth,8,8,16,18
+2009-12-12,Hull_Blackburn_2009,Blackburn,8,8,16,18
+2009-12-12,Hull_Blackburn_2009,Hull,9,8,17,18
+2009-12-12,Man United_Aston Villa_2009,Aston Villa,8,8,16,18
+2009-12-12,Stoke_Wigan_2009,Wigan,8,8,16,18
+2009-12-12,Birmingham_West Ham_2009,West Ham,8,8,16,18
+2009-12-12,Bolton_Man City_2009,Man City,7,8,15,18
+2009-12-12,Sunderland_Portsmouth_2009,Sunderland,8,8,16,18
+2009-12-12,Burnley_Fulham_2009,Burnley,8,8,16,18
+2009-12-12,Bolton_Man City_2009,Bolton,8,7,15,18
+2009-12-12,Man United_Aston Villa_2009,Man United,8,8,16,18
+2009-12-12,Chelsea_Everton_2009,Everton,8,8,16,18
+2009-12-12,Burnley_Fulham_2009,Fulham,8,8,16,18
+2009-12-12,Chelsea_Everton_2009,Chelsea,8,8,16,18
+2009-12-12,Tottenham_Wolves_2009,Tottenham,8,8,16,18
+2009-12-13,Liverpool_Arsenal_2009,Liverpool,8,8,16,18
+2009-12-13,Liverpool_Arsenal_2009,Arsenal,7,8,15,18
+2009-12-15,Man United_Wolves_2009,Wolves,8,9,17,19
+2009-12-15,Sunderland_Aston Villa_2009,Sunderland,9,8,17,19
+2009-12-15,Birmingham_Blackburn_2009,Birmingham,9,8,17,19
+2009-12-15,Bolton_West Ham_2009,West Ham,8,9,17,19
+2009-12-15,Birmingham_Blackburn_2009,Blackburn,8,9,17,19
+2009-12-15,Man United_Wolves_2009,Man United,9,8,17,19
+2009-12-15,Sunderland_Aston Villa_2009,Aston Villa,8,9,17,19
+2009-12-15,Bolton_West Ham_2009,Bolton,9,7,16,19
+2009-12-16,Tottenham_Man City_2009,Man City,7,9,16,19
+2009-12-16,Liverpool_Wigan_2009,Liverpool,9,8,17,19
+2009-12-16,Liverpool_Wigan_2009,Wigan,8,9,17,19
+2009-12-16,Burnley_Arsenal_2009,Arsenal,7,9,16,19
+2009-12-16,Tottenham_Man City_2009,Tottenham,9,8,17,19
+2009-12-16,Chelsea_Portsmouth_2009,Portsmouth,8,9,17,19
+2009-12-16,Burnley_Arsenal_2009,Burnley,9,8,17,19
+2009-12-16,Chelsea_Portsmouth_2009,Chelsea,9,8,17,19
+2009-12-19,Blackburn_Tottenham_2009,Tottenham,9,9,18,19
+2009-12-19,Aston Villa_Stoke_2009,Stoke,8,9,17,19
+2009-12-19,Portsmouth_Liverpool_2009,Liverpool,9,9,18,19
+2009-12-19,Fulham_Man United_2009,Fulham,9,8,17,19
+2009-12-19,Arsenal_Hull_2009,Arsenal,8,9,17,19
+2009-12-19,Man City_Sunderland_2009,Man City,8,9,17,19
+2009-12-19,Aston Villa_Stoke_2009,Aston Villa,9,9,18,19
+2009-12-19,Man City_Sunderland_2009,Sunderland,9,9,18,19
+2009-12-19,Arsenal_Hull_2009,Hull,9,9,18,19
+2009-12-19,Fulham_Man United_2009,Man United,9,9,18,19
+2009-12-19,Blackburn_Tottenham_2009,Blackburn,9,9,18,19
+2009-12-19,Portsmouth_Liverpool_2009,Portsmouth,9,9,18,19
+2009-12-20,Everton_Birmingham_2009,Birmingham,9,9,18,19
+2009-12-20,West Ham_Chelsea_2009,West Ham,9,9,18,19
+2009-12-20,Everton_Birmingham_2009,Everton,9,8,17,19
+2009-12-20,West Ham_Chelsea_2009,Chelsea,9,9,18,19
+2009-12-20,Wolves_Burnley_2009,Burnley,9,9,18,19
+2009-12-20,Wolves_Burnley_2009,Wolves,9,9,18,19
+2009-12-26,Liverpool_Wolves_2009,Wolves,9,10,19,20
+2009-12-26,Wigan_Blackburn_2009,Wigan,9,9,18,20
+2009-12-26,Sunderland_Everton_2009,Everton,9,9,18,20
+2009-12-26,Birmingham_Chelsea_2009,Birmingham,10,9,19,20
+2009-12-26,Man City_Stoke_2009,Stoke,8,10,18,20
+2009-12-26,Liverpool_Wolves_2009,Liverpool,10,9,19,20
+2009-12-26,Wigan_Blackburn_2009,Blackburn,9,10,19,20
+2009-12-26,Fulham_Tottenham_2009,Tottenham,9,10,19,20
+2009-12-26,Sunderland_Everton_2009,Sunderland,10,9,19,20
+2009-12-26,Burnley_Bolton_2009,Burnley,10,9,19,20
+2009-12-26,Fulham_Tottenham_2009,Fulham,10,8,18,20
+2009-12-26,West Ham_Portsmouth_2009,Portsmouth,9,10,19,20
+2009-12-26,Man City_Stoke_2009,Man City,9,9,18,20
+2009-12-26,Burnley_Bolton_2009,Bolton,9,8,17,20
+2009-12-26,West Ham_Portsmouth_2009,West Ham,10,9,19,20
+2009-12-26,Birmingham_Chelsea_2009,Chelsea,9,10,19,20
+2009-12-27,Arsenal_Aston Villa_2009,Aston Villa,9,10,19,20
+2009-12-27,Hull_Man United_2009,Hull,10,9,19,20
+2009-12-27,Arsenal_Aston Villa_2009,Arsenal,9,9,18,20
+2009-12-27,Hull_Man United_2009,Man United,9,10,19,20
+2009-12-28,Wolves_Man City_2009,Man City,9,10,19,20
+2009-12-28,Wolves_Man City_2009,Wolves,10,10,20,20
+2009-12-28,Chelsea_Fulham_2009,Fulham,10,9,19,20
+2009-12-28,Blackburn_Sunderland_2009,Blackburn,10,10,20,20
+2009-12-28,Stoke_Birmingham_2009,Stoke,9,10,19,20
+2009-12-28,Blackburn_Sunderland_2009,Sunderland,10,10,20,20
+2009-12-28,Everton_Burnley_2009,Burnley,10,10,20,20
+2009-12-28,Chelsea_Fulham_2009,Chelsea,10,10,20,20
+2009-12-28,Everton_Burnley_2009,Everton,10,9,19,20
+2009-12-28,Stoke_Birmingham_2009,Birmingham,10,10,20,20
+2009-12-28,Tottenham_West Ham_2009,Tottenham,10,10,20,20
+2009-12-28,Tottenham_West Ham_2009,West Ham,10,10,20,20
+2009-12-29,Bolton_Hull_2009,Hull,10,10,20,21
+2009-12-29,Bolton_Hull_2009,Bolton,10,8,18,21
+2009-12-29,Aston Villa_Liverpool_2009,Aston Villa,10,10,20,21
+2009-12-29,Aston Villa_Liverpool_2009,Liverpool,10,10,20,21
+2009-12-30,Man United_Wigan_2009,Man United,10,10,20,21
+2009-12-30,Portsmouth_Arsenal_2009,Portsmouth,10,10,20,21
+2009-12-30,Portsmouth_Arsenal_2009,Arsenal,9,10,19,21
+2009-12-30,Man United_Wigan_2009,Wigan,9,10,19,21
+2010-01-05,Stoke_Fulham_2009,Fulham,10,10,20,22
+2010-01-05,Stoke_Fulham_2009,Stoke,10,10,20,22
+2010-01-09,Birmingham_Man United_2009,Birmingham,11,10,21,22
+2010-01-09,Arsenal_Everton_2009,Everton,10,10,20,22
+2010-01-09,Arsenal_Everton_2009,Arsenal,10,10,20,22
+2010-01-09,Birmingham_Man United_2009,Man United,10,11,21,22
+2010-01-11,Man City_Blackburn_2009,Man City,10,10,20,22
+2010-01-11,Man City_Blackburn_2009,Blackburn,10,11,21,22
+2010-01-16,Tottenham_Hull_2009,Hull,10,11,21,23
+2010-01-16,Wolves_Wigan_2009,Wolves,11,10,21,23
+2010-01-16,Chelsea_Sunderland_2009,Chelsea,11,10,21,23
+2010-01-16,Wolves_Wigan_2009,Wigan,9,11,20,23
+2010-01-16,Man United_Burnley_2009,Man United,11,11,22,23
+2010-01-16,Stoke_Liverpool_2009,Liverpool,10,11,21,23
+2010-01-16,Everton_Man City_2009,Everton,11,10,21,23
+2010-01-16,Tottenham_Hull_2009,Tottenham,11,10,21,23
+2010-01-16,Chelsea_Sunderland_2009,Sunderland,10,11,21,23
+2010-01-16,Stoke_Liverpool_2009,Stoke,11,10,21,23
+2010-01-16,Everton_Man City_2009,Man City,10,11,21,23
+2010-01-16,Man United_Burnley_2009,Burnley,10,11,21,23
+2010-01-17,Aston Villa_West Ham_2009,Aston Villa,11,10,21,23
+2010-01-17,Blackburn_Fulham_2009,Fulham,10,11,21,23
+2010-01-17,Aston Villa_West Ham_2009,West Ham,10,11,21,23
+2010-01-17,Bolton_Arsenal_2009,Bolton,11,8,19,23
+2010-01-17,Blackburn_Fulham_2009,Blackburn,11,11,22,23
+2010-01-17,Bolton_Arsenal_2009,Arsenal,10,11,21,23
+2010-01-20,Arsenal_Bolton_2009,Arsenal,11,11,22,24
+2010-01-20,Liverpool_Tottenham_2009,Tottenham,11,11,22,24
+2010-01-20,Liverpool_Tottenham_2009,Liverpool,11,11,22,24
+2010-01-20,Arsenal_Bolton_2009,Bolton,11,9,20,24
+2010-01-23,Man United_Hull_2009,Hull,10,12,22,24
+2010-01-23,Man United_Hull_2009,Man United,12,11,23,24
+2010-01-26,Wolves_Liverpool_2009,Wolves,12,10,22,25
+2010-01-26,Bolton_Burnley_2009,Burnley,10,12,22,25
+2010-01-26,Portsmouth_West Ham_2009,Portsmouth,11,10,21,25
+2010-01-26,Wolves_Liverpool_2009,Liverpool,11,12,23,25
+2010-01-26,Tottenham_Fulham_2009,Tottenham,12,11,23,25
+2010-01-26,Portsmouth_West Ham_2009,West Ham,10,12,22,25
+2010-01-26,Bolton_Burnley_2009,Bolton,12,9,21,25
+2010-01-26,Tottenham_Fulham_2009,Fulham,10,12,22,25
+2010-01-27,Blackburn_Wigan_2009,Wigan,9,12,21,25
+2010-01-27,Chelsea_Birmingham_2009,Birmingham,11,11,22,25
+2010-01-27,Aston Villa_Arsenal_2009,Arsenal,11,12,23,25
+2010-01-27,Chelsea_Birmingham_2009,Chelsea,12,10,22,25
+2010-01-27,Blackburn_Wigan_2009,Blackburn,12,11,23,25
+2010-01-27,Everton_Sunderland_2009,Everton,12,10,22,25
+2010-01-27,Everton_Sunderland_2009,Sunderland,10,12,22,25
+2010-01-27,Aston Villa_Arsenal_2009,Aston Villa,12,10,22,25
+2010-01-30,Liverpool_Bolton_2009,Bolton,12,10,22,25
+2010-01-30,West Ham_Blackburn_2009,Blackburn,12,12,24,25
+2010-01-30,Hull_Wolves_2009,Wolves,12,11,23,25
+2010-01-30,Wigan_Everton_2009,Wigan,10,12,22,25
+2010-01-30,Liverpool_Bolton_2009,Liverpool,12,12,24,25
+2010-01-30,Fulham_Aston Villa_2009,Aston Villa,12,11,23,25
+2010-01-30,Birmingham_Tottenham_2009,Tottenham,12,12,24,25
+2010-01-30,Birmingham_Tottenham_2009,Birmingham,12,11,23,25
+2010-01-30,West Ham_Blackburn_2009,West Ham,11,12,23,25
+2010-01-30,Burnley_Chelsea_2009,Burnley,11,12,23,25
+2010-01-30,Wigan_Everton_2009,Everton,12,11,23,25
+2010-01-30,Burnley_Chelsea_2009,Chelsea,12,11,23,25
+2010-01-30,Fulham_Aston Villa_2009,Fulham,11,12,23,25
+2010-01-30,Hull_Wolves_2009,Hull,11,12,23,25
+2010-01-31,Arsenal_Man United_2009,Man United,12,12,24,25
+2010-01-31,Man City_Portsmouth_2009,Man City,11,11,22,25
+2010-01-31,Arsenal_Man United_2009,Arsenal,12,12,24,25
+2010-01-31,Man City_Portsmouth_2009,Portsmouth,11,11,22,25
+2010-02-01,Sunderland_Stoke_2009,Stoke,11,11,22,25
+2010-02-01,Sunderland_Stoke_2009,Sunderland,11,12,23,25
+2010-02-02,Hull_Chelsea_2009,Hull,12,12,24,26
+2010-02-02,Hull_Chelsea_2009,Chelsea,12,12,24,26
+2010-02-03,Fulham_Portsmouth_2009,Portsmouth,11,12,23,26
+2010-02-03,Fulham_Portsmouth_2009,Fulham,12,12,24,26
+2010-02-06,Sunderland_Wigan_2009,Wigan,10,13,23,26
+2010-02-06,Bolton_Fulham_2009,Bolton,13,10,23,26
+2010-02-06,Tottenham_Aston Villa_2009,Tottenham,13,12,25,26
+2010-02-06,Man United_Portsmouth_2009,Man United,13,12,25,26
+2010-02-06,Liverpool_Everton_2009,Liverpool,13,12,25,26
+2010-02-06,Stoke_Blackburn_2009,Blackburn,12,13,25,26
+2010-02-06,Burnley_West Ham_2009,Burnley,12,12,24,26
+2010-02-06,Sunderland_Wigan_2009,Sunderland,12,12,24,26
+2010-02-06,Hull_Man City_2009,Hull,13,12,25,26
+2010-02-06,Hull_Man City_2009,Man City,11,12,23,26
+2010-02-06,Tottenham_Aston Villa_2009,Aston Villa,12,12,24,26
+2010-02-06,Stoke_Blackburn_2009,Stoke,12,11,23,26
+2010-02-06,Man United_Portsmouth_2009,Portsmouth,11,13,24,26
+2010-02-06,Bolton_Fulham_2009,Fulham,12,13,25,26
+2010-02-06,Burnley_West Ham_2009,West Ham,11,13,24,26
+2010-02-06,Liverpool_Everton_2009,Everton,12,12,24,26
+2010-02-07,Birmingham_Wolves_2009,Wolves,12,12,24,26
+2010-02-07,Chelsea_Arsenal_2009,Chelsea,13,12,25,26
+2010-02-07,Birmingham_Wolves_2009,Birmingham,13,11,24,26
+2010-02-07,Chelsea_Arsenal_2009,Arsenal,12,13,25,26
+2010-02-09,Portsmouth_Sunderland_2009,Sunderland,12,13,25,27
+2010-02-09,Fulham_Burnley_2009,Fulham,13,13,26,27
+2010-02-09,Portsmouth_Sunderland_2009,Portsmouth,12,13,25,27
+2010-02-09,Man City_Bolton_2009,Bolton,13,11,24,27
+2010-02-09,Wigan_Stoke_2009,Stoke,12,12,24,27
+2010-02-09,Man City_Bolton_2009,Man City,12,12,24,27
+2010-02-09,Wigan_Stoke_2009,Wigan,11,13,24,27
+2010-02-09,Fulham_Burnley_2009,Burnley,12,13,25,27
+2010-02-10,Wolves_Tottenham_2009,Wolves,13,12,25,27
+2010-02-10,Blackburn_Hull_2009,Blackburn,13,13,26,27
+2010-02-10,Blackburn_Hull_2009,Hull,13,13,26,27
+2010-02-10,Aston Villa_Man United_2009,Man United,13,13,26,27
+2010-02-10,Arsenal_Liverpool_2009,Liverpool,13,13,26,27
+2010-02-10,Aston Villa_Man United_2009,Aston Villa,13,12,25,27
+2010-02-10,Arsenal_Liverpool_2009,Arsenal,13,13,26,27
+2010-02-10,Wolves_Tottenham_2009,Tottenham,13,13,26,27
+2010-02-10,Everton_Chelsea_2009,Chelsea,13,13,26,27
+2010-02-10,West Ham_Birmingham_2009,West Ham,12,13,25,27
+2010-02-10,West Ham_Birmingham_2009,Birmingham,13,12,25,27
+2010-02-10,Everton_Chelsea_2009,Everton,13,12,25,27
+2010-02-16,Stoke_Man City_2009,Man City,12,13,25,28
+2010-02-16,Stoke_Man City_2009,Stoke,13,12,25,28
+2010-02-17,Wigan_Bolton_2009,Wigan,12,13,25,28
+2010-02-17,Wigan_Bolton_2009,Bolton,13,12,25,28
+2010-02-20,West Ham_Hull_2009,West Ham,13,13,26,28
+2010-02-20,Wolves_Chelsea_2009,Wolves,14,12,26,28
+2010-02-20,Arsenal_Sunderland_2009,Arsenal,14,13,27,28
+2010-02-20,Arsenal_Sunderland_2009,Sunderland,12,14,26,28
+2010-02-20,Portsmouth_Stoke_2009,Portsmouth,13,13,26,28
+2010-02-20,Wolves_Chelsea_2009,Chelsea,13,14,27,28
+2010-02-20,Portsmouth_Stoke_2009,Stoke,13,13,26,28
+2010-02-20,Everton_Man United_2009,Man United,13,14,27,28
+2010-02-20,West Ham_Hull_2009,Hull,13,14,27,28
+2010-02-20,Everton_Man United_2009,Everton,14,12,26,28
+2010-02-21,Man City_Liverpool_2009,Liverpool,13,14,27,28
+2010-02-21,Fulham_Birmingham_2009,Birmingham,13,13,26,28
+2010-02-21,Aston Villa_Burnley_2009,Aston Villa,14,12,26,28
+2010-02-21,Man City_Liverpool_2009,Man City,13,13,26,28
+2010-02-21,Wigan_Tottenham_2009,Wigan,13,13,26,28
+2010-02-21,Fulham_Birmingham_2009,Fulham,14,13,27,28
+2010-02-21,Aston Villa_Burnley_2009,Burnley,12,14,26,28
+2010-02-21,Wigan_Tottenham_2009,Tottenham,13,14,27,28
+2010-02-21,Blackburn_Bolton_2009,Blackburn,14,13,27,28
+2010-02-21,Blackburn_Bolton_2009,Bolton,13,13,26,28
+2010-02-23,Man United_West Ham_2009,West Ham,13,14,27,29
+2010-02-23,Man United_West Ham_2009,Man United,14,14,28,29
+2010-02-27,Bolton_Wolves_2009,Bolton,14,13,27,29
+2010-02-27,Burnley_Portsmouth_2009,Burnley,13,14,27,29
+2010-02-27,Chelsea_Man City_2009,Chelsea,14,14,28,29
+2010-02-27,Stoke_Arsenal_2009,Stoke,14,13,27,29
+2010-02-27,Stoke_Arsenal_2009,Arsenal,14,14,28,29
+2010-02-27,Birmingham_Wigan_2009,Birmingham,14,13,27,29
+2010-02-27,Chelsea_Man City_2009,Man City,13,14,27,29
+2010-02-27,Burnley_Portsmouth_2009,Portsmouth,13,14,27,29
+2010-02-27,Birmingham_Wigan_2009,Wigan,13,14,27,29
+2010-02-27,Bolton_Wolves_2009,Wolves,14,13,27,29
+2010-02-28,Tottenham_Everton_2009,Tottenham,14,14,28,29
+2010-02-28,Tottenham_Everton_2009,Everton,14,13,27,29
+2010-02-28,Sunderland_Fulham_2009,Fulham,14,14,28,29
+2010-02-28,Sunderland_Fulham_2009,Sunderland,13,14,27,29
+2010-02-28,Liverpool_Blackburn_2009,Blackburn,14,14,28,29
+2010-02-28,Liverpool_Blackburn_2009,Liverpool,14,14,28,29
+2010-03-06,Wolves_Man United_2009,Man United,14,15,29,30
+2010-03-06,West Ham_Bolton_2009,West Ham,14,14,28,30
+2010-03-06,Arsenal_Burnley_2009,Burnley,13,15,28,30
+2010-03-06,Arsenal_Burnley_2009,Arsenal,15,14,29,30
+2010-03-06,West Ham_Bolton_2009,Bolton,14,14,28,30
+2010-03-06,Wolves_Man United_2009,Wolves,15,13,28,30
+2010-03-07,Everton_Hull_2009,Everton,15,13,28,30
+2010-03-07,Everton_Hull_2009,Hull,13,15,28,30
+2010-03-08,Wigan_Liverpool_2009,Wigan,14,14,28,30
+2010-03-08,Wigan_Liverpool_2009,Liverpool,14,15,29,30
+2010-03-09,Portsmouth_Birmingham_2009,Portsmouth,14,14,28,31
+2010-03-09,Portsmouth_Birmingham_2009,Birmingham,14,14,28,31
+2010-03-09,Sunderland_Bolton_2009,Sunderland,14,14,28,31
+2010-03-09,Sunderland_Bolton_2009,Bolton,14,15,29,31
+2010-03-10,Burnley_Stoke_2009,Burnley,14,15,29,31
+2010-03-10,Burnley_Stoke_2009,Stoke,14,14,28,31
+2010-03-13,Tottenham_Blackburn_2009,Tottenham,15,14,29,31
+2010-03-13,Birmingham_Everton_2009,Everton,15,14,29,31
+2010-03-13,Chelsea_West Ham_2009,West Ham,14,15,29,31
+2010-03-13,Birmingham_Everton_2009,Birmingham,15,14,29,31
+2010-03-13,Hull_Arsenal_2009,Arsenal,15,15,30,31
+2010-03-13,Tottenham_Blackburn_2009,Blackburn,14,15,29,31
+2010-03-13,Hull_Arsenal_2009,Hull,14,15,29,31
+2010-03-13,Stoke_Aston Villa_2009,Aston Villa,14,13,27,31
+2010-03-13,Bolton_Wigan_2009,Wigan,14,15,29,31
+2010-03-13,Bolton_Wigan_2009,Bolton,15,15,30,31
+2010-03-13,Chelsea_West Ham_2009,Chelsea,15,14,29,31
+2010-03-13,Burnley_Wolves_2009,Burnley,15,15,30,31
+2010-03-13,Stoke_Aston Villa_2009,Stoke,15,14,29,31
+2010-03-13,Burnley_Wolves_2009,Wolves,15,14,29,31
+2010-03-14,Man United_Fulham_2009,Fulham,14,15,29,31
+2010-03-14,Sunderland_Man City_2009,Man City,13,15,28,31
+2010-03-14,Man United_Fulham_2009,Man United,15,15,30,31
+2010-03-14,Sunderland_Man City_2009,Sunderland,15,14,29,31
+2010-03-15,Liverpool_Portsmouth_2009,Liverpool,15,15,30,31
+2010-03-15,Liverpool_Portsmouth_2009,Portsmouth,14,15,29,31
+2010-03-16,Wigan_Aston Villa_2009,Wigan,15,15,30,32
+2010-03-16,Wigan_Aston Villa_2009,Aston Villa,14,14,28,32
+2010-03-20,Everton_Bolton_2009,Bolton,15,16,31,32
+2010-03-20,Stoke_Tottenham_2009,Tottenham,15,15,30,32
+2010-03-20,Portsmouth_Hull_2009,Portsmouth,15,15,30,32
+2010-03-20,Sunderland_Birmingham_2009,Sunderland,16,14,30,32
+2010-03-20,Wigan_Burnley_2009,Wigan,16,15,31,32
+2010-03-20,Portsmouth_Hull_2009,Hull,14,16,30,32
+2010-03-20,Arsenal_West Ham_2009,West Ham,14,16,30,32
+2010-03-20,Stoke_Tottenham_2009,Stoke,16,14,30,32
+2010-03-20,Aston Villa_Wolves_2009,Aston Villa,15,14,29,32
+2010-03-20,Everton_Bolton_2009,Everton,16,14,30,32
+2010-03-20,Wigan_Burnley_2009,Burnley,15,16,31,32
+2010-03-20,Arsenal_West Ham_2009,Arsenal,16,15,31,32
+2010-03-20,Aston Villa_Wolves_2009,Wolves,15,15,30,32
+2010-03-20,Sunderland_Birmingham_2009,Birmingham,15,15,30,32
+2010-03-21,Blackburn_Chelsea_2009,Chelsea,15,15,30,32
+2010-03-21,Fulham_Man City_2009,Fulham,15,15,30,32
+2010-03-21,Man United_Liverpool_2009,Man United,16,15,31,32
+2010-03-21,Man United_Liverpool_2009,Liverpool,15,16,31,32
+2010-03-21,Fulham_Man City_2009,Man City,13,16,29,32
+2010-03-21,Blackburn_Chelsea_2009,Blackburn,15,15,30,32
+2010-03-23,West Ham_Wolves_2009,West Ham,15,16,31,33
+2010-03-23,West Ham_Wolves_2009,Wolves,15,16,31,33
+2010-03-24,Portsmouth_Chelsea_2009,Chelsea,15,16,31,33
+2010-03-24,Man City_Everton_2009,Everton,16,15,31,33
+2010-03-24,Man City_Everton_2009,Man City,14,16,30,33
+2010-03-24,Blackburn_Birmingham_2009,Birmingham,15,16,31,33
+2010-03-24,Portsmouth_Chelsea_2009,Portsmouth,16,15,31,33
+2010-03-24,Aston Villa_Sunderland_2009,Sunderland,16,15,31,33
+2010-03-24,Blackburn_Birmingham_2009,Blackburn,16,15,31,33
+2010-03-24,Aston Villa_Sunderland_2009,Aston Villa,16,14,30,33
+2010-03-27,West Ham_Stoke_2009,West Ham,16,16,32,33
+2010-03-27,Bolton_Man United_2009,Man United,16,16,32,33
+2010-03-27,Birmingham_Arsenal_2009,Arsenal,16,16,32,33
+2010-03-27,Tottenham_Portsmouth_2009,Tottenham,16,15,31,33
+2010-03-27,Birmingham_Arsenal_2009,Birmingham,16,16,32,33
+2010-03-27,Hull_Fulham_2009,Hull,15,16,31,33
+2010-03-27,Chelsea_Aston Villa_2009,Chelsea,16,16,32,33
+2010-03-27,Bolton_Man United_2009,Bolton,16,16,32,33
+2010-03-27,West Ham_Stoke_2009,Stoke,16,15,31,33
+2010-03-27,Hull_Fulham_2009,Fulham,15,16,31,33
+2010-03-27,Wolves_Everton_2009,Everton,16,16,32,33
+2010-03-27,Wolves_Everton_2009,Wolves,16,16,32,33
+2010-03-27,Tottenham_Portsmouth_2009,Portsmouth,16,16,32,33
+2010-03-27,Chelsea_Aston Villa_2009,Aston Villa,16,15,31,33
+2010-03-28,Liverpool_Sunderland_2009,Sunderland,16,16,32,33
+2010-03-28,Burnley_Blackburn_2009,Burnley,16,16,32,33
+2010-03-28,Liverpool_Sunderland_2009,Liverpool,16,16,32,33
+2010-03-28,Burnley_Blackburn_2009,Blackburn,16,16,32,33
+2010-03-29,Man City_Wigan_2009,Man City,15,16,31,33
+2010-03-29,Man City_Wigan_2009,Wigan,16,16,32,33
+2010-04-03,Arsenal_Wolves_2009,Wolves,16,17,33,34
+2010-04-03,Burnley_Man City_2009,Man City,15,17,32,34
+2010-04-03,Portsmouth_Blackburn_2009,Portsmouth,17,16,33,34
+2010-04-03,Bolton_Aston Villa_2009,Bolton,17,16,33,34
+2010-04-03,Stoke_Hull_2009,Hull,15,17,32,34
+2010-04-03,Burnley_Man City_2009,Burnley,17,16,33,34
+2010-04-03,Sunderland_Tottenham_2009,Tottenham,16,16,32,34
+2010-04-03,Arsenal_Wolves_2009,Arsenal,17,16,33,34
+2010-04-03,Portsmouth_Blackburn_2009,Blackburn,16,17,33,34
+2010-04-03,Stoke_Hull_2009,Stoke,17,15,32,34
+2010-04-03,Man United_Chelsea_2009,Man United,17,16,33,34
+2010-04-03,Sunderland_Tottenham_2009,Sunderland,17,16,33,34
+2010-04-03,Bolton_Aston Villa_2009,Aston Villa,16,16,32,34
+2010-04-03,Man United_Chelsea_2009,Chelsea,16,17,33,34
+2010-04-04,Everton_West Ham_2009,West Ham,16,17,33,34
+2010-04-04,Everton_West Ham_2009,Everton,17,16,33,34
+2010-04-04,Birmingham_Liverpool_2009,Birmingham,17,16,33,34
+2010-04-04,Birmingham_Liverpool_2009,Liverpool,16,17,33,34
+2010-04-04,Fulham_Wigan_2009,Fulham,16,16,32,34
+2010-04-04,Fulham_Wigan_2009,Wigan,16,17,33,34
+2010-04-10,West Ham_Sunderland_2009,Sunderland,17,17,34,35
+2010-04-10,Hull_Burnley_2009,Hull,16,17,33,35
+2010-04-10,Hull_Burnley_2009,Burnley,17,17,34,35
+2010-04-10,West Ham_Sunderland_2009,West Ham,17,17,34,35
+2010-04-11,Man City_Birmingham_2009,Birmingham,17,17,34,35
+2010-04-11,Blackburn_Man United_2009,Blackburn,17,17,34,35
+2010-04-11,Blackburn_Man United_2009,Man United,17,17,34,35
+2010-04-11,Liverpool_Fulham_2009,Fulham,16,17,33,35
+2010-04-11,Liverpool_Fulham_2009,Liverpool,17,17,34,35
+2010-04-11,Wolves_Stoke_2009,Stoke,17,16,33,35
+2010-04-11,Wolves_Stoke_2009,Wolves,17,17,34,35
+2010-04-11,Man City_Birmingham_2009,Man City,16,17,33,35
+2010-04-13,Chelsea_Bolton_2009,Bolton,17,17,34,36
+2010-04-13,Chelsea_Bolton_2009,Chelsea,17,17,34,36
+2010-04-14,Wigan_Portsmouth_2009,Wigan,17,17,34,36
+2010-04-14,Aston Villa_Everton_2009,Everton,17,17,34,36
+2010-04-14,Wigan_Portsmouth_2009,Portsmouth,17,17,34,36
+2010-04-14,Tottenham_Arsenal_2009,Arsenal,17,17,34,36
+2010-04-14,Aston Villa_Everton_2009,Aston Villa,17,16,33,36
+2010-04-14,Tottenham_Arsenal_2009,Tottenham,17,16,33,36
+2010-04-17,Fulham_Wolves_2009,Fulham,17,17,34,36
+2010-04-17,Tottenham_Chelsea_2009,Tottenham,18,16,34,36
+2010-04-17,Tottenham_Chelsea_2009,Chelsea,17,18,35,36
+2010-04-17,Stoke_Bolton_2009,Bolton,17,18,35,36
+2010-04-17,Sunderland_Burnley_2009,Sunderland,18,17,35,36
+2010-04-17,Birmingham_Hull_2009,Hull,16,18,34,36
+2010-04-17,Fulham_Wolves_2009,Wolves,17,18,35,36
+2010-04-17,Birmingham_Hull_2009,Birmingham,18,17,35,36
+2010-04-17,Stoke_Bolton_2009,Stoke,18,16,34,36
+2010-04-17,Blackburn_Everton_2009,Blackburn,18,17,35,36
+2010-04-17,Blackburn_Everton_2009,Everton,17,18,35,36
+2010-04-17,Man City_Man United_2009,Man United,17,18,35,36
+2010-04-17,Man City_Man United_2009,Man City,17,17,34,36
+2010-04-17,Sunderland_Burnley_2009,Burnley,17,18,35,36
+2010-04-18,Portsmouth_Aston Villa_2009,Aston Villa,17,17,34,36
+2010-04-18,Wigan_Arsenal_2009,Arsenal,17,18,35,36
+2010-04-18,Portsmouth_Aston Villa_2009,Portsmouth,18,17,35,36
+2010-04-18,Wigan_Arsenal_2009,Wigan,18,17,35,36
+2010-04-19,Liverpool_West Ham_2009,Liverpool,18,17,35,36
+2010-04-19,Liverpool_West Ham_2009,West Ham,17,18,35,36
+2010-04-21,Hull_Aston Villa_2009,Hull,17,18,35,37
+2010-04-21,Hull_Aston Villa_2009,Aston Villa,17,18,35,37
+2010-04-24,West Ham_Wigan_2009,Wigan,18,18,36,37
+2010-04-24,Hull_Sunderland_2009,Sunderland,18,18,36,37
+2010-04-24,Bolton_Portsmouth_2009,Portsmouth,18,18,36,37
+2010-04-24,West Ham_Wigan_2009,West Ham,18,18,36,37
+2010-04-24,Arsenal_Man City_2009,Man City,17,18,35,37
+2010-04-24,Hull_Sunderland_2009,Hull,18,18,36,37
+2010-04-24,Bolton_Portsmouth_2009,Bolton,18,18,36,37
+2010-04-24,Man United_Tottenham_2009,Man United,18,18,36,37
+2010-04-24,Wolves_Blackburn_2009,Blackburn,18,18,36,37
+2010-04-24,Man United_Tottenham_2009,Tottenham,18,17,35,37
+2010-04-24,Wolves_Blackburn_2009,Wolves,18,18,36,37
+2010-04-24,Arsenal_Man City_2009,Arsenal,18,18,36,37
+2010-04-25,Burnley_Liverpool_2009,Burnley,18,18,36,37
+2010-04-25,Everton_Fulham_2009,Everton,18,18,36,37
+2010-04-25,Burnley_Liverpool_2009,Liverpool,18,18,36,37
+2010-04-25,Chelsea_Stoke_2009,Stoke,18,17,35,37
+2010-04-25,Chelsea_Stoke_2009,Chelsea,18,18,36,37
+2010-04-25,Aston Villa_Birmingham_2009,Aston Villa,18,18,36,37
+2010-04-25,Everton_Fulham_2009,Fulham,17,18,35,37
+2010-04-25,Aston Villa_Birmingham_2009,Birmingham,18,18,36,37
+2010-05-01,Portsmouth_Wolves_2009,Wolves,18,19,37,38
+2010-05-01,Birmingham_Burnley_2009,Burnley,18,19,37,38
+2010-05-01,Man City_Aston Villa_2009,Aston Villa,18,19,37,38
+2010-05-01,Tottenham_Bolton_2009,Bolton,18,19,37,38
+2010-05-01,Birmingham_Burnley_2009,Birmingham,19,18,37,38
+2010-05-01,Stoke_Everton_2009,Stoke,19,17,36,38
+2010-05-01,Man City_Aston Villa_2009,Man City,18,18,36,38
+2010-05-01,Portsmouth_Wolves_2009,Portsmouth,19,18,37,38
+2010-05-01,Tottenham_Bolton_2009,Tottenham,19,17,36,38
+2010-05-01,Stoke_Everton_2009,Everton,18,19,37,38
+2010-05-02,Fulham_West Ham_2009,West Ham,18,19,37,38
+2010-05-02,Liverpool_Chelsea_2009,Chelsea,18,19,37,38
+2010-05-02,Fulham_West Ham_2009,Fulham,18,18,36,38
+2010-05-02,Sunderland_Man United_2009,Sunderland,19,18,37,38
+2010-05-02,Sunderland_Man United_2009,Man United,18,19,37,38
+2010-05-02,Liverpool_Chelsea_2009,Liverpool,19,18,37,38
+2010-05-03,Blackburn_Arsenal_2009,Arsenal,18,19,37,38
+2010-05-03,Wigan_Hull_2009,Hull,18,19,37,38
+2010-05-03,Blackburn_Arsenal_2009,Blackburn,19,18,37,38
+2010-05-03,Wigan_Hull_2009,Wigan,19,18,37,38
+2010-05-05,Fulham_Stoke_2009,Fulham,19,18,37,39
+2010-05-05,Fulham_Stoke_2009,Stoke,19,18,37,39
+2010-05-05,Man City_Tottenham_2009,Tottenham,19,18,37,39
+2010-05-05,Man City_Tottenham_2009,Man City,19,18,37,39
+2010-05-09,Burnley_Tottenham_2009,Tottenham,19,19,38,39
+2010-05-09,Wolves_Sunderland_2009,Sunderland,19,19,38,39
+2010-05-09,West Ham_Man City_2009,Man City,19,19,38,39
+2010-05-09,Arsenal_Fulham_2009,Arsenal,19,19,38,39
+2010-05-09,Chelsea_Wigan_2009,Wigan,19,19,38,39
+2010-05-09,Everton_Portsmouth_2009,Everton,19,19,38,39
+2010-05-09,Bolton_Birmingham_2009,Birmingham,19,19,38,39
+2010-05-09,Man United_Stoke_2009,Man United,19,19,38,39
+2010-05-09,Hull_Liverpool_2009,Liverpool,19,19,38,39
+2010-05-09,Bolton_Birmingham_2009,Bolton,19,19,38,39
+2010-05-09,Chelsea_Wigan_2009,Chelsea,19,19,38,39
+2010-05-09,Man United_Stoke_2009,Stoke,19,19,38,39
+2010-05-09,Arsenal_Fulham_2009,Fulham,19,19,38,39
+2010-05-09,Aston Villa_Blackburn_2009,Aston Villa,19,19,38,39
+2010-05-09,Everton_Portsmouth_2009,Portsmouth,19,19,38,39
+2010-05-09,West Ham_Man City_2009,West Ham,19,19,38,39
+2010-05-09,Burnley_Tottenham_2009,Burnley,19,19,38,39
+2010-05-09,Aston Villa_Blackburn_2009,Blackburn,19,19,38,39
+2010-05-09,Hull_Liverpool_2009,Hull,19,19,38,39
+2010-05-09,Wolves_Sunderland_2009,Wolves,19,19,38,39

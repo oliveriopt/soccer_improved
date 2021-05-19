@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2017-08-18,Leganes_Alaves_2017,Alaves,1,1,1,1
+2017-08-18,Valencia_Las Palmas_2017,Las Palmas,1,1,1,1
+2017-08-18,Valencia_Las Palmas_2017,Valencia,1,1,1,1
+2017-08-18,Leganes_Alaves_2017,Leganes,1,1,1,1
+2017-08-19,Girona_Ath Madrid_2017,Ath Madrid,1,1,1,1
+2017-08-19,Celta_Sociedad_2017,Sociedad,1,1,1,1
+2017-08-19,Celta_Sociedad_2017,Celta,1,1,1,1
+2017-08-19,Sevilla_Espanol_2017,Espanol,1,1,1,1
+2017-08-19,Sevilla_Espanol_2017,Sevilla,1,1,1,1
+2017-08-19,Girona_Ath Madrid_2017,Girona,1,1,1,1
+2017-08-20,Ath Bilbao_Getafe_2017,Getafe,1,1,1,1
+2017-08-20,Barcelona_Betis_2017,Barcelona,1,1,1,1
+2017-08-20,Barcelona_Betis_2017,Betis,1,1,1,1
+2017-08-20,La Coruna_Real Madrid_2017,La Coruna,1,1,1,1
+2017-08-20,Ath Bilbao_Getafe_2017,Ath Bilbao,1,1,1,1
+2017-08-20,La Coruna_Real Madrid_2017,Real Madrid,1,1,1,1
+2017-08-21,Malaga_Eibar_2017,Eibar,1,1,1,1
+2017-08-21,Malaga_Eibar_2017,Malaga,1,1,1,1
+2017-08-21,Levante_Villarreal_2017,Levante,1,1,1,1
+2017-08-21,Levante_Villarreal_2017,Villarreal,1,1,1,1
+2017-08-25,Sociedad_Villarreal_2017,Villarreal,1,2,2,2
+2017-08-25,Sociedad_Villarreal_2017,Sociedad,1,1,2,2
+2017-08-25,Betis_Celta_2017,Betis,1,1,2,2
+2017-08-25,Betis_Celta_2017,Celta,1,1,2,2
+2017-08-26,Las Palmas_Ath Madrid_2017,Las Palmas,1,1,2,2
+2017-08-26,Levante_La Coruna_2017,La Coruna,1,1,2,2
+2017-08-26,Las Palmas_Ath Madrid_2017,Ath Madrid,1,2,2,2
+2017-08-26,Girona_Malaga_2017,Girona,2,1,2,2
+2017-08-26,Alaves_Barcelona_2017,Barcelona,1,1,2,2
+2017-08-26,Girona_Malaga_2017,Malaga,1,1,2,2
+2017-08-26,Alaves_Barcelona_2017,Alaves,1,1,2,2
+2017-08-26,Levante_La Coruna_2017,Levante,2,1,2,2
+2017-08-27,Eibar_Ath Bilbao_2017,Ath Bilbao,1,1,2,2
+2017-08-27,Real Madrid_Valencia_2017,Valencia,1,1,2,2
+2017-08-27,Eibar_Ath Bilbao_2017,Eibar,1,1,2,2
+2017-08-27,Espanol_Leganes_2017,Leganes,1,1,2,2
+2017-08-27,Getafe_Sevilla_2017,Getafe,1,1,2,2
+2017-08-27,Real Madrid_Valencia_2017,Real Madrid,1,1,2,2
+2017-08-27,Espanol_Leganes_2017,Espanol,1,1,2,2
+2017-08-27,Getafe_Sevilla_2017,Sevilla,1,1,2,2
+2017-09-08,Leganes_Getafe_2017,Leganes,2,1,3,4
+2017-09-08,Leganes_Getafe_2017,Getafe,1,2,3,4
+2017-09-09,Barcelona_Espanol_2017,Espanol,1,2,3,4
+2017-09-09,Valencia_Ath Madrid_2017,Ath Madrid,1,3,3,4
+2017-09-09,Sevilla_Eibar_2017,Sevilla,2,1,3,4
+2017-09-09,Real Madrid_Levante_2017,Levante,2,1,3,4
+2017-09-09,Real Madrid_Levante_2017,Real Madrid,2,1,3,4
+2017-09-09,Sevilla_Eibar_2017,Eibar,1,2,3,4
+2017-09-09,Barcelona_Espanol_2017,Barcelona,2,1,3,4
+2017-09-09,Valencia_Ath Madrid_2017,Valencia,2,1,3,4
+2017-09-10,Villarreal_Betis_2017,Villarreal,1,2,3,4
+2017-09-10,Celta_Alaves_2017,Alaves,1,2,3,4
+2017-09-10,Celta_Alaves_2017,Celta,2,1,3,4
+2017-09-10,Ath Bilbao_Girona_2017,Ath Bilbao,2,1,3,4
+2017-09-10,La Coruna_Sociedad_2017,Sociedad,1,2,3,4
+2017-09-10,Villarreal_Betis_2017,Betis,1,2,3,4
+2017-09-10,La Coruna_Sociedad_2017,La Coruna,2,1,3,4
+2017-09-10,Ath Bilbao_Girona_2017,Girona,2,1,3,4
+2017-09-11,Malaga_Las Palmas_2017,Las Palmas,1,2,3,4
+2017-09-11,Malaga_Las Palmas_2017,Malaga,2,1,3,4
+2017-09-15,Eibar_Leganes_2017,Eibar,2,2,4,5
+2017-09-15,Eibar_Leganes_2017,Leganes,2,2,4,5
+2017-09-16,Ath Madrid_Malaga_2017,Ath Madrid,1,3,4,5
+2017-09-16,Levante_Valencia_2017,Valencia,2,2,4,5
+2017-09-16,Betis_La Coruna_2017,Betis,2,2,4,5
+2017-09-16,Levante_Valencia_2017,Levante,3,1,4,5
+2017-09-16,Getafe_Barcelona_2017,Barcelona,2,2,4,5
+2017-09-16,Ath Madrid_Malaga_2017,Malaga,2,2,4,5
+2017-09-16,Getafe_Barcelona_2017,Getafe,2,2,4,5
+2017-09-16,Betis_La Coruna_2017,La Coruna,2,2,4,5
+2017-09-17,Las Palmas_Ath Bilbao_2017,Las Palmas,2,2,4,5
+2017-09-17,Alaves_Villarreal_2017,Alaves,2,2,4,5
+2017-09-17,Girona_Sevilla_2017,Girona,3,1,4,5
+2017-09-17,Girona_Sevilla_2017,Sevilla,2,2,4,5
+2017-09-17,Alaves_Villarreal_2017,Villarreal,1,3,4,5
+2017-09-17,Sociedad_Real Madrid_2017,Sociedad,2,2,4,5
+2017-09-17,Las Palmas_Ath Bilbao_2017,Ath Bilbao,2,2,4,5
+2017-09-17,Sociedad_Real Madrid_2017,Real Madrid,2,2,4,5
+2017-09-18,Espanol_Celta_2017,Espanol,2,2,4,5
+2017-09-18,Espanol_Celta_2017,Celta,2,2,4,5
+2017-09-19,Valencia_Malaga_2017,Valencia,3,2,5,6
+2017-09-19,Barcelona_Eibar_2017,Barcelona,3,2,5,6
+2017-09-19,Valencia_Malaga_2017,Malaga,2,3,5,6
+2017-09-19,Barcelona_Eibar_2017,Eibar,2,3,5,6
+2017-09-20,La Coruna_Alaves_2017,Alaves,2,3,5,6
+2017-09-20,Real Madrid_Betis_2017,Betis,2,3,5,6
+2017-09-20,Leganes_Girona_2017,Girona,3,2,5,6
+2017-09-20,Ath Bilbao_Ath Madrid_2017,Ath Bilbao,3,2,5,6
+2017-09-20,Sevilla_Las Palmas_2017,Las Palmas,2,3,5,6
+2017-09-20,La Coruna_Alaves_2017,La Coruna,3,2,5,6
+2017-09-20,Leganes_Girona_2017,Leganes,3,2,5,6
+2017-09-20,Real Madrid_Betis_2017,Real Madrid,3,2,5,6
+2017-09-20,Ath Bilbao_Ath Madrid_2017,Ath Madrid,1,4,5,6
+2017-09-20,Sevilla_Las Palmas_2017,Sevilla,3,2,5,6
+2017-09-21,Levante_Sociedad_2017,Levante,4,1,5,6
+2017-09-21,Celta_Getafe_2017,Getafe,2,3,5,6
+2017-09-21,Villarreal_Espanol_2017,Espanol,2,3,5,6
+2017-09-21,Villarreal_Espanol_2017,Villarreal,2,3,5,6
+2017-09-21,Levante_Sociedad_2017,Sociedad,2,3,5,6
+2017-09-21,Celta_Getafe_2017,Celta,3,2,5,6
+2017-09-23,Girona_Barcelona_2017,Barcelona,3,3,6,6
+2017-09-23,Malaga_Ath Bilbao_2017,Ath Bilbao,3,3,6,6
+2017-09-23,Girona_Barcelona_2017,Girona,4,2,6,6
+2017-09-23,Alaves_Real Madrid_2017,Real Madrid,3,3,6,6
+2017-09-23,Alaves_Real Madrid_2017,Alaves,3,3,6,6
+2017-09-23,Malaga_Ath Bilbao_2017,Malaga,3,3,6,6
+2017-09-23,Ath Madrid_Sevilla_2017,Ath Madrid,2,4,6,6
+2017-09-23,Ath Madrid_Sevilla_2017,Sevilla,3,3,6,6
+2017-09-24,Getafe_Villarreal_2017,Getafe,3,3,6,6
+2017-09-24,Getafe_Villarreal_2017,Villarreal,2,4,6,6
+2017-09-24,Eibar_Celta_2017,Eibar,3,3,6,6
+2017-09-24,Espanol_La Coruna_2017,La Coruna,3,3,6,6
+2017-09-24,Sociedad_Valencia_2017,Valencia,3,3,6,6
+2017-09-24,Espanol_La Coruna_2017,Espanol,3,3,6,6
+2017-09-24,Eibar_Celta_2017,Celta,3,3,6,6
+2017-09-24,Las Palmas_Leganes_2017,Leganes,3,3,6,6
+2017-09-24,Sociedad_Valencia_2017,Sociedad,3,3,6,6
+2017-09-24,Las Palmas_Leganes_2017,Las Palmas,3,3,6,6
+2017-09-25,Betis_Levante_2017,Levante,4,2,6,6
+2017-09-25,Betis_Levante_2017,Betis,3,3,6,6
+2017-09-29,Celta_Girona_2017,Celta,4,3,7,7
+2017-09-29,Celta_Girona_2017,Girona,4,3,7,7
+2017-09-30,Sevilla_Malaga_2017,Sevilla,4,3,7,7
+2017-09-30,Levante_Alaves_2017,Levante,5,2,7,7
+2017-09-30,La Coruna_Getafe_2017,Getafe,3,4,7,7
+2017-09-30,Leganes_Ath Madrid_2017,Ath Madrid,2,5,7,7
+2017-09-30,Leganes_Ath Madrid_2017,Leganes,4,3,7,7
+2017-09-30,Sevilla_Malaga_2017,Malaga,3,4,7,7
+2017-09-30,La Coruna_Getafe_2017,La Coruna,4,3,7,7
+2017-09-30,Levante_Alaves_2017,Alaves,3,4,7,7
+2017-10-01,Valencia_Ath Bilbao_2017,Valencia,4,3,7,7
+2017-10-01,Barcelona_Las Palmas_2017,Barcelona,4,3,7,7
+2017-10-01,Villarreal_Eibar_2017,Villarreal,3,4,7,7
+2017-10-01,Real Madrid_Espanol_2017,Real Madrid,4,3,7,7
+2017-10-01,Real Madrid_Espanol_2017,Espanol,3,4,7,7
+2017-10-01,Villarreal_Eibar_2017,Eibar,3,4,7,7
+2017-10-01,Barcelona_Las Palmas_2017,Las Palmas,3,4,7,7
+2017-10-01,Sociedad_Betis_2017,Betis,3,4,7,7
+2017-10-01,Valencia_Ath Bilbao_2017,Ath Bilbao,3,4,7,7
+2017-10-01,Sociedad_Betis_2017,Sociedad,4,3,7,7
+2017-10-13,Espanol_Levante_2017,Levante,5,3,8,9
+2017-10-13,Espanol_Levante_2017,Espanol,4,4,8,9
+2017-10-14,Getafe_Real Madrid_2017,Getafe,4,4,8,9
+2017-10-14,Ath Bilbao_Sevilla_2017,Ath Bilbao,4,4,8,9
+2017-10-14,Alaves_Sociedad_2017,Sociedad,4,4,8,9
+2017-10-14,Ath Bilbao_Sevilla_2017,Sevilla,4,4,8,9
+2017-10-14,Getafe_Real Madrid_2017,Real Madrid,4,4,8,9
+2017-10-14,Alaves_Sociedad_2017,Alaves,4,4,8,9
+2017-10-14,Ath Madrid_Barcelona_2017,Barcelona,4,4,8,9
+2017-10-14,Ath Madrid_Barcelona_2017,Ath Madrid,3,5,8,9
+2017-10-15,Girona_Villarreal_2017,Villarreal,3,5,8,9
+2017-10-15,Betis_Valencia_2017,Valencia,4,4,8,9
+2017-10-15,Malaga_Leganes_2017,Malaga,4,4,8,9
+2017-10-15,Betis_Valencia_2017,Betis,4,4,8,9
+2017-10-15,Malaga_Leganes_2017,Leganes,4,4,8,9
+2017-10-15,Girona_Villarreal_2017,Girona,5,3,8,9
+2017-10-15,Eibar_La Coruna_2017,La Coruna,4,4,8,9
+2017-10-15,Eibar_La Coruna_2017,Eibar,4,4,8,9
+2017-10-16,Las Palmas_Celta_2017,Celta,4,4,8,9
+2017-10-16,Las Palmas_Celta_2017,Las Palmas,4,4,8,9
+2017-10-21,Levante_Getafe_2017,Levante,6,3,9,10
+2017-10-21,Levante_Getafe_2017,Getafe,4,5,9,10
+2017-10-21,Barcelona_Malaga_2017,Malaga,4,5,9,10
+2017-10-21,Betis_Alaves_2017,Alaves,4,5,9,10
+2017-10-21,Barcelona_Malaga_2017,Barcelona,5,4,9,10
+2017-10-21,Valencia_Sevilla_2017,Sevilla,4,5,9,10
+2017-10-21,Valencia_Sevilla_2017,Valencia,5,4,9,10
+2017-10-21,Betis_Alaves_2017,Betis,5,4,9,10
+2017-10-22,Villarreal_Las Palmas_2017,Villarreal,4,5,9,10
+2017-10-22,Real Madrid_Eibar_2017,Real Madrid,5,4,9,10
+2017-10-22,Celta_Ath Madrid_2017,Celta,5,4,9,10
+2017-10-22,Villarreal_Las Palmas_2017,Las Palmas,4,5,9,10
+2017-10-22,Leganes_Ath Bilbao_2017,Leganes,5,4,9,10
+2017-10-22,Real Madrid_Eibar_2017,Eibar,4,5,9,10
+2017-10-22,Celta_Ath Madrid_2017,Ath Madrid,3,6,9,10
+2017-10-22,Leganes_Ath Bilbao_2017,Ath Bilbao,4,5,9,10
+2017-10-23,La Coruna_Girona_2017,Girona,5,4,9,10
+2017-10-23,Sociedad_Espanol_2017,Espanol,4,5,9,10
+2017-10-23,La Coruna_Girona_2017,La Coruna,5,4,9,10
+2017-10-23,Sociedad_Espanol_2017,Sociedad,5,4,9,10
+2017-10-28,Sevilla_Leganes_2017,Leganes,5,5,10,11
+2017-10-28,Ath Bilbao_Barcelona_2017,Ath Bilbao,5,5,10,11
+2017-10-28,Ath Bilbao_Barcelona_2017,Barcelona,5,5,10,11
+2017-10-28,Alaves_Valencia_2017,Alaves,5,5,10,11
+2017-10-28,Ath Madrid_Villarreal_2017,Ath Madrid,4,6,10,11
+2017-10-28,Sevilla_Leganes_2017,Sevilla,5,5,10,11
+2017-10-28,Ath Madrid_Villarreal_2017,Villarreal,4,6,10,11
+2017-10-28,Alaves_Valencia_2017,Valencia,5,5,10,11
+2017-10-29,Girona_Real Madrid_2017,Real Madrid,5,5,10,11
+2017-10-29,Eibar_Levante_2017,Eibar,5,5,10,11
+2017-10-29,Getafe_Sociedad_2017,Getafe,5,5,10,11
+2017-10-29,Eibar_Levante_2017,Levante,6,4,10,11
+2017-10-29,Malaga_Celta_2017,Celta,5,5,10,11
+2017-10-29,Malaga_Celta_2017,Malaga,5,5,10,11
+2017-10-29,Girona_Real Madrid_2017,Girona,6,4,10,11
+2017-10-29,Getafe_Sociedad_2017,Sociedad,5,5,10,11
+2017-10-30,Espanol_Betis_2017,Espanol,5,5,10,11
+2017-10-30,Las Palmas_La Coruna_2017,Las Palmas,5,5,10,11
+2017-10-30,Espanol_Betis_2017,Betis,5,5,10,11
+2017-10-30,Las Palmas_La Coruna_2017,La Coruna,5,5,10,11
+2017-11-03,Betis_Getafe_2017,Betis,6,5,11,12
+2017-11-03,Betis_Getafe_2017,Getafe,5,6,11,12
+2017-11-04,Alaves_Espanol_2017,Alaves,6,5,11,12
+2017-11-04,Valencia_Leganes_2017,Valencia,6,5,11,12
+2017-11-04,Alaves_Espanol_2017,Espanol,5,6,11,12
+2017-11-04,Barcelona_Sevilla_2017,Sevilla,5,6,11,12
+2017-11-04,La Coruna_Ath Madrid_2017,La Coruna,6,5,11,12
+2017-11-04,La Coruna_Ath Madrid_2017,Ath Madrid,4,7,11,12
+2017-11-04,Valencia_Leganes_2017,Leganes,5,6,11,12
+2017-11-04,Barcelona_Sevilla_2017,Barcelona,6,5,11,12
+2017-11-05,Villarreal_Malaga_2017,Villarreal,5,6,11,12
+2017-11-05,Levante_Girona_2017,Levante,7,4,11,12
+2017-11-05,Sociedad_Eibar_2017,Eibar,5,6,11,12
+2017-11-05,Celta_Ath Bilbao_2017,Ath Bilbao,5,6,11,12
+2017-11-05,Celta_Ath Bilbao_2017,Celta,6,5,11,12
+2017-11-05,Real Madrid_Las Palmas_2017,Las Palmas,5,6,11,12
+2017-11-05,Levante_Girona_2017,Girona,6,5,11,12
+2017-11-05,Real Madrid_Las Palmas_2017,Real Madrid,6,5,11,12
+2017-11-05,Villarreal_Malaga_2017,Malaga,5,6,11,12
+2017-11-05,Sociedad_Eibar_2017,Sociedad,6,5,11,12
+2017-11-17,Girona_Sociedad_2017,Girona,7,5,12,14
+2017-11-17,Girona_Sociedad_2017,Sociedad,6,6,12,14
+2017-11-18,Sevilla_Celta_2017,Celta,6,6,12,14
+2017-11-18,Ath Madrid_Real Madrid_2017,Real Madrid,6,6,12,14
+2017-11-18,Leganes_Barcelona_2017,Barcelona,6,6,12,14
+2017-11-18,Getafe_Alaves_2017,Alaves,6,6,12,14
+2017-11-18,Leganes_Barcelona_2017,Leganes,6,6,12,14
+2017-11-18,Getafe_Alaves_2017,Getafe,6,6,12,14
+2017-11-18,Ath Madrid_Real Madrid_2017,Ath Madrid,5,7,12,14
+2017-11-18,Sevilla_Celta_2017,Sevilla,6,6,12,14
+2017-11-19,Las Palmas_Levante_2017,Levante,7,5,12,14
+2017-11-19,Malaga_La Coruna_2017,Malaga,6,6,12,14
+2017-11-19,Espanol_Valencia_2017,Valencia,6,6,12,14
+2017-11-19,Malaga_La Coruna_2017,La Coruna,6,6,12,14
+2017-11-19,Ath Bilbao_Villarreal_2017,Villarreal,5,7,12,14
+2017-11-19,Ath Bilbao_Villarreal_2017,Ath Bilbao,6,6,12,14
+2017-11-19,Las Palmas_Levante_2017,Las Palmas,6,6,12,14
+2017-11-19,Espanol_Valencia_2017,Espanol,6,6,12,14
+2017-11-20,Eibar_Betis_2017,Eibar,6,6,12,14
+2017-11-20,Eibar_Betis_2017,Betis,6,6,12,14
+2017-11-24,Celta_Leganes_2017,Leganes,6,7,13,15
+2017-11-24,Celta_Leganes_2017,Celta,7,6,13,15
+2017-11-25,Betis_Girona_2017,Girona,7,6,13,15
+2017-11-25,Real Madrid_Malaga_2017,Malaga,6,7,13,15
+2017-11-25,Levante_Ath Madrid_2017,Ath Madrid,5,8,13,15
+2017-11-25,Levante_Ath Madrid_2017,Levante,8,5,13,15
+2017-11-25,Real Madrid_Malaga_2017,Real Madrid,7,6,13,15
+2017-11-25,Alaves_Eibar_2017,Alaves,7,6,13,15
+2017-11-25,Alaves_Eibar_2017,Eibar,6,7,13,15
+2017-11-25,Betis_Girona_2017,Betis,7,6,13,15
+2017-11-26,La Coruna_Ath Bilbao_2017,Ath Bilbao,6,7,13,15
+2017-11-26,Valencia_Barcelona_2017,Valencia,7,6,13,15
+2017-11-26,Sociedad_Las Palmas_2017,Las Palmas,6,7,13,15
+2017-11-26,Villarreal_Sevilla_2017,Sevilla,6,7,13,15
+2017-11-26,Valencia_Barcelona_2017,Barcelona,6,7,13,15
+2017-11-26,La Coruna_Ath Bilbao_2017,La Coruna,7,6,13,15
+2017-11-26,Sociedad_Las Palmas_2017,Sociedad,7,6,13,15
+2017-11-26,Villarreal_Sevilla_2017,Villarreal,6,7,13,15
+2017-11-27,Espanol_Getafe_2017,Espanol,7,6,13,15
+2017-11-27,Espanol_Getafe_2017,Getafe,6,7,13,15
+2017-12-01,Malaga_Levante_2017,Levante,8,6,14,16
+2017-12-01,Malaga_Levante_2017,Malaga,7,7,14,16
+2017-12-02,Sevilla_La Coruna_2017,La Coruna,7,7,14,16
+2017-12-02,Ath Madrid_Sociedad_2017,Ath Madrid,6,8,14,16
+2017-12-02,Barcelona_Celta_2017,Barcelona,7,7,14,16
+2017-12-02,Ath Bilbao_Real Madrid_2017,Ath Bilbao,7,7,14,16
+2017-12-02,Barcelona_Celta_2017,Celta,7,7,14,16
+2017-12-02,Ath Bilbao_Real Madrid_2017,Real Madrid,7,7,14,16
+2017-12-02,Ath Madrid_Sociedad_2017,Sociedad,7,7,14,16
+2017-12-02,Sevilla_La Coruna_2017,Sevilla,7,7,14,16
+2017-12-03,Las Palmas_Betis_2017,Betis,7,7,14,16
+2017-12-03,Las Palmas_Betis_2017,Las Palmas,7,7,14,16
+2017-12-03,Leganes_Villarreal_2017,Villarreal,6,8,14,16
+2017-12-03,Getafe_Valencia_2017,Getafe,7,7,14,16
+2017-12-03,Getafe_Valencia_2017,Valencia,7,7,14,16
+2017-12-03,Leganes_Villarreal_2017,Leganes,7,7,14,16
+2017-12-03,Eibar_Espanol_2017,Eibar,7,7,14,16
+2017-12-03,Eibar_Espanol_2017,Espanol,7,7,14,16
+2017-12-04,Girona_Alaves_2017,Alaves,7,7,14,16
+2017-12-04,Girona_Alaves_2017,Girona,8,6,14,16
+2017-12-08,Alaves_Las Palmas_2017,Alaves,8,7,15,17
+2017-12-08,Alaves_Las Palmas_2017,Las Palmas,7,8,15,17
+2017-12-09,Real Madrid_Sevilla_2017,Real Madrid,8,7,15,17
+2017-12-09,Valencia_Celta_2017,Valencia,8,7,15,17
+2017-12-09,Getafe_Eibar_2017,Getafe,8,7,15,17
+2017-12-09,La Coruna_Leganes_2017,La Coruna,8,7,15,17
+2017-12-09,Valencia_Celta_2017,Celta,7,8,15,17
+2017-12-09,Getafe_Eibar_2017,Eibar,7,8,15,17
+2017-12-09,La Coruna_Leganes_2017,Leganes,7,8,15,17
+2017-12-09,Real Madrid_Sevilla_2017,Sevilla,7,8,15,17
+2017-12-10,Sociedad_Malaga_2017,Sociedad,8,7,15,17
+2017-12-10,Levante_Ath Bilbao_2017,Ath Bilbao,7,8,15,17
+2017-12-10,Levante_Ath Bilbao_2017,Levante,9,6,15,17
+2017-12-10,Betis_Ath Madrid_2017,Betis,8,7,15,17
+2017-12-10,Villarreal_Barcelona_2017,Villarreal,7,8,15,17
+2017-12-10,Sociedad_Malaga_2017,Malaga,7,8,15,17
+2017-12-10,Betis_Ath Madrid_2017,Ath Madrid,6,9,15,17
+2017-12-10,Villarreal_Barcelona_2017,Barcelona,7,8,15,17
+2017-12-11,Espanol_Girona_2017,Espanol,8,7,15,17
+2017-12-11,Espanol_Girona_2017,Girona,8,7,15,17
+2017-12-15,Sevilla_Levante_2017,Sevilla,8,8,16,18
+2017-12-15,Sevilla_Levante_2017,Levante,9,7,16,18
+2017-12-16,Eibar_Valencia_2017,Valencia,8,8,16,18
+2017-12-16,Eibar_Valencia_2017,Eibar,8,8,16,18
+2017-12-16,Ath Bilbao_Sociedad_2017,Ath Bilbao,8,8,16,18
+2017-12-16,Ath Bilbao_Sociedad_2017,Sociedad,8,8,16,18
+2017-12-16,Ath Madrid_Alaves_2017,Ath Madrid,7,9,16,18
+2017-12-16,Ath Madrid_Alaves_2017,Alaves,8,8,16,18
+2017-12-17,Las Palmas_Espanol_2017,Espanol,8,8,16,18
+2017-12-17,Girona_Getafe_2017,Girona,9,7,16,18
+2017-12-17,Girona_Getafe_2017,Getafe,8,8,16,18
+2017-12-17,Las Palmas_Espanol_2017,Las Palmas,8,8,16,18
+2017-12-17,Celta_Villarreal_2017,Celta,8,8,16,18
+2017-12-17,Celta_Villarreal_2017,Villarreal,7,9,16,18
+2017-12-17,Barcelona_La Coruna_2017,Barcelona,8,8,16,18
+2017-12-17,Barcelona_La Coruna_2017,La Coruna,8,8,16,18
+2017-12-18,Malaga_Betis_2017,Malaga,8,8,16,18
+2017-12-18,Malaga_Betis_2017,Betis,8,8,16,18
+2017-12-19,Levante_Leganes_2017,Leganes,7,9,16,19
+2017-12-19,Levante_Leganes_2017,Levante,10,7,17,19
+2017-12-20,Getafe_Las Palmas_2017,Las Palmas,8,9,17,19
+2017-12-20,Getafe_Las Palmas_2017,Getafe,9,8,17,19
+2017-12-20,Sociedad_Sevilla_2017,Sociedad,9,8,17,19
+2017-12-20,Sociedad_Sevilla_2017,Sevilla,8,9,17,19
+2017-12-21,Alaves_Malaga_2017,Alaves,9,8,17,19
+2017-12-21,Eibar_Girona_2017,Eibar,9,8,17,19
+2017-12-21,Eibar_Girona_2017,Girona,9,8,17,19
+2017-12-21,Alaves_Malaga_2017,Malaga,8,9,17,19
+2017-12-22,Espanol_Ath Madrid_2017,Espanol,9,8,17,19
+2017-12-22,Betis_Ath Bilbao_2017,Ath Bilbao,8,9,17,19
+2017-12-22,Espanol_Ath Madrid_2017,Ath Madrid,7,10,17,19
+2017-12-22,Betis_Ath Bilbao_2017,Betis,9,8,17,19
+2017-12-23,La Coruna_Celta_2017,La Coruna,9,8,17,19
+2017-12-23,Real Madrid_Barcelona_2017,Barcelona,8,9,17,19
+2017-12-23,Valencia_Villarreal_2017,Villarreal,7,10,17,19
+2017-12-23,Valencia_Villarreal_2017,Valencia,9,8,17,19
+2017-12-23,Real Madrid_Barcelona_2017,Real Madrid,9,7,16,19
+2017-12-23,La Coruna_Celta_2017,Celta,8,9,17,19
+2018-01-06,Las Palmas_Eibar_2017,Eibar,9,9,18,21
+2018-01-06,Valencia_Girona_2017,Valencia,10,8,18,21
+2018-01-06,Ath Madrid_Getafe_2017,Ath Madrid,8,10,18,21
+2018-01-06,Sevilla_Betis_2017,Sevilla,9,9,18,21
+2018-01-06,Sevilla_Betis_2017,Betis,9,9,18,21
+2018-01-06,Ath Madrid_Getafe_2017,Getafe,9,9,18,21
+2018-01-06,Valencia_Girona_2017,Girona,9,9,18,21
+2018-01-06,Las Palmas_Eibar_2017,Las Palmas,9,9,18,21
+2018-01-07,Villarreal_La Coruna_2017,La Coruna,9,9,18,21
+2018-01-07,Ath Bilbao_Alaves_2017,Ath Bilbao,9,9,18,21
+2018-01-07,Barcelona_Levante_2017,Levante,10,8,18,21
+2018-01-07,Leganes_Sociedad_2017,Sociedad,9,9,18,21
+2018-01-07,Leganes_Sociedad_2017,Leganes,8,9,17,21
+2018-01-07,Villarreal_La Coruna_2017,Villarreal,8,10,18,21
+2018-01-07,Ath Bilbao_Alaves_2017,Alaves,9,9,18,21
+2018-01-07,Celta_Real Madrid_2017,Real Madrid,9,8,17,21
+2018-01-07,Barcelona_Levante_2017,Barcelona,9,9,18,21
+2018-01-07,Celta_Real Madrid_2017,Celta,9,9,18,21
+2018-01-08,Malaga_Espanol_2017,Espanol,9,9,18,21
+2018-01-08,Malaga_Espanol_2017,Malaga,9,9,18,21
+2018-01-12,Getafe_Malaga_2017,Getafe,10,9,19,22
+2018-01-12,Getafe_Malaga_2017,Malaga,9,10,19,22
+2018-01-13,Real Madrid_Villarreal_2017,Villarreal,8,11,19,22
+2018-01-13,Girona_Las Palmas_2017,Girona,10,9,19,22
+2018-01-13,La Coruna_Valencia_2017,La Coruna,10,9,19,22
+2018-01-13,Girona_Las Palmas_2017,Las Palmas,9,10,19,22
+2018-01-13,La Coruna_Valencia_2017,Valencia,10,9,19,22
+2018-01-13,Eibar_Ath Madrid_2017,Ath Madrid,8,11,19,22
+2018-01-13,Eibar_Ath Madrid_2017,Eibar,10,9,19,22
+2018-01-13,Real Madrid_Villarreal_2017,Real Madrid,10,8,18,22
+2018-01-14,Espanol_Ath Bilbao_2017,Espanol,10,9,19,22
+2018-01-14,Levante_Celta_2017,Levante,11,8,19,22
+2018-01-14,Sociedad_Barcelona_2017,Barcelona,9,10,19,22
+2018-01-14,Levante_Celta_2017,Celta,9,10,19,22
+2018-01-14,Alaves_Sevilla_2017,Sevilla,9,10,19,22
+2018-01-14,Espanol_Ath Bilbao_2017,Ath Bilbao,9,10,19,22
+2018-01-14,Sociedad_Barcelona_2017,Sociedad,10,9,19,22
+2018-01-14,Alaves_Sevilla_2017,Alaves,10,9,19,22
+2018-01-15,Betis_Leganes_2017,Betis,10,9,19,22
+2018-01-15,Betis_Leganes_2017,Leganes,8,10,18,22
+2018-01-19,Getafe_Ath Bilbao_2017,Getafe,11,9,20,23
+2018-01-19,Getafe_Ath Bilbao_2017,Ath Bilbao,9,11,20,23
+2018-01-20,Las Palmas_Valencia_2017,Valencia,10,10,20,23
+2018-01-20,Ath Madrid_Girona_2017,Girona,10,10,20,23
+2018-01-20,Las Palmas_Valencia_2017,Las Palmas,10,10,20,23
+2018-01-20,Ath Madrid_Girona_2017,Ath Madrid,9,11,20,23
+2018-01-20,Espanol_Sevilla_2017,Espanol,11,9,20,23
+2018-01-20,Villarreal_Levante_2017,Levante,11,9,20,23
+2018-01-20,Espanol_Sevilla_2017,Sevilla,9,11,20,23
+2018-01-20,Villarreal_Levante_2017,Villarreal,9,11,20,23
+2018-01-21,Alaves_Leganes_2017,Leganes,8,11,19,23
+2018-01-21,Real Madrid_La Coruna_2017,Real Madrid,11,8,19,23
+2018-01-21,Betis_Barcelona_2017,Betis,11,9,20,23
+2018-01-21,Real Madrid_La Coruna_2017,La Coruna,10,10,20,23
+2018-01-21,Sociedad_Celta_2017,Celta,9,11,20,23
+2018-01-21,Sociedad_Celta_2017,Sociedad,11,9,20,23
+2018-01-21,Alaves_Leganes_2017,Alaves,11,9,20,23
+2018-01-21,Betis_Barcelona_2017,Barcelona,9,11,20,23
+2018-01-22,Eibar_Malaga_2017,Eibar,11,9,20,23
+2018-01-22,Eibar_Malaga_2017,Malaga,9,11,20,23
+2018-01-26,Ath Bilbao_Eibar_2017,Ath Bilbao,10,11,21,24
+2018-01-26,Ath Bilbao_Eibar_2017,Eibar,11,10,21,24
+2018-01-27,La Coruna_Levante_2017,Levante,11,10,21,24
+2018-01-27,Malaga_Girona_2017,Girona,10,11,21,24
+2018-01-27,Malaga_Girona_2017,Malaga,10,11,21,24
+2018-01-27,Valencia_Real Madrid_2017,Valencia,11,10,21,24
+2018-01-27,Villarreal_Sociedad_2017,Villarreal,10,11,21,24
+2018-01-27,La Coruna_Levante_2017,La Coruna,11,10,21,24
+2018-01-27,Valencia_Real Madrid_2017,Real Madrid,11,9,20,24
+2018-01-27,Villarreal_Sociedad_2017,Sociedad,11,10,21,24
+2018-01-28,Ath Madrid_Las Palmas_2017,Las Palmas,10,11,21,24
+2018-01-28,Sevilla_Getafe_2017,Getafe,11,10,21,24
+2018-01-28,Leganes_Espanol_2017,Espanol,11,10,21,24
+2018-01-28,Barcelona_Alaves_2017,Barcelona,10,11,21,24
+2018-01-28,Leganes_Espanol_2017,Leganes,9,11,20,24
+2018-01-28,Barcelona_Alaves_2017,Alaves,11,10,21,24
+2018-01-28,Ath Madrid_Las Palmas_2017,Ath Madrid,10,11,21,24
+2018-01-28,Sevilla_Getafe_2017,Sevilla,10,11,21,24
+2018-01-29,Celta_Betis_2017,Betis,11,10,21,24
+2018-01-29,Celta_Betis_2017,Celta,10,11,21,24
+2018-02-02,Sociedad_La Coruna_2017,La Coruna,11,11,22,25
+2018-02-02,Sociedad_La Coruna_2017,Sociedad,12,10,22,25
+2018-02-03,Alaves_Celta_2017,Celta,10,12,22,25
+2018-02-03,Betis_Villarreal_2017,Villarreal,10,12,22,25
+2018-02-03,Betis_Villarreal_2017,Betis,12,10,22,25
+2018-02-03,Alaves_Celta_2017,Alaves,12,10,22,25
+2018-02-03,Levante_Real Madrid_2017,Levante,12,10,22,25
+2018-02-03,Eibar_Sevilla_2017,Eibar,12,10,22,25
+2018-02-03,Levante_Real Madrid_2017,Real Madrid,11,10,21,25
+2018-02-03,Eibar_Sevilla_2017,Sevilla,10,12,22,25
+2018-02-04,Girona_Ath Bilbao_2017,Girona,11,11,22,25
+2018-02-04,Espanol_Barcelona_2017,Espanol,12,10,22,25
+2018-02-04,Getafe_Leganes_2017,Getafe,12,10,22,25
+2018-02-04,Ath Madrid_Valencia_2017,Ath Madrid,11,11,22,25
+2018-02-04,Ath Madrid_Valencia_2017,Valencia,11,11,22,25
+2018-02-04,Getafe_Leganes_2017,Leganes,9,12,21,25
+2018-02-04,Girona_Ath Bilbao_2017,Ath Bilbao,10,12,22,25
+2018-02-04,Espanol_Barcelona_2017,Barcelona,10,12,22,25
+2018-02-05,Las Palmas_Malaga_2017,Las Palmas,11,11,22,25
+2018-02-05,Las Palmas_Malaga_2017,Malaga,10,12,22,25
+2018-02-09,Ath Bilbao_Las Palmas_2017,Ath Bilbao,11,12,23,26
+2018-02-09,Ath Bilbao_Las Palmas_2017,Las Palmas,11,12,23,26
+2018-02-10,Real Madrid_Sociedad_2017,Sociedad,12,11,23,26
+2018-02-10,Malaga_Ath Madrid_2017,Malaga,11,12,23,26
+2018-02-10,Leganes_Eibar_2017,Eibar,12,11,23,26
+2018-02-10,Malaga_Ath Madrid_2017,Ath Madrid,11,12,23,26
+2018-02-10,Villarreal_Alaves_2017,Villarreal,11,12,23,26
+2018-02-10,Leganes_Eibar_2017,Leganes,10,12,22,26
+2018-02-10,Real Madrid_Sociedad_2017,Real Madrid,12,10,22,26
+2018-02-10,Villarreal_Alaves_2017,Alaves,12,11,23,26
+2018-02-11,Sevilla_Girona_2017,Sevilla,11,12,23,26
+2018-02-11,Barcelona_Getafe_2017,Getafe,12,11,23,26
+2018-02-11,Celta_Espanol_2017,Celta,11,12,23,26
+2018-02-11,Valencia_Levante_2017,Valencia,12,11,23,26
+2018-02-11,Sevilla_Girona_2017,Girona,11,12,23,26
+2018-02-11,Celta_Espanol_2017,Espanol,12,11,23,26
+2018-02-11,Barcelona_Getafe_2017,Barcelona,11,12,23,26
+2018-02-11,Valencia_Levante_2017,Levante,12,11,23,26
+2018-02-12,La Coruna_Betis_2017,La Coruna,12,11,23,26
+2018-02-12,La Coruna_Betis_2017,Betis,12,11,23,26
+2018-02-16,Girona_Leganes_2017,Leganes,10,13,23,27
+2018-02-16,Girona_Leganes_2017,Girona,12,12,24,27
+2018-02-17,Las Palmas_Sevilla_2017,Sevilla,11,13,24,27
+2018-02-17,Las Palmas_Sevilla_2017,Las Palmas,12,12,24,27
+2018-02-17,Alaves_La Coruna_2017,Alaves,13,11,24,27
+2018-02-17,Alaves_La Coruna_2017,La Coruna,12,12,24,27
+2018-02-17,Eibar_Barcelona_2017,Barcelona,11,13,24,27
+2018-02-17,Malaga_Valencia_2017,Malaga,12,12,24,27
+2018-02-17,Malaga_Valencia_2017,Valencia,12,12,24,27
+2018-02-17,Eibar_Barcelona_2017,Eibar,13,11,24,27
+2018-02-18,Betis_Real Madrid_2017,Real Madrid,12,11,23,27
+2018-02-18,Ath Madrid_Ath Bilbao_2017,Ath Bilbao,11,13,24,27
+2018-02-18,Espanol_Villarreal_2017,Villarreal,11,13,24,27
+2018-02-18,Ath Madrid_Ath Bilbao_2017,Ath Madrid,12,12,24,27
+2018-02-18,Sociedad_Levante_2017,Levante,12,12,24,27
+2018-02-18,Espanol_Villarreal_2017,Espanol,13,11,24,27
+2018-02-18,Betis_Real Madrid_2017,Betis,13,11,24,27
+2018-02-18,Sociedad_Levante_2017,Sociedad,13,11,24,27
+2018-02-19,Getafe_Celta_2017,Celta,11,13,24,27
+2018-02-19,Getafe_Celta_2017,Getafe,13,11,24,27
+2018-02-21,Leganes_Real Madrid_2017,Leganes,11,13,24,28
+2018-02-21,Leganes_Real Madrid_2017,Real Madrid,12,12,24,28
+2018-02-23,La Coruna_Espanol_2017,Espanol,13,12,25,28
+2018-02-23,La Coruna_Espanol_2017,La Coruna,13,12,25,28
+2018-02-24,Barcelona_Girona_2017,Barcelona,12,13,25,28
+2018-02-24,Barcelona_Girona_2017,Girona,12,13,25,28
+2018-02-24,Real Madrid_Alaves_2017,Alaves,13,12,25,28
+2018-02-24,Celta_Eibar_2017,Eibar,13,12,25,28
+2018-02-24,Leganes_Las Palmas_2017,Leganes,12,13,25,28
+2018-02-24,Leganes_Las Palmas_2017,Las Palmas,12,13,25,28
+2018-02-24,Celta_Eibar_2017,Celta,12,13,25,28
+2018-02-24,Real Madrid_Alaves_2017,Real Madrid,13,12,25,28
+2018-02-25,Villarreal_Getafe_2017,Villarreal,12,13,25,28
+2018-02-25,Ath Bilbao_Malaga_2017,Malaga,12,13,25,28
+2018-02-25,Valencia_Sociedad_2017,Sociedad,13,12,25,28
+2018-02-25,Valencia_Sociedad_2017,Valencia,13,12,25,28
+2018-02-25,Sevilla_Ath Madrid_2017,Ath Madrid,12,13,25,28
+2018-02-25,Sevilla_Ath Madrid_2017,Sevilla,12,13,25,28
+2018-02-25,Ath Bilbao_Malaga_2017,Ath Bilbao,12,13,25,28
+2018-02-25,Villarreal_Getafe_2017,Getafe,13,12,25,28
+2018-02-26,Levante_Betis_2017,Betis,13,12,25,28
+2018-02-26,Levante_Betis_2017,Levante,13,12,25,28
+2018-02-27,Espanol_Real Madrid_2017,Espanol,14,12,26,29
+2018-02-27,Girona_Celta_2017,Celta,12,14,26,29
+2018-02-27,Espanol_Real Madrid_2017,Real Madrid,13,13,26,29
+2018-02-27,Girona_Celta_2017,Girona,13,13,26,29
+2018-02-28,Getafe_La Coruna_2017,La Coruna,13,13,26,29
+2018-02-28,Eibar_Villarreal_2017,Eibar,14,12,26,29
+2018-02-28,Malaga_Sevilla_2017,Malaga,13,13,26,29
+2018-02-28,Ath Bilbao_Valencia_2017,Ath Bilbao,13,13,26,29
+2018-02-28,Ath Bilbao_Valencia_2017,Valencia,13,13,26,29
+2018-02-28,Malaga_Sevilla_2017,Sevilla,12,14,26,29
+2018-02-28,Ath Madrid_Leganes_2017,Ath Madrid,13,13,26,29
+2018-02-28,Getafe_La Coruna_2017,Getafe,14,12,26,29
+2018-02-28,Ath Madrid_Leganes_2017,Leganes,12,14,26,29
+2018-02-28,Eibar_Villarreal_2017,Villarreal,12,14,26,29
+2018-03-01,Betis_Sociedad_2017,Sociedad,13,13,26,29
+2018-03-01,Alaves_Levante_2017,Alaves,14,12,26,29
+2018-03-01,Las Palmas_Barcelona_2017,Las Palmas,13,13,26,29
+2018-03-01,Betis_Sociedad_2017,Betis,14,12,26,29
+2018-03-01,Alaves_Levante_2017,Levante,13,13,26,29
+2018-03-01,Las Palmas_Barcelona_2017,Barcelona,12,14,26,29
+2018-03-03,Real Madrid_Getafe_2017,Real Madrid,14,13,27,29
+2018-03-03,Leganes_Malaga_2017,Leganes,13,14,27,29
+2018-03-03,Villarreal_Girona_2017,Girona,13,14,27,29
+2018-03-03,La Coruna_Eibar_2017,La Coruna,14,13,27,29
+2018-03-03,Villarreal_Girona_2017,Villarreal,13,14,27,29
+2018-03-03,Real Madrid_Getafe_2017,Getafe,14,13,27,29
+2018-03-03,La Coruna_Eibar_2017,Eibar,14,13,27,29
+2018-03-03,Leganes_Malaga_2017,Malaga,13,14,27,29
+2018-03-03,Sevilla_Ath Bilbao_2017,Ath Bilbao,13,14,27,29
+2018-03-03,Sevilla_Ath Bilbao_2017,Sevilla,13,14,27,29
+2018-03-04,Barcelona_Ath Madrid_2017,Ath Madrid,13,14,27,29
+2018-03-04,Valencia_Betis_2017,Betis,14,13,27,29
+2018-03-04,Levante_Espanol_2017,Espanol,14,13,27,29
+2018-03-04,Sociedad_Alaves_2017,Alaves,14,13,27,29
+2018-03-04,Valencia_Betis_2017,Valencia,14,13,27,29
+2018-03-04,Barcelona_Ath Madrid_2017,Barcelona,13,14,27,29
+2018-03-04,Levante_Espanol_2017,Levante,14,13,27,29
+2018-03-04,Sociedad_Alaves_2017,Sociedad,14,13,27,29
+2018-03-05,Celta_Las Palmas_2017,Las Palmas,13,14,27,29
+2018-03-05,Celta_Las Palmas_2017,Celta,13,14,27,29
+2018-03-09,Girona_La Coruna_2017,Girona,14,14,28,30
+2018-03-09,Girona_La Coruna_2017,La Coruna,14,14,28,30
+2018-03-10,Malaga_Barcelona_2017,Barcelona,13,15,28,30
+2018-03-10,Sevilla_Valencia_2017,Valencia,14,14,28,30
+2018-03-10,Eibar_Real Madrid_2017,Eibar,15,13,28,30
+2018-03-10,Getafe_Levante_2017,Getafe,15,13,28,30
+2018-03-10,Eibar_Real Madrid_2017,Real Madrid,14,14,28,30
+2018-03-10,Malaga_Barcelona_2017,Malaga,14,14,28,30
+2018-03-10,Sevilla_Valencia_2017,Sevilla,14,14,28,30
+2018-03-10,Getafe_Levante_2017,Levante,14,14,28,30
+2018-03-11,Las Palmas_Villarreal_2017,Las Palmas,14,14,28,30
+2018-03-11,Ath Madrid_Celta_2017,Celta,13,15,28,30
+2018-03-11,Espanol_Sociedad_2017,Espanol,15,13,28,30
+2018-03-11,Ath Bilbao_Leganes_2017,Ath Bilbao,14,14,28,30
+2018-03-11,Ath Bilbao_Leganes_2017,Leganes,13,15,28,30
+2018-03-11,Ath Madrid_Celta_2017,Ath Madrid,14,14,28,30
+2018-03-11,Espanol_Sociedad_2017,Sociedad,14,14,28,30
+2018-03-11,Las Palmas_Villarreal_2017,Villarreal,13,15,28,30
+2018-03-12,Alaves_Betis_2017,Betis,14,14,28,30
+2018-03-12,Alaves_Betis_2017,Alaves,15,13,28,30
+2018-03-16,Levante_Eibar_2017,Levante,15,14,29,31
+2018-03-16,Levante_Eibar_2017,Eibar,15,14,29,31
+2018-03-17,Valencia_Alaves_2017,Alaves,15,14,29,31
+2018-03-17,La Coruna_Las Palmas_2017,Las Palmas,14,15,29,31
+2018-03-17,Betis_Espanol_2017,Espanol,15,14,29,31
+2018-03-17,Sociedad_Getafe_2017,Getafe,15,14,29,31
+2018-03-17,Sociedad_Getafe_2017,Sociedad,15,14,29,31
+2018-03-17,La Coruna_Las Palmas_2017,La Coruna,15,14,29,31
+2018-03-17,Valencia_Alaves_2017,Valencia,15,14,29,31
+2018-03-17,Betis_Espanol_2017,Betis,15,14,29,31
+2018-03-18,Celta_Malaga_2017,Malaga,14,15,29,31
+2018-03-18,Leganes_Sevilla_2017,Sevilla,14,15,29,31
+2018-03-18,Real Madrid_Girona_2017,Girona,14,15,29,31
+2018-03-18,Villarreal_Ath Madrid_2017,Ath Madrid,14,15,29,31
+2018-03-18,Leganes_Sevilla_2017,Leganes,14,15,29,31
+2018-03-18,Celta_Malaga_2017,Celta,14,15,29,31
+2018-03-18,Barcelona_Ath Bilbao_2017,Ath Bilbao,14,15,29,31
+2018-03-18,Villarreal_Ath Madrid_2017,Villarreal,14,15,29,31
+2018-03-18,Real Madrid_Girona_2017,Real Madrid,15,14,29,31
+2018-03-18,Barcelona_Ath Bilbao_2017,Barcelona,14,15,29,31
+2018-03-31,Girona_Levante_2017,Girona,15,15,30,33
+2018-03-31,Ath Bilbao_Celta_2017,Ath Bilbao,15,15,30,33
+2018-03-31,Las Palmas_Real Madrid_2017,Real Madrid,15,15,30,33
+2018-03-31,Las Palmas_Real Madrid_2017,Las Palmas,15,15,30,33
+2018-03-31,Girona_Levante_2017,Levante,15,15,30,33
+2018-03-31,Sevilla_Barcelona_2017,Sevilla,15,15,30,33
+2018-03-31,Ath Bilbao_Celta_2017,Celta,14,16,30,33
+2018-03-31,Sevilla_Barcelona_2017,Barcelona,14,16,30,33
+2018-04-01,Malaga_Villarreal_2017,Villarreal,14,16,30,33
+2018-04-01,Malaga_Villarreal_2017,Malaga,15,15,30,33
+2018-04-01,Eibar_Sociedad_2017,Eibar,16,14,30,33
+2018-04-01,Leganes_Valencia_2017,Leganes,15,15,30,33
+2018-04-01,Leganes_Valencia_2017,Valencia,15,15,30,33
+2018-04-01,Ath Madrid_La Coruna_2017,Ath Madrid,15,15,30,33
+2018-04-01,Ath Madrid_La Coruna_2017,La Coruna,15,15,30,33
+2018-04-01,Espanol_Alaves_2017,Alaves,15,15,30,33
+2018-04-01,Eibar_Sociedad_2017,Sociedad,15,15,30,33
+2018-04-01,Espanol_Alaves_2017,Espanol,16,14,30,33
+2018-04-02,Getafe_Betis_2017,Getafe,16,14,30,33
+2018-04-02,Getafe_Betis_2017,Betis,15,15,30,33
+2018-04-06,La Coruna_Malaga_2017,La Coruna,16,15,31,34
+2018-04-06,La Coruna_Malaga_2017,Malaga,15,16,31,34
+2018-04-07,Barcelona_Leganes_2017,Leganes,15,16,31,34
+2018-04-07,Alaves_Getafe_2017,Alaves,16,15,31,34
+2018-04-07,Betis_Eibar_2017,Eibar,16,15,31,34
+2018-04-07,Betis_Eibar_2017,Betis,16,15,31,34
+2018-04-07,Alaves_Getafe_2017,Getafe,16,15,31,34
+2018-04-07,Barcelona_Leganes_2017,Barcelona,15,16,31,34
+2018-04-07,Celta_Sevilla_2017,Celta,15,16,31,34
+2018-04-07,Celta_Sevilla_2017,Sevilla,15,16,31,34
+2018-04-08,Levante_Las Palmas_2017,Las Palmas,15,16,31,34
+2018-04-08,Real Madrid_Ath Madrid_2017,Real Madrid,16,15,31,34
+2018-04-08,Valencia_Espanol_2017,Espanol,16,15,31,34
+2018-04-08,Valencia_Espanol_2017,Valencia,16,15,31,34
+2018-04-08,Levante_Las Palmas_2017,Levante,16,15,31,34
+2018-04-08,Real Madrid_Ath Madrid_2017,Ath Madrid,15,16,31,34
+2018-04-08,Sociedad_Girona_2017,Sociedad,16,15,31,34
+2018-04-08,Sociedad_Girona_2017,Girona,15,16,31,34
+2018-04-09,Villarreal_Ath Bilbao_2017,Ath Bilbao,15,16,31,34
+2018-04-09,Villarreal_Ath Bilbao_2017,Villarreal,15,16,31,34
+2018-04-13,Girona_Betis_2017,Girona,16,16,32,35
+2018-04-13,Girona_Betis_2017,Betis,16,16,32,35
+2018-04-14,Las Palmas_Sociedad_2017,Las Palmas,16,16,32,35
+2018-04-14,Sevilla_Villarreal_2017,Villarreal,15,17,32,35
+2018-04-14,Leganes_Celta_2017,Leganes,16,16,32,35
+2018-04-14,Ath Bilbao_La Coruna_2017,Ath Bilbao,16,16,32,35
+2018-04-14,Barcelona_Valencia_2017,Barcelona,16,16,32,35
+2018-04-14,Barcelona_Valencia_2017,Valencia,16,16,32,35
+2018-04-14,Ath Bilbao_La Coruna_2017,La Coruna,16,16,32,35
+2018-04-14,Leganes_Celta_2017,Celta,15,17,32,35
+2018-04-14,Sevilla_Villarreal_2017,Sevilla,16,16,32,35
+2018-04-14,Las Palmas_Sociedad_2017,Sociedad,16,16,32,35
+2018-04-15,Getafe_Espanol_2017,Espanol,16,16,32,35
+2018-04-15,Malaga_Real Madrid_2017,Malaga,16,16,32,35
+2018-04-15,Ath Madrid_Levante_2017,Ath Madrid,16,16,32,35
+2018-04-15,Malaga_Real Madrid_2017,Real Madrid,16,16,32,35
+2018-04-15,Ath Madrid_Levante_2017,Levante,16,16,32,35
+2018-04-15,Eibar_Alaves_2017,Alaves,16,16,32,35
+2018-04-15,Getafe_Espanol_2017,Getafe,17,15,32,35
+2018-04-15,Eibar_Alaves_2017,Eibar,17,15,32,35
+2018-04-17,La Coruna_Sevilla_2017,La Coruna,17,16,33,36
+2018-04-17,Celta_Barcelona_2017,Celta,16,17,33,36
+2018-04-17,Celta_Barcelona_2017,Barcelona,16,17,33,36
+2018-04-17,La Coruna_Sevilla_2017,Sevilla,16,17,33,36
+2018-04-17,Villarreal_Leganes_2017,Leganes,16,17,33,36
+2018-04-17,Villarreal_Leganes_2017,Villarreal,16,17,33,36
+2018-04-18,Valencia_Getafe_2017,Valencia,17,16,33,36
+2018-04-18,Real Madrid_Ath Bilbao_2017,Real Madrid,17,16,33,36
+2018-04-18,Valencia_Getafe_2017,Getafe,17,16,33,36
+2018-04-18,Espanol_Eibar_2017,Eibar,17,16,33,36
+2018-04-18,Real Madrid_Ath Bilbao_2017,Ath Bilbao,16,17,33,36
+2018-04-18,Espanol_Eibar_2017,Espanol,17,16,33,36
+2018-04-19,Levante_Malaga_2017,Levante,17,16,33,36
+2018-04-19,Alaves_Girona_2017,Girona,16,17,33,36
+2018-04-19,Levante_Malaga_2017,Malaga,16,17,33,36
+2018-04-19,Sociedad_Ath Madrid_2017,Sociedad,17,16,33,36
+2018-04-19,Alaves_Girona_2017,Alaves,17,16,33,36
+2018-04-19,Betis_Las Palmas_2017,Betis,17,16,33,36
+2018-04-19,Sociedad_Ath Madrid_2017,Ath Madrid,16,17,33,36
+2018-04-19,Betis_Las Palmas_2017,Las Palmas,16,17,33,36
+2018-04-20,Leganes_La Coruna_2017,Leganes,17,17,34,36
+2018-04-20,Leganes_La Coruna_2017,La Coruna,17,17,34,36
+2018-04-21,Eibar_Getafe_2017,Getafe,17,17,34,36
+2018-04-21,Eibar_Getafe_2017,Eibar,18,16,34,36
+2018-04-21,Celta_Valencia_2017,Celta,17,17,34,36
+2018-04-21,Celta_Valencia_2017,Valencia,17,17,34,36
+2018-04-22,Malaga_Sociedad_2017,Malaga,17,17,34,36
+2018-04-22,Ath Madrid_Betis_2017,Ath Madrid,17,17,34,36
+2018-04-22,Girona_Espanol_2017,Espanol,17,17,34,36
+2018-04-22,Las Palmas_Alaves_2017,Alaves,17,17,34,36
+2018-04-22,Girona_Espanol_2017,Girona,17,17,34,36
+2018-04-22,Las Palmas_Alaves_2017,Las Palmas,17,17,34,36
+2018-04-22,Ath Madrid_Betis_2017,Betis,17,17,34,36
+2018-04-22,Malaga_Sociedad_2017,Sociedad,17,17,34,36
+2018-04-23,Ath Bilbao_Levante_2017,Levante,17,17,34,36
+2018-04-23,Ath Bilbao_Levante_2017,Ath Bilbao,17,17,34,36
+2018-04-27,Levante_Sevilla_2017,Sevilla,16,18,34,37
+2018-04-27,Levante_Sevilla_2017,Levante,18,17,35,37
+2018-04-28,Villarreal_Celta_2017,Celta,17,18,35,37
+2018-04-28,Villarreal_Celta_2017,Villarreal,17,17,34,37
+2018-04-28,Espanol_Las Palmas_2017,Espanol,18,17,35,37
+2018-04-28,Sociedad_Ath Bilbao_2017,Ath Bilbao,17,18,35,37
+2018-04-28,Real Madrid_Leganes_2017,Real Madrid,18,16,34,37
+2018-04-28,Real Madrid_Leganes_2017,Leganes,17,18,35,37
+2018-04-28,Espanol_Las Palmas_2017,Las Palmas,17,18,35,37
+2018-04-28,Sociedad_Ath Bilbao_2017,Sociedad,18,17,35,37
+2018-04-29,Alaves_Ath Madrid_2017,Alaves,18,17,35,37
+2018-04-29,La Coruna_Barcelona_2017,Barcelona,16,18,34,37
+2018-04-29,La Coruna_Barcelona_2017,La Coruna,18,17,35,37
+2018-04-29,Getafe_Girona_2017,Girona,17,18,35,37
+2018-04-29,Valencia_Eibar_2017,Valencia,18,17,35,37
+2018-04-29,Valencia_Eibar_2017,Eibar,18,17,35,37
+2018-04-29,Getafe_Girona_2017,Getafe,18,17,35,37
+2018-04-29,Alaves_Ath Madrid_2017,Ath Madrid,17,18,35,37
+2018-04-30,Betis_Malaga_2017,Malaga,17,18,35,37
+2018-04-30,Betis_Malaga_2017,Betis,18,17,35,37
+2018-05-04,Sevilla_Sociedad_2017,Sociedad,18,18,36,38
+2018-05-04,Sevilla_Sociedad_2017,Sevilla,17,18,35,38
+2018-05-05,Ath Bilbao_Betis_2017,Ath Bilbao,18,18,36,38
+2018-05-05,Girona_Eibar_2017,Girona,18,18,36,38
+2018-05-05,Ath Bilbao_Betis_2017,Betis,18,18,36,38
+2018-05-05,Villarreal_Valencia_2017,Valencia,18,18,36,38
+2018-05-05,Villarreal_Valencia_2017,Villarreal,18,17,35,38
+2018-05-05,Celta_La Coruna_2017,Celta,18,18,36,38
+2018-05-05,Celta_La Coruna_2017,La Coruna,18,18,36,38
+2018-05-05,Girona_Eibar_2017,Eibar,18,18,36,38
+2018-05-06,Malaga_Alaves_2017,Alaves,18,18,36,38
+2018-05-06,Las Palmas_Getafe_2017,Las Palmas,18,18,36,38
+2018-05-06,Barcelona_Real Madrid_2017,Real Madrid,18,17,35,38
+2018-05-06,Las Palmas_Getafe_2017,Getafe,18,18,36,38
+2018-05-06,Ath Madrid_Espanol_2017,Espanol,18,18,36,38
+2018-05-06,Malaga_Alaves_2017,Malaga,18,18,36,38
+2018-05-06,Barcelona_Real Madrid_2017,Barcelona,17,18,35,38
+2018-05-06,Ath Madrid_Espanol_2017,Ath Madrid,18,18,36,38
+2018-05-07,Leganes_Levante_2017,Leganes,18,18,36,38
+2018-05-07,Leganes_Levante_2017,Levante,18,18,36,38
+2018-05-09,Barcelona_Villarreal_2017,Villarreal,18,18,36,39
+2018-05-09,Barcelona_Villarreal_2017,Barcelona,18,18,36,39
+2018-05-09,Sevilla_Real Madrid_2017,Real Madrid,18,18,36,39
+2018-05-09,Sevilla_Real Madrid_2017,Sevilla,18,18,36,39
+2018-05-12,La Coruna_Villarreal_2017,Villarreal,18,19,37,39
+2018-05-12,Real Madrid_Celta_2017,Celta,18,19,37,39
+2018-05-12,La Coruna_Villarreal_2017,La Coruna,19,18,37,39
+2018-05-12,Sociedad_Leganes_2017,Leganes,18,19,37,39
+2018-05-12,Alaves_Ath Bilbao_2017,Ath Bilbao,18,19,37,39
+2018-05-12,Real Madrid_Celta_2017,Real Madrid,19,18,37,39
+2018-05-12,Alaves_Ath Bilbao_2017,Alaves,19,18,37,39
+2018-05-12,Eibar_Las Palmas_2017,Las Palmas,18,19,37,39
+2018-05-12,Betis_Sevilla_2017,Betis,19,18,37,39
+2018-05-12,Girona_Valencia_2017,Girona,19,18,37,39
+2018-05-12,Sociedad_Leganes_2017,Sociedad,19,18,37,39
+2018-05-12,Betis_Sevilla_2017,Sevilla,18,19,37,39
+2018-05-12,Girona_Valencia_2017,Valencia,18,19,37,39
+2018-05-12,Eibar_Las Palmas_2017,Eibar,19,18,37,39
+2018-05-12,Getafe_Ath Madrid_2017,Getafe,19,18,37,39
+2018-05-12,Getafe_Ath Madrid_2017,Ath Madrid,18,19,37,39
+2018-05-13,Levante_Barcelona_2017,Barcelona,18,19,37,39
+2018-05-13,Espanol_Malaga_2017,Espanol,19,18,37,39
+2018-05-13,Espanol_Malaga_2017,Malaga,18,19,37,39
+2018-05-13,Levante_Barcelona_2017,Levante,19,18,37,39
+2018-05-19,Sevilla_Alaves_2017,Sevilla,19,19,38,40
+2018-05-19,Celta_Levante_2017,Levante,19,19,38,40
+2018-05-19,Villarreal_Real Madrid_2017,Villarreal,19,19,38,40
+2018-05-19,Malaga_Getafe_2017,Malaga,19,19,38,40
+2018-05-19,Las Palmas_Girona_2017,Girona,19,19,38,40
+2018-05-19,Villarreal_Real Madrid_2017,Real Madrid,19,19,38,40
+2018-05-19,Las Palmas_Girona_2017,Las Palmas,19,19,38,40
+2018-05-19,Malaga_Getafe_2017,Getafe,19,19,38,40
+2018-05-19,Leganes_Betis_2017,Leganes,19,19,38,40
+2018-05-19,Sevilla_Alaves_2017,Alaves,19,19,38,40
+2018-05-19,Leganes_Betis_2017,Betis,19,19,38,40
+2018-05-19,Celta_Levante_2017,Celta,19,19,38,40
+2018-05-20,Ath Bilbao_Espanol_2017,Espanol,19,19,38,40
+2018-05-20,Ath Madrid_Eibar_2017,Eibar,19,19,38,40
+2018-05-20,Ath Bilbao_Espanol_2017,Ath Bilbao,19,19,38,40
+2018-05-20,Ath Madrid_Eibar_2017,Ath Madrid,19,19,38,40
+2018-05-20,Barcelona_Sociedad_2017,Barcelona,19,19,38,40
+2018-05-20,Valencia_La Coruna_2017,Valencia,19,19,38,40
+2018-05-20,Barcelona_Sociedad_2017,Sociedad,19,19,38,40
+2018-05-20,Valencia_La Coruna_2017,La Coruna,19,19,38,40

@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2008-08-29,Vitesse_Groningen_2008,Groningen,1,1,1,1
+2008-08-29,Vitesse_Groningen_2008,Vitesse,1,1,1,1
+2008-08-30,Roda JC_Twente_2008,Roda JC,1,1,1,1
+2008-08-30,Roda JC_Twente_2008,Twente,1,1,1,1
+2008-08-30,Utrecht_PSV Eindhoven_2008,PSV Eindhoven,1,1,1,1
+2008-08-30,Willem II_Ajax_2008,Willem II,1,1,1,1
+2008-08-30,Utrecht_PSV Eindhoven_2008,Utrecht,1,1,1,1
+2008-08-30,Nijmegen_Graafschap_2008,Nijmegen,1,1,1,1
+2008-08-30,Willem II_Ajax_2008,Ajax,1,1,1,1
+2008-08-30,Nijmegen_Graafschap_2008,Graafschap,1,1,1,1
+2008-08-31,Sparta_Den Haag_2008,Den Haag,1,1,1,1
+2008-08-31,Volendam_Heerenveen_2008,Heerenveen,1,1,1,1
+2008-08-31,Heracles_Feyenoord_2008,Feyenoord,1,1,1,1
+2008-08-31,AZ Alkmaar_NAC Breda_2008,NAC Breda,1,1,1,1
+2008-08-31,Heracles_Feyenoord_2008,Heracles,1,1,1,1
+2008-08-31,AZ Alkmaar_NAC Breda_2008,AZ Alkmaar,1,1,1,1
+2008-08-31,Volendam_Heerenveen_2008,Volendam,1,1,1,1
+2008-08-31,Sparta_Den Haag_2008,Sparta,1,1,1,1
+2008-09-12,Heerenveen_Heracles_2008,Heracles,1,1,2,3
+2008-09-12,Heerenveen_Heracles_2008,Heerenveen,1,1,2,3
+2008-09-13,Feyenoord_Volendam_2008,Feyenoord,1,1,2,3
+2008-09-13,PSV Eindhoven_Sparta_2008,PSV Eindhoven,1,1,2,3
+2008-09-13,Den Haag_AZ Alkmaar_2008,Den Haag,1,1,2,3
+2008-09-13,Den Haag_AZ Alkmaar_2008,AZ Alkmaar,1,1,2,3
+2008-09-13,Feyenoord_Volendam_2008,Volendam,1,1,2,3
+2008-09-13,Twente_Nijmegen_2008,Nijmegen,1,1,2,3
+2008-09-13,PSV Eindhoven_Sparta_2008,Sparta,1,1,2,3
+2008-09-13,Twente_Nijmegen_2008,Twente,1,1,2,3
+2008-09-14,Graafschap_Vitesse_2008,Graafschap,1,1,2,3
+2008-09-14,NAC Breda_Willem II_2008,Willem II,1,1,2,3
+2008-09-14,NAC Breda_Willem II_2008,NAC Breda,1,1,2,3
+2008-09-14,Graafschap_Vitesse_2008,Vitesse,1,1,2,3
+2008-09-14,Ajax_Roda JC_2008,Roda JC,1,1,2,3
+2008-09-14,Groningen_Utrecht_2008,Groningen,1,1,2,3
+2008-09-14,Groningen_Utrecht_2008,Utrecht,1,1,2,3
+2008-09-14,Ajax_Roda JC_2008,Ajax,1,1,2,3
+2008-09-19,Utrecht_Willem II_2008,Willem II,1,2,3,4
+2008-09-19,Utrecht_Willem II_2008,Utrecht,2,1,3,4
+2008-09-20,Heracles_Groningen_2008,Groningen,1,2,3,4
+2008-09-20,Vitesse_Sparta_2008,Sparta,1,2,3,4
+2008-09-20,Heracles_Groningen_2008,Heracles,2,1,3,4
+2008-09-20,AZ Alkmaar_PSV Eindhoven_2008,PSV Eindhoven,1,2,3,4
+2008-09-20,Vitesse_Sparta_2008,Vitesse,2,1,3,4
+2008-09-20,AZ Alkmaar_PSV Eindhoven_2008,AZ Alkmaar,2,1,3,4
+2008-09-21,Heerenveen_Nijmegen_2008,Nijmegen,1,2,3,4
+2008-09-21,Graafschap_Den Haag_2008,Den Haag,1,2,3,4
+2008-09-21,Graafschap_Den Haag_2008,Graafschap,2,1,3,4
+2008-09-21,Roda JC_NAC Breda_2008,NAC Breda,1,2,3,4
+2008-09-21,Volendam_Twente_2008,Volendam,2,1,3,4
+2008-09-21,Feyenoord_Ajax_2008,Feyenoord,2,1,3,4
+2008-09-21,Feyenoord_Ajax_2008,Ajax,1,2,3,4
+2008-09-21,Heerenveen_Nijmegen_2008,Heerenveen,2,1,3,4
+2008-09-21,Volendam_Twente_2008,Twente,1,2,3,4
+2008-09-21,Roda JC_NAC Breda_2008,Roda JC,2,1,3,4
+2008-09-27,Willem II_AZ Alkmaar_2008,AZ Alkmaar,2,2,4,5
+2008-09-27,NAC Breda_Heerenveen_2008,NAC Breda,2,2,4,5
+2008-09-27,PSV Eindhoven_Volendam_2008,Volendam,2,2,4,5
+2008-09-27,Willem II_AZ Alkmaar_2008,Willem II,2,2,4,5
+2008-09-27,Twente_Graafschap_2008,Graafschap,2,2,4,5
+2008-09-27,NAC Breda_Heerenveen_2008,Heerenveen,2,2,4,5
+2008-09-27,Twente_Graafschap_2008,Twente,2,2,4,5
+2008-09-27,PSV Eindhoven_Volendam_2008,PSV Eindhoven,2,2,4,5
+2008-09-28,Nijmegen_Heracles_2008,Heracles,2,2,4,5
+2008-09-28,Sparta_Roda JC_2008,Sparta,2,2,4,5
+2008-09-28,Nijmegen_Heracles_2008,Nijmegen,2,2,4,5
+2008-09-28,Den Haag_Utrecht_2008,Utrecht,2,2,4,5
+2008-09-28,Den Haag_Utrecht_2008,Den Haag,2,2,4,5
+2008-09-28,Sparta_Roda JC_2008,Roda JC,2,2,4,5
+2008-09-28,Ajax_Vitesse_2008,Ajax,2,2,4,5
+2008-09-28,Groningen_Feyenoord_2008,Feyenoord,2,2,4,5
+2008-09-28,Ajax_Vitesse_2008,Vitesse,2,2,4,5
+2008-09-28,Groningen_Feyenoord_2008,Groningen,2,2,4,5
+2008-10-03,AZ Alkmaar_Sparta_2008,Sparta,2,3,5,6
+2008-10-03,AZ Alkmaar_Sparta_2008,AZ Alkmaar,3,2,5,6
+2008-10-04,PSV Eindhoven_Graafschap_2008,Graafschap,2,3,5,6
+2008-10-04,PSV Eindhoven_Graafschap_2008,PSV Eindhoven,3,2,5,6
+2008-10-04,Vitesse_Willem II_2008,Willem II,2,3,5,6
+2008-10-04,Vitesse_Willem II_2008,Vitesse,3,2,5,6
+2008-10-04,Heracles_Roda JC_2008,Roda JC,2,3,5,6
+2008-10-04,Heracles_Roda JC_2008,Heracles,3,2,5,6
+2008-10-05,Utrecht_Twente_2008,Twente,2,3,5,6
+2008-10-05,Feyenoord_Nijmegen_2008,Nijmegen,2,3,5,6
+2008-10-05,Utrecht_Twente_2008,Utrecht,3,2,5,6
+2008-10-05,Feyenoord_Nijmegen_2008,Feyenoord,3,2,5,6
+2008-10-05,Volendam_NAC Breda_2008,NAC Breda,2,3,5,6
+2008-10-05,Heerenveen_Ajax_2008,Heerenveen,3,2,5,6
+2008-10-05,Groningen_Den Haag_2008,Groningen,3,2,5,6
+2008-10-05,Heerenveen_Ajax_2008,Ajax,2,3,5,6
+2008-10-05,Volendam_NAC Breda_2008,Volendam,3,2,5,6
+2008-10-05,Groningen_Den Haag_2008,Den Haag,2,3,5,6
+2008-10-17,Den Haag_Volendam_2008,Volendam,3,3,6,8
+2008-10-17,Den Haag_Volendam_2008,Den Haag,3,3,6,8
+2008-10-18,NAC Breda_PSV Eindhoven_2008,PSV Eindhoven,3,3,6,8
+2008-10-18,Twente_Heracles_2008,Twente,3,3,6,8
+2008-10-18,Twente_Heracles_2008,Heracles,3,3,6,8
+2008-10-18,Ajax_Groningen_2008,Ajax,3,3,6,8
+2008-10-18,NAC Breda_PSV Eindhoven_2008,NAC Breda,3,3,6,8
+2008-10-18,Roda JC_Heerenveen_2008,Heerenveen,3,3,6,8
+2008-10-18,Roda JC_Heerenveen_2008,Roda JC,3,3,6,8
+2008-10-18,Ajax_Groningen_2008,Groningen,3,3,6,8
+2008-10-19,Graafschap_AZ Alkmaar_2008,AZ Alkmaar,3,3,6,8
+2008-10-19,Nijmegen_Vitesse_2008,Nijmegen,3,3,6,8
+2008-10-19,Willem II_Feyenoord_2008,Feyenoord,3,3,6,8
+2008-10-19,Sparta_Utrecht_2008,Sparta,3,3,6,8
+2008-10-19,Nijmegen_Vitesse_2008,Vitesse,3,3,6,8
+2008-10-19,Willem II_Feyenoord_2008,Willem II,3,3,6,8
+2008-10-19,Graafschap_AZ Alkmaar_2008,Graafschap,3,3,6,8
+2008-10-19,Sparta_Utrecht_2008,Utrecht,3,3,6,8
+2008-10-24,Heracles_Den Haag_2008,Den Haag,3,4,7,9
+2008-10-24,Heracles_Den Haag_2008,Heracles,4,3,7,9
+2008-10-25,AZ Alkmaar_Volendam_2008,AZ Alkmaar,4,3,7,9
+2008-10-25,Groningen_Sparta_2008,Sparta,3,4,7,9
+2008-10-25,Groningen_Sparta_2008,Groningen,4,3,7,9
+2008-10-25,Willem II_Graafschap_2008,Graafschap,3,4,7,9
+2008-10-25,PSV Eindhoven_Roda JC_2008,Roda JC,3,4,7,9
+2008-10-25,PSV Eindhoven_Roda JC_2008,PSV Eindhoven,4,3,7,9
+2008-10-25,AZ Alkmaar_Volendam_2008,Volendam,3,4,7,9
+2008-10-25,Willem II_Graafschap_2008,Willem II,4,3,7,9
+2008-10-26,Feyenoord_Heerenveen_2008,Heerenveen,3,4,7,9
+2008-10-26,Utrecht_NAC Breda_2008,NAC Breda,3,4,7,9
+2008-10-26,Ajax_Nijmegen_2008,Ajax,4,3,7,9
+2008-10-26,Utrecht_NAC Breda_2008,Utrecht,4,3,7,9
+2008-10-26,Feyenoord_Heerenveen_2008,Feyenoord,4,3,7,9
+2008-10-26,Vitesse_Twente_2008,Vitesse,4,3,7,9
+2008-10-26,Vitesse_Twente_2008,Twente,3,4,7,9
+2008-10-26,Ajax_Nijmegen_2008,Nijmegen,3,4,7,9
+2008-10-28,Den Haag_PSV Eindhoven_2008,PSV Eindhoven,4,4,8,10
+2008-10-28,Roda JC_AZ Alkmaar_2008,AZ Alkmaar,4,4,8,10
+2008-10-28,Volendam_Willem II_2008,Volendam,4,4,8,10
+2008-10-28,Den Haag_PSV Eindhoven_2008,Den Haag,4,4,8,10
+2008-10-28,Volendam_Willem II_2008,Willem II,4,4,8,10
+2008-10-28,Roda JC_AZ Alkmaar_2008,Roda JC,4,4,8,10
+2008-10-29,Nijmegen_Groningen_2008,Nijmegen,4,4,8,10
+2008-10-29,Sparta_Feyenoord_2008,Feyenoord,4,4,8,10
+2008-10-29,NAC Breda_Twente_2008,Twente,3,5,8,10
+2008-10-29,Heerenveen_Vitesse_2008,Vitesse,4,4,8,10
+2008-10-29,Heracles_Ajax_2008,Heracles,5,3,8,10
+2008-10-29,Nijmegen_Groningen_2008,Groningen,4,4,8,10
+2008-10-29,Heerenveen_Vitesse_2008,Heerenveen,4,4,8,10
+2008-10-29,Sparta_Feyenoord_2008,Sparta,4,4,8,10
+2008-10-29,NAC Breda_Twente_2008,NAC Breda,4,4,8,10
+2008-10-29,Heracles_Ajax_2008,Ajax,4,4,8,10
+2008-10-30,Graafschap_Utrecht_2008,Graafschap,4,4,8,10
+2008-10-30,Graafschap_Utrecht_2008,Utrecht,4,4,8,10
+2008-11-01,NAC Breda_Groningen_2008,NAC Breda,5,4,9,10
+2008-11-01,Heerenveen_AZ Alkmaar_2008,AZ Alkmaar,4,5,9,10
+2008-11-01,PSV Eindhoven_Willem II_2008,Willem II,4,5,9,10
+2008-11-01,Twente_Ajax_2008,Ajax,4,5,9,10
+2008-11-01,Heerenveen_AZ Alkmaar_2008,Heerenveen,5,4,9,10
+2008-11-01,NAC Breda_Groningen_2008,Groningen,4,5,9,10
+2008-11-01,Twente_Ajax_2008,Twente,4,5,9,10
+2008-11-01,PSV Eindhoven_Willem II_2008,PSV Eindhoven,5,4,9,10
+2008-11-02,Roda JC_Feyenoord_2008,Roda JC,5,4,9,10
+2008-11-02,Roda JC_Feyenoord_2008,Feyenoord,4,5,9,10
+2008-11-02,Volendam_Graafschap_2008,Volendam,5,4,9,10
+2008-11-02,Vitesse_Den Haag_2008,Den Haag,4,5,9,10
+2008-11-02,Volendam_Graafschap_2008,Graafschap,4,5,9,10
+2008-11-02,Sparta_Nijmegen_2008,Sparta,5,4,9,10
+2008-11-02,Utrecht_Heracles_2008,Utrecht,5,4,9,10
+2008-11-02,Vitesse_Den Haag_2008,Vitesse,5,4,9,10
+2008-11-02,Utrecht_Heracles_2008,Heracles,5,4,9,10
+2008-11-02,Sparta_Nijmegen_2008,Nijmegen,4,5,9,10
+2008-11-07,Graafschap_NAC Breda_2008,Graafschap,5,5,10,11
+2008-11-07,Graafschap_NAC Breda_2008,NAC Breda,5,5,10,11
+2008-11-08,Heracles_Vitesse_2008,Heracles,6,4,10,11
+2008-11-08,Willem II_Roda JC_2008,Willem II,5,5,10,11
+2008-11-08,Willem II_Roda JC_2008,Roda JC,5,5,10,11
+2008-11-08,Nijmegen_PSV Eindhoven_2008,PSV Eindhoven,5,5,10,11
+2008-11-08,Heracles_Vitesse_2008,Vitesse,5,5,10,11
+2008-11-08,Nijmegen_PSV Eindhoven_2008,Nijmegen,5,5,10,11
+2008-11-09,Feyenoord_Utrecht_2008,Feyenoord,5,5,10,11
+2008-11-09,Ajax_Sparta_2008,Ajax,5,5,10,11
+2008-11-09,AZ Alkmaar_Twente_2008,AZ Alkmaar,5,5,10,11
+2008-11-09,Den Haag_Heerenveen_2008,Den Haag,5,5,10,11
+2008-11-09,Ajax_Sparta_2008,Sparta,5,5,10,11
+2008-11-09,AZ Alkmaar_Twente_2008,Twente,4,6,10,11
+2008-11-09,Groningen_Volendam_2008,Volendam,5,5,10,11
+2008-11-09,Feyenoord_Utrecht_2008,Utrecht,5,5,10,11
+2008-11-09,Groningen_Volendam_2008,Groningen,5,5,10,11
+2008-11-09,Den Haag_Heerenveen_2008,Heerenveen,5,5,10,11
+2008-11-14,NAC Breda_Heracles_2008,Heracles,6,5,11,12
+2008-11-14,NAC Breda_Heracles_2008,NAC Breda,6,5,11,12
+2008-11-15,Roda JC_Nijmegen_2008,Roda JC,6,5,11,12
+2008-11-15,Heerenveen_Utrecht_2008,Utrecht,5,6,11,12
+2008-11-15,Sparta_Volendam_2008,Sparta,6,5,11,12
+2008-11-15,Heerenveen_Utrecht_2008,Heerenveen,6,5,11,12
+2008-11-15,Den Haag_Willem II_2008,Den Haag,6,5,11,12
+2008-11-15,Roda JC_Nijmegen_2008,Nijmegen,5,6,11,12
+2008-11-15,Sparta_Volendam_2008,Volendam,5,6,11,12
+2008-11-15,Den Haag_Willem II_2008,Willem II,5,6,11,12
+2008-11-16,Vitesse_AZ Alkmaar_2008,Vitesse,6,5,11,12
+2008-11-16,Twente_Feyenoord_2008,Twente,5,6,11,12
+2008-11-16,Ajax_PSV Eindhoven_2008,PSV Eindhoven,5,6,11,12
+2008-11-16,Groningen_Graafschap_2008,Groningen,6,5,11,12
+2008-11-16,Groningen_Graafschap_2008,Graafschap,5,6,11,12
+2008-11-16,Twente_Feyenoord_2008,Feyenoord,5,6,11,12
+2008-11-16,Ajax_PSV Eindhoven_2008,Ajax,6,5,11,12
+2008-11-16,Vitesse_AZ Alkmaar_2008,AZ Alkmaar,5,6,11,12
+2008-11-21,Volendam_Roda JC_2008,Roda JC,6,6,12,13
+2008-11-21,Volendam_Roda JC_2008,Volendam,6,6,12,13
+2008-11-22,Twente_Heerenveen_2008,Heerenveen,6,6,12,13
+2008-11-22,Twente_Heerenveen_2008,Twente,6,6,12,13
+2008-11-22,NAC Breda_Nijmegen_2008,NAC Breda,7,5,12,13
+2008-11-22,NAC Breda_Nijmegen_2008,Nijmegen,5,7,12,13
+2008-11-22,PSV Eindhoven_Heracles_2008,Heracles,6,6,12,13
+2008-11-22,Graafschap_Sparta_2008,Graafschap,6,6,12,13
+2008-11-22,Graafschap_Sparta_2008,Sparta,6,6,12,13
+2008-11-22,PSV Eindhoven_Heracles_2008,PSV Eindhoven,6,6,12,13
+2008-11-23,Willem II_Groningen_2008,Willem II,6,6,12,13
+2008-11-23,AZ Alkmaar_Ajax_2008,AZ Alkmaar,6,6,12,13
+2008-11-23,AZ Alkmaar_Ajax_2008,Ajax,6,6,12,13
+2008-11-23,Feyenoord_Den Haag_2008,Feyenoord,6,6,12,13
+2008-11-23,Utrecht_Vitesse_2008,Vitesse,6,6,12,13
+2008-11-23,Utrecht_Vitesse_2008,Utrecht,6,6,12,13
+2008-11-23,Willem II_Groningen_2008,Groningen,6,6,12,13
+2008-11-23,Feyenoord_Den Haag_2008,Den Haag,6,6,12,13
+2008-11-28,Groningen_AZ Alkmaar_2008,AZ Alkmaar,6,7,13,14
+2008-11-28,Groningen_AZ Alkmaar_2008,Groningen,7,6,13,14
+2008-11-29,Heracles_Willem II_2008,Heracles,7,6,13,14
+2008-11-29,Heracles_Willem II_2008,Willem II,6,7,13,14
+2008-11-29,Den Haag_Twente_2008,Den Haag,7,6,13,14
+2008-11-29,Heerenveen_PSV Eindhoven_2008,Heerenveen,7,6,13,14
+2008-11-29,Graafschap_Roda JC_2008,Roda JC,6,7,13,14
+2008-11-29,Graafschap_Roda JC_2008,Graafschap,7,6,13,14
+2008-11-29,Heerenveen_PSV Eindhoven_2008,PSV Eindhoven,6,7,13,14
+2008-11-29,Den Haag_Twente_2008,Twente,6,7,13,14
+2008-11-30,Vitesse_Feyenoord_2008,Feyenoord,6,7,13,14
+2008-11-30,Ajax_Utrecht_2008,Ajax,7,6,13,14
+2008-11-30,Nijmegen_Volendam_2008,Volendam,6,7,13,14
+2008-11-30,Sparta_NAC Breda_2008,Sparta,7,6,13,14
+2008-11-30,Ajax_Utrecht_2008,Utrecht,6,7,13,14
+2008-11-30,Vitesse_Feyenoord_2008,Vitesse,7,6,13,14
+2008-11-30,Nijmegen_Volendam_2008,Nijmegen,6,7,13,14
+2008-11-30,Sparta_NAC Breda_2008,NAC Breda,7,6,13,14
+2008-12-06,Twente_Sparta_2008,Sparta,7,7,14,15
+2008-12-06,Roda JC_Vitesse_2008,Vitesse,7,7,14,15
+2008-12-06,Twente_Sparta_2008,Twente,7,7,14,15
+2008-12-06,Roda JC_Vitesse_2008,Roda JC,7,7,14,15
+2008-12-06,PSV Eindhoven_Groningen_2008,PSV Eindhoven,7,7,14,15
+2008-12-06,AZ Alkmaar_Heracles_2008,AZ Alkmaar,7,7,14,15
+2008-12-06,PSV Eindhoven_Groningen_2008,Groningen,7,7,14,15
+2008-12-06,AZ Alkmaar_Heracles_2008,Heracles,7,7,14,15
+2008-12-07,Nijmegen_Utrecht_2008,Nijmegen,7,7,14,15
+2008-12-07,NAC Breda_Den Haag_2008,NAC Breda,8,6,14,15
+2008-12-07,Willem II_Heerenveen_2008,Heerenveen,7,7,14,15
+2008-12-07,Volendam_Ajax_2008,Volendam,7,7,14,15
+2008-12-07,Feyenoord_Graafschap_2008,Feyenoord,7,7,14,15
+2008-12-07,Nijmegen_Utrecht_2008,Utrecht,6,8,14,15
+2008-12-07,Feyenoord_Graafschap_2008,Graafschap,7,7,14,15
+2008-12-07,Willem II_Heerenveen_2008,Willem II,7,7,14,15
+2008-12-07,NAC Breda_Den Haag_2008,Den Haag,7,7,14,15
+2008-12-07,Volendam_Ajax_2008,Ajax,7,7,14,15
+2008-12-12,Ajax_NAC Breda_2008,Ajax,8,7,15,16
+2008-12-12,Ajax_NAC Breda_2008,NAC Breda,8,7,15,16
+2008-12-13,Den Haag_Roda JC_2008,Den Haag,8,7,15,16
+2008-12-13,Willem II_Nijmegen_2008,Willem II,8,7,15,16
+2008-12-13,Willem II_Nijmegen_2008,Nijmegen,7,8,15,16
+2008-12-13,Heerenveen_Graafschap_2008,Heerenveen,8,7,15,16
+2008-12-13,Den Haag_Roda JC_2008,Roda JC,7,8,15,16
+2008-12-13,Feyenoord_AZ Alkmaar_2008,AZ Alkmaar,7,8,15,16
+2008-12-13,Feyenoord_AZ Alkmaar_2008,Feyenoord,8,7,15,16
+2008-12-13,Heerenveen_Graafschap_2008,Graafschap,7,8,15,16
+2008-12-14,Utrecht_Volendam_2008,Volendam,7,8,15,16
+2008-12-14,Heracles_Sparta_2008,Heracles,8,7,15,16
+2008-12-14,Vitesse_PSV Eindhoven_2008,Vitesse,8,7,15,16
+2008-12-14,Utrecht_Volendam_2008,Utrecht,7,8,15,16
+2008-12-14,Groningen_Twente_2008,Groningen,8,7,15,16
+2008-12-14,Groningen_Twente_2008,Twente,7,8,15,16
+2008-12-14,Heracles_Sparta_2008,Sparta,7,8,15,16
+2008-12-14,Vitesse_PSV Eindhoven_2008,PSV Eindhoven,7,8,15,16
+2008-12-19,AZ Alkmaar_Utrecht_2008,AZ Alkmaar,8,8,16,17
+2008-12-19,AZ Alkmaar_Utrecht_2008,Utrecht,7,9,16,17
+2008-12-20,Roda JC_Groningen_2008,Groningen,8,8,16,17
+2008-12-20,Roda JC_Groningen_2008,Roda JC,8,8,16,17
+2008-12-20,Sparta_Heerenveen_2008,Heerenveen,8,8,16,17
+2008-12-20,NAC Breda_Vitesse_2008,NAC Breda,9,7,16,17
+2008-12-20,Sparta_Heerenveen_2008,Sparta,8,8,16,17
+2008-12-20,NAC Breda_Vitesse_2008,Vitesse,8,8,16,17
+2008-12-21,Nijmegen_Den Haag_2008,Den Haag,8,8,16,17
+2008-12-21,PSV Eindhoven_Feyenoord_2008,PSV Eindhoven,8,8,16,17
+2008-12-21,Twente_Willem II_2008,Twente,8,8,16,17
+2008-12-21,Volendam_Heracles_2008,Volendam,8,8,16,17
+2008-12-21,Graafschap_Ajax_2008,Graafschap,8,8,16,17
+2008-12-21,Graafschap_Ajax_2008,Ajax,8,8,16,17
+2008-12-21,PSV Eindhoven_Feyenoord_2008,Feyenoord,8,8,16,17
+2008-12-21,Volendam_Heracles_2008,Heracles,8,8,16,17
+2008-12-21,Twente_Willem II_2008,Willem II,8,8,16,17
+2008-12-21,Nijmegen_Den Haag_2008,Nijmegen,8,8,16,17
+2008-12-26,Feyenoord_NAC Breda_2008,NAC Breda,9,8,17,18
+2008-12-26,Feyenoord_NAC Breda_2008,Feyenoord,9,8,17,18
+2008-12-27,Willem II_Sparta_2008,Sparta,8,9,17,18
+2008-12-27,Heracles_Graafschap_2008,Graafschap,8,9,17,18
+2008-12-27,Vitesse_Volendam_2008,Vitesse,9,8,17,18
+2008-12-27,PSV Eindhoven_Twente_2008,Twente,8,9,17,18
+2008-12-27,Heracles_Graafschap_2008,Heracles,9,8,17,18
+2008-12-27,Vitesse_Volendam_2008,Volendam,8,9,17,18
+2008-12-27,Willem II_Sparta_2008,Willem II,9,8,17,18
+2008-12-27,PSV Eindhoven_Twente_2008,PSV Eindhoven,9,8,17,18
+2008-12-28,AZ Alkmaar_Nijmegen_2008,Nijmegen,8,9,17,18
+2008-12-28,Utrecht_Roda JC_2008,Roda JC,8,9,17,18
+2008-12-28,Ajax_Den Haag_2008,Den Haag,8,9,17,18
+2008-12-28,Ajax_Den Haag_2008,Ajax,9,8,17,18
+2008-12-28,Groningen_Heerenveen_2008,Groningen,9,8,17,18
+2008-12-28,Utrecht_Roda JC_2008,Utrecht,8,9,17,18
+2008-12-28,Groningen_Heerenveen_2008,Heerenveen,8,9,17,18
+2008-12-28,AZ Alkmaar_Nijmegen_2008,AZ Alkmaar,9,8,17,18
+2009-01-16,Heerenveen_Feyenoord_2008,Feyenoord,9,9,18,21
+2009-01-16,Heerenveen_Feyenoord_2008,Heerenveen,9,9,18,21
+2009-01-17,Graafschap_Willem II_2008,Graafschap,9,9,18,21
+2009-01-17,Den Haag_Heracles_2008,Heracles,9,9,18,21
+2009-01-17,NAC Breda_Utrecht_2008,NAC Breda,10,8,18,21
+2009-01-17,NAC Breda_Utrecht_2008,Utrecht,8,10,18,21
+2009-01-17,Den Haag_Heracles_2008,Den Haag,9,9,18,21
+2009-01-17,Graafschap_Willem II_2008,Willem II,9,9,18,21
+2009-01-17,Twente_Vitesse_2008,Twente,9,9,18,21
+2009-01-17,Twente_Vitesse_2008,Vitesse,9,9,18,21
+2009-01-18,Roda JC_PSV Eindhoven_2008,PSV Eindhoven,9,9,18,21
+2009-01-18,Sparta_Groningen_2008,Groningen,9,9,18,21
+2009-01-18,Nijmegen_Ajax_2008,Ajax,9,9,18,21
+2009-01-18,Sparta_Groningen_2008,Sparta,9,9,18,21
+2009-01-18,Volendam_AZ Alkmaar_2008,Volendam,9,9,18,21
+2009-01-18,Roda JC_PSV Eindhoven_2008,Roda JC,9,9,18,21
+2009-01-18,Nijmegen_Ajax_2008,Nijmegen,9,9,18,21
+2009-01-18,Volendam_AZ Alkmaar_2008,AZ Alkmaar,9,9,18,21
+2009-01-24,Feyenoord_Willem II_2008,Willem II,9,10,19,22
+2009-01-24,PSV Eindhoven_NAC Breda_2008,PSV Eindhoven,10,9,19,22
+2009-01-24,AZ Alkmaar_Graafschap_2008,Graafschap,9,10,19,22
+2009-01-24,PSV Eindhoven_NAC Breda_2008,NAC Breda,10,9,19,22
+2009-01-24,AZ Alkmaar_Graafschap_2008,AZ Alkmaar,10,9,19,22
+2009-01-24,Feyenoord_Willem II_2008,Feyenoord,10,9,19,22
+2009-01-24,Heerenveen_Roda JC_2008,Heerenveen,10,9,19,22
+2009-01-24,Heerenveen_Roda JC_2008,Roda JC,9,10,19,22
+2009-01-25,Heracles_Twente_2008,Heracles,10,9,19,22
+2009-01-25,Groningen_Ajax_2008,Ajax,9,10,19,22
+2009-01-25,Utrecht_Sparta_2008,Sparta,9,10,19,22
+2009-01-25,Volendam_Den Haag_2008,Volendam,10,9,19,22
+2009-01-25,Utrecht_Sparta_2008,Utrecht,9,10,19,22
+2009-01-25,Vitesse_Nijmegen_2008,Vitesse,10,9,19,22
+2009-01-25,Volendam_Den Haag_2008,Den Haag,9,10,19,22
+2009-01-25,Vitesse_Nijmegen_2008,Nijmegen,9,10,19,22
+2009-01-25,Heracles_Twente_2008,Twente,9,10,19,22
+2009-01-25,Groningen_Ajax_2008,Groningen,10,9,19,22
+2009-01-30,Roda JC_Heracles_2008,Roda JC,10,10,20,23
+2009-01-30,Roda JC_Heracles_2008,Heracles,10,10,20,23
+2009-01-31,NAC Breda_Volendam_2008,Volendam,10,10,20,23
+2009-01-31,Ajax_Heerenveen_2008,Heerenveen,10,10,20,23
+2009-01-31,Den Haag_Groningen_2008,Groningen,10,10,20,23
+2009-01-31,Willem II_Vitesse_2008,Vitesse,10,10,20,23
+2009-01-31,Willem II_Vitesse_2008,Willem II,10,10,20,23
+2009-01-31,Ajax_Heerenveen_2008,Ajax,10,10,20,23
+2009-01-31,NAC Breda_Volendam_2008,NAC Breda,11,9,20,23
+2009-01-31,Den Haag_Groningen_2008,Den Haag,10,10,20,23
+2009-02-01,Sparta_AZ Alkmaar_2008,Sparta,10,10,20,23
+2009-02-01,Sparta_AZ Alkmaar_2008,AZ Alkmaar,10,10,20,23
+2009-02-01,Graafschap_PSV Eindhoven_2008,PSV Eindhoven,10,10,20,23
+2009-02-01,Nijmegen_Feyenoord_2008,Feyenoord,10,10,20,23
+2009-02-01,Twente_Utrecht_2008,Twente,10,10,20,23
+2009-02-01,Nijmegen_Feyenoord_2008,Nijmegen,10,10,20,23
+2009-02-01,Graafschap_PSV Eindhoven_2008,Graafschap,10,10,20,23
+2009-02-01,Twente_Utrecht_2008,Utrecht,9,11,20,23
+2009-02-03,Willem II_Volendam_2008,Willem II,11,10,21,24
+2009-02-03,Ajax_Heracles_2008,Ajax,11,10,21,24
+2009-02-03,Ajax_Heracles_2008,Heracles,10,11,21,24
+2009-02-03,Vitesse_Heerenveen_2008,Vitesse,11,10,21,24
+2009-02-03,Vitesse_Heerenveen_2008,Heerenveen,10,11,21,24
+2009-02-03,Willem II_Volendam_2008,Volendam,10,11,21,24
+2009-02-04,Utrecht_Graafschap_2008,Utrecht,10,11,21,24
+2009-02-04,Twente_NAC Breda_2008,Twente,11,10,21,24
+2009-02-04,AZ Alkmaar_Roda JC_2008,AZ Alkmaar,11,10,21,24
+2009-02-04,Groningen_Nijmegen_2008,Nijmegen,10,11,21,24
+2009-02-04,Feyenoord_Sparta_2008,Feyenoord,11,10,21,24
+2009-02-04,Feyenoord_Sparta_2008,Sparta,10,11,21,24
+2009-02-04,Groningen_Nijmegen_2008,Groningen,11,10,21,24
+2009-02-04,AZ Alkmaar_Roda JC_2008,Roda JC,10,11,21,24
+2009-02-04,Twente_NAC Breda_2008,NAC Breda,11,10,21,24
+2009-02-04,Utrecht_Graafschap_2008,Graafschap,10,11,21,24
+2009-02-05,PSV Eindhoven_Den Haag_2008,PSV Eindhoven,11,10,21,24
+2009-02-05,PSV Eindhoven_Den Haag_2008,Den Haag,10,11,21,24
+2009-02-07,Roda JC_Sparta_2008,Sparta,10,12,22,24
+2009-02-07,AZ Alkmaar_Willem II_2008,AZ Alkmaar,12,10,22,24
+2009-02-07,Roda JC_Sparta_2008,Roda JC,11,11,22,24
+2009-02-07,Heracles_Nijmegen_2008,Nijmegen,10,12,22,24
+2009-02-07,Heerenveen_NAC Breda_2008,NAC Breda,11,11,22,24
+2009-02-07,Heerenveen_NAC Breda_2008,Heerenveen,11,11,22,24
+2009-02-07,Heracles_Nijmegen_2008,Heracles,11,11,22,24
+2009-02-07,AZ Alkmaar_Willem II_2008,Willem II,11,11,22,24
+2009-02-08,Feyenoord_Groningen_2008,Groningen,11,11,22,24
+2009-02-08,Graafschap_Twente_2008,Twente,11,11,22,24
+2009-02-08,Utrecht_Den Haag_2008,Den Haag,10,12,22,24
+2009-02-08,Volendam_PSV Eindhoven_2008,Volendam,11,11,22,24
+2009-02-08,Graafschap_Twente_2008,Graafschap,11,11,22,24
+2009-02-08,Utrecht_Den Haag_2008,Utrecht,11,11,22,24
+2009-02-08,Vitesse_Ajax_2008,Vitesse,12,10,22,24
+2009-02-08,Vitesse_Ajax_2008,Ajax,11,11,22,24
+2009-02-08,Feyenoord_Groningen_2008,Feyenoord,12,10,22,24
+2009-02-08,Volendam_PSV Eindhoven_2008,PSV Eindhoven,11,11,22,24
+2009-02-13,Willem II_Utrecht_2008,Utrecht,11,12,23,25
+2009-02-13,Willem II_Utrecht_2008,Willem II,12,11,23,25
+2009-02-14,NAC Breda_Roda JC_2008,Roda JC,11,12,23,25
+2009-02-14,Twente_Volendam_2008,Twente,12,11,23,25
+2009-02-14,Den Haag_Graafschap_2008,Den Haag,11,12,23,25
+2009-02-14,Twente_Volendam_2008,Volendam,11,12,23,25
+2009-02-14,Den Haag_Graafschap_2008,Graafschap,11,12,23,25
+2009-02-14,PSV Eindhoven_AZ Alkmaar_2008,AZ Alkmaar,12,11,23,25
+2009-02-14,NAC Breda_Roda JC_2008,NAC Breda,12,11,23,25
+2009-02-14,PSV Eindhoven_AZ Alkmaar_2008,PSV Eindhoven,12,11,23,25
+2009-02-15,Ajax_Feyenoord_2008,Ajax,12,11,23,25
+2009-02-15,Nijmegen_Heerenveen_2008,Heerenveen,11,12,23,25
+2009-02-15,Ajax_Feyenoord_2008,Feyenoord,12,11,23,25
+2009-02-15,Groningen_Heracles_2008,Heracles,11,12,23,25
+2009-02-15,Groningen_Heracles_2008,Groningen,12,11,23,25
+2009-02-15,Nijmegen_Heerenveen_2008,Nijmegen,11,12,23,25
+2009-02-15,Sparta_Vitesse_2008,Vitesse,12,11,23,25
+2009-02-15,Sparta_Vitesse_2008,Sparta,11,12,23,25
+2009-02-20,Vitesse_Roda JC_2008,Vitesse,13,11,24,26
+2009-02-20,Vitesse_Roda JC_2008,Roda JC,11,13,24,26
+2009-02-21,Den Haag_NAC Breda_2008,NAC Breda,12,12,24,26
+2009-02-21,Heerenveen_Willem II_2008,Willem II,12,12,24,26
+2009-02-21,Heerenveen_Willem II_2008,Heerenveen,12,12,24,26
+2009-02-21,Den Haag_NAC Breda_2008,Den Haag,12,12,24,26
+2009-02-21,Heracles_AZ Alkmaar_2008,AZ Alkmaar,12,12,24,26
+2009-02-21,Groningen_PSV Eindhoven_2008,Groningen,13,11,24,26
+2009-02-21,Groningen_PSV Eindhoven_2008,PSV Eindhoven,12,12,24,26
+2009-02-21,Heracles_AZ Alkmaar_2008,Heracles,12,12,24,26
+2009-02-22,Graafschap_Feyenoord_2008,Graafschap,12,12,24,26
+2009-02-22,Ajax_Volendam_2008,Volendam,11,13,24,26
+2009-02-22,Ajax_Volendam_2008,Ajax,13,11,24,26
+2009-02-22,Graafschap_Feyenoord_2008,Feyenoord,12,12,24,26
+2009-02-22,Utrecht_Nijmegen_2008,Nijmegen,11,13,24,26
+2009-02-22,Sparta_Twente_2008,Twente,12,12,24,26
+2009-02-22,Utrecht_Nijmegen_2008,Utrecht,12,12,24,26
+2009-02-22,Sparta_Twente_2008,Sparta,12,12,24,26
+2009-02-27,PSV Eindhoven_Heerenveen_2008,PSV Eindhoven,13,12,25,27
+2009-02-27,PSV Eindhoven_Heerenveen_2008,Heerenveen,12,13,25,27
+2009-02-28,Roda JC_Graafschap_2008,Graafschap,12,13,25,27
+2009-02-28,NAC Breda_Sparta_2008,Sparta,12,13,25,27
+2009-02-28,NAC Breda_Sparta_2008,NAC Breda,13,12,25,27
+2009-02-28,Willem II_Heracles_2008,Willem II,13,12,25,27
+2009-02-28,Willem II_Heracles_2008,Heracles,12,13,25,27
+2009-02-28,AZ Alkmaar_Groningen_2008,Groningen,13,12,25,27
+2009-02-28,Roda JC_Graafschap_2008,Roda JC,12,13,25,27
+2009-02-28,AZ Alkmaar_Groningen_2008,AZ Alkmaar,13,12,25,27
+2009-03-01,Volendam_Nijmegen_2008,Volendam,12,13,25,27
+2009-03-01,Feyenoord_Vitesse_2008,Vitesse,13,12,25,27
+2009-03-01,Utrecht_Ajax_2008,Utrecht,13,12,25,27
+2009-03-01,Utrecht_Ajax_2008,Ajax,13,12,25,27
+2009-03-01,Feyenoord_Vitesse_2008,Feyenoord,13,12,25,27
+2009-03-01,Twente_Den Haag_2008,Den Haag,12,13,25,27
+2009-03-01,Twente_Den Haag_2008,Twente,13,12,25,27
+2009-03-01,Volendam_Nijmegen_2008,Nijmegen,11,14,25,27
+2009-03-06,Sparta_Willem II_2008,Willem II,13,13,26,28
+2009-03-06,Sparta_Willem II_2008,Sparta,13,13,26,28
+2009-03-07,Heerenveen_Groningen_2008,Heerenveen,13,13,26,28
+2009-03-07,Graafschap_Heracles_2008,Heracles,12,14,26,28
+2009-03-07,Graafschap_Heracles_2008,Graafschap,13,13,26,28
+2009-03-07,Twente_PSV Eindhoven_2008,PSV Eindhoven,13,13,26,28
+2009-03-07,Twente_PSV Eindhoven_2008,Twente,14,12,26,28
+2009-03-07,Heerenveen_Groningen_2008,Groningen,13,13,26,28
+2009-03-08,Den Haag_Ajax_2008,Ajax,13,13,26,28
+2009-03-08,Den Haag_Ajax_2008,Den Haag,13,13,26,28
+2009-03-08,Volendam_Vitesse_2008,Vitesse,13,13,26,28
+2009-03-08,Volendam_Vitesse_2008,Volendam,13,13,26,28
+2009-03-08,NAC Breda_Feyenoord_2008,Feyenoord,13,13,26,28
+2009-03-08,NAC Breda_Feyenoord_2008,NAC Breda,14,12,26,28
+2009-03-08,Roda JC_Utrecht_2008,Roda JC,13,13,26,28
+2009-03-08,Roda JC_Utrecht_2008,Utrecht,13,13,26,28
+2009-03-08,Nijmegen_AZ Alkmaar_2008,AZ Alkmaar,13,13,26,28
+2009-03-08,Nijmegen_AZ Alkmaar_2008,Nijmegen,12,14,26,28
+2009-03-13,Groningen_Roda JC_2008,Roda JC,13,14,27,29
+2009-03-13,Groningen_Roda JC_2008,Groningen,14,13,27,29
+2009-03-14,Willem II_Twente_2008,Twente,14,13,27,29
+2009-03-14,Heracles_Volendam_2008,Volendam,13,14,27,29
+2009-03-14,Vitesse_NAC Breda_2008,Vitesse,14,13,27,29
+2009-03-14,Heerenveen_Sparta_2008,Heerenveen,14,13,27,29
+2009-03-14,Willem II_Twente_2008,Willem II,14,13,27,29
+2009-03-14,Heracles_Volendam_2008,Heracles,13,14,27,29
+2009-03-14,Heerenveen_Sparta_2008,Sparta,13,14,27,29
+2009-03-14,Vitesse_NAC Breda_2008,NAC Breda,14,13,27,29
+2009-03-15,Den Haag_Nijmegen_2008,Nijmegen,12,15,27,29
+2009-03-15,Utrecht_AZ Alkmaar_2008,AZ Alkmaar,13,14,27,29
+2009-03-15,Den Haag_Nijmegen_2008,Den Haag,14,13,27,29
+2009-03-15,Feyenoord_PSV Eindhoven_2008,Feyenoord,14,13,27,29
+2009-03-15,Utrecht_AZ Alkmaar_2008,Utrecht,14,13,27,29
+2009-03-15,Ajax_Graafschap_2008,Graafschap,13,14,27,29
+2009-03-15,Ajax_Graafschap_2008,Ajax,14,13,27,29
+2009-03-15,Feyenoord_PSV Eindhoven_2008,PSV Eindhoven,13,14,27,29
+2009-03-20,Graafschap_Heerenveen_2008,Graafschap,14,14,28,30
+2009-03-20,Graafschap_Heerenveen_2008,Heerenveen,14,14,28,30
+2009-03-21,Nijmegen_Willem II_2008,Willem II,14,14,28,30
+2009-03-21,Sparta_Heracles_2008,Heracles,13,15,28,30
+2009-03-21,Sparta_Heracles_2008,Sparta,14,14,28,30
+2009-03-21,PSV Eindhoven_Vitesse_2008,PSV Eindhoven,14,14,28,30
+2009-03-21,PSV Eindhoven_Vitesse_2008,Vitesse,14,14,28,30
+2009-03-21,Nijmegen_Willem II_2008,Nijmegen,13,15,28,30
+2009-03-22,NAC Breda_Ajax_2008,Ajax,14,14,28,30
+2009-03-22,AZ Alkmaar_Feyenoord_2008,AZ Alkmaar,14,14,28,30
+2009-03-22,Volendam_Utrecht_2008,Utrecht,14,14,28,30
+2009-03-22,Twente_Groningen_2008,Twente,15,13,28,30
+2009-03-22,NAC Breda_Ajax_2008,NAC Breda,15,13,28,30
+2009-03-22,Volendam_Utrecht_2008,Volendam,14,14,28,30
+2009-03-22,AZ Alkmaar_Feyenoord_2008,Feyenoord,14,14,28,30
+2009-03-22,Twente_Groningen_2008,Groningen,14,14,28,30
+2009-03-22,Roda JC_Den Haag_2008,Roda JC,14,14,28,30
+2009-03-22,Roda JC_Den Haag_2008,Den Haag,14,14,28,30
+2009-04-03,Nijmegen_Twente_2008,Nijmegen,14,15,29,32
+2009-04-03,Nijmegen_Twente_2008,Twente,15,14,29,32
+2009-04-04,Sparta_PSV Eindhoven_2008,Sparta,15,14,29,32
+2009-04-04,Utrecht_Groningen_2008,Groningen,14,15,29,32
+2009-04-04,Utrecht_Groningen_2008,Utrecht,15,14,29,32
+2009-04-04,Sparta_PSV Eindhoven_2008,PSV Eindhoven,14,15,29,32
+2009-04-04,Heracles_Heerenveen_2008,Heracles,14,15,29,32
+2009-04-04,Heracles_Heerenveen_2008,Heerenveen,14,15,29,32
+2009-04-04,AZ Alkmaar_Den Haag_2008,AZ Alkmaar,15,14,29,32
+2009-04-04,AZ Alkmaar_Den Haag_2008,Den Haag,14,15,29,32
+2009-04-05,Willem II_NAC Breda_2008,NAC Breda,15,14,29,32
+2009-04-05,Vitesse_Graafschap_2008,Vitesse,15,14,29,32
+2009-04-05,Willem II_NAC Breda_2008,Willem II,15,14,29,32
+2009-04-05,Vitesse_Graafschap_2008,Graafschap,14,15,29,32
+2009-04-05,Roda JC_Ajax_2008,Ajax,14,15,29,32
+2009-04-05,Volendam_Feyenoord_2008,Volendam,15,14,29,32
+2009-04-05,Roda JC_Ajax_2008,Roda JC,15,14,29,32
+2009-04-05,Volendam_Feyenoord_2008,Feyenoord,14,15,29,32
+2009-04-10,NAC Breda_AZ Alkmaar_2008,NAC Breda,16,14,30,33
+2009-04-10,NAC Breda_AZ Alkmaar_2008,AZ Alkmaar,15,15,30,33
+2009-04-11,Graafschap_Nijmegen_2008,Graafschap,15,15,30,33
+2009-04-11,PSV Eindhoven_Utrecht_2008,Utrecht,15,15,30,33
+2009-04-11,PSV Eindhoven_Utrecht_2008,PSV Eindhoven,15,15,30,33
+2009-04-11,Graafschap_Nijmegen_2008,Nijmegen,14,16,30,33
+2009-04-11,Den Haag_Sparta_2008,Den Haag,15,15,30,33
+2009-04-11,Twente_Roda JC_2008,Roda JC,15,15,30,33
+2009-04-11,Twente_Roda JC_2008,Twente,16,14,30,33
+2009-04-11,Den Haag_Sparta_2008,Sparta,15,15,30,33
+2009-04-12,Heerenveen_Volendam_2008,Heerenveen,15,15,30,33
+2009-04-12,Heerenveen_Volendam_2008,Volendam,15,15,30,33
+2009-04-12,Groningen_Vitesse_2008,Groningen,15,15,30,33
+2009-04-12,Feyenoord_Heracles_2008,Feyenoord,15,15,30,33
+2009-04-12,Ajax_Willem II_2008,Willem II,15,15,30,33
+2009-04-12,Feyenoord_Heracles_2008,Heracles,14,16,30,33
+2009-04-12,Ajax_Willem II_2008,Ajax,15,15,30,33
+2009-04-12,Groningen_Vitesse_2008,Vitesse,15,15,30,33
+2009-04-17,Heracles_NAC Breda_2008,NAC Breda,16,15,31,34
+2009-04-17,Heracles_NAC Breda_2008,Heracles,15,16,31,34
+2009-04-18,Nijmegen_Roda JC_2008,Roda JC,15,16,31,34
+2009-04-18,Feyenoord_Twente_2008,Feyenoord,16,15,31,34
+2009-04-18,Feyenoord_Twente_2008,Twente,16,15,31,34
+2009-04-18,Nijmegen_Roda JC_2008,Nijmegen,15,16,31,34
+2009-04-18,AZ Alkmaar_Vitesse_2008,Vitesse,15,16,31,34
+2009-04-18,Graafschap_Groningen_2008,Graafschap,16,15,31,34
+2009-04-18,Graafschap_Groningen_2008,Groningen,15,16,31,34
+2009-04-18,AZ Alkmaar_Vitesse_2008,AZ Alkmaar,16,15,31,34
+2009-04-19,Volendam_Sparta_2008,Volendam,16,15,31,34
+2009-04-19,Utrecht_Heerenveen_2008,Heerenveen,15,16,31,34
+2009-04-19,PSV Eindhoven_Ajax_2008,PSV Eindhoven,16,15,31,34
+2009-04-19,Willem II_Den Haag_2008,Den Haag,15,16,31,34
+2009-04-19,PSV Eindhoven_Ajax_2008,Ajax,15,16,31,34
+2009-04-19,Utrecht_Heerenveen_2008,Utrecht,16,15,31,34
+2009-04-19,Volendam_Sparta_2008,Sparta,15,16,31,34
+2009-04-19,Willem II_Den Haag_2008,Willem II,16,15,31,34
+2009-04-24,Sparta_Graafschap_2008,Graafschap,16,16,32,35
+2009-04-24,Sparta_Graafschap_2008,Sparta,16,16,32,35
+2009-04-25,Heracles_PSV Eindhoven_2008,Heracles,16,16,32,35
+2009-04-25,Roda JC_Volendam_2008,Roda JC,16,16,32,35
+2009-04-25,Roda JC_Volendam_2008,Volendam,16,16,32,35
+2009-04-25,Nijmegen_NAC Breda_2008,NAC Breda,16,16,32,35
+2009-04-25,Nijmegen_NAC Breda_2008,Nijmegen,16,16,32,35
+2009-04-25,Heerenveen_Twente_2008,Heerenveen,16,16,32,35
+2009-04-25,Heracles_PSV Eindhoven_2008,PSV Eindhoven,16,16,32,35
+2009-04-25,Heerenveen_Twente_2008,Twente,16,16,32,35
+2009-04-26,Vitesse_Utrecht_2008,Utrecht,16,16,32,35
+2009-04-26,Ajax_AZ Alkmaar_2008,AZ Alkmaar,16,16,32,35
+2009-04-26,Ajax_AZ Alkmaar_2008,Ajax,16,16,32,35
+2009-04-26,Den Haag_Feyenoord_2008,Den Haag,16,16,32,35
+2009-04-26,Vitesse_Utrecht_2008,Vitesse,16,16,32,35
+2009-04-26,Den Haag_Feyenoord_2008,Feyenoord,16,16,32,35
+2009-04-26,Groningen_Willem II_2008,Willem II,16,16,32,35
+2009-04-26,Groningen_Willem II_2008,Groningen,16,16,32,35
+2009-05-03,Sparta_Ajax_2008,Ajax,16,17,33,36
+2009-05-03,Roda JC_Willem II_2008,Willem II,16,17,33,36
+2009-05-03,Utrecht_Feyenoord_2008,Utrecht,17,16,33,36
+2009-05-03,Vitesse_Heracles_2008,Vitesse,17,16,33,36
+2009-05-03,Volendam_Groningen_2008,Groningen,16,17,33,36
+2009-05-03,Utrecht_Feyenoord_2008,Feyenoord,16,17,33,36
+2009-05-03,NAC Breda_Graafschap_2008,NAC Breda,17,16,33,36
+2009-05-03,Twente_AZ Alkmaar_2008,Twente,17,16,33,36
+2009-05-03,PSV Eindhoven_Nijmegen_2008,Nijmegen,16,17,33,36
+2009-05-03,PSV Eindhoven_Nijmegen_2008,PSV Eindhoven,17,16,33,36
+2009-05-03,Vitesse_Heracles_2008,Heracles,16,17,33,36
+2009-05-03,Roda JC_Willem II_2008,Roda JC,17,16,33,36
+2009-05-03,Heerenveen_Den Haag_2008,Heerenveen,17,16,33,36
+2009-05-03,Sparta_Ajax_2008,Sparta,17,16,33,36
+2009-05-03,Twente_AZ Alkmaar_2008,AZ Alkmaar,16,17,33,36
+2009-05-03,Heerenveen_Den Haag_2008,Den Haag,16,17,33,36
+2009-05-03,Volendam_Groningen_2008,Volendam,17,16,33,36
+2009-05-03,NAC Breda_Graafschap_2008,Graafschap,16,17,33,36
+2009-05-10,Graafschap_Volendam_2008,Graafschap,17,17,34,37
+2009-05-10,Den Haag_Vitesse_2008,Den Haag,17,17,34,37
+2009-05-10,Nijmegen_Sparta_2008,Nijmegen,17,17,34,37
+2009-05-10,Heracles_Utrecht_2008,Utrecht,17,17,34,37
+2009-05-10,AZ Alkmaar_Heerenveen_2008,Heerenveen,17,17,34,37
+2009-05-10,AZ Alkmaar_Heerenveen_2008,AZ Alkmaar,17,17,34,37
+2009-05-10,Den Haag_Vitesse_2008,Vitesse,17,17,34,37
+2009-05-10,Willem II_PSV Eindhoven_2008,PSV Eindhoven,17,17,34,37
+2009-05-10,Ajax_Twente_2008,Twente,17,17,34,37
+2009-05-10,Ajax_Twente_2008,Ajax,17,17,34,37
+2009-05-10,Feyenoord_Roda JC_2008,Feyenoord,17,17,34,37
+2009-05-10,Nijmegen_Sparta_2008,Sparta,17,17,34,37
+2009-05-10,Feyenoord_Roda JC_2008,Roda JC,17,17,34,37
+2009-05-10,Groningen_NAC Breda_2008,NAC Breda,17,17,34,37
+2009-05-10,Groningen_NAC Breda_2008,Groningen,17,17,34,37
+2009-05-10,Heracles_Utrecht_2008,Heracles,17,17,34,37
+2009-05-10,Graafschap_Volendam_2008,Volendam,17,17,34,37
+2009-05-10,Willem II_PSV Eindhoven_2008,Willem II,17,17,34,37

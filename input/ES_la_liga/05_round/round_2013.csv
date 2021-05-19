@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2013-08-17,Valladolid_Ath Bilbao_2013,Ath Bilbao,1,1,1,1
+2013-08-17,Sociedad_Getafe_2013,Sociedad,1,1,1,1
+2013-08-17,Sociedad_Getafe_2013,Getafe,1,1,1,1
+2013-08-17,Valladolid_Ath Bilbao_2013,Valladolid,1,1,1,1
+2013-08-17,Valencia_Malaga_2013,Malaga,1,1,1,1
+2013-08-17,Valencia_Malaga_2013,Valencia,1,1,1,1
+2013-08-18,Sevilla_Ath Madrid_2013,Ath Madrid,1,1,1,1
+2013-08-18,Sevilla_Ath Madrid_2013,Sevilla,1,1,1,1
+2013-08-18,Osasuna_Granada_2013,Granada,1,1,1,1
+2013-08-18,Osasuna_Granada_2013,Osasuna,1,1,1,1
+2013-08-18,Barcelona_Levante_2013,Levante,1,1,1,1
+2013-08-18,Real Madrid_Betis_2013,Real Madrid,1,1,1,1
+2013-08-18,Real Madrid_Betis_2013,Betis,1,1,1,1
+2013-08-18,Barcelona_Levante_2013,Barcelona,1,1,1,1
+2013-08-19,Vallecano_Elche_2013,Vallecano,1,1,1,1
+2013-08-19,Celta_Espanol_2013,Espanol,1,1,1,1
+2013-08-19,Vallecano_Elche_2013,Elche,1,1,1,1
+2013-08-19,Almeria_Villarreal_2013,Almeria,1,1,1,1
+2013-08-19,Almeria_Villarreal_2013,Villarreal,1,1,1,1
+2013-08-19,Celta_Espanol_2013,Celta,1,1,1,1
+2013-08-23,Ath Bilbao_Osasuna_2013,Ath Bilbao,1,1,2,2
+2013-08-23,Ath Bilbao_Osasuna_2013,Osasuna,1,1,2,2
+2013-08-23,Getafe_Almeria_2013,Getafe,1,1,2,2
+2013-08-23,Getafe_Almeria_2013,Almeria,1,1,2,2
+2013-08-24,Villarreal_Valladolid_2013,Valladolid,1,1,2,2
+2013-08-24,Espanol_Valencia_2013,Valencia,1,1,2,2
+2013-08-24,Elche_Sociedad_2013,Elche,1,1,2,2
+2013-08-24,Espanol_Valencia_2013,Espanol,1,1,2,2
+2013-08-24,Elche_Sociedad_2013,Sociedad,1,1,2,2
+2013-08-24,Villarreal_Valladolid_2013,Villarreal,1,1,2,2
+2013-08-25,Ath Madrid_Vallecano_2013,Ath Madrid,1,1,2,2
+2013-08-25,Ath Madrid_Vallecano_2013,Vallecano,1,1,2,2
+2013-08-25,Levante_Sevilla_2013,Levante,1,1,2,2
+2013-08-25,Betis_Celta_2013,Betis,1,1,2,2
+2013-08-25,Betis_Celta_2013,Celta,1,1,2,2
+2013-08-25,Malaga_Barcelona_2013,Barcelona,1,1,2,2
+2013-08-25,Levante_Sevilla_2013,Sevilla,1,1,2,2
+2013-08-25,Malaga_Barcelona_2013,Malaga,1,1,2,2
+2013-08-26,Granada_Real Madrid_2013,Granada,1,1,2,2
+2013-08-26,Granada_Real Madrid_2013,Real Madrid,1,1,2,2
+2013-08-30,Vallecano_Levante_2013,Vallecano,2,1,3,3
+2013-08-30,Almeria_Elche_2013,Almeria,2,1,3,3
+2013-08-30,Almeria_Elche_2013,Elche,1,2,3,3
+2013-08-30,Vallecano_Levante_2013,Levante,1,2,3,3
+2013-08-31,Osasuna_Villarreal_2013,Villarreal,1,2,3,3
+2013-08-31,Osasuna_Villarreal_2013,Osasuna,2,1,3,3
+2013-08-31,Valladolid_Getafe_2013,Getafe,1,2,3,3
+2013-08-31,Celta_Granada_2013,Granada,1,2,3,3
+2013-08-31,Celta_Granada_2013,Celta,2,1,3,3
+2013-08-31,Valladolid_Getafe_2013,Valladolid,2,1,3,3
+2013-09-01,Espanol_Betis_2013,Betis,1,2,3,3
+2013-09-01,Sociedad_Ath Madrid_2013,Ath Madrid,1,2,3,3
+2013-09-01,Espanol_Betis_2013,Espanol,2,1,3,3
+2013-09-01,Valencia_Barcelona_2013,Barcelona,1,2,3,3
+2013-09-01,Real Madrid_Ath Bilbao_2013,Ath Bilbao,1,2,3,3
+2013-09-01,Sociedad_Ath Madrid_2013,Sociedad,2,1,3,3
+2013-09-01,Sevilla_Malaga_2013,Malaga,1,2,3,3
+2013-09-01,Real Madrid_Ath Bilbao_2013,Real Madrid,2,1,3,3
+2013-09-01,Sevilla_Malaga_2013,Sevilla,2,1,3,3
+2013-09-01,Valencia_Barcelona_2013,Valencia,2,1,3,3
+2013-09-14,Ath Madrid_Almeria_2013,Ath Madrid,2,2,4,5
+2013-09-14,Villarreal_Real Madrid_2013,Villarreal,2,2,4,5
+2013-09-14,Barcelona_Sevilla_2013,Sevilla,2,2,4,5
+2013-09-14,Levante_Sociedad_2013,Levante,2,2,4,5
+2013-09-14,Ath Madrid_Almeria_2013,Almeria,2,2,4,5
+2013-09-14,Barcelona_Sevilla_2013,Barcelona,2,2,4,5
+2013-09-14,Levante_Sociedad_2013,Sociedad,2,2,4,5
+2013-09-14,Villarreal_Real Madrid_2013,Real Madrid,2,2,4,5
+2013-09-15,Getafe_Osasuna_2013,Getafe,2,2,4,5
+2013-09-15,Granada_Espanol_2013,Granada,2,2,4,5
+2013-09-15,Malaga_Vallecano_2013,Malaga,2,2,4,5
+2013-09-15,Betis_Valencia_2013,Valencia,2,2,4,5
+2013-09-15,Getafe_Osasuna_2013,Osasuna,2,2,4,5
+2013-09-15,Malaga_Vallecano_2013,Vallecano,2,2,4,5
+2013-09-15,Betis_Valencia_2013,Betis,2,2,4,5
+2013-09-15,Granada_Espanol_2013,Espanol,2,2,4,5
+2013-09-16,Elche_Valladolid_2013,Elche,2,2,4,5
+2013-09-16,Ath Bilbao_Celta_2013,Celta,2,2,4,5
+2013-09-16,Ath Bilbao_Celta_2013,Ath Bilbao,2,2,4,5
+2013-09-16,Elche_Valladolid_2013,Valladolid,2,2,4,5
+2013-09-20,Osasuna_Elche_2013,Elche,2,3,5,6
+2013-09-20,Osasuna_Elche_2013,Osasuna,3,2,5,6
+2013-09-21,Almeria_Levante_2013,Almeria,3,2,5,6
+2013-09-21,Valladolid_Ath Madrid_2013,Valladolid,3,2,5,6
+2013-09-21,Sociedad_Malaga_2013,Sociedad,3,2,5,6
+2013-09-21,Sociedad_Malaga_2013,Malaga,2,3,5,6
+2013-09-21,Valladolid_Ath Madrid_2013,Ath Madrid,2,3,5,6
+2013-09-21,Vallecano_Barcelona_2013,Barcelona,2,3,5,6
+2013-09-21,Vallecano_Barcelona_2013,Vallecano,3,2,5,6
+2013-09-21,Almeria_Levante_2013,Levante,2,3,5,6
+2013-09-22,Betis_Granada_2013,Betis,3,2,5,6
+2013-09-22,Real Madrid_Getafe_2013,Real Madrid,3,2,5,6
+2013-09-22,Celta_Villarreal_2013,Villarreal,2,3,5,6
+2013-09-22,Real Madrid_Getafe_2013,Getafe,2,3,5,6
+2013-09-22,Celta_Villarreal_2013,Celta,3,2,5,6
+2013-09-22,Valencia_Sevilla_2013,Valencia,3,2,5,6
+2013-09-22,Valencia_Sevilla_2013,Sevilla,2,3,5,6
+2013-09-22,Betis_Granada_2013,Granada,2,3,5,6
+2013-09-23,Espanol_Ath Bilbao_2013,Ath Bilbao,2,3,5,6
+2013-09-23,Espanol_Ath Bilbao_2013,Espanol,3,2,5,6
+2013-09-24,Barcelona_Sociedad_2013,Barcelona,3,3,6,7
+2013-09-24,Ath Madrid_Osasuna_2013,Ath Madrid,3,3,6,7
+2013-09-24,Levante_Valladolid_2013,Valladolid,3,3,6,7
+2013-09-24,Ath Madrid_Osasuna_2013,Osasuna,3,3,6,7
+2013-09-24,Malaga_Almeria_2013,Malaga,3,3,6,7
+2013-09-24,Malaga_Almeria_2013,Almeria,3,3,6,7
+2013-09-24,Barcelona_Sociedad_2013,Sociedad,3,3,6,7
+2013-09-24,Levante_Valladolid_2013,Levante,3,3,6,7
+2013-09-25,Granada_Valencia_2013,Valencia,3,3,6,7
+2013-09-25,Elche_Real Madrid_2013,Real Madrid,3,3,6,7
+2013-09-25,Elche_Real Madrid_2013,Elche,3,3,6,7
+2013-09-25,Granada_Valencia_2013,Granada,3,3,6,7
+2013-09-25,Sevilla_Vallecano_2013,Vallecano,3,3,6,7
+2013-09-25,Sevilla_Vallecano_2013,Sevilla,3,3,6,7
+2013-09-26,Getafe_Celta_2013,Celta,3,3,6,7
+2013-09-26,Villarreal_Espanol_2013,Villarreal,3,3,6,7
+2013-09-26,Villarreal_Espanol_2013,Espanol,3,3,6,7
+2013-09-26,Ath Bilbao_Betis_2013,Ath Bilbao,3,3,6,7
+2013-09-26,Getafe_Celta_2013,Getafe,3,3,6,7
+2013-09-26,Ath Bilbao_Betis_2013,Betis,3,3,6,7
+2013-09-27,Valladolid_Malaga_2013,Malaga,3,4,7,7
+2013-09-27,Valladolid_Malaga_2013,Valladolid,4,3,7,7
+2013-09-28,Sociedad_Sevilla_2013,Sociedad,4,3,7,7
+2013-09-28,Valencia_Vallecano_2013,Vallecano,3,4,7,7
+2013-09-28,Valencia_Vallecano_2013,Valencia,4,3,7,7
+2013-09-28,Real Madrid_Ath Madrid_2013,Ath Madrid,3,4,7,7
+2013-09-28,Sociedad_Sevilla_2013,Sevilla,3,4,7,7
+2013-09-28,Almeria_Barcelona_2013,Barcelona,3,4,7,7
+2013-09-28,Almeria_Barcelona_2013,Almeria,4,3,7,7
+2013-09-28,Real Madrid_Ath Madrid_2013,Real Madrid,4,3,7,7
+2013-09-29,Celta_Elche_2013,Elche,3,4,7,7
+2013-09-29,Osasuna_Levante_2013,Osasuna,4,3,7,7
+2013-09-29,Betis_Villarreal_2013,Villarreal,3,4,7,7
+2013-09-29,Espanol_Getafe_2013,Espanol,4,3,7,7
+2013-09-29,Espanol_Getafe_2013,Getafe,3,4,7,7
+2013-09-29,Betis_Villarreal_2013,Betis,4,3,7,7
+2013-09-29,Celta_Elche_2013,Celta,4,3,7,7
+2013-09-29,Osasuna_Levante_2013,Levante,3,4,7,7
+2013-09-30,Granada_Ath Bilbao_2013,Granada,4,3,7,7
+2013-09-30,Granada_Ath Bilbao_2013,Ath Bilbao,3,4,7,7
+2013-10-04,Villarreal_Granada_2013,Granada,4,4,8,8
+2013-10-04,Malaga_Osasuna_2013,Malaga,4,4,8,8
+2013-10-04,Malaga_Osasuna_2013,Osasuna,4,4,8,8
+2013-10-04,Villarreal_Granada_2013,Villarreal,4,4,8,8
+2013-10-05,Vallecano_Sociedad_2013,Vallecano,4,4,8,8
+2013-10-05,Barcelona_Valladolid_2013,Barcelona,4,4,8,8
+2013-10-05,Levante_Real Madrid_2013,Real Madrid,4,4,8,8
+2013-10-05,Levante_Real Madrid_2013,Levante,4,4,8,8
+2013-10-05,Vallecano_Sociedad_2013,Sociedad,4,4,8,8
+2013-10-05,Elche_Espanol_2013,Elche,4,4,8,8
+2013-10-05,Elche_Espanol_2013,Espanol,4,4,8,8
+2013-10-05,Barcelona_Valladolid_2013,Valladolid,4,4,8,8
+2013-10-06,Ath Madrid_Celta_2013,Celta,4,4,8,8
+2013-10-06,Ath Bilbao_Valencia_2013,Valencia,4,4,8,8
+2013-10-06,Ath Bilbao_Valencia_2013,Ath Bilbao,4,4,8,8
+2013-10-06,Ath Madrid_Celta_2013,Ath Madrid,4,4,8,8
+2013-10-06,Sevilla_Almeria_2013,Sevilla,4,4,8,8
+2013-10-06,Sevilla_Almeria_2013,Almeria,4,4,8,8
+2013-10-06,Getafe_Betis_2013,Getafe,4,4,8,8
+2013-10-06,Getafe_Betis_2013,Betis,4,4,8,8
+2013-10-19,Real Madrid_Malaga_2013,Real Madrid,5,4,9,10
+2013-10-19,Osasuna_Barcelona_2013,Barcelona,4,5,9,10
+2013-10-19,Osasuna_Barcelona_2013,Osasuna,5,4,9,10
+2013-10-19,Espanol_Ath Madrid_2013,Ath Madrid,4,5,9,10
+2013-10-19,Espanol_Ath Madrid_2013,Espanol,5,4,9,10
+2013-10-19,Real Madrid_Malaga_2013,Malaga,4,5,9,10
+2013-10-19,Valencia_Sociedad_2013,Sociedad,4,5,9,10
+2013-10-19,Valencia_Sociedad_2013,Valencia,5,4,9,10
+2013-10-20,Granada_Getafe_2013,Getafe,4,5,9,10
+2013-10-20,Granada_Getafe_2013,Granada,5,4,9,10
+2013-10-20,Valladolid_Sevilla_2013,Valladolid,5,4,9,10
+2013-10-20,Almeria_Vallecano_2013,Vallecano,4,5,9,10
+2013-10-20,Almeria_Vallecano_2013,Almeria,5,4,9,10
+2013-10-20,Betis_Elche_2013,Elche,4,5,9,10
+2013-10-20,Betis_Elche_2013,Betis,5,4,9,10
+2013-10-20,Valladolid_Sevilla_2013,Sevilla,4,5,9,10
+2013-10-21,Celta_Levante_2013,Celta,5,4,9,10
+2013-10-21,Celta_Levante_2013,Levante,4,5,9,10
+2013-10-21,Ath Bilbao_Villarreal_2013,Ath Bilbao,5,4,9,10
+2013-10-21,Ath Bilbao_Villarreal_2013,Villarreal,4,5,9,10
+2013-10-25,Vallecano_Valladolid_2013,Vallecano,5,5,10,11
+2013-10-25,Vallecano_Valladolid_2013,Valladolid,5,5,10,11
+2013-10-26,Barcelona_Real Madrid_2013,Real Madrid,5,5,10,11
+2013-10-26,Levante_Espanol_2013,Levante,5,5,10,11
+2013-10-26,Malaga_Celta_2013,Malaga,5,5,10,11
+2013-10-26,Barcelona_Real Madrid_2013,Barcelona,5,5,10,11
+2013-10-26,Elche_Granada_2013,Granada,5,5,10,11
+2013-10-26,Malaga_Celta_2013,Celta,5,5,10,11
+2013-10-26,Levante_Espanol_2013,Espanol,5,5,10,11
+2013-10-26,Elche_Granada_2013,Elche,5,5,10,11
+2013-10-27,Villarreal_Valencia_2013,Villarreal,5,5,10,11
+2013-10-27,Ath Madrid_Betis_2013,Betis,5,5,10,11
+2013-10-27,Sociedad_Almeria_2013,Almeria,5,5,10,11
+2013-10-27,Sociedad_Almeria_2013,Sociedad,5,5,10,11
+2013-10-27,Sevilla_Osasuna_2013,Osasuna,5,5,10,11
+2013-10-27,Ath Madrid_Betis_2013,Ath Madrid,5,5,10,11
+2013-10-27,Sevilla_Osasuna_2013,Sevilla,5,5,10,11
+2013-10-27,Villarreal_Valencia_2013,Valencia,5,5,10,11
+2013-10-28,Getafe_Ath Bilbao_2013,Ath Bilbao,5,5,10,11
+2013-10-28,Getafe_Ath Bilbao_2013,Getafe,5,5,10,11
+2013-10-29,Espanol_Malaga_2013,Espanol,6,5,11,12
+2013-10-29,Espanol_Malaga_2013,Malaga,5,6,11,12
+2013-10-29,Celta_Barcelona_2013,Barcelona,5,6,11,12
+2013-10-29,Celta_Barcelona_2013,Celta,6,5,11,12
+2013-10-30,Osasuna_Vallecano_2013,Vallecano,5,6,11,12
+2013-10-30,Valladolid_Sociedad_2013,Valladolid,6,5,11,12
+2013-10-30,Osasuna_Vallecano_2013,Osasuna,6,5,11,12
+2013-10-30,Real Madrid_Sevilla_2013,Sevilla,5,6,11,12
+2013-10-30,Valencia_Almeria_2013,Valencia,6,5,11,12
+2013-10-30,Valladolid_Sociedad_2013,Sociedad,5,6,11,12
+2013-10-30,Valencia_Almeria_2013,Almeria,5,6,11,12
+2013-10-30,Real Madrid_Sevilla_2013,Real Madrid,6,5,11,12
+2013-10-31,Granada_Ath Madrid_2013,Granada,6,5,11,12
+2013-10-31,Granada_Ath Madrid_2013,Ath Madrid,5,6,11,12
+2013-10-31,Villarreal_Getafe_2013,Villarreal,6,5,11,12
+2013-10-31,Villarreal_Getafe_2013,Getafe,5,6,11,12
+2013-10-31,Betis_Levante_2013,Betis,6,5,11,12
+2013-10-31,Betis_Levante_2013,Levante,5,6,11,12
+2013-10-31,Ath Bilbao_Elche_2013,Ath Bilbao,6,5,11,12
+2013-10-31,Ath Bilbao_Elche_2013,Elche,5,6,11,12
+2013-11-01,Barcelona_Espanol_2013,Espanol,6,6,12,12
+2013-11-01,Barcelona_Espanol_2013,Barcelona,6,6,12,12
+2013-11-02,Sevilla_Celta_2013,Celta,6,6,12,12
+2013-11-02,Almeria_Valladolid_2013,Almeria,6,6,12,12
+2013-11-02,Vallecano_Real Madrid_2013,Real Madrid,6,6,12,12
+2013-11-02,Sociedad_Osasuna_2013,Sociedad,6,6,12,12
+2013-11-02,Sevilla_Celta_2013,Sevilla,6,6,12,12
+2013-11-02,Sociedad_Osasuna_2013,Osasuna,6,6,12,12
+2013-11-02,Almeria_Valladolid_2013,Valladolid,6,6,12,12
+2013-11-02,Vallecano_Real Madrid_2013,Vallecano,6,6,12,12
+2013-11-03,Malaga_Betis_2013,Betis,6,6,12,12
+2013-11-03,Levante_Granada_2013,Granada,6,6,12,12
+2013-11-03,Malaga_Betis_2013,Malaga,6,6,12,12
+2013-11-03,Getafe_Valencia_2013,Valencia,6,6,12,12
+2013-11-03,Ath Madrid_Ath Bilbao_2013,Ath Bilbao,6,6,12,12
+2013-11-03,Levante_Granada_2013,Levante,6,6,12,12
+2013-11-03,Ath Madrid_Ath Bilbao_2013,Ath Madrid,6,6,12,12
+2013-11-03,Getafe_Valencia_2013,Getafe,6,6,12,12
+2013-11-04,Elche_Villarreal_2013,Elche,6,6,12,12
+2013-11-04,Elche_Villarreal_2013,Villarreal,6,6,12,12
+2013-11-08,Osasuna_Almeria_2013,Almeria,6,7,13,13
+2013-11-08,Granada_Malaga_2013,Granada,7,6,13,13
+2013-11-08,Osasuna_Almeria_2013,Osasuna,7,6,13,13
+2013-11-08,Granada_Malaga_2013,Malaga,6,7,13,13
+2013-11-09,Getafe_Elche_2013,Getafe,7,6,13,13
+2013-11-09,Real Madrid_Sociedad_2013,Sociedad,6,7,13,13
+2013-11-09,Ath Bilbao_Levante_2013,Ath Bilbao,7,6,13,13
+2013-11-09,Celta_Vallecano_2013,Vallecano,6,7,13,13
+2013-11-09,Real Madrid_Sociedad_2013,Real Madrid,7,6,13,13
+2013-11-09,Getafe_Elche_2013,Elche,6,7,13,13
+2013-11-09,Ath Bilbao_Levante_2013,Levante,6,7,13,13
+2013-11-09,Celta_Vallecano_2013,Celta,7,6,13,13
+2013-11-10,Espanol_Sevilla_2013,Sevilla,6,7,13,13
+2013-11-10,Villarreal_Ath Madrid_2013,Villarreal,7,6,13,13
+2013-11-10,Valencia_Valladolid_2013,Valladolid,6,7,13,13
+2013-11-10,Villarreal_Ath Madrid_2013,Ath Madrid,6,7,13,13
+2013-11-10,Espanol_Sevilla_2013,Espanol,7,6,13,13
+2013-11-10,Valencia_Valladolid_2013,Valencia,7,6,13,13
+2013-11-10,Betis_Barcelona_2013,Betis,7,6,13,13
+2013-11-10,Betis_Barcelona_2013,Barcelona,6,7,13,13
+2013-11-22,Valladolid_Osasuna_2013,Osasuna,7,7,14,15
+2013-11-22,Valladolid_Osasuna_2013,Valladolid,7,7,14,15
+2013-11-23,Barcelona_Granada_2013,Granada,7,7,14,15
+2013-11-23,Almeria_Real Madrid_2013,Real Madrid,7,7,14,15
+2013-11-23,Ath Madrid_Getafe_2013,Ath Madrid,7,7,14,15
+2013-11-23,Barcelona_Granada_2013,Barcelona,7,7,14,15
+2013-11-23,Sociedad_Celta_2013,Celta,7,7,14,15
+2013-11-23,Almeria_Real Madrid_2013,Almeria,7,7,14,15
+2013-11-23,Ath Madrid_Getafe_2013,Getafe,7,7,14,15
+2013-11-23,Sociedad_Celta_2013,Sociedad,7,7,14,15
+2013-11-24,Levante_Villarreal_2013,Villarreal,7,7,14,15
+2013-11-24,Sevilla_Betis_2013,Betis,7,7,14,15
+2013-11-24,Vallecano_Espanol_2013,Vallecano,7,7,14,15
+2013-11-24,Sevilla_Betis_2013,Sevilla,7,7,14,15
+2013-11-24,Elche_Valencia_2013,Elche,7,7,14,15
+2013-11-24,Vallecano_Espanol_2013,Espanol,7,7,14,15
+2013-11-24,Elche_Valencia_2013,Valencia,7,7,14,15
+2013-11-24,Levante_Villarreal_2013,Levante,7,7,14,15
+2013-11-25,Malaga_Ath Bilbao_2013,Ath Bilbao,7,7,14,15
+2013-11-25,Malaga_Ath Bilbao_2013,Malaga,7,7,14,15
+2013-11-29,Getafe_Levante_2013,Levante,7,8,15,16
+2013-11-29,Villarreal_Malaga_2013,Villarreal,8,7,15,16
+2013-11-29,Getafe_Levante_2013,Getafe,8,7,15,16
+2013-11-29,Villarreal_Malaga_2013,Malaga,7,8,15,16
+2013-11-30,Real Madrid_Valladolid_2013,Real Madrid,8,7,15,16
+2013-11-30,Espanol_Sociedad_2013,Sociedad,7,8,15,16
+2013-11-30,Elche_Ath Madrid_2013,Ath Madrid,7,8,15,16
+2013-11-30,Elche_Ath Madrid_2013,Elche,8,7,15,16
+2013-11-30,Real Madrid_Valladolid_2013,Valladolid,7,8,15,16
+2013-11-30,Celta_Almeria_2013,Almeria,7,8,15,16
+2013-11-30,Celta_Almeria_2013,Celta,8,7,15,16
+2013-11-30,Espanol_Sociedad_2013,Espanol,8,7,15,16
+2013-12-01,Ath Bilbao_Barcelona_2013,Ath Bilbao,8,7,15,16
+2013-12-01,Ath Bilbao_Barcelona_2013,Barcelona,7,8,15,16
+2013-12-01,Betis_Vallecano_2013,Vallecano,7,8,15,16
+2013-12-01,Granada_Sevilla_2013,Granada,8,7,15,16
+2013-12-01,Valencia_Osasuna_2013,Osasuna,7,8,15,16
+2013-12-01,Granada_Sevilla_2013,Sevilla,7,8,15,16
+2013-12-01,Valencia_Osasuna_2013,Valencia,8,7,15,16
+2013-12-01,Betis_Vallecano_2013,Betis,8,7,15,16
+2013-12-13,Levante_Elche_2013,Elche,8,8,16,18
+2013-12-13,Levante_Elche_2013,Levante,8,8,16,18
+2013-12-14,Osasuna_Real Madrid_2013,Osasuna,8,8,16,18
+2013-12-14,Osasuna_Real Madrid_2013,Real Madrid,8,8,16,18
+2013-12-14,Vallecano_Granada_2013,Granada,8,8,16,18
+2013-12-14,Barcelona_Villarreal_2013,Barcelona,8,8,16,18
+2013-12-14,Vallecano_Granada_2013,Vallecano,8,8,16,18
+2013-12-14,Barcelona_Villarreal_2013,Villarreal,8,8,16,18
+2013-12-14,Malaga_Getafe_2013,Malaga,8,8,16,18
+2013-12-14,Malaga_Getafe_2013,Getafe,8,8,16,18
+2013-12-15,Sociedad_Betis_2013,Betis,8,8,16,18
+2013-12-15,Sociedad_Betis_2013,Sociedad,8,8,16,18
+2013-12-15,Almeria_Espanol_2013,Almeria,8,8,16,18
+2013-12-15,Ath Madrid_Valencia_2013,Valencia,8,8,16,18
+2013-12-15,Sevilla_Ath Bilbao_2013,Ath Bilbao,8,8,16,18
+2013-12-15,Sevilla_Ath Bilbao_2013,Sevilla,8,8,16,18
+2013-12-15,Almeria_Espanol_2013,Espanol,8,8,16,18
+2013-12-15,Ath Madrid_Valencia_2013,Ath Madrid,8,8,16,18
+2013-12-16,Valladolid_Celta_2013,Valladolid,8,8,16,18
+2013-12-16,Valladolid_Celta_2013,Celta,8,8,16,18
+2013-12-20,Elche_Malaga_2013,Elche,9,8,17,19
+2013-12-20,Elche_Malaga_2013,Malaga,8,9,17,19
+2013-12-21,Betis_Almeria_2013,Betis,9,8,17,19
+2013-12-21,Villarreal_Sevilla_2013,Villarreal,9,8,17,19
+2013-12-21,Ath Madrid_Levante_2013,Ath Madrid,9,8,17,19
+2013-12-21,Granada_Sociedad_2013,Granada,9,8,17,19
+2013-12-21,Villarreal_Sevilla_2013,Sevilla,8,9,17,19
+2013-12-21,Granada_Sociedad_2013,Sociedad,8,9,17,19
+2013-12-21,Ath Madrid_Levante_2013,Levante,8,9,17,19
+2013-12-21,Betis_Almeria_2013,Almeria,8,9,17,19
+2013-12-22,Ath Bilbao_Vallecano_2013,Ath Bilbao,9,8,17,19
+2013-12-22,Valencia_Real Madrid_2013,Real Madrid,8,9,17,19
+2013-12-22,Ath Bilbao_Vallecano_2013,Vallecano,8,9,17,19
+2013-12-22,Getafe_Barcelona_2013,Getafe,9,8,17,19
+2013-12-22,Celta_Osasuna_2013,Celta,9,8,17,19
+2013-12-22,Espanol_Valladolid_2013,Valladolid,8,9,17,19
+2013-12-22,Valencia_Real Madrid_2013,Valencia,9,8,17,19
+2013-12-22,Espanol_Valladolid_2013,Espanol,9,8,17,19
+2013-12-22,Getafe_Barcelona_2013,Barcelona,8,9,17,19
+2013-12-22,Celta_Osasuna_2013,Osasuna,8,9,17,19
+2014-01-04,Valladolid_Betis_2013,Betis,9,9,18,21
+2014-01-04,Almeria_Granada_2013,Almeria,9,9,18,21
+2014-01-04,Valencia_Levante_2013,Levante,8,10,18,21
+2014-01-04,Valencia_Levante_2013,Valencia,10,8,18,21
+2014-01-04,Malaga_Ath Madrid_2013,Malaga,9,9,18,21
+2014-01-04,Malaga_Ath Madrid_2013,Ath Madrid,9,9,18,21
+2014-01-04,Almeria_Granada_2013,Granada,9,9,18,21
+2014-01-04,Valladolid_Betis_2013,Valladolid,9,9,18,21
+2014-01-05,Barcelona_Elche_2013,Elche,9,9,18,21
+2014-01-05,Osasuna_Espanol_2013,Osasuna,9,9,18,21
+2014-01-05,Sociedad_Ath Bilbao_2013,Ath Bilbao,9,9,18,21
+2014-01-05,Sevilla_Getafe_2013,Getafe,9,9,18,21
+2014-01-05,Osasuna_Espanol_2013,Espanol,9,9,18,21
+2014-01-05,Barcelona_Elche_2013,Barcelona,9,9,18,21
+2014-01-05,Sevilla_Getafe_2013,Sevilla,9,9,18,21
+2014-01-05,Sociedad_Ath Bilbao_2013,Sociedad,9,9,18,21
+2014-01-06,Vallecano_Villarreal_2013,Villarreal,9,9,18,21
+2014-01-06,Real Madrid_Celta_2013,Celta,9,9,18,21
+2014-01-06,Real Madrid_Celta_2013,Real Madrid,9,9,18,21
+2014-01-06,Vallecano_Villarreal_2013,Vallecano,9,9,18,21
+2014-01-10,Granada_Valladolid_2013,Granada,10,9,19,22
+2014-01-10,Granada_Valladolid_2013,Valladolid,9,10,19,22
+2014-01-11,Elche_Sevilla_2013,Sevilla,9,10,19,22
+2014-01-11,Ath Madrid_Barcelona_2013,Ath Madrid,10,9,19,22
+2014-01-11,Elche_Sevilla_2013,Elche,10,9,19,22
+2014-01-11,Celta_Valencia_2013,Valencia,10,9,19,22
+2014-01-11,Ath Madrid_Barcelona_2013,Barcelona,9,10,19,22
+2014-01-11,Ath Bilbao_Almeria_2013,Ath Bilbao,10,9,19,22
+2014-01-11,Celta_Valencia_2013,Celta,10,9,19,22
+2014-01-11,Ath Bilbao_Almeria_2013,Almeria,9,10,19,22
+2014-01-12,Getafe_Vallecano_2013,Getafe,10,9,19,22
+2014-01-12,Levante_Malaga_2013,Levante,9,10,19,22
+2014-01-12,Levante_Malaga_2013,Malaga,9,10,19,22
+2014-01-12,Betis_Osasuna_2013,Betis,10,9,19,22
+2014-01-12,Espanol_Real Madrid_2013,Espanol,10,9,19,22
+2014-01-12,Espanol_Real Madrid_2013,Real Madrid,9,10,19,22
+2014-01-12,Betis_Osasuna_2013,Osasuna,9,10,19,22
+2014-01-12,Getafe_Vallecano_2013,Vallecano,9,10,19,22
+2014-01-13,Villarreal_Sociedad_2013,Villarreal,10,9,19,22
+2014-01-13,Villarreal_Sociedad_2013,Sociedad,9,10,19,22
+2014-01-17,Malaga_Valencia_2013,Valencia,10,10,20,23
+2014-01-17,Malaga_Valencia_2013,Malaga,10,10,20,23
+2014-01-18,Betis_Real Madrid_2013,Real Madrid,9,11,20,23
+2014-01-18,Granada_Osasuna_2013,Osasuna,9,11,20,23
+2014-01-18,Espanol_Celta_2013,Espanol,11,9,20,23
+2014-01-18,Granada_Osasuna_2013,Granada,11,9,20,23
+2014-01-18,Elche_Vallecano_2013,Elche,11,9,20,23
+2014-01-18,Espanol_Celta_2013,Celta,10,10,20,23
+2014-01-18,Elche_Vallecano_2013,Vallecano,9,11,20,23
+2014-01-18,Betis_Real Madrid_2013,Betis,11,9,20,23
+2014-01-19,Villarreal_Almeria_2013,Villarreal,11,9,20,23
+2014-01-19,Getafe_Sociedad_2013,Sociedad,9,11,20,23
+2014-01-19,Villarreal_Almeria_2013,Almeria,9,11,20,23
+2014-01-19,Getafe_Sociedad_2013,Getafe,11,9,20,23
+2014-01-19,Levante_Barcelona_2013,Barcelona,9,11,20,23
+2014-01-19,Ath Madrid_Sevilla_2013,Ath Madrid,11,9,20,23
+2014-01-19,Levante_Barcelona_2013,Levante,10,10,20,23
+2014-01-19,Ath Madrid_Sevilla_2013,Sevilla,9,11,20,23
+2014-01-20,Ath Bilbao_Valladolid_2013,Ath Bilbao,11,9,20,23
+2014-01-20,Ath Bilbao_Valladolid_2013,Valladolid,9,11,20,23
+2014-01-24,Celta_Betis_2013,Celta,11,10,21,24
+2014-01-24,Celta_Betis_2013,Betis,11,10,21,24
+2014-01-25,Real Madrid_Granada_2013,Granada,11,10,21,24
+2014-01-25,Valladolid_Villarreal_2013,Villarreal,11,10,21,24
+2014-01-25,Valladolid_Villarreal_2013,Valladolid,10,11,21,24
+2014-01-25,Sevilla_Levante_2013,Sevilla,10,11,21,24
+2014-01-25,Valencia_Espanol_2013,Espanol,11,10,21,24
+2014-01-25,Sevilla_Levante_2013,Levante,10,11,21,24
+2014-01-25,Valencia_Espanol_2013,Valencia,11,10,21,24
+2014-01-25,Real Madrid_Granada_2013,Real Madrid,10,11,21,24
+2014-01-26,Barcelona_Malaga_2013,Malaga,10,11,21,24
+2014-01-26,Osasuna_Ath Bilbao_2013,Osasuna,10,11,21,24
+2014-01-26,Barcelona_Malaga_2013,Barcelona,10,11,21,24
+2014-01-26,Vallecano_Ath Madrid_2013,Vallecano,10,11,21,24
+2014-01-26,Almeria_Getafe_2013,Getafe,11,10,21,24
+2014-01-26,Osasuna_Ath Bilbao_2013,Ath Bilbao,11,10,21,24
+2014-01-26,Vallecano_Ath Madrid_2013,Ath Madrid,11,10,21,24
+2014-01-26,Almeria_Getafe_2013,Almeria,10,11,21,24
+2014-01-27,Sociedad_Elche_2013,Sociedad,10,11,21,24
+2014-01-27,Sociedad_Elche_2013,Elche,11,10,21,24
+2014-01-31,Granada_Celta_2013,Granada,12,10,22,25
+2014-01-31,Granada_Celta_2013,Celta,11,11,22,25
+2014-02-01,Getafe_Valladolid_2013,Valladolid,10,12,22,25
+2014-02-01,Malaga_Sevilla_2013,Malaga,11,11,22,25
+2014-02-01,Barcelona_Valencia_2013,Barcelona,11,11,22,25
+2014-02-01,Malaga_Sevilla_2013,Sevilla,10,12,22,25
+2014-02-01,Getafe_Valladolid_2013,Getafe,12,10,22,25
+2014-02-01,Levante_Vallecano_2013,Vallecano,10,12,22,25
+2014-02-01,Barcelona_Valencia_2013,Valencia,11,11,22,25
+2014-02-01,Levante_Vallecano_2013,Levante,11,11,22,25
+2014-02-02,Elche_Almeria_2013,Elche,12,10,22,25
+2014-02-02,Ath Bilbao_Real Madrid_2013,Ath Bilbao,12,10,22,25
+2014-02-02,Betis_Espanol_2013,Espanol,11,11,22,25
+2014-02-02,Betis_Espanol_2013,Betis,12,10,22,25
+2014-02-02,Ath Madrid_Sociedad_2013,Ath Madrid,12,10,22,25
+2014-02-02,Ath Madrid_Sociedad_2013,Sociedad,10,12,22,25
+2014-02-02,Ath Bilbao_Real Madrid_2013,Real Madrid,10,12,22,25
+2014-02-02,Elche_Almeria_2013,Almeria,10,12,22,25
+2014-02-03,Villarreal_Osasuna_2013,Osasuna,10,12,22,25
+2014-02-03,Villarreal_Osasuna_2013,Villarreal,12,10,22,25
+2014-02-07,Espanol_Granada_2013,Espanol,12,11,23,26
+2014-02-07,Espanol_Granada_2013,Granada,12,11,23,26
+2014-02-08,Vallecano_Malaga_2013,Malaga,11,12,23,26
+2014-02-08,Real Madrid_Villarreal_2013,Villarreal,12,11,23,26
+2014-02-08,Valencia_Betis_2013,Valencia,12,11,23,26
+2014-02-08,Valencia_Betis_2013,Betis,12,11,23,26
+2014-02-08,Almeria_Ath Madrid_2013,Ath Madrid,12,11,23,26
+2014-02-08,Almeria_Ath Madrid_2013,Almeria,11,12,23,26
+2014-02-08,Vallecano_Malaga_2013,Vallecano,11,12,23,26
+2014-02-08,Real Madrid_Villarreal_2013,Real Madrid,11,12,23,26
+2014-02-09,Sociedad_Levante_2013,Levante,11,12,23,26
+2014-02-09,Osasuna_Getafe_2013,Osasuna,11,12,23,26
+2014-02-09,Valladolid_Elche_2013,Valladolid,11,12,23,26
+2014-02-09,Sevilla_Barcelona_2013,Barcelona,11,12,23,26
+2014-02-09,Sevilla_Barcelona_2013,Sevilla,11,12,23,26
+2014-02-09,Sociedad_Levante_2013,Sociedad,11,12,23,26
+2014-02-09,Osasuna_Getafe_2013,Getafe,12,11,23,26
+2014-02-09,Valladolid_Elche_2013,Elche,12,11,23,26
+2014-02-10,Celta_Ath Bilbao_2013,Ath Bilbao,12,11,23,26
+2014-02-10,Celta_Ath Bilbao_2013,Celta,12,11,23,26
+2014-02-14,Elche_Osasuna_2013,Elche,13,11,24,27
+2014-02-14,Elche_Osasuna_2013,Osasuna,11,13,24,27
+2014-02-15,Barcelona_Vallecano_2013,Vallecano,11,13,24,27
+2014-02-15,Ath Madrid_Valladolid_2013,Ath Madrid,13,11,24,27
+2014-02-15,Ath Madrid_Valladolid_2013,Valladolid,11,13,24,27
+2014-02-15,Levante_Almeria_2013,Almeria,11,13,24,27
+2014-02-15,Barcelona_Vallecano_2013,Barcelona,12,12,24,27
+2014-02-15,Villarreal_Celta_2013,Villarreal,13,11,24,27
+2014-02-15,Levante_Almeria_2013,Levante,12,12,24,27
+2014-02-15,Villarreal_Celta_2013,Celta,12,12,24,27
+2014-02-16,Getafe_Real Madrid_2013,Real Madrid,11,13,24,27
+2014-02-16,Ath Bilbao_Espanol_2013,Espanol,12,12,24,27
+2014-02-16,Getafe_Real Madrid_2013,Getafe,13,11,24,27
+2014-02-16,Sevilla_Valencia_2013,Valencia,12,12,24,27
+2014-02-16,Granada_Betis_2013,Granada,13,11,24,27
+2014-02-16,Ath Bilbao_Espanol_2013,Ath Bilbao,13,11,24,27
+2014-02-16,Granada_Betis_2013,Betis,12,12,24,27
+2014-02-16,Sevilla_Valencia_2013,Sevilla,12,12,24,27
+2014-02-17,Malaga_Sociedad_2013,Sociedad,11,13,24,27
+2014-02-17,Malaga_Sociedad_2013,Malaga,12,12,24,27
+2014-02-21,Valladolid_Levante_2013,Levante,12,13,25,28
+2014-02-21,Valladolid_Levante_2013,Valladolid,12,13,25,28
+2014-02-22,Sociedad_Barcelona_2013,Barcelona,12,13,25,28
+2014-02-22,Sociedad_Barcelona_2013,Sociedad,12,13,25,28
+2014-02-22,Almeria_Malaga_2013,Almeria,12,13,25,28
+2014-02-22,Almeria_Malaga_2013,Malaga,12,13,25,28
+2014-02-22,Real Madrid_Elche_2013,Elche,13,12,25,28
+2014-02-22,Celta_Getafe_2013,Celta,13,12,25,28
+2014-02-22,Real Madrid_Elche_2013,Real Madrid,12,13,25,28
+2014-02-22,Celta_Getafe_2013,Getafe,13,12,25,28
+2014-02-23,Betis_Ath Bilbao_2013,Ath Bilbao,13,12,25,28
+2014-02-23,Osasuna_Ath Madrid_2013,Osasuna,12,13,25,28
+2014-02-23,Vallecano_Sevilla_2013,Vallecano,12,13,25,28
+2014-02-23,Osasuna_Ath Madrid_2013,Ath Madrid,13,12,25,28
+2014-02-23,Vallecano_Sevilla_2013,Sevilla,12,13,25,28
+2014-02-23,Betis_Ath Bilbao_2013,Betis,13,12,25,28
+2014-02-23,Valencia_Granada_2013,Granada,13,12,25,28
+2014-02-23,Valencia_Granada_2013,Valencia,13,12,25,28
+2014-02-24,Espanol_Villarreal_2013,Villarreal,13,12,25,28
+2014-02-24,Espanol_Villarreal_2013,Espanol,13,12,25,28
+2014-02-28,Ath Bilbao_Granada_2013,Ath Bilbao,14,12,26,29
+2014-02-28,Ath Bilbao_Granada_2013,Granada,13,13,26,29
+2014-03-01,Getafe_Espanol_2013,Espanol,13,13,26,29
+2014-03-01,Getafe_Espanol_2013,Getafe,14,12,26,29
+2014-03-01,Levante_Osasuna_2013,Osasuna,12,14,26,29
+2014-03-01,Malaga_Valladolid_2013,Valladolid,12,14,26,29
+2014-03-01,Elche_Celta_2013,Celta,13,13,26,29
+2014-03-01,Elche_Celta_2013,Elche,14,12,26,29
+2014-03-01,Levante_Osasuna_2013,Levante,13,13,26,29
+2014-03-01,Malaga_Valladolid_2013,Malaga,13,13,26,29
+2014-03-02,Barcelona_Almeria_2013,Barcelona,13,13,26,29
+2014-03-02,Ath Madrid_Real Madrid_2013,Ath Madrid,14,12,26,29
+2014-03-02,Villarreal_Betis_2013,Villarreal,14,12,26,29
+2014-03-02,Ath Madrid_Real Madrid_2013,Real Madrid,12,14,26,29
+2014-03-02,Vallecano_Valencia_2013,Vallecano,13,13,26,29
+2014-03-02,Sevilla_Sociedad_2013,Sevilla,13,13,26,29
+2014-03-02,Vallecano_Valencia_2013,Valencia,13,13,26,29
+2014-03-02,Villarreal_Betis_2013,Betis,13,13,26,29
+2014-03-02,Sevilla_Sociedad_2013,Sociedad,12,14,26,29
+2014-03-02,Barcelona_Almeria_2013,Almeria,12,14,26,29
+2014-03-08,Valladolid_Barcelona_2013,Barcelona,13,14,27,30
+2014-03-08,Valladolid_Barcelona_2013,Valladolid,13,14,27,30
+2014-03-08,Betis_Getafe_2013,Betis,14,13,27,30
+2014-03-08,Granada_Villarreal_2013,Villarreal,14,13,27,30
+2014-03-08,Celta_Ath Madrid_2013,Ath Madrid,14,13,27,30
+2014-03-08,Granada_Villarreal_2013,Granada,14,13,27,30
+2014-03-08,Celta_Ath Madrid_2013,Celta,14,13,27,30
+2014-03-08,Betis_Getafe_2013,Getafe,14,13,27,30
+2014-03-09,Real Madrid_Levante_2013,Levante,13,14,27,30
+2014-03-09,Almeria_Sevilla_2013,Almeria,13,14,27,30
+2014-03-09,Valencia_Ath Bilbao_2013,Valencia,14,13,27,30
+2014-03-09,Almeria_Sevilla_2013,Sevilla,13,14,27,30
+2014-03-09,Valencia_Ath Bilbao_2013,Ath Bilbao,14,13,27,30
+2014-03-09,Espanol_Elche_2013,Elche,14,13,27,30
+2014-03-09,Espanol_Elche_2013,Espanol,14,13,27,30
+2014-03-09,Real Madrid_Levante_2013,Real Madrid,13,14,27,30
+2014-03-10,Osasuna_Malaga_2013,Osasuna,13,14,27,30
+2014-03-10,Osasuna_Malaga_2013,Malaga,13,14,27,30
+2014-03-10,Sociedad_Vallecano_2013,Vallecano,13,14,27,30
+2014-03-10,Sociedad_Vallecano_2013,Sociedad,13,14,27,30
+2014-03-14,Getafe_Granada_2013,Getafe,15,13,28,31
+2014-03-14,Getafe_Granada_2013,Granada,14,14,28,31
+2014-03-15,Vallecano_Almeria_2013,Almeria,13,15,28,31
+2014-03-15,Vallecano_Almeria_2013,Vallecano,14,14,28,31
+2014-03-15,Levante_Celta_2013,Levante,14,14,28,31
+2014-03-15,Levante_Celta_2013,Celta,14,14,28,31
+2014-03-15,Ath Madrid_Espanol_2013,Ath Madrid,15,13,28,31
+2014-03-15,Malaga_Real Madrid_2013,Real Madrid,13,15,28,31
+2014-03-15,Ath Madrid_Espanol_2013,Espanol,14,14,28,31
+2014-03-15,Malaga_Real Madrid_2013,Malaga,14,14,28,31
+2014-03-16,Barcelona_Osasuna_2013,Osasuna,13,15,28,31
+2014-03-16,Sevilla_Valladolid_2013,Valladolid,13,15,28,31
+2014-03-16,Barcelona_Osasuna_2013,Barcelona,14,14,28,31
+2014-03-16,Sociedad_Valencia_2013,Sociedad,14,14,28,31
+2014-03-16,Sociedad_Valencia_2013,Valencia,14,14,28,31
+2014-03-16,Elche_Betis_2013,Elche,15,13,28,31
+2014-03-16,Elche_Betis_2013,Betis,14,14,28,31
+2014-03-16,Sevilla_Valladolid_2013,Sevilla,14,14,28,31
+2014-03-17,Villarreal_Ath Bilbao_2013,Villarreal,15,13,28,31
+2014-03-17,Villarreal_Ath Bilbao_2013,Ath Bilbao,14,14,28,31
+2014-03-21,Celta_Malaga_2013,Malaga,14,15,29,32
+2014-03-21,Celta_Malaga_2013,Celta,15,14,29,32
+2014-03-22,Ath Bilbao_Getafe_2013,Ath Bilbao,15,14,29,32
+2014-03-22,Valladolid_Vallecano_2013,Vallecano,14,15,29,32
+2014-03-22,Espanol_Levante_2013,Levante,14,15,29,32
+2014-03-22,Ath Bilbao_Getafe_2013,Getafe,15,14,29,32
+2014-03-22,Granada_Elche_2013,Elche,15,14,29,32
+2014-03-22,Espanol_Levante_2013,Espanol,15,14,29,32
+2014-03-22,Valladolid_Vallecano_2013,Valladolid,14,15,29,32
+2014-03-22,Granada_Elche_2013,Granada,15,14,29,32
+2014-03-23,Valencia_Villarreal_2013,Valencia,15,14,29,32
+2014-03-23,Osasuna_Sevilla_2013,Sevilla,14,15,29,32
+2014-03-23,Real Madrid_Barcelona_2013,Real Madrid,14,15,29,32
+2014-03-23,Valencia_Villarreal_2013,Villarreal,15,14,29,32
+2014-03-23,Betis_Ath Madrid_2013,Betis,15,14,29,32
+2014-03-23,Betis_Ath Madrid_2013,Ath Madrid,15,14,29,32
+2014-03-23,Real Madrid_Barcelona_2013,Barcelona,14,15,29,32
+2014-03-23,Osasuna_Sevilla_2013,Osasuna,14,15,29,32
+2014-03-24,Almeria_Sociedad_2013,Almeria,14,15,29,32
+2014-03-24,Almeria_Sociedad_2013,Sociedad,14,15,29,32
+2014-03-25,Elche_Ath Bilbao_2013,Ath Bilbao,15,15,30,33
+2014-03-25,Malaga_Espanol_2013,Malaga,15,15,30,33
+2014-03-25,Malaga_Espanol_2013,Espanol,15,15,30,33
+2014-03-25,Elche_Ath Bilbao_2013,Elche,16,14,30,33
+2014-03-26,Ath Madrid_Granada_2013,Granada,15,15,30,33
+2014-03-26,Vallecano_Osasuna_2013,Vallecano,15,15,30,33
+2014-03-26,Ath Madrid_Granada_2013,Ath Madrid,16,14,30,33
+2014-03-26,Barcelona_Celta_2013,Celta,15,15,30,33
+2014-03-26,Sevilla_Real Madrid_2013,Real Madrid,14,16,30,33
+2014-03-26,Barcelona_Celta_2013,Barcelona,15,15,30,33
+2014-03-26,Sevilla_Real Madrid_2013,Sevilla,15,15,30,33
+2014-03-26,Vallecano_Osasuna_2013,Osasuna,14,16,30,33
+2014-03-27,Almeria_Valencia_2013,Almeria,15,15,30,33
+2014-03-27,Levante_Betis_2013,Betis,15,15,30,33
+2014-03-27,Levante_Betis_2013,Levante,15,15,30,33
+2014-03-27,Sociedad_Valladolid_2013,Valladolid,14,16,30,33
+2014-03-27,Almeria_Valencia_2013,Valencia,15,15,30,33
+2014-03-27,Sociedad_Valladolid_2013,Sociedad,15,15,30,33
+2014-03-27,Getafe_Villarreal_2013,Getafe,16,14,30,33
+2014-03-27,Getafe_Villarreal_2013,Villarreal,15,15,30,33
+2014-03-29,Real Madrid_Vallecano_2013,Vallecano,15,16,31,33
+2014-03-29,Ath Bilbao_Ath Madrid_2013,Ath Madrid,16,15,31,33
+2014-03-29,Espanol_Barcelona_2013,Barcelona,15,16,31,33
+2014-03-29,Real Madrid_Vallecano_2013,Real Madrid,15,16,31,33
+2014-03-29,Celta_Sevilla_2013,Sevilla,15,16,31,33
+2014-03-29,Espanol_Barcelona_2013,Espanol,16,15,31,33
+2014-03-29,Ath Bilbao_Ath Madrid_2013,Ath Bilbao,16,15,31,33
+2014-03-29,Celta_Sevilla_2013,Celta,16,15,31,33
+2014-03-30,Valladolid_Almeria_2013,Almeria,15,16,31,33
+2014-03-30,Villarreal_Elche_2013,Villarreal,16,15,31,33
+2014-03-30,Valencia_Getafe_2013,Valencia,16,15,31,33
+2014-03-30,Villarreal_Elche_2013,Elche,16,15,31,33
+2014-03-30,Osasuna_Sociedad_2013,Sociedad,15,16,31,33
+2014-03-30,Osasuna_Sociedad_2013,Osasuna,15,16,31,33
+2014-03-30,Valladolid_Almeria_2013,Valladolid,15,16,31,33
+2014-03-30,Valencia_Getafe_2013,Getafe,16,15,31,33
+2014-03-31,Betis_Malaga_2013,Betis,16,15,31,33
+2014-03-31,Granada_Levante_2013,Levante,15,16,31,33
+2014-03-31,Granada_Levante_2013,Granada,16,15,31,33
+2014-03-31,Betis_Malaga_2013,Malaga,15,16,31,33
+2014-04-04,Almeria_Osasuna_2013,Almeria,16,16,32,34
+2014-04-04,Almeria_Osasuna_2013,Osasuna,15,17,32,34
+2014-04-05,Ath Madrid_Villarreal_2013,Ath Madrid,17,15,32,34
+2014-04-05,Barcelona_Betis_2013,Barcelona,16,16,32,34
+2014-04-05,Vallecano_Celta_2013,Celta,16,16,32,34
+2014-04-05,Barcelona_Betis_2013,Betis,16,16,32,34
+2014-04-05,Sociedad_Real Madrid_2013,Sociedad,16,16,32,34
+2014-04-05,Ath Madrid_Villarreal_2013,Villarreal,16,16,32,34
+2014-04-05,Vallecano_Celta_2013,Vallecano,16,16,32,34
+2014-04-05,Sociedad_Real Madrid_2013,Real Madrid,15,17,32,34
+2014-04-06,Elche_Getafe_2013,Elche,17,15,32,34
+2014-04-06,Elche_Getafe_2013,Getafe,16,16,32,34
+2014-04-06,Sevilla_Espanol_2013,Espanol,16,16,32,34
+2014-04-06,Malaga_Granada_2013,Granada,16,16,32,34
+2014-04-06,Sevilla_Espanol_2013,Sevilla,16,16,32,34
+2014-04-06,Valladolid_Valencia_2013,Valladolid,16,16,32,34
+2014-04-06,Valladolid_Valencia_2013,Valencia,16,16,32,34
+2014-04-06,Malaga_Granada_2013,Malaga,16,16,32,34
+2014-04-07,Levante_Ath Bilbao_2013,Levante,16,16,32,34
+2014-04-07,Levante_Ath Bilbao_2013,Ath Bilbao,16,16,32,34
+2014-04-11,Osasuna_Valladolid_2013,Valladolid,16,17,33,35
+2014-04-11,Osasuna_Valladolid_2013,Osasuna,16,17,33,35
+2014-04-12,Villarreal_Levante_2013,Villarreal,17,16,33,35
+2014-04-12,Granada_Barcelona_2013,Barcelona,16,17,33,35
+2014-04-12,Real Madrid_Almeria_2013,Almeria,16,17,33,35
+2014-04-12,Celta_Sociedad_2013,Sociedad,16,17,33,35
+2014-04-12,Real Madrid_Almeria_2013,Real Madrid,16,17,33,35
+2014-04-12,Granada_Barcelona_2013,Granada,17,16,33,35
+2014-04-12,Celta_Sociedad_2013,Celta,17,16,33,35
+2014-04-12,Villarreal_Levante_2013,Levante,16,17,33,35
+2014-04-13,Espanol_Vallecano_2013,Espanol,17,16,33,35
+2014-04-13,Betis_Sevilla_2013,Betis,17,16,33,35
+2014-04-13,Espanol_Vallecano_2013,Vallecano,16,17,33,35
+2014-04-13,Getafe_Ath Madrid_2013,Ath Madrid,17,16,33,35
+2014-04-13,Betis_Sevilla_2013,Sevilla,16,17,33,35
+2014-04-13,Valencia_Elche_2013,Valencia,17,16,33,35
+2014-04-13,Getafe_Ath Madrid_2013,Getafe,17,16,33,35
+2014-04-13,Valencia_Elche_2013,Elche,17,16,33,35
+2014-04-14,Ath Bilbao_Malaga_2013,Malaga,16,17,33,35
+2014-04-14,Ath Bilbao_Malaga_2013,Ath Bilbao,17,16,33,35
+2014-04-18,Ath Madrid_Elche_2013,Ath Madrid,18,16,34,36
+2014-04-18,Ath Madrid_Elche_2013,Elche,17,17,34,36
+2014-04-19,Sociedad_Espanol_2013,Sociedad,17,17,34,36
+2014-04-19,Levante_Getafe_2013,Levante,17,17,34,36
+2014-04-19,Osasuna_Valencia_2013,Valencia,17,17,34,36
+2014-04-19,Levante_Getafe_2013,Getafe,17,17,34,36
+2014-04-19,Osasuna_Valencia_2013,Osasuna,17,17,34,36
+2014-04-19,Sociedad_Espanol_2013,Espanol,17,17,34,36
+2014-04-20,Sevilla_Granada_2013,Sevilla,17,17,34,36
+2014-04-20,Barcelona_Ath Bilbao_2013,Ath Bilbao,17,17,34,36
+2014-04-20,Barcelona_Ath Bilbao_2013,Barcelona,17,17,34,36
+2014-04-20,Almeria_Celta_2013,Celta,17,17,34,36
+2014-04-20,Almeria_Celta_2013,Almeria,17,17,34,36
+2014-04-20,Sevilla_Granada_2013,Granada,17,17,34,36
+2014-04-20,Vallecano_Betis_2013,Vallecano,17,17,34,36
+2014-04-20,Vallecano_Betis_2013,Betis,17,17,34,36
+2014-04-21,Malaga_Villarreal_2013,Villarreal,17,17,34,36
+2014-04-21,Malaga_Villarreal_2013,Malaga,17,17,34,36
+2014-04-25,Elche_Levante_2013,Elche,18,17,35,37
+2014-04-25,Elche_Levante_2013,Levante,17,18,35,37
+2014-04-26,Granada_Vallecano_2013,Granada,18,17,35,37
+2014-04-26,Getafe_Malaga_2013,Malaga,17,18,35,37
+2014-04-26,Granada_Vallecano_2013,Vallecano,17,18,35,37
+2014-04-26,Getafe_Malaga_2013,Getafe,18,17,35,37
+2014-04-26,Betis_Sociedad_2013,Betis,18,17,35,37
+2014-04-26,Real Madrid_Osasuna_2013,Real Madrid,17,17,34,37
+2014-04-26,Betis_Sociedad_2013,Sociedad,17,18,35,37
+2014-04-26,Real Madrid_Osasuna_2013,Osasuna,17,18,35,37
+2014-04-27,Villarreal_Barcelona_2013,Villarreal,18,17,35,37
+2014-04-27,Villarreal_Barcelona_2013,Barcelona,17,18,35,37
+2014-04-27,Espanol_Almeria_2013,Espanol,18,17,35,37
+2014-04-27,Ath Bilbao_Sevilla_2013,Ath Bilbao,18,17,35,37
+2014-04-27,Espanol_Almeria_2013,Almeria,17,18,35,37
+2014-04-27,Valencia_Ath Madrid_2013,Ath Madrid,18,17,35,37
+2014-04-27,Valencia_Ath Madrid_2013,Valencia,18,17,35,37
+2014-04-27,Ath Bilbao_Sevilla_2013,Sevilla,17,18,35,37
+2014-04-28,Celta_Valladolid_2013,Valladolid,16,18,34,37
+2014-04-28,Celta_Valladolid_2013,Celta,18,17,35,37
+2014-05-02,Vallecano_Ath Bilbao_2013,Vallecano,18,18,36,38
+2014-05-02,Vallecano_Ath Bilbao_2013,Ath Bilbao,18,18,36,38
+2014-05-03,Malaga_Elche_2013,Malaga,18,18,36,38
+2014-05-03,Osasuna_Celta_2013,Osasuna,18,18,36,38
+2014-05-03,Valladolid_Espanol_2013,Espanol,18,18,36,38
+2014-05-03,Valladolid_Espanol_2013,Valladolid,17,18,35,38
+2014-05-03,Barcelona_Getafe_2013,Getafe,18,18,36,38
+2014-05-03,Malaga_Elche_2013,Elche,18,18,36,38
+2014-05-03,Osasuna_Celta_2013,Celta,18,18,36,38
+2014-05-03,Barcelona_Getafe_2013,Barcelona,18,18,36,38
+2014-05-04,Real Madrid_Valencia_2013,Valencia,18,18,36,38
+2014-05-04,Sevilla_Villarreal_2013,Villarreal,18,18,36,38
+2014-05-04,Real Madrid_Valencia_2013,Real Madrid,18,17,35,38
+2014-05-04,Levante_Ath Madrid_2013,Ath Madrid,18,18,36,38
+2014-05-04,Almeria_Betis_2013,Betis,18,18,36,38
+2014-05-04,Sevilla_Villarreal_2013,Sevilla,18,18,36,38
+2014-05-04,Almeria_Betis_2013,Almeria,18,18,36,38
+2014-05-04,Levante_Ath Madrid_2013,Levante,18,18,36,38
+2014-05-05,Sociedad_Granada_2013,Granada,18,18,36,38
+2014-05-05,Sociedad_Granada_2013,Sociedad,18,18,36,38
+2014-05-07,Valladolid_Real Madrid_2013,Valladolid,18,18,36,39
+2014-05-07,Valladolid_Real Madrid_2013,Real Madrid,18,18,36,39
+2014-05-10,Villarreal_Vallecano_2013,Villarreal,19,18,37,39
+2014-05-10,Villarreal_Vallecano_2013,Vallecano,18,19,37,39
+2014-05-10,Levante_Valencia_2013,Levante,19,18,37,39
+2014-05-10,Levante_Valencia_2013,Valencia,18,19,37,39
+2014-05-11,Getafe_Sevilla_2013,Sevilla,18,19,37,39
+2014-05-11,Espanol_Osasuna_2013,Osasuna,18,19,37,39
+2014-05-11,Espanol_Osasuna_2013,Espanol,19,18,37,39
+2014-05-11,Ath Madrid_Malaga_2013,Ath Madrid,19,18,37,39
+2014-05-11,Betis_Valladolid_2013,Betis,19,18,37,39
+2014-05-11,Elche_Barcelona_2013,Barcelona,18,19,37,39
+2014-05-11,Granada_Almeria_2013,Almeria,18,19,37,39
+2014-05-11,Granada_Almeria_2013,Granada,19,18,37,39
+2014-05-11,Elche_Barcelona_2013,Elche,19,18,37,39
+2014-05-11,Ath Bilbao_Sociedad_2013,Sociedad,18,19,37,39
+2014-05-11,Ath Bilbao_Sociedad_2013,Ath Bilbao,19,18,37,39
+2014-05-11,Ath Madrid_Malaga_2013,Malaga,18,19,37,39
+2014-05-11,Celta_Real Madrid_2013,Celta,19,18,37,39
+2014-05-11,Getafe_Sevilla_2013,Getafe,19,18,37,39
+2014-05-11,Betis_Valladolid_2013,Valladolid,18,19,37,39
+2014-05-11,Celta_Real Madrid_2013,Real Madrid,18,19,37,39
+2014-05-16,Malaga_Levante_2013,Malaga,19,19,38,40
+2014-05-16,Malaga_Levante_2013,Levante,19,19,38,40
+2014-05-17,Barcelona_Ath Madrid_2013,Ath Madrid,19,19,38,40
+2014-05-17,Real Madrid_Espanol_2013,Real Madrid,19,19,38,40
+2014-05-17,Barcelona_Ath Madrid_2013,Barcelona,19,19,38,40
+2014-05-17,Real Madrid_Espanol_2013,Espanol,19,19,38,40
+2014-05-17,Valencia_Celta_2013,Celta,19,19,38,40
+2014-05-17,Valencia_Celta_2013,Valencia,19,19,38,40
+2014-05-18,Sociedad_Villarreal_2013,Sociedad,19,19,38,40
+2014-05-18,Almeria_Ath Bilbao_2013,Ath Bilbao,19,19,38,40
+2014-05-18,Valladolid_Granada_2013,Valladolid,19,19,38,40
+2014-05-18,Vallecano_Getafe_2013,Getafe,19,19,38,40
+2014-05-18,Vallecano_Getafe_2013,Vallecano,19,19,38,40
+2014-05-18,Sevilla_Elche_2013,Sevilla,19,19,38,40
+2014-05-18,Osasuna_Betis_2013,Betis,19,19,38,40
+2014-05-18,Almeria_Ath Bilbao_2013,Almeria,19,19,38,40
+2014-05-18,Sevilla_Elche_2013,Elche,19,19,38,40
+2014-05-18,Valladolid_Granada_2013,Granada,19,19,38,40
+2014-05-18,Osasuna_Betis_2013,Osasuna,19,19,38,40
+2014-05-18,Sociedad_Villarreal_2013,Villarreal,19,19,38,40

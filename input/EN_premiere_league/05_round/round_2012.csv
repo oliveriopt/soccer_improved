@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2012-08-18,Arsenal_Sunderland_2012,Arsenal,1,1,1,1
+2012-08-18,Newcastle_Tottenham_2012,Newcastle,1,1,1,1
+2012-08-18,QPR_Swansea_2012,Swansea,1,1,1,1
+2012-08-18,Reading_Stoke_2012,Stoke,1,1,1,1
+2012-08-18,QPR_Swansea_2012,QPR,1,1,1,1
+2012-08-18,Fulham_Norwich_2012,Fulham,1,1,1,1
+2012-08-18,Newcastle_Tottenham_2012,Tottenham,1,1,1,1
+2012-08-18,West Ham_Aston Villa_2012,West Ham,1,1,1,1
+2012-08-18,West Brom_Liverpool_2012,Liverpool,1,1,1,1
+2012-08-18,Fulham_Norwich_2012,Norwich,1,1,1,1
+2012-08-18,Reading_Stoke_2012,Reading,1,1,1,1
+2012-08-18,Arsenal_Sunderland_2012,Sunderland,1,1,1,1
+2012-08-18,West Ham_Aston Villa_2012,Aston Villa,1,1,1,1
+2012-08-18,West Brom_Liverpool_2012,West Brom,1,1,1,1
+2012-08-19,Man City_Southampton_2012,Southampton,1,1,1,1
+2012-08-19,Man City_Southampton_2012,Man City,1,1,1,1
+2012-08-19,Wigan_Chelsea_2012,Chelsea,1,1,1,1
+2012-08-19,Wigan_Chelsea_2012,Wigan,1,1,1,1
+2012-08-20,Everton_Man United_2012,Man United,1,1,1,1
+2012-08-20,Everton_Man United_2012,Everton,1,1,1,1
+2012-08-22,Chelsea_Reading_2012,Reading,1,1,2,2
+2012-08-22,Chelsea_Reading_2012,Chelsea,1,1,2,2
+2012-08-25,Chelsea_Newcastle_2012,Newcastle,1,1,2,2
+2012-08-25,Tottenham_West Brom_2012,West Brom,1,1,2,2
+2012-08-25,Norwich_QPR_2012,QPR,1,1,2,2
+2012-08-25,Norwich_QPR_2012,Norwich,1,1,2,2
+2012-08-25,Southampton_Wigan_2012,Southampton,1,1,2,2
+2012-08-25,Man United_Fulham_2012,Fulham,1,1,2,2
+2012-08-25,Swansea_West Ham_2012,West Ham,1,1,2,2
+2012-08-25,Southampton_Wigan_2012,Wigan,1,1,2,2
+2012-08-25,Chelsea_Newcastle_2012,Chelsea,2,1,3,2
+2012-08-25,Aston Villa_Everton_2012,Aston Villa,1,1,2,2
+2012-08-25,Tottenham_West Brom_2012,Tottenham,1,1,2,2
+2012-08-25,Aston Villa_Everton_2012,Everton,1,1,2,2
+2012-08-25,Swansea_West Ham_2012,Swansea,1,1,2,2
+2012-08-25,Man United_Fulham_2012,Man United,1,1,2,2
+2012-08-26,Stoke_Arsenal_2012,Arsenal,1,1,2,2
+2012-08-26,Liverpool_Man City_2012,Liverpool,1,1,2,2
+2012-08-26,Stoke_Arsenal_2012,Stoke,1,1,2,2
+2012-08-26,Liverpool_Man City_2012,Man City,1,1,2,2
+2012-09-01,Man City_QPR_2012,QPR,1,2,3,3
+2012-09-01,Tottenham_Norwich_2012,Norwich,1,2,3,3
+2012-09-01,Wigan_Stoke_2012,Stoke,1,2,3,3
+2012-09-01,West Ham_Fulham_2012,West Ham,2,1,3,3
+2012-09-01,Man City_QPR_2012,Man City,2,1,3,3
+2012-09-01,Swansea_Sunderland_2012,Sunderland,1,2,2,3
+2012-09-01,West Brom_Everton_2012,Everton,1,2,3,3
+2012-09-01,Tottenham_Norwich_2012,Tottenham,2,1,3,3
+2012-09-01,West Brom_Everton_2012,West Brom,2,1,3,3
+2012-09-01,Wigan_Stoke_2012,Wigan,2,1,3,3
+2012-09-01,Swansea_Sunderland_2012,Swansea,2,1,3,3
+2012-09-01,West Ham_Fulham_2012,Fulham,1,2,3,3
+2012-09-02,Newcastle_Aston Villa_2012,Newcastle,2,1,3,3
+2012-09-02,Liverpool_Arsenal_2012,Liverpool,2,1,3,3
+2012-09-02,Liverpool_Arsenal_2012,Arsenal,1,2,3,3
+2012-09-02,Southampton_Man United_2012,Man United,1,2,3,3
+2012-09-02,Newcastle_Aston Villa_2012,Aston Villa,1,2,3,3
+2012-09-02,Southampton_Man United_2012,Southampton,2,1,3,3
+2012-09-15,Aston Villa_Swansea_2012,Swansea,2,2,4,5
+2012-09-15,Norwich_West Ham_2012,West Ham,2,2,4,5
+2012-09-15,Norwich_West Ham_2012,Norwich,2,2,4,5
+2012-09-15,QPR_Chelsea_2012,QPR,2,2,4,5
+2012-09-15,Man United_Wigan_2012,Man United,2,2,4,5
+2012-09-15,Sunderland_Liverpool_2012,Liverpool,2,2,4,5
+2012-09-15,Arsenal_Southampton_2012,Southampton,2,2,4,5
+2012-09-15,Arsenal_Southampton_2012,Arsenal,2,2,4,5
+2012-09-15,Sunderland_Liverpool_2012,Sunderland,1,2,3,5
+2012-09-15,Fulham_West Brom_2012,West Brom,2,2,4,5
+2012-09-15,QPR_Chelsea_2012,Chelsea,2,2,4,5
+2012-09-15,Stoke_Man City_2012,Stoke,2,2,4,5
+2012-09-15,Fulham_West Brom_2012,Fulham,2,2,4,5
+2012-09-15,Aston Villa_Swansea_2012,Aston Villa,2,2,4,5
+2012-09-15,Man United_Wigan_2012,Wigan,2,2,4,5
+2012-09-15,Stoke_Man City_2012,Man City,2,2,4,5
+2012-09-16,Reading_Tottenham_2012,Reading,2,1,3,5
+2012-09-16,Reading_Tottenham_2012,Tottenham,2,2,4,5
+2012-09-17,Everton_Newcastle_2012,Newcastle,2,2,4,5
+2012-09-17,Everton_Newcastle_2012,Everton,2,2,4,5
+2012-09-22,Swansea_Everton_2012,Swansea,3,2,5,6
+2012-09-22,West Ham_Sunderland_2012,Sunderland,1,3,4,6
+2012-09-22,West Ham_Sunderland_2012,West Ham,3,2,5,6
+2012-09-22,Swansea_Everton_2012,Everton,2,3,5,6
+2012-09-22,Wigan_Fulham_2012,Fulham,2,3,5,6
+2012-09-22,Wigan_Fulham_2012,Wigan,3,2,5,6
+2012-09-22,West Brom_Reading_2012,Reading,2,2,4,6
+2012-09-22,West Brom_Reading_2012,West Brom,3,2,5,6
+2012-09-22,Southampton_Aston Villa_2012,Aston Villa,2,3,5,6
+2012-09-22,Southampton_Aston Villa_2012,Southampton,3,2,5,6
+2012-09-22,Chelsea_Stoke_2012,Stoke,2,3,5,6
+2012-09-22,Chelsea_Stoke_2012,Chelsea,3,2,5,6
+2012-09-23,Liverpool_Man United_2012,Liverpool,3,2,5,6
+2012-09-23,Man City_Arsenal_2012,Man City,3,2,5,6
+2012-09-23,Tottenham_QPR_2012,QPR,2,3,5,6
+2012-09-23,Newcastle_Norwich_2012,Norwich,2,3,5,6
+2012-09-23,Man City_Arsenal_2012,Arsenal,2,3,5,6
+2012-09-23,Tottenham_QPR_2012,Tottenham,3,2,5,6
+2012-09-23,Liverpool_Man United_2012,Man United,2,3,5,6
+2012-09-23,Newcastle_Norwich_2012,Newcastle,3,2,5,6
+2012-09-29,Stoke_Swansea_2012,Stoke,3,3,6,7
+2012-09-29,Man United_Tottenham_2012,Man United,3,3,6,7
+2012-09-29,Reading_Newcastle_2012,Reading,3,2,5,7
+2012-09-29,Everton_Southampton_2012,Everton,3,3,6,7
+2012-09-29,Arsenal_Chelsea_2012,Chelsea,3,3,6,7
+2012-09-29,Everton_Southampton_2012,Southampton,3,3,6,7
+2012-09-29,Stoke_Swansea_2012,Swansea,3,3,6,7
+2012-09-29,Arsenal_Chelsea_2012,Arsenal,3,3,6,7
+2012-09-29,Norwich_Liverpool_2012,Liverpool,3,3,6,7
+2012-09-29,Man United_Tottenham_2012,Tottenham,3,3,6,7
+2012-09-29,Sunderland_Wigan_2012,Sunderland,2,3,5,7
+2012-09-29,Norwich_Liverpool_2012,Norwich,3,3,6,7
+2012-09-29,Fulham_Man City_2012,Fulham,3,3,6,7
+2012-09-29,Reading_Newcastle_2012,Newcastle,3,3,6,7
+2012-09-29,Sunderland_Wigan_2012,Wigan,3,3,6,7
+2012-09-29,Fulham_Man City_2012,Man City,3,3,6,7
+2012-09-30,Aston Villa_West Brom_2012,West Brom,3,3,6,7
+2012-09-30,Aston Villa_West Brom_2012,Aston Villa,3,3,6,7
+2012-10-01,QPR_West Ham_2012,QPR,3,3,6,7
+2012-10-01,QPR_West Ham_2012,West Ham,3,3,6,7
+2012-10-06,West Ham_Arsenal_2012,Arsenal,3,4,7,8
+2012-10-06,Swansea_Reading_2012,Reading,3,3,6,8
+2012-10-06,Chelsea_Norwich_2012,Norwich,3,4,7,8
+2012-10-06,Swansea_Reading_2012,Swansea,4,3,7,8
+2012-10-06,West Brom_QPR_2012,QPR,3,4,7,8
+2012-10-06,Chelsea_Norwich_2012,Chelsea,4,3,7,8
+2012-10-06,Wigan_Everton_2012,Everton,3,4,7,8
+2012-10-06,West Ham_Arsenal_2012,West Ham,4,3,7,8
+2012-10-06,Man City_Sunderland_2012,Sunderland,2,4,6,8
+2012-10-06,West Brom_QPR_2012,West Brom,4,3,7,8
+2012-10-06,Wigan_Everton_2012,Wigan,4,3,7,8
+2012-10-06,Man City_Sunderland_2012,Man City,4,3,7,8
+2012-10-07,Tottenham_Aston Villa_2012,Aston Villa,3,4,7,8
+2012-10-07,Liverpool_Stoke_2012,Liverpool,4,3,7,8
+2012-10-07,Newcastle_Man United_2012,Newcastle,4,3,7,8
+2012-10-07,Liverpool_Stoke_2012,Stoke,3,4,7,8
+2012-10-07,Tottenham_Aston Villa_2012,Tottenham,4,3,7,8
+2012-10-07,Southampton_Fulham_2012,Southampton,4,3,7,8
+2012-10-07,Newcastle_Man United_2012,Man United,3,4,7,8
+2012-10-07,Southampton_Fulham_2012,Fulham,3,4,7,8
+2012-10-20,Swansea_Wigan_2012,Swansea,5,3,8,10
+2012-10-20,Man United_Stoke_2012,Man United,4,4,8,10
+2012-10-20,Tottenham_Chelsea_2012,Tottenham,5,3,8,10
+2012-10-20,West Ham_Southampton_2012,Southampton,4,4,8,10
+2012-10-20,Liverpool_Reading_2012,Reading,3,4,7,10
+2012-10-20,Norwich_Arsenal_2012,Norwich,4,4,8,10
+2012-10-20,Man United_Stoke_2012,Stoke,3,5,8,10
+2012-10-20,Norwich_Arsenal_2012,Arsenal,3,5,8,10
+2012-10-20,West Brom_Man City_2012,Man City,4,4,8,10
+2012-10-20,West Ham_Southampton_2012,West Ham,5,3,8,10
+2012-10-20,Fulham_Aston Villa_2012,Aston Villa,3,5,8,10
+2012-10-20,Liverpool_Reading_2012,Liverpool,5,3,8,10
+2012-10-20,West Brom_Man City_2012,West Brom,5,3,8,10
+2012-10-20,Tottenham_Chelsea_2012,Chelsea,4,4,8,10
+2012-10-20,Swansea_Wigan_2012,Wigan,4,4,8,10
+2012-10-20,Fulham_Aston Villa_2012,Fulham,4,4,8,10
+2012-10-21,QPR_Everton_2012,QPR,4,4,8,10
+2012-10-21,Sunderland_Newcastle_2012,Sunderland,3,4,7,10
+2012-10-21,QPR_Everton_2012,Everton,3,5,8,10
+2012-10-21,Sunderland_Newcastle_2012,Newcastle,4,4,8,10
+2012-10-27,Wigan_West Ham_2012,West Ham,5,4,9,11
+2012-10-27,Aston Villa_Norwich_2012,Norwich,4,5,9,11
+2012-10-27,Aston Villa_Norwich_2012,Aston Villa,4,5,9,11
+2012-10-27,Man City_Swansea_2012,Swansea,5,4,9,11
+2012-10-27,Arsenal_QPR_2012,QPR,4,5,9,11
+2012-10-27,Stoke_Sunderland_2012,Stoke,4,5,9,11
+2012-10-27,Arsenal_QPR_2012,Arsenal,4,5,9,11
+2012-10-27,Stoke_Sunderland_2012,Sunderland,3,5,8,11
+2012-10-27,Reading_Fulham_2012,Fulham,4,5,9,11
+2012-10-27,Reading_Fulham_2012,Reading,4,4,8,11
+2012-10-27,Wigan_West Ham_2012,Wigan,5,4,9,11
+2012-10-27,Man City_Swansea_2012,Man City,5,4,9,11
+2012-10-28,Everton_Liverpool_2012,Everton,4,5,9,11
+2012-10-28,Chelsea_Man United_2012,Chelsea,5,4,9,11
+2012-10-28,Everton_Liverpool_2012,Liverpool,5,4,9,11
+2012-10-28,Chelsea_Man United_2012,Man United,4,5,9,11
+2012-10-28,Southampton_Tottenham_2012,Tottenham,5,4,9,11
+2012-10-28,Newcastle_West Brom_2012,Newcastle,5,4,9,11
+2012-10-28,Newcastle_West Brom_2012,West Brom,5,4,9,11
+2012-10-28,Southampton_Tottenham_2012,Southampton,5,4,9,11
+2012-11-03,Fulham_Everton_2012,Everton,4,6,10,12
+2012-11-03,Tottenham_Wigan_2012,Tottenham,6,4,10,12
+2012-11-03,West Ham_Man City_2012,Man City,5,5,10,12
+2012-11-03,Sunderland_Aston Villa_2012,Sunderland,4,5,9,12
+2012-11-03,Fulham_Everton_2012,Fulham,5,5,10,12
+2012-11-03,Norwich_Stoke_2012,Norwich,5,5,10,12
+2012-11-03,Sunderland_Aston Villa_2012,Aston Villa,4,6,10,12
+2012-11-03,West Ham_Man City_2012,West Ham,6,4,10,12
+2012-11-03,Swansea_Chelsea_2012,Swansea,6,4,10,12
+2012-11-03,Swansea_Chelsea_2012,Chelsea,5,5,10,12
+2012-11-03,Norwich_Stoke_2012,Stoke,4,6,10,12
+2012-11-03,Tottenham_Wigan_2012,Wigan,5,5,10,12
+2012-11-03,Man United_Arsenal_2012,Arsenal,4,6,10,12
+2012-11-03,Man United_Arsenal_2012,Man United,5,5,10,12
+2012-11-04,QPR_Reading_2012,QPR,5,5,10,12
+2012-11-04,Liverpool_Newcastle_2012,Liverpool,6,4,10,12
+2012-11-04,QPR_Reading_2012,Reading,4,5,9,12
+2012-11-04,Liverpool_Newcastle_2012,Newcastle,5,5,10,12
+2012-11-05,West Brom_Southampton_2012,West Brom,6,4,10,12
+2012-11-05,West Brom_Southampton_2012,Southampton,5,5,10,12
+2012-11-10,Arsenal_Fulham_2012,Arsenal,5,6,11,13
+2012-11-10,Everton_Sunderland_2012,Sunderland,4,6,10,13
+2012-11-10,Stoke_QPR_2012,Stoke,5,6,11,13
+2012-11-10,Reading_Norwich_2012,Reading,5,5,10,13
+2012-11-10,Aston Villa_Man United_2012,Aston Villa,5,6,11,13
+2012-11-10,Arsenal_Fulham_2012,Fulham,5,6,11,13
+2012-11-10,Stoke_QPR_2012,QPR,5,6,11,13
+2012-11-10,Reading_Norwich_2012,Norwich,5,6,11,13
+2012-11-10,Everton_Sunderland_2012,Everton,5,6,11,13
+2012-11-10,Southampton_Swansea_2012,Southampton,6,5,11,13
+2012-11-10,Aston Villa_Man United_2012,Man United,5,6,11,13
+2012-11-10,Wigan_West Brom_2012,West Brom,6,5,11,13
+2012-11-10,Southampton_Swansea_2012,Swansea,6,5,11,13
+2012-11-10,Wigan_West Brom_2012,Wigan,6,5,11,13
+2012-11-11,Newcastle_West Ham_2012,Newcastle,6,5,11,13
+2012-11-11,Man City_Tottenham_2012,Man City,6,5,11,13
+2012-11-11,Chelsea_Liverpool_2012,Liverpool,6,5,11,13
+2012-11-11,Chelsea_Liverpool_2012,Chelsea,6,5,11,13
+2012-11-11,Man City_Tottenham_2012,Tottenham,6,5,11,13
+2012-11-11,Newcastle_West Ham_2012,West Ham,6,5,11,13
+2012-11-17,Man City_Aston Villa_2012,Man City,7,5,12,14
+2012-11-17,Newcastle_Swansea_2012,Swansea,6,6,12,14
+2012-11-17,West Brom_Chelsea_2012,Chelsea,6,6,12,14
+2012-11-17,Liverpool_Wigan_2012,Liverpool,7,5,12,14
+2012-11-17,Norwich_Man United_2012,Norwich,6,6,12,14
+2012-11-17,Arsenal_Tottenham_2012,Arsenal,6,6,12,14
+2012-11-17,Arsenal_Tottenham_2012,Tottenham,6,6,12,14
+2012-11-17,Newcastle_Swansea_2012,Newcastle,7,5,12,14
+2012-11-17,Reading_Everton_2012,Everton,5,7,12,14
+2012-11-17,Norwich_Man United_2012,Man United,5,7,12,14
+2012-11-17,Reading_Everton_2012,Reading,6,5,11,14
+2012-11-17,QPR_Southampton_2012,Southampton,6,6,12,14
+2012-11-17,QPR_Southampton_2012,QPR,6,6,12,14
+2012-11-17,Man City_Aston Villa_2012,Aston Villa,5,7,12,14
+2012-11-17,Liverpool_Wigan_2012,Wigan,6,6,12,14
+2012-11-17,West Brom_Chelsea_2012,West Brom,7,5,12,14
+2012-11-18,Fulham_Sunderland_2012,Sunderland,4,7,11,14
+2012-11-18,Fulham_Sunderland_2012,Fulham,6,6,12,14
+2012-11-19,West Ham_Stoke_2012,West Ham,7,5,12,14
+2012-11-19,West Ham_Stoke_2012,Stoke,5,7,12,14
+2012-11-24,Wigan_Reading_2012,Wigan,7,6,13,15
+2012-11-24,Man United_QPR_2012,QPR,6,7,13,15
+2012-11-24,Wigan_Reading_2012,Reading,6,6,12,15
+2012-11-24,Everton_Norwich_2012,Norwich,6,7,13,15
+2012-11-24,Sunderland_West Brom_2012,West Brom,7,6,13,15
+2012-11-24,Man United_QPR_2012,Man United,6,7,13,15
+2012-11-24,Aston Villa_Arsenal_2012,Aston Villa,6,7,13,15
+2012-11-24,Stoke_Fulham_2012,Fulham,6,7,13,15
+2012-11-24,Sunderland_West Brom_2012,Sunderland,5,7,12,15
+2012-11-24,Aston Villa_Arsenal_2012,Arsenal,6,7,13,15
+2012-11-24,Stoke_Fulham_2012,Stoke,6,7,13,15
+2012-11-24,Everton_Norwich_2012,Everton,6,7,13,15
+2012-11-25,Tottenham_West Ham_2012,West Ham,7,6,13,15
+2012-11-25,Southampton_Newcastle_2012,Newcastle,7,6,13,15
+2012-11-25,Swansea_Liverpool_2012,Liverpool,7,6,13,15
+2012-11-25,Southampton_Newcastle_2012,Southampton,7,6,13,15
+2012-11-25,Swansea_Liverpool_2012,Swansea,7,6,13,15
+2012-11-25,Tottenham_West Ham_2012,Tottenham,7,6,13,15
+2012-11-25,Chelsea_Man City_2012,Chelsea,7,6,13,15
+2012-11-25,Chelsea_Man City_2012,Man City,7,6,13,15
+2012-11-27,Sunderland_QPR_2012,QPR,6,8,14,16
+2012-11-27,Aston Villa_Reading_2012,Aston Villa,7,7,14,16
+2012-11-27,Aston Villa_Reading_2012,Reading,6,7,13,16
+2012-11-27,Sunderland_QPR_2012,Sunderland,6,7,13,16
+2012-11-28,Southampton_Norwich_2012,Norwich,6,8,14,16
+2012-11-28,Man United_West Ham_2012,West Ham,7,7,14,16
+2012-11-28,Chelsea_Fulham_2012,Chelsea,8,6,14,16
+2012-11-28,Swansea_West Brom_2012,Swansea,8,6,14,16
+2012-11-28,Stoke_Newcastle_2012,Newcastle,7,7,14,16
+2012-11-28,Southampton_Norwich_2012,Southampton,8,6,14,16
+2012-11-28,Swansea_West Brom_2012,West Brom,7,7,14,16
+2012-11-28,Tottenham_Liverpool_2012,Liverpool,7,7,14,16
+2012-11-28,Everton_Arsenal_2012,Arsenal,6,8,14,16
+2012-11-28,Man United_West Ham_2012,Man United,7,7,14,16
+2012-11-28,Everton_Arsenal_2012,Everton,7,7,14,16
+2012-11-28,Tottenham_Liverpool_2012,Tottenham,8,6,14,16
+2012-11-28,Stoke_Newcastle_2012,Stoke,7,7,14,16
+2012-11-28,Chelsea_Fulham_2012,Fulham,6,8,14,16
+2012-11-28,Wigan_Man City_2012,Wigan,8,6,14,16
+2012-11-28,Wigan_Man City_2012,Man City,7,7,14,16
+2012-12-01,Man City_Everton_2012,Man City,8,7,15,16
+2012-12-01,QPR_Aston Villa_2012,Aston Villa,7,8,15,16
+2012-12-01,Arsenal_Swansea_2012,Arsenal,7,8,15,16
+2012-12-01,Fulham_Tottenham_2012,Fulham,7,8,15,16
+2012-12-01,Reading_Man United_2012,Man United,7,8,15,16
+2012-12-01,West Brom_Stoke_2012,West Brom,8,7,15,16
+2012-12-01,QPR_Aston Villa_2012,QPR,7,8,15,16
+2012-12-01,Fulham_Tottenham_2012,Tottenham,8,7,15,16
+2012-12-01,Liverpool_Southampton_2012,Liverpool,8,7,15,16
+2012-12-01,West Ham_Chelsea_2012,Chelsea,8,7,15,16
+2012-12-01,Arsenal_Swansea_2012,Swansea,8,7,15,16
+2012-12-01,Reading_Man United_2012,Reading,7,7,14,16
+2012-12-01,Liverpool_Southampton_2012,Southampton,8,7,15,16
+2012-12-01,West Ham_Chelsea_2012,West Ham,8,7,15,16
+2012-12-01,Man City_Everton_2012,Everton,7,8,15,16
+2012-12-01,West Brom_Stoke_2012,Stoke,7,8,15,16
+2012-12-02,Norwich_Sunderland_2012,Sunderland,6,8,14,16
+2012-12-02,Norwich_Sunderland_2012,Norwich,7,8,15,16
+2012-12-03,Newcastle_Wigan_2012,Newcastle,8,7,15,16
+2012-12-03,Newcastle_Wigan_2012,Wigan,8,7,15,16
+2012-12-08,Sunderland_Chelsea_2012,Sunderland,7,8,15,17
+2012-12-08,Southampton_Reading_2012,Southampton,9,7,16,17
+2012-12-08,Swansea_Norwich_2012,Norwich,7,9,16,17
+2012-12-08,Aston Villa_Stoke_2012,Stoke,7,9,16,17
+2012-12-08,Southampton_Reading_2012,Reading,7,8,15,17
+2012-12-08,Wigan_QPR_2012,Wigan,9,7,16,17
+2012-12-08,Arsenal_West Brom_2012,Arsenal,8,8,16,17
+2012-12-08,Swansea_Norwich_2012,Swansea,9,7,16,17
+2012-12-08,Wigan_QPR_2012,QPR,7,9,16,17
+2012-12-08,Arsenal_West Brom_2012,West Brom,8,8,16,17
+2012-12-08,Sunderland_Chelsea_2012,Chelsea,8,8,16,17
+2012-12-08,Aston Villa_Stoke_2012,Aston Villa,8,8,16,17
+2012-12-09,Everton_Tottenham_2012,Tottenham,8,8,16,17
+2012-12-09,West Ham_Liverpool_2012,West Ham,9,7,16,17
+2012-12-09,West Ham_Liverpool_2012,Liverpool,8,8,16,17
+2012-12-09,Everton_Tottenham_2012,Everton,8,8,16,17
+2012-12-09,Man City_Man United_2012,Man United,7,9,16,17
+2012-12-09,Man City_Man United_2012,Man City,9,7,16,17
+2012-12-10,Fulham_Newcastle_2012,Fulham,8,8,16,17
+2012-12-10,Fulham_Newcastle_2012,Newcastle,8,8,16,17
+2012-12-11,Sunderland_Reading_2012,Reading,7,9,16,18
+2012-12-11,Sunderland_Reading_2012,Sunderland,8,8,16,18
+2012-12-15,Liverpool_Aston Villa_2012,Aston Villa,8,9,17,18
+2012-12-15,Stoke_Everton_2012,Everton,8,9,17,18
+2012-12-15,Newcastle_Man City_2012,Man City,9,8,17,18
+2012-12-15,Man United_Sunderland_2012,Man United,8,9,17,18
+2012-12-15,Newcastle_Man City_2012,Newcastle,9,8,17,18
+2012-12-15,Norwich_Wigan_2012,Wigan,9,8,17,18
+2012-12-15,Stoke_Everton_2012,Stoke,8,9,17,18
+2012-12-15,Man United_Sunderland_2012,Sunderland,8,9,17,18
+2012-12-15,QPR_Fulham_2012,Fulham,8,9,17,18
+2012-12-15,QPR_Fulham_2012,QPR,8,9,17,18
+2012-12-15,Norwich_Wigan_2012,Norwich,8,9,17,18
+2012-12-15,Liverpool_Aston Villa_2012,Liverpool,9,8,17,18
+2012-12-16,West Brom_West Ham_2012,West Ham,9,8,17,18
+2012-12-16,Tottenham_Swansea_2012,Tottenham,9,8,17,18
+2012-12-16,Tottenham_Swansea_2012,Swansea,9,8,17,18
+2012-12-16,West Brom_West Ham_2012,West Brom,9,8,17,18
+2012-12-17,Reading_Arsenal_2012,Reading,8,9,17,18
+2012-12-17,Reading_Arsenal_2012,Arsenal,8,9,17,18
+2012-12-22,Liverpool_Fulham_2012,Fulham,8,10,18,19
+2012-12-22,West Brom_Norwich_2012,West Brom,10,8,18,19
+2012-12-22,Tottenham_Stoke_2012,Tottenham,10,8,18,19
+2012-12-22,Tottenham_Stoke_2012,Stoke,8,10,18,19
+2012-12-22,West Ham_Everton_2012,West Ham,10,8,18,19
+2012-12-22,Newcastle_QPR_2012,Newcastle,10,8,18,19
+2012-12-22,Southampton_Sunderland_2012,Sunderland,8,10,18,19
+2012-12-22,West Ham_Everton_2012,Everton,8,10,18,19
+2012-12-22,Man City_Reading_2012,Reading,8,10,18,19
+2012-12-22,Wigan_Arsenal_2012,Wigan,10,8,18,19
+2012-12-22,Southampton_Sunderland_2012,Southampton,10,7,17,19
+2012-12-22,Newcastle_QPR_2012,QPR,8,10,18,19
+2012-12-22,Man City_Reading_2012,Man City,10,8,18,19
+2012-12-22,West Brom_Norwich_2012,Norwich,8,10,18,19
+2012-12-22,Wigan_Arsenal_2012,Arsenal,8,10,18,19
+2012-12-22,Liverpool_Fulham_2012,Liverpool,10,8,18,19
+2012-12-23,Chelsea_Aston Villa_2012,Aston Villa,8,10,18,19
+2012-12-23,Chelsea_Aston Villa_2012,Chelsea,9,8,17,19
+2012-12-23,Swansea_Man United_2012,Man United,8,10,18,19
+2012-12-23,Swansea_Man United_2012,Swansea,10,8,18,19
+2012-12-26,Fulham_Southampton_2012,Southampton,10,8,18,20
+2012-12-26,Stoke_Liverpool_2012,Liverpool,10,9,19,20
+2012-12-26,Aston Villa_Tottenham_2012,Tottenham,10,9,19,20
+2012-12-26,QPR_West Brom_2012,QPR,9,10,19,20
+2012-12-26,Sunderland_Man City_2012,Sunderland,9,10,19,20
+2012-12-26,Fulham_Southampton_2012,Fulham,9,10,19,20
+2012-12-26,QPR_West Brom_2012,West Brom,10,9,19,20
+2012-12-26,Norwich_Chelsea_2012,Norwich,9,10,19,20
+2012-12-26,Man United_Newcastle_2012,Newcastle,10,9,19,20
+2012-12-26,Everton_Wigan_2012,Wigan,10,9,19,20
+2012-12-26,Sunderland_Man City_2012,Man City,10,9,19,20
+2012-12-26,Norwich_Chelsea_2012,Chelsea,9,9,18,20
+2012-12-26,Everton_Wigan_2012,Everton,9,10,19,20
+2012-12-26,Reading_Swansea_2012,Reading,9,10,19,20
+2012-12-26,Reading_Swansea_2012,Swansea,10,9,19,20
+2012-12-26,Aston Villa_Tottenham_2012,Aston Villa,9,10,19,20
+2012-12-26,Stoke_Liverpool_2012,Stoke,9,10,19,20
+2012-12-26,Man United_Newcastle_2012,Man United,9,10,19,20
+2012-12-29,Norwich_Man City_2012,Norwich,10,10,20,20
+2012-12-29,Aston Villa_Wigan_2012,Wigan,10,10,20,20
+2012-12-29,Reading_West Ham_2012,Reading,10,10,20,20
+2012-12-29,Man United_West Brom_2012,West Brom,10,10,20,20
+2012-12-29,Fulham_Swansea_2012,Swansea,10,10,20,20
+2012-12-29,Norwich_Man City_2012,Man City,10,10,20,20
+2012-12-29,Sunderland_Tottenham_2012,Sunderland,10,10,20,20
+2012-12-29,Fulham_Swansea_2012,Fulham,10,10,20,20
+2012-12-29,Arsenal_Newcastle_2012,Arsenal,9,10,19,20
+2012-12-29,Arsenal_Newcastle_2012,Newcastle,10,10,20,20
+2012-12-29,Reading_West Ham_2012,West Ham,10,9,19,20
+2012-12-29,Stoke_Southampton_2012,Stoke,10,10,20,20
+2012-12-29,Man United_West Brom_2012,Man United,10,10,20,20
+2012-12-29,Stoke_Southampton_2012,Southampton,10,9,19,20
+2012-12-29,Aston Villa_Wigan_2012,Aston Villa,10,10,20,20
+2012-12-29,Sunderland_Tottenham_2012,Tottenham,10,10,20,20
+2012-12-30,Everton_Chelsea_2012,Everton,10,10,20,20
+2012-12-30,QPR_Liverpool_2012,QPR,10,10,20,20
+2012-12-30,Everton_Chelsea_2012,Chelsea,9,10,19,20
+2012-12-30,QPR_Liverpool_2012,Liverpool,10,10,20,20
+2013-01-01,West Ham_Norwich_2012,West Ham,11,9,20,21
+2013-01-01,Southampton_Arsenal_2012,Arsenal,9,11,20,21
+2013-01-01,West Brom_Fulham_2012,West Brom,11,10,21,21
+2013-01-01,Wigan_Man United_2012,Man United,10,11,21,21
+2013-01-01,Man City_Stoke_2012,Man City,11,10,21,21
+2013-01-01,Tottenham_Reading_2012,Reading,10,11,21,21
+2013-01-01,Southampton_Arsenal_2012,Southampton,11,9,20,21
+2013-01-01,West Brom_Fulham_2012,Fulham,10,11,21,21
+2013-01-01,Swansea_Aston Villa_2012,Aston Villa,10,11,21,21
+2013-01-01,Swansea_Aston Villa_2012,Swansea,11,10,21,21
+2013-01-01,West Ham_Norwich_2012,Norwich,10,11,21,21
+2013-01-01,Tottenham_Reading_2012,Tottenham,11,10,21,21
+2013-01-01,Wigan_Man United_2012,Wigan,11,10,21,21
+2013-01-01,Man City_Stoke_2012,Stoke,10,11,21,21
+2013-01-02,Newcastle_Everton_2012,Newcastle,11,10,21,21
+2013-01-02,Newcastle_Everton_2012,Everton,10,11,21,21
+2013-01-02,Liverpool_Sunderland_2012,Sunderland,10,11,21,21
+2013-01-02,Chelsea_QPR_2012,Chelsea,10,10,20,21
+2013-01-02,Chelsea_QPR_2012,QPR,10,11,21,21
+2013-01-02,Liverpool_Sunderland_2012,Liverpool,11,10,21,21
+2013-01-12,Stoke_Chelsea_2012,Stoke,11,11,22,22
+2013-01-12,Everton_Swansea_2012,Everton,11,11,22,22
+2013-01-12,QPR_Tottenham_2012,Tottenham,11,11,22,22
+2013-01-12,Aston Villa_Southampton_2012,Southampton,11,10,21,22
+2013-01-12,Reading_West Brom_2012,Reading,11,11,22,22
+2013-01-12,Everton_Swansea_2012,Swansea,11,11,22,22
+2013-01-12,Sunderland_West Ham_2012,Sunderland,11,11,22,22
+2013-01-12,Aston Villa_Southampton_2012,Aston Villa,11,11,22,22
+2013-01-12,Norwich_Newcastle_2012,Norwich,11,11,22,22
+2013-01-12,QPR_Tottenham_2012,QPR,11,11,22,22
+2013-01-12,Stoke_Chelsea_2012,Chelsea,10,11,21,22
+2013-01-12,Sunderland_West Ham_2012,West Ham,11,10,21,22
+2013-01-12,Fulham_Wigan_2012,Fulham,11,11,22,22
+2013-01-12,Reading_West Brom_2012,West Brom,11,11,22,22
+2013-01-12,Fulham_Wigan_2012,Wigan,11,11,22,22
+2013-01-12,Norwich_Newcastle_2012,Newcastle,11,11,22,22
+2013-01-13,Arsenal_Man City_2012,Arsenal,10,11,21,22
+2013-01-13,Man United_Liverpool_2012,Man United,11,11,22,22
+2013-01-13,Man United_Liverpool_2012,Liverpool,11,11,22,22
+2013-01-13,Arsenal_Man City_2012,Man City,11,11,22,22
+2013-01-16,Chelsea_Southampton_2012,Southampton,11,11,22,23
+2013-01-16,Chelsea_Southampton_2012,Chelsea,11,11,22,23
+2013-01-19,Newcastle_Reading_2012,Newcastle,12,11,23,23
+2013-01-19,Newcastle_Reading_2012,Reading,11,12,23,23
+2013-01-19,Swansea_Stoke_2012,Swansea,12,11,23,23
+2013-01-19,West Brom_Aston Villa_2012,West Brom,12,11,23,23
+2013-01-19,Man City_Fulham_2012,Fulham,11,12,23,23
+2013-01-19,Man City_Fulham_2012,Man City,12,11,23,23
+2013-01-19,Liverpool_Norwich_2012,Liverpool,12,11,23,23
+2013-01-19,West Ham_QPR_2012,QPR,11,12,23,23
+2013-01-19,West Brom_Aston Villa_2012,Aston Villa,11,12,23,23
+2013-01-19,Wigan_Sunderland_2012,Wigan,12,11,23,23
+2013-01-19,Wigan_Sunderland_2012,Sunderland,11,12,23,23
+2013-01-19,Liverpool_Norwich_2012,Norwich,11,12,23,23
+2013-01-19,West Ham_QPR_2012,West Ham,12,10,22,23
+2013-01-19,Swansea_Stoke_2012,Stoke,11,12,23,23
+2013-01-20,Tottenham_Man United_2012,Tottenham,12,11,23,23
+2013-01-20,Chelsea_Arsenal_2012,Chelsea,12,11,23,23
+2013-01-20,Chelsea_Arsenal_2012,Arsenal,10,12,22,23
+2013-01-20,Tottenham_Man United_2012,Man United,11,12,23,23
+2013-01-21,Southampton_Everton_2012,Everton,11,12,23,23
+2013-01-21,Southampton_Everton_2012,Southampton,12,11,23,23
+2013-01-23,Arsenal_West Ham_2012,Arsenal,11,12,23,24
+2013-01-23,Arsenal_West Ham_2012,West Ham,12,11,23,24
+2013-01-29,Sunderland_Swansea_2012,Swansea,12,12,24,25
+2013-01-29,Stoke_Wigan_2012,Wigan,12,12,24,25
+2013-01-29,QPR_Man City_2012,Man City,12,12,24,25
+2013-01-29,Sunderland_Swansea_2012,Sunderland,12,12,24,25
+2013-01-29,QPR_Man City_2012,QPR,12,12,24,25
+2013-01-29,Aston Villa_Newcastle_2012,Newcastle,12,12,24,25
+2013-01-29,Aston Villa_Newcastle_2012,Aston Villa,12,12,24,25
+2013-01-29,Stoke_Wigan_2012,Stoke,12,12,24,25
+2013-01-30,Everton_West Brom_2012,West Brom,12,12,24,25
+2013-01-30,Arsenal_Liverpool_2012,Liverpool,12,12,24,25
+2013-01-30,Everton_West Brom_2012,Everton,12,12,24,25
+2013-01-30,Norwich_Tottenham_2012,Norwich,12,12,24,25
+2013-01-30,Man United_Southampton_2012,Man United,12,12,24,25
+2013-01-30,Arsenal_Liverpool_2012,Arsenal,12,12,24,25
+2013-01-30,Reading_Chelsea_2012,Chelsea,12,12,24,25
+2013-01-30,Fulham_West Ham_2012,Fulham,12,12,24,25
+2013-01-30,Norwich_Tottenham_2012,Tottenham,12,12,24,25
+2013-01-30,Reading_Chelsea_2012,Reading,12,12,24,25
+2013-01-30,Fulham_West Ham_2012,West Ham,12,12,24,25
+2013-01-30,Man United_Southampton_2012,Southampton,12,12,24,25
+2013-02-02,Fulham_Man United_2012,Fulham,13,12,25,25
+2013-02-02,Everton_Aston Villa_2012,Everton,13,12,25,25
+2013-02-02,Newcastle_Chelsea_2012,Chelsea,12,13,25,25
+2013-02-02,QPR_Norwich_2012,Norwich,12,13,25,25
+2013-02-02,Wigan_Southampton_2012,Southampton,12,13,25,25
+2013-02-02,West Ham_Swansea_2012,West Ham,13,12,25,25
+2013-02-02,Wigan_Southampton_2012,Wigan,13,12,25,25
+2013-02-02,Reading_Sunderland_2012,Reading,13,12,25,25
+2013-02-02,Newcastle_Chelsea_2012,Newcastle,13,12,25,25
+2013-02-02,Arsenal_Stoke_2012,Arsenal,13,12,25,25
+2013-02-02,West Ham_Swansea_2012,Swansea,12,13,25,25
+2013-02-02,Everton_Aston Villa_2012,Aston Villa,12,13,25,25
+2013-02-02,Arsenal_Stoke_2012,Stoke,12,13,25,25
+2013-02-02,Reading_Sunderland_2012,Sunderland,12,13,25,25
+2013-02-02,Fulham_Man United_2012,Man United,12,13,25,25
+2013-02-02,QPR_Norwich_2012,QPR,13,12,25,25
+2013-02-03,West Brom_Tottenham_2012,Tottenham,12,13,25,25
+2013-02-03,West Brom_Tottenham_2012,West Brom,13,12,25,25
+2013-02-03,Man City_Liverpool_2012,Liverpool,12,13,25,25
+2013-02-03,Man City_Liverpool_2012,Man City,13,12,25,25
+2013-02-09,Southampton_Man City_2012,Man City,13,13,26,26
+2013-02-09,Southampton_Man City_2012,Southampton,13,13,26,26
+2013-02-09,Sunderland_Arsenal_2012,Arsenal,13,13,26,26
+2013-02-09,Swansea_QPR_2012,Swansea,13,13,26,26
+2013-02-09,Norwich_Fulham_2012,Fulham,13,13,26,26
+2013-02-09,Stoke_Reading_2012,Stoke,13,13,26,26
+2013-02-09,Sunderland_Arsenal_2012,Sunderland,13,13,26,26
+2013-02-09,Swansea_QPR_2012,QPR,13,13,26,26
+2013-02-09,Tottenham_Newcastle_2012,Tottenham,13,13,26,26
+2013-02-09,Stoke_Reading_2012,Reading,13,13,26,26
+2013-02-09,Norwich_Fulham_2012,Norwich,13,13,26,26
+2013-02-09,Chelsea_Wigan_2012,Wigan,13,13,26,26
+2013-02-09,Tottenham_Newcastle_2012,Newcastle,13,13,26,26
+2013-02-09,Chelsea_Wigan_2012,Chelsea,13,13,26,26
+2013-02-10,Man United_Everton_2012,Man United,13,13,26,26
+2013-02-10,Man United_Everton_2012,Everton,13,13,26,26
+2013-02-10,Aston Villa_West Ham_2012,Aston Villa,13,13,26,26
+2013-02-10,Aston Villa_West Ham_2012,West Ham,13,13,26,26
+2013-02-11,Liverpool_West Brom_2012,Liverpool,13,13,26,26
+2013-02-11,Liverpool_West Brom_2012,West Brom,13,13,26,26
+2013-02-17,Liverpool_Swansea_2012,Liverpool,14,13,27,27
+2013-02-17,Liverpool_Swansea_2012,Swansea,13,14,27,27
+2013-02-23,Fulham_Stoke_2012,Stoke,13,14,27,28
+2013-02-23,West Brom_Sunderland_2012,Sunderland,13,14,27,28
+2013-02-23,QPR_Man United_2012,Man United,13,14,27,28
+2013-02-23,Arsenal_Aston Villa_2012,Arsenal,14,13,27,28
+2013-02-23,West Brom_Sunderland_2012,West Brom,14,13,27,28
+2013-02-23,Arsenal_Aston Villa_2012,Aston Villa,13,14,27,28
+2013-02-23,Norwich_Everton_2012,Norwich,14,13,27,28
+2013-02-23,Fulham_Stoke_2012,Fulham,14,13,27,28
+2013-02-23,Reading_Wigan_2012,Reading,14,13,27,28
+2013-02-23,QPR_Man United_2012,QPR,14,13,27,28
+2013-02-23,Reading_Wigan_2012,Wigan,13,14,27,28
+2013-02-23,Norwich_Everton_2012,Everton,13,14,27,28
+2013-02-24,Man City_Chelsea_2012,Man City,14,13,27,28
+2013-02-24,Newcastle_Southampton_2012,Newcastle,14,13,27,28
+2013-02-24,Man City_Chelsea_2012,Chelsea,13,14,27,28
+2013-02-24,Newcastle_Southampton_2012,Southampton,13,14,27,28
+2013-02-25,West Ham_Tottenham_2012,Tottenham,13,14,27,28
+2013-02-25,West Ham_Tottenham_2012,West Ham,14,13,27,28
+2013-03-02,Chelsea_West Brom_2012,Chelsea,14,14,28,29
+2013-03-02,Swansea_Newcastle_2012,Swansea,14,14,28,29
+2013-03-02,Sunderland_Fulham_2012,Sunderland,14,14,28,29
+2013-03-02,Man United_Norwich_2012,Man United,14,14,28,29
+2013-03-02,Swansea_Newcastle_2012,Newcastle,14,14,28,29
+2013-03-02,Wigan_Liverpool_2012,Liverpool,14,14,28,29
+2013-03-02,Stoke_West Ham_2012,West Ham,14,14,28,29
+2013-03-02,Stoke_West Ham_2012,Stoke,14,14,28,29
+2013-03-02,Everton_Reading_2012,Everton,14,14,28,29
+2013-03-02,Sunderland_Fulham_2012,Fulham,14,14,28,29
+2013-03-02,Man United_Norwich_2012,Norwich,14,14,28,29
+2013-03-02,Chelsea_West Brom_2012,West Brom,14,14,28,29
+2013-03-02,Southampton_QPR_2012,QPR,14,14,28,29
+2013-03-02,Southampton_QPR_2012,Southampton,14,14,28,29
+2013-03-02,Wigan_Liverpool_2012,Wigan,14,14,28,29
+2013-03-02,Everton_Reading_2012,Reading,14,14,28,29
+2013-03-03,Tottenham_Arsenal_2012,Tottenham,14,14,28,29
+2013-03-03,Tottenham_Arsenal_2012,Arsenal,14,14,28,29
+2013-03-04,Aston Villa_Man City_2012,Man City,14,14,28,29
+2013-03-04,Aston Villa_Man City_2012,Aston Villa,14,14,28,29
+2013-03-09,West Brom_Swansea_2012,West Brom,15,14,29,30
+2013-03-09,Reading_Aston Villa_2012,Aston Villa,14,15,29,30
+2013-03-09,Reading_Aston Villa_2012,Reading,15,14,29,30
+2013-03-09,West Brom_Swansea_2012,Swansea,14,15,29,30
+2013-03-09,Norwich_Southampton_2012,Southampton,14,15,29,30
+2013-03-09,QPR_Sunderland_2012,QPR,15,14,29,30
+2013-03-09,QPR_Sunderland_2012,Sunderland,14,15,29,30
+2013-03-09,Norwich_Southampton_2012,Norwich,15,14,29,30
+2013-03-10,Liverpool_Tottenham_2012,Tottenham,14,15,29,30
+2013-03-10,Liverpool_Tottenham_2012,Liverpool,15,14,29,30
+2013-03-10,Newcastle_Stoke_2012,Newcastle,15,14,29,30
+2013-03-10,Newcastle_Stoke_2012,Stoke,14,15,29,30
+2013-03-16,Swansea_Arsenal_2012,Arsenal,14,15,29,31
+2013-03-16,Man United_Reading_2012,Man United,15,14,29,31
+2013-03-16,Everton_Man City_2012,Everton,15,14,29,31
+2013-03-16,Aston Villa_QPR_2012,Aston Villa,15,15,30,31
+2013-03-16,Stoke_West Brom_2012,Stoke,15,15,30,31
+2013-03-16,Stoke_West Brom_2012,West Brom,15,15,30,31
+2013-03-16,Southampton_Liverpool_2012,Liverpool,15,15,30,31
+2013-03-16,Swansea_Arsenal_2012,Swansea,15,15,30,31
+2013-03-16,Everton_Man City_2012,Man City,14,15,29,31
+2013-03-16,Aston Villa_QPR_2012,QPR,15,15,30,31
+2013-03-16,Man United_Reading_2012,Reading,15,15,30,31
+2013-03-16,Southampton_Liverpool_2012,Southampton,15,15,30,31
+2013-03-17,Wigan_Newcastle_2012,Wigan,15,14,29,31
+2013-03-17,Chelsea_West Ham_2012,West Ham,14,15,29,31
+2013-03-17,Tottenham_Fulham_2012,Fulham,14,15,29,31
+2013-03-17,Chelsea_West Ham_2012,Chelsea,15,14,29,31
+2013-03-17,Wigan_Newcastle_2012,Newcastle,15,15,30,31
+2013-03-17,Sunderland_Norwich_2012,Sunderland,15,15,30,31
+2013-03-17,Sunderland_Norwich_2012,Norwich,15,15,30,31
+2013-03-17,Tottenham_Fulham_2012,Tottenham,15,15,30,31
+2013-03-30,Southampton_Chelsea_2012,Chelsea,15,15,30,33
+2013-03-30,West Ham_West Brom_2012,West Brom,15,16,31,33
+2013-03-30,Man City_Newcastle_2012,Newcastle,15,16,31,33
+2013-03-30,West Ham_West Brom_2012,West Ham,15,15,30,33
+2013-03-30,Swansea_Tottenham_2012,Swansea,16,15,31,33
+2013-03-30,Sunderland_Man United_2012,Sunderland,16,15,31,33
+2013-03-30,Southampton_Chelsea_2012,Southampton,16,15,31,33
+2013-03-30,Man City_Newcastle_2012,Man City,15,15,30,33
+2013-03-30,Wigan_Norwich_2012,Norwich,15,16,31,33
+2013-03-30,Everton_Stoke_2012,Everton,16,14,30,33
+2013-03-30,Everton_Stoke_2012,Stoke,15,16,31,33
+2013-03-30,Arsenal_Reading_2012,Arsenal,15,15,30,33
+2013-03-30,Arsenal_Reading_2012,Reading,15,16,31,33
+2013-03-30,Sunderland_Man United_2012,Man United,15,15,30,33
+2013-03-30,Swansea_Tottenham_2012,Tottenham,15,16,31,33
+2013-03-30,Wigan_Norwich_2012,Wigan,16,14,30,33
+2013-03-31,Aston Villa_Liverpool_2012,Aston Villa,16,15,31,33
+2013-03-31,Aston Villa_Liverpool_2012,Liverpool,15,16,31,33
+2013-04-01,Fulham_QPR_2012,QPR,15,16,31,33
+2013-04-01,Fulham_QPR_2012,Fulham,15,15,30,33
+2013-04-06,West Brom_Arsenal_2012,West Brom,16,16,32,34
+2013-04-06,Stoke_Aston Villa_2012,Aston Villa,16,16,32,34
+2013-04-06,Reading_Southampton_2012,Southampton,16,16,32,34
+2013-04-06,Norwich_Swansea_2012,Norwich,16,16,32,34
+2013-04-06,Stoke_Aston Villa_2012,Stoke,16,16,32,34
+2013-04-06,West Brom_Arsenal_2012,Arsenal,15,16,31,34
+2013-04-06,Reading_Southampton_2012,Reading,16,16,32,34
+2013-04-06,Norwich_Swansea_2012,Swansea,16,16,32,34
+2013-04-07,Chelsea_Sunderland_2012,Sunderland,16,16,32,34
+2013-04-07,Newcastle_Fulham_2012,Newcastle,16,16,32,34
+2013-04-07,QPR_Wigan_2012,Wigan,16,15,31,34
+2013-04-07,Tottenham_Everton_2012,Tottenham,16,16,32,34
+2013-04-07,QPR_Wigan_2012,QPR,16,16,32,34
+2013-04-07,Liverpool_West Ham_2012,Liverpool,16,16,32,34
+2013-04-07,Tottenham_Everton_2012,Everton,16,15,31,34
+2013-04-07,Liverpool_West Ham_2012,West Ham,15,16,31,34
+2013-04-07,Newcastle_Fulham_2012,Fulham,15,16,31,34
+2013-04-07,Chelsea_Sunderland_2012,Chelsea,16,15,31,34
+2013-04-08,Man United_Man City_2012,Man United,16,15,31,34
+2013-04-08,Man United_Man City_2012,Man City,15,16,31,34
+2013-04-13,Everton_QPR_2012,Everton,17,15,32,35
+2013-04-13,Arsenal_Norwich_2012,Arsenal,16,16,32,35
+2013-04-13,Aston Villa_Fulham_2012,Fulham,15,17,32,35
+2013-04-13,Everton_QPR_2012,QPR,16,17,33,35
+2013-04-13,Reading_Liverpool_2012,Liverpool,16,17,33,35
+2013-04-13,Reading_Liverpool_2012,Reading,17,16,33,35
+2013-04-13,Aston Villa_Fulham_2012,Aston Villa,17,16,33,35
+2013-04-13,Arsenal_Norwich_2012,Norwich,16,17,33,35
+2013-04-13,Southampton_West Ham_2012,West Ham,15,17,32,35
+2013-04-13,Southampton_West Ham_2012,Southampton,17,16,33,35
+2013-04-14,Newcastle_Sunderland_2012,Newcastle,17,16,33,35
+2013-04-14,Stoke_Man United_2012,Man United,16,16,32,35
+2013-04-14,Stoke_Man United_2012,Stoke,17,16,33,35
+2013-04-14,Newcastle_Sunderland_2012,Sunderland,16,17,33,35
+2013-04-16,Arsenal_Everton_2012,Everton,17,16,33,36
+2013-04-16,Arsenal_Everton_2012,Arsenal,17,16,33,36
+2013-04-17,Fulham_Chelsea_2012,Fulham,16,17,33,36
+2013-04-17,West Ham_Man United_2012,West Ham,16,17,33,36
+2013-04-17,Man City_Wigan_2012,Wigan,16,16,32,36
+2013-04-17,West Ham_Man United_2012,Man United,16,17,33,36
+2013-04-17,Fulham_Chelsea_2012,Chelsea,16,16,32,36
+2013-04-17,Man City_Wigan_2012,Man City,16,16,32,36
+2013-04-20,Sunderland_Everton_2012,Sunderland,17,17,34,36
+2013-04-20,Swansea_Southampton_2012,Southampton,17,17,34,36
+2013-04-20,Norwich_Reading_2012,Reading,17,17,34,36
+2013-04-20,Fulham_Arsenal_2012,Fulham,17,17,34,36
+2013-04-20,QPR_Stoke_2012,Stoke,17,17,34,36
+2013-04-20,West Brom_Newcastle_2012,Newcastle,17,17,34,36
+2013-04-20,Fulham_Arsenal_2012,Arsenal,17,17,34,36
+2013-04-20,QPR_Stoke_2012,QPR,17,17,34,36
+2013-04-20,Sunderland_Everton_2012,Everton,17,17,34,36
+2013-04-20,Norwich_Reading_2012,Norwich,17,17,34,36
+2013-04-20,West Ham_Wigan_2012,West Ham,17,17,34,36
+2013-04-20,Swansea_Southampton_2012,Swansea,17,16,33,36
+2013-04-20,West Ham_Wigan_2012,Wigan,16,17,33,36
+2013-04-20,West Brom_Newcastle_2012,West Brom,17,16,33,36
+2013-04-21,Tottenham_Man City_2012,Tottenham,17,16,33,36
+2013-04-21,Liverpool_Chelsea_2012,Chelsea,16,17,33,36
+2013-04-21,Tottenham_Man City_2012,Man City,16,17,33,36
+2013-04-21,Liverpool_Chelsea_2012,Liverpool,17,17,34,36
+2013-04-22,Man United_Aston Villa_2012,Aston Villa,17,17,34,36
+2013-04-22,Man United_Aston Villa_2012,Man United,17,17,34,36
+2013-04-27,Southampton_West Brom_2012,Southampton,18,17,35,37
+2013-04-27,Newcastle_Liverpool_2012,Newcastle,18,17,35,37
+2013-04-27,Southampton_West Brom_2012,West Brom,17,17,34,37
+2013-04-27,Everton_Fulham_2012,Everton,18,17,35,37
+2013-04-27,Stoke_Norwich_2012,Stoke,18,17,35,37
+2013-04-27,Stoke_Norwich_2012,Norwich,17,18,35,37
+2013-04-27,Wigan_Tottenham_2012,Tottenham,17,17,34,37
+2013-04-27,Wigan_Tottenham_2012,Wigan,17,17,34,37
+2013-04-27,Everton_Fulham_2012,Fulham,17,18,35,37
+2013-04-27,Newcastle_Liverpool_2012,Liverpool,17,18,35,37
+2013-04-27,Man City_West Ham_2012,West Ham,17,18,35,37
+2013-04-27,Man City_West Ham_2012,Man City,17,17,34,37
+2013-04-28,Chelsea_Swansea_2012,Chelsea,17,17,34,37
+2013-04-28,Arsenal_Man United_2012,Arsenal,18,17,35,37
+2013-04-28,Reading_QPR_2012,Reading,18,17,35,37
+2013-04-28,Reading_QPR_2012,QPR,17,18,35,37
+2013-04-28,Arsenal_Man United_2012,Man United,17,18,35,37
+2013-04-28,Chelsea_Swansea_2012,Swansea,17,17,34,37
+2013-04-29,Aston Villa_Sunderland_2012,Aston Villa,18,17,35,37
+2013-04-29,Aston Villa_Sunderland_2012,Sunderland,17,18,35,37
+2013-05-04,Swansea_Man City_2012,Swansea,18,17,35,38
+2013-05-04,Norwich_Aston Villa_2012,Norwich,18,18,36,38
+2013-05-04,Tottenham_Southampton_2012,Tottenham,18,17,35,38
+2013-05-04,QPR_Arsenal_2012,Arsenal,18,18,36,38
+2013-05-04,West Ham_Newcastle_2012,Newcastle,18,18,36,38
+2013-05-04,Tottenham_Southampton_2012,Southampton,18,18,36,38
+2013-05-04,Norwich_Aston Villa_2012,Aston Villa,18,18,36,38
+2013-05-04,West Brom_Wigan_2012,West Brom,18,17,35,38
+2013-05-04,QPR_Arsenal_2012,QPR,18,18,36,38
+2013-05-04,Swansea_Man City_2012,Man City,17,18,35,38
+2013-05-04,Fulham_Reading_2012,Fulham,18,18,36,38
+2013-05-04,West Ham_Newcastle_2012,West Ham,18,18,36,38
+2013-05-04,Fulham_Reading_2012,Reading,18,18,36,38
+2013-05-04,West Brom_Wigan_2012,Wigan,17,18,35,38
+2013-05-05,Liverpool_Everton_2012,Everton,18,18,36,38
+2013-05-05,Man United_Chelsea_2012,Man United,18,18,36,38
+2013-05-05,Liverpool_Everton_2012,Liverpool,18,18,36,38
+2013-05-05,Man United_Chelsea_2012,Chelsea,17,18,35,38
+2013-05-06,Sunderland_Stoke_2012,Sunderland,18,18,36,38
+2013-05-06,Sunderland_Stoke_2012,Stoke,18,18,36,38
+2013-05-07,Wigan_Swansea_2012,Swansea,18,18,36,39
+2013-05-07,Man City_West Brom_2012,Man City,18,18,36,39
+2013-05-07,Man City_West Brom_2012,West Brom,18,18,36,39
+2013-05-07,Wigan_Swansea_2012,Wigan,18,18,36,39
+2013-05-08,Chelsea_Tottenham_2012,Chelsea,18,18,36,39
+2013-05-08,Chelsea_Tottenham_2012,Tottenham,18,18,36,39
+2013-05-11,Aston Villa_Chelsea_2012,Aston Villa,19,18,37,39
+2013-05-11,Aston Villa_Chelsea_2012,Chelsea,18,19,37,39
+2013-05-12,Man United_Swansea_2012,Swansea,18,19,37,39
+2013-05-12,Man United_Swansea_2012,Man United,19,18,37,39
+2013-05-12,Stoke_Tottenham_2012,Tottenham,18,19,37,39
+2013-05-12,Sunderland_Southampton_2012,Southampton,18,19,37,39
+2013-05-12,Norwich_West Brom_2012,Norwich,19,18,37,39
+2013-05-12,Sunderland_Southampton_2012,Sunderland,19,18,37,39
+2013-05-12,QPR_Newcastle_2012,Newcastle,18,19,37,39
+2013-05-12,QPR_Newcastle_2012,QPR,19,18,37,39
+2013-05-12,Fulham_Liverpool_2012,Liverpool,18,19,37,39
+2013-05-12,Stoke_Tottenham_2012,Stoke,19,18,37,39
+2013-05-12,Norwich_West Brom_2012,West Brom,18,19,37,39
+2013-05-12,Everton_West Ham_2012,West Ham,18,19,37,39
+2013-05-12,Everton_West Ham_2012,Everton,19,18,37,39
+2013-05-12,Fulham_Liverpool_2012,Fulham,19,18,37,39
+2013-05-14,Reading_Man City_2012,Reading,19,18,37,40
+2013-05-14,Arsenal_Wigan_2012,Arsenal,19,18,37,40
+2013-05-14,Reading_Man City_2012,Man City,18,19,37,40
+2013-05-14,Arsenal_Wigan_2012,Wigan,18,19,37,40
+2013-05-19,Southampton_Stoke_2012,Southampton,19,19,38,40
+2013-05-19,West Ham_Reading_2012,Reading,19,19,38,40
+2013-05-19,Southampton_Stoke_2012,Stoke,19,19,38,40
+2013-05-19,West Brom_Man United_2012,West Brom,19,19,38,40
+2013-05-19,Swansea_Fulham_2012,Swansea,19,19,38,40
+2013-05-19,Wigan_Aston Villa_2012,Aston Villa,19,19,38,40
+2013-05-19,Man City_Norwich_2012,Man City,19,19,38,40
+2013-05-19,Tottenham_Sunderland_2012,Sunderland,19,19,38,40
+2013-05-19,Man City_Norwich_2012,Norwich,19,19,38,40
+2013-05-19,Newcastle_Arsenal_2012,Newcastle,19,19,38,40
+2013-05-19,Liverpool_QPR_2012,Liverpool,19,19,38,40
+2013-05-19,Swansea_Fulham_2012,Fulham,19,19,38,40
+2013-05-19,Chelsea_Everton_2012,Everton,19,19,38,40
+2013-05-19,Chelsea_Everton_2012,Chelsea,19,19,38,40
+2013-05-19,Liverpool_QPR_2012,QPR,19,19,38,40
+2013-05-19,Newcastle_Arsenal_2012,Arsenal,19,19,38,40
+2013-05-19,Tottenham_Sunderland_2012,Tottenham,19,19,38,40
+2013-05-19,West Ham_Reading_2012,West Ham,19,19,38,40
+2013-05-19,West Brom_Man United_2012,Man United,19,19,38,40
+2013-05-19,Wigan_Aston Villa_2012,Wigan,19,19,38,40

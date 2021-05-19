@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2015-08-07,Lille_Paris SG_2015,Lille,1,1,1,1
+2015-08-07,Lille_Paris SG_2015,Paris SG,1,1,1,1
+2015-08-08,Marseille_Caen_2015,Marseille,1,1,1,1
+2015-08-08,Bastia_Rennes_2015,Rennes,1,1,1,1
+2015-08-08,Nice_Monaco_2015,Nice,1,1,1,1
+2015-08-08,Nantes_Guingamp_2015,Guingamp,1,1,1,1
+2015-08-08,Montpellier_Angers_2015,Angers,1,1,1,1
+2015-08-08,Montpellier_Angers_2015,Montpellier,1,1,1,1
+2015-08-08,Troyes_Ajaccio GFCO_2015,Ajaccio GFCO,1,1,1,1
+2015-08-08,Bastia_Rennes_2015,Bastia,1,1,1,1
+2015-08-08,Marseille_Caen_2015,Caen,1,1,1,1
+2015-08-08,Nantes_Guingamp_2015,Nantes,1,1,1,1
+2015-08-08,Nice_Monaco_2015,Monaco,1,1,1,1
+2015-08-08,Troyes_Ajaccio GFCO_2015,Troyes,1,1,1,1
+2015-08-09,Lyon_Lorient_2015,Lorient,1,1,1,1
+2015-08-09,Bordeaux_Reims_2015,Reims,1,1,1,1
+2015-08-09,Toulouse_St Etienne_2015,St Etienne,1,1,1,1
+2015-08-09,Lyon_Lorient_2015,Lyon,1,1,1,1
+2015-08-09,Bordeaux_Reims_2015,Bordeaux,1,1,1,1
+2015-08-09,Toulouse_St Etienne_2015,Toulouse,1,1,1,1
+2015-08-14,Monaco_Lille_2015,Monaco,1,1,2,2
+2015-08-14,Monaco_Lille_2015,Lille,1,1,2,2
+2015-08-15,Caen_Toulouse_2015,Toulouse,1,1,2,2
+2015-08-15,Troyes_Nice_2015,Nice,1,1,2,2
+2015-08-15,St Etienne_Bordeaux_2015,St Etienne,1,1,2,2
+2015-08-15,Angers_Nantes_2015,Nantes,1,1,2,2
+2015-08-15,Guingamp_Lyon_2015,Guingamp,1,1,2,2
+2015-08-15,Guingamp_Lyon_2015,Lyon,1,1,2,2
+2015-08-15,Rennes_Montpellier_2015,Montpellier,1,1,2,2
+2015-08-15,Angers_Nantes_2015,Angers,1,1,2,2
+2015-08-15,St Etienne_Bordeaux_2015,Bordeaux,1,1,2,2
+2015-08-15,Rennes_Montpellier_2015,Rennes,1,1,2,2
+2015-08-15,Troyes_Nice_2015,Troyes,2,1,2,2
+2015-08-15,Caen_Toulouse_2015,Caen,1,1,2,2
+2015-08-16,Reims_Marseille_2015,Reims,1,1,2,2
+2015-08-16,Paris SG_Ajaccio GFCO_2015,Paris SG,1,1,2,2
+2015-08-16,Paris SG_Ajaccio GFCO_2015,Ajaccio GFCO,1,2,2,2
+2015-08-16,Lorient_Bastia_2015,Lorient,1,1,2,2
+2015-08-16,Lorient_Bastia_2015,Bastia,1,1,2,2
+2015-08-16,Reims_Marseille_2015,Marseille,1,1,2,2
+2015-08-21,Montpellier_Paris SG_2015,Paris SG,1,2,3,3
+2015-08-21,Montpellier_Paris SG_2015,Montpellier,2,1,3,3
+2015-08-22,Toulouse_Monaco_2015,Monaco,1,2,3,3
+2015-08-22,Nice_Caen_2015,Caen,1,2,3,3
+2015-08-22,Lyon_Rennes_2015,Rennes,1,2,3,3
+2015-08-22,Ajaccio GFCO_Angers_2015,Ajaccio GFCO,1,2,3,3
+2015-08-22,Bastia_Guingamp_2015,Guingamp,1,2,3,3
+2015-08-22,Ajaccio GFCO_Angers_2015,Angers,1,2,3,3
+2015-08-22,Nantes_Reims_2015,Reims,1,2,3,3
+2015-08-22,Bastia_Guingamp_2015,Bastia,2,1,3,3
+2015-08-22,Toulouse_Monaco_2015,Toulouse,2,1,3,3
+2015-08-22,Nice_Caen_2015,Nice,2,1,3,3
+2015-08-22,Nantes_Reims_2015,Nantes,2,1,3,3
+2015-08-22,Lyon_Rennes_2015,Lyon,2,1,3,3
+2015-08-23,Marseille_Troyes_2015,Troyes,2,1,3,3
+2015-08-23,Lorient_St Etienne_2015,St Etienne,1,2,3,3
+2015-08-23,Lille_Bordeaux_2015,Bordeaux,1,2,3,3
+2015-08-23,Lille_Bordeaux_2015,Lille,2,1,3,3
+2015-08-23,Lorient_St Etienne_2015,Lorient,2,1,3,3
+2015-08-23,Marseille_Troyes_2015,Marseille,2,1,3,3
+2015-08-28,Guingamp_Marseille_2015,Guingamp,2,2,4,4
+2015-08-28,Guingamp_Marseille_2015,Marseille,2,2,4,4
+2015-08-29,Troyes_Montpellier_2015,Troyes,3,1,4,4
+2015-08-29,Angers_Nice_2015,Nice,2,2,4,4
+2015-08-29,Rennes_Toulouse_2015,Toulouse,2,2,4,4
+2015-08-29,Lille_Ajaccio GFCO_2015,Ajaccio GFCO,1,3,4,4
+2015-08-29,Rennes_Toulouse_2015,Rennes,2,2,4,4
+2015-08-29,Caen_Lyon_2015,Lyon,2,2,4,4
+2015-08-29,Reims_Lorient_2015,Lorient,2,2,4,4
+2015-08-29,Troyes_Montpellier_2015,Montpellier,2,2,4,4
+2015-08-29,Angers_Nice_2015,Angers,2,2,4,4
+2015-08-29,Reims_Lorient_2015,Reims,2,2,4,4
+2015-08-29,Caen_Lyon_2015,Caen,2,2,4,4
+2015-08-29,Lille_Ajaccio GFCO_2015,Lille,3,1,4,4
+2015-08-30,St Etienne_Bastia_2015,Bastia,2,2,4,4
+2015-08-30,Bordeaux_Nantes_2015,Nantes,2,2,4,4
+2015-08-30,St Etienne_Bastia_2015,St Etienne,2,2,4,4
+2015-08-30,Monaco_Paris SG_2015,Paris SG,1,3,4,4
+2015-08-30,Monaco_Paris SG_2015,Monaco,2,2,4,4
+2015-08-30,Bordeaux_Nantes_2015,Bordeaux,2,2,4,4
+2015-09-11,Paris SG_Bordeaux_2015,Paris SG,2,3,5,6
+2015-09-11,Paris SG_Bordeaux_2015,Bordeaux,2,3,5,6
+2015-09-12,Lorient_Angers_2015,Angers,2,3,5,6
+2015-09-12,Nice_Guingamp_2015,Nice,3,2,5,6
+2015-09-12,Nice_Guingamp_2015,Guingamp,2,3,5,6
+2015-09-12,Montpellier_St Etienne_2015,St Etienne,2,3,5,6
+2015-09-12,Toulouse_Reims_2015,Reims,2,3,5,6
+2015-09-12,Montpellier_St Etienne_2015,Montpellier,3,2,5,6
+2015-09-12,Lyon_Lille_2015,Lille,3,2,5,6
+2015-09-12,Lyon_Lille_2015,Lyon,3,2,5,6
+2015-09-12,Troyes_Caen_2015,Troyes,4,1,5,6
+2015-09-12,Troyes_Caen_2015,Caen,2,3,5,6
+2015-09-12,Toulouse_Reims_2015,Toulouse,3,2,5,6
+2015-09-12,Lorient_Angers_2015,Lorient,3,2,5,6
+2015-09-13,Ajaccio GFCO_Monaco_2015,Monaco,2,3,5,6
+2015-09-13,Marseille_Bastia_2015,Marseille,3,2,5,6
+2015-09-13,Marseille_Bastia_2015,Bastia,2,3,5,6
+2015-09-13,Nantes_Rennes_2015,Nantes,3,2,5,6
+2015-09-13,Ajaccio GFCO_Monaco_2015,Ajaccio GFCO,2,3,5,6
+2015-09-13,Nantes_Rennes_2015,Rennes,2,3,5,6
+2015-09-18,Rennes_Lille_2015,Lille,3,3,6,7
+2015-09-18,Rennes_Lille_2015,Rennes,3,3,6,7
+2015-09-19,Guingamp_Ajaccio GFCO_2015,Guingamp,3,3,6,7
+2015-09-19,Angers_Troyes_2015,Angers,3,3,6,7
+2015-09-19,Caen_Montpellier_2015,Caen,3,3,6,7
+2015-09-19,Bastia_Nice_2015,Nice,3,3,6,7
+2015-09-19,Guingamp_Ajaccio GFCO_2015,Ajaccio GFCO,2,4,6,7
+2015-09-19,Angers_Troyes_2015,Troyes,4,2,6,7
+2015-09-19,Reims_Paris SG_2015,Reims,3,3,6,7
+2015-09-19,Caen_Montpellier_2015,Montpellier,3,3,6,7
+2015-09-19,Bastia_Nice_2015,Bastia,3,3,6,7
+2015-09-19,Reims_Paris SG_2015,Paris SG,2,4,6,7
+2015-09-20,St Etienne_Nantes_2015,Nantes,3,3,6,7
+2015-09-20,Bordeaux_Toulouse_2015,Bordeaux,3,3,6,7
+2015-09-20,Monaco_Lorient_2015,Lorient,3,3,6,7
+2015-09-20,Bordeaux_Toulouse_2015,Toulouse,3,3,6,7
+2015-09-20,Marseille_Lyon_2015,Lyon,3,3,6,7
+2015-09-20,Marseille_Lyon_2015,Marseille,4,2,6,7
+2015-09-20,St Etienne_Nantes_2015,St Etienne,3,3,6,7
+2015-09-20,Monaco_Lorient_2015,Monaco,3,3,6,7
+2015-09-22,Angers_Reims_2015,Reims,3,4,7,8
+2015-09-22,Angers_Reims_2015,Angers,4,3,7,8
+2015-09-22,Paris SG_Guingamp_2015,Paris SG,3,4,7,8
+2015-09-22,Paris SG_Guingamp_2015,Guingamp,3,4,7,8
+2015-09-23,Lyon_Bastia_2015,Lyon,4,3,7,8
+2015-09-23,Lyon_Bastia_2015,Bastia,3,4,7,8
+2015-09-23,Ajaccio GFCO_Rennes_2015,Ajaccio GFCO,3,4,7,8
+2015-09-23,Nice_Bordeaux_2015,Bordeaux,3,4,7,8
+2015-09-23,Nice_Bordeaux_2015,Nice,4,3,7,8
+2015-09-23,Ajaccio GFCO_Rennes_2015,Rennes,3,4,7,8
+2015-09-23,Troyes_St Etienne_2015,St Etienne,3,4,7,8
+2015-09-23,Lorient_Caen_2015,Caen,3,4,7,8
+2015-09-23,Lorient_Caen_2015,Lorient,4,3,7,8
+2015-09-23,Toulouse_Marseille_2015,Toulouse,4,3,7,8
+2015-09-23,Toulouse_Marseille_2015,Marseille,4,3,7,8
+2015-09-23,Troyes_St Etienne_2015,Troyes,5,2,7,8
+2015-09-24,Montpellier_Monaco_2015,Monaco,3,4,7,8
+2015-09-24,Montpellier_Monaco_2015,Montpellier,4,3,7,8
+2015-09-25,Reims_Lille_2015,Reims,4,4,8,8
+2015-09-25,Reims_Lille_2015,Lille,3,4,7,8
+2015-09-26,Rennes_Troyes_2015,Rennes,4,4,8,8
+2015-09-26,Nantes_Paris SG_2015,Paris SG,3,5,8,8
+2015-09-26,Bastia_Toulouse_2015,Bastia,4,4,8,8
+2015-09-26,Rennes_Troyes_2015,Troyes,5,3,8,8
+2015-09-26,Bordeaux_Lyon_2015,Bordeaux,4,4,8,8
+2015-09-26,Caen_Ajaccio GFCO_2015,Caen,4,4,8,8
+2015-09-26,Nantes_Paris SG_2015,Nantes,4,3,7,8
+2015-09-26,Caen_Ajaccio GFCO_2015,Ajaccio GFCO,3,5,8,8
+2015-09-26,Bordeaux_Lyon_2015,Lyon,4,4,8,8
+2015-09-26,Bastia_Toulouse_2015,Toulouse,4,4,8,8
+2015-09-27,Montpellier_Lorient_2015,Lorient,4,4,8,8
+2015-09-27,St Etienne_Nice_2015,St Etienne,4,4,8,8
+2015-09-27,St Etienne_Nice_2015,Nice,4,4,8,8
+2015-09-27,Montpellier_Lorient_2015,Montpellier,5,3,8,8
+2015-09-27,Guingamp_Monaco_2015,Guingamp,4,4,8,8
+2015-09-27,Guingamp_Monaco_2015,Monaco,3,5,8,8
+2015-09-27,Marseille_Angers_2015,Marseille,5,3,8,8
+2015-09-27,Marseille_Angers_2015,Angers,4,4,8,8
+2015-09-29,Lille_Nantes_2015,Nantes,4,4,8,9
+2015-09-29,Lille_Nantes_2015,Lille,4,4,8,9
+2015-10-02,Lille_Montpellier_2015,Lille,5,4,9,9
+2015-10-02,Lille_Montpellier_2015,Montpellier,5,4,9,9
+2015-10-03,Angers_Bastia_2015,Bastia,4,5,9,9
+2015-10-03,Lyon_Reims_2015,Reims,4,5,9,9
+2015-10-03,Lyon_Reims_2015,Lyon,5,4,9,9
+2015-10-03,Angers_Bastia_2015,Angers,5,4,9,9
+2015-10-03,Ajaccio GFCO_Toulouse_2015,Toulouse,4,5,9,9
+2015-10-03,Troyes_Guingamp_2015,Guingamp,4,5,9,9
+2015-10-03,Troyes_Guingamp_2015,Troyes,6,3,9,9
+2015-10-03,Ajaccio GFCO_Toulouse_2015,Ajaccio GFCO,4,5,9,9
+2015-10-04,Monaco_Rennes_2015,Rennes,4,5,9,9
+2015-10-04,Caen_St Etienne_2015,Caen,5,4,9,9
+2015-10-04,Paris SG_Marseille_2015,Marseille,5,4,9,9
+2015-10-04,Paris SG_Marseille_2015,Paris SG,4,5,9,9
+2015-10-04,Lorient_Bordeaux_2015,Lorient,5,4,9,9
+2015-10-04,Monaco_Rennes_2015,Monaco,4,5,9,9
+2015-10-04,Caen_St Etienne_2015,St Etienne,4,5,9,9
+2015-10-04,Lorient_Bordeaux_2015,Bordeaux,4,5,9,9
+2015-10-16,Monaco_Lyon_2015,Lyon,5,5,10,11
+2015-10-16,Monaco_Lyon_2015,Monaco,5,5,10,11
+2015-10-17,Toulouse_Angers_2015,Angers,5,5,10,11
+2015-10-17,Guingamp_Lille_2015,Guingamp,5,5,10,11
+2015-10-17,Nantes_Troyes_2015,Troyes,6,4,10,11
+2015-10-17,Reims_Caen_2015,Caen,5,5,10,11
+2015-10-17,Bastia_Paris SG_2015,Paris SG,4,6,10,11
+2015-10-17,St Etienne_Ajaccio GFCO_2015,St Etienne,5,5,10,11
+2015-10-17,St Etienne_Ajaccio GFCO_2015,Ajaccio GFCO,4,6,10,11
+2015-10-17,Nantes_Troyes_2015,Nantes,5,4,9,11
+2015-10-17,Reims_Caen_2015,Reims,5,5,10,11
+2015-10-17,Guingamp_Lille_2015,Lille,5,5,10,11
+2015-10-17,Bastia_Paris SG_2015,Bastia,5,5,10,11
+2015-10-17,Toulouse_Angers_2015,Toulouse,5,5,10,11
+2015-10-18,Marseille_Lorient_2015,Lorient,5,5,10,11
+2015-10-18,Marseille_Lorient_2015,Marseille,6,4,10,11
+2015-10-18,Bordeaux_Montpellier_2015,Bordeaux,5,5,10,11
+2015-10-18,Bordeaux_Montpellier_2015,Montpellier,5,5,10,11
+2015-10-18,Rennes_Nice_2015,Rennes,5,5,10,11
+2015-10-18,Rennes_Nice_2015,Nice,4,5,9,11
+2015-10-23,Lyon_Toulouse_2015,Lyon,6,5,11,12
+2015-10-23,Caen_Nantes_2015,Caen,6,5,11,12
+2015-10-23,Caen_Nantes_2015,Nantes,5,5,10,12
+2015-10-23,Lyon_Toulouse_2015,Toulouse,5,6,11,12
+2015-10-24,Lorient_Rennes_2015,Rennes,5,6,11,12
+2015-10-24,Lorient_Rennes_2015,Lorient,6,5,11,12
+2015-10-24,Angers_Guingamp_2015,Guingamp,5,6,11,12
+2015-10-24,Montpellier_Bastia_2015,Montpellier,6,5,11,12
+2015-10-24,Ajaccio GFCO_Nice_2015,Ajaccio GFCO,5,6,11,12
+2015-10-24,Ajaccio GFCO_Nice_2015,Nice,4,6,10,12
+2015-10-24,Montpellier_Bastia_2015,Bastia,5,6,11,12
+2015-10-24,Angers_Guingamp_2015,Angers,6,5,11,12
+2015-10-25,Lille_Marseille_2015,Lille,6,5,11,12
+2015-10-25,Paris SG_St Etienne_2015,St Etienne,5,6,11,12
+2015-10-25,Reims_Monaco_2015,Monaco,5,6,11,12
+2015-10-25,Lille_Marseille_2015,Marseille,6,5,11,12
+2015-10-25,Bordeaux_Troyes_2015,Troyes,6,5,11,12
+2015-10-25,Paris SG_St Etienne_2015,Paris SG,5,6,11,12
+2015-10-25,Reims_Monaco_2015,Reims,6,5,11,12
+2015-10-25,Bordeaux_Troyes_2015,Bordeaux,6,5,11,12
+2015-10-30,Rennes_Paris SG_2015,Rennes,6,6,12,13
+2015-10-30,Rennes_Paris SG_2015,Paris SG,5,7,12,13
+2015-10-31,Bastia_Caen_2015,Caen,6,6,12,13
+2015-10-31,Guingamp_Lorient_2015,Lorient,6,6,12,13
+2015-10-31,Troyes_Lyon_2015,Lyon,6,6,12,13
+2015-10-31,St Etienne_Reims_2015,Reims,6,6,12,13
+2015-10-31,Toulouse_Montpellier_2015,Montpellier,6,6,12,13
+2015-10-31,St Etienne_Reims_2015,St Etienne,6,6,12,13
+2015-10-31,Bastia_Caen_2015,Bastia,6,6,12,13
+2015-10-31,Toulouse_Montpellier_2015,Toulouse,6,6,12,13
+2015-10-31,Ajaccio GFCO_Bordeaux_2015,Bordeaux,6,6,12,13
+2015-10-31,Ajaccio GFCO_Bordeaux_2015,Ajaccio GFCO,6,6,12,13
+2015-10-31,Guingamp_Lorient_2015,Guingamp,6,6,12,13
+2015-10-31,Troyes_Lyon_2015,Troyes,7,5,12,13
+2015-11-01,Monaco_Angers_2015,Angers,6,6,12,13
+2015-11-01,Monaco_Angers_2015,Monaco,6,6,12,13
+2015-11-01,Nantes_Marseille_2015,Marseille,6,6,12,13
+2015-11-01,Nice_Lille_2015,Lille,6,6,12,13
+2015-11-01,Nice_Lille_2015,Nice,5,6,11,13
+2015-11-01,Nantes_Marseille_2015,Nantes,6,5,11,13
+2015-11-04,Nice_Nantes_2015,Nice,6,6,12,14
+2015-11-04,Nice_Nantes_2015,Nantes,6,6,12,14
+2015-11-06,Angers_Rennes_2015,Rennes,6,7,13,14
+2015-11-06,Angers_Rennes_2015,Angers,7,6,13,14
+2015-11-07,Reims_Ajaccio GFCO_2015,Ajaccio GFCO,6,7,13,14
+2015-11-07,Paris SG_Toulouse_2015,Toulouse,6,7,13,14
+2015-11-07,Lorient_Troyes_2015,Troyes,7,6,13,14
+2015-11-07,Caen_Guingamp_2015,Guingamp,6,7,13,14
+2015-11-07,Lille_Bastia_2015,Lille,7,6,13,14
+2015-11-07,Reims_Ajaccio GFCO_2015,Reims,7,6,13,14
+2015-11-07,Montpellier_Nantes_2015,Montpellier,7,6,13,14
+2015-11-07,Montpellier_Nantes_2015,Nantes,6,7,13,14
+2015-11-07,Lorient_Troyes_2015,Lorient,7,6,13,14
+2015-11-07,Paris SG_Toulouse_2015,Paris SG,6,7,13,14
+2015-11-07,Lille_Bastia_2015,Bastia,6,7,13,14
+2015-11-07,Caen_Guingamp_2015,Caen,7,6,13,14
+2015-11-08,Marseille_Nice_2015,Nice,6,7,13,14
+2015-11-08,Lyon_St Etienne_2015,St Etienne,6,7,13,14
+2015-11-08,Marseille_Nice_2015,Marseille,7,6,13,14
+2015-11-08,Lyon_St Etienne_2015,Lyon,7,6,13,14
+2015-11-08,Bordeaux_Monaco_2015,Bordeaux,7,6,13,14
+2015-11-08,Bordeaux_Monaco_2015,Monaco,6,7,13,14
+2015-11-20,Nice_Lyon_2015,Nice,7,7,14,16
+2015-11-20,Nice_Lyon_2015,Lyon,7,7,14,16
+2015-11-21,Guingamp_Toulouse_2015,Toulouse,6,8,14,16
+2015-11-21,Montpellier_Reims_2015,Reims,7,7,14,16
+2015-11-21,Monaco_Nantes_2015,Monaco,7,7,14,16
+2015-11-21,Lorient_Paris SG_2015,Paris SG,6,8,14,16
+2015-11-21,Montpellier_Reims_2015,Montpellier,8,6,14,16
+2015-11-21,Monaco_Nantes_2015,Nantes,6,8,14,16
+2015-11-21,Troyes_Lille_2015,Lille,7,7,14,16
+2015-11-21,Guingamp_Toulouse_2015,Guingamp,7,7,14,16
+2015-11-21,Lorient_Paris SG_2015,Lorient,8,6,14,16
+2015-11-21,Troyes_Lille_2015,Troyes,8,6,14,16
+2015-11-22,Rennes_Bordeaux_2015,Rennes,7,7,14,16
+2015-11-22,St Etienne_Marseille_2015,St Etienne,7,7,14,16
+2015-11-22,Rennes_Bordeaux_2015,Bordeaux,7,7,14,16
+2015-11-22,Caen_Angers_2015,Angers,7,7,14,16
+2015-11-22,St Etienne_Marseille_2015,Marseille,7,7,14,16
+2015-11-22,Bastia_Ajaccio GFCO_2015,Bastia,7,7,14,16
+2015-11-22,Bastia_Ajaccio GFCO_2015,Ajaccio GFCO,6,8,14,16
+2015-11-22,Caen_Angers_2015,Caen,8,6,14,16
+2015-11-27,Lyon_Montpellier_2015,Montpellier,8,7,15,17
+2015-11-27,Lyon_Montpellier_2015,Lyon,8,7,15,17
+2015-11-28,Ajaccio GFCO_Lorient_2015,Lorient,8,7,15,17
+2015-11-28,Angers_Lille_2015,Angers,8,7,15,17
+2015-11-28,Nantes_Bastia_2015,Bastia,7,8,15,17
+2015-11-28,Paris SG_Troyes_2015,Paris SG,7,8,15,17
+2015-11-28,Reims_Rennes_2015,Reims,8,7,15,17
+2015-11-28,Ajaccio GFCO_Lorient_2015,Ajaccio GFCO,7,8,15,17
+2015-11-28,Paris SG_Troyes_2015,Troyes,8,7,15,17
+2015-11-28,Toulouse_Nice_2015,Nice,7,8,15,17
+2015-11-28,Nantes_Bastia_2015,Nantes,7,8,15,17
+2015-11-28,Toulouse_Nice_2015,Toulouse,7,8,15,17
+2015-11-28,Reims_Rennes_2015,Rennes,7,8,15,17
+2015-11-28,Angers_Lille_2015,Lille,7,8,15,17
+2015-11-29,St Etienne_Guingamp_2015,St Etienne,8,7,15,17
+2015-11-29,St Etienne_Guingamp_2015,Guingamp,7,8,15,17
+2015-11-29,Bordeaux_Caen_2015,Bordeaux,8,7,15,17
+2015-11-29,Marseille_Monaco_2015,Monaco,7,8,15,17
+2015-11-29,Bordeaux_Caen_2015,Caen,8,7,15,17
+2015-11-29,Marseille_Monaco_2015,Marseille,8,7,15,17
+2015-12-01,Nantes_Lyon_2015,Lyon,8,8,16,18
+2015-12-01,Angers_Paris SG_2015,Paris SG,7,9,16,18
+2015-12-01,Nantes_Lyon_2015,Nantes,8,8,16,18
+2015-12-01,Lorient_Nice_2015,Lorient,9,7,16,18
+2015-12-01,Lorient_Nice_2015,Nice,7,9,16,18
+2015-12-01,Angers_Paris SG_2015,Angers,9,7,16,18
+2015-12-02,Montpellier_Ajaccio GFCO_2015,Montpellier,9,7,16,18
+2015-12-02,Lille_St Etienne_2015,Lille,8,8,16,18
+2015-12-02,Guingamp_Reims_2015,Reims,8,8,16,18
+2015-12-02,Monaco_Caen_2015,Monaco,8,8,16,18
+2015-12-02,Bastia_Bordeaux_2015,Bastia,8,8,16,18
+2015-12-02,Monaco_Caen_2015,Caen,8,8,16,18
+2015-12-02,Troyes_Toulouse_2015,Toulouse,7,9,16,18
+2015-12-02,Lille_St Etienne_2015,St Etienne,8,8,16,18
+2015-12-02,Bastia_Bordeaux_2015,Bordeaux,8,8,16,18
+2015-12-02,Montpellier_Ajaccio GFCO_2015,Ajaccio GFCO,7,9,16,18
+2015-12-02,Troyes_Toulouse_2015,Troyes,9,7,16,18
+2015-12-02,Guingamp_Reims_2015,Guingamp,8,8,16,18
+2015-12-03,Rennes_Marseille_2015,Rennes,8,8,16,18
+2015-12-03,Rennes_Marseille_2015,Marseille,8,8,16,18
+2015-12-04,Nice_Paris SG_2015,Nice,8,9,17,18
+2015-12-04,Nice_Paris SG_2015,Paris SG,7,10,17,18
+2015-12-05,Caen_Lille_2015,Caen,9,8,17,18
+2015-12-05,Ajaccio GFCO_Nantes_2015,Nantes,8,9,17,18
+2015-12-05,Bastia_Monaco_2015,Bastia,9,8,17,18
+2015-12-05,Toulouse_Lorient_2015,Lorient,9,8,17,18
+2015-12-05,Lyon_Angers_2015,Angers,9,8,17,18
+2015-12-05,Lyon_Angers_2015,Lyon,9,8,17,18
+2015-12-05,Caen_Lille_2015,Lille,8,9,17,18
+2015-12-05,Bastia_Monaco_2015,Monaco,8,9,17,18
+2015-12-05,Reims_Troyes_2015,Reims,9,8,17,18
+2015-12-05,Reims_Troyes_2015,Troyes,9,8,17,18
+2015-12-05,Toulouse_Lorient_2015,Toulouse,8,9,17,18
+2015-12-05,Ajaccio GFCO_Nantes_2015,Ajaccio GFCO,8,9,17,18
+2015-12-06,Bordeaux_Guingamp_2015,Bordeaux,9,8,17,18
+2015-12-06,St Etienne_Rennes_2015,St Etienne,9,8,17,18
+2015-12-06,Bordeaux_Guingamp_2015,Guingamp,8,9,17,18
+2015-12-06,Marseille_Montpellier_2015,Montpellier,9,8,17,18
+2015-12-06,St Etienne_Rennes_2015,Rennes,8,9,17,18
+2015-12-06,Marseille_Montpellier_2015,Marseille,9,8,17,18
+2015-12-11,Rennes_Caen_2015,Rennes,9,9,18,19
+2015-12-11,Rennes_Caen_2015,Caen,9,9,18,19
+2015-12-12,Troyes_Bastia_2015,Bastia,9,9,18,19
+2015-12-12,Lille_Lorient_2015,Lille,9,9,18,19
+2015-12-12,Montpellier_Guingamp_2015,Montpellier,10,8,18,19
+2015-12-12,Reims_Nice_2015,Reims,10,8,18,19
+2015-12-12,Nantes_Toulouse_2015,Nantes,9,9,18,19
+2015-12-12,Reims_Nice_2015,Nice,8,10,18,19
+2015-12-12,Montpellier_Guingamp_2015,Guingamp,8,10,18,19
+2015-12-12,Troyes_Bastia_2015,Troyes,10,8,18,19
+2015-12-12,Nantes_Toulouse_2015,Toulouse,8,10,18,19
+2015-12-12,Lille_Lorient_2015,Lorient,9,9,18,19
+2015-12-13,Monaco_St Etienne_2015,St Etienne,9,9,18,19
+2015-12-13,Marseille_Ajaccio GFCO_2015,Marseille,10,8,18,19
+2015-12-13,Marseille_Ajaccio GFCO_2015,Ajaccio GFCO,8,10,18,19
+2015-12-13,Monaco_St Etienne_2015,Monaco,9,9,18,19
+2015-12-13,Paris SG_Lyon_2015,Lyon,9,9,18,19
+2015-12-13,Angers_Bordeaux_2015,Bordeaux,9,9,18,19
+2015-12-13,Angers_Bordeaux_2015,Angers,10,8,18,19
+2015-12-13,Paris SG_Lyon_2015,Paris SG,8,10,18,19
+2015-12-18,Nice_Montpellier_2015,Nice,9,10,19,20
+2015-12-18,Nice_Montpellier_2015,Montpellier,10,9,19,20
+2015-12-19,Troyes_Monaco_2015,Troyes,11,8,19,20
+2015-12-19,Caen_Paris SG_2015,Caen,10,9,19,20
+2015-12-19,Guingamp_Rennes_2015,Rennes,9,10,19,20
+2015-12-19,Toulouse_Lille_2015,Lille,9,10,19,20
+2015-12-19,Caen_Paris SG_2015,Paris SG,8,11,19,20
+2015-12-19,Guingamp_Rennes_2015,Guingamp,9,10,19,20
+2015-12-19,Bastia_Reims_2015,Reims,10,9,19,20
+2015-12-19,Troyes_Monaco_2015,Monaco,9,10,19,20
+2015-12-19,Lorient_Nantes_2015,Nantes,9,10,19,20
+2015-12-19,Lorient_Nantes_2015,Lorient,10,9,19,20
+2015-12-19,Bastia_Reims_2015,Bastia,10,9,19,20
+2015-12-19,Toulouse_Lille_2015,Toulouse,9,10,19,20
+2015-12-20,Bordeaux_Marseille_2015,Marseille,10,9,19,20
+2015-12-20,St Etienne_Angers_2015,St Etienne,10,9,19,20
+2015-12-20,St Etienne_Angers_2015,Angers,10,9,19,20
+2015-12-20,Ajaccio GFCO_Lyon_2015,Lyon,9,10,19,20
+2015-12-20,Ajaccio GFCO_Lyon_2015,Ajaccio GFCO,9,10,19,20
+2015-12-20,Bordeaux_Marseille_2015,Bordeaux,10,9,19,20
+2016-01-08,Paris SG_Bastia_2015,Bastia,10,10,20,23
+2016-01-08,Paris SG_Bastia_2015,Paris SG,9,11,20,23
+2016-01-09,Rennes_Lorient_2015,Lorient,10,10,20,23
+2016-01-09,Angers_Caen_2015,Angers,11,9,20,23
+2016-01-09,Monaco_Ajaccio GFCO_2015,Monaco,10,10,20,23
+2016-01-09,Monaco_Ajaccio GFCO_2015,Ajaccio GFCO,9,11,20,23
+2016-01-09,Lyon_Troyes_2015,Lyon,10,10,20,23
+2016-01-09,Angers_Caen_2015,Caen,10,10,20,23
+2016-01-09,Montpellier_Bordeaux_2015,Montpellier,11,9,20,23
+2016-01-09,Rennes_Lorient_2015,Rennes,10,10,20,23
+2016-01-09,Reims_Toulouse_2015,Reims,11,9,20,23
+2016-01-09,Reims_Toulouse_2015,Toulouse,9,11,20,23
+2016-01-09,Lyon_Troyes_2015,Troyes,11,9,20,23
+2016-01-09,Montpellier_Bordeaux_2015,Bordeaux,10,10,20,23
+2016-01-10,Lille_Nice_2015,Nice,9,11,20,23
+2016-01-10,Marseille_Guingamp_2015,Guingamp,9,11,20,23
+2016-01-10,Lille_Nice_2015,Lille,10,10,20,23
+2016-01-10,Nantes_St Etienne_2015,Nantes,10,10,20,23
+2016-01-10,Nantes_St Etienne_2015,St Etienne,10,10,20,23
+2016-01-10,Marseille_Guingamp_2015,Marseille,11,9,20,23
+2016-01-15,Nice_Angers_2015,Angers,11,10,21,24
+2016-01-15,Nice_Angers_2015,Nice,10,11,21,24
+2016-01-16,Guingamp_Nantes_2015,Guingamp,10,11,21,24
+2016-01-16,Ajaccio GFCO_Reims_2015,Reims,11,10,21,24
+2016-01-16,Guingamp_Nantes_2015,Nantes,10,11,21,24
+2016-01-16,Toulouse_Paris SG_2015,Paris SG,9,12,21,24
+2016-01-16,Bastia_Montpellier_2015,Montpellier,11,10,21,24
+2016-01-16,Toulouse_Paris SG_2015,Toulouse,10,11,21,24
+2016-01-16,Bastia_Montpellier_2015,Bastia,11,10,21,24
+2016-01-16,Troyes_Rennes_2015,Rennes,10,11,21,24
+2016-01-16,Bordeaux_Lille_2015,Lille,10,11,21,24
+2016-01-16,Bordeaux_Lille_2015,Bordeaux,11,10,21,24
+2016-01-16,Troyes_Rennes_2015,Troyes,12,9,21,24
+2016-01-16,Ajaccio GFCO_Reims_2015,Ajaccio GFCO,10,11,21,24
+2016-01-17,Lorient_Monaco_2015,Monaco,10,11,21,24
+2016-01-17,Caen_Marseille_2015,Caen,11,10,21,24
+2016-01-17,Lorient_Monaco_2015,Lorient,11,10,21,24
+2016-01-17,St Etienne_Lyon_2015,Lyon,10,11,21,24
+2016-01-17,Caen_Marseille_2015,Marseille,11,10,21,24
+2016-01-17,St Etienne_Lyon_2015,St Etienne,11,10,21,24
+2016-01-22,Rennes_Ajaccio GFCO_2015,Ajaccio GFCO,10,12,22,25
+2016-01-22,Rennes_Ajaccio GFCO_2015,Rennes,11,11,22,25
+2016-01-23,Nantes_Bordeaux_2015,Nantes,11,11,22,25
+2016-01-23,Nice_Lorient_2015,Lorient,11,11,22,25
+2016-01-23,Guingamp_Bastia_2015,Guingamp,11,11,22,25
+2016-01-23,Montpellier_Caen_2015,Caen,11,11,22,25
+2016-01-23,Nantes_Bordeaux_2015,Bordeaux,11,11,22,25
+2016-01-23,Paris SG_Angers_2015,Angers,11,11,22,25
+2016-01-23,Paris SG_Angers_2015,Paris SG,10,12,22,25
+2016-01-23,Lille_Troyes_2015,Lille,11,11,22,25
+2016-01-23,Guingamp_Bastia_2015,Bastia,11,11,22,25
+2016-01-23,Montpellier_Caen_2015,Montpellier,12,10,22,25
+2016-01-23,Lille_Troyes_2015,Troyes,12,10,22,25
+2016-01-23,Nice_Lorient_2015,Nice,11,11,22,25
+2016-01-24,Lyon_Marseille_2015,Marseille,11,11,22,25
+2016-01-24,Lyon_Marseille_2015,Lyon,11,11,22,25
+2016-01-24,Reims_St Etienne_2015,St Etienne,11,11,22,25
+2016-01-24,Reims_St Etienne_2015,Reims,12,10,22,25
+2016-01-24,Monaco_Toulouse_2015,Monaco,11,11,22,25
+2016-01-24,Monaco_Toulouse_2015,Toulouse,10,12,22,25
+2016-01-29,Marseille_Lille_2015,Marseille,12,11,23,26
+2016-01-29,Marseille_Lille_2015,Lille,11,12,23,26
+2016-01-30,Angers_Monaco_2015,Angers,12,11,23,26
+2016-01-30,Ajaccio GFCO_Montpellier_2015,Montpellier,12,11,23,26
+2016-01-30,Troyes_Nantes_2015,Troyes,13,10,23,26
+2016-01-30,Troyes_Nantes_2015,Nantes,11,12,23,26
+2016-01-30,Bastia_Lyon_2015,Lyon,11,12,23,26
+2016-01-30,Ajaccio GFCO_Montpellier_2015,Ajaccio GFCO,11,12,23,26
+2016-01-30,Toulouse_Guingamp_2015,Guingamp,11,12,23,26
+2016-01-30,Toulouse_Guingamp_2015,Toulouse,11,12,23,26
+2016-01-30,Lorient_Reims_2015,Reims,12,11,23,26
+2016-01-30,Angers_Monaco_2015,Monaco,11,12,23,26
+2016-01-30,Lorient_Reims_2015,Lorient,12,11,23,26
+2016-01-30,Bastia_Lyon_2015,Bastia,12,11,23,26
+2016-01-31,St Etienne_Paris SG_2015,Paris SG,10,13,23,26
+2016-01-31,Bordeaux_Rennes_2015,Rennes,11,12,23,26
+2016-01-31,Bordeaux_Rennes_2015,Bordeaux,12,11,23,26
+2016-01-31,Caen_Nice_2015,Nice,11,12,23,26
+2016-01-31,St Etienne_Paris SG_2015,St Etienne,12,11,23,26
+2016-01-31,Caen_Nice_2015,Caen,12,11,23,26
+2016-02-02,Monaco_Bastia_2015,Bastia,12,12,24,27
+2016-02-02,Montpellier_Marseille_2015,Marseille,12,12,24,27
+2016-02-02,Montpellier_Marseille_2015,Montpellier,13,11,24,27
+2016-02-02,Monaco_Bastia_2015,Monaco,12,12,24,27
+2016-02-03,Lille_Caen_2015,Lille,12,12,24,27
+2016-02-03,Lyon_Bordeaux_2015,Bordeaux,12,12,24,27
+2016-02-03,Paris SG_Lorient_2015,Lorient,12,12,24,27
+2016-02-03,Lyon_Bordeaux_2015,Lyon,12,12,24,27
+2016-02-03,Guingamp_Troyes_2015,Guingamp,12,12,24,27
+2016-02-03,Lille_Caen_2015,Caen,12,12,24,27
+2016-02-03,Guingamp_Troyes_2015,Troyes,13,11,24,27
+2016-02-03,Reims_Angers_2015,Reims,13,11,24,27
+2016-02-03,Paris SG_Lorient_2015,Paris SG,11,13,24,27
+2016-02-03,Nantes_Ajaccio GFCO_2015,Nantes,12,12,24,27
+2016-02-03,Nantes_Ajaccio GFCO_2015,Ajaccio GFCO,11,13,24,27
+2016-02-03,Reims_Angers_2015,Angers,12,12,24,27
+2016-02-03,Nice_Toulouse_2015,Nice,12,12,24,27
+2016-02-03,Nice_Toulouse_2015,Toulouse,11,13,24,27
+2016-02-04,Rennes_St Etienne_2015,Rennes,12,12,24,27
+2016-02-04,Rennes_St Etienne_2015,St Etienne,12,12,24,27
+2016-02-06,Toulouse_Nantes_2015,Toulouse,12,13,25,27
+2016-02-06,Bastia_Troyes_2015,Troyes,13,12,25,27
+2016-02-06,Monaco_Nice_2015,Nice,12,13,25,27
+2016-02-06,Angers_Lyon_2015,Lyon,12,13,25,27
+2016-02-06,Toulouse_Nantes_2015,Nantes,12,13,25,27
+2016-02-06,Monaco_Nice_2015,Monaco,13,12,25,27
+2016-02-06,Caen_Reims_2015,Caen,13,12,25,27
+2016-02-06,Bastia_Troyes_2015,Bastia,13,12,25,27
+2016-02-06,Lorient_Montpellier_2015,Lorient,13,12,25,27
+2016-02-06,Lorient_Montpellier_2015,Montpellier,13,12,25,27
+2016-02-06,Angers_Lyon_2015,Angers,13,12,25,27
+2016-02-06,Caen_Reims_2015,Reims,13,12,25,27
+2016-02-06,Ajaccio GFCO_Guingamp_2015,Ajaccio GFCO,12,13,25,27
+2016-02-06,Ajaccio GFCO_Guingamp_2015,Guingamp,12,13,25,27
+2016-02-07,Bordeaux_St Etienne_2015,Bordeaux,13,12,25,27
+2016-02-07,Lille_Rennes_2015,Lille,13,12,25,27
+2016-02-07,Marseille_Paris SG_2015,Paris SG,11,14,25,27
+2016-02-07,Lille_Rennes_2015,Rennes,12,13,25,27
+2016-02-07,Bordeaux_St Etienne_2015,St Etienne,12,13,25,27
+2016-02-07,Marseille_Paris SG_2015,Marseille,13,12,25,27
+2016-02-12,Rennes_Angers_2015,Angers,13,13,26,28
+2016-02-12,Rennes_Angers_2015,Rennes,13,13,26,28
+2016-02-13,Reims_Bastia_2015,Bastia,13,13,26,28
+2016-02-13,Reims_Bastia_2015,Reims,14,12,26,28
+2016-02-13,Guingamp_Bordeaux_2015,Guingamp,13,13,26,28
+2016-02-13,Montpellier_Toulouse_2015,Montpellier,14,12,26,28
+2016-02-13,Guingamp_Bordeaux_2015,Bordeaux,13,13,26,28
+2016-02-13,Paris SG_Lille_2015,Lille,13,13,26,28
+2016-02-13,Paris SG_Lille_2015,Paris SG,12,14,26,28
+2016-02-13,Nantes_Lorient_2015,Lorient,13,13,26,28
+2016-02-13,Nantes_Lorient_2015,Nantes,13,13,26,28
+2016-02-13,Ajaccio GFCO_Troyes_2015,Ajaccio GFCO,13,13,26,28
+2016-02-13,Montpellier_Toulouse_2015,Toulouse,12,14,26,28
+2016-02-13,Ajaccio GFCO_Troyes_2015,Troyes,13,13,26,28
+2016-02-14,Nice_Marseille_2015,Nice,13,13,26,28
+2016-02-14,Lyon_Caen_2015,Caen,13,13,26,28
+2016-02-14,St Etienne_Monaco_2015,St Etienne,13,13,26,28
+2016-02-14,Nice_Marseille_2015,Marseille,13,13,26,28
+2016-02-14,Lyon_Caen_2015,Lyon,13,13,26,28
+2016-02-14,St Etienne_Monaco_2015,Monaco,13,13,26,28
+2016-02-19,Bordeaux_Nice_2015,Nice,13,14,27,29
+2016-02-19,Bordeaux_Nice_2015,Bordeaux,14,13,27,29
+2016-02-20,Paris SG_Reims_2015,Reims,14,13,27,29
+2016-02-20,Paris SG_Reims_2015,Paris SG,13,14,27,29
+2016-02-20,Lorient_Guingamp_2015,Guingamp,13,14,27,29
+2016-02-20,Toulouse_Ajaccio GFCO_2015,Ajaccio GFCO,13,14,27,29
+2016-02-20,Lorient_Guingamp_2015,Lorient,14,13,27,29
+2016-02-20,Monaco_Troyes_2015,Monaco,14,13,27,29
+2016-02-20,Toulouse_Ajaccio GFCO_2015,Toulouse,13,14,27,29
+2016-02-20,Angers_Montpellier_2015,Montpellier,14,13,27,29
+2016-02-20,Monaco_Troyes_2015,Troyes,13,14,27,29
+2016-02-20,Angers_Montpellier_2015,Angers,14,13,27,29
+2016-02-21,Lille_Lyon_2015,Lille,14,13,27,29
+2016-02-21,Caen_Rennes_2015,Caen,14,13,27,29
+2016-02-21,Marseille_St Etienne_2015,St Etienne,13,14,27,29
+2016-02-21,Marseille_St Etienne_2015,Marseille,14,13,27,29
+2016-02-21,Lille_Lyon_2015,Lyon,13,14,27,29
+2016-02-21,Caen_Rennes_2015,Rennes,13,14,27,29
+2016-02-26,Nice_Bastia_2015,Bastia,13,14,27,30
+2016-02-26,Nice_Bastia_2015,Nice,14,14,28,30
+2016-02-27,Troyes_Lorient_2015,Troyes,14,14,28,30
+2016-02-27,Montpellier_Lille_2015,Lille,14,14,28,30
+2016-02-27,Guingamp_Angers_2015,Guingamp,14,14,28,30
+2016-02-27,Toulouse_Rennes_2015,Rennes,13,15,28,30
+2016-02-27,Reims_Bordeaux_2015,Reims,15,13,28,30
+2016-02-27,Montpellier_Lille_2015,Montpellier,15,13,28,30
+2016-02-27,Reims_Bordeaux_2015,Bordeaux,14,14,28,30
+2016-02-27,Guingamp_Angers_2015,Angers,14,14,28,30
+2016-02-27,Toulouse_Rennes_2015,Toulouse,14,14,28,30
+2016-02-27,Troyes_Lorient_2015,Lorient,14,14,28,30
+2016-02-28,Nantes_Monaco_2015,Nantes,14,13,27,30
+2016-02-28,St Etienne_Caen_2015,St Etienne,14,14,28,30
+2016-02-28,Lyon_Paris SG_2015,Paris SG,13,15,28,30
+2016-02-28,Lyon_Paris SG_2015,Lyon,14,14,28,30
+2016-02-28,St Etienne_Caen_2015,Caen,14,14,28,30
+2016-02-28,Nantes_Monaco_2015,Monaco,14,14,28,30
+2016-03-04,Caen_Monaco_2015,Monaco,14,15,29,31
+2016-03-04,Caen_Monaco_2015,Caen,15,14,29,31
+2016-03-05,Paris SG_Montpellier_2015,Paris SG,14,15,29,31
+2016-03-05,Paris SG_Montpellier_2015,Montpellier,15,14,29,31
+2016-03-05,Nice_Troyes_2015,Nice,15,14,29,31
+2016-03-05,Lille_Reims_2015,Lille,15,14,29,31
+2016-03-05,Bastia_Lorient_2015,Bastia,14,14,28,31
+2016-03-05,Bastia_Lorient_2015,Lorient,14,15,29,31
+2016-03-05,Angers_St Etienne_2015,St Etienne,14,15,29,31
+2016-03-05,Nice_Troyes_2015,Troyes,14,15,29,31
+2016-03-05,Angers_St Etienne_2015,Angers,15,14,29,31
+2016-03-05,Bordeaux_Ajaccio GFCO_2015,Bordeaux,15,14,29,31
+2016-03-05,Lille_Reims_2015,Reims,15,14,29,31
+2016-03-05,Bordeaux_Ajaccio GFCO_2015,Ajaccio GFCO,13,15,28,31
+2016-03-06,Marseille_Toulouse_2015,Marseille,15,13,28,31
+2016-03-06,Rennes_Nantes_2015,Nantes,14,14,28,31
+2016-03-06,Lyon_Guingamp_2015,Guingamp,14,15,29,31
+2016-03-06,Marseille_Toulouse_2015,Toulouse,14,15,29,31
+2016-03-06,Rennes_Nantes_2015,Rennes,14,15,29,31
+2016-03-06,Lyon_Guingamp_2015,Lyon,15,14,29,31
+2016-03-09,Ajaccio GFCO_Marseille_2015,Marseille,15,14,29,32
+2016-03-09,Ajaccio GFCO_Marseille_2015,Ajaccio GFCO,14,15,29,32
+2016-03-09,Bastia_Nantes_2015,Nantes,14,15,29,32
+2016-03-09,Bastia_Nantes_2015,Bastia,15,14,29,32
+2016-03-11,Monaco_Reims_2015,Reims,15,15,30,32
+2016-03-11,Monaco_Reims_2015,Monaco,15,15,30,32
+2016-03-12,Lorient_Marseille_2015,Lorient,15,15,30,32
+2016-03-12,Toulouse_Bordeaux_2015,Toulouse,15,15,30,32
+2016-03-12,Montpellier_Nice_2015,Nice,15,15,30,32
+2016-03-12,Bastia_Lille_2015,Bastia,16,14,30,32
+2016-03-12,Bastia_Lille_2015,Lille,15,15,30,32
+2016-03-12,Ajaccio GFCO_Caen_2015,Ajaccio GFCO,15,15,30,32
+2016-03-12,Ajaccio GFCO_Caen_2015,Caen,15,15,30,32
+2016-03-12,Toulouse_Bordeaux_2015,Bordeaux,15,15,30,32
+2016-03-12,Guingamp_St Etienne_2015,Guingamp,15,15,30,32
+2016-03-12,Guingamp_St Etienne_2015,St Etienne,14,16,30,32
+2016-03-12,Montpellier_Nice_2015,Montpellier,16,14,30,32
+2016-03-12,Lorient_Marseille_2015,Marseille,15,15,30,32
+2016-03-13,Troyes_Paris SG_2015,Troyes,15,15,30,32
+2016-03-13,Nantes_Angers_2015,Nantes,15,15,30,32
+2016-03-13,Rennes_Lyon_2015,Rennes,15,15,30,32
+2016-03-13,Rennes_Lyon_2015,Lyon,15,15,30,32
+2016-03-13,Nantes_Angers_2015,Angers,15,15,30,32
+2016-03-13,Troyes_Paris SG_2015,Paris SG,14,16,30,32
+2016-03-18,Marseille_Rennes_2015,Marseille,16,15,31,33
+2016-03-18,Marseille_Rennes_2015,Rennes,15,16,31,33
+2016-03-19,St Etienne_Montpellier_2015,St Etienne,15,16,31,33
+2016-03-19,Caen_Troyes_2015,Caen,16,15,31,33
+2016-03-19,St Etienne_Montpellier_2015,Montpellier,16,15,31,33
+2016-03-19,Reims_Guingamp_2015,Guingamp,15,16,31,33
+2016-03-19,Lyon_Nantes_2015,Nantes,15,16,31,33
+2016-03-19,Lyon_Nantes_2015,Lyon,16,15,31,33
+2016-03-19,Angers_Lorient_2015,Angers,16,15,31,33
+2016-03-19,Lille_Toulouse_2015,Toulouse,15,16,31,33
+2016-03-19,Angers_Lorient_2015,Lorient,15,16,31,33
+2016-03-19,Reims_Guingamp_2015,Reims,16,15,31,33
+2016-03-19,Lille_Toulouse_2015,Lille,16,15,31,33
+2016-03-19,Caen_Troyes_2015,Troyes,15,16,31,33
+2016-03-20,Paris SG_Monaco_2015,Paris SG,15,16,31,33
+2016-03-20,Bordeaux_Bastia_2015,Bastia,16,15,31,33
+2016-03-20,Bordeaux_Bastia_2015,Bordeaux,16,15,31,33
+2016-03-20,Nice_Ajaccio GFCO_2015,Ajaccio GFCO,15,16,31,33
+2016-03-20,Paris SG_Monaco_2015,Monaco,15,16,31,33
+2016-03-20,Nice_Ajaccio GFCO_2015,Nice,16,15,31,33
+2016-04-01,Monaco_Bordeaux_2015,Monaco,16,16,32,35
+2016-04-01,Monaco_Bordeaux_2015,Bordeaux,16,16,32,35
+2016-04-02,Rennes_Reims_2015,Rennes,16,16,32,35
+2016-04-02,Ajaccio GFCO_St Etienne_2015,St Etienne,15,17,32,35
+2016-04-02,Guingamp_Montpellier_2015,Guingamp,16,16,32,35
+2016-04-02,Paris SG_Nice_2015,Nice,16,16,32,35
+2016-04-02,Ajaccio GFCO_St Etienne_2015,Ajaccio GFCO,16,16,32,35
+2016-04-02,Guingamp_Montpellier_2015,Montpellier,16,16,32,35
+2016-04-02,Rennes_Reims_2015,Reims,16,16,32,35
+2016-04-02,Toulouse_Caen_2015,Caen,16,16,32,35
+2016-04-02,Troyes_Angers_2015,Angers,16,16,32,35
+2016-04-02,Toulouse_Caen_2015,Toulouse,16,16,32,35
+2016-04-02,Troyes_Angers_2015,Troyes,16,16,32,35
+2016-04-02,Paris SG_Nice_2015,Paris SG,16,16,32,35
+2016-04-03,Bastia_Marseille_2015,Marseille,16,16,32,35
+2016-04-03,Lorient_Lyon_2015,Lorient,16,16,32,35
+2016-04-03,Lorient_Lyon_2015,Lyon,16,16,32,35
+2016-04-03,Nantes_Lille_2015,Lille,16,16,32,35
+2016-04-03,Nantes_Lille_2015,Nantes,16,16,32,35
+2016-04-03,Bastia_Marseille_2015,Bastia,17,15,32,35
+2016-04-08,Montpellier_Lyon_2015,Lyon,16,17,33,36
+2016-04-08,Montpellier_Lyon_2015,Montpellier,17,16,33,36
+2016-04-09,Angers_Ajaccio GFCO_2015,Angers,17,16,33,36
+2016-04-09,Toulouse_Bastia_2015,Bastia,17,16,33,36
+2016-04-09,Reims_Nantes_2015,Reims,17,16,33,36
+2016-04-09,Guingamp_Paris SG_2015,Paris SG,16,17,33,36
+2016-04-09,St Etienne_Troyes_2015,St Etienne,16,17,33,36
+2016-04-09,St Etienne_Troyes_2015,Troyes,16,17,33,36
+2016-04-09,Caen_Lorient_2015,Lorient,16,17,33,36
+2016-04-09,Reims_Nantes_2015,Nantes,16,17,33,36
+2016-04-09,Guingamp_Paris SG_2015,Guingamp,17,16,33,36
+2016-04-09,Toulouse_Bastia_2015,Toulouse,17,16,33,36
+2016-04-09,Angers_Ajaccio GFCO_2015,Ajaccio GFCO,16,17,33,36
+2016-04-09,Caen_Lorient_2015,Caen,17,16,33,36
+2016-04-10,Lille_Monaco_2015,Lille,17,16,33,36
+2016-04-10,Marseille_Bordeaux_2015,Bordeaux,16,17,33,36
+2016-04-10,Lille_Monaco_2015,Monaco,16,17,33,36
+2016-04-10,Nice_Rennes_2015,Nice,17,16,33,36
+2016-04-10,Nice_Rennes_2015,Rennes,16,17,33,36
+2016-04-10,Marseille_Bordeaux_2015,Marseille,17,16,33,36
+2016-04-15,Lyon_Nice_2015,Nice,17,17,34,37
+2016-04-15,Lyon_Nice_2015,Lyon,17,17,34,37
+2016-04-16,Lorient_Toulouse_2015,Toulouse,17,17,34,37
+2016-04-16,Ajaccio GFCO_Lille_2015,Lille,17,17,34,37
+2016-04-16,Lorient_Toulouse_2015,Lorient,17,17,34,37
+2016-04-16,Paris SG_Caen_2015,Paris SG,17,17,34,37
+2016-04-16,Bastia_St Etienne_2015,Bastia,18,16,34,37
+2016-04-16,Ajaccio GFCO_Lille_2015,Ajaccio GFCO,17,17,34,37
+2016-04-16,Troyes_Reims_2015,Reims,17,17,34,37
+2016-04-16,Bordeaux_Angers_2015,Angers,17,17,34,37
+2016-04-16,Bordeaux_Angers_2015,Bordeaux,17,17,34,37
+2016-04-16,Bastia_St Etienne_2015,St Etienne,16,18,34,37
+2016-04-16,Paris SG_Caen_2015,Caen,17,17,34,37
+2016-04-16,Troyes_Reims_2015,Troyes,17,17,34,37
+2016-04-17,Monaco_Marseille_2015,Marseille,17,17,34,37
+2016-04-17,Monaco_Marseille_2015,Monaco,17,17,34,37
+2016-04-17,Nantes_Montpellier_2015,Nantes,17,17,34,37
+2016-04-17,Rennes_Guingamp_2015,Rennes,17,17,34,37
+2016-04-17,Rennes_Guingamp_2015,Guingamp,17,17,34,37
+2016-04-17,Nantes_Montpellier_2015,Montpellier,17,17,34,37
+2016-04-22,Nice_Reims_2015,Reims,17,18,35,38
+2016-04-22,Nice_Reims_2015,Nice,18,17,35,38
+2016-04-23,Toulouse_Lyon_2015,Lyon,17,18,35,38
+2016-04-23,Toulouse_Lyon_2015,Toulouse,18,17,35,38
+2016-04-24,Montpellier_Troyes_2015,Troyes,17,18,35,38
+2016-04-24,Guingamp_Caen_2015,Caen,17,18,35,38
+2016-04-24,Rennes_Monaco_2015,Rennes,18,17,35,38
+2016-04-24,St Etienne_Lorient_2015,St Etienne,17,18,35,38
+2016-04-24,Ajaccio GFCO_Bastia_2015,Ajaccio GFCO,18,17,35,38
+2016-04-24,Rennes_Monaco_2015,Monaco,17,18,35,38
+2016-04-24,Montpellier_Troyes_2015,Montpellier,18,17,35,38
+2016-04-24,Marseille_Nantes_2015,Nantes,17,18,35,38
+2016-04-24,Ajaccio GFCO_Bastia_2015,Bastia,18,17,35,38
+2016-04-24,Marseille_Nantes_2015,Marseille,18,17,35,38
+2016-04-24,St Etienne_Lorient_2015,Lorient,17,18,35,38
+2016-04-24,Guingamp_Caen_2015,Guingamp,18,17,35,38
+2016-04-27,Lille_Angers_2015,Lille,18,17,35,39
+2016-04-27,Lille_Angers_2015,Angers,17,18,35,39
+2016-04-29,Paris SG_Rennes_2015,Paris SG,18,17,35,39
+2016-04-29,Paris SG_Rennes_2015,Rennes,18,18,36,39
+2016-04-30,Monaco_Guingamp_2015,Monaco,18,18,36,39
+2016-04-30,Nantes_Nice_2015,Nantes,18,18,36,39
+2016-04-30,Lyon_Ajaccio GFCO_2015,Lyon,18,18,36,39
+2016-04-30,St Etienne_Toulouse_2015,Toulouse,18,18,36,39
+2016-04-30,Caen_Bastia_2015,Caen,18,18,36,39
+2016-04-30,Troyes_Bordeaux_2015,Bordeaux,17,18,35,39
+2016-04-30,Lyon_Ajaccio GFCO_2015,Ajaccio GFCO,18,18,36,39
+2016-04-30,Nantes_Nice_2015,Nice,18,18,36,39
+2016-04-30,Lorient_Lille_2015,Lorient,18,18,36,39
+2016-04-30,Reims_Montpellier_2015,Reims,18,18,36,39
+2016-04-30,Troyes_Bordeaux_2015,Troyes,18,18,36,39
+2016-04-30,Caen_Bastia_2015,Bastia,18,18,36,39
+2016-04-30,St Etienne_Toulouse_2015,St Etienne,18,18,36,39
+2016-04-30,Lorient_Lille_2015,Lille,18,18,36,39
+2016-04-30,Reims_Montpellier_2015,Montpellier,18,18,36,39
+2016-04-30,Monaco_Guingamp_2015,Guingamp,18,18,36,39
+2016-05-01,Angers_Marseille_2015,Angers,18,18,36,39
+2016-05-01,Angers_Marseille_2015,Marseille,18,18,36,39
+2016-05-07,Lille_Guingamp_2015,Guingamp,18,19,37,40
+2016-05-07,Bastia_Angers_2015,Bastia,19,18,37,40
+2016-05-07,Ajaccio GFCO_Paris SG_2015,Ajaccio GFCO,19,18,37,40
+2016-05-07,Toulouse_Troyes_2015,Toulouse,19,18,37,40
+2016-05-07,Montpellier_Rennes_2015,Rennes,18,19,37,40
+2016-05-07,Ajaccio GFCO_Paris SG_2015,Paris SG,18,18,36,40
+2016-05-07,Nice_St Etienne_2015,St Etienne,18,19,37,40
+2016-05-07,Montpellier_Rennes_2015,Montpellier,19,18,37,40
+2016-05-07,Lyon_Monaco_2015,Lyon,19,18,37,40
+2016-05-07,Marseille_Reims_2015,Reims,18,19,37,40
+2016-05-07,Bordeaux_Lorient_2015,Lorient,18,19,37,40
+2016-05-07,Marseille_Reims_2015,Marseille,19,18,37,40
+2016-05-07,Bordeaux_Lorient_2015,Bordeaux,18,18,36,40
+2016-05-07,Lille_Guingamp_2015,Lille,19,18,37,40
+2016-05-07,Bastia_Angers_2015,Angers,18,19,37,40
+2016-05-07,Lyon_Monaco_2015,Monaco,18,19,37,40
+2016-05-07,Nantes_Caen_2015,Nantes,19,18,37,40
+2016-05-07,Toulouse_Troyes_2015,Troyes,18,19,37,40
+2016-05-07,Nice_St Etienne_2015,Nice,19,18,37,40
+2016-05-07,Nantes_Caen_2015,Caen,18,19,37,40
+2016-05-11,Bordeaux_Paris SG_2015,Bordeaux,19,18,37,41
+2016-05-11,Bordeaux_Paris SG_2015,Paris SG,18,19,37,41
+2016-05-14,Guingamp_Nice_2015,Nice,19,19,38,41
+2016-05-14,Reims_Lyon_2015,Reims,19,19,38,41
+2016-05-14,Paris SG_Nantes_2015,Paris SG,19,19,38,41
+2016-05-14,Reims_Lyon_2015,Lyon,19,19,38,41
+2016-05-14,Caen_Bordeaux_2015,Bordeaux,19,19,38,41
+2016-05-14,Troyes_Marseille_2015,Marseille,19,19,38,41
+2016-05-14,Caen_Bordeaux_2015,Caen,19,19,38,41
+2016-05-14,Guingamp_Nice_2015,Guingamp,19,19,38,41
+2016-05-14,Monaco_Montpellier_2015,Monaco,19,19,38,41
+2016-05-14,Rennes_Bastia_2015,Bastia,19,19,38,41
+2016-05-14,St Etienne_Lille_2015,Lille,19,19,38,41
+2016-05-14,Monaco_Montpellier_2015,Montpellier,19,19,38,41
+2016-05-14,Angers_Toulouse_2015,Toulouse,19,19,38,41
+2016-05-14,St Etienne_Lille_2015,St Etienne,19,19,38,41
+2016-05-14,Angers_Toulouse_2015,Angers,19,19,38,41
+2016-05-14,Lorient_Ajaccio GFCO_2015,Lorient,19,19,38,41
+2016-05-14,Lorient_Ajaccio GFCO_2015,Ajaccio GFCO,19,19,38,41
+2016-05-14,Paris SG_Nantes_2015,Nantes,19,19,38,41
+2016-05-14,Rennes_Bastia_2015,Rennes,19,19,38,41
+2016-05-14,Troyes_Marseille_2015,Troyes,19,19,38,41

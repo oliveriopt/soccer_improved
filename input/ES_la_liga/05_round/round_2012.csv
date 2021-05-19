@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2012-08-18,Celta_Malaga_2012,Celta,1,1,1,1
+2012-08-18,Celta_Malaga_2012,Malaga,1,1,1,1
+2012-08-18,Mallorca_Espanol_2012,Espanol,1,1,1,1
+2012-08-18,Sevilla_Getafe_2012,Sevilla,1,1,1,1
+2012-08-18,Sevilla_Getafe_2012,Getafe,1,1,1,1
+2012-08-18,Mallorca_Espanol_2012,Mallorca,1,1,1,1
+2012-08-19,Real Madrid_Valencia_2012,Valencia,1,1,1,1
+2012-08-19,Real Madrid_Valencia_2012,Real Madrid,1,1,1,1
+2012-08-19,Levante_Ath Madrid_2012,Levante,1,1,1,1
+2012-08-19,Ath Bilbao_Betis_2012,Betis,1,1,1,1
+2012-08-19,Barcelona_Sociedad_2012,Barcelona,1,1,1,1
+2012-08-19,Levante_Ath Madrid_2012,Ath Madrid,1,1,1,1
+2012-08-19,Barcelona_Sociedad_2012,Sociedad,1,1,1,1
+2012-08-19,Ath Bilbao_Betis_2012,Ath Bilbao,1,1,1,1
+2012-08-20,Zaragoza_Valladolid_2012,Valladolid,1,1,1,1
+2012-08-20,Vallecano_Granada_2012,Granada,1,1,1,1
+2012-08-20,Zaragoza_Valladolid_2012,Zaragoza,1,1,1,1
+2012-08-20,La Coruna_Osasuna_2012,La Coruna,1,1,1,1
+2012-08-20,Vallecano_Granada_2012,Vallecano,1,1,1,1
+2012-08-20,La Coruna_Osasuna_2012,Osasuna,1,1,1,1
+2012-08-25,Espanol_Zaragoza_2012,Zaragoza,1,1,2,2
+2012-08-25,Betis_Vallecano_2012,Betis,1,1,2,2
+2012-08-25,Betis_Vallecano_2012,Vallecano,1,1,2,2
+2012-08-25,Malaga_Mallorca_2012,Malaga,1,1,2,2
+2012-08-25,Malaga_Mallorca_2012,Mallorca,1,1,2,2
+2012-08-25,Sociedad_Celta_2012,Sociedad,1,1,2,2
+2012-08-25,Espanol_Zaragoza_2012,Espanol,1,1,2,2
+2012-08-25,Sociedad_Celta_2012,Celta,1,1,2,2
+2012-08-26,Granada_Sevilla_2012,Granada,1,1,2,2
+2012-08-26,Valencia_La Coruna_2012,Valencia,1,1,2,2
+2012-08-26,Granada_Sevilla_2012,Sevilla,1,1,2,2
+2012-08-26,Getafe_Real Madrid_2012,Real Madrid,1,1,2,2
+2012-08-26,Valencia_La Coruna_2012,La Coruna,1,1,2,2
+2012-08-26,Osasuna_Barcelona_2012,Barcelona,1,1,2,2
+2012-08-26,Osasuna_Barcelona_2012,Osasuna,1,1,2,2
+2012-08-26,Getafe_Real Madrid_2012,Getafe,1,1,2,2
+2012-08-27,Ath Madrid_Ath Bilbao_2012,Ath Madrid,1,1,2,2
+2012-08-27,Valladolid_Levante_2012,Levante,1,1,2,2
+2012-08-27,Ath Madrid_Ath Bilbao_2012,Ath Bilbao,1,1,2,2
+2012-08-27,Valladolid_Levante_2012,Valladolid,1,1,2,2
+2012-09-01,Mallorca_Sociedad_2012,Sociedad,1,2,3,3
+2012-09-01,Mallorca_Sociedad_2012,Mallorca,2,1,3,3
+2012-09-01,La Coruna_Getafe_2012,Getafe,1,2,3,3
+2012-09-01,Zaragoza_Malaga_2012,Malaga,1,2,3,3
+2012-09-01,La Coruna_Getafe_2012,La Coruna,2,1,3,3
+2012-09-01,Celta_Osasuna_2012,Osasuna,1,2,3,3
+2012-09-01,Celta_Osasuna_2012,Celta,2,1,3,3
+2012-09-01,Zaragoza_Malaga_2012,Zaragoza,2,1,3,3
+2012-09-02,Levante_Espanol_2012,Espanol,1,2,3,3
+2012-09-02,Ath Bilbao_Valladolid_2012,Valladolid,1,2,3,3
+2012-09-02,Levante_Espanol_2012,Levante,2,1,3,3
+2012-09-02,Real Madrid_Granada_2012,Granada,1,2,3,3
+2012-09-02,Barcelona_Valencia_2012,Valencia,1,2,3,3
+2012-09-02,Barcelona_Valencia_2012,Barcelona,2,1,3,3
+2012-09-02,Vallecano_Sevilla_2012,Vallecano,2,1,3,3
+2012-09-02,Ath Bilbao_Valladolid_2012,Ath Bilbao,2,1,3,3
+2012-09-02,Vallecano_Sevilla_2012,Sevilla,1,2,3,3
+2012-09-02,Real Madrid_Granada_2012,Real Madrid,2,1,3,3
+2012-09-15,Valencia_Celta_2012,Valencia,2,2,4,5
+2012-09-15,Sevilla_Real Madrid_2012,Sevilla,2,2,4,5
+2012-09-15,Malaga_Levante_2012,Levante,2,2,4,5
+2012-09-15,Valencia_Celta_2012,Celta,2,2,4,5
+2012-09-15,Sevilla_Real Madrid_2012,Real Madrid,2,2,4,5
+2012-09-15,Malaga_Levante_2012,Malaga,2,2,4,5
+2012-09-15,Getafe_Barcelona_2012,Barcelona,2,2,4,5
+2012-09-15,Getafe_Barcelona_2012,Getafe,2,2,4,5
+2012-09-16,Sociedad_Zaragoza_2012,Zaragoza,2,2,4,5
+2012-09-16,Espanol_Ath Bilbao_2012,Ath Bilbao,2,2,4,5
+2012-09-16,Granada_La Coruna_2012,La Coruna,2,2,4,5
+2012-09-16,Granada_La Coruna_2012,Granada,2,2,4,5
+2012-09-16,Osasuna_Mallorca_2012,Osasuna,2,2,4,5
+2012-09-16,Ath Madrid_Vallecano_2012,Ath Madrid,2,1,3,5
+2012-09-16,Ath Madrid_Vallecano_2012,Vallecano,2,2,4,5
+2012-09-16,Sociedad_Zaragoza_2012,Sociedad,2,2,4,5
+2012-09-16,Osasuna_Mallorca_2012,Mallorca,2,2,4,5
+2012-09-16,Espanol_Ath Bilbao_2012,Espanol,2,2,4,5
+2012-09-17,Valladolid_Betis_2012,Betis,1,2,3,5
+2012-09-17,Valladolid_Betis_2012,Valladolid,2,2,4,5
+2012-09-22,Celta_Getafe_2012,Celta,3,2,5,6
+2012-09-22,Zaragoza_Osasuna_2012,Zaragoza,3,2,5,6
+2012-09-22,Barcelona_Granada_2012,Barcelona,3,2,5,6
+2012-09-22,Betis_Espanol_2012,Espanol,2,3,5,6
+2012-09-22,Celta_Getafe_2012,Getafe,2,3,5,6
+2012-09-22,Betis_Espanol_2012,Betis,2,2,4,6
+2012-09-22,Barcelona_Granada_2012,Granada,2,3,5,6
+2012-09-22,Zaragoza_Osasuna_2012,Osasuna,2,3,5,6
+2012-09-23,Mallorca_Valencia_2012,Mallorca,3,2,5,6
+2012-09-23,Ath Bilbao_Malaga_2012,Ath Bilbao,3,2,5,6
+2012-09-23,Levante_Sociedad_2012,Levante,3,2,5,6
+2012-09-23,Ath Madrid_Valladolid_2012,Ath Madrid,3,1,4,6
+2012-09-23,Mallorca_Valencia_2012,Valencia,2,3,5,6
+2012-09-23,Ath Madrid_Valladolid_2012,Valladolid,2,3,5,6
+2012-09-23,Levante_Sociedad_2012,Sociedad,2,3,5,6
+2012-09-23,Ath Bilbao_Malaga_2012,Malaga,2,3,5,6
+2012-09-24,La Coruna_Sevilla_2012,Sevilla,2,3,5,6
+2012-09-24,Vallecano_Real Madrid_2012,Vallecano,3,2,5,6
+2012-09-24,Vallecano_Real Madrid_2012,Real Madrid,2,3,5,6
+2012-09-24,La Coruna_Sevilla_2012,La Coruna,3,2,5,6
+2012-09-26,Betis_Ath Madrid_2012,Ath Madrid,3,2,5,7
+2012-09-26,Betis_Ath Madrid_2012,Betis,3,2,5,7
+2012-09-29,Sociedad_Ath Bilbao_2012,Sociedad,3,3,6,7
+2012-09-29,Sociedad_Ath Bilbao_2012,Ath Bilbao,3,3,6,7
+2012-09-29,Sevilla_Barcelona_2012,Barcelona,3,3,6,7
+2012-09-29,Sevilla_Barcelona_2012,Sevilla,3,3,6,7
+2012-09-29,Malaga_Betis_2012,Betis,3,3,6,7
+2012-09-29,Malaga_Betis_2012,Malaga,3,3,6,7
+2012-09-29,Valencia_Zaragoza_2012,Valencia,3,3,6,7
+2012-09-29,Valencia_Zaragoza_2012,Zaragoza,3,3,6,7
+2012-09-30,Granada_Celta_2012,Granada,3,3,6,7
+2012-09-30,Espanol_Ath Madrid_2012,Ath Madrid,3,3,6,7
+2012-09-30,Osasuna_Levante_2012,Levante,3,3,6,7
+2012-09-30,Real Madrid_La Coruna_2012,Real Madrid,3,3,6,7
+2012-09-30,Valladolid_Vallecano_2012,Valladolid,3,3,6,7
+2012-09-30,Valladolid_Vallecano_2012,Vallecano,3,3,6,7
+2012-09-30,Granada_Celta_2012,Celta,3,3,6,7
+2012-09-30,Espanol_Ath Madrid_2012,Espanol,3,3,6,7
+2012-09-30,Real Madrid_La Coruna_2012,La Coruna,3,3,6,7
+2012-09-30,Osasuna_Levante_2012,Osasuna,3,3,6,7
+2012-10-01,Getafe_Mallorca_2012,Getafe,3,3,6,7
+2012-10-01,Getafe_Mallorca_2012,Mallorca,3,3,6,7
+2012-10-05,Celta_Sevilla_2012,Sevilla,3,4,7,8
+2012-10-05,Celta_Sevilla_2012,Celta,4,3,7,8
+2012-10-06,Valladolid_Espanol_2012,Valladolid,4,3,7,8
+2012-10-06,Zaragoza_Getafe_2012,Zaragoza,4,3,7,8
+2012-10-06,Vallecano_La Coruna_2012,Vallecano,4,3,7,8
+2012-10-06,Valladolid_Espanol_2012,Espanol,3,4,7,8
+2012-10-06,Betis_Sociedad_2012,Sociedad,3,4,7,8
+2012-10-06,Vallecano_La Coruna_2012,La Coruna,3,4,7,8
+2012-10-06,Betis_Sociedad_2012,Betis,4,3,7,8
+2012-10-06,Zaragoza_Getafe_2012,Getafe,3,4,7,8
+2012-10-07,Barcelona_Real Madrid_2012,Real Madrid,3,4,7,8
+2012-10-07,Mallorca_Granada_2012,Mallorca,4,3,7,8
+2012-10-07,Ath Bilbao_Osasuna_2012,Osasuna,3,4,7,8
+2012-10-07,Barcelona_Real Madrid_2012,Barcelona,4,3,7,8
+2012-10-07,Mallorca_Granada_2012,Granada,3,4,7,8
+2012-10-07,Levante_Valencia_2012,Valencia,3,4,7,8
+2012-10-07,Levante_Valencia_2012,Levante,4,3,7,8
+2012-10-07,Ath Madrid_Malaga_2012,Malaga,3,4,7,8
+2012-10-07,Ath Madrid_Malaga_2012,Ath Madrid,4,3,7,8
+2012-10-07,Ath Bilbao_Osasuna_2012,Ath Bilbao,4,3,7,8
+2012-10-20,Real Madrid_Celta_2012,Real Madrid,4,4,8,10
+2012-10-20,La Coruna_Barcelona_2012,Barcelona,4,4,8,10
+2012-10-20,Malaga_Valladolid_2012,Valladolid,4,4,8,10
+2012-10-20,Real Madrid_Celta_2012,Celta,4,4,8,10
+2012-10-20,Valencia_Ath Bilbao_2012,Ath Bilbao,4,4,8,10
+2012-10-20,La Coruna_Barcelona_2012,La Coruna,4,4,8,10
+2012-10-20,Malaga_Valladolid_2012,Malaga,4,4,8,10
+2012-10-20,Valencia_Ath Bilbao_2012,Valencia,4,4,8,10
+2012-10-21,Sociedad_Ath Madrid_2012,Ath Madrid,4,4,8,10
+2012-10-21,Granada_Zaragoza_2012,Zaragoza,4,4,8,10
+2012-10-21,Espanol_Vallecano_2012,Vallecano,4,4,8,10
+2012-10-21,Osasuna_Betis_2012,Osasuna,4,4,8,10
+2012-10-21,Granada_Zaragoza_2012,Granada,4,4,8,10
+2012-10-21,Getafe_Levante_2012,Levante,4,4,8,10
+2012-10-21,Osasuna_Betis_2012,Betis,4,4,8,10
+2012-10-21,Espanol_Vallecano_2012,Espanol,4,4,8,10
+2012-10-21,Sociedad_Ath Madrid_2012,Sociedad,4,4,8,10
+2012-10-21,Getafe_Levante_2012,Getafe,4,4,8,10
+2012-10-22,Sevilla_Mallorca_2012,Sevilla,4,4,8,10
+2012-10-22,Sevilla_Mallorca_2012,Mallorca,4,4,8,10
+2012-10-27,Espanol_Malaga_2012,Espanol,5,4,9,11
+2012-10-27,Espanol_Malaga_2012,Malaga,4,5,9,11
+2012-10-27,Betis_Valencia_2012,Valencia,4,5,9,11
+2012-10-27,Celta_La Coruna_2012,Celta,5,4,9,11
+2012-10-27,Celta_La Coruna_2012,La Coruna,4,5,9,11
+2012-10-27,Vallecano_Barcelona_2012,Vallecano,5,4,9,11
+2012-10-27,Vallecano_Barcelona_2012,Barcelona,4,5,9,11
+2012-10-27,Betis_Valencia_2012,Betis,5,4,9,11
+2012-10-28,Zaragoza_Sevilla_2012,Zaragoza,5,4,9,11
+2012-10-28,Ath Bilbao_Getafe_2012,Ath Bilbao,5,4,9,11
+2012-10-28,Zaragoza_Sevilla_2012,Sevilla,4,5,9,11
+2012-10-28,Ath Madrid_Osasuna_2012,Ath Madrid,5,4,9,11
+2012-10-28,Ath Madrid_Osasuna_2012,Osasuna,4,5,9,11
+2012-10-28,Ath Bilbao_Getafe_2012,Getafe,4,5,9,11
+2012-10-28,Levante_Granada_2012,Levante,5,4,9,11
+2012-10-28,Mallorca_Real Madrid_2012,Real Madrid,4,5,9,11
+2012-10-28,Mallorca_Real Madrid_2012,Mallorca,5,4,9,11
+2012-10-28,Levante_Granada_2012,Granada,4,5,9,11
+2012-10-29,Valladolid_Sociedad_2012,Valladolid,5,4,9,11
+2012-10-29,Valladolid_Sociedad_2012,Sociedad,4,5,9,11
+2012-11-03,Real Madrid_Zaragoza_2012,Zaragoza,5,5,10,12
+2012-11-03,Real Madrid_Zaragoza_2012,Real Madrid,5,5,10,12
+2012-11-03,Barcelona_Celta_2012,Celta,5,5,10,12
+2012-11-03,Malaga_Vallecano_2012,Malaga,5,5,10,12
+2012-11-03,Barcelona_Celta_2012,Barcelona,5,5,10,12
+2012-11-03,Valencia_Ath Madrid_2012,Ath Madrid,5,5,10,12
+2012-11-03,Valencia_Ath Madrid_2012,Valencia,5,5,10,12
+2012-11-03,Malaga_Vallecano_2012,Vallecano,5,5,10,12
+2012-11-04,Sevilla_Levante_2012,Sevilla,5,5,10,12
+2012-11-04,Sociedad_Espanol_2012,Espanol,5,5,10,12
+2012-11-04,Granada_Ath Bilbao_2012,Granada,5,5,10,12
+2012-11-04,Sevilla_Levante_2012,Levante,5,5,10,12
+2012-11-04,Granada_Ath Bilbao_2012,Ath Bilbao,5,5,10,12
+2012-11-04,Osasuna_Valladolid_2012,Osasuna,5,5,10,12
+2012-11-04,Sociedad_Espanol_2012,Sociedad,5,5,10,12
+2012-11-04,La Coruna_Mallorca_2012,Mallorca,5,5,10,12
+2012-11-04,Osasuna_Valladolid_2012,Valladolid,5,5,10,12
+2012-11-04,La Coruna_Mallorca_2012,La Coruna,5,5,10,12
+2012-11-05,Getafe_Betis_2012,Getafe,5,5,10,12
+2012-11-05,Getafe_Betis_2012,Betis,5,5,10,12
+2012-11-09,Betis_Granada_2012,Granada,5,6,11,13
+2012-11-09,Betis_Granada_2012,Betis,6,5,11,13
+2012-11-10,Zaragoza_La Coruna_2012,Zaragoza,6,5,11,13
+2012-11-10,Malaga_Sociedad_2012,Sociedad,5,6,11,13
+2012-11-10,Zaragoza_La Coruna_2012,La Coruna,5,6,11,13
+2012-11-10,Vallecano_Celta_2012,Celta,5,6,11,13
+2012-11-10,Vallecano_Celta_2012,Vallecano,6,5,11,13
+2012-11-10,Malaga_Sociedad_2012,Malaga,6,5,11,13
+2012-11-10,Espanol_Osasuna_2012,Osasuna,5,6,11,13
+2012-11-10,Espanol_Osasuna_2012,Espanol,6,5,11,13
+2012-11-11,Ath Madrid_Getafe_2012,Getafe,5,6,11,13
+2012-11-11,Ath Bilbao_Sevilla_2012,Ath Bilbao,6,5,11,13
+2012-11-11,Ath Bilbao_Sevilla_2012,Sevilla,5,6,11,13
+2012-11-11,Valladolid_Valencia_2012,Valencia,5,6,11,13
+2012-11-11,Valladolid_Valencia_2012,Valladolid,6,5,11,13
+2012-11-11,Ath Madrid_Getafe_2012,Ath Madrid,6,5,11,13
+2012-11-11,Mallorca_Barcelona_2012,Mallorca,6,5,11,13
+2012-11-11,Mallorca_Barcelona_2012,Barcelona,5,6,11,13
+2012-11-11,Levante_Real Madrid_2012,Real Madrid,5,6,11,13
+2012-11-11,Levante_Real Madrid_2012,Levante,6,5,11,13
+2012-11-17,Osasuna_Malaga_2012,Malaga,6,6,12,14
+2012-11-17,Valencia_Espanol_2012,Valencia,6,6,12,14
+2012-11-17,Real Madrid_Ath Bilbao_2012,Real Madrid,6,6,12,14
+2012-11-17,Valencia_Espanol_2012,Espanol,6,6,12,14
+2012-11-17,Osasuna_Malaga_2012,Osasuna,6,6,12,14
+2012-11-17,Barcelona_Zaragoza_2012,Barcelona,6,6,12,14
+2012-11-17,Real Madrid_Ath Bilbao_2012,Ath Bilbao,6,6,12,14
+2012-11-17,Barcelona_Zaragoza_2012,Zaragoza,6,6,12,14
+2012-11-18,Sevilla_Betis_2012,Betis,6,6,12,14
+2012-11-18,La Coruna_Levante_2012,La Coruna,6,6,12,14
+2012-11-18,Sevilla_Betis_2012,Sevilla,6,6,12,14
+2012-11-18,La Coruna_Levante_2012,Levante,6,6,12,14
+2012-11-18,Getafe_Valladolid_2012,Getafe,6,6,12,14
+2012-11-18,Granada_Ath Madrid_2012,Granada,6,6,12,14
+2012-11-18,Granada_Ath Madrid_2012,Ath Madrid,6,6,12,14
+2012-11-18,Celta_Mallorca_2012,Celta,6,6,12,14
+2012-11-18,Getafe_Valladolid_2012,Valladolid,6,6,12,14
+2012-11-18,Celta_Mallorca_2012,Mallorca,6,6,12,14
+2012-11-19,Sociedad_Vallecano_2012,Vallecano,6,6,12,14
+2012-11-19,Sociedad_Vallecano_2012,Sociedad,6,6,12,14
+2012-11-23,Sociedad_Osasuna_2012,Osasuna,6,7,13,15
+2012-11-23,Sociedad_Osasuna_2012,Sociedad,7,6,13,15
+2012-11-24,Betis_Real Madrid_2012,Real Madrid,6,7,13,15
+2012-11-24,Valladolid_Granada_2012,Valladolid,7,6,13,15
+2012-11-24,Vallecano_Mallorca_2012,Mallorca,6,7,13,15
+2012-11-24,Malaga_Valencia_2012,Valencia,6,7,13,15
+2012-11-24,Malaga_Valencia_2012,Malaga,7,6,13,15
+2012-11-24,Valladolid_Granada_2012,Granada,6,7,13,15
+2012-11-24,Betis_Real Madrid_2012,Betis,7,6,13,15
+2012-11-24,Vallecano_Mallorca_2012,Vallecano,7,6,13,15
+2012-11-25,Levante_Barcelona_2012,Levante,7,6,13,15
+2012-11-25,Ath Madrid_Sevilla_2012,Sevilla,6,7,13,15
+2012-11-25,Espanol_Getafe_2012,Espanol,7,6,13,15
+2012-11-25,Ath Bilbao_La Coruna_2012,La Coruna,6,7,13,15
+2012-11-25,Ath Madrid_Sevilla_2012,Ath Madrid,7,6,13,15
+2012-11-25,Ath Bilbao_La Coruna_2012,Ath Bilbao,7,6,13,15
+2012-11-25,Espanol_Getafe_2012,Getafe,6,7,13,15
+2012-11-25,Levante_Barcelona_2012,Barcelona,6,7,13,15
+2012-11-26,Zaragoza_Celta_2012,Zaragoza,7,6,13,15
+2012-11-26,Zaragoza_Celta_2012,Celta,6,7,13,15
+2012-11-30,Osasuna_Vallecano_2012,Osasuna,7,7,14,16
+2012-11-30,Osasuna_Vallecano_2012,Vallecano,7,7,14,16
+2012-12-01,Valencia_Sociedad_2012,Valencia,7,7,14,16
+2012-12-01,Real Madrid_Ath Madrid_2012,Ath Madrid,7,7,14,16
+2012-12-01,Barcelona_Ath Bilbao_2012,Ath Bilbao,7,7,14,16
+2012-12-01,Getafe_Malaga_2012,Getafe,7,7,14,16
+2012-12-01,Real Madrid_Ath Madrid_2012,Real Madrid,7,7,14,16
+2012-12-01,Barcelona_Ath Bilbao_2012,Barcelona,7,7,14,16
+2012-12-01,Getafe_Malaga_2012,Malaga,7,7,14,16
+2012-12-01,Valencia_Sociedad_2012,Sociedad,7,7,14,16
+2012-12-02,Granada_Espanol_2012,Granada,7,7,14,16
+2012-12-02,La Coruna_Betis_2012,La Coruna,7,7,14,16
+2012-12-02,Mallorca_Zaragoza_2012,Zaragoza,7,7,14,16
+2012-12-02,Granada_Espanol_2012,Espanol,7,7,14,16
+2012-12-02,Mallorca_Zaragoza_2012,Mallorca,7,7,14,16
+2012-12-02,Celta_Levante_2012,Levante,7,7,14,16
+2012-12-02,Celta_Levante_2012,Celta,7,7,14,16
+2012-12-02,La Coruna_Betis_2012,Betis,7,7,14,16
+2012-12-03,Sevilla_Valladolid_2012,Valladolid,7,7,14,16
+2012-12-03,Sevilla_Valladolid_2012,Sevilla,7,7,14,16
+2012-12-07,Espanol_Sevilla_2012,Sevilla,7,8,15,17
+2012-12-07,Espanol_Sevilla_2012,Espanol,8,7,15,17
+2012-12-08,Malaga_Granada_2012,Granada,7,8,15,17
+2012-12-08,Sociedad_Getafe_2012,Sociedad,8,7,15,17
+2012-12-08,Osasuna_Valencia_2012,Osasuna,8,7,15,17
+2012-12-08,Valladolid_Real Madrid_2012,Real Madrid,7,8,15,17
+2012-12-08,Sociedad_Getafe_2012,Getafe,7,8,15,17
+2012-12-08,Osasuna_Valencia_2012,Valencia,7,8,15,17
+2012-12-08,Malaga_Granada_2012,Malaga,8,7,15,17
+2012-12-08,Valladolid_Real Madrid_2012,Valladolid,8,7,15,17
+2012-12-09,Ath Madrid_La Coruna_2012,La Coruna,7,8,15,17
+2012-12-09,Ath Bilbao_Celta_2012,Celta,7,8,15,17
+2012-12-09,Betis_Barcelona_2012,Barcelona,7,8,15,17
+2012-12-09,Levante_Mallorca_2012,Mallorca,7,8,15,17
+2012-12-09,Ath Bilbao_Celta_2012,Ath Bilbao,8,7,15,17
+2012-12-09,Betis_Barcelona_2012,Betis,8,7,15,17
+2012-12-09,Ath Madrid_La Coruna_2012,Ath Madrid,8,7,15,17
+2012-12-09,Levante_Mallorca_2012,Levante,8,7,15,17
+2012-12-10,Vallecano_Zaragoza_2012,Zaragoza,7,8,15,17
+2012-12-10,Vallecano_Zaragoza_2012,Vallecano,8,7,15,17
+2012-12-15,Granada_Sociedad_2012,Granada,8,8,16,18
+2012-12-15,Granada_Sociedad_2012,Sociedad,8,8,16,18
+2012-12-15,Mallorca_Ath Bilbao_2012,Mallorca,8,8,16,18
+2012-12-15,Getafe_Osasuna_2012,Osasuna,8,8,16,18
+2012-12-15,Mallorca_Ath Bilbao_2012,Ath Bilbao,8,8,16,18
+2012-12-15,Sevilla_Malaga_2012,Malaga,8,8,16,18
+2012-12-15,Getafe_Osasuna_2012,Getafe,8,8,16,18
+2012-12-15,Sevilla_Malaga_2012,Sevilla,8,8,16,18
+2012-12-16,Valencia_Vallecano_2012,Vallecano,8,8,16,18
+2012-12-16,Barcelona_Ath Madrid_2012,Ath Madrid,8,8,16,18
+2012-12-16,Valencia_Vallecano_2012,Valencia,8,8,16,18
+2012-12-16,Zaragoza_Levante_2012,Levante,8,8,16,18
+2012-12-16,Barcelona_Ath Madrid_2012,Barcelona,8,8,16,18
+2012-12-16,Real Madrid_Espanol_2012,Real Madrid,8,8,16,18
+2012-12-16,Real Madrid_Espanol_2012,Espanol,8,8,16,18
+2012-12-16,Zaragoza_Levante_2012,Zaragoza,8,8,16,18
+2012-12-17,Celta_Betis_2012,Celta,8,8,16,18
+2012-12-17,Celta_Betis_2012,Betis,8,8,16,18
+2012-12-17,La Coruna_Valladolid_2012,La Coruna,8,8,16,18
+2012-12-17,La Coruna_Valladolid_2012,Valladolid,8,8,16,18
+2012-12-20,Vallecano_Levante_2012,Vallecano,9,8,17,19
+2012-12-20,Espanol_La Coruna_2012,Espanol,9,8,17,19
+2012-12-20,Sociedad_Sevilla_2012,Sociedad,9,8,17,19
+2012-12-20,Vallecano_Levante_2012,Levante,8,9,17,19
+2012-12-20,Espanol_La Coruna_2012,La Coruna,8,9,17,19
+2012-12-20,Sociedad_Sevilla_2012,Sevilla,8,9,17,19
+2012-12-21,Ath Madrid_Celta_2012,Celta,8,9,17,19
+2012-12-21,Valencia_Getafe_2012,Getafe,8,9,17,19
+2012-12-21,Ath Madrid_Celta_2012,Ath Madrid,9,8,17,19
+2012-12-21,Valencia_Getafe_2012,Valencia,9,8,17,19
+2012-12-22,Ath Bilbao_Zaragoza_2012,Zaragoza,8,9,17,19
+2012-12-22,Osasuna_Granada_2012,Granada,8,9,17,19
+2012-12-22,Malaga_Real Madrid_2012,Real Madrid,8,9,17,19
+2012-12-22,Valladolid_Barcelona_2012,Valladolid,9,8,17,19
+2012-12-22,Valladolid_Barcelona_2012,Barcelona,8,9,17,19
+2012-12-22,Betis_Mallorca_2012,Mallorca,8,9,17,19
+2012-12-22,Malaga_Real Madrid_2012,Malaga,9,8,17,19
+2012-12-22,Ath Bilbao_Zaragoza_2012,Ath Bilbao,9,8,17,19
+2012-12-22,Osasuna_Granada_2012,Osasuna,9,8,17,19
+2012-12-22,Betis_Mallorca_2012,Betis,9,8,17,19
+2013-01-04,Zaragoza_Betis_2012,Betis,9,9,18,21
+2013-01-04,Zaragoza_Betis_2012,Zaragoza,9,9,18,21
+2013-01-05,La Coruna_Malaga_2012,Malaga,9,9,18,21
+2013-01-05,Sevilla_Osasuna_2012,Sevilla,9,9,18,21
+2013-01-05,Granada_Valencia_2012,Valencia,9,9,18,21
+2013-01-05,Sevilla_Osasuna_2012,Osasuna,9,9,18,21
+2013-01-05,Levante_Ath Bilbao_2012,Levante,9,9,18,21
+2013-01-05,Granada_Valencia_2012,Granada,9,9,18,21
+2013-01-05,La Coruna_Malaga_2012,La Coruna,9,9,18,21
+2013-01-05,Levante_Ath Bilbao_2012,Ath Bilbao,9,9,18,21
+2013-01-06,Real Madrid_Sociedad_2012,Sociedad,9,9,18,21
+2013-01-06,Celta_Valladolid_2012,Celta,9,9,18,21
+2013-01-06,Barcelona_Espanol_2012,Espanol,9,9,18,21
+2013-01-06,Mallorca_Ath Madrid_2012,Mallorca,9,9,18,21
+2013-01-06,Real Madrid_Sociedad_2012,Real Madrid,9,9,18,21
+2013-01-06,Mallorca_Ath Madrid_2012,Ath Madrid,9,9,18,21
+2013-01-06,Barcelona_Espanol_2012,Barcelona,9,9,18,21
+2013-01-06,Celta_Valladolid_2012,Valladolid,9,9,18,21
+2013-01-07,Vallecano_Getafe_2012,Getafe,8,10,18,21
+2013-01-07,Vallecano_Getafe_2012,Vallecano,10,8,18,21
+2013-01-11,Ath Bilbao_Vallecano_2012,Ath Bilbao,10,9,19,22
+2013-01-11,Ath Bilbao_Vallecano_2012,Vallecano,10,9,19,22
+2013-01-12,Valladolid_Mallorca_2012,Valladolid,10,9,19,22
+2013-01-12,Espanol_Celta_2012,Espanol,10,9,19,22
+2013-01-12,Valencia_Sevilla_2012,Sevilla,9,10,19,22
+2013-01-12,Valladolid_Mallorca_2012,Mallorca,9,10,19,22
+2013-01-12,Osasuna_Real Madrid_2012,Osasuna,10,9,19,22
+2013-01-12,Osasuna_Real Madrid_2012,Real Madrid,9,10,19,22
+2013-01-12,Espanol_Celta_2012,Celta,9,10,19,22
+2013-01-12,Valencia_Sevilla_2012,Valencia,10,9,19,22
+2013-01-13,Ath Madrid_Zaragoza_2012,Zaragoza,9,10,19,22
+2013-01-13,Ath Madrid_Zaragoza_2012,Ath Madrid,10,9,19,22
+2013-01-13,Malaga_Barcelona_2012,Barcelona,9,10,19,22
+2013-01-13,Malaga_Barcelona_2012,Malaga,10,9,19,22
+2013-01-13,Sociedad_La Coruna_2012,La Coruna,9,10,19,22
+2013-01-13,Betis_Levante_2012,Levante,9,10,19,22
+2013-01-13,Sociedad_La Coruna_2012,Sociedad,10,9,19,22
+2013-01-13,Betis_Levante_2012,Betis,10,9,19,22
+2013-01-14,Getafe_Granada_2012,Getafe,9,10,19,22
+2013-01-14,Getafe_Granada_2012,Granada,9,10,19,22
+2013-01-18,Espanol_Mallorca_2012,Mallorca,9,11,20,23
+2013-01-18,Espanol_Mallorca_2012,Espanol,11,9,20,23
+2013-01-19,Getafe_Sevilla_2012,Getafe,10,10,20,23
+2013-01-19,Sociedad_Barcelona_2012,Sociedad,11,9,20,23
+2013-01-19,Sociedad_Barcelona_2012,Barcelona,9,11,20,23
+2013-01-19,Malaga_Celta_2012,Celta,9,11,20,23
+2013-01-19,Getafe_Sevilla_2012,Sevilla,9,11,20,23
+2013-01-19,Granada_Vallecano_2012,Granada,10,10,20,23
+2013-01-19,Malaga_Celta_2012,Malaga,11,9,20,23
+2013-01-19,Granada_Vallecano_2012,Vallecano,10,10,20,23
+2013-01-20,Valladolid_Zaragoza_2012,Zaragoza,9,11,20,23
+2013-01-20,Ath Madrid_Levante_2012,Ath Madrid,11,9,20,23
+2013-01-20,Valladolid_Zaragoza_2012,Valladolid,11,9,20,23
+2013-01-20,Osasuna_La Coruna_2012,La Coruna,9,11,20,23
+2013-01-20,Osasuna_La Coruna_2012,Osasuna,11,9,20,23
+2013-01-20,Ath Madrid_Levante_2012,Levante,9,11,20,23
+2013-01-20,Valencia_Real Madrid_2012,Valencia,11,9,20,23
+2013-01-20,Valencia_Real Madrid_2012,Real Madrid,9,11,20,23
+2013-01-21,Betis_Ath Bilbao_2012,Betis,11,9,20,23
+2013-01-21,Betis_Ath Bilbao_2012,Ath Bilbao,10,10,20,23
+2013-01-26,La Coruna_Valencia_2012,La Coruna,10,11,21,24
+2013-01-26,Zaragoza_Espanol_2012,Zaragoza,10,11,21,24
+2013-01-26,Levante_Valladolid_2012,Valladolid,11,10,21,24
+2013-01-26,Zaragoza_Espanol_2012,Espanol,11,10,21,24
+2013-01-26,Levante_Valladolid_2012,Levante,10,11,21,24
+2013-01-26,Celta_Sociedad_2012,Celta,10,11,21,24
+2013-01-26,La Coruna_Valencia_2012,Valencia,11,10,21,24
+2013-01-26,Celta_Sociedad_2012,Sociedad,11,10,21,24
+2013-01-27,Barcelona_Osasuna_2012,Osasuna,11,10,21,24
+2013-01-27,Ath Bilbao_Ath Madrid_2012,Ath Bilbao,11,10,21,24
+2013-01-27,Vallecano_Betis_2012,Vallecano,11,10,21,24
+2013-01-27,Real Madrid_Getafe_2012,Getafe,10,11,21,24
+2013-01-27,Mallorca_Malaga_2012,Malaga,11,10,21,24
+2013-01-27,Vallecano_Betis_2012,Betis,11,10,21,24
+2013-01-27,Mallorca_Malaga_2012,Mallorca,10,11,21,24
+2013-01-27,Real Madrid_Getafe_2012,Real Madrid,10,11,21,24
+2013-01-27,Barcelona_Osasuna_2012,Barcelona,10,11,21,24
+2013-01-27,Ath Bilbao_Ath Madrid_2012,Ath Madrid,11,10,21,24
+2013-01-28,Sevilla_Granada_2012,Granada,10,11,21,24
+2013-01-28,Sevilla_Granada_2012,Sevilla,10,11,21,24
+2013-02-01,Valladolid_Ath Bilbao_2012,Valladolid,12,10,22,25
+2013-02-01,Valladolid_Ath Bilbao_2012,Ath Bilbao,11,11,22,25
+2013-02-02,Getafe_La Coruna_2012,Getafe,11,11,22,25
+2013-02-02,Espanol_Levante_2012,Levante,10,12,22,25
+2013-02-02,Granada_Real Madrid_2012,Real Madrid,10,12,22,25
+2013-02-02,Osasuna_Celta_2012,Celta,10,12,22,25
+2013-02-02,Granada_Real Madrid_2012,Granada,11,11,22,25
+2013-02-02,Espanol_Levante_2012,Espanol,12,10,22,25
+2013-02-02,Osasuna_Celta_2012,Osasuna,12,10,22,25
+2013-02-02,Getafe_La Coruna_2012,La Coruna,10,12,22,25
+2013-02-03,Sociedad_Mallorca_2012,Mallorca,10,12,22,25
+2013-02-03,Valencia_Barcelona_2012,Barcelona,10,12,22,25
+2013-02-03,Valencia_Barcelona_2012,Valencia,12,10,22,25
+2013-02-03,Ath Madrid_Betis_2012,Betis,11,11,22,25
+2013-02-03,Malaga_Zaragoza_2012,Malaga,12,10,22,25
+2013-02-03,Ath Madrid_Betis_2012,Ath Madrid,12,10,22,25
+2013-02-03,Sevilla_Vallecano_2012,Vallecano,11,11,22,25
+2013-02-03,Sociedad_Mallorca_2012,Sociedad,12,10,22,25
+2013-02-03,Malaga_Zaragoza_2012,Zaragoza,10,12,22,25
+2013-02-03,Sevilla_Vallecano_2012,Sevilla,11,11,22,25
+2013-02-09,Levante_Malaga_2012,Malaga,12,11,23,26
+2013-02-09,Mallorca_Osasuna_2012,Mallorca,11,12,23,26
+2013-02-09,Real Madrid_Sevilla_2012,Real Madrid,11,12,23,26
+2013-02-09,Mallorca_Osasuna_2012,Osasuna,12,11,23,26
+2013-02-09,Levante_Malaga_2012,Levante,11,12,23,26
+2013-02-09,La Coruna_Granada_2012,La Coruna,11,12,23,26
+2013-02-09,Celta_Valencia_2012,Celta,11,12,23,26
+2013-02-09,Real Madrid_Sevilla_2012,Sevilla,11,12,23,26
+2013-02-09,La Coruna_Granada_2012,Granada,11,12,23,26
+2013-02-09,Celta_Valencia_2012,Valencia,12,11,23,26
+2013-02-10,Barcelona_Getafe_2012,Barcelona,11,12,23,26
+2013-02-10,Ath Bilbao_Espanol_2012,Ath Bilbao,12,11,23,26
+2013-02-10,Zaragoza_Sociedad_2012,Sociedad,12,11,23,26
+2013-02-10,Vallecano_Ath Madrid_2012,Ath Madrid,12,11,23,26
+2013-02-10,Vallecano_Ath Madrid_2012,Vallecano,12,11,23,26
+2013-02-10,Ath Bilbao_Espanol_2012,Espanol,12,11,23,26
+2013-02-10,Barcelona_Getafe_2012,Getafe,11,12,23,26
+2013-02-10,Zaragoza_Sociedad_2012,Zaragoza,11,12,23,26
+2013-02-11,Betis_Valladolid_2012,Betis,12,11,23,26
+2013-02-11,Betis_Valladolid_2012,Valladolid,12,11,23,26
+2013-02-15,Sevilla_La Coruna_2012,La Coruna,11,13,24,27
+2013-02-15,Sevilla_La Coruna_2012,Sevilla,12,12,24,27
+2013-02-16,Osasuna_Zaragoza_2012,Osasuna,13,11,24,27
+2013-02-16,Granada_Barcelona_2012,Barcelona,11,13,24,27
+2013-02-16,Malaga_Ath Bilbao_2012,Ath Bilbao,12,12,24,27
+2013-02-16,Malaga_Ath Bilbao_2012,Malaga,13,11,24,27
+2013-02-16,Getafe_Celta_2012,Celta,11,13,24,27
+2013-02-16,Getafe_Celta_2012,Getafe,12,12,24,27
+2013-02-16,Granada_Barcelona_2012,Granada,12,12,24,27
+2013-02-16,Osasuna_Zaragoza_2012,Zaragoza,11,13,24,27
+2013-02-17,Espanol_Betis_2012,Espanol,13,11,24,27
+2013-02-17,Real Madrid_Vallecano_2012,Vallecano,12,12,24,27
+2013-02-17,Espanol_Betis_2012,Betis,12,12,24,27
+2013-02-17,Valencia_Mallorca_2012,Valencia,13,11,24,27
+2013-02-17,Real Madrid_Vallecano_2012,Real Madrid,12,12,24,27
+2013-02-17,Valladolid_Ath Madrid_2012,Ath Madrid,12,12,24,27
+2013-02-17,Valencia_Mallorca_2012,Mallorca,11,13,24,27
+2013-02-17,Sociedad_Levante_2012,Levante,11,13,24,27
+2013-02-17,Valladolid_Ath Madrid_2012,Valladolid,13,11,24,27
+2013-02-17,Sociedad_Levante_2012,Sociedad,13,11,24,27
+2013-02-22,Ath Bilbao_Sociedad_2012,Ath Bilbao,13,12,25,28
+2013-02-22,Ath Bilbao_Sociedad_2012,Sociedad,13,12,25,28
+2013-02-23,Barcelona_Sevilla_2012,Barcelona,12,13,25,28
+2013-02-23,Barcelona_Sevilla_2012,Sevilla,12,13,25,28
+2013-02-23,Zaragoza_Valencia_2012,Valencia,13,12,25,28
+2013-02-23,Zaragoza_Valencia_2012,Zaragoza,12,13,25,28
+2013-02-23,La Coruna_Real Madrid_2012,La Coruna,12,13,25,28
+2013-02-23,Mallorca_Getafe_2012,Mallorca,12,13,25,28
+2013-02-23,La Coruna_Real Madrid_2012,Real Madrid,12,13,25,28
+2013-02-23,Mallorca_Getafe_2012,Getafe,12,13,25,28
+2013-02-24,Vallecano_Valladolid_2012,Vallecano,13,12,25,28
+2013-02-24,Betis_Malaga_2012,Malaga,13,12,25,28
+2013-02-24,Ath Madrid_Espanol_2012,Ath Madrid,13,12,25,28
+2013-02-24,Celta_Granada_2012,Celta,12,13,25,28
+2013-02-24,Vallecano_Valladolid_2012,Valladolid,13,12,25,28
+2013-02-24,Ath Madrid_Espanol_2012,Espanol,13,12,25,28
+2013-02-24,Betis_Malaga_2012,Betis,13,12,25,28
+2013-02-24,Celta_Granada_2012,Granada,12,13,25,28
+2013-02-25,Levante_Osasuna_2012,Osasuna,13,12,25,28
+2013-02-25,Levante_Osasuna_2012,Levante,12,13,25,28
+2013-03-01,Getafe_Zaragoza_2012,Zaragoza,12,14,26,29
+2013-03-01,Getafe_Zaragoza_2012,Getafe,13,13,26,29
+2013-03-02,Real Madrid_Barcelona_2012,Real Madrid,13,13,26,29
+2013-03-02,La Coruna_Vallecano_2012,Vallecano,13,13,26,29
+2013-03-02,Osasuna_Ath Bilbao_2012,Ath Bilbao,13,13,26,29
+2013-03-02,Valencia_Levante_2012,Levante,12,14,26,29
+2013-03-02,Valencia_Levante_2012,Valencia,14,12,26,29
+2013-03-02,Osasuna_Ath Bilbao_2012,Osasuna,14,12,26,29
+2013-03-02,Real Madrid_Barcelona_2012,Barcelona,12,14,26,29
+2013-03-02,La Coruna_Vallecano_2012,La Coruna,13,13,26,29
+2013-03-03,Sociedad_Betis_2012,Sociedad,14,12,26,29
+2013-03-03,Granada_Mallorca_2012,Mallorca,12,14,26,29
+2013-03-03,Sociedad_Betis_2012,Betis,13,13,26,29
+2013-03-03,Malaga_Ath Madrid_2012,Ath Madrid,13,13,26,29
+2013-03-03,Malaga_Ath Madrid_2012,Malaga,14,12,26,29
+2013-03-03,Espanol_Valladolid_2012,Valladolid,13,13,26,29
+2013-03-03,Granada_Mallorca_2012,Granada,13,13,26,29
+2013-03-03,Espanol_Valladolid_2012,Espanol,14,12,26,29
+2013-03-04,Sevilla_Celta_2012,Celta,12,14,26,29
+2013-03-04,Sevilla_Celta_2012,Sevilla,13,13,26,29
+2013-03-08,Betis_Osasuna_2012,Osasuna,14,13,27,30
+2013-03-08,Betis_Osasuna_2012,Betis,14,13,27,30
+2013-03-09,Vallecano_Espanol_2012,Vallecano,14,13,27,30
+2013-03-09,Vallecano_Espanol_2012,Espanol,14,13,27,30
+2013-03-09,Valladolid_Malaga_2012,Valladolid,14,13,27,30
+2013-03-09,Valladolid_Malaga_2012,Malaga,14,13,27,30
+2013-03-09,Barcelona_La Coruna_2012,La Coruna,13,14,27,30
+2013-03-09,Mallorca_Sevilla_2012,Sevilla,13,14,27,30
+2013-03-09,Barcelona_La Coruna_2012,Barcelona,13,14,27,30
+2013-03-09,Mallorca_Sevilla_2012,Mallorca,13,14,27,30
+2013-03-10,Ath Bilbao_Valencia_2012,Ath Bilbao,14,13,27,30
+2013-03-10,Levante_Getafe_2012,Levante,13,14,27,30
+2013-03-10,Levante_Getafe_2012,Getafe,13,14,27,30
+2013-03-10,Celta_Real Madrid_2012,Real Madrid,13,14,27,30
+2013-03-10,Ath Madrid_Sociedad_2012,Ath Madrid,14,13,27,30
+2013-03-10,Celta_Real Madrid_2012,Celta,13,14,27,30
+2013-03-10,Ath Madrid_Sociedad_2012,Sociedad,14,13,27,30
+2013-03-10,Ath Bilbao_Valencia_2012,Valencia,14,13,27,30
+2013-03-11,Zaragoza_Granada_2012,Granada,13,14,27,30
+2013-03-11,Zaragoza_Granada_2012,Zaragoza,13,14,27,30
+2013-03-15,La Coruna_Celta_2012,Celta,13,15,28,31
+2013-03-15,La Coruna_Celta_2012,La Coruna,14,14,28,31
+2013-03-16,Getafe_Ath Bilbao_2012,Ath Bilbao,14,14,28,31
+2013-03-16,Getafe_Ath Bilbao_2012,Getafe,14,14,28,31
+2013-03-16,Valencia_Betis_2012,Betis,14,14,28,31
+2013-03-16,Real Madrid_Mallorca_2012,Real Madrid,14,14,28,31
+2013-03-16,Valencia_Betis_2012,Valencia,15,13,28,31
+2013-03-16,Sociedad_Valladolid_2012,Sociedad,15,13,28,31
+2013-03-16,Sociedad_Valladolid_2012,Valladolid,14,14,28,31
+2013-03-16,Real Madrid_Mallorca_2012,Mallorca,13,15,28,31
+2013-03-17,Sevilla_Zaragoza_2012,Zaragoza,13,15,28,31
+2013-03-17,Barcelona_Vallecano_2012,Vallecano,14,14,28,31
+2013-03-17,Osasuna_Ath Madrid_2012,Osasuna,15,13,28,31
+2013-03-17,Malaga_Espanol_2012,Espanol,14,14,28,31
+2013-03-17,Malaga_Espanol_2012,Malaga,15,13,28,31
+2013-03-17,Granada_Levante_2012,Levante,13,15,28,31
+2013-03-17,Osasuna_Ath Madrid_2012,Ath Madrid,14,14,28,31
+2013-03-17,Sevilla_Zaragoza_2012,Sevilla,14,14,28,31
+2013-03-17,Barcelona_Vallecano_2012,Barcelona,14,14,28,31
+2013-03-17,Granada_Levante_2012,Granada,14,14,28,31
+2013-03-30,Celta_Barcelona_2012,Celta,14,15,29,33
+2013-03-30,Levante_Sevilla_2012,Levante,14,15,29,33
+2013-03-30,Zaragoza_Real Madrid_2012,Real Madrid,14,15,29,33
+2013-03-30,Vallecano_Malaga_2012,Malaga,15,14,29,33
+2013-03-30,Celta_Barcelona_2012,Barcelona,14,15,29,33
+2013-03-30,Vallecano_Malaga_2012,Vallecano,15,14,29,33
+2013-03-30,Zaragoza_Real Madrid_2012,Zaragoza,14,15,29,33
+2013-03-30,Levante_Sevilla_2012,Sevilla,14,15,29,33
+2013-03-31,Espanol_Sociedad_2012,Espanol,15,14,29,33
+2013-03-31,Mallorca_La Coruna_2012,La Coruna,14,15,29,33
+2013-03-31,Ath Madrid_Valencia_2012,Valencia,15,14,29,33
+2013-03-31,Mallorca_La Coruna_2012,Mallorca,14,15,29,33
+2013-03-31,Espanol_Sociedad_2012,Sociedad,15,14,29,33
+2013-03-31,Valladolid_Osasuna_2012,Osasuna,15,14,29,33
+2013-03-31,Ath Madrid_Valencia_2012,Ath Madrid,15,14,29,33
+2013-03-31,Valladolid_Osasuna_2012,Valladolid,15,14,29,33
+2013-04-01,Ath Bilbao_Granada_2012,Ath Bilbao,15,14,29,33
+2013-04-01,Betis_Getafe_2012,Betis,15,14,29,33
+2013-04-01,Betis_Getafe_2012,Getafe,14,15,29,33
+2013-04-01,Ath Bilbao_Granada_2012,Granada,14,15,29,33
+2013-04-05,Granada_Betis_2012,Betis,15,15,30,34
+2013-04-05,Granada_Betis_2012,Granada,15,15,30,34
+2013-04-06,La Coruna_Zaragoza_2012,Zaragoza,14,16,30,34
+2013-04-06,Barcelona_Mallorca_2012,Barcelona,15,15,30,34
+2013-04-06,La Coruna_Zaragoza_2012,La Coruna,15,15,30,34
+2013-04-06,Real Madrid_Levante_2012,Real Madrid,15,15,30,34
+2013-04-06,Sociedad_Malaga_2012,Sociedad,16,14,30,34
+2013-04-06,Barcelona_Mallorca_2012,Mallorca,14,16,30,34
+2013-04-06,Sociedad_Malaga_2012,Malaga,15,15,30,34
+2013-04-06,Real Madrid_Levante_2012,Levante,14,16,30,34
+2013-04-07,Osasuna_Espanol_2012,Osasuna,16,14,30,34
+2013-04-07,Osasuna_Espanol_2012,Espanol,15,15,30,34
+2013-04-07,Celta_Vallecano_2012,Celta,15,15,30,34
+2013-04-07,Getafe_Ath Madrid_2012,Ath Madrid,15,15,30,34
+2013-04-07,Getafe_Ath Madrid_2012,Getafe,15,15,30,34
+2013-04-07,Valencia_Valladolid_2012,Valencia,16,14,30,34
+2013-04-07,Celta_Vallecano_2012,Vallecano,15,15,30,34
+2013-04-07,Valencia_Valladolid_2012,Valladolid,15,15,30,34
+2013-04-08,Sevilla_Ath Bilbao_2012,Ath Bilbao,15,15,30,34
+2013-04-08,Sevilla_Ath Bilbao_2012,Sevilla,15,15,30,34
+2013-04-12,Betis_Sevilla_2012,Betis,16,15,31,35
+2013-04-12,Betis_Sevilla_2012,Sevilla,15,16,31,35
+2013-04-13,Espanol_Valencia_2012,Valencia,16,15,31,35
+2013-04-13,Levante_La Coruna_2012,Levante,15,16,31,35
+2013-04-13,Malaga_Osasuna_2012,Malaga,16,15,31,35
+2013-04-13,Levante_La Coruna_2012,La Coruna,15,16,31,35
+2013-04-13,Espanol_Valencia_2012,Espanol,16,15,31,35
+2013-04-13,Valladolid_Getafe_2012,Valladolid,16,15,31,35
+2013-04-13,Valladolid_Getafe_2012,Getafe,15,16,31,35
+2013-04-13,Malaga_Osasuna_2012,Osasuna,16,15,31,35
+2013-04-14,Vallecano_Sociedad_2012,Vallecano,16,15,31,35
+2013-04-14,Ath Bilbao_Real Madrid_2012,Ath Bilbao,16,15,31,35
+2013-04-14,Ath Bilbao_Real Madrid_2012,Real Madrid,15,16,31,35
+2013-04-14,Vallecano_Sociedad_2012,Sociedad,16,15,31,35
+2013-04-14,Zaragoza_Barcelona_2012,Barcelona,15,16,31,35
+2013-04-14,Zaragoza_Barcelona_2012,Zaragoza,15,16,31,35
+2013-04-14,Ath Madrid_Granada_2012,Granada,15,16,31,35
+2013-04-14,Ath Madrid_Granada_2012,Ath Madrid,16,15,31,35
+2013-04-15,Mallorca_Celta_2012,Mallorca,15,16,31,35
+2013-04-15,Mallorca_Celta_2012,Celta,15,16,31,35
+2013-04-19,Mallorca_Vallecano_2012,Vallecano,16,16,32,36
+2013-04-19,Mallorca_Vallecano_2012,Mallorca,16,16,32,36
+2013-04-20,Barcelona_Levante_2012,Barcelona,16,16,32,36
+2013-04-20,Granada_Valladolid_2012,Granada,16,16,32,36
+2013-04-20,Real Madrid_Betis_2012,Real Madrid,16,16,32,36
+2013-04-20,Real Madrid_Betis_2012,Betis,16,16,32,36
+2013-04-20,Valencia_Malaga_2012,Malaga,16,16,32,36
+2013-04-20,Barcelona_Levante_2012,Levante,15,17,32,36
+2013-04-20,Valencia_Malaga_2012,Valencia,17,15,32,36
+2013-04-20,Granada_Valladolid_2012,Valladolid,16,16,32,36
+2013-04-21,Osasuna_Sociedad_2012,Osasuna,17,15,32,36
+2013-04-21,La Coruna_Ath Bilbao_2012,Ath Bilbao,16,16,32,36
+2013-04-21,Getafe_Espanol_2012,Getafe,16,16,32,36
+2013-04-21,Getafe_Espanol_2012,Espanol,16,16,32,36
+2013-04-21,Osasuna_Sociedad_2012,Sociedad,16,16,32,36
+2013-04-21,Sevilla_Ath Madrid_2012,Sevilla,16,16,32,36
+2013-04-21,La Coruna_Ath Bilbao_2012,La Coruna,16,16,32,36
+2013-04-21,Sevilla_Ath Madrid_2012,Ath Madrid,16,16,32,36
+2013-04-22,Celta_Zaragoza_2012,Zaragoza,15,17,32,36
+2013-04-22,Celta_Zaragoza_2012,Celta,16,16,32,36
+2013-04-26,Vallecano_Osasuna_2012,Vallecano,17,16,33,37
+2013-04-26,Vallecano_Osasuna_2012,Osasuna,17,16,33,37
+2013-04-27,Ath Bilbao_Barcelona_2012,Ath Bilbao,17,16,33,37
+2013-04-27,Ath Bilbao_Barcelona_2012,Barcelona,16,17,33,37
+2013-04-27,Zaragoza_Mallorca_2012,Mallorca,16,17,33,37
+2013-04-27,Ath Madrid_Real Madrid_2012,Ath Madrid,17,16,33,37
+2013-04-27,Levante_Celta_2012,Levante,16,17,33,37
+2013-04-27,Levante_Celta_2012,Celta,16,17,33,37
+2013-04-27,Zaragoza_Mallorca_2012,Zaragoza,16,17,33,37
+2013-04-27,Ath Madrid_Real Madrid_2012,Real Madrid,16,17,33,37
+2013-04-28,Sociedad_Valencia_2012,Valencia,17,16,33,37
+2013-04-28,Espanol_Granada_2012,Granada,16,17,33,37
+2013-04-28,Malaga_Getafe_2012,Malaga,17,16,33,37
+2013-04-28,Malaga_Getafe_2012,Getafe,16,17,33,37
+2013-04-28,Espanol_Granada_2012,Espanol,17,16,33,37
+2013-04-28,Sociedad_Valencia_2012,Sociedad,17,16,33,37
+2013-04-28,Valladolid_Sevilla_2012,Valladolid,17,16,33,37
+2013-04-28,Valladolid_Sevilla_2012,Sevilla,16,17,33,37
+2013-04-29,Betis_La Coruna_2012,Betis,17,16,33,37
+2013-04-29,Betis_La Coruna_2012,La Coruna,16,17,33,37
+2013-05-03,Celta_Ath Bilbao_2012,Ath Bilbao,17,17,34,38
+2013-05-03,Celta_Ath Bilbao_2012,Celta,17,17,34,38
+2013-05-04,Granada_Malaga_2012,Malaga,17,17,34,38
+2013-05-04,Real Madrid_Valladolid_2012,Real Madrid,17,17,34,38
+2013-05-04,Granada_Malaga_2012,Granada,17,17,34,38
+2013-05-04,Valencia_Osasuna_2012,Osasuna,17,17,34,38
+2013-05-04,Real Madrid_Valladolid_2012,Valladolid,17,17,34,38
+2013-05-04,La Coruna_Ath Madrid_2012,La Coruna,17,17,34,38
+2013-05-04,La Coruna_Ath Madrid_2012,Ath Madrid,17,17,34,38
+2013-05-04,Valencia_Osasuna_2012,Valencia,18,16,34,38
+2013-05-05,Mallorca_Levante_2012,Mallorca,17,17,34,38
+2013-05-05,Sevilla_Espanol_2012,Espanol,17,17,34,38
+2013-05-05,Mallorca_Levante_2012,Levante,16,18,34,38
+2013-05-05,Sevilla_Espanol_2012,Sevilla,17,17,34,38
+2013-05-05,Zaragoza_Vallecano_2012,Zaragoza,17,17,34,38
+2013-05-05,Barcelona_Betis_2012,Betis,17,17,34,38
+2013-05-05,Barcelona_Betis_2012,Barcelona,17,17,34,38
+2013-05-05,Zaragoza_Vallecano_2012,Vallecano,17,17,34,38
+2013-05-06,Getafe_Sociedad_2012,Getafe,17,17,34,38
+2013-05-06,Getafe_Sociedad_2012,Sociedad,17,17,34,38
+2013-05-08,Real Madrid_Malaga_2012,Real Madrid,18,17,35,39
+2013-05-08,Celta_Ath Madrid_2012,Ath Madrid,17,18,35,39
+2013-05-08,Real Madrid_Malaga_2012,Malaga,17,18,35,39
+2013-05-08,Celta_Ath Madrid_2012,Celta,18,17,35,39
+2013-05-10,Levante_Zaragoza_2012,Zaragoza,17,18,35,39
+2013-05-10,Levante_Zaragoza_2012,Levante,17,18,35,39
+2013-05-11,Osasuna_Getafe_2012,Osasuna,18,17,35,39
+2013-05-11,Valladolid_La Coruna_2012,La Coruna,17,18,35,39
+2013-05-11,Osasuna_Getafe_2012,Getafe,17,18,35,39
+2013-05-11,Ath Bilbao_Mallorca_2012,Mallorca,17,18,35,39
+2013-05-11,Valladolid_La Coruna_2012,Valladolid,18,17,35,39
+2013-05-11,Espanol_Real Madrid_2012,Real Madrid,18,18,36,39
+2013-05-11,Ath Bilbao_Mallorca_2012,Ath Bilbao,18,17,35,39
+2013-05-11,Espanol_Real Madrid_2012,Espanol,18,17,35,39
+2013-05-12,Vallecano_Valencia_2012,Vallecano,18,17,35,39
+2013-05-12,Malaga_Sevilla_2012,Malaga,18,18,36,39
+2013-05-12,Ath Madrid_Barcelona_2012,Barcelona,17,18,35,39
+2013-05-12,Ath Madrid_Barcelona_2012,Ath Madrid,18,18,36,39
+2013-05-12,Betis_Celta_2012,Celta,18,18,36,39
+2013-05-12,Malaga_Sevilla_2012,Sevilla,17,18,35,39
+2013-05-12,Vallecano_Valencia_2012,Valencia,18,17,35,39
+2013-05-12,Betis_Celta_2012,Betis,18,17,35,39
+2013-05-13,Sociedad_Granada_2012,Granada,17,18,35,39
+2013-05-13,Sociedad_Granada_2012,Sociedad,18,17,35,39
+2013-05-18,Granada_Osasuna_2012,Osasuna,18,18,36,40
+2013-05-18,Sevilla_Sociedad_2012,Sociedad,18,18,36,40
+2013-05-18,Granada_Osasuna_2012,Granada,18,18,36,40
+2013-05-18,Getafe_Valencia_2012,Valencia,18,18,36,40
+2013-05-18,Sevilla_Sociedad_2012,Sevilla,18,18,36,40
+2013-05-18,Getafe_Valencia_2012,Getafe,18,18,36,40
+2013-05-19,Zaragoza_Ath Bilbao_2012,Zaragoza,18,18,36,40
+2013-05-19,Levante_Vallecano_2012,Vallecano,18,18,36,40
+2013-05-19,Zaragoza_Ath Bilbao_2012,Ath Bilbao,18,18,36,40
+2013-05-19,Barcelona_Valladolid_2012,Barcelona,18,18,36,40
+2013-05-19,Levante_Vallecano_2012,Levante,18,18,36,40
+2013-05-19,La Coruna_Espanol_2012,Espanol,18,18,36,40
+2013-05-19,La Coruna_Espanol_2012,La Coruna,18,18,36,40
+2013-05-19,Barcelona_Valladolid_2012,Valladolid,18,18,36,40
+2013-05-20,Mallorca_Betis_2012,Betis,18,18,36,40
+2013-05-20,Mallorca_Betis_2012,Mallorca,18,18,36,40
+2013-05-26,Valladolid_Celta_2012,Valladolid,19,18,37,41
+2013-05-26,Ath Bilbao_Levante_2012,Levante,18,19,37,41
+2013-05-26,Espanol_Barcelona_2012,Espanol,19,18,37,41
+2013-05-26,Espanol_Barcelona_2012,Barcelona,18,19,37,41
+2013-05-26,Valencia_Granada_2012,Granada,18,19,37,41
+2013-05-26,Malaga_La Coruna_2012,Malaga,19,18,37,41
+2013-05-26,Sociedad_Real Madrid_2012,Sociedad,19,18,37,41
+2013-05-26,Betis_Zaragoza_2012,Zaragoza,18,19,37,41
+2013-05-26,Ath Bilbao_Levante_2012,Ath Bilbao,19,18,37,41
+2013-05-26,Valladolid_Celta_2012,Celta,18,19,37,41
+2013-05-26,Malaga_La Coruna_2012,La Coruna,18,19,37,41
+2013-05-26,Sociedad_Real Madrid_2012,Real Madrid,18,19,37,41
+2013-05-26,Ath Madrid_Mallorca_2012,Ath Madrid,19,18,37,41
+2013-05-26,Osasuna_Sevilla_2012,Osasuna,19,18,37,41
+2013-05-26,Ath Madrid_Mallorca_2012,Mallorca,18,19,37,41
+2013-05-26,Betis_Zaragoza_2012,Betis,19,18,37,41
+2013-05-26,Valencia_Granada_2012,Valencia,19,18,37,41
+2013-05-26,Getafe_Vallecano_2012,Vallecano,18,19,37,41
+2013-05-26,Osasuna_Sevilla_2012,Sevilla,18,19,37,41
+2013-05-26,Getafe_Vallecano_2012,Getafe,19,18,37,41
+2013-06-01,Sevilla_Valencia_2012,Valencia,19,19,38,42
+2013-06-01,Levante_Betis_2012,Betis,19,19,38,42
+2013-06-01,La Coruna_Sociedad_2012,La Coruna,19,19,38,42
+2013-06-01,Vallecano_Ath Bilbao_2012,Ath Bilbao,19,19,38,42
+2013-06-01,Celta_Espanol_2012,Espanol,19,19,38,42
+2013-06-01,Real Madrid_Osasuna_2012,Osasuna,19,19,38,42
+2013-06-01,Barcelona_Malaga_2012,Malaga,19,19,38,42
+2013-06-01,Levante_Betis_2012,Levante,19,19,38,42
+2013-06-01,Mallorca_Valladolid_2012,Mallorca,19,19,38,42
+2013-06-01,Granada_Getafe_2012,Getafe,19,19,38,42
+2013-06-01,Mallorca_Valladolid_2012,Valladolid,19,19,38,42
+2013-06-01,Celta_Espanol_2012,Celta,19,19,38,42
+2013-06-01,Granada_Getafe_2012,Granada,19,19,38,42
+2013-06-01,Sevilla_Valencia_2012,Sevilla,19,19,38,42
+2013-06-01,La Coruna_Sociedad_2012,Sociedad,19,19,38,42
+2013-06-01,Zaragoza_Ath Madrid_2012,Ath Madrid,19,19,38,42
+2013-06-01,Real Madrid_Osasuna_2012,Real Madrid,19,19,38,42
+2013-06-01,Barcelona_Malaga_2012,Barcelona,19,19,38,42
+2013-06-01,Vallecano_Ath Bilbao_2012,Vallecano,19,19,38,42
+2013-06-01,Zaragoza_Ath Madrid_2012,Zaragoza,19,19,38,42

@@ -1,0 +1,421 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2020-08-01,Aberdeen_Rangers_2020,Aberdeen,1,1,1,1
+2020-08-01,Hibernian_Kilmarnock_2020,Kilmarnock,1,1,1,1
+2020-08-01,Aberdeen_Rangers_2020,Rangers,1,1,1,1
+2020-08-01,Dundee United_St Johnstone_2020,Dundee United,1,1,1,1
+2020-08-01,St Mirren_Livingston_2020,St Mirren,1,1,1,1
+2020-08-01,Hibernian_Kilmarnock_2020,Hibernian,1,1,1,1
+2020-08-01,St Mirren_Livingston_2020,Livingston,1,1,1,1
+2020-08-01,Dundee United_St Johnstone_2020,St Johnstone,1,1,1,1
+2020-08-02,Celtic_Hamilton_2020,Hamilton,1,1,1,1
+2020-08-02,Celtic_Hamilton_2020,Celtic,1,1,1,1
+2020-08-03,Ross County_Motherwell_2020,Ross County,1,1,1,1
+2020-08-03,Ross County_Motherwell_2020,Motherwell,1,1,1,1
+2020-08-08,Livingston_Hibernian_2020,Livingston,1,1,2,2
+2020-08-08,Hamilton_Ross County_2020,Hamilton,1,1,2,2
+2020-08-08,Livingston_Hibernian_2020,Hibernian,1,1,2,2
+2020-08-08,Motherwell_Dundee United_2020,Dundee United,1,1,2,2
+2020-08-08,Motherwell_Dundee United_2020,Motherwell,1,1,2,2
+2020-08-08,Hamilton_Ross County_2020,Ross County,1,1,2,2
+2020-08-09,Rangers_St Mirren_2020,St Mirren,1,1,2,2
+2020-08-09,Kilmarnock_Celtic_2020,Kilmarnock,1,1,2,2
+2020-08-09,Kilmarnock_Celtic_2020,Celtic,1,1,2,2
+2020-08-09,Rangers_St Mirren_2020,Rangers,1,1,2,2
+2020-08-11,Dundee United_Hibernian_2020,Hibernian,1,2,3,3
+2020-08-11,Dundee United_Hibernian_2020,Dundee United,2,1,3,3
+2020-08-12,Ross County_Kilmarnock_2020,Kilmarnock,1,2,3,3
+2020-08-12,Ross County_Kilmarnock_2020,Ross County,2,1,3,3
+2020-08-12,Motherwell_Livingston_2020,Motherwell,2,1,3,3
+2020-08-12,Rangers_St Johnstone_2020,Rangers,2,1,3,3
+2020-08-12,Motherwell_Livingston_2020,Livingston,1,2,3,3
+2020-08-12,Rangers_St Johnstone_2020,St Johnstone,1,2,2,3
+2020-08-15,Kilmarnock_St Johnstone_2020,St Johnstone,1,3,3,3
+2020-08-15,Hibernian_Motherwell_2020,Motherwell,2,2,4,3
+2020-08-15,Ross County_Dundee United_2020,Ross County,3,1,4,3
+2020-08-15,Hamilton_St Mirren_2020,St Mirren,1,2,3,3
+2020-08-15,Ross County_Dundee United_2020,Dundee United,2,2,4,3
+2020-08-15,Kilmarnock_St Johnstone_2020,Kilmarnock,2,2,4,3
+2020-08-15,Hamilton_St Mirren_2020,Hamilton,2,1,3,3
+2020-08-15,Hibernian_Motherwell_2020,Hibernian,2,2,4,3
+2020-08-16,Livingston_Rangers_2020,Rangers,2,2,4,3
+2020-08-16,Livingston_Rangers_2020,Livingston,2,2,4,3
+2020-08-20,St Johnstone_Aberdeen_2020,Aberdeen,1,1,2,4
+2020-08-20,St Johnstone_Aberdeen_2020,St Johnstone,1,3,4,4
+2020-08-22,St Mirren_Ross County_2020,Ross County,3,2,5,4
+2020-08-22,Rangers_Kilmarnock_2020,Kilmarnock,2,3,5,4
+2020-08-22,St Mirren_Ross County_2020,St Mirren,2,2,4,4
+2020-08-22,Motherwell_Hamilton_2020,Hamilton,2,2,4,4
+2020-08-22,Dundee United_Celtic_2020,Dundee United,3,2,5,4
+2020-08-22,Motherwell_Hamilton_2020,Motherwell,3,2,5,4
+2020-08-22,Rangers_Kilmarnock_2020,Rangers,3,2,5,4
+2020-08-22,Dundee United_Celtic_2020,Celtic,1,2,3,4
+2020-08-23,Aberdeen_Livingston_2020,Aberdeen,2,1,3,4
+2020-08-23,St Johnstone_Hibernian_2020,St Johnstone,2,3,5,4
+2020-08-23,St Johnstone_Hibernian_2020,Hibernian,2,3,5,4
+2020-08-23,Aberdeen_Livingston_2020,Livingston,2,3,5,4
+2020-08-29,Hamilton_Rangers_2020,Rangers,3,3,6,5
+2020-08-29,Hamilton_Rangers_2020,Hamilton,3,2,5,5
+2020-08-29,Kilmarnock_Dundee United_2020,Dundee United,3,3,6,5
+2020-08-29,Livingston_Ross County_2020,Livingston,3,3,6,5
+2020-08-29,Kilmarnock_Dundee United_2020,Kilmarnock,3,3,6,5
+2020-08-29,St Johnstone_St Mirren_2020,St Mirren,2,3,5,5
+2020-08-29,St Johnstone_St Mirren_2020,St Johnstone,3,3,6,5
+2020-08-29,Livingston_Ross County_2020,Ross County,3,3,6,5
+2020-08-30,Hibernian_Aberdeen_2020,Hibernian,3,3,6,5
+2020-08-30,Celtic_Motherwell_2020,Motherwell,3,3,6,5
+2020-08-30,Celtic_Motherwell_2020,Celtic,2,2,4,5
+2020-08-30,Hibernian_Aberdeen_2020,Aberdeen,2,2,4,5
+2020-09-12,Livingston_Hamilton_2020,Livingston,4,3,7,7
+2020-09-12,St Mirren_Hibernian_2020,St Mirren,3,3,6,7
+2020-09-12,Rangers_Dundee United_2020,Rangers,4,3,7,7
+2020-09-12,Livingston_Hamilton_2020,Hamilton,3,3,6,7
+2020-09-12,Motherwell_St Johnstone_2020,St Johnstone,3,4,7,7
+2020-09-12,Ross County_Celtic_2020,Ross County,4,3,7,7
+2020-09-12,Motherwell_St Johnstone_2020,Motherwell,4,3,7,7
+2020-09-12,Ross County_Celtic_2020,Celtic,2,3,5,7
+2020-09-12,Aberdeen_Kilmarnock_2020,Aberdeen,3,2,5,7
+2020-09-12,Rangers_Dundee United_2020,Dundee United,3,4,7,7
+2020-09-12,St Mirren_Hibernian_2020,Hibernian,3,4,7,7
+2020-09-12,Aberdeen_Kilmarnock_2020,Kilmarnock,3,4,7,7
+2020-09-16,St Mirren_Celtic_2020,Celtic,2,4,6,8
+2020-09-16,St Mirren_Celtic_2020,St Mirren,4,3,7,8
+2020-09-19,Dundee United_St Mirren_2020,St Mirren,4,4,8,8
+2020-09-19,Dundee United_St Mirren_2020,Dundee United,4,4,8,8
+2020-09-19,St Johnstone_Ross County_2020,Ross County,4,4,8,8
+2020-09-19,St Johnstone_Ross County_2020,St Johnstone,4,4,8,8
+2020-09-19,Kilmarnock_Hamilton_2020,Hamilton,3,4,7,8
+2020-09-19,Celtic_Livingston_2020,Celtic,3,4,7,8
+2020-09-19,Celtic_Livingston_2020,Livingston,4,4,8,8
+2020-09-19,Kilmarnock_Hamilton_2020,Kilmarnock,4,4,8,8
+2020-09-20,Hibernian_Rangers_2020,Hibernian,4,4,8,8
+2020-09-20,Aberdeen_Motherwell_2020,Aberdeen,4,2,6,8
+2020-09-20,Aberdeen_Motherwell_2020,Motherwell,4,4,8,8
+2020-09-20,Hibernian_Rangers_2020,Rangers,4,4,8,8
+2020-09-26,St Mirren_Kilmarnock_2020,St Mirren,5,4,9,9
+2020-09-26,St Mirren_Kilmarnock_2020,Kilmarnock,4,5,9,9
+2020-09-26,Livingston_St Johnstone_2020,St Johnstone,4,5,9,9
+2020-09-26,Livingston_St Johnstone_2020,Livingston,5,4,9,9
+2020-09-26,Hamilton_Dundee United_2020,Hamilton,4,4,8,9
+2020-09-26,Hamilton_Dundee United_2020,Dundee United,4,5,9,9
+2020-09-27,Celtic_Hibernian_2020,Celtic,4,4,8,9
+2020-09-27,Motherwell_Rangers_2020,Motherwell,5,4,9,9
+2020-09-27,Ross County_Aberdeen_2020,Aberdeen,4,3,7,9
+2020-09-27,Motherwell_Rangers_2020,Rangers,4,5,9,9
+2020-09-27,Ross County_Aberdeen_2020,Ross County,5,4,9,9
+2020-09-27,Celtic_Hibernian_2020,Hibernian,4,5,9,9
+2020-10-02,Aberdeen_St Mirren_2020,St Mirren,5,5,10,10
+2020-10-02,Hibernian_Hamilton_2020,Hamilton,4,5,9,10
+2020-10-02,Dundee United_Livingston_2020,Dundee United,5,5,10,10
+2020-10-02,Dundee United_Livingston_2020,Livingston,5,5,10,10
+2020-10-02,Aberdeen_St Mirren_2020,Aberdeen,5,3,8,10
+2020-10-02,Hibernian_Hamilton_2020,Hibernian,5,5,10,10
+2020-10-04,Rangers_Ross County_2020,Rangers,5,5,10,10
+2020-10-04,St Johnstone_Celtic_2020,St Johnstone,5,5,10,10
+2020-10-04,St Johnstone_Celtic_2020,Celtic,4,5,9,10
+2020-10-04,Rangers_Ross County_2020,Ross County,5,5,10,10
+2020-10-17,Hamilton_St Johnstone_2020,Hamilton,5,5,10,12
+2020-10-17,Livingston_Kilmarnock_2020,Livingston,6,5,11,12
+2020-10-17,Celtic_Rangers_2020,Celtic,5,5,10,12
+2020-10-17,Dundee United_Aberdeen_2020,Dundee United,6,5,11,12
+2020-10-17,Hamilton_St Johnstone_2020,St Johnstone,5,6,11,12
+2020-10-17,Celtic_Rangers_2020,Rangers,5,6,11,12
+2020-10-17,Ross County_Hibernian_2020,Hibernian,5,6,11,12
+2020-10-17,Livingston_Kilmarnock_2020,Kilmarnock,4,6,10,12
+2020-10-17,Dundee United_Aberdeen_2020,Aberdeen,5,4,9,12
+2020-10-17,Ross County_Hibernian_2020,Ross County,6,5,11,12
+2020-10-20,Aberdeen_Hamilton_2020,Aberdeen,6,4,10,13
+2020-10-20,Aberdeen_Hamilton_2020,Hamilton,5,6,11,13
+2020-10-24,Motherwell_Ross County_2020,Motherwell,6,4,10,13
+2020-10-24,Motherwell_Ross County_2020,Ross County,6,6,12,13
+2020-10-24,Kilmarnock_Hibernian_2020,Kilmarnock,5,6,11,13
+2020-10-24,St Johnstone_Dundee United_2020,Dundee United,6,6,12,13
+2020-10-24,Kilmarnock_Hibernian_2020,Hibernian,5,7,12,13
+2020-10-24,St Johnstone_Dundee United_2020,St Johnstone,6,6,12,13
+2020-10-25,Aberdeen_Celtic_2020,Celtic,5,6,11,13
+2020-10-25,Aberdeen_Celtic_2020,Aberdeen,7,4,11,13
+2020-10-25,Rangers_Livingston_2020,Livingston,6,6,12,13
+2020-10-25,Rangers_Livingston_2020,Rangers,6,6,12,13
+2020-10-31,Livingston_Motherwell_2020,Livingston,7,6,13,14
+2020-10-31,Dundee United_Ross County_2020,Dundee United,7,6,13,14
+2020-10-31,Livingston_Motherwell_2020,Motherwell,6,5,11,14
+2020-10-31,Dundee United_Ross County_2020,Ross County,6,7,13,14
+2020-11-01,Kilmarnock_Rangers_2020,Kilmarnock,6,6,12,14
+2020-11-01,Kilmarnock_Rangers_2020,Rangers,6,7,13,14
+2020-11-06,St Johnstone_Kilmarnock_2020,St Johnstone,7,6,13,15
+2020-11-06,St Johnstone_Kilmarnock_2020,Kilmarnock,6,7,13,15
+2020-11-06,Aberdeen_Hibernian_2020,Hibernian,5,8,13,15
+2020-11-06,Aberdeen_Hibernian_2020,Aberdeen,8,4,12,15
+2020-11-06,St Mirren_Dundee United_2020,St Mirren,6,5,11,15
+2020-11-06,St Mirren_Dundee United_2020,Dundee United,7,7,14,15
+2020-11-06,Ross County_Livingston_2020,Livingston,7,7,14,15
+2020-11-06,Ross County_Livingston_2020,Ross County,7,7,14,15
+2020-11-08,Motherwell_Celtic_2020,Motherwell,7,5,12,15
+2020-11-08,Motherwell_Celtic_2020,Celtic,5,7,12,15
+2020-11-08,Rangers_Hamilton_2020,Hamilton,5,7,12,15
+2020-11-08,Rangers_Hamilton_2020,Rangers,7,7,14,15
+2020-11-21,Dundee United_Hamilton_2020,Hamilton,5,8,13,17
+2020-11-21,Hibernian_Celtic_2020,Hibernian,6,8,14,17
+2020-11-21,St Johnstone_Motherwell_2020,St Johnstone,8,6,14,17
+2020-11-21,Dundee United_Hamilton_2020,Dundee United,8,7,15,17
+2020-11-21,Hibernian_Celtic_2020,Celtic,5,8,13,17
+2020-11-21,Livingston_St Mirren_2020,Livingston,8,7,15,17
+2020-11-21,Kilmarnock_Ross County_2020,Kilmarnock,7,7,14,17
+2020-11-21,Kilmarnock_Ross County_2020,Ross County,7,8,15,17
+2020-11-21,St Johnstone_Motherwell_2020,Motherwell,7,6,13,17
+2020-11-21,Livingston_St Mirren_2020,St Mirren,6,6,12,17
+2020-11-22,Rangers_Aberdeen_2020,Rangers,8,7,15,17
+2020-11-22,Rangers_Aberdeen_2020,Aberdeen,8,5,13,17
+2020-11-24,Hibernian_St Johnstone_2020,Hibernian,7,8,15,18
+2020-11-24,Hibernian_St Johnstone_2020,St Johnstone,8,7,15,18
+2020-11-25,Hamilton_Aberdeen_2020,Hamilton,6,8,14,18
+2020-11-25,Hamilton_Aberdeen_2020,Aberdeen,8,6,14,18
+2020-12-05,Livingston_Dundee United_2020,Dundee United,8,8,16,19
+2020-12-05,Hamilton_Kilmarnock_2020,Hamilton,7,8,15,19
+2020-12-05,Hamilton_Kilmarnock_2020,Kilmarnock,7,8,15,19
+2020-12-05,Motherwell_Hibernian_2020,Hibernian,7,9,16,19
+2020-12-05,St Mirren_Aberdeen_2020,Aberdeen,8,7,15,19
+2020-12-05,Livingston_Dundee United_2020,Livingston,9,7,16,19
+2020-12-05,Motherwell_Hibernian_2020,Motherwell,8,6,14,19
+2020-12-05,St Mirren_Aberdeen_2020,St Mirren,7,6,13,19
+2020-12-06,Celtic_St Johnstone_2020,St Johnstone,8,8,16,19
+2020-12-06,Ross County_Rangers_2020,Rangers,8,8,16,19
+2020-12-06,Ross County_Rangers_2020,Ross County,8,8,16,19
+2020-12-06,Celtic_St Johnstone_2020,Celtic,6,8,14,19
+2020-12-12,Aberdeen_Ross County_2020,Aberdeen,9,7,16,20
+2020-12-12,St Johnstone_Livingston_2020,Livingston,9,8,17,20
+2020-12-12,Hamilton_Hibernian_2020,Hamilton,8,8,16,20
+2020-12-12,Hamilton_Hibernian_2020,Hibernian,7,10,17,20
+2020-12-12,St Johnstone_Livingston_2020,St Johnstone,9,8,17,20
+2020-12-12,Aberdeen_Ross County_2020,Ross County,8,9,17,20
+2020-12-12,Motherwell_St Mirren_2020,Motherwell,9,6,15,20
+2020-12-12,Motherwell_St Mirren_2020,St Mirren,7,7,14,20
+2020-12-13,Celtic_Kilmarnock_2020,Celtic,7,8,15,20
+2020-12-13,Dundee United_Rangers_2020,Dundee United,9,8,17,20
+2020-12-13,Dundee United_Rangers_2020,Rangers,8,9,17,20
+2020-12-13,Celtic_Kilmarnock_2020,Kilmarnock,7,9,16,20
+2020-12-19,St Mirren_St Johnstone_2020,St Johnstone,9,9,18,21
+2020-12-19,Rangers_Motherwell_2020,Rangers,9,9,18,21
+2020-12-19,Ross County_Hamilton_2020,Ross County,9,9,18,21
+2020-12-19,Hibernian_Dundee United_2020,Dundee United,9,9,18,21
+2020-12-19,Rangers_Motherwell_2020,Motherwell,9,7,16,21
+2020-12-19,Hibernian_Dundee United_2020,Hibernian,8,10,18,21
+2020-12-19,Ross County_Hamilton_2020,Hamilton,8,9,17,21
+2020-12-19,St Mirren_St Johnstone_2020,St Mirren,8,7,15,21
+2020-12-20,Kilmarnock_Aberdeen_2020,Kilmarnock,8,9,17,21
+2020-12-20,Kilmarnock_Aberdeen_2020,Aberdeen,9,8,17,21
+2020-12-23,Hibernian_St Mirren_2020,Hibernian,9,10,19,22
+2020-12-23,Motherwell_Aberdeen_2020,Motherwell,10,7,17,22
+2020-12-23,St Johnstone_Rangers_2020,Rangers,9,10,19,22
+2020-12-23,Motherwell_Aberdeen_2020,Aberdeen,9,9,18,22
+2020-12-23,Hibernian_St Mirren_2020,St Mirren,8,8,16,22
+2020-12-23,St Johnstone_Rangers_2020,St Johnstone,10,9,19,22
+2020-12-23,Hamilton_Livingston_2020,Hamilton,9,9,18,22
+2020-12-23,Dundee United_Kilmarnock_2020,Dundee United,10,9,19,22
+2020-12-23,Dundee United_Kilmarnock_2020,Kilmarnock,8,10,18,22
+2020-12-23,Hamilton_Livingston_2020,Livingston,9,9,18,22
+2020-12-23,Celtic_Ross County_2020,Celtic,8,8,16,22
+2020-12-23,Celtic_Ross County_2020,Ross County,9,10,19,22
+2020-12-26,Ross County_St Mirren_2020,St Mirren,8,9,17,22
+2020-12-26,Kilmarnock_Livingston_2020,Livingston,9,10,19,22
+2020-12-26,Rangers_Hibernian_2020,Rangers,10,10,20,22
+2020-12-26,Aberdeen_St Johnstone_2020,St Johnstone,10,10,20,22
+2020-12-26,Dundee United_Motherwell_2020,Dundee United,11,9,20,22
+2020-12-26,Dundee United_Motherwell_2020,Motherwell,10,8,18,22
+2020-12-26,Rangers_Hibernian_2020,Hibernian,9,11,20,22
+2020-12-26,Kilmarnock_Livingston_2020,Kilmarnock,9,10,19,22
+2020-12-26,Ross County_St Mirren_2020,Ross County,10,10,20,22
+2020-12-26,Aberdeen_St Johnstone_2020,Aberdeen,10,9,19,22
+2020-12-26,Hamilton_Celtic_2020,Celtic,8,9,17,22
+2020-12-26,Hamilton_Celtic_2020,Hamilton,10,9,19,22
+2020-12-30,St Mirren_Rangers_2020,St Mirren,9,9,18,23
+2020-12-30,Hibernian_Ross County_2020,Ross County,10,11,21,23
+2020-12-30,St Johnstone_Hamilton_2020,St Johnstone,11,10,21,23
+2020-12-30,St Mirren_Rangers_2020,Rangers,10,11,21,23
+2020-12-30,Hibernian_Ross County_2020,Hibernian,10,11,21,23
+2020-12-30,Motherwell_Kilmarnock_2020,Kilmarnock,9,11,20,23
+2020-12-30,Celtic_Dundee United_2020,Dundee United,11,10,21,23
+2020-12-30,Celtic_Dundee United_2020,Celtic,9,9,18,23
+2020-12-30,Motherwell_Kilmarnock_2020,Motherwell,11,8,19,23
+2020-12-30,St Johnstone_Hamilton_2020,Hamilton,10,10,20,23
+2021-01-02,Aberdeen_Dundee United_2020,Dundee United,11,11,22,23
+2021-01-02,Rangers_Celtic_2020,Rangers,11,11,22,23
+2021-01-02,Rangers_Celtic_2020,Celtic,9,10,19,23
+2021-01-02,Kilmarnock_St Mirren_2020,Kilmarnock,10,11,21,23
+2021-01-02,Hibernian_Livingston_2020,Livingston,9,11,20,23
+2021-01-02,Hibernian_Livingston_2020,Hibernian,11,11,22,23
+2021-01-02,Ross County_St Johnstone_2020,Ross County,11,11,22,23
+2021-01-02,Hamilton_Motherwell_2020,Hamilton,11,10,21,23
+2021-01-02,Ross County_St Johnstone_2020,St Johnstone,11,11,22,23
+2021-01-02,Aberdeen_Dundee United_2020,Aberdeen,11,9,20,23
+2021-01-02,Kilmarnock_St Mirren_2020,St Mirren,9,10,19,23
+2021-01-02,Hamilton_Motherwell_2020,Motherwell,11,9,20,23
+2021-01-09,Kilmarnock_Hamilton_2020,Hamilton,11,11,22,24
+2021-01-09,St Mirren_Motherwell_2020,Motherwell,11,10,21,24
+2021-01-09,Kilmarnock_Hamilton_2020,Kilmarnock,11,11,22,24
+2021-01-09,St Mirren_Motherwell_2020,St Mirren,10,10,20,24
+2021-01-10,Aberdeen_Rangers_2020,Rangers,11,12,23,24
+2021-01-10,Livingston_Ross County_2020,Livingston,10,11,21,24
+2021-01-10,Aberdeen_Rangers_2020,Aberdeen,12,9,21,24
+2021-01-10,Livingston_Ross County_2020,Ross County,11,12,23,24
+2021-01-11,Celtic_Hibernian_2020,Hibernian,11,12,23,24
+2021-01-11,Celtic_Hibernian_2020,Celtic,10,10,20,24
+2021-01-12,Dundee United_St Johnstone_2020,St Johnstone,11,12,23,25
+2021-01-12,Dundee United_St Johnstone_2020,Dundee United,12,11,23,25
+2021-01-16,Celtic_Livingston_2020,Celtic,11,10,21,25
+2021-01-16,Hamilton_Dundee United_2020,Hamilton,12,11,23,25
+2021-01-16,St Johnstone_St Mirren_2020,St Johnstone,12,12,24,25
+2021-01-16,Ross County_Aberdeen_2020,Aberdeen,12,10,22,25
+2021-01-16,Hibernian_Kilmarnock_2020,Hibernian,12,12,24,25
+2021-01-16,Celtic_Livingston_2020,Livingston,10,12,22,25
+2021-01-16,Ross County_Aberdeen_2020,Ross County,12,12,24,25
+2021-01-16,Hibernian_Kilmarnock_2020,Kilmarnock,11,12,23,25
+2021-01-16,Hamilton_Dundee United_2020,Dundee United,12,12,24,25
+2021-01-16,St Johnstone_St Mirren_2020,St Mirren,10,11,21,25
+2021-01-17,Motherwell_Rangers_2020,Motherwell,12,10,22,25
+2021-01-17,Motherwell_Rangers_2020,Rangers,11,13,24,25
+2021-01-20,Livingston_Celtic_2020,Livingston,11,12,23,26
+2021-01-20,Livingston_Celtic_2020,Celtic,11,11,22,26
+2021-01-23,Aberdeen_Motherwell_2020,Motherwell,12,11,23,26
+2021-01-23,Aberdeen_Motherwell_2020,Aberdeen,13,10,23,26
+2021-01-23,Rangers_Ross County_2020,Ross County,12,13,25,26
+2021-01-23,Rangers_Ross County_2020,Rangers,12,13,25,26
+2021-01-27,Ross County_Motherwell_2020,Ross County,13,13,26,27
+2021-01-27,Dundee United_St Mirren_2020,St Mirren,10,12,22,27
+2021-01-27,St Johnstone_Aberdeen_2020,St Johnstone,13,12,25,27
+2021-01-27,Livingston_Kilmarnock_2020,Kilmarnock,11,13,24,27
+2021-01-27,Dundee United_St Mirren_2020,Dundee United,13,12,25,27
+2021-01-27,Livingston_Kilmarnock_2020,Livingston,12,12,24,27
+2021-01-27,Hibernian_Rangers_2020,Hibernian,13,12,25,27
+2021-01-27,St Johnstone_Aberdeen_2020,Aberdeen,13,11,24,27
+2021-01-27,Celtic_Hamilton_2020,Hamilton,12,12,24,27
+2021-01-27,Celtic_Hamilton_2020,Celtic,12,11,23,27
+2021-01-27,Hibernian_Rangers_2020,Rangers,12,14,26,27
+2021-01-27,Ross County_Motherwell_2020,Motherwell,12,12,24,27
+2021-01-30,Livingston_Aberdeen_2020,Livingston,13,12,25,27
+2021-01-30,Kilmarnock_St Johnstone_2020,Kilmarnock,12,13,25,27
+2021-01-30,Dundee United_Hibernian_2020,Dundee United,14,12,26,27
+2021-01-30,Dundee United_Hibernian_2020,Hibernian,13,13,26,27
+2021-01-30,Celtic_St Mirren_2020,Celtic,13,11,24,27
+2021-01-30,Livingston_Aberdeen_2020,Aberdeen,13,12,25,27
+2021-01-30,Celtic_St Mirren_2020,St Mirren,10,13,23,27
+2021-01-30,Kilmarnock_St Johnstone_2020,St Johnstone,13,13,26,27
+2021-02-02,St Mirren_Hibernian_2020,St Mirren,11,13,24,28
+2021-02-02,St Mirren_Hibernian_2020,Hibernian,13,14,27,28
+2021-02-02,Aberdeen_Livingston_2020,Aberdeen,14,12,26,28
+2021-02-02,Kilmarnock_Celtic_2020,Kilmarnock,13,13,26,28
+2021-02-02,Aberdeen_Livingston_2020,Livingston,13,13,26,28
+2021-02-02,Kilmarnock_Celtic_2020,Celtic,13,12,25,28
+2021-02-03,Hamilton_Ross County_2020,Hamilton,13,12,25,28
+2021-02-03,Hamilton_Ross County_2020,Ross County,13,14,27,28
+2021-02-03,Motherwell_Dundee United_2020,Motherwell,13,12,25,28
+2021-02-03,Rangers_St Johnstone_2020,Rangers,13,14,27,28
+2021-02-03,Motherwell_Dundee United_2020,Dundee United,14,13,27,28
+2021-02-03,Rangers_St Johnstone_2020,St Johnstone,13,14,27,28
+2021-02-06,St Mirren_Kilmarnock_2020,St Mirren,12,13,25,28
+2021-02-06,Celtic_Motherwell_2020,Motherwell,13,13,26,28
+2021-02-06,Hibernian_Aberdeen_2020,Hibernian,14,14,28,28
+2021-02-06,St Mirren_Kilmarnock_2020,Kilmarnock,13,14,27,28
+2021-02-06,Celtic_Motherwell_2020,Celtic,14,12,26,28
+2021-02-06,Ross County_Dundee United_2020,Dundee United,14,14,28,28
+2021-02-06,Hibernian_Aberdeen_2020,Aberdeen,14,13,27,28
+2021-02-06,Ross County_Dundee United_2020,Ross County,14,14,28,28
+2021-02-06,Livingston_St Johnstone_2020,St Johnstone,13,15,28,28
+2021-02-06,Livingston_St Johnstone_2020,Livingston,14,13,27,28
+2021-02-07,Hamilton_Rangers_2020,Rangers,13,15,28,28
+2021-02-07,Hamilton_Rangers_2020,Hamilton,14,12,26,28
+2021-02-10,St Mirren_Celtic_2020,Celtic,14,13,27,29
+2021-02-10,Kilmarnock_Motherwell_2020,Motherwell,13,14,27,29
+2021-02-10,St Mirren_Celtic_2020,St Mirren,13,13,26,29
+2021-02-10,Kilmarnock_Motherwell_2020,Kilmarnock,14,14,28,29
+2021-02-13,Dundee United_Livingston_2020,Dundee United,15,14,29,29
+2021-02-13,Rangers_Kilmarnock_2020,Kilmarnock,14,15,29,29
+2021-02-13,Dundee United_Livingston_2020,Livingston,14,14,28,29
+2021-02-13,Motherwell_Hamilton_2020,Hamilton,14,13,27,29
+2021-02-13,Rangers_Kilmarnock_2020,Rangers,14,15,29,29
+2021-02-13,Aberdeen_St Mirren_2020,Aberdeen,15,13,28,29
+2021-02-13,Motherwell_Hamilton_2020,Motherwell,14,14,28,29
+2021-02-13,Aberdeen_St Mirren_2020,St Mirren,13,14,27,29
+2021-02-14,St Johnstone_Celtic_2020,St Johnstone,14,15,29,29
+2021-02-14,St Johnstone_Celtic_2020,Celtic,14,14,28,29
+2021-02-17,St Mirren_Hamilton_2020,Hamilton,14,14,28,30
+2021-02-17,Celtic_Aberdeen_2020,Aberdeen,15,14,29,30
+2021-02-17,St Mirren_Hamilton_2020,St Mirren,14,14,28,30
+2021-02-17,Celtic_Aberdeen_2020,Celtic,15,14,29,30
+2021-02-20,St Mirren_Livingston_2020,St Mirren,15,14,29,30
+2021-02-20,Aberdeen_Kilmarnock_2020,Aberdeen,16,14,30,30
+2021-02-20,Aberdeen_Kilmarnock_2020,Kilmarnock,14,16,30,30
+2021-02-20,Hibernian_Hamilton_2020,Hibernian,15,14,29,30
+2021-02-20,Hibernian_Hamilton_2020,Hamilton,14,15,29,30
+2021-02-20,St Mirren_Livingston_2020,Livingston,14,15,29,30
+2021-02-20,Motherwell_St Johnstone_2020,Motherwell,15,14,29,30
+2021-02-20,Motherwell_St Johnstone_2020,St Johnstone,14,16,30,30
+2021-02-21,Ross County_Celtic_2020,Ross County,15,14,29,30
+2021-02-21,Ross County_Celtic_2020,Celtic,15,15,30,30
+2021-02-21,Rangers_Dundee United_2020,Dundee United,15,15,30,30
+2021-02-21,Rangers_Dundee United_2020,Rangers,15,15,30,30
+2021-02-24,St Mirren_Motherwell_2020,St Mirren,16,14,30,31
+2021-02-24,St Mirren_Motherwell_2020,Motherwell,15,15,30,31
+2021-02-27,Celtic_Aberdeen_2020,Celtic,16,15,31,31
+2021-02-27,Hibernian_Motherwell_2020,Hibernian,16,14,30,31
+2021-02-27,Hibernian_Motherwell_2020,Motherwell,15,16,31,31
+2021-02-27,St Mirren_Ross County_2020,St Mirren,17,14,31,31
+2021-02-27,Kilmarnock_Dundee United_2020,Kilmarnock,15,16,31,31
+2021-02-27,Kilmarnock_Dundee United_2020,Dundee United,15,16,31,31
+2021-02-27,St Mirren_Ross County_2020,Ross County,15,15,30,31
+2021-02-27,Celtic_Aberdeen_2020,Aberdeen,16,15,31,31
+2021-03-03,Livingston_Rangers_2020,Livingston,15,15,30,32
+2021-03-03,Hamilton_St Johnstone_2020,St Johnstone,14,17,31,32
+2021-03-03,Livingston_Rangers_2020,Rangers,15,16,31,32
+2021-03-03,Hamilton_St Johnstone_2020,Hamilton,15,15,30,32
+2021-03-06,Motherwell_Livingston_2020,Motherwell,16,16,32,32
+2021-03-06,Aberdeen_Hamilton_2020,Hamilton,15,16,31,32
+2021-03-06,Motherwell_Livingston_2020,Livingston,15,16,31,32
+2021-03-06,Aberdeen_Hamilton_2020,Aberdeen,17,15,32,32
+2021-03-06,Ross County_Kilmarnock_2020,Ross County,16,15,31,32
+2021-03-06,St Johnstone_Hibernian_2020,Hibernian,16,15,31,32
+2021-03-06,Rangers_St Mirren_2020,Rangers,16,16,32,32
+2021-03-06,St Johnstone_Hibernian_2020,St Johnstone,15,17,32,32
+2021-03-06,Rangers_St Mirren_2020,St Mirren,17,15,32,32
+2021-03-06,Ross County_Kilmarnock_2020,Kilmarnock,15,17,32,32
+2021-03-07,Dundee United_Celtic_2020,Dundee United,16,16,32,32
+2021-03-07,Dundee United_Celtic_2020,Celtic,16,16,32,32
+2021-03-13,Ross County_Hibernian_2020,Hibernian,16,16,32,33
+2021-03-13,Ross County_Hibernian_2020,Ross County,17,15,32,33
+2021-03-13,Livingston_Hamilton_2020,Livingston,16,16,32,33
+2021-03-13,Livingston_Hamilton_2020,Hamilton,15,17,32,33
+2021-03-20,Livingston_Hibernian_2020,Hibernian,16,17,33,34
+2021-03-20,St Johnstone_Ross County_2020,St Johnstone,16,17,33,34
+2021-03-20,St Johnstone_Ross County_2020,Ross County,17,16,33,34
+2021-03-20,Dundee United_Aberdeen_2020,Dundee United,17,16,33,34
+2021-03-20,Kilmarnock_Motherwell_2020,Motherwell,16,17,33,34
+2021-03-20,Kilmarnock_Motherwell_2020,Kilmarnock,16,17,33,34
+2021-03-20,Hamilton_St Mirren_2020,St Mirren,17,16,33,34
+2021-03-20,Dundee United_Aberdeen_2020,Aberdeen,17,16,33,34
+2021-03-20,Livingston_Hibernian_2020,Livingston,17,16,33,34
+2021-03-20,Hamilton_St Mirren_2020,Hamilton,16,17,33,34
+2021-03-21,Celtic_Rangers_2020,Rangers,16,17,33,34
+2021-03-21,Celtic_Rangers_2020,Celtic,17,16,33,34
+2021-04-10,Motherwell_St Mirren_2020,St Mirren,17,17,34,37
+2021-04-10,St Johnstone_Aberdeen_2020,St Johnstone,17,17,34,37
+2021-04-10,Motherwell_St Mirren_2020,Motherwell,17,17,34,37
+2021-04-10,Celtic_Livingston_2020,Celtic,18,16,34,37
+2021-04-10,Kilmarnock_Ross County_2020,Kilmarnock,17,17,34,37
+2021-04-10,Hamilton_Dundee United_2020,Dundee United,17,17,34,37
+2021-04-10,Hamilton_Dundee United_2020,Hamilton,17,17,34,37
+2021-04-10,Kilmarnock_Ross County_2020,Ross County,17,17,34,37
+2021-04-10,St Johnstone_Aberdeen_2020,Aberdeen,17,17,34,37
+2021-04-10,Celtic_Livingston_2020,Livingston,17,17,34,37
+2021-04-11,Rangers_Hibernian_2020,Rangers,17,17,34,37
+2021-04-11,Rangers_Hibernian_2020,Hibernian,16,18,34,37
+2021-04-21,Aberdeen_Celtic_2020,Aberdeen,18,17,35,39
+2021-04-21,Hibernian_Livingston_2020,Hibernian,17,18,35,39
+2021-04-21,Ross County_St Mirren_2020,Ross County,18,17,35,39
+2021-04-21,Kilmarnock_Dundee United_2020,Dundee United,17,18,35,39
+2021-04-21,Hamilton_Motherwell_2020,Motherwell,17,18,35,39
+2021-04-21,Kilmarnock_Dundee United_2020,Kilmarnock,18,17,35,39
+2021-04-21,Hibernian_Livingston_2020,Livingston,17,18,35,39
+2021-04-21,Aberdeen_Celtic_2020,Celtic,18,17,35,39
+2021-04-21,Hamilton_Motherwell_2020,Hamilton,18,17,35,39
+2021-04-21,St Johnstone_Rangers_2020,Rangers,17,18,35,39
+2021-04-21,St Johnstone_Rangers_2020,St Johnstone,18,17,35,39
+2021-04-21,Ross County_St Mirren_2020,St Mirren,17,18,35,39

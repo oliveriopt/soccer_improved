@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2016-08-19,Adanaspor_Bursaspor_2016,Adanaspor,1,1,1,1
+2016-08-19,Adanaspor_Bursaspor_2016,Bursaspor,1,1,1,1
+2016-08-20,Rizespor_Konyaspor_2016,Konyaspor,1,1,1,1
+2016-08-20,Besiktas_Alanyaspor_2016,Alanyaspor,1,1,1,1
+2016-08-20,Trabzonspor_Kasimpasa_2016,Trabzonspor,1,1,1,1
+2016-08-20,Besiktas_Alanyaspor_2016,Besiktas,1,1,1,1
+2016-08-20,Trabzonspor_Kasimpasa_2016,Kasimpasa,1,1,1,1
+2016-08-20,Rizespor_Konyaspor_2016,Rizespor,1,1,1,1
+2016-08-21,Genclerbirligi_Gaziantepspor_2016,Gaziantepspor,1,1,1,1
+2016-08-21,Buyuksehyr_Fenerbahce_2016,Buyuksehyr,1,1,1,1
+2016-08-21,Antalyaspor_Osmanlispor_2016,Osmanlispor,1,1,1,1
+2016-08-21,Genclerbirligi_Gaziantepspor_2016,Genclerbirligi,1,1,1,1
+2016-08-21,Buyuksehyr_Fenerbahce_2016,Fenerbahce,1,1,1,1
+2016-08-21,Kayserispor_Akhisar Belediyespor_2016,Akhisar Belediyespor,1,1,1,1
+2016-08-21,Antalyaspor_Osmanlispor_2016,Antalyaspor,1,1,1,1
+2016-08-21,Kayserispor_Akhisar Belediyespor_2016,Kayserispor,1,1,1,1
+2016-08-22,Galatasaray_Karabukspor_2016,Galatasaray,1,1,1,1
+2016-08-22,Galatasaray_Karabukspor_2016,Karabukspor,1,1,1,1
+2016-08-26,Alanyaspor_Antalyaspor_2016,Alanyaspor,1,1,2,2
+2016-08-26,Alanyaspor_Antalyaspor_2016,Antalyaspor,1,1,2,2
+2016-08-26,Konyaspor_Besiktas_2016,Besiktas,1,1,2,2
+2016-08-26,Konyaspor_Besiktas_2016,Konyaspor,1,1,2,2
+2016-08-27,Akhisar Belediyespor_Galatasaray_2016,Akhisar Belediyespor,1,1,2,2
+2016-08-27,Akhisar Belediyespor_Galatasaray_2016,Galatasaray,1,1,2,2
+2016-08-27,Gaziantepspor_Trabzonspor_2016,Gaziantepspor,1,1,2,2
+2016-08-27,Kasimpasa_Adanaspor_2016,Kasimpasa,1,1,2,2
+2016-08-27,Kasimpasa_Adanaspor_2016,Adanaspor,1,1,2,2
+2016-08-27,Gaziantepspor_Trabzonspor_2016,Trabzonspor,1,1,2,2
+2016-08-28,Fenerbahce_Kayserispor_2016,Fenerbahce,1,1,2,2
+2016-08-28,Osmanlispor_Genclerbirligi_2016,Genclerbirligi,1,1,2,2
+2016-08-28,Bursaspor_Buyuksehyr_2016,Buyuksehyr,1,1,2,2
+2016-08-28,Bursaspor_Buyuksehyr_2016,Bursaspor,1,1,2,2
+2016-08-28,Osmanlispor_Genclerbirligi_2016,Osmanlispor,1,1,2,2
+2016-08-28,Fenerbahce_Kayserispor_2016,Kayserispor,1,1,2,2
+2016-08-28,Karabukspor_Rizespor_2016,Rizespor,1,1,2,2
+2016-08-28,Karabukspor_Rizespor_2016,Karabukspor,1,1,2,2
+2016-09-10,Besiktas_Karabukspor_2016,Karabukspor,1,2,3,4
+2016-09-10,Adanaspor_Gaziantepspor_2016,Gaziantepspor,1,2,3,4
+2016-09-10,Genclerbirligi_Alanyaspor_2016,Alanyaspor,1,2,3,4
+2016-09-10,Buyuksehyr_Kasimpasa_2016,Buyuksehyr,2,1,3,4
+2016-09-10,Buyuksehyr_Kasimpasa_2016,Kasimpasa,1,2,3,4
+2016-09-10,Besiktas_Karabukspor_2016,Besiktas,2,1,3,4
+2016-09-10,Adanaspor_Gaziantepspor_2016,Adanaspor,2,1,3,4
+2016-09-10,Kayserispor_Galatasaray_2016,Galatasaray,1,2,3,4
+2016-09-10,Kayserispor_Galatasaray_2016,Kayserispor,2,1,3,4
+2016-09-10,Genclerbirligi_Alanyaspor_2016,Genclerbirligi,2,1,3,4
+2016-09-11,Trabzonspor_Osmanlispor_2016,Trabzonspor,2,1,3,4
+2016-09-11,Rizespor_Akhisar Belediyespor_2016,Akhisar Belediyespor,1,2,3,4
+2016-09-11,Rizespor_Akhisar Belediyespor_2016,Rizespor,2,1,3,4
+2016-09-11,Fenerbahce_Bursaspor_2016,Fenerbahce,2,1,3,4
+2016-09-11,Antalyaspor_Konyaspor_2016,Antalyaspor,2,1,3,4
+2016-09-11,Antalyaspor_Konyaspor_2016,Konyaspor,1,2,3,4
+2016-09-11,Fenerbahce_Bursaspor_2016,Bursaspor,1,2,3,4
+2016-09-11,Trabzonspor_Osmanlispor_2016,Osmanlispor,1,2,3,4
+2016-09-16,Karabukspor_Antalyaspor_2016,Antalyaspor,2,2,4,5
+2016-09-16,Bursaspor_Kayserispor_2016,Kayserispor,2,2,4,5
+2016-09-16,Bursaspor_Kayserispor_2016,Bursaspor,2,2,4,5
+2016-09-16,Karabukspor_Antalyaspor_2016,Karabukspor,2,2,4,5
+2016-09-17,Galatasaray_Rizespor_2016,Galatasaray,2,2,4,5
+2016-09-17,Alanyaspor_Trabzonspor_2016,Trabzonspor,2,2,4,5
+2016-09-17,Alanyaspor_Trabzonspor_2016,Alanyaspor,2,2,4,5
+2016-09-17,Galatasaray_Rizespor_2016,Rizespor,2,2,4,5
+2016-09-18,Gaziantepspor_Buyuksehyr_2016,Gaziantepspor,2,2,4,5
+2016-09-18,Konyaspor_Genclerbirligi_2016,Konyaspor,2,2,4,5
+2016-09-18,Konyaspor_Genclerbirligi_2016,Genclerbirligi,2,2,4,5
+2016-09-18,Osmanlispor_Adanaspor_2016,Osmanlispor,2,2,4,5
+2016-09-18,Osmanlispor_Adanaspor_2016,Adanaspor,2,2,4,5
+2016-09-18,Gaziantepspor_Buyuksehyr_2016,Buyuksehyr,2,2,4,5
+2016-09-18,Akhisar Belediyespor_Besiktas_2016,Besiktas,2,2,4,5
+2016-09-18,Akhisar Belediyespor_Besiktas_2016,Akhisar Belediyespor,2,2,4,5
+2016-09-19,Kasimpasa_Fenerbahce_2016,Kasimpasa,2,2,4,5
+2016-09-19,Kasimpasa_Fenerbahce_2016,Fenerbahce,2,2,4,5
+2016-09-23,Antalyaspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,2,3,5,6
+2016-09-23,Antalyaspor_Akhisar Belediyespor_2016,Antalyaspor,3,2,5,6
+2016-09-24,Besiktas_Galatasaray_2016,Galatasaray,2,3,5,6
+2016-09-24,Besiktas_Galatasaray_2016,Besiktas,3,2,5,6
+2016-09-24,Trabzonspor_Konyaspor_2016,Konyaspor,2,3,5,6
+2016-09-24,Trabzonspor_Konyaspor_2016,Trabzonspor,3,2,5,6
+2016-09-24,Buyuksehyr_Osmanlispor_2016,Osmanlispor,2,3,5,6
+2016-09-24,Buyuksehyr_Osmanlispor_2016,Buyuksehyr,3,2,5,6
+2016-09-25,Bursaspor_Kasimpasa_2016,Bursaspor,3,2,5,6
+2016-09-25,Genclerbirligi_Karabukspor_2016,Karabukspor,2,3,5,6
+2016-09-25,Kayserispor_Rizespor_2016,Kayserispor,3,2,5,6
+2016-09-25,Fenerbahce_Gaziantepspor_2016,Fenerbahce,3,2,5,6
+2016-09-25,Bursaspor_Kasimpasa_2016,Kasimpasa,2,3,5,6
+2016-09-25,Fenerbahce_Gaziantepspor_2016,Gaziantepspor,2,3,5,6
+2016-09-25,Genclerbirligi_Karabukspor_2016,Genclerbirligi,3,2,5,6
+2016-09-25,Kayserispor_Rizespor_2016,Rizespor,2,3,5,6
+2016-09-26,Adanaspor_Alanyaspor_2016,Alanyaspor,2,3,5,6
+2016-09-26,Adanaspor_Alanyaspor_2016,Adanaspor,3,2,5,6
+2016-09-30,Akhisar Belediyespor_Genclerbirligi_2016,Akhisar Belediyespor,3,3,6,7
+2016-09-30,Akhisar Belediyespor_Genclerbirligi_2016,Genclerbirligi,3,3,6,7
+2016-10-01,Kasimpasa_Kayserispor_2016,Kayserispor,3,3,6,7
+2016-10-01,Gaziantepspor_Bursaspor_2016,Bursaspor,3,3,6,7
+2016-10-01,Kasimpasa_Kayserispor_2016,Kasimpasa,3,3,6,7
+2016-10-01,Rizespor_Besiktas_2016,Besiktas,3,3,6,7
+2016-10-01,Karabukspor_Trabzonspor_2016,Karabukspor,3,3,6,7
+2016-10-01,Rizespor_Besiktas_2016,Rizespor,3,3,6,7
+2016-10-01,Karabukspor_Trabzonspor_2016,Trabzonspor,3,3,6,7
+2016-10-01,Gaziantepspor_Bursaspor_2016,Gaziantepspor,3,3,6,7
+2016-10-02,Konyaspor_Adanaspor_2016,Konyaspor,3,3,6,7
+2016-10-02,Galatasaray_Antalyaspor_2016,Antalyaspor,3,3,6,7
+2016-10-02,Konyaspor_Adanaspor_2016,Adanaspor,3,3,6,7
+2016-10-02,Alanyaspor_Buyuksehyr_2016,Alanyaspor,3,3,6,7
+2016-10-02,Osmanlispor_Fenerbahce_2016,Osmanlispor,3,3,6,7
+2016-10-02,Galatasaray_Antalyaspor_2016,Galatasaray,3,3,6,7
+2016-10-02,Alanyaspor_Buyuksehyr_2016,Buyuksehyr,3,3,6,7
+2016-10-02,Osmanlispor_Fenerbahce_2016,Fenerbahce,3,3,6,7
+2016-10-15,Kasimpasa_Gaziantepspor_2016,Kasimpasa,4,3,7,9
+2016-10-15,Adanaspor_Karabukspor_2016,Karabukspor,3,4,7,9
+2016-10-15,Kayserispor_Besiktas_2016,Kayserispor,4,3,7,9
+2016-10-15,Kayserispor_Besiktas_2016,Besiktas,3,4,7,9
+2016-10-15,Kasimpasa_Gaziantepspor_2016,Gaziantepspor,3,4,7,9
+2016-10-15,Genclerbirligi_Galatasaray_2016,Galatasaray,3,4,7,9
+2016-10-15,Adanaspor_Karabukspor_2016,Adanaspor,4,3,7,9
+2016-10-15,Genclerbirligi_Galatasaray_2016,Genclerbirligi,4,3,7,9
+2016-10-16,Trabzonspor_Akhisar Belediyespor_2016,Trabzonspor,4,3,7,9
+2016-10-16,Bursaspor_Osmanlispor_2016,Bursaspor,4,3,7,9
+2016-10-16,Buyuksehyr_Konyaspor_2016,Buyuksehyr,4,3,7,9
+2016-10-16,Fenerbahce_Alanyaspor_2016,Fenerbahce,4,3,7,9
+2016-10-16,Buyuksehyr_Konyaspor_2016,Konyaspor,3,4,7,9
+2016-10-16,Fenerbahce_Alanyaspor_2016,Alanyaspor,3,4,7,9
+2016-10-16,Trabzonspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,3,4,7,9
+2016-10-16,Bursaspor_Osmanlispor_2016,Osmanlispor,3,4,7,9
+2016-10-17,Antalyaspor_Rizespor_2016,Rizespor,3,4,7,9
+2016-10-17,Antalyaspor_Rizespor_2016,Antalyaspor,4,3,7,9
+2016-10-21,Rizespor_Genclerbirligi_2016,Genclerbirligi,4,4,8,10
+2016-10-21,Gaziantepspor_Kayserispor_2016,Gaziantepspor,4,4,8,10
+2016-10-21,Rizespor_Genclerbirligi_2016,Rizespor,4,4,8,10
+2016-10-21,Gaziantepspor_Kayserispor_2016,Kayserispor,4,4,8,10
+2016-10-22,Galatasaray_Trabzonspor_2016,Trabzonspor,4,4,8,10
+2016-10-22,Akhisar Belediyespor_Adanaspor_2016,Adanaspor,4,4,8,10
+2016-10-22,Akhisar Belediyespor_Adanaspor_2016,Akhisar Belediyespor,4,4,8,10
+2016-10-22,Alanyaspor_Bursaspor_2016,Bursaspor,4,4,8,10
+2016-10-22,Alanyaspor_Bursaspor_2016,Alanyaspor,4,4,8,10
+2016-10-22,Galatasaray_Trabzonspor_2016,Galatasaray,4,4,8,10
+2016-10-23,Osmanlispor_Kasimpasa_2016,Osmanlispor,4,4,8,10
+2016-10-23,Osmanlispor_Kasimpasa_2016,Kasimpasa,4,4,8,10
+2016-10-23,Besiktas_Antalyaspor_2016,Besiktas,4,4,8,10
+2016-10-23,Karabukspor_Buyuksehyr_2016,Buyuksehyr,4,4,8,10
+2016-10-23,Karabukspor_Buyuksehyr_2016,Karabukspor,4,4,8,10
+2016-10-23,Besiktas_Antalyaspor_2016,Antalyaspor,4,4,8,10
+2016-10-24,Konyaspor_Fenerbahce_2016,Fenerbahce,4,4,8,10
+2016-10-24,Konyaspor_Fenerbahce_2016,Konyaspor,4,4,8,10
+2016-10-28,Genclerbirligi_Besiktas_2016,Genclerbirligi,5,4,9,11
+2016-10-28,Genclerbirligi_Besiktas_2016,Besiktas,4,5,9,11
+2016-10-29,Gaziantepspor_Osmanlispor_2016,Gaziantepspor,5,4,9,11
+2016-10-29,Gaziantepspor_Osmanlispor_2016,Osmanlispor,4,5,9,11
+2016-10-29,Adanaspor_Galatasaray_2016,Adanaspor,5,4,9,11
+2016-10-29,Bursaspor_Konyaspor_2016,Bursaspor,5,4,9,11
+2016-10-29,Bursaspor_Konyaspor_2016,Konyaspor,4,5,9,11
+2016-10-29,Adanaspor_Galatasaray_2016,Galatasaray,4,5,9,11
+2016-10-30,Trabzonspor_Rizespor_2016,Trabzonspor,5,4,9,11
+2016-10-30,Fenerbahce_Karabukspor_2016,Fenerbahce,5,4,9,11
+2016-10-30,Buyuksehyr_Akhisar Belediyespor_2016,Akhisar Belediyespor,4,5,9,11
+2016-10-30,Buyuksehyr_Akhisar Belediyespor_2016,Buyuksehyr,5,4,9,11
+2016-10-30,Fenerbahce_Karabukspor_2016,Karabukspor,4,5,9,11
+2016-10-30,Trabzonspor_Rizespor_2016,Rizespor,4,5,9,11
+2016-10-31,Kayserispor_Antalyaspor_2016,Kayserispor,5,4,9,11
+2016-10-31,Kayserispor_Antalyaspor_2016,Antalyaspor,4,5,9,11
+2016-10-31,Kasimpasa_Alanyaspor_2016,Kasimpasa,5,4,9,11
+2016-10-31,Kasimpasa_Alanyaspor_2016,Alanyaspor,4,5,9,11
+2016-11-04,Galatasaray_Buyuksehyr_2016,Galatasaray,5,5,10,12
+2016-11-04,Galatasaray_Buyuksehyr_2016,Buyuksehyr,5,5,10,12
+2016-11-05,Alanyaspor_Gaziantepspor_2016,Gaziantepspor,5,5,10,12
+2016-11-05,Antalyaspor_Genclerbirligi_2016,Genclerbirligi,5,5,10,12
+2016-11-05,Karabukspor_Bursaspor_2016,Karabukspor,5,5,10,12
+2016-11-05,Besiktas_Trabzonspor_2016,Besiktas,5,5,10,12
+2016-11-05,Alanyaspor_Gaziantepspor_2016,Alanyaspor,5,5,10,12
+2016-11-05,Karabukspor_Bursaspor_2016,Bursaspor,5,5,10,12
+2016-11-05,Besiktas_Trabzonspor_2016,Trabzonspor,5,5,10,12
+2016-11-05,Antalyaspor_Genclerbirligi_2016,Antalyaspor,5,5,10,12
+2016-11-06,Rizespor_Adanaspor_2016,Adanaspor,5,5,10,12
+2016-11-06,Akhisar Belediyespor_Fenerbahce_2016,Fenerbahce,5,5,10,12
+2016-11-06,Akhisar Belediyespor_Fenerbahce_2016,Akhisar Belediyespor,5,5,10,12
+2016-11-06,Konyaspor_Kasimpasa_2016,Konyaspor,5,5,10,12
+2016-11-06,Konyaspor_Kasimpasa_2016,Kasimpasa,5,5,10,12
+2016-11-06,Rizespor_Adanaspor_2016,Rizespor,5,5,10,12
+2016-11-06,Osmanlispor_Kayserispor_2016,Kayserispor,5,5,10,12
+2016-11-06,Osmanlispor_Kayserispor_2016,Osmanlispor,5,5,10,12
+2016-11-19,Gaziantepspor_Konyaspor_2016,Konyaspor,5,6,11,14
+2016-11-19,Osmanlispor_Alanyaspor_2016,Alanyaspor,5,6,11,14
+2016-11-19,Bursaspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,5,6,11,14
+2016-11-19,Adanaspor_Besiktas_2016,Adanaspor,6,5,11,14
+2016-11-19,Bursaspor_Akhisar Belediyespor_2016,Bursaspor,6,5,11,14
+2016-11-19,Osmanlispor_Alanyaspor_2016,Osmanlispor,6,5,11,14
+2016-11-19,Gaziantepspor_Konyaspor_2016,Gaziantepspor,6,5,11,14
+2016-11-19,Adanaspor_Besiktas_2016,Besiktas,5,6,11,14
+2016-11-20,Kasimpasa_Karabukspor_2016,Karabukspor,5,6,11,14
+2016-11-20,Kayserispor_Genclerbirligi_2016,Genclerbirligi,5,6,11,14
+2016-11-20,Fenerbahce_Galatasaray_2016,Fenerbahce,6,5,11,14
+2016-11-20,Fenerbahce_Galatasaray_2016,Galatasaray,5,6,11,14
+2016-11-20,Kasimpasa_Karabukspor_2016,Kasimpasa,6,5,11,14
+2016-11-20,Kayserispor_Genclerbirligi_2016,Kayserispor,6,5,11,14
+2016-11-21,Trabzonspor_Antalyaspor_2016,Trabzonspor,6,5,11,14
+2016-11-21,Trabzonspor_Antalyaspor_2016,Antalyaspor,5,6,11,14
+2016-11-21,Buyuksehyr_Rizespor_2016,Buyuksehyr,6,5,11,14
+2016-11-21,Buyuksehyr_Rizespor_2016,Rizespor,5,6,11,14
+2016-11-25,Alanyaspor_Kayserispor_2016,Alanyaspor,6,6,12,15
+2016-11-25,Alanyaspor_Kayserispor_2016,Kayserispor,6,6,12,15
+2016-11-25,Galatasaray_Bursaspor_2016,Bursaspor,6,6,12,15
+2016-11-25,Galatasaray_Bursaspor_2016,Galatasaray,6,6,12,15
+2016-11-26,Akhisar Belediyespor_Kasimpasa_2016,Kasimpasa,6,6,12,15
+2016-11-26,Besiktas_Buyuksehyr_2016,Besiktas,6,6,12,15
+2016-11-26,Antalyaspor_Adanaspor_2016,Adanaspor,6,6,12,15
+2016-11-26,Karabukspor_Gaziantepspor_2016,Gaziantepspor,6,6,12,15
+2016-11-26,Besiktas_Buyuksehyr_2016,Buyuksehyr,6,6,12,15
+2016-11-26,Karabukspor_Gaziantepspor_2016,Karabukspor,6,6,12,15
+2016-11-26,Antalyaspor_Adanaspor_2016,Antalyaspor,6,6,12,15
+2016-11-26,Akhisar Belediyespor_Kasimpasa_2016,Akhisar Belediyespor,6,6,12,15
+2016-11-27,Rizespor_Fenerbahce_2016,Fenerbahce,6,6,12,15
+2016-11-27,Genclerbirligi_Trabzonspor_2016,Genclerbirligi,6,6,12,15
+2016-11-27,Genclerbirligi_Trabzonspor_2016,Trabzonspor,6,6,12,15
+2016-11-27,Rizespor_Fenerbahce_2016,Rizespor,6,6,12,15
+2016-11-28,Konyaspor_Osmanlispor_2016,Osmanlispor,6,6,12,15
+2016-11-28,Konyaspor_Osmanlispor_2016,Konyaspor,6,6,12,15
+2016-12-03,Buyuksehyr_Antalyaspor_2016,Antalyaspor,6,7,13,16
+2016-12-03,Fenerbahce_Besiktas_2016,Fenerbahce,7,6,13,16
+2016-12-03,Fenerbahce_Besiktas_2016,Besiktas,6,7,13,16
+2016-12-03,Buyuksehyr_Antalyaspor_2016,Buyuksehyr,7,6,13,16
+2016-12-04,Osmanlispor_Karabukspor_2016,Osmanlispor,7,6,13,16
+2016-12-04,Kasimpasa_Galatasaray_2016,Galatasaray,6,7,13,16
+2016-12-04,Alanyaspor_Konyaspor_2016,Alanyaspor,7,6,13,16
+2016-12-04,Gaziantepspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,6,7,13,16
+2016-12-04,Gaziantepspor_Akhisar Belediyespor_2016,Gaziantepspor,7,6,13,16
+2016-12-04,Osmanlispor_Karabukspor_2016,Karabukspor,6,7,13,16
+2016-12-04,Adanaspor_Genclerbirligi_2016,Genclerbirligi,6,7,13,16
+2016-12-04,Adanaspor_Genclerbirligi_2016,Adanaspor,7,6,13,16
+2016-12-04,Alanyaspor_Konyaspor_2016,Konyaspor,6,7,13,16
+2016-12-04,Kasimpasa_Galatasaray_2016,Kasimpasa,7,6,13,16
+2016-12-05,Kayserispor_Trabzonspor_2016,Kayserispor,7,6,13,16
+2016-12-05,Bursaspor_Rizespor_2016,Bursaspor,7,6,13,16
+2016-12-05,Kayserispor_Trabzonspor_2016,Trabzonspor,6,7,13,16
+2016-12-05,Bursaspor_Rizespor_2016,Rizespor,6,7,13,16
+2016-12-09,Trabzonspor_Adanaspor_2016,Adanaspor,7,7,14,17
+2016-12-09,Trabzonspor_Adanaspor_2016,Trabzonspor,7,7,14,17
+2016-12-10,Rizespor_Kasimpasa_2016,Rizespor,7,7,14,17
+2016-12-10,Besiktas_Bursaspor_2016,Bursaspor,7,7,14,17
+2016-12-10,Rizespor_Kasimpasa_2016,Kasimpasa,7,7,14,17
+2016-12-10,Genclerbirligi_Buyuksehyr_2016,Buyuksehyr,7,7,14,17
+2016-12-10,Besiktas_Bursaspor_2016,Besiktas,7,7,14,17
+2016-12-10,Genclerbirligi_Buyuksehyr_2016,Genclerbirligi,7,7,14,17
+2016-12-11,Akhisar Belediyespor_Osmanlispor_2016,Osmanlispor,7,7,14,17
+2016-12-11,Galatasaray_Gaziantepspor_2016,Gaziantepspor,7,7,14,17
+2016-12-11,Akhisar Belediyespor_Osmanlispor_2016,Akhisar Belediyespor,7,7,14,17
+2016-12-11,Konyaspor_Kayserispor_2016,Kayserispor,7,7,14,17
+2016-12-11,Karabukspor_Alanyaspor_2016,Alanyaspor,7,7,14,17
+2016-12-11,Konyaspor_Kayserispor_2016,Konyaspor,7,7,14,17
+2016-12-11,Galatasaray_Gaziantepspor_2016,Galatasaray,7,7,14,17
+2016-12-11,Karabukspor_Alanyaspor_2016,Karabukspor,7,7,14,17
+2016-12-12,Antalyaspor_Fenerbahce_2016,Fenerbahce,7,7,14,17
+2016-12-12,Antalyaspor_Fenerbahce_2016,Antalyaspor,7,7,14,17
+2016-12-17,Buyuksehyr_Trabzonspor_2016,Buyuksehyr,8,7,15,18
+2016-12-17,Kasimpasa_Besiktas_2016,Kasimpasa,8,7,15,18
+2016-12-17,Kasimpasa_Besiktas_2016,Besiktas,7,8,15,18
+2016-12-17,Buyuksehyr_Trabzonspor_2016,Trabzonspor,7,8,15,18
+2016-12-18,Osmanlispor_Galatasaray_2016,Osmanlispor,8,7,15,18
+2016-12-18,Gaziantepspor_Rizespor_2016,Rizespor,7,8,15,18
+2016-12-18,Adanaspor_Kayserispor_2016,Kayserispor,7,8,15,18
+2016-12-18,Karabukspor_Konyaspor_2016,Karabukspor,8,7,15,18
+2016-12-18,Osmanlispor_Galatasaray_2016,Galatasaray,7,8,15,18
+2016-12-18,Adanaspor_Kayserispor_2016,Adanaspor,8,7,15,18
+2016-12-18,Karabukspor_Konyaspor_2016,Konyaspor,7,8,15,18
+2016-12-18,Alanyaspor_Akhisar Belediyespor_2016,Alanyaspor,8,7,15,18
+2016-12-18,Gaziantepspor_Rizespor_2016,Gaziantepspor,8,7,15,18
+2016-12-18,Alanyaspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,7,8,15,18
+2016-12-19,Bursaspor_Antalyaspor_2016,Bursaspor,8,7,15,18
+2016-12-19,Fenerbahce_Genclerbirligi_2016,Fenerbahce,8,7,15,18
+2016-12-19,Fenerbahce_Genclerbirligi_2016,Genclerbirligi,7,8,15,18
+2016-12-19,Bursaspor_Antalyaspor_2016,Antalyaspor,7,8,15,18
+2016-12-24,Besiktas_Gaziantepspor_2016,Gaziantepspor,8,8,16,19
+2016-12-24,Adanaspor_Buyuksehyr_2016,Adanaspor,9,7,16,19
+2016-12-24,Adanaspor_Buyuksehyr_2016,Buyuksehyr,8,8,16,19
+2016-12-24,Besiktas_Gaziantepspor_2016,Besiktas,8,8,16,19
+2016-12-25,Galatasaray_Alanyaspor_2016,Alanyaspor,8,8,16,19
+2016-12-25,Antalyaspor_Kasimpasa_2016,Kasimpasa,8,8,16,19
+2016-12-25,Rizespor_Osmanlispor_2016,Osmanlispor,8,8,16,19
+2016-12-25,Rizespor_Osmanlispor_2016,Rizespor,8,8,16,19
+2016-12-25,Akhisar Belediyespor_Konyaspor_2016,Akhisar Belediyespor,8,8,16,19
+2016-12-25,Galatasaray_Alanyaspor_2016,Galatasaray,8,8,16,19
+2016-12-25,Kayserispor_Karabukspor_2016,Kayserispor,8,8,16,19
+2016-12-25,Kayserispor_Karabukspor_2016,Karabukspor,8,8,16,19
+2016-12-25,Akhisar Belediyespor_Konyaspor_2016,Konyaspor,7,9,16,19
+2016-12-25,Antalyaspor_Kasimpasa_2016,Antalyaspor,8,8,16,19
+2016-12-26,Trabzonspor_Fenerbahce_2016,Fenerbahce,8,8,16,19
+2016-12-26,Genclerbirligi_Bursaspor_2016,Genclerbirligi,8,8,16,19
+2016-12-26,Genclerbirligi_Bursaspor_2016,Bursaspor,8,8,16,19
+2016-12-26,Trabzonspor_Fenerbahce_2016,Trabzonspor,8,8,16,19
+2017-01-13,Bursaspor_Trabzonspor_2016,Bursaspor,9,8,17,22
+2017-01-13,Bursaspor_Trabzonspor_2016,Trabzonspor,8,9,17,22
+2017-01-14,Karabukspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,8,9,17,22
+2017-01-14,Alanyaspor_Rizespor_2016,Rizespor,8,9,17,22
+2017-01-14,Alanyaspor_Rizespor_2016,Alanyaspor,9,8,17,22
+2017-01-14,Buyuksehyr_Kayserispor_2016,Kayserispor,8,9,17,22
+2017-01-14,Konyaspor_Galatasaray_2016,Konyaspor,8,9,17,22
+2017-01-14,Karabukspor_Akhisar Belediyespor_2016,Karabukspor,9,8,17,22
+2017-01-14,Buyuksehyr_Kayserispor_2016,Buyuksehyr,9,8,17,22
+2017-01-14,Konyaspor_Galatasaray_2016,Galatasaray,8,9,17,22
+2017-01-15,Gaziantepspor_Antalyaspor_2016,Gaziantepspor,9,8,17,22
+2017-01-15,Fenerbahce_Adanaspor_2016,Fenerbahce,9,8,17,22
+2017-01-15,Kasimpasa_Genclerbirligi_2016,Kasimpasa,9,8,17,22
+2017-01-15,Fenerbahce_Adanaspor_2016,Adanaspor,9,8,17,22
+2017-01-15,Gaziantepspor_Antalyaspor_2016,Antalyaspor,8,9,17,22
+2017-01-15,Kasimpasa_Genclerbirligi_2016,Genclerbirligi,8,9,17,22
+2017-01-16,Osmanlispor_Besiktas_2016,Besiktas,8,9,17,22
+2017-01-16,Osmanlispor_Besiktas_2016,Osmanlispor,9,8,17,22
+2017-01-21,Konyaspor_Rizespor_2016,Konyaspor,9,9,18,23
+2017-01-21,Konyaspor_Rizespor_2016,Rizespor,8,10,18,23
+2017-01-21,Bursaspor_Adanaspor_2016,Adanaspor,9,9,18,23
+2017-01-21,Bursaspor_Adanaspor_2016,Bursaspor,10,8,18,23
+2017-01-21,Akhisar Belediyespor_Kayserispor_2016,Kayserispor,8,10,18,23
+2017-01-21,Karabukspor_Galatasaray_2016,Galatasaray,8,10,18,23
+2017-01-21,Karabukspor_Galatasaray_2016,Karabukspor,10,8,18,23
+2017-01-21,Akhisar Belediyespor_Kayserispor_2016,Akhisar Belediyespor,9,9,18,23
+2017-01-22,Fenerbahce_Buyuksehyr_2016,Buyuksehyr,9,9,18,23
+2017-01-22,Kasimpasa_Trabzonspor_2016,Trabzonspor,8,10,18,23
+2017-01-22,Osmanlispor_Antalyaspor_2016,Antalyaspor,8,10,18,23
+2017-01-22,Fenerbahce_Buyuksehyr_2016,Fenerbahce,10,8,18,23
+2017-01-22,Osmanlispor_Antalyaspor_2016,Osmanlispor,10,8,18,23
+2017-01-22,Kasimpasa_Trabzonspor_2016,Kasimpasa,10,8,18,23
+2017-01-23,Alanyaspor_Besiktas_2016,Besiktas,8,10,18,23
+2017-01-23,Alanyaspor_Besiktas_2016,Alanyaspor,10,8,18,23
+2017-01-28,Antalyaspor_Alanyaspor_2016,Alanyaspor,10,9,19,24
+2017-01-28,Rizespor_Karabukspor_2016,Rizespor,9,10,19,24
+2017-01-28,Galatasaray_Akhisar Belediyespor_2016,Galatasaray,9,10,19,24
+2017-01-28,Galatasaray_Akhisar Belediyespor_2016,Akhisar Belediyespor,9,10,19,24
+2017-01-28,Antalyaspor_Alanyaspor_2016,Antalyaspor,9,10,19,24
+2017-01-28,Rizespor_Karabukspor_2016,Karabukspor,10,9,19,24
+2017-01-29,Buyuksehyr_Bursaspor_2016,Buyuksehyr,10,9,19,24
+2017-01-29,Trabzonspor_Gaziantepspor_2016,Gaziantepspor,9,9,18,24
+2017-01-29,Kayserispor_Fenerbahce_2016,Fenerbahce,10,9,19,24
+2017-01-29,Genclerbirligi_Osmanlispor_2016,Osmanlispor,10,9,19,24
+2017-01-29,Buyuksehyr_Bursaspor_2016,Bursaspor,10,9,19,24
+2017-01-29,Trabzonspor_Gaziantepspor_2016,Trabzonspor,9,10,19,24
+2017-01-29,Kayserispor_Fenerbahce_2016,Kayserispor,9,10,19,24
+2017-01-29,Genclerbirligi_Osmanlispor_2016,Genclerbirligi,9,9,18,24
+2017-01-30,Besiktas_Konyaspor_2016,Konyaspor,9,10,19,24
+2017-01-30,Adanaspor_Kasimpasa_2016,Kasimpasa,10,9,19,24
+2017-01-30,Adanaspor_Kasimpasa_2016,Adanaspor,10,9,19,24
+2017-01-30,Besiktas_Konyaspor_2016,Besiktas,9,10,19,24
+2017-02-10,Karabukspor_Besiktas_2016,Karabukspor,11,9,20,26
+2017-02-10,Karabukspor_Besiktas_2016,Besiktas,9,11,20,26
+2017-02-11,Alanyaspor_Genclerbirligi_2016,Genclerbirligi,9,10,19,26
+2017-02-11,Bursaspor_Fenerbahce_2016,Fenerbahce,10,10,20,26
+2017-02-11,Bursaspor_Fenerbahce_2016,Bursaspor,11,9,20,26
+2017-02-11,Alanyaspor_Genclerbirligi_2016,Alanyaspor,11,9,20,26
+2017-02-11,Osmanlispor_Trabzonspor_2016,Trabzonspor,9,11,20,26
+2017-02-11,Osmanlispor_Trabzonspor_2016,Osmanlispor,11,9,20,26
+2017-02-12,Akhisar Belediyespor_Rizespor_2016,Akhisar Belediyespor,10,10,20,26
+2017-02-12,Akhisar Belediyespor_Rizespor_2016,Rizespor,9,11,20,26
+2017-02-12,Konyaspor_Antalyaspor_2016,Konyaspor,10,10,20,26
+2017-02-12,Galatasaray_Kayserispor_2016,Kayserispor,9,11,20,26
+2017-02-12,Galatasaray_Kayserispor_2016,Galatasaray,10,10,20,26
+2017-02-12,Kasimpasa_Buyuksehyr_2016,Buyuksehyr,10,10,20,26
+2017-02-12,Konyaspor_Antalyaspor_2016,Antalyaspor,9,11,20,26
+2017-02-12,Kasimpasa_Buyuksehyr_2016,Kasimpasa,11,9,20,26
+2017-02-13,Gaziantepspor_Adanaspor_2016,Gaziantepspor,10,9,19,26
+2017-02-13,Gaziantepspor_Adanaspor_2016,Adanaspor,10,10,20,26
+2017-02-17,Kayserispor_Bursaspor_2016,Bursaspor,11,10,21,27
+2017-02-17,Kayserispor_Bursaspor_2016,Kayserispor,10,11,21,27
+2017-02-18,Antalyaspor_Karabukspor_2016,Karabukspor,11,10,21,27
+2017-02-18,Rizespor_Galatasaray_2016,Galatasaray,10,11,21,27
+2017-02-18,Rizespor_Galatasaray_2016,Rizespor,10,11,21,27
+2017-02-18,Buyuksehyr_Gaziantepspor_2016,Buyuksehyr,11,10,21,27
+2017-02-18,Buyuksehyr_Gaziantepspor_2016,Gaziantepspor,10,10,20,27
+2017-02-18,Antalyaspor_Karabukspor_2016,Antalyaspor,10,11,21,27
+2017-02-19,Fenerbahce_Kasimpasa_2016,Fenerbahce,11,10,21,27
+2017-02-19,Genclerbirligi_Konyaspor_2016,Konyaspor,10,11,21,27
+2017-02-19,Adanaspor_Osmanlispor_2016,Adanaspor,11,10,21,27
+2017-02-19,Besiktas_Akhisar Belediyespor_2016,Akhisar Belediyespor,10,11,21,27
+2017-02-19,Genclerbirligi_Konyaspor_2016,Genclerbirligi,10,10,20,27
+2017-02-19,Besiktas_Akhisar Belediyespor_2016,Besiktas,10,11,21,27
+2017-02-19,Fenerbahce_Kasimpasa_2016,Kasimpasa,11,10,21,27
+2017-02-19,Adanaspor_Osmanlispor_2016,Osmanlispor,11,10,21,27
+2017-02-20,Trabzonspor_Alanyaspor_2016,Alanyaspor,11,10,21,27
+2017-02-20,Trabzonspor_Alanyaspor_2016,Trabzonspor,10,11,21,27
+2017-02-24,Kasimpasa_Bursaspor_2016,Kasimpasa,12,10,22,28
+2017-02-24,Kasimpasa_Bursaspor_2016,Bursaspor,11,11,22,28
+2017-02-24,Rizespor_Kayserispor_2016,Kayserispor,10,12,22,28
+2017-02-24,Rizespor_Kayserispor_2016,Rizespor,11,11,22,28
+2017-02-25,Alanyaspor_Adanaspor_2016,Adanaspor,11,11,22,28
+2017-02-25,Konyaspor_Trabzonspor_2016,Konyaspor,11,11,22,28
+2017-02-25,Alanyaspor_Adanaspor_2016,Alanyaspor,12,10,22,28
+2017-02-25,Akhisar Belediyespor_Antalyaspor_2016,Antalyaspor,10,12,22,28
+2017-02-25,Konyaspor_Trabzonspor_2016,Trabzonspor,10,12,22,28
+2017-02-25,Akhisar Belediyespor_Antalyaspor_2016,Akhisar Belediyespor,11,11,22,28
+2017-02-26,Gaziantepspor_Fenerbahce_2016,Gaziantepspor,11,10,21,28
+2017-02-26,Karabukspor_Genclerbirligi_2016,Karabukspor,12,10,22,28
+2017-02-26,Karabukspor_Genclerbirligi_2016,Genclerbirligi,10,11,21,28
+2017-02-26,Osmanlispor_Buyuksehyr_2016,Osmanlispor,12,10,22,28
+2017-02-26,Gaziantepspor_Fenerbahce_2016,Fenerbahce,11,11,22,28
+2017-02-26,Osmanlispor_Buyuksehyr_2016,Buyuksehyr,11,11,22,28
+2017-02-27,Galatasaray_Besiktas_2016,Besiktas,10,12,22,28
+2017-02-27,Galatasaray_Besiktas_2016,Galatasaray,11,11,22,28
+2017-03-03,Trabzonspor_Karabukspor_2016,Trabzonspor,11,12,23,29
+2017-03-03,Trabzonspor_Karabukspor_2016,Karabukspor,12,11,23,29
+2017-03-04,Bursaspor_Gaziantepspor_2016,Bursaspor,12,11,23,29
+2017-03-04,Besiktas_Rizespor_2016,Besiktas,11,12,23,29
+2017-03-04,Besiktas_Rizespor_2016,Rizespor,11,12,23,29
+2017-03-04,Bursaspor_Gaziantepspor_2016,Gaziantepspor,11,11,22,29
+2017-03-05,Adanaspor_Konyaspor_2016,Konyaspor,11,12,23,29
+2017-03-05,Fenerbahce_Osmanlispor_2016,Fenerbahce,12,11,23,29
+2017-03-05,Kayserispor_Kasimpasa_2016,Kayserispor,11,12,23,29
+2017-03-05,Adanaspor_Konyaspor_2016,Adanaspor,12,11,23,29
+2017-03-05,Buyuksehyr_Alanyaspor_2016,Alanyaspor,12,11,23,29
+2017-03-05,Buyuksehyr_Alanyaspor_2016,Buyuksehyr,12,11,23,29
+2017-03-05,Fenerbahce_Osmanlispor_2016,Osmanlispor,12,11,23,29
+2017-03-05,Kayserispor_Kasimpasa_2016,Kasimpasa,12,11,23,29
+2017-03-06,Genclerbirligi_Akhisar Belediyespor_2016,Genclerbirligi,11,11,22,29
+2017-03-06,Antalyaspor_Galatasaray_2016,Antalyaspor,11,12,23,29
+2017-03-06,Antalyaspor_Galatasaray_2016,Galatasaray,11,12,23,29
+2017-03-06,Genclerbirligi_Akhisar Belediyespor_2016,Akhisar Belediyespor,11,12,23,29
+2017-03-10,Alanyaspor_Fenerbahce_2016,Fenerbahce,12,12,24,30
+2017-03-10,Alanyaspor_Fenerbahce_2016,Alanyaspor,13,11,24,30
+2017-03-11,Osmanlispor_Bursaspor_2016,Osmanlispor,13,11,24,30
+2017-03-11,Osmanlispor_Bursaspor_2016,Bursaspor,12,12,24,30
+2017-03-11,Karabukspor_Adanaspor_2016,Adanaspor,12,12,24,30
+2017-03-11,Gaziantepspor_Kasimpasa_2016,Gaziantepspor,12,11,23,30
+2017-03-11,Karabukspor_Adanaspor_2016,Karabukspor,13,11,24,30
+2017-03-11,Galatasaray_Genclerbirligi_2016,Genclerbirligi,11,12,23,30
+2017-03-11,Galatasaray_Genclerbirligi_2016,Galatasaray,12,12,24,30
+2017-03-11,Gaziantepspor_Kasimpasa_2016,Kasimpasa,12,12,24,30
+2017-03-12,Konyaspor_Buyuksehyr_2016,Konyaspor,12,12,24,30
+2017-03-12,Besiktas_Kayserispor_2016,Besiktas,12,12,24,30
+2017-03-12,Besiktas_Kayserispor_2016,Kayserispor,11,13,24,30
+2017-03-12,Rizespor_Antalyaspor_2016,Antalyaspor,11,13,24,30
+2017-03-12,Rizespor_Antalyaspor_2016,Rizespor,12,12,24,30
+2017-03-12,Konyaspor_Buyuksehyr_2016,Buyuksehyr,12,12,24,30
+2017-03-13,Akhisar Belediyespor_Trabzonspor_2016,Akhisar Belediyespor,12,12,24,30
+2017-03-13,Akhisar Belediyespor_Trabzonspor_2016,Trabzonspor,11,13,24,30
+2017-03-17,Fenerbahce_Konyaspor_2016,Konyaspor,12,13,25,31
+2017-03-17,Fenerbahce_Konyaspor_2016,Fenerbahce,13,12,25,31
+2017-03-18,Trabzonspor_Galatasaray_2016,Trabzonspor,12,13,25,31
+2017-03-18,Trabzonspor_Galatasaray_2016,Galatasaray,12,13,25,31
+2017-03-18,Kayserispor_Gaziantepspor_2016,Gaziantepspor,12,12,24,31
+2017-03-18,Kasimpasa_Osmanlispor_2016,Osmanlispor,13,12,25,31
+2017-03-18,Adanaspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,12,13,25,31
+2017-03-18,Adanaspor_Akhisar Belediyespor_2016,Adanaspor,13,12,25,31
+2017-03-18,Kasimpasa_Osmanlispor_2016,Kasimpasa,13,12,25,31
+2017-03-18,Kayserispor_Gaziantepspor_2016,Kayserispor,12,13,25,31
+2017-03-19,Buyuksehyr_Karabukspor_2016,Karabukspor,13,12,25,31
+2017-03-19,Antalyaspor_Besiktas_2016,Besiktas,12,13,25,31
+2017-03-19,Antalyaspor_Besiktas_2016,Antalyaspor,12,13,25,31
+2017-03-19,Buyuksehyr_Karabukspor_2016,Buyuksehyr,13,12,25,31
+2017-03-19,Genclerbirligi_Rizespor_2016,Genclerbirligi,12,12,24,31
+2017-03-19,Bursaspor_Alanyaspor_2016,Alanyaspor,13,12,25,31
+2017-03-19,Genclerbirligi_Rizespor_2016,Rizespor,12,13,25,31
+2017-03-19,Bursaspor_Alanyaspor_2016,Bursaspor,13,12,25,31
+2017-04-01,Antalyaspor_Kayserispor_2016,Kayserispor,12,14,26,33
+2017-04-01,Alanyaspor_Kasimpasa_2016,Alanyaspor,14,12,26,33
+2017-04-01,Akhisar Belediyespor_Buyuksehyr_2016,Akhisar Belediyespor,13,13,26,33
+2017-04-01,Akhisar Belediyespor_Buyuksehyr_2016,Buyuksehyr,13,13,26,33
+2017-04-01,Karabukspor_Fenerbahce_2016,Karabukspor,14,12,26,33
+2017-04-01,Antalyaspor_Kayserispor_2016,Antalyaspor,13,13,26,33
+2017-04-01,Karabukspor_Fenerbahce_2016,Fenerbahce,13,13,26,33
+2017-04-01,Alanyaspor_Kasimpasa_2016,Kasimpasa,13,13,26,33
+2017-04-02,Konyaspor_Bursaspor_2016,Bursaspor,13,13,26,33
+2017-04-02,Konyaspor_Bursaspor_2016,Konyaspor,13,13,26,33
+2017-04-02,Rizespor_Trabzonspor_2016,Rizespor,13,13,26,33
+2017-04-02,Besiktas_Genclerbirligi_2016,Besiktas,13,13,26,33
+2017-04-02,Osmanlispor_Gaziantepspor_2016,Osmanlispor,14,12,26,33
+2017-04-02,Besiktas_Genclerbirligi_2016,Genclerbirligi,12,13,25,33
+2017-04-02,Rizespor_Trabzonspor_2016,Trabzonspor,12,14,26,33
+2017-04-02,Osmanlispor_Gaziantepspor_2016,Gaziantepspor,12,13,25,33
+2017-04-03,Galatasaray_Adanaspor_2016,Adanaspor,13,13,26,33
+2017-04-03,Galatasaray_Adanaspor_2016,Galatasaray,13,13,26,33
+2017-04-07,Bursaspor_Karabukspor_2016,Bursaspor,14,13,27,34
+2017-04-07,Bursaspor_Karabukspor_2016,Karabukspor,14,13,27,34
+2017-04-08,Genclerbirligi_Antalyaspor_2016,Genclerbirligi,13,13,26,34
+2017-04-08,Trabzonspor_Besiktas_2016,Besiktas,13,14,27,34
+2017-04-08,Genclerbirligi_Antalyaspor_2016,Antalyaspor,13,14,27,34
+2017-04-08,Gaziantepspor_Alanyaspor_2016,Alanyaspor,14,13,27,34
+2017-04-08,Gaziantepspor_Alanyaspor_2016,Gaziantepspor,13,13,26,34
+2017-04-08,Trabzonspor_Besiktas_2016,Trabzonspor,13,14,27,34
+2017-04-09,Kayserispor_Osmanlispor_2016,Osmanlispor,14,13,27,34
+2017-04-09,Adanaspor_Rizespor_2016,Adanaspor,14,13,27,34
+2017-04-09,Fenerbahce_Akhisar Belediyespor_2016,Fenerbahce,14,13,27,34
+2017-04-09,Kayserispor_Osmanlispor_2016,Kayserispor,13,14,27,34
+2017-04-09,Fenerbahce_Akhisar Belediyespor_2016,Akhisar Belediyespor,13,14,27,34
+2017-04-09,Adanaspor_Rizespor_2016,Rizespor,13,14,27,34
+2017-04-10,Buyuksehyr_Galatasaray_2016,Galatasaray,13,14,27,34
+2017-04-10,Kasimpasa_Konyaspor_2016,Kasimpasa,14,13,27,34
+2017-04-10,Buyuksehyr_Galatasaray_2016,Buyuksehyr,14,13,27,34
+2017-04-10,Kasimpasa_Konyaspor_2016,Konyaspor,13,14,27,34
+2017-04-12,Gaziantepspor_Genclerbirligi_2016,Gaziantepspor,14,13,27,35
+2017-04-12,Gaziantepspor_Genclerbirligi_2016,Genclerbirligi,13,14,27,35
+2017-04-21,Karabukspor_Kasimpasa_2016,Kasimpasa,14,14,28,36
+2017-04-21,Karabukspor_Kasimpasa_2016,Karabukspor,15,13,28,36
+2017-04-21,Konyaspor_Gaziantepspor_2016,Gaziantepspor,14,14,28,36
+2017-04-21,Konyaspor_Gaziantepspor_2016,Konyaspor,14,14,28,36
+2017-04-22,Alanyaspor_Osmanlispor_2016,Alanyaspor,15,13,28,36
+2017-04-22,Genclerbirligi_Kayserispor_2016,Genclerbirligi,14,14,28,36
+2017-04-22,Rizespor_Buyuksehyr_2016,Rizespor,14,14,28,36
+2017-04-22,Rizespor_Buyuksehyr_2016,Buyuksehyr,14,14,28,36
+2017-04-22,Alanyaspor_Osmanlispor_2016,Osmanlispor,14,14,28,36
+2017-04-22,Antalyaspor_Trabzonspor_2016,Trabzonspor,13,15,28,36
+2017-04-22,Genclerbirligi_Kayserispor_2016,Kayserispor,13,15,28,36
+2017-04-22,Antalyaspor_Trabzonspor_2016,Antalyaspor,14,14,28,36
+2017-04-23,Akhisar Belediyespor_Bursaspor_2016,Bursaspor,14,14,28,36
+2017-04-23,Akhisar Belediyespor_Bursaspor_2016,Akhisar Belediyespor,14,14,28,36
+2017-04-23,Galatasaray_Fenerbahce_2016,Galatasaray,14,14,28,36
+2017-04-23,Galatasaray_Fenerbahce_2016,Fenerbahce,14,14,28,36
+2017-04-24,Besiktas_Adanaspor_2016,Besiktas,14,14,28,36
+2017-04-24,Besiktas_Adanaspor_2016,Adanaspor,14,14,28,36
+2017-04-28,Gaziantepspor_Karabukspor_2016,Karabukspor,15,14,29,37
+2017-04-28,Gaziantepspor_Karabukspor_2016,Gaziantepspor,15,14,29,37
+2017-04-29,Kayserispor_Alanyaspor_2016,Alanyaspor,15,14,29,37
+2017-04-29,Kayserispor_Alanyaspor_2016,Kayserispor,14,15,29,37
+2017-04-29,Trabzonspor_Genclerbirligi_2016,Genclerbirligi,14,15,29,37
+2017-04-29,Trabzonspor_Genclerbirligi_2016,Trabzonspor,14,15,29,37
+2017-04-30,Kasimpasa_Akhisar Belediyespor_2016,Kasimpasa,15,14,29,37
+2017-04-30,Buyuksehyr_Besiktas_2016,Besiktas,14,15,29,37
+2017-04-30,Buyuksehyr_Besiktas_2016,Buyuksehyr,15,14,29,37
+2017-04-30,Adanaspor_Antalyaspor_2016,Adanaspor,15,14,29,37
+2017-04-30,Adanaspor_Antalyaspor_2016,Antalyaspor,14,15,29,37
+2017-04-30,Fenerbahce_Rizespor_2016,Fenerbahce,15,14,29,37
+2017-04-30,Fenerbahce_Rizespor_2016,Rizespor,14,15,29,37
+2017-04-30,Kasimpasa_Akhisar Belediyespor_2016,Akhisar Belediyespor,14,15,29,37
+2017-05-01,Bursaspor_Galatasaray_2016,Bursaspor,15,14,29,37
+2017-05-01,Osmanlispor_Konyaspor_2016,Konyaspor,14,15,29,37
+2017-05-01,Bursaspor_Galatasaray_2016,Galatasaray,14,15,29,37
+2017-05-01,Osmanlispor_Konyaspor_2016,Osmanlispor,15,14,29,37
+2017-05-05,Antalyaspor_Buyuksehyr_2016,Antalyaspor,15,15,30,38
+2017-05-05,Antalyaspor_Buyuksehyr_2016,Buyuksehyr,15,15,30,38
+2017-05-06,Genclerbirligi_Adanaspor_2016,Adanaspor,15,15,30,38
+2017-05-06,Trabzonspor_Kayserispor_2016,Trabzonspor,15,15,30,38
+2017-05-06,Genclerbirligi_Adanaspor_2016,Genclerbirligi,15,15,30,38
+2017-05-06,Konyaspor_Alanyaspor_2016,Konyaspor,15,15,30,38
+2017-05-06,Trabzonspor_Kayserispor_2016,Kayserispor,14,16,30,38
+2017-05-06,Konyaspor_Alanyaspor_2016,Alanyaspor,15,15,30,38
+2017-05-06,Galatasaray_Kasimpasa_2016,Galatasaray,15,15,30,38
+2017-05-06,Galatasaray_Kasimpasa_2016,Kasimpasa,15,15,30,38
+2017-05-07,Besiktas_Fenerbahce_2016,Fenerbahce,15,15,30,38
+2017-05-07,Besiktas_Fenerbahce_2016,Besiktas,15,15,30,38
+2017-05-07,Rizespor_Bursaspor_2016,Rizespor,15,15,30,38
+2017-05-07,Rizespor_Bursaspor_2016,Bursaspor,15,15,30,38
+2017-05-08,Karabukspor_Osmanlispor_2016,Osmanlispor,15,15,30,38
+2017-05-08,Akhisar Belediyespor_Gaziantepspor_2016,Akhisar Belediyespor,15,15,30,38
+2017-05-08,Karabukspor_Osmanlispor_2016,Karabukspor,16,14,30,38
+2017-05-08,Akhisar Belediyespor_Gaziantepspor_2016,Gaziantepspor,15,15,30,38
+2017-05-12,Kasimpasa_Rizespor_2016,Kasimpasa,16,15,31,39
+2017-05-12,Kayserispor_Konyaspor_2016,Konyaspor,15,16,31,39
+2017-05-12,Kayserispor_Konyaspor_2016,Kayserispor,15,16,31,39
+2017-05-12,Kasimpasa_Rizespor_2016,Rizespor,15,16,31,39
+2017-05-13,Adanaspor_Trabzonspor_2016,Trabzonspor,15,16,31,39
+2017-05-13,Adanaspor_Trabzonspor_2016,Adanaspor,16,15,31,39
+2017-05-13,Fenerbahce_Antalyaspor_2016,Fenerbahce,16,15,31,39
+2017-05-13,Fenerbahce_Antalyaspor_2016,Antalyaspor,15,16,31,39
+2017-05-13,Buyuksehyr_Genclerbirligi_2016,Buyuksehyr,16,15,31,39
+2017-05-13,Buyuksehyr_Genclerbirligi_2016,Genclerbirligi,15,16,31,39
+2017-05-14,Osmanlispor_Akhisar Belediyespor_2016,Akhisar Belediyespor,15,16,31,39
+2017-05-14,Osmanlispor_Akhisar Belediyespor_2016,Osmanlispor,16,15,31,39
+2017-05-14,Gaziantepspor_Galatasaray_2016,Gaziantepspor,16,15,31,39
+2017-05-14,Alanyaspor_Karabukspor_2016,Karabukspor,16,15,31,39
+2017-05-14,Gaziantepspor_Galatasaray_2016,Galatasaray,15,16,31,39
+2017-05-14,Alanyaspor_Karabukspor_2016,Alanyaspor,16,15,31,39
+2017-05-15,Bursaspor_Besiktas_2016,Besiktas,15,16,31,39
+2017-05-15,Bursaspor_Besiktas_2016,Bursaspor,16,15,31,39
+2017-05-19,Galatasaray_Osmanlispor_2016,Galatasaray,16,16,32,40
+2017-05-19,Galatasaray_Osmanlispor_2016,Osmanlispor,16,16,32,40
+2017-05-20,Rizespor_Gaziantepspor_2016,Rizespor,16,16,32,40
+2017-05-20,Antalyaspor_Bursaspor_2016,Antalyaspor,16,16,32,40
+2017-05-20,Rizespor_Gaziantepspor_2016,Gaziantepspor,16,16,32,40
+2017-05-20,Kayserispor_Adanaspor_2016,Kayserispor,16,16,32,40
+2017-05-20,Kayserispor_Adanaspor_2016,Adanaspor,16,16,32,40
+2017-05-20,Besiktas_Kasimpasa_2016,Besiktas,16,16,32,40
+2017-05-20,Antalyaspor_Bursaspor_2016,Bursaspor,16,16,32,40
+2017-05-20,Besiktas_Kasimpasa_2016,Kasimpasa,16,16,32,40
+2017-05-21,Konyaspor_Karabukspor_2016,Konyaspor,16,16,32,40
+2017-05-21,Konyaspor_Karabukspor_2016,Karabukspor,16,16,32,40
+2017-05-21,Trabzonspor_Buyuksehyr_2016,Buyuksehyr,16,16,32,40
+2017-05-21,Trabzonspor_Buyuksehyr_2016,Trabzonspor,16,16,32,40
+2017-05-22,Genclerbirligi_Fenerbahce_2016,Genclerbirligi,16,16,32,40
+2017-05-22,Genclerbirligi_Fenerbahce_2016,Fenerbahce,16,16,32,40
+2017-05-22,Akhisar Belediyespor_Alanyaspor_2016,Akhisar Belediyespor,16,16,32,40
+2017-05-22,Akhisar Belediyespor_Alanyaspor_2016,Alanyaspor,16,16,32,40
+2017-05-27,Fenerbahce_Trabzonspor_2016,Trabzonspor,16,17,33,41
+2017-05-27,Konyaspor_Akhisar Belediyespor_2016,Konyaspor,17,16,33,41
+2017-05-27,Fenerbahce_Trabzonspor_2016,Fenerbahce,17,16,33,41
+2017-05-27,Buyuksehyr_Adanaspor_2016,Buyuksehyr,17,16,33,41
+2017-05-27,Kasimpasa_Antalyaspor_2016,Antalyaspor,16,17,33,41
+2017-05-27,Buyuksehyr_Adanaspor_2016,Adanaspor,16,17,33,41
+2017-05-27,Kasimpasa_Antalyaspor_2016,Kasimpasa,17,16,33,41
+2017-05-27,Konyaspor_Akhisar Belediyespor_2016,Akhisar Belediyespor,16,17,33,41
+2017-05-28,Osmanlispor_Rizespor_2016,Osmanlispor,17,16,33,41
+2017-05-28,Gaziantepspor_Besiktas_2016,Besiktas,16,17,33,41
+2017-05-28,Osmanlispor_Rizespor_2016,Rizespor,16,17,33,41
+2017-05-28,Karabukspor_Kayserispor_2016,Kayserispor,16,17,33,41
+2017-05-28,Karabukspor_Kayserispor_2016,Karabukspor,17,16,33,41
+2017-05-28,Gaziantepspor_Besiktas_2016,Gaziantepspor,17,16,33,41
+2017-05-28,Bursaspor_Genclerbirligi_2016,Genclerbirligi,16,17,33,41
+2017-05-28,Bursaspor_Genclerbirligi_2016,Bursaspor,17,16,33,41
+2017-05-29,Alanyaspor_Galatasaray_2016,Galatasaray,16,17,33,41
+2017-05-29,Alanyaspor_Galatasaray_2016,Alanyaspor,17,16,33,41
+2017-06-02,Genclerbirligi_Kasimpasa_2016,Genclerbirligi,17,17,34,42
+2017-06-02,Genclerbirligi_Kasimpasa_2016,Kasimpasa,17,17,34,42
+2017-06-02,Antalyaspor_Gaziantepspor_2016,Gaziantepspor,17,17,34,42
+2017-06-02,Akhisar Belediyespor_Karabukspor_2016,Karabukspor,17,17,34,42
+2017-06-02,Akhisar Belediyespor_Karabukspor_2016,Akhisar Belediyespor,17,17,34,42
+2017-06-02,Antalyaspor_Gaziantepspor_2016,Antalyaspor,17,17,34,42
+2017-06-03,Galatasaray_Konyaspor_2016,Galatasaray,17,17,34,42
+2017-06-03,Rizespor_Alanyaspor_2016,Alanyaspor,17,17,34,42
+2017-06-03,Galatasaray_Konyaspor_2016,Konyaspor,17,17,34,42
+2017-06-03,Kayserispor_Buyuksehyr_2016,Buyuksehyr,17,17,34,42
+2017-06-03,Besiktas_Osmanlispor_2016,Osmanlispor,17,17,34,42
+2017-06-03,Rizespor_Alanyaspor_2016,Rizespor,17,17,34,42
+2017-06-03,Adanaspor_Fenerbahce_2016,Adanaspor,17,17,34,42
+2017-06-03,Besiktas_Osmanlispor_2016,Besiktas,17,17,34,42
+2017-06-03,Trabzonspor_Bursaspor_2016,Bursaspor,17,17,34,42
+2017-06-03,Adanaspor_Fenerbahce_2016,Fenerbahce,17,17,34,42
+2017-06-03,Kayserispor_Buyuksehyr_2016,Kayserispor,17,17,34,42
+2017-06-03,Trabzonspor_Bursaspor_2016,Trabzonspor,17,17,34,42

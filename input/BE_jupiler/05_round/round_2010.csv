@@ -1,0 +1,481 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2010-07-30,Standard_Waregem_2010,Standard,1,1,1,1
+2010-07-30,Standard_Waregem_2010,Waregem,1,1,1,1
+2010-07-31,Anderlecht_Eupen_2010,Eupen,1,1,1,1
+2010-07-31,St Truiden_Lierse_2010,Lierse,1,1,1,1
+2010-07-31,Kortrijk_Club Brugge_2010,Club Brugge,1,1,1,1
+2010-07-31,Anderlecht_Eupen_2010,Anderlecht,1,1,1,1
+2010-07-31,Westerlo_Gent_2010,Westerlo,1,1,1,1
+2010-07-31,Kortrijk_Club Brugge_2010,Kortrijk,1,1,1,1
+2010-07-31,Mechelen_Lokeren_2010,Mechelen,1,1,1,1
+2010-07-31,Westerlo_Gent_2010,Gent,1,1,1,1
+2010-07-31,Mechelen_Lokeren_2010,Lokeren,1,1,1,1
+2010-07-31,St Truiden_Lierse_2010,St Truiden,1,1,1,1
+2010-08-01,Cercle Brugge_Charleroi_2010,Charleroi,1,1,1,1
+2010-08-01,Genk_Germinal_2010,Germinal,1,1,1,1
+2010-08-01,Cercle Brugge_Charleroi_2010,Cercle Brugge,1,1,1,1
+2010-08-01,Genk_Germinal_2010,Genk,1,1,1,1
+2010-08-06,Lierse_Standard_2010,Standard,1,1,2,2
+2010-08-06,Lierse_Standard_2010,Lierse,1,1,2,2
+2010-08-07,Eupen_Westerlo_2010,Westerlo,1,1,2,2
+2010-08-07,Waregem_Mechelen_2010,Mechelen,1,1,2,2
+2010-08-07,Club Brugge_St Truiden_2010,St Truiden,1,1,2,2
+2010-08-07,Eupen_Westerlo_2010,Eupen,1,1,2,2
+2010-08-07,Lokeren_Kortrijk_2010,Kortrijk,1,1,2,2
+2010-08-07,Lokeren_Kortrijk_2010,Lokeren,1,1,2,2
+2010-08-07,Waregem_Mechelen_2010,Waregem,1,1,2,2
+2010-08-07,Club Brugge_St Truiden_2010,Club Brugge,1,1,2,2
+2010-08-07,Charleroi_Anderlecht_2010,Anderlecht,1,1,2,2
+2010-08-07,Charleroi_Anderlecht_2010,Charleroi,1,1,2,2
+2010-08-08,Germinal_Cercle Brugge_2010,Cercle Brugge,1,1,2,2
+2010-08-08,Gent_Genk_2010,Genk,1,1,2,2
+2010-08-08,Germinal_Cercle Brugge_2010,Germinal,1,1,2,2
+2010-08-08,Gent_Genk_2010,Gent,1,1,2,2
+2010-08-14,Westerlo_Waregem_2010,Westerlo,2,1,3,3
+2010-08-14,Standard_Lokeren_2010,Standard,2,1,3,3
+2010-08-14,Kortrijk_St Truiden_2010,St Truiden,1,2,3,3
+2010-08-14,Mechelen_Lierse_2010,Mechelen,2,1,3,3
+2010-08-14,Mechelen_Lierse_2010,Lierse,1,2,3,3
+2010-08-14,Westerlo_Waregem_2010,Waregem,1,2,3,3
+2010-08-14,Anderlecht_Germinal_2010,Anderlecht,2,1,3,3
+2010-08-14,Anderlecht_Germinal_2010,Germinal,1,2,3,3
+2010-08-14,Kortrijk_St Truiden_2010,Kortrijk,2,1,3,3
+2010-08-14,Gent_Eupen_2010,Gent,2,1,3,3
+2010-08-14,Standard_Lokeren_2010,Lokeren,1,2,3,3
+2010-08-14,Gent_Eupen_2010,Eupen,1,2,3,3
+2010-08-15,Cercle Brugge_Club Brugge_2010,Cercle Brugge,2,1,3,3
+2010-08-15,Cercle Brugge_Club Brugge_2010,Club Brugge,1,2,3,3
+2010-08-15,Genk_Charleroi_2010,Genk,2,1,3,3
+2010-08-15,Genk_Charleroi_2010,Charleroi,1,2,3,3
+2010-08-20,St Truiden_Standard_2010,St Truiden,2,2,4,4
+2010-08-20,St Truiden_Standard_2010,Standard,2,2,4,4
+2010-08-21,Germinal_Westerlo_2010,Westerlo,2,2,4,4
+2010-08-21,Waregem_Cercle Brugge_2010,Cercle Brugge,2,2,4,4
+2010-08-21,Lokeren_Anderlecht_2010,Anderlecht,2,2,4,4
+2010-08-21,Lierse_Kortrijk_2010,Lierse,2,2,4,4
+2010-08-21,Germinal_Westerlo_2010,Germinal,2,2,4,4
+2010-08-21,Waregem_Cercle Brugge_2010,Waregem,2,2,4,4
+2010-08-21,Lierse_Kortrijk_2010,Kortrijk,2,2,4,4
+2010-08-21,Lokeren_Anderlecht_2010,Lokeren,2,2,4,4
+2010-08-22,Charleroi_Gent_2010,Gent,2,2,4,4
+2010-08-22,Charleroi_Gent_2010,Charleroi,2,2,4,4
+2010-08-22,Eupen_Genk_2010,Genk,2,2,4,4
+2010-08-22,Eupen_Genk_2010,Eupen,2,2,4,4
+2010-08-22,Club Brugge_Mechelen_2010,Mechelen,2,2,4,4
+2010-08-22,Club Brugge_Mechelen_2010,Club Brugge,2,2,4,4
+2010-08-28,Cercle Brugge_Lokeren_2010,Cercle Brugge,3,2,5,5
+2010-08-28,Standard_Kortrijk_2010,Kortrijk,2,3,5,5
+2010-08-28,Cercle Brugge_Lokeren_2010,Lokeren,2,3,5,5
+2010-08-28,Charleroi_Eupen_2010,Eupen,2,3,5,5
+2010-08-28,Mechelen_St Truiden_2010,St Truiden,2,3,5,5
+2010-08-28,Anderlecht_Waregem_2010,Waregem,2,3,5,5
+2010-08-28,Charleroi_Eupen_2010,Charleroi,3,2,5,5
+2010-08-28,Mechelen_St Truiden_2010,Mechelen,3,2,5,5
+2010-08-28,Standard_Kortrijk_2010,Standard,3,2,5,5
+2010-08-28,Anderlecht_Waregem_2010,Anderlecht,3,2,5,5
+2010-08-29,Genk_Lierse_2010,Genk,3,2,5,5
+2010-08-29,Gent_Germinal_2010,Germinal,2,3,5,5
+2010-08-29,Genk_Lierse_2010,Lierse,2,3,5,5
+2010-08-29,Westerlo_Club Brugge_2010,Westerlo,3,2,5,5
+2010-08-29,Westerlo_Club Brugge_2010,Club Brugge,2,3,5,5
+2010-08-29,Gent_Germinal_2010,Gent,3,2,5,5
+2010-09-10,St Truiden_Anderlecht_2010,Anderlecht,3,3,6,7
+2010-09-10,St Truiden_Anderlecht_2010,St Truiden,3,3,6,7
+2010-09-11,Standard_Cercle Brugge_2010,Cercle Brugge,3,3,6,7
+2010-09-11,Germinal_Charleroi_2010,Charleroi,3,3,6,7
+2010-09-11,Lierse_Gent_2010,Gent,3,3,6,7
+2010-09-11,Standard_Cercle Brugge_2010,Standard,4,2,6,7
+2010-09-11,Kortrijk_Mechelen_2010,Kortrijk,3,3,6,7
+2010-09-11,Waregem_Eupen_2010,Waregem,3,3,6,7
+2010-09-11,Germinal_Charleroi_2010,Germinal,3,3,6,7
+2010-09-11,Waregem_Eupen_2010,Eupen,2,4,6,7
+2010-09-11,Kortrijk_Mechelen_2010,Mechelen,3,3,6,7
+2010-09-11,Lierse_Gent_2010,Lierse,3,3,6,7
+2010-09-12,Lokeren_Westerlo_2010,Lokeren,3,3,6,7
+2010-09-12,Club Brugge_Genk_2010,Club Brugge,3,3,6,7
+2010-09-12,Club Brugge_Genk_2010,Genk,3,3,6,7
+2010-09-12,Lokeren_Westerlo_2010,Westerlo,3,3,6,7
+2010-09-17,Mechelen_Standard_2010,Mechelen,4,3,7,8
+2010-09-17,Mechelen_Standard_2010,Standard,4,3,7,8
+2010-09-18,Westerlo_Lierse_2010,Westerlo,4,3,7,8
+2010-09-18,Cercle Brugge_St Truiden_2010,St Truiden,3,4,7,8
+2010-09-18,Genk_Lokeren_2010,Genk,4,3,7,8
+2010-09-18,Cercle Brugge_St Truiden_2010,Cercle Brugge,4,3,7,8
+2010-09-18,Westerlo_Lierse_2010,Lierse,3,4,7,8
+2010-09-18,Genk_Lokeren_2010,Lokeren,3,4,7,8
+2010-09-18,Eupen_Germinal_2010,Germinal,3,4,7,8
+2010-09-18,Eupen_Germinal_2010,Eupen,3,4,7,8
+2010-09-19,Gent_Waregem_2010,Waregem,3,4,7,8
+2010-09-19,Charleroi_Club Brugge_2010,Club Brugge,3,4,7,8
+2010-09-19,Anderlecht_Kortrijk_2010,Anderlecht,4,3,7,8
+2010-09-19,Anderlecht_Kortrijk_2010,Kortrijk,3,4,7,8
+2010-09-19,Gent_Waregem_2010,Gent,4,3,7,8
+2010-09-19,Charleroi_Club Brugge_2010,Charleroi,4,3,7,8
+2010-09-21,St Truiden_Genk_2010,St Truiden,4,4,8,9
+2010-09-21,St Truiden_Genk_2010,Genk,4,4,8,9
+2010-09-22,Kortrijk_Westerlo_2010,Westerlo,4,4,8,9
+2010-09-22,Waregem_Germinal_2010,Germinal,3,5,8,9
+2010-09-22,Mechelen_Cercle Brugge_2010,Cercle Brugge,4,4,8,9
+2010-09-22,Lierse_Anderlecht_2010,Lierse,4,4,8,9
+2010-09-22,Lierse_Anderlecht_2010,Anderlecht,4,4,8,9
+2010-09-22,Club Brugge_Eupen_2010,Eupen,3,5,8,9
+2010-09-22,Mechelen_Cercle Brugge_2010,Mechelen,5,3,8,9
+2010-09-22,Kortrijk_Westerlo_2010,Kortrijk,4,4,8,9
+2010-09-22,Club Brugge_Eupen_2010,Club Brugge,4,4,8,9
+2010-09-22,Standard_Charleroi_2010,Charleroi,4,4,8,9
+2010-09-22,Lokeren_Gent_2010,Gent,4,4,8,9
+2010-09-22,Waregem_Germinal_2010,Waregem,4,4,8,9
+2010-09-22,Standard_Charleroi_2010,Standard,5,3,8,9
+2010-09-22,Lokeren_Gent_2010,Lokeren,4,4,8,9
+2010-09-25,Westerlo_Standard_2010,Westerlo,5,4,9,9
+2010-09-25,Charleroi_Lierse_2010,Charleroi,5,4,9,9
+2010-09-25,Gent_St Truiden_2010,Gent,5,4,9,9
+2010-09-25,Genk_Waregem_2010,Waregem,4,5,9,9
+2010-09-25,Eupen_Lokeren_2010,Lokeren,4,5,9,9
+2010-09-25,Eupen_Lokeren_2010,Eupen,4,5,9,9
+2010-09-25,Genk_Waregem_2010,Genk,5,4,9,9
+2010-09-25,Westerlo_Standard_2010,Standard,5,4,9,9
+2010-09-25,Cercle Brugge_Kortrijk_2010,Cercle Brugge,5,4,9,9
+2010-09-25,Charleroi_Lierse_2010,Lierse,4,5,9,9
+2010-09-25,Cercle Brugge_Kortrijk_2010,Kortrijk,4,5,9,9
+2010-09-25,Gent_St Truiden_2010,St Truiden,4,5,9,9
+2010-09-26,Germinal_Club Brugge_2010,Germinal,4,5,9,9
+2010-09-26,Germinal_Club Brugge_2010,Club Brugge,4,5,9,9
+2010-09-26,Anderlecht_Mechelen_2010,Anderlecht,5,4,9,9
+2010-09-26,Anderlecht_Mechelen_2010,Mechelen,5,4,9,9
+2010-10-01,Mechelen_Genk_2010,Mechelen,6,4,10,10
+2010-10-01,Mechelen_Genk_2010,Genk,5,5,10,10
+2010-10-02,Lierse_Cercle Brugge_2010,Cercle Brugge,5,5,10,10
+2010-10-02,Lokeren_Germinal_2010,Germinal,4,6,10,10
+2010-10-02,Waregem_Charleroi_2010,Charleroi,5,5,10,10
+2010-10-02,St Truiden_Westerlo_2010,Westerlo,5,5,10,10
+2010-10-02,St Truiden_Westerlo_2010,St Truiden,5,5,10,10
+2010-10-02,Waregem_Charleroi_2010,Waregem,5,5,10,10
+2010-10-02,Kortrijk_Eupen_2010,Kortrijk,5,5,10,10
+2010-10-02,Lierse_Cercle Brugge_2010,Lierse,5,5,10,10
+2010-10-02,Kortrijk_Eupen_2010,Eupen,4,6,10,10
+2010-10-02,Lokeren_Germinal_2010,Lokeren,5,5,10,10
+2010-10-03,Club Brugge_Gent_2010,Club Brugge,5,5,10,10
+2010-10-03,Standard_Anderlecht_2010,Standard,6,4,10,10
+2010-10-03,Standard_Anderlecht_2010,Anderlecht,5,5,10,10
+2010-10-03,Club Brugge_Gent_2010,Gent,5,5,10,10
+2010-10-15,Waregem_Club Brugge_2010,Waregem,6,5,11,12
+2010-10-15,Waregem_Club Brugge_2010,Club Brugge,5,6,11,12
+2010-10-16,Westerlo_Mechelen_2010,Westerlo,6,5,11,12
+2010-10-16,Eupen_St Truiden_2010,Eupen,5,6,11,12
+2010-10-16,Eupen_St Truiden_2010,St Truiden,5,6,11,12
+2010-10-16,Germinal_Lierse_2010,Lierse,5,6,11,12
+2010-10-16,Westerlo_Mechelen_2010,Mechelen,6,5,11,12
+2010-10-16,Charleroi_Lokeren_2010,Charleroi,6,5,11,12
+2010-10-16,Charleroi_Lokeren_2010,Lokeren,5,6,11,12
+2010-10-16,Gent_Kortrijk_2010,Kortrijk,5,6,11,12
+2010-10-16,Gent_Kortrijk_2010,Gent,6,5,11,12
+2010-10-16,Germinal_Lierse_2010,Germinal,5,6,11,12
+2010-10-17,Cercle Brugge_Anderlecht_2010,Anderlecht,5,6,11,12
+2010-10-17,Cercle Brugge_Anderlecht_2010,Cercle Brugge,6,5,11,12
+2010-10-17,Genk_Standard_2010,Genk,6,5,11,12
+2010-10-17,Genk_Standard_2010,Standard,6,5,11,12
+2010-10-22,Kortrijk_Genk_2010,Genk,6,6,12,13
+2010-10-22,Kortrijk_Genk_2010,Kortrijk,6,6,12,13
+2010-10-23,Cercle Brugge_Eupen_2010,Eupen,5,7,12,13
+2010-10-23,Cercle Brugge_Eupen_2010,Cercle Brugge,7,5,12,13
+2010-10-23,St Truiden_Charleroi_2010,Charleroi,6,6,12,13
+2010-10-23,Mechelen_Germinal_2010,Germinal,5,7,12,13
+2010-10-23,St Truiden_Charleroi_2010,St Truiden,6,6,12,13
+2010-10-23,Lierse_Waregem_2010,Lierse,6,6,12,13
+2010-10-23,Lierse_Waregem_2010,Waregem,6,6,12,13
+2010-10-23,Mechelen_Germinal_2010,Mechelen,7,5,12,13
+2010-10-24,Lokeren_Club Brugge_2010,Lokeren,6,6,12,13
+2010-10-24,Anderlecht_Westerlo_2010,Westerlo,6,6,12,13
+2010-10-24,Standard_Gent_2010,Standard,7,5,12,13
+2010-10-24,Standard_Gent_2010,Gent,6,6,12,13
+2010-10-24,Anderlecht_Westerlo_2010,Anderlecht,6,6,12,13
+2010-10-24,Lokeren_Club Brugge_2010,Club Brugge,5,7,12,13
+2010-10-29,Charleroi_Kortrijk_2010,Charleroi,7,6,13,14
+2010-10-29,Charleroi_Kortrijk_2010,Kortrijk,6,7,13,14
+2010-10-30,Gent_Mechelen_2010,Gent,7,6,13,14
+2010-10-30,Waregem_Lokeren_2010,Lokeren,6,7,13,14
+2010-10-30,Westerlo_Cercle Brugge_2010,Cercle Brugge,7,6,13,14
+2010-10-30,Germinal_St Truiden_2010,Germinal,6,7,13,14
+2010-10-30,Eupen_Lierse_2010,Lierse,6,7,13,14
+2010-10-30,Germinal_St Truiden_2010,St Truiden,6,7,13,14
+2010-10-30,Eupen_Lierse_2010,Eupen,6,7,13,14
+2010-10-30,Gent_Mechelen_2010,Mechelen,7,6,13,14
+2010-10-30,Waregem_Lokeren_2010,Waregem,7,6,13,14
+2010-10-30,Westerlo_Cercle Brugge_2010,Westerlo,7,6,13,14
+2010-10-31,Genk_Anderlecht_2010,Genk,7,6,13,14
+2010-10-31,Club Brugge_Standard_2010,Club Brugge,6,7,13,14
+2010-10-31,Genk_Anderlecht_2010,Anderlecht,6,7,13,14
+2010-10-31,Club Brugge_Standard_2010,Standard,7,6,13,14
+2010-11-05,Westerlo_Genk_2010,Genk,7,7,14,15
+2010-11-05,Westerlo_Genk_2010,Westerlo,8,6,14,15
+2010-11-06,Kortrijk_Germinal_2010,Germinal,6,8,14,15
+2010-11-06,Mechelen_Charleroi_2010,Mechelen,8,6,14,15
+2010-11-06,Kortrijk_Germinal_2010,Kortrijk,7,7,14,15
+2010-11-06,Lierse_Lokeren_2010,Lierse,7,7,14,15
+2010-11-06,Lierse_Lokeren_2010,Lokeren,6,8,14,15
+2010-11-06,St Truiden_Waregem_2010,St Truiden,7,7,14,15
+2010-11-06,Standard_Eupen_2010,Standard,8,6,14,15
+2010-11-06,Standard_Eupen_2010,Eupen,6,8,14,15
+2010-11-06,St Truiden_Waregem_2010,Waregem,7,7,14,15
+2010-11-06,Mechelen_Charleroi_2010,Charleroi,7,7,14,15
+2010-11-07,Anderlecht_Club Brugge_2010,Anderlecht,7,7,14,15
+2010-11-07,Cercle Brugge_Gent_2010,Gent,7,7,14,15
+2010-11-07,Anderlecht_Club Brugge_2010,Club Brugge,6,8,14,15
+2010-11-07,Cercle Brugge_Gent_2010,Cercle Brugge,8,6,14,15
+2010-11-13,Germinal_Standard_2010,Standard,8,7,15,16
+2010-11-13,Genk_Cercle Brugge_2010,Cercle Brugge,8,7,15,16
+2010-11-13,Club Brugge_Lierse_2010,Club Brugge,7,8,15,16
+2010-11-13,Germinal_Standard_2010,Germinal,7,8,15,16
+2010-11-13,Genk_Cercle Brugge_2010,Genk,8,7,15,16
+2010-11-13,Lokeren_St Truiden_2010,Lokeren,7,8,15,16
+2010-11-13,Charleroi_Westerlo_2010,Westerlo,8,7,15,16
+2010-11-13,Charleroi_Westerlo_2010,Charleroi,8,7,15,16
+2010-11-13,Club Brugge_Lierse_2010,Lierse,7,8,15,16
+2010-11-13,Lokeren_St Truiden_2010,St Truiden,7,8,15,16
+2010-11-14,Waregem_Kortrijk_2010,Kortrijk,7,8,15,16
+2010-11-14,Gent_Anderlecht_2010,Gent,8,7,15,16
+2010-11-14,Waregem_Kortrijk_2010,Waregem,8,7,15,16
+2010-11-14,Gent_Anderlecht_2010,Anderlecht,7,8,15,16
+2010-11-20,Eupen_Kortrijk_2010,Eupen,7,8,15,17
+2010-11-20,Germinal_Anderlecht_2010,Anderlecht,7,9,16,17
+2010-11-20,Germinal_Anderlecht_2010,Germinal,8,8,16,17
+2010-11-20,Charleroi_Genk_2010,Charleroi,9,7,16,17
+2010-11-20,Lierse_St Truiden_2010,Lierse,8,8,16,17
+2010-11-20,Charleroi_Genk_2010,Genk,8,8,16,17
+2010-11-20,Gent_Westerlo_2010,Gent,9,7,16,17
+2010-11-20,Lokeren_Mechelen_2010,Mechelen,8,7,15,17
+2010-11-20,Lokeren_Mechelen_2010,Lokeren,8,8,16,17
+2010-11-20,Lierse_St Truiden_2010,St Truiden,7,9,16,17
+2010-11-20,Eupen_Kortrijk_2010,Kortrijk,7,9,16,17
+2010-11-20,Gent_Westerlo_2010,Westerlo,8,8,16,17
+2010-11-21,Waregem_Standard_2010,Standard,8,8,16,17
+2010-11-21,Club Brugge_Cercle Brugge_2010,Cercle Brugge,8,8,16,17
+2010-11-21,Waregem_Standard_2010,Waregem,9,7,16,17
+2010-11-21,Club Brugge_Cercle Brugge_2010,Club Brugge,8,8,16,17
+2010-11-26,Genk_Gent_2010,Gent,9,8,17,18
+2010-11-26,Genk_Gent_2010,Genk,9,8,17,18
+2010-11-27,Westerlo_Eupen_2010,Eupen,7,9,16,18
+2010-11-27,Westerlo_Eupen_2010,Westerlo,9,8,17,18
+2010-11-27,Anderlecht_Charleroi_2010,Anderlecht,8,9,17,18
+2010-11-27,Standard_Lierse_2010,Lierse,8,9,17,18
+2010-11-27,Cercle Brugge_Germinal_2010,Germinal,8,9,17,18
+2010-11-27,Standard_Lierse_2010,Standard,9,8,17,18
+2010-11-27,Cercle Brugge_Germinal_2010,Cercle Brugge,9,8,17,18
+2010-11-27,Anderlecht_Charleroi_2010,Charleroi,9,8,17,18
+2010-11-28,St Truiden_Club Brugge_2010,St Truiden,8,9,17,18
+2010-11-28,St Truiden_Club Brugge_2010,Club Brugge,8,9,17,18
+2010-11-28,Mechelen_Waregem_2010,Mechelen,9,7,16,18
+2010-11-28,Mechelen_Waregem_2010,Waregem,9,8,17,18
+2010-12-03,Lokeren_Standard_2010,Lokeren,9,8,17,19
+2010-12-03,Lokeren_Standard_2010,Standard,9,9,18,19
+2010-12-04,St Truiden_Kortrijk_2010,Kortrijk,7,10,17,19
+2010-12-04,Eupen_Gent_2010,Gent,9,9,18,19
+2010-12-04,Eupen_Gent_2010,Eupen,8,9,17,19
+2010-12-04,St Truiden_Kortrijk_2010,St Truiden,9,9,18,19
+2010-12-05,Club Brugge_Westerlo_2010,Club Brugge,9,9,18,19
+2010-12-05,Club Brugge_Westerlo_2010,Westerlo,9,9,18,19
+2010-12-05,Germinal_Genk_2010,Genk,9,9,18,19
+2010-12-05,Germinal_Genk_2010,Germinal,9,9,18,19
+2010-12-05,Waregem_Anderlecht_2010,Anderlecht,8,10,18,19
+2010-12-05,Waregem_Anderlecht_2010,Waregem,10,8,18,19
+2010-12-10,Mechelen_Club Brugge_2010,Club Brugge,9,10,19,20
+2010-12-10,Mechelen_Club Brugge_2010,Mechelen,10,7,17,20
+2010-12-11,Gent_Charleroi_2010,Gent,10,9,19,20
+2010-12-11,Standard_St Truiden_2010,Standard,10,9,19,20
+2010-12-11,Genk_Eupen_2010,Genk,10,9,19,20
+2010-12-11,Westerlo_Germinal_2010,Germinal,9,10,19,20
+2010-12-11,Gent_Charleroi_2010,Charleroi,9,9,18,20
+2010-12-11,Standard_St Truiden_2010,St Truiden,9,10,19,20
+2010-12-11,Genk_Eupen_2010,Eupen,8,10,18,20
+2010-12-11,Cercle Brugge_Waregem_2010,Cercle Brugge,10,8,18,20
+2010-12-11,Westerlo_Germinal_2010,Westerlo,10,9,19,20
+2010-12-11,Cercle Brugge_Waregem_2010,Waregem,10,9,19,20
+2010-12-12,Kortrijk_Lierse_2010,Kortrijk,8,10,18,20
+2010-12-12,Anderlecht_Lokeren_2010,Lokeren,9,9,18,20
+2010-12-12,Kortrijk_Lierse_2010,Lierse,8,10,18,20
+2010-12-12,Anderlecht_Lokeren_2010,Anderlecht,9,10,19,20
+2010-12-17,Kortrijk_Standard_2010,Standard,10,10,20,21
+2010-12-17,Kortrijk_Standard_2010,Kortrijk,9,10,19,21
+2010-12-18,Eupen_Charleroi_2010,Charleroi,9,10,19,21
+2010-12-18,Eupen_Charleroi_2010,Eupen,9,10,19,21
+2010-12-18,Waregem_Westerlo_2010,Waregem,11,9,20,21
+2010-12-18,Lierse_Genk_2010,Lierse,9,10,19,21
+2010-12-18,Lierse_Genk_2010,Genk,10,10,20,21
+2010-12-18,Waregem_Westerlo_2010,Westerlo,10,10,20,21
+2010-12-19,Club Brugge_Anderlecht_2010,Club Brugge,10,10,20,21
+2010-12-19,Club Brugge_Anderlecht_2010,Anderlecht,9,11,20,21
+2010-12-26,Anderlecht_Lierse_2010,Lierse,9,11,20,22
+2010-12-26,Gent_Club Brugge_2010,Gent,11,9,20,22
+2010-12-26,Cercle Brugge_Standard_2010,Cercle Brugge,11,8,19,22
+2010-12-26,Anderlecht_Lierse_2010,Anderlecht,10,11,21,22
+2010-12-26,Gent_Club Brugge_2010,Club Brugge,10,11,21,22
+2010-12-26,Cercle Brugge_Standard_2010,Standard,10,11,21,22
+2010-12-29,Germinal_Eupen_2010,Germinal,10,10,20,23
+2010-12-29,Lierse_Westerlo_2010,Westerlo,10,11,21,23
+2010-12-29,Germinal_Eupen_2010,Eupen,9,11,20,23
+2010-12-29,Kortrijk_Anderlecht_2010,Kortrijk,10,10,20,23
+2010-12-29,Kortrijk_Anderlecht_2010,Anderlecht,10,12,22,23
+2010-12-29,Lierse_Westerlo_2010,Lierse,10,11,21,23
+2010-12-29,Club Brugge_Charleroi_2010,Charleroi,9,11,20,23
+2010-12-29,Club Brugge_Charleroi_2010,Club Brugge,11,11,22,23
+2010-12-30,Lokeren_Genk_2010,Lokeren,10,9,19,23
+2010-12-30,Waregem_Gent_2010,Gent,11,10,21,23
+2010-12-30,Waregem_Gent_2010,Waregem,12,9,21,23
+2010-12-30,Lokeren_Genk_2010,Genk,10,11,21,23
+2011-01-18,Eupen_Mechelen_2010,Eupen,10,11,21,26
+2011-01-18,Kortrijk_Lokeren_2010,Kortrijk,11,10,21,26
+2011-01-18,Eupen_Mechelen_2010,Mechelen,10,8,18,26
+2011-01-18,Kortrijk_Lokeren_2010,Lokeren,10,10,20,26
+2011-01-21,Eupen_Club Brugge_2010,Eupen,11,11,22,26
+2011-01-21,Eupen_Club Brugge_2010,Club Brugge,11,12,23,26
+2011-01-22,Genk_Kortrijk_2010,Genk,11,11,22,26
+2011-01-22,Charleroi_Mechelen_2010,Charleroi,10,11,21,26
+2011-01-22,Germinal_Waregem_2010,Waregem,12,10,22,26
+2011-01-22,Cercle Brugge_Lierse_2010,Cercle Brugge,12,8,20,26
+2011-01-22,Genk_Kortrijk_2010,Kortrijk,11,11,22,26
+2011-01-22,Westerlo_St Truiden_2010,St Truiden,9,11,20,26
+2011-01-22,Charleroi_Mechelen_2010,Mechelen,10,9,19,26
+2011-01-22,Germinal_Waregem_2010,Germinal,11,10,21,26
+2011-01-22,Cercle Brugge_Lierse_2010,Lierse,10,12,22,26
+2011-01-22,Westerlo_St Truiden_2010,Westerlo,11,11,22,26
+2011-01-23,Gent_Lokeren_2010,Lokeren,10,11,21,26
+2011-01-23,Anderlecht_Standard_2010,Standard,10,12,22,26
+2011-01-23,Anderlecht_Standard_2010,Anderlecht,11,12,23,26
+2011-01-23,Gent_Lokeren_2010,Gent,12,10,22,26
+2011-01-28,Waregem_Genk_2010,Genk,11,12,23,27
+2011-01-28,Waregem_Genk_2010,Waregem,13,10,23,27
+2011-01-29,Lokeren_Eupen_2010,Lokeren,11,11,22,27
+2011-01-29,Club Brugge_Germinal_2010,Club Brugge,12,12,24,27
+2011-01-29,Kortrijk_Cercle Brugge_2010,Cercle Brugge,12,9,21,27
+2011-01-29,Kortrijk_Cercle Brugge_2010,Kortrijk,12,11,23,27
+2011-01-29,Lokeren_Eupen_2010,Eupen,11,12,23,27
+2011-01-29,Standard_Westerlo_2010,Standard,11,12,23,27
+2011-01-29,Lierse_Charleroi_2010,Lierse,11,12,23,27
+2011-01-29,Club Brugge_Germinal_2010,Germinal,11,11,22,27
+2011-01-29,Lierse_Charleroi_2010,Charleroi,10,12,22,27
+2011-01-29,Standard_Westerlo_2010,Westerlo,11,12,23,27
+2011-01-30,Mechelen_Anderlecht_2010,Anderlecht,11,13,24,27
+2011-01-30,St Truiden_Gent_2010,St Truiden,10,11,21,27
+2011-01-30,Mechelen_Anderlecht_2010,Mechelen,11,9,20,27
+2011-01-30,St Truiden_Gent_2010,Gent,12,11,23,27
+2011-02-02,Charleroi_Germinal_2010,Charleroi,11,12,23,28
+2011-02-02,Genk_St Truiden_2010,St Truiden,10,12,22,28
+2011-02-02,Eupen_Waregem_2010,Eupen,12,12,24,28
+2011-02-02,Charleroi_Germinal_2010,Germinal,11,12,23,28
+2011-02-02,Genk_St Truiden_2010,Genk,12,12,24,28
+2011-02-02,Mechelen_Kortrijk_2010,Mechelen,12,9,21,28
+2011-02-02,Mechelen_Kortrijk_2010,Kortrijk,12,12,24,28
+2011-02-02,Lokeren_Cercle Brugge_2010,Lokeren,12,11,23,28
+2011-02-02,Eupen_Waregem_2010,Waregem,13,11,24,28
+2011-02-02,Lokeren_Cercle Brugge_2010,Cercle Brugge,12,10,22,28
+2011-02-04,Gent_Lierse_2010,Lierse,11,13,24,28
+2011-02-04,Gent_Lierse_2010,Gent,13,11,24,28
+2011-02-05,Cercle Brugge_Mechelen_2010,Cercle Brugge,13,10,23,28
+2011-02-05,Charleroi_Waregem_2010,Charleroi,12,12,24,28
+2011-02-05,Anderlecht_St Truiden_2010,Anderlecht,12,13,25,28
+2011-02-05,Westerlo_Kortrijk_2010,Westerlo,12,12,24,28
+2011-02-05,Anderlecht_St Truiden_2010,St Truiden,10,13,23,28
+2011-02-05,Westerlo_Kortrijk_2010,Kortrijk,12,13,25,28
+2011-02-05,Charleroi_Waregem_2010,Waregem,13,12,25,28
+2011-02-05,Cercle Brugge_Mechelen_2010,Mechelen,12,10,22,28
+2011-02-06,Eupen_Standard_2010,Eupen,13,12,25,28
+2011-02-06,Eupen_Standard_2010,Standard,11,13,24,28
+2011-02-06,Genk_Club Brugge_2010,Club Brugge,12,13,25,28
+2011-02-06,Genk_Club Brugge_2010,Genk,13,12,25,28
+2011-02-06,Germinal_Lokeren_2010,Germinal,12,12,24,28
+2011-02-06,Germinal_Lokeren_2010,Lokeren,12,12,24,28
+2011-02-12,Mechelen_Westerlo_2010,Westerlo,12,13,25,29
+2011-02-12,Lierse_Germinal_2010,Lierse,12,13,25,29
+2011-02-12,Club Brugge_Waregem_2010,Waregem,13,13,26,29
+2011-02-12,St Truiden_Eupen_2010,Eupen,13,13,26,29
+2011-02-12,St Truiden_Eupen_2010,St Truiden,11,13,24,29
+2011-02-12,Lokeren_Charleroi_2010,Charleroi,12,13,25,29
+2011-02-12,Club Brugge_Waregem_2010,Club Brugge,13,13,26,29
+2011-02-12,Lierse_Germinal_2010,Germinal,12,13,25,29
+2011-02-12,Anderlecht_Cercle Brugge_2010,Cercle Brugge,13,11,24,29
+2011-02-12,Mechelen_Westerlo_2010,Mechelen,13,10,23,29
+2011-02-12,Lokeren_Charleroi_2010,Lokeren,13,12,25,29
+2011-02-12,Anderlecht_Cercle Brugge_2010,Anderlecht,13,13,26,29
+2011-02-13,Kortrijk_Gent_2010,Kortrijk,13,13,26,29
+2011-02-13,Kortrijk_Gent_2010,Gent,13,12,25,29
+2011-02-13,Standard_Genk_2010,Standard,12,13,25,29
+2011-02-13,Standard_Genk_2010,Genk,13,13,26,29
+2011-02-15,Lierse_Mechelen_2010,Mechelen,13,11,24,30
+2011-02-15,Lierse_Mechelen_2010,Lierse,13,13,26,30
+2011-02-16,Germinal_Gent_2010,Gent,13,13,26,30
+2011-02-16,Westerlo_Lokeren_2010,Lokeren,13,13,26,30
+2011-02-16,Germinal_Gent_2010,Germinal,13,13,26,30
+2011-02-16,Westerlo_Lokeren_2010,Westerlo,13,13,26,30
+2011-02-19,Genk_Mechelen_2010,Mechelen,13,12,25,30
+2011-02-19,Waregem_Lierse_2010,Lierse,13,14,27,30
+2011-02-19,Germinal_Kortrijk_2010,Kortrijk,13,14,27,30
+2011-02-19,Eupen_Cercle Brugge_2010,Eupen,14,13,27,30
+2011-02-19,Genk_Mechelen_2010,Genk,14,13,27,30
+2011-02-19,Waregem_Lierse_2010,Waregem,14,13,27,30
+2011-02-19,Club Brugge_Lokeren_2010,Lokeren,13,14,27,30
+2011-02-19,Charleroi_St Truiden_2010,St Truiden,11,14,25,30
+2011-02-19,Germinal_Kortrijk_2010,Germinal,14,13,27,30
+2011-02-19,Charleroi_St Truiden_2010,Charleroi,13,13,26,30
+2011-02-19,Club Brugge_Lokeren_2010,Club Brugge,14,13,27,30
+2011-02-19,Eupen_Cercle Brugge_2010,Cercle Brugge,13,12,25,30
+2011-02-20,Westerlo_Anderlecht_2010,Westerlo,14,13,27,30
+2011-02-20,Gent_Standard_2010,Standard,12,14,26,30
+2011-02-20,Westerlo_Anderlecht_2010,Anderlecht,13,14,27,30
+2011-02-20,Gent_Standard_2010,Gent,14,13,27,30
+2011-02-23,St Truiden_Mechelen_2010,St Truiden,12,14,26,31
+2011-02-23,St Truiden_Mechelen_2010,Mechelen,13,13,26,31
+2011-02-26,Standard_Mechelen_2010,Mechelen,13,14,27,31
+2011-02-26,Standard_Mechelen_2010,Standard,13,14,27,31
+2011-02-27,St Truiden_Cercle Brugge_2010,St Truiden,13,14,27,31
+2011-02-27,St Truiden_Cercle Brugge_2010,Cercle Brugge,13,13,26,31
+2011-03-04,Anderlecht_Genk_2010,Genk,14,14,28,32
+2011-03-04,Anderlecht_Genk_2010,Anderlecht,14,14,28,32
+2011-03-05,Cercle Brugge_Westerlo_2010,Cercle Brugge,14,13,27,32
+2011-03-05,Lokeren_Waregem_2010,Lokeren,14,14,28,32
+2011-03-05,Kortrijk_Charleroi_2010,Kortrijk,14,14,28,32
+2011-03-05,Mechelen_Gent_2010,Gent,14,14,28,32
+2011-03-05,St Truiden_Germinal_2010,Germinal,14,14,28,32
+2011-03-05,Kortrijk_Charleroi_2010,Charleroi,13,14,27,32
+2011-03-05,St Truiden_Germinal_2010,St Truiden,14,14,28,32
+2011-03-05,Lokeren_Waregem_2010,Waregem,14,14,28,32
+2011-03-05,Cercle Brugge_Westerlo_2010,Westerlo,14,14,28,32
+2011-03-05,Mechelen_Gent_2010,Mechelen,14,14,28,32
+2011-03-06,Lierse_Eupen_2010,Lierse,14,14,28,32
+2011-03-06,Standard_Club Brugge_2010,Club Brugge,14,14,28,32
+2011-03-06,Standard_Club Brugge_2010,Standard,14,14,28,32
+2011-03-06,Lierse_Eupen_2010,Eupen,14,14,28,32
+2011-03-12,Lokeren_Lierse_2010,Lokeren,15,14,29,33
+2011-03-12,Club Brugge_Kortrijk_2010,Kortrijk,14,15,29,33
+2011-03-12,Eupen_Anderlecht_2010,Anderlecht,14,15,29,33
+2011-03-12,Gent_Cercle Brugge_2010,Cercle Brugge,14,14,28,33
+2011-03-12,Germinal_Mechelen_2010,Mechelen,14,15,29,33
+2011-03-12,Gent_Cercle Brugge_2010,Gent,15,14,29,33
+2011-03-12,Club Brugge_Kortrijk_2010,Club Brugge,15,14,29,33
+2011-03-12,Lokeren_Lierse_2010,Lierse,14,15,29,33
+2011-03-12,Eupen_Anderlecht_2010,Eupen,15,14,29,33
+2011-03-12,Genk_Westerlo_2010,Genk,15,14,29,33
+2011-03-12,Genk_Westerlo_2010,Westerlo,14,15,29,33
+2011-03-12,Waregem_St Truiden_2010,St Truiden,14,15,29,33
+2011-03-12,Germinal_Mechelen_2010,Germinal,15,14,29,33
+2011-03-12,Waregem_St Truiden_2010,Waregem,15,14,29,33
+2011-03-12,Charleroi_Standard_2010,Charleroi,14,14,28,33
+2011-03-12,Charleroi_Standard_2010,Standard,14,15,29,33
+2011-03-19,Kortrijk_Waregem_2010,Waregem,15,15,30,34
+2011-03-19,Kortrijk_Waregem_2010,Kortrijk,15,15,30,34
+2011-03-20,St Truiden_Lokeren_2010,Lokeren,15,15,30,34
+2011-03-20,Standard_Germinal_2010,Standard,15,15,30,34
+2011-03-20,Mechelen_Eupen_2010,Eupen,15,15,30,34
+2011-03-20,Lierse_Club Brugge_2010,Lierse,15,15,30,34
+2011-03-20,Cercle Brugge_Genk_2010,Cercle Brugge,15,14,29,34
+2011-03-20,Mechelen_Eupen_2010,Mechelen,15,15,30,34
+2011-03-20,Westerlo_Charleroi_2010,Westerlo,15,15,30,34
+2011-03-20,Lierse_Club Brugge_2010,Club Brugge,15,15,30,34
+2011-03-20,Standard_Germinal_2010,Germinal,15,15,30,34
+2011-03-20,Anderlecht_Gent_2010,Anderlecht,15,15,30,34
+2011-03-20,St Truiden_Lokeren_2010,St Truiden,15,15,30,34
+2011-03-20,Cercle Brugge_Genk_2010,Genk,15,15,30,34
+2011-03-20,Westerlo_Charleroi_2010,Charleroi,14,15,29,34
+2011-03-20,Anderlecht_Gent_2010,Gent,15,15,30,34
+2011-03-23,Charleroi_Cercle Brugge_2010,Cercle Brugge,15,15,30,35
+2011-03-23,Charleroi_Cercle Brugge_2010,Charleroi,15,15,30,35

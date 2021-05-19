@@ -1,0 +1,761 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2011-08-27,Granada_Betis_2011,Betis,1,1,1,1
+2011-08-27,Sp Gijon_Sociedad_2011,Sociedad,1,1,1,1
+2011-08-27,Granada_Betis_2011,Granada,1,1,1,1
+2011-08-27,Valencia_Santander_2011,Valencia,1,1,1,1
+2011-08-27,Valencia_Santander_2011,Santander,1,1,1,1
+2011-08-27,Sp Gijon_Sociedad_2011,Sp Gijon,1,1,1,1
+2011-08-28,Ath Madrid_Osasuna_2011,Ath Madrid,1,1,1,1
+2011-08-28,Mallorca_Espanol_2011,Espanol,1,1,1,1
+2011-08-28,Getafe_Levante_2011,Getafe,1,1,1,1
+2011-08-28,Ath Bilbao_Vallecano_2011,Vallecano,1,1,1,1
+2011-08-28,Sevilla_Malaga_2011,Sevilla,1,1,1,1
+2011-08-28,Zaragoza_Real Madrid_2011,Zaragoza,1,1,1,1
+2011-08-28,Zaragoza_Real Madrid_2011,Real Madrid,1,1,1,1
+2011-08-28,Ath Madrid_Osasuna_2011,Osasuna,1,1,1,1
+2011-08-28,Ath Bilbao_Vallecano_2011,Ath Bilbao,1,1,1,1
+2011-08-28,Getafe_Levante_2011,Levante,1,1,1,1
+2011-08-28,Mallorca_Espanol_2011,Mallorca,1,1,1,1
+2011-08-28,Sevilla_Malaga_2011,Malaga,1,1,1,1
+2011-08-29,Barcelona_Villarreal_2011,Villarreal,1,1,1,1
+2011-08-29,Barcelona_Villarreal_2011,Barcelona,1,1,1,1
+2011-09-10,Valencia_Ath Madrid_2011,Ath Madrid,1,1,2,3
+2011-09-10,Villarreal_Sevilla_2011,Villarreal,1,1,2,3
+2011-09-10,Sociedad_Barcelona_2011,Barcelona,1,1,2,3
+2011-09-10,Sociedad_Barcelona_2011,Sociedad,1,1,2,3
+2011-09-10,Real Madrid_Getafe_2011,Getafe,1,1,2,3
+2011-09-10,Valencia_Ath Madrid_2011,Valencia,2,1,2,3
+2011-09-10,Real Madrid_Getafe_2011,Real Madrid,1,1,2,3
+2011-09-10,Villarreal_Sevilla_2011,Sevilla,1,1,2,3
+2011-09-11,Osasuna_Sp Gijon_2011,Sp Gijon,1,1,2,3
+2011-09-11,Vallecano_Zaragoza_2011,Vallecano,1,1,2,3
+2011-09-11,Osasuna_Sp Gijon_2011,Osasuna,1,1,2,3
+2011-09-11,Santander_Levante_2011,Levante,1,2,2,3
+2011-09-11,Betis_Mallorca_2011,Mallorca,1,1,2,3
+2011-09-11,Betis_Mallorca_2011,Betis,1,1,2,3
+2011-09-11,Espanol_Ath Bilbao_2011,Ath Bilbao,1,1,2,3
+2011-09-11,Santander_Levante_2011,Santander,1,1,2,3
+2011-09-11,Espanol_Ath Bilbao_2011,Espanol,1,1,2,3
+2011-09-11,Vallecano_Zaragoza_2011,Zaragoza,1,1,2,3
+2011-09-12,Malaga_Granada_2011,Malaga,1,1,2,3
+2011-09-12,Malaga_Granada_2011,Granada,1,1,2,3
+2011-09-17,Sevilla_Sociedad_2011,Sociedad,1,2,3,4
+2011-09-17,Granada_Villarreal_2011,Granada,2,1,3,4
+2011-09-17,Barcelona_Osasuna_2011,Barcelona,2,1,3,4
+2011-09-17,Barcelona_Osasuna_2011,Osasuna,1,2,3,4
+2011-09-17,Sp Gijon_Valencia_2011,Sp Gijon,2,1,3,4
+2011-09-17,Sevilla_Sociedad_2011,Sevilla,2,1,3,4
+2011-09-17,Granada_Villarreal_2011,Villarreal,1,2,3,4
+2011-09-17,Mallorca_Malaga_2011,Malaga,1,2,3,4
+2011-09-17,Mallorca_Malaga_2011,Mallorca,2,1,3,4
+2011-09-17,Sp Gijon_Valencia_2011,Valencia,2,1,3,4
+2011-09-18,Zaragoza_Espanol_2011,Zaragoza,2,1,3,4
+2011-09-18,Zaragoza_Espanol_2011,Espanol,1,2,3,4
+2011-09-18,Levante_Real Madrid_2011,Levante,1,2,3,4
+2011-09-18,Ath Bilbao_Betis_2011,Betis,1,2,3,4
+2011-09-18,Levante_Real Madrid_2011,Real Madrid,1,2,3,4
+2011-09-18,Ath Madrid_Santander_2011,Santander,1,2,3,4
+2011-09-18,Ath Bilbao_Betis_2011,Ath Bilbao,2,1,3,4
+2011-09-18,Ath Madrid_Santander_2011,Ath Madrid,2,1,3,4
+2011-09-18,Getafe_Vallecano_2011,Getafe,2,1,3,4
+2011-09-18,Getafe_Vallecano_2011,Vallecano,1,2,3,4
+2011-09-20,Sociedad_Granada_2011,Sociedad,2,2,4,5
+2011-09-20,Sociedad_Granada_2011,Granada,2,2,4,5
+2011-09-20,Osasuna_Sevilla_2011,Osasuna,2,2,4,5
+2011-09-20,Villarreal_Mallorca_2011,Villarreal,2,2,4,5
+2011-09-20,Osasuna_Sevilla_2011,Sevilla,2,2,4,5
+2011-09-20,Villarreal_Mallorca_2011,Mallorca,2,2,4,5
+2011-09-21,Malaga_Ath Bilbao_2011,Ath Bilbao,2,2,4,5
+2011-09-21,Santander_Real Madrid_2011,Santander,2,2,4,5
+2011-09-21,Malaga_Ath Bilbao_2011,Malaga,2,2,4,5
+2011-09-21,Santander_Real Madrid_2011,Real Madrid,1,3,4,5
+2011-09-21,Vallecano_Levante_2011,Levante,1,3,4,5
+2011-09-21,Ath Madrid_Sp Gijon_2011,Ath Madrid,3,1,4,5
+2011-09-21,Valencia_Barcelona_2011,Valencia,3,1,4,5
+2011-09-21,Ath Madrid_Sp Gijon_2011,Sp Gijon,2,2,4,5
+2011-09-21,Valencia_Barcelona_2011,Barcelona,2,2,4,5
+2011-09-21,Vallecano_Levante_2011,Vallecano,2,2,4,5
+2011-09-22,Espanol_Getafe_2011,Espanol,2,2,4,5
+2011-09-22,Betis_Zaragoza_2011,Betis,2,2,4,5
+2011-09-22,Espanol_Getafe_2011,Getafe,2,2,4,5
+2011-09-22,Betis_Zaragoza_2011,Zaragoza,2,2,4,5
+2011-09-24,Ath Bilbao_Villarreal_2011,Villarreal,2,3,5,5
+2011-09-24,Real Madrid_Vallecano_2011,Real Madrid,2,3,5,5
+2011-09-24,Sevilla_Valencia_2011,Sevilla,3,2,5,5
+2011-09-24,Barcelona_Ath Madrid_2011,Barcelona,3,2,5,5
+2011-09-24,Sevilla_Valencia_2011,Valencia,3,2,5,5
+2011-09-24,Ath Bilbao_Villarreal_2011,Ath Bilbao,3,2,5,5
+2011-09-24,Barcelona_Ath Madrid_2011,Ath Madrid,3,2,5,5
+2011-09-24,Real Madrid_Vallecano_2011,Vallecano,2,3,5,5
+2011-09-25,Zaragoza_Malaga_2011,Zaragoza,3,2,5,5
+2011-09-25,Granada_Osasuna_2011,Granada,3,2,5,5
+2011-09-25,Zaragoza_Malaga_2011,Malaga,2,3,5,5
+2011-09-25,Sp Gijon_Santander_2011,Santander,2,3,5,5
+2011-09-25,Levante_Espanol_2011,Levante,2,3,5,5
+2011-09-25,Granada_Osasuna_2011,Osasuna,2,3,5,5
+2011-09-25,Mallorca_Sociedad_2011,Mallorca,3,2,5,5
+2011-09-25,Sp Gijon_Santander_2011,Sp Gijon,3,2,5,5
+2011-09-25,Mallorca_Sociedad_2011,Sociedad,2,3,5,5
+2011-09-25,Levante_Espanol_2011,Espanol,2,3,5,5
+2011-09-26,Getafe_Betis_2011,Betis,2,3,5,5
+2011-09-26,Getafe_Betis_2011,Getafe,3,2,5,5
+2011-10-01,Villarreal_Zaragoza_2011,Zaragoza,3,3,6,6
+2011-10-01,Osasuna_Mallorca_2011,Osasuna,3,3,6,6
+2011-10-01,Osasuna_Mallorca_2011,Mallorca,3,3,6,6
+2011-10-01,Malaga_Getafe_2011,Getafe,3,3,6,6
+2011-10-01,Valencia_Granada_2011,Granada,3,3,6,6
+2011-10-01,Santander_Vallecano_2011,Santander,3,3,6,6
+2011-10-01,Valencia_Granada_2011,Valencia,4,2,6,6
+2011-10-01,Santander_Vallecano_2011,Vallecano,2,4,6,6
+2011-10-01,Malaga_Getafe_2011,Malaga,3,3,6,6
+2011-10-01,Villarreal_Zaragoza_2011,Villarreal,3,3,6,6
+2011-10-02,Betis_Levante_2011,Betis,3,3,6,6
+2011-10-02,Sociedad_Ath Bilbao_2011,Sociedad,3,3,6,6
+2011-10-02,Ath Madrid_Sevilla_2011,Sevilla,3,3,6,6
+2011-10-02,Espanol_Real Madrid_2011,Espanol,3,3,6,6
+2011-10-02,Espanol_Real Madrid_2011,Real Madrid,2,4,6,6
+2011-10-02,Ath Madrid_Sevilla_2011,Ath Madrid,4,2,6,6
+2011-10-02,Sp Gijon_Barcelona_2011,Barcelona,3,3,6,6
+2011-10-02,Sp Gijon_Barcelona_2011,Sp Gijon,4,2,6,6
+2011-10-02,Sociedad_Ath Bilbao_2011,Ath Bilbao,3,3,6,6
+2011-10-02,Betis_Levante_2011,Levante,2,4,6,6
+2011-10-15,Granada_Ath Madrid_2011,Granada,4,3,7,8
+2011-10-15,Mallorca_Valencia_2011,Mallorca,4,3,7,8
+2011-10-15,Getafe_Villarreal_2011,Villarreal,3,4,7,8
+2011-10-15,Barcelona_Santander_2011,Santander,3,4,7,8
+2011-10-15,Real Madrid_Betis_2011,Betis,3,4,7,8
+2011-10-15,Granada_Ath Madrid_2011,Ath Madrid,4,3,7,8
+2011-10-15,Getafe_Villarreal_2011,Getafe,4,3,7,8
+2011-10-15,Barcelona_Santander_2011,Barcelona,4,3,7,8
+2011-10-15,Mallorca_Valencia_2011,Valencia,4,3,7,8
+2011-10-15,Real Madrid_Betis_2011,Real Madrid,3,4,7,8
+2011-10-16,Zaragoza_Sociedad_2011,Zaragoza,4,3,7,8
+2011-10-16,Sevilla_Sp Gijon_2011,Sevilla,4,3,7,8
+2011-10-16,Vallecano_Espanol_2011,Vallecano,3,4,7,8
+2011-10-16,Levante_Malaga_2011,Levante,3,4,7,8
+2011-10-16,Levante_Malaga_2011,Malaga,3,4,7,8
+2011-10-16,Vallecano_Espanol_2011,Espanol,3,4,7,8
+2011-10-16,Sevilla_Sp Gijon_2011,Sp Gijon,4,3,7,8
+2011-10-16,Zaragoza_Sociedad_2011,Sociedad,3,4,7,8
+2011-10-17,Ath Bilbao_Osasuna_2011,Ath Bilbao,4,3,7,8
+2011-10-17,Ath Bilbao_Osasuna_2011,Osasuna,3,4,7,8
+2011-10-22,Barcelona_Sevilla_2011,Sevilla,4,4,8,9
+2011-10-22,Malaga_Real Madrid_2011,Real Madrid,3,5,8,9
+2011-10-22,Santander_Espanol_2011,Santander,4,4,8,9
+2011-10-22,Sp Gijon_Granada_2011,Sp Gijon,5,3,8,9
+2011-10-22,Barcelona_Sevilla_2011,Barcelona,5,3,8,9
+2011-10-22,Santander_Espanol_2011,Espanol,3,5,8,9
+2011-10-22,Sp Gijon_Granada_2011,Granada,4,4,8,9
+2011-10-22,Malaga_Real Madrid_2011,Malaga,4,4,8,9
+2011-10-23,Valencia_Ath Bilbao_2011,Valencia,5,3,8,9
+2011-10-23,Osasuna_Zaragoza_2011,Zaragoza,4,4,8,9
+2011-10-23,Valencia_Ath Bilbao_2011,Ath Bilbao,4,4,8,9
+2011-10-23,Ath Madrid_Mallorca_2011,Mallorca,4,4,8,9
+2011-10-23,Ath Madrid_Mallorca_2011,Ath Madrid,5,3,8,9
+2011-10-23,Betis_Vallecano_2011,Betis,4,4,8,9
+2011-10-23,Osasuna_Zaragoza_2011,Osasuna,4,4,8,9
+2011-10-23,Villarreal_Levante_2011,Levante,3,5,8,9
+2011-10-23,Betis_Vallecano_2011,Vallecano,3,5,8,9
+2011-10-23,Sociedad_Getafe_2011,Getafe,4,4,8,9
+2011-10-23,Sociedad_Getafe_2011,Sociedad,4,4,8,9
+2011-10-23,Villarreal_Levante_2011,Villarreal,4,4,8,9
+2011-10-25,Granada_Barcelona_2011,Barcelona,5,4,9,10
+2011-10-25,Sevilla_Santander_2011,Sevilla,5,4,9,10
+2011-10-25,Sevilla_Santander_2011,Santander,4,5,9,10
+2011-10-25,Granada_Barcelona_2011,Granada,5,4,9,10
+2011-10-26,Zaragoza_Valencia_2011,Zaragoza,5,4,9,10
+2011-10-26,Zaragoza_Valencia_2011,Valencia,5,4,9,10
+2011-10-26,Real Madrid_Villarreal_2011,Real Madrid,4,5,9,10
+2011-10-26,Mallorca_Sp Gijon_2011,Mallorca,5,4,9,10
+2011-10-26,Vallecano_Malaga_2011,Malaga,4,5,9,10
+2011-10-26,Vallecano_Malaga_2011,Vallecano,4,5,9,10
+2011-10-26,Getafe_Osasuna_2011,Getafe,5,4,9,10
+2011-10-26,Getafe_Osasuna_2011,Osasuna,4,5,9,10
+2011-10-26,Levante_Sociedad_2011,Levante,4,5,9,10
+2011-10-26,Levante_Sociedad_2011,Sociedad,4,5,9,10
+2011-10-26,Mallorca_Sp Gijon_2011,Sp Gijon,5,4,9,10
+2011-10-26,Real Madrid_Villarreal_2011,Villarreal,4,5,9,10
+2011-10-27,Ath Bilbao_Ath Madrid_2011,Ath Bilbao,5,4,9,10
+2011-10-27,Espanol_Betis_2011,Espanol,4,5,9,10
+2011-10-27,Ath Bilbao_Ath Madrid_2011,Ath Madrid,5,4,9,10
+2011-10-27,Espanol_Betis_2011,Betis,4,5,9,10
+2011-10-29,Villarreal_Vallecano_2011,Villarreal,5,5,10,10
+2011-10-29,Barcelona_Mallorca_2011,Mallorca,5,5,10,10
+2011-10-29,Sociedad_Real Madrid_2011,Sociedad,5,5,10,10
+2011-10-29,Sociedad_Real Madrid_2011,Real Madrid,4,6,10,10
+2011-10-29,Valencia_Getafe_2011,Getafe,5,5,10,10
+2011-10-29,Valencia_Getafe_2011,Valencia,6,4,10,10
+2011-10-29,Barcelona_Mallorca_2011,Barcelona,6,4,10,10
+2011-10-29,Villarreal_Vallecano_2011,Vallecano,4,6,10,10
+2011-10-30,Ath Madrid_Zaragoza_2011,Zaragoza,5,5,10,10
+2011-10-30,Osasuna_Levante_2011,Osasuna,5,5,10,10
+2011-10-30,Osasuna_Levante_2011,Levante,4,6,10,10
+2011-10-30,Ath Madrid_Zaragoza_2011,Ath Madrid,6,4,10,10
+2011-10-30,Sp Gijon_Ath Bilbao_2011,Ath Bilbao,5,5,10,10
+2011-10-30,Malaga_Espanol_2011,Malaga,5,5,10,10
+2011-10-30,Malaga_Espanol_2011,Espanol,4,6,10,10
+2011-10-30,Santander_Betis_2011,Santander,5,5,10,10
+2011-10-30,Santander_Betis_2011,Betis,4,6,10,10
+2011-10-30,Sp Gijon_Ath Bilbao_2011,Sp Gijon,6,4,10,10
+2011-10-31,Sevilla_Granada_2011,Sevilla,6,4,10,10
+2011-10-31,Sevilla_Granada_2011,Granada,5,5,10,10
+2011-11-05,Mallorca_Sevilla_2011,Sevilla,6,5,11,11
+2011-11-05,Levante_Valencia_2011,Levante,5,6,11,11
+2011-11-05,Levante_Valencia_2011,Valencia,6,5,11,11
+2011-11-05,Betis_Malaga_2011,Malaga,5,6,11,11
+2011-11-05,Betis_Malaga_2011,Betis,5,6,11,11
+2011-11-05,Mallorca_Sevilla_2011,Mallorca,6,5,11,11
+2011-11-06,Zaragoza_Sp Gijon_2011,Zaragoza,6,5,11,11
+2011-11-06,Granada_Santander_2011,Granada,6,5,11,11
+2011-11-06,Vallecano_Sociedad_2011,Vallecano,5,6,11,11
+2011-11-06,Zaragoza_Sp Gijon_2011,Sp Gijon,6,5,11,11
+2011-11-06,Real Madrid_Osasuna_2011,Real Madrid,5,6,11,11
+2011-11-06,Getafe_Ath Madrid_2011,Ath Madrid,6,5,11,11
+2011-11-06,Ath Bilbao_Barcelona_2011,Ath Bilbao,6,5,11,11
+2011-11-06,Granada_Santander_2011,Santander,5,6,11,11
+2011-11-06,Real Madrid_Osasuna_2011,Osasuna,5,6,11,11
+2011-11-06,Espanol_Villarreal_2011,Espanol,5,6,11,11
+2011-11-06,Vallecano_Sociedad_2011,Sociedad,5,6,11,11
+2011-11-06,Getafe_Ath Madrid_2011,Getafe,6,5,11,11
+2011-11-06,Ath Bilbao_Barcelona_2011,Barcelona,6,5,11,11
+2011-11-06,Espanol_Villarreal_2011,Villarreal,5,6,11,11
+2011-11-19,Barcelona_Zaragoza_2011,Zaragoza,6,6,12,13
+2011-11-19,Villarreal_Betis_2011,Villarreal,6,6,12,13
+2011-11-19,Villarreal_Betis_2011,Betis,5,7,12,13
+2011-11-19,Valencia_Real Madrid_2011,Real Madrid,5,7,12,13
+2011-11-19,Barcelona_Zaragoza_2011,Barcelona,7,5,12,13
+2011-11-19,Valencia_Real Madrid_2011,Valencia,7,5,12,13
+2011-11-20,Sp Gijon_Getafe_2011,Sp Gijon,7,5,12,13
+2011-11-20,Sevilla_Ath Bilbao_2011,Sevilla,7,5,12,13
+2011-11-20,Sociedad_Espanol_2011,Sociedad,6,6,12,13
+2011-11-20,Sp Gijon_Getafe_2011,Getafe,6,6,12,13
+2011-11-20,Ath Madrid_Levante_2011,Ath Madrid,7,5,12,13
+2011-11-20,Ath Madrid_Levante_2011,Levante,5,7,12,13
+2011-11-20,Osasuna_Vallecano_2011,Osasuna,6,6,12,13
+2011-11-20,Sociedad_Espanol_2011,Espanol,5,7,12,13
+2011-11-20,Sevilla_Ath Bilbao_2011,Ath Bilbao,6,6,12,13
+2011-11-20,Osasuna_Vallecano_2011,Vallecano,5,7,12,13
+2011-11-21,Santander_Malaga_2011,Santander,6,6,12,13
+2011-11-21,Santander_Malaga_2011,Malaga,5,7,12,13
+2011-11-26,Real Madrid_Ath Madrid_2011,Ath Madrid,7,6,13,14
+2011-11-26,Real Madrid_Ath Madrid_2011,Real Madrid,6,7,13,14
+2011-11-26,Vallecano_Valencia_2011,Valencia,7,6,13,14
+2011-11-26,Getafe_Barcelona_2011,Getafe,7,6,13,14
+2011-11-26,Getafe_Barcelona_2011,Barcelona,7,6,13,14
+2011-11-26,Vallecano_Valencia_2011,Vallecano,6,7,13,14
+2011-11-27,Espanol_Osasuna_2011,Osasuna,6,7,13,14
+2011-11-27,Betis_Sociedad_2011,Betis,6,7,13,14
+2011-11-27,Zaragoza_Sevilla_2011,Zaragoza,7,6,13,14
+2011-11-27,Zaragoza_Sevilla_2011,Sevilla,7,6,13,14
+2011-11-27,Mallorca_Santander_2011,Santander,6,7,13,14
+2011-11-27,Levante_Sp Gijon_2011,Levante,6,7,13,14
+2011-11-27,Ath Bilbao_Granada_2011,Ath Bilbao,7,6,13,14
+2011-11-27,Espanol_Osasuna_2011,Espanol,6,7,13,14
+2011-11-27,Betis_Sociedad_2011,Sociedad,6,7,13,14
+2011-11-27,Ath Bilbao_Granada_2011,Granada,6,6,12,14
+2011-11-27,Levante_Sp Gijon_2011,Sp Gijon,7,6,13,14
+2011-11-27,Mallorca_Santander_2011,Mallorca,7,5,12,14
+2011-11-28,Malaga_Villarreal_2011,Malaga,6,7,13,14
+2011-11-28,Malaga_Villarreal_2011,Villarreal,6,7,13,14
+2011-11-29,Barcelona_Vallecano_2011,Vallecano,6,8,14,15
+2011-11-29,Barcelona_Vallecano_2011,Barcelona,8,6,14,15
+2011-12-03,Sp Gijon_Real Madrid_2011,Sp Gijon,8,6,14,15
+2011-12-03,Santander_Villarreal_2011,Villarreal,6,8,14,15
+2011-12-03,Sp Gijon_Real Madrid_2011,Real Madrid,6,8,14,15
+2011-12-03,Valencia_Espanol_2011,Espanol,6,8,14,15
+2011-12-03,Barcelona_Levante_2011,Levante,6,8,14,15
+2011-12-03,Santander_Villarreal_2011,Santander,7,7,14,15
+2011-12-03,Barcelona_Levante_2011,Barcelona,9,6,15,15
+2011-12-03,Valencia_Espanol_2011,Valencia,8,6,14,15
+2011-12-04,Mallorca_Ath Bilbao_2011,Mallorca,8,5,13,15
+2011-12-04,Ath Madrid_Vallecano_2011,Vallecano,6,9,15,15
+2011-12-04,Osasuna_Betis_2011,Osasuna,7,7,14,15
+2011-12-04,Osasuna_Betis_2011,Betis,6,8,14,15
+2011-12-04,Ath Madrid_Vallecano_2011,Ath Madrid,8,6,14,15
+2011-12-04,Sociedad_Malaga_2011,Malaga,6,8,14,15
+2011-12-04,Granada_Zaragoza_2011,Granada,7,6,13,15
+2011-12-04,Sociedad_Malaga_2011,Sociedad,7,7,14,15
+2011-12-04,Granada_Zaragoza_2011,Zaragoza,7,7,14,15
+2011-12-04,Mallorca_Ath Bilbao_2011,Ath Bilbao,7,7,14,15
+2011-12-05,Sevilla_Getafe_2011,Getafe,7,7,14,15
+2011-12-05,Sevilla_Getafe_2011,Sevilla,8,6,14,15
+2011-12-07,Granada_Mallorca_2011,Mallorca,8,6,14,16
+2011-12-07,Granada_Mallorca_2011,Granada,8,6,14,16
+2011-12-10,Real Madrid_Barcelona_2011,Real Madrid,7,8,15,16
+2011-12-10,Real Madrid_Barcelona_2011,Barcelona,9,7,16,16
+2011-12-10,Levante_Sevilla_2011,Sevilla,8,7,15,16
+2011-12-10,Levante_Sevilla_2011,Levante,7,8,15,16
+2011-12-10,Betis_Valencia_2011,Betis,7,8,15,16
+2011-12-10,Betis_Valencia_2011,Valencia,8,7,15,16
+2011-12-11,Zaragoza_Mallorca_2011,Zaragoza,8,7,15,16
+2011-12-11,Malaga_Osasuna_2011,Malaga,7,8,15,16
+2011-12-11,Getafe_Granada_2011,Granada,8,7,15,16
+2011-12-11,Vallecano_Sp Gijon_2011,Vallecano,7,9,16,16
+2011-12-11,Villarreal_Sociedad_2011,Villarreal,7,8,15,16
+2011-12-11,Ath Bilbao_Santander_2011,Santander,7,8,15,16
+2011-12-11,Vallecano_Sp Gijon_2011,Sp Gijon,8,7,15,16
+2011-12-11,Espanol_Ath Madrid_2011,Ath Madrid,8,7,15,16
+2011-12-11,Malaga_Osasuna_2011,Osasuna,7,8,15,16
+2011-12-11,Espanol_Ath Madrid_2011,Espanol,7,8,15,16
+2011-12-11,Ath Bilbao_Santander_2011,Ath Bilbao,8,7,15,16
+2011-12-11,Getafe_Granada_2011,Getafe,8,7,15,16
+2011-12-11,Zaragoza_Mallorca_2011,Mallorca,8,7,15,16
+2011-12-11,Villarreal_Sociedad_2011,Sociedad,7,8,15,16
+2011-12-17,Sevilla_Real Madrid_2011,Sevilla,9,7,16,17
+2011-12-17,Mallorca_Getafe_2011,Mallorca,9,7,16,17
+2011-12-17,Sp Gijon_Espanol_2011,Espanol,7,9,16,17
+2011-12-17,Sp Gijon_Espanol_2011,Sp Gijon,9,7,16,17
+2011-12-17,Mallorca_Getafe_2011,Getafe,8,8,16,17
+2011-12-17,Sevilla_Real Madrid_2011,Real Madrid,7,9,16,17
+2011-12-17,Ath Bilbao_Zaragoza_2011,Zaragoza,8,8,16,17
+2011-12-17,Ath Bilbao_Zaragoza_2011,Ath Bilbao,9,7,16,17
+2011-12-18,Valencia_Malaga_2011,Malaga,7,9,16,17
+2011-12-18,Valencia_Malaga_2011,Valencia,9,7,16,17
+2011-12-18,Ath Madrid_Betis_2011,Ath Madrid,9,7,16,17
+2011-12-18,Osasuna_Villarreal_2011,Villarreal,7,9,16,17
+2011-12-18,Osasuna_Villarreal_2011,Osasuna,8,8,16,17
+2011-12-18,Granada_Levante_2011,Levante,7,9,16,17
+2011-12-18,Santander_Sociedad_2011,Sociedad,7,9,16,17
+2011-12-18,Ath Madrid_Betis_2011,Betis,7,9,16,17
+2011-12-18,Granada_Levante_2011,Granada,9,7,16,17
+2011-12-18,Santander_Sociedad_2011,Santander,8,8,16,17
+2012-01-07,Sociedad_Osasuna_2011,Osasuna,8,9,17,20
+2012-01-07,Santander_Zaragoza_2011,Santander,9,8,17,20
+2012-01-07,Levante_Mallorca_2011,Mallorca,9,8,17,20
+2012-01-07,Levante_Mallorca_2011,Levante,8,9,17,20
+2012-01-07,Real Madrid_Granada_2011,Real Madrid,8,9,17,20
+2012-01-07,Santander_Zaragoza_2011,Zaragoza,8,9,17,20
+2012-01-07,Malaga_Ath Madrid_2011,Ath Madrid,9,8,17,20
+2012-01-07,Malaga_Ath Madrid_2011,Malaga,8,9,17,20
+2012-01-07,Sociedad_Osasuna_2011,Sociedad,8,9,17,20
+2012-01-07,Real Madrid_Granada_2011,Granada,9,8,17,20
+2012-01-08,Espanol_Barcelona_2011,Espanol,8,9,17,20
+2012-01-08,Getafe_Ath Bilbao_2011,Getafe,9,8,17,20
+2012-01-08,Getafe_Ath Bilbao_2011,Ath Bilbao,9,8,17,20
+2012-01-08,Villarreal_Valencia_2011,Valencia,9,8,17,20
+2012-01-08,Betis_Sp Gijon_2011,Betis,8,9,17,20
+2012-01-08,Betis_Sp Gijon_2011,Sp Gijon,9,8,17,20
+2012-01-08,Villarreal_Valencia_2011,Villarreal,8,9,17,20
+2012-01-08,Espanol_Barcelona_2011,Barcelona,9,8,17,20
+2012-01-08,Vallecano_Sevilla_2011,Sevilla,9,8,17,20
+2012-01-08,Vallecano_Sevilla_2011,Vallecano,8,9,17,20
+2012-01-14,Valencia_Sociedad_2011,Sociedad,8,10,18,21
+2012-01-14,Zaragoza_Getafe_2011,Zaragoza,9,9,18,21
+2012-01-14,Mallorca_Real Madrid_2011,Mallorca,10,8,18,21
+2012-01-14,Valencia_Sociedad_2011,Valencia,10,8,18,21
+2012-01-14,Granada_Vallecano_2011,Vallecano,8,10,18,21
+2012-01-14,Sevilla_Espanol_2011,Sevilla,10,8,18,21
+2012-01-14,Mallorca_Real Madrid_2011,Real Madrid,8,10,18,21
+2012-01-14,Sevilla_Espanol_2011,Espanol,8,10,18,21
+2012-01-14,Granada_Vallecano_2011,Granada,10,8,18,21
+2012-01-14,Zaragoza_Getafe_2011,Getafe,9,9,18,21
+2012-01-15,Osasuna_Santander_2011,Osasuna,9,9,18,21
+2012-01-15,Ath Bilbao_Levante_2011,Levante,8,10,18,21
+2012-01-15,Ath Bilbao_Levante_2011,Ath Bilbao,10,8,18,21
+2012-01-15,Barcelona_Betis_2011,Betis,8,10,18,21
+2012-01-15,Sp Gijon_Malaga_2011,Sp Gijon,10,8,18,21
+2012-01-15,Ath Madrid_Villarreal_2011,Ath Madrid,10,8,18,21
+2012-01-15,Barcelona_Betis_2011,Barcelona,10,8,18,21
+2012-01-15,Ath Madrid_Villarreal_2011,Villarreal,8,10,18,21
+2012-01-15,Osasuna_Santander_2011,Santander,9,9,18,21
+2012-01-15,Sp Gijon_Malaga_2011,Malaga,8,10,18,21
+2012-01-21,Betis_Sevilla_2011,Sevilla,10,9,19,22
+2012-01-21,Betis_Sevilla_2011,Betis,9,10,19,22
+2012-01-21,Sociedad_Ath Madrid_2011,Sociedad,9,10,19,22
+2012-01-21,Espanol_Granada_2011,Espanol,9,10,19,22
+2012-01-21,Sociedad_Ath Madrid_2011,Ath Madrid,10,9,19,22
+2012-01-21,Santander_Getafe_2011,Santander,10,9,19,22
+2012-01-21,Santander_Getafe_2011,Getafe,9,10,19,22
+2012-01-21,Espanol_Granada_2011,Granada,10,9,19,22
+2012-01-22,Levante_Zaragoza_2011,Zaragoza,9,10,19,22
+2012-01-22,Real Madrid_Ath Bilbao_2011,Ath Bilbao,10,9,19,22
+2012-01-22,Osasuna_Valencia_2011,Valencia,10,9,19,22
+2012-01-22,Malaga_Barcelona_2011,Malaga,9,10,19,22
+2012-01-22,Malaga_Barcelona_2011,Barcelona,10,9,19,22
+2012-01-22,Vallecano_Mallorca_2011,Mallorca,10,9,19,22
+2012-01-22,Levante_Zaragoza_2011,Levante,9,10,19,22
+2012-01-22,Real Madrid_Ath Bilbao_2011,Real Madrid,9,10,19,22
+2012-01-22,Osasuna_Valencia_2011,Osasuna,10,9,19,22
+2012-01-22,Vallecano_Mallorca_2011,Vallecano,9,10,19,22
+2012-01-23,Villarreal_Sp Gijon_2011,Villarreal,9,10,19,22
+2012-01-23,Villarreal_Sp Gijon_2011,Sp Gijon,10,9,19,22
+2012-01-28,Real Madrid_Zaragoza_2011,Real Madrid,10,10,20,23
+2012-01-28,Espanol_Mallorca_2011,Espanol,10,10,20,23
+2012-01-28,Villarreal_Barcelona_2011,Barcelona,10,10,20,23
+2012-01-28,Vallecano_Ath Bilbao_2011,Ath Bilbao,10,10,20,23
+2012-01-28,Espanol_Mallorca_2011,Mallorca,10,10,20,23
+2012-01-28,Vallecano_Ath Bilbao_2011,Vallecano,10,10,20,23
+2012-01-28,Villarreal_Barcelona_2011,Villarreal,10,10,20,23
+2012-01-28,Real Madrid_Zaragoza_2011,Zaragoza,9,11,20,23
+2012-01-29,Levante_Getafe_2011,Getafe,9,11,20,23
+2012-01-29,Malaga_Sevilla_2011,Sevilla,10,10,20,23
+2012-01-29,Santander_Valencia_2011,Santander,11,9,20,23
+2012-01-29,Sociedad_Sp Gijon_2011,Sp Gijon,10,10,20,23
+2012-01-29,Sociedad_Sp Gijon_2011,Sociedad,10,10,20,23
+2012-01-29,Levante_Getafe_2011,Levante,10,10,20,23
+2012-01-29,Santander_Valencia_2011,Valencia,10,10,20,23
+2012-01-29,Betis_Granada_2011,Granada,10,10,20,23
+2012-01-29,Betis_Granada_2011,Betis,10,10,20,23
+2012-01-29,Malaga_Sevilla_2011,Malaga,10,10,20,23
+2012-01-30,Osasuna_Ath Madrid_2011,Osasuna,11,9,20,23
+2012-01-30,Osasuna_Ath Madrid_2011,Ath Madrid,10,10,20,23
+2012-02-04,Levante_Santander_2011,Levante,11,10,21,24
+2012-02-04,Getafe_Real Madrid_2011,Real Madrid,10,11,21,24
+2012-02-04,Levante_Santander_2011,Santander,11,10,21,24
+2012-02-04,Barcelona_Sociedad_2011,Sociedad,10,11,21,24
+2012-02-04,Barcelona_Sociedad_2011,Barcelona,11,10,21,24
+2012-02-04,Ath Bilbao_Espanol_2011,Espanol,10,11,21,24
+2012-02-04,Mallorca_Betis_2011,Betis,10,11,21,24
+2012-02-04,Ath Bilbao_Espanol_2011,Ath Bilbao,11,10,21,24
+2012-02-04,Mallorca_Betis_2011,Mallorca,11,10,21,24
+2012-02-04,Getafe_Real Madrid_2011,Getafe,10,11,21,24
+2012-02-05,Zaragoza_Vallecano_2011,Zaragoza,10,11,21,24
+2012-02-05,Sp Gijon_Osasuna_2011,Osasuna,11,10,21,24
+2012-02-05,Sp Gijon_Osasuna_2011,Sp Gijon,11,10,21,24
+2012-02-05,Sevilla_Villarreal_2011,Villarreal,10,11,21,24
+2012-02-05,Zaragoza_Vallecano_2011,Vallecano,10,11,21,24
+2012-02-05,Sevilla_Villarreal_2011,Sevilla,11,10,21,24
+2012-02-05,Ath Madrid_Valencia_2011,Valencia,10,11,21,24
+2012-02-05,Ath Madrid_Valencia_2011,Ath Madrid,11,10,21,24
+2012-02-06,Granada_Malaga_2011,Malaga,10,11,21,24
+2012-02-06,Granada_Malaga_2011,Granada,11,10,21,24
+2012-02-11,Santander_Ath Madrid_2011,Ath Madrid,11,11,22,25
+2012-02-11,Santander_Ath Madrid_2011,Santander,12,10,22,25
+2012-02-11,Osasuna_Barcelona_2011,Barcelona,11,11,22,25
+2012-02-11,Osasuna_Barcelona_2011,Osasuna,12,10,22,25
+2012-02-11,Betis_Ath Bilbao_2011,Ath Bilbao,11,11,22,25
+2012-02-11,Betis_Ath Bilbao_2011,Betis,11,11,22,25
+2012-02-12,Valencia_Sp Gijon_2011,Sp Gijon,11,11,22,25
+2012-02-12,Vallecano_Getafe_2011,Vallecano,11,11,22,25
+2012-02-12,Vallecano_Getafe_2011,Getafe,10,12,22,25
+2012-02-12,Real Madrid_Levante_2011,Levante,11,11,22,25
+2012-02-12,Real Madrid_Levante_2011,Real Madrid,11,11,22,25
+2012-02-12,Villarreal_Granada_2011,Granada,11,11,22,25
+2012-02-12,Malaga_Mallorca_2011,Malaga,11,11,22,25
+2012-02-12,Malaga_Mallorca_2011,Mallorca,11,11,22,25
+2012-02-12,Valencia_Sp Gijon_2011,Valencia,11,11,22,25
+2012-02-12,Villarreal_Granada_2011,Villarreal,11,11,22,25
+2012-02-12,Espanol_Zaragoza_2011,Espanol,11,11,22,25
+2012-02-12,Espanol_Zaragoza_2011,Zaragoza,10,12,22,25
+2012-02-13,Sociedad_Sevilla_2011,Sociedad,11,11,22,25
+2012-02-13,Sociedad_Sevilla_2011,Sevilla,11,11,22,25
+2012-02-18,Sevilla_Osasuna_2011,Osasuna,12,11,23,26
+2012-02-18,Sevilla_Osasuna_2011,Sevilla,12,11,23,26
+2012-02-18,Getafe_Espanol_2011,Getafe,11,12,23,26
+2012-02-18,Real Madrid_Santander_2011,Santander,12,11,23,26
+2012-02-18,Getafe_Espanol_2011,Espanol,11,12,23,26
+2012-02-18,Real Madrid_Santander_2011,Real Madrid,12,11,23,26
+2012-02-19,Granada_Sociedad_2011,Sociedad,11,12,23,26
+2012-02-19,Granada_Sociedad_2011,Granada,12,11,23,26
+2012-02-19,Ath Bilbao_Malaga_2011,Ath Bilbao,12,11,23,26
+2012-02-19,Ath Bilbao_Malaga_2011,Malaga,11,12,23,26
+2012-02-19,Mallorca_Villarreal_2011,Villarreal,11,12,23,26
+2012-02-19,Levante_Vallecano_2011,Vallecano,11,12,23,26
+2012-02-19,Barcelona_Valencia_2011,Barcelona,12,11,23,26
+2012-02-19,Levante_Vallecano_2011,Levante,12,11,23,26
+2012-02-19,Mallorca_Villarreal_2011,Mallorca,12,11,23,26
+2012-02-19,Barcelona_Valencia_2011,Valencia,11,12,23,26
+2012-02-19,Sp Gijon_Ath Madrid_2011,Ath Madrid,11,12,23,26
+2012-02-19,Sp Gijon_Ath Madrid_2011,Sp Gijon,12,11,23,26
+2012-02-20,Zaragoza_Betis_2011,Zaragoza,11,12,23,26
+2012-02-20,Zaragoza_Betis_2011,Betis,11,12,23,26
+2012-02-25,Santander_Sp Gijon_2011,Santander,13,11,24,27
+2012-02-25,Malaga_Zaragoza_2011,Zaragoza,11,13,24,27
+2012-02-25,Santander_Sp Gijon_2011,Sp Gijon,12,12,24,27
+2012-02-25,Betis_Getafe_2011,Betis,12,12,24,27
+2012-02-25,Espanol_Levante_2011,Levante,12,12,24,27
+2012-02-25,Espanol_Levante_2011,Espanol,12,12,24,27
+2012-02-25,Malaga_Zaragoza_2011,Malaga,12,12,24,27
+2012-02-25,Betis_Getafe_2011,Getafe,11,13,24,27
+2012-02-26,Vallecano_Real Madrid_2011,Vallecano,12,12,24,27
+2012-02-26,Villarreal_Ath Bilbao_2011,Villarreal,12,12,24,27
+2012-02-26,Valencia_Sevilla_2011,Sevilla,12,12,24,27
+2012-02-26,Valencia_Sevilla_2011,Valencia,12,12,24,27
+2012-02-26,Sociedad_Mallorca_2011,Mallorca,12,12,24,27
+2012-02-26,Sociedad_Mallorca_2011,Sociedad,12,12,24,27
+2012-02-26,Ath Madrid_Barcelona_2011,Ath Madrid,12,12,24,27
+2012-02-26,Osasuna_Granada_2011,Granada,12,12,24,27
+2012-02-26,Osasuna_Granada_2011,Osasuna,13,11,24,27
+2012-02-26,Ath Madrid_Barcelona_2011,Barcelona,12,12,24,27
+2012-02-26,Villarreal_Ath Bilbao_2011,Ath Bilbao,12,12,24,27
+2012-02-26,Vallecano_Real Madrid_2011,Real Madrid,12,12,24,27
+2012-03-03,Mallorca_Osasuna_2011,Mallorca,13,12,25,28
+2012-03-03,Vallecano_Santander_2011,Santander,13,12,25,28
+2012-03-03,Barcelona_Sp Gijon_2011,Barcelona,13,12,25,28
+2012-03-03,Getafe_Malaga_2011,Malaga,12,13,25,28
+2012-03-03,Mallorca_Osasuna_2011,Osasuna,13,12,25,28
+2012-03-03,Barcelona_Sp Gijon_2011,Sp Gijon,12,13,25,28
+2012-03-03,Sevilla_Ath Madrid_2011,Ath Madrid,12,13,25,28
+2012-03-03,Sevilla_Ath Madrid_2011,Sevilla,13,12,25,28
+2012-03-03,Vallecano_Santander_2011,Vallecano,13,12,25,28
+2012-03-03,Getafe_Malaga_2011,Getafe,12,13,25,28
+2012-03-04,Ath Bilbao_Sociedad_2011,Ath Bilbao,13,12,25,28
+2012-03-04,Granada_Valencia_2011,Valencia,12,13,25,28
+2012-03-04,Zaragoza_Villarreal_2011,Zaragoza,12,13,25,28
+2012-03-04,Ath Bilbao_Sociedad_2011,Sociedad,12,13,25,28
+2012-03-04,Real Madrid_Espanol_2011,Espanol,12,13,25,28
+2012-03-04,Real Madrid_Espanol_2011,Real Madrid,13,12,25,28
+2012-03-04,Granada_Valencia_2011,Granada,13,12,25,28
+2012-03-04,Zaragoza_Villarreal_2011,Villarreal,12,13,25,28
+2012-03-05,Levante_Betis_2011,Levante,13,12,25,28
+2012-03-05,Levante_Betis_2011,Betis,12,13,25,28
+2012-03-10,Sociedad_Zaragoza_2011,Zaragoza,12,14,26,29
+2012-03-10,Sociedad_Zaragoza_2011,Sociedad,13,13,26,29
+2012-03-10,Betis_Real Madrid_2011,Real Madrid,13,13,26,29
+2012-03-10,Betis_Real Madrid_2011,Betis,13,13,26,29
+2012-03-10,Malaga_Levante_2011,Levante,13,13,26,29
+2012-03-10,Sp Gijon_Sevilla_2011,Sevilla,13,13,26,29
+2012-03-10,Malaga_Levante_2011,Malaga,13,13,26,29
+2012-03-10,Sp Gijon_Sevilla_2011,Sp Gijon,13,13,26,29
+2012-03-11,Espanol_Vallecano_2011,Espanol,13,13,26,29
+2012-03-11,Osasuna_Ath Bilbao_2011,Ath Bilbao,13,13,26,29
+2012-03-11,Valencia_Mallorca_2011,Mallorca,13,13,26,29
+2012-03-11,Santander_Barcelona_2011,Barcelona,13,13,26,29
+2012-03-11,Ath Madrid_Granada_2011,Granada,13,13,26,29
+2012-03-11,Ath Madrid_Granada_2011,Ath Madrid,13,13,26,29
+2012-03-11,Osasuna_Ath Bilbao_2011,Osasuna,14,12,26,29
+2012-03-11,Santander_Barcelona_2011,Santander,14,12,26,29
+2012-03-11,Valencia_Mallorca_2011,Valencia,13,13,26,29
+2012-03-11,Espanol_Vallecano_2011,Vallecano,13,13,26,29
+2012-03-12,Villarreal_Getafe_2011,Villarreal,13,13,26,29
+2012-03-12,Villarreal_Getafe_2011,Getafe,12,14,26,29
+2012-03-17,Getafe_Sociedad_2011,Sociedad,13,14,27,30
+2012-03-17,Sevilla_Barcelona_2011,Sevilla,14,13,27,30
+2012-03-17,Granada_Sp Gijon_2011,Sp Gijon,13,14,27,30
+2012-03-17,Sevilla_Barcelona_2011,Barcelona,13,14,27,30
+2012-03-17,Getafe_Sociedad_2011,Getafe,13,14,27,30
+2012-03-17,Vallecano_Betis_2011,Betis,13,14,27,30
+2012-03-17,Zaragoza_Osasuna_2011,Osasuna,14,13,27,30
+2012-03-17,Granada_Sp Gijon_2011,Granada,14,13,27,30
+2012-03-17,Zaragoza_Osasuna_2011,Zaragoza,13,14,27,30
+2012-03-17,Vallecano_Betis_2011,Vallecano,14,13,27,30
+2012-03-18,Ath Bilbao_Valencia_2011,Ath Bilbao,14,13,27,30
+2012-03-18,Real Madrid_Malaga_2011,Real Madrid,14,13,27,30
+2012-03-18,Levante_Villarreal_2011,Levante,14,13,27,30
+2012-03-18,Mallorca_Ath Madrid_2011,Mallorca,14,13,27,30
+2012-03-18,Ath Bilbao_Valencia_2011,Valencia,13,14,27,30
+2012-03-18,Real Madrid_Malaga_2011,Malaga,13,14,27,30
+2012-03-18,Levante_Villarreal_2011,Villarreal,13,14,27,30
+2012-03-18,Mallorca_Ath Madrid_2011,Ath Madrid,13,14,27,30
+2012-03-19,Espanol_Santander_2011,Santander,14,13,27,30
+2012-03-19,Espanol_Santander_2011,Espanol,14,13,27,30
+2012-03-20,Osasuna_Getafe_2011,Getafe,13,15,28,31
+2012-03-20,Barcelona_Granada_2011,Barcelona,14,14,28,31
+2012-03-20,Barcelona_Granada_2011,Granada,14,14,28,31
+2012-03-20,Osasuna_Getafe_2011,Osasuna,15,13,28,31
+2012-03-21,Sp Gijon_Mallorca_2011,Mallorca,14,14,28,31
+2012-03-21,Valencia_Zaragoza_2011,Zaragoza,13,15,28,31
+2012-03-21,Villarreal_Real Madrid_2011,Real Madrid,14,14,28,31
+2012-03-21,Valencia_Zaragoza_2011,Valencia,14,14,28,31
+2012-03-21,Sociedad_Levante_2011,Sociedad,14,14,28,31
+2012-03-21,Ath Madrid_Ath Bilbao_2011,Ath Madrid,14,14,28,31
+2012-03-21,Sp Gijon_Mallorca_2011,Sp Gijon,14,14,28,31
+2012-03-21,Sociedad_Levante_2011,Levante,14,14,28,31
+2012-03-21,Ath Madrid_Ath Bilbao_2011,Ath Bilbao,14,14,28,31
+2012-03-21,Villarreal_Real Madrid_2011,Villarreal,14,14,28,31
+2012-03-22,Malaga_Vallecano_2011,Vallecano,14,14,28,31
+2012-03-22,Santander_Sevilla_2011,Sevilla,14,14,28,31
+2012-03-22,Betis_Espanol_2011,Betis,14,14,28,31
+2012-03-22,Betis_Espanol_2011,Espanol,14,14,28,31
+2012-03-22,Santander_Sevilla_2011,Santander,15,13,28,31
+2012-03-22,Malaga_Vallecano_2011,Malaga,14,14,28,31
+2012-03-24,Getafe_Valencia_2011,Getafe,14,15,29,31
+2012-03-24,Getafe_Valencia_2011,Valencia,14,15,29,31
+2012-03-24,Mallorca_Barcelona_2011,Barcelona,14,15,29,31
+2012-03-24,Real Madrid_Sociedad_2011,Sociedad,14,15,29,31
+2012-03-24,Real Madrid_Sociedad_2011,Real Madrid,15,14,29,31
+2012-03-24,Mallorca_Barcelona_2011,Mallorca,15,14,29,31
+2012-03-25,Zaragoza_Ath Madrid_2011,Ath Madrid,14,15,29,31
+2012-03-25,Vallecano_Villarreal_2011,Villarreal,14,15,29,31
+2012-03-25,Espanol_Malaga_2011,Malaga,14,15,29,31
+2012-03-25,Betis_Santander_2011,Santander,15,14,29,31
+2012-03-25,Ath Bilbao_Sp Gijon_2011,Ath Bilbao,15,14,29,31
+2012-03-25,Vallecano_Villarreal_2011,Vallecano,15,14,29,31
+2012-03-25,Zaragoza_Ath Madrid_2011,Zaragoza,14,15,29,31
+2012-03-25,Espanol_Malaga_2011,Espanol,15,14,29,31
+2012-03-25,Betis_Santander_2011,Betis,15,14,29,31
+2012-03-25,Ath Bilbao_Sp Gijon_2011,Sp Gijon,14,15,29,31
+2012-03-25,Levante_Osasuna_2011,Osasuna,15,14,29,31
+2012-03-25,Levante_Osasuna_2011,Levante,15,14,29,31
+2012-03-26,Granada_Sevilla_2011,Granada,15,14,29,31
+2012-03-26,Granada_Sevilla_2011,Sevilla,14,15,29,31
+2012-03-31,Sp Gijon_Zaragoza_2011,Sp Gijon,15,15,30,32
+2012-03-31,Sp Gijon_Zaragoza_2011,Zaragoza,14,16,30,32
+2012-03-31,Osasuna_Real Madrid_2011,Real Madrid,15,15,30,32
+2012-03-31,Osasuna_Real Madrid_2011,Osasuna,16,14,30,32
+2012-03-31,Malaga_Betis_2011,Betis,15,15,30,32
+2012-03-31,Barcelona_Ath Bilbao_2011,Barcelona,15,15,30,32
+2012-03-31,Santander_Granada_2011,Granada,15,15,30,32
+2012-03-31,Santander_Granada_2011,Santander,16,14,30,32
+2012-03-31,Malaga_Betis_2011,Malaga,15,15,30,32
+2012-03-31,Barcelona_Ath Bilbao_2011,Ath Bilbao,15,15,30,32
+2012-04-01,Sociedad_Vallecano_2011,Sociedad,15,15,30,32
+2012-04-01,Valencia_Levante_2011,Valencia,15,15,30,32
+2012-04-01,Valencia_Levante_2011,Levante,15,15,30,32
+2012-04-01,Villarreal_Espanol_2011,Espanol,15,15,30,32
+2012-04-01,Villarreal_Espanol_2011,Villarreal,15,15,30,32
+2012-04-01,Ath Madrid_Getafe_2011,Getafe,14,16,30,32
+2012-04-01,Ath Madrid_Getafe_2011,Ath Madrid,15,15,30,32
+2012-04-01,Sociedad_Vallecano_2011,Vallecano,15,15,30,32
+2012-04-02,Sevilla_Mallorca_2011,Sevilla,15,15,30,32
+2012-04-02,Sevilla_Mallorca_2011,Mallorca,15,15,30,32
+2012-04-07,Zaragoza_Barcelona_2011,Barcelona,15,16,31,33
+2012-04-07,Vallecano_Osasuna_2011,Vallecano,16,15,31,33
+2012-04-07,Getafe_Sp Gijon_2011,Getafe,15,16,31,33
+2012-04-07,Getafe_Sp Gijon_2011,Sp Gijon,15,16,31,33
+2012-04-07,Vallecano_Osasuna_2011,Osasuna,16,15,31,33
+2012-04-07,Betis_Villarreal_2011,Betis,16,15,31,33
+2012-04-07,Betis_Villarreal_2011,Villarreal,15,16,31,33
+2012-04-07,Espanol_Sociedad_2011,Espanol,16,15,31,33
+2012-04-07,Zaragoza_Barcelona_2011,Zaragoza,15,16,31,33
+2012-04-07,Espanol_Sociedad_2011,Sociedad,15,16,31,33
+2012-04-08,Real Madrid_Valencia_2011,Real Madrid,16,15,31,33
+2012-04-08,Real Madrid_Valencia_2011,Valencia,15,16,31,33
+2012-04-08,Mallorca_Granada_2011,Mallorca,16,15,31,33
+2012-04-08,Levante_Ath Madrid_2011,Ath Madrid,15,16,31,33
+2012-04-08,Ath Bilbao_Sevilla_2011,Sevilla,15,16,31,33
+2012-04-08,Ath Bilbao_Sevilla_2011,Ath Bilbao,16,15,31,33
+2012-04-08,Mallorca_Granada_2011,Granada,15,16,31,33
+2012-04-08,Levante_Ath Madrid_2011,Levante,16,15,31,33
+2012-04-09,Malaga_Santander_2011,Malaga,16,15,31,33
+2012-04-09,Malaga_Santander_2011,Santander,16,15,31,33
+2012-04-10,Sociedad_Betis_2011,Sociedad,16,16,32,34
+2012-04-10,Osasuna_Espanol_2011,Osasuna,17,15,32,34
+2012-04-10,Osasuna_Espanol_2011,Espanol,16,16,32,34
+2012-04-10,Barcelona_Getafe_2011,Getafe,15,17,32,34
+2012-04-10,Barcelona_Getafe_2011,Barcelona,16,16,32,34
+2012-04-10,Sociedad_Betis_2011,Betis,16,16,32,34
+2012-04-11,Sp Gijon_Levante_2011,Levante,16,16,32,34
+2012-04-11,Ath Madrid_Real Madrid_2011,Real Madrid,16,16,32,34
+2012-04-11,Valencia_Vallecano_2011,Vallecano,16,16,32,34
+2012-04-11,Sp Gijon_Levante_2011,Sp Gijon,16,16,32,34
+2012-04-11,Granada_Ath Bilbao_2011,Ath Bilbao,16,16,32,34
+2012-04-11,Ath Madrid_Real Madrid_2011,Ath Madrid,16,16,32,34
+2012-04-11,Granada_Ath Bilbao_2011,Granada,16,16,32,34
+2012-04-11,Valencia_Vallecano_2011,Valencia,16,16,32,34
+2012-04-12,Sevilla_Zaragoza_2011,Zaragoza,15,17,32,34
+2012-04-12,Villarreal_Malaga_2011,Villarreal,16,16,32,34
+2012-04-12,Santander_Mallorca_2011,Mallorca,16,16,32,34
+2012-04-12,Santander_Mallorca_2011,Santander,17,15,32,34
+2012-04-12,Villarreal_Malaga_2011,Malaga,16,16,32,34
+2012-04-12,Sevilla_Zaragoza_2011,Sevilla,16,16,32,34
+2012-04-14,Real Madrid_Sp Gijon_2011,Real Madrid,17,16,33,34
+2012-04-14,Levante_Barcelona_2011,Barcelona,16,17,33,34
+2012-04-14,Real Madrid_Sp Gijon_2011,Sp Gijon,16,17,33,34
+2012-04-14,Levante_Barcelona_2011,Levante,17,16,33,34
+2012-04-15,Malaga_Sociedad_2011,Sociedad,16,17,33,34
+2012-04-15,Ath Bilbao_Mallorca_2011,Mallorca,16,17,33,34
+2012-04-15,Espanol_Valencia_2011,Valencia,16,17,33,34
+2012-04-15,Malaga_Sociedad_2011,Malaga,17,16,33,34
+2012-04-15,Betis_Osasuna_2011,Osasuna,17,16,33,34
+2012-04-15,Zaragoza_Granada_2011,Granada,16,17,33,34
+2012-04-15,Vallecano_Ath Madrid_2011,Vallecano,17,16,33,34
+2012-04-15,Betis_Osasuna_2011,Betis,17,16,33,34
+2012-04-15,Villarreal_Santander_2011,Santander,17,16,33,34
+2012-04-15,Ath Bilbao_Mallorca_2011,Ath Bilbao,17,16,33,34
+2012-04-15,Villarreal_Santander_2011,Villarreal,17,16,33,34
+2012-04-15,Zaragoza_Granada_2011,Zaragoza,16,17,33,34
+2012-04-15,Vallecano_Ath Madrid_2011,Ath Madrid,16,17,33,34
+2012-04-15,Espanol_Valencia_2011,Espanol,17,16,33,34
+2012-04-16,Getafe_Sevilla_2011,Getafe,16,17,33,34
+2012-04-16,Getafe_Sevilla_2011,Sevilla,16,17,33,34
+2012-04-21,Sp Gijon_Vallecano_2011,Vallecano,17,17,34,35
+2012-04-21,Sevilla_Levante_2011,Levante,17,17,34,35
+2012-04-21,Sevilla_Levante_2011,Sevilla,17,17,34,35
+2012-04-21,Mallorca_Zaragoza_2011,Zaragoza,16,18,34,35
+2012-04-21,Barcelona_Real Madrid_2011,Real Madrid,17,17,34,35
+2012-04-21,Mallorca_Zaragoza_2011,Mallorca,17,17,34,35
+2012-04-21,Barcelona_Real Madrid_2011,Barcelona,17,17,34,35
+2012-04-21,Sp Gijon_Vallecano_2011,Sp Gijon,17,17,34,35
+2012-04-22,Sociedad_Villarreal_2011,Villarreal,17,17,34,35
+2012-04-22,Sociedad_Villarreal_2011,Sociedad,17,17,34,35
+2012-04-22,Ath Madrid_Espanol_2011,Ath Madrid,17,17,34,35
+2012-04-22,Valencia_Betis_2011,Valencia,17,17,34,35
+2012-04-22,Santander_Ath Bilbao_2011,Santander,18,16,34,35
+2012-04-22,Ath Madrid_Espanol_2011,Espanol,17,17,34,35
+2012-04-22,Valencia_Betis_2011,Betis,17,17,34,35
+2012-04-22,Granada_Getafe_2011,Granada,17,17,34,35
+2012-04-22,Santander_Ath Bilbao_2011,Ath Bilbao,17,17,34,35
+2012-04-22,Granada_Getafe_2011,Getafe,16,18,34,35
+2012-04-23,Osasuna_Malaga_2011,Osasuna,18,16,34,35
+2012-04-23,Osasuna_Malaga_2011,Malaga,17,17,34,35
+2012-04-28,Levante_Granada_2011,Granada,17,18,35,36
+2012-04-28,Getafe_Mallorca_2011,Getafe,17,18,35,36
+2012-04-28,Espanol_Sp Gijon_2011,Sp Gijon,17,18,35,36
+2012-04-28,Villarreal_Osasuna_2011,Osasuna,18,17,35,36
+2012-04-28,Espanol_Sp Gijon_2011,Espanol,18,17,35,36
+2012-04-28,Villarreal_Osasuna_2011,Villarreal,18,17,35,36
+2012-04-28,Getafe_Mallorca_2011,Mallorca,17,18,35,36
+2012-04-28,Sociedad_Santander_2011,Santander,18,17,35,36
+2012-04-28,Sociedad_Santander_2011,Sociedad,18,17,35,36
+2012-04-28,Levante_Granada_2011,Levante,18,17,35,36
+2012-04-29,Zaragoza_Ath Bilbao_2011,Zaragoza,17,18,35,36
+2012-04-29,Real Madrid_Sevilla_2011,Sevilla,17,18,35,36
+2012-04-29,Betis_Ath Madrid_2011,Ath Madrid,17,18,35,36
+2012-04-29,Real Madrid_Sevilla_2011,Real Madrid,18,17,35,36
+2012-04-29,Malaga_Valencia_2011,Valencia,17,18,35,36
+2012-04-29,Betis_Ath Madrid_2011,Betis,18,17,35,36
+2012-04-29,Vallecano_Barcelona_2011,Vallecano,18,17,35,36
+2012-04-29,Vallecano_Barcelona_2011,Barcelona,17,18,35,36
+2012-04-29,Malaga_Valencia_2011,Malaga,18,17,35,36
+2012-04-29,Zaragoza_Ath Bilbao_2011,Ath Bilbao,17,18,35,36
+2012-05-01,Sp Gijon_Villarreal_2011,Sp Gijon,18,18,36,37
+2012-05-01,Granada_Espanol_2011,Granada,18,18,36,37
+2012-05-01,Getafe_Santander_2011,Getafe,18,18,36,37
+2012-05-01,Granada_Espanol_2011,Espanol,18,18,36,37
+2012-05-01,Getafe_Santander_2011,Santander,18,18,36,37
+2012-05-01,Sp Gijon_Villarreal_2011,Villarreal,18,18,36,37
+2012-05-02,Mallorca_Vallecano_2011,Mallorca,18,18,36,37
+2012-05-02,Valencia_Osasuna_2011,Osasuna,18,18,36,37
+2012-05-02,Sevilla_Betis_2011,Sevilla,18,18,36,37
+2012-05-02,Mallorca_Vallecano_2011,Vallecano,18,18,36,37
+2012-05-02,Barcelona_Malaga_2011,Barcelona,18,18,36,37
+2012-05-02,Valencia_Osasuna_2011,Valencia,18,18,36,37
+2012-05-02,Zaragoza_Levante_2011,Levante,18,18,36,37
+2012-05-02,Ath Madrid_Sociedad_2011,Sociedad,18,18,36,37
+2012-05-02,Ath Madrid_Sociedad_2011,Ath Madrid,18,18,36,37
+2012-05-02,Sevilla_Betis_2011,Betis,18,18,36,37
+2012-05-02,Ath Bilbao_Real Madrid_2011,Ath Bilbao,18,18,36,37
+2012-05-02,Barcelona_Malaga_2011,Malaga,18,18,36,37
+2012-05-02,Zaragoza_Levante_2011,Zaragoza,18,18,36,37
+2012-05-02,Ath Bilbao_Real Madrid_2011,Real Madrid,18,18,36,37
+2012-05-05,Zaragoza_Santander_2011,Zaragoza,19,18,37,37
+2012-05-05,Ath Bilbao_Getafe_2011,Getafe,18,19,37,37
+2012-05-05,Sp Gijon_Betis_2011,Betis,18,19,37,37
+2012-05-05,Valencia_Villarreal_2011,Villarreal,18,19,37,37
+2012-05-05,Ath Madrid_Malaga_2011,Malaga,18,19,37,37
+2012-05-05,Ath Madrid_Malaga_2011,Ath Madrid,19,18,37,37
+2012-05-05,Granada_Real Madrid_2011,Granada,19,18,37,37
+2012-05-05,Zaragoza_Santander_2011,Santander,18,19,37,37
+2012-05-05,Osasuna_Sociedad_2011,Sociedad,18,19,37,37
+2012-05-05,Osasuna_Sociedad_2011,Osasuna,19,18,37,37
+2012-05-05,Sp Gijon_Betis_2011,Sp Gijon,19,18,37,37
+2012-05-05,Sevilla_Vallecano_2011,Sevilla,19,18,37,37
+2012-05-05,Barcelona_Espanol_2011,Espanol,18,19,37,37
+2012-05-05,Mallorca_Levante_2011,Levante,18,19,37,37
+2012-05-05,Valencia_Villarreal_2011,Valencia,19,18,37,37
+2012-05-05,Ath Bilbao_Getafe_2011,Ath Bilbao,19,18,37,37
+2012-05-05,Sevilla_Vallecano_2011,Vallecano,18,19,37,37
+2012-05-05,Granada_Real Madrid_2011,Real Madrid,18,19,37,37
+2012-05-05,Mallorca_Levante_2011,Mallorca,19,18,37,37
+2012-05-05,Barcelona_Espanol_2011,Barcelona,19,18,37,37
+2012-05-12,Betis_Barcelona_2011,Barcelona,19,19,38,38
+2012-05-12,Betis_Barcelona_2011,Betis,19,19,38,38
+2012-05-12,Sociedad_Valencia_2011,Valencia,19,19,38,38
+2012-05-12,Sociedad_Valencia_2011,Sociedad,19,19,38,38
+2012-05-13,Malaga_Sp Gijon_2011,Malaga,19,19,38,38
+2012-05-13,Vallecano_Granada_2011,Granada,19,19,38,38
+2012-05-13,Malaga_Sp Gijon_2011,Sp Gijon,19,19,38,38
+2012-05-13,Real Madrid_Mallorca_2011,Mallorca,19,19,38,38
+2012-05-13,Getafe_Zaragoza_2011,Getafe,19,19,38,38
+2012-05-13,Levante_Ath Bilbao_2011,Ath Bilbao,19,19,38,38
+2012-05-13,Real Madrid_Mallorca_2011,Real Madrid,19,19,38,38
+2012-05-13,Vallecano_Granada_2011,Vallecano,19,19,38,38
+2012-05-13,Villarreal_Ath Madrid_2011,Ath Madrid,19,19,38,38
+2012-05-13,Santander_Osasuna_2011,Santander,19,19,38,38
+2012-05-13,Espanol_Sevilla_2011,Sevilla,19,19,38,38
+2012-05-13,Espanol_Sevilla_2011,Espanol,19,19,38,38
+2012-05-13,Levante_Ath Bilbao_2011,Levante,19,19,38,38
+2012-05-13,Santander_Osasuna_2011,Osasuna,19,19,38,38
+2012-05-13,Villarreal_Ath Madrid_2011,Villarreal,19,19,38,38
+2012-05-13,Getafe_Zaragoza_2011,Zaragoza,19,19,38,38

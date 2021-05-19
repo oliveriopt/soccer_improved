@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2008-08-16,Cercle Brugge_Anderlecht_2008,Anderlecht,1,1,1,1
+2008-08-16,Roeselare_Kortrijk_2008,Kortrijk,1,1,1,1
+2008-08-16,Westerlo_Charleroi_2008,Charleroi,1,1,1,1
+2008-08-16,Tubize_Mouscron_2008,Mouscron,1,1,1,1
+2008-08-16,Dender_Standard_2008,Standard,1,1,1,1
+2008-08-16,Tubize_Mouscron_2008,Tubize,1,1,1,1
+2008-08-16,Westerlo_Charleroi_2008,Westerlo,1,1,1,1
+2008-08-16,Waregem_Lokeren_2008,Lokeren,1,1,1,1
+2008-08-16,Roeselare_Kortrijk_2008,Roeselare,1,1,1,1
+2008-08-16,Dender_Standard_2008,Dender,1,1,1,1
+2008-08-16,Cercle Brugge_Anderlecht_2008,Cercle Brugge,1,1,1,1
+2008-08-16,Waregem_Lokeren_2008,Waregem,1,1,1,1
+2008-08-17,Gent_Bergen_2008,Bergen,1,1,1,1
+2008-08-17,Genk_Germinal_2008,Genk,1,1,1,1
+2008-08-17,Genk_Germinal_2008,Germinal,1,1,1,1
+2008-08-17,Gent_Bergen_2008,Gent,1,1,1,1
+2008-08-23,Standard_Westerlo_2008,Standard,1,1,2,2
+2008-08-23,Charleroi_Roeselare_2008,Charleroi,1,1,2,2
+2008-08-23,Lokeren_Tubize_2008,Tubize,1,1,2,2
+2008-08-23,Germinal_Dender_2008,Germinal,1,1,2,2
+2008-08-23,Germinal_Dender_2008,Dender,1,1,2,2
+2008-08-23,Mouscron_Mechelen_2008,Mouscron,1,1,2,2
+2008-08-23,Lokeren_Tubize_2008,Lokeren,1,1,2,2
+2008-08-23,Kortrijk_Cercle Brugge_2008,Kortrijk,1,1,2,2
+2008-08-23,Anderlecht_Gent_2008,Anderlecht,1,1,2,2
+2008-08-23,Mouscron_Mechelen_2008,Mechelen,1,1,1,2
+2008-08-23,Anderlecht_Gent_2008,Gent,1,1,2,2
+2008-08-23,Kortrijk_Cercle Brugge_2008,Cercle Brugge,1,1,2,2
+2008-08-23,Charleroi_Roeselare_2008,Roeselare,1,1,2,2
+2008-08-23,Standard_Westerlo_2008,Westerlo,1,1,2,2
+2008-08-24,Bergen_Genk_2008,Bergen,1,1,2,2
+2008-08-24,Bergen_Genk_2008,Genk,1,1,2,2
+2008-08-29,Tubize_Club Brugge_2008,Tubize,2,1,3,3
+2008-08-29,Tubize_Club Brugge_2008,Club Brugge,1,1,1,3
+2008-08-30,Mechelen_Waregem_2008,Waregem,1,1,2,3
+2008-08-30,Dender_Mouscron_2008,Dender,2,1,3,3
+2008-08-30,Anderlecht_Kortrijk_2008,Anderlecht,2,1,3,3
+2008-08-30,Genk_Lokeren_2008,Lokeren,1,2,3,3
+2008-08-30,Cercle Brugge_Bergen_2008,Cercle Brugge,2,1,3,3
+2008-08-30,Mechelen_Waregem_2008,Mechelen,1,1,2,3
+2008-08-30,Cercle Brugge_Bergen_2008,Bergen,1,2,3,3
+2008-08-30,Westerlo_Germinal_2008,Germinal,1,2,3,3
+2008-08-30,Genk_Lokeren_2008,Genk,2,1,3,3
+2008-08-30,Anderlecht_Kortrijk_2008,Kortrijk,1,2,3,3
+2008-08-30,Dender_Mouscron_2008,Mouscron,1,2,3,3
+2008-08-30,Westerlo_Germinal_2008,Westerlo,2,1,3,3
+2008-08-31,Roeselare_Standard_2008,Roeselare,2,1,3,3
+2008-08-31,Roeselare_Standard_2008,Standard,1,2,3,3
+2008-08-31,Gent_Charleroi_2008,Gent,2,1,3,3
+2008-08-31,Gent_Charleroi_2008,Charleroi,1,2,3,3
+2008-09-13,Lokeren_Westerlo_2008,Westerlo,2,2,4,5
+2008-09-13,Mechelen_Tubize_2008,Tubize,2,2,4,5
+2008-09-13,Club Brugge_Dender_2008,Club Brugge,1,1,2,5
+2008-09-13,Mouscron_Gent_2008,Mouscron,2,2,4,5
+2008-09-13,Germinal_Roeselare_2008,Roeselare,2,2,4,5
+2008-09-13,Standard_Kortrijk_2008,Standard,2,2,4,5
+2008-09-13,Bergen_Anderlecht_2008,Bergen,2,2,4,5
+2008-09-13,Club Brugge_Dender_2008,Dender,2,2,4,5
+2008-09-13,Mechelen_Tubize_2008,Mechelen,2,1,3,5
+2008-09-13,Standard_Kortrijk_2008,Kortrijk,1,3,4,5
+2008-09-13,Mouscron_Gent_2008,Gent,2,2,4,5
+2008-09-13,Bergen_Anderlecht_2008,Anderlecht,2,2,4,5
+2008-09-13,Lokeren_Westerlo_2008,Lokeren,2,2,4,5
+2008-09-13,Germinal_Roeselare_2008,Germinal,2,2,4,5
+2008-09-14,Charleroi_Cercle Brugge_2008,Charleroi,2,2,4,5
+2008-09-14,Charleroi_Cercle Brugge_2008,Cercle Brugge,2,2,4,5
+2008-09-14,Waregem_Genk_2008,Waregem,2,1,3,5
+2008-09-14,Waregem_Genk_2008,Genk,2,2,4,5
+2008-09-19,Anderlecht_Charleroi_2008,Anderlecht,3,2,5,6
+2008-09-19,Anderlecht_Charleroi_2008,Charleroi,2,3,5,6
+2008-09-20,Westerlo_Mouscron_2008,Mouscron,2,3,5,6
+2008-09-20,Westerlo_Mouscron_2008,Westerlo,3,2,5,6
+2008-09-20,Dender_Waregem_2008,Dender,3,2,5,6
+2008-09-20,Cercle Brugge_Germinal_2008,Cercle Brugge,3,2,5,6
+2008-09-20,Kortrijk_Bergen_2008,Kortrijk,2,3,5,6
+2008-09-20,Kortrijk_Bergen_2008,Bergen,2,3,5,6
+2008-09-20,Gent_Mechelen_2008,Mechelen,2,2,4,6
+2008-09-20,Roeselare_Lokeren_2008,Roeselare,3,2,5,6
+2008-09-20,Dender_Waregem_2008,Waregem,2,2,4,6
+2008-09-20,Cercle Brugge_Germinal_2008,Germinal,2,3,5,6
+2008-09-20,Gent_Mechelen_2008,Gent,3,2,5,6
+2008-09-20,Roeselare_Lokeren_2008,Lokeren,2,3,5,6
+2008-09-21,Genk_Club Brugge_2008,Genk,3,2,5,6
+2008-09-21,Tubize_Standard_2008,Standard,2,3,5,6
+2008-09-21,Tubize_Standard_2008,Tubize,3,2,5,6
+2008-09-21,Genk_Club Brugge_2008,Club Brugge,1,2,3,6
+2008-09-24,Mechelen_Club Brugge_2008,Mechelen,3,2,5,7
+2008-09-24,Mechelen_Club Brugge_2008,Club Brugge,1,3,4,7
+2008-09-26,Standard_Anderlecht_2008,Standard,3,3,6,7
+2008-09-26,Standard_Anderlecht_2008,Anderlecht,3,3,6,7
+2008-09-27,Club Brugge_Westerlo_2008,Westerlo,3,3,6,7
+2008-09-27,Lokeren_Cercle Brugge_2008,Lokeren,3,3,6,7
+2008-09-27,Charleroi_Kortrijk_2008,Charleroi,3,3,6,7
+2008-09-27,Waregem_Tubize_2008,Tubize,3,3,6,7
+2008-09-27,Waregem_Tubize_2008,Waregem,3,2,5,7
+2008-09-27,Lokeren_Cercle Brugge_2008,Cercle Brugge,3,3,6,7
+2008-09-27,Bergen_Roeselare_2008,Bergen,3,3,6,7
+2008-09-27,Bergen_Roeselare_2008,Roeselare,3,3,6,7
+2008-09-27,Club Brugge_Westerlo_2008,Club Brugge,2,3,5,7
+2008-09-27,Charleroi_Kortrijk_2008,Kortrijk,2,4,6,7
+2008-09-28,Mouscron_Genk_2008,Mouscron,3,3,6,7
+2008-09-28,Mouscron_Genk_2008,Genk,3,3,6,7
+2008-09-28,Germinal_Gent_2008,Germinal,3,3,6,7
+2008-09-28,Germinal_Gent_2008,Gent,3,3,6,7
+2008-09-29,Mechelen_Dender_2008,Mechelen,4,2,6,7
+2008-09-29,Mechelen_Dender_2008,Dender,3,3,6,7
+2008-10-03,Anderlecht_Mouscron_2008,Anderlecht,4,3,7,8
+2008-10-03,Anderlecht_Mouscron_2008,Mouscron,3,4,7,8
+2008-10-04,Kortrijk_Germinal_2008,Germinal,3,4,7,8
+2008-10-04,Westerlo_Waregem_2008,Westerlo,4,3,7,8
+2008-10-04,Tubize_Dender_2008,Tubize,4,3,7,8
+2008-10-04,Kortrijk_Germinal_2008,Kortrijk,3,4,7,8
+2008-10-04,Tubize_Dender_2008,Dender,3,4,7,8
+2008-10-04,Gent_Lokeren_2008,Gent,4,3,7,8
+2008-10-04,Genk_Mechelen_2008,Genk,4,3,7,8
+2008-10-04,Gent_Lokeren_2008,Lokeren,3,4,7,8
+2008-10-04,Bergen_Charleroi_2008,Bergen,4,3,7,8
+2008-10-04,Bergen_Charleroi_2008,Charleroi,3,4,7,8
+2008-10-04,Westerlo_Waregem_2008,Waregem,3,3,6,8
+2008-10-04,Genk_Mechelen_2008,Mechelen,4,3,7,8
+2008-10-05,Cercle Brugge_Standard_2008,Standard,3,4,7,8
+2008-10-05,Cercle Brugge_Standard_2008,Cercle Brugge,4,3,7,8
+2008-10-05,Roeselare_Club Brugge_2008,Club Brugge,2,4,6,8
+2008-10-05,Roeselare_Club Brugge_2008,Roeselare,4,3,7,8
+2008-10-18,Mechelen_Westerlo_2008,Westerlo,4,4,8,10
+2008-10-18,Mouscron_Roeselare_2008,Roeselare,4,4,8,10
+2008-10-18,Lokeren_Kortrijk_2008,Lokeren,4,4,8,10
+2008-10-18,Standard_Bergen_2008,Bergen,4,4,8,10
+2008-10-18,Mouscron_Roeselare_2008,Mouscron,4,4,8,10
+2008-10-18,Germinal_Charleroi_2008,Charleroi,3,5,8,10
+2008-10-18,Germinal_Charleroi_2008,Germinal,4,4,8,10
+2008-10-18,Mechelen_Westerlo_2008,Mechelen,5,3,8,10
+2008-10-18,Lokeren_Kortrijk_2008,Kortrijk,3,5,8,10
+2008-10-18,Tubize_Gent_2008,Tubize,5,3,8,10
+2008-10-18,Standard_Bergen_2008,Standard,4,4,8,10
+2008-10-18,Dender_Genk_2008,Genk,4,4,8,10
+2008-10-18,Tubize_Gent_2008,Gent,4,4,8,10
+2008-10-18,Dender_Genk_2008,Dender,4,4,8,10
+2008-10-19,Club Brugge_Cercle Brugge_2008,Cercle Brugge,4,4,8,10
+2008-10-19,Club Brugge_Cercle Brugge_2008,Club Brugge,3,4,7,10
+2008-10-19,Waregem_Anderlecht_2008,Anderlecht,4,4,8,10
+2008-10-19,Waregem_Anderlecht_2008,Waregem,4,3,7,10
+2008-10-24,Kortrijk_Mouscron_2008,Mouscron,4,5,9,11
+2008-10-24,Kortrijk_Mouscron_2008,Kortrijk,4,5,9,11
+2008-10-25,Westerlo_Tubize_2008,Westerlo,5,4,9,11
+2008-10-25,Bergen_Germinal_2008,Germinal,4,5,9,11
+2008-10-25,Charleroi_Lokeren_2008,Charleroi,4,5,9,11
+2008-10-25,Roeselare_Waregem_2008,Waregem,4,4,8,11
+2008-10-25,Bergen_Germinal_2008,Bergen,5,4,9,11
+2008-10-25,Anderlecht_Mechelen_2008,Mechelen,5,4,9,11
+2008-10-25,Roeselare_Waregem_2008,Roeselare,5,4,9,11
+2008-10-25,Cercle Brugge_Dender_2008,Dender,4,5,9,11
+2008-10-25,Charleroi_Lokeren_2008,Lokeren,4,5,9,11
+2008-10-25,Westerlo_Tubize_2008,Tubize,5,4,9,11
+2008-10-25,Cercle Brugge_Dender_2008,Cercle Brugge,5,4,9,11
+2008-10-25,Anderlecht_Mechelen_2008,Anderlecht,5,4,9,11
+2008-10-26,Genk_Standard_2008,Standard,4,5,9,11
+2008-10-26,Gent_Club Brugge_2008,Gent,5,4,9,11
+2008-10-26,Gent_Club Brugge_2008,Club Brugge,3,5,8,11
+2008-10-26,Genk_Standard_2008,Genk,5,4,9,11
+2008-10-29,Club Brugge_Waregem_2008,Waregem,4,5,9,12
+2008-10-29,Club Brugge_Waregem_2008,Club Brugge,4,5,9,12
+2008-10-31,Standard_Charleroi_2008,Charleroi,4,6,10,12
+2008-10-31,Standard_Charleroi_2008,Standard,5,5,10,12
+2008-11-01,Dender_Westerlo_2008,Westerlo,5,5,10,12
+2008-11-01,Lokeren_Bergen_2008,Bergen,5,5,10,12
+2008-11-01,Club Brugge_Kortrijk_2008,Kortrijk,4,6,10,12
+2008-11-01,Mechelen_Roeselare_2008,Mechelen,6,4,10,12
+2008-11-01,Tubize_Genk_2008,Tubize,6,4,10,12
+2008-11-01,Lokeren_Bergen_2008,Lokeren,5,5,10,12
+2008-11-01,Mouscron_Cercle Brugge_2008,Mouscron,5,5,10,12
+2008-11-01,Dender_Westerlo_2008,Dender,5,5,10,12
+2008-11-01,Mechelen_Roeselare_2008,Roeselare,5,5,10,12
+2008-11-01,Tubize_Genk_2008,Genk,5,5,10,12
+2008-11-01,Mouscron_Cercle Brugge_2008,Cercle Brugge,5,5,10,12
+2008-11-01,Club Brugge_Kortrijk_2008,Club Brugge,5,5,10,12
+2008-11-02,Waregem_Gent_2008,Waregem,5,5,10,12
+2008-11-02,Waregem_Gent_2008,Gent,5,5,10,12
+2008-11-02,Germinal_Anderlecht_2008,Germinal,5,5,10,12
+2008-11-02,Germinal_Anderlecht_2008,Anderlecht,5,5,10,12
+2008-11-07,Cercle Brugge_Waregem_2008,Cercle Brugge,6,5,11,13
+2008-11-07,Cercle Brugge_Waregem_2008,Waregem,5,6,11,13
+2008-11-08,Westerlo_Genk_2008,Genk,5,6,11,13
+2008-11-08,Roeselare_Tubize_2008,Tubize,6,5,11,13
+2008-11-08,Bergen_Mouscron_2008,Bergen,6,5,11,13
+2008-11-08,Gent_Dender_2008,Gent,6,5,11,13
+2008-11-08,Westerlo_Genk_2008,Westerlo,6,5,11,13
+2008-11-08,Anderlecht_Lokeren_2008,Anderlecht,6,5,11,13
+2008-11-08,Kortrijk_Mechelen_2008,Kortrijk,5,6,11,13
+2008-11-08,Kortrijk_Mechelen_2008,Mechelen,6,5,11,13
+2008-11-08,Anderlecht_Lokeren_2008,Lokeren,5,6,11,13
+2008-11-08,Gent_Dender_2008,Dender,5,6,11,13
+2008-11-08,Roeselare_Tubize_2008,Roeselare,6,5,11,13
+2008-11-08,Bergen_Mouscron_2008,Mouscron,5,6,11,13
+2008-11-09,Charleroi_Club Brugge_2008,Charleroi,5,6,11,13
+2008-11-09,Charleroi_Club Brugge_2008,Club Brugge,5,6,11,13
+2008-11-09,Germinal_Standard_2008,Standard,5,6,11,13
+2008-11-09,Germinal_Standard_2008,Germinal,6,5,11,13
+2008-11-14,Westerlo_Gent_2008,Gent,6,6,12,14
+2008-11-14,Westerlo_Gent_2008,Westerlo,7,5,12,14
+2008-11-15,Waregem_Germinal_2008,Waregem,6,6,12,14
+2008-11-15,Tubize_Cercle Brugge_2008,Cercle Brugge,6,6,12,14
+2008-11-15,Mechelen_Bergen_2008,Bergen,6,6,12,14
+2008-11-15,Dender_Kortrijk_2008,Dender,6,6,12,14
+2008-11-15,Dender_Kortrijk_2008,Kortrijk,5,7,12,14
+2008-11-15,Mechelen_Bergen_2008,Mechelen,7,5,12,14
+2008-11-15,Mouscron_Charleroi_2008,Mouscron,6,6,12,14
+2008-11-15,Genk_Roeselare_2008,Roeselare,6,6,12,14
+2008-11-15,Waregem_Germinal_2008,Germinal,6,6,12,14
+2008-11-15,Mouscron_Charleroi_2008,Charleroi,5,7,12,14
+2008-11-15,Tubize_Cercle Brugge_2008,Tubize,7,5,12,14
+2008-11-15,Genk_Roeselare_2008,Genk,6,6,12,14
+2008-11-16,Club Brugge_Anderlecht_2008,Club Brugge,6,6,12,14
+2008-11-16,Club Brugge_Anderlecht_2008,Anderlecht,6,6,12,14
+2008-11-16,Lokeren_Standard_2008,Standard,5,7,12,14
+2008-11-16,Lokeren_Standard_2008,Lokeren,6,6,12,14
+2008-11-22,Anderlecht_Westerlo_2008,Westerlo,7,6,13,15
+2008-11-22,Roeselare_Dender_2008,Dender,6,7,13,15
+2008-11-22,Standard_Mouscron_2008,Standard,6,7,13,15
+2008-11-22,Cercle Brugge_Mechelen_2008,Cercle Brugge,7,6,13,15
+2008-11-22,Roeselare_Dender_2008,Roeselare,7,6,13,15
+2008-11-22,Charleroi_Tubize_2008,Tubize,7,6,13,15
+2008-11-22,Charleroi_Tubize_2008,Charleroi,6,7,13,15
+2008-11-22,Germinal_Lokeren_2008,Germinal,7,6,13,15
+2008-11-22,Standard_Mouscron_2008,Mouscron,6,7,13,15
+2008-11-22,Bergen_Club Brugge_2008,Club Brugge,6,7,13,15
+2008-11-22,Anderlecht_Westerlo_2008,Anderlecht,7,6,13,15
+2008-11-22,Cercle Brugge_Mechelen_2008,Mechelen,7,6,13,15
+2008-11-22,Bergen_Club Brugge_2008,Bergen,7,6,13,15
+2008-11-22,Germinal_Lokeren_2008,Lokeren,6,7,13,15
+2008-11-23,Gent_Genk_2008,Genk,6,7,13,15
+2008-11-23,Gent_Genk_2008,Gent,7,6,13,15
+2008-11-28,Dender_Anderlecht_2008,Anderlecht,7,7,14,16
+2008-11-28,Dender_Anderlecht_2008,Dender,7,7,14,16
+2008-11-29,Genk_Cercle Brugge_2008,Genk,7,7,14,16
+2008-11-29,Waregem_Charleroi_2008,Waregem,7,6,13,16
+2008-11-29,Tubize_Kortrijk_2008,Kortrijk,5,8,13,16
+2008-11-29,Mouscron_Lokeren_2008,Mouscron,7,7,14,16
+2008-11-29,Westerlo_Bergen_2008,Bergen,7,7,14,16
+2008-11-29,Gent_Roeselare_2008,Roeselare,7,7,14,16
+2008-11-29,Gent_Roeselare_2008,Gent,8,6,14,16
+2008-11-29,Mouscron_Lokeren_2008,Lokeren,6,8,14,16
+2008-11-29,Westerlo_Bergen_2008,Westerlo,8,6,14,16
+2008-11-29,Waregem_Charleroi_2008,Charleroi,6,8,14,16
+2008-11-29,Tubize_Kortrijk_2008,Tubize,8,6,14,16
+2008-11-29,Genk_Cercle Brugge_2008,Cercle Brugge,7,7,14,16
+2008-11-30,Mechelen_Standard_2008,Mechelen,8,6,14,16
+2008-11-30,Club Brugge_Germinal_2008,Germinal,7,7,14,16
+2008-11-30,Mechelen_Standard_2008,Standard,6,8,14,16
+2008-11-30,Club Brugge_Germinal_2008,Club Brugge,7,7,14,16
+2008-12-05,Cercle Brugge_Gent_2008,Gent,8,7,15,17
+2008-12-05,Cercle Brugge_Gent_2008,Cercle Brugge,8,7,15,17
+2008-12-06,Roeselare_Westerlo_2008,Westerlo,8,7,15,17
+2008-12-06,Germinal_Mouscron_2008,Germinal,8,7,15,17
+2008-12-06,Charleroi_Mechelen_2008,Charleroi,7,8,15,17
+2008-12-06,Standard_Waregem_2008,Waregem,7,7,14,17
+2008-12-06,Standard_Waregem_2008,Standard,7,8,15,17
+2008-12-06,Charleroi_Mechelen_2008,Mechelen,8,7,15,17
+2008-12-06,Anderlecht_Tubize_2008,Anderlecht,8,7,15,17
+2008-12-06,Roeselare_Westerlo_2008,Roeselare,8,7,15,17
+2008-12-06,Bergen_Dender_2008,Bergen,8,7,15,17
+2008-12-06,Germinal_Mouscron_2008,Mouscron,7,8,15,17
+2008-12-06,Bergen_Dender_2008,Dender,7,8,15,17
+2008-12-06,Anderlecht_Tubize_2008,Tubize,8,7,15,17
+2008-12-07,Lokeren_Club Brugge_2008,Club Brugge,7,8,15,17
+2008-12-07,Lokeren_Club Brugge_2008,Lokeren,7,8,15,17
+2008-12-07,Kortrijk_Genk_2008,Genk,7,8,15,17
+2008-12-07,Kortrijk_Genk_2008,Kortrijk,6,8,14,17
+2008-12-12,Mechelen_Germinal_2008,Germinal,8,8,16,18
+2008-12-12,Mechelen_Germinal_2008,Mechelen,9,7,16,18
+2008-12-13,Gent_Kortrijk_2008,Kortrijk,6,9,15,18
+2008-12-13,Dender_Lokeren_2008,Dender,8,8,16,18
+2008-12-13,Waregem_Mouscron_2008,Mouscron,7,9,16,18
+2008-12-13,Westerlo_Cercle Brugge_2008,Cercle Brugge,8,8,16,18
+2008-12-13,Tubize_Bergen_2008,Tubize,9,7,16,18
+2008-12-13,Tubize_Bergen_2008,Bergen,8,8,16,18
+2008-12-13,Genk_Charleroi_2008,Genk,8,8,16,18
+2008-12-13,Dender_Lokeren_2008,Lokeren,7,9,16,18
+2008-12-13,Waregem_Mouscron_2008,Waregem,8,7,15,18
+2008-12-13,Gent_Kortrijk_2008,Gent,9,7,16,18
+2008-12-13,Genk_Charleroi_2008,Charleroi,7,9,16,18
+2008-12-13,Westerlo_Cercle Brugge_2008,Westerlo,9,7,16,18
+2008-12-14,Roeselare_Anderlecht_2008,Roeselare,9,7,16,18
+2008-12-14,Club Brugge_Standard_2008,Standard,7,9,16,18
+2008-12-14,Roeselare_Anderlecht_2008,Anderlecht,8,8,16,18
+2008-12-14,Club Brugge_Standard_2008,Club Brugge,8,8,16,18
+2008-12-16,Kortrijk_Waregem_2008,Waregem,8,8,16,19
+2008-12-16,Kortrijk_Waregem_2008,Kortrijk,7,9,16,19
+2008-12-19,Anderlecht_Genk_2008,Genk,8,9,17,19
+2008-12-19,Anderlecht_Genk_2008,Anderlecht,9,8,17,19
+2008-12-20,Bergen_Waregem_2008,Bergen,9,8,17,19
+2008-12-20,Cercle Brugge_Roeselare_2008,Cercle Brugge,9,8,17,19
+2008-12-20,Cercle Brugge_Roeselare_2008,Roeselare,9,8,17,19
+2008-12-20,Mouscron_Club Brugge_2008,Mouscron,8,9,17,19
+2008-12-20,Lokeren_Mechelen_2008,Mechelen,9,8,17,19
+2008-12-20,Charleroi_Dender_2008,Dender,8,9,17,19
+2008-12-20,Mouscron_Club Brugge_2008,Club Brugge,8,9,17,19
+2008-12-20,Germinal_Tubize_2008,Germinal,9,8,17,19
+2008-12-20,Germinal_Tubize_2008,Tubize,9,8,17,19
+2008-12-20,Charleroi_Dender_2008,Charleroi,8,9,17,19
+2008-12-20,Bergen_Waregem_2008,Waregem,8,9,17,19
+2008-12-20,Lokeren_Mechelen_2008,Lokeren,8,9,17,19
+2008-12-21,Kortrijk_Westerlo_2008,Westerlo,9,8,17,19
+2008-12-21,Kortrijk_Westerlo_2008,Kortrijk,8,9,17,19
+2008-12-21,Standard_Gent_2008,Gent,9,8,17,19
+2008-12-21,Standard_Gent_2008,Standard,8,9,17,19
+2009-01-16,Anderlecht_Cercle Brugge_2008,Anderlecht,10,8,18,23
+2009-01-16,Anderlecht_Cercle Brugge_2008,Cercle Brugge,9,9,18,23
+2009-01-17,Club Brugge_Mechelen_2008,Mechelen,9,9,18,23
+2009-01-17,Bergen_Gent_2008,Bergen,10,8,18,23
+2009-01-17,Standard_Dender_2008,Standard,9,9,18,23
+2009-01-17,Standard_Dender_2008,Dender,8,10,18,23
+2009-01-17,Mouscron_Tubize_2008,Mouscron,9,9,18,23
+2009-01-17,Lokeren_Waregem_2008,Lokeren,9,9,18,23
+2009-01-17,Bergen_Gent_2008,Gent,9,9,18,23
+2009-01-17,Mouscron_Tubize_2008,Tubize,9,9,18,23
+2009-01-17,Kortrijk_Roeselare_2008,Roeselare,9,9,18,23
+2009-01-17,Lokeren_Waregem_2008,Waregem,8,10,18,23
+2009-01-17,Club Brugge_Mechelen_2008,Club Brugge,9,9,18,23
+2009-01-17,Kortrijk_Roeselare_2008,Kortrijk,9,9,18,23
+2009-01-18,Charleroi_Westerlo_2008,Westerlo,9,9,18,23
+2009-01-18,Charleroi_Westerlo_2008,Charleroi,9,9,18,23
+2009-01-18,Germinal_Genk_2008,Genk,8,10,18,23
+2009-01-18,Germinal_Genk_2008,Germinal,10,8,18,23
+2009-01-24,Tubize_Lokeren_2008,Lokeren,9,10,19,24
+2009-01-24,Dender_Germinal_2008,Germinal,10,9,19,24
+2009-01-24,Mechelen_Mouscron_2008,Mouscron,9,10,19,24
+2009-01-24,Cercle Brugge_Kortrijk_2008,Kortrijk,9,10,19,24
+2009-01-24,Genk_Bergen_2008,Bergen,10,9,19,24
+2009-01-24,Roeselare_Charleroi_2008,Charleroi,9,10,19,24
+2009-01-24,Cercle Brugge_Kortrijk_2008,Cercle Brugge,10,9,19,24
+2009-01-24,Genk_Bergen_2008,Genk,9,10,19,24
+2009-01-24,Tubize_Lokeren_2008,Tubize,10,9,19,24
+2009-01-24,Dender_Germinal_2008,Dender,9,10,19,24
+2009-01-24,Mechelen_Mouscron_2008,Mechelen,10,9,19,24
+2009-01-24,Roeselare_Charleroi_2008,Roeselare,10,9,19,24
+2009-01-25,Westerlo_Standard_2008,Westerlo,10,9,19,24
+2009-01-25,Waregem_Club Brugge_2008,Club Brugge,9,10,19,24
+2009-01-25,Waregem_Club Brugge_2008,Waregem,9,10,19,24
+2009-01-25,Westerlo_Standard_2008,Standard,9,10,19,24
+2009-01-31,Germinal_Westerlo_2008,Westerlo,10,10,20,25
+2009-01-31,Kortrijk_Anderlecht_2008,Anderlecht,10,9,19,25
+2009-01-31,Waregem_Mechelen_2008,Mechelen,10,10,20,25
+2009-01-31,Bergen_Cercle Brugge_2008,Bergen,11,9,20,25
+2009-01-31,Germinal_Westerlo_2008,Germinal,11,9,20,25
+2009-01-31,Mouscron_Dender_2008,Mouscron,10,10,20,25
+2009-01-31,Kortrijk_Anderlecht_2008,Kortrijk,10,10,20,25
+2009-01-31,Club Brugge_Tubize_2008,Tubize,10,10,20,25
+2009-01-31,Standard_Roeselare_2008,Standard,10,10,20,25
+2009-01-31,Mouscron_Dender_2008,Dender,9,11,20,25
+2009-01-31,Club Brugge_Tubize_2008,Club Brugge,10,10,20,25
+2009-01-31,Waregem_Mechelen_2008,Waregem,10,10,20,25
+2009-01-31,Standard_Roeselare_2008,Roeselare,10,10,20,25
+2009-01-31,Bergen_Cercle Brugge_2008,Cercle Brugge,10,10,20,25
+2009-02-01,Charleroi_Gent_2008,Charleroi,10,10,20,25
+2009-02-01,Charleroi_Gent_2008,Gent,9,10,19,25
+2009-02-01,Lokeren_Genk_2008,Genk,9,11,20,25
+2009-02-01,Lokeren_Genk_2008,Lokeren,10,10,20,25
+2009-02-06,Kortrijk_Standard_2008,Standard,10,11,21,26
+2009-02-06,Kortrijk_Standard_2008,Kortrijk,11,10,21,26
+2009-02-07,Tubize_Mechelen_2008,Mechelen,10,11,21,26
+2009-02-07,Genk_Waregem_2008,Genk,10,11,21,26
+2009-02-07,Roeselare_Germinal_2008,Roeselare,11,10,21,26
+2009-02-07,Genk_Waregem_2008,Waregem,10,11,21,26
+2009-02-07,Dender_Club Brugge_2008,Dender,10,11,21,26
+2009-02-07,Anderlecht_Bergen_2008,Anderlecht,11,9,20,26
+2009-02-07,Tubize_Mechelen_2008,Tubize,11,10,21,26
+2009-02-07,Gent_Mouscron_2008,Gent,10,10,20,26
+2009-02-07,Anderlecht_Bergen_2008,Bergen,11,10,21,26
+2009-02-07,Gent_Mouscron_2008,Mouscron,10,11,21,26
+2009-02-07,Dender_Club Brugge_2008,Club Brugge,10,11,21,26
+2009-02-07,Roeselare_Germinal_2008,Germinal,11,10,21,26
+2009-02-08,Westerlo_Lokeren_2008,Westerlo,11,10,21,26
+2009-02-08,Cercle Brugge_Charleroi_2008,Charleroi,10,11,21,26
+2009-02-08,Westerlo_Lokeren_2008,Lokeren,10,11,21,26
+2009-02-08,Cercle Brugge_Charleroi_2008,Cercle Brugge,11,10,21,26
+2009-02-14,Mechelen_Gent_2008,Gent,10,11,21,27
+2009-02-14,Standard_Tubize_2008,Tubize,11,11,22,27
+2009-02-14,Waregem_Dender_2008,Waregem,11,11,22,27
+2009-02-14,Bergen_Kortrijk_2008,Kortrijk,11,11,22,27
+2009-02-14,Lokeren_Roeselare_2008,Lokeren,11,11,22,27
+2009-02-14,Mouscron_Westerlo_2008,Mouscron,11,11,22,27
+2009-02-14,Bergen_Kortrijk_2008,Bergen,12,10,22,27
+2009-02-14,Mechelen_Gent_2008,Mechelen,11,11,22,27
+2009-02-14,Mouscron_Westerlo_2008,Westerlo,11,11,22,27
+2009-02-14,Lokeren_Roeselare_2008,Roeselare,11,11,22,27
+2009-02-14,Waregem_Dender_2008,Dender,10,12,22,27
+2009-02-14,Germinal_Cercle Brugge_2008,Cercle Brugge,11,11,22,27
+2009-02-14,Germinal_Cercle Brugge_2008,Germinal,12,10,22,27
+2009-02-14,Standard_Tubize_2008,Standard,11,11,22,27
+2009-02-15,Charleroi_Anderlecht_2008,Charleroi,11,11,22,27
+2009-02-15,Charleroi_Anderlecht_2008,Anderlecht,11,10,21,27
+2009-02-15,Club Brugge_Genk_2008,Genk,10,12,22,27
+2009-02-15,Club Brugge_Genk_2008,Club Brugge,11,11,22,27
+2009-02-18,Gent_Anderlecht_2008,Anderlecht,11,11,22,28
+2009-02-18,Gent_Anderlecht_2008,Gent,11,11,22,28
+2009-02-20,Genk_Mouscron_2008,Genk,11,12,23,28
+2009-02-20,Genk_Mouscron_2008,Mouscron,11,12,23,28
+2009-02-21,Cercle Brugge_Lokeren_2008,Lokeren,11,12,23,28
+2009-02-21,Tubize_Waregem_2008,Tubize,12,11,23,28
+2009-02-21,Roeselare_Bergen_2008,Roeselare,12,11,23,28
+2009-02-21,Cercle Brugge_Lokeren_2008,Cercle Brugge,12,11,23,28
+2009-02-21,Roeselare_Bergen_2008,Bergen,12,11,23,28
+2009-02-21,Dender_Mechelen_2008,Mechelen,11,12,23,28
+2009-02-21,Tubize_Waregem_2008,Waregem,11,12,23,28
+2009-02-21,Gent_Germinal_2008,Germinal,12,11,23,28
+2009-02-21,Kortrijk_Charleroi_2008,Charleroi,11,12,23,28
+2009-02-21,Gent_Germinal_2008,Gent,12,11,23,28
+2009-02-21,Dender_Mechelen_2008,Dender,11,12,23,28
+2009-02-21,Kortrijk_Charleroi_2008,Kortrijk,12,11,23,28
+2009-02-22,Westerlo_Club Brugge_2008,Club Brugge,11,12,23,28
+2009-02-22,Anderlecht_Standard_2008,Anderlecht,12,11,23,28
+2009-02-22,Westerlo_Club Brugge_2008,Westerlo,12,11,23,28
+2009-02-22,Anderlecht_Standard_2008,Standard,11,12,23,28
+2009-02-27,Mechelen_Genk_2008,Genk,11,13,24,29
+2009-02-27,Mechelen_Genk_2008,Mechelen,12,12,24,29
+2009-02-28,Mouscron_Anderlecht_2008,Mouscron,12,12,24,29
+2009-02-28,Dender_Tubize_2008,Tubize,12,12,24,29
+2009-02-28,Charleroi_Bergen_2008,Charleroi,12,12,24,29
+2009-02-28,Dender_Tubize_2008,Dender,12,12,24,29
+2009-02-28,Charleroi_Bergen_2008,Bergen,12,12,24,29
+2009-02-28,Germinal_Kortrijk_2008,Kortrijk,12,12,24,29
+2009-02-28,Waregem_Westerlo_2008,Waregem,12,12,24,29
+2009-02-28,Club Brugge_Roeselare_2008,Roeselare,12,12,24,29
+2009-02-28,Club Brugge_Roeselare_2008,Club Brugge,12,12,24,29
+2009-02-28,Mouscron_Anderlecht_2008,Anderlecht,12,12,24,29
+2009-02-28,Germinal_Kortrijk_2008,Germinal,13,11,24,29
+2009-02-28,Waregem_Westerlo_2008,Westerlo,12,12,24,29
+2009-03-01,Lokeren_Gent_2008,Lokeren,12,12,24,29
+2009-03-01,Standard_Cercle Brugge_2008,Standard,12,12,24,29
+2009-03-01,Lokeren_Gent_2008,Gent,12,12,24,29
+2009-03-01,Standard_Cercle Brugge_2008,Cercle Brugge,12,12,24,29
+2009-03-06,Bergen_Standard_2008,Bergen,13,12,25,30
+2009-03-06,Bergen_Standard_2008,Standard,12,13,25,30
+2009-03-07,Charleroi_Germinal_2008,Charleroi,13,12,25,30
+2009-03-07,Anderlecht_Waregem_2008,Anderlecht,13,12,25,30
+2009-03-07,Roeselare_Mouscron_2008,Roeselare,13,12,25,30
+2009-03-07,Gent_Tubize_2008,Gent,13,12,25,30
+2009-03-07,Roeselare_Mouscron_2008,Mouscron,12,13,25,30
+2009-03-07,Charleroi_Germinal_2008,Germinal,13,12,25,30
+2009-03-07,Kortrijk_Lokeren_2008,Kortrijk,13,12,25,30
+2009-03-07,Gent_Tubize_2008,Tubize,12,13,25,30
+2009-03-07,Genk_Dender_2008,Genk,12,13,25,30
+2009-03-07,Anderlecht_Waregem_2008,Waregem,12,13,25,30
+2009-03-07,Kortrijk_Lokeren_2008,Lokeren,12,13,25,30
+2009-03-07,Genk_Dender_2008,Dender,12,13,25,30
+2009-03-08,Westerlo_Mechelen_2008,Mechelen,12,13,25,30
+2009-03-08,Cercle Brugge_Club Brugge_2008,Cercle Brugge,13,12,25,30
+2009-03-08,Cercle Brugge_Club Brugge_2008,Club Brugge,12,13,25,30
+2009-03-08,Westerlo_Mechelen_2008,Westerlo,13,12,25,30
+2009-03-13,Mechelen_Anderlecht_2008,Mechelen,13,13,26,31
+2009-03-13,Mechelen_Anderlecht_2008,Anderlecht,13,13,26,31
+2009-03-14,Tubize_Westerlo_2008,Westerlo,13,13,26,31
+2009-03-14,Waregem_Roeselare_2008,Waregem,13,13,26,31
+2009-03-14,Dender_Cercle Brugge_2008,Cercle Brugge,13,13,26,31
+2009-03-14,Germinal_Bergen_2008,Bergen,13,13,26,31
+2009-03-14,Waregem_Roeselare_2008,Roeselare,13,13,26,31
+2009-03-14,Dender_Cercle Brugge_2008,Dender,13,13,26,31
+2009-03-14,Mouscron_Kortrijk_2008,Kortrijk,13,13,26,31
+2009-03-14,Lokeren_Charleroi_2008,Lokeren,13,13,26,31
+2009-03-14,Mouscron_Kortrijk_2008,Mouscron,13,13,26,31
+2009-03-14,Germinal_Bergen_2008,Germinal,14,12,26,31
+2009-03-14,Lokeren_Charleroi_2008,Charleroi,13,13,26,31
+2009-03-14,Tubize_Westerlo_2008,Tubize,13,13,26,31
+2009-03-15,Club Brugge_Gent_2008,Gent,13,13,26,31
+2009-03-15,Standard_Genk_2008,Standard,13,13,26,31
+2009-03-15,Club Brugge_Gent_2008,Club Brugge,13,13,26,31
+2009-03-15,Standard_Genk_2008,Genk,12,14,26,31
+2009-03-20,Kortrijk_Club Brugge_2008,Kortrijk,14,13,27,32
+2009-03-20,Kortrijk_Club Brugge_2008,Club Brugge,13,14,27,32
+2009-03-21,Westerlo_Dender_2008,Dender,13,14,27,32
+2009-03-21,Genk_Tubize_2008,Genk,13,14,27,32
+2009-03-21,Roeselare_Mechelen_2008,Mechelen,13,14,27,32
+2009-03-21,Bergen_Lokeren_2008,Lokeren,13,14,27,32
+2009-03-21,Bergen_Lokeren_2008,Bergen,14,13,27,32
+2009-03-21,Anderlecht_Germinal_2008,Anderlecht,14,13,27,32
+2009-03-21,Cercle Brugge_Mouscron_2008,Cercle Brugge,14,13,27,32
+2009-03-21,Anderlecht_Germinal_2008,Germinal,14,13,27,32
+2009-03-21,Westerlo_Dender_2008,Westerlo,14,13,27,32
+2009-03-21,Genk_Tubize_2008,Tubize,13,14,27,32
+2009-03-21,Cercle Brugge_Mouscron_2008,Mouscron,13,14,27,32
+2009-03-21,Roeselare_Mechelen_2008,Roeselare,14,13,27,32
+2009-03-22,Charleroi_Standard_2008,Charleroi,14,13,27,32
+2009-03-22,Charleroi_Standard_2008,Standard,13,14,27,32
+2009-03-22,Gent_Waregem_2008,Gent,14,13,27,32
+2009-03-22,Gent_Waregem_2008,Waregem,13,14,27,32
+2009-04-04,Genk_Westerlo_2008,Westerlo,14,14,28,34
+2009-04-04,Mouscron_Bergen_2008,Bergen,14,14,28,34
+2009-04-04,Genk_Westerlo_2008,Genk,14,14,28,34
+2009-04-04,Waregem_Cercle Brugge_2008,Waregem,14,14,28,34
+2009-04-04,Dender_Gent_2008,Dender,14,14,28,34
+2009-04-04,Club Brugge_Charleroi_2008,Charleroi,14,14,28,34
+2009-04-04,Dender_Gent_2008,Gent,14,14,28,34
+2009-04-04,Waregem_Cercle Brugge_2008,Cercle Brugge,14,14,28,34
+2009-04-04,Tubize_Roeselare_2008,Roeselare,14,14,28,34
+2009-04-04,Tubize_Roeselare_2008,Tubize,14,14,28,34
+2009-04-04,Club Brugge_Charleroi_2008,Club Brugge,14,14,28,34
+2009-04-04,Mechelen_Kortrijk_2008,Kortrijk,14,14,28,34
+2009-04-04,Mouscron_Bergen_2008,Mouscron,14,14,28,34
+2009-04-04,Mechelen_Kortrijk_2008,Mechelen,14,14,28,34
+2009-04-05,Standard_Germinal_2008,Germinal,14,14,28,34
+2009-04-05,Lokeren_Anderlecht_2008,Anderlecht,14,14,28,34
+2009-04-05,Standard_Germinal_2008,Standard,14,14,28,34
+2009-04-05,Lokeren_Anderlecht_2008,Lokeren,14,14,28,34
+2009-04-10,Roeselare_Genk_2008,Genk,14,15,29,35
+2009-04-10,Roeselare_Genk_2008,Roeselare,15,14,29,35
+2009-04-11,Germinal_Waregem_2008,Waregem,14,15,29,35
+2009-04-11,Bergen_Mechelen_2008,Bergen,15,14,29,35
+2009-04-11,Charleroi_Mouscron_2008,Mouscron,14,15,29,35
+2009-04-11,Bergen_Mechelen_2008,Mechelen,14,15,29,35
+2009-04-11,Germinal_Waregem_2008,Germinal,15,14,29,35
+2009-04-11,Cercle Brugge_Tubize_2008,Tubize,14,15,29,35
+2009-04-11,Kortrijk_Dender_2008,Kortrijk,15,14,29,35
+2009-04-11,Standard_Lokeren_2008,Standard,15,14,29,35
+2009-04-11,Standard_Lokeren_2008,Lokeren,14,15,29,35
+2009-04-11,Cercle Brugge_Tubize_2008,Cercle Brugge,15,14,29,35
+2009-04-11,Kortrijk_Dender_2008,Dender,14,15,29,35
+2009-04-11,Charleroi_Mouscron_2008,Charleroi,15,14,29,35
+2009-04-12,Gent_Westerlo_2008,Westerlo,14,15,29,35
+2009-04-12,Anderlecht_Club Brugge_2008,Anderlecht,15,14,29,35
+2009-04-12,Gent_Westerlo_2008,Gent,15,14,29,35
+2009-04-12,Anderlecht_Club Brugge_2008,Club Brugge,14,15,29,35
+2009-04-17,Genk_Gent_2008,Gent,15,15,30,36
+2009-04-17,Genk_Gent_2008,Genk,15,15,30,36
+2009-04-18,Tubize_Charleroi_2008,Charleroi,15,15,30,36
+2009-04-18,Lokeren_Germinal_2008,Germinal,15,15,30,36
+2009-04-18,Mechelen_Cercle Brugge_2008,Mechelen,15,15,30,36
+2009-04-18,Club Brugge_Bergen_2008,Club Brugge,15,15,30,36
+2009-04-18,Waregem_Kortrijk_2008,Kortrijk,15,15,30,36
+2009-04-18,Club Brugge_Bergen_2008,Bergen,15,15,30,36
+2009-04-18,Mechelen_Cercle Brugge_2008,Cercle Brugge,15,15,30,36
+2009-04-18,Waregem_Kortrijk_2008,Waregem,15,15,30,36
+2009-04-18,Mouscron_Standard_2008,Standard,15,15,30,36
+2009-04-18,Tubize_Charleroi_2008,Tubize,15,15,30,36
+2009-04-18,Mouscron_Standard_2008,Mouscron,15,15,30,36
+2009-04-18,Lokeren_Germinal_2008,Lokeren,15,15,30,36
+2009-04-19,Westerlo_Anderlecht_2008,Westerlo,15,15,30,36
+2009-04-19,Dender_Roeselare_2008,Dender,15,15,30,36
+2009-04-19,Westerlo_Anderlecht_2008,Anderlecht,15,15,30,36
+2009-04-19,Dender_Roeselare_2008,Roeselare,15,15,30,36
+2009-04-24,Germinal_Club Brugge_2008,Germinal,16,15,31,37
+2009-04-24,Germinal_Club Brugge_2008,Club Brugge,15,16,31,37
+2009-04-25,Lokeren_Mouscron_2008,Mouscron,15,16,31,37
+2009-04-25,Bergen_Westerlo_2008,Bergen,16,15,31,37
+2009-04-25,Lokeren_Mouscron_2008,Lokeren,16,15,31,37
+2009-04-25,Standard_Mechelen_2008,Standard,16,15,31,37
+2009-04-25,Kortrijk_Tubize_2008,Tubize,15,16,31,37
+2009-04-25,Bergen_Westerlo_2008,Westerlo,15,16,31,37
+2009-04-25,Charleroi_Waregem_2008,Charleroi,16,15,31,37
+2009-04-25,Anderlecht_Dender_2008,Anderlecht,16,15,31,37
+2009-04-25,Anderlecht_Dender_2008,Dender,15,16,31,37
+2009-04-25,Standard_Mechelen_2008,Mechelen,15,16,31,37
+2009-04-25,Kortrijk_Tubize_2008,Kortrijk,16,15,31,37
+2009-04-25,Charleroi_Waregem_2008,Waregem,15,16,31,37
+2009-04-26,Roeselare_Gent_2008,Gent,15,16,31,37
+2009-04-26,Cercle Brugge_Genk_2008,Cercle Brugge,16,15,31,37
+2009-04-26,Cercle Brugge_Genk_2008,Genk,15,16,31,37
+2009-04-26,Roeselare_Gent_2008,Roeselare,16,15,31,37
+2009-05-01,Club Brugge_Lokeren_2008,Lokeren,16,16,32,38
+2009-05-01,Club Brugge_Lokeren_2008,Club Brugge,16,16,32,38
+2009-05-02,Westerlo_Roeselare_2008,Roeselare,16,16,32,38
+2009-05-02,Gent_Cercle Brugge_2008,Cercle Brugge,16,16,32,38
+2009-05-02,Westerlo_Roeselare_2008,Westerlo,16,16,32,38
+2009-05-02,Gent_Cercle Brugge_2008,Gent,16,16,32,38
+2009-05-02,Dender_Bergen_2008,Dender,16,16,32,38
+2009-05-02,Dender_Bergen_2008,Bergen,16,16,32,38
+2009-05-02,Mouscron_Germinal_2008,Germinal,16,16,32,38
+2009-05-02,Waregem_Standard_2008,Waregem,16,16,32,38
+2009-05-02,Mouscron_Germinal_2008,Mouscron,16,16,32,38
+2009-05-02,Mechelen_Charleroi_2008,Charleroi,16,16,32,38
+2009-05-02,Waregem_Standard_2008,Standard,16,16,32,38
+2009-05-02,Mechelen_Charleroi_2008,Mechelen,16,16,32,38
+2009-05-03,Genk_Kortrijk_2008,Kortrijk,16,16,32,38
+2009-05-03,Genk_Kortrijk_2008,Genk,16,16,32,38
+2009-05-03,Tubize_Anderlecht_2008,Tubize,16,16,32,38
+2009-05-03,Tubize_Anderlecht_2008,Anderlecht,16,16,32,38
+2009-05-08,Germinal_Mechelen_2008,Mechelen,16,17,33,39
+2009-05-08,Germinal_Mechelen_2008,Germinal,17,16,33,39
+2009-05-09,Cercle Brugge_Westerlo_2008,Westerlo,16,17,33,39
+2009-05-09,Standard_Club Brugge_2008,Standard,17,16,33,39
+2009-05-09,Mouscron_Waregem_2008,Waregem,16,17,33,39
+2009-05-09,Anderlecht_Roeselare_2008,Anderlecht,17,16,33,39
+2009-05-09,Bergen_Tubize_2008,Bergen,17,16,33,39
+2009-05-09,Kortrijk_Gent_2008,Gent,16,17,33,39
+2009-05-09,Mouscron_Waregem_2008,Mouscron,17,16,33,39
+2009-05-09,Charleroi_Genk_2008,Genk,16,17,33,39
+2009-05-09,Charleroi_Genk_2008,Charleroi,17,16,33,39
+2009-05-09,Lokeren_Dender_2008,Lokeren,17,16,33,39
+2009-05-09,Cercle Brugge_Westerlo_2008,Cercle Brugge,17,16,33,39
+2009-05-09,Anderlecht_Roeselare_2008,Roeselare,16,17,33,39
+2009-05-09,Kortrijk_Gent_2008,Kortrijk,17,16,33,39
+2009-05-09,Lokeren_Dender_2008,Dender,16,17,33,39
+2009-05-09,Bergen_Tubize_2008,Tubize,16,17,33,39
+2009-05-09,Standard_Club Brugge_2008,Club Brugge,16,17,33,39
+2009-05-15,Mechelen_Lokeren_2008,Lokeren,17,17,34,40
+2009-05-15,Mechelen_Lokeren_2008,Mechelen,17,17,34,40
+2009-05-16,Tubize_Germinal_2008,Tubize,17,17,34,40
+2009-05-16,Gent_Standard_2008,Gent,17,17,34,40
+2009-05-16,Genk_Anderlecht_2008,Genk,17,17,34,40
+2009-05-16,Roeselare_Cercle Brugge_2008,Cercle Brugge,17,17,34,40
+2009-05-16,Tubize_Germinal_2008,Germinal,17,17,34,40
+2009-05-16,Club Brugge_Mouscron_2008,Club Brugge,17,17,34,40
+2009-05-16,Dender_Charleroi_2008,Charleroi,17,17,34,40
+2009-05-16,Club Brugge_Mouscron_2008,Mouscron,17,17,34,40
+2009-05-16,Gent_Standard_2008,Standard,17,17,34,40
+2009-05-16,Genk_Anderlecht_2008,Anderlecht,17,17,34,40
+2009-05-16,Waregem_Bergen_2008,Bergen,17,17,34,40
+2009-05-16,Westerlo_Kortrijk_2008,Kortrijk,17,17,34,40
+2009-05-16,Dender_Charleroi_2008,Dender,17,17,34,40
+2009-05-16,Roeselare_Cercle Brugge_2008,Roeselare,17,17,34,40
+2009-05-16,Waregem_Bergen_2008,Waregem,17,17,34,40
+2009-05-16,Westerlo_Kortrijk_2008,Westerlo,17,17,34,40

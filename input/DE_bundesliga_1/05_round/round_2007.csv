@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2007-08-10,Stuttgart_Schalke 04_2007,Schalke 04,1,1,1,1
+2007-08-10,Stuttgart_Schalke 04_2007,Stuttgart,1,1,1,1
+2007-08-11,Ein Frankfurt_Hertha_2007,Hertha,1,1,1,1
+2007-08-11,Bochum_Werder Bremen_2007,Bochum,1,1,1,1
+2007-08-11,Wolfsburg_Bielefeld_2007,Bielefeld,1,1,1,1
+2007-08-11,Bayern Munich_Hansa Rostock_2007,Bayern Munich,1,1,1,1
+2007-08-11,Hannover_Hamburg_2007,Hamburg,1,1,1,1
+2007-08-11,Wolfsburg_Bielefeld_2007,Wolfsburg,1,1,1,1
+2007-08-11,Ein Frankfurt_Hertha_2007,Ein Frankfurt,1,1,1,1
+2007-08-11,Hannover_Hamburg_2007,Hannover,1,1,1,1
+2007-08-11,Leverkusen_Cottbus_2007,Leverkusen,1,1,1,1
+2007-08-11,Bayern Munich_Hansa Rostock_2007,Hansa Rostock,1,1,1,1
+2007-08-11,Leverkusen_Cottbus_2007,Cottbus,1,1,1,1
+2007-08-11,Bochum_Werder Bremen_2007,Werder Bremen,1,1,1,1
+2007-08-12,Dortmund_Duisburg_2007,Duisburg,1,1,1,1
+2007-08-12,Nurnberg_Karlsruhe_2007,Nurnberg,1,1,1,1
+2007-08-12,Dortmund_Duisburg_2007,Dortmund,1,1,1,1
+2007-08-12,Nurnberg_Karlsruhe_2007,Karlsruhe,1,1,1,1
+2007-08-17,Karlsruhe_Hannover_2007,Hannover,1,1,2,2
+2007-08-17,Karlsruhe_Hannover_2007,Karlsruhe,1,1,2,2
+2007-08-18,Hertha_Stuttgart_2007,Stuttgart,1,1,2,2
+2007-08-18,Bielefeld_Ein Frankfurt_2007,Ein Frankfurt,1,1,2,2
+2007-08-18,Werder Bremen_Bayern Munich_2007,Bayern Munich,1,1,2,2
+2007-08-18,Schalke 04_Dortmund_2007,Schalke 04,1,1,2,2
+2007-08-18,Hansa Rostock_Nurnberg_2007,Hansa Rostock,1,1,2,2
+2007-08-18,Duisburg_Wolfsburg_2007,Duisburg,1,1,2,2
+2007-08-18,Hansa Rostock_Nurnberg_2007,Nurnberg,1,1,2,2
+2007-08-18,Werder Bremen_Bayern Munich_2007,Werder Bremen,1,1,2,2
+2007-08-18,Duisburg_Wolfsburg_2007,Wolfsburg,1,1,2,2
+2007-08-18,Hertha_Stuttgart_2007,Hertha,1,1,2,2
+2007-08-18,Bielefeld_Ein Frankfurt_2007,Bielefeld,1,1,2,2
+2007-08-18,Schalke 04_Dortmund_2007,Dortmund,1,1,2,2
+2007-08-19,Cottbus_Bochum_2007,Bochum,1,1,2,2
+2007-08-19,Hamburg_Leverkusen_2007,Hamburg,1,1,2,2
+2007-08-19,Hamburg_Leverkusen_2007,Leverkusen,1,1,2,2
+2007-08-19,Cottbus_Bochum_2007,Cottbus,1,1,2,2
+2007-08-24,Bochum_Hamburg_2007,Hamburg,1,2,3,3
+2007-08-24,Bochum_Hamburg_2007,Bochum,2,1,3,3
+2007-08-25,Nurnberg_Werder Bremen_2007,Nurnberg,2,1,3,3
+2007-08-25,Leverkusen_Karlsruhe_2007,Leverkusen,2,1,3,3
+2007-08-25,Dortmund_Cottbus_2007,Cottbus,1,2,3,3
+2007-08-25,Stuttgart_Duisburg_2007,Duisburg,1,2,3,3
+2007-08-25,Stuttgart_Duisburg_2007,Stuttgart,2,1,3,3
+2007-08-25,Dortmund_Cottbus_2007,Dortmund,2,1,3,3
+2007-08-25,Bayern Munich_Hannover_2007,Hannover,1,2,3,3
+2007-08-25,Nurnberg_Werder Bremen_2007,Werder Bremen,1,2,3,3
+2007-08-25,Leverkusen_Karlsruhe_2007,Karlsruhe,1,2,3,3
+2007-08-25,Bielefeld_Hertha_2007,Hertha,1,2,3,3
+2007-08-25,Bielefeld_Hertha_2007,Bielefeld,2,1,3,3
+2007-08-25,Bayern Munich_Hannover_2007,Bayern Munich,2,1,3,3
+2007-08-26,Ein Frankfurt_Hansa Rostock_2007,Hansa Rostock,1,2,3,3
+2007-08-26,Wolfsburg_Schalke 04_2007,Wolfsburg,2,1,3,3
+2007-08-26,Ein Frankfurt_Hansa Rostock_2007,Ein Frankfurt,2,1,3,3
+2007-08-26,Wolfsburg_Schalke 04_2007,Schalke 04,1,2,3,3
+2007-08-31,Schalke 04_Leverkusen_2007,Leverkusen,2,2,4,4
+2007-08-31,Schalke 04_Leverkusen_2007,Schalke 04,2,2,4,4
+2007-09-01,Duisburg_Bielefeld_2007,Duisburg,2,2,4,4
+2007-09-01,Hannover_Bochum_2007,Bochum,2,2,4,4
+2007-09-01,Duisburg_Bielefeld_2007,Bielefeld,2,2,4,4
+2007-09-01,Hansa Rostock_Dortmund_2007,Hansa Rostock,2,2,4,4
+2007-09-01,Hansa Rostock_Dortmund_2007,Dortmund,2,2,4,4
+2007-09-01,Cottbus_Nurnberg_2007,Nurnberg,2,2,4,4
+2007-09-01,Werder Bremen_Ein Frankfurt_2007,Ein Frankfurt,2,2,4,4
+2007-09-01,Hannover_Bochum_2007,Hannover,2,2,4,4
+2007-09-01,Werder Bremen_Ein Frankfurt_2007,Werder Bremen,2,2,4,4
+2007-09-01,Cottbus_Nurnberg_2007,Cottbus,2,2,4,4
+2007-09-01,Hertha_Wolfsburg_2007,Wolfsburg,2,2,4,4
+2007-09-01,Hertha_Wolfsburg_2007,Hertha,2,2,4,4
+2007-09-02,Karlsruhe_Stuttgart_2007,Stuttgart,2,2,4,4
+2007-09-02,Karlsruhe_Stuttgart_2007,Karlsruhe,2,2,4,4
+2007-09-02,Hamburg_Bayern Munich_2007,Hamburg,2,2,4,4
+2007-09-02,Hamburg_Bayern Munich_2007,Bayern Munich,2,2,4,4
+2007-09-14,Dortmund_Werder Bremen_2007,Dortmund,3,2,5,6
+2007-09-14,Dortmund_Werder Bremen_2007,Werder Bremen,2,3,5,6
+2007-09-15,Stuttgart_Cottbus_2007,Stuttgart,3,2,5,6
+2007-09-15,Bayern Munich_Schalke 04_2007,Bayern Munich,3,2,5,6
+2007-09-15,Bielefeld_Hansa Rostock_2007,Hansa Rostock,2,3,5,6
+2007-09-15,Bayern Munich_Schalke 04_2007,Schalke 04,2,3,5,6
+2007-09-15,Nurnberg_Hannover_2007,Nurnberg,3,2,5,6
+2007-09-15,Stuttgart_Cottbus_2007,Cottbus,2,3,5,6
+2007-09-15,Leverkusen_Bochum_2007,Leverkusen,3,2,5,6
+2007-09-15,Ein Frankfurt_Hamburg_2007,Hamburg,2,3,5,6
+2007-09-15,Bielefeld_Hansa Rostock_2007,Bielefeld,3,2,5,6
+2007-09-15,Ein Frankfurt_Hamburg_2007,Ein Frankfurt,3,2,5,6
+2007-09-15,Leverkusen_Bochum_2007,Bochum,2,3,5,6
+2007-09-15,Nurnberg_Hannover_2007,Hannover,2,3,5,6
+2007-09-16,Wolfsburg_Karlsruhe_2007,Karlsruhe,2,3,5,6
+2007-09-16,Duisburg_Hertha_2007,Hertha,2,3,5,6
+2007-09-16,Duisburg_Hertha_2007,Duisburg,3,2,5,6
+2007-09-16,Wolfsburg_Karlsruhe_2007,Wolfsburg,3,2,5,6
+2007-09-21,Bochum_Ein Frankfurt_2007,Ein Frankfurt,3,3,6,7
+2007-09-21,Bochum_Ein Frankfurt_2007,Bochum,3,3,6,7
+2007-09-22,Schalke 04_Bielefeld_2007,Bielefeld,3,3,6,7
+2007-09-22,Werder Bremen_Stuttgart_2007,Werder Bremen,3,3,6,7
+2007-09-22,Hansa Rostock_Duisburg_2007,Hansa Rostock,3,3,6,7
+2007-09-22,Cottbus_Wolfsburg_2007,Wolfsburg,3,3,6,7
+2007-09-22,Schalke 04_Bielefeld_2007,Schalke 04,3,3,6,7
+2007-09-22,Cottbus_Wolfsburg_2007,Cottbus,3,3,6,7
+2007-09-22,Hansa Rostock_Duisburg_2007,Duisburg,3,3,6,7
+2007-09-22,Hamburg_Nurnberg_2007,Nurnberg,3,3,6,7
+2007-09-22,Werder Bremen_Stuttgart_2007,Stuttgart,3,3,6,7
+2007-09-22,Hertha_Dortmund_2007,Hertha,3,3,6,7
+2007-09-22,Hertha_Dortmund_2007,Dortmund,3,3,6,7
+2007-09-22,Hamburg_Nurnberg_2007,Hamburg,3,3,6,7
+2007-09-23,Hannover_Leverkusen_2007,Leverkusen,3,3,6,7
+2007-09-23,Hannover_Leverkusen_2007,Hannover,3,3,6,7
+2007-09-23,Karlsruhe_Bayern Munich_2007,Karlsruhe,3,3,6,7
+2007-09-23,Karlsruhe_Bayern Munich_2007,Bayern Munich,3,3,6,7
+2007-09-25,Duisburg_Schalke 04_2007,Duisburg,4,3,7,8
+2007-09-25,Hertha_Hansa Rostock_2007,Hertha,4,3,7,8
+2007-09-25,Dortmund_Hamburg_2007,Dortmund,4,3,7,8
+2007-09-25,Duisburg_Schalke 04_2007,Schalke 04,3,4,7,8
+2007-09-25,Dortmund_Hamburg_2007,Hamburg,3,4,7,8
+2007-09-25,Wolfsburg_Werder Bremen_2007,Wolfsburg,4,3,7,8
+2007-09-25,Wolfsburg_Werder Bremen_2007,Werder Bremen,3,4,7,8
+2007-09-25,Hertha_Hansa Rostock_2007,Hansa Rostock,3,4,7,8
+2007-09-26,Stuttgart_Bochum_2007,Stuttgart,4,3,7,8
+2007-09-26,Stuttgart_Bochum_2007,Bochum,3,4,7,8
+2007-09-26,Ein Frankfurt_Karlsruhe_2007,Karlsruhe,3,4,7,8
+2007-09-26,Ein Frankfurt_Karlsruhe_2007,Ein Frankfurt,4,3,7,8
+2007-09-26,Bielefeld_Hannover_2007,Hannover,3,4,7,8
+2007-09-26,Bielefeld_Hannover_2007,Bielefeld,4,3,7,8
+2007-09-26,Nurnberg_Leverkusen_2007,Leverkusen,3,4,7,8
+2007-09-26,Bayern Munich_Cottbus_2007,Bayern Munich,4,3,7,8
+2007-09-26,Nurnberg_Leverkusen_2007,Nurnberg,4,3,7,8
+2007-09-26,Bayern Munich_Cottbus_2007,Cottbus,3,4,7,8
+2007-09-28,Schalke 04_Hertha_2007,Schalke 04,4,4,8,8
+2007-09-28,Schalke 04_Hertha_2007,Hertha,4,4,8,8
+2007-09-29,Hamburg_Wolfsburg_2007,Wolfsburg,4,4,8,8
+2007-09-29,Hansa Rostock_Stuttgart_2007,Stuttgart,4,4,8,8
+2007-09-29,Hansa Rostock_Stuttgart_2007,Hansa Rostock,4,4,8,8
+2007-09-29,Karlsruhe_Dortmund_2007,Karlsruhe,4,4,8,8
+2007-09-29,Karlsruhe_Dortmund_2007,Dortmund,4,4,8,8
+2007-09-29,Leverkusen_Bayern Munich_2007,Bayern Munich,4,4,8,8
+2007-09-29,Bochum_Nurnberg_2007,Nurnberg,4,4,8,8
+2007-09-29,Werder Bremen_Bielefeld_2007,Bielefeld,4,4,8,8
+2007-09-29,Leverkusen_Bayern Munich_2007,Leverkusen,4,4,8,8
+2007-09-29,Hamburg_Wolfsburg_2007,Hamburg,4,4,8,8
+2007-09-29,Werder Bremen_Bielefeld_2007,Werder Bremen,4,4,8,8
+2007-09-29,Bochum_Nurnberg_2007,Bochum,4,4,8,8
+2007-09-30,Cottbus_Ein Frankfurt_2007,Ein Frankfurt,4,4,8,8
+2007-09-30,Hannover_Duisburg_2007,Duisburg,4,4,8,8
+2007-09-30,Hannover_Duisburg_2007,Hannover,4,4,8,8
+2007-09-30,Cottbus_Ein Frankfurt_2007,Cottbus,4,4,8,8
+2007-10-05,Dortmund_Bochum_2007,Bochum,4,5,9,9
+2007-10-05,Dortmund_Bochum_2007,Dortmund,5,4,9,9
+2007-10-06,Hertha_Cottbus_2007,Cottbus,4,5,9,9
+2007-10-06,Wolfsburg_Hansa Rostock_2007,Wolfsburg,5,4,9,9
+2007-10-06,Schalke 04_Karlsruhe_2007,Schalke 04,5,4,9,9
+2007-10-06,Wolfsburg_Hansa Rostock_2007,Hansa Rostock,4,5,9,9
+2007-10-06,Bielefeld_Hamburg_2007,Hamburg,4,5,9,9
+2007-10-06,Stuttgart_Hannover_2007,Stuttgart,5,4,9,9
+2007-10-06,Duisburg_Werder Bremen_2007,Duisburg,5,4,9,9
+2007-10-06,Schalke 04_Karlsruhe_2007,Karlsruhe,4,5,9,9
+2007-10-06,Hertha_Cottbus_2007,Hertha,5,4,9,9
+2007-10-06,Duisburg_Werder Bremen_2007,Werder Bremen,4,5,9,9
+2007-10-06,Stuttgart_Hannover_2007,Hannover,4,5,9,9
+2007-10-06,Bielefeld_Hamburg_2007,Bielefeld,5,4,9,9
+2007-10-07,Ein Frankfurt_Leverkusen_2007,Ein Frankfurt,5,4,9,9
+2007-10-07,Ein Frankfurt_Leverkusen_2007,Leverkusen,4,5,9,9
+2007-10-07,Bayern Munich_Nurnberg_2007,Bayern Munich,5,4,9,9
+2007-10-07,Bayern Munich_Nurnberg_2007,Nurnberg,4,5,9,9
+2007-10-19,Cottbus_Duisburg_2007,Duisburg,5,5,10,11
+2007-10-19,Cottbus_Duisburg_2007,Cottbus,5,5,10,11
+2007-10-20,Hamburg_Stuttgart_2007,Stuttgart,5,5,10,11
+2007-10-20,Hamburg_Stuttgart_2007,Hamburg,5,5,10,11
+2007-10-20,Hansa Rostock_Schalke 04_2007,Hansa Rostock,5,5,10,11
+2007-10-20,Werder Bremen_Hertha_2007,Werder Bremen,5,5,10,11
+2007-10-20,Leverkusen_Dortmund_2007,Leverkusen,5,5,10,11
+2007-10-20,Nurnberg_Ein Frankfurt_2007,Ein Frankfurt,5,5,10,11
+2007-10-20,Hansa Rostock_Schalke 04_2007,Schalke 04,5,5,10,11
+2007-10-20,Bochum_Bayern Munich_2007,Bayern Munich,5,5,10,11
+2007-10-20,Bochum_Bayern Munich_2007,Bochum,5,5,10,11
+2007-10-20,Leverkusen_Dortmund_2007,Dortmund,5,5,10,11
+2007-10-20,Werder Bremen_Hertha_2007,Hertha,5,5,10,11
+2007-10-20,Nurnberg_Ein Frankfurt_2007,Nurnberg,5,5,10,11
+2007-10-21,Hannover_Wolfsburg_2007,Hannover,5,5,10,11
+2007-10-21,Karlsruhe_Bielefeld_2007,Karlsruhe,5,5,10,11
+2007-10-21,Hannover_Wolfsburg_2007,Wolfsburg,5,5,10,11
+2007-10-21,Karlsruhe_Bielefeld_2007,Bielefeld,5,5,10,11
+2007-10-26,Ein Frankfurt_Hannover_2007,Ein Frankfurt,6,5,11,12
+2007-10-26,Ein Frankfurt_Hannover_2007,Hannover,5,6,11,12
+2007-10-27,Stuttgart_Leverkusen_2007,Leverkusen,5,6,11,12
+2007-10-27,Bielefeld_Cottbus_2007,Cottbus,5,6,11,12
+2007-10-27,Hertha_Bochum_2007,Hertha,6,5,11,12
+2007-10-27,Wolfsburg_Nurnberg_2007,Nurnberg,5,6,11,12
+2007-10-27,Wolfsburg_Nurnberg_2007,Wolfsburg,6,5,11,12
+2007-10-27,Stuttgart_Leverkusen_2007,Stuttgart,6,5,11,12
+2007-10-27,Schalke 04_Werder Bremen_2007,Werder Bremen,5,6,11,12
+2007-10-27,Hansa Rostock_Karlsruhe_2007,Karlsruhe,5,6,11,12
+2007-10-27,Hertha_Bochum_2007,Bochum,5,6,11,12
+2007-10-27,Schalke 04_Werder Bremen_2007,Schalke 04,6,5,11,12
+2007-10-27,Hansa Rostock_Karlsruhe_2007,Hansa Rostock,6,5,11,12
+2007-10-27,Bielefeld_Cottbus_2007,Bielefeld,6,5,11,12
+2007-10-28,Duisburg_Hamburg_2007,Duisburg,6,5,11,12
+2007-10-28,Duisburg_Hamburg_2007,Hamburg,5,6,11,12
+2007-10-28,Dortmund_Bayern Munich_2007,Bayern Munich,5,6,11,12
+2007-10-28,Dortmund_Bayern Munich_2007,Dortmund,6,5,11,12
+2007-11-02,Cottbus_Schalke 04_2007,Cottbus,6,6,12,13
+2007-11-02,Cottbus_Schalke 04_2007,Schalke 04,6,6,12,13
+2007-11-03,Hamburg_Hertha_2007,Hamburg,6,6,12,13
+2007-11-03,Leverkusen_Bielefeld_2007,Leverkusen,6,6,12,13
+2007-11-03,Nurnberg_Stuttgart_2007,Stuttgart,6,6,12,13
+2007-11-03,Bayern Munich_Ein Frankfurt_2007,Ein Frankfurt,6,6,12,13
+2007-11-03,Werder Bremen_Hansa Rostock_2007,Werder Bremen,6,6,12,13
+2007-11-03,Hannover_Dortmund_2007,Hannover,6,6,12,13
+2007-11-03,Nurnberg_Stuttgart_2007,Nurnberg,6,6,12,13
+2007-11-03,Werder Bremen_Hansa Rostock_2007,Hansa Rostock,6,6,12,13
+2007-11-03,Leverkusen_Bielefeld_2007,Bielefeld,6,6,12,13
+2007-11-03,Hannover_Dortmund_2007,Dortmund,6,6,12,13
+2007-11-03,Hamburg_Hertha_2007,Hertha,6,6,12,13
+2007-11-03,Bayern Munich_Ein Frankfurt_2007,Bayern Munich,6,6,12,13
+2007-11-04,Karlsruhe_Duisburg_2007,Duisburg,6,6,12,13
+2007-11-04,Karlsruhe_Duisburg_2007,Karlsruhe,6,6,12,13
+2007-11-04,Bochum_Wolfsburg_2007,Wolfsburg,6,6,12,13
+2007-11-04,Bochum_Wolfsburg_2007,Bochum,6,6,12,13
+2007-11-09,Duisburg_Bochum_2007,Duisburg,7,6,13,14
+2007-11-09,Duisburg_Bochum_2007,Bochum,6,7,13,14
+2007-11-10,Werder Bremen_Karlsruhe_2007,Karlsruhe,6,7,13,14
+2007-11-10,Dortmund_Ein Frankfurt_2007,Dortmund,7,6,13,14
+2007-11-10,Hertha_Hannover_2007,Hannover,6,7,13,14
+2007-11-10,Hansa Rostock_Cottbus_2007,Hansa Rostock,7,6,13,14
+2007-11-10,Schalke 04_Hamburg_2007,Hamburg,6,7,13,14
+2007-11-10,Hertha_Hannover_2007,Hertha,7,6,13,14
+2007-11-10,Hansa Rostock_Cottbus_2007,Cottbus,6,7,13,14
+2007-11-10,Stuttgart_Bayern Munich_2007,Stuttgart,7,6,13,14
+2007-11-10,Stuttgart_Bayern Munich_2007,Bayern Munich,6,7,13,14
+2007-11-10,Dortmund_Ein Frankfurt_2007,Ein Frankfurt,6,7,13,14
+2007-11-10,Werder Bremen_Karlsruhe_2007,Werder Bremen,7,6,13,14
+2007-11-10,Schalke 04_Hamburg_2007,Schalke 04,7,6,13,14
+2007-11-11,Bielefeld_Nurnberg_2007,Nurnberg,6,7,13,14
+2007-11-11,Wolfsburg_Leverkusen_2007,Wolfsburg,7,6,13,14
+2007-11-11,Wolfsburg_Leverkusen_2007,Leverkusen,6,7,13,14
+2007-11-11,Bielefeld_Nurnberg_2007,Bielefeld,7,6,13,14
+2007-11-23,Karlsruhe_Hertha_2007,Hertha,7,7,14,16
+2007-11-23,Karlsruhe_Hertha_2007,Karlsruhe,7,7,14,16
+2007-11-24,Cottbus_Werder Bremen_2007,Cottbus,7,7,14,16
+2007-11-24,Bochum_Bielefeld_2007,Bielefeld,7,7,14,16
+2007-11-24,Hannover_Schalke 04_2007,Hannover,7,7,14,16
+2007-11-24,Bochum_Bielefeld_2007,Bochum,7,7,14,16
+2007-11-24,Cottbus_Werder Bremen_2007,Werder Bremen,7,7,14,16
+2007-11-24,Ein Frankfurt_Stuttgart_2007,Ein Frankfurt,7,7,14,16
+2007-11-24,Hannover_Schalke 04_2007,Schalke 04,7,7,14,16
+2007-11-24,Ein Frankfurt_Stuttgart_2007,Stuttgart,7,7,14,16
+2007-11-24,Leverkusen_Duisburg_2007,Leverkusen,7,7,14,16
+2007-11-24,Bayern Munich_Wolfsburg_2007,Wolfsburg,7,7,14,16
+2007-11-24,Leverkusen_Duisburg_2007,Duisburg,7,7,14,16
+2007-11-24,Bayern Munich_Wolfsburg_2007,Bayern Munich,7,7,14,16
+2007-11-25,Hamburg_Hansa Rostock_2007,Hansa Rostock,7,7,14,16
+2007-11-25,Nurnberg_Dortmund_2007,Dortmund,7,7,14,16
+2007-11-25,Hamburg_Hansa Rostock_2007,Hamburg,7,7,14,16
+2007-11-25,Nurnberg_Dortmund_2007,Nurnberg,7,7,14,16
+2007-11-30,Hansa Rostock_Hannover_2007,Hansa Rostock,8,7,15,17
+2007-11-30,Hansa Rostock_Hannover_2007,Hannover,7,8,15,17
+2007-12-01,Wolfsburg_Ein Frankfurt_2007,Wolfsburg,8,7,15,17
+2007-12-01,Hertha_Leverkusen_2007,Leverkusen,7,8,15,17
+2007-12-01,Schalke 04_Bochum_2007,Schalke 04,8,7,15,17
+2007-12-01,Werder Bremen_Hamburg_2007,Werder Bremen,8,7,15,17
+2007-12-01,Schalke 04_Bochum_2007,Bochum,7,8,15,17
+2007-12-01,Stuttgart_Dortmund_2007,Dortmund,7,8,15,17
+2007-12-01,Werder Bremen_Hamburg_2007,Hamburg,7,8,15,17
+2007-12-01,Hertha_Leverkusen_2007,Hertha,8,7,15,17
+2007-12-01,Wolfsburg_Ein Frankfurt_2007,Ein Frankfurt,7,8,15,17
+2007-12-01,Cottbus_Karlsruhe_2007,Cottbus,8,7,15,17
+2007-12-01,Stuttgart_Dortmund_2007,Stuttgart,8,7,15,17
+2007-12-01,Cottbus_Karlsruhe_2007,Karlsruhe,7,8,15,17
+2007-12-02,Bielefeld_Bayern Munich_2007,Bielefeld,8,7,15,17
+2007-12-02,Bielefeld_Bayern Munich_2007,Bayern Munich,7,8,15,17
+2007-12-02,Duisburg_Nurnberg_2007,Duisburg,8,7,15,17
+2007-12-02,Duisburg_Nurnberg_2007,Nurnberg,7,8,15,17
+2007-12-07,Dortmund_Bielefeld_2007,Dortmund,8,8,16,18
+2007-12-07,Dortmund_Bielefeld_2007,Bielefeld,8,8,16,18
+2007-12-08,Ein Frankfurt_Schalke 04_2007,Ein Frankfurt,8,8,16,18
+2007-12-08,Hamburg_Cottbus_2007,Hamburg,8,8,16,18
+2007-12-08,Bochum_Karlsruhe_2007,Karlsruhe,7,9,16,18
+2007-12-08,Ein Frankfurt_Schalke 04_2007,Schalke 04,8,8,16,18
+2007-12-08,Hannover_Werder Bremen_2007,Hannover,8,8,16,18
+2007-12-08,Bayern Munich_Duisburg_2007,Duisburg,8,8,16,18
+2007-12-08,Bochum_Karlsruhe_2007,Bochum,8,8,16,18
+2007-12-08,Hamburg_Cottbus_2007,Cottbus,8,8,16,18
+2007-12-08,Stuttgart_Wolfsburg_2007,Stuttgart,9,7,16,18
+2007-12-08,Bayern Munich_Duisburg_2007,Bayern Munich,8,8,16,18
+2007-12-08,Hannover_Werder Bremen_2007,Werder Bremen,8,8,16,18
+2007-12-08,Stuttgart_Wolfsburg_2007,Wolfsburg,8,8,16,18
+2007-12-09,Leverkusen_Hansa Rostock_2007,Hansa Rostock,8,8,16,18
+2007-12-09,Nurnberg_Hertha_2007,Nurnberg,8,8,16,18
+2007-12-09,Nurnberg_Hertha_2007,Hertha,8,8,16,18
+2007-12-09,Leverkusen_Hansa Rostock_2007,Leverkusen,8,8,16,18
+2007-12-14,Cottbus_Hannover_2007,Cottbus,9,8,17,19
+2007-12-14,Cottbus_Hannover_2007,Hannover,8,9,17,19
+2007-12-15,Wolfsburg_Dortmund_2007,Dortmund,8,9,17,19
+2007-12-15,Karlsruhe_Hamburg_2007,Hamburg,8,9,17,19
+2007-12-15,Karlsruhe_Hamburg_2007,Karlsruhe,8,9,17,19
+2007-12-15,Bielefeld_Stuttgart_2007,Bielefeld,9,8,17,19
+2007-12-15,Hertha_Bayern Munich_2007,Hertha,9,8,17,19
+2007-12-15,Schalke 04_Nurnberg_2007,Nurnberg,8,9,17,19
+2007-12-15,Bielefeld_Stuttgart_2007,Stuttgart,9,8,17,19
+2007-12-15,Werder Bremen_Leverkusen_2007,Leverkusen,8,9,17,19
+2007-12-15,Schalke 04_Nurnberg_2007,Schalke 04,9,8,17,19
+2007-12-15,Hertha_Bayern Munich_2007,Bayern Munich,8,9,17,19
+2007-12-15,Werder Bremen_Leverkusen_2007,Werder Bremen,9,8,17,19
+2007-12-15,Wolfsburg_Dortmund_2007,Wolfsburg,9,8,17,19
+2007-12-16,Duisburg_Ein Frankfurt_2007,Duisburg,9,8,17,19
+2007-12-16,Hansa Rostock_Bochum_2007,Hansa Rostock,9,8,17,19
+2007-12-16,Duisburg_Ein Frankfurt_2007,Ein Frankfurt,8,9,17,19
+2007-12-16,Hansa Rostock_Bochum_2007,Bochum,8,9,17,19
+2008-02-01,Hansa Rostock_Bayern Munich_2007,Hansa Rostock,10,8,18,26
+2008-02-01,Hansa Rostock_Bayern Munich_2007,Bayern Munich,8,10,18,26
+2008-02-02,Hamburg_Hannover_2007,Hannover,8,10,18,26
+2008-02-02,Duisburg_Dortmund_2007,Dortmund,8,10,18,26
+2008-02-02,Bielefeld_Wolfsburg_2007,Wolfsburg,9,9,18,26
+2008-02-02,Karlsruhe_Nurnberg_2007,Nurnberg,8,10,18,26
+2008-02-02,Hertha_Ein Frankfurt_2007,Ein Frankfurt,8,10,18,26
+2008-02-02,Hertha_Ein Frankfurt_2007,Hertha,10,8,18,26
+2008-02-02,Bielefeld_Wolfsburg_2007,Bielefeld,10,8,18,26
+2008-02-02,Cottbus_Leverkusen_2007,Leverkusen,8,10,18,26
+2008-02-02,Duisburg_Dortmund_2007,Duisburg,10,8,18,26
+2008-02-02,Hamburg_Hannover_2007,Hamburg,9,9,18,26
+2008-02-02,Cottbus_Leverkusen_2007,Cottbus,10,8,18,26
+2008-02-02,Karlsruhe_Nurnberg_2007,Karlsruhe,9,9,18,26
+2008-02-03,Werder Bremen_Bochum_2007,Werder Bremen,10,8,18,26
+2008-02-03,Schalke 04_Stuttgart_2007,Schalke 04,10,8,18,26
+2008-02-03,Werder Bremen_Bochum_2007,Bochum,8,10,18,26
+2008-02-03,Schalke 04_Stuttgart_2007,Stuttgart,9,9,18,26
+2008-02-08,Ein Frankfurt_Bielefeld_2007,Bielefeld,10,9,19,27
+2008-02-08,Ein Frankfurt_Bielefeld_2007,Ein Frankfurt,9,10,19,27
+2008-02-09,Stuttgart_Hertha_2007,Stuttgart,10,9,19,27
+2008-02-09,Wolfsburg_Duisburg_2007,Wolfsburg,10,9,19,27
+2008-02-09,Bochum_Cottbus_2007,Cottbus,10,9,19,27
+2008-02-09,Bochum_Cottbus_2007,Bochum,9,10,19,27
+2008-02-09,Hannover_Karlsruhe_2007,Hannover,9,10,19,27
+2008-02-09,Wolfsburg_Duisburg_2007,Duisburg,10,9,19,27
+2008-02-09,Nurnberg_Hansa Rostock_2007,Nurnberg,9,10,19,27
+2008-02-09,Leverkusen_Hamburg_2007,Hamburg,9,10,19,27
+2008-02-09,Nurnberg_Hansa Rostock_2007,Hansa Rostock,10,9,19,27
+2008-02-09,Stuttgart_Hertha_2007,Hertha,10,9,19,27
+2008-02-09,Leverkusen_Hamburg_2007,Leverkusen,9,10,19,27
+2008-02-09,Hannover_Karlsruhe_2007,Karlsruhe,9,10,19,27
+2008-02-10,Dortmund_Schalke 04_2007,Schalke 04,10,9,19,27
+2008-02-10,Bayern Munich_Werder Bremen_2007,Bayern Munich,9,10,19,27
+2008-02-10,Dortmund_Schalke 04_2007,Dortmund,9,10,19,27
+2008-02-10,Bayern Munich_Werder Bremen_2007,Werder Bremen,10,9,19,27
+2008-02-15,Schalke 04_Wolfsburg_2007,Schalke 04,11,9,20,28
+2008-02-15,Schalke 04_Wolfsburg_2007,Wolfsburg,10,10,20,28
+2008-02-16,Karlsruhe_Leverkusen_2007,Karlsruhe,10,10,20,28
+2008-02-16,Hertha_Bielefeld_2007,Hertha,11,9,20,28
+2008-02-16,Werder Bremen_Nurnberg_2007,Nurnberg,9,11,20,28
+2008-02-16,Hansa Rostock_Ein Frankfurt_2007,Hansa Rostock,11,9,20,28
+2008-02-16,Hansa Rostock_Ein Frankfurt_2007,Ein Frankfurt,9,11,20,28
+2008-02-16,Werder Bremen_Nurnberg_2007,Werder Bremen,11,9,20,28
+2008-02-16,Cottbus_Dortmund_2007,Dortmund,9,11,20,28
+2008-02-16,Hertha_Bielefeld_2007,Bielefeld,10,10,20,28
+2008-02-16,Duisburg_Stuttgart_2007,Stuttgart,10,10,20,28
+2008-02-16,Duisburg_Stuttgart_2007,Duisburg,11,9,20,28
+2008-02-16,Karlsruhe_Leverkusen_2007,Leverkusen,9,11,20,28
+2008-02-16,Cottbus_Dortmund_2007,Cottbus,11,9,20,28
+2008-02-17,Hannover_Bayern Munich_2007,Bayern Munich,9,11,20,28
+2008-02-17,Hamburg_Bochum_2007,Bochum,9,11,20,28
+2008-02-17,Hannover_Bayern Munich_2007,Hannover,10,10,20,28
+2008-02-17,Hamburg_Bochum_2007,Hamburg,10,10,20,28
+2008-02-22,Bochum_Hannover_2007,Hannover,10,11,21,29
+2008-02-22,Bochum_Hannover_2007,Bochum,10,11,21,29
+2008-02-23,Stuttgart_Karlsruhe_2007,Stuttgart,11,10,21,29
+2008-02-23,Ein Frankfurt_Werder Bremen_2007,Werder Bremen,11,10,21,29
+2008-02-23,Leverkusen_Schalke 04_2007,Leverkusen,10,11,21,29
+2008-02-23,Leverkusen_Schalke 04_2007,Schalke 04,11,10,21,29
+2008-02-23,Dortmund_Hansa Rostock_2007,Hansa Rostock,11,10,21,29
+2008-02-23,Ein Frankfurt_Werder Bremen_2007,Ein Frankfurt,10,11,21,29
+2008-02-23,Bielefeld_Duisburg_2007,Bielefeld,11,10,21,29
+2008-02-23,Dortmund_Hansa Rostock_2007,Dortmund,10,11,21,29
+2008-02-23,Stuttgart_Karlsruhe_2007,Karlsruhe,10,11,21,29
+2008-02-23,Bielefeld_Duisburg_2007,Duisburg,11,10,21,29
+2008-02-23,Wolfsburg_Hertha_2007,Hertha,11,10,21,29
+2008-02-23,Wolfsburg_Hertha_2007,Wolfsburg,11,10,21,29
+2008-02-24,Bayern Munich_Hamburg_2007,Hamburg,10,11,21,29
+2008-02-24,Nurnberg_Cottbus_2007,Nurnberg,10,11,21,29
+2008-02-24,Bayern Munich_Hamburg_2007,Bayern Munich,10,11,21,29
+2008-02-24,Nurnberg_Cottbus_2007,Cottbus,11,10,21,29
+2008-02-29,Hertha_Duisburg_2007,Duisburg,11,11,22,30
+2008-02-29,Hertha_Duisburg_2007,Hertha,12,10,22,30
+2008-03-01,Hannover_Nurnberg_2007,Hannover,11,11,22,30
+2008-03-01,Karlsruhe_Wolfsburg_2007,Wolfsburg,11,11,22,30
+2008-03-01,Werder Bremen_Dortmund_2007,Werder Bremen,12,10,22,30
+2008-03-01,Werder Bremen_Dortmund_2007,Dortmund,10,12,22,30
+2008-03-01,Karlsruhe_Wolfsburg_2007,Karlsruhe,11,11,22,30
+2008-03-01,Hannover_Nurnberg_2007,Nurnberg,10,12,22,30
+2008-03-01,Hansa Rostock_Bielefeld_2007,Hansa Rostock,12,10,22,30
+2008-03-01,Schalke 04_Bayern Munich_2007,Bayern Munich,10,12,22,30
+2008-03-01,Schalke 04_Bayern Munich_2007,Schalke 04,12,10,22,30
+2008-03-01,Hansa Rostock_Bielefeld_2007,Bielefeld,11,11,22,30
+2008-03-02,Bochum_Leverkusen_2007,Bochum,11,11,22,30
+2008-03-02,Bochum_Leverkusen_2007,Leverkusen,10,12,22,30
+2008-03-02,Hamburg_Ein Frankfurt_2007,Ein Frankfurt,10,12,22,30
+2008-03-02,Hamburg_Ein Frankfurt_2007,Hamburg,11,11,22,30
+2008-03-07,Dortmund_Hertha_2007,Dortmund,11,12,23,31
+2008-03-07,Dortmund_Hertha_2007,Hertha,12,11,23,31
+2008-03-08,Ein Frankfurt_Bochum_2007,Bochum,11,12,23,31
+2008-03-08,Bielefeld_Schalke 04_2007,Bielefeld,12,11,23,31
+2008-03-08,Wolfsburg_Cottbus_2007,Cottbus,11,11,22,31
+2008-03-08,Duisburg_Hansa Rostock_2007,Hansa Rostock,12,11,23,31
+2008-03-08,Ein Frankfurt_Bochum_2007,Ein Frankfurt,11,12,23,31
+2008-03-08,Duisburg_Hansa Rostock_2007,Duisburg,12,11,23,31
+2008-03-08,Bielefeld_Schalke 04_2007,Schalke 04,12,11,23,31
+2008-03-08,Stuttgart_Werder Bremen_2007,Stuttgart,12,10,22,31
+2008-03-08,Bayern Munich_Karlsruhe_2007,Bayern Munich,11,12,23,31
+2008-03-08,Wolfsburg_Cottbus_2007,Wolfsburg,12,11,23,31
+2008-03-08,Bayern Munich_Karlsruhe_2007,Karlsruhe,11,12,23,31
+2008-03-08,Stuttgart_Werder Bremen_2007,Werder Bremen,12,11,23,31
+2008-03-09,Leverkusen_Hannover_2007,Leverkusen,11,12,23,31
+2008-03-09,Nurnberg_Hamburg_2007,Nurnberg,11,12,23,31
+2008-03-09,Leverkusen_Hannover_2007,Hannover,11,12,23,31
+2008-03-09,Nurnberg_Hamburg_2007,Hamburg,11,12,23,31
+2008-03-11,Cottbus_Stuttgart_2007,Stuttgart,12,11,23,32
+2008-03-11,Cottbus_Stuttgart_2007,Cottbus,12,11,23,32
+2008-03-14,Schalke 04_Duisburg_2007,Duisburg,12,12,24,32
+2008-03-14,Schalke 04_Duisburg_2007,Schalke 04,13,11,24,32
+2008-03-15,Hansa Rostock_Hertha_2007,Hansa Rostock,13,11,24,32
+2008-03-15,Hansa Rostock_Hertha_2007,Hertha,12,12,24,32
+2008-03-15,Bochum_Stuttgart_2007,Stuttgart,12,12,24,32
+2008-03-15,Hamburg_Dortmund_2007,Dortmund,11,13,24,32
+2008-03-15,Cottbus_Bayern Munich_2007,Cottbus,13,11,24,32
+2008-03-15,Karlsruhe_Ein Frankfurt_2007,Karlsruhe,12,12,24,32
+2008-03-15,Hamburg_Dortmund_2007,Hamburg,12,12,24,32
+2008-03-15,Bochum_Stuttgart_2007,Bochum,12,12,24,32
+2008-03-15,Cottbus_Bayern Munich_2007,Bayern Munich,11,13,24,32
+2008-03-15,Hannover_Bielefeld_2007,Bielefeld,12,12,24,32
+2008-03-15,Karlsruhe_Ein Frankfurt_2007,Ein Frankfurt,11,13,24,32
+2008-03-15,Hannover_Bielefeld_2007,Hannover,12,12,24,32
+2008-03-16,Leverkusen_Nurnberg_2007,Nurnberg,11,13,24,32
+2008-03-16,Leverkusen_Nurnberg_2007,Leverkusen,12,12,24,32
+2008-03-16,Werder Bremen_Wolfsburg_2007,Werder Bremen,13,11,24,32
+2008-03-16,Werder Bremen_Wolfsburg_2007,Wolfsburg,12,12,24,32
+2008-03-20,Ein Frankfurt_Cottbus_2007,Ein Frankfurt,12,13,25,33
+2008-03-20,Ein Frankfurt_Cottbus_2007,Cottbus,13,12,25,33
+2008-03-22,Stuttgart_Hansa Rostock_2007,Stuttgart,13,12,25,33
+2008-03-22,Nurnberg_Bochum_2007,Bochum,12,13,25,33
+2008-03-22,Bayern Munich_Leverkusen_2007,Leverkusen,12,13,25,33
+2008-03-22,Duisburg_Hannover_2007,Duisburg,13,12,25,33
+2008-03-22,Dortmund_Karlsruhe_2007,Dortmund,12,13,25,33
+2008-03-22,Wolfsburg_Hamburg_2007,Wolfsburg,13,12,25,33
+2008-03-22,Stuttgart_Hansa Rostock_2007,Hansa Rostock,13,12,25,33
+2008-03-22,Wolfsburg_Hamburg_2007,Hamburg,12,13,25,33
+2008-03-22,Duisburg_Hannover_2007,Hannover,12,13,25,33
+2008-03-22,Dortmund_Karlsruhe_2007,Karlsruhe,12,13,25,33
+2008-03-22,Nurnberg_Bochum_2007,Nurnberg,12,13,25,33
+2008-03-22,Bayern Munich_Leverkusen_2007,Bayern Munich,12,13,25,33
+2008-03-23,Bielefeld_Werder Bremen_2007,Werder Bremen,13,12,25,33
+2008-03-23,Bielefeld_Werder Bremen_2007,Bielefeld,13,12,25,33
+2008-03-23,Hertha_Schalke 04_2007,Hertha,13,12,25,33
+2008-03-23,Hertha_Schalke 04_2007,Schalke 04,13,12,25,33
+2008-03-28,Hansa Rostock_Wolfsburg_2007,Hansa Rostock,14,12,26,34
+2008-03-28,Hansa Rostock_Wolfsburg_2007,Wolfsburg,13,13,26,34
+2008-03-29,Karlsruhe_Schalke 04_2007,Karlsruhe,13,13,26,34
+2008-03-29,Leverkusen_Ein Frankfurt_2007,Leverkusen,13,13,26,34
+2008-03-29,Hamburg_Bielefeld_2007,Bielefeld,13,13,26,34
+2008-03-29,Bochum_Dortmund_2007,Bochum,13,13,26,34
+2008-03-29,Nurnberg_Bayern Munich_2007,Nurnberg,13,13,26,34
+2008-03-29,Leverkusen_Ein Frankfurt_2007,Ein Frankfurt,12,14,26,34
+2008-03-29,Werder Bremen_Duisburg_2007,Duisburg,13,13,26,34
+2008-03-29,Hamburg_Bielefeld_2007,Hamburg,13,13,26,34
+2008-03-29,Karlsruhe_Schalke 04_2007,Schalke 04,13,13,26,34
+2008-03-29,Nurnberg_Bayern Munich_2007,Bayern Munich,12,14,26,34
+2008-03-29,Werder Bremen_Duisburg_2007,Werder Bremen,14,12,26,34
+2008-03-29,Bochum_Dortmund_2007,Dortmund,12,14,26,34
+2008-03-30,Cottbus_Hertha_2007,Cottbus,14,12,26,34
+2008-03-30,Cottbus_Hertha_2007,Hertha,13,13,26,34
+2008-03-30,Hannover_Stuttgart_2007,Stuttgart,13,13,26,34
+2008-03-30,Hannover_Stuttgart_2007,Hannover,13,13,26,34
+2008-04-04,Duisburg_Cottbus_2007,Duisburg,14,13,27,35
+2008-04-04,Duisburg_Cottbus_2007,Cottbus,14,13,27,35
+2008-04-05,Wolfsburg_Hannover_2007,Wolfsburg,14,13,27,35
+2008-04-05,Stuttgart_Hamburg_2007,Stuttgart,14,13,27,35
+2008-04-05,Hertha_Werder Bremen_2007,Hertha,14,13,27,35
+2008-04-05,Hertha_Werder Bremen_2007,Werder Bremen,14,13,27,35
+2008-04-05,Ein Frankfurt_Nurnberg_2007,Nurnberg,13,14,27,35
+2008-04-05,Bielefeld_Karlsruhe_2007,Bielefeld,14,13,27,35
+2008-04-05,Schalke 04_Hansa Rostock_2007,Hansa Rostock,14,13,27,35
+2008-04-05,Bielefeld_Karlsruhe_2007,Karlsruhe,13,14,27,35
+2008-04-05,Stuttgart_Hamburg_2007,Hamburg,13,14,27,35
+2008-04-05,Ein Frankfurt_Nurnberg_2007,Ein Frankfurt,13,14,27,35
+2008-04-05,Wolfsburg_Hannover_2007,Hannover,13,14,27,35
+2008-04-05,Schalke 04_Hansa Rostock_2007,Schalke 04,14,13,27,35
+2008-04-06,Bayern Munich_Bochum_2007,Bayern Munich,13,14,27,35
+2008-04-06,Dortmund_Leverkusen_2007,Dortmund,13,14,27,35
+2008-04-06,Bayern Munich_Bochum_2007,Bochum,13,14,27,35
+2008-04-06,Dortmund_Leverkusen_2007,Leverkusen,13,14,27,35
+2008-04-12,Karlsruhe_Hansa Rostock_2007,Hansa Rostock,14,14,28,36
+2008-04-12,Hamburg_Duisburg_2007,Duisburg,14,14,28,36
+2008-04-12,Hannover_Ein Frankfurt_2007,Ein Frankfurt,13,15,28,36
+2008-04-12,Werder Bremen_Schalke 04_2007,Werder Bremen,15,13,28,36
+2008-04-12,Karlsruhe_Hansa Rostock_2007,Karlsruhe,14,14,28,36
+2008-04-12,Bochum_Hertha_2007,Bochum,14,14,28,36
+2008-04-12,Werder Bremen_Schalke 04_2007,Schalke 04,14,14,28,36
+2008-04-12,Hamburg_Duisburg_2007,Hamburg,14,14,28,36
+2008-04-12,Cottbus_Bielefeld_2007,Cottbus,15,13,28,36
+2008-04-12,Bochum_Hertha_2007,Hertha,14,14,28,36
+2008-04-12,Cottbus_Bielefeld_2007,Bielefeld,14,14,28,36
+2008-04-12,Hannover_Ein Frankfurt_2007,Hannover,14,14,28,36
+2008-04-13,Bayern Munich_Dortmund_2007,Dortmund,13,15,28,36
+2008-04-13,Leverkusen_Stuttgart_2007,Stuttgart,14,14,28,36
+2008-04-13,Bayern Munich_Dortmund_2007,Bayern Munich,14,14,28,36
+2008-04-13,Leverkusen_Stuttgart_2007,Leverkusen,14,14,28,36
+2008-04-15,Wolfsburg_Bochum_2007,Wolfsburg,15,13,28,37
+2008-04-15,Schalke 04_Cottbus_2007,Cottbus,15,14,29,37
+2008-04-15,Hansa Rostock_Werder Bremen_2007,Werder Bremen,15,14,29,37
+2008-04-15,Hertha_Hamburg_2007,Hamburg,14,15,29,37
+2008-04-15,Hertha_Hamburg_2007,Hertha,15,14,29,37
+2008-04-15,Hansa Rostock_Werder Bremen_2007,Hansa Rostock,15,14,29,37
+2008-04-15,Wolfsburg_Bochum_2007,Bochum,14,15,29,37
+2008-04-15,Schalke 04_Cottbus_2007,Schalke 04,15,14,29,37
+2008-04-16,Bielefeld_Leverkusen_2007,Bielefeld,15,14,29,37
+2008-04-16,Ein Frankfurt_Bayern Munich_2007,Bayern Munich,14,15,29,37
+2008-04-16,Duisburg_Karlsruhe_2007,Duisburg,15,14,29,37
+2008-04-16,Ein Frankfurt_Bayern Munich_2007,Ein Frankfurt,14,15,29,37
+2008-04-16,Dortmund_Hannover_2007,Hannover,14,15,29,37
+2008-04-16,Stuttgart_Nurnberg_2007,Nurnberg,13,15,28,37
+2008-04-16,Dortmund_Hannover_2007,Dortmund,14,15,29,37
+2008-04-16,Duisburg_Karlsruhe_2007,Karlsruhe,14,15,29,37
+2008-04-16,Stuttgart_Nurnberg_2007,Stuttgart,15,14,29,37
+2008-04-16,Bielefeld_Leverkusen_2007,Leverkusen,14,15,29,37
+2008-04-20,Nurnberg_Wolfsburg_2007,Nurnberg,14,15,29,37
+2008-04-20,Nurnberg_Wolfsburg_2007,Wolfsburg,15,14,29,37
+2008-04-25,Ein Frankfurt_Dortmund_2007,Dortmund,14,16,30,38
+2008-04-25,Ein Frankfurt_Dortmund_2007,Ein Frankfurt,15,15,30,38
+2008-04-26,Bochum_Duisburg_2007,Duisburg,15,15,30,38
+2008-04-26,Hannover_Hertha_2007,Hannover,15,15,30,38
+2008-04-26,Hannover_Hertha_2007,Hertha,15,15,30,38
+2008-04-26,Hamburg_Schalke 04_2007,Hamburg,15,15,30,38
+2008-04-26,Karlsruhe_Werder Bremen_2007,Karlsruhe,15,15,30,38
+2008-04-26,Cottbus_Hansa Rostock_2007,Hansa Rostock,15,15,30,38
+2008-04-26,Karlsruhe_Werder Bremen_2007,Werder Bremen,15,15,30,38
+2008-04-26,Hamburg_Schalke 04_2007,Schalke 04,15,15,30,38
+2008-04-26,Nurnberg_Bielefeld_2007,Nurnberg,15,15,30,38
+2008-04-26,Nurnberg_Bielefeld_2007,Bielefeld,15,15,30,38
+2008-04-26,Cottbus_Hansa Rostock_2007,Cottbus,16,14,30,38
+2008-04-26,Bochum_Duisburg_2007,Bochum,15,15,30,38
+2008-04-27,Bayern Munich_Stuttgart_2007,Stuttgart,15,15,30,38
+2008-04-27,Leverkusen_Wolfsburg_2007,Wolfsburg,15,15,30,38
+2008-04-27,Leverkusen_Wolfsburg_2007,Leverkusen,15,15,30,38
+2008-04-27,Bayern Munich_Stuttgart_2007,Bayern Munich,15,15,30,38
+2008-05-02,Dortmund_Nurnberg_2007,Dortmund,15,16,31,39
+2008-05-02,Dortmund_Nurnberg_2007,Nurnberg,15,16,31,39
+2008-05-03,Bielefeld_Bochum_2007,Bochum,15,16,31,39
+2008-05-03,Stuttgart_Ein Frankfurt_2007,Ein Frankfurt,15,16,31,39
+2008-05-03,Hansa Rostock_Hamburg_2007,Hansa Rostock,16,15,31,39
+2008-05-03,Bielefeld_Bochum_2007,Bielefeld,16,15,31,39
+2008-05-03,Stuttgart_Ein Frankfurt_2007,Stuttgart,16,15,31,39
+2008-05-03,Schalke 04_Hannover_2007,Hannover,15,16,31,39
+2008-05-03,Hertha_Karlsruhe_2007,Karlsruhe,15,16,31,39
+2008-05-03,Werder Bremen_Cottbus_2007,Werder Bremen,16,15,31,39
+2008-05-03,Werder Bremen_Cottbus_2007,Cottbus,16,15,31,39
+2008-05-03,Hertha_Karlsruhe_2007,Hertha,16,15,31,39
+2008-05-03,Hansa Rostock_Hamburg_2007,Hamburg,15,16,31,39
+2008-05-03,Schalke 04_Hannover_2007,Schalke 04,16,15,31,39
+2008-05-04,Wolfsburg_Bayern Munich_2007,Bayern Munich,15,16,31,39
+2008-05-04,Duisburg_Leverkusen_2007,Leverkusen,15,16,31,39
+2008-05-04,Duisburg_Leverkusen_2007,Duisburg,16,15,31,39
+2008-05-04,Wolfsburg_Bayern Munich_2007,Wolfsburg,16,15,31,39
+2008-05-06,Dortmund_Stuttgart_2007,Stuttgart,16,16,32,40
+2008-05-06,Hannover_Hansa Rostock_2007,Hansa Rostock,16,16,32,40
+2008-05-06,Hannover_Hansa Rostock_2007,Hannover,16,16,32,40
+2008-05-06,Karlsruhe_Cottbus_2007,Karlsruhe,16,16,32,40
+2008-05-06,Dortmund_Stuttgart_2007,Dortmund,16,16,32,40
+2008-05-06,Bochum_Schalke 04_2007,Schalke 04,16,16,32,40
+2008-05-06,Bochum_Schalke 04_2007,Bochum,16,16,32,40
+2008-05-06,Karlsruhe_Cottbus_2007,Cottbus,16,16,32,40
+2008-05-07,Leverkusen_Hertha_2007,Hertha,16,16,32,40
+2008-05-07,Bayern Munich_Bielefeld_2007,Bayern Munich,16,16,32,40
+2008-05-07,Nurnberg_Duisburg_2007,Duisburg,16,16,32,40
+2008-05-07,Leverkusen_Hertha_2007,Leverkusen,16,16,32,40
+2008-05-07,Nurnberg_Duisburg_2007,Nurnberg,16,16,32,40
+2008-05-07,Ein Frankfurt_Wolfsburg_2007,Ein Frankfurt,16,16,32,40
+2008-05-07,Hamburg_Werder Bremen_2007,Hamburg,16,16,32,40
+2008-05-07,Hamburg_Werder Bremen_2007,Werder Bremen,16,16,32,40
+2008-05-07,Bayern Munich_Bielefeld_2007,Bielefeld,16,16,32,40
+2008-05-07,Ein Frankfurt_Wolfsburg_2007,Wolfsburg,16,16,32,40
+2008-05-10,Wolfsburg_Stuttgart_2007,Wolfsburg,17,16,33,40
+2008-05-10,Schalke 04_Ein Frankfurt_2007,Ein Frankfurt,16,17,33,40
+2008-05-10,Wolfsburg_Stuttgart_2007,Stuttgart,16,17,33,40
+2008-05-10,Werder Bremen_Hannover_2007,Werder Bremen,17,16,33,40
+2008-05-10,Hertha_Nurnberg_2007,Nurnberg,16,17,33,40
+2008-05-10,Werder Bremen_Hannover_2007,Hannover,16,17,33,40
+2008-05-10,Cottbus_Hamburg_2007,Cottbus,17,16,33,40
+2008-05-10,Karlsruhe_Bochum_2007,Karlsruhe,17,16,33,40
+2008-05-10,Duisburg_Bayern Munich_2007,Bayern Munich,16,17,33,40
+2008-05-10,Bielefeld_Dortmund_2007,Dortmund,16,17,33,40
+2008-05-10,Bielefeld_Dortmund_2007,Bielefeld,17,16,33,40
+2008-05-10,Schalke 04_Ein Frankfurt_2007,Schalke 04,17,16,33,40
+2008-05-10,Cottbus_Hamburg_2007,Hamburg,16,17,33,40
+2008-05-10,Hansa Rostock_Leverkusen_2007,Leverkusen,16,17,33,40
+2008-05-10,Duisburg_Bayern Munich_2007,Duisburg,17,16,33,40
+2008-05-10,Karlsruhe_Bochum_2007,Bochum,16,17,33,40
+2008-05-10,Hansa Rostock_Leverkusen_2007,Hansa Rostock,17,16,33,40
+2008-05-10,Hertha_Nurnberg_2007,Hertha,17,16,33,40
+2008-05-17,Stuttgart_Bielefeld_2007,Stuttgart,17,17,34,41
+2008-05-17,Bochum_Hansa Rostock_2007,Hansa Rostock,17,17,34,41
+2008-05-17,Nurnberg_Schalke 04_2007,Schalke 04,17,17,34,41
+2008-05-17,Ein Frankfurt_Duisburg_2007,Duisburg,17,17,34,41
+2008-05-17,Leverkusen_Werder Bremen_2007,Leverkusen,17,17,34,41
+2008-05-17,Hamburg_Karlsruhe_2007,Hamburg,17,17,34,41
+2008-05-17,Bochum_Hansa Rostock_2007,Bochum,17,17,34,41
+2008-05-17,Hamburg_Karlsruhe_2007,Karlsruhe,17,17,34,41
+2008-05-17,Leverkusen_Werder Bremen_2007,Werder Bremen,17,17,34,41
+2008-05-17,Hannover_Cottbus_2007,Cottbus,17,17,34,41
+2008-05-17,Bayern Munich_Hertha_2007,Bayern Munich,17,17,34,41
+2008-05-17,Bayern Munich_Hertha_2007,Hertha,17,17,34,41
+2008-05-17,Hannover_Cottbus_2007,Hannover,17,17,34,41
+2008-05-17,Stuttgart_Bielefeld_2007,Bielefeld,17,17,34,41
+2008-05-17,Dortmund_Wolfsburg_2007,Dortmund,17,17,34,41
+2008-05-17,Nurnberg_Schalke 04_2007,Nurnberg,17,17,34,41
+2008-05-17,Ein Frankfurt_Duisburg_2007,Ein Frankfurt,17,17,34,41
+2008-05-17,Dortmund_Wolfsburg_2007,Wolfsburg,17,17,34,41

@@ -1,0 +1,613 @@
+Date,idGame,team,Round_as_Home,Round_as_Away,Round_as_Total,Round_by_Week_Total
+2012-08-10,Willem II_NAC Breda_2012,NAC Breda,1,1,1,1
+2012-08-10,Willem II_NAC Breda_2012,Willem II,1,1,1,1
+2012-08-11,Roda_Zwolle_2012,Roda,1,1,1,1
+2012-08-11,Heracles_VVV Venlo_2012,VVV Venlo,1,1,1,1
+2012-08-11,Roda_Zwolle_2012,Zwolle,1,1,1,1
+2012-08-11,Waalwijk_PSV Eindhoven_2012,Waalwijk,1,1,1,1
+2012-08-11,Heracles_VVV Venlo_2012,Heracles,1,1,1,1
+2012-08-11,Waalwijk_PSV Eindhoven_2012,PSV Eindhoven,1,1,1,1
+2012-08-12,Ajax_AZ Alkmaar_2012,Ajax,1,1,1,1
+2012-08-12,Twente_Groningen_2012,Twente,1,1,1,1
+2012-08-12,Utrecht_Feyenoord_2012,Utrecht,1,1,1,1
+2012-08-12,Vitesse_Den Haag_2012,Den Haag,1,1,1,1
+2012-08-12,Utrecht_Feyenoord_2012,Feyenoord,1,1,1,1
+2012-08-12,Vitesse_Den Haag_2012,Vitesse,1,1,1,1
+2012-08-12,Heerenveen_Nijmegen_2012,Heerenveen,1,1,1,1
+2012-08-12,Twente_Groningen_2012,Groningen,1,1,1,1
+2012-08-12,Heerenveen_Nijmegen_2012,Nijmegen,1,1,1,1
+2012-08-12,Ajax_AZ Alkmaar_2012,AZ Alkmaar,1,1,1,1
+2012-08-18,Feyenoord_Heerenveen_2012,Feyenoord,1,1,2,2
+2012-08-18,Zwolle_Vitesse_2012,Zwolle,1,1,2,2
+2012-08-18,PSV Eindhoven_Roda_2012,PSV Eindhoven,1,1,2,2
+2012-08-18,Feyenoord_Heerenveen_2012,Heerenveen,1,1,2,2
+2012-08-18,PSV Eindhoven_Roda_2012,Roda,1,1,2,2
+2012-08-18,VVV Venlo_Utrecht_2012,VVV Venlo,1,1,2,2
+2012-08-18,NAC Breda_Twente_2012,Twente,1,1,2,2
+2012-08-18,Zwolle_Vitesse_2012,Vitesse,1,1,2,2
+2012-08-18,NAC Breda_Twente_2012,NAC Breda,1,1,2,2
+2012-08-18,VVV Venlo_Utrecht_2012,Utrecht,1,1,2,2
+2012-08-19,AZ Alkmaar_Heracles_2012,AZ Alkmaar,1,1,2,2
+2012-08-19,Groningen_Willem II_2012,Groningen,1,1,2,2
+2012-08-19,AZ Alkmaar_Heracles_2012,Heracles,1,1,2,2
+2012-08-19,Den Haag_Waalwijk_2012,Den Haag,1,1,2,2
+2012-08-19,Nijmegen_Ajax_2012,Ajax,1,1,2,2
+2012-08-19,Den Haag_Waalwijk_2012,Waalwijk,1,1,2,2
+2012-08-19,Groningen_Willem II_2012,Willem II,1,1,2,2
+2012-08-19,Nijmegen_Ajax_2012,Nijmegen,1,1,2,2
+2012-08-24,Waalwijk_Roda_2012,Roda,1,2,3,3
+2012-08-24,Waalwijk_Roda_2012,Waalwijk,2,1,3,3
+2012-08-25,Heracles_Feyenoord_2012,Feyenoord,1,2,3,3
+2012-08-25,Utrecht_Zwolle_2012,Utrecht,2,1,3,3
+2012-08-25,VVV Venlo_Den Haag_2012,Den Haag,1,2,3,3
+2012-08-25,VVV Venlo_Den Haag_2012,VVV Venlo,2,1,3,3
+2012-08-25,Ajax_NAC Breda_2012,NAC Breda,1,2,3,3
+2012-08-25,Ajax_NAC Breda_2012,Ajax,2,1,3,3
+2012-08-25,Heracles_Feyenoord_2012,Heracles,2,1,3,3
+2012-08-25,Utrecht_Zwolle_2012,Zwolle,1,2,3,3
+2012-08-26,Willem II_Vitesse_2012,Vitesse,1,2,3,3
+2012-08-26,Groningen_PSV Eindhoven_2012,Groningen,2,1,3,3
+2012-08-26,AZ Alkmaar_Heerenveen_2012,AZ Alkmaar,2,1,3,3
+2012-08-26,Nijmegen_Twente_2012,Twente,1,2,3,3
+2012-08-26,AZ Alkmaar_Heerenveen_2012,Heerenveen,1,2,3,3
+2012-08-26,Willem II_Vitesse_2012,Willem II,2,1,3,3
+2012-08-26,Nijmegen_Twente_2012,Nijmegen,2,1,3,3
+2012-08-26,Groningen_PSV Eindhoven_2012,PSV Eindhoven,1,2,3,3
+2012-08-31,Den Haag_Groningen_2012,Groningen,2,2,4,4
+2012-08-31,Den Haag_Groningen_2012,Den Haag,2,2,4,4
+2012-09-01,NAC Breda_Utrecht_2012,Utrecht,2,2,4,4
+2012-09-01,Roda_Willem II_2012,Willem II,2,2,4,4
+2012-09-01,Roda_Willem II_2012,Roda,2,2,4,4
+2012-09-01,Waalwijk_Heracles_2012,Waalwijk,3,1,4,4
+2012-09-01,Zwolle_Nijmegen_2012,Nijmegen,2,2,4,4
+2012-09-01,Waalwijk_Heracles_2012,Heracles,2,2,4,4
+2012-09-01,Zwolle_Nijmegen_2012,Zwolle,2,2,4,4
+2012-09-01,NAC Breda_Utrecht_2012,NAC Breda,2,2,4,4
+2012-09-02,Heerenveen_Ajax_2012,Ajax,2,2,4,4
+2012-09-02,Vitesse_Feyenoord_2012,Vitesse,2,2,4,4
+2012-09-02,Twente_VVV Venlo_2012,Twente,2,2,4,4
+2012-09-02,PSV Eindhoven_AZ Alkmaar_2012,AZ Alkmaar,2,2,4,4
+2012-09-02,Twente_VVV Venlo_2012,VVV Venlo,2,2,4,4
+2012-09-02,PSV Eindhoven_AZ Alkmaar_2012,PSV Eindhoven,2,2,4,4
+2012-09-02,Heerenveen_Ajax_2012,Heerenveen,2,2,4,4
+2012-09-02,Vitesse_Feyenoord_2012,Feyenoord,1,3,4,4
+2012-09-15,VVV Venlo_Nijmegen_2012,Nijmegen,2,3,5,6
+2012-09-15,Ajax_Waalwijk_2012,Waalwijk,3,2,5,6
+2012-09-15,Heerenveen_Den Haag_2012,Den Haag,2,3,5,6
+2012-09-15,Willem II_Twente_2012,Twente,2,3,5,6
+2012-09-15,VVV Venlo_Nijmegen_2012,VVV Venlo,3,2,5,6
+2012-09-15,Feyenoord_Zwolle_2012,Feyenoord,2,3,5,6
+2012-09-15,Willem II_Twente_2012,Willem II,3,2,5,6
+2012-09-15,Heerenveen_Den Haag_2012,Heerenveen,3,2,5,6
+2012-09-15,Ajax_Waalwijk_2012,Ajax,3,2,5,6
+2012-09-15,Feyenoord_Zwolle_2012,Zwolle,2,3,5,6
+2012-09-16,Heracles_NAC Breda_2012,Heracles,3,2,5,6
+2012-09-16,Heracles_NAC Breda_2012,NAC Breda,2,3,5,6
+2012-09-16,Groningen_Vitesse_2012,Groningen,3,2,5,6
+2012-09-16,Utrecht_PSV Eindhoven_2012,PSV Eindhoven,2,3,5,6
+2012-09-16,Utrecht_PSV Eindhoven_2012,Utrecht,3,2,5,6
+2012-09-16,AZ Alkmaar_Roda_2012,Roda,2,3,5,6
+2012-09-16,Groningen_Vitesse_2012,Vitesse,2,3,5,6
+2012-09-16,AZ Alkmaar_Roda_2012,AZ Alkmaar,3,2,5,6
+2012-09-21,Roda_Utrecht_2012,Utrecht,3,3,6,7
+2012-09-21,Roda_Utrecht_2012,Roda,3,3,6,7
+2012-09-22,Zwolle_Groningen_2012,Zwolle,3,3,6,7
+2012-09-22,Waalwijk_VVV Venlo_2012,VVV Venlo,3,3,6,7
+2012-09-22,Waalwijk_VVV Venlo_2012,Waalwijk,4,2,6,7
+2012-09-22,Nijmegen_Willem II_2012,Nijmegen,3,3,6,7
+2012-09-22,Nijmegen_Willem II_2012,Willem II,3,3,6,7
+2012-09-22,Vitesse_Heracles_2012,Vitesse,3,3,6,7
+2012-09-22,Vitesse_Heracles_2012,Heracles,3,3,6,7
+2012-09-22,Zwolle_Groningen_2012,Groningen,3,3,6,7
+2012-09-23,PSV Eindhoven_Feyenoord_2012,Feyenoord,2,4,6,7
+2012-09-23,Twente_Heerenveen_2012,Twente,3,3,6,7
+2012-09-23,Twente_Heerenveen_2012,Heerenveen,3,3,6,7
+2012-09-23,PSV Eindhoven_Feyenoord_2012,PSV Eindhoven,3,3,6,7
+2012-09-23,Den Haag_Ajax_2012,Den Haag,3,3,6,7
+2012-09-23,Den Haag_Ajax_2012,Ajax,3,3,6,7
+2012-09-23,NAC Breda_AZ Alkmaar_2012,AZ Alkmaar,3,3,6,7
+2012-09-23,NAC Breda_AZ Alkmaar_2012,NAC Breda,3,3,6,7
+2012-09-29,Utrecht_Vitesse_2012,Utrecht,4,3,7,8
+2012-09-29,Ajax_Twente_2012,Twente,3,4,7,8
+2012-09-29,Heracles_Den Haag_2012,Den Haag,3,4,7,8
+2012-09-29,Heerenveen_NAC Breda_2012,Heerenveen,4,3,7,8
+2012-09-29,Feyenoord_Nijmegen_2012,Nijmegen,3,4,7,8
+2012-09-29,Ajax_Twente_2012,Ajax,4,3,7,8
+2012-09-29,Feyenoord_Nijmegen_2012,Feyenoord,3,4,7,8
+2012-09-29,Heracles_Den Haag_2012,Heracles,4,3,7,8
+2012-09-29,Heerenveen_NAC Breda_2012,NAC Breda,3,4,7,8
+2012-09-29,Utrecht_Vitesse_2012,Vitesse,3,4,7,8
+2012-09-30,Willem II_Zwolle_2012,Willem II,4,3,7,8
+2012-09-30,AZ Alkmaar_Waalwijk_2012,AZ Alkmaar,4,3,7,8
+2012-09-30,VVV Venlo_PSV Eindhoven_2012,VVV Venlo,4,3,7,8
+2012-09-30,Groningen_Roda_2012,Roda,3,4,7,8
+2012-09-30,VVV Venlo_PSV Eindhoven_2012,PSV Eindhoven,3,4,7,8
+2012-09-30,Groningen_Roda_2012,Groningen,4,3,7,8
+2012-09-30,AZ Alkmaar_Waalwijk_2012,Waalwijk,4,3,7,8
+2012-09-30,Willem II_Zwolle_2012,Zwolle,3,4,7,8
+2012-10-05,Nijmegen_Den Haag_2012,Den Haag,3,5,8,9
+2012-10-05,Nijmegen_Den Haag_2012,Nijmegen,4,4,8,9
+2012-10-06,Zwolle_Heracles_2012,Zwolle,4,4,8,9
+2012-10-06,Willem II_Waalwijk_2012,Waalwijk,4,4,8,9
+2012-10-06,Vitesse_Heerenveen_2012,Vitesse,4,4,8,9
+2012-10-06,Zwolle_Heracles_2012,Heracles,4,4,8,9
+2012-10-06,Vitesse_Heerenveen_2012,Heerenveen,4,4,8,9
+2012-10-06,Roda_VVV Venlo_2012,Roda,4,4,8,9
+2012-10-06,Willem II_Waalwijk_2012,Willem II,5,3,8,9
+2012-10-06,Roda_VVV Venlo_2012,VVV Venlo,4,4,8,9
+2012-10-07,Twente_AZ Alkmaar_2012,AZ Alkmaar,4,4,8,9
+2012-10-07,PSV Eindhoven_NAC Breda_2012,NAC Breda,3,5,8,9
+2012-10-07,Ajax_Utrecht_2012,Utrecht,4,4,8,9
+2012-10-07,PSV Eindhoven_NAC Breda_2012,PSV Eindhoven,4,4,8,9
+2012-10-07,Groningen_Feyenoord_2012,Groningen,5,3,8,9
+2012-10-07,Ajax_Utrecht_2012,Ajax,5,3,8,9
+2012-10-07,Groningen_Feyenoord_2012,Feyenoord,3,5,8,9
+2012-10-07,Twente_AZ Alkmaar_2012,Twente,4,4,8,9
+2012-10-20,PSV Eindhoven_Willem II_2012,PSV Eindhoven,5,4,9,11
+2012-10-20,NAC Breda_Vitesse_2012,NAC Breda,4,5,9,11
+2012-10-20,Roda_Twente_2012,Roda,5,4,9,11
+2012-10-20,NAC Breda_Vitesse_2012,Vitesse,4,5,9,11
+2012-10-20,Heracles_Ajax_2012,Ajax,5,4,9,11
+2012-10-20,AZ Alkmaar_Nijmegen_2012,Nijmegen,4,5,9,11
+2012-10-20,PSV Eindhoven_Willem II_2012,Willem II,5,4,9,11
+2012-10-20,AZ Alkmaar_Nijmegen_2012,AZ Alkmaar,5,4,9,11
+2012-10-20,Heracles_Ajax_2012,Heracles,5,4,9,11
+2012-10-20,Roda_Twente_2012,Twente,4,5,9,11
+2012-10-21,Den Haag_Utrecht_2012,Den Haag,4,5,9,11
+2012-10-21,Den Haag_Utrecht_2012,Utrecht,4,5,9,11
+2012-10-21,VVV Venlo_Feyenoord_2012,VVV Venlo,5,4,9,11
+2012-10-21,Waalwijk_Zwolle_2012,Waalwijk,5,4,9,11
+2012-10-21,Heerenveen_Groningen_2012,Heerenveen,5,4,9,11
+2012-10-21,VVV Venlo_Feyenoord_2012,Feyenoord,3,6,9,11
+2012-10-21,Heerenveen_Groningen_2012,Groningen,5,4,9,11
+2012-10-21,Waalwijk_Zwolle_2012,Zwolle,4,5,9,11
+2012-10-26,Utrecht_Groningen_2012,Groningen,5,5,10,12
+2012-10-26,Utrecht_Groningen_2012,Utrecht,5,5,10,12
+2012-10-27,Nijmegen_Roda_2012,Roda,5,5,10,12
+2012-10-27,Nijmegen_Roda_2012,Nijmegen,5,5,10,12
+2012-10-27,Den Haag_Willem II_2012,Willem II,5,5,10,12
+2012-10-27,VVV Venlo_NAC Breda_2012,NAC Breda,4,6,10,12
+2012-10-27,Den Haag_Willem II_2012,Den Haag,5,5,10,12
+2012-10-27,VVV Venlo_NAC Breda_2012,VVV Venlo,6,4,10,12
+2012-10-28,Heracles_Heerenveen_2012,Heracles,6,4,10,12
+2012-10-28,Zwolle_PSV Eindhoven_2012,PSV Eindhoven,5,5,10,12
+2012-10-28,Waalwijk_Twente_2012,Waalwijk,6,4,10,12
+2012-10-28,Zwolle_PSV Eindhoven_2012,Zwolle,5,5,10,12
+2012-10-28,Vitesse_AZ Alkmaar_2012,Vitesse,5,5,10,12
+2012-10-28,Feyenoord_Ajax_2012,Feyenoord,4,6,10,12
+2012-10-28,Feyenoord_Ajax_2012,Ajax,5,5,10,12
+2012-10-28,Vitesse_AZ Alkmaar_2012,AZ Alkmaar,5,5,10,12
+2012-10-28,Heracles_Heerenveen_2012,Heerenveen,5,5,10,12
+2012-10-28,Waalwijk_Twente_2012,Twente,4,6,10,12
+2012-11-02,Roda_Den Haag_2012,Den Haag,5,6,11,13
+2012-11-02,Roda_Den Haag_2012,Roda,6,5,11,13
+2012-11-03,Ajax_Vitesse_2012,Ajax,6,5,11,13
+2012-11-03,Ajax_Vitesse_2012,Vitesse,5,6,11,13
+2012-11-03,Willem II_Utrecht_2012,Utrecht,5,6,11,13
+2012-11-03,PSV Eindhoven_Heracles_2012,PSV Eindhoven,6,5,11,13
+2012-11-03,PSV Eindhoven_Heracles_2012,Heracles,6,5,11,13
+2012-11-03,Willem II_Utrecht_2012,Willem II,6,5,11,13
+2012-11-04,NAC Breda_Waalwijk_2012,NAC Breda,5,6,11,13
+2012-11-04,Groningen_Nijmegen_2012,Nijmegen,5,6,11,13
+2012-11-04,Heerenveen_Zwolle_2012,Heerenveen,6,5,11,13
+2012-11-04,Twente_Feyenoord_2012,Twente,5,6,11,13
+2012-11-04,Groningen_Nijmegen_2012,Groningen,6,5,11,13
+2012-11-04,AZ Alkmaar_VVV Venlo_2012,AZ Alkmaar,6,5,11,13
+2012-11-04,NAC Breda_Waalwijk_2012,Waalwijk,6,5,11,13
+2012-11-04,AZ Alkmaar_VVV Venlo_2012,VVV Venlo,6,5,11,13
+2012-11-04,Twente_Feyenoord_2012,Feyenoord,4,7,11,13
+2012-11-04,Heerenveen_Zwolle_2012,Zwolle,5,6,11,13
+2012-11-09,NAC Breda_Groningen_2012,NAC Breda,6,6,12,14
+2012-11-09,NAC Breda_Groningen_2012,Groningen,6,6,12,14
+2012-11-10,Waalwijk_Utrecht_2012,Utrecht,5,7,12,14
+2012-11-10,Den Haag_AZ Alkmaar_2012,Den Haag,6,6,12,14
+2012-11-10,Nijmegen_Heracles_2012,Nijmegen,6,6,12,14
+2012-11-10,Den Haag_AZ Alkmaar_2012,AZ Alkmaar,6,6,12,14
+2012-11-10,VVV Venlo_Willem II_2012,Willem II,6,6,12,14
+2012-11-10,VVV Venlo_Willem II_2012,VVV Venlo,7,5,12,14
+2012-11-10,Waalwijk_Utrecht_2012,Waalwijk,7,5,12,14
+2012-11-10,Nijmegen_Heracles_2012,Heracles,6,6,12,14
+2012-11-11,Zwolle_Ajax_2012,Zwolle,6,6,12,14
+2012-11-11,Zwolle_Ajax_2012,Ajax,6,6,12,14
+2012-11-11,PSV Eindhoven_Heerenveen_2012,Heerenveen,6,6,12,14
+2012-11-11,Feyenoord_Roda_2012,Feyenoord,5,7,12,14
+2012-11-11,PSV Eindhoven_Heerenveen_2012,PSV Eindhoven,7,5,12,14
+2012-11-11,Vitesse_Twente_2012,Twente,5,7,12,14
+2012-11-11,Feyenoord_Roda_2012,Roda,6,6,12,14
+2012-11-11,Vitesse_Twente_2012,Vitesse,6,6,12,14
+2012-11-17,Heerenveen_Waalwijk_2012,Heerenveen,7,6,13,15
+2012-11-17,Den Haag_PSV Eindhoven_2012,PSV Eindhoven,7,6,13,15
+2012-11-17,Groningen_AZ Alkmaar_2012,Groningen,7,6,13,15
+2012-11-17,Zwolle_NAC Breda_2012,Zwolle,7,6,13,15
+2012-11-17,Zwolle_NAC Breda_2012,NAC Breda,6,7,13,15
+2012-11-17,Den Haag_PSV Eindhoven_2012,Den Haag,7,6,13,15
+2012-11-17,Groningen_AZ Alkmaar_2012,AZ Alkmaar,6,7,13,15
+2012-11-17,Ajax_VVV Venlo_2012,VVV Venlo,7,6,13,15
+2012-11-17,Heerenveen_Waalwijk_2012,Waalwijk,7,6,13,15
+2012-11-17,Ajax_VVV Venlo_2012,Ajax,7,6,13,15
+2012-11-18,Vitesse_Nijmegen_2012,Nijmegen,6,7,13,15
+2012-11-18,Utrecht_Twente_2012,Twente,5,8,13,15
+2012-11-18,Utrecht_Twente_2012,Utrecht,6,7,13,15
+2012-11-18,Heracles_Roda_2012,Heracles,7,6,13,15
+2012-11-18,Feyenoord_Willem II_2012,Feyenoord,6,7,13,15
+2012-11-18,Vitesse_Nijmegen_2012,Vitesse,7,6,13,15
+2012-11-18,Heracles_Roda_2012,Roda,6,7,13,15
+2012-11-18,Feyenoord_Willem II_2012,Willem II,6,7,13,15
+2012-11-23,NAC Breda_Den Haag_2012,NAC Breda,7,7,14,16
+2012-11-23,NAC Breda_Den Haag_2012,Den Haag,7,7,14,16
+2012-11-24,Waalwijk_Groningen_2012,Waalwijk,8,6,14,16
+2012-11-24,VVV Venlo_Heerenveen_2012,VVV Venlo,8,6,14,16
+2012-11-24,Willem II_Heracles_2012,Heracles,7,7,14,16
+2012-11-24,Nijmegen_Utrecht_2012,Nijmegen,7,7,14,16
+2012-11-24,Waalwijk_Groningen_2012,Groningen,7,7,14,16
+2012-11-24,Nijmegen_Utrecht_2012,Utrecht,6,8,14,16
+2012-11-24,Willem II_Heracles_2012,Willem II,7,7,14,16
+2012-11-24,VVV Venlo_Heerenveen_2012,Heerenveen,7,7,14,16
+2012-11-25,PSV Eindhoven_Vitesse_2012,PSV Eindhoven,8,6,14,16
+2012-11-25,AZ Alkmaar_Feyenoord_2012,Feyenoord,6,8,14,16
+2012-11-25,AZ Alkmaar_Feyenoord_2012,AZ Alkmaar,7,7,14,16
+2012-11-25,Roda_Ajax_2012,Roda,7,7,14,16
+2012-11-25,Twente_Zwolle_2012,Twente,6,8,14,16
+2012-11-25,PSV Eindhoven_Vitesse_2012,Vitesse,7,7,14,16
+2012-11-25,Roda_Ajax_2012,Ajax,7,7,14,16
+2012-11-25,Twente_Zwolle_2012,Zwolle,7,7,14,16
+2012-11-30,Zwolle_VVV Venlo_2012,VVV Venlo,8,7,15,17
+2012-11-30,Zwolle_VVV Venlo_2012,Zwolle,8,7,15,17
+2012-12-01,Ajax_PSV Eindhoven_2012,Ajax,8,7,15,17
+2012-12-01,Feyenoord_Waalwijk_2012,Waalwijk,8,7,15,17
+2012-12-01,Willem II_Heerenveen_2012,Willem II,8,7,15,17
+2012-12-01,Ajax_PSV Eindhoven_2012,PSV Eindhoven,8,7,15,17
+2012-12-01,Willem II_Heerenveen_2012,Heerenveen,7,8,15,17
+2012-12-01,Twente_Den Haag_2012,Twente,7,8,15,17
+2012-12-01,Twente_Den Haag_2012,Den Haag,7,8,15,17
+2012-12-01,Feyenoord_Waalwijk_2012,Feyenoord,7,8,15,17
+2012-12-02,Groningen_Heracles_2012,Groningen,8,7,15,17
+2012-12-02,Nijmegen_NAC Breda_2012,Nijmegen,8,7,15,17
+2012-12-02,Utrecht_AZ Alkmaar_2012,Utrecht,7,8,15,17
+2012-12-02,Vitesse_Roda_2012,Roda,7,8,15,17
+2012-12-02,Groningen_Heracles_2012,Heracles,7,8,15,17
+2012-12-02,Vitesse_Roda_2012,Vitesse,8,7,15,17
+2012-12-02,Utrecht_AZ Alkmaar_2012,AZ Alkmaar,7,8,15,17
+2012-12-02,Nijmegen_NAC Breda_2012,NAC Breda,7,8,15,17
+2012-12-07,Heracles_Utrecht_2012,Utrecht,7,9,16,18
+2012-12-07,Heracles_Utrecht_2012,Heracles,8,8,16,18
+2012-12-08,Den Haag_Zwolle_2012,Den Haag,8,8,16,18
+2012-12-08,Waalwijk_Nijmegen_2012,Nijmegen,8,8,16,18
+2012-12-08,Ajax_Groningen_2012,Ajax,9,7,16,18
+2012-12-08,Ajax_Groningen_2012,Groningen,8,8,16,18
+2012-12-08,Waalwijk_Nijmegen_2012,Waalwijk,9,7,16,18
+2012-12-08,AZ Alkmaar_Willem II_2012,Willem II,8,8,16,18
+2012-12-08,Den Haag_Zwolle_2012,Zwolle,8,8,16,18
+2012-12-08,AZ Alkmaar_Willem II_2012,AZ Alkmaar,8,8,16,18
+2012-12-09,NAC Breda_Feyenoord_2012,NAC Breda,8,8,16,18
+2012-12-09,PSV Eindhoven_Twente_2012,PSV Eindhoven,9,7,16,18
+2012-12-09,PSV Eindhoven_Twente_2012,Twente,7,9,16,18
+2012-12-09,VVV Venlo_Vitesse_2012,VVV Venlo,9,7,16,18
+2012-12-09,Heerenveen_Roda_2012,Roda,7,9,16,18
+2012-12-09,Heerenveen_Roda_2012,Heerenveen,8,8,16,18
+2012-12-09,VVV Venlo_Vitesse_2012,Vitesse,8,8,16,18
+2012-12-09,NAC Breda_Feyenoord_2012,Feyenoord,7,9,16,18
+2012-12-14,Twente_Heracles_2012,Twente,8,9,17,19
+2012-12-14,Twente_Heracles_2012,Heracles,8,9,17,19
+2012-12-15,Groningen_VVV Venlo_2012,VVV Venlo,9,8,17,19
+2012-12-15,Nijmegen_PSV Eindhoven_2012,PSV Eindhoven,9,8,17,19
+2012-12-15,Groningen_VVV Venlo_2012,Groningen,9,8,17,19
+2012-12-15,Zwolle_AZ Alkmaar_2012,AZ Alkmaar,8,9,17,19
+2012-12-15,Roda_NAC Breda_2012,Roda,8,9,17,19
+2012-12-15,Roda_NAC Breda_2012,NAC Breda,8,9,17,19
+2012-12-15,Nijmegen_PSV Eindhoven_2012,Nijmegen,9,8,17,19
+2012-12-15,Zwolle_AZ Alkmaar_2012,Zwolle,9,8,17,19
+2012-12-16,Utrecht_Heerenveen_2012,Utrecht,8,9,17,19
+2012-12-16,Utrecht_Heerenveen_2012,Heerenveen,8,9,17,19
+2012-12-16,Willem II_Ajax_2012,Ajax,9,8,17,19
+2012-12-16,Willem II_Ajax_2012,Willem II,9,8,17,19
+2012-12-16,Vitesse_Waalwijk_2012,Vitesse,9,8,17,19
+2012-12-16,Feyenoord_Den Haag_2012,Feyenoord,8,9,17,19
+2012-12-16,Vitesse_Waalwijk_2012,Waalwijk,9,8,17,19
+2012-12-16,Feyenoord_Den Haag_2012,Den Haag,8,9,17,19
+2012-12-21,AZ Alkmaar_Twente_2012,Twente,8,10,18,20
+2012-12-21,AZ Alkmaar_Twente_2012,AZ Alkmaar,9,9,18,20
+2012-12-22,NAC Breda_PSV Eindhoven_2012,PSV Eindhoven,9,9,18,20
+2012-12-22,Heerenveen_Vitesse_2012,Heerenveen,9,9,18,20
+2012-12-22,Heracles_Zwolle_2012,Heracles,9,9,18,20
+2012-12-22,NAC Breda_PSV Eindhoven_2012,NAC Breda,9,9,18,20
+2012-12-22,Den Haag_Nijmegen_2012,Nijmegen,9,9,18,20
+2012-12-22,Heerenveen_Vitesse_2012,Vitesse,9,9,18,20
+2012-12-22,Heracles_Zwolle_2012,Zwolle,9,9,18,20
+2012-12-22,Den Haag_Nijmegen_2012,Den Haag,9,9,18,20
+2012-12-23,Feyenoord_Groningen_2012,Groningen,9,9,18,20
+2012-12-23,VVV Venlo_Roda_2012,Roda,8,10,18,20
+2012-12-23,VVV Venlo_Roda_2012,VVV Venlo,10,8,18,20
+2012-12-23,Waalwijk_Willem II_2012,Willem II,9,9,18,20
+2012-12-23,Feyenoord_Groningen_2012,Feyenoord,9,9,18,20
+2012-12-23,Utrecht_Ajax_2012,Ajax,9,9,18,20
+2012-12-23,Utrecht_Ajax_2012,Utrecht,9,9,18,20
+2012-12-23,Waalwijk_Willem II_2012,Waalwijk,10,8,18,20
+2013-01-18,PSV Eindhoven_Zwolle_2012,Zwolle,9,10,19,24
+2013-01-18,PSV Eindhoven_Zwolle_2012,PSV Eindhoven,10,9,19,24
+2013-01-19,Twente_Waalwijk_2012,Waalwijk,10,9,19,24
+2013-01-19,Heerenveen_Heracles_2012,Heerenveen,10,9,19,24
+2013-01-19,NAC Breda_VVV Venlo_2012,NAC Breda,10,9,19,24
+2013-01-19,Heerenveen_Heracles_2012,Heracles,9,10,19,24
+2013-01-19,AZ Alkmaar_Vitesse_2012,AZ Alkmaar,10,9,19,24
+2013-01-19,Twente_Waalwijk_2012,Twente,9,10,19,24
+2013-01-19,AZ Alkmaar_Vitesse_2012,Vitesse,9,10,19,24
+2013-01-19,NAC Breda_VVV Venlo_2012,VVV Venlo,10,9,19,24
+2013-01-20,Roda_Nijmegen_2012,Roda,9,10,19,24
+2013-01-20,Ajax_Feyenoord_2012,Ajax,10,9,19,24
+2013-01-20,Groningen_Utrecht_2012,Groningen,10,9,19,24
+2013-01-20,Willem II_Den Haag_2012,Willem II,10,9,19,24
+2013-01-20,Ajax_Feyenoord_2012,Feyenoord,9,10,19,24
+2013-01-20,Willem II_Den Haag_2012,Den Haag,9,10,19,24
+2013-01-20,Roda_Nijmegen_2012,Nijmegen,9,10,19,24
+2013-01-20,Groningen_Utrecht_2012,Utrecht,9,10,19,24
+2013-01-25,VVV Venlo_AZ Alkmaar_2012,VVV Venlo,11,9,20,25
+2013-01-25,VVV Venlo_AZ Alkmaar_2012,AZ Alkmaar,10,10,20,25
+2013-01-26,Zwolle_Heerenveen_2012,Zwolle,10,10,20,25
+2013-01-26,Den Haag_Roda_2012,Roda,9,11,20,25
+2013-01-26,Heracles_PSV Eindhoven_2012,Heracles,10,10,20,25
+2013-01-26,Heracles_PSV Eindhoven_2012,PSV Eindhoven,10,10,20,25
+2013-01-26,Zwolle_Heerenveen_2012,Heerenveen,10,10,20,25
+2013-01-26,Den Haag_Roda_2012,Den Haag,10,10,20,25
+2013-01-26,Waalwijk_NAC Breda_2012,Waalwijk,11,9,20,25
+2013-01-26,Waalwijk_NAC Breda_2012,NAC Breda,10,10,20,25
+2013-01-27,Vitesse_Ajax_2012,Ajax,10,10,20,25
+2013-01-27,Nijmegen_Groningen_2012,Groningen,10,10,20,25
+2013-01-27,Feyenoord_Twente_2012,Twente,9,11,20,25
+2013-01-27,Vitesse_Ajax_2012,Vitesse,10,10,20,25
+2013-01-27,Utrecht_Willem II_2012,Utrecht,10,10,20,25
+2013-01-27,Nijmegen_Groningen_2012,Nijmegen,10,10,20,25
+2013-01-27,Utrecht_Willem II_2012,Willem II,10,10,20,25
+2013-01-27,Feyenoord_Twente_2012,Feyenoord,10,10,20,25
+2013-02-01,Waalwijk_Heerenveen_2012,Waalwijk,12,9,21,26
+2013-02-01,Waalwijk_Heerenveen_2012,Heerenveen,10,11,21,26
+2013-02-02,Roda_Heracles_2012,Roda,10,11,21,26
+2013-02-02,AZ Alkmaar_Groningen_2012,AZ Alkmaar,11,10,21,26
+2013-02-02,NAC Breda_Zwolle_2012,Zwolle,10,11,21,26
+2013-02-02,NAC Breda_Zwolle_2012,NAC Breda,11,10,21,26
+2013-02-02,Roda_Heracles_2012,Heracles,10,11,21,26
+2013-02-02,AZ Alkmaar_Groningen_2012,Groningen,10,11,21,26
+2013-02-02,PSV Eindhoven_Den Haag_2012,PSV Eindhoven,11,10,21,26
+2013-02-02,PSV Eindhoven_Den Haag_2012,Den Haag,10,11,21,26
+2013-02-03,VVV Venlo_Ajax_2012,VVV Venlo,12,9,21,26
+2013-02-03,Willem II_Feyenoord_2012,Willem II,11,10,21,26
+2013-02-03,VVV Venlo_Ajax_2012,Ajax,10,11,21,26
+2013-02-03,Twente_Utrecht_2012,Twente,10,11,21,26
+2013-02-03,Nijmegen_Vitesse_2012,Vitesse,10,11,21,26
+2013-02-03,Nijmegen_Vitesse_2012,Nijmegen,11,10,21,26
+2013-02-03,Willem II_Feyenoord_2012,Feyenoord,10,11,21,26
+2013-02-03,Twente_Utrecht_2012,Utrecht,10,11,21,26
+2013-02-09,Groningen_Waalwijk_2012,Groningen,11,11,22,27
+2013-02-09,Vitesse_PSV Eindhoven_2012,Vitesse,11,11,22,27
+2013-02-09,Vitesse_PSV Eindhoven_2012,PSV Eindhoven,11,11,22,27
+2013-02-09,Groningen_Waalwijk_2012,Waalwijk,12,10,22,27
+2013-02-09,Heracles_Willem II_2012,Willem II,11,11,22,27
+2013-02-09,Heerenveen_VVV Venlo_2012,VVV Venlo,12,10,22,27
+2013-02-09,Heerenveen_VVV Venlo_2012,Heerenveen,11,11,22,27
+2013-02-09,Den Haag_NAC Breda_2012,NAC Breda,11,11,22,27
+2013-02-09,Heracles_Willem II_2012,Heracles,11,11,22,27
+2013-02-09,Den Haag_NAC Breda_2012,Den Haag,11,11,22,27
+2013-02-10,Zwolle_Twente_2012,Zwolle,11,11,22,27
+2013-02-10,Zwolle_Twente_2012,Twente,10,12,22,27
+2013-02-10,Feyenoord_AZ Alkmaar_2012,AZ Alkmaar,11,11,22,27
+2013-02-10,Ajax_Roda_2012,Roda,10,12,22,27
+2013-02-10,Utrecht_Nijmegen_2012,Nijmegen,11,11,22,27
+2013-02-10,Utrecht_Nijmegen_2012,Utrecht,11,11,22,27
+2013-02-10,Feyenoord_AZ Alkmaar_2012,Feyenoord,11,11,22,27
+2013-02-10,Ajax_Roda_2012,Ajax,11,11,22,27
+2013-02-15,Nijmegen_VVV Venlo_2012,Nijmegen,12,11,23,28
+2013-02-15,Nijmegen_VVV Venlo_2012,VVV Venlo,12,11,23,28
+2013-02-16,NAC Breda_Heracles_2012,Heracles,11,12,23,28
+2013-02-16,PSV Eindhoven_Utrecht_2012,PSV Eindhoven,12,11,23,28
+2013-02-16,Twente_Willem II_2012,Willem II,11,12,23,28
+2013-02-16,Roda_AZ Alkmaar_2012,AZ Alkmaar,11,12,23,28
+2013-02-16,NAC Breda_Heracles_2012,NAC Breda,12,11,23,28
+2013-02-16,Twente_Willem II_2012,Twente,11,12,23,28
+2013-02-16,Roda_AZ Alkmaar_2012,Roda,11,12,23,28
+2013-02-16,PSV Eindhoven_Utrecht_2012,Utrecht,11,12,23,28
+2013-02-17,Waalwijk_Ajax_2012,Waalwijk,13,10,23,28
+2013-02-17,Den Haag_Heerenveen_2012,Heerenveen,11,12,23,28
+2013-02-17,Waalwijk_Ajax_2012,Ajax,11,12,23,28
+2013-02-17,Den Haag_Heerenveen_2012,Den Haag,12,11,23,28
+2013-02-17,Vitesse_Groningen_2012,Vitesse,12,11,23,28
+2013-02-17,Zwolle_Feyenoord_2012,Zwolle,12,11,23,28
+2013-02-17,Zwolle_Feyenoord_2012,Feyenoord,11,12,23,28
+2013-02-17,Vitesse_Groningen_2012,Groningen,11,12,23,28
+2013-02-22,Willem II_Nijmegen_2012,Willem II,12,12,24,29
+2013-02-22,Willem II_Nijmegen_2012,Nijmegen,12,12,24,29
+2013-02-23,Heerenveen_Twente_2012,Heerenveen,12,12,24,29
+2013-02-23,Heracles_Vitesse_2012,Heracles,12,12,24,29
+2013-02-23,VVV Venlo_Waalwijk_2012,VVV Venlo,13,11,24,29
+2013-02-23,Groningen_Zwolle_2012,Groningen,12,12,24,29
+2013-02-23,Heerenveen_Twente_2012,Twente,11,13,24,29
+2013-02-23,Heracles_Vitesse_2012,Vitesse,12,12,24,29
+2013-02-23,VVV Venlo_Waalwijk_2012,Waalwijk,13,11,24,29
+2013-02-23,Groningen_Zwolle_2012,Zwolle,12,12,24,29
+2013-02-24,Utrecht_Roda_2012,Utrecht,12,12,24,29
+2013-02-24,AZ Alkmaar_NAC Breda_2012,AZ Alkmaar,12,12,24,29
+2013-02-24,Feyenoord_PSV Eindhoven_2012,Feyenoord,12,12,24,29
+2013-02-24,Ajax_Den Haag_2012,Ajax,12,12,24,29
+2013-02-24,AZ Alkmaar_NAC Breda_2012,NAC Breda,12,12,24,29
+2013-02-24,Feyenoord_PSV Eindhoven_2012,PSV Eindhoven,12,12,24,29
+2013-02-24,Utrecht_Roda_2012,Roda,11,13,24,29
+2013-02-24,Ajax_Den Haag_2012,Den Haag,12,12,24,29
+2013-03-01,Vitesse_Utrecht_2012,Vitesse,13,12,25,30
+2013-03-01,Vitesse_Utrecht_2012,Utrecht,12,13,25,30
+2013-03-02,Twente_Ajax_2012,Ajax,12,13,25,30
+2013-03-02,PSV Eindhoven_VVV Venlo_2012,VVV Venlo,13,12,25,30
+2013-03-02,Zwolle_Willem II_2012,Willem II,12,13,25,30
+2013-03-02,Twente_Ajax_2012,Twente,12,13,25,30
+2013-03-02,NAC Breda_Heerenveen_2012,NAC Breda,13,12,25,30
+2013-03-02,PSV Eindhoven_VVV Venlo_2012,PSV Eindhoven,13,12,25,30
+2013-03-02,NAC Breda_Heerenveen_2012,Heerenveen,12,13,25,30
+2013-03-02,Zwolle_Willem II_2012,Zwolle,13,12,25,30
+2013-03-03,Roda_Groningen_2012,Roda,12,13,25,30
+2013-03-03,Nijmegen_Feyenoord_2012,Nijmegen,13,12,25,30
+2013-03-03,Roda_Groningen_2012,Groningen,12,13,25,30
+2013-03-03,Den Haag_Heracles_2012,Heracles,12,13,25,30
+2013-03-03,Waalwijk_AZ Alkmaar_2012,Waalwijk,14,11,25,30
+2013-03-03,Nijmegen_Feyenoord_2012,Feyenoord,12,13,25,30
+2013-03-03,Waalwijk_AZ Alkmaar_2012,AZ Alkmaar,12,13,25,30
+2013-03-03,Den Haag_Heracles_2012,Den Haag,13,12,25,30
+2013-03-08,Groningen_NAC Breda_2012,Groningen,13,13,26,31
+2013-03-08,Groningen_NAC Breda_2012,NAC Breda,13,13,26,31
+2013-03-09,Heracles_Nijmegen_2012,Nijmegen,13,13,26,31
+2013-03-09,Heerenveen_PSV Eindhoven_2012,PSV Eindhoven,13,13,26,31
+2013-03-09,AZ Alkmaar_Den Haag_2012,AZ Alkmaar,13,13,26,31
+2013-03-09,Willem II_VVV Venlo_2012,VVV Venlo,13,13,26,31
+2013-03-09,Heerenveen_PSV Eindhoven_2012,Heerenveen,13,13,26,31
+2013-03-09,AZ Alkmaar_Den Haag_2012,Den Haag,13,13,26,31
+2013-03-09,Heracles_Nijmegen_2012,Heracles,13,13,26,31
+2013-03-09,Willem II_VVV Venlo_2012,Willem II,13,13,26,31
+2013-03-10,Twente_Vitesse_2012,Twente,13,13,26,31
+2013-03-10,Ajax_Zwolle_2012,Ajax,13,13,26,31
+2013-03-10,Utrecht_Waalwijk_2012,Waalwijk,14,12,26,31
+2013-03-10,Roda_Feyenoord_2012,Feyenoord,12,14,26,31
+2013-03-10,Utrecht_Waalwijk_2012,Utrecht,13,13,26,31
+2013-03-10,Twente_Vitesse_2012,Vitesse,13,13,26,31
+2013-03-10,Roda_Feyenoord_2012,Roda,13,13,26,31
+2013-03-10,Ajax_Zwolle_2012,Zwolle,13,13,26,31
+2013-03-15,Zwolle_Roda_2012,Roda,13,14,27,32
+2013-03-15,Zwolle_Roda_2012,Zwolle,14,13,27,32
+2013-03-16,VVV Venlo_Heracles_2012,Heracles,13,14,27,32
+2013-03-16,Nijmegen_Heerenveen_2012,Heerenveen,13,14,27,32
+2013-03-16,PSV Eindhoven_Waalwijk_2012,PSV Eindhoven,14,13,27,32
+2013-03-16,PSV Eindhoven_Waalwijk_2012,Waalwijk,14,13,27,32
+2013-03-16,VVV Venlo_Heracles_2012,VVV Venlo,14,13,27,32
+2013-03-16,Nijmegen_Heerenveen_2012,Nijmegen,14,13,27,32
+2013-03-16,Den Haag_Vitesse_2012,Vitesse,13,14,27,32
+2013-03-16,Den Haag_Vitesse_2012,Den Haag,14,13,27,32
+2013-03-17,Groningen_Twente_2012,Groningen,14,13,27,32
+2013-03-17,Groningen_Twente_2012,Twente,13,14,27,32
+2013-03-17,NAC Breda_Willem II_2012,NAC Breda,14,13,27,32
+2013-03-17,Feyenoord_Utrecht_2012,Utrecht,13,14,27,32
+2013-03-17,AZ Alkmaar_Ajax_2012,Ajax,13,14,27,32
+2013-03-17,NAC Breda_Willem II_2012,Willem II,13,14,27,32
+2013-03-17,Feyenoord_Utrecht_2012,Feyenoord,13,14,27,32
+2013-03-17,AZ Alkmaar_Ajax_2012,AZ Alkmaar,14,13,27,32
+2013-03-30,Utrecht_VVV Venlo_2012,VVV Venlo,14,14,28,34
+2013-03-30,Willem II_Groningen_2012,Willem II,14,14,28,34
+2013-03-30,Willem II_Groningen_2012,Groningen,14,14,28,34
+2013-03-30,Twente_NAC Breda_2012,NAC Breda,14,14,28,34
+2013-03-30,Twente_NAC Breda_2012,Twente,14,14,28,34
+2013-03-30,Heerenveen_Feyenoord_2012,Feyenoord,13,15,28,34
+2013-03-30,Heerenveen_Feyenoord_2012,Heerenveen,14,14,28,34
+2013-03-30,Utrecht_VVV Venlo_2012,Utrecht,14,14,28,34
+2013-03-31,Ajax_Nijmegen_2012,Ajax,14,14,28,34
+2013-03-31,Heracles_AZ Alkmaar_2012,AZ Alkmaar,14,14,28,34
+2013-03-31,Roda_PSV Eindhoven_2012,Roda,14,14,28,34
+2013-03-31,Waalwijk_Den Haag_2012,Den Haag,14,14,28,34
+2013-03-31,Waalwijk_Den Haag_2012,Waalwijk,15,13,28,34
+2013-03-31,Ajax_Nijmegen_2012,Nijmegen,14,14,28,34
+2013-03-31,Roda_PSV Eindhoven_2012,PSV Eindhoven,14,14,28,34
+2013-03-31,Vitesse_Zwolle_2012,Zwolle,14,14,28,34
+2013-03-31,Heracles_AZ Alkmaar_2012,Heracles,14,14,28,34
+2013-03-31,Vitesse_Zwolle_2012,Vitesse,14,14,28,34
+2013-04-05,Feyenoord_VVV Venlo_2012,VVV Venlo,14,15,29,35
+2013-04-05,Feyenoord_VVV Venlo_2012,Feyenoord,14,15,29,35
+2013-04-06,Zwolle_Waalwijk_2012,Waalwijk,15,14,29,35
+2013-04-06,Twente_Roda_2012,Twente,15,14,29,35
+2013-04-06,Willem II_PSV Eindhoven_2012,Willem II,15,14,29,35
+2013-04-06,Willem II_PSV Eindhoven_2012,PSV Eindhoven,14,15,29,35
+2013-04-06,Vitesse_NAC Breda_2012,Vitesse,15,14,29,35
+2013-04-06,Vitesse_NAC Breda_2012,NAC Breda,14,15,29,35
+2013-04-06,Twente_Roda_2012,Roda,14,15,29,35
+2013-04-06,Zwolle_Waalwijk_2012,Zwolle,15,14,29,35
+2013-04-07,Nijmegen_AZ Alkmaar_2012,Nijmegen,15,14,29,35
+2013-04-07,Utrecht_Den Haag_2012,Utrecht,15,14,29,35
+2013-04-07,Groningen_Heerenveen_2012,Heerenveen,14,15,29,35
+2013-04-07,Groningen_Heerenveen_2012,Groningen,15,14,29,35
+2013-04-07,Utrecht_Den Haag_2012,Den Haag,14,15,29,35
+2013-04-07,Ajax_Heracles_2012,Ajax,15,14,29,35
+2013-04-07,Nijmegen_AZ Alkmaar_2012,AZ Alkmaar,14,15,29,35
+2013-04-07,Ajax_Heracles_2012,Heracles,14,15,29,35
+2013-04-12,VVV Venlo_Zwolle_2012,Zwolle,15,15,30,36
+2013-04-12,VVV Venlo_Zwolle_2012,VVV Venlo,15,15,30,36
+2013-04-13,Den Haag_Twente_2012,Den Haag,15,15,30,36
+2013-04-13,Roda_Vitesse_2012,Vitesse,15,15,30,36
+2013-04-13,Heracles_Groningen_2012,Heracles,15,15,30,36
+2013-04-13,NAC Breda_Nijmegen_2012,NAC Breda,15,15,30,36
+2013-04-13,Den Haag_Twente_2012,Twente,15,15,30,36
+2013-04-13,Roda_Vitesse_2012,Roda,15,15,30,36
+2013-04-13,Heracles_Groningen_2012,Groningen,15,15,30,36
+2013-04-13,NAC Breda_Nijmegen_2012,Nijmegen,15,15,30,36
+2013-04-14,AZ Alkmaar_Utrecht_2012,AZ Alkmaar,15,15,30,36
+2013-04-14,Heerenveen_Willem II_2012,Heerenveen,15,15,30,36
+2013-04-14,PSV Eindhoven_Ajax_2012,PSV Eindhoven,15,15,30,36
+2013-04-14,PSV Eindhoven_Ajax_2012,Ajax,15,15,30,36
+2013-04-14,Waalwijk_Feyenoord_2012,Feyenoord,14,16,30,36
+2013-04-14,AZ Alkmaar_Utrecht_2012,Utrecht,15,15,30,36
+2013-04-14,Waalwijk_Feyenoord_2012,Waalwijk,16,14,30,36
+2013-04-14,Heerenveen_Willem II_2012,Willem II,15,15,30,36
+2013-04-19,Ajax_Heerenveen_2012,Ajax,16,15,31,37
+2013-04-19,Ajax_Heerenveen_2012,Heerenveen,15,16,31,37
+2013-04-20,AZ Alkmaar_PSV Eindhoven_2012,PSV Eindhoven,15,16,31,37
+2013-04-20,AZ Alkmaar_PSV Eindhoven_2012,AZ Alkmaar,16,15,31,37
+2013-04-20,Willem II_Roda_2012,Willem II,16,15,31,37
+2013-04-20,Groningen_Den Haag_2012,Groningen,16,15,31,37
+2013-04-20,Heracles_Waalwijk_2012,Waalwijk,16,15,31,37
+2013-04-20,Heracles_Waalwijk_2012,Heracles,16,15,31,37
+2013-04-20,Groningen_Den Haag_2012,Den Haag,15,16,31,37
+2013-04-20,Willem II_Roda_2012,Roda,15,16,31,37
+2013-04-21,Feyenoord_Vitesse_2012,Vitesse,15,16,31,37
+2013-04-21,VVV Venlo_Twente_2012,Twente,15,16,31,37
+2013-04-21,Utrecht_NAC Breda_2012,NAC Breda,15,16,31,37
+2013-04-21,Nijmegen_Zwolle_2012,Nijmegen,16,15,31,37
+2013-04-21,VVV Venlo_Twente_2012,VVV Venlo,16,15,31,37
+2013-04-21,Feyenoord_Vitesse_2012,Feyenoord,15,16,31,37
+2013-04-21,Utrecht_NAC Breda_2012,Utrecht,16,15,31,37
+2013-04-21,Nijmegen_Zwolle_2012,Zwolle,15,16,31,37
+2013-04-26,Heerenveen_AZ Alkmaar_2012,Heerenveen,16,16,32,38
+2013-04-26,Heerenveen_AZ Alkmaar_2012,AZ Alkmaar,16,16,32,38
+2013-04-27,Den Haag_VVV Venlo_2012,Den Haag,16,16,32,38
+2013-04-27,PSV Eindhoven_Groningen_2012,Groningen,16,16,32,38
+2013-04-27,Den Haag_VVV Venlo_2012,VVV Venlo,16,16,32,38
+2013-04-27,Roda_Waalwijk_2012,Waalwijk,16,16,32,38
+2013-04-27,PSV Eindhoven_Groningen_2012,PSV Eindhoven,16,16,32,38
+2013-04-27,NAC Breda_Ajax_2012,NAC Breda,16,16,32,38
+2013-04-27,NAC Breda_Ajax_2012,Ajax,16,16,32,38
+2013-04-27,Roda_Waalwijk_2012,Roda,16,16,32,38
+2013-04-28,Zwolle_Utrecht_2012,Utrecht,16,16,32,38
+2013-04-28,Feyenoord_Heracles_2012,Heracles,16,16,32,38
+2013-04-28,Twente_Nijmegen_2012,Nijmegen,16,16,32,38
+2013-04-28,Feyenoord_Heracles_2012,Feyenoord,16,16,32,38
+2013-04-28,Twente_Nijmegen_2012,Twente,16,16,32,38
+2013-04-28,Vitesse_Willem II_2012,Willem II,16,16,32,38
+2013-04-28,Vitesse_Willem II_2012,Vitesse,16,16,32,38
+2013-04-28,Zwolle_Utrecht_2012,Zwolle,16,16,32,38
+2013-05-05,AZ Alkmaar_Zwolle_2012,Zwolle,16,17,33,39
+2013-05-05,PSV Eindhoven_Nijmegen_2012,PSV Eindhoven,17,16,33,39
+2013-05-05,Den Haag_Feyenoord_2012,Den Haag,17,16,33,39
+2013-05-05,AZ Alkmaar_Zwolle_2012,AZ Alkmaar,17,16,33,39
+2013-05-05,Heerenveen_Utrecht_2012,Utrecht,16,17,33,39
+2013-05-05,NAC Breda_Roda_2012,Roda,16,17,33,39
+2013-05-05,NAC Breda_Roda_2012,NAC Breda,17,16,33,39
+2013-05-05,Heracles_Twente_2012,Heracles,17,16,33,39
+2013-05-05,VVV Venlo_Groningen_2012,VVV Venlo,17,16,33,39
+2013-05-05,Heracles_Twente_2012,Twente,16,17,33,39
+2013-05-05,Heerenveen_Utrecht_2012,Heerenveen,17,16,33,39
+2013-05-05,PSV Eindhoven_Nijmegen_2012,Nijmegen,16,17,33,39
+2013-05-05,VVV Venlo_Groningen_2012,Groningen,16,17,33,39
+2013-05-05,Ajax_Willem II_2012,Ajax,17,16,33,39
+2013-05-05,Waalwijk_Vitesse_2012,Waalwijk,17,16,33,39
+2013-05-05,Den Haag_Feyenoord_2012,Feyenoord,16,17,33,39
+2013-05-05,Waalwijk_Vitesse_2012,Vitesse,16,17,33,39
+2013-05-05,Ajax_Willem II_2012,Willem II,16,17,33,39
+2013-05-12,Roda_Heerenveen_2012,Roda,17,17,34,40
+2013-05-12,Twente_PSV Eindhoven_2012,PSV Eindhoven,17,17,34,40
+2013-05-12,Nijmegen_Waalwijk_2012,Waalwijk,17,17,34,40
+2013-05-12,Vitesse_VVV Venlo_2012,Vitesse,17,17,34,40
+2013-05-12,Twente_PSV Eindhoven_2012,Twente,17,17,34,40
+2013-05-12,Vitesse_VVV Venlo_2012,VVV Venlo,17,17,34,40
+2013-05-12,Utrecht_Heracles_2012,Utrecht,17,17,34,40
+2013-05-12,Roda_Heerenveen_2012,Heerenveen,17,17,34,40
+2013-05-12,Willem II_AZ Alkmaar_2012,Willem II,17,17,34,40
+2013-05-12,Feyenoord_NAC Breda_2012,NAC Breda,17,17,34,40
+2013-05-12,Feyenoord_NAC Breda_2012,Feyenoord,17,17,34,40
+2013-05-12,Groningen_Ajax_2012,Ajax,17,17,34,40
+2013-05-12,Groningen_Ajax_2012,Groningen,17,17,34,40
+2013-05-12,Nijmegen_Waalwijk_2012,Nijmegen,17,17,34,40
+2013-05-12,Zwolle_Den Haag_2012,Den Haag,17,17,34,40
+2013-05-12,Willem II_AZ Alkmaar_2012,AZ Alkmaar,17,17,34,40
+2013-05-12,Utrecht_Heracles_2012,Heracles,17,17,34,40
+2013-05-12,Zwolle_Den Haag_2012,Zwolle,17,17,34,40
