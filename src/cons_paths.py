@@ -8,6 +8,7 @@ teams = "teams"
 rating_macro = "rating_macro"
 corrected_rating_macro = "corrected_rating_macro"
 round = "round"
+calendar = "calendar"
 rating_fixo_macro = "rating_fixo_macro"
 rating_dynamic = "rating_dynamic"
 

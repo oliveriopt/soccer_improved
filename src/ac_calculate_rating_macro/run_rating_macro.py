@@ -12,7 +12,8 @@ for league in cons_path.leagues:
 
 #Create correction in case the team is not in the season, SEE PAG 2/$ NGM equation
         correction_for_minima = CorrectionRating(league=league)
-        correction_for_minima .run()
+        correction_for_minima.run()
+# SFTER CALCULATE THE RATING MACRO INITIAL FOR THE YEAR TO STUDY
 
         rating_fixo = CalculateRatingFixoInitialEpoca(league=league)
         rating_fixo.run()
